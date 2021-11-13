@@ -10,7 +10,6 @@ html="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/htm
 
 echo $name
 mkdir -p $dir
-cd $dir
-  curl -L -O $csv
-  curl -L -O $html
-cd ~
+
+curl -L -o $dir/current.csv $csv
+erb country="$name" csvfile=$dir/current.csv -r csv -T- template/index.erb > $dir/index.html
