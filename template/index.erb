@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title><%= country %></title>
+    <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
+  </head>
+  <body>
+    <%- table=CSV.table(csvfile) -%>
+    <div id="officeholders">
+      <h1><%= country %></h1>
+      <dl>
+      <%- table.group_by { |row| row[:personid] }.each do |person, positions| -%>
+          <dt><%= positions.map { |mem| mem[:position] }.join('<br />') %></dt>
+          <dd>
+            <span class="toggle"></span>
+            <%= positions.first[:person] %>
+            <div class="bio">
+              <% unless positions.first[:image].to_s.empty? %><img class="bioimg" width="100" alt="image of <%= positions.first[:person] %> from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/<%= positions.first[:image].gsub(' ','%20') %>?width=100" /><% end %>
+              <ul>
+                <% unless positions.first[:gender].to_s.empty? %><li><%= positions.first[:gender] %></li><% end %>
+                <% unless positions.first[:dob].to_s.empty? %><li>born <%= positions.first[:dob] %></li><% end %>
+                <li>
+                  <% unless positions.first[:enwiki].to_s.empty? %><a href="https://en.wikipedia.org/wiki/<%= positions.first[:enwiki].gsub(' ', '_') %>"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a><% end %>
+                  <a href="https://www.wikidata.org/wiki/<%= positions.first[:personid] %>"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+        <%- end -%>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
+  </body>
+</html>
