@@ -1,23 +1,25 @@
-position,person,personID,start,gender,DOB,dobp,DOD,dodp,image
-President,Nikos Anastasiades,Q2112764,2013-02-28,male,1946-09-27,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Anastasiades.jpg
-"Minister of Agriculture, Rural Development and Environment",Kostas Kadis,Q5175045,2018-03-01,male,1967-08-30,11,,,
-Minister of Defence,Charalampos Petrides,Q57561010,2020-06-29,male,1974-10-19,11,,,
-"Minister of Education, Culture, Sports and Youth",Prodromos Prodromou,Q65553792,2019-12-03,male,1958-11-23,11,,,
-"Minister of Energy, Commerce and Industry",Natasa Pilides,Q86709198,2020-07-10,female,1980-12-18,11,,,
-Minister of Finance,Konstantinos Petrides,Q50364730,2019-12-03,male,1974-07-01,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Constantinos%20Petrides%2C%20Under%20Secretary%20to%20the%20President%20of%20Cyprus%20-%20Cyprus%20remains%20an%20attractive%20investment%20destination%20%288663102422%29.jpg
-Minister of Foreign Affairs,Nikos Christodoulides,Q48905549,2018-03-01,male,1973-12-06,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82%20%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%BF%CE%B4%CE%BF%CF%85%CE%BB%CE%AF%CE%B4%CE%B7%CF%82%2C%20March%202018%20%285827%29%20%28cropped%29.jpg
-Minister of Health,Michalis Catzipantelas,Q107355967,2021-07-02,male,,,,,
-Minister of Interior,Nikos Nouris,Q65091940,2019-12-03,male,1960-11-14,11,,,
-Minister of Justice and Public Order,Stephi Drakou,Q107355932,2021-07-02,female,,,,,
-"Minister of Labour, Welfare and Social Insurance",Zéta Aimilianídou,Q50364839,2014-04-14,female,1954-09-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Informal%20meeting%20of%20ministers%20for%20employment%2C%20social%20affairs%2C%20family%20and%20gender%20equality%20%28iEPSCO%29.%20Arrivals%20Georgia%20Emilianidou%20%2836020851185%29.jpg
-"Minister of Transport, Communications and Works",Yannis Karousos,Q56459522,2019-12-03,male,1979-11-21,11,,,
-"Deputy Minister of Research, Innovation and Digital Policy",Kyriakos Kokkinos,Q86705341,2020-03-01,male,,,,,
-Deputy Minister of Shipping,Vasilis Dimitriadis,Q97131330,2020-07-10,male,1972-03-15,11,,,
-Deputy Minister of Social Welfare,Anastasia Anthousi,Q107353685,2021-07-09,female,1977-01-01,9,,,
-Deputy Minister of Tourism,Savvas Perdios,Q86693722,2019-01-02,male,1981-08-01,10,,,
-Deputy Minister to the President,Vasilis Palmas,Q65581238,2017-05-08,male,1964-01-01,9,,,
-Government Spokesperson,Marios Pelekanos,Q107355506,2021-07-02,male,1979-08-21,11,,,
-President of the House of Representatives,Annita Demetriou,Q47984268,2021-06-10,female,1985-10-18,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Annita%20Demetriou.jpg
-Attorney General,George L. Savvides,Q65553109,2020-06-29,male,1959-01-01,9,,,
-Deputy Attorney General,Savvas Angelides,Q50364734,2020-06-29,male,1974-01-26,11,,,
-Chief of the General Staff,Demokritos Zervakis,Q109497893,2020-03-18,male,,,,,
+position,person,personID,start,gender,DOB,DOD,image,enwiki
+President,Nikos Anastasiades,Q2112764,2013-02-28,male,1946-09-27,,Anastasiades.jpg,Nicos Anastasiades
+"Minister of Agriculture, Rural Development and Environment",Kostas Kadis,Q5175045,2018-03-01,male,1967-08-30,,,Costas Kadis
+Minister of Defence,Charalampos Petrides,Q57561010,2020-06-29,male,1974-10-19,,,
+"Minister of Education, Culture, Sports and Youth",Prodromos Prodromou,Q65553792,2019-12-03,male,1958-11-23,,,
+"Minister of Energy, Commerce and Industry",Natasa Pilides,Q86709198,2020-07-10,female,1980-12-18,,,
+Minister of Finance,Konstantinos Petrides,Q50364730,2019-12-03,male,1974-07-01,,"Constantinos Petrides, Under Secretary to the President of Cyprus - Cyprus remains an attractive investment destination (8663102422).jpg",
+Minister of Foreign Affairs,Nikos Christodoulides,Q48905549,2018-03-01,male,1973-12-06,,"Νίκος Χριστοδουλίδης, March 2018 (5827) (cropped).jpg",Nikos Christodoulides
+Minister of Health,Michalis Catzipantelas,Q107355967,2021-07-02,male,,,,
+Minister of Interior,Nikos Nouris,Q65091940,2019-12-03,male,1960-11-14,,,
+Minister of Justice and Public Order,Stephi Drakou,Q107355932,2021-07-02,female,,,,
+"Minister of Labour, Welfare and Social Insurance",Zéta Aimilianídou,Q50364839,2014-04-14,female,1954-09-02,,"Informal meeting of ministers for employment, social affairs, family and gender equality (iEPSCO). Arrivals Georgia Emilianidou (36020851185).jpg",Zeta Emilianidou
+"Minister of Transport, Communications and Works",Yannis Karousos,Q56459522,2019-12-03,male,1979-11-21,,,
+Secretary of the Council of Ministers,Theodosis A. Tsiolas,Q109497781,2018-03-01,,,,,
+"Deputy Minister of Research, Innovation and Digital Policy",Kyriakos Kokkinos,Q86705341,2020-03-01,male,,,,
+Deputy Minister of Shipping,Vasilis Dimitriadis,Q97131330,2020-07-10,male,1972-03-15,,,
+Deputy Minister of Social Welfare,Anastasia Anthousi,Q107353685,2021-07-09,female,1977,,,
+Deputy Minister of Tourism,Savvas Perdios,Q86693722,2019-01-02,male,1981-08,,,
+Deputy Minister to the President,Vasilis Palmas,Q65581238,2017-05-08,male,1964,,,
+Government Spokesperson,Marios Pelekanos,Q107355506,2021-07-02,male,1979-08-21,,,
+Deputy Government Spokesperson,Niovi Parisinou,Q109497789,2018-03-01,,,,,
+President of the House of Representatives,Annita Demetriou,Q47984268,2021-06-10,female,1985-10-18,,Annita Demetriou.jpg,Annita Demetriou
+Attorney General,George L. Savvides,Q65553109,2020-06-29,male,1959,,,George L. Savvides
+Deputy Attorney General,Savvas Angelides,Q50364734,2020-06-29,male,1974-01-26,,,
+Chief of the General Staff,Demokritos Zervakis,Q109497893,2020-03-18,male,,,,

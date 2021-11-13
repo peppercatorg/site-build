@@ -4,154 +4,612 @@
     <meta charset="UTF-8">
     <title>Trinidad and Tobago</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Trinidad and Tobago</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Paula-Mae Weekes</td>
-      </tr>
-      <tr>
-        <td>Prime Minister</td>
-        <td>Keith Rowley</td>
-      </tr>
-      <tr>
-        <td>Minister of Agriculture, Land and Fisheries</td>
-        <td>Clarence Rambharat</td>
-      </tr>
-      <tr>
-        <td>Minister of Education</td>
-        <td>Nyan Gadsby-Dolly</td>
-      </tr>
-      <tr>
-        <td>Minister of Energy and Energy Industries<br />Minister in the Office of the Prime Minister</td>
-        <td>Stuart Young</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance</td>
-        <td>Colm Imbert</td>
-      </tr>
-      <tr>
-        <td>Minister of Foreign Affairs</td>
-        <td>Amery Browne</td>
-      </tr>
-      <tr>
-        <td>Minister of Health</td>
-        <td>Terrence Deyalsingh</td>
-      </tr>
-      <tr>
-        <td>Minister of Housing and Urban Development</td>
-        <td>Pennelope Beckles</td>
-      </tr>
-      <tr>
-        <td>Minister of Labour</td>
-        <td>Stephen Mc Clashie</td>
-      </tr>
-      <tr>
-        <td>Minister of National Security</td>
-        <td>Fitzgerald Hinds</td>
-      </tr>
-      <tr>
-        <td>Minister of Planning and Development</td>
-        <td>Camille Robinson-Regis</td>
-      </tr>
-      <tr>
-        <td>Minister of Public Administration and Digital Transformation</td>
-        <td>Allyson West</td>
-      </tr>
-      <tr>
-        <td>Minister of Public Utilities</td>
-        <td>Marvin Gonzales</td>
-      </tr>
-      <tr>
-        <td>Minister of Rural Development and Local Government</td>
-        <td>Kazim Hosein</td>
-      </tr>
-      <tr>
-        <td>Minister of Social Development and Family Services</td>
-        <td>Donna Cox</td>
-      </tr>
-      <tr>
-        <td>Minister of Sport and Community Development</td>
-        <td>Shamfa Cudjoe</td>
-      </tr>
-      <tr>
-        <td>Minister of Tourism, Culture and the Arts</td>
-        <td>Randall Mitchell</td>
-      </tr>
-      <tr>
-        <td>Minister of Trade and Industry</td>
-        <td>Paula Gopee-Scoon</td>
-      </tr>
-      <tr>
-        <td>Minister of Works and Transport</td>
-        <td>Rohan Sinanan</td>
-      </tr>
-      <tr>
-        <td>Minister of Youth Development and National Service</td>
-        <td>Foster Cummings</td>
-      </tr>
-      <tr>
-        <td>Minister in the Ministry of Agriculture, Land and Fisheries</td>
-        <td>Avinash Singh</td>
-      </tr>
-      <tr>
-        <td>Minister in the Ministry of Education</td>
-        <td>Lisa Morris-Julian</td>
-      </tr>
-      <tr>
-        <td>Minister in the Ministry of Finance</td>
-        <td>Brian Manning</td>
-      </tr>
-      <tr>
-        <td>Minister in the Ministry of Housing and Urban Development</td>
-        <td>Adrian Leonce</td>
-      </tr>
-      <tr>
-        <td>Minister in the Ministry of Public Administration and Digital Transformation</td>
-        <td>Hassel Bacchus</td>
-      </tr>
-      <tr>
-        <td>Minister in the Office of the Attorney General and Minister of Legal Affairs</td>
-        <td>Renuka Sagramsingh-Sooklal</td>
-      </tr>
-      <tr>
-        <td>Minister in the Office of the Prime Minister</td>
-        <td>Ayanna Webster-Roy</td>
-      </tr>
-      <tr>
-        <td>Minister in the Office of the Prime Minister</td>
-        <td>Symon de Nobriga</td>
-      </tr>
-      <tr>
-        <td>President of the Senate</td>
-        <td>Christine Kangaloo</td>
-      </tr>
-      <tr>
-        <td>Speaker of the House of Representatives</td>
-        <td>Bridgid Annisette-George</td>
-      </tr>
-      <tr>
-        <td>Chief Justice</td>
-        <td>Ivor Archie</td>
-      </tr>
-      <tr>
-        <td>Attorney-General</td>
-        <td>Faris Al-Rawi</td>
-      </tr>
-      <tr>
-        <td>Chief of Defence Staff</td>
-        <td>Darryl Daniel</td>
-      </tr>
-      <tr>
-        <td>Governor of the Central Bank</td>
-        <td>Alvin Hilaire</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Trinidad and Tobago</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Paula-Mae Weekes
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Paula-Mae Weekes from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/President%20Paul%20Mae-Weekes.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1958-12-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Paula-Mae_Weekes"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q47461098"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Keith Rowley
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Keith Rowley from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/KeithRowley.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1949-10-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Keith_Rowley"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q6384971"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Agriculture, Land and Fisheries</dt>
+          <dd>
+            <span class="toggle"></span>
+            Clarence Rambharat
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861273"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nyan Gadsby-Dolly
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504727"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Energy and Energy Industries<br />Minister in the Office of the Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Stuart Young
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504646"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Colm Imbert
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Colm Imbert from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Colm%20Imbert.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1957-07-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Colm_Imbert"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5147678"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Foreign Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Amery Browne
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Amery Browne from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Amery%20Browne.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861200"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Terrence Deyalsingh
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504625"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Housing and Urban Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Pennelope Beckles
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1961-09-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Pennelope_Beckles"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q37294256"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Labour</dt>
+          <dd>
+            <span class="toggle"></span>
+            Stephen Mc Clashie
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504654"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of National Security</dt>
+          <dd>
+            <span class="toggle"></span>
+            Fitzgerald Hinds
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504795"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Planning and Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Camille Robinson-Regis
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1958-05-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Camille_Robinson-Regis"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q43901152"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Public Administration and Digital Transformation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Allyson West
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861285"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Public Utilities</dt>
+          <dd>
+            <span class="toggle"></span>
+            Marvin Gonzales
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504750"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Rural Development and Local Government</dt>
+          <dd>
+            <span class="toggle"></span>
+            Kazim Hosein
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861248"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Social Development and Family Services</dt>
+          <dd>
+            <span class="toggle"></span>
+            Donna Cox
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861268"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Sport and Community Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Shamfa Cudjoe
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504665"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Tourism, Culture and the Arts</dt>
+          <dd>
+            <span class="toggle"></span>
+            Randall Mitchell
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861234"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Trade and Industry</dt>
+          <dd>
+            <span class="toggle"></span>
+            Paula Gopee-Scoon
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Paula Gopee-Scoon from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Barack%20Obama%20&%20Paula%20Gopee-Scoon%20at%20Piarco%20International%20Airport%204-19-09.JPG?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1958-04-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Paula_Gopee-Scoon"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1673889"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Works and Transport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Rohan Sinanan
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861221"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Youth Development and National Service</dt>
+          <dd>
+            <span class="toggle"></span>
+            Foster Cummings
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504794"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister in the Ministry of Agriculture, Land and Fisheries</dt>
+          <dd>
+            <span class="toggle"></span>
+            Avinash Singh
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861281"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister in the Ministry of Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Lisa Morris-Julian
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Lisa_Morris-Julian"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q107504770"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister in the Ministry of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Brian Manning
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504941"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister in the Ministry of Housing and Urban Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Adrian Leonce
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504948"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister in the Ministry of Public Administration and Digital Transformation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Hassel Bacchus
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861251"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister in the Office of the Attorney General and Minister of Legal Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Renuka Sagramsingh-Sooklal
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107861223"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister in the Office of the Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ayanna Webster-Roy
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ayanna_Webster-Roy"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q107504944"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister in the Office of the Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Symon de Nobriga
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107504628"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>President of the Senate</dt>
+          <dd>
+            <span class="toggle"></span>
+            Christine Kangaloo
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Christine_Kangaloo"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q97400315"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the House of Representatives</dt>
+          <dd>
+            <span class="toggle"></span>
+            Bridgid Annisette-George
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Bridgid Annisette-George from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Sen%20The%20Hon%20Mrs.%20Bridgid%20Annisette-George.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1958</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Bridgid_Annisette-George"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q22958412"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ivor Archie
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ivor_Archie"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q45363686"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Attorney-General</dt>
+          <dd>
+            <span class="toggle"></span>
+            Faris Al-Rawi
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Faris Al-Rawi from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Faris%20Al-Rawi,%202017.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1971-05-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Faris_Al-Rawi"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q22279937"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of Defence Staff</dt>
+          <dd>
+            <span class="toggle"></span>
+            Darryl Daniel
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q109538432"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Central Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alvin Hilaire
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q109538422"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

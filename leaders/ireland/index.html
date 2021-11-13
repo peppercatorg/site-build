@@ -4,126 +4,500 @@
     <meta charset="UTF-8">
     <title>Ireland</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Ireland</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Michael D. Higgins</td>
-      </tr>
-      <tr>
-        <td>Taoiseach</td>
-        <td>Micheál Martin</td>
-      </tr>
-      <tr>
-        <td>Tánaiste<br />Minister for Jobs, Enterprise and Innovation</td>
-        <td>Leo Varadkar</td>
-      </tr>
-      <tr>
-        <td>Minister for Agriculture, Food and the Marine</td>
-        <td>Charlie McConalogue</td>
-      </tr>
-      <tr>
-        <td>Minister for Children and Youth Affairs</td>
-        <td>Roderic O'Gorman</td>
-      </tr>
-      <tr>
-        <td>Minister for Communications, Climate Action and Environment<br />Minister for Transport, Tourism and Sport</td>
-        <td>Eamon Ryan</td>
-      </tr>
-      <tr>
-        <td>Minister for Community and Rural Affairs<br />Minister for Social Protection, Community and Rural Development and the Islands</td>
-        <td>Heather Humphreys</td>
-      </tr>
-      <tr>
-        <td>Minister for Defence<br />Minister for Foreign Affairs and Trade</td>
-        <td>Simon Coveney</td>
-      </tr>
-      <tr>
-        <td>Minister for Education and Skills</td>
-        <td>Norma Foley</td>
-      </tr>
-      <tr>
-        <td>Minister for Finance</td>
-        <td>Paschal Donohoe</td>
-      </tr>
-      <tr>
-        <td>Minister for Further and Higher Education, Research, Innovation and Science</td>
-        <td>Simon Harris</td>
-      </tr>
-      <tr>
-        <td>Minister for Health</td>
-        <td>Stephen Donnelly</td>
-      </tr>
-      <tr>
-        <td>Minister for Housing, Planning and Local Government</td>
-        <td>Darragh O'Brien</td>
-      </tr>
-      <tr>
-        <td>Minister for Justice and Equality</td>
-        <td>Helen McEntee</td>
-      </tr>
-      <tr>
-        <td>Minister for Public Expenditure and Reform</td>
-        <td>Michael McGrath</td>
-      </tr>
-      <tr>
-        <td>Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media</td>
-        <td>Catherine Martin</td>
-      </tr>
-      <tr>
-        <td>Minister of State at the Department of Defence<br />Minister of State at the Department of the Taoiseach<br />Minister of State with responsibility for Sport and the Gaeltacht</td>
-        <td>Jack Chambers</td>
-      </tr>
-      <tr>
-        <td>Minister of State at the Department of Education</td>
-        <td>Josepha Madigan</td>
-      </tr>
-      <tr>
-        <td>Minister of State for Rural Economic Development and Rural Transport</td>
-        <td>Ann Phelan</td>
-      </tr>
-      <tr>
-        <td>Minister of State for Tourism and Sport</td>
-        <td>Patrick O'Donovan</td>
-      </tr>
-      <tr>
-        <td>Cathaoirleach</td>
-        <td>Denis O'Donovan</td>
-      </tr>
-      <tr>
-        <td>Ceann Comhairle</td>
-        <td>Seán Ó Fearghaíl</td>
-      </tr>
-      <tr>
-        <td>Leas-Cheann Comhairle</td>
-        <td>Pat the Cope Gallagher</td>
-      </tr>
-      <tr>
-        <td>Leader of the Seanad</td>
-        <td>Regina Doherty</td>
-      </tr>
-      <tr>
-        <td>Attorney General</td>
-        <td>Paul Gallagher</td>
-      </tr>
-      <tr>
-        <td>Chief Justice</td>
-        <td>Donal O'Donnell</td>
-      </tr>
-      <tr>
-        <td>Governor of the Central Bank</td>
-        <td>Gabriel Makhlouf</td>
-      </tr>
-      <tr>
-        <td>Chief of Staff of the Defence Forces</td>
-        <td>Mark Mellett</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Ireland</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Michael D. Higgins
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Michael D. Higgins from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/President%20Higgins's%20visit%20FINIRISH%20BATT%20HQ,%20Lebanon%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1941-04-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Michael_D._Higgins"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q57276"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Taoiseach</dt>
+          <dd>
+            <span class="toggle"></span>
+            Micheál Martin
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Micheál Martin from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Micheál%20Martin%20TD%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1960-08-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Micheál_Martin"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q920403"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Tánaiste<br />Minister for Jobs, Enterprise and Innovation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Leo Varadkar
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Leo Varadkar from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Varadkar%20TD%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1979-01-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Leo_Varadkar"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1728820"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Agriculture, Food and the Marine</dt>
+          <dd>
+            <span class="toggle"></span>
+            Charlie McConalogue
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Charlie McConalogue from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20McConalogue%202011.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1977-10-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Charlie_McConalogue"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5085220"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Children and Youth Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Roderic O'Gorman
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Roderic O'Gorman from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Roderic%20O'Gorman.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1982-12-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Roderic_O'Gorman"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16980123"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Communications, Climate Action and Environment<br />Minister for Transport, Tourism and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Eamon Ryan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Eamon Ryan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Eamon%20Ryan%20Green%20Party.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1963-07-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Eamon_Ryan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q920195"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Community and Rural Affairs<br />Minister for Social Protection, Community and Rural Development and the Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Heather Humphreys
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Heather Humphreys from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Heather%20Humphreys%202016.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1963-05-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Heather_Humphreys"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5693903"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Defence<br />Minister for Foreign Affairs and Trade</dt>
+          <dd>
+            <span class="toggle"></span>
+            Simon Coveney
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Simon Coveney from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Coveney%202018.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-06-16</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Simon_Coveney"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1670096"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Education and Skills</dt>
+          <dd>
+            <span class="toggle"></span>
+            Norma Foley
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1970</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Norma_Foley"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q84768900"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Paschal Donohoe
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Paschal Donohoe from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Paschal%20Donohoe%20TD.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1974-09-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Paschal_Donohoe"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1271675"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Further and Higher Education, Research, Innovation and Science</dt>
+          <dd>
+            <span class="toggle"></span>
+            Simon Harris
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Simon Harris from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Harris%202012.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1986-10-17</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Simon_Harris_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7518922"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Stephen Donnelly
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Stephen Donnelly from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Donnelly%202016.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1975-12-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Stephen_Donnelly"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q13157830"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Housing, Planning and Local Government</dt>
+          <dd>
+            <span class="toggle"></span>
+            Darragh O'Brien
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Darragh O'Brien from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Darragh%20O'Brien.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1974-07-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Darragh_O'Brien"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1166562"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Justice and Equality</dt>
+          <dd>
+            <span class="toggle"></span>
+            Helen McEntee
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Helen McEntee from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Helen%20McEntee%20(39947643565)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1986-06-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Helen_McEntee"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q8939886"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Public Expenditure and Reform</dt>
+          <dd>
+            <span class="toggle"></span>
+            Michael McGrath
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Michael McGrath from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20McGrath%202014.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1976-08-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Michael_McGrath_(Irish_politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q6832712"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media</dt>
+          <dd>
+            <span class="toggle"></span>
+            Catherine Martin
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Catherine Martin from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20Martin%20TD.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1972-12-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Catherine_Martin_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q22966979"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of State at the Department of Defence<br />Minister of State at the Department of the Taoiseach<br />Minister of State with responsibility for Sport and the Gaeltacht</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jack Chambers
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Jack Chambers from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Chambers.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1990-11-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Jack_Chambers_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q23006318"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of State at the Department of Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Josepha Madigan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Josepha Madigan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Josepha%20Madigan.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1970-05-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Josepha_Madigan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q23006324"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of State for Rural Economic Development and Rural Transport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ann Phelan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ann Phelan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ann%20Phelan%202013.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1961-09-16</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ann_Phelan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4766625"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of State for Tourism and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Patrick O'Donovan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Patrick O'Donovan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20O'Donovan%20-%202018.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1977-03-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Patrick_O'Donovan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7147378"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Cathaoirleach</dt>
+          <dd>
+            <span class="toggle"></span>
+            Denis O'Donovan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Denis O'Donovan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Donovan6602.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1955-07-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Denis_O'Donovan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1187575"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Ceann Comhairle</dt>
+          <dd>
+            <span class="toggle"></span>
+            Seán Ó Fearghaíl
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Seán Ó Fearghaíl from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Seán%20Ó%20Fearghaíl%202016.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1960-04-17</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Seán_Ó_Fearghaíl"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7459627"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Leas-Cheann Comhairle</dt>
+          <dd>
+            <span class="toggle"></span>
+            Pat the Cope Gallagher
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Pat the Cope Gallagher from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20the%20Cope%20Gallagher%20MEP%201.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1948-03-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Pat_"the_Cope"_Gallagher"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q981866"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Leader of the Seanad</dt>
+          <dd>
+            <span class="toggle"></span>
+            Regina Doherty
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Regina Doherty from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Regina%20Doherty,%202017.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1971-01-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Regina_Doherty"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7308461"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Attorney General</dt>
+          <dd>
+            <span class="toggle"></span>
+            Paul Gallagher
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1955-03-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Paul_Gallagher_(barrister)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7150801"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Donal O'Donnell
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1958-04-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Donal_O'Donnell"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5293884"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Central Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gabriel Makhlouf
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Gabriel Makhlouf from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Makhlouf.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1960</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Gabriel_Makhlouf"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q75186229"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of Staff of the Defence Forces</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mark Mellett
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Mark Mellett from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Vice%20Admiral%20Mark%20Mellett%20DSM.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1958-11-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Mark_Mellett"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5475429"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

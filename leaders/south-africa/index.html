@@ -4,186 +4,740 @@
     <meta charset="UTF-8">
     <title>South Africa</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>South Africa</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Matamela Cyril Ramaphosa</td>
-      </tr>
-      <tr>
-        <td>Deputy President</td>
-        <td>David Dabede Mabuza</td>
-      </tr>
-      <tr>
-        <td>Minister of Agriculture, Land Reform and Rural Development</td>
-        <td>Thoko Didiza</td>
-      </tr>
-      <tr>
-        <td>Minister of Communications</td>
-        <td>Khumbudzo Ntshavheni</td>
-      </tr>
-      <tr>
-        <td>Minister of Cooperative Governance and Traditional Affairs</td>
-        <td>Nkosazana Dlamini-Zuma</td>
-      </tr>
-      <tr>
-        <td>Minister of Defence</td>
-        <td>Thandi Modise</td>
-      </tr>
-      <tr>
-        <td>Minister of Education</td>
-        <td>Angie Motshekga</td>
-      </tr>
-      <tr>
-        <td>Minister of Employment and Labour</td>
-        <td>Thulas Nxesi</td>
-      </tr>
-      <tr>
-        <td>Minister of Environment, Forestry and Fisheries</td>
-        <td>Barbara Creecy</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance</td>
-        <td>Enoch Godongwana</td>
-      </tr>
-      <tr>
-        <td>Minister of Health</td>
-        <td>Joseph Phaahla</td>
-      </tr>
-      <tr>
-        <td>Minister of Higher Education and Training</td>
-        <td>Blade Nzimande</td>
-      </tr>
-      <tr>
-        <td>Minister of Home Affairs</td>
-        <td>Aaron Motsoaledi</td>
-      </tr>
-      <tr>
-        <td>Minister of Human Settlements</td>
-        <td>Mmamoloko Kubayi</td>
-      </tr>
-      <tr>
-        <td>Minister of International Relations and Cooperation</td>
-        <td>Naledi Pandor</td>
-      </tr>
-      <tr>
-        <td>Minister of Justice and Constitutional Development</td>
-        <td>Ronald Lamola</td>
-      </tr>
-      <tr>
-        <td>Minister of Mineral Resources</td>
-        <td>Gwede Mantashe</td>
-      </tr>
-      <tr>
-        <td>Minister of Police</td>
-        <td>Bheki Cele</td>
-      </tr>
-      <tr>
-        <td>Minister in the Presidency</td>
-        <td>Mondli Gungubele</td>
-      </tr>
-      <tr>
-        <td>Minister of Public Enterprises</td>
-        <td>Pravin Gordhan</td>
-      </tr>
-      <tr>
-        <td>Minister of Public Service and Administration</td>
-        <td>Ayanda Dlodlo</td>
-      </tr>
-      <tr>
-        <td>Minister of Public Works</td>
-        <td>Patricia de Lille</td>
-      </tr>
-      <tr>
-        <td>Minister of Small Business Development</td>
-        <td>Stella Ndabeni-Abrahams</td>
-      </tr>
-      <tr>
-        <td>Minister of Social Development</td>
-        <td>Lindiwe Zulu</td>
-      </tr>
-      <tr>
-        <td>Minister of Sport and Recreation</td>
-        <td>Nathi Mthethwa</td>
-      </tr>
-      <tr>
-        <td>Minister of Tourism</td>
-        <td>Lindiwe Sisulu</td>
-      </tr>
-      <tr>
-        <td>Minister of Trade and Industry</td>
-        <td>Ebrahim Patel</td>
-      </tr>
-      <tr>
-        <td>Minister of Transport</td>
-        <td>Fikile Mbalula</td>
-      </tr>
-      <tr>
-        <td>Minister of Water and Sanitation</td>
-        <td>Senzo Mchunu</td>
-      </tr>
-      <tr>
-        <td>Minister of Women in the Presidency</td>
-        <td>Maite Nkoana-Mashabane</td>
-      </tr>
-      <tr>
-        <td>Speaker of the National Assembly</td>
-        <td>Nosiviwe Mapisa-Nqakula</td>
-      </tr>
-      <tr>
-        <td>Chief Justice</td>
-        <td>Raymond Zondo</td>
-      </tr>
-      <tr>
-        <td>Governor of the Reserve Bank</td>
-        <td>Lesetja Kganyago</td>
-      </tr>
-      <tr>
-        <td>Chief of the National Defence Force</td>
-        <td>Rudzani Maphwanya</td>
-      </tr>
-      <tr>
-        <td>Premier of the Eastern Cape</td>
-        <td>Oscar Mabuyane</td>
-      </tr>
-      <tr>
-        <td>Premier of the Free State</td>
-        <td>Sisi Ntombela</td>
-      </tr>
-      <tr>
-        <td>Premier of Gauteng</td>
-        <td>David Makhura</td>
-      </tr>
-      <tr>
-        <td>Premier of KwaZulu-Natal</td>
-        <td>Sihle Zikalala</td>
-      </tr>
-      <tr>
-        <td>Premier of Limpopo</td>
-        <td>Stanley Mathabatha</td>
-      </tr>
-      <tr>
-        <td>Premier of Mpumalanga</td>
-        <td>Refilwe Mtsweni</td>
-      </tr>
-      <tr>
-        <td>Premier of North West</td>
-        <td>Bushy Maape</td>
-      </tr>
-      <tr>
-        <td>Premier of the Northern Cape</td>
-        <td>Zamani Saul</td>
-      </tr>
-      <tr>
-        <td>Premier of the Western Cape</td>
-        <td>Alan Winde</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>South Africa</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Matamela Cyril Ramaphosa
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Matamela Cyril Ramaphosa from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Cyril%20Ramaphosa%20(29653248377)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1952-11-17</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Cyril_Ramaphosa"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1148669"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy President</dt>
+          <dd>
+            <span class="toggle"></span>
+            David Dabede Mabuza
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of David Dabede Mabuza from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/David%20Mabuza.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1960-08-25</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/David_Mabuza"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1174142"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Agriculture, Land Reform and Rural Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Thoko Didiza
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1965-06-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Thoko_Didiza"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7786663"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Communications</dt>
+          <dd>
+            <span class="toggle"></span>
+            Khumbudzo Ntshavheni
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1977-01-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Khumbudzo_Ntshavheni"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q64399456"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Cooperative Governance and Traditional Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nkosazana Dlamini-Zuma
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nkosazana Dlamini-Zuma from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Nkosazana%20Dlamini-Zuma%202009.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1949-01-27</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nkosazana_Dlamini-Zuma"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q150276"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Thandi Modise
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Thandi Modise from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Spotkanie%20premier%20Beaty%20Szydło%20z%20Thandi%20Modise%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1959-12-25</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Thandi_Modise"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1625605"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Angie Motshekga
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Angie Motshekga from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Minister%20Angie%20Motshekga.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1955-06-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Angie_Motshekga"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4763221"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Employment and Labour</dt>
+          <dd>
+            <span class="toggle"></span>
+            Thulas Nxesi
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1959-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Thulas_Nxesi"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16193273"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Environment, Forestry and Fisheries</dt>
+          <dd>
+            <span class="toggle"></span>
+            Barbara Creecy
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Barbara Creecy from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Creecy.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1958-06-17</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Barbara_Creecy"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q64711336"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Enoch Godongwana
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1957-06-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Enoch_Godongwana"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16746658"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Joseph Phaahla
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1957-01-11</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Joe_Phaahla"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q47530048"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Higher Education and Training</dt>
+          <dd>
+            <span class="toggle"></span>
+            Blade Nzimande
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Blade Nzimande from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Blade%20Nzimande%20-%20Unisa%20Roundtable.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1958-04-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Blade_Nzimande"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16765311"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Home Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Aaron Motsoaledi
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Aaron Motsoaledi from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Pakishe%20Aaron%20Motsoaledi,%20Minister%20of%20Health,%20South%20Africa.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1958-08-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Aaron_Motsoaledi"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q302359"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Human Settlements</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mmamoloko Kubayi
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Mmamoloko Kubayi from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Minister%20of%20Energy%20Mmamoloko%20Kubayi.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1978-05-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Mmamoloko_Kubayi-Ngubane"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16746680"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of International Relations and Cooperation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Naledi Pandor
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Naledi Pandor from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Naledi%20Pandor%202012.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1953-12-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Naledi_Pandor"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q11043304"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Justice and Constitutional Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ronald Lamola
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ronald Lamola from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ronald%20Lamola%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1983-11-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ronald_Lamola"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1718291"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Mineral Resources</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gwede Mantashe
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1955-06-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Gwede_Mantashe"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q975366"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Police</dt>
+          <dd>
+            <span class="toggle"></span>
+            Bheki Cele
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Bheki Cele from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Bheki%20Cele%20at%20press%20conference%20on%20crime%20at%20World%20Cup%202010-06-29%201.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1952-04-22</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Bheki_Cele"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4901661"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister in the Presidency</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mondli Gungubele
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1957-02-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Mondli_Gungubele"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16746664"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Public Enterprises</dt>
+          <dd>
+            <span class="toggle"></span>
+            Pravin Gordhan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Pravin Gordhan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Pravin%20Gordhan%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1949-04-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Pravin_Gordhan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q561279"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Public Service and Administration</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ayanda Dlodlo
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1963-05-22</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ayanda_Dlodlo"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q28839897"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Public Works</dt>
+          <dd>
+            <span class="toggle"></span>
+            Patricia de Lille
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Patricia de Lille from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Patricia%20de%20Lille.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1951-02-17</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Patricia_de_Lille"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q445654"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Small Business Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Stella Ndabeni-Abrahams
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Stella Ndabeni-Abrahams from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Stella%20Tembisa%20Ndabeni%20Abrahams%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1978-06-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Stella_Ndabeni-Abrahams"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q28086074"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Social Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Lindiwe Zulu
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Lindiwe Zulu from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Lindiwe%20Daphney%20Zulu%20Forum%20Session%20-%20High%20Level%20Panel%20Discussion.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1958-04-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Lindiwe_Zulu"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q20982109"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Sport and Recreation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nathi Mthethwa
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nathi Mthethwa from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Nkosinathi%20Mthethwa%20(43752407695)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-01-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nathi_Mthethwa"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1966829"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Tourism</dt>
+          <dd>
+            <span class="toggle"></span>
+            Lindiwe Sisulu
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Lindiwe Sisulu from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Lindiwe%20Sisulu%20in%20New%20York%20-%202018%20(44058077895)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1954-05-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Lindiwe_Sisulu"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3241428"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Trade and Industry</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ebrahim Patel
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ebrahim Patel from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ebrahim%20Patel%20-%20World%20Economic%20Forum%20on%20Africa%202011.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1962</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ebrahim_Patel"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5331984"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Transport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Fikile Mbalula
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1971-04-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Fikile_Mbalula"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1412305"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Water and Sanitation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Senzo Mchunu
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1958-04-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Senzo_Mchunu"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16192838"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Women in the Presidency</dt>
+          <dd>
+            <span class="toggle"></span>
+            Maite Nkoana-Mashabane
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Maite Nkoana-Mashabane from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/South%20African%20Foreign%20Minister%20Nkoana-Mashabane%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1963-09-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Maite_Nkoana-Mashabane"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q58160"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the National Assembly</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nosiviwe Mapisa-Nqakula
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nosiviwe Mapisa-Nqakula from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Nosiviwe%20Mapisa-Nqakula%20at%20the%20Pentagon%20Sept.%2012,%202012.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1956-11-13</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nosiviwe_Mapisa-Nqakula"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q510746"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Raymond Zondo
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Raymond Zondo from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Raymond%20Zondo.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1960-05-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ray_Zondo"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7299252"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Reserve Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Lesetja Kganyago
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Lesetja Kganyago from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Lesetja%20Kganyago.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1965-10-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Lesetja_Kganyago"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q19666670"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of the National Defence Force</dt>
+          <dd>
+            <span class="toggle"></span>
+            Rudzani Maphwanya
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1960-11-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Rudzani_Maphwanya"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q96106331"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of the Eastern Cape</dt>
+          <dd>
+            <span class="toggle"></span>
+            Oscar Mabuyane
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1974-02-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Oscar_Mabuyane"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q64009897"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of the Free State</dt>
+          <dd>
+            <span class="toggle"></span>
+            Sisi Ntombela
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Sisi Ntombela from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Sisi%20Ntombela.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1957-04-16</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Sisi_Ntombela"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q52151613"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of Gauteng</dt>
+          <dd>
+            <span class="toggle"></span>
+            David Makhura
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of David Makhura from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Premier%20David%20Makhura%20meets%20editor%20(2).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1968-02-22</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/David_Makhura"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q22279007"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of KwaZulu-Natal</dt>
+          <dd>
+            <span class="toggle"></span>
+            Sihle Zikalala
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Sihle Zikalala from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Sihle%20Zikalala%20(42785438050).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1973-08-06</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Sihle_Zikalala"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q63220969"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of Limpopo</dt>
+          <dd>
+            <span class="toggle"></span>
+            Stanley Mathabatha
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Stanley Mathabatha from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Limpopo%20Premier%20Chupu%20Stanley%20Mathabatha.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1957-01-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Stanley_Mathabatha"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27663072"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of Mpumalanga</dt>
+          <dd>
+            <span class="toggle"></span>
+            Refilwe Mtsweni
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Refilwe Mtsweni from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Refilwe%20Mtsweni-Tsipane.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1973-09-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Refilwe_Mtsweni-Tsipane"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q52707425"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of North West</dt>
+          <dd>
+            <span class="toggle"></span>
+            Bushy Maape
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Bushy_Maape"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q108129401"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of the Northern Cape</dt>
+          <dd>
+            <span class="toggle"></span>
+            Zamani Saul
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Zamani Saul from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Zamani%20Saul.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-03-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Zamani_Saul"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q63248078"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of the Western Cape</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alan Winde
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Alan Winde from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Winde.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1965-03-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Alan_Winde"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q28839658"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

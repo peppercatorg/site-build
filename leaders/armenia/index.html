@@ -1,88 +1,343 @@
-<meta charset="UTF-8">
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
     <title>Armenia</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Armenia</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Armen Sarkissian</td>
-      </tr>
-      <tr>
-        <td>Prime Minister</td>
-        <td>Nikol Pashinyan</td>
-      </tr>
-      <tr>
-        <td>Minister of Defence</td>
-        <td>Arshak Karapetyan</td>
-      </tr>
-      <tr>
-        <td>Minister of Economy</td>
-        <td>Vahan Kerobyan</td>
-      </tr>
-      <tr>
-        <td>Minister of Education and Science</td>
-        <td>Vahram Dumanyan</td>
-      </tr>
-      <tr>
-        <td>Minister of Emergency Situations</td>
-        <td>Andranik Piloyan</td>
-      </tr>
-      <tr>
-        <td>Minister of Environment</td>
-        <td>Romanos Petrosyan</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance</td>
-        <td>Tigran Khachatryan</td>
-      </tr>
-      <tr>
-        <td>Minister of Foreign Affairs</td>
-        <td>Ararat Mirzoyan</td>
-      </tr>
-      <tr>
-        <td>Minister of Health</td>
-        <td>Anahit Avanesian</td>
-      </tr>
-      <tr>
-        <td>Minister of High-Tech Industry</td>
-        <td>Vahagn Khachatryan</td>
-      </tr>
-      <tr>
-        <td>Minister of Justice</td>
-        <td>Karen Andreasyan</td>
-      </tr>
-      <tr>
-        <td>Minister of Labor and Social Affairs</td>
-        <td>Narek Mkrtchyan</td>
-      </tr>
-      <tr>
-        <td>Minister of Territorial Administration and Infrastructures</td>
-        <td>Gnel Sanosyan</td>
-      </tr>
-      <tr>
-        <td>Chief of the General Staff</td>
-        <td>Onik Gasparyan</td>
-      </tr>
-      <tr>
-        <td>President of the National Assembly</td>
-        <td>Alen Simonyan</td>
-      </tr>
-      <tr>
-        <td>Governor of the Central Bank</td>
-        <td>Martin Galstyan</td>
-      </tr>
-      <tr>
-        <td>Mayor of Yerevan</td>
-        <td>Hayk Marutyan</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Armenia</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Armen Sarkissian
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Armen Sarkissian from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Sarkissian%20armen%20profile.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1953-06-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Armen_Sarkissian"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q93153"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nikol Pashinyan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nikol Pashinyan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Besuch%20des%20Ministerpräsidenten%20von%20Armenien,%20Nikol%20Pashinyan,%20im%20Kölner%20Rathaus-2162.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1975-06-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nikol_Pashinyan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7035479"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Arshak Karapetyan
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1967-02-06</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Arshak_Karapetyan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q107605738"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Economy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Vahan Kerobyan
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1976-10-01</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q108315659"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education and Science</dt>
+          <dd>
+            <span class="toggle"></span>
+            Vahram Dumanyan
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1962-09-09</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q108315645"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Emergency Situations</dt>
+          <dd>
+            <span class="toggle"></span>
+            Andranik Piloyan
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1962</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q100691234"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Environment</dt>
+          <dd>
+            <span class="toggle"></span>
+            Romanos Petrosyan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Romanos Petrosyan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ռոմանոս%20Պետրոսյան.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1979-08-26</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q56121104"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Tigran Khachatryan
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1970-12-11</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q108315666"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Foreign Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ararat Mirzoyan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ararat Mirzoyan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Armenian%20Speaker%20Ararat%20Mirzoyan,%20Yerevan,%2025%20November%202019%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1979-11-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ararat_Mirzoyan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q31196321"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Anahit Avanesian
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1981-03-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Anahit_Avanesian"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q87244322"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of High-Tech Industry</dt>
+          <dd>
+            <span class="toggle"></span>
+            Vahagn Khachatryan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Vahagn Khachatryan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Vahagn%20Khachaturyan.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1959-04-22</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Vahagn_Khachaturyan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3553274"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Karen Andreasyan
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1977-09-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Karen_Andreasyan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q6369479"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Labor and Social Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Narek Mkrtchyan
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1989-06-20</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q63762730"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Territorial Administration and Infrastructures</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gnel Sanosyan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Gnel Sanosyan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Gnel%20Sanosyan.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1983-10-07</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q57269722"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of the General Staff</dt>
+          <dd>
+            <span class="toggle"></span>
+            Onik Gasparyan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Onik Gasparyan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Onik%20Gasparyan.jpeg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-01-06</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Onik_Gasparyan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q21210624"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>President of the National Assembly</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alen Simonyan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Alen Simonyan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Alen%20Simonyan.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1980-01-05</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Alen_Simonyan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q20513503"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Central Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Martin Galstyan
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q109452938"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Mayor of Yerevan</dt>
+          <dd>
+            <span class="toggle"></span>
+            Hayk Marutyan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Hayk Marutyan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Айк%20Марутян.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1976-12-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Hayk_Marutyan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5686767"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

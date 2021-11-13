@@ -4,138 +4,548 @@
     <meta charset="UTF-8">
     <title>Netherlands</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Netherlands</h1>
-    <table>
-      <tr>
-        <td>monarch</td>
-        <td>Willem-Alexander of the Netherlands</td>
-      </tr>
-      <tr>
-        <td>Prime Minister<br />Minister of General Affairs</td>
-        <td>Mark Rutte</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Public Health, Welfare and Sport</td>
-        <td>Hugo de Jonge</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Agriculture</td>
-        <td>Carola Schouten</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of the Interior and Kingdom Relations</td>
-        <td>Kajsa Ollongren</td>
-      </tr>
-      <tr>
-        <td>Minister of Defence</td>
-        <td>Henk Kamp</td>
-      </tr>
-      <tr>
-        <td>Minister of Economic Affairs and Climate Policy</td>
-        <td>Stef Blok</td>
-      </tr>
-      <tr>
-        <td>Minister of Education, Culture and Science</td>
-        <td>Ingrid van Engelshoven</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance</td>
-        <td>Wopke Hoekstra</td>
-      </tr>
-      <tr>
-        <td>Minister of Foreign Affairs</td>
-        <td>Ben Knapen</td>
-      </tr>
-      <tr>
-        <td>Minister for Foreign Trade and Development Cooperation</td>
-        <td>Tom de Bruijn</td>
-      </tr>
-      <tr>
-        <td>Minister of Infrastructure and Environment</td>
-        <td>Barbara Visser</td>
-      </tr>
-      <tr>
-        <td>Minister of Justice and Security</td>
-        <td>Ferdinand Grapperhaus</td>
-      </tr>
-      <tr>
-        <td>Minister for Legal Protection</td>
-        <td>Sander Dekker</td>
-      </tr>
-      <tr>
-        <td>Minister for Migration</td>
-        <td>Ankie Broekers-Knol</td>
-      </tr>
-      <tr>
-        <td>Minister for Primary and Secondary Education and Media</td>
-        <td>Arie Slob</td>
-      </tr>
-      <tr>
-        <td>Minister of Social Affairs</td>
-        <td>Wouter Koolmees</td>
-      </tr>
-      <tr>
-        <td>State Secretary for Economic Affairs and Climate Policy</td>
-        <td>Dilan Yeşilgöz-Zegerius</td>
-      </tr>
-      <tr>
-        <td>State Secretary for Finance</td>
-        <td>Alexandra van Huffelen</td>
-      </tr>
-      <tr>
-        <td>State Secretary for Finance</td>
-        <td>Hans Vijlbrief</td>
-      </tr>
-      <tr>
-        <td>State Secretary for Health, Welfare and Sport</td>
-        <td>Paul Blokhuis</td>
-      </tr>
-      <tr>
-        <td>State Secretary for Infrastructure and Water Management</td>
-        <td>Steven Van Weyenberg</td>
-      </tr>
-      <tr>
-        <td>State Secretary for Social Affairs and Employment</td>
-        <td>Dennis Wiersma</td>
-      </tr>
-      <tr>
-        <td>State Secretary for the Interior and Kingdom Relations</td>
-        <td>Raymond Knops</td>
-      </tr>
-      <tr>
-        <td>Minister Plenipotentiary of Aruba</td>
-        <td>Guillfred Besaril</td>
-      </tr>
-      <tr>
-        <td>Minister Plenipotentiary of Curaçao</td>
-        <td>Anthony Begina</td>
-      </tr>
-      <tr>
-        <td>Minister Plenipotentiary of Sint Maarten</td>
-        <td>Rene Violenus</td>
-      </tr>
-      <tr>
-        <td>President of the Senate</td>
-        <td>Jan Anthonie Bruijn</td>
-      </tr>
-      <tr>
-        <td>Speaker of the House of Representatives</td>
-        <td>Vera Bergkamp</td>
-      </tr>
-      <tr>
-        <td>President of De Nederlandsche Bank</td>
-        <td>Klaas Knot</td>
-      </tr>
-      <tr>
-        <td>Chief of Defence</td>
-        <td>Onno Eichelsheim</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Netherlands</h1>
+      <dl>
+          <dt>monarch</dt>
+          <dd>
+            <span class="toggle"></span>
+            Willem-Alexander of the Netherlands
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Willem-Alexander of the Netherlands from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Zijne%20Majesteit%20Koning%20Willem-Alexander%20met%20koningsmantel%20april%202013%20(cropped).jpeg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-04-27</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Willem-Alexander_of_the_Netherlands"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q154952"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister<br />Minister of General Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mark Rutte
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Mark Rutte from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Rutte%202015%20(1)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-02-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Mark_Rutte"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q57792"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Public Health, Welfare and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Hugo de Jonge
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Hugo de Jonge from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20de%20Jonge,%20EPP%20Summit%202019.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1977-09-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Hugo_de_Jonge"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2649226"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Agriculture</dt>
+          <dd>
+            <span class="toggle"></span>
+            Carola Schouten
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Carola Schouten from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Vicepremier%20Carola%20Schouten%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1977-10-06</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Carola_Schouten"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2625041"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of the Interior and Kingdom Relations</dt>
+          <dd>
+            <span class="toggle"></span>
+            Kajsa Ollongren
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Kajsa Ollongren from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ollongren2019.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1967-05-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Kajsa_Ollongren"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2776715"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Henk Kamp
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Henk Kamp from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Henk%20Kamp%202011.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1952-07-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Henk_Kamp"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q732818"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Economic Affairs and Climate Policy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Stef Blok
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Stef Blok from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Portretfoto's%20Stef%20Blok%20-%2040983747542.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1964-12-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Stef_Blok"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2858481"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education, Culture and Science</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ingrid van Engelshoven
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ingrid van Engelshoven from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20van%20Engelshoven%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1966-07-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ingrid_van_Engelshoven"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q510689"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Wopke Hoekstra
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Wopke Hoekstra from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/WopkeHoekstra2018.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1975-09-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Wopke_Hoekstra"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q14520235"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Foreign Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ben Knapen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ben Knapen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ben%20Knapen,%202021.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1951-01-06</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ben_Knapen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q347781"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Foreign Trade and Development Cooperation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Tom de Bruijn
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Tom de Bruijn from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20de%20Bruijn,%202021.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1948-10-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Tom_de_Bruijn"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27863937"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Infrastructure and Environment</dt>
+          <dd>
+            <span class="toggle"></span>
+            Barbara Visser
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Barbara Visser from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Visser.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1977-08-16</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Barbara_Visser"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1397858"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Justice and Security</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ferdinand Grapperhaus
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ferdinand Grapperhaus from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Grapperhaus%20(2018).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1959-11-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ferdinand_Grapperhaus"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2195581"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Legal Protection</dt>
+          <dd>
+            <span class="toggle"></span>
+            Sander Dekker
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Sander Dekker from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Persfoto%20Sander%20Dekker%202013.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1975-02-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Sander_Dekker"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q501714"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Migration</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ankie Broekers-Knol
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ankie Broekers-Knol from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Anneke%20Broekers-Knol%20-%202017%20(26189995419)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1946-11-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ankie_Broekers-Knol"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2609978"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Primary and Secondary Education and Media</dt>
+          <dd>
+            <span class="toggle"></span>
+            Arie Slob
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Arie Slob from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Arie%20Slob%202012.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1961-11-16</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Arie_Slob"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q658258"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Social Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Wouter Koolmees
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Wouter Koolmees from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Wouter-koolmees-1307974459.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1977-03-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Wouter_Koolmees"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2595414"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>State Secretary for Economic Affairs and Climate Policy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Dilan Yeşilgöz-Zegerius
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Dilan Yeşilgöz-Zegerius from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Yesilgoz2018.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1977-06-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Dilan_Yeşilgöz-Zegerius"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q28861002"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>State Secretary for Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alexandra van Huffelen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Alexandra van Huffelen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Alexandra%20van%20Huffelen%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1968-07-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Alexandra_van_Huffelen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2916448"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>State Secretary for Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Hans Vijlbrief
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Hans Vijlbrief from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/HansVijlbrief2020-cropped.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1963-08-17</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Hans_Vijlbrief"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q83779218"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>State Secretary for Health, Welfare and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Paul Blokhuis
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Paul Blokhuis from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Blokhuis.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1963-11-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Paul_Blokhuis"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2330840"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>State Secretary for Infrastructure and Water Management</dt>
+          <dd>
+            <span class="toggle"></span>
+            Steven Van Weyenberg
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Steven Van Weyenberg from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20van%20Weyenberg.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1973-03-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Steven_van_Weyenberg"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2481353"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>State Secretary for Social Affairs and Employment</dt>
+          <dd>
+            <span class="toggle"></span>
+            Dennis Wiersma
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Dennis Wiersma from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Dennis%20Wiersma,%20voorzitter%20FNV%20Jong,%20bij%20het%20congres%20FNV%20in%20Beweging,%2014%20en%2015%20mei%202013.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1986-02-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Dennis_Wiersma"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q28653560"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>State Secretary for the Interior and Kingdom Relations</dt>
+          <dd>
+            <span class="toggle"></span>
+            Raymond Knops
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Raymond Knops from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Uitreiking%20Stuiveling%20Open%20Data%20Award%20(SODA)%20(45117150741)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1971-11-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Raymond_Knops"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2125339"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister Plenipotentiary of Aruba</dt>
+          <dd>
+            <span class="toggle"></span>
+            Guillfred Besaril
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1974-01-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Guillfred_Besaril"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q47463588"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister Plenipotentiary of Curaçao</dt>
+          <dd>
+            <span class="toggle"></span>
+            Anthony Begina
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1954</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Anthony_Begina"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q96791264"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister Plenipotentiary of Sint Maarten</dt>
+          <dd>
+            <span class="toggle"></span>
+            Rene Violenus
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1967-09-11</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q97121761"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>President of the Senate</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jan Anthonie Bruijn
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Jan Anthonie Bruijn from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Anthonie%20Bruijn.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1958-02-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Jan_Anthonie_Bruijn"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1899440"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the House of Representatives</dt>
+          <dd>
+            <span class="toggle"></span>
+            Vera Bergkamp
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Vera Bergkamp from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Vera-Bergkamp.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1971-06-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Vera_Bergkamp"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3084300"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>President of De Nederlandsche Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Klaas Knot
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1967-04-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Klaas_Knot"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q631864"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Onno Eichelsheim
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1966</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Onno_Eichelsheim"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q94429161"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

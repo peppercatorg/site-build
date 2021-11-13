@@ -4,78 +4,308 @@
     <meta charset="UTF-8">
     <title>Iceland</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Iceland</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Guðni Jóhannesson</td>
-      </tr>
-      <tr>
-        <td>Prime Minister</td>
-        <td>Katrín Jakobsdóttir</td>
-      </tr>
-      <tr>
-        <td>Minister of Education, Science and Culture</td>
-        <td>Lilja Dögg Alfreðsdóttir</td>
-      </tr>
-      <tr>
-        <td>Minister for the Environment and Natural Resources</td>
-        <td>Guðmundur Ingi Guðbrandsson</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance and Economic Affairs</td>
-        <td>Bjarni Benediktsson</td>
-      </tr>
-      <tr>
-        <td>Minister of Fisheries and Agriculture</td>
-        <td>Kristján Þór Júlíusson</td>
-      </tr>
-      <tr>
-        <td>Minister for Foreign Affairs and International Development Cooperation</td>
-        <td>Guðlaugur Þór Þórðarson</td>
-      </tr>
-      <tr>
-        <td>Minister of Health</td>
-        <td>Svandís Svavarsdóttir</td>
-      </tr>
-      <tr>
-        <td>Minister of Justice</td>
-        <td>Áslaug Arna Sigurbjörnsdóttir</td>
-      </tr>
-      <tr>
-        <td>Minister for Nordic Cooperation<br />Minister of Transport and Local Government</td>
-        <td>Sigurður Ingi Jóhannsson</td>
-      </tr>
-      <tr>
-        <td>Minister of Social Affairs and Children</td>
-        <td>Ásmundur Einar Daðason</td>
-      </tr>
-      <tr>
-        <td>Minister of Tourism, Industry and Innovation</td>
-        <td>Þórdís Kolbrún R. Gylfadóttir</td>
-      </tr>
-      <tr>
-        <td>Speaker of the Althing</td>
-        <td>Steingrímur J. Sigfússon</td>
-      </tr>
-      <tr>
-        <td>Governor of the Central Bank</td>
-        <td>Asgeir Jonsson</td>
-      </tr>
-      <tr>
-        <td>Director General of the Coast Guard</td>
-        <td>Georg Lárusson</td>
-      </tr>
-      <tr>
-        <td>Mayor of Reykjavík</td>
-        <td>Dagur B. Eggertsson</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Iceland</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Guðni Jóhannesson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Guðni Jóhannesson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Guðni%20Th.%20Jóhannesson%20at%20the%20Enthronement%20of%20Naruhito%20(1).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1968-06-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Guðni_Th._Jóhannesson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q24045706"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Katrín Jakobsdóttir
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Katrín Jakobsdóttir from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Katrín%20Jakobsdóttir%20(24539871465)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1976-02-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Katrín_Jakobsdóttir"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q467464"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education, Science and Culture</dt>
+          <dd>
+            <span class="toggle"></span>
+            Lilja Dögg Alfreðsdóttir
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Lilja Dögg Alfreðsdóttir from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Lilja%20Dögg%20Alfreðsdóttir.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1973-10-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Lilja_Dögg_Alfreðsdóttir"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q23753778"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for the Environment and Natural Resources</dt>
+          <dd>
+            <span class="toggle"></span>
+            Guðmundur Ingi Guðbrandsson
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1977-03-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Guðmundur_Ingi_Guðbrandsson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q44216756"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Finance and Economic Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Bjarni Benediktsson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Bjarni Benediktsson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Bjarni%20Benediktsson%20vid%20Nordiska%20Radets%20session%20i%20Stockholm.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-01-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Bjarni_Benediktsson_(born_1970)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q879376"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Fisheries and Agriculture</dt>
+          <dd>
+            <span class="toggle"></span>
+            Kristján Þór Júlíusson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Kristján Þór Júlíusson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Kristjan%20thor%20Juliusson%20(Sj.)%20Island.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1957-07-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Kristján_Þór_Júlíusson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1789402"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Foreign Affairs and International Development Cooperation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Guðlaugur Þór Þórðarson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Guðlaugur Þór Þórðarson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Guðlaugur%20Þór%20Þórðarson%20(19-07-2021).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-12-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Guðlaugur_Þór_Þórðarson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1557735"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Svandís Svavarsdóttir
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Svandís Svavarsdóttir from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Islands%20miljominister%20Svandis%20Svavarsdottir.%20Nordiska%20radets%20session%20i%20Stockholm%202009.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1964-08-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Svandís_Svavarsdóttir"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q438056"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Áslaug Arna Sigurbjörnsdóttir
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Áslaug Arna Sigurbjörnsdóttir from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Aslaug-arna.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1990-11-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Áslaug_Arna_Sigurbjörnsdóttir"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27988721"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Nordic Cooperation<br />Minister of Transport and Local Government</dt>
+          <dd>
+            <span class="toggle"></span>
+            Sigurður Ingi Jóhannsson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Sigurður Ingi Jóhannsson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Sigurður%20Ingi%20Jóhannsson%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1962-04-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Sigurður_Ingi_Jóhannsson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q201075"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Social Affairs and Children</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ásmundur Einar Daðason
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ásmundur Einar Daðason from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ásmundur%20Einar%20Daðason.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1982-10-29</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ásmundur_Einar_Daðason"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q252565"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Tourism, Industry and Innovation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Þórdís Kolbrún R. Gylfadóttir
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1987-11-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Þórdís_Kolbrún_R._Gylfadóttir"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q28734624"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the Althing</dt>
+          <dd>
+            <span class="toggle"></span>
+            Steingrímur J. Sigfússon
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Steingrímur J. Sigfússon from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Steingrímur%20J.%20Sigfússon%20norden-1.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1955-08-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Steingrímur_J._Sigfússon"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q511882"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Central Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Asgeir Jonsson
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1970-06-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ásgeir_Jónsson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4804273"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Director General of the Coast Guard</dt>
+          <dd>
+            <span class="toggle"></span>
+            Georg Lárusson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Georg Lárusson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Lárusson.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1959-03-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Georg_Kr._Lárusson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3101322"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Mayor of Reykjavík</dt>
+          <dd>
+            <span class="toggle"></span>
+            Dagur B. Eggertsson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Dagur B. Eggertsson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/DagurBEggertsson.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-06-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Dagur_B._Eggertsson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1151234"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

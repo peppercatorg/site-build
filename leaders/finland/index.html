@@ -4,134 +4,532 @@
     <meta charset="UTF-8">
     <title>Finland</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Finland</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Sauli Niinistö</td>
-      </tr>
-      <tr>
-        <td>Prime Minister</td>
-        <td>Sanna Marin</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Finance</td>
-        <td>Annika Saarikko</td>
-      </tr>
-      <tr>
-        <td>Minister of Agriculture and Forestry</td>
-        <td>Jari Leppä</td>
-      </tr>
-      <tr>
-        <td>Minister of Defence</td>
-        <td>Antti Kaikkonen</td>
-      </tr>
-      <tr>
-        <td>Minister for Development Cooperation and Foreign Trade</td>
-        <td>Ville Skinnari</td>
-      </tr>
-      <tr>
-        <td>Minister of Economic Affairs</td>
-        <td>Mika Lintilä</td>
-      </tr>
-      <tr>
-        <td>Minister of Education</td>
-        <td>Li Andersson</td>
-      </tr>
-      <tr>
-        <td>Minister of Employment</td>
-        <td>Tuula Haatainen</td>
-      </tr>
-      <tr>
-        <td>Minister of the Environment and Climate Change</td>
-        <td>Krista Mikkonen</td>
-      </tr>
-      <tr>
-        <td>Minister for European Affairs, Culture and Sport</td>
-        <td>Tytti Tuppurainen</td>
-      </tr>
-      <tr>
-        <td>Minister of Family Affairs and Social Services</td>
-        <td>Krista Kiuru</td>
-      </tr>
-      <tr>
-        <td>Minister for Foreign Affairs</td>
-        <td>Pekka Haavisto</td>
-      </tr>
-      <tr>
-        <td>Minister of the Interior</td>
-        <td>Maria Ohisalo</td>
-      </tr>
-      <tr>
-        <td>Minister of Justice</td>
-        <td>Anna-Maja Henriksson</td>
-      </tr>
-      <tr>
-        <td>Minister of Local Government</td>
-        <td>Sirpa Paatero</td>
-      </tr>
-      <tr>
-        <td>Minister for Nordic Cooperation</td>
-        <td>Thomas Blomqvist</td>
-      </tr>
-      <tr>
-        <td>Minister of Science and Culture</td>
-        <td>Antti Kurvinen</td>
-      </tr>
-      <tr>
-        <td>Minister of Social Affairs and Health</td>
-        <td>Hanna Sarkkinen</td>
-      </tr>
-      <tr>
-        <td>Minister of Transport and Communications</td>
-        <td>Timo Harakka</td>
-      </tr>
-      <tr>
-        <td>Speaker of the Parliament</td>
-        <td>Anu Vehviläinen</td>
-      </tr>
-      <tr>
-        <td>Chancellor of Justice</td>
-        <td>Tuomas Pöysti</td>
-      </tr>
-      <tr>
-        <td>Deputy Chancellor of Justice</td>
-        <td>Mikko Puumalainen</td>
-      </tr>
-      <tr>
-        <td>Prosecutor General</td>
-        <td>Matti Nissinen</td>
-      </tr>
-      <tr>
-        <td>Chief of Defence</td>
-        <td>Timo Kivinen</td>
-      </tr>
-      <tr>
-        <td>Governor of the Bank of Finland</td>
-        <td>Olli Rehn</td>
-      </tr>
-      <tr>
-        <td>mayor of Helsinki</td>
-        <td>Jan Vapaavuori</td>
-      </tr>
-      <tr>
-        <td>mayor of Turku</td>
-        <td>Minna Arve</td>
-      </tr>
-      <tr>
-        <td>mayor of Oulu</td>
-        <td>Päivi Laajala</td>
-      </tr>
-      <tr>
-        <td>mayor of Tampere</td>
-        <td>Lauri Lyly</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Finland</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Sauli Niinistö
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Sauli Niinistö from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Sauli%20Niinistö%20at%20the%20Enthronement%20of%20Naruhito%20(1).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1948-08-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Sauli_Niinistö"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q29207"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Sanna Marin
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Sanna Marin from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20Finland%20Sanna%20Marin%202019%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1985-11-16</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Sanna_Marin"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16986436"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Annika Saarikko
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Annika Saarikko from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Annika%20Saarikko%202020%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1983-11-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Annika_Saarikko"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7045446"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Agriculture and Forestry</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jari Leppä
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Jari Leppä from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Jari%20Leppä%203%202020.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1959-06-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Jari_Leppä"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q11866066"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Antti Kaikkonen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Antti Kaikkonen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Kaikkonen%202015%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1974-02-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Antti_Kaikkonen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q11852109"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Development Cooperation and Foreign Trade</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ville Skinnari
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ville Skinnari from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ville%20Skinnari.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1974-02-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ville_Skinnari"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5485318"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Economic Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mika Lintilä
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Mika Lintilä from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Mika-Lintilä-3.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1966-04-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Mika_Lintilä"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16984784"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Li Andersson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Li Andersson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Li-Andersson-2%2013AUG2019%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1987-05-13</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Li_Andersson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4935864"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Employment</dt>
+          <dd>
+            <span class="toggle"></span>
+            Tuula Haatainen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Tuula Haatainen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Tuula%20Haatainen%20Feb%202020%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1960-02-11</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Tuula_Haatainen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q11898869"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of the Environment and Climate Change</dt>
+          <dd>
+            <span class="toggle"></span>
+            Krista Mikkonen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Krista Mikkonen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Krista%20Mikkonen%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1972-11-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Krista_Mikkonen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q11873020"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for European Affairs, Culture and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Tytti Tuppurainen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Tytti Tuppurainen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Tytti%20Tuppurainen%20(48137854342)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1976-02-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Tytti_Tuppurainen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q11898995"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Family Affairs and Social Services</dt>
+          <dd>
+            <span class="toggle"></span>
+            Krista Kiuru
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Krista Kiuru from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Krista%20Kiuru%20-%20February%202017%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1974-08-05</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Krista_Kiuru"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2332874"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Foreign Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Pekka Haavisto
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Pekka Haavisto from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/UM%20Haavisto%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1958-03-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Pekka_Haavisto"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q317485"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of the Interior</dt>
+          <dd>
+            <span class="toggle"></span>
+            Maria Ohisalo
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Maria Ohisalo from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Ohisalo%20portrait%202019.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1985-03-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Maria_Ohisalo"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q15281152"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Anna-Maja Henriksson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Anna-Maja Henriksson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Anna-Maja%20Henriksson-12%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1964-01-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Anna-Maja_Henriksson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2850448"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Local Government</dt>
+          <dd>
+            <span class="toggle"></span>
+            Sirpa Paatero
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Sirpa Paatero from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Sirpa%20Paatero-16.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1964-09-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Sirpa_Paatero"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16989600"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Nordic Cooperation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Thomas Blomqvist
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Thomas Blomqvist from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Blomqvist.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1965-01-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Thomas_Blomqvist"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5579704"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Science and Culture</dt>
+          <dd>
+            <span class="toggle"></span>
+            Antti Kurvinen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Antti Kurvinen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Antti%20Kurvinen.JPG?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1986-07-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Antti_Kurvinen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q11852135"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Social Affairs and Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Hanna Sarkkinen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Hanna Sarkkinen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Hanna%20Sarkkinen.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1988-04-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Hanna_Sarkkinen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16990389"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Transport and Communications</dt>
+          <dd>
+            <span class="toggle"></span>
+            Timo Harakka
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Timo Harakka from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Hallituksen%20tiedotustilaisuus%20valmiuslain%20käyttöönotosta%20ja%20rajavalvonnasta%2017.3.2020%20(49669027028)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1962-12-31</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Timo_Harakka"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16298585"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the Parliament</dt>
+          <dd>
+            <span class="toggle"></span>
+            Anu Vehviläinen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Anu Vehviläinen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Anu%20Vehviläinen.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1963-09-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Anu_Vehviläinen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4349014"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chancellor of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Tuomas Pöysti
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Tuomas Pöysti from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Hallituksen%20neuvottelut%20Säätytalossa%203.5.2020%20(49849289856).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-05-02</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q23040773"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Chancellor of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mikko Puumalainen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Mikko Puumalainen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Mikko%20Puumalainen%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1961-03-22</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q16989951"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prosecutor General</dt>
+          <dd>
+            <span class="toggle"></span>
+            Matti Nissinen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Matti Nissinen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Matti%20Nissinen.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1956</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q16989423"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Timo Kivinen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Timo Kivinen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Timo%20Kivinen%202020%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1959-12-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Timo_Kivinen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16299896"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Bank of Finland</dt>
+          <dd>
+            <span class="toggle"></span>
+            Olli Rehn
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Olli Rehn from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Olli%20Rehn%20by%20Moritz%20Kosinsky%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1962-03-31</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Olli_Rehn"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q294411"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>mayor of Helsinki</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jan Vapaavuori
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Jan Vapaavuori from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vapaavuori%20pormestari.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1965-04-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Jan_Vapaavuori"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q32219"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>mayor of Turku</dt>
+          <dd>
+            <span class="toggle"></span>
+            Minna Arve
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Minna Arve from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Minna%20Arve.JPG?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1974</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Minna_Arve"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q18632341"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>mayor of Oulu</dt>
+          <dd>
+            <span class="toggle"></span>
+            Päivi Laajala
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1961-05-21</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q28720770"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>mayor of Tampere</dt>
+          <dd>
+            <span class="toggle"></span>
+            Lauri Lyly
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Lauri Lyly from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Lauri%20Lyly.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1953-02-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Lauri_Lyly"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5391948"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

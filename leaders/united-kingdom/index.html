@@ -2,224 +2,886 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>the United Kingdom</title>
+    <title>United Kingdom</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>the United Kingdom</h1>
-    <table>
-      <tr>
-        <td>monarch</td>
-        <td>Elizabeth II</td>
-      </tr>
-      <tr>
-        <td>Prime Minister<br />First Lord of the Treasury<br />Minister for the Union<br />Minister for the Civil Service</td>
-        <td>Boris Johnson</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Lord Chancellor<br />Secretary of State for Justice</td>
-        <td>Dominic Raab</td>
-      </tr>
-      <tr>
-        <td>Chancellor of the Exchequer</td>
-        <td>Rishi Sunak</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Business, Energy and Industrial Strategy</td>
-        <td>Kwasi Kwarteng</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Culture, Media and Sport</td>
-        <td>Nadine Dorries</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Defence</td>
-        <td>Ben Wallace</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Education</td>
-        <td>Nadhim Zahawi</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Environment, Food and Rural Affairs</td>
-        <td>George Eustice</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Foreign and Commonwealth Affairs<br />Minister for Women and Equalities</td>
-        <td>Elizabeth Truss</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Health and Social Care</td>
-        <td>Sajid Javid</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for the Home Department</td>
-        <td>Priti Patel</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for International Trade</td>
-        <td>Anne-Marie Trevelyan</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Levelling Up, Housing and Communities<br />Minister for Intergovernmental Relations</td>
-        <td>Michael Gove</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Northern Ireland</td>
-        <td>Brandon Lewis</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Scotland</td>
-        <td>Alister Jack</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Transport</td>
-        <td>Grant Shapps</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Wales</td>
-        <td>Simon Hart</td>
-      </tr>
-      <tr>
-        <td>Secretary of State for Work and Pensions</td>
-        <td>Thérèse Coffey</td>
-      </tr>
-      <tr>
-        <td>Minister without Portfolio</td>
-        <td>Oliver Dowden</td>
-      </tr>
-      <tr>
-        <td>Minister for the Cabinet Office</td>
-        <td>David Frost</td>
-      </tr>
-      <tr>
-        <td>Minister for the Cabinet Office<br />Chancellor of the Duchy of Lancaster</td>
-        <td>Stephen Barclay</td>
-      </tr>
-      <tr>
-        <td>Minister for Crime and Policing</td>
-        <td>Kit Malthouse</td>
-      </tr>
-      <tr>
-        <td>Minister for Higher and Further Education</td>
-        <td>Michelle Donelan</td>
-      </tr>
-      <tr>
-        <td>Minister of State at the Cabinet Office</td>
-        <td>Nicholas True, Baron True</td>
-      </tr>
-      <tr>
-        <td>Minister of State at the Cabinet Office</td>
-        <td>Nigel Adams</td>
-      </tr>
-      <tr>
-        <td>Chief Secretary to the Treasury</td>
-        <td>Simon Clarke</td>
-      </tr>
-      <tr>
-        <td>COP26 President</td>
-        <td>Alok Sharma</td>
-      </tr>
-      <tr>
-        <td>Attorney General</td>
-        <td>Suella Braverman</td>
-      </tr>
-      <tr>
-        <td>Lord Privy Seal<br />Leader of the House of Lords</td>
-        <td>Natalie Evans, Baroness Evans</td>
-      </tr>
-      <tr>
-        <td>Lord President of the Council<br />Leader of the House of Commons</td>
-        <td>Jacob Rees-Mogg</td>
-      </tr>
-      <tr>
-        <td>Parliamentary Secretary to the Treasury (Chief Whip)</td>
-        <td>Mark Spencer</td>
-      </tr>
-      <tr>
-        <td>Lord Speaker (Speaker of the House of Lords)</td>
-        <td>John McFall, Baron McFall of Alcluith</td>
-      </tr>
-      <tr>
-        <td>Speaker of the House of Commons</td>
-        <td>Lindsay Hoyle</td>
-      </tr>
-      <tr>
-        <td>Governor of the Bank of England</td>
-        <td>Andrew Bailey</td>
-      </tr>
-      <tr>
-        <td>Chief of the General Staff</td>
-        <td>Mark Carleton-Smith</td>
-      </tr>
-      <tr>
-        <td>Governor of the Cayman Islands</td>
-        <td>Helen Kilpatrick</td>
-      </tr>
-      <tr>
-        <td>Governor of the Cayman Islands</td>
-        <td>Anwar Choudhury</td>
-      </tr>
-      <tr>
-        <td>Governor of the Cayman Islands</td>
-        <td>Martyn Roper</td>
-      </tr>
-      <tr>
-        <td>Premier of the Cayman Islands</td>
-        <td>Wayne Panton</td>
-      </tr>
-      <tr>
-        <td>Governor of the Falkland Islands</td>
-        <td>Nigel Phillips</td>
-      </tr>
-      <tr>
-        <td>Chief Executive of the Falkland Islands</td>
-        <td>Andy Keeling</td>
-      </tr>
-      <tr>
-        <td>Governor of Montserrat</td>
-        <td>Andrew Pearce</td>
-      </tr>
-      <tr>
-        <td>Premier of Montserrat</td>
-        <td>Easton Taylor-Farrell</td>
-      </tr>
-      <tr>
-        <td>Governor of the Turks and Caicos Islands</td>
-        <td>Nigel Dakin</td>
-      </tr>
-      <tr>
-        <td>Premier of the Turks and Caicos Islands</td>
-        <td>Washington Misick</td>
-      </tr>
-      <tr>
-        <td>Governor of the Virgin Islands</td>
-        <td>John Duncan</td>
-      </tr>
-      <tr>
-        <td>Governor of the Virgin Islands</td>
-        <td>John Rankin</td>
-      </tr>
-      <tr>
-        <td>Premier of the Virgin Islands</td>
-        <td>Andrew Fahie</td>
-      </tr>
-      <tr>
-        <td>Governor of Pitcairn</td>
-        <td>Laura Clarke</td>
-      </tr>
-      <tr>
-        <td>Mayor of Pitcairn</td>
-        <td>Charlene Warren-Peu</td>
-      </tr>
-      <tr>
-        <td>Mayor of London</td>
-        <td>Sadiq Khan</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>United Kingdom</h1>
+      <dl>
+          <dt>monarch</dt>
+          <dd>
+            <span class="toggle"></span>
+            Elizabeth II
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Elizabeth II from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Elizabeth%20II%20in%20March%202015.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1926-04-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Elizabeth_II"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q9682"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister<br />First Lord of the Treasury<br />Minister for the Union<br />Minister for the Civil Service</dt>
+          <dd>
+            <span class="toggle"></span>
+            Boris Johnson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Boris Johnson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Boris%20Johnson%20official%20portrait%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1964-06-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Boris_Johnson"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q180589"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Lord Chancellor<br />Secretary of State for Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Dominic Raab
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Dominic Raab from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Dominic%20Raab%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1974-02-25</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Dominic_Raab"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q268584"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chancellor of the Exchequer</dt>
+          <dd>
+            <span class="toggle"></span>
+            Rishi Sunak
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Rishi Sunak from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Chancellor%20Rishi%20Sunak%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1980-05-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Rishi_Sunak"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q20055561"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Business, Energy and Industrial Strategy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Kwasi Kwarteng
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Kwasi Kwarteng from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Kwasi%20Kwarteng%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1975-05-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Kwasi_Kwarteng"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q750204"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Culture, Media and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nadine Dorries
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nadine Dorries from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Ms%20Nadine%20Dorries%20crop%202.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1957-05-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nadine_Dorries"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q258586"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ben Wallace
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ben Wallace from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Ben%20Wallace%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-05-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ben_Wallace_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q263166"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nadhim Zahawi
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nadhim Zahawi from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Nadhim%20Zahawi%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-06-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nadhim_Zahawi"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q259361"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Environment, Food and Rural Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            George Eustice
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of George Eustice from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20George%20Eustice%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1971-09-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/George_Eustice"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q303510"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Foreign and Commonwealth Affairs<br />Minister for Women and Equalities</dt>
+          <dd>
+            <span class="toggle"></span>
+            Elizabeth Truss
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Elizabeth Truss from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Elizabeth%20Truss%20crop%202.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1975-07-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Liz_Truss"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q272201"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Health and Social Care</dt>
+          <dd>
+            <span class="toggle"></span>
+            Sajid Javid
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Sajid Javid from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Sajid%20Javid%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1969-12-05</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Sajid_Javid"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q727798"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for the Home Department</dt>
+          <dd>
+            <span class="toggle"></span>
+            Priti Patel
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Priti Patel from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Priti%20Patel%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1972-03-29</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Priti_Patel"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q575733"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for International Trade</dt>
+          <dd>
+            <span class="toggle"></span>
+            Anne-Marie Trevelyan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Anne-Marie Trevelyan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Mrs%20Anne-Marie%20Trevelyan%20crop%202.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1969-04-06</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Anne-Marie_Trevelyan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q20648244"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Levelling Up, Housing and Communities<br />Minister for Intergovernmental Relations</dt>
+          <dd>
+            <span class="toggle"></span>
+            Michael Gove
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Michael Gove from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Michael%20Gove%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-08-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Michael_Gove"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q333937"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Northern Ireland</dt>
+          <dd>
+            <span class="toggle"></span>
+            Brandon Lewis
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Brandon Lewis from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Brandon%20Lewis%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1971-06-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Brandon_Lewis"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q749687"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Scotland</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alister Jack
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Alister Jack from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Mr%20Alister%20Jack%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1963-07-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Alister_Jack"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q30165682"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Transport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Grant Shapps
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Grant Shapps from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Grant%20Shapps%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1968-09-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Grant_Shapps"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q478596"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Wales</dt>
+          <dd>
+            <span class="toggle"></span>
+            Simon Hart
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Simon Hart from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Simon%20Hart%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1963-08-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Simon_Hart"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q478345"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Secretary of State for Work and Pensions</dt>
+          <dd>
+            <span class="toggle"></span>
+            Thérèse Coffey
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Thérèse Coffey from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Dr%20Thérèse%20Coffey%20crop%202.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1971-11-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Thérèse_Coffey"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q290554"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister without Portfolio</dt>
+          <dd>
+            <span class="toggle"></span>
+            Oliver Dowden
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Oliver Dowden from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Oliver%20Dowden%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1978-08-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Oliver_Dowden"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q19957590"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for the Cabinet Office</dt>
+          <dd>
+            <span class="toggle"></span>
+            David Frost
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of David Frost from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lord%20Frost%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1965-02-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/David_Frost,_Baron_Frost"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q5233879"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for the Cabinet Office<br />Chancellor of the Duchy of Lancaster</dt>
+          <dd>
+            <span class="toggle"></span>
+            Stephen Barclay
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Stephen Barclay from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Steve%20Barclay%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-05-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Stephen_Barclay"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q260546"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Crime and Policing</dt>
+          <dd>
+            <span class="toggle"></span>
+            Kit Malthouse
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Kit Malthouse from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Kit%20Malthouse%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1966-10-27</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Kit_Malthouse"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q6417459"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Higher and Further Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Michelle Donelan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Michelle Donelan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Michelle%20Donelan%20crop%202.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1984-04-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Michelle_Donelan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q19872694"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of State at the Cabinet Office</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nicholas True, Baron True
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nicholas True, Baron True from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Lord%20True%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1951-07-31</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nicholas_True,_Baron_True"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1741653"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of State at the Cabinet Office</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nigel Adams
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nigel Adams from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Nigel%20Adams%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1966-11-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nigel_Adams"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q258292"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief Secretary to the Treasury</dt>
+          <dd>
+            <span class="toggle"></span>
+            Simon Clarke
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Simon Clarke from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Mr%20Simon%20Clarke%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1984-09-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Simon_Clarke_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q30228118"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>COP26 President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alok Sharma
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Alok Sharma from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Alok%20Sharma%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-09-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Alok_Sharma"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q478531"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Attorney General</dt>
+          <dd>
+            <span class="toggle"></span>
+            Suella Braverman
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Suella Braverman from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Suella%20Braverman%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1980-04-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Suella_Braverman"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q19957769"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Lord Privy Seal<br />Leader of the House of Lords</dt>
+          <dd>
+            <span class="toggle"></span>
+            Natalie Evans, Baroness Evans
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Natalie Evans, Baroness Evans from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Baroness%20Evans%20of%20Bowes%20Park%20crop%202.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1975-11-29</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Natalie_Evans,_Baroness_Evans_of_Bowes_Park"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q18210190"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Lord President of the Council<br />Leader of the House of Commons</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jacob Rees-Mogg
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Jacob Rees-Mogg from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Rees-Mogg%20MP.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1969-05-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Jacob_Rees-Mogg"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q574980"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Parliamentary Secretary to the Treasury (Chief Whip)</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mark Spencer
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Mark Spencer from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Mark%20Spencer%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-01-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Mark_Spencer_(British_politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q389189"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Lord Speaker (Speaker of the House of Lords)</dt>
+          <dd>
+            <span class="toggle"></span>
+            John McFall, Baron McFall of Alcluith
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of John McFall, Baron McFall of Alcluith from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Lord%20McFall%20of%20Alcluith%20crop%202,%202019.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1944-10-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/John_McFall,_Baron_McFall_of_Alcluith"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q334333"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the House of Commons</dt>
+          <dd>
+            <span class="toggle"></span>
+            Lindsay Hoyle
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Lindsay Hoyle from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Rt%20Hon%20Sir%20Lindsay%20Hoyle%20MP%20crop%202.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1957-06-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Lindsay_Hoyle"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q689660"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Bank of England</dt>
+          <dd>
+            <span class="toggle"></span>
+            Andrew Bailey
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Andrew Bailey from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Bailey.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1959-03-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Andrew_Bailey_(banker)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4756258"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of the General Staff</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mark Carleton-Smith
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Mark Carleton-Smith from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/General%20Carleton-Smith%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1964-02-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Mark_Carleton-Smith"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q6766994"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Cayman Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Helen Kilpatrick
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Helen Kilpatrick from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Helen%20Kilpatrick.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1958-10-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Helen_Kilpatrick"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16239881"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Cayman Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Anwar Choudhury
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Anwar Choudhury from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Anwar%20choudhury.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1959-06-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Anwar_Choudhury"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4778017"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Cayman Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Martyn Roper
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Martyn Roper from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Martyn%20Roper.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1965-06-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Martyn_Roper"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q56808433"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of the Cayman Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Wayne Panton
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Wayne_Panton"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q106622643"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Falkland Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nigel Phillips
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nigel Phillips from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Nigel%20Phillips.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1963</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nigel_Phillips"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q34970383"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief Executive of the Falkland Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Andy Keeling
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q109544916"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of Montserrat</dt>
+          <dd>
+            <span class="toggle"></span>
+            Andrew Pearce
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Andrew Pearce from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Pearce%20FCO.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1960-10-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Andrew_Pearce_(diplomat)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q47087986"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of Montserrat</dt>
+          <dd>
+            <span class="toggle"></span>
+            Easton Taylor-Farrell
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Easton_Taylor-Farrell"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q71333507"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Turks and Caicos Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nigel Dakin
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nigel Dakin from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Nigel%20Dakin%20photo%201.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1964-02-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nigel_Dakin"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q89296347"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of the Turks and Caicos Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Washington Misick
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Washington Misick from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/International%20tax%20compliance%20(11083000084)(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1950-03-13</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Washington_Misick"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7972058"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Virgin Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            John Duncan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of John Duncan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/John%20Duncan,%20British%20Virgin%20Islands.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1958-04-17</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/John_Duncan_(diplomat)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q6230348"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Virgin Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            John Rankin
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of John Rankin from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Johnrankin.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1957-03-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/John_Rankin_(diplomat)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q15429094"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier of the Virgin Islands</dt>
+          <dd>
+            <span class="toggle"></span>
+            Andrew Fahie
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Andrew Fahie from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Fahie.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-08-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Andrew_Fahie"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q28709152"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of Pitcairn</dt>
+          <dd>
+            <span class="toggle"></span>
+            Laura Clarke
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Laura Clarke from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Clarke%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1978-06-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Laura_Clarke"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q56797959"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Mayor of Pitcairn</dt>
+          <dd>
+            <span class="toggle"></span>
+            Charlene Warren-Peu
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1979-06-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Charlene_Warren-Peu"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q75462006"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Mayor of London</dt>
+          <dd>
+            <span class="toggle"></span>
+            Sadiq Khan
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Sadiq Khan from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Sadiq%20Khan%202020.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-10-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Sadiq_Khan"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q334155"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

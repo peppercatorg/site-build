@@ -1,108 +1,439 @@
-<meta charset="UTF-8">
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
     <title>Austria</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Austria</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Alexander Van der Bellen</td>
-      </tr>
-      <tr>
-        <td>Federal Chancellor</td>
-        <td>Alexander Schallenberg</td>
-      </tr>
-      <tr>
-        <td>Vice-Chancellor</td>
-        <td>Werner Kogler</td>
-      </tr>
-      <tr>
-        <td>Federal Minister for Agriculture, Regions and Tourism</td>
-        <td>Elisabeth Köstinger</td>
-      </tr>
-      <tr>
-        <td>Federal Minister for Arts, Culture, the Civil Service and Sport</td>
-        <td>Werner Kogler</td>
-      </tr>
-      <tr>
-        <td>Federal Minister for Climate Action, Environment, Energy, Mobility, Innovation and Technology</td>
-        <td>Leonore Gewessler</td>
-      </tr>
-      <tr>
-        <td>Federal Minister for Digital and Economic Affairs</td>
-        <td>Margarete Schramböck</td>
-      </tr>
-      <tr>
-        <td>Federal Minister of Education</td>
-        <td>Heinz Fassmann</td>
-      </tr>
-      <tr>
-        <td>Federal Minister of Finance</td>
-        <td>Gernot Blümel</td>
-      </tr>
-      <tr>
-        <td>Federal Minister of Foreign Affairs</td>
-        <td>Michael Linhart</td>
-      </tr>
-      <tr>
-        <td>Federal Minister for Health</td>
-        <td>Wolfgang Mückstein</td>
-      </tr>
-      <tr>
-        <td>Federal Minister of the Interior</td>
-        <td>Karl Nehammer</td>
-      </tr>
-      <tr>
-        <td>Federal Minister of Justice</td>
-        <td>Alma Zadić</td>
-      </tr>
-      <tr>
-        <td>Federal Minister for Labour</td>
-        <td>Martin Kocher</td>
-      </tr>
-      <tr>
-        <td>Federal minister of National Defence</td>
-        <td>Klaudia Tanner</td>
-      </tr>
-      <tr>
-        <td>Federal Minister for the EU and Constitution</td>
-        <td>Karoline Edtstadler</td>
-      </tr>
-      <tr>
-        <td>Federal Minister for Women, Family, Youth and Integration</td>
-        <td>Susanne Raab</td>
-      </tr>
-      <tr>
-        <td>President of the National Council</td>
-        <td>Wolfgang Sobotka</td>
-      </tr>
-      <tr>
-        <td>Second President of the National Council</td>
-        <td>Doris Bures</td>
-      </tr>
-      <tr>
-        <td>Third President of the National Council</td>
-        <td>Norbert Hofer</td>
-      </tr>
-      <tr>
-        <td>Chief of the General Staff</td>
-        <td>Robert Brieger</td>
-      </tr>
-      <tr>
-        <td>Governor of Oesterreichische Nationalbank</td>
-        <td>Robert Holzmann</td>
-      </tr>
-      <tr>
-        <td>Mayor of Vienna</td>
-        <td>Michael Ludwig</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Austria</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alexander Van der Bellen
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Alexander Van der Bellen from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Van%20der%20Bellen%20(13-07-2021)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1944-01-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Alexander_Van_der_Bellen"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q78869"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Chancellor</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alexander Schallenberg
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Alexander Schallenberg from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Schallenberg%20(51029203647).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1969-06-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Alexander_Schallenberg"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q64168538"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Vice-Chancellor<br />Federal Minister for Arts, Culture, the Civil Service and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Werner Kogler
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Werner Kogler from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Werner%20Kogler%20(50670439058).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1961-11-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Werner_Kogler"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2561778"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister for Agriculture, Regions and Tourism</dt>
+          <dd>
+            <span class="toggle"></span>
+            Elisabeth Köstinger
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Elisabeth Köstinger from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Elisabeth%20Köstinger%20Ministerrat%20am%208.1.2020%20(49351371016)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1978-11-22</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Elisabeth_Köstinger"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q86851"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister for Climate Action, Environment, Energy, Mobility, Innovation and Technology</dt>
+          <dd>
+            <span class="toggle"></span>
+            Leonore Gewessler
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Leonore Gewessler from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Leonore%20Gewessler%20Ministerrat%20am%208.1.2020%20(49351367291)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1977-09-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Leonore_Gewessler"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q64954602"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister for Digital and Economic Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Margarete Schramböck
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Margarete Schramböck from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2015%20Margarete%20Schramböck%20(16964730760).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1970-05-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Margarete_Schramböck"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q36493675"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister of Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Heinz Fassmann
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Heinz Fassmann from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Heinz%20Faßmann%20Ministerrat%20am%208.1.2020%20(49351370546)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1955-08-13</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Heinz_Faßmann"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1600191"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gernot Blümel
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Gernot Blümel from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Gernot%20Blümel%20Ministerrat%20am%208.1.2020%20(49350912713)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1981-10-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Gernot_Blümel"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q15812048"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister of Foreign Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Michael Linhart
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Michael Linhart from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Michael%20Linhart%20(51606738651)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1958-08-31</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Michael_Linhart"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q15428953"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister for Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Wolfgang Mückstein
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Wolfgang Mückstein from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Wolfgang%20Mückstein%20(51115921585)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1974-07-05</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Wolfgang_Mückstein"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q106484746"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister of the Interior</dt>
+          <dd>
+            <span class="toggle"></span>
+            Karl Nehammer
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Karl Nehammer from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Karl%20Nehammer%20Ministerrat%20am%208.1.2020%20(49351572787)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-10-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Karl_Nehammer"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q42860944"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alma Zadić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Alma Zadić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Alma%20Zadić,%20Pressekonferenz%20Hass%20im%20Netz%20(50304413907).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1984-05-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Alma_Zadić"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q42162193"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister for Labour</dt>
+          <dd>
+            <span class="toggle"></span>
+            Martin Kocher
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Martin Kocher from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Martin%20Kocher%20(50958944386)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1973-09-13</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Martin_Kocher"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q18222522"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal minister of National Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Klaudia Tanner
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Klaudia Tanner from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Klaudia%20Tanner%20Ministerrat%20am%208.1.2020%20(49351575442)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1970-05-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Klaudia_Tanner"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q43380898"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister for the EU and Constitution</dt>
+          <dd>
+            <span class="toggle"></span>
+            Karoline Edtstadler
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Karoline Edtstadler from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Karoline%20Edtstadler%20Ministerrat%20am%208.1.2020%20(49351571042)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1981-03-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Karoline_Edtstadler"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q45815517"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Federal Minister for Women, Family, Youth and Integration</dt>
+          <dd>
+            <span class="toggle"></span>
+            Susanne Raab
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Susanne Raab from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Susanne%20Raab%20Ministerrat%20am%208.1.2020%20(49351571192)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1984-10-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Susanne_Raab"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q80289609"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>State Secretary in the Federal Ministry for Arts, Culture, the Civil Service and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Andrea Mayer
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Andrea Mayer from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20mayer.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1962-04-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Andrea_Mayer"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q94576878"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>State Secretary in the Federal Ministry of Climate Action, Environment, Energy, Mobility, Innovation and Technology</dt>
+          <dd>
+            <span class="toggle"></span>
+            Magnus Brunner
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Magnus Brunner from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2020%20Magnus%20Brunner%20Ministerrat%20am%208.1.2020%20(49351370666)%20(cropped)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-05-06</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Magnus_Brunner"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1884520"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>President of the National Council</dt>
+          <dd>
+            <span class="toggle"></span>
+            Wolfgang Sobotka
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Wolfgang Sobotka from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang%20Sobotka%2023-05-2013%2001.JPG?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1956-01-05</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Wolfgang_Sobotka"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2591433"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Second President of the National Council</dt>
+          <dd>
+            <span class="toggle"></span>
+            Doris Bures
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Doris Bures from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/GuentherZ%202012-07-04%200047%20Wien03%20Strandbar%20Hermann%20Danube-Day%20Doris%20Bures.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1962-08-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Doris_Bures"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q85433"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Third President of the National Council</dt>
+          <dd>
+            <span class="toggle"></span>
+            Norbert Hofer
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Norbert Hofer from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Norbert%20Hofer%20-%20FPÖ-Neujahrstreffen%202019.JPG?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1971-03-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Norbert_Hofer"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1996861"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of the General Staff</dt>
+          <dd>
+            <span class="toggle"></span>
+            Robert Brieger
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Robert Brieger from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Brieger%20in%202019.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1956-11-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Robert_Brieger"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q53194017"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of Oesterreichische Nationalbank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Robert Holzmann
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Robert Holzmann from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Holzmann.%20Copyright%20OeNB,%202020.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1949-02-27</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Robert_Holzmann"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q22005045"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Mayor of Vienna</dt>
+          <dd>
+            <span class="toggle"></span>
+            Michael Ludwig
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Michael Ludwig from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Ludwig%20-%20Veranstaltung%20„1.%20Tag%20des%20Wiener%20Wohnbaus“%20(1).JPG?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1961-04-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Michael_Ludwig"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1560091"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

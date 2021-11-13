@@ -4,58 +4,228 @@
     <meta charset="UTF-8">
     <title>Gibraltar</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Gibraltar</h1>
-    <table>
-      <tr>
-        <td>Chief Minister</td>
-        <td>Fabian Picardo</td>
-      </tr>
-      <tr>
-        <td>Deputy Chief Minister</td>
-        <td>Joseph Garcia</td>
-      </tr>
-      <tr>
-        <td>Minister for Digital, Financial Services and Public Utilities</td>
-        <td>Albert Isola</td>
-      </tr>
-      <tr>
-        <td>Minister for Economic Development, Enterprise, Telecommunications & the Gibraltar Savings Bank</td>
-        <td>Joe Bossano</td>
-      </tr>
-      <tr>
-        <td>Minister for the Environment, Sustainability, Climate Change and Education</td>
-        <td>John Cortes</td>
-      </tr>
-      <tr>
-        <td>Minister for Transport</td>
-        <td>Paul Balban</td>
-      </tr>
-      <tr>
-        <td>Minister for the Health Authority, Justice, Multiculturalism, Equality and Community Affairs</td>
-        <td>Samantha Sacramento</td>
-      </tr>
-      <tr>
-        <td>Minister for Housing, Employment, Youth and Sport</td>
-        <td>Steven Linares</td>
-      </tr>
-      <tr>
-        <td>Minister for Business, Tourism and The Port</td>
-        <td>Vijay Daryanani</td>
-      </tr>
-      <tr>
-        <td>Speaker of the Parliament</td>
-        <td>Melvyn Farrell</td>
-      </tr>
-      <tr>
-        <td>Mayor of Gibraltar</td>
-        <td>John Gonçalves</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Gibraltar</h1>
+      <dl>
+          <dt>Chief Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Fabian Picardo
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Fabian Picardo from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/05-Mayo-17%20Visita%20Claire%20Moody%20(11)%20(33659896883).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-02-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Fabian_Picardo"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q2356379"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Chief Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Joseph Garcia
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Joseph Garcia from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Garcia%20portrait.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Joseph_Garcia_(Gibraltarian_politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1442437"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Digital, Financial Services and Public Utilities</dt>
+          <dd>
+            <span class="toggle"></span>
+            Albert Isola
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Albert Isola from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/The%20Hon%20Albert%20Isola%202014%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1963-09-27</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Albert_Isola"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16190596"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Economic Development, Enterprise, Telecommunications & the Gibraltar Savings Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Joe Bossano
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Joe Bossano from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Joebossano.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1939-06-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Joe_Bossano"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3090591"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for the Environment, Sustainability, Climate Change and Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            John Cortes
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of John Cortes from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20john%20cortes.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1953-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/John_Cortes"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3323220"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Transport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Paul Balban
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1901-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Paul_Balban"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3323197"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for the Health Authority, Justice, Multiculturalism, Equality and Community Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Samantha Sacramento
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Samantha Sacramento from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Samantha%20Sacramento.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 2000</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Samantha_Sacramento"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3322990"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Housing, Employment, Youth and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Steven Linares
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Steven Linares from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Linares%20at%20the%202013%20Gibraltar%20Music%20Festival.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1901-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Steven_Linares"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3323210"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Business, Tourism and The Port</dt>
+          <dd>
+            <span class="toggle"></span>
+            Vijay Daryanani
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107803413"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the Parliament</dt>
+          <dd>
+            <span class="toggle"></span>
+            Melvyn Farrell
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q109469785"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Mayor of Gibraltar</dt>
+          <dd>
+            <span class="toggle"></span>
+            John Gonçalves
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of John Gonçalves from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/John%20Goncalves.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q97462971"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

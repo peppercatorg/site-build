@@ -4,98 +4,388 @@
     <meta charset="UTF-8">
     <title>Slovakia</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Slovakia</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Zuzana Čaputová</td>
-      </tr>
-      <tr>
-        <td>Prime Minister</td>
-        <td>Eduard Heger</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Finance</td>
-        <td>Igor Matovič</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister</td>
-        <td>Štefan Holý</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Economy</td>
-        <td>Richard Sulík</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister for Investments and Informatization</td>
-        <td>Veronika Remišová</td>
-      </tr>
-      <tr>
-        <td>Minister of Agriculture and Rural Development</td>
-        <td>Samuel Vlčan</td>
-      </tr>
-      <tr>
-        <td>Minister of Culture</td>
-        <td>Natália Milanová</td>
-      </tr>
-      <tr>
-        <td>Minister of Defense</td>
-        <td>Jaroslav Naď</td>
-      </tr>
-      <tr>
-        <td>Minister of Education, Science, Research and Sport</td>
-        <td>Branislav Gröhling</td>
-      </tr>
-      <tr>
-        <td>Minister of Environment</td>
-        <td>Ján Budaj</td>
-      </tr>
-      <tr>
-        <td>Minister of Foreign and European Affairs</td>
-        <td>Ivan Korčok</td>
-      </tr>
-      <tr>
-        <td>Minister of Health</td>
-        <td>Vladimír Lengvarský</td>
-      </tr>
-      <tr>
-        <td>Minister of Interior</td>
-        <td>Roman Mikulec</td>
-      </tr>
-      <tr>
-        <td>Minister of Justice</td>
-        <td>Mária Kolíková</td>
-      </tr>
-      <tr>
-        <td>Minister of Labor, Social Affairs and Family</td>
-        <td>Milan Krajniak</td>
-      </tr>
-      <tr>
-        <td>Minister of Transport and Construction</td>
-        <td>Andrej Doležal</td>
-      </tr>
-      <tr>
-        <td>Speaker of the National Council</td>
-        <td>Boris Kollár</td>
-      </tr>
-      <tr>
-        <td>Chief of the General Staff</td>
-        <td>Daniel Zmeko</td>
-      </tr>
-      <tr>
-        <td>Governor of the National Bank</td>
-        <td>Peter Kažimír</td>
-      </tr>
-      <tr>
-        <td>Mayor of Bratislava</td>
-        <td>Matúš Vallo</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Slovakia</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Zuzana Čaputová
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Zuzana Čaputová from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Zuzana%20Čaputová%20(20.6.2019)%20VIII.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1973-06-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Zuzana_Čaputová"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q26273268"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Eduard Heger
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Eduard Heger from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Eduard%20Heger,%20Brussels%20(51614100353)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1976-05-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Eduard_Heger"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q46227987"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Igor Matovič
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Igor Matovič from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Igor%20Matovič%20October%202020%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1973-05-11</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Igor_Matovič"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q552706"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Štefan Holý
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1978-12-11</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q88299018"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Economy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Richard Sulík
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Richard Sulík from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Sulík%20-2011-.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1968-01-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Richard_Sulík"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q586798"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister for Investments and Informatization</dt>
+          <dd>
+            <span class="toggle"></span>
+            Veronika Remišová
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Veronika Remišová from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Veronika%20Remisova,%20Slovak%20Deputy%20Prime%20Minister%20for%20Investments,%20Regional%20development%20and%20Information,%20to%20the%20European%20Commission%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1976-05-31</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Veronika_Remišová"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q26837632"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Agriculture and Rural Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Samuel Vlčan
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1971-03-13</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107154992"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Culture</dt>
+          <dd>
+            <span class="toggle"></span>
+            Natália Milanová
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1982-06-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Natália_Milanová"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q61748113"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Defense</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jaroslav Naď
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Jaroslav Naď from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Jaroslav%20Naď.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1981-03-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Jaroslav_Naď"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q86755007"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education, Science, Research and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Branislav Gröhling
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Branislav Gröhling from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Branislav-Grohling-minister-skolstva%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1974-04-06</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q60777536"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Environment</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ján Budaj
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ján Budaj from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ján%20Budaj.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1952-02-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ján_Budaj"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q12027325"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Foreign and European Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ivan Korčok
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ivan Korčok from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Korčok%20-%20July%202016%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1964-04-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ivan_Korčok"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3156132"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Vladimír Lengvarský
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1969-08-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Vladimír_Lengvarský"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q85421835"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Interior</dt>
+          <dd>
+            <span class="toggle"></span>
+            Roman Mikulec
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1972-03-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Roman_Mikulec"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q88188383"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mária Kolíková
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1974-08-29</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Mária_Kolíková"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q56823084"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Labor, Social Affairs and Family</dt>
+          <dd>
+            <span class="toggle"></span>
+            Milan Krajniak
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Milan Krajniak from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/MilanKrajniakWikifoto.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1973-01-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Milan_Krajniak"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q54991677"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Transport and Construction</dt>
+          <dd>
+            <span class="toggle"></span>
+            Andrej Doležal
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1981-03-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Andrej_Doležal"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q88298109"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the National Council</dt>
+          <dd>
+            <span class="toggle"></span>
+            Boris Kollár
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Boris Kollár from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Boris%20Kollár%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1965-08-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Boris_Kollár"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q23022210"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of the General Staff</dt>
+          <dd>
+            <span class="toggle"></span>
+            Daniel Zmeko
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1967-11-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Daniel_Zmeko"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q52110606"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the National Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Peter Kažimír
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Peter Kažimír from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Kažimír%20(36400657164)%20crop.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1968-06-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Peter_Kažimír"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q552534"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Mayor of Bratislava</dt>
+          <dd>
+            <span class="toggle"></span>
+            Matúš Vallo
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Matúš Vallo from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Matúš%20Vallo.%202017.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1977-09-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Matúš_Vallo"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q12771236"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

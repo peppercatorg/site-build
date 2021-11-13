@@ -4,74 +4,292 @@
     <meta charset="UTF-8">
     <title>Bermuda</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Bermuda</h1>
-    <table>
-      <tr>
-        <td>Governor</td>
-        <td>Rena Lalgie</td>
-      </tr>
-      <tr>
-        <td>Premier</td>
-        <td>E. David Burt</td>
-      </tr>
-      <tr>
-        <td>Deputy Premier<br />Minister of Home Affairs</td>
-        <td>Walter Roban</td>
-      </tr>
-      <tr>
-        <td>Minister for the Cabinet Office</td>
-        <td>Wayne L. Furbert</td>
-      </tr>
-      <tr>
-        <td>Minister of Education</td>
-        <td>Diallo Rabain</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance</td>
-        <td>Curtis L. Dickinson</td>
-      </tr>
-      <tr>
-        <td>Minister of Health</td>
-        <td>Kim Wilson</td>
-      </tr>
-      <tr>
-        <td>Minister of Labour</td>
-        <td>Jason Hayward</td>
-      </tr>
-      <tr>
-        <td>Minister of Legal Affairs<br />Attorney General</td>
-        <td>Kathy Lightbourne-Simmons</td>
-      </tr>
-      <tr>
-        <td>Minister of National Security</td>
-        <td>Renee Ming</td>
-      </tr>
-      <tr>
-        <td>Minister of Public Works</td>
-        <td>David Burch</td>
-      </tr>
-      <tr>
-        <td>Minister of Social Development and Seniors</td>
-        <td>Tinee Furbert</td>
-      </tr>
-      <tr>
-        <td>Minister of Transport</td>
-        <td>Lawrence Scott</td>
-      </tr>
-      <tr>
-        <td>Minister of Youth, Culture and Sports</td>
-        <td>Ernest Peets</td>
-      </tr>
-      <tr>
-        <td>Speaker of the House of Assembly</td>
-        <td>Dennis Lister</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Bermuda</h1>
+      <dl>
+          <dt>Governor</dt>
+          <dd>
+            <span class="toggle"></span>
+            Rena Lalgie
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Rena Lalgie from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/S300%20Rena%20Lalgie%20photo.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Rena_Lalgie"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q97685578"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Premier</dt>
+          <dd>
+            <span class="toggle"></span>
+            E. David Burt
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of E. David Burt from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20David%20Burt%201%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1979</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Edward_David_Burt"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q33120852"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Premier<br />Minister of Home Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Walter Roban
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980143"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for the Cabinet Office</dt>
+          <dd>
+            <span class="toggle"></span>
+            Wayne L. Furbert
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980074"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Diallo Rabain
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980110"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Curtis L. Dickinson
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980116"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Kim Wilson
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Kim Wilson from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Wilson.jpg?width=100" />
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q94952755"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Labour</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jason Hayward
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980104"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Legal Affairs<br />Attorney General</dt>
+          <dd>
+            <span class="toggle"></span>
+            Kathy Lightbourne-Simmons
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980095"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of National Security</dt>
+          <dd>
+            <span class="toggle"></span>
+            Renee Ming
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980085"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Public Works</dt>
+          <dd>
+            <span class="toggle"></span>
+            David Burch
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980114"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Social Development and Seniors</dt>
+          <dd>
+            <span class="toggle"></span>
+            Tinee Furbert
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980082"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Transport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Lawrence Scott
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980091"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Youth, Culture and Sports</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ernest Peets
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107980108"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the House of Assembly</dt>
+          <dd>
+            <span class="toggle"></span>
+            Dennis Lister
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q109517094"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

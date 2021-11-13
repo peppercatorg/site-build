@@ -1,25 +1,26 @@
-title,start,person,personLabel,genderLabel,dob,dobPrecision,dod,dodPrecision,image
-President,2017-01-22,Q26257557,Rumen Radev,male,1963-06-18,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Rumen%20Radev%20official%20portrait%20%28cropped%29.jpg
-Vice President,2017-01-22,Q433338,Iliana Yotova,female,1964-10-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Iliyana%20Yotova.jpg
-Prime Minister,2021-05-12,Q28055319,Stefan Janev,male,1960-03-01,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Yanev.jpg
-Deputy Prime Minister for EU Funds Management,2021-05-12,Q106801369,Atanas Pekanow,male,1991-01-01,9,,,
-Deputy Prime Minister for Public Order and Security,2021-05-12,Q28599818,Boyko Rashkov,male,1954-09-28,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Boijko%20Rashkov.png
-"Minister of Agriculture, Food and Forestry",2021-05-12,Q31192046,Hristo Bozukov,male,1960-01-14,11,,,
-Minister of Culture,2021-05-12,Q58660831,Velislav Minekov,male,1959-03-27,11,,,
-Minister of Defence,2021-05-12,Q28869795,Georgi Velikov Panayotov,male,1968-01-01,9,,,http://commons.wikimedia.org/wiki/Special:FilePath/Georgi%20Panayotov.jpg
-Minister of Economy,2021-09-16,Q108558965,Daniela Vezieva,female,1967-10-16,11,,,
-Minister of Education and Science,2021-05-12,Q28536878,Nikolay Denkov,male,1962-09-03,11,,,
-Minister of Environment and Water,2021-05-12,Q106809260,Asen Lichev,male,1952-01-01,9,,,
-Minister of Finance,2021-09-15,Q108560298,Valeri Belchev,male,,,,,
-Minister of Foreign Affairs,2021-05-12,Q106812725,Svetlan Stoev,male,1960-08-30,11,,,
-Minister of Health,2021-05-12,Q12295434,Stoycho Katsarov,male,1964-06-06,11,,,
-Minister of Justice,2021-10-29,Q109467177,Ivan Demerdzhiev,male,,,,,
-Minister of Labour and Social Policies,2021-05-12,Q31192182,Gulub Donev,male,1967-01-01,9,,,
-Minister of Regional Development and Public Works,2021-05-12,Q106925428,Violeta Komitova,female,,,,,
-Minister of Tourism,2021-05-12,Q51077234,Stela Baltova,female,1961-01-01,9,,,
-"Minister of Transport, Information Technology and Communications",2021-09-15,Q30317160,Hristo Aleksiev,male,1980-09-19,11,,,
-Minister of Youth and Sports,2021-05-12,Q106928671,Andrej Kuzmanow,male,,,,,
-Chairperson of the National Assembly,2021-04-15,Q106506653,Iva Miteva,female,1972-10-25,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/20210415045023%20KR7189.jpg
-Chief of Defence,2020-03-30,Q28038967,Emil Eftimov,male,1961-08-16,11,,,
-Governor of the Bulgarian National Bank,2015-07-14,Q25431484,Dimitar Radev,male,1956-07-12,11,,,
-Mayor of Sofia Capital Municipality,2011-11-08,Q444718,Yordanka Fandakova,female,1962-04-12,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/High-hevel%20Conference%20Dedicated%20to%20EU%20Cohesion%20Policy%20Handshake%20%2828793180168%29%20%28Yordanka%20Fandakova%20cropped%29.jpg
+position,person,personID,start,gender,DOB,DOD,image,enwiki
+President,Rumen Radev,Q26257557,2017-01-22,male,1963-06-18,,Rumen Radev official portrait (cropped).jpg,Rumen Radev
+Vice President,Iliana Yotova,Q433338,2017-01-22,female,1964-10-24,,Iliyana Yotova.jpg,Iliana Iotova
+Prime Minister,Stefan Janev,Q28055319,2021-05-12,male,1960-03-01,,Stefan Yanev.jpg,Stefan Yanev (general)
+Deputy Prime Minister for EU Funds Management,Atanas Pekanow,Q106801369,2021-05-12,male,1991,,,
+Deputy Prime Minister for Public Order and Security,Boyko Rashkov,Q28599818,2021-05-12,male,1954-09-28,,Boijko Rashkov.png,
+"Minister of Agriculture, Food and Forestry",Hristo Bozukov,Q31192046,2021-05-12,male,1960-01-14,,,
+Minister of Culture,Velislav Minekov,Q58660831,2021-05-12,male,1959-03-27,,,
+Minister of Defence,Georgi Velikov Panayotov,Q28869795,2021-05-12,male,1968,,Georgi Panayotov.jpg,Georgi Panayotov
+Minister of Economy,Daniela Vezieva,Q108558965,2021-09-16,female,1967-10-16,,,
+Minister of Education and Science,Nikolay Denkov,Q28536878,2021-05-12,male,1962-09-03,,,
+Minister of Energy,Andrey Zhivkov,Q106928598,2021-05-12,male,1971,,,
+Minister of Environment and Water,Asen Lichev,Q106809260,2021-05-12,male,1952,,,
+Minister of Finance,Valeri Belchev,Q108560298,2021-09-15,male,,,,
+Minister of Foreign Affairs,Svetlan Stoev,Q106812725,2021-05-12,male,1960-08-30,,,
+Minister of Health,Stoycho Katsarov,Q12295434,2021-05-12,male,1964-06-06,,,
+Minister of Justice,Ivan Demerdzhiev,Q109467177,2021-10-29,male,,,,
+Minister of Labour and Social Policies,Gulub Donev,Q31192182,2021-05-12,male,1967,,,
+Minister of Regional Development and Public Works,Violeta Komitova,Q106925428,2021-05-12,female,,,,
+Minister of Tourism,Stela Baltova,Q51077234,2021-05-12,female,1961,,,
+"Minister of Transport, Information Technology and Communications",Hristo Aleksiev,Q30317160,2021-09-15,male,1980-09-19,,,
+Minister of Youth and Sports,Andrej Kuzmanow,Q106928671,2021-05-12,male,,,,
+Chairperson of the National Assembly,Iva Miteva,Q106506653,2021-04-15,female,1972-10-25,,20210415045023 KR7189.jpg,Iva Miteva
+Chief of Defence,Emil Eftimov,Q28038967,2020-03-30,male,1961-08-16,,,
+Governor of the Bulgarian National Bank,Dimitar Radev,Q25431484,2015-07-14,male,1956-07-12,,,Dimitar Radev
+Mayor of Sofia Capital Municipality,Yordanka Fandakova,Q444718,2011-11-08,female,1962-04-12,,High-hevel Conference Dedicated to EU Cohesion Policy Handshake (28793180168) (Yordanka Fandakova cropped).jpg,Yordanka Fandakova

@@ -4,134 +4,532 @@
     <meta charset="UTF-8">
     <title>Serbia</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Serbia</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Aleksandar Vučić</td>
-      </tr>
-      <tr>
-        <td>Prime Minister</td>
-        <td>Ana Brnabić</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Energy and Mining</td>
-        <td>Zorana Mihajlović</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Defense</td>
-        <td>Nebojša Stefanović</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Education</td>
-        <td>Branko Ružić</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Culture</td>
-        <td>Maja Gojković</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Agriculture</td>
-        <td>Branislav Nedimović</td>
-      </tr>
-      <tr>
-        <td>Minister of Economy</td>
-        <td>Anđelka Atanasković</td>
-      </tr>
-      <tr>
-        <td>Minister of Environmental Protection</td>
-        <td>Irena Vujović</td>
-      </tr>
-      <tr>
-        <td>Minister of European Integration</td>
-        <td>Jadranka Joksimović</td>
-      </tr>
-      <tr>
-        <td>Minister of Families and Demographics</td>
-        <td>Radomir Dmitrović</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance</td>
-        <td>Siniša Mali</td>
-      </tr>
-      <tr>
-        <td>Minister of Foreign Affairs</td>
-        <td>Nikola Selaković</td>
-      </tr>
-      <tr>
-        <td>Minister of Health</td>
-        <td>Zlatibor Lončar</td>
-      </tr>
-      <tr>
-        <td>Minister of Human and Minority Rights</td>
-        <td>Gordana Čomić</td>
-      </tr>
-      <tr>
-        <td>Minister of Internal Affairs</td>
-        <td>Aleksandar Vulin</td>
-      </tr>
-      <tr>
-        <td>Minister of Justice</td>
-        <td>Maja Popović</td>
-      </tr>
-      <tr>
-        <td>Minister of Labour, Employment and Social Policy</td>
-        <td>Darija Kisić Tepavčević</td>
-      </tr>
-      <tr>
-        <td>Minister of Public Administration and Local Self-Government</td>
-        <td>Marija Obradović</td>
-      </tr>
-      <tr>
-        <td>Minister of Rural Welfare</td>
-        <td>Milan Krkobabić</td>
-      </tr>
-      <tr>
-        <td>Minister of Trade, Tourism and Telecommunications</td>
-        <td>Tatjana Matić</td>
-      </tr>
-      <tr>
-        <td>Minister of Transportation, Construction and Infrastructure</td>
-        <td>Tomislav Momirović</td>
-      </tr>
-      <tr>
-        <td>Minister of Youth and Sports</td>
-        <td>Vanja Udovičić</td>
-      </tr>
-      <tr>
-        <td>Minister without portfolio</td>
-        <td>Nenad Popović</td>
-      </tr>
-      <tr>
-        <td>Minister without portfolio</td>
-        <td>Novica Tončev</td>
-      </tr>
-      <tr>
-        <td>General Secretary of the Government</td>
-        <td>Novak Nedic</td>
-      </tr>
-      <tr>
-        <td>President of the National Assembly</td>
-        <td>Ivica Dačić</td>
-      </tr>
-      <tr>
-        <td>Governor of the National Bank</td>
-        <td>Jorgovanka Tabaković</td>
-      </tr>
-      <tr>
-        <td>Chief of the General Staff</td>
-        <td>Milan Mojsilović</td>
-      </tr>
-      <tr>
-        <td>Mayor of Belgrade</td>
-        <td>Zoran Radojičić</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Serbia</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Aleksandar Vučić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Aleksandar Vučić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandar%20Vučić%202019%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-03-05</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Aleksandar_Vučić"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q222031"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ana Brnabić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ana Brnabić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Brnabić.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1975-09-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ana_Brnabić"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q26258815"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Energy and Mining</dt>
+          <dd>
+            <span class="toggle"></span>
+            Zorana Mihajlović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Zorana Mihajlović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Zorana%20Mihajlović%20Crop.JPG?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1970-05-05</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Zorana_Mihajlović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q10843366"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Defense</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nebojša Stefanović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nebojša Stefanović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Nebojsa%20Stefanovic%20Cropped.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1976-11-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nebojša_Stefanović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4442477"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Education</dt>
+          <dd>
+            <span class="toggle"></span>
+            Branko Ružić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Branko Ružić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Branko%20Ruzic%20-%20WIKI%20GAP%20BELGRAD%20018.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1975-12-14</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Branko_Ružić_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q12749330"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Culture</dt>
+          <dd>
+            <span class="toggle"></span>
+            Maja Gojković
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Maja Gojković from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Maja%20Gojković%202019.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1963-05-22</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Maja_Gojković"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1280390"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Agriculture</dt>
+          <dd>
+            <span class="toggle"></span>
+            Branislav Nedimović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Branislav Nedimović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Branislav%20Nedimović.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1977-11-27</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Branislav_Nedimović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q29571792"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Economy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Anđelka Atanasković
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1958</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Anđelka_Atanasković"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q100975934"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Environmental Protection</dt>
+          <dd>
+            <span class="toggle"></span>
+            Irena Vujović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Irena Vujović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Irena%20Vujovic-mc.rs%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1983-04-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Irena_Vujović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q97041188"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of European Integration</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jadranka Joksimović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Jadranka Joksimović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2016-12-06%20Jadranka%20Joksimović-1.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1978-01-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Jadranka_Joksimović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q17388477"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Families and Demographics</dt>
+          <dd>
+            <span class="toggle"></span>
+            Radomir Dmitrović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Radomir Dmitrović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ratko%20Dmitrovic-mc.rs.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1958</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ratko_Dmitrović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q12959561"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Siniša Mali
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Siniša Mali from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Siniša%20Mali.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-08-25</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Siniša_Mali"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16935101"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Foreign Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nikola Selaković
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nikola Selaković from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Außenminister%20Alexander%20Schallenberg%20empfängt%20seinen%20serbischen%20Amtskollegen%20Nikola%20Selakovic%2016.07.2021%2005%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1983-04-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nikola_Selaković"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7438681"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Zlatibor Lončar
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Zlatibor Lončar from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Zlatibor%20Lončar1.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1971-08-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Zlatibor_Lončar"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q17350745"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Human and Minority Rights</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gordana Čomić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Gordana Čomić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Gordana%20Čomić%20-%20May%202015%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1958-06-16</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Gordana_Čomić"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16269542"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Internal Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Aleksandar Vulin
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Aleksandar Vulin from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandar%20Vulin%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-10-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Aleksandar_Vulin"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q11074974"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Maja Popović
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1972</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Maja_Popović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q100996171"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Labour, Employment and Social Policy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Darija Kisić Tepavčević
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1975-08-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Darija_Kisić_Tepavčević"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q97329382"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Public Administration and Local Self-Government</dt>
+          <dd>
+            <span class="toggle"></span>
+            Marija Obradović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Marija Obradović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Marija%20Obradovic-mc.rs.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1974-06-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Marija_Obradović_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27907563"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Rural Welfare</dt>
+          <dd>
+            <span class="toggle"></span>
+            Milan Krkobabić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Milan Krkobabić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Krkobabic-mc.rs.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1952-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Milan_Krkobabić"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q15708342"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Trade, Tourism and Telecommunications</dt>
+          <dd>
+            <span class="toggle"></span>
+            Tatjana Matić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Tatjana Matić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Tatjana%20Matić.png?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1972-07-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Tatjana_Matić"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q100975531"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Transportation, Construction and Infrastructure</dt>
+          <dd>
+            <span class="toggle"></span>
+            Tomislav Momirović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Tomislav Momirović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Tomislav%20Momirović%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1983-10-17</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Tomislav_Momirović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q100848615"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Youth and Sports</dt>
+          <dd>
+            <span class="toggle"></span>
+            Vanja Udovičić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Vanja Udovičić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Vanja%20Udovičić%20Crop.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1982-09-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Vanja_Udovičić"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1292388"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister without portfolio</dt>
+          <dd>
+            <span class="toggle"></span>
+            Nenad Popović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Nenad Popović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Nenad%20Popovic.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1966-09-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Nenad_Popović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4372683"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister without portfolio</dt>
+          <dd>
+            <span class="toggle"></span>
+            Novica Tončev
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Novica Tončev from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Novica%20Tončev.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1962-12-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Novica_Tončev"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q55584331"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>General Secretary of the Government</dt>
+          <dd>
+            <span class="toggle"></span>
+            Novak Nedic
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1982</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q108307879"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>President of the National Assembly</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ivica Dačić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ivica Dačić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ivica%20Dacic%2010.06.2021%2001%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1966-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ivica_Dačić"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q57843"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the National Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jorgovanka Tabaković
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Jorgovanka Tabaković from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Jorgovanka%20Tabaković%20Crop.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1960-03-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Jorgovanka_Tabaković"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1263807"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of the General Staff</dt>
+          <dd>
+            <span class="toggle"></span>
+            Milan Mojsilović
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Milan Mojsilović from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Nacelnik-generalstaba-vojske-srbije-general-potpukovnik-milan-mojsilovic-18sep2018.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-08-03</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Milan_Mojsilović"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16087512"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Mayor of Belgrade</dt>
+          <dd>
+            <span class="toggle"></span>
+            Zoran Radojičić
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Zoran Radojičić from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Zoran%20Radojičić%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1963-10-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Zoran_Radojičić"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q54861707"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

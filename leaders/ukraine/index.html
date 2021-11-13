@@ -4,138 +4,548 @@
     <meta charset="UTF-8">
     <title>Ukraine</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Ukraine</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Volodymyr Zelenskyi</td>
-      </tr>
-      <tr>
-        <td>Prime Minister</td>
-        <td>Denys Shmyhal</td>
-      </tr>
-      <tr>
-        <td>First Deputy Prime Minister<br />Minister of Economy</td>
-        <td>Yulia Svyrydenko</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Digital Transformation</td>
-        <td>Mykhailo Fedorov</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister<br />Minister of Temporarily Occupied Territories and IDPs</td>
-        <td>Iryna Vereshchuk</td>
-      </tr>
-      <tr>
-        <td>Deputy Prime Minister for European and Euro-Atlantic Integration</td>
-        <td>Olha Stefanyshyna</td>
-      </tr>
-      <tr>
-        <td>Minister of Agrarian Policy and Food</td>
-        <td>Roman Leshchenko</td>
-      </tr>
-      <tr>
-        <td>Minister of Culture and Information Policy</td>
-        <td>Oleksandr Tkachenko</td>
-      </tr>
-      <tr>
-        <td>Minister of Defence</td>
-        <td>Oleksii Reznikov</td>
-      </tr>
-      <tr>
-        <td>Minister of Education and Science</td>
-        <td>Serhiy Shkarlet</td>
-      </tr>
-      <tr>
-        <td>Minister of Energy</td>
-        <td>German Galushchenko</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance</td>
-        <td>Serhiy Marchenko</td>
-      </tr>
-      <tr>
-        <td>Minister of Foreign Affairs</td>
-        <td>Dmytro Kuleba</td>
-      </tr>
-      <tr>
-        <td>Minister of Health</td>
-        <td>Viktor Liashko</td>
-      </tr>
-      <tr>
-        <td>Minister of Infrastructure</td>
-        <td>Oleksandr Kubrakov</td>
-      </tr>
-      <tr>
-        <td>Minister of Interior Affairs</td>
-        <td>Denys Monastyrskyi</td>
-      </tr>
-      <tr>
-        <td>Minister of Justice</td>
-        <td>Denys Maliuska</td>
-      </tr>
-      <tr>
-        <td>Minister of Regional Development</td>
-        <td>Oleksiy Chernyshov</td>
-      </tr>
-      <tr>
-        <td>Minister of Social Policy</td>
-        <td>Maryna Lazebna</td>
-      </tr>
-      <tr>
-        <td>Minister for Strategic Industries</td>
-        <td>Pavlo Ryabikin</td>
-      </tr>
-      <tr>
-        <td>Minister for Veterans' Affairs</td>
-        <td>Yuliia Laputina</td>
-      </tr>
-      <tr>
-        <td>Minister of Youth and Sports</td>
-        <td>Vadim Gutzeit</td>
-      </tr>
-      <tr>
-        <td>Minister of the Cabinet of Ministers</td>
-        <td>Oleh Nemchinov</td>
-      </tr>
-      <tr>
-        <td>Head of the Office of the President</td>
-        <td>Andrey Yermak</td>
-      </tr>
-      <tr>
-        <td>Chairman of the Verkhovna Rada</td>
-        <td>Ruslan Stefanchuk</td>
-      </tr>
-      <tr>
-        <td>Head of Kyiv City State Administration<br />Head of Kyiv City</td>
-        <td>Vitaliy Klitschko</td>
-      </tr>
-      <tr>
-        <td>Governor of the National Bank</td>
-        <td>Kyrylo Shevchenko</td>
-      </tr>
-      <tr>
-        <td>Chief of the General Staff</td>
-        <td>Serhiy Shaptala</td>
-      </tr>
-      <tr>
-        <td>Head of the Foreign Intelligence Service</td>
-        <td>Oleksandr Litvinenko</td>
-      </tr>
-      <tr>
-        <td>Head of the Security Service</td>
-        <td>Ivan Bakanov</td>
-      </tr>
-      <tr>
-        <td>Prosecutor General</td>
-        <td>Iryna Venediktova</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Ukraine</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Volodymyr Zelenskyi
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Volodymyr Zelenskyi from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Volodymyr%20Zelensky%20Official%20portrait.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1978-01-25</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Volodymyr_Zelensky"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3874799"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Denys Shmyhal
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Denys Shmyhal from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Денис%20Шмигаль%202020%203%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1975-10-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Denys_Shmyhal"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q66094865"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>First Deputy Prime Minister<br />Minister of Economy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Yulia Svyrydenko
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Yulia Svyrydenko from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Yulia%20Svyrydenko.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1985-12-25</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Yulia_Svyrydenko"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q61112536"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Digital Transformation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Mykhailo Fedorov
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Mykhailo Fedorov from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Mykhailo%20Fedorov.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1991-01-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Mykhailo_Fedorov"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q64495543"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister<br />Minister of Temporarily Occupied Territories and IDPs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Iryna Vereshchuk
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Iryna Vereshchuk from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Верещук%20Ірина%20Андріївна%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1979-11-30</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Iryna_Vereshchuk"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q20066227"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Deputy Prime Minister for European and Euro-Atlantic Integration</dt>
+          <dd>
+            <span class="toggle"></span>
+            Olha Stefanyshyna
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Olha Stefanyshyna from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Olha%20Stefanishyna%202020.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1985-10-29</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Olha_Stefanishyna"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q96058561"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Agrarian Policy and Food</dt>
+          <dd>
+            <span class="toggle"></span>
+            Roman Leshchenko
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1988-11-23</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Roman_Leshchenko"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q97273389"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Culture and Information Policy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Oleksandr Tkachenko
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Oleksandr Tkachenko from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Олександр%20Ткаченко.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1966-01-22</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Oleksandr_Tkachenko_(journalist)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4458923"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Oleksii Reznikov
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Oleksii Reznikov from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Aleksey%20Reznikov%20(21%20May%202008).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1966-06-18</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Oleksii_Reznikov"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q4392444"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education and Science</dt>
+          <dd>
+            <span class="toggle"></span>
+            Serhiy Shkarlet
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Serhiy Shkarlet from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Shkarlet.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-10-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Serhiy_Shkarlet"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16723829"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Energy</dt>
+          <dd>
+            <span class="toggle"></span>
+            German Galushchenko
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q107620810"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Serhiy Marchenko
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1981-01-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Serhiy_Marchenko"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q89034171"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Foreign Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Dmytro Kuleba
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Dmytro Kuleba from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Дмитро%20Кулеба%201%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1981-04-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Dmytro_Kuleba"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q24025631"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Viktor Liashko
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Viktor Liashko from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Viktor%20Liashko%20cropped.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1980-04-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Viktor_Liashko"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q89190512"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Infrastructure</dt>
+          <dd>
+            <span class="toggle"></span>
+            Oleksandr Kubrakov
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Oleksandr Kubrakov from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Чортків,%20Олександр%20Кубраков,%202020.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1982-08-20</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Oleksandr_Kubrakov"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q66809451"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Interior Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Denys Monastyrskyi
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Denys Monastyrskyi from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Denys%20Monastyrsky.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1980-06-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Denys_Monastyrsky"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q65198777"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Denys Maliuska
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Denys Maliuska from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Denys%20Malyuska.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1981-11-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Denys_Maliuska"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q66809435"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Regional Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Oleksiy Chernyshov
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Oleksiy Chernyshov from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Chernishov%20Oleksiy.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1977-09-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Oleksiy_Chernyshov"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q42792644"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Social Policy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Maryna Lazebna
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Maryna Lazebna from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Лазебна%20Марина%20Володимирівна.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1975-06-10</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Maryna_Lazebna"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q87073176"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Strategic Industries</dt>
+          <dd>
+            <span class="toggle"></span>
+            Pavlo Ryabikin
+            <div class="bio">
+              
+              <ul>
+                
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q65499384"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Veterans' Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Yuliia Laputina
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Yuliia Laputina from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Yuliia%20Laputina%20at%20Kharkiv%20Security%20Forum%202019.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1967</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q88653809"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Youth and Sports</dt>
+          <dd>
+            <span class="toggle"></span>
+            Vadim Gutzeit
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Vadim Gutzeit from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Vadym%20Huttsait%20portrait.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1971-10-06</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Vadym_Gutzeit"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q922349"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of the Cabinet of Ministers</dt>
+          <dd>
+            <span class="toggle"></span>
+            Oleh Nemchinov
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1977-05-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Oleh_Nemchinov"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q65197482"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Head of the Office of the President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Andrey Yermak
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Andrey Yermak from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Андрій%20Єрмак%20під%20час%20виступу%20на%20Всеукраїнському%20форумі%20«Україна%2030.%20Здорова%20Україна»%20у%20Києві.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1971-11-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Andriy_Yermak"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q65200615"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chairman of the Verkhovna Rada</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ruslan Stefanchuk
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ruslan Stefanchuk from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Стефанчук%20Руслан,%202019,%201%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1975-10-29</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ruslan_Stefanchuk"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q20070130"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Head of Kyiv City State Administration<br />Head of Kyiv City</dt>
+          <dd>
+            <span class="toggle"></span>
+            Vitaliy Klitschko
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Vitaliy Klitschko from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/2014-09-12%20-%20Vitali%20Klitschko%20-%209019%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1971-07-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Vitali_Klitschko"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q31919"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the National Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Kyrylo Shevchenko
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Kyrylo Shevchenko from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Foto%20KShevchenko%202017.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1972-10-25</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Kyrylo_Shevchenko"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q28701679"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of the General Staff</dt>
+          <dd>
+            <span class="toggle"></span>
+            Serhiy Shaptala
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1973-02-05</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q20070771"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Head of the Foreign Intelligence Service</dt>
+          <dd>
+            <span class="toggle"></span>
+            Oleksandr Litvinenko
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1972-04-27</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q12118123"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Head of the Security Service</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ivan Bakanov
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ivan Bakanov from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Баканов%20Іван%20(cropped).jpeg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1975-05-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ivan_Bakanov"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q62726046"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prosecutor General</dt>
+          <dd>
+            <span class="toggle"></span>
+            Iryna Venediktova
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Iryna Venediktova from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Венедіктова%20Ірина%20Валентинівна%20у%20ВРУ%20(2020).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1978-09-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Iryna_Venediktova"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q64632862"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

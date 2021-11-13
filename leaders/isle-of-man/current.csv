@@ -1,13 +1,13 @@
-position,person,personID,start,gender,DOB,dobp,DOD,dodp,image
-Lord of Mann,Elizabeth II,Q9682,1952-02-06,female,1926-04-21,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Elizabeth%20II%20in%20March%202015.jpg
-Chief Minister,Alfred Cannan,Q25752002,2021-10-12,male,,,,,
-Lieutenant Governor,John Lorimer,Q6245279,2021-09-29,male,1962-11-27,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/John%20G.%20Lorimer.jpg
-Minister for Cabinet Office,Kate Lord-Brennan,Q50676528,2021-10-12,female,,,,,
-"Minister for Education, Sport and Culture",Julie Edge,Q106808901,2021-10-12,female,,,,,
-Minister for Enterprise,Alexander J Allinson,Q107833017,2021-10-12,male,,,,,
-"Minister for Environment, Food and Agriculture",Clare Barber,Q108933969,2021-10-12,female,,,,,
-Minister for Health and Social Care,Lawrie Hooper,Q106808905,2021-10-12,male,,,,,
-Minister for Infrastructure,Tim Crookall,Q7803374,2021-10-12,male,,,,,
-Minister for Justice and Home Affairs,Jane Poole-Wilson,Q43549347,2021-10-12,female,,,,,
-Minister for the Treasury,David Ashford,Q54935545,2021-10-12,male,1977-01-01,9,,,
-Speaker of the House of Keys,Juan Watterson,Q6301157,2016-01-01,male,1980-07-04,11,,,
+position,person,personID,start,gender,DOB,DOD,image,enwiki
+Lord of Mann,Elizabeth II,Q9682,1952-02-06,female,1926-04-21,,Queen Elizabeth II in March 2015.jpg,Elizabeth II
+Chief Minister,Alfred Cannan,Q25752002,2021-10-12,male,,,,Alfred Cannan
+Lieutenant Governor,John Lorimer,Q6245279,2021-09-29,male,1962-11-27,,John G. Lorimer.jpg,John Lorimer (British Army officer)
+Minister for Cabinet Office,Kate Lord-Brennan,Q50676528,2021-10-12,female,,,,Kate Lord-Brennan
+"Minister for Education, Sport and Culture",Julie Edge,Q106808901,2021-10-12,female,,,,Julie Edge
+Minister for Enterprise,Alexander J Allinson,Q107833017,2021-10-12,male,,,,
+"Minister for Environment, Food and Agriculture",Clare Barber,Q108933969,2021-10-12,female,,,,
+Minister for Health and Social Care,Lawrie Hooper,Q106808905,2021-10-12,male,,,,Lawrie Hooper
+Minister for Infrastructure,Tim Crookall,Q7803374,2021-10-12,male,,,,Tim Crookall
+Minister for Justice and Home Affairs,Jane Poole-Wilson,Q43549347,2021-10-12,female,,,,Jane Poole-Wilson
+Minister for the Treasury,David Ashford,Q54935545,2021-10-12,male,1977,,,David Ashford
+Speaker of the House of Keys,Juan Watterson,Q6301157,2016-01-01,male,1980-07-04,,,Juan Watterson

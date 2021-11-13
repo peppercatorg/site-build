@@ -1,92 +1,311 @@
-<meta charset="UTF-8">
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
     <title>Antigua and Barbuda</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Antigua and Barbuda</h1>
-    <table>
-      <tr>
-        <td>monarch</td>
-        <td>Elizabeth II</td>
-      </tr>
-      <tr>
-        <td>Governor-General</td>
-        <td>Rodney Williams</td>
-      </tr>
-      <tr>
-        <td>Prime Minister</td>
-        <td>Gaston Browne</td>
-      </tr>
-      <tr>
-        <td>Minister of Agriculture, Lands, Fisheries and Barbuda Affairs</td>
-        <td>Samantha Marshall</td>
-      </tr>
-      <tr>
-        <td>Minister of Education, Science and Technology</td>
-        <td>Michael Sherwin Harris Browne</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance</td>
-        <td>Gaston Browne</td>
-      </tr>
-      <tr>
-        <td>Minister of Foreign Affairs</td>
-        <td>Paul Chet Greene</td>
-      </tr>
-      <tr>
-        <td>Minister of Health, Wellness & The Environment</td>
-        <td>Molwyn Joseph</td>
-      </tr>
-      <tr>
-        <td>Minister for Housing, Lands and Urban Renewal</td>
-        <td>Maria Bird-Browne</td>
-      </tr>
-      <tr>
-        <td>Minister of Information, Broadcasting, Telecommunications and Information Technology</td>
-        <td>Melford Nicholas</td>
-      </tr>
-      <tr>
-        <td>Minister of Legal Affairs, Public Safety, and Labour</td>
-        <td>Steadroy Benjamin</td>
-      </tr>
-      <tr>
-        <td>Minister of Public Utilities, Civil Aviation, Transportation</td>
-        <td>Robin Yearwood</td>
-      </tr>
-      <tr>
-        <td>Minister of Social Transformation and Human Resource Development</td>
-        <td>Samantha Marshall</td>
-      </tr>
-      <tr>
-        <td>Minister of Sports, Culture, National Festivals and the Arts</td>
-        <td>Daryll Mathew</td>
-      </tr>
-      <tr>
-        <td>Minister of Tourism and Economic Development</td>
-        <td>Charles Fernandez</td>
-      </tr>
-      <tr>
-        <td>Minister of Works</td>
-        <td>Lennox Weston</td>
-      </tr>
-      <tr>
-        <td>Attorney General</td>
-        <td>Steadroy Benjamin</td>
-      </tr>
-      <tr>
-        <td>Speaker of the House of Representatives</td>
-        <td>Gerald Watt</td>
-      </tr>
-      <tr>
-        <td>President of the Senate</td>
-        <td>Alincia Williams-Grant</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Antigua and Barbuda</h1>
+      <dl>
+          <dt>monarch</dt>
+          <dd>
+            <span class="toggle"></span>
+            Elizabeth II
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Elizabeth II from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Elizabeth%20II%20in%20March%202015.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1926-04-21</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Elizabeth_II"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q9682"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor-General</dt>
+          <dd>
+            <span class="toggle"></span>
+            Rodney Williams
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Rodney Williams from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Governor%20General%20Of%20Antigua%20And%20Barbuda%20(37250652361)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1947-11-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Rodney_Williams_(governor-general)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q17566330"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister<br />Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gaston Browne
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Gaston Browne from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/PM%20Gaston%20Browne%20(36764147103).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-02-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Gaston_Browne"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q17177542"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Agriculture, Lands, Fisheries and Barbuda Affairs<br />Minister of Social Transformation and Human Resource Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Samantha Marshall
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 2000-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Samantha_Marshall"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q20192069"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education, Science and Technology</dt>
+          <dd>
+            <span class="toggle"></span>
+            Michael Sherwin Harris Browne
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 2000</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q20171315"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Foreign Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Paul Chet Greene
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 2000-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Paul_Chet_Greene"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q20172097"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health, Wellness & The Environment</dt>
+          <dd>
+            <span class="toggle"></span>
+            Molwyn Joseph
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 2000-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Molwyn_Joseph"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16730448"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister for Housing, Lands and Urban Renewal</dt>
+          <dd>
+            <span class="toggle"></span>
+            Maria Bird-Browne
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1991</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Maria_Bird-Browne"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q100606338"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Information, Broadcasting, Telecommunications and Information Technology</dt>
+          <dd>
+            <span class="toggle"></span>
+            Melford Nicholas
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 2000-01-01</li>
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q20850520"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Legal Affairs, Public Safety, and Labour<br />Attorney General</dt>
+          <dd>
+            <span class="toggle"></span>
+            Steadroy Benjamin
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 2000-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Steadroy_Benjamin"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7605192"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Public Utilities, Civil Aviation, Transportation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Robin Yearwood
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 2000-01-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Robin_Yearwood"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q7352892"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Sports, Culture, National Festivals and the Arts</dt>
+          <dd>
+            <span class="toggle"></span>
+            Daryll Mathew
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Daryll_Mathew"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q104634506"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Tourism and Economic Development</dt>
+          <dd>
+            <span class="toggle"></span>
+            Charles Fernandez
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Charles Fernandez from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Max%20Fernandez.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1954-12-24</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Charles_Fernandez"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q20171771"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Works</dt>
+          <dd>
+            <span class="toggle"></span>
+            Lennox Weston
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q108319069"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the House of Representatives</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gerald Watt
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1938-12-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Gerald_Watt"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q104642679"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>President of the Senate</dt>
+          <dd>
+            <span class="toggle"></span>
+            Alincia Williams-Grant
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Alincia_Williams-Grant"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q48417293"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>

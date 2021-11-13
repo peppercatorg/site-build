@@ -1,24 +1,24 @@
-position,person,personID,start,gender,DOB,dobp,DOD,dodp,image
-President,Vjosa Osmani,Q13047644,2021-04-04,female,1982-05-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Vjosa%20Osmani1.jpg
-Prime Minister,Albin Kurti,Q441633,2021-03-22,male,1975-03-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/PM%20Albin%20Kurti%20during%20the%20first%20meeting%20of%20the%20Government%20of%20the%20Republic%20of%20Kosovo%203%20%28cropped%29.jpg
-"First Deputy Prime Minister for European Integration, Development and Dialogue",Besnik Bislimi,Q13037558,2021-03-22,male,1971-05-19,11,,,
-Second Deputy Prime Minister and Minister of Foreign Affairs and Diaspora,Donika Gërvalla-Schwarz,Q106119866,2021-03-22,female,1971-01-01,9,,,
-Third Deputy Prime Minister for Minority Issues and Human Rights,Emilija Redžepi,Q43388670,2021-03-22,female,1973-07-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Emilija%20Redzepi.jpg
-"Minister of Agriculture, Forestry and Rural Development",Faton Peci,Q107601196,2021-03-22,,,,,,
-Minister of Communities and Returns,Goran Rakić,Q95981055,2021-03-22,male,1971-01-01,9,,,http://commons.wikimedia.org/wiki/Special:FilePath/Minister%20Goran%20Raki%C4%87%20%28cropped%29.jpg
-"Minister of Culture, Youth and Sports",Hajrulla Çeku,Q61079310,2021-03-22,,,,,,
-Minister of Defense,Armend Mehaj,Q107601179,2021-03-22,,,,,,
-Minister of Economy,Artane Rizvanolli,Q107601172,2021-03-22,,,,,,
-"Minister of Education, Science, Technology and Innovation",Arbërie Nagavci,Q106407260,2021-03-22,female,1970-03-29,11,,,
-"Minister of Environment, Spatial Planning and Infrastructure",Liburn Aliu,Q13041571,2021-03-22,male,1975-01-01,9,,,
-"Minister of Finance, Labor and Transfers",Hekuran Murati,Q107601152,2021-03-22,,,,,,
-Minister of Health,Dafina Gexha,Q108857538,2021-10-01,female,,,,,
-"Minister of Industry, Entrepreneurship and Trade",Rozeta Hajdari,Q107601124,2021-03-22,,,,,,
-Minister of Internal Affairs,Xhelal Sveçla,Q13047921,2021-03-22,male,,,,,
-Minister of Justice,Albulena Haxhiu,Q13036897,2021-03-22,female,1987-05-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Albulena%20Haxhiu.jpg
-Minister of Local Government Administration,Elbert Krasniqi,Q107601103,2021-03-22,,,,,,
-Minister of Regional Development,Fikrim Damka,Q61079964,2021-03-22,,,,,,
-Chairman of the Assembly,Glauk Konjufca,Q5567306,2021-03-22,male,1981-07-01,10,,,http://commons.wikimedia.org/wiki/Special:FilePath/Glauk%20Konjufca%20portrait.jpg
-Commander of the Security Force,Rrahman Rama,Q93758753,2015-03-18,male,1967-06-05,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Minister%20of%20the%20Kosovo%20Security%20Force%20and%20Commander%20of%20the%20KSF%20lay%20a%20wreath%20at%20the%20Tomb%20of%20the%20Unknown%20Soldier%20in%20Arlington%20National%20Cemetery%20%2825937035434%29%20%28cropped%29.jpg
-Governor of the Central Bank,Bedri Peci,Q109497111,2017-01-01,male,1971-01-01,9,,,
-Mayor of Priština,Shpend Ahmeti,Q7503354,2013-12-26,male,1978-04-18,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Shpend%20Ahmeti%20%28cropped%29.jpg
+position,person,personID,start,gender,DOB,DOD,image,enwiki
+President,Vjosa Osmani,Q13047644,2021-04-04,female,1982-05-17,,Vjosa Osmani1.jpg,Vjosa Osmani
+Prime Minister,Albin Kurti,Q441633,2021-03-22,male,1975-03-24,,PM Albin Kurti during the first meeting of the Government of the Republic of Kosovo 3 (cropped).jpg,Albin Kurti
+"First Deputy Prime Minister for European Integration, Development and Dialogue",Besnik Bislimi,Q13037558,2021-03-22,male,1971-05-19,,,
+Second Deputy Prime Minister and Minister of Foreign Affairs and Diaspora,Donika Gërvalla-Schwarz,Q106119866,2021-03-22,female,1971,,,Donika Gërvalla-Schwarz
+Third Deputy Prime Minister for Minority Issues and Human Rights,Emilija Redžepi,Q43388670,2021-03-22,female,1973-07-15,,Emilija Redzepi.jpg,Emilija Redžepi
+"Minister of Agriculture, Forestry and Rural Development",Faton Peci,Q107601196,2021-03-22,,,,,
+Minister of Communities and Returns,Goran Rakić,Q95981055,2021-03-22,male,1971,,Minister Goran Rakić (cropped).jpg,Goran Rakić
+"Minister of Culture, Youth and Sports",Hajrulla Çeku,Q61079310,2021-03-22,,,,,
+Minister of Defense,Armend Mehaj,Q107601179,2021-03-22,,,,,
+Minister of Economy,Artane Rizvanolli,Q107601172,2021-03-22,,,,,
+"Minister of Education, Science, Technology and Innovation",Arbërie Nagavci,Q106407260,2021-03-22,female,1970-03-29,,,Arbërie Nagavci
+"Minister of Environment, Spatial Planning and Infrastructure",Liburn Aliu,Q13041571,2021-03-22,male,1975,,,Liburn Aliu
+"Minister of Finance, Labor and Transfers",Hekuran Murati,Q107601152,2021-03-22,,,,,
+Minister of Health,Dafina Gexha,Q108857538,2021-10-01,female,,,,
+"Minister of Industry, Entrepreneurship and Trade",Rozeta Hajdari,Q107601124,2021-03-22,,,,,
+Minister of Internal Affairs,Xhelal Sveçla,Q13047921,2021-03-22,male,,,,
+Minister of Justice,Albulena Haxhiu,Q13036897,2021-03-22,female,1987-05-11,,Albulena Haxhiu.jpg,Albulena Haxhiu
+Minister of Local Government Administration,Elbert Krasniqi,Q107601103,2021-03-22,,,,,
+Minister of Regional Development,Fikrim Damka,Q61079964,2021-03-22,,,,,
+Chairman of the Assembly,Glauk Konjufca,Q5567306,2021-03-22,male,1981-07,,Glauk Konjufca portrait.jpg,Glauk Konjufca
+Commander of the Security Force,Rrahman Rama,Q93758753,2015-03-18,male,1967-06-05,,Minister of the Kosovo Security Force and Commander of the KSF lay a wreath at the Tomb of the Unknown Soldier in Arlington National Cemetery (25937035434) (cropped).jpg,Rrahman Rama
+Governor of the Central Bank,Bedri Peci,Q109497111,2017-01-01,male,1971,,,
+Mayor of Priština,Shpend Ahmeti,Q7503354,2013-12-26,male,1978-04-18,,Shpend Ahmeti (cropped).jpg,Shpend Ahmeti

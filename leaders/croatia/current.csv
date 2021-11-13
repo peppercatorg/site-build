@@ -1,27 +1,27 @@
-title,start,person,personLabel,genderLabel,dob,dobPrecision,dod,dodPrecision,image
-President,2020-02-19,Q57687,Zoran Milanović,male,1966-10-30,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Zoran%20Milanovi%C4%87%20February%202020%20%28cropped%20-%202%29.jpg
-Prime Minister,2016-10-19,Q11685764,Andrej Plenković,male,1970-04-08,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Andrej%20Plenkovi%C4%87%202019%20%28cropped%29.jpg
-Deputy Prime Minister,2019-07-19,Q23303210,Zdravko Marić,male,1977-02-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/ZdravkoMaric%20final.jpg
-Deputy Prime Minister,2019-07-19,Q2619574,Davor Božinović,male,1961-12-27,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/20%20obljetnica%20osnivanja%20OS%20RH%20Davor%20Bozinovic%2026052011%202.jpg
-Deputy Prime Minister,2020-07-23,Q97671314,Boris Milošević,male,1974-11-05,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Boris%20Milo%C5%A1evi%C4%872.png
-Deputy Prime Minister,2020-07-23,Q24641177,Tomo Medved,male,1968-03-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tomo%20Medved.jpg
-Finance Minister,2016-01-22,Q23303210,Zdravko Marić,male,1977-02-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/ZdravkoMaric%20final.jpg
-Health Minister,2020-01-31,Q86458127,Vili Beroš,male,1964-12-13,11,,,
-Minister of Agriculture,2019-07-22,Q65922777,Marija Vučković,female,1974-07-03,11,,,
-"Minister of Construction, Physical Planning and State Property",2020-07-23,Q54810256,Darko Horvat,male,1970-09-28,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/DarkoHorvat%20final.jpg
-Minister of Culture,2016-10-19,Q27468700,Nina Obuljen Koržinek,female,1970-05-27,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Nina%20Obuljen%20Korzinek.jpg
-Minister of Defence,2020-07-23,Q65922962,Mario Banožić,male,1979-03-10,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Bano%C5%BEi%C4%87%20%28cropped%29.jpg
-Minister of Economy and Sustainable Development,2020-07-23,Q27537240,Tomislav Ćorić,male,1979-11-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tomislav%20%C4%86ori%C4%87%20%28cropped%29.jpg
-Minister of Foreign and European Affairs,2019-07-22,Q46511044,Gordan Grlić-Radman,male,1958-06-06,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Gordan%20Grli%C4%87%20Radman%20%2848742779146%29%20%28cropped%29.jpg
-Minister of Justice,2020-07-24,Q65704442,Ivan Malenica,male,1985-07-21,11,,,
-Minister of Labour and Pension System,2019-07-19,Q65922295,Josip Aladrović,male,1985-03-10,11,,,
-"Minister of Maritime Affairs, Transport and Infrastructure",2016-01-22,Q26248569,Oleg Butković,male,1979-05-04,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/OlegButkovic%20final.jpg
-Minister of Regional Development and EU Funds,2020-07-23,Q97654605,Nataša Tramišak,female,1982-05-06,11,,,
-Minister of Science and Education,2020-07-23,Q12640934,Radovan Fuchs,male,1953-09-05,11,,,
-Minister of the Interior,2017-06-09,Q2619574,Davor Božinović,male,1961-12-27,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/20%20obljetnica%20osnivanja%20OS%20RH%20Davor%20Bozinovic%2026052011%202.jpg
-Minister of Tourism and Sport,2020-07-23,Q83985420,Nikolina Brnjac,female,1978-07-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/EU%20budget%20debate%20ahead%20of%20crucial%20summit%20-%20with%20Nikolina%20Brnjac%20%28Council%29%20%2849524883806%29.jpg
-Minister of Veterans Affairs,2016-03-21,Q24641177,Tomo Medved,male,1968-03-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tomo%20Medved.jpg
-Speaker of the Croatian Parliament,2017-05-05,Q1337804,Gordan Jandroković,male,1967-08-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Gordan%20Jandrokovi%C4%87%2025-06-09.jpg
-Chief of the General Staff of the Armed Forces,2020-03-01,Q16116138,Robert Hranj,male,,,,,
-Governor of the Central Bank,2012-07-08,Q12628155,Boris Vujčić,male,1964-06-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Boris%20Vuj%C4%8Di%C4%87.jpg
-mayor of Zagreb,2021-06-04,Q96250350,Tomislav Tomašević,male,1982-01-13,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/ZagrebIsOURS%20TomislavTomasevic%20IMG%204235-saved-for-web-5-1-800x510.jpg
+position,person,personID,start,gender,DOB,DOD,image,enwiki
+President,Zoran Milanović,Q57687,2020-02-19,male,1966-10-30,,Zoran Milanović February 2020 (cropped - 2).jpg,Zoran Milanović
+Prime Minister,Andrej Plenković,Q11685764,2016-10-19,male,1970-04-08,,Andrej Plenković 2019 (cropped).jpg,Andrej Plenković
+Deputy Prime Minister,Zdravko Marić,Q23303210,2019-07-19,male,1977-02-03,,ZdravkoMaric final.jpg,Zdravko Marić
+Deputy Prime Minister,Davor Božinović,Q2619574,2019-07-19,male,1961-12-27,,20 obljetnica osnivanja OS RH Davor Bozinovic 26052011 2.jpg,Davor Božinović
+Deputy Prime Minister,Boris Milošević,Q97671314,2020-07-23,male,1974-11-05,,Boris Milošević2.png,Boris Milošević
+Deputy Prime Minister,Tomo Medved,Q24641177,2020-07-23,male,1968-03-17,,Tomo Medved.jpg,
+Finance Minister,Zdravko Marić,Q23303210,2016-01-22,male,1977-02-03,,ZdravkoMaric final.jpg,Zdravko Marić
+Health Minister,Vili Beroš,Q86458127,2020-01-31,male,1964-12-13,,,Vili Beroš
+Minister of Agriculture,Marija Vučković,Q65922777,2019-07-22,female,1974-07-03,,,Marija Vučković
+"Minister of Construction, Physical Planning and State Property",Darko Horvat,Q54810256,2020-07-23,male,1970-09-28,,DarkoHorvat final.jpg,Darko Horvat (politician)
+Minister of Culture,Nina Obuljen Koržinek,Q27468700,2016-10-19,female,1970-05-27,,Nina Obuljen Korzinek.jpg,Nina Obuljen Koržinek
+Minister of Defence,Mario Banožić,Q65922962,2020-07-23,male,1979-03-10,,Mario Banožić (cropped).jpg,Mario Banožić
+Minister of Economy and Sustainable Development,Tomislav Ćorić,Q27537240,2020-07-23,male,1979-11-17,,Tomislav Ćorić (cropped).jpg,Tomislav Ćorić
+Minister of Foreign and European Affairs,Gordan Grlić-Radman,Q46511044,2019-07-22,male,1958-06-06,,2019 Gordan Grlić Radman (48742779146) (cropped).jpg,Gordan Grlić-Radman
+Minister of Justice,Ivan Malenica,Q65704442,2020-07-24,male,1985-07-21,,,Ivan Malenica (politician)
+Minister of Labour and Pension System,Josip Aladrović,Q65922295,2019-07-19,male,1985-03-10,,,
+"Minister of Maritime Affairs, Transport and Infrastructure",Oleg Butković,Q26248569,2016-01-22,male,1979-05-04,,OlegButkovic final.jpg,Oleg Butković
+Minister of Regional Development and EU Funds,Nataša Tramišak,Q97654605,2020-07-23,female,1982-05-06,,,Nataša Tramišak
+Minister of Science and Education,Radovan Fuchs,Q12640934,2020-07-23,male,1953-09-05,,,Radovan Fuchs
+Minister of the Interior,Davor Božinović,Q2619574,2017-06-09,male,1961-12-27,,20 obljetnica osnivanja OS RH Davor Bozinovic 26052011 2.jpg,Davor Božinović
+Minister of Tourism and Sport,Nikolina Brnjac,Q83985420,2020-07-23,female,1978-07-11,,EU budget debate ahead of crucial summit - with Nikolina Brnjac (Council) (49524883806).jpg,Nikolina Brnjac
+Minister of Veterans Affairs,Tomo Medved,Q24641177,2016-03-21,male,1968-03-17,,Tomo Medved.jpg,
+Speaker of the Croatian Parliament,Gordan Jandroković,Q1337804,2017-05-05,male,1967-08-02,,Gordan Jandroković 25-06-09.jpg,Gordan Jandroković
+Chief of the General Staff of the Armed Forces,Robert Hranj,Q16116138,2020-03-01,male,,,,Robert Hranj
+Governor of the Central Bank,Boris Vujčić,Q12628155,2012-07-08,male,1964-06-02,,Boris Vujčić.jpg,Boris Vujčić
+mayor of Zagreb,Tomislav Tomašević,Q96250350,2021-06-04,male,1982-01-13,,Mozemo! 20202 sedmorka u Saboru RH.jpg,Tomislav Tomašević

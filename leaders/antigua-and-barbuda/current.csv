@@ -1,20 +1,20 @@
-title,start,person,personLabel,genderLabel,dob,dobPrecision,dod,dodPrecision,image
-monarch,1981-11-01,Q9682,Elizabeth II,female,1926-04-21,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Elizabeth%20II%20in%20March%202015.jpg
-Governor-General,2014-08-14,Q17566330,Rodney Williams,male,1947-11-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Governor%20General%20Of%20Antigua%20And%20Barbuda%20%2837250652361%29%20%28cropped%29.jpg
-Prime Minister,2014-06-13,Q17177542,Gaston Browne,male,1967-02-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/PM%20Gaston%20Browne%20%2836764147103%29.jpg
-"Minister of Agriculture, Lands, Fisheries and Barbuda Affairs",2020-01-20,Q20192069,Samantha Marshall,female,2000-01-01,7,,,
-"Minister of Education, Science and Technology",2018-03-22,Q20171315,Michael Sherwin Harris Browne,male,2000-01-01,7,,,
-Minister of Finance,2018-03-22,Q17177542,Gaston Browne,male,1967-02-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/PM%20Gaston%20Browne%20%2836764147103%29.jpg
-Minister of Foreign Affairs,2018-03-22,Q20172097,Paul Chet Greene,male,2000-01-01,7,,,
-"Minister of Health, Wellness & The Environment",2018-03-22,Q16730448,Molwyn Joseph,male,2000-01-01,7,,,
-"Minister for Housing, Lands and Urban Renewal",2018-03-22,Q100606338,Maria Bird-Browne,female,1991-01-01,9,,,
-"Minister of Information, Broadcasting, Telecommunications and Information Technology",2018-03-22,Q20850520,Melford Nicholas,male,2000-01-01,7,,,
-"Minister of Legal Affairs, Public Safety, and Labour",2018-03-22,Q7605192,Steadroy Benjamin,male,2000-01-01,7,,,
-"Minister of Public Utilities, Civil Aviation, Transportation",2018-03-22,Q7352892,Robin Yearwood,male,2000-01-01,7,,,
-Minister of Social Transformation and Human Resource Development,2018-03-22,Q20192069,Samantha Marshall,female,2000-01-01,7,,,
-"Minister of Sports, Culture, National Festivals and the Arts",2018-03-22,Q104634506,Daryll Mathew,male,,,,,
-Minister of Tourism and Economic Development,2018-03-22,Q20171771,Charles Fernandez,male,1954-12-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Max%20Fernandez.jpg
-Minister of Works,2018-03-22,Q108319069,Lennox Weston,male,,,,,
-Attorney General,2018-03-22,Q7605192,Steadroy Benjamin,male,2000-01-01,7,,,
-Speaker of the House of Representatives,2014-06-25,Q104642679,Gerald Watt,male,1938-12-19,11,,,
-President of the Senate,2014-06-25,Q48417293,Alincia Williams-Grant,female,,,,,
+position,person,personID,start,gender,DOB,DOD,image,enwiki
+monarch,Elizabeth II,Q9682,1981-11-01,female,1926-04-21,,Queen Elizabeth II in March 2015.jpg,Elizabeth II
+Governor-General,Rodney Williams,Q17566330,2014-08-14,male,1947-11-02,,Governor General Of Antigua And Barbuda (37250652361) (cropped).jpg,Rodney Williams (governor-general)
+Prime Minister,Gaston Browne,Q17177542,2014-06-13,male,1967-02-09,,PM Gaston Browne (36764147103).jpg,Gaston Browne
+"Minister of Agriculture, Lands, Fisheries and Barbuda Affairs",Samantha Marshall,Q20192069,2020-01-20,female,2000-01-01,,,Samantha Marshall
+"Minister of Education, Science and Technology",Michael Sherwin Harris Browne,Q20171315,2018-03-22,male,2000,,,
+Minister of Finance,Gaston Browne,Q17177542,2018-03-22,male,1967-02-09,,PM Gaston Browne (36764147103).jpg,Gaston Browne
+Minister of Foreign Affairs,Paul Chet Greene,Q20172097,2018-03-22,male,2000-01-01,,,Paul Chet Greene
+"Minister of Health, Wellness & The Environment",Molwyn Joseph,Q16730448,2018-03-22,male,2000-01-01,,,Molwyn Joseph
+"Minister for Housing, Lands and Urban Renewal",Maria Bird-Browne,Q100606338,2018-03-22,female,1991,,,Maria Bird-Browne
+"Minister of Information, Broadcasting, Telecommunications and Information Technology",Melford Nicholas,Q20850520,2018-03-22,male,2000-01-01,,,
+"Minister of Legal Affairs, Public Safety, and Labour",Steadroy Benjamin,Q7605192,2018-03-22,male,2000-01-01,,,Steadroy Benjamin
+"Minister of Public Utilities, Civil Aviation, Transportation",Robin Yearwood,Q7352892,2018-03-22,male,2000-01-01,,,Robin Yearwood
+Minister of Social Transformation and Human Resource Development,Samantha Marshall,Q20192069,2018-03-22,female,2000-01-01,,,Samantha Marshall
+"Minister of Sports, Culture, National Festivals and the Arts",Daryll Mathew,Q104634506,2018-03-22,male,,,,Daryll Mathew
+Minister of Tourism and Economic Development,Charles Fernandez,Q20171771,2018-03-22,male,1954-12-24,,Charles Max Fernandez.jpg,Charles Fernandez
+Minister of Works,Lennox Weston,Q108319069,2018-03-22,male,,,,
+Attorney General,Steadroy Benjamin,Q7605192,2018-03-22,male,2000-01-01,,,Steadroy Benjamin
+Speaker of the House of Representatives,Gerald Watt,Q104642679,2014-06-25,male,1938-12-19,,,Gerald Watt
+President of the Senate,Alincia Williams-Grant,Q48417293,2014-06-25,female,,,,Alincia Williams-Grant

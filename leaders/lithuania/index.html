@@ -4,94 +4,372 @@
     <meta charset="UTF-8">
     <title>Lithuania</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        padding: 0.5em;
+        clear: both;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 0 1em;
+      }
+
+      .bio li {
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
   </head>
   <body>
-    <h1>Lithuania</h1>
-    <table>
-      <tr>
-        <td>President</td>
-        <td>Gitanas Nausėda</td>
-      </tr>
-      <tr>
-        <td>Prime Minister</td>
-        <td>Ingrida Šimonytė</td>
-      </tr>
-      <tr>
-        <td>Minister of Agriculture</td>
-        <td>Kęstutis Navickas</td>
-      </tr>
-      <tr>
-        <td>Minister of Culture</td>
-        <td>Simonas Kairys</td>
-      </tr>
-      <tr>
-        <td>Minister of Economy and Innovation</td>
-        <td>Aušrinė Armonaitė</td>
-      </tr>
-      <tr>
-        <td>Minister of Education, Science and Sport</td>
-        <td>Jurgita Šiugždinienė</td>
-      </tr>
-      <tr>
-        <td>Minister of Energy</td>
-        <td>Dainius Kreivys</td>
-      </tr>
-      <tr>
-        <td>Minister of Environment</td>
-        <td>Simonas Gentvilas</td>
-      </tr>
-      <tr>
-        <td>Minister of Finance</td>
-        <td>Gintarė Skaistė</td>
-      </tr>
-      <tr>
-        <td>Minister of Foreign Affairs</td>
-        <td>Gabrielius Landsbergis</td>
-      </tr>
-      <tr>
-        <td>Minister of Health</td>
-        <td>Arūnas Dulkys</td>
-      </tr>
-      <tr>
-        <td>Minister of the Interior</td>
-        <td>Agnė Bilotaitė</td>
-      </tr>
-      <tr>
-        <td>Minister of Justice</td>
-        <td>Evelina Dobrovolska</td>
-      </tr>
-      <tr>
-        <td>Minister of National Defence</td>
-        <td>Arvydas Anušauskas</td>
-      </tr>
-      <tr>
-        <td>Minister of Social Security and Labour</td>
-        <td>Monika Navickienė</td>
-      </tr>
-      <tr>
-        <td>Minister of Transport and Communications</td>
-        <td>Marius Skuodis</td>
-      </tr>
-      <tr>
-        <td>Speaker of the Seimas</td>
-        <td>Viktoras Pranckietis</td>
-      </tr>
-      <tr>
-        <td>Chief of Defence</td>
-        <td>Valdemaras Rupšys</td>
-      </tr>
-      <tr>
-        <td>Governor of the Central Bank</td>
-        <td>Gediminas Šimkus</td>
-      </tr>
-      <tr>
-        <td>Mayor of Vilnius</td>
-        <td>Remigijus Šimašius</td>
-      </tr>
-      <tr>
-        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
-      </tr>
-    </table>
+    <div id="officeholders">
+      <h1>Lithuania</h1>
+      <dl>
+          <dt>President</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gitanas Nausėda
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Gitanas Nausėda from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Gitanas%20Nauseda%20crop.png?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1964-05-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Gitanas_Nausėda"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q9268379"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Prime Minister</dt>
+          <dd>
+            <span class="toggle"></span>
+            Ingrida Šimonytė
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Ingrida Šimonytė from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Ingrida%20Simonyte%202019.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1974-11-15</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Ingrida_Šimonytė"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q437096"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Agriculture</dt>
+          <dd>
+            <span class="toggle"></span>
+            Kęstutis Navickas
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Kęstutis Navickas from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Uj4.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-06-13</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Kęstutis_Navickas_(1970)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27977538"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Culture</dt>
+          <dd>
+            <span class="toggle"></span>
+            Simonas Kairys
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1984-04-19</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Simonas_Kairys"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q16472414"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Economy and Innovation</dt>
+          <dd>
+            <span class="toggle"></span>
+            Aušrinė Armonaitė
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Aušrinė Armonaitė from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Aušrinė%20Armonaitė.png?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1989-05-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Aušrinė_Armonaitė"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27808316"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Education, Science and Sport</dt>
+          <dd>
+            <span class="toggle"></span>
+            Jurgita Šiugždinienė
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1972-03-01</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Jurgita_Šiugždinienė"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q101429324"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Energy</dt>
+          <dd>
+            <span class="toggle"></span>
+            Dainius Kreivys
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Dainius Kreivys from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Kreivys%202red.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1970-04-08</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Dainius_Kreivys"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1157636"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Environment</dt>
+          <dd>
+            <span class="toggle"></span>
+            Simonas Gentvilas
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1984-09-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Simonas_Gentvilas"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27577960"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Finance</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gintarė Skaistė
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1981-08-04</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Gintarė_Skaistė"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27833521"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Foreign Affairs</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gabrielius Landsbergis
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Gabrielius Landsbergis from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/EPP%20Summit,%20December%202015%20(23782875616)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1982-01-07</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Gabrielius_Landsbergis"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q17118365"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Health</dt>
+          <dd>
+            <span class="toggle"></span>
+            Arūnas Dulkys
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1972-10-28</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Arūnas_Dulkys"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q61387734"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of the Interior</dt>
+          <dd>
+            <span class="toggle"></span>
+            Agnė Bilotaitė
+            <div class="bio">
+              
+              <ul>
+                <li>female</li>
+                <li>born 1982-01-29</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Agnė_Bilotaitė"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q395152"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Justice</dt>
+          <dd>
+            <span class="toggle"></span>
+            Evelina Dobrovolska
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Evelina Dobrovolska from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Evelina%20Dobrovolska.jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1988-08-16</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Evelina_Dobrovolska"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q100435418"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of National Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Arvydas Anušauskas
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Arvydas Anušauskas from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Arvydas%20Anušauskas.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1963-09-29</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Arvydas_Anušauskas"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q3672207"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Social Security and Labour</dt>
+          <dd>
+            <span class="toggle"></span>
+            Monika Navickienė
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Monika Navickienė from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Monika%20Navickienė%20(2021)%20(cropped).jpg?width=100" />
+              <ul>
+                <li>female</li>
+                <li>born 1981-06-25</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Monika_Navickienė"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27537109"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Minister of Transport and Communications</dt>
+          <dd>
+            <span class="toggle"></span>
+            Marius Skuodis
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                <li>born 1985-08-09</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Marius_Skuodis"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q47237500"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Speaker of the Seimas</dt>
+          <dd>
+            <span class="toggle"></span>
+            Viktoras Pranckietis
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Viktoras Pranckietis from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Lietuvas%20parlamenta%20priekšsēdētāja%20vizīte%20Latvijā%20(cropped).jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1958-07-26</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Viktoras_Pranckietis"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q27537241"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Chief of Defence</dt>
+          <dd>
+            <span class="toggle"></span>
+            Valdemaras Rupšys
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Valdemaras Rupšys from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Kariuomenės%20vadas%20Valdemaras%20Rupšys.jpg?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1967-05-02</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Valdemaras_Rupšys"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q25909922"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Governor of the Central Bank</dt>
+          <dd>
+            <span class="toggle"></span>
+            Gediminas Šimkus
+            <div class="bio">
+              
+              <ul>
+                <li>male</li>
+                
+                <li>
+                  
+                  <a href="https://www.wikidata.org/wiki/Q109496885"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+          <dt>Mayor of Vilnius</dt>
+          <dd>
+            <span class="toggle"></span>
+            Remigijus Šimašius
+            <div class="bio">
+              <img class="bioimg" width="100" alt="image of Remigijus Šimašius from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/Remigijus%20Šimašius%201.JPG?width=100" />
+              <ul>
+                <li>male</li>
+                <li>born 1974-01-12</li>
+                <li>
+                  <a href="https://en.wikipedia.org/wiki/Remigijus_Šimašius"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                  <a href="https://www.wikidata.org/wiki/Q1397662"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+              </ul>
+            </div>
+          </dd>
+      </dl>
+    </div>
+
+    <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
   </body>
 </html>
