@@ -98,6 +98,10 @@ div.navigation-bar {
   font-family: "Open Sans", sans-serif;
 }
 
+.navigation-bar a:hover {
+  text-decoration: underline;
+}
+
 .columns {
   column-count: 3;
   position: relative;
@@ -115,9 +119,5 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
-
-.logo-bar a:hover {
-  text-decoration: none;
 }
 
