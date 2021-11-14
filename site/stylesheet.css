@@ -59,8 +59,8 @@ div.claim-box {
   left: 50px;
   width: 800px;
   height: 50px;
- 
 }
+
 div.navigation-bar {
   position: relative;
   top: -36px;
@@ -98,10 +98,6 @@ div.navigation-bar {
   font-family: "Open Sans", sans-serif;
 }
 
-.navigation-bar a:hover {
-  text-decoration: underline;
-}
-
 .columns {
   column-count: 3;
   position: relative;
@@ -113,11 +109,8 @@ div.navigation-bar {
   color: black;
 }
 
-a {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+.logo-bar a:hover { text-decoration: none; }
+.logo-bar .navigation-bar a:hover { text-decoration: underline; }
 
