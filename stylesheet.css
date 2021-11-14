@@ -43,6 +43,7 @@ div.logo-bar {
   position: absolute;
   width: 100%;
   height: 75px;
+  top: 0;
   background-color: #FFBDCB;
 }
 
@@ -55,8 +56,8 @@ div.logo-box {
 
 div.claim-box {
   position: relative;
-  left: 200px;
-  width: 600px;
+  left: 50px;
+  width: 800px;
   height: 50px;
  
 }
@@ -84,44 +85,17 @@ div.navigation-bar {
    margin-left: -40px;
 }
 
-.copyright {
-   float: right;
-   height: 50px;
-   padding: -25px;
-   margin-top: 0px;
-   margin-right: 40px;
-}
-
-.copyright a {
-   color: white;
-}
-
-li {
+.navigation-bar li {
   display: block;
   color: #0E1535;
   text-decoration: none;
  }
 
-li a {
+.navigation-bar li a {
   display: block;
   float: left;
   color: #FFBDCB;
   font-family: "Open Sans", sans-serif;
-  text-decoration: none;
-}
-li a:hover {
-  text-decoration: underline;
-}
-
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: #0E1535;
-   color: white;
-   text-align: right;
-   margin-right: 300px;
 }
 
 .columns {
@@ -131,6 +105,19 @@ li a:hover {
   color: black;
 }
 
-.columns li{
+.columns li {
   color: black;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.logo-bar a:hover {
+  text-decoration: none;
+}
+
