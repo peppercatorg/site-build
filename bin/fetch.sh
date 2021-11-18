@@ -4,7 +4,7 @@ repo=$1; shift
 slug=$1; shift
 name=$*
 
-dir="site/leaders/$slug"
+dir="docs/leaders/$slug"
 csv="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/current.csv"
 html="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/index.html"
 
