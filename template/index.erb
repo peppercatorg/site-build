@@ -71,7 +71,7 @@
               <span class="toggle"></span>
               <%= positions.first[:person] %>
               <div class="bio">
-                <% unless positions.first[:image].to_s.empty? %><img class="bioimg" width="100" alt="image of <%= positions.first[:person] %> from Wikimedia Commons" src="http://commons.wikimedia.org/wiki/Special:FilePath/<%= positions.first[:image].gsub(' ','%20') %>?width=100" /><% end %>
+                <% unless positions.first[:image].to_s.empty? %><img class="bioimg" width="100" alt="image of <%= positions.first[:person] %> from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/<%= positions.first[:image].gsub(' ','%20') %>?width=100" /><% end %>
                 <ul>
                   <% unless positions.first[:gender].to_s.empty? %><li><%= positions.first[:gender] %></li><% end %>
                   <% unless positions.first[:dob].to_s.empty? %><li>born <%= positions.first[:dob] %></li><% end %>
