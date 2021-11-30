@@ -2,7 +2,7 @@ position,person,personID,start,gender,DOB,DOD,image,enwiki
 President,Guðni Jóhannesson,Q24045706,2016-08-01,male,1968-06-26,,Guðni Th. Jóhannesson at the Enthronement of Naruhito (1).jpg,Guðni Th. Jóhannesson
 Prime Minister,Katrín Jakobsdóttir,Q467464,2017-11-30,female,1976-02-01,,Katrín Jakobsdóttir (24539871465) (cropped).jpg,Katrín Jakobsdóttir
 Minister of Education and Children's Affairs,Ásmundur Einar Daðason,Q252565,2021-11-28,male,1982-10-29,,Ásmundur Einar Daðason.jpg,Ásmundur Einar Daðason
-Minister for the Environment and Natural Resources,Guðlaugur Þór Þórðarson,Q1557735,2021-11-28,male,1967-12-19,,Guðlaugur Þór Þórðarson (19-07-2021).jpg,Guðlaugur Þór Þórðarson
+"Minister for the Environment, Energy and Climate",Guðlaugur Þór Þórðarson,Q1557735,2021-11-28,male,1967-12-19,,Guðlaugur Þór Þórðarson (19-07-2021).jpg,Guðlaugur Þór Þórðarson
 Minister of Finance and Economic Affairs,Bjarni Benediktsson,Q879376,2017-11-30,male,1970-01-26,,Bjarni Benediktsson vid Nordiska Radets session i Stockholm.jpg,Bjarni Benediktsson (born 1970)
 Minister of Fisheries and Agriculture,Svandís Svavarsdóttir,Q438056,2021-11-28,female,1964-08-24,,Islands miljominister Svandis Svavarsdottir. Nordiska radets session i Stockholm 2009.jpg,Svandís Svavarsdóttir
 Minister for Foreign Affairs and International Development Cooperation,Þórdís Kolbrún R. Gylfadóttir,Q28734624,2021-11-28,female,1987-11-04,,,Þórdís Kolbrún R. Gylfadóttir
@@ -14,6 +14,6 @@ Minister for Nordic Cooperation,Sigurður Ingi Jóhannsson,Q201075,2017-11-30,ma
 Minister of Social Affairs and the Labour Market,Guðmundur Ingi Guðbrandsson,Q44216756,2021-11-28,male,1977-03-28,,,Guðmundur Ingi Guðbrandsson
 "Minister of Tourism, Trade and Culture",Lilja Dögg Alfreðsdóttir,Q23753778,2021-11-28,female,1973-10-04,,Lilja Dögg Alfreðsdóttir.jpg,Lilja Dögg Alfreðsdóttir
 Speaker of the Althing,Steingrímur J. Sigfússon,Q511882,2017-10-29,male,1955-08-04,,Steingrímur J. Sigfússon norden-1.jpg,Steingrímur J. Sigfússon
-Governor of the Central Bank,Asgeir Jonsson,Q4804273,2019-07-01,male,1970-06-21,,,Ásgeir Jónsson
-Director General of the Coast Guard,Georg Lárusson,Q3101322,2005-01-01,male,1959-03-21,,Georg Lárusson.jpg,Georg Kr. Lárusson
+Governor of the Central Bank,Asgeir Jonsson,Q4804273,2019-07,male,1970-06-21,,,Ásgeir Jónsson
+Director General of the Coast Guard,Georg Lárusson,Q3101322,2005,male,1959-03-21,,Georg Lárusson.jpg,Georg Kr. Lárusson
 Mayor of Reykjavík,Dagur B. Eggertsson,Q1151234,2014-06-16,male,1972-06-19,,DagurBEggertsson.jpg,Dagur B. Eggertsson
