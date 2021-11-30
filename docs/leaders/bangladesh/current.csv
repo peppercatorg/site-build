@@ -1,9 +1,9 @@
 position,person,personID,start,gender,DOB,DOD,image,enwiki
 President,Abdul Hamid,Q3246667,2013-03-14,male,1944-01-01,,"President of People’s Republic of Bangladesh, Mr. Md. Abdul Hamid, at Hyderabad House, in New Delhi on May 31, 2019.jpg",Abdul Hamid (politician)
 Prime Minister,Sheikh Hasina,Q52183,2009-01-06,female,1947-09-28,,Sheikh Hasina in London cropped.jpg,Sheikh Hasina
-Minister of Agriculture,Abdur Razzak,Q16057946,2019-01-01,male,1950-02-01,,"Dr. Muhammad Abdur Razzaque in New Delhi on February 12, 2011.jpg",Mohammad Abdur Razzaque
+Minister of Agriculture,Abdur Razzak,Q16057946,2019-01,male,1950-02-01,,"Dr. Muhammad Abdur Razzaque in New Delhi on February 12, 2011.jpg",Mohammad Abdur Razzaque
 Minister of Chittagong Hill Tracts Affairs,Ushwe Sing,Q26924794,2019-01-07,male,1960-01-10,,,Ushwe Sing
-Minister of Commerce,Tipu Munshi,Q52161621,2019-01-01,male,1950,,Tipu Munshi (cropped).jpg,Tipu Munshi
+Minister of Commerce,Tipu Munshi,Q52161621,2019-01,male,1950,,Tipu Munshi (cropped).jpg,Tipu Munshi
 Minister of Education,Dipu Moni,Q58264,2019-01-07,female,1965-12-08,,Dipu Moni February 2013 (8510153398).jpg,Dipu Moni
 "Minister of Environment, Forest and Climate Change",Md. Shahab Uddin,Q55694421,2019-01-07,male,1954,,,Md. Shahab Uddin
 Minister of Expatriates' Welfare and Overseas Employment,Imran Ahmad,Q28457273,2019-07-13,male,1948,,,Imran Ahmad
@@ -22,8 +22,8 @@ Minister of Liberation War Affairs,AKM Mozammel Haque,Q28225262,2014-01-05,male,
 Minister of Planning,M A Mannan,Q26924694,2019-01-07,male,1946,,M A Mannan (2) (cropped).jpg,Muhammad Abdul Mannan
 "Minister of Posts, Telecommunications and Information Technology",Mustafa Jabbar,Q16136994,2019-05-19,male,1949-08-12,,Mustafa Jabbar in Dhaka (35).jpg,Mustafa Jabbar
 Minister of Railways,Nurul Islam Sujan,Q15837138,2019-01-07,male,1956-01-05,,,Md. Nurul Islam Sujon
-Minister of Road Transport and Bridges,Obaidul Quader,Q14325293,2011-12-01,male,1952-01-01,,Obaidul Quader MP.jpg,Obaidul Quader
-Minister of Science and Technology,Yafes Osman,Q8046660,2009-01-01,male,1946-05-01,,Yeafesh Osman (01113699) (9822714675) (cropped).jpg,Yeafesh Osman
+Minister of Road Transport and Bridges,Obaidul Quader,Q14325293,2011-12,male,1952-01-01,,Obaidul Quader MP.jpg,Obaidul Quader
+Minister of Science and Technology,Yafes Osman,Q8046660,2009,male,1946-05-01,,Yeafesh Osman (01113699) (9822714675) (cropped).jpg,Yeafesh Osman
 Minister of Social Welfare,Nuruzzaman Ahmed,Q27063150,2019-01-07,male,1950,,Nuruzzaman Ahmed MP.jpg,Nuruzzaman Ahmed
 Minister of Textiles and Jute,Golam Dastagir Gazi,Q15732454,2019-01-07,male,1948-08-14,,,Golam Dastagir Gazi
 Speaker of Jatiyo Shangshad,Shirin Sharmin Chaudhury,Q12269600,2013-04-30,female,1966-10-06,,Shirin Sharmin Chaudhury.JPG,Shirin Sharmin Chaudhury
