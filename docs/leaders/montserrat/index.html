@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Montserrat: Peppercat leaders data</title>
+    <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/stylesheet.css">
+    <style>
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        clear: both;
+        font-weight: bold;
+        font-variant: small-caps;
+        padding: 2em 0em 0.5em 0em;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 1.5em 1em;
+      }
+
+      .bio li {
+        font-size: smaller;
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #download {
+        float: right;
+        font-size: 200%;
+        clear: both;
+      }
+      #download a { text-decoration: none }
+    </style>
+  </head>
+  <body>
+    <div class="logo-bar">
+      <a href="/">
+        <div class="logo-box">
+          <img class="logo" alt="peepercat" src="/img/peppercat_peeping_logo.png">
+          <div class="claim-box"><h2>The collaborative World Leaders list</h2></div>
+        </div>
+      </a>
+      <div class="navigation-bar">
+        <ul>
+          <li><p><a href="/"><img class="wordmark" alt="peppercat" src="/img/peppercat_wordmark.png"></a></p></li>
+          <li style="float:right"><h3><a href="/about.html#Contact">Contact us</a></h3></li>
+          <li style="float:right"><h3><a href="/about.html#Licensing">Licence</a></h3></li>
+          <li style="float:right"><h3><a href="/about.html">About</a></h3></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="content">
+      <div id="officeholders">
+        <h1>Montserrat</h1>
+        <dl>
+            <dt>Premier of Montserrat<br />Minister of Finance</dt>
+            <dd>
+              <span class="toggle"></span>
+              Joseph E. Farrell
+              <div class="bio">
+                
+                <ul>
+                  <li>male</li>
+                  
+                  <li>in office since 2019-11-19</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Easton_Taylor-Farrell"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q71333507"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Agriculture, Lands, Housing & Environment</dt>
+            <dd>
+              <span class="toggle"></span>
+              Crenston Buffonge
+              <div class="bio">
+                
+                <ul>
+                  <li>male</li>
+                  <li>born 1974-10-13</li>
+                  <li>in office since 2019-11-25</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Crenston_Buffonge"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q104600729"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Communications, Works, Labour & Energy</dt>
+            <dd>
+              <span class="toggle"></span>
+              Samuel Joseph
+              <div class="bio">
+                
+                <ul>
+                  <li>male</li>
+                  
+                  <li>in office since 2019-11-25</li>
+                  <li>
+                    
+                    <a href="https://www.wikidata.org/wiki/Q109849941"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Education<br />Minister of Health</dt>
+            <dd>
+              <span class="toggle"></span>
+              Charles Kirnon
+              <div class="bio">
+                
+                <ul>
+                  <li>male</li>
+                  
+                  <li>in office since 2019-11-25</li>
+                  <li>
+                    
+                    <a href="https://www.wikidata.org/wiki/Q109849924"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+        </dl>
+      </div>
+
+      <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+    </div>
+
+    <script>
+      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+    </script>
+  </body>
+</html>
