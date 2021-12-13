@@ -68,12 +68,13 @@
         <%- table.group_by { |row| row[:personid] }.each do |person, positions| -%>
             <dt><%= positions.map { |mem| mem[:position] }.join('<br />') %></dt>
             <dd>
-              <span class="toggle"><%= positions.first[:person] %></span>
+              <span class="toggle"><% if positions.first[:dod].to_s.empty? %><%= positions.first[:person] %><% else %><s><%= positions.first[:person] %></s><% end %></span>
               <div class="bio">
                 <% unless positions.first[:image].to_s.empty? %><img class="bioimg" width="100" alt="image of <%= positions.first[:person] %> from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/<%= positions.first[:image].gsub(' ','%20').gsub('"','%22') %>?width=100" /><% end %>
                 <ul>
                   <% unless positions.first[:gender].to_s.empty? %><li><%= positions.first[:gender] %></li><% end %>
                   <% unless positions.first[:dob].to_s.empty? %><li>born <%= positions.first[:dob] %></li><% end %>
+                  <%- unless positions.first[:dod].to_s.empty? %><li>died <%= positions.first[:dod] %></li><% end -%>
                   <li>in office since <%= positions.first[:start] %></li>
                   <li>
                     <% unless positions.first[:enwiki].to_s.empty? %><a href="https://en.wikipedia.org/wiki/<%= positions.first[:enwiki].gsub(' ', '_') %>"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a><% end %>
