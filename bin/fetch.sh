@@ -12,4 +12,4 @@ echo $name
 mkdir -p $dir
 
 curl -L -o $dir/current.csv $csv
-erb country="$name" csvfile=$dir/current.csv -r csv -T- template/index.erb > $dir/index.html
+erb country="$name" countrydir=$dir -r csv -T- template/index.erb > $dir/index.html

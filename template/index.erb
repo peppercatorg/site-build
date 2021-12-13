@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <base href="https://www.peppercat.org/">
+    <base href="https://www.peppercat.org/leaders/<%= countrydir.split('/').last %>/">
     <title><%= country %> leaders data from Peppercat</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
@@ -61,7 +61,7 @@
     </div>
 
     <div class="content">
-      <%- table=CSV.table(csvfile) -%>
+      <%- table=CSV.table("#{countrydir}/current.csv") -%>
       <div id="officeholders">
         <h1><%= country %></h1>
         <dl>
