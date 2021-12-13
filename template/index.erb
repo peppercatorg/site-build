@@ -68,8 +68,7 @@
         <%- table.group_by { |row| row[:personid] }.each do |person, positions| -%>
             <dt><%= positions.map { |mem| mem[:position] }.join('<br />') %></dt>
             <dd>
-              <span class="toggle"></span>
-              <%= positions.first[:person] %>
+              <span class="toggle"><%= positions.first[:person] %></span>
               <div class="bio">
                 <% unless positions.first[:image].to_s.empty? %><img class="bioimg" width="100" alt="image of <%= positions.first[:person] %> from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/<%= positions.first[:image].gsub(' ','%20').gsub('"','%22') %>?width=100" /><% end %>
                 <ul>
@@ -91,7 +90,7 @@
     </div>
 
     <script>
-      $(".toggle").text('►').click(function() { $(this).next('.bio').toggle() } );
+      $(".toggle").prepend('► ').click(function() { $(this).next('.bio').toggle() } );
     </script>
   </body>
 </html>
