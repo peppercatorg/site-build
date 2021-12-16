@@ -1,26 +1,31 @@
 position,person,personID,start,gender,DOB,DOD,image,enwiki
 President,Rumen Radev,Q26257557,2017-01-22,male,1963-06-18,,Rumen Radev official portrait (cropped).jpg,Rumen Radev
 Vice President,Iliana Yotova,Q433338,2017-01-22,female,1964-10-24,,Iliyana Yotova.jpg,Iliana Iotova
-Prime Minister,Stefan Janev,Q28055319,2021-05-12,male,1960-03-01,,Stefan Yanev.jpg,Stefan Yanev (general)
 Prime Minister,Kiril Petkov,Q106928258,2021-12-13,male,1980-04-17,,Кирил Петков (screenshot).png,Kiril Petkov (politician)
-Deputy Prime Minister for EU Funds Management,Atanas Pekanow,Q106801369,2021-05-12,male,1991,,,
-Deputy Prime Minister for Public Order and Security,Boyko Rashkov,Q28599818,2021-05-12,male,1954-09-28,,Boijko Rashkov.png,
-"Minister of Agriculture, Food and Forestry",Hristo Bozukov,Q31192046,2021-05-12,male,1960-01-14,,,
-Minister of Culture,Velislav Minekov,Q58660831,2021-05-12,male,1959-03-27,,,
-Minister of Defence,Georgi Velikov Panayotov,Q28869795,2021-05-12,male,1968,,Georgi Panayotov.jpg,Georgi Panayotov
-Minister of Economy,Daniela Vezieva,Q108558965,2021-09-16,female,1967-10-16,,,
+Deputy Prime Minister,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,
+Deputy Prime Minister for Climate Policies,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav Sandov 2.jpg,Borislav Sandov
+Deputy Prime Minister for Economy and Industry,Korneliya Ninova,Q12283736,2021-12-13,female,1969-01-16,,KorneliyaNinova.jpg,Korneliya Ninova
+Deputy Prime Minister for EU Funds Management,Asen Vassiliev,Q12272416,2021-12-13,male,1977,,Асен Василев.png,Asen Vasilev
+Deputy Prime Minister for Good Governance,Kalina Konstantinova,Q110070893,2021-12-13,female,1984,,,Kalina Konstantinova
+Minister of Agriculture,Ivan Ivanov,Q110153985,2021-12-13,male,1975,,,
+Minister of Culture,Atanas Atanasov,Q12272540,2021-12-13,male,1959-05-17,,Atanas Atanasov 2011-06-19 portrait.jpg,Atanas Atanasov (politician)
+Minister of Defence,Stefan Janev,Q28055319,2021-12-13,male,1960-03-01,,Stefan Yanev.jpg,Stefan Yanev (general)
+Minister of Economy and Industry,Korneliya Ninova,Q12283736,2021-12-13,female,1969-01-16,,KorneliyaNinova.jpg,Korneliya Ninova
 Minister of Education and Science,Nikolay Denkov,Q28536878,2021-05-12,male,1962-09-03,,,
-Minister of Energy,Andrey Zhivkov,Q106928598,2021-05-12,male,1971,,,
-Minister of Environment and Water,Asen Lichev,Q106809260,2021-05-12,male,1952,,,
-Minister of Finance,Valeri Belchev,Q108560298,2021-09-15,male,1974-09-06,,,
-Minister of Foreign Affairs,Svetlan Stoev,Q106812725,2021-05-12,male,1960-08-30,,,
-Minister of Health,Stoycho Katsarov,Q12295434,2021-05-12,male,1964-06-06,,,
-Minister of Justice,Ivan Demerdzhiev,Q109467177,2021-10-29,male,,,,
-Minister of Labour and Social Policies,Gulub Donev,Q31192182,2021-05-12,male,1967,,,
-Minister of Regional Development and Public Works,Violeta Komitova,Q106925428,2021-05-12,female,1957-03-18,,Официален портрет на Виолета Комитова.jpg,
-Minister of Tourism,Stela Baltova,Q51077234,2021-05-12,female,1961,,,
-"Minister of Transport, Information Technology and Communications",Hristo Aleksiev,Q30317160,2021-09-15,male,1980-09-19,,,
-Minister of Youth and Sports,Andrej Kuzmanow,Q106928671,2021-05-12,male,1959-03-04,,,
+Minister of Energy,Alexander Nikolov,Q110153962,2021-12-13,male,,,,
+Minister of Environment and Water,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav Sandov 2.jpg,Borislav Sandov
+Minister of e-Government,Bozhidar Bozhanov,Q110139602,2021-12-13,male,1987-08-19,,Bozhidar-Bozhanov.jpg,
+Minister of Finance,Asen Vassiliev,Q12272416,2021-12-13,male,1977,,Асен Василев.png,Asen Vasilev
+Minister of Foreign Affairs,Teodora Genchovska,Q110089977,2021-12-13,female,1971-05-23,,,
+Minister of Health,Asena Serbezova,Q110153983,2021-12-13,female,,,,
+Minister of Innovation and Growth,Daniel Lorer,Q108866960,2021-12-13,male,1976-05-28,,Daniel Lorer.jpg,
+Minister of Interior,Boyko Rashkov,Q28599818,2021-05-12,male,1954-09-28,,Boijko Rashkov.png,
+Minister of Justice,Nadezhda Yordanova,Q110153990,2021-12-13,female,,,,
+Minister of Labour and Social Policies,Georgi Gyokov,Q17409292,2021-12-13,male,1961-12-13,,,
+Minister of Regional Development and Public Works,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,
+Minister of Sports,Radostin Vasilev,Q110153996,2021-12-13,male,,,,
+Minister of Tourism,Hristo Prodanov,Q110065845,2021-12-13,male,1977-03-24,,,
+Minister of Transport and Communications,Nikolay Sabev,Q110153814,2021-12-13,male,,,,
 Chairperson of the National Assembly,Iva Miteva,Q106506653,2021-04-15,female,1972-10-25,,20210415045023 KR7189.jpg,Iva Miteva
 Chief of Defence,Emil Eftimov,Q28038967,2020-03-30,male,1961-08-16,,,
 Governor of the Bulgarian National Bank,Dimitar Radev,Q25431484,2015-07-14,male,1956-07-12,,,Dimitar Radev
