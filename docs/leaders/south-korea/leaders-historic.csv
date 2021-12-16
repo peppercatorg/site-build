@@ -1,0 +1,125 @@
+position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+President,Kim Dae-jung,Q45785,1998-02-25,2003-02-24,male,1924-01-06,2009-08-18,Kim Dae-jung presidential portrait.jpg,Kim Dae-jung
+President,Roh Moo-hyun,Q14345,2003-02-25,2008-02-24,male,1946-08-06,2009-05-23,Roh Moo-hyun presidential portrait.jpg,Roh Moo-hyun
+President,Lee Myung-bak,Q14342,2008-02-25,2013-02-24,male,1941-12-19,,Lee Myung-bak presidential portrait.jpg,Lee Myung-bak
+President,Park Geun-hye,Q138048,2013-02-25,2017-03-10,female,1952-02-02,,Park Geun-hye presidential portrait.png,Park Geun-hye
+President,Moon Jae-in,Q21001,2017-05-10,,male,1953-01-24,,Moon Jae-in (2017-10-01) cropped.jpg,Moon Jae-in
+Prime Minister,Lee Hae Chan,Q319920,2004-07-30,2006-03-15,male,1952-07-10,,Lee Hae-chan prime ministerial portriat (cropped).jpg,Lee Hae-chan
+Prime Minister,Chung Un-chan,Q336417,2009-09-29,2010-08-11,male,1946-02-29,,ChungUnChan(060515)Cropped.jpg,Chung Un-chan
+Prime Minister,Lee Wan-koo,Q12612132,2015-02-17,2015-04-27,male,1950-06-02,2021-10-14,이완구 전 총리.png,Lee Wan-koo
+Prime Minister,Hwang Kyo-ahn,Q12625765,2015-06-18,2017-05-11,male,1957-04-15,,Hwang Kyo-ahn.PNG,Hwang Kyo-ahn
+Prime Minister,Lee Nak-yon,Q12611134,2017-05-31,2020-01-14,male,1952-01-11,,South Korean Prime Minister Lee - 2017 (36235112603) (cropped).jpg,Lee Nak-yon
+Prime Minister,Chung Sye-kyun,Q11270093,2020-01-14,2021-04-17,male,1950-11-05,,Chung Sye-kyun.jpg,Chung Sye-kyun
+Prime Minister,Hong Nam-ki,Q31180640,2021-04-17,2021-05-14,male,1960-07-29,,"Hong Nam-ki, Deputy Prime Minister and Minister of Economy and Finance.jpg",Hong Nam-ki
+Prime Minister,Kim Boo-kyum,Q12587534,2021-05-14,,male,1956-12-01,,Kim Boo-kyum - 20170119 k (cropped).jpg,Kim Boo-kyum
+Deputy Prime Minister,Kim Sang-gon,Q16080247,2017-07-05,2018-10-02,male,1949-12-05,,Kim Sang gon.jpg,Kim Sang-gon
+Deputy Prime Minister,Yoo Eun-hae,Q16079929,2018-10-02,,female,1962-10-02,,"Yoo Eun-hae, Deputy Prime MInister and MInister of Education.jpg",Yoo Eun-hae
+Deputy Prime Minister,Hong Nam-ki,Q31180640,2018-12-11,,male,1960-07-29,,"Hong Nam-ki, Deputy Prime Minister and Minister of Economy and Finance.jpg",Hong Nam-ki
+"Minister of Agriculture, Food and Rural Affairs",Kim Yung-rok,Q16176504,2017-07-03,2018-03-15,male,1955-02-17,,,Kim Yung-rok
+"Minister of Agriculture, Food and Rural Affairs",Lee Kai-ho,Q17401410,2018-08-09,2019-08-30,male,1959-06-23,,,Lee Gae-ho
+"Minister of Agriculture, Food and Rural Affairs",Kim Hyeon-soo,Q69696972,2019-08-31,,male,1961,,,Kim Hyeon-soo
+"Minister of Culture, Sports and Tourism",Lee Chang-dong,Q239656,2003-02-27,2004-06-30,male,1954-04-01,,Lee Chang-dong 2010.jpg,Lee Chang-dong
+"Minister of Culture, Sports and Tourism",Do Jong-hwan,Q12593087,2017-06-16,2019-04-03,male,1955-09-27,,도종환 국회 교육문화체육관광위원회 간사.jpg,Do Jong-hwan
+"Minister of Culture, Sports and Tourism",Park Yang-woo,Q16081865,2019-04-03,2021-02-10,male,1958-11-20,,,Park Yang-woo
+"Minister of Culture, Sports and Tourism",Hwang Hee,Q24856300,2021-02-11,,male,1967-07-28,,"Minister of Culture, Sports and Tourism Hwang Hee giving a speech at the Opening Ceremony for ‘Korea-China Year of Cultural Exchanges’.jpg",Hwang Hee (politician)
+Minister of Defence,Song Young-moo,Q31179461,2017-07-13,2018-09-21,male,1949-02-24,,170919-A-ZZ999-001 MINDEF Song 국방장관 송영무.jpg,Song Young-moo
+Minister of Defence,Jeong Kyeong-doo,Q22974878,2018-09-21,2020-09-18,male,1960,,Air Force (ROKAF) General Jeong Kyeong-doo 공군대장 정경두 (UNC-CFC-USFK photo 170625-A-HU462-383).jpg,Jeong Kyeong-doo
+Minister of Defence,Suh Wook,Q61117556,2020-09,,male,1962,,Suh Wook in 2020.jpg,Suh Wook
+Minister of Education,Kim Sang-gon,Q16080247,2017-07-04,2018-10-02,male,1949-12-05,,Kim Sang gon.jpg,Kim Sang-gon
+Minister of Education,Yoo Eun-hae,Q16079929,2018-10-02,,female,1962-10-02,,"Yoo Eun-hae, Deputy Prime MInister and MInister of Education.jpg",Yoo Eun-hae
+Minister of Employment and Labour,Kim Young-joo,Q16080318,2017-08-14,2018-09-21,female,1955-07-27,,,Kim Young-joo (politician)
+Minister of Employment and Labour,Lee Jae-gap,Q56824997,2018-09-21,2021-05-06,male,1958,,,Lee Jae-gap
+Minister of Employment and Labour,An Kyung-duk,Q106514351,2021-05-07,,male,1963,,Minister of Employment and Labour An Kyung-duk taking a commemorative photo with the Speaker of the National Assembly.jpg,An Kyung-duk
+Minister of the Environment,,Q12610308,2013-03-11,2016-09-04,male,1956-05-08,,Yoon Sung-Kyu from acrofan.jpg,
+Minister of the Environment,,Q48421040,2016-09-05,2017-07-03,male,,,,
+Minister of the Environment,Kim Eunkyung,Q31178699,2017-07-04,2018-11-09,female,1956-06-09,,,Kim Eun-kyung (politician)
+Minister of the Environment,Han Jeoung-ae,Q12624300,2021-01-22,,female,1965-01-08,,Han Jeoung-ae 2021.jpg,Han Jeoung-ae
+Minister of Finance,Kim Dong-yeon,Q16080198,2017-06-09,2018-12-10,male,1957-01-28,,,Kim Dong-yeon
+Minister of Finance,Hong Nam-ki,Q31180640,2018-11,,male,1960-07-29,,"Hong Nam-ki, Deputy Prime Minister and Minister of Economy and Finance.jpg",Hong Nam-ki
+Minister of Food and Drink Safety,Kim Ganglip,Q105076339,2020-11-02,,male,1965-11-09,,,Kim Ganglip
+Minister of Foreign Affairs,Hong Soon-young,Q5895672,1998-08-04,2000-01-14,male,1937-01-30,2014-04-30,,Hong Soon-young
+Minister of Foreign Affairs,Lee Joung-binn,Q12612564,2000-01-14,2001-03-26,male,1937-12-16,,Lee Jung-Bin.jpg,
+Minister of Foreign Affairs,Han Seung-soo,Q356675,2001-03-26,2002-02-04,male,1936-12-28,,Han Seung-soo.jpg,Han Seung-soo
+Minister of Foreign Affairs,Yoon Young-kwan,Q8055228,2003-02-27,2004-01-17,male,1951-01-12,,Yoon Young Kwan.jpg,Yoon Young-kwan
+Minister of Foreign Affairs,Ban Ki-moon,Q1253,2004-01-17,2006-11-10,male,1944-06-13,,Ban Ki-moon 1-2.jpg,Ban Ki-moon
+Minister of Foreign Affairs,Song Minsoon,Q490657,2006-11-10,2008-02-29,male,1948-07-28,,송민순편집.JPG,Song Min-soon
+Minister of Foreign Affairs,Yu Myung-hwan,Q487250,2008-02-29,2010-09-04,male,1946-04-08,,Yu Myung-hwan 080327-D-9880W-016 0ZFII.jpg,Yu Myung-hwan
+Minister of Foreign Affairs,Kim Sung-hwan,Q492723,2010-10-08,2013-03-11,male,1953-04-13,,Kim Sung Hwan-1.jpg,Kim Sung-hwan (diplomat)
+Minister of Foreign Affairs,Yun Byung-se,Q8325594,2013-03-11,2017-06-18,male,1953-08-03,,Yun Byung-se.jpg,Yun Byung-se
+Minister of Foreign Affairs,Kang Kyung-hwa,Q6362240,2017-06-18,2021-02-08,female,1955-04-07,,Kang Kyung-wha - 2019 (48499197706) (cropped).jpg,Kang Kyung-wha
+Minister of Foreign Affairs,Chung Eui-yong,Q19941071,2021-02-09,,male,1946-04-14,,Chung Eui-yong (cropped).jpg,Chung Eui-yong
+Minister of Gender Equality and Family,Chung Hyun-back,Q50125291,2017-07-07,2018-09-21,female,1953-04-09,,,Chung Hyun-back
+Minister of Gender Equality and Family,Chung Young-ai,Q104525309,2020-12-29,,female,1955,,Minister of Gender Equality and Family Chung Young-ai taking a commemorative photo with the Speaker of the National Assembly.jpg,Chung Young-ai
+Minister for Government Legislation,Lee Kang-seop,Q105706103,2020-08,,male,1964,,,
+Minister for Government Policy Coordination,Kim Dong-yeon,Q16080198,2013-03-25,2014-07-22,male,1957-01-28,,,Kim Dong-yeon
+Minister for Government Policy Coordination,Hong Nam-ki,Q31180640,2017-05-11,2018-11-09,male,1960-07-29,,"Hong Nam-ki, Deputy Prime Minister and Minister of Economy and Finance.jpg",Hong Nam-ki
+Minister for Government Policy Coordination,Koo Yun-cheol,Q106301454,2020-05-09,,male,1965,,,Koo Yun-cheol
+Minister of Health and Welfare,Rhyu Si-min,Q488339,2006-02-10,2007-05-22,male,1959-07-28,,160824 Rhyu Si-min.png,Rhyu Si-min
+Minister of Health and Welfare,Chung Chin-youb,Q21710487,2015-08-27,2017-07-21,male,1955-03-10,,,
+Minister of Health and Welfare,Park Neung-hoo,Q48315800,2017-07-22,2020-12-24,male,1956-06-24,,,Park Neung-hoo
+Minister of Health and Welfare,Kwon Deok-chul,Q104450768,2020-12-24,,male,1961-03-22,,Minister of Health and Welfare Kwon Deok-chul taking a commemorative photo with the Speaker of the National Assembly.jpg,Kwon Deok-chul
+Minister of the Interior and Safety,Kim Boo-kyum,Q12587534,2017-06-16,2019-04-06,male,1956-12-01,,Kim Boo-kyum - 20170119 k (cropped).jpg,Kim Boo-kyum
+Minister of the Interior and Safety,Jeon Hae-cheol,Q16091570,2020-12-24,,male,1962-05-18,,Minister of the Interior and Safety Jeon Hae-cheol taking a commemorative photo with the Speaker of the National Assembly.jpg,Jeon Hae-cheol
+Minister of Justice,Hwang Kyo-ahn,Q12625765,2013-03-11,2015-06-18,male,1957-04-15,,Hwang Kyo-ahn.PNG,Hwang Kyo-ahn
+Minister of Justice,Park Sang-ki,Q42836875,2017-07-19,2019-09-08,male,1952,,,Park Sang-ki
+Minister of Justice,Kim Oh-soo,Q60467132,2019-10-14,2020-01-01,male,1963,,,Kim Oh-soo
+Minister of Justice,Choo Mi-ae,Q11274387,2020-01-02,2021-01-27,female,1958-10-23,,Choo Mi-ae ministerial portrait.png,Choo Mi-ae
+Minister of Justice,Park Beom-kye,Q12596659,2021-01-28,,male,1963-04-27,,Park Beom-gye ministerial portrait.png,Park Beom-kye
+"Minister of Land, Infrastructure and Transport",Seo Sunghwan,Q11444444,2013-03-13,2015-03-13,male,1956-06-28,,,
+"Minister of Land, Infrastructure and Transport",Yoo Il-ho,Q16090573,2015-03-16,2015-11-10,male,1955-03-30,,Deputy PM Yoo Ilho Press Conference 04.jpg,Yoo Il-ho
+"Minister of Land, Infrastructure and Transport",Kang Hoin,Q16080050,2015-11-11,2017-06-21,male,1956-12-03,,,
+"Minister of Land, Infrastructure and Transport",Kim Hyun-mee,Q16080678,2017-06-21,2020-12-28,female,1962-11-29,,Minister Kim Hyun-mee.jpg,Kim Hyun-mee (politician)
+"Minister of Land, Infrastructure and Transport",Noh Hyeong-ouk,Q31178685,2021-05-14,,male,1962,,"Minister of Land, Infrastructure and Transport Noh Hyeong-ouk taking a commemorative photo with the Speaker of the National Assembly.jpg",Noh Hyeong-ouk
+Minister of Oceans and Fisheries,Roh Moo-hyun,Q14345,2000-08-07,2001-03-25,male,1946-08-06,2009-05-23,Roh Moo-hyun presidential portrait.jpg,Roh Moo-hyun
+Minister of Oceans and Fisheries,Chung Woo-taik,Q12615868,2001-03-26,2001-09-06,male,1953-02-18,,,
+Minister of Oceans and Fisheries,Yoon Jin-sook,Q16090673,2013-04-17,2014-02-12,female,1955-05-27,,,
+Minister of Oceans and Fisheries,Lee Ju-young,Q12612708,2014-03-05,2014-12-24,male,1951-09-30,,,
+Minister of Oceans and Fisheries,Yoo Ki-june,Q12609690,2015-03-16,2015-11-10,male,1959-08-10,,,
+Minister of Oceans and Fisheries,Kim Young-suk,Q19939516,2015-11-11,2017-06-15,male,1959-02-25,,,
+Minister of Oceans and Fisheries,Kim Young-choon,Q12588095,2017-06-16,2019-04-02,male,1962-02-05,,Kim young-chun 2020.png,Kim Young-choon
+Minister of Oceans and Fisheries,Moon Seong-hyeok,Q63378324,2019-04-03,,male,1958,,Seong-Hyeok Moon - 2019 (cropped).jpg,Moon Seong-hyeok
+Minister of Patriots and Veterans Affairs,Hwang Ki-chul,Q16092691,2020-12-31,,male,1956-07-28,,Vice Adm. Hwang Ki-Chul 100724.jpg,Hwang Ki-chul
+Minister of Reunification,Cho Myoung-gyon,Q31180634,2017-07-03,2019-04-08,male,1957-11-17,,Republic of Korea Minister of Unification Cho Myoung-gyon Signs Secretary Pompeo's Guestbook (30969798637).jpg,Cho Myoung-gyon
+Minister of Reunification,Kim Yeon-chul,Q65238771,2019-04-08,2020-06-19,male,1964-03-26,,,Kim Yeon-chul
+Minister of Reunification,Lee In-young,Q16091058,2020-07-27,,male,1964-06-28,,Lee In-young official portrait (21st National Assembly).jpg,Lee In-young
+Minister of Science and ICT,You Young-min,Q24856203,2017-07-11,2019-09-08,male,1951-08-27,,유영민20160401.225px.jpg,You Young-min
+Minister of Science and ICT,Choi Ki-young,Q81226776,2019-09-09,2021-05-13,male,1955,,,Choi Ki-young
+Minister of Science and ICT,Lim Hyesook,Q97198407,2021-05-14,,female,1963,,Lim Hyesook Minister of Science and ICT in June 2021.jpg,Lim Hyesook
+Minister of SMEs and Startups,Hong Jonghak,Q16180333,2017-11-21,2019-04-08,male,1959-05-12,,,Hong Jong-hak
+Minister of SMEs and Startups,Park Young-sun,Q11521597,2019-04-08,2021-01-20,female,1960-01-22,,20211118 - 박영선.jpg,Park Young-sun
+Minister of SMEs and Startups,Kwon Chil-seung,Q24000551,2021-02-05,,male,1965-11-18,,Minister of SMEs and Startups Kwon Chil-seung taking a commemorative photo with the Speaker of the National Assembly.jpg,Kwon Chil-seung
+"Minister of Trade, Industry and Energy",Baek Woon-kyu,Q43508765,2017-07-22,2018-09-21,male,1964-03-02,,,Paik Un-gyu
+"Minister of Trade, Industry and Energy",Sung Yun-mo,Q55731004,2018-09-21,2021-05-05,male,1963,,,Sung Yun-mo
+"Minister of Trade, Industry and Energy",Moon Sung-wook,Q106518639,2021-05-06,,male,1965,,"Minister of Trade, Industry and Energy Moon Seung-wook taking a commemorative photo with the Speaker of the National Assembly.jpg",Moon Sung-wook
+Speaker of the National Assembly,Kim Hyŏng-o,Q87652783,2008-07-10,2010-05-29,male,1947-11-30,,KIMHO2009.jpg,Kim Hyong-o
+Speaker of the National Assembly,Kang Chang-hee,Q12583135,2012-07-02,2014-05-29,male,1946-08-03,,Kang Chang-Hee.jpg,Kang Chang-hee
+Speaker of the National Assembly,Chung Ui-hwa,Q12615929,2014-05-30,2016-05-29,male,1948-12-18,,Chung Ui-Hua 2014 in CFAU.jpg,Chung Ui-hwa
+Speaker of the National Assembly,Chung Sye-kyun,Q11270093,2016-06-09,2018-05-31,male,1950-11-05,,Chung Sye-kyun.jpg,Chung Sye-kyun
+Speaker of the National Assembly,Moon Hee-sang,Q12595907,2018-07-13,2020-05-29,male,1945-03-03,,Moon Hee-sang in 2019.jpg,Moon Hee-sang
+Speaker of the National Assembly,Park Byeong-seug,Q16079899,2020-06-05,,male,1952-01-25,,박병석 국회의장.jpg,Park Byeong-seug
+Governor of the Bank of Korea,Chʻŏr-hwan Chŏn,Q12615345,1998-03-06,2002-03-31,male,1938-08-06,2004-06-18,,
+Governor of the Bank of Korea,Park Seung,Q12596812,2002-04-01,2006-03-31,male,1936-02-16,,Seungpark2020.jpg,Park Seung
+Governor of the Bank of Korea,Seongtae Lee,Q16090966,2006-04-01,2010-03-31,,1945-06-20,,,
+Governor of the Bank of Korea,Kim Choong-soo,Q495038,2010-04-01,2014-03-31,male,1947-06-06,,Kim Choong-Soo - World Economic Forum Annual Meeting 2012.jpg,Kim Choong-soo
+Governor of the Bank of Korea,Lee Ju-yeol,Q16091117,2014-04,,male,1952-07-24,,"The Bank of Korea Governor Lee, Ju Yeol.jpg",Lee Ju-yeol
+Chairman of the Financial Services Commission,Eun Sung-soo,Q55732998,2019-09-09,2021-08-30,male,1961,,,
+Chairman of the Financial Services Commission,Koh Seungbeom,Q109628296,2021-08-31,,,,,,
+Chairman of the Joint Chiefs of Staff,Choi Yoon-hee,Q12619778,2013,2015,male,1953-06-09,,Republic of Korea Navy Adm. Choi Yoon Hee.jpg,
+Chairman of the Joint Chiefs of Staff,Jeong Kyeong-doo,Q22974878,2017-08-20,2018-09-21,male,1960,,Air Force (ROKAF) General Jeong Kyeong-doo 공군대장 정경두 (UNC-CFC-USFK photo 170625-A-HU462-383).jpg,Jeong Kyeong-doo
+Chairman of the Joint Chiefs of Staff,Park Han-ki,Q47501409,2018-10-11,2020-09-23,male,1960,,"Army (ROKA) General Park Han-ki 육군대장 박한기 (US Navy photo 191001-D-PB383-001 CJCS Hosts ROK, Japanese Counterparts for Multilateral Discussions).jpg",Park Han-ki
+Chairman of the Joint Chiefs of Staff,Won In-choul,Q42527142,2020-09-23,,male,1961,,Air Force (ROKAF) General Won In-choul 공군대장 원인철 (US Air Force photo 191016-F-HB600-1082 Pacific Air Forces Commander reaffirms ironclad alliance at exhibition in Seoul).jpg,Won In-choul
+Prosecutor General,,Q19939855,2017-07-25,2019-07-24,male,1961-07-16,,,
+Prosecutor General,Yoon Seok-youl,Q16090635,2019-07-25,2021-03-04,male,1960-12-18,,Yoon Seok-youl at the People Power Party Presidential Primary Candidate Debate.png,Yoon Seok-youl
+Prosecutor General,Kim Oh-soo,Q60467132,2021-06-01,,male,1963,,,Kim Oh-soo
+Chief of Staff to the President,You Young-min,Q24856203,2021-01-01,,male,1951-08-27,,유영민20160401.225px.jpg,You Young-min
+Chief Presidential Secretary for Policy,Lee Ho-seung,Q60467999,2021-03-29,,male,1965,,,
+Director of the National Security Office,Suh Hoon,Q31180700,2020-07-03,,male,1954-12-06,,Inter-Korean summit with Suh Hoon1 (cropped).jpg,Suh Hoon
+Director of the National Intelligence Service,Park Jie-won,Q624217,2020-07-29,,male,1942-06-05,,Parkjiwon2010.jpg,Park Jie-won
+Chair of the Fair Trade Commission,Joh Sung-wook,Q66316843,2019-09-09,,female,1964,,,Joh Sung-wook
+Mayor of Seoul,Lee Myung-bak,Q14342,2002-07-01,2006-06-30,male,1941-12-19,,Lee Myung-bak presidential portrait.jpg,Lee Myung-bak
+Mayor of Seoul,Oh Se-hoon,Q494239,2006-07-01,2010-06-30,male,1961-01-04,,Oh Se-hoon mayoral portrait.jpg,Oh Se-hoon
+Mayor of Seoul,Oh Se-hoon,Q494239,2010-07-01,2011-08-26,male,1961-01-04,,Oh Se-hoon mayoral portrait.jpg,Oh Se-hoon
+Mayor of Seoul,Park Won-soon,Q22803,2011-10-27,2018-06-30,male,1956-03-26,2020-07-09,Seoul Kimchi Making Sharing Festival 03.jpg,Park Won-soon
+Mayor of Seoul,Park Won-soon,Q22803,2014-07-01,2018-06-30,male,1956-03-26,2020-07-09,Seoul Kimchi Making Sharing Festival 03.jpg,Park Won-soon
+Mayor of Seoul,Park Won-soon,Q22803,2018-07-01,2020-07-09,male,1956-03-26,2020-07-09,Seoul Kimchi Making Sharing Festival 03.jpg,Park Won-soon
+Mayor of Seoul,Oh Se-hoon,Q494239,2021-04-08,,male,1961-01-04,,Oh Se-hoon mayoral portrait.jpg,Oh Se-hoon
