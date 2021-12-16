@@ -2,10 +2,10 @@ position,person,personID,start,gender,DOB,DOD,image,enwiki
 President,Alexander Lukashenko,Q2866,1994-07-20,male,1954-08-30,,Alexander Lukashenko 2020.jpg,Alexander Lukashenko
 Prime Minister,Roman Golovchenko,Q27043179,2020-06-04,male,1973-08-10,,Roman Golovchenko (2020-09-03)(portrait).jpg,Roman Golovchenko
 First Deputy Prime Minister,Mikalai Snapkou,Q13031552,2020-06-04,male,1969-09-14,,Nikolai Snopkov.jpg,
-Deputy Prime Minister,Anatol Sivak,Q3925052,2020-09-03,male,1962-11-30,,Anatoly Sivak.jpg,
 Deputy Prime Minister,Ihar Pietryšenka,Q4360605,2018-08-18,male,1965-10-19,,Заседание РБЭК в Посольстве РБ в РФ при участии Игоря Петришенко.jpg,
 Deputy Prime Minister,Jury Nazaraŭ,Q87058344,2020-03-03,male,1962,,,
 Deputy Prime Minister,Aleksander Subbotin,Q96654310,2020-06-04,male,1976-05-23,,,
+Deputy Prime Minister,Anatol Sivak,Q3925052,2020-09-03,male,1962-11-30,,Anatoly Sivak.jpg,
 Minister of Agriculture and Food,Ivan Krupko,Q87965835,2020-03-16,male,1974-07-23,,Иван Крупко.jpg,
 Minister of Antimonopoly Regulation and Trade,Vladimir Koltovich,Q21780643,2015-12-17,male,1966-10-01,,Владимир Колтович.jpg,
 Minister of Architecture and Construction,Ruslan Parkhamovich,Q96059302,2020-06-04,male,1980-07-18,,,
@@ -14,7 +14,7 @@ Minister of Culture,Anatol Markevich,Q102109268,2020-11-19,male,1971,,Анато
 Minister of Defence,Viktor Khrenin,Q83283317,2020-01-20,male,1971-08-01,,Віктар Хрэнін.jpg,Viktor Khrenin
 Minister of Economy,Aleksander Chervyakov,Q80901264,2020-01-04,male,1966-09-15,,Александр Червяков.jpg,
 Minister of Education,Ihar Karpienka,Q28016609,2016-12-15,male,1964-04-28,,Ihar Karpienka.png,
-Minister of Emergency Situations,Vadim Sinyavsky,Q105882952,2021-03-11,male,1970-05-15,,Vadim Ivanovich Sinyavsky.jpg,
+Minister of Emergency Situations,Vadim Sinyavsky,Q105882952,2021-03-11,male,1970-05-15,,,
 Minister of Energy,Viktor Karankevich,Q56418116,2018-08-31,male,1976-08-01,,,
 Minister of Finance,Yry Seliverstau,Q96096369,2020-06-04,male,1978,,Juryj Sieliviorstau.jpg,
 Minister of Foreign Affairs,Uladzimir Makei,Q2026222,2012-08-20,male,1958-08-05,,Uladzimir Makei (cropped).jpg,Vladimir Makei
