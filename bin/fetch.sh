@@ -26,3 +26,5 @@ qsv search -s repo ^$repo repos.csv |
 curl -L -o $dir/leaders-historic.csv $csv21
 curl -L -o $dir/legislators-historic.csv $csvmp
 erb country="$name" countrydir=$dir -r csv -T- template/index.erb > $dir/index.html
+
+qsv cat rows docs/leaders/**/current.csv > everywhere-current.csv
