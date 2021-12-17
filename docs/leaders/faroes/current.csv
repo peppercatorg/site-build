@@ -1,10 +1,10 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-Prime Minister,Bárður á Steig Nielsen,Q853551,2019-09-16,male,1972-04-16,,Bardur Nielsen.jpg,Bárður á Steig Nielsen
-Deputy Prime Minister,Jørgen Niclasen,Q903946,2019-09-16,male,1969-01-17,,Jorgen Niclasen (2).jpg,Jørgen Niclasen
-Minister of Finance,Jørgen Niclasen,Q903946,2019-09-16,male,1969-01-17,,Jorgen Niclasen (2).jpg,Jørgen Niclasen
-Minister of Health,Kaj Leo Johannesen,Q331786,2019-09-16,male,1964-08-28,,KajLeoJohannesen crop.jpg,Kaj Leo Johannesen
-Minister of Fisheries,Jacob Vestergaard,Q730980,2019-09-16,male,1961-04-07,,Jacob Vestergaard 2015.JPG,Jacob Vestergaard
-Minister of Foreign Affairs,Jenis av Rana,Q254129,2019-09-16,male,1953-01-07,,Jenis av Rana.jpg,Jenis av Rana
-Minister of Labour and the Environment,Magnus Rasmussen,Q17106707,2021-08-19,male,1962-11-28,,,
-Minister of Social Affairs,Elsebeth Mercedis Gunnleygsdóttur,Q16964316,2019-09-16,female,1963-10-26,,Elsebeth Mercedis Gunnleygsdóttir 2015.JPG,Elsebeth Mercedis Gunnleygsdóttur
-Speaker of the Løgting,Jógvan á Lakjuni,Q932304,2019,male,1952-11-13,,Jogvan a Lakjuni 2.jpeg,Jógvan á Lakjuni
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Faroe Islands,Prime Minister,Bárður á Steig Nielsen,Q853551,2019-09-16,male,1972-04-16,,Bardur Nielsen.jpg,Bárður á Steig Nielsen
+Faroe Islands,Deputy Prime Minister,Jørgen Niclasen,Q903946,2019-09-16,male,1969-01-17,,Jorgen Niclasen (2).jpg,Jørgen Niclasen
+Faroe Islands,Minister of Finance,Jørgen Niclasen,Q903946,2019-09-16,male,1969-01-17,,Jorgen Niclasen (2).jpg,Jørgen Niclasen
+Faroe Islands,Minister of Health,Kaj Leo Johannesen,Q331786,2019-09-16,male,1964-08-28,,KajLeoJohannesen crop.jpg,Kaj Leo Johannesen
+Faroe Islands,Minister of Fisheries,Jacob Vestergaard,Q730980,2019-09-16,male,1961-04-07,,Jacob Vestergaard 2015.JPG,Jacob Vestergaard
+Faroe Islands,Minister of Foreign Affairs,Jenis av Rana,Q254129,2019-09-16,male,1953-01-07,,Jenis av Rana.jpg,Jenis av Rana
+Faroe Islands,Minister of Labour and the Environment,Magnus Rasmussen,Q17106707,2021-08-19,male,1962-11-28,,,
+Faroe Islands,Minister of Social Affairs,Elsebeth Mercedis Gunnleygsdóttur,Q16964316,2019-09-16,female,1963-10-26,,Elsebeth Mercedis Gunnleygsdóttir 2015.JPG,Elsebeth Mercedis Gunnleygsdóttur
+Faroe Islands,Speaker of the Løgting,Jógvan á Lakjuni,Q932304,2019,male,1952-11-13,,Jogvan a Lakjuni 2.jpeg,Jógvan á Lakjuni

@@ -1,12 +1,12 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-Chief Minister,Fabian Picardo,Q2356379,2011-12-09,male,1972-02-18,,05-Mayo-17 Visita Claire Moody (11) (33659896883).jpg,Fabian Picardo
-Deputy Chief Minister,Joseph Garcia,Q1442437,2011-12-09,male,1967,,Joseph Garcia portrait.jpg,Joseph Garcia (Gibraltarian politician)
-"Minister for Digital, Financial Services and Public Utilities",Albert Isola,Q16190596,2013-07-04,male,1963-09-27,,The Hon Albert Isola 2014 (cropped).jpg,Albert Isola
-"Minister for Economic Development, Enterprise, Telecommunications & the Gibraltar Savings Bank",Joe Bossano,Q3090591,2011-12-08,male,1939-06-10,,Joebossano.jpg,Joe Bossano
-"Minister for the Environment, Sustainability, Climate Change and Education",John Cortes,Q3323220,2011-12,male,,,Dr john cortes.jpg,John Cortes
-Minister for Transport,Paul Balban,Q3323197,2021-06-21,male,,,,Paul Balban
-"Minister for the Health Authority, Justice, Multiculturalism, Equality and Community Affairs",Samantha Sacramento,Q3322990,2016,female,,,Samantha Sacramento.jpg,Samantha Sacramento
-"Minister for Housing, Employment, Youth and Sport",Steven Linares,Q3323210,2011-12,male,,,Steven Linares at the 2013 Gibraltar Music Festival.jpg,Steven Linares
-"Minister for Business, Tourism and The Port",Vijay Daryanani,Q107803413,2019-10,male,,,,
-Speaker of the Parliament,Melvyn Farrell,Q109469785,2019-11-19,male,,,,
-Mayor of Gibraltar,John Gonçalves,Q97462971,2019-04-05,male,,,John Goncalves.jpg,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Gibraltar,Chief Minister,Fabian Picardo,Q2356379,2011-12-09,male,1972-02-18,,05-Mayo-17 Visita Claire Moody (11) (33659896883).jpg,Fabian Picardo
+Gibraltar,Deputy Chief Minister,Joseph Garcia,Q1442437,2011-12-09,male,1967,,Joseph Garcia portrait.jpg,Joseph Garcia (Gibraltarian politician)
+Gibraltar,"Minister for Digital, Financial Services and Public Utilities",Albert Isola,Q16190596,2013-07-04,male,1963-09-27,,The Hon Albert Isola 2014 (cropped).jpg,Albert Isola
+Gibraltar,"Minister for Economic Development, Enterprise, Telecommunications & the Gibraltar Savings Bank",Joe Bossano,Q3090591,2011-12-08,male,1939-06-10,,Joebossano.jpg,Joe Bossano
+Gibraltar,"Minister for the Environment, Sustainability, Climate Change and Education",John Cortes,Q3323220,2011-12,male,,,Dr john cortes.jpg,John Cortes
+Gibraltar,Minister for Transport,Paul Balban,Q3323197,2021-06-21,male,,,,Paul Balban
+Gibraltar,"Minister for the Health Authority, Justice, Multiculturalism, Equality and Community Affairs",Samantha Sacramento,Q3322990,2016,female,,,Samantha Sacramento.jpg,Samantha Sacramento
+Gibraltar,"Minister for Housing, Employment, Youth and Sport",Steven Linares,Q3323210,2011-12,male,,,Steven Linares at the 2013 Gibraltar Music Festival.jpg,Steven Linares
+Gibraltar,"Minister for Business, Tourism and The Port",Vijay Daryanani,Q107803413,2019-10,male,,,,
+Gibraltar,Speaker of the Parliament,Melvyn Farrell,Q109469785,2019-11-19,male,,,,
+Gibraltar,Mayor of Gibraltar,John Gonçalves,Q97462971,2019-04-05,male,,,John Goncalves.jpg,

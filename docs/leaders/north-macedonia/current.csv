@@ -1,27 +1,27 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Stevo Pendarovski,Q15967423,2019-05-12,male,1963-04-03,,Stevo Pendarovski in January 2018.jpg,Stevo Pendarovski
-Prime Minister,Zoran Zaev,Q220579,2020-08-30,male,1974-10-08,,Zoran Zaev official portrait 2020 (cropped).jpg,Zoran Zaev
-Deputy Prime Minister,Artan Grubi,Q100430171,2020-08-30,male,1977-06-07,,,
-Deputy Prime Minister in charge of Economic Affairs,Fatmir Bytyqi,Q100452540,2020-08-30,male,1975-10-26,,,
-Deputy Prime Minister for European Integration,Nikola Dimitrov,Q12288374,2020-08-30,male,1972-09-30,,Informal meeting of ministers for foreign affairs (Gymnich). Arrivals Nikola Dimitrov (36957321831)-cropped.jpg,Nikola Dimitrov
-Deputy Prime Minister for the Fight against Corruption and Crime,Ljupco Nikolovski,Q30181895,2020-08-31,male,1983-08-20,,,
-Minister for Political System and Inter-Community Relations,Artan Grubi,Q100430171,2020-08-30,male,1977-06-07,,,
-"Minister of Agriculture, Forestry and Water Management",Arianit Hoxha,Q100554151,2020-08-30,male,1986-10-18,,,
-Minister of Culture,Irena Stefoska,Q100789744,2020-08-30,female,1967-09-16,,Irena Stefoska official portrait 2020 (cropped).jpg,
-Minister of Defence,Radmila Šekerinska,Q162983,2017-06-01,female,1972-06-10,,Radmila Shekerinska official portrait 2020 (cropped).jpg,Radmila Šekerinska
-Minister of Education and Science,Mila Carovska,Q30181068,2020-08-31,female,1984-05-06,,Mila Carovska official portrait 2020.jpg,
-Minister of the Environment and Physical Planning,Naser Nuredini,Q65617178,2019-06-26,male,1979-09-23,,,
-Minister of the Economy,Kreshnik Bekteshi,Q30180409,2017-06-01,male,1985,,,
-Minister of Finance,Fatmir Besimi,Q2059975,2020-08-30,male,1975-11-18,,Fatmir Besimi.jpeg,Fatmir Besimi
-Minister of Foreign Affairs,Bujar Osmani,Q2064061,2020-08-30,male,1979-09-11,,Bujar Osmani official portrait 2020 (cropped).jpg,Bujar Osmani
-Minister of Health,Venko Filipče,Q51458326,2017-12-25,male,1977-06-13,,Venko Filipche official portrait 2020 (cropped).jpg,Venko Filipče
-Minister of Information Society and Administration,Jeton Shaqiri,Q100605105,2020-08-30,male,1987-03-17,,,
-Minister of the Interior,Oliver Spasovski,Q21467814,2020-08-30,male,1976-10-21,,Oliver Spasovski official portrait 2020 (cropped).jpg,Oliver Spasovski
-Minister of Justice,Bojan Marichic,Q100453088,2020-08-30,male,1983-01-07,,,
-Minister of Labour and Social Policy,Jagoda Shahpaska,Q31155310,2020-08-30,female,1964-03-18,,Jagoda Shahpaska (2021) (cropped).jpeg,
-Minister of Local Self-Government,Goran Milevski,Q65617235,2019-06-26,male,1978-11-01,,,
-Minister of Transport and Communications,Blagoj Bocvarski,Q47537475,2020-08-30,male,1985-01-09,,,
-Governor of the National Bank,Anita Angelovska Bezhoska,Q85987020,2018-05-22,female,1971-11-05,,,
-Chief of the General Staff,Vasko Gjurchinovski,Q25483496,2018-08-18,male,1970-07-11,,,
-Speaker of the Assembly,Talat Xhaferi,Q5860953,2017-04-27,male,1962-04-15,,"Macedonian Minister of Defense Talat Xhaferi, left, tours a field hospital run by soldiers from Montenegro, Macedonia and Albania during a distinguished visitor day in Pepeliste, Macedonia, June 6, 2013 130606-A-BS718-005 (cropped).jpg",Talat Xhaferi
-Mayor of Skopje,Danela Arsovska,Q104847128,2021-10-31,female,1979-12-20,,Danela Arsovska 11.jpg,Danela Arsovska
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+North Macedonia,President,Stevo Pendarovski,Q15967423,2019-05-12,male,1963-04-03,,Stevo Pendarovski in January 2018.jpg,Stevo Pendarovski
+North Macedonia,Prime Minister,Zoran Zaev,Q220579,2020-08-30,male,1974-10-08,,Zoran Zaev official portrait 2020 (cropped).jpg,Zoran Zaev
+North Macedonia,Deputy Prime Minister,Artan Grubi,Q100430171,2020-08-30,male,1977-06-07,,,
+North Macedonia,Deputy Prime Minister in charge of Economic Affairs,Fatmir Bytyqi,Q100452540,2020-08-30,male,1975-10-26,,,
+North Macedonia,Deputy Prime Minister for European Integration,Nikola Dimitrov,Q12288374,2020-08-30,male,1972-09-30,,Informal meeting of ministers for foreign affairs (Gymnich). Arrivals Nikola Dimitrov (36957321831)-cropped.jpg,Nikola Dimitrov
+North Macedonia,Deputy Prime Minister for the Fight against Corruption and Crime,Ljupco Nikolovski,Q30181895,2020-08-31,male,1983-08-20,,,
+North Macedonia,Minister for Political System and Inter-Community Relations,Artan Grubi,Q100430171,2020-08-30,male,1977-06-07,,,
+North Macedonia,"Minister of Agriculture, Forestry and Water Management",Arianit Hoxha,Q100554151,2020-08-30,male,1986-10-18,,,
+North Macedonia,Minister of Culture,Irena Stefoska,Q100789744,2020-08-30,female,1967-09-16,,Irena Stefoska official portrait 2020 (cropped).jpg,
+North Macedonia,Minister of Defence,Radmila Šekerinska,Q162983,2017-06-01,female,1972-06-10,,Radmila Shekerinska official portrait 2020 (cropped).jpg,Radmila Šekerinska
+North Macedonia,Minister of Education and Science,Mila Carovska,Q30181068,2020-08-31,female,1984-05-06,,Mila Carovska official portrait 2020.jpg,
+North Macedonia,Minister of the Environment and Physical Planning,Naser Nuredini,Q65617178,2019-06-26,male,1979-09-23,,,
+North Macedonia,Minister of the Economy,Kreshnik Bekteshi,Q30180409,2017-06-01,male,1985,,,
+North Macedonia,Minister of Finance,Fatmir Besimi,Q2059975,2020-08-30,male,1975-11-18,,Fatmir Besimi.jpeg,Fatmir Besimi
+North Macedonia,Minister of Foreign Affairs,Bujar Osmani,Q2064061,2020-08-30,male,1979-09-11,,Bujar Osmani official portrait 2020 (cropped).jpg,Bujar Osmani
+North Macedonia,Minister of Health,Venko Filipče,Q51458326,2017-12-25,male,1977-06-13,,Venko Filipche official portrait 2020 (cropped).jpg,Venko Filipče
+North Macedonia,Minister of Information Society and Administration,Jeton Shaqiri,Q100605105,2020-08-30,male,1987-03-17,,,
+North Macedonia,Minister of the Interior,Oliver Spasovski,Q21467814,2020-08-30,male,1976-10-21,,Oliver Spasovski official portrait 2020 (cropped).jpg,Oliver Spasovski
+North Macedonia,Minister of Justice,Bojan Marichic,Q100453088,2020-08-30,male,1983-01-07,,,
+North Macedonia,Minister of Labour and Social Policy,Jagoda Shahpaska,Q31155310,2020-08-30,female,1964-03-18,,Jagoda Shahpaska (2021) (cropped).jpeg,
+North Macedonia,Minister of Local Self-Government,Goran Milevski,Q65617235,2019-06-26,male,1978-11-01,,,
+North Macedonia,Minister of Transport and Communications,Blagoj Bocvarski,Q47537475,2020-08-30,male,1985-01-09,,,
+North Macedonia,Governor of the National Bank,Anita Angelovska Bezhoska,Q85987020,2018-05-22,female,1971-11-05,,,
+North Macedonia,Chief of the General Staff,Vasko Gjurchinovski,Q25483496,2018-08-18,male,1970-07-11,,,
+North Macedonia,Speaker of the Assembly,Talat Xhaferi,Q5860953,2017-04-27,male,1962-04-15,,"Macedonian Minister of Defense Talat Xhaferi, left, tours a field hospital run by soldiers from Montenegro, Macedonia and Albania during a distinguished visitor day in Pepeliste, Macedonia, June 6, 2013 130606-A-BS718-005 (cropped).jpg",Talat Xhaferi
+North Macedonia,Mayor of Skopje,Danela Arsovska,Q104847128,2021-10-31,female,1979-12-20,,Danela Arsovska 11.jpg,Danela Arsovska

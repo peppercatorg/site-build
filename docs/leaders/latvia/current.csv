@@ -1,23 +1,23 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Egils Levits,Q348043,2019-07-08,male,1955-06-30,,Egils Levits.jpg,Egils Levits
-Prime Minister,Krišjānis Kariņš,Q3736499,2019-01-23,male,1964-12-13,,"Karins, Krisjanis-9702.jpg",Arturs Krišjānis Kariņš
-Deputy Prime Minister,Jānis Bordāns,Q3191217,2019-01-23,male,1967-06-21,,Jānis Bordāns.jpg,Jānis Bordāns
-Deputy Prime Minister,Artis Pabriks,Q713138,2019-01-23,male,1966-03-22,,11.Saeimas deputāts Artis Pabriks (6276356538).jpg,Artis Pabriks
-Minister of Agriculture,Kaspars Gerhards,Q6111944,2019-01-23,male,1969-02-07,,"Andris Jaunsleinis un Kaspars Gerhards, 2009-06-11.jpg",Kaspars Gerhards
-Minister of Culture,Nauris Puntulis,Q56449573,2019-07-08,male,1961-07-17,,Nauris Puntulis in 2019.jpg,Nauris Puntulis
-Minister of Defence,Artis Pabriks,Q713138,2019-01-23,male,1966-03-22,,11.Saeimas deputāts Artis Pabriks (6276356538).jpg,Artis Pabriks
-Minister of the Economy,Jānis Vitenbergs,Q58371528,2021-06-03,male,1985,,Jānis Vitenbergs in 2019.jpg,Jānis Vitenbergs
-Minister of Education and Science,Anita Muižniece,Q58371500,2021-06-03,female,1987,,13.Saeimas deputātu svinīgais solījums (45056774714).jpg,Anita Muižniece
-Minister for Environmental Protection and Regional Development,Artūrs Toms Plešs,Q58371508,2020-12-17,male,1992,,13.Saeimas deputātu svinīgais solījums (44868562475).jpg,Artūrs Toms Plešs
-Minister of Finance,Jānis Reirs,Q11731915,2019-01-23,male,1961-09-23,,Jānis Reirs.jpg,Jānis Reirs
-Minister of Foreign Affairs,Edgars Rinkēvičs,Q3047551,2011-10-25,male,1973-09-21,,Edgars Rinkēvičs 2019 (cropped).jpg,Edgars Rinkēvičs
-Minister of Health,Daniels Pavļuts,Q3015072,2021-01-08,male,1976-05-14,,Daniels Pavļuts.jpg,Daniels Pavļuts
-Minister of the Interior,Marija Golubeva,Q58371482,2021-06-03,female,1973,,13.Saeimas deputātu svinīgais solījums (45781418991).jpg,Marija Golubeva
-Minister of Justice,Jānis Bordāns,Q3191217,2019-01-23,male,1967-06-21,,Jānis Bordāns.jpg,Jānis Bordāns
-Minister of Transport,Tālis Linkaits,Q58371498,2019-01-23,male,1970-08-18,,Tālis Linkaits in 2018.jpg,Tālis Linkaits
-Minister of Welfare,Gatis Eglītis,Q58371477,2021-06-03,male,1978,,13.Saeimas deputātu svinīgais solījums (45781402131).jpg,Gatis Eglītis
-Chief of Staff to the Prime Minister,Jānis Patmalnieks,Q109248397,2019-01-24,male,1980,,,
-Speaker of the Saeima,Ināra Mūrniece,Q4308133,2014-11-04,female,1970-12-30,,11.Saeimas deputāte Ināra Mūrneice (6276356526).jpg,Ināra Mūrniece
-Commander of the National Guard,Egils Leščinskis,Q66988815,2019-05-30,male,1967-07-18,,Egils Leščinskis in 2019.jpg,Egils Leščinskis
-Governor of the National Bank,Mārtiņš Kazāks,Q78191477,2019-12-21,male,1973-09-19,,"Gada pārskats ""Latvijas valstij piederošie aktīvi 2009"" (4971284722).jpg",Mārtiņš Kazāks
-Mayor of Riga,Mārtiņš Staķis,Q58371519,2020-10-02,male,1979-07-04,,13.Saeima sanāk uz pirmo sēdi (30811926717) cropped.jpg,Mārtiņš Staķis
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Latvia,President,Egils Levits,Q348043,2019-07-08,male,1955-06-30,,Egils Levits.jpg,Egils Levits
+Latvia,Prime Minister,Krišjānis Kariņš,Q3736499,2019-01-23,male,1964-12-13,,"Karins, Krisjanis-9702.jpg",Arturs Krišjānis Kariņš
+Latvia,Deputy Prime Minister,Jānis Bordāns,Q3191217,2019-01-23,male,1967-06-21,,Jānis Bordāns.jpg,Jānis Bordāns
+Latvia,Deputy Prime Minister,Artis Pabriks,Q713138,2019-01-23,male,1966-03-22,,11.Saeimas deputāts Artis Pabriks (6276356538).jpg,Artis Pabriks
+Latvia,Minister of Agriculture,Kaspars Gerhards,Q6111944,2019-01-23,male,1969-02-07,,"Andris Jaunsleinis un Kaspars Gerhards, 2009-06-11.jpg",Kaspars Gerhards
+Latvia,Minister of Culture,Nauris Puntulis,Q56449573,2019-07-08,male,1961-07-17,,Nauris Puntulis in 2019.jpg,Nauris Puntulis
+Latvia,Minister of Defence,Artis Pabriks,Q713138,2019-01-23,male,1966-03-22,,11.Saeimas deputāts Artis Pabriks (6276356538).jpg,Artis Pabriks
+Latvia,Minister of the Economy,Jānis Vitenbergs,Q58371528,2021-06-03,male,1985,,Jānis Vitenbergs in 2019.jpg,Jānis Vitenbergs
+Latvia,Minister of Education and Science,Anita Muižniece,Q58371500,2021-06-03,female,1987,,13.Saeimas deputātu svinīgais solījums (45056774714).jpg,Anita Muižniece
+Latvia,Minister for Environmental Protection and Regional Development,Artūrs Toms Plešs,Q58371508,2020-12-17,male,1992,,13.Saeimas deputātu svinīgais solījums (44868562475).jpg,Artūrs Toms Plešs
+Latvia,Minister of Finance,Jānis Reirs,Q11731915,2019-01-23,male,1961-09-23,,Jānis Reirs.jpg,Jānis Reirs
+Latvia,Minister of Foreign Affairs,Edgars Rinkēvičs,Q3047551,2011-10-25,male,1973-09-21,,Edgars Rinkēvičs 2019 (cropped).jpg,Edgars Rinkēvičs
+Latvia,Minister of Health,Daniels Pavļuts,Q3015072,2021-01-08,male,1976-05-14,,Daniels Pavļuts.jpg,Daniels Pavļuts
+Latvia,Minister of the Interior,Marija Golubeva,Q58371482,2021-06-03,female,1973,,13.Saeimas deputātu svinīgais solījums (45781418991).jpg,Marija Golubeva
+Latvia,Minister of Justice,Jānis Bordāns,Q3191217,2019-01-23,male,1967-06-21,,Jānis Bordāns.jpg,Jānis Bordāns
+Latvia,Minister of Transport,Tālis Linkaits,Q58371498,2019-01-23,male,1970-08-18,,Tālis Linkaits in 2018.jpg,Tālis Linkaits
+Latvia,Minister of Welfare,Gatis Eglītis,Q58371477,2021-06-03,male,1978,,13.Saeimas deputātu svinīgais solījums (45781402131).jpg,Gatis Eglītis
+Latvia,Chief of Staff to the Prime Minister,Jānis Patmalnieks,Q109248397,2019-01-24,male,1980,,,
+Latvia,Speaker of the Saeima,Ināra Mūrniece,Q4308133,2014-11-04,female,1970-12-30,,11.Saeimas deputāte Ināra Mūrneice (6276356526).jpg,Ināra Mūrniece
+Latvia,Commander of the National Guard,Egils Leščinskis,Q66988815,2019-05-30,male,1967-07-18,,Egils Leščinskis in 2019.jpg,Egils Leščinskis
+Latvia,Governor of the National Bank,Mārtiņš Kazāks,Q78191477,2019-12-21,male,1973-09-19,,"Gada pārskats ""Latvijas valstij piederošie aktīvi 2009"" (4971284722).jpg",Mārtiņš Kazāks
+Latvia,Mayor of Riga,Mārtiņš Staķis,Q58371519,2020-10-02,male,1979-07-04,,13.Saeima sanāk uz pirmo sēdi (30811926717) cropped.jpg,Mārtiņš Staķis

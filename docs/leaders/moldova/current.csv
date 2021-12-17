@@ -1,27 +1,27 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Maia Sandu,Q15071069,2020-12-24,female,1972-05-24,,Staatspräsidentin aus Moldau Maia Sandu in Wien 21.10.2021 (cropped).jpg,Maia Sandu
-Prime Minister,Natalia Gavrilița,Q105193792,2021-08-06,female,1977-09-21,,Natalia Gavrilița September 2021.jpg,Natalia Gavrilița
-Deputy Prime Minister,Andrei Spînu,Q108051533,2021-08-06,male,1986-06-10,,,Andrei Spînu
-Deputy Prime Minister,Nicu Popescu,Q65640221,2021-08-06,male,1981-04-25,,Rick Perry and Nicu Popescu in September 2019 (cropped).jpg,Nicu Popescu
-Deputy Prime Minister for Digitization,Iurie Țurcanu,Q108051891,2021-08-06,male,1973-06-21,,,Iurie Țurcanu
-Minister of Agriculture and Food Industry,Viorel Gherciu,Q108213032,2021-08-05,male,1979-11-29,,,Viorel Gherciu
-Minister of Culture,Sergiu Prodan,Q108215636,2021-08-05,male,1963-12-09,,,Sergiu Prodan
-Minister of Defence,Anatolie Nosatîi,Q108213037,2021-08-01,male,1972-09-12,,,Anatolie Nosatîi
-Minister of the Economy,Sergiu Gaibu,Q108213034,2021-08-05,male,1976-05-13,,,Sergiu Gaibu
-Minister of Education and Research,Anatolie Topală,Q108084522,2021-08-06,male,1970-10-27,,,Anatolie Topală
-Minister of the Environment,Iuliana Cantaragiu,Q108213030,2021-08-05,female,1975-07-02,,,Iuliana Cantaragiu
-Minister of Finance,Dumitru Budianschi,Q108214555,2021-08-05,male,1961-09-02,,,Dumitru Budianschi
-Minister of Foreign Affairs,Nicu Popescu,Q65640221,2021-08-06,male,1981-04-25,,Rick Perry and Nicu Popescu in September 2019 (cropped).jpg,Nicu Popescu
-Minister of Health,Ala Nemerenco,Q12720160,2021-08-06,female,1959-08-21,,,Ala Nemerenco
-Minister of Infrastructure and Regional Development,Andrei Spînu,Q108051533,2021-08-06,male,1986-06-10,,,Andrei Spînu
-Minister of Internal Affairs,Ana Revenco,Q108009132,2021-08-06,female,1977-05-21,,,Ana Revenco
-Minister of Justice,Sergiu Litvinenco,Q106043267,2021-08-06,male,1981-07-11,,"17.03.2021 Cea de-a 56-a Reuniune a Comisiei pentru chestiuni economice, comerciale, tehnologice și ecologice a APCEMN (51045744001).jpg",Sergiu Litvinenco
-Minister of Labor and Social Protection,Marcel Spătari,Q107812599,2021-08-06,male,1981-08-13,,,Marcel Spatari
-President of the Moldovan Parliament,Igor Grosu,Q104374081,2021-07-29,male,1972-11-30,,Igor Grosu 2020.jpg,Igor Grosu
-Governor of the Central Bank,Octavian Armașu,Q29933420,2018-11-30,male,1969-07-29,,,Octavian Armașu
-Head of the Information and Security Service,Alexandr Esaulenco,Q109567746,2019-06-25,male,,,,
-Chief of the General Staff,Igor Gorgan,Q90752213,2019-07-01,male,1969,,,Igor Gorgan
-Governor of Gagauzia,Irina Vlah,Q12731069,2015-04-15,female,1974-02-26,,Ирина Влах 03 (29-07-2021).jpg,Irina Vlah
-Mayor of Chișinău,Ion Ceban,Q17336477,2019-11-11,male,1980-06-30,,Ion Ceban (May 2017).jpg,Ion Ceban
-Mayor of Orhei,Pavel Verejanu,Q108995456,2019-10-20,male,,,,
-Mayor of Bălți,Tatiana Dubițkaia,Q109188451,2021-07-12,female,,,,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Moldova,President,Maia Sandu,Q15071069,2020-12-24,female,1972-05-24,,Staatspräsidentin aus Moldau Maia Sandu in Wien 21.10.2021 (cropped).jpg,Maia Sandu
+Moldova,Prime Minister,Natalia Gavrilița,Q105193792,2021-08-06,female,1977-09-21,,Natalia Gavrilița September 2021.jpg,Natalia Gavrilița
+Moldova,Deputy Prime Minister,Andrei Spînu,Q108051533,2021-08-06,male,1986-06-10,,,Andrei Spînu
+Moldova,Deputy Prime Minister,Nicu Popescu,Q65640221,2021-08-06,male,1981-04-25,,Rick Perry and Nicu Popescu in September 2019 (cropped).jpg,Nicu Popescu
+Moldova,Deputy Prime Minister for Digitization,Iurie Țurcanu,Q108051891,2021-08-06,male,1973-06-21,,,Iurie Țurcanu
+Moldova,Minister of Agriculture and Food Industry,Viorel Gherciu,Q108213032,2021-08-05,male,1979-11-29,,,Viorel Gherciu
+Moldova,Minister of Culture,Sergiu Prodan,Q108215636,2021-08-05,male,1963-12-09,,,Sergiu Prodan
+Moldova,Minister of Defence,Anatolie Nosatîi,Q108213037,2021-08-01,male,1972-09-12,,,Anatolie Nosatîi
+Moldova,Minister of the Economy,Sergiu Gaibu,Q108213034,2021-08-05,male,1976-05-13,,,Sergiu Gaibu
+Moldova,Minister of Education and Research,Anatolie Topală,Q108084522,2021-08-06,male,1970-10-27,,,Anatolie Topală
+Moldova,Minister of the Environment,Iuliana Cantaragiu,Q108213030,2021-08-05,female,1975-07-02,,,Iuliana Cantaragiu
+Moldova,Minister of Finance,Dumitru Budianschi,Q108214555,2021-08-05,male,1961-09-02,,,Dumitru Budianschi
+Moldova,Minister of Foreign Affairs,Nicu Popescu,Q65640221,2021-08-06,male,1981-04-25,,Rick Perry and Nicu Popescu in September 2019 (cropped).jpg,Nicu Popescu
+Moldova,Minister of Health,Ala Nemerenco,Q12720160,2021-08-06,female,1959-08-21,,,Ala Nemerenco
+Moldova,Minister of Infrastructure and Regional Development,Andrei Spînu,Q108051533,2021-08-06,male,1986-06-10,,,Andrei Spînu
+Moldova,Minister of Internal Affairs,Ana Revenco,Q108009132,2021-08-06,female,1977-05-21,,,Ana Revenco
+Moldova,Minister of Justice,Sergiu Litvinenco,Q106043267,2021-08-06,male,1981-07-11,,"17.03.2021 Cea de-a 56-a Reuniune a Comisiei pentru chestiuni economice, comerciale, tehnologice și ecologice a APCEMN (51045744001).jpg",Sergiu Litvinenco
+Moldova,Minister of Labor and Social Protection,Marcel Spătari,Q107812599,2021-08-06,male,1981-08-13,,,Marcel Spatari
+Moldova,President of the Moldovan Parliament,Igor Grosu,Q104374081,2021-07-29,male,1972-11-30,,Igor Grosu 2020.jpg,Igor Grosu
+Moldova,Governor of the Central Bank,Octavian Armașu,Q29933420,2018-11-30,male,1969-07-29,,,Octavian Armașu
+Moldova,Head of the Information and Security Service,Alexandr Esaulenco,Q109567746,2019-06-25,male,,,,
+Moldova,Chief of the General Staff,Igor Gorgan,Q90752213,2019-07-01,male,1969,,,Igor Gorgan
+Moldova,Governor of Gagauzia,Irina Vlah,Q12731069,2015-04-15,female,1974-02-26,,Ирина Влах 03 (29-07-2021).jpg,Irina Vlah
+Moldova,Mayor of Chișinău,Ion Ceban,Q17336477,2019-11-11,male,1980-06-30,,Ion Ceban (May 2017).jpg,Ion Ceban
+Moldova,Mayor of Orhei,Pavel Verejanu,Q108995456,2019-10-20,male,,,,
+Moldova,Mayor of Bălți,Tatiana Dubițkaia,Q109188451,2021-07-12,female,,,,

@@ -1,26 +1,26 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-monarch,Harald V of Norway,Q57287,1991-01-17,male,1937-02-21,,King Harald V of Norway (29227859394) (cropped).jpg,Harald V of Norway
-Prime Minister,Jonas Gahr Støre,Q467948,2021-10-14,male,1960-08-25,,Jonas Gahr Støre - 25061469895 (cropped).jpg,Jonas Gahr Støre
-Minister of Agriculture and Food,Sandra Borch,Q13408025,2021-10-14,female,1988-04-23,,"Borch, Sandra (23892297490).jpg",Sandra Borch
-Minister of Children and Families,Kjersti Toppe,Q3432015,2021-10-14,female,1967-10-20,,"Kjersti Toppe kandidater Sp, stortingsvalget 2013 (2).jpg",Kjersti Toppe
-Minister of Climate and the Environment,Espen Barth Eide,Q267320,2021-10-14,male,1964-05-01,,Nordiskt-baltiskt statsministermote under Nordiska radets session i Helsingfors (1).jpg,Espen Barth Eide
-Minister of Culture,Anette Trettebergstuen,Q4761757,2021-10-14,female,1981-05-25,,Anette Trettebergstuen.jpg,Anette Trettebergstuen
-Minister of Defence,Odd Roger Enoksen,Q1367573,2021-10-14,male,1954-09-25,,Odd Roger Enoksen.jpg,Odd Roger Enoksen
-Minister of Education and Research,Tonje Brenna,Q12006785,2021-10-14,female,1987-10-21,,Tale ved Tonje Brenna.jpg,Tonje Brenna
-Minister of Finance,Trygve Slagsvold Vedum,Q548001,2021-10-14,male,1978-12-01,,"Trygve S Vedum kandidater Sp, stortingsvalget 2013.jpg",Trygve Slagsvold Vedum
-Minister of Fisheries and Seafood,Bjørnar Skjæran,Q17107377,2021-10-14,male,1966-05-28,,"Bjørnar Skjæran, fylkesvaraordførerkandidat (15746492405).jpg",Bjørnar Skjæran
-Minister of Foreign Affairs,Anniken Huitfeldt,Q156540,2021-10-14,female,1969-11-29,,Norges kulturminister Anniken Huitfeldt under ett nordiskt kulturministermote vid Nordiska Radets session 2011 i Kopenhamn.jpg,Anniken Huitfeldt
-Minister of Health and Care Services,Ingvild Kjerkol,Q11977297,2021-10-14,female,1975-05-18,,Ingvild Kjerkol portrett 2011.jpg,Ingvild Kjerkol
-Minister of International Development,Anne Beathe Tvinnereim,Q17113191,2021-10-14,female,1974-05-22,,Anne Beathe Tvinnereim (2017-03-23 bilde01).jpg,Anne Beathe Tvinnereim
-Minister of Justice and Public Security,Emilie Enger Mehl,Q19974554,2021-10-14,female,1993-08-08,,Emilie Enger Mehl.jpg,Emilie Enger Mehl
-Minister of Labour and Social Inclusion,Hadia Tajik,Q464941,2021-10-14,female,1983-07-18,,Nordiske Mediedager 2013 - Thursday (Peer Gynt) - NMD 2013 (8721784509) (cropped).jpg,Hadia Tajik
-Minister of Local Government and Regional Development,Bjørn Arild Gram,Q4919832,2021-10-14,male,1972-05-07,,Bjørn Arild Gram leseambassadør (cropped).JPG,Bjørn Arild Gram
-Minister of Petroleum and Energy,Marte Mjøs Persen,Q11988487,2021-10-14,female,1975-04-24,,Nordiske Mediedager 2017 (34458355281) (cropped).jpg,Marte Mjøs Persen
-Minister of Research and Higher Education,Ola Borten Moe,Q728444,2021-10-14,male,1976-06-06,,Ole Borten Moe.jpg,Ola Borten Moe
-Minister of Trade and Industry,Jan Christian Vestre,Q17113622,2021-10-14,male,1986-10-09,,Jan Christian Vestre.jpg,Jan Christian Vestre
-Minister of Transport and Communications,Jon-Ivar Nygård,Q11979121,2021-10-14,male,1973-01-02,,Jon-Ivar Nygård.JPG,Jon-Ivar Nygård
-Attorney General,Fredrik Sejersted,Q11970097,2015,male,1965-07-02,,Fredrik Sejersted på Sentralbanksjefens årstale 2018 (191508).jpg,Fredrik Sejersted
-Chief Justice of the Supreme Court,Toril Marie Øie,Q4571856,2016-03-01,female,1960-07-17,,Toril Marie Øie på sentralbanksjefens årstale 2017 Norges Bank (174534).jpg,Toril Marie Øie
-President of the Storting,Masud Gharahkhani,Q5273847,2021-11-25,male,1982-09-22,,Masud Gharahkhani - Arbeiderpartiet.jpg,Masud Gharahkhani
-Chief of Defence,Eirik Kristoffersen,Q11966875,2020-08-17,male,1969-04-03,,ColKristoffersenWarCross2011front (cropped).jpg,Eirik Kristoffersen
-Governor of the Central Bank,Øystein Olsen,Q4569389,2011-01-01,male,1952-01-08,,Øystein Olsen Norges Bank Årstale (175849).jpg,Øystein Olsen (economist)
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Norway,monarch,Harald V of Norway,Q57287,1991-01-17,male,1937-02-21,,King Harald V of Norway (29227859394) (cropped).jpg,Harald V of Norway
+Norway,Prime Minister,Jonas Gahr Støre,Q467948,2021-10-14,male,1960-08-25,,Jonas Gahr Støre - 25061469895 (cropped).jpg,Jonas Gahr Støre
+Norway,Minister of Agriculture and Food,Sandra Borch,Q13408025,2021-10-14,female,1988-04-23,,"Borch, Sandra (23892297490).jpg",Sandra Borch
+Norway,Minister of Children and Families,Kjersti Toppe,Q3432015,2021-10-14,female,1967-10-20,,"Kjersti Toppe kandidater Sp, stortingsvalget 2013 (2).jpg",Kjersti Toppe
+Norway,Minister of Climate and the Environment,Espen Barth Eide,Q267320,2021-10-14,male,1964-05-01,,Nordiskt-baltiskt statsministermote under Nordiska radets session i Helsingfors (1).jpg,Espen Barth Eide
+Norway,Minister of Culture,Anette Trettebergstuen,Q4761757,2021-10-14,female,1981-05-25,,Anette Trettebergstuen.jpg,Anette Trettebergstuen
+Norway,Minister of Defence,Odd Roger Enoksen,Q1367573,2021-10-14,male,1954-09-25,,Odd Roger Enoksen.jpg,Odd Roger Enoksen
+Norway,Minister of Education and Research,Tonje Brenna,Q12006785,2021-10-14,female,1987-10-21,,Tale ved Tonje Brenna.jpg,Tonje Brenna
+Norway,Minister of Finance,Trygve Slagsvold Vedum,Q548001,2021-10-14,male,1978-12-01,,"Trygve S Vedum kandidater Sp, stortingsvalget 2013.jpg",Trygve Slagsvold Vedum
+Norway,Minister of Fisheries and Seafood,Bjørnar Skjæran,Q17107377,2021-10-14,male,1966-05-28,,"Bjørnar Skjæran, fylkesvaraordførerkandidat (15746492405).jpg",Bjørnar Skjæran
+Norway,Minister of Foreign Affairs,Anniken Huitfeldt,Q156540,2021-10-14,female,1969-11-29,,Norges kulturminister Anniken Huitfeldt under ett nordiskt kulturministermote vid Nordiska Radets session 2011 i Kopenhamn.jpg,Anniken Huitfeldt
+Norway,Minister of Health and Care Services,Ingvild Kjerkol,Q11977297,2021-10-14,female,1975-05-18,,Ingvild Kjerkol portrett 2011.jpg,Ingvild Kjerkol
+Norway,Minister of International Development,Anne Beathe Tvinnereim,Q17113191,2021-10-14,female,1974-05-22,,Anne Beathe Tvinnereim (2017-03-23 bilde01).jpg,Anne Beathe Tvinnereim
+Norway,Minister of Justice and Public Security,Emilie Enger Mehl,Q19974554,2021-10-14,female,1993-08-08,,Emilie Enger Mehl.jpg,Emilie Enger Mehl
+Norway,Minister of Labour and Social Inclusion,Hadia Tajik,Q464941,2021-10-14,female,1983-07-18,,Nordiske Mediedager 2013 - Thursday (Peer Gynt) - NMD 2013 (8721784509) (cropped).jpg,Hadia Tajik
+Norway,Minister of Local Government and Regional Development,Bjørn Arild Gram,Q4919832,2021-10-14,male,1972-05-07,,Bjørn Arild Gram leseambassadør (cropped).JPG,Bjørn Arild Gram
+Norway,Minister of Petroleum and Energy,Marte Mjøs Persen,Q11988487,2021-10-14,female,1975-04-24,,Nordiske Mediedager 2017 (34458355281) (cropped).jpg,Marte Mjøs Persen
+Norway,Minister of Research and Higher Education,Ola Borten Moe,Q728444,2021-10-14,male,1976-06-06,,Ole Borten Moe.jpg,Ola Borten Moe
+Norway,Minister of Trade and Industry,Jan Christian Vestre,Q17113622,2021-10-14,male,1986-10-09,,Jan Christian Vestre.jpg,Jan Christian Vestre
+Norway,Minister of Transport and Communications,Jon-Ivar Nygård,Q11979121,2021-10-14,male,1973-01-02,,Jon-Ivar Nygård.JPG,Jon-Ivar Nygård
+Norway,Attorney General,Fredrik Sejersted,Q11970097,2015,male,1965-07-02,,Fredrik Sejersted på Sentralbanksjefens årstale 2018 (191508).jpg,Fredrik Sejersted
+Norway,Chief Justice of the Supreme Court,Toril Marie Øie,Q4571856,2016-03-01,female,1960-07-17,,Toril Marie Øie på sentralbanksjefens årstale 2017 Norges Bank (174534).jpg,Toril Marie Øie
+Norway,President of the Storting,Masud Gharahkhani,Q5273847,2021-11-25,male,1982-09-22,,Masud Gharahkhani - Arbeiderpartiet.jpg,Masud Gharahkhani
+Norway,Chief of Defence,Eirik Kristoffersen,Q11966875,2020-08-17,male,1969-04-03,,ColKristoffersenWarCross2011front (cropped).jpg,Eirik Kristoffersen
+Norway,Governor of the Central Bank,Øystein Olsen,Q4569389,2011-01-01,male,1952-01-08,,Øystein Olsen Norges Bank Årstale (175849).jpg,Øystein Olsen (economist)

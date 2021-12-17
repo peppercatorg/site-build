@@ -1,32 +1,32 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Hakainde Hichilema,Q717185,2021-08-24,male,1962-06-04,,Kamala Harris meets with Hakainde Hichilema (cropped).jpg,Hakainde Hichilema
-Vice President,Mutale Nalumango,Q106921003,2021-08-24,female,1955-01-01,,Mutale Nalumango (cropped).jpg,Mutale Nalumango
-Minister of Agriculture,Reuben Mtolo Phiri,Q109935616,2021-08-27,male,1964-11-11,,,
-"Minister of Commerce, Trade and Industry",Chipoka Mulenga,Q109935617,2021-08-27,male,1981-11-10,,,
-Minister of Community Development and Social Welfare,Doreen Mwamba,Q109935618,2021-08-27,female,,,,
-Minister of Defence,Ambrose Lufuma,Q45384113,2021-08-27,male,1957-10-26,,,
-Minister of Energy,Peter Chibwe Kapala,Q109935620,2021-08-27,male,,,,
-Minister of Finance,Situmbeko Musokotwane,Q7532178,2021-08-27,male,1956-05-25,,"Musokotwane, Situmbeko (IMF 2009).jpg",Situmbeko Musokotwane
-Minister of Fisheries and Livestock,Makozo Chikote,Q45384683,2021-08-27,male,1975-05-25,,,
-Minister of Foreign Affairs,Stanley Kakubo,Q45385044,2021-08-27,male,1980-04-24,,,Stanley Kakubo
-Minister of General Education,Douglas Syakalima,Q45384330,2021-08-27,male,1967-03-25,,,
-Minister of Green Economy and Environment,Collins Nzovu,Q109935621,2021-08-27,male,,,,
-Minister of Health,Sylvia Masebo,Q2374229,2021-08-27,female,1963-03-07,,,Sylvia Masebo
-Minister of Home Affairs,Jacob Mwiimbu,Q45384555,2021-08-27,male,1959-07-23,,,
-Minister of Information and Broadcasting,Chushi Kasanda,Q45384216,2021-08-27,female,1978-02-15,,,
-"Minister of Infrastructure, Housing Urban and Development",Charles Milupi,Q98083567,2021-08-27,male,1954-04-25,,,
-Minister of Justice,Mulambo Hamakuni Haimbe,Q109935624,2021-08-27,male,1976-05-12,,,
-Minister of Labour and Social Security,Brenda Tambatamba,Q45384153,2021-08-27,female,1961-04-29,,,Brenda Mwika Tambatamba
-Minister of Lands and Natural Resources,Elijah Julaki Muchima,Q109935626,2021-08-27,male,1957-05-26,,,
-Minister of Local Government and Rural Development,Gary Nkombo,Q45384471,2021-08-27,male,1965-03-01,,,Gary Nkombo
-Minister of Mines and Minerals Development,Paul C C Kabuswe,Q109935630,2021-08-27,male,1973-10-08,,,
-Minister of Small and Medium Enterprises Development,Elias Mubanga,Q109935631,2021-08-27,male,,,,
-Minister of Technology and Science,Felix Mutati,Q1403691,2021-08-27,male,1959-01-29,,,Felix Mutati
-Minister of Tourism,Rhodine Sikumba,Q109935634,2021-08-27,male,1980-03-29,,,
-Minister of Transport and Logistics,Frank Tayali,Q109935637,2021-08-27,male,,,,
-"Minister of Water Development, Sanitation and Environmental Protection",Mike Mposha,Q109935639,2021-08-27,male,,,,
-"Minister of Youth, Sport and Arts",Elvis Chishala Nkandu,Q109935640,2021-08-27,male,1971-12-31,,,
-Attorney General,Mulilo Kabesha,Q109936177,2021-09-27,male,,,,
-Speaker of the National Assembly,Nelly Mutti,Q108395814,2021-09-03,female,1956-08-30,,,Nelly Mutti
-Governor of the Central Bank,Denny Kalyalya,Q28718255,2021-09-27,male,1957-08-01,,,
-Commander of the Army,Dennis Sitali Alibuzwi,Q108397968,2021-08-29,male,,,,Dennis Sitali Alibuzwi
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Zambia,President,Hakainde Hichilema,Q717185,2021-08-24,male,1962-06-04,,Kamala Harris meets with Hakainde Hichilema (cropped).jpg,Hakainde Hichilema
+Zambia,Vice President,Mutale Nalumango,Q106921003,2021-08-24,female,1955-01-01,,Mutale Nalumango (cropped).jpg,Mutale Nalumango
+Zambia,Minister of Agriculture,Reuben Mtolo Phiri,Q109935616,2021-08-27,male,1964-11-11,,,
+Zambia,"Minister of Commerce, Trade and Industry",Chipoka Mulenga,Q109935617,2021-08-27,male,1981-11-10,,,
+Zambia,Minister of Community Development and Social Welfare,Doreen Mwamba,Q109935618,2021-08-27,female,,,,
+Zambia,Minister of Defence,Ambrose Lufuma,Q45384113,2021-08-27,male,1957-10-26,,,
+Zambia,Minister of Energy,Peter Chibwe Kapala,Q109935620,2021-08-27,male,,,,
+Zambia,Minister of Finance,Situmbeko Musokotwane,Q7532178,2021-08-27,male,1956-05-25,,"Musokotwane, Situmbeko (IMF 2009).jpg",Situmbeko Musokotwane
+Zambia,Minister of Fisheries and Livestock,Makozo Chikote,Q45384683,2021-08-27,male,1975-05-25,,,
+Zambia,Minister of Foreign Affairs,Stanley Kakubo,Q45385044,2021-08-27,male,1980-04-24,,,Stanley Kakubo
+Zambia,Minister of General Education,Douglas Syakalima,Q45384330,2021-08-27,male,1967-03-25,,,
+Zambia,Minister of Green Economy and Environment,Collins Nzovu,Q109935621,2021-08-27,male,,,,
+Zambia,Minister of Health,Sylvia Masebo,Q2374229,2021-08-27,female,1963-03-07,,,Sylvia Masebo
+Zambia,Minister of Home Affairs,Jacob Mwiimbu,Q45384555,2021-08-27,male,1959-07-23,,,
+Zambia,Minister of Information and Broadcasting,Chushi Kasanda,Q45384216,2021-08-27,female,1978-02-15,,,
+Zambia,"Minister of Infrastructure, Housing Urban and Development",Charles Milupi,Q98083567,2021-08-27,male,1954-04-25,,,
+Zambia,Minister of Justice,Mulambo Hamakuni Haimbe,Q109935624,2021-08-27,male,1976-05-12,,,
+Zambia,Minister of Labour and Social Security,Brenda Tambatamba,Q45384153,2021-08-27,female,1961-04-29,,,Brenda Mwika Tambatamba
+Zambia,Minister of Lands and Natural Resources,Elijah Julaki Muchima,Q109935626,2021-08-27,male,1957-05-26,,,
+Zambia,Minister of Local Government and Rural Development,Gary Nkombo,Q45384471,2021-08-27,male,1965-03-01,,,Gary Nkombo
+Zambia,Minister of Mines and Minerals Development,Paul C C Kabuswe,Q109935630,2021-08-27,male,1973-10-08,,,
+Zambia,Minister of Small and Medium Enterprises Development,Elias Mubanga,Q109935631,2021-08-27,male,,,,
+Zambia,Minister of Technology and Science,Felix Mutati,Q1403691,2021-08-27,male,1959-01-29,,,Felix Mutati
+Zambia,Minister of Tourism,Rhodine Sikumba,Q109935634,2021-08-27,male,1980-03-29,,,
+Zambia,Minister of Transport and Logistics,Frank Tayali,Q109935637,2021-08-27,male,,,,
+Zambia,"Minister of Water Development, Sanitation and Environmental Protection",Mike Mposha,Q109935639,2021-08-27,male,,,,
+Zambia,"Minister of Youth, Sport and Arts",Elvis Chishala Nkandu,Q109935640,2021-08-27,male,1971-12-31,,,
+Zambia,Attorney General,Mulilo Kabesha,Q109936177,2021-09-27,male,,,,
+Zambia,Speaker of the National Assembly,Nelly Mutti,Q108395814,2021-09-03,female,1956-08-30,,,Nelly Mutti
+Zambia,Governor of the Central Bank,Denny Kalyalya,Q28718255,2021-09-27,male,1957-08-01,,,
+Zambia,Commander of the Army,Dennis Sitali Alibuzwi,Q108397968,2021-08-29,male,,,,Dennis Sitali Alibuzwi

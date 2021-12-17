@@ -1,25 +1,25 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Andrés Manuel López Obrador,Q318508,2018-12-01,male,1953-11-13,,Conferencia de prensa del Presidente de México - Miércoles 24 de junio de 2020 6 (cropped).jpg,Andrés Manuel López Obrador
-Secretary of Agriculture,Victor Manuel Villalobos Arámbula,Q58461400,2018-12-01,male,1950,,Víctor Manuel Villalobos 1 (cropped).jpg,Víctor Villalobos
-Secretary for Communication and Transport,Jorge Arganis Díaz Leal,Q97623098,2020-07-23,male,1943-02-19,,Jorge Arganis Díaz Leal.png,Jorge Arganis Díaz Leal
-Secretary of Culture,Alejandra Frausto Guerrero,Q55386772,2018-12-01,female,1972-03-25,,Alejandra Frausto 2019.jpg,Alejandra Frausto Guerrero
-Secretary of Economy,Tatiana Clouthier Carrillo,Q6139216,2020-12-07,female,1964-08-12,,Tatiana Clouthier.png,Tatiana Clouthier
-Secretary of Education,Delfina Gómez Álvarez,Q28777890,2021-02-15,female,1962-11-15,,Delfina Gómez (cropped).jpg,Delfina Gómez Álvarez
-Secretary of Energy,Rocío Nahle García,Q20895229,2018-12-01,female,1964-04-14,,Norma Rocío Nahle García.jpg,Rocío Nahle García
-Secretary for the Environment and Natural Resources,María Luisa Albores González,Q56781314,2020-09-02,female,1976-07-18,,Portrait of María Luisa Albores.png,Maria Luisa Albores
-Secretary of Finance and Public Credit,Rogelio Ramírez de la O,Q7357736,2021-07-16,male,1948-07-07,,Portrait of Rogelio Ramírez de la O.png,Rogelio Ramírez de la O
-Secretary of Foreign Affairs,Marcelo Ebrard,Q1396586,2018-12-01,male,1959-10-10,,Mexican Foreign Secretary Ebrard (cropped).jpg,Marcelo Ebrard
-Secretary of Government,Adán Augusto López Hernández,Q5658653,2021-08-26,male,1963-09-23,,Adan augusto.jpg,Adán Augusto López Hernández
-Secretary of Health,Jorge Alcocer Varela,Q55386774,2018-12-01,male,1946-02-08,,Jorge Carlos Alcocer Varela (cropped).jpg,Jorge Alcocer Varela
-Secretary for Labour and Social Affairs,Luisa María Alcalde Luján,Q15156389,2018-12-01,female,1987-08-24,,Luisa María Alcalde Luján 2012.jpg,Luisa María Alcalde Luján
-Secretary of National Defense,Luis Cresencio Sandoval,Q59868274,2018-12-01,male,1960-02-07,,General Luis Cresencio Sandoval González.png,Luis Cresencio Sandoval
-Secretary of Navy,José Rafael Ojeda Durán,Q58336815,2018-12-01,male,1954-02-03,,Amlo13-640x263.png,José Rafael Ojeda Durán
-Secretary for Public Service,Roberto Salcedo Aquino,Q107311725,2021-06-21,male,1943-11-26,,Portrait of Roberto Salcedo Aquino.jpg,Roberto Salcedo Aquino
-Secretary of Security and Citizen Protection,Rosa Icela Rodríguez,Q64438288,2020-10-30,female,1959,,Rosa Icela Rodríguez (cropped).jpg,
-Secretary of Tourism,Miguel Torruco Marqués,Q19521973,2018-12-05,male,1951-09-19,,Miguel Torruco Marqués.jpg,Miguel Torruco Marqués
-Secretary for Urban Development,Román Meyer Falcón,Q58338863,2018-12-01,male,1983-08-11,,Román Meyer Falcón.jpg,Román Meyer Falcón
-Secretary of Welfare,Javier May Rodríguez,Q87098259,2020-09-02,male,1966-05-05,,Senador Javier May Rodríguez.jpg,Javier May Rodríguez
-Attorney General,Alejandro Gertz Manero,Q1500199,2019-01-18,male,1939-10-31,,Alejandro Gertz.jpg,Alejandro Gertz Manero
-President of the Chamber of Deputies,Sergio Gutiérrez Luna,Q85268444,2021-09-01,male,1976-07-12,,Potrait of Sergio Gutiérrez Luna.jpg,Sergio Gutiérrez Luna
-President of the Senate,Olga Sánchez Cordero,Q5099093,2021-09-01,female,1947-07-16,,Olga Sánchez Cordero sen.jpg,Olga Sánchez Cordero
-Governor of the Bank of Mexico,Alejandro Díaz de León,Q44178650,2017-12-01,male,1969-12-01,,Alejandro Díaz de León.jpg,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Mexico,President,Andrés Manuel López Obrador,Q318508,2018-12-01,male,1953-11-13,,Conferencia de prensa del Presidente de México - Miércoles 24 de junio de 2020 6 (cropped).jpg,Andrés Manuel López Obrador
+Mexico,Secretary of Agriculture,Victor Manuel Villalobos Arámbula,Q58461400,2018-12-01,male,1950,,Víctor Manuel Villalobos 1 (cropped).jpg,Víctor Villalobos
+Mexico,Secretary for Communication and Transport,Jorge Arganis Díaz Leal,Q97623098,2020-07-23,male,1943-02-19,,Jorge Arganis Díaz Leal.png,Jorge Arganis Díaz Leal
+Mexico,Secretary of Culture,Alejandra Frausto Guerrero,Q55386772,2018-12-01,female,1972-03-25,,Alejandra Frausto 2019.jpg,Alejandra Frausto Guerrero
+Mexico,Secretary of Economy,Tatiana Clouthier Carrillo,Q6139216,2020-12-07,female,1964-08-12,,Tatiana Clouthier.png,Tatiana Clouthier
+Mexico,Secretary of Education,Delfina Gómez Álvarez,Q28777890,2021-02-15,female,1962-11-15,,Delfina Gómez (cropped).jpg,Delfina Gómez Álvarez
+Mexico,Secretary of Energy,Rocío Nahle García,Q20895229,2018-12-01,female,1964-04-14,,Norma Rocío Nahle García.jpg,Rocío Nahle García
+Mexico,Secretary for the Environment and Natural Resources,María Luisa Albores González,Q56781314,2020-09-02,female,1976-07-18,,Portrait of María Luisa Albores.png,Maria Luisa Albores
+Mexico,Secretary of Finance and Public Credit,Rogelio Ramírez de la O,Q7357736,2021-07-16,male,1948-07-07,,Portrait of Rogelio Ramírez de la O.png,Rogelio Ramírez de la O
+Mexico,Secretary of Foreign Affairs,Marcelo Ebrard,Q1396586,2018-12-01,male,1959-10-10,,Mexican Foreign Secretary Ebrard (cropped).jpg,Marcelo Ebrard
+Mexico,Secretary of Government,Adán Augusto López Hernández,Q5658653,2021-08-26,male,1963-09-23,,Adan augusto.jpg,Adán Augusto López Hernández
+Mexico,Secretary of Health,Jorge Alcocer Varela,Q55386774,2018-12-01,male,1946-02-08,,Jorge Carlos Alcocer Varela (cropped).jpg,Jorge Alcocer Varela
+Mexico,Secretary for Labour and Social Affairs,Luisa María Alcalde Luján,Q15156389,2018-12-01,female,1987-08-24,,Luisa María Alcalde Luján 2012.jpg,Luisa María Alcalde Luján
+Mexico,Secretary of National Defense,Luis Cresencio Sandoval,Q59868274,2018-12-01,male,1960-02-07,,General Luis Cresencio Sandoval González.png,Luis Cresencio Sandoval
+Mexico,Secretary of Navy,José Rafael Ojeda Durán,Q58336815,2018-12-01,male,1954-02-03,,Amlo13-640x263.png,José Rafael Ojeda Durán
+Mexico,Secretary for Public Service,Roberto Salcedo Aquino,Q107311725,2021-06-21,male,1943-11-26,,Portrait of Roberto Salcedo Aquino.jpg,Roberto Salcedo Aquino
+Mexico,Secretary of Security and Citizen Protection,Rosa Icela Rodríguez,Q64438288,2020-10-30,female,1959,,Rosa Icela Rodríguez (cropped).jpg,
+Mexico,Secretary of Tourism,Miguel Torruco Marqués,Q19521973,2018-12-05,male,1951-09-19,,Miguel Torruco Marqués.jpg,Miguel Torruco Marqués
+Mexico,Secretary for Urban Development,Román Meyer Falcón,Q58338863,2018-12-01,male,1983-08-11,,Román Meyer Falcón.jpg,Román Meyer Falcón
+Mexico,Secretary of Welfare,Javier May Rodríguez,Q87098259,2020-09-02,male,1966-05-05,,Senador Javier May Rodríguez.jpg,Javier May Rodríguez
+Mexico,Attorney General,Alejandro Gertz Manero,Q1500199,2019-01-18,male,1939-10-31,,Alejandro Gertz.jpg,Alejandro Gertz Manero
+Mexico,President of the Chamber of Deputies,Sergio Gutiérrez Luna,Q85268444,2021-09-01,male,1976-07-12,,Potrait of Sergio Gutiérrez Luna.jpg,Sergio Gutiérrez Luna
+Mexico,President of the Senate,Olga Sánchez Cordero,Q5099093,2021-09-01,female,1947-07-16,,Olga Sánchez Cordero sen.jpg,Olga Sánchez Cordero
+Mexico,Governor of the Bank of Mexico,Alejandro Díaz de León,Q44178650,2017-12-01,male,1969-12-01,,Alejandro Díaz de León.jpg,

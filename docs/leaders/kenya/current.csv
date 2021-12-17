@@ -1,30 +1,30 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Uhuru Kenyatta,Q196070,2013-04-09,male,1961-10-26,,Uhuru Kenyatta.jpg,Uhuru Kenyatta
-Vice-President,William Ruto,Q195725,2013-04-09,male,1966-12-21,,William Ruto at WTO Public Forum 2014.jpg,William Ruto
-Secretary for Agriculture,Peter Munya,Q7175990,2020-01-14,male,1969,,Peter Munya - 2018 (cropped).jpg,Peter Munya
-Secretary for Defence,Eugene Wamalwa,Q5407838,2021-09-29,male,1969-04-01,,Eugine Ludovic Wamalwa.png,Eugene Wamalwa
-Secretary for Devolution and ASAL Areas,Charles Keter,Q5076212,2021-10-14,male,1969-11-22,,Charles Keter Sebastian Kurz Nairobi October 2016 (30482154722).jpg,Charles Keter
-Secretary for East African Community and Northern Corridor Development,Aden Mohammed,Q4682172,2018-07-13,male,1963,,Adan Mohammed - 2016 (27817057064) (cropped).jpg,Adan Mohammed
-Secretary for Education,George Magoha,Q46835085,2019-03-26,male,1952,,,George Magoha
-Secretary for Energy and Petroleum,Monica Juma,Q47531099,2021-09-30,female,1954,,Secretary Tillerson Poses for a Family Photo With his Counterparts in Nairobi (26842894438) (cropped).jpg,Monica Juma
-Secretary for the Environment,Keriako Tobiko,Q6393880,2018-01-27,male,,,Keriako Tobiko.png,Keriako Tobiko
-Secretary for Foreign Affairs,Raychelle Omamo,Q12170059,2020-01-14,female,1952-09-06,,"Visit of Raychelle Omamo, Kenyan Minister for Foreign Affairs, to the European Commission (cropped).jpg",Raychelle Omamo
-Secretary for Health,Mutahi Kagwe,Q16192784,2020-02-28,male,1958,,,Mutahi Kagwe
-"Secretary for Industrialization, Trade and Enterprise Development",Betty Maina,Q100146351,2020-03-02,female,,,,Betty Maina
-Secretary for Information and Communications,Joseph Mucheru,Q6285671,2015-11-25,male,,,BCS 3977.jpg,Joseph Mucheru
-Secretary for the Interior,Fred Matiangi,Q16866738,2017-07-08,male,,,Fred Matiangi.jpg,Fred Matiang'i
-Secretary for Lands,Farida Karoney,Q47823441,2018-01-26,female,1969,,,Farida Karoney
-Secretary for Labour,Simon Chelugui,Q100146396,2021-10-19,male,,,,Simon Chelugui
-Secretary for the National Treasury and Planning,Ukur Yatani Kanacho,Q48472383,2020-01-14,male,1967-03-12,,Ukur Yatani.jpg,Ukur Yatani Kanacho
-Secretary for Petroleum and Mining,John Munyes,Q6249843,2018-01-05,male,,,,John Munyes
-Secretary for Public Service and Gender Affairs,Margaret Kobia,Q47539824,2018-01-26,female,1958,,,Margaret Kobia
-"Secretary for Sports, Culture and Heritage",Amina Mohamed,Q4746345,2019-03-02,female,1961-10-05,,Amina Mohamed.jpg,Amina Mohamed
-Secretary for Tourism,Najib Balala,Q12053090,2013-05-15,male,1967-09-20,,Najibu Balala - MP for Mvita.JPG,Najib Balala
-Secretary for Transport,James Wainaina Macharia,Q16193227,2015-11-24,male,1959,,James Wainaina Macharia.jpg,James Wainaina Macharia
-Secretary for Water and Irrigation,Sicily Kariuki,Q47513060,2020-01-14,female,,,,Sicily Kariuki
-Secretary without portfolio,Raphael Tuju,Q2189073,2018-01-26,male,1959-03-30,,,Raphael Tuju
-Attorney General,Paul Kihara Kariuki,Q48818015,2018-02-13,male,1954,,,Paul Kihara Kariuki
-Speaker of the Senate,Ken Lusaka,Q16845849,2017-08-31,male,1963-09-18,,,Kenneth Lusaka
-Speaker of the National Assembly,Justin Muturi,Q16187229,2013-03-28,male,1956-04-28,,Justin Muturi (MUS1515) (cropped).jpg,Justin Muturi
-Governor of the Central Bank,Patrick Ngugi Njoroge,Q20657447,2015-06-19,male,1961,,Patrick Njoroge.png,Patrick Ngugi Njoroge
-Chief of Defence Forces,Robert Kariuki Kibochi,Q102290636,2020-05-11,male,,,Cdf-portrait-Copy-1.jpg,Robert Kariuki Kibochi
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Kenya,President,Uhuru Kenyatta,Q196070,2013-04-09,male,1961-10-26,,Uhuru Kenyatta.jpg,Uhuru Kenyatta
+Kenya,Vice-President,William Ruto,Q195725,2013-04-09,male,1966-12-21,,William Ruto at WTO Public Forum 2014.jpg,William Ruto
+Kenya,Secretary for Agriculture,Peter Munya,Q7175990,2020-01-14,male,1969,,Peter Munya - 2018 (cropped).jpg,Peter Munya
+Kenya,Secretary for Defence,Eugene Wamalwa,Q5407838,2021-09-29,male,1969-04-01,,Eugine Ludovic Wamalwa.png,Eugene Wamalwa
+Kenya,Secretary for Devolution and ASAL Areas,Charles Keter,Q5076212,2021-10-14,male,1969-11-22,,Charles Keter Sebastian Kurz Nairobi October 2016 (30482154722).jpg,Charles Keter
+Kenya,Secretary for East African Community and Northern Corridor Development,Aden Mohammed,Q4682172,2018-07-13,male,1963,,Adan Mohammed - 2016 (27817057064) (cropped).jpg,Adan Mohammed
+Kenya,Secretary for Education,George Magoha,Q46835085,2019-03-26,male,1952,,,George Magoha
+Kenya,Secretary for Energy and Petroleum,Monica Juma,Q47531099,2021-09-30,female,1954,,Secretary Tillerson Poses for a Family Photo With his Counterparts in Nairobi (26842894438) (cropped).jpg,Monica Juma
+Kenya,Secretary for the Environment,Keriako Tobiko,Q6393880,2018-01-27,male,,,Keriako Tobiko.png,Keriako Tobiko
+Kenya,Secretary for Foreign Affairs,Raychelle Omamo,Q12170059,2020-01-14,female,1952-09-06,,"Visit of Raychelle Omamo, Kenyan Minister for Foreign Affairs, to the European Commission (cropped).jpg",Raychelle Omamo
+Kenya,Secretary for Health,Mutahi Kagwe,Q16192784,2020-02-28,male,1958,,,Mutahi Kagwe
+Kenya,"Secretary for Industrialization, Trade and Enterprise Development",Betty Maina,Q100146351,2020-03-02,female,,,,Betty Maina
+Kenya,Secretary for Information and Communications,Joseph Mucheru,Q6285671,2015-11-25,male,,,BCS 3977.jpg,Joseph Mucheru
+Kenya,Secretary for the Interior,Fred Matiangi,Q16866738,2017-07-08,male,,,Fred Matiangi.jpg,Fred Matiang'i
+Kenya,Secretary for Lands,Farida Karoney,Q47823441,2018-01-26,female,1969,,,Farida Karoney
+Kenya,Secretary for Labour,Simon Chelugui,Q100146396,2021-10-19,male,,,,Simon Chelugui
+Kenya,Secretary for the National Treasury and Planning,Ukur Yatani Kanacho,Q48472383,2020-01-14,male,1967-03-12,,Ukur Yatani.jpg,Ukur Yatani Kanacho
+Kenya,Secretary for Petroleum and Mining,John Munyes,Q6249843,2018-01-05,male,,,,John Munyes
+Kenya,Secretary for Public Service and Gender Affairs,Margaret Kobia,Q47539824,2018-01-26,female,1958,,,Margaret Kobia
+Kenya,"Secretary for Sports, Culture and Heritage",Amina Mohamed,Q4746345,2019-03-02,female,1961-10-05,,Amina Mohamed.jpg,Amina Mohamed
+Kenya,Secretary for Tourism,Najib Balala,Q12053090,2013-05-15,male,1967-09-20,,Najibu Balala - MP for Mvita.JPG,Najib Balala
+Kenya,Secretary for Transport,James Wainaina Macharia,Q16193227,2015-11-24,male,1959,,James Wainaina Macharia.jpg,James Wainaina Macharia
+Kenya,Secretary for Water and Irrigation,Sicily Kariuki,Q47513060,2020-01-14,female,,,,Sicily Kariuki
+Kenya,Secretary without portfolio,Raphael Tuju,Q2189073,2018-01-26,male,1959-03-30,,,Raphael Tuju
+Kenya,Attorney General,Paul Kihara Kariuki,Q48818015,2018-02-13,male,1954,,,Paul Kihara Kariuki
+Kenya,Speaker of the Senate,Ken Lusaka,Q16845849,2017-08-31,male,1963-09-18,,,Kenneth Lusaka
+Kenya,Speaker of the National Assembly,Justin Muturi,Q16187229,2013-03-28,male,1956-04-28,,Justin Muturi (MUS1515) (cropped).jpg,Justin Muturi
+Kenya,Governor of the Central Bank,Patrick Ngugi Njoroge,Q20657447,2015-06-19,male,1961,,Patrick Njoroge.png,Patrick Ngugi Njoroge
+Kenya,Chief of Defence Forces,Robert Kariuki Kibochi,Q102290636,2020-05-11,male,,,Cdf-portrait-Copy-1.jpg,Robert Kariuki Kibochi

@@ -1,28 +1,28 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Filipe Nyusi,Q5448556,2015-02-02,male,1959-02-09,,Filipe Nyusi - 2019 (cropped).jpg,Filipe Nyusi
-Prime Minister,Carlos Agostinho do Rosário,Q19057400,2015-01-19,male,1954-10-26,,Mozambican Prime Minister Carlos Agostinho do Rosario.JPG,Carlos Agostinho do Rosário
-Minister of Agriculture and Rural Development,Celso Ismael Correia,Q62274562,2020-01-17,male,,,,
-Minister of Culture and Tourism,Eldevina Materula,Q105038571,2020-01-17,female,1982,,,Eldevina Materula
-Minister of Defence,Cristóvão Artur Chume,Q109951064,2020-11-15,male,,,,
-Minister of Economy and Finances,Adriano Maleiane,Q44275924,2015-01-19,male,1949-11-06,,,Adriano Maleiane
-Minister of Education and Human Development,Carmelita Namashulua,Q19816448,2020-01-17,female,1962-12-02,,,
-Minister of Foreign Affairs,Verónica Nataniel Macamo Dlhovo,Q109950526,2020-01-17,female,,,,
-"Minister of Gender, Children and Social Welfare",Nyeleti Mondlane,Q27220074,2020-01-23,female,1962-01-17,,,
-Minister of Health,Armindo Tiago,Q97493215,2020-01-18,male,,,,
-Minister of Industry and Trade,Carlos Alberto Fortes Mesquita,Q105497841,2020-01-17,male,1962-03-25,,Carlos Alberto Fortes Mesquita - 2018 (cropped).jpg,
-Minister of the Interior,Arsénia Felicidade Félix Massingue,Q109951071,2020-11-15,female,,,,
-Minister of Justice and Constitutional and Religious Affairs,Helena Mateus Kida,Q109950530,2020-01-17,female,,,,
-Minister of Labour,Margarida Adamugy Talapa,Q109950528,2020-01-17,female,,,,
-Minister of Land and Environment,Ivete Maibase,Q109950524,2020-01-17,female,,,,
-Minister of Mineral Resources and Energy,Ernesto Max Elias Tonela,Q109950517,2020-01-17,male,,,,
-Minister of Public Works,João Osvaldo Machatine,Q109950516,2020-01-17,male,,,,
-"Minister of Science, Technology and Higher Education",Daniel Nivagara,Q109950683,2020-11-25,male,,,,
-Minister of State Administration and Public Service,Ana Comoana,Q97061538,2020-01-22,female,1960-10-30,,,
-"Minister of The Sea, Inland Waters and Fisheries",Augusta de Fátima Charifo Maita,Q109950532,2020-01-17,female,,,,
-Minister of Transport and Communications,Janfar Abdulai,Q109950964,2020-01-17,male,1985-09-04,,,
-Minister of Veterans’ Affairs,Carlos Jorge Siliya,Q109950913,2020-01-30,male,,,,
-Minister in the President’s Office,Constantino Bacela,Q109950753,2021-11-15,male,,,,
-Attorney General,Beatriz Buchili,Q27480289,2014-07-21,female,,,,Beatriz Buchili
-Speaker of the Assembly,Esperança Bias,Q5398931,2020-01-13,female,1958-07-28,,,Esperança Bias
-Governor of the Central Bank,Rogério Zandamela,Q109951850,2016-08,male,,,,
-Chief of General Staff,Joaquim Rivas Mangrasse,Q109952011,2021-03-13,male,,,,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Mozambique,President,Filipe Nyusi,Q5448556,2015-02-02,male,1959-02-09,,Filipe Nyusi - 2019 (cropped).jpg,Filipe Nyusi
+Mozambique,Prime Minister,Carlos Agostinho do Rosário,Q19057400,2015-01-19,male,1954-10-26,,Mozambican Prime Minister Carlos Agostinho do Rosario.JPG,Carlos Agostinho do Rosário
+Mozambique,Minister of Agriculture and Rural Development,Celso Ismael Correia,Q62274562,2020-01-17,male,,,,
+Mozambique,Minister of Culture and Tourism,Eldevina Materula,Q105038571,2020-01-17,female,1982,,,Eldevina Materula
+Mozambique,Minister of Defence,Cristóvão Artur Chume,Q109951064,2020-11-15,male,,,,
+Mozambique,Minister of Economy and Finances,Adriano Maleiane,Q44275924,2015-01-19,male,1949-11-06,,,Adriano Maleiane
+Mozambique,Minister of Education and Human Development,Carmelita Namashulua,Q19816448,2020-01-17,female,1962-12-02,,,
+Mozambique,Minister of Foreign Affairs,Verónica Nataniel Macamo Dlhovo,Q109950526,2020-01-17,female,,,,
+Mozambique,"Minister of Gender, Children and Social Welfare",Nyeleti Mondlane,Q27220074,2020-01-23,female,1962-01-17,,,
+Mozambique,Minister of Health,Armindo Tiago,Q97493215,2020-01-18,male,,,,
+Mozambique,Minister of Industry and Trade,Carlos Alberto Fortes Mesquita,Q105497841,2020-01-17,male,1962-03-25,,Carlos Alberto Fortes Mesquita - 2018 (cropped).jpg,
+Mozambique,Minister of the Interior,Arsénia Felicidade Félix Massingue,Q109951071,2020-11-15,female,,,,
+Mozambique,Minister of Justice and Constitutional and Religious Affairs,Helena Mateus Kida,Q109950530,2020-01-17,female,,,,
+Mozambique,Minister of Labour,Margarida Adamugy Talapa,Q109950528,2020-01-17,female,,,,
+Mozambique,Minister of Land and Environment,Ivete Maibase,Q109950524,2020-01-17,female,,,,
+Mozambique,Minister of Mineral Resources and Energy,Ernesto Max Elias Tonela,Q109950517,2020-01-17,male,,,,
+Mozambique,Minister of Public Works,João Osvaldo Machatine,Q109950516,2020-01-17,male,,,,
+Mozambique,"Minister of Science, Technology and Higher Education",Daniel Nivagara,Q109950683,2020-11-25,male,,,,
+Mozambique,Minister of State Administration and Public Service,Ana Comoana,Q97061538,2020-01-22,female,1960-10-30,,,
+Mozambique,"Minister of The Sea, Inland Waters and Fisheries",Augusta de Fátima Charifo Maita,Q109950532,2020-01-17,female,,,,
+Mozambique,Minister of Transport and Communications,Janfar Abdulai,Q109950964,2020-01-17,male,1985-09-04,,,
+Mozambique,Minister of Veterans’ Affairs,Carlos Jorge Siliya,Q109950913,2020-01-30,male,,,,
+Mozambique,Minister in the President’s Office,Constantino Bacela,Q109950753,2021-11-15,male,,,,
+Mozambique,Attorney General,Beatriz Buchili,Q27480289,2014-07-21,female,,,,Beatriz Buchili
+Mozambique,Speaker of the Assembly,Esperança Bias,Q5398931,2020-01-13,female,1958-07-28,,,Esperança Bias
+Mozambique,Governor of the Central Bank,Rogério Zandamela,Q109951850,2016-08,male,,,,
+Mozambique,Chief of General Staff,Joaquim Rivas Mangrasse,Q109952011,2021-03-13,male,,,,

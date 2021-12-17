@@ -1,10 +1,10 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-Lantråd,Veronica Thörnroos,Q4982779,2019-11-25,female,1962-07-16,,Veronica Thörnroos.jpg,Veronica Thörnroos
-Vice lantråd,Harry Jansson,Q2160820,2019-12-10,male,1959-10-04,,Harry Jansson BSPC 19 Mariehamn aland (cropped).jpg,
-Minister of Development,Alfons Röblom,Q6086545,2019-12-10,male,1983-08-03,,Alfon Röblom.jpg,
-Minister of Education and Culture,Annika Hambrudd,Q85686346,2019-12-10,female,1972,,,
-Minister of Finance,Roger Höglund,Q107724895,2019-12-10,male,1964-06-22,,,
-Minister for Industry and Trade,Fredrik Karlström,Q3371504,2019-12-10,male,1973-05-18,,"Fredrik Karlstrom, alands delegation till Nordiska radet, talar vid sessionen i Stockholm 2009.jpg",
-Minister for Infrastructure,Christian Wikström,Q85686737,2019-12-10,male,1987-02-10,,,
-Minister for Social Affairs and Health,Annette Holmberg-Jansson,Q43861413,2019-12-10,female,1969-03-11,,,Annette Holmberg-Jansson
-Speaker of the Parliament,Bert Häggblom,Q101094690,2020-11-02,male,1957-02-24,,,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Åland,Lantråd,Veronica Thörnroos,Q4982779,2019-11-25,female,1962-07-16,,Veronica Thörnroos.jpg,Veronica Thörnroos
+Åland,Vice lantråd,Harry Jansson,Q2160820,2019-12-10,male,1959-10-04,,Harry Jansson BSPC 19 Mariehamn aland (cropped).jpg,
+Åland,Minister of Development,Alfons Röblom,Q6086545,2019-12-10,male,1983-08-03,,Alfon Röblom.jpg,
+Åland,Minister of Education and Culture,Annika Hambrudd,Q85686346,2019-12-10,female,1972,,,
+Åland,Minister of Finance,Roger Höglund,Q107724895,2019-12-10,male,1964-06-22,,,
+Åland,Minister for Industry and Trade,Fredrik Karlström,Q3371504,2019-12-10,male,1973-05-18,,"Fredrik Karlstrom, alands delegation till Nordiska radet, talar vid sessionen i Stockholm 2009.jpg",
+Åland,Minister for Infrastructure,Christian Wikström,Q85686737,2019-12-10,male,1987-02-10,,,
+Åland,Minister for Social Affairs and Health,Annette Holmberg-Jansson,Q43861413,2019-12-10,female,1969-03-11,,,Annette Holmberg-Jansson
+Åland,Speaker of the Parliament,Bert Häggblom,Q101094690,2020-11-02,male,1957-02-24,,,
