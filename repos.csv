@@ -1,131 +1,131 @@
-country,slug,repo
-Åland,aland,aland-cabinet
-Albania,albania,albania-cabinet
-Algeria,algeria,algeria-cabinet
-Andorra,andorra,andorra-cabinet
-Angola,angola,angola-ministers
-Anguilla,anguilla,anguilla-cabinet
-Antigua and Barbuda,antigua-and-barbuda,antigua-barbuda-ministers
-Argentina,argentina,argentina-ministers
-Armenia,armenia,armenia-ministers
-Aruba,aruba,aruba-ministers
-Australia,australia,australia-cabinet
-Austria,austria,austria-cabinet
-Azerbaijan,azerbaijan,azerbaijan-cabinet
-Bahamas,bahamas,bahamas-cabinet
-Bangladesh,bangladesh,bangladesh-ministers
-Barbados,barbados,barbados-cabinet
-Belarus,belarus,belarus-ministers
-Belgium,belgium,belgium-cabinet
-Belize,belize,belize-ministers
-Bermuda,bermuda,bermuda-cabinet
-Bhutan,bhutan,bhutan-ministers
-Bosnia and Herzegovina,bosnia-herzegovina,bosnia-herzegovina-ministers
-Brazil,brazil,brazil-ministers
-British Virgin Islands,british-virgin-islands,bvi-ministers
-Bulgaria,bulgaria,bulgaria-cabinet
-Cameroon,cameroon,cameroon-ministers
-Canada,canada,canada-cabinet
-Cayman Islands,caymans,caymans-ministers
-Croatia,croatia,croatia-ministers
-Cyprus,cyprus,cyprus-cabinet
-Czechia,czechia,czech-ministers
-Denmark,denmark,denmark-cabinet
-Estonia,estonia,estonia-cabinet
-Ethiopia,ethiopia,ethiopia-ministers
-European Union,european-union,eu-commissioners
-Faroe Islands,faroes,faroes-ministers
-Federated States of Micronesia,micronesia,micronesia-ministers
-Fiji,fiji,fiji-ministers
-Finland,finland,finland-cabinet
-France,france,france-cabinet
-Gambia,gambia,gambia-ministers
-Georgia,georgia,georgia-ministers
-Germany,germany,germany-cabinet
-Gibraltar,gibraltar,gibraltar-cabinet
-Greece,greece,greece-cabinet
-Greenland,greenland,greenland-cabinet
-Hong Kong,hong-kong,hong-kong-ministers
-Hungary,hungary,hungary-cabinet
-Iceland,iceland,iceland-cabinet
-India,india,india-ministers
-Indonesia,indonesia,indonesia-ministers
-Iran,iran,iran-ministers
-Ireland,ireland,ireland-ministers
-Isle of Man,isle-of-man,isle-of-man-cabinet
-Israel,israel,israel-ministers
-Italy,italy,italy-ministers
-Jamaica,jamaica,jamaica-ministers
-Japan,japan,japan-ministers
-Jersey,jersey,jersey-cabinet
-Jordan,jordan,jordan-ministers
-Kazakhstan,kazakhstan,kazakhstan-cabinet
-Kenya,kenya,kenya-ministers
-Kiribati,kiribati,kiribati-ministers
-Kosovo,kosovo,kosovo-cabinet
-Kyrgyzstan,kyrgyzstan,kyrgyzstan-ministers
-Latvia,latvia,latvia-cabinet
-Lesotho,lesotho,lesotho-ministers
-Liechtenstein,liechtenstein,liechtenstein-ministers
-Lithuania,lithuania,lithuania-cabinet
-Luxembourg,luxembourg,luxembourg-cabinet
-Malawi,malawi,malawi-ministers
-Malaysia,malaysia,malaysia-ministers
-Maldives,maldives,maldives-ministers
-Malta,malta,malta-ministers
-Marshall Islands,marshall-islands,marshall-islands-ministers
-Mauritius,mauritius,mauritius-ministers
-Mexico,mexico,mexico-ministers
-Moldova,moldova,moldova-ministers
-Monaco,monaco,monaco-ministers
-Montenegro,montenegro,montenegro-cabinet
-Montserrat,montserrat,montserrat-ministers
-Morocco,morocco,morocco-ministers
-Mozambique,mozambique,mozambique-ministers
-Nauru,nauru,nauru-ministers
-Nepal,nepal,nepal-ministers
-Netherlands,netherlands,netherlands-cabinet
-New Zealand,new-zealand,new-zealand-cabinet
-Nigeria,nigeria,nigeria-cabinet
-Niue,niue,niue-cabinet
-Northern Ireland,northern-ireland,northern-ireland-ministers
-North Macedonia,north-macedonia,north-macedonia-ministers
-Norway,norway,norway-cabinet
-Pakistan,pakistan,pakistan-ministers
-Peru,peru,peru-ministers
-Philippines,philippines,philippines-ministers
-Poland,poland,poland-cabinet
-Portugal,portugal,portugal-cabinet
-Romania,romania,romania-cabinet
-Russia,russia,russia-cabinet
-Rwanda,rwanda,rwanda-ministers
-Saint Lucia,saint-lucia,st-lucia-cabinet
-Samoa,samoa,samoa-ministers
-Scotland,scotland,scotland-cabinet
-Senegal,senegal,senegal-ministers
-Serbia,serbia,serbia-ministers
-Seychelles,seychelles,seychelles-ministers
-Singapore,singapore,singapore-ministers
-Slovakia,slovakia,slovakia-cabinet
-Slovenia,slovenia,slovenia-cabinet
-Solomon Islands,solomon-islands,solomons-ministers
-Somalia,somalia,somalia-cabinet
-South Africa,south-africa,south-africa-cabinet
-South Korea,south-korea,south-korea-ministers
-Spain,spain,spain-ministers
-Sri Lanka,sri-lanka,sri-lanka-cabinet
-Sweden,sweden,sweden-cabinet
-Switzerland,switzerland,swiss-federal-council
-Tajikistan,tajikistan,tajikistan-ministers
-Timor-Leste,timor-leste,timor-leste-ministers
-Tonga,tonga,tonga-ministers
-Transnistria,transnistria,transnistria-ministers
-Trinidad and Tobago,trinidad-and-tobago,trinidad-and-tobago-cabinet
-Turkey,turkey,turkey-ministers
-Turks and Caicos Islands,turks-and-caicos,turks-and-caicos-ministers
-Ukraine,ukraine,ukraine-cabinet
-United Kingdom,united-kingdom,united-kingdom-cabinet
-United States,united-states,us-cabinet
-Vanuatu,vanuatu,vanuatu-cabinet
-Wales,wales,wales-cabinet
-Zambia,zambia,zambia-ministers
+country,slug,repo,source
+Åland,aland,aland-cabinet,https://www.regeringen.ax/
+Albania,albania,albania-cabinet,https://kryeministria.al/
+Algeria,algeria,algeria-cabinet,http://www.premier-ministre.gov.dz/
+Andorra,andorra,andorra-cabinet,https://www.govern.ad/
+Angola,angola,angola-ministers,https://governo.gov.ao/
+Anguilla,anguilla,anguilla-cabinet,http://www.gov.ai/
+Antigua and Barbuda,antigua-and-barbuda,antigua-barbuda-ministers,https://ab.gov.ag/
+Argentina,argentina,argentina-ministers,https://mapadelestado.jefatura.gob.ar/
+Armenia,armenia,armenia-ministers,https://www.gov.am/
+Aruba,aruba,aruba-ministers,https://www.overheid.aw/
+Australia,australia,australia-cabinet,https://www.pm.gov.au/
+Austria,austria,austria-cabinet,https://www.bundeskanzleramt.gv.at/
+Azerbaijan,azerbaijan,azerbaijan-cabinet,https://nk.gov.az/
+Bahamas,bahamas,bahamas-cabinet,https://www.bahamas.gov.bs/
+Bangladesh,bangladesh,bangladesh-ministers,https://cabinet.gov.bd/
+Barbados,barbados,barbados-cabinet,https://www.gov.bb/
+Belarus,belarus,belarus-ministers,http://www.government.by/
+Belgium,belgium,belgium-cabinet,https://www.belgium.be/
+Belize,belize,belize-ministers,https://www.nationalassembly.gov.bz/
+Bermuda,bermuda,bermuda-cabinet,http://parliament.bm/
+Bhutan,bhutan,bhutan-ministers,https://www.cabinet.gov.bt/
+Bosnia and Herzegovina,bosnia-herzegovina,bosnia-herzegovina-ministers,https://www.vijeceministara.gov.ba/
+Brazil,brazil,brazil-ministers,https://www.gov.br/
+British Virgin Islands,british-virgin-islands,bvi-ministers,https://bvi.gov.vg/
+Bulgaria,bulgaria,bulgaria-cabinet,https://www.gov.bg/
+Cameroon,cameroon,cameroon-ministers,https://www.spm.gov.cm/
+Canada,canada,canada-cabinet,https://pm.gc.ca/
+Cayman Islands,caymans,caymans-ministers,https://www.gov.ky/
+Croatia,croatia,croatia-ministers,https://vlada.gov.hr/
+Cyprus,cyprus,cyprus-cabinet,https://www.presidency.gov.cy/
+Czechia,czechia,czech-ministers,https://www.vlada.cz/
+Denmark,denmark,denmark-cabinet,https://www.thedanishparliament.dk/
+Estonia,estonia,estonia-cabinet,https://www.valitsus.ee
+Ethiopia,ethiopia,ethiopia-ministers,https://www.ethiopia.gov.et/
+European Union,european-union,eu-commissioners,https://ec.europa.eu/
+Faroe Islands,faroes,faroes-ministers,https://www.foroyalandsstyri.fo/
+Federated States of Micronesia,micronesia,micronesia-ministers,https://gov.fm/
+Fiji,fiji,fiji-ministers,http://www.pmoffice.gov.fj/
+Finland,finland,finland-cabinet,https://valtioneuvosto.fi/
+France,france,france-cabinet,https://www.gouvernement.fr/
+Gambia,gambia,gambia-ministers,https://www.op.gov.gm/
+Georgia,georgia,georgia-ministers,http://gov.ge/
+Germany,germany,germany-cabinet,https://www.bundesregierung.de/
+Gibraltar,gibraltar,gibraltar-cabinet,https://www.gibraltar.gov.gi/
+Greece,greece,greece-cabinet,https://government.gov.gr/
+Greenland,greenland,greenland-cabinet,https://naalakkersuisut.gl/
+Hong Kong,hong-kong,hong-kong-ministers,https://www.ceo.gov.hk/
+Hungary,hungary,hungary-cabinet,https://kormany.hu/
+Iceland,iceland,iceland-cabinet,https://www.government.is/
+India,india,india-ministers,https://www.india.gov.in/
+Indonesia,indonesia,indonesia-ministers,https://setkab.go.id/
+Iran,iran,iran-ministers,https://www.president.ir/
+Ireland,ireland,ireland-ministers,https://www.gov.ie/
+Isle of Man,isle-of-man,isle-of-man-cabinet,https://www.gov.im/
+Israel,israel,israel-ministers,https://m.knesset.gov.il/
+Italy,italy,italy-ministers,https://www.governo.it/
+Jamaica,jamaica,jamaica-ministers,https://opm.gov.jm/
+Japan,japan,japan-ministers,https://japan.kantei.go.jp/
+Jersey,jersey,jersey-cabinet,https://www.gov.je/
+Jordan,jordan,jordan-ministers,https://portal.jordan.gov.jo/
+Kazakhstan,kazakhstan,kazakhstan-cabinet,https://primeminister.kz/
+Kenya,kenya,kenya-ministers,https://cabinetoffice.go.ke/
+Kiribati,kiribati,kiribati-ministers,https://www.president.gov.ki/
+Kosovo,kosovo,kosovo-cabinet,https://kryeministri.rks-gov.net/
+Kyrgyzstan,kyrgyzstan,kyrgyzstan-ministers,https://www.gov.kg/
+Latvia,latvia,latvia-cabinet,https://www.mk.gov.lv/
+Lesotho,lesotho,lesotho-ministers,https://www.gov.ls/
+Liechtenstein,liechtenstein,liechtenstein-ministers,https://www.regierung.li/
+Lithuania,lithuania,lithuania-cabinet,https://lrv.lt/
+Luxembourg,luxembourg,luxembourg-cabinet,https://gouvernement.lu/
+Malawi,malawi,malawi-ministers,https://www.malawi.gov.mw/
+Malaysia,malaysia,malaysia-ministers,https://www.kabinet.gov.my/
+Maldives,maldives,maldives-ministers,https://presidency.gov.mv/
+Malta,malta,malta-ministers,https://www.gov.mt/
+Marshall Islands,marshall-islands,marshall-islands-ministers,https://rmiparliament.org/
+Mauritius,mauritius,mauritius-ministers,https://pmo.govmu.org/
+Mexico,mexico,mexico-ministers,https://presidente.gob.mx/
+Moldova,moldova,moldova-ministers,https://gov.md/
+Monaco,monaco,monaco-ministers,https://en.gouv.mc/
+Montenegro,montenegro,montenegro-cabinet,https://www.gov.me/
+Montserrat,montserrat,montserrat-ministers,https://www.gov.ms/
+Morocco,morocco,morocco-ministers,https://www.maroc.ma/
+Mozambique,mozambique,mozambique-ministers,https://www.portaldogoverno.gov.mz/
+Nauru,nauru,nauru-ministers,http://naurugov.nr/
+Nepal,nepal,nepal-ministers,https://www.opmcm.gov.np/
+Netherlands,netherlands,netherlands-cabinet,https://www.government.nl/
+New Zealand,new-zealand,new-zealand-cabinet,https://dpmc.govt.nz/
+Nigeria,nigeria,nigeria-cabinet,https://www.osgf.gov.ng/
+Niue,niue,niue-cabinet,https://www.gov.nu/
+Northern Ireland,northern-ireland,northern-ireland-ministers,http://aims.niassembly.gov.uk/
+North Macedonia,north-macedonia,north-macedonia-ministers,https://vlada.mk/
+Norway,norway,norway-cabinet,https://www.regjeringen.no/
+Pakistan,pakistan,pakistan-ministers,http://www.na.gov.pk/
+Peru,peru,peru-ministers,https://www.gob.pe/
+Philippines,philippines,philippines-ministers,https://aganapcg.dfa.gov.ph/
+Poland,poland,poland-cabinet,https://www.gov.pl/
+Portugal,portugal,portugal-cabinet,https://www.portugal.gov.pt/
+Romania,romania,romania-cabinet,https://www.gov.ro/
+Russia,russia,russia-cabinet,http://government.ru/
+Rwanda,rwanda,rwanda-ministers,https://www.gov.rw/
+Saint Lucia,saint-lucia,st-lucia-cabinet,http://www.govt.lc/
+Samoa,samoa,samoa-ministers,https://www.samoagovt.ws/
+Scotland,scotland,scotland-cabinet,https://www.gov.scot/
+Senegal,senegal,senegal-ministers,https://sec.gouv.sn/
+Serbia,serbia,serbia-ministers,https://www.srbija.gov.rs/
+Seychelles,seychelles,seychelles-ministers,https://www.statehouse.gov.sc/
+Singapore,singapore,singapore-ministers,https://www.pmo.gov.sg/
+Slovakia,slovakia,slovakia-cabinet,https://www.vlada.gov.sk/
+Slovenia,slovenia,slovenia-cabinet,https://www.gov.si/
+Solomon Islands,solomon-islands,solomons-ministers,https://solomons.gov.sb/
+Somalia,somalia,somalia-cabinet,https://opm.gov.so/
+South Africa,south-africa,south-africa-cabinet,https://www.parliament.gov.za/
+South Korea,south-korea,south-korea-ministers,https://www.korea.net/
+Spain,spain,spain-ministers,https://www.lamoncloa.gob.es/
+Sri Lanka,sri-lanka,sri-lanka-cabinet,http://www.cabinetoffice.gov.lk/
+Sweden,sweden,sweden-cabinet,https://www.regeringen.se/
+Switzerland,switzerland,swiss-federal-council,https://www.admin.ch/
+Tajikistan,tajikistan,tajikistan-ministers,http://prezident.tj/
+Timor-Leste,timor-leste,timor-leste-ministers,http://timor-leste.gov.tl/
+Tonga,tonga,tonga-ministers,https://www.parliament.gov.to/
+Transnistria,transnistria,transnistria-ministers,http://gov-pmr.org/
+Trinidad and Tobago,trinidad-and-tobago,trinidad-and-tobago-cabinet,https://www.opm.gov.tt/
+Turkey,turkey,turkey-ministers,https://www.tccb.gov.tr/
+Turks and Caicos Islands,turks-and-caicos,turks-and-caicos-ministers,https://www.gov.tc/
+Ukraine,ukraine,ukraine-cabinet,https://www.kmu.gov.ua/
+United Kingdom,united-kingdom,united-kingdom-cabinet,https://www.gov.uk/
+United States,united-states,us-cabinet,https://www.whitehouse.gov/
+Vanuatu,vanuatu,vanuatu-cabinet,https://parliament.gov.vu/
+Wales,wales,wales-cabinet,https://gov.wales/
+Zambia,zambia,zambia-ministers,https://www.parliament.gov.zm/
