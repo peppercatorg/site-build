@@ -42,6 +42,13 @@
         clear: both;
       }
       #download a { text-decoration: none }
+
+      #sources {
+        clear: both;
+        font-style: italic;
+        padding-top: 5em;
+        padding-bottom: 2em;
+      }
     </style>
   </head>
   <body>
@@ -88,6 +95,14 @@
       </div>
 
       <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
+
+      <div id="sources">
+        <hr>
+        <p>
+          This list is checked daily against <a href="<%= src %>"><%= src %></a> and several other sources.
+          The last change was on <%= Date.parse(table.map { |row| row[:start] }.map(&:to_s).sort.last).strftime('%B %-d, %Y') %>.
+        </p>
+      </div>
     </div>
 
     <script>
