@@ -1,36 +1,36 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-King,Abdullah II of Jordan,Q57464,1999-02-07,male,1962-01-30,,Abdullah II of Jordan (January 2020).jpg,Abdullah II of Jordan
-Prime Minister,Bisher Al-Khasawneh,Q63441935,2020-10-07,male,1969-01-27,,Bisher Al-Khasawneh (cropped).jpg,Bisher Al-Khasawneh
-Minister of Agriculture,Khaled Musa Al Henefat,Q110065420,2021-03-07,male,,,,
-"Minister of Awqaf, Islamic Affairs, and Holy Places",Mohammad Khalaileh,Q28716169,2020-10-12,male,1967,,,
-Minister of Culture,Haifa Najjar,Q54875250,2021-10-11,female,1959-03-01,,,
-Minister of Digital Economy and Entrepreneurship,Ahmad Hanandeh,Q110067674,2020-10-12,,,,,
-Minister of Energy and Mineral Resources,Saleh Ali Hamed Al-Kharabsheh,Q110066264,2021-10-11,,,,,
-Minister of Environment,Muawieh Khalid Radaideh,Q110066642,2021-10-12,,,,,
-Minister of Finance,Mohamad Al-Ississ,Q54861811,2020-10-12,male,1977,,Al-Ississ WEF High Resolution.jpg,
-Minister of Foreign Affairs,Ayman al-Ṣafadī,Q28336737,2017-01-15,male,1962-01-15,,His Excellency Safadi at the Meeting of Ministers of the Global Coalition in Washington (cropped).jpg,Ayman Safadi
-Minister of Health,Feras Tbrahim Hawari,Q110067351,2021-03-29,,,,,
-Minister of Higher Education and Scientific Research,Wajih Owais,Q110065429,2021-10-11,male,1947,,,
-Minister of Industry and Trade And Supply,Yousef Alshamali,Q110066321,2021-10-11,,,,,
-Minister of the Interior,Mazen Al-Farrayah,Q105954588,2021-03-07,male,1969-04-01,,,
-Minister of Investment,Khairy Yasser Abdel Moneim Amr,Q110066807,2021-10-11,,,,,
-Minister of Justice,Ahmed Nouri Ziadat,Q110067665,2021-03-08,,,,,
-Minister of Labour,Nayef ZakariyaStetieh,Q110066500,2021-10-11,,,,,
-Minister of of Local Administration,Tawfiq Kreishan,Q6754063,2020-10-12,male,1947,,,Tawfiq Kreishan
-Minister of Planning and International Cooperation,Nasser Shraideh,Q98382657,2020-10-12,,,,,
-Minister of Political and Parliamentary Affairs,Musa Maaytah,Q97073473,2020-10-12,male,,,MUSA ALMAAYTAH.jpg,
-Minister of Public Works and Housing,Yahya Musa Kisbi,Q89028293,2020-10-12,male,,,,
-Minister of Social Development,Ayman Riad Saeid Almuflih,Q110067596,2020-10-12,,,,,
-Minister of Tourism and Antiquities,Nayef Al-Fayez,Q100258645,2020-10-12,male,,,,Nayef Al-Fayez
-Minister of Transport,Wajih Azaizeh,Q110065359,2021-03-07,,,,,
-Minister of Water and Irrigation,Mohammed Al Najjar,Q110065393,2021-03-07,male,1956,,,
-Minister of Youth,Mohammad F. Nabulsi,Q110067105,2020-10-12,,,,,
-Minister of State for Follow-up and Government Coordination,Nawaf Wasfi Tall,Q110067972,2020-10-12,,,,,
-Minister of State for Legal Affairs,Wafaa Saeed Yaqoub Bani Mustafa,Q110068000,2021-10-11,,,,,
-Minister of State for Media Affairs,Faisal Shboul,Q110067984,2021-10-11,,,,,
-Minister of State for Prime Ministry Affairs,Ibrahim Jazi,Q109257176,2020-10-12,,1966,,,
-Speaker of the Senate,Faisal al-Fayez,Q1393504,2015-10-25,male,1952-12-20,,Faisal Al Fayez (cropped).jpg,Faisal Al-Fayez
-Speaker of the Chamber of Deputies,Abdel-Karim Deghmi,Q110068450,2021-11-15,male,1955,,,
-Governor of the Central Bank,Ziad Fariz,Q19398943,2012-01-10,male,1943,,,
-Chairman of the Joint Chiefs,Yousef Huneiti,Q65926323,2019-07-24,male,1959-03-02,,"Yousef Huneiti, Chairman of the Joint Chiefs of Staff of the Jordan Armed Forces.jpeg",Yousef Huneiti
-Mayor of Amman,Yousef Shawarbeh,Q60054291,2017-08-20,male,,,,Yousef Shawarbeh
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Jordan,King,Abdullah II of Jordan,Q57464,1999-02-07,male,1962-01-30,,Abdullah II of Jordan (January 2020).jpg,Abdullah II of Jordan
+Jordan,Prime Minister,Bisher Al-Khasawneh,Q63441935,2020-10-07,male,1969-01-27,,Bisher Al-Khasawneh (cropped).jpg,Bisher Al-Khasawneh
+Jordan,Minister of Agriculture,Khaled Musa Al Henefat,Q110065420,2021-03-07,male,,,,
+Jordan,"Minister of Awqaf, Islamic Affairs, and Holy Places",Mohammad Khalaileh,Q28716169,2020-10-12,male,1967,,,
+Jordan,Minister of Culture,Haifa Najjar,Q54875250,2021-10-11,female,1959-03-01,,,
+Jordan,Minister of Digital Economy and Entrepreneurship,Ahmad Hanandeh,Q110067674,2020-10-12,,,,,
+Jordan,Minister of Energy and Mineral Resources,Saleh Ali Hamed Al-Kharabsheh,Q110066264,2021-10-11,,,,,
+Jordan,Minister of Environment,Muawieh Khalid Radaideh,Q110066642,2021-10-12,,,,,
+Jordan,Minister of Finance,Mohamad Al-Ississ,Q54861811,2020-10-12,male,1977,,Al-Ississ WEF High Resolution.jpg,
+Jordan,Minister of Foreign Affairs,Ayman al-Ṣafadī,Q28336737,2017-01-15,male,1962-01-15,,His Excellency Safadi at the Meeting of Ministers of the Global Coalition in Washington (cropped).jpg,Ayman Safadi
+Jordan,Minister of Health,Feras Tbrahim Hawari,Q110067351,2021-03-29,,,,,
+Jordan,Minister of Higher Education and Scientific Research,Wajih Owais,Q110065429,2021-10-11,male,1947,,,
+Jordan,Minister of Industry and Trade And Supply,Yousef Alshamali,Q110066321,2021-10-11,,,,,
+Jordan,Minister of the Interior,Mazen Al-Farrayah,Q105954588,2021-03-07,male,1969-04-01,,,
+Jordan,Minister of Investment,Khairy Yasser Abdel Moneim Amr,Q110066807,2021-10-11,,,,,
+Jordan,Minister of Justice,Ahmed Nouri Ziadat,Q110067665,2021-03-08,,,,,
+Jordan,Minister of Labour,Nayef ZakariyaStetieh,Q110066500,2021-10-11,,,,,
+Jordan,Minister of of Local Administration,Tawfiq Kreishan,Q6754063,2020-10-12,male,1947,,,Tawfiq Kreishan
+Jordan,Minister of Planning and International Cooperation,Nasser Shraideh,Q98382657,2020-10-12,,,,,
+Jordan,Minister of Political and Parliamentary Affairs,Musa Maaytah,Q97073473,2020-10-12,male,,,MUSA ALMAAYTAH.jpg,
+Jordan,Minister of Public Works and Housing,Yahya Musa Kisbi,Q89028293,2020-10-12,male,,,,
+Jordan,Minister of Social Development,Ayman Riad Saeid Almuflih,Q110067596,2020-10-12,,,,,
+Jordan,Minister of Tourism and Antiquities,Nayef Al-Fayez,Q100258645,2020-10-12,male,,,,Nayef Al-Fayez
+Jordan,Minister of Transport,Wajih Azaizeh,Q110065359,2021-03-07,,,,,
+Jordan,Minister of Water and Irrigation,Mohammed Al Najjar,Q110065393,2021-03-07,male,1956,,,
+Jordan,Minister of Youth,Mohammad F. Nabulsi,Q110067105,2020-10-12,,,,,
+Jordan,Minister of State for Follow-up and Government Coordination,Nawaf Wasfi Tall,Q110067972,2020-10-12,,,,,
+Jordan,Minister of State for Legal Affairs,Wafaa Saeed Yaqoub Bani Mustafa,Q110068000,2021-10-11,,,,,
+Jordan,Minister of State for Media Affairs,Faisal Shboul,Q110067984,2021-10-11,,,,,
+Jordan,Minister of State for Prime Ministry Affairs,Ibrahim Jazi,Q109257176,2020-10-12,,1966,,,
+Jordan,Speaker of the Senate,Faisal al-Fayez,Q1393504,2015-10-25,male,1952-12-20,,Faisal Al Fayez (cropped).jpg,Faisal Al-Fayez
+Jordan,Speaker of the Chamber of Deputies,Abdel-Karim Deghmi,Q110068450,2021-11-15,male,1955,,,
+Jordan,Governor of the Central Bank,Ziad Fariz,Q19398943,2012-01-10,male,1943,,,
+Jordan,Chairman of the Joint Chiefs,Yousef Huneiti,Q65926323,2019-07-24,male,1959-03-02,,"Yousef Huneiti, Chairman of the Joint Chiefs of Staff of the Jordan Armed Forces.jpeg",Yousef Huneiti
+Jordan,Mayor of Amman,Yousef Shawarbeh,Q60054291,2017-08-20,male,,,,Yousef Shawarbeh

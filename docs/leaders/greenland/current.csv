@@ -1,12 +1,12 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-Prime Minister,Múte Bourup Egede,Q51846080,2021-04-23,male,1987-03-11,,Múte Bourup Egede May 2021.jpg,Múte Bourup Egede
-"Minister for Agriculture, Self-Sufficiency, Energy and Environment",Kalistat Lund,Q100600989,2021-04-23,male,1959,,,
-Minister for Business and Trade,Pele Broberg,Q55808448,2021-09-27,male,1972,,"Pele Broberg with Tony Blinken, Jeppe Kofod and Jenis av Rana in Copenhagen (2021) (cropped).jpg",Pele Broberg
-"Minister for Children, Youth, Families and Justice",Paneeraq Olsen,Q107280074,2021-09-27,female,1958-12-26,,,Paneeraq Olsen
-"Minister for Education, Culture, Sports and Church",Peter P. Olsen,Q107715997,2021-04-23,male,,,,
-"Minister for Finance, Mineral Resources, Justice and Gender Equality",Naaja H. Nathanielsen,Q53872865,2021-11-23,female,1975-12-06,,,Naaja Nathanielsen
-Minister for Fisheries and Hunting,Aqqaluaq B. Egede,Q47092177,2021-04-23,male,1981,,,
-Minister for Health,Kirsten L. Fencker,Q107716061,2021-04-23,female,,,,
-Minister for Housing and Infrastructure,Mariane Paviasen,Q109917990,2021-11-23,female,,,,Mariane Paviasen
-Minister for Social Affairs and Labour,Mimi Karlsen,Q6862146,2021-04-23,female,1957-01-23,,Mimi Karlsen vid Nordiska Radets session 2011 i Kopenhamn.jpg,Mimi Karlsen
-Speaker of the Inatsisartut,Hans Enoksen,Q310653,2021-04-16,male,1956-08-07,,Landsstyreformand Hans Enoksen til Folkeafstemning i Multihallen i Nuuk med Pipaluk Petersen pa 5 ar.jpg,Hans Enoksen
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Greenland,Prime Minister,Múte Bourup Egede,Q51846080,2021-04-23,male,1987-03-11,,Múte Bourup Egede May 2021.jpg,Múte Bourup Egede
+Greenland,"Minister for Agriculture, Self-Sufficiency, Energy and Environment",Kalistat Lund,Q100600989,2021-04-23,male,1959,,,
+Greenland,Minister for Business and Trade,Pele Broberg,Q55808448,2021-09-27,male,1972,,"Pele Broberg with Tony Blinken, Jeppe Kofod and Jenis av Rana in Copenhagen (2021) (cropped).jpg",Pele Broberg
+Greenland,"Minister for Children, Youth, Families and Justice",Paneeraq Olsen,Q107280074,2021-09-27,female,1958-12-26,,,Paneeraq Olsen
+Greenland,"Minister for Education, Culture, Sports and Church",Peter P. Olsen,Q107715997,2021-04-23,male,,,,
+Greenland,"Minister for Finance, Mineral Resources, Justice and Gender Equality",Naaja H. Nathanielsen,Q53872865,2021-11-23,female,1975-12-06,,,Naaja Nathanielsen
+Greenland,Minister for Fisheries and Hunting,Aqqaluaq B. Egede,Q47092177,2021-04-23,male,1981,,,
+Greenland,Minister for Health,Kirsten L. Fencker,Q107716061,2021-04-23,female,,,,
+Greenland,Minister for Housing and Infrastructure,Mariane Paviasen,Q109917990,2021-11-23,female,,,,Mariane Paviasen
+Greenland,Minister for Social Affairs and Labour,Mimi Karlsen,Q6862146,2021-04-23,female,1957-01-23,,Mimi Karlsen vid Nordiska Radets session 2011 i Kopenhamn.jpg,Mimi Karlsen
+Greenland,Speaker of the Inatsisartut,Hans Enoksen,Q310653,2021-04-16,male,1956-08-07,,Landsstyreformand Hans Enoksen til Folkeafstemning i Multihallen i Nuuk med Pipaluk Petersen pa 5 ar.jpg,Hans Enoksen

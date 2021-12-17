@@ -1,21 +1,21 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-Chairman of the Presidency,Željko Komšić,Q297825,2021-07-20,male,1964-01-20,,Saeimas priekšsēdētājas vizīte Izraēlā (49433178981) (cropped).jpg,Željko Komšić
-Bosniak Member of the Presidency,Šefik Džaferović,Q20525169,2018-11-20,male,1957-09-09,,Šefik Džaferović.1.jpg,Šefik Džaferović
-Croat Member of the Presidency,Željko Komšić,Q297825,2018-11-20,male,1964-01-20,,Saeimas priekšsēdētājas vizīte Izraēlā (49433178981) (cropped).jpg,Željko Komšić
-Serb Member of the Presidency,Milorad Dodik,Q335688,2018-11-20,male,1959-03-12,,Milorad Dodik (cropped).jpg,Milorad Dodik
-Chairman of the Council of Ministers,Zoran Tegeltija,Q12752078,2019-12-23,male,1961-09-29,,Zoran Tegeltija (cropped).jpg,Zoran Tegeltija
-Minister of Civil Affairs,Ankica Gudeljević,Q80903166,2019-12-23,female,1964-07-26,,,Ankica Gudeljević
-Minister of Communications and Transport,Vojin Mitrović,Q61134042,2019-12-23,male,1961-04-27,,,Vojin Mitrović
-Minister of Defence,Sifet Podžić,Q7511838,2019-12-23,male,1959-05-01,,,Sifet Podžić
-Minister of Finance and Treasury,Vjekoslav Bevanda,Q57844,2015-03-31,male,1956-05-13,,Bevanda (cropped).jpg,Vjekoslav Bevanda
-Minister of Foreign Affairs,Bisera Turković,Q4917286,2019-12-23,female,1954-12-08,,Bisera Turkovic (01119744) (cropped).jpg,Bisera Turković
-Minister of Foreign Trade and Economic Relations,Staša Košarac,Q12759664,2019-12-23,male,1975-03-19,,,Staša Košarac
-Minister of Human Rights and Refugees,Miloš Lučić,Q109646599,2020-05-15,male,,,,
-Minister of Justice,Josip Grubeša,Q22696487,2015-03-31,male,1978-11-04,,,Josip Grubeša
-Minister of Security,Selmo Cikotić,Q3443267,2020-07-23,male,1964-01-25,,Selmo Cikotić cropped.jpg,Selmo Cikotić
-Chief of the Joint Staff of the Armed Forces,Senad Mašović,Q12800875,2018-02-28,male,1969-07-19,,Senad Mašović.jpg,
-Governor of the Central Bank,Senad Softić,Q25431462,2015-08,male,1963-08-10,,,
-President of Republika Srpska,Željka Cvijanović,Q5528031,2018-11-19,female,1967-08-02,,Brock Bierman and Zeljka Cvijanovic at USAID - 2020 (cropped).jpg,Željka Cvijanović
-Prime Minister of Republika Srpska,Radovan Višković,Q58416549,2018-12-18,male,1964-02-01,,,Radovan Višković
-President of the Federation of Bosnia and Herzegovina,Marinko Čavara,Q6764419,2015-02-09,male,1967-02-02,,Marinko Čavara (cropped).jpg,Marinko Čavara
-Prime Minister of the Federation of Bosnia and Herzegovina,Fadil Novalić,Q20525402,2015-03-31,male,1959-09-25,,Novalic (cropped).jpg,Fadil Novalić
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Bosnia and Herzegovina,Chairman of the Presidency,Željko Komšić,Q297825,2021-07-20,male,1964-01-20,,Saeimas priekšsēdētājas vizīte Izraēlā (49433178981) (cropped).jpg,Željko Komšić
+Bosnia and Herzegovina,Bosniak Member of the Presidency,Šefik Džaferović,Q20525169,2018-11-20,male,1957-09-09,,Šefik Džaferović.1.jpg,Šefik Džaferović
+Bosnia and Herzegovina,Croat Member of the Presidency,Željko Komšić,Q297825,2018-11-20,male,1964-01-20,,Saeimas priekšsēdētājas vizīte Izraēlā (49433178981) (cropped).jpg,Željko Komšić
+Bosnia and Herzegovina,Serb Member of the Presidency,Milorad Dodik,Q335688,2018-11-20,male,1959-03-12,,Milorad Dodik (cropped).jpg,Milorad Dodik
+Bosnia and Herzegovina,Chairman of the Council of Ministers,Zoran Tegeltija,Q12752078,2019-12-23,male,1961-09-29,,Zoran Tegeltija (cropped).jpg,Zoran Tegeltija
+Bosnia and Herzegovina,Minister of Civil Affairs,Ankica Gudeljević,Q80903166,2019-12-23,female,1964-07-26,,,Ankica Gudeljević
+Bosnia and Herzegovina,Minister of Communications and Transport,Vojin Mitrović,Q61134042,2019-12-23,male,1961-04-27,,,Vojin Mitrović
+Bosnia and Herzegovina,Minister of Defence,Sifet Podžić,Q7511838,2019-12-23,male,1959-05-01,,,Sifet Podžić
+Bosnia and Herzegovina,Minister of Finance and Treasury,Vjekoslav Bevanda,Q57844,2015-03-31,male,1956-05-13,,Bevanda (cropped).jpg,Vjekoslav Bevanda
+Bosnia and Herzegovina,Minister of Foreign Affairs,Bisera Turković,Q4917286,2019-12-23,female,1954-12-08,,Bisera Turkovic (01119744) (cropped).jpg,Bisera Turković
+Bosnia and Herzegovina,Minister of Foreign Trade and Economic Relations,Staša Košarac,Q12759664,2019-12-23,male,1975-03-19,,,Staša Košarac
+Bosnia and Herzegovina,Minister of Human Rights and Refugees,Miloš Lučić,Q109646599,2020-05-15,male,,,,
+Bosnia and Herzegovina,Minister of Justice,Josip Grubeša,Q22696487,2015-03-31,male,1978-11-04,,,Josip Grubeša
+Bosnia and Herzegovina,Minister of Security,Selmo Cikotić,Q3443267,2020-07-23,male,1964-01-25,,Selmo Cikotić cropped.jpg,Selmo Cikotić
+Bosnia and Herzegovina,Chief of the Joint Staff of the Armed Forces,Senad Mašović,Q12800875,2018-02-28,male,1969-07-19,,Senad Mašović.jpg,
+Bosnia and Herzegovina,Governor of the Central Bank,Senad Softić,Q25431462,2015-08,male,1963-08-10,,,
+Bosnia and Herzegovina,President of Republika Srpska,Željka Cvijanović,Q5528031,2018-11-19,female,1967-08-02,,Brock Bierman and Zeljka Cvijanovic at USAID - 2020 (cropped).jpg,Željka Cvijanović
+Bosnia and Herzegovina,Prime Minister of Republika Srpska,Radovan Višković,Q58416549,2018-12-18,male,1964-02-01,,,Radovan Višković
+Bosnia and Herzegovina,President of the Federation of Bosnia and Herzegovina,Marinko Čavara,Q6764419,2015-02-09,male,1967-02-02,,Marinko Čavara (cropped).jpg,Marinko Čavara
+Bosnia and Herzegovina,Prime Minister of the Federation of Bosnia and Herzegovina,Fadil Novalić,Q20525402,2015-03-31,male,1959-09-25,,Novalic (cropped).jpg,Fadil Novalić

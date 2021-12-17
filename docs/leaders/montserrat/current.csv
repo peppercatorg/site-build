@@ -1,7 +1,7 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-Premier of Montserrat,Joseph E. Farrell,Q71333507,2019-11-19,male,,,,Easton Taylor-Farrell
-"Minister of Agriculture, Lands, Housing & Environment",Crenston Buffonge,Q104600729,2019-11-25,male,1974-10-13,,,Crenston Buffonge
-"Minister of Communications, Works, Labour & Energy",Samuel Joseph,Q109849941,2019-11-25,male,,,,
-Minister of Education,Charles Kirnon,Q109849924,2019-11-25,male,,,,
-Minister of Finance,Joseph E. Farrell,Q71333507,2019-11-25,male,,,,Easton Taylor-Farrell
-Minister of Health,Charles Kirnon,Q109849924,2019-11-25,male,,,,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Montserrat,Premier of Montserrat,Joseph E. Farrell,Q71333507,2019-11-19,male,,,,Easton Taylor-Farrell
+Montserrat,"Minister of Agriculture, Lands, Housing & Environment",Crenston Buffonge,Q104600729,2019-11-25,male,1974-10-13,,,Crenston Buffonge
+Montserrat,"Minister of Communications, Works, Labour & Energy",Samuel Joseph,Q109849941,2019-11-25,male,,,,
+Montserrat,Minister of Education,Charles Kirnon,Q109849924,2019-11-25,male,,,,
+Montserrat,Minister of Finance,Joseph E. Farrell,Q71333507,2019-11-25,male,,,,Easton Taylor-Farrell
+Montserrat,Minister of Health,Charles Kirnon,Q109849924,2019-11-25,male,,,,

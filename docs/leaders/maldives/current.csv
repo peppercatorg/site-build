@@ -1,24 +1,24 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Ibrahim Mohamed Solih,Q55614252,2018-11-17,male,1964-05-04,,Ibrahim Mohamed Solih official portrait.jpg,Ibrahim Mohamed Solih
-Vice President,Faisal Naseem,Q56752471,2018-11-17,male,1973-07-20,,Faisal Naseem portrait.jpg,Faisal Naseem
-"Minister of Arts, Culture and Heritage",Yumna Maumoon,Q109756386,2018-11-17,female,,,,
-Minister of Defence,Mariya Ahmed Didi,Q17517052,2018-11-17,female,1963,,Minister Mariya as Minister of Defence.jpg,Mariya Ahmed Didi
-Minister of Economic Development,Fayyaz Ismail,Q109756433,2018-11-17,male,,,,
-Minister of Education,Aishath Ali,Q109756274,2018-11-17,female,,,,
-"Minister of Environment, Climate Change and Technology",Shauna Aminath,Q59660221,2021-05-05,female,,,,Shauna Aminath
-Minister of Finance,Ibrahim Ameer,Q89875889,2018-11-17,male,,,IBRAHIMAMEER.png,Ibrahim Ameer
-"Minister of Fisheries, Marine Resources and Agriculture",Hussain Rasheed Hassan,Q109756571,2021-05-05,male,,,,
-Minister of Foreign Affairs,Abdulla Shahid,Q4665893,2018-11-17,male,1962-05-26,,Abdulla Shahid April 2021.png,Abdulla Shahid
-"Minister of Gender, Family and Social Services",Aishath Mohamed Didi,Q109756501,2020-02,female,,,,
-Minister of Higher Education,Ibrahim Hassan,Q109756246,2018-11-17,male,,,,
-Minister of Home Affairs,Sheikh Imran Abdulla,Q109756059,2018-12-02,male,,,,
-Minister of Health,Ahmed Naseem,Q109756565,2020-10-22,male,,,,
-Minister of Islamic Affairs,Ahmed Zahir,Q16156922,2018-11-17,male,,,13-222x300.jpg,Ahmed Zahir
-"Minister of National Planning, Housing and Infrastructure",Mohamed Aslam,Q108443113,2018-11-17,male,,,,
-Minister of Tourism,Abdulla Mausoom,Q109756534,2018-11-17,male,,,,
-Minister of Transport and Civil Aviation,Aishath Nahula,Q57313656,2020-02,female,1982-03-12,,Aishath Nahula - 2019 (49164324876) (cropped).jpg,Aishath Nahula
-"Minister of Youth, Sports and Community Empowerment",Ahmed Mahloof,Q16146747,2018-11-17,male,1980-03-26,,Ahmed Mahloof.jpg,Ahmed Mahloof
-Attorney General,Ibrahim Riffath,Q109756122,2018-11-17,male,,,,
-Speaker of the People's Majlis,Mohamed Nasheed,Q152381,2019-05-28,male,1967-05-17,,Mohamed Nasheed by UNDP.jpg,Mohamed Nasheed
-Governor of the Maldives Monetary Authority,Ali Hashim,Q109756702,2019-09-01,male,,,,
-Chief of Defence Force,Abdulla Shamaal,Q4665894,2018-12-11,male,1969-07-05,,Major General Abdulla Shamaal.jpg,Abdulla Shamaal
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Maldives,President,Ibrahim Mohamed Solih,Q55614252,2018-11-17,male,1964-05-04,,Ibrahim Mohamed Solih official portrait.jpg,Ibrahim Mohamed Solih
+Maldives,Vice President,Faisal Naseem,Q56752471,2018-11-17,male,1973-07-20,,Faisal Naseem portrait.jpg,Faisal Naseem
+Maldives,"Minister of Arts, Culture and Heritage",Yumna Maumoon,Q109756386,2018-11-17,female,,,,
+Maldives,Minister of Defence,Mariya Ahmed Didi,Q17517052,2018-11-17,female,1963,,Minister Mariya as Minister of Defence.jpg,Mariya Ahmed Didi
+Maldives,Minister of Economic Development,Fayyaz Ismail,Q109756433,2018-11-17,male,,,,
+Maldives,Minister of Education,Aishath Ali,Q109756274,2018-11-17,female,,,,
+Maldives,"Minister of Environment, Climate Change and Technology",Shauna Aminath,Q59660221,2021-05-05,female,,,,Shauna Aminath
+Maldives,Minister of Finance,Ibrahim Ameer,Q89875889,2018-11-17,male,,,IBRAHIMAMEER.png,Ibrahim Ameer
+Maldives,"Minister of Fisheries, Marine Resources and Agriculture",Hussain Rasheed Hassan,Q109756571,2021-05-05,male,,,,
+Maldives,Minister of Foreign Affairs,Abdulla Shahid,Q4665893,2018-11-17,male,1962-05-26,,Abdulla Shahid April 2021.png,Abdulla Shahid
+Maldives,"Minister of Gender, Family and Social Services",Aishath Mohamed Didi,Q109756501,2020-02,female,,,,
+Maldives,Minister of Higher Education,Ibrahim Hassan,Q109756246,2018-11-17,male,,,,
+Maldives,Minister of Home Affairs,Sheikh Imran Abdulla,Q109756059,2018-12-02,male,,,,
+Maldives,Minister of Health,Ahmed Naseem,Q109756565,2020-10-22,male,,,,
+Maldives,Minister of Islamic Affairs,Ahmed Zahir,Q16156922,2018-11-17,male,,,13-222x300.jpg,Ahmed Zahir
+Maldives,"Minister of National Planning, Housing and Infrastructure",Mohamed Aslam,Q108443113,2018-11-17,male,,,,
+Maldives,Minister of Tourism,Abdulla Mausoom,Q109756534,2018-11-17,male,,,,
+Maldives,Minister of Transport and Civil Aviation,Aishath Nahula,Q57313656,2020-02,female,1982-03-12,,Aishath Nahula - 2019 (49164324876) (cropped).jpg,Aishath Nahula
+Maldives,"Minister of Youth, Sports and Community Empowerment",Ahmed Mahloof,Q16146747,2018-11-17,male,1980-03-26,,Ahmed Mahloof.jpg,Ahmed Mahloof
+Maldives,Attorney General,Ibrahim Riffath,Q109756122,2018-11-17,male,,,,
+Maldives,Speaker of the People's Majlis,Mohamed Nasheed,Q152381,2019-05-28,male,1967-05-17,,Mohamed Nasheed by UNDP.jpg,Mohamed Nasheed
+Maldives,Governor of the Maldives Monetary Authority,Ali Hashim,Q109756702,2019-09-01,male,,,,
+Maldives,Chief of Defence Force,Abdulla Shamaal,Q4665894,2018-12-11,male,1969-07-05,,Major General Abdulla Shamaal.jpg,Abdulla Shamaal

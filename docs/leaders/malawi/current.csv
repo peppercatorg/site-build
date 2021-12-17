@@ -1,33 +1,33 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Lazarus Chakwera,Q16202782,2020-06-28,male,1955-04-05,,Lazarus Chakwera 2017.jpg,Lazarus Chakwera
-Vice President,Saulos Chilima,Q16214780,2020-02-03,male,1973-02-12,,"Saulos Klaus Chilima, vice president of Malawi speaks during the African Land Forces Summit 2017.jpg",Saulos Chilima
-Minister of Agriculture,Lobin C. Lowe,Q108550752,2020-07-08,male,,,,Lobin C. Lowe
-Minister of Civic Education and National Unity,Timothy Mtambo,Q109729458,2020-07-08,male,,,,
-Minister of Defence,Lazarus Chakwera,Q16202782,2020-06-28,male,1955-04-05,,Lazarus Chakwera 2017.jpg,Lazarus Chakwera
-"Minister of Economic Planning, Development and Public Sector Reforms",Saulos Chilima,Q16214780,2020-06-29,male,1973-02-12,,"Saulos Klaus Chilima, vice president of Malawi speaks during the African Land Forces Summit 2017.jpg",Saulos Chilima
-Minister of Education,Agnes Nyalonje,Q105285313,2020-07-08,female,,,,
-Minister of Finance,Felix Mlusu,Q24006698,2020-06-29,male,1951-03-23,,Felix Mlusu.jpg,Felix Mlusu
-Minister of Foreign Affairs,Eisenhower Nduwa Mkaka,Q103495356,2020-07-08,male,1973-09-12,,Hon E. Mkaka.jpg,Eisenhower Nduwa Mkaka
-Minister of Forestry and Natural Resources,Nancy Tembo,Q6963035,2020-07-08,female,1959,,Nancy Tembo UNFCCC Glasgow Climate Dialogues.jpg,Nancy Tembo
-"Minister of Gender, Community Development and Social Welfare",Patricia Kaliati,Q7145664,2020-07-08,female,1967,,,Patricia Kaliati
-Minister of Health,Khumbize Chiponda,Q45781572,2020-07-08,female,,,,Khumbize Chiponda
-Minister of Homeland Security,Richard Chimwendo-Banda,Q45782405,2020-07-08,male,,,,
-Minister of Industry,Akajuwe Banda,Q45779534,2020-07-08,male,,,,
-Minister of Information,Gospel Kazako,Q24565243,2020-07-08,male,1968-12-29,,,Gospel Kazako
-Minister of Justice,Titus Mvalo,Q109729450,2020-07-08,male,,,,
-Minister of Lands,Kezzie Kasambala Msukwa,Q109729515,2020-07-08,male,,,,
-Minister of Mining,Adbul Gaffar,Q45779442,2020-07-08,male,,,,
-"Minister of Tourism, Culture & Wildlife",Michael Usi,Q6835031,2020-07-08,male,1968,,,Michael Usi
-Minister of Trade,Sosten Gwengwe,Q16216577,2020-06-28,male,1977-05-20,,Sosten Gwengwe 2013 (cropped).jpg,Sosten Gwengwe
-Minister of Youth and Sports,Ulemu Msungama,Q45789837,2020-07-08,male,,,,
-Deputy Minister of Agriculture,Agnes Nkusa Nkhoma,Q109729577,2020-07-08,female,,,,
-Deputy Minister of Defence,Jean Muonaowauza Sendeza,Q109729519,2020-07-08,female,,,,
-Deputy Minister of Education,Madalitso Wirima Kambauwa,Q109729501,2020-07-08,female,,,,
-Deputy Minister of Health,Chrissie Kamanga Kalamula Kanyasho,Q109729568,2020-07-08,female,,,,
-Deputy Minister of Labour,Vera Kamtukule,Q108438532,2020-07-08,female,,,,Vera Kamtukule
-Deputy Minister of Lands,Abida Sidik Mia,Q109729582,2020-07-08,female,,,,
-Deputy Minister of Local Government,Halima Alima Daud,Q109729542,2020-07-08,female,,,,
-Deputy Minister of Transport and Public Works,Nancy Chaola Mdooko,Q109729497,2020-07-08,female,,,,
-Attorney General,Thabo Chakaka Nyirenda,Q109344941,2021-08-27,male,1982,,Thabo Chakaka Nyirenda.jpg,Thabo Chakaka Nyirenda
-Speaker of the National Assembly,Catherine Gotani Hara,Q5052701,2019-06-19,female,,,Catherine Gotani Hara at the U.S. Embassy (cropped).jpg,Catherine Gotani Hara
-Governor of the Reserve Bank,Wilson Banda,Q106623416,2020-07,male,,,,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Malawi,President,Lazarus Chakwera,Q16202782,2020-06-28,male,1955-04-05,,Lazarus Chakwera 2017.jpg,Lazarus Chakwera
+Malawi,Vice President,Saulos Chilima,Q16214780,2020-02-03,male,1973-02-12,,"Saulos Klaus Chilima, vice president of Malawi speaks during the African Land Forces Summit 2017.jpg",Saulos Chilima
+Malawi,Minister of Agriculture,Lobin C. Lowe,Q108550752,2020-07-08,male,,,,Lobin C. Lowe
+Malawi,Minister of Civic Education and National Unity,Timothy Mtambo,Q109729458,2020-07-08,male,,,,
+Malawi,Minister of Defence,Lazarus Chakwera,Q16202782,2020-06-28,male,1955-04-05,,Lazarus Chakwera 2017.jpg,Lazarus Chakwera
+Malawi,"Minister of Economic Planning, Development and Public Sector Reforms",Saulos Chilima,Q16214780,2020-06-29,male,1973-02-12,,"Saulos Klaus Chilima, vice president of Malawi speaks during the African Land Forces Summit 2017.jpg",Saulos Chilima
+Malawi,Minister of Education,Agnes Nyalonje,Q105285313,2020-07-08,female,,,,
+Malawi,Minister of Finance,Felix Mlusu,Q24006698,2020-06-29,male,1951-03-23,,Felix Mlusu.jpg,Felix Mlusu
+Malawi,Minister of Foreign Affairs,Eisenhower Nduwa Mkaka,Q103495356,2020-07-08,male,1973-09-12,,Hon E. Mkaka.jpg,Eisenhower Nduwa Mkaka
+Malawi,Minister of Forestry and Natural Resources,Nancy Tembo,Q6963035,2020-07-08,female,1959,,Nancy Tembo UNFCCC Glasgow Climate Dialogues.jpg,Nancy Tembo
+Malawi,"Minister of Gender, Community Development and Social Welfare",Patricia Kaliati,Q7145664,2020-07-08,female,1967,,,Patricia Kaliati
+Malawi,Minister of Health,Khumbize Chiponda,Q45781572,2020-07-08,female,,,,Khumbize Chiponda
+Malawi,Minister of Homeland Security,Richard Chimwendo-Banda,Q45782405,2020-07-08,male,,,,
+Malawi,Minister of Industry,Akajuwe Banda,Q45779534,2020-07-08,male,,,,
+Malawi,Minister of Information,Gospel Kazako,Q24565243,2020-07-08,male,1968-12-29,,,Gospel Kazako
+Malawi,Minister of Justice,Titus Mvalo,Q109729450,2020-07-08,male,,,,
+Malawi,Minister of Lands,Kezzie Kasambala Msukwa,Q109729515,2020-07-08,male,,,,
+Malawi,Minister of Mining,Adbul Gaffar,Q45779442,2020-07-08,male,,,,
+Malawi,"Minister of Tourism, Culture & Wildlife",Michael Usi,Q6835031,2020-07-08,male,1968,,,Michael Usi
+Malawi,Minister of Trade,Sosten Gwengwe,Q16216577,2020-06-28,male,1977-05-20,,Sosten Gwengwe 2013 (cropped).jpg,Sosten Gwengwe
+Malawi,Minister of Youth and Sports,Ulemu Msungama,Q45789837,2020-07-08,male,,,,
+Malawi,Deputy Minister of Agriculture,Agnes Nkusa Nkhoma,Q109729577,2020-07-08,female,,,,
+Malawi,Deputy Minister of Defence,Jean Muonaowauza Sendeza,Q109729519,2020-07-08,female,,,,
+Malawi,Deputy Minister of Education,Madalitso Wirima Kambauwa,Q109729501,2020-07-08,female,,,,
+Malawi,Deputy Minister of Health,Chrissie Kamanga Kalamula Kanyasho,Q109729568,2020-07-08,female,,,,
+Malawi,Deputy Minister of Labour,Vera Kamtukule,Q108438532,2020-07-08,female,,,,Vera Kamtukule
+Malawi,Deputy Minister of Lands,Abida Sidik Mia,Q109729582,2020-07-08,female,,,,
+Malawi,Deputy Minister of Local Government,Halima Alima Daud,Q109729542,2020-07-08,female,,,,
+Malawi,Deputy Minister of Transport and Public Works,Nancy Chaola Mdooko,Q109729497,2020-07-08,female,,,,
+Malawi,Attorney General,Thabo Chakaka Nyirenda,Q109344941,2021-08-27,male,1982,,Thabo Chakaka Nyirenda.jpg,Thabo Chakaka Nyirenda
+Malawi,Speaker of the National Assembly,Catherine Gotani Hara,Q5052701,2019-06-19,female,,,Catherine Gotani Hara at the U.S. Embassy (cropped).jpg,Catherine Gotani Hara
+Malawi,Governor of the Reserve Bank,Wilson Banda,Q106623416,2020-07,male,,,,

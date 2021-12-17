@@ -1,30 +1,30 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Sergio Mattarella,Q3956186,2015-02-03,male,1941-07-23,,Presidente Sergio Mattarella.jpg,Sergio Mattarella
-Prime Minister,Mario Draghi,Q294460,2021-02-13,male,1947-09-03,,Mario Draghi October 2021 (cropped).jpg,Mario Draghi
-Minister of Agriculture,Stefano Patuanelli,Q55281792,2021-02-13,male,1974-06-08,,Stefano Patuanelli 2019.jpg,Stefano Patuanelli
-Minister of Cultural Heritage and Activities and Tourism,Dario Franceschini,Q388442,2021-02-13,male,1958-10-19,,Dario Franceschini 2014.jpg,Dario Franceschini
-Minister of Defence,Lorenzo Guerini,Q3836978,2021-02-13,male,1966-11-21,,Lorenzo Guerini 2019 Official.jpg,Lorenzo Guerini
-Minister for Disabilities,Erika Stefani,Q16039372,2021-02-13,female,1971-07-18,,Erika Stefani.jpg,Erika Stefani
-Minister of the Ecological Transition,Roberto Cingolani,Q3938696,2021-02-13,male,1961-12-23,,Roberto Cingolani - Festival Economia 2018.jpg,Roberto Cingolani
-Minister of Economic Development,Giancarlo Giorgetti,Q659163,2021-02-13,male,1966-12-16,,Giancarlo Giorgetti daticamera 2018.jpg,Giancarlo Giorgetti
-Minister of Economy and Finance,Daniele Franco,Q105296748,2021-02-13,male,1953-06-07,,Daniele Franco.jpg,Daniele Franco
-Minister of Education,Patrizio Bianchi,Q105320865,2021-02-13,male,1952-05-28,,Patrizio Bianchi 2018.jpg,Patrizio Bianchi
-Minister for Equal Opportunities,Elena Bonetti,Q67126683,2021-02-13,female,1974-04-12,,Elena.bonetti.evento.jpg,Elena Bonetti
-Minister of Foreign Affairs,Luigi Di Maio,Q13581225,2021-02-13,male,1986-07-06,,49987776811 90a08c2876 o cropped.jpg,Luigi Di Maio
-Minister of Health,Roberto Speranza,Q8220404,2021-02-13,male,1979-01-04,,Roberto Speranza 2019.jpg,Roberto Speranza
-Minister of Infrastructures,Enrico Giovannini,Q3725799,2021-02-13,male,1957-06-06,,Enrico Giovannini - Festival Economia 2014.JPG,Enrico Giovannini
-Minister of the Interior,Luciana Lamorgese,Q67129448,2021-02-13,female,1953-09-11,,Luciana Lamorgese crop.jpg,Luciana Lamorgese
-Minister of Justice,Marta Cartabia,Q1412573,2021-02-13,female,1963-05-14,,Marta Cartabia (cropped).jpg,Marta Cartabia
-Minister of Labour and Social Affairs,Andrea Orlando,Q3615909,2021-02-13,male,1969-02-08,,Andrea Orlando daticamera 2018.jpg,Andrea Orlando
-Minister for Parliamentary Relations,Federico D'Incà,Q15936378,2021-02-13,male,1976-02-10,,Federico D'Incà ritratto frontale ministro rapporti parlamento (cropped).jpg,Federico D'Incà
-Minister of Public Administration,Renato Brunetta,Q2573947,2021-02-13,male,1950-05-26,,Renato Brunetta 2018 (cropped).jpg,Renato Brunetta
-Minister of Regional Affairs and Autonomies,Mariastella Gelmini,Q466712,2021-02-13,female,1973-07-01,,Mariastella Gelmini daticamera 2018.jpg,Mariastella Gelmini
-Minister for the South and Territorial Cohesion,Mara Carfagna,Q266651,2021-02-13,female,1975-12-18,,Maria Rosaria Carfagna daticamera 2018.jpg,Mara Carfagna
-Minister for Technological Innovation,Vittorio Colao,Q981692,2021-02-13,male,1961-10-03,,Vittorio Colao.jpg,Vittorio Colao
-Minister of Tourism,Massimo Garavaglia,Q3851266,2021-02-13,male,1968-04-08,,Massimo Garavaglia daticamera 2018.jpg,Massimo Garavaglia
-"Minister of Universities, Science and Technology",Maria Cristina Messa,Q104599786,2021-02-13,female,1961-10-08,,Maria Cristina Messa 2021 (cropped).jpg,Maria Cristina Messa
-Minister of Youth,Fabiana Dadone,Q15936524,2021-02-13,female,1984-02-12,,Fabiana Dadone daticamera 2018.jpg,Fabiana Dadone
-President of the Chamber of Deputies,Roberto Fico,Q7484547,2018-03-24,male,1974-10-10,,Roberto Fico 2018.jpg,Roberto Fico
-President of the Senate,Elisabetta Casellati,Q930967,2018-03-24,female,1946-08-12,,Elisabetta Alberti Casellati cropped.jpg,Elisabetta Casellati
-Governor of the Banca d'Italia,Ignazio Visco,Q984461,2011-11-01,male,1949-11-21,,"Ignazio Visco at the Rebuilding Europe’s Competitiveness Meeting, Villa Madama, Rome 30th October 2012.jpg",Ignazio Visco
-Chief of the Defence Staff,Giuseppe Cavo Dragone,Q18603939,2021-10-19,male,1957-02-28,,Giuseppe Cavo Dragone in 2020.jpg,Giuseppe Cavo Dragone
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Italy,President,Sergio Mattarella,Q3956186,2015-02-03,male,1941-07-23,,Presidente Sergio Mattarella.jpg,Sergio Mattarella
+Italy,Prime Minister,Mario Draghi,Q294460,2021-02-13,male,1947-09-03,,Mario Draghi October 2021 (cropped).jpg,Mario Draghi
+Italy,Minister of Agriculture,Stefano Patuanelli,Q55281792,2021-02-13,male,1974-06-08,,Stefano Patuanelli 2019.jpg,Stefano Patuanelli
+Italy,Minister of Cultural Heritage and Activities and Tourism,Dario Franceschini,Q388442,2021-02-13,male,1958-10-19,,Dario Franceschini 2014.jpg,Dario Franceschini
+Italy,Minister of Defence,Lorenzo Guerini,Q3836978,2021-02-13,male,1966-11-21,,Lorenzo Guerini 2019 Official.jpg,Lorenzo Guerini
+Italy,Minister for Disabilities,Erika Stefani,Q16039372,2021-02-13,female,1971-07-18,,Erika Stefani.jpg,Erika Stefani
+Italy,Minister of the Ecological Transition,Roberto Cingolani,Q3938696,2021-02-13,male,1961-12-23,,Roberto Cingolani - Festival Economia 2018.jpg,Roberto Cingolani
+Italy,Minister of Economic Development,Giancarlo Giorgetti,Q659163,2021-02-13,male,1966-12-16,,Giancarlo Giorgetti daticamera 2018.jpg,Giancarlo Giorgetti
+Italy,Minister of Economy and Finance,Daniele Franco,Q105296748,2021-02-13,male,1953-06-07,,Daniele Franco.jpg,Daniele Franco
+Italy,Minister of Education,Patrizio Bianchi,Q105320865,2021-02-13,male,1952-05-28,,Patrizio Bianchi 2018.jpg,Patrizio Bianchi
+Italy,Minister for Equal Opportunities,Elena Bonetti,Q67126683,2021-02-13,female,1974-04-12,,Elena.bonetti.evento.jpg,Elena Bonetti
+Italy,Minister of Foreign Affairs,Luigi Di Maio,Q13581225,2021-02-13,male,1986-07-06,,49987776811 90a08c2876 o cropped.jpg,Luigi Di Maio
+Italy,Minister of Health,Roberto Speranza,Q8220404,2021-02-13,male,1979-01-04,,Roberto Speranza 2019.jpg,Roberto Speranza
+Italy,Minister of Infrastructures,Enrico Giovannini,Q3725799,2021-02-13,male,1957-06-06,,Enrico Giovannini - Festival Economia 2014.JPG,Enrico Giovannini
+Italy,Minister of the Interior,Luciana Lamorgese,Q67129448,2021-02-13,female,1953-09-11,,Luciana Lamorgese crop.jpg,Luciana Lamorgese
+Italy,Minister of Justice,Marta Cartabia,Q1412573,2021-02-13,female,1963-05-14,,Marta Cartabia (cropped).jpg,Marta Cartabia
+Italy,Minister of Labour and Social Affairs,Andrea Orlando,Q3615909,2021-02-13,male,1969-02-08,,Andrea Orlando daticamera 2018.jpg,Andrea Orlando
+Italy,Minister for Parliamentary Relations,Federico D'Incà,Q15936378,2021-02-13,male,1976-02-10,,Federico D'Incà ritratto frontale ministro rapporti parlamento (cropped).jpg,Federico D'Incà
+Italy,Minister of Public Administration,Renato Brunetta,Q2573947,2021-02-13,male,1950-05-26,,Renato Brunetta 2018 (cropped).jpg,Renato Brunetta
+Italy,Minister of Regional Affairs and Autonomies,Mariastella Gelmini,Q466712,2021-02-13,female,1973-07-01,,Mariastella Gelmini daticamera 2018.jpg,Mariastella Gelmini
+Italy,Minister for the South and Territorial Cohesion,Mara Carfagna,Q266651,2021-02-13,female,1975-12-18,,Maria Rosaria Carfagna daticamera 2018.jpg,Mara Carfagna
+Italy,Minister for Technological Innovation,Vittorio Colao,Q981692,2021-02-13,male,1961-10-03,,Vittorio Colao.jpg,Vittorio Colao
+Italy,Minister of Tourism,Massimo Garavaglia,Q3851266,2021-02-13,male,1968-04-08,,Massimo Garavaglia daticamera 2018.jpg,Massimo Garavaglia
+Italy,"Minister of Universities, Science and Technology",Maria Cristina Messa,Q104599786,2021-02-13,female,1961-10-08,,Maria Cristina Messa 2021 (cropped).jpg,Maria Cristina Messa
+Italy,Minister of Youth,Fabiana Dadone,Q15936524,2021-02-13,female,1984-02-12,,Fabiana Dadone daticamera 2018.jpg,Fabiana Dadone
+Italy,President of the Chamber of Deputies,Roberto Fico,Q7484547,2018-03-24,male,1974-10-10,,Roberto Fico 2018.jpg,Roberto Fico
+Italy,President of the Senate,Elisabetta Casellati,Q930967,2018-03-24,female,1946-08-12,,Elisabetta Alberti Casellati cropped.jpg,Elisabetta Casellati
+Italy,Governor of the Banca d'Italia,Ignazio Visco,Q984461,2011-11-01,male,1949-11-21,,"Ignazio Visco at the Rebuilding Europe’s Competitiveness Meeting, Villa Madama, Rome 30th October 2012.jpg",Ignazio Visco
+Italy,Chief of the Defence Staff,Giuseppe Cavo Dragone,Q18603939,2021-10-19,male,1957-02-28,,Giuseppe Cavo Dragone in 2020.jpg,Giuseppe Cavo Dragone

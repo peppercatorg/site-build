@@ -1,28 +1,28 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-monarch,Elizabeth II,Q9682,1962-08-06,female,1926-04-21,,Queen Elizabeth II in March 2015.jpg,Elizabeth II
-Governor-General,Patrick Allen,Q109147,2009-02-26,male,1951-02-07,,Sir Patrick Allen.jpg,Patrick Allen (governor-general)
-Prime Minister,Andrew Holness,Q505200,2016-03-03,male,1972-07-22,,Andrew Holness Press (cropped).jpg,Andrew Holness
-Deputy Prime Minister,Horace Chang,Q1627852,2020-09,male,1952-11-10,,,Horace Chang
-"Minister of Culture, Gender, Entertainment and Sport",Olivia Grange,Q1247437,2020-09-07,female,1946-04-27,,,Olivia Grange
-"Minister of Education, Youth and Information",Fayval Williams,Q23304549,2020-09-13,female,1958-05-28,,Williams-fayval-2017-jm.png,Fayval Williams
-Minister of Finance and the Public Service,Nigel A. L. Clarke,Q50874870,2018-03-26,male,1971-10-20,,,Nigel A. L. Clarke
-Minister of Foreign Affairs and Foreign Trade,Kamina Johnson-Smith,Q28225536,2016-03-07,female,,,Jamaican Foreign Affairs and Trade Minister Kamina Johnson Smith - 2017 (36999447206) (cropped portrait).jpg,Kamina Johnson-Smith
-"Minister of Housing, Urban Renewal, Environment and Climate Change",Pearnel Patroe Charles Jr.,Q28837290,2016-02-25,male,1978,,Pearnel Portrait.jpg,Pearnel Patroe Charles Jr.
-"Minister of Industry, Investment and Commerce",Audley Shaw,Q758950,2020-09-07,male,1952-06-13,,Audley Shaw.jpg,Audley Shaw
-Minister of Justice,Delroy Chuck,Q1184742,2016-02,male,1950-12-02,,,Delroy Chuck
-Minister of Labour and Social Security,Karl Samuda,Q1732780,2020-09-07,male,1942-02-08,,,Karl Samuda
-Minister of Local Government and Rural Development,Desmond McKenzie,Q5264765,2016-03-07,male,1952-12-01,,,Desmond McKenzie
-Minister of Health and Wellness,Christopher Tufton,Q1087022,2020-09-07,male,,,,Christopher Tufton
-Minister of National Security,Horace Chang,Q1627852,2018-03,male,1952-11-10,,,Horace Chang
-"Minister of Science, Energy and Technology",Daryl Vaz,Q1167006,2020-09-07,male,1963-12-15,,"Daryl Vaz in Halifax, Nova Scotia, Canada (cropped).jpg",Daryl Vaz
-Minister of Tourism,Edmund Bartlett,Q1285979,2016-02,male,1950-12-03,,"Readiness, resilience, recovery (27688251578) (cropped).jpg",Edmund Bartlett
-Minister of Transport and Works,Robert Montague,Q7347755,2020-09-07,male,1965,,,Robert Montague (Jamaican politician)
-Minister without Portfolio,Aubyn Hill,Q109928856,2020-09-07,male,,,,
-Minister without Portfolio,Everald Warmington,Q5416886,2020-09-07,male,1952,,,Everald Warmington
-Minister without Portfolio,Matthew Samuda,Q87713413,2020-09-07,male,,,Matthew Samuda (01911302) (49621367696).jpg,
-Attorney General,Marlene Malahoo Forte,Q16499741,2016-03-07,female,,,Marlene Malahoo Forte.jpg,Marlene Malahoo Forte
-Chief Justice,Bryan Sykes,Q62036276,2018-03-01,male,,,,Bryan Sykes (judge)
-Speaker of the House of Representatives,Marisa Dalrymple-Philibert,Q99478706,2020-09-15,female,,,,Marisa Dalrymple-Philibert
-President of the Senate,Tom Tavares-Finson,Q16751168,2016-03-10,male,1953-07-07,,,Tom Tavares-Finson
-Governor of the Central Bank,Richard Byles,Q109929154,2019-08-19,male,,,,
-Chief of Defence Staff,Rocky Ricardo Meade,Q74881136,2016-12-01,male,,,General Meade Hero's Day 2019.jpg,Rocky Ricardo Meade
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Jamaica,monarch,Elizabeth II,Q9682,1962-08-06,female,1926-04-21,,Queen Elizabeth II in March 2015.jpg,Elizabeth II
+Jamaica,Governor-General,Patrick Allen,Q109147,2009-02-26,male,1951-02-07,,Sir Patrick Allen.jpg,Patrick Allen (governor-general)
+Jamaica,Prime Minister,Andrew Holness,Q505200,2016-03-03,male,1972-07-22,,Andrew Holness Press (cropped).jpg,Andrew Holness
+Jamaica,Deputy Prime Minister,Horace Chang,Q1627852,2020-09,male,1952-11-10,,,Horace Chang
+Jamaica,"Minister of Culture, Gender, Entertainment and Sport",Olivia Grange,Q1247437,2020-09-07,female,1946-04-27,,,Olivia Grange
+Jamaica,"Minister of Education, Youth and Information",Fayval Williams,Q23304549,2020-09-13,female,1958-05-28,,Williams-fayval-2017-jm.png,Fayval Williams
+Jamaica,Minister of Finance and the Public Service,Nigel A. L. Clarke,Q50874870,2018-03-26,male,1971-10-20,,,Nigel A. L. Clarke
+Jamaica,Minister of Foreign Affairs and Foreign Trade,Kamina Johnson-Smith,Q28225536,2016-03-07,female,,,Jamaican Foreign Affairs and Trade Minister Kamina Johnson Smith - 2017 (36999447206) (cropped portrait).jpg,Kamina Johnson-Smith
+Jamaica,"Minister of Housing, Urban Renewal, Environment and Climate Change",Pearnel Patroe Charles Jr.,Q28837290,2016-02-25,male,1978,,Pearnel Portrait.jpg,Pearnel Patroe Charles Jr.
+Jamaica,"Minister of Industry, Investment and Commerce",Audley Shaw,Q758950,2020-09-07,male,1952-06-13,,Audley Shaw.jpg,Audley Shaw
+Jamaica,Minister of Justice,Delroy Chuck,Q1184742,2016-02,male,1950-12-02,,,Delroy Chuck
+Jamaica,Minister of Labour and Social Security,Karl Samuda,Q1732780,2020-09-07,male,1942-02-08,,,Karl Samuda
+Jamaica,Minister of Local Government and Rural Development,Desmond McKenzie,Q5264765,2016-03-07,male,1952-12-01,,,Desmond McKenzie
+Jamaica,Minister of Health and Wellness,Christopher Tufton,Q1087022,2020-09-07,male,,,,Christopher Tufton
+Jamaica,Minister of National Security,Horace Chang,Q1627852,2018-03,male,1952-11-10,,,Horace Chang
+Jamaica,"Minister of Science, Energy and Technology",Daryl Vaz,Q1167006,2020-09-07,male,1963-12-15,,"Daryl Vaz in Halifax, Nova Scotia, Canada (cropped).jpg",Daryl Vaz
+Jamaica,Minister of Tourism,Edmund Bartlett,Q1285979,2016-02,male,1950-12-03,,"Readiness, resilience, recovery (27688251578) (cropped).jpg",Edmund Bartlett
+Jamaica,Minister of Transport and Works,Robert Montague,Q7347755,2020-09-07,male,1965,,,Robert Montague (Jamaican politician)
+Jamaica,Minister without Portfolio,Aubyn Hill,Q109928856,2020-09-07,male,,,,
+Jamaica,Minister without Portfolio,Everald Warmington,Q5416886,2020-09-07,male,1952,,,Everald Warmington
+Jamaica,Minister without Portfolio,Matthew Samuda,Q87713413,2020-09-07,male,,,Matthew Samuda (01911302) (49621367696).jpg,
+Jamaica,Attorney General,Marlene Malahoo Forte,Q16499741,2016-03-07,female,,,Marlene Malahoo Forte.jpg,Marlene Malahoo Forte
+Jamaica,Chief Justice,Bryan Sykes,Q62036276,2018-03-01,male,,,,Bryan Sykes (judge)
+Jamaica,Speaker of the House of Representatives,Marisa Dalrymple-Philibert,Q99478706,2020-09-15,female,,,,Marisa Dalrymple-Philibert
+Jamaica,President of the Senate,Tom Tavares-Finson,Q16751168,2016-03-10,male,1953-07-07,,,Tom Tavares-Finson
+Jamaica,Governor of the Central Bank,Richard Byles,Q109929154,2019-08-19,male,,,,
+Jamaica,Chief of Defence Staff,Rocky Ricardo Meade,Q74881136,2016-12-01,male,,,General Meade Hero's Day 2019.jpg,Rocky Ricardo Meade

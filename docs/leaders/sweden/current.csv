@@ -1,34 +1,34 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-monarch,Carl XVI Gustaf of Sweden,Q45068,1973-09-15,male,1946-04-30,,Carlos Gustavo da Suécia (meio corpo).jpg,Carl XVI Gustaf
-Prime Minister,Magdalena Andersson,Q4935873,2021-11-30,female,1967-01-23,,Budgetpropositionen för 2022 (1 av 8) (cropped) (1).jpg,Magdalena Andersson
-Minister of Civil Affairs,Ida Karkiainen,Q18451082,2021-11-30,female,1988-05-10,,"Andersson Cabinet, nov 30, 2021 (cropped).jpg",Ida Karkiainen
-Minister for the Climate,Annika Strandhäll,Q4980750,2021-11-30,female,1975-04-30,,Annika Strandhäll 2014.jpg,Annika Strandhäll
-Minister for Communications and Regional Policy,Tomas Eneroth,Q5711551,2017-07-27,male,1966-12-04,,Tomas Eneroth in London - 2017 (24832532058) (cropped).jpg,Tomas Eneroth
-Minister for Culture,Jeanette Gustafsdotter,Q109828321,2021-11-30,female,1965-12-24,,Jeanette Gustafsdotter (PICT0765).jpg,Jeanette Gustafsdotter
-Minister for Defence,Peter Hultqvist,Q3370162,2014-10-03,male,1958-12-31,,Peter Hultqvist.jpg,Peter Hultqvist
-Minister for Domestic Affairs,Morgan Johansson,Q5887217,2021-11-30,male,1970-05-14,,Morgan Johansson i GAPF-manifestation 2014.jpg,Morgan Johansson
-Minister for EU Affairs,Hans Dahlgren,Q5615474,2021-07-09,male,1948-03-16,,Hans Dahlgren (cropped).jpg,Hans Dahlgren
-Minister for Education and Science,Anna Ekström,Q4946204,2019-01-21,female,1959-06-23,,Anna Ekström 01.JPG,Anna Ekström
-Minister of Employment,Eva Nordmark,Q4970111,2019-09-10,female,1971-02-21,,Eva Nordmark.jpg,Eva Nordmark
-Minister for Energy,Khashayar Farmanbar,Q63533075,2021-11-30,male,1976-09-21,,Khashayar Farmanbar 2021-06-02.jpg,Khashayar Farmanbar
-Minister for Enterprise,Karl-Petter Thorwaldsson,Q2494607,2021-11-30,male,1964-12-26,,Karl-Petter Thorwaldsson LO， in 2019.jpg,Karl-Petter Thorwaldsson
-Minister for the Environment,Annika Strandhäll,Q4980750,2021-11-30,female,1975-04-30,,Annika Strandhäll 2014.jpg,Annika Strandhäll
-Minister for Finance,Mikael Damberg,Q3372917,2021-11-30,male,1971-10-13,,Socialdemokrat.Mikael Damberg 1c301 5899.jpg,Mikael Damberg
-Minister for Financial Markets,Max Elger,Q19976668,2021-11-30,male,1973-11-24,,Max Elger 2021.jpg,Max Elger
-Minister for Foreign Affairs,Ann Linde,Q18243775,2019-09-10,female,1961-12-04,,Annlindecropped.jpg,Ann Linde
-Minister for Gender Equality Affairs,Eva Nordmark,Q4970111,2021-11-30,female,1971-02-21,,Eva Nordmark.jpg,Eva Nordmark
-Minister for Housing,Johan Danielsson,Q63975305,2021-11-30,male,1982-06-30,,Andersson Cabinet 2021 Johan Danielsson.jpg,Johan Danielsson
-Minister for Information Technology,Khashayar Farmanbar,Q63533075,2021-11-30,male,1976-09-21,,Khashayar Farmanbar 2021-06-02.jpg,Khashayar Farmanbar
-Minister for Integration,Anders Ygeman,Q3375050,2021-11-30,male,1970-06-17,,Socialdemokrat.anders ygeman 1c323 8147.jpg,Anders Ygeman
-Minister for International Development Cooperation,Matilda Ernkrans,Q3373058,2021-11-30,female,1973-03-12,,Socialdemokrat.Matilda Ernkrans 1c301 5961.jpg,Matilda Ernkrans
-Minister for Justice,Morgan Johansson,Q5887217,2014-10-03,male,1970-05-14,,Morgan Johansson i GAPF-manifestation 2014.jpg,Morgan Johansson
-Minister for Migration and Asylum Policy,Anders Ygeman,Q3375050,2021-11-30,male,1970-06-17,,Socialdemokrat.anders ygeman 1c323 8147.jpg,Anders Ygeman
-Minister for Nordic Cooperation,Anna Hallberg,Q67207189,2019-09-10,female,1963-11-19,,Anna Hallberg visited the USTR.jpg,Anna Hallberg
-Minister of Primary Education,Lina Axelsson Kihlblom,Q23915324,2021-11-30,female,1970-06-24,,Lina Axelsson Kihlblom Porträtt bokomslag Foto Anna-Lena Ahlström.jpg,Lina Axelsson Kihlblom
-Minister for Rural Affairs,Anna-Caren Sätherberg,Q18202413,2021-11-30,female,1964-10-05,,Anna-Caren Sätherberg.jpg,Anna-Caren Sätherberg
-Minister for Social Affairs,Lena Hallengren,Q3431836,2019-01-21,female,1973-12-25,,Socialdemokrat.Lena Hallengren 1c301 5973.jpg,Lena Hallengren
-Minister for Social Security,Ardalan Shekarabi,Q4787806,2019-10-01,male,1978-11-28,,Ardalan Shekarabi.jpg,Ardalan Shekarabi
-Speaker of the Riksdag,Andreas Norlén,Q4755577,2018-09-24,male,1973-05-06,,Andreas Norlén in 2019.jpg,Andreas Norlén
-Chancellor of Justice,Mari Heidenborg,Q31671956,2018-09-01,female,1961-08-18,,,
-President of Sveriges Riksbank,Stefan Ingves,Q1811970,2006-01-01,male,1953-05-23,,"Stefan Ingves, Riksbankschef.jpg",Stefan Ingves
-Supreme Commander of the Armed Forces,Micael Bydén,Q13855693,2015-10-01,male,1964-06-13,,General Micael Bydén.jpg,Micael Bydén
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Sweden,monarch,Carl XVI Gustaf of Sweden,Q45068,1973-09-15,male,1946-04-30,,Carlos Gustavo da Suécia (meio corpo).jpg,Carl XVI Gustaf
+Sweden,Prime Minister,Magdalena Andersson,Q4935873,2021-11-30,female,1967-01-23,,Budgetpropositionen för 2022 (1 av 8) (cropped) (1).jpg,Magdalena Andersson
+Sweden,Minister of Civil Affairs,Ida Karkiainen,Q18451082,2021-11-30,female,1988-05-10,,"Andersson Cabinet, nov 30, 2021 (cropped).jpg",Ida Karkiainen
+Sweden,Minister for the Climate,Annika Strandhäll,Q4980750,2021-11-30,female,1975-04-30,,Annika Strandhäll 2014.jpg,Annika Strandhäll
+Sweden,Minister for Communications and Regional Policy,Tomas Eneroth,Q5711551,2017-07-27,male,1966-12-04,,Tomas Eneroth in London - 2017 (24832532058) (cropped).jpg,Tomas Eneroth
+Sweden,Minister for Culture,Jeanette Gustafsdotter,Q109828321,2021-11-30,female,1965-12-24,,Jeanette Gustafsdotter (PICT0765).jpg,Jeanette Gustafsdotter
+Sweden,Minister for Defence,Peter Hultqvist,Q3370162,2014-10-03,male,1958-12-31,,Peter Hultqvist.jpg,Peter Hultqvist
+Sweden,Minister for Domestic Affairs,Morgan Johansson,Q5887217,2021-11-30,male,1970-05-14,,Morgan Johansson i GAPF-manifestation 2014.jpg,Morgan Johansson
+Sweden,Minister for EU Affairs,Hans Dahlgren,Q5615474,2021-07-09,male,1948-03-16,,Hans Dahlgren (cropped).jpg,Hans Dahlgren
+Sweden,Minister for Education and Science,Anna Ekström,Q4946204,2019-01-21,female,1959-06-23,,Anna Ekström 01.JPG,Anna Ekström
+Sweden,Minister of Employment,Eva Nordmark,Q4970111,2019-09-10,female,1971-02-21,,Eva Nordmark.jpg,Eva Nordmark
+Sweden,Minister for Energy,Khashayar Farmanbar,Q63533075,2021-11-30,male,1976-09-21,,Khashayar Farmanbar 2021-06-02.jpg,Khashayar Farmanbar
+Sweden,Minister for Enterprise,Karl-Petter Thorwaldsson,Q2494607,2021-11-30,male,1964-12-26,,Karl-Petter Thorwaldsson LO， in 2019.jpg,Karl-Petter Thorwaldsson
+Sweden,Minister for the Environment,Annika Strandhäll,Q4980750,2021-11-30,female,1975-04-30,,Annika Strandhäll 2014.jpg,Annika Strandhäll
+Sweden,Minister for Finance,Mikael Damberg,Q3372917,2021-11-30,male,1971-10-13,,Socialdemokrat.Mikael Damberg 1c301 5899.jpg,Mikael Damberg
+Sweden,Minister for Financial Markets,Max Elger,Q19976668,2021-11-30,male,1973-11-24,,Max Elger 2021.jpg,Max Elger
+Sweden,Minister for Foreign Affairs,Ann Linde,Q18243775,2019-09-10,female,1961-12-04,,Annlindecropped.jpg,Ann Linde
+Sweden,Minister for Gender Equality Affairs,Eva Nordmark,Q4970111,2021-11-30,female,1971-02-21,,Eva Nordmark.jpg,Eva Nordmark
+Sweden,Minister for Housing,Johan Danielsson,Q63975305,2021-11-30,male,1982-06-30,,Andersson Cabinet 2021 Johan Danielsson.jpg,Johan Danielsson
+Sweden,Minister for Information Technology,Khashayar Farmanbar,Q63533075,2021-11-30,male,1976-09-21,,Khashayar Farmanbar 2021-06-02.jpg,Khashayar Farmanbar
+Sweden,Minister for Integration,Anders Ygeman,Q3375050,2021-11-30,male,1970-06-17,,Socialdemokrat.anders ygeman 1c323 8147.jpg,Anders Ygeman
+Sweden,Minister for International Development Cooperation,Matilda Ernkrans,Q3373058,2021-11-30,female,1973-03-12,,Socialdemokrat.Matilda Ernkrans 1c301 5961.jpg,Matilda Ernkrans
+Sweden,Minister for Justice,Morgan Johansson,Q5887217,2014-10-03,male,1970-05-14,,Morgan Johansson i GAPF-manifestation 2014.jpg,Morgan Johansson
+Sweden,Minister for Migration and Asylum Policy,Anders Ygeman,Q3375050,2021-11-30,male,1970-06-17,,Socialdemokrat.anders ygeman 1c323 8147.jpg,Anders Ygeman
+Sweden,Minister for Nordic Cooperation,Anna Hallberg,Q67207189,2019-09-10,female,1963-11-19,,Anna Hallberg visited the USTR.jpg,Anna Hallberg
+Sweden,Minister of Primary Education,Lina Axelsson Kihlblom,Q23915324,2021-11-30,female,1970-06-24,,Lina Axelsson Kihlblom Porträtt bokomslag Foto Anna-Lena Ahlström.jpg,Lina Axelsson Kihlblom
+Sweden,Minister for Rural Affairs,Anna-Caren Sätherberg,Q18202413,2021-11-30,female,1964-10-05,,Anna-Caren Sätherberg.jpg,Anna-Caren Sätherberg
+Sweden,Minister for Social Affairs,Lena Hallengren,Q3431836,2019-01-21,female,1973-12-25,,Socialdemokrat.Lena Hallengren 1c301 5973.jpg,Lena Hallengren
+Sweden,Minister for Social Security,Ardalan Shekarabi,Q4787806,2019-10-01,male,1978-11-28,,Ardalan Shekarabi.jpg,Ardalan Shekarabi
+Sweden,Speaker of the Riksdag,Andreas Norlén,Q4755577,2018-09-24,male,1973-05-06,,Andreas Norlén in 2019.jpg,Andreas Norlén
+Sweden,Chancellor of Justice,Mari Heidenborg,Q31671956,2018-09-01,female,1961-08-18,,,
+Sweden,President of Sveriges Riksbank,Stefan Ingves,Q1811970,2006-01-01,male,1953-05-23,,"Stefan Ingves, Riksbankschef.jpg",Stefan Ingves
+Sweden,Supreme Commander of the Armed Forces,Micael Bydén,Q13855693,2015-10-01,male,1964-06-13,,General Micael Bydén.jpg,Micael Bydén

@@ -1,26 +1,26 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Wiliame Katonivere,Q109012733,2021-11-12,male,1964-04-20,,Ratu Wiliame Katonivere 12 NOV 21.jpg,Wiliame Katonivere
-Prime Minister,Frank Bainimarama,Q57830,2007-01-05,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
-"Minister for Agriculture, Waterways and Environment",Mahendra Reddy,Q19665719,2017-12-11,male,,,Mahendra Reddy April 2015.jpg,Mahendra Reddy
-Minister for Civil Service,Aiyaz Sayed-Khaiyum,Q4699401,2014-10-06,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
-"Minister for Commerce, Trade, Tourism and Transport",Faiyaz Koya,Q18210195,2020-04-16,male,,,Faiyaz Koya June 2015.jpg,Faiyaz Koya
-Minister for Communications and Public Enterprise,Aiyaz Sayed-Khaiyum,Q4699401,2014-10-06,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
-"Minister for Defence, National Security and Policing",Inia Seruiratu,Q59149050,2018-11-22,male,,,Inia Seruiratu - 2019 (48403437787) (cropped).jpg,Inia Seruiratu
-Minister of the Economy,Aiyaz Sayed-Khaiyum,Q4699401,2014-10-06,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
-"Minister for Education, Heritage and Arts",Premila Kumar,Q59160142,2021-08-24,female,1962-04-02,,Premila Kumar.jpg,Premila Kumar
-"Minister for Employment, Productivity, Industrial Relations, Youth and Sports",Parveen Bala,Q7238848,2018-11-21,male,,,Parveen Bala May 2016.jpg,Parveen Bala
-Minister for Fisheries,Semi Koroilavesau,Q18217983,2018-11-21,male,1958,,Semi Koroilavesau 2019.jpg,Semi Koroilavesau
-Minister for Foreign Affairs,Frank Bainimarama,Q57830,2016-09-09,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
-Minister for Forestry,Frank Bainimarama,Q57830,2021-08-24,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
-Minister for Health and Medical Services,Ifereimi Waqainabete,Q58974724,2018-11-22,male,1973,,Ifereimi Waqainabete 2019.jpg,Ifereimi Waqainabete
-Minister for Housing and Community Development,Aiyaz Sayed-Khaiyum,Q4699401,2021-08-24,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
-Minister for Infrastructure and Meteorological Services,Jone Usamate,Q17319028,2014-09-25,male,1962-04-02,,Jone Usamate 2014.jpg,Jone Usamate
-Minister for iTaukei Affairs,Frank Bainimarama,Q57830,2008,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
-Minister for Lands and Mineral Resources,Jone Usamate,Q17319028,2020-04-16,male,1962-04-02,,Jone Usamate 2014.jpg,Jone Usamate
-Minister for Local Government,Premila Kumar,Q59160142,2018-11-22,female,1962-04-02,,Premila Kumar.jpg,Premila Kumar
-"Minister for Rural, Maritime Development and Disaster Management",Inia Seruiratu,Q59149050,2020-04-16,male,,,Inia Seruiratu - 2019 (48403437787) (cropped).jpg,Inia Seruiratu
-Minister for Sugar,Frank Bainimarama,Q57830,2008-12,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
-"Minister for Women, Children and Poverty Alleviation",Rosy Akbar,Q18211338,2021-08-24,female,,,Rosy Sofia Akbar 2014.jpg,Rosy Akbar
-Attorney-General,Aiyaz Sayed-Khaiyum,Q4699401,2014-10-06,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
-Speaker of the Parliament,Epeli Nailatikau,Q373605,2019-02-11,male,1941-07-05,,Nailatikau.jpg,Epeli Nailatikau
-Governor of the Reserve Bank,Faizul Ariff Ali,Q109469085,2017,male,,,,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Fiji,President,Wiliame Katonivere,Q109012733,2021-11-12,male,1964-04-20,,Ratu Wiliame Katonivere 12 NOV 21.jpg,Wiliame Katonivere
+Fiji,Prime Minister,Frank Bainimarama,Q57830,2007-01-05,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
+Fiji,"Minister for Agriculture, Waterways and Environment",Mahendra Reddy,Q19665719,2017-12-11,male,,,Mahendra Reddy April 2015.jpg,Mahendra Reddy
+Fiji,Minister for Civil Service,Aiyaz Sayed-Khaiyum,Q4699401,2014-10-06,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
+Fiji,"Minister for Commerce, Trade, Tourism and Transport",Faiyaz Koya,Q18210195,2020-04-16,male,,,Faiyaz Koya June 2015.jpg,Faiyaz Koya
+Fiji,Minister for Communications and Public Enterprise,Aiyaz Sayed-Khaiyum,Q4699401,2014-10-06,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
+Fiji,"Minister for Defence, National Security and Policing",Inia Seruiratu,Q59149050,2018-11-22,male,,,Inia Seruiratu - 2019 (48403437787) (cropped).jpg,Inia Seruiratu
+Fiji,Minister of the Economy,Aiyaz Sayed-Khaiyum,Q4699401,2014-10-06,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
+Fiji,"Minister for Education, Heritage and Arts",Premila Kumar,Q59160142,2021-08-24,female,1962-04-02,,Premila Kumar.jpg,Premila Kumar
+Fiji,"Minister for Employment, Productivity, Industrial Relations, Youth and Sports",Parveen Bala,Q7238848,2018-11-21,male,,,Parveen Bala May 2016.jpg,Parveen Bala
+Fiji,Minister for Fisheries,Semi Koroilavesau,Q18217983,2018-11-21,male,1958,,Semi Koroilavesau 2019.jpg,Semi Koroilavesau
+Fiji,Minister for Foreign Affairs,Frank Bainimarama,Q57830,2016-09-09,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
+Fiji,Minister for Forestry,Frank Bainimarama,Q57830,2021-08-24,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
+Fiji,Minister for Health and Medical Services,Ifereimi Waqainabete,Q58974724,2018-11-22,male,1973,,Ifereimi Waqainabete 2019.jpg,Ifereimi Waqainabete
+Fiji,Minister for Housing and Community Development,Aiyaz Sayed-Khaiyum,Q4699401,2021-08-24,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
+Fiji,Minister for Infrastructure and Meteorological Services,Jone Usamate,Q17319028,2014-09-25,male,1962-04-02,,Jone Usamate 2014.jpg,Jone Usamate
+Fiji,Minister for iTaukei Affairs,Frank Bainimarama,Q57830,2008,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
+Fiji,Minister for Lands and Mineral Resources,Jone Usamate,Q17319028,2020-04-16,male,1962-04-02,,Jone Usamate 2014.jpg,Jone Usamate
+Fiji,Minister for Local Government,Premila Kumar,Q59160142,2018-11-22,female,1962-04-02,,Premila Kumar.jpg,Premila Kumar
+Fiji,"Minister for Rural, Maritime Development and Disaster Management",Inia Seruiratu,Q59149050,2020-04-16,male,,,Inia Seruiratu - 2019 (48403437787) (cropped).jpg,Inia Seruiratu
+Fiji,Minister for Sugar,Frank Bainimarama,Q57830,2008-12,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
+Fiji,"Minister for Women, Children and Poverty Alleviation",Rosy Akbar,Q18211338,2021-08-24,female,,,Rosy Sofia Akbar 2014.jpg,Rosy Akbar
+Fiji,Attorney-General,Aiyaz Sayed-Khaiyum,Q4699401,2014-10-06,male,1965-09-24,,Aiyaz Sayed-Khayum.jpeg,Aiyaz Sayed-Khaiyum
+Fiji,Speaker of the Parliament,Epeli Nailatikau,Q373605,2019-02-11,male,1941-07-05,,Nailatikau.jpg,Epeli Nailatikau
+Fiji,Governor of the Reserve Bank,Faizul Ariff Ali,Q109469085,2017,male,,,,

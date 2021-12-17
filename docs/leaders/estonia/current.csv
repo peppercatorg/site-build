@@ -1,26 +1,26 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Alar Karis,Q12358575,2021-10-11,male,1958-03-26,,Alar Karis cropped.jpg,Alar Karis
-Prime Minister,Kaja Kallas,Q11869065,2021-01-26,female,1977-06-18,,Kaja Kallas (crop).jpg,Kaja Kallas
-Minister of Culture,Tiit Terik,Q12376941,2021-11-08,male,1979-06-15,,Tiit Terik 2013.jpg,Tiit Terik
-Minister of Defence,Kalle Laanet,Q978349,2021-01-26,male,1965-09-25,,Kalle Laanet 2021.jpg,Kalle Laanet
-Minister of Education and Research,Liina Kersna,Q20933509,2021-01-26,female,1980-04-03,,RK Liina Kersna.jpg,Liina Kersna
-Minister of Entrepreneurship and Information Technology,Andres Sutt,Q62975823,2021-01-26,male,1967-11-11,,Andres Sutt.jpg,Andres Sutt
-Minister of the Environment,Erki Savisaar,Q20528493,2021-11-18,male,1978-06-16,,RK Erki Savisaar.jpg,Erki Savisaar
-Minister of Finance,Keit Pentus-Rosimannus,Q458003,2021-01-26,female,1976-03-03,,Keit Pentus-Rosimannus (crop).jpg,Keit Pentus-Rosimannus
-Minister of Foreign Affairs,Eva-Maria Liimets,Q105069608,2021-01-26,female,1974-05-31,,Eva-Maria Liimets (crop).jpg,Eva-Maria Liimets
-Minister of Health and Labour,Tanel Kiik,Q63383282,2021-01-26,male,1989-01-23,,Tanel Kiik.jpg,Tanel Kiik
-Minister of the Interior,Kristian Jaani,Q98122403,2021-01-26,male,1976-12-11,,Kristian Jaani (crop).jpg,Kristian Jaani
-Minister of Justice,Maris Lauri,Q16405768,2021-01-26,female,1966-01-01,,RK Maris Lauri.jpg,Maris Lauri
-Minister of Public Administration,Jaak Aab,Q1375585,2021-01-26,male,1960-04-09,,Jaak Aab 2017-06-09.jpg,Jaak Aab
-Minister of Rural Affairs,Urmas Kruuse,Q3741429,2021-01-26,male,1965-07-14,,Urmas Kruuse (crop).jpg,Urmas Kruuse
-Minister of Social Protection,Signe Riisalo,Q64850482,2021-01-26,female,1968-10-08,,Signe Riisalo.jpg,Signe Riisalo
-Auditor General,Janar Holm,Q61110563,2018-03-07,male,1976-08-17,,,Janar Holm
-Chancellor of Justice,Ülle Madise,Q16407395,2015-03-31,female,1974-12-11,,Ülle Madise.jpg,Ülle Madise
-Commander of the Estonian Defence Forces,Martin Herem,Q28790814,2018-12-05,male,1973-12-17,,Martin Herem (2021) extract.jpg,Martin Herem
-Governor of the Bank of Estonia,Madis Müller,Q61742853,2019-06-07,male,1977-01-20,,,Madis Müller
-President of the Riigikogu,Jüri Ratas,Q2621730,2021-03-18,male,1978-07-02,,Jüri Ratas 2017-05.jpg,Jüri Ratas
-Mayor of Tallinn,Mihhail Kõlvart,Q4250802,2019-04-11,male,1977-11-24,,Official photo of mayor 2019 nr2.jpg,Mihhail Kõlvart
-Ambassador to Finland,Sven Sakkov,Q16412204,2020-10-22,male,1971-09-14,,EU cyber security conference 2017 (37383454305).jpg,
-Ambassador to Russia,Margus Laidre,Q1768297,2018,male,1959-09-18,,,Margus Laidre
-Ambassador to Sweden,Margus Kolga,Q6760838,2019,male,1966-05-02,,Margus Kolga 2012.jpg,Margus Kolga
-Ambassador to the United States,Kristjan Prikk,Q61400279,2021-05,male,1977-02-15,,Kristjan Prikk in 2019.jpg,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Estonia,President,Alar Karis,Q12358575,2021-10-11,male,1958-03-26,,Alar Karis cropped.jpg,Alar Karis
+Estonia,Prime Minister,Kaja Kallas,Q11869065,2021-01-26,female,1977-06-18,,Kaja Kallas (crop).jpg,Kaja Kallas
+Estonia,Minister of Culture,Tiit Terik,Q12376941,2021-11-08,male,1979-06-15,,Tiit Terik 2013.jpg,Tiit Terik
+Estonia,Minister of Defence,Kalle Laanet,Q978349,2021-01-26,male,1965-09-25,,Kalle Laanet 2021.jpg,Kalle Laanet
+Estonia,Minister of Education and Research,Liina Kersna,Q20933509,2021-01-26,female,1980-04-03,,RK Liina Kersna.jpg,Liina Kersna
+Estonia,Minister of Entrepreneurship and Information Technology,Andres Sutt,Q62975823,2021-01-26,male,1967-11-11,,Andres Sutt.jpg,Andres Sutt
+Estonia,Minister of the Environment,Erki Savisaar,Q20528493,2021-11-18,male,1978-06-16,,RK Erki Savisaar.jpg,Erki Savisaar
+Estonia,Minister of Finance,Keit Pentus-Rosimannus,Q458003,2021-01-26,female,1976-03-03,,Keit Pentus-Rosimannus (crop).jpg,Keit Pentus-Rosimannus
+Estonia,Minister of Foreign Affairs,Eva-Maria Liimets,Q105069608,2021-01-26,female,1974-05-31,,Eva-Maria Liimets (crop).jpg,Eva-Maria Liimets
+Estonia,Minister of Health and Labour,Tanel Kiik,Q63383282,2021-01-26,male,1989-01-23,,Tanel Kiik.jpg,Tanel Kiik
+Estonia,Minister of the Interior,Kristian Jaani,Q98122403,2021-01-26,male,1976-12-11,,Kristian Jaani (crop).jpg,Kristian Jaani
+Estonia,Minister of Justice,Maris Lauri,Q16405768,2021-01-26,female,1966-01-01,,RK Maris Lauri.jpg,Maris Lauri
+Estonia,Minister of Public Administration,Jaak Aab,Q1375585,2021-01-26,male,1960-04-09,,Jaak Aab 2017-06-09.jpg,Jaak Aab
+Estonia,Minister of Rural Affairs,Urmas Kruuse,Q3741429,2021-01-26,male,1965-07-14,,Urmas Kruuse (crop).jpg,Urmas Kruuse
+Estonia,Minister of Social Protection,Signe Riisalo,Q64850482,2021-01-26,female,1968-10-08,,Signe Riisalo.jpg,Signe Riisalo
+Estonia,Auditor General,Janar Holm,Q61110563,2018-03-07,male,1976-08-17,,,Janar Holm
+Estonia,Chancellor of Justice,Ülle Madise,Q16407395,2015-03-31,female,1974-12-11,,Ülle Madise.jpg,Ülle Madise
+Estonia,Commander of the Estonian Defence Forces,Martin Herem,Q28790814,2018-12-05,male,1973-12-17,,Martin Herem (2021) extract.jpg,Martin Herem
+Estonia,Governor of the Bank of Estonia,Madis Müller,Q61742853,2019-06-07,male,1977-01-20,,,Madis Müller
+Estonia,President of the Riigikogu,Jüri Ratas,Q2621730,2021-03-18,male,1978-07-02,,Jüri Ratas 2017-05.jpg,Jüri Ratas
+Estonia,Mayor of Tallinn,Mihhail Kõlvart,Q4250802,2019-04-11,male,1977-11-24,,Official photo of mayor 2019 nr2.jpg,Mihhail Kõlvart
+Estonia,Ambassador to Finland,Sven Sakkov,Q16412204,2020-10-22,male,1971-09-14,,EU cyber security conference 2017 (37383454305).jpg,
+Estonia,Ambassador to Russia,Margus Laidre,Q1768297,2018,male,1959-09-18,,,Margus Laidre
+Estonia,Ambassador to Sweden,Margus Kolga,Q6760838,2019,male,1966-05-02,,Margus Kolga 2012.jpg,Margus Kolga
+Estonia,Ambassador to the United States,Kristjan Prikk,Q61400279,2021-05,male,1977-02-15,,Kristjan Prikk in 2019.jpg,

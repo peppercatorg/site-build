@@ -1,15 +1,15 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-Governor,Nigel Dakin,Q89296347,2019-07-15,male,1964-02-28,,Nigel Dakin photo 1.jpg,Nigel Dakin
-Deputy Governor,Anya Williams,Q23762586,2012-10-15,female,1980,,Deputy Governor Anya Williams.jpg,Anya Williams
-Premier,Washington Misick,Q7972058,2021-02-20,male,1950-03-13,,International tax compliance (11083000084)(cropped).jpg,Washington Misick
-Deputy Premier,Erwin Jay Saunders,Q105962944,2021-02-20,male,,,,Erwin Jay Saunders
-"Minister of Education, Labour, Employment and Customer Service",Rachel Marshall Taylor,Q109776506,2021-02-24,female,,,,
-"Minister of Finance, Investment and Trade",Erwin Jay Saunders,Q105962944,2021-08-06,male,,,,Erwin Jay Saunders
-"Minister of Health, Agriculture, Sports and Human Services",Jamell Rayan Robinson,Q109776532,2021-08-06,male,,,,
-"Minister of Home Affairs, Public Utilities and Transportation",Otis Chuck Morris,Q109776513,2021-02-24,male,,,,
-Minister of Immigration and Border Services,Arlington Alexander Musgrove,Q109776615,2021-02-24,male,,,,
-Minister of Physical Planning and Infrastructure Development,Akierra Missick,Q4700892,2021-02-24,female,1983,,Hon. Akierra Mary Deanne Missick.jpg,Akierra Missick
-"Minister of Tourism, Agriculture, Fisheries, Heritage and the Environment",Josephine Connolly,Q19664905,2021-02-24,female,1959,,,Josephine Connolly
-Leader of Government Business,Akierra Missick,Q4700892,2021-02-24,female,1983,,Hon. Akierra Mary Deanne Missick.jpg,Akierra Missick
-Attorney-General,Rhondalee Braithwaite-Knowles,Q42537719,2014,female,,,,Rhondalee Braithwaite-Knowles
-Speaker of the House of Assembly,Gordon Burton,Q109776454,2021-03-05,male,,,,
+catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
+Turks and Caicos Islands,Governor,Nigel Dakin,Q89296347,2019-07-15,male,1964-02-28,,Nigel Dakin photo 1.jpg,Nigel Dakin
+Turks and Caicos Islands,Deputy Governor,Anya Williams,Q23762586,2012-10-15,female,1980,,Deputy Governor Anya Williams.jpg,Anya Williams
+Turks and Caicos Islands,Premier,Washington Misick,Q7972058,2021-02-20,male,1950-03-13,,International tax compliance (11083000084)(cropped).jpg,Washington Misick
+Turks and Caicos Islands,Deputy Premier,Erwin Jay Saunders,Q105962944,2021-02-20,male,,,,Erwin Jay Saunders
+Turks and Caicos Islands,"Minister of Education, Labour, Employment and Customer Service",Rachel Marshall Taylor,Q109776506,2021-02-24,female,,,,
+Turks and Caicos Islands,"Minister of Finance, Investment and Trade",Erwin Jay Saunders,Q105962944,2021-08-06,male,,,,Erwin Jay Saunders
+Turks and Caicos Islands,"Minister of Health, Agriculture, Sports and Human Services",Jamell Rayan Robinson,Q109776532,2021-08-06,male,,,,
+Turks and Caicos Islands,"Minister of Home Affairs, Public Utilities and Transportation",Otis Chuck Morris,Q109776513,2021-02-24,male,,,,
+Turks and Caicos Islands,Minister of Immigration and Border Services,Arlington Alexander Musgrove,Q109776615,2021-02-24,male,,,,
+Turks and Caicos Islands,Minister of Physical Planning and Infrastructure Development,Akierra Missick,Q4700892,2021-02-24,female,1983,,Hon. Akierra Mary Deanne Missick.jpg,Akierra Missick
+Turks and Caicos Islands,"Minister of Tourism, Agriculture, Fisheries, Heritage and the Environment",Josephine Connolly,Q19664905,2021-02-24,female,1959,,,Josephine Connolly
+Turks and Caicos Islands,Leader of Government Business,Akierra Missick,Q4700892,2021-02-24,female,1983,,Hon. Akierra Mary Deanne Missick.jpg,Akierra Missick
+Turks and Caicos Islands,Attorney-General,Rhondalee Braithwaite-Knowles,Q42537719,2014,female,,,,Rhondalee Braithwaite-Knowles
+Turks and Caicos Islands,Speaker of the House of Assembly,Gordon Burton,Q109776454,2021-03-05,male,,,,
