@@ -2,13 +2,13 @@ position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 member of the National Council of Austria,Jakob Auer,Q1678897,1983-05-19,2017-11-08,male,1948-08-31,,Jakob Auer 01.jpg,
 member of the National Council of Austria,Heinz Fischer,Q11753,1987-01-27,2004-06-16,male,1938-10-09,,Heinz Fischer 2012 (cropped).jpg,Heinz Fischer
 member of the National Council of Austria,Rainer Wimmer,Q2128476,1993-12-01,2008-10-27,male,1955-08-10,,Rainer Wimmer (14316487469).jpg,
-member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
-member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,2006-10-29,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
 member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,2008-10-27,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
-member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,2013-10-28,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
 member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,2002-12-19,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
 member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,2019-10-23,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
 member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,2017-11-08,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
+member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,2013-10-28,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
+member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,2006-10-29,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
+member of the National Council of Austria,Karlheinz Kopf,Q1410282,1994-11-07,,male,1957-06-27,,Karlheinz Kopf 2014.jpg,Karlheinz Kopf
 member of the National Council of Austria,Alexander Van der Bellen,Q78869,1994-11-07,2012-07-05,male,1944-01-18,,Alexander Van der Bellen (13-07-2021) (cropped).jpg,Alexander Van der Bellen
 member of the National Council of Austria,Brigitte Povysil,Q916576,1996-01-15,2002-12-19,female,1954-03-05,,,
 member of the National Council of Austria,Otto Pendl,Q1230237,1998-09-17,2017-11-08,male,1951-10-29,2021-11-10,Otto Pemdl.jpg,Otto Pendl
@@ -479,7 +479,7 @@ member of the National Council of Austria,Christoph Stark,Q42306691,2017-11-09,2
 member of the National Council of Austria,Gerhard Kaniak,Q42307034,2017-11-09,2019-10-23,male,1979-03-06,,Gerhard Kaniak - Pressekonferenz am 1. Sep. 2020 (2).JPG,
 member of the National Council of Austria,Christian Kovacevic,Q42307655,2017-11-09,2019-10-22,male,1983-08-06,,2016 Christian Kovacevic (30892334991).jpg,
 member of the National Council of Austria,Martin Engelberg,Q42307913,2017-11-09,2019-10-23,male,1960-03-13,,2015 Martin Engelberg (17616299116).jpg,
-member of the National Council of Austria,Nico Marchetti,Q42308049,2017-11-09,2019-10-23,male,1990-02-19,,,
+member of the National Council of Austria,Nico Marchetti,Q42308049,2017-11-09,2019-10-23,male,1990-02-19,,Nico Marchetti 2019.jpg,
 member of the National Council of Austria,Carmen Jeitler-Cincelli,Q42310694,2017-11-09,2019-10-23,female,1980-07-27,,Carmen Jeitler-Cincelli.jpg,Carmen Jeitler-Cincelli
 member of the National Council of Austria,Barbara Wolfgang-Krenn,Q42313276,2017-11-09,2019-04-03,female,1969,2019-04-03,,Barbara Wolfgang-Krenn
 member of the National Council of Austria,Angela Baumgartner,Q42328389,2017-11-09,2019-10-23,female,1969-05-20,,,
@@ -673,7 +673,7 @@ member of the National Council of Austria,Johanna Jachs,Q42305634,2019-10-23,,fe
 member of the National Council of Austria,Christoph Stark,Q42306691,2019-10-23,,male,1967-04-01,,,
 member of the National Council of Austria,Gerhard Kaniak,Q42307034,2019-10-23,,male,1979-03-06,,Gerhard Kaniak - Pressekonferenz am 1. Sep. 2020 (2).JPG,
 member of the National Council of Austria,Martin Engelberg,Q42307913,2019-10-23,,male,1960-03-13,,2015 Martin Engelberg (17616299116).jpg,
-member of the National Council of Austria,Nico Marchetti,Q42308049,2019-10-23,,male,1990-02-19,,,
+member of the National Council of Austria,Nico Marchetti,Q42308049,2019-10-23,,male,1990-02-19,,Nico Marchetti 2019.jpg,
 member of the National Council of Austria,Carmen Jeitler-Cincelli,Q42310694,2019-10-23,,female,1980-07-27,,Carmen Jeitler-Cincelli.jpg,Carmen Jeitler-Cincelli
 member of the National Council of Austria,Angela Baumgartner,Q42328389,2019-10-23,,female,1969-05-20,,,
 member of the National Council of Austria,Christoph Zarits,Q42344335,2019-10-23,,male,1980-11-16,,,
@@ -690,7 +690,7 @@ member of the National Council of Austria,Petra Wimmer,Q43231485,2019-10-23,,fem
 member of the National Council of Austria,Christian Ries,Q46357211,2019-10-23,,male,1972-01-20,,,
 member of the National Council of Austria,Alois Kainz,Q46974794,2019-10-23,,male,1964-05-22,,2019 Alois Kainz (cropped).jpg,
 member of the National Council of Austria,Gertraud Salzmann,Q47004998,2019-10-23,,female,1964-06-18,,CR- ÖVP-Klimpt.jpg,
-member of the National Council of Austria,Corinna Scharzenberger,Q47005183,2019-10-23,,female,1990-06-24,,,
+member of the National Council of Austria,Corinna Scharzenberger,Q47005183,2019-10-23,,female,1990-06-24,,Mag. Corinna Scharzenberger.jpg,
 member of the National Council of Austria,Maria Smodics-Neumann,Q47493936,2019-10-23,,female,1970-04-05,,,
 member of the National Council of Austria,Andrea Kuntzl,Q494220,2019-10-23,,female,1958-03-31,,Mag.a. Andrea Kuntzl (14316499898).jpg,
 member of the National Council of Austria,Michael Schnedlitz,Q51000135,2019-10-23,,male,1984-03-13,,Schnedlitz.jpg,
@@ -709,7 +709,7 @@ member of the National Council of Austria,Johannes Margreiter,Q69352200,2019-10-
 member of the National Council of Austria,Maximilian Köllner,Q69385915,2019-10-23,,male,1991-08-25,,,
 member of the National Council of Austria,Josef Hechenberger,Q69457951,2019-10-23,,male,1974-10-02,,,
 member of the National Council of Austria,Meri Disoski,Q69823248,2019-10-23,,female,1982-10-04,,,
-member of the National Council of Austria,Rudolf Silvan,Q71004072,2019-10-23,,male,1967-09-22,,,
+member of the National Council of Austria,Rudolf Silvan,Q71004072,2019-10-23,,male,1967-09-22,,Foto von Rudolf Silvan.jpg,
 member of the National Council of Austria,Yannick Shetty,Q71706491,2019-10-23,,male,1995-04-26,,Yannick Shetty.jpg,
 member of the National Council of Austria,Martin Litschauer,Q71996486,2019-10-23,,male,1974-11-19,,2019 Martin Litschauer (cropped).jpg,
 member of the National Council of Austria,Henrike Brandstötter,Q72001882,2019-10-23,,female,1975-10-13,,,
@@ -892,7 +892,7 @@ member of the Austrian federal council,Bernhard Hirczy,Q23128938,2020-02-17,,mal
 member of the Austrian federal council,Sandra Gerdenitsch,Q84091664,2020-02-17,,female,1973-12-25,,,
 member of the Austrian federal council,Nicole Riepl,Q95688767,2020-05-20,,female,1977-10-23,,,
 member of the Austrian federal council,David Egger,Q94580015,2020-07-08,,male,1987-03-07,,David egger.jpg,
-member of the Austrian federal council,Sebastian Kolland,Q100318434,2020-10-11,,male,1983-06-13,,,
+member of the Austrian federal council,Sebastian Kolland,Q100318434,2020-10-11,,male,1983-06-13,,Sebastian Kolland.jpg,
 member of the Austrian federal council,Karl-Arthur Arlamovsky,Q102047705,2020-11-24,,male,1972-09-24,,,
 member of the Austrian federal council,Elisabeth Kittl,Q102351644,2020-11-24,,female,1973-08-25,,,
 member of the Austrian federal council,Elisabeth Wolff,Q102351863,2020-11-24,,female,1992,,,

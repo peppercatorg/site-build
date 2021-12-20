@@ -3,8 +3,8 @@ monarch,Beatrix of the Netherlands,Q29574,1980-04-30,2013-04-30,female,1938-01-3
 monarch,Willem-Alexander of the Netherlands,Q154952,2013-04-30,,male,1967-04-27,,Zijne Majesteit Koning Willem-Alexander met koningsmantel april 2013 (cropped).jpeg,Willem-Alexander of the Netherlands
 Prime Minister,Wim Kok,Q221411,1994-08-22,2002-07-22,male,1938-09-29,2018-10-20,Wim Kok 1994.jpg,Wim Kok
 Prime Minister,Jan Peter Balkenende,Q133386,2002-07-22,2010-10-14,male,1956-05-07,,Jan Peter Balkenende 2006.jpg,Jan Peter Balkenende
-Prime Minister,Mark Rutte,Q57792,2010-10-14,2012-11-05,male,1967-02-14,,Mark Rutte 2015 (1) (cropped).jpg,Mark Rutte
 Prime Minister,Mark Rutte,Q57792,2010-10-14,,male,1967-02-14,,Mark Rutte 2015 (1) (cropped).jpg,Mark Rutte
+Prime Minister,Mark Rutte,Q57792,2010-10-14,2012-11-05,male,1967-02-14,,Mark Rutte 2015 (1) (cropped).jpg,Mark Rutte
 Prime Minister,Mark Rutte,Q57792,2010-10-14,2017-10-26,male,1967-02-14,,Mark Rutte 2015 (1) (cropped).jpg,Mark Rutte
 Deputy Prime Minister,Els Borst,Q274029,1998-08-03,2002-07-22,female,1932-03-22,2014-02-08,Els Borst februari 2002.jpg,Els Borst
 Deputy Prime Minister,Annemarie Jorritsma,Q447079,1998-08-03,2002-07-22,female,1950-06-01,,Mw. Jorrisma-Lebbink Voorzitter van Koninklijke Schuttevaer.JPG,Annemarie Jorritsma
@@ -59,7 +59,7 @@ Minister of Economic Affairs and Climate Policy,Maria van der Hoeven,Q544127,200
 Minister of Economic Affairs and Climate Policy,Henk Kamp,Q732818,2012-11-05,2017-10-26,male,1952-07-23,,Henk Kamp 2011.jpg,Henk Kamp
 Minister of Economic Affairs and Climate Policy,Eric Wiebes,Q2065985,2017-10-26,2021-01-15,male,1963-03-12,,Eric Wiebes.jpg,Eric Wiebes
 Minister of Economic Affairs and Climate Policy,Cora van Nieuwenhuizen,Q2464817,2021-01-15,2021-01-20,female,1963-06-12,,Cora-van-nieuwenhuizen-1383750554.jpg,Cora van Nieuwenhuizen
-Minister of Economic Affairs and Climate Policy,Bas van 't Wout,Q1662099,2021-01-20,2021-05-24,male,1979-04-22,,,Bas van 't Wout
+Minister of Economic Affairs and Climate Policy,Bas van 't Wout,Q1662099,2021-01-20,2021-05-24,male,1979-04-22,,BasvantWout2017.jpg,Bas van 't Wout
 Minister of Economic Affairs and Climate Policy,Stef Blok,Q2858481,2021-05-25,,male,1964-12-10,,Portretfoto's Stef Blok - 40983747542.jpg,Stef Blok
 "Minister of Education, Culture and Science",Loek Hermans,Q1966582,1998-08-03,2002-07-22,male,1951-04-23,,Loek Hermans 1986.jpg,Loek Hermans
 "Minister of Education, Culture and Science",Maria van der Hoeven,Q544127,2002-07-22,2007-02-22,female,1949-09-13,,VanderHoeven Dutch politician kabinet Balkenende IV.jpg,Maria van der Hoeven
@@ -92,9 +92,9 @@ Minister for Foreign Trade and Development Cooperation,Sigrid Kaag,Q15077856,201
 Minister for Foreign Trade and Development Cooperation,Tom de Bruijn,Q27863937,2021-08-10,,male,1948-10-08,,"Tom de Bruijn, 2021.jpg",Tom de Bruijn
 Minister of General Affairs,Wim Kok,Q221411,1994-08-22,2002-07-22,male,1938-09-29,2018-10-20,Wim Kok 1994.jpg,Wim Kok
 Minister of General Affairs,Jan Peter Balkenende,Q133386,2002-07-22,2010-10-14,male,1956-05-07,,Jan Peter Balkenende 2006.jpg,Jan Peter Balkenende
-Minister of General Affairs,Mark Rutte,Q57792,2010-10-14,2017-10-26,male,1967-02-14,,Mark Rutte 2015 (1) (cropped).jpg,Mark Rutte
 Minister of General Affairs,Mark Rutte,Q57792,2010-10-14,,male,1967-02-14,,Mark Rutte 2015 (1) (cropped).jpg,Mark Rutte
 Minister of General Affairs,Mark Rutte,Q57792,2010-10-14,2012-11-05,male,1967-02-14,,Mark Rutte 2015 (1) (cropped).jpg,Mark Rutte
+Minister of General Affairs,Mark Rutte,Q57792,2010-10-14,2017-10-26,male,1967-02-14,,Mark Rutte 2015 (1) (cropped).jpg,Mark Rutte
 Minister of Housing and the Central Government Sector,Stef Blok,Q2858481,2012-11-05,2017-01-27,male,1964-12-10,,Portretfoto's Stef Blok - 40983747542.jpg,Stef Blok
 "Minister of Housing, Spatial Planning and the Environment",Jan Pronk,Q1348244,1998-08-03,2002-07-22,male,1940-03-16,,Jan Pronk portrait.jpg,Jan Pronk
 "Minister of Housing, Spatial Planning and the Environment",Henk Kamp,Q732818,2002-07-22,2003-05-27,male,1952-07-23,,Henk Kamp 2011.jpg,Henk Kamp
@@ -197,7 +197,7 @@ State Secretary for Social Affairs and Employment,Jetta Klijnsma,Q2608700,2008-1
 State Secretary for Social Affairs and Employment,Paul de Krom,Q5631856,2010-10-14,2012-11-05,male,1963-02-10,,Paul de Krom 2011.jpg,Paul de Krom
 State Secretary for Social Affairs and Employment,Jetta Klijnsma,Q2608700,2012-11-05,2017-10-26,female,1957-03-18,,Jetta Klijnsma 2015 (1).jpg,Jetta Klijnsma
 State Secretary for Social Affairs and Employment,Tamara van Ark,Q4363961,2017-10-26,2020-07-09,female,1974-08-11,,Tamara van ark-1536921456.jpg,Tamara van Ark
-State Secretary for Social Affairs and Employment,Bas van 't Wout,Q1662099,2020-07-09,2021-01-20,male,1979-04-22,,,Bas van 't Wout
+State Secretary for Social Affairs and Employment,Bas van 't Wout,Q1662099,2020-07-09,2021-01-20,male,1979-04-22,,BasvantWout2017.jpg,Bas van 't Wout
 State Secretary for Social Affairs and Employment,Dennis Wiersma,Q28653560,2021-08-10,,male,1986-02-19,,"Dennis Wiersma, voorzitter FNV Jong, bij het congres FNV in Beweging, 14 en 15 mei 2013.jpg",Dennis Wiersma
 State Secretary for the Interior and Kingdom Relations,Gijs de Vries,Q364313,1998-08-03,2002-07-22,male,1956-02-22,,,Gijs de Vries
 State Secretary for the Interior and Kingdom Relations,Rob Hessing,Q2741937,2002-07-22,2003-05-27,male,1942-06-23,,,Rob Hessing
@@ -213,6 +213,7 @@ Minister Plenipotentiary of Curaçao,Marvelyne Wiels,Q15879187,2013-06-07,2016-1
 Minister Plenipotentiary of Curaçao,Eunice Eisden,Q28057529,2016-12-23,2017-04-13,female,1961-09-22,,,Eunice Eisden
 Minister Plenipotentiary of Curaçao,Leendert Rojer,Q29480683,2017-04-13,2017-06-01,male,,,,Leendert Rojer
 Minister Plenipotentiary of Curaçao,Anthony Begina,Q96791264,2017-06-01,,male,1954,,,Anthony Begina
+Minister Plenipotentiary of Sint Maarten,Josianne Fleming-Artsen,Q18820055,2014-12-19,2015-11-19,female,1949,,,Josianne Fleming-Artsen
 Minister Plenipotentiary of Sint Maarten,Rene Violenus,Q97121761,2019-11-28,,male,1967-09-11,,,
 President of the Senate,Frits Korthals Altes,Q457706,1997-03-11,2001-10-02,male,1931-05-15,,Frits Korthals Altes.jpg,Frits Korthals Altes
 President of the Senate,Gerrit Braks,Q2341445,2001-10-02,2003-06-10,male,1933-05-23,2017-07-12,"Opdracht Financieel Dagblad , minister Braks , close - NL-HaNA Anefo 933-1690 WM540.jpg",Gerrit Braks

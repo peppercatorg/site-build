@@ -1,9 +1,9 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Supreme Leader,Ali Khamenei,Q57336,1989-06-04,,male,1939-04-19,,Ali Khamenei delivers Nowruz message 02.jpg,Ali Khamenei
-President,Mohammad Khatami,Q180795,1997-08-02,2005-08-03,male,1943-09-29,,Mohammad Khatami.jpg,Mohammad Khatami
+President,Mohammad Khatami,Q180795,1997-08-02,2005-08-03,male,1943-09-29,,"Mohammad Khatami - December 11, 2007.jpg",Mohammad Khatami
 President,Mahmoud Ahmadinejad,Q34448,2005-08-03,2013-08-03,male,1956-10-28,,Mahmoud Ahmadinejad 2009.jpg,Mahmoud Ahmadinejad
 President,Hassan Rouhani,Q348144,2013-08-03,2021-08-03,male,1948-11-12,,Hassan Rouani 2017 portrait.jpg,Hassan Rouhani
-President,Ebrahim Raisi,Q5947347,2021-08-03,,male,1960-12-14,,Raisi in 2021-02 (cropped).jpg,Ebrahim Raisi
+President,Ebrahim Raisi,Q5947347,2021-08-03,,male,1960-12-14,,Raeesi 1400 (cropped).jpeg,Ebrahim Raisi
 First Vice President,Eshaq Jahangiri,Q5397780,2013-08-03,2021-08-03,male,1957-01-10,,Eshagh Jahangiri 01.jpg,Eshaq Jahangiri
 First Vice President,Mohammad Mokhber,Q5703610,2021-08-09,,male,,,Mokhber 04.jpg,Mohammad Mokhber
 Vice President,Mohammad Hashemi Rafsanjani,Q6892004,1993,2001,male,1942-08-29,,Mohamad Hashemi.jpg,Mohammad Hashemi Rafsanjani
@@ -12,6 +12,7 @@ Vice President,Mohammad-Ali Abtahi,Q443298,2001,2004,male,1958-09-29,,Mohammad-A
 Vice President,Mohammad-Ali Abtahi,Q443298,2001-09-01,2004-10-13,male,1958-09-29,,Mohammad-Ali Abtahi.JPG,Mohammad-Ali Abtahi
 Vice President,Mohsen Mehralizadeh,Q6894429,2001-11-10,2005-09-26,male,1956-09-30,,Mohsen Mehralizadeh.jpg,Mohsen Mehralizadeh
 Vice President,Hossein Marashi,Q5954519,2004-05-04,2005-08-18,male,1958-11-17,,Hossein Marashi 01.jpg,Hossein Marashi
+Vice President,Hossein Dehghan,Q14514593,2004-05-08,2009-07-17,male,1957-03-02,,Hossein Dehghan 3742862.jpg,Hossein Dehghan
 Vice President,Mohammad Ahmadian,Q6891711,2010-12-13,2011-02-13,male,1956,2019-10-18,Dr Mohammad Ahmadian.JPG,Mohammad Ahmadian
 Vice President,Fereydoon Abbasi,Q1342153,2011-02-13,2013-08-16,male,1958-07-11,,Fereydoon Abbasi 2015.jpg,Fereydoon Abbasi
 Vice President,Ali Akbar Salehi,Q283201,2013-08-16,2021-08-29,male,1949-03-24,,Aliakbar salehi in 2021.jpg,Ali Akbar Salehi
@@ -32,18 +33,19 @@ Vice-President as Head of the Atomic Energy Organisation,Ali Akbar Salehi,Q28320
 Vice-President as Head of the Atomic Energy Organisation,Mohammad Eslami,Q58902699,2021-08-29,,male,1956-09-23,,1398082311524988018890884 محمد اسلامی.jpg,
 Vice-President as Head of the Martyrs and Veterans' Affairs Foundation,Amir-Hossein Ghazizadeh Hashemi,Q16045275,2021-09-12,,male,1971-04-14,,Amir-Hossein Ghazizadeh Hashemi.jpg,Amir-Hossein Ghazizadeh Hashemi
 Vice-President as Head of the Administrative and Recruitment Affairs Organisation,Meysam Latifi,Q109559730,2021-09-05,,male,,,,
-Vice-President as Head of Department of Environment,Ali Salajegheh,Q109549146,2021-10-03,,male,,,,
+Vice-President as Head of Department of Environment,Ali Salajegheh,Q109549146,2021-10-03,,male,,,علی سلاجقه.jpg,
 Minister of Agricultural Jihad,Seyed Javad Sadati Nejad,Q25425402,2021-08-25,,male,,,سید جواد ساداتی‌نژاد.jpg,
 Minister of Commerce,Mohammad Shariatmadari,Q6892441,1997-08-20,2005-08-24,male,1960-07-24,,محمد شریعتمداری.JPG,Mohammad Shariatmadari
 Minister of Commerce,Masoud Mir Kazemi,Q6783882,2005-08-24,2009-08-09,male,1960,,Masoud Mir Kazemi.jpg,Masoud Mir Kazemi
 "Minister of Cooperation, Labour and Social Welfare",Mohammad Shariatmadari,Q6892441,2018-10-28,2021-08-25,male,1960-07-24,,محمد شریعتمداری.JPG,Mohammad Shariatmadari
-"Minister of Cooperation, Labour and Social Welfare",Hojjatollah Abdolmaleki,Q108394879,2021-08-25,,male,,,حجت عبدالملکی1.jpg,
+"Minister of Cooperation, Labour and Social Welfare",Hojjatollah Abdolmaleki,Q108394879,2021-08-25,,male,1981-04-25,,حجت عبدالملکی1.jpg,
 "Minister of Cultural Heritage, Handicrafts and Tourism",Ezzatollah Zarghami,Q3736444,2021-08-25,,male,1959-07-29,,Ezatollah Zarghami.jpg,Ezzatollah Zarghami
 Minister of Islamic Culture and Guidance,Mohammad Hosseini,Q5930862,2009-09-03,2013-08-15,male,1961,,Mohamamd Hosseini.jpg,Mohammad Hosseini (politician)
 Minister of Islamic Culture and Guidance,Reza Salehi Amiri,Q16046461,2016-11-01,2017-08-20,male,1962-05-04,,Reza Salehi Amiri.jpg,Reza Salehi Amiri
 Minister of Islamic Culture and Guidance,Abbas Salehi,Q27467049,2017-08-20,2021-08-25,male,1963,,Abbas Salehi.jpg,Abbas Salehi
-Minister of Islamic Culture and Guidance,Mohammad Mehdi Esmaeili,Q108368785,2021-08-25,,male,1975,,,
+Minister of Islamic Culture and Guidance,Mohammad Mehdi Esmaeili,Q108368785,2021-08-25,,male,1975,,محمدمهدی اسماعیلی.jpg,
 Minister of Defence and Armed Forces Logistics,Ahmad Vahidi,Q48761,2009-09-03,2013-08-15,male,1958-06-27,,Ahmad Vahidi.jpg,Ahmad Vahidi
+Minister of Defence and Armed Forces Logistics,Hossein Dehghan,Q14514593,2013-08-15,2017-08-20,male,1957-03-02,,Hossein Dehghan 3742862.jpg,Hossein Dehghan
 Minister of Defence and Armed Forces Logistics,Amir Hatami,Q25424757,2017-08-20,2021-08-25,male,1965,,Amir Hatami portrait.jpg,Amir Hatami
 Minister of Defence and Armed Forces Logistics,Mohammad Reza Qaraei Ashtiani,Q65195083,2021-08-25,,male,1960,,3369975 3M8A5370 01.jpg,Mohammad-Reza Gharaei Ashtiani
 Minister of Economic Affairs and Finance,Ehsan Khandouzi,Q86710817,2021-08-25,,male,,,سید احسان خاندوزی2.jpg,
@@ -87,7 +89,7 @@ Governor of the Central Bank,Ali SalehAbadi,Q7337922,2021-10-14,,male,1978-08-23
 Chief of the General Staff,Mohammad Bagheri,Q18511806,2016-06-28,,male,1960-06,,Sardar Mohammad Bagheri in Great Prophet Wargame in April 2016 by tasnimnews 01(cropped).jpg,Mohammad Bagheri (Iranian commander)
 Chief Justice,Mahmoud Hashemi Shahroudi,Q1363254,1999-06-30,2009-06-30,male,1948-08-15,2018-12-24,Hashemi Shahroudi portrait 01.jpg,Mahmoud Hashemi Shahroudi
 Chief Justice,Sadeq Larijani,Q24682,2009-06-30,2019-03-07,male,1960-03-12,,Amoli Larijani.jpg,Sadeq Larijani
-Chief Justice,Ebrahim Raisi,Q5947347,2019-03-07,2021-07-01,male,1960-12-14,,Raisi in 2021-02 (cropped).jpg,Ebrahim Raisi
+Chief Justice,Ebrahim Raisi,Q5947347,2019-03-07,2021-07-01,male,1960-12-14,,Raeesi 1400 (cropped).jpeg,Ebrahim Raisi
 Chief Justice,Gholam-Hossein Mohseni-Eje'i,Q137375,2021-07-01,,male,1956-09-29,,Gholam-Hossein Mohseni-Eje'i in a press conference (1).JPG,Gholam-Hossein Mohseni-Eje'i
 Mayor of Tehran,Morteza Alviri,Q4819125,1999-06-01,2002-02-19,male,1948-11-23,,Morteza Alviri.jpg,Morteza Alviri
 Mayor of Tehran,Mohammad Haghani,Q34644809,2002-02-19,2002-03-04,male,1943,,Mohammad Haghani.jpg,Mohammad Haghani
