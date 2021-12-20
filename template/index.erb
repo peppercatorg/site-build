@@ -105,6 +105,7 @@
           automatically check that this information is up-to-date. If you know of
           such a source, or if you see an error in the data,
           please <a href="/about.html#Help">let us know</a>.
+          The last change was on <%= Date.parse(table.map { |row| row[:start] }.map(&:to_s).sort.last).strftime('%B %-d, %Y') %>.
         <%- else -%>
           This list is checked daily against <a href="<%= src %>"><%= src %></a> and several other sources.
           The last change was on <%= Date.parse(table.map { |row| row[:start] }.map(&:to_s).sort.last).strftime('%B %-d, %Y') %>.
