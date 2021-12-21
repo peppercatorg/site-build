@@ -739,8 +739,8 @@ British Virgin Islands,Speaker of the House of Assembly,Julian Willock,Q11009626
 Bulgaria,President,Rumen Radev,Q26257557,2017-01-22,male,1963-06-18,,Rumen Radev official portrait (cropped).jpg,Rumen Radev
 Bulgaria,Vice President,Iliana Yotova,Q433338,2017-01-22,female,1964-10-24,,Iliyana Yotova.jpg,Iliana Iotova
 Bulgaria,Prime Minister,Kiril Petkov,Q106928258,2021-12-13,male,1980-04-17,,Kiril Petkov 2021.jpg,Kiril Petkov (politician)
-Bulgaria,Deputy Prime Minister,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,
-Bulgaria,Deputy Prime Minister for Climate Policies,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav Sandov 2.jpg,Borislav Sandov
+Bulgaria,Deputy Prime Minister,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,Grozdan Karadjov
+Bulgaria,Deputy Prime Minister for Climate Policies,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav-Sandov.jpg,Borislav Sandov
 Bulgaria,Deputy Prime Minister for Economy and Industry,Korneliya Ninova,Q12283736,2021-12-13,female,1969-01-16,,KorneliyaNinova.jpg,Korneliya Ninova
 Bulgaria,Deputy Prime Minister for EU Funds Management,Asen Vassiliev,Q12272416,2021-12-13,male,1977,,Асен Василев.png,Asen Vasilev
 Bulgaria,Deputy Prime Minister for Good Governance,Kalina Konstantinova,Q110070893,2021-12-13,female,1984,,991-ratio-kalina-konstantinova.jpg,Kalina Konstantinova
@@ -750,7 +750,7 @@ Bulgaria,Minister of Defence,Stefan Janev,Q28055319,2021-12-13,male,1960-03-01,,
 Bulgaria,Minister of Economy and Industry,Korneliya Ninova,Q12283736,2021-12-13,female,1969-01-16,,KorneliyaNinova.jpg,Korneliya Ninova
 Bulgaria,Minister of Education and Science,Nikolay Denkov,Q28536878,2021-05-12,male,1962-09-03,,,
 Bulgaria,Minister of Energy,Alexander Nikolov,Q110153962,2021-12-13,male,,,,
-Bulgaria,Minister of Environment and Water,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav Sandov 2.jpg,Borislav Sandov
+Bulgaria,Minister of Environment and Water,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav-Sandov.jpg,Borislav Sandov
 Bulgaria,Minister of e-Government,Bozhidar Bozhanov,Q110139602,2021-12-13,male,1987-08-19,,Bozhidar-Bozhanov.jpg,
 Bulgaria,Minister of Finance,Asen Vassiliev,Q12272416,2021-12-13,male,1977,,Асен Василев.png,Asen Vasilev
 Bulgaria,Minister of Foreign Affairs,Teodora Genchovska,Q110089977,2021-12-13,female,1971-05-23,,,
@@ -759,7 +759,7 @@ Bulgaria,Minister of Innovation and Growth,Daniel Lorer,Q108866960,2021-12-13,ma
 Bulgaria,Minister of Interior,Boyko Rashkov,Q28599818,2021-05-12,male,1954-09-28,,Boijko Rashkov.png,
 Bulgaria,Minister of Justice,Nadezhda Yordanova,Q110153990,2021-12-13,female,,,,
 Bulgaria,Minister of Labour and Social Policies,Georgi Gyokov,Q17409292,2021-12-13,male,1961-12-13,,,
-Bulgaria,Minister of Regional Development and Public Works,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,
+Bulgaria,Minister of Regional Development and Public Works,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,Grozdan Karadjov
 Bulgaria,Minister of Sports,Radostin Vasilev,Q110153996,2021-12-13,male,,,,
 Bulgaria,Minister of Tourism,Hristo Prodanov,Q110065845,2021-12-13,male,1977-03-24,,,
 Bulgaria,Minister of Transport and Communications,Nikolay Sabev,Q110153814,2021-12-13,male,,,,
@@ -1629,7 +1629,7 @@ Iran,Vice-President for Women and Family Affairs,Ansieh Khazal,Q16045667,2021-09
 Iran,Vice-President as Head of Plan and Budget Organisation,Masoud Mir Kazemi,Q6783882,2021-08-11,male,1960,,Masoud Mir Kazemi.jpg,Masoud Mir Kazemi
 Iran,Vice-President as Head of the Atomic Energy Organisation,Mohammad Eslami,Q58902699,2021-08-29,male,1956-09-23,,1398082311524988018890884 محمد اسلامی.jpg,
 Iran,Vice-President as Head of the Martyrs and Veterans' Affairs Foundation,Amir-Hossein Ghazizadeh Hashemi,Q16045275,2021-09-12,male,1971-04-14,,Amir-Hossein Ghazizadeh Hashemi.jpg,Amir-Hossein Ghazizadeh Hashemi
-Iran,Vice-President as Head of the Administrative and Recruitment Affairs Organisation,Meysam Latifi,Q109559730,2021-09-05,male,,,,
+Iran,Vice-President as Head of the Administrative and Recruitment Affairs Organisation,Meysam Latifi,Q109559730,2021-09-05,male,,,میثم لطیفی.jpg,
 Iran,Vice-President as Head of Department of Environment,Ali Salajegheh,Q109549146,2021-10-03,male,,,علی سلاجقه.jpg,
 Iran,Minister of Agricultural Jihad,Seyed Javad Sadati Nejad,Q25425402,2021-08-25,male,,,سید جواد ساداتی‌نژاد.jpg,
 Iran,"Minister of Cooperation, Labour and Social Welfare",Hojjatollah Abdolmaleki,Q108394879,2021-08-25,male,1981-04-25,,حجت عبدالملکی1.jpg,
@@ -1930,12 +1930,12 @@ Jersey,Minister for Children and Education,Scott Wickenden,Q107614302,2018,male,
 Jersey,"Minister for Economic Development, Tourism, Sport and Culture",Lyndon Farnham,Q12057510,2018,male,1965,,Lyndon John Farnham in 2012.JPG,Lyndon Farnham
 Jersey,Minister for External Relations,Ian Gorst,Q5015992,2018,male,1969-12-15,,Ian gorst in the royal square.JPG,Ian Gorst
 Jersey,Minister for Health and Social Services,Richard Renouf,Q106959605,2018,male,1956,,,
-Jersey,Minister for Home Affairs,Gregory Guida,Q107614361,2018,,,,,
+Jersey,Minister for Home Affairs,Gregory Guida,Q107614361,2018,male,,,,
 Jersey,Minister for Housing and Communities,Russell Labey,Q106961057,2018,male,,,,
 Jersey,Minister for Infrastructure,Kevin Lewis,Q12061148,2018,male,,,Kevin Charles Lewis in 2012.JPG,Kevin C. Lewis
 Jersey,Minister for International Development,Carolyn Labey,Q5045403,2018,female,,,Assèrmentâtion des Membres d's Êtats 2011 Saint Hélyi Jèrri 11.jpg,Carolyn Labey
 Jersey,Minister for Social Security,Judy Martin,Q16732060,2018,female,,,,Judy Martin (politician)
-Jersey,Minister for the Environment,John Young,Q107614343,2018,,,,,
+Jersey,Minister for the Environment,John Young,Q107614343,2018,male,,,,
 Jersey,Minister for Treasury and Resources,Susan Pinel,Q16734551,2018,female,,,,Susan Pinel
 Jersey,Assistant Minister for Social Security,Scott Wickenden,Q107614302,2018,male,,,,
 Jordan,King,Abdullah II of Jordan,Q57464,1999-02-07,male,1962-01-30,,Abdullah II of Jordan (January 2020).jpg,Abdullah II of Jordan
@@ -1943,7 +1943,7 @@ Jordan,Prime Minister,Bisher Al-Khasawneh,Q63441935,2020-10-07,male,1969-01-27,,
 Jordan,Minister of Agriculture,Khaled Musa Al Henefat,Q110065420,2021-03-07,male,,,,
 Jordan,"Minister of Awqaf, Islamic Affairs, and Holy Places",Mohammad Khalaileh,Q28716169,2020-10-12,male,1967,,,
 Jordan,Minister of Culture,Haifa Najjar,Q54875250,2021-10-11,female,1959-03-01,,,
-Jordan,Minister of Digital Economy and Entrepreneurship,Ahmad Hanandeh,Q110067674,2020-10-12,,,,,
+Jordan,Minister of Digital Economy and Entrepreneurship,Ahmad Hanandeh,Q110067674,2020-10-12,male,,,,
 Jordan,Minister of Energy and Mineral Resources,Saleh Ali Hamed Al-Kharabsheh,Q110066264,2021-10-11,,,,,
 Jordan,Minister of Environment,Muawieh Khalid Radaideh,Q110066642,2021-10-12,,,,,
 Jordan,Minister of Finance,Mohamad Al-Ississ,Q54861811,2020-10-12,male,1977,,Al-Ississ WEF High Resolution.jpg,
@@ -2043,7 +2043,7 @@ Kiribati,Minister for Employment and Human Resources,Taabeta Teakai,Q109237242,2
 Kiribati,"Minister for Environment, Lands and Agriculture Development",Ruateki Tekaiara,Q108810790,2020-07-02,,,,,
 Kiribati,Minister for Finance and Economic Development,Teuea Toatu,Q35382382,2016-03-15,male,,,Teuea Toatu.jpg,Teuea Toatu
 Kiribati,Minister for Fisheries and Marine Resources Development,Ribwanataake Awira,Q109715074,2020-07-02,,,,,
-Kiribati,Minister for Health and Medical Services,Tinte Itinteang,Q40773814,2020-07-02,,,,,
+Kiribati,Minister for Health and Medical Services,Tinte Itinteang,Q40773814,2020-07-02,male,,,,
 Kiribati,"Minister for Information, Communication, Transport and Tourism Development",Tekeeua Tarati,Q98118396,2020-07-11,male,1971-04-12,,Tekeeua Tarati.png,Tekeeua Tarati
 Kiribati,Minister for Infrastructure and Sustainable Development,Willie Tokataake,Q98122545,2020-07-02,male,,,,Willie Tokataake
 Kiribati,Minister for Internal Affairs,Boutu Bateriki,Q108810793,2020-07-02,,,,,
@@ -2060,7 +2060,7 @@ Kosovo,Second Deputy Prime Minister and Minister of Foreign Affairs and Diaspora
 Kosovo,Third Deputy Prime Minister for Minority Issues and Human Rights,Emilija Redžepi,Q43388670,2021-03-22,female,1973-07-15,,Emilija Redzepi.jpg,Emilija Redžepi
 Kosovo,"Minister of Agriculture, Forestry and Rural Development",Faton Peci,Q107601196,2021-03-22,,,,,
 Kosovo,Minister of Communities and Returns,Goran Rakić,Q95981055,2021-03-22,male,1971,,Minister Goran Rakić (cropped).jpg,Goran Rakić
-Kosovo,"Minister of Culture, Youth and Sports",Hajrulla Çeku,Q61079310,2021-03-22,,,,Hc15 profili.jpg,
+Kosovo,"Minister of Culture, Youth and Sports",Hajrulla Çeku,Q61079310,2021-03-22,male,,,Hc15 profili.jpg,
 Kosovo,Minister of Defence,Armend Mehaj,Q107601179,2021-03-22,male,,,,
 Kosovo,Minister of Economy,Artane Rizvanolli,Q107601172,2021-03-22,,,,,
 Kosovo,"Minister of Education, Science, Technology and Innovation",Arbërie Nagavci,Q106407260,2021-03-22,female,1970-03-29,,Arberie Nagavci.jpg,Arbërie Nagavci
@@ -3622,7 +3622,7 @@ Sweden,Prime Minister,Magdalena Andersson,Q4935873,2021-11-30,female,1967-01-23,
 Sweden,Minister of Civil Affairs,Ida Karkiainen,Q18451082,2021-11-30,female,1988-05-10,,"Andersson Cabinet, nov 30, 2021 (cropped).jpg",Ida Karkiainen
 Sweden,Minister for the Climate,Annika Strandhäll,Q4980750,2021-11-30,female,1975-04-30,,Annika Strandhäll 2014.jpg,Annika Strandhäll
 Sweden,Minister for Communications and Regional Policy,Tomas Eneroth,Q5711551,2017-07-27,male,1966-12-04,,Tomas Eneroth in London - 2017 (24832532058) (cropped).jpg,Tomas Eneroth
-Sweden,Minister for Culture,Jeanette Gustafsdotter,Q109828321,2021-11-30,female,1965-12-24,,Jeanette Gustafsdotter (PICT0765).jpg,Jeanette Gustafsdotter
+Sweden,Minister for Culture,Jeanette Gustafsdotter,Q109828321,2021-11-30,female,1965-12-24,,Kulturminister Jeanette Gustafsdotter.jpg,Jeanette Gustafsdotter
 Sweden,Minister for Defence,Peter Hultqvist,Q3370162,2014-10-03,male,1958-12-31,,Peter Hultqvist.jpg,Peter Hultqvist
 Sweden,Minister for Domestic Affairs,Morgan Johansson,Q5887217,2021-11-30,male,1970-05-14,,Morgan Johansson i GAPF-manifestation 2014.jpg,Morgan Johansson
 Sweden,Minister for EU Affairs,Hans Dahlgren,Q5615474,2021-07-09,male,1948-03-16,,Hans Dahlgren (cropped).jpg,Hans Dahlgren
@@ -4096,7 +4096,7 @@ Uzbekistan,Speaker of the Legislative Chamber,Nurdinjon Ismoilov,Q30729355,2015-
 Uzbekistan,Governor of the Central Bank,Mamarizo Nurmurodov,Q30302568,2017-06-07,male,1960-03-17,,,
 Uzbekistan,Chief of the General Staff,Shukhrat Kholmukhamedov,Q107130633,2021-03-23,male,,,,Shukhrat Kholmukhamedov
 Vanuatu,President,Tallis Obed Moses,Q32060530,2017-07-06,male,1954-10-24,,Tallis Obed Moses 2017.jpg,Tallis Obed Moses
-Vanuatu,Prime Minister,Bob Loughman,Q16190741,2020-04-20,male,1961-03-08,,BobLoughman.png,Bob Loughman
+Vanuatu,Prime Minister,Bob Loughman,Q16190741,2020-04-20,male,1961-03-08,,,Bob Loughman
 Vanuatu,Deputy Prime Minister,Ishmael Kalsakau,Q24950945,2020-04-20,male,,,,Ishmael Kalsakau
 Vanuatu,"Minister of Agriculture, Forestry and Fisheries",Willie Daniel Kalo,Q109923931,2020-04-20,male,,,,
 Vanuatu,Minister of Education and Training,Samson Samsen,Q109923961,2021-07-21,male,,,,

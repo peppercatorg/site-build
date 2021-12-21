@@ -2,8 +2,8 @@ position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Emperor,Akihito,Q37979,1989-01-07,2019-04-30,male,1933-12-23,,Emperor Akihito of Japan.jpg,Akihito
 Emperor,Naruhito,Q217096,2019-05-01,,male,1960-02-23,,Emperor Naruhito and Empress Masako (cropped).jpg,Naruhito
 Prime Minister,Keizō Obuchi,Q313339,1998-07-30,2000-04-05,male,1937-06-25,2000-05-14,Keizo Obuchi 19980730.jpg,Keizō Obuchi
-Prime Minister,Yoshirō Mori,Q233499,2000-04-05,2001-04-26,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
 Prime Minister,Yoshirō Mori,Q233499,2000-04-05,2000-07-04,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
+Prime Minister,Yoshirō Mori,Q233499,2000-04-05,2001-04-26,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
 Prime Minister,Yoshirō Mori,Q233499,2000-07-04,2001-04-26,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
 Prime Minister,Junichiro Koizumi,Q130852,2001-04-26,2003-11-19,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
 Prime Minister,Junichiro Koizumi,Q130852,2003-11-19,2005-09-21,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
@@ -51,6 +51,7 @@ Minister for Digital Transformation,Karen Makishima,Q11570409,2021-10-04,,female
 Minister for Economic Cooperation with Russia,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
 "Minister of Economy, Trade and Industry",Yukio Edano,Q732087,2011-09-12,2012-12-26,male,1964-05-31,,Yukio Edano In front of Tenjin Twin Building (2020.10.18).jpg,Yukio Edano
 "Minister of Economy, Trade and Industry",Toshimitsu Motegi,Q1655453,2012-12-26,2014-09-03,male,1955-10-07,,Toshimitsu Motegi 20200916.jpg,Toshimitsu Motegi
+"Minister of Economy, Trade and Industry",Isshu Sugawara,Q11619136,2019-09-11,2019-10-25,male,1962-01-07,,Isshu Sugawara cropped 2 Yukiya Amano Isshu Sugawara and Toshiro Ozawa 20130627.jpg,Isshu Sugawara
 "Minister of Economy, Trade and Industry",Hiroshi Kajiyama,Q5770884,2019-10-25,2021-10-04,male,1955-10-18,,Hiroshi Kajiyama.jpg,Hiroshi Kajiyama (politician)
 "Minister of Economy, Trade and Industry",Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
 "Minister of Education, Culture, Sports, Science and Technology",Nobutaka Machimura,Q697258,2001-01-06,2001-04-26,male,1944-10-17,2015-06-01,Nobutaka Machimura April 2015.jpg,Nobutaka Machimura
@@ -194,8 +195,8 @@ Minister in Charge of Water Cycle Policy,Tetsuo Saito,Q926287,2021-10-04,,male,1
 Minister in Charge of Women's Empowerment,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Seiko Noda 20171101.jpg,Seiko Noda
 Minister in Charge of the Abductions Issue,Hirokazu Matsuno,Q5770251,2021-10-04,,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
 Minister in Charge of the Response to the Economic Impact caused by the Nuclear Accident,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
-"Minister of State for ""Cool Japan"" Strategy",Kenji Wakamiya,Q6389383,2021-10-04,2021-11-10,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
 "Minister of State for ""Cool Japan"" Strategy",Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+"Minister of State for ""Cool Japan"" Strategy",Kenji Wakamiya,Q6389383,2021-10-04,2021-11-10,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
 Minister of State for Consumer Affairs and Food Safety,Mizuho Fukushima,Q264290,2009-09-16,2010-05-28,female,1955-12-24,,Mizuho Fukushima 2014.jpg,Mizuho Fukushima
 Minister of State for Consumer Affairs and Food Safety,Shunichi Yamaguchi,Q7505080,2014-12-24,2015-10-07,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
 Minister of State for Consumer Affairs and Food Safety,Taro Kono,Q1161024,2015-10-07,2016-08-03,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
@@ -346,7 +347,7 @@ Governor of Hiroshima Prefecture,Hidehiko Yuzaki,Q1485068,2009-11-29,,male,1965-
 Governor of Hokkaidō Prefecture,Tatsuya Hori,Q7688352,1995-04-10,2003-04-10,male,1935-11-22,,,Tatsuya Hori
 Governor of Hokkaidō Prefecture,Harumi Takahashi,Q459145,2003-04-14,2019-04-22,female,1954-01-06,,20211006takahashi harumi.jpg,Harumi Takahashi
 Governor of Hokkaidō Prefecture,Naomichi Suzuki,Q11649100,2019-04-23,,male,1981-03-14,,Governor Naomichi Suzuki in 2020.jpg,Naomichi Suzuki
-Governor of Hyōgo Prefecture,Toshizō Ido,Q982641,2001-08-01,2021-07-31,male,1945-08-10,,"Swift Xi at The International Industrial Fair 2019, Kobe.jpg",Toshizō Ido
+Governor of Hyōgo Prefecture,Toshizō Ido,Q982641,2001-08-01,2021-07-31,male,1945-08-10,,Ido Toshizo 1-1.jpg,Toshizō Ido
 Governor of Hyōgo Prefecture,Motohiko Saitō,Q107917854,2021-08-01,,male,1977-11-15,,斎藤元彦.jpg,Motohiko Saitō
 Governor of Ibaraki Prefecture,Masaru Hashimoto,Q982631,1993-09-26,2017-09-25,male,1945-11-19,,Masaru Hashimoto cropped 2 Masaru Hashimoto and Yoshihiko Noda 20110927.jpg,Masaru Hashimoto
 Governor of Ibaraki Prefecture,Kazuhiko Ōigawa,Q38081041,2017-09-26,,male,1964-04-03,,"Kazuhiko Oigawa, 20191206.jpg",Kazuhiko Ōigawa

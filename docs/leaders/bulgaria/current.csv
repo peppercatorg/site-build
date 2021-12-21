@@ -2,8 +2,8 @@ catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
 Bulgaria,President,Rumen Radev,Q26257557,2017-01-22,male,1963-06-18,,Rumen Radev official portrait (cropped).jpg,Rumen Radev
 Bulgaria,Vice President,Iliana Yotova,Q433338,2017-01-22,female,1964-10-24,,Iliyana Yotova.jpg,Iliana Iotova
 Bulgaria,Prime Minister,Kiril Petkov,Q106928258,2021-12-13,male,1980-04-17,,Kiril Petkov 2021.jpg,Kiril Petkov (politician)
-Bulgaria,Deputy Prime Minister,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,
-Bulgaria,Deputy Prime Minister for Climate Policies,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav Sandov 2.jpg,Borislav Sandov
+Bulgaria,Deputy Prime Minister,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,Grozdan Karadjov
+Bulgaria,Deputy Prime Minister for Climate Policies,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav-Sandov.jpg,Borislav Sandov
 Bulgaria,Deputy Prime Minister for Economy and Industry,Korneliya Ninova,Q12283736,2021-12-13,female,1969-01-16,,KorneliyaNinova.jpg,Korneliya Ninova
 Bulgaria,Deputy Prime Minister for EU Funds Management,Asen Vassiliev,Q12272416,2021-12-13,male,1977,,Асен Василев.png,Asen Vasilev
 Bulgaria,Deputy Prime Minister for Good Governance,Kalina Konstantinova,Q110070893,2021-12-13,female,1984,,991-ratio-kalina-konstantinova.jpg,Kalina Konstantinova
@@ -13,7 +13,7 @@ Bulgaria,Minister of Defence,Stefan Janev,Q28055319,2021-12-13,male,1960-03-01,,
 Bulgaria,Minister of Economy and Industry,Korneliya Ninova,Q12283736,2021-12-13,female,1969-01-16,,KorneliyaNinova.jpg,Korneliya Ninova
 Bulgaria,Minister of Education and Science,Nikolay Denkov,Q28536878,2021-05-12,male,1962-09-03,,,
 Bulgaria,Minister of Energy,Alexander Nikolov,Q110153962,2021-12-13,male,,,,
-Bulgaria,Minister of Environment and Water,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav Sandov 2.jpg,Borislav Sandov
+Bulgaria,Minister of Environment and Water,Borislav Sandov,Q23661772,2021-12-13,male,1982,,Borislav-Sandov.jpg,Borislav Sandov
 Bulgaria,Minister of e-Government,Bozhidar Bozhanov,Q110139602,2021-12-13,male,1987-08-19,,Bozhidar-Bozhanov.jpg,
 Bulgaria,Minister of Finance,Asen Vassiliev,Q12272416,2021-12-13,male,1977,,Асен Василев.png,Asen Vasilev
 Bulgaria,Minister of Foreign Affairs,Teodora Genchovska,Q110089977,2021-12-13,female,1971-05-23,,,
@@ -22,7 +22,7 @@ Bulgaria,Minister of Innovation and Growth,Daniel Lorer,Q108866960,2021-12-13,ma
 Bulgaria,Minister of Interior,Boyko Rashkov,Q28599818,2021-05-12,male,1954-09-28,,Boijko Rashkov.png,
 Bulgaria,Minister of Justice,Nadezhda Yordanova,Q110153990,2021-12-13,female,,,,
 Bulgaria,Minister of Labour and Social Policies,Georgi Gyokov,Q17409292,2021-12-13,male,1961-12-13,,,
-Bulgaria,Minister of Regional Development and Public Works,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,
+Bulgaria,Minister of Regional Development and Public Works,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,,Grozdan Karadjov
 Bulgaria,Minister of Sports,Radostin Vasilev,Q110153996,2021-12-13,male,,,,
 Bulgaria,Minister of Tourism,Hristo Prodanov,Q110065845,2021-12-13,male,1977-03-24,,,
 Bulgaria,Minister of Transport and Communications,Nikolay Sabev,Q110153814,2021-12-13,male,,,,
