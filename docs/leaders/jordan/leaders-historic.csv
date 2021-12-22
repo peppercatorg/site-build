@@ -1,11 +1,15 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 King,Abdullah II of Jordan,Q57464,1999-02-07,,male,1962-01-30,,Abdullah II of Jordan (January 2020).jpg,Abdullah II of Jordan
+Prime Minister,Abdelraouf al-Rawabdeh,Q2067199,1999-03-04,2000-06-19,male,1939-02-18,,Defense.gov News Photo 990520-D-9880W-077.jpg,Abdelraouf Rawabdeh
 Prime Minister,Ali Abu al-Ragheb,Q2509606,2000-06-19,2002-01-14,male,1946,,Ali Abu Al-Ragheb portrait.jpg,Ali Abu Al-Ragheb
 Prime Minister,Ali Abu al-Ragheb,Q2509606,2002-01-14,2003-07-20,male,1946,,Ali Abu Al-Ragheb portrait.jpg,Ali Abu Al-Ragheb
 Prime Minister,Ali Abu al-Ragheb,Q2509606,2003-07-21,2003-10-22,male,1946,,Ali Abu Al-Ragheb portrait.jpg,Ali Abu Al-Ragheb
 Prime Minister,Faisal al-Fayez,Q1393504,2003-10-25,2005-04-06,male,1952-12-20,,Faisal Al Fayez (cropped).jpg,Faisal Al-Fayez
+Prime Minister,Adnan Badran,Q359372,2005-04-06,2005-11-27,male,1935-12-15,,Adnan Badran portrait.jpg,Adnan Badran
+Prime Minister,Marouf al-Bakhit,Q299743,2005-11-27,2007-11-25,male,1947-05-07,,Maroufalbakhit.jpg,Marouf al-Bakhit
 Prime Minister,Nader al-Dahabi,Q362289,2007-11-25,2009-12-14,male,1946-10-07,,NaderalDahabi.jpg,Nader Al-Dahabi
 Prime Minister,Samir Rifai,Q467852,2009-12-14,2011-02-09,male,1966-07-01,,Samir Rifai.jpg,Samir Rifai
+Prime Minister,Marouf al-Bakhit,Q299743,2011-02-09,2011-10-24,male,1947-05-07,,Maroufalbakhit.jpg,Marouf al-Bakhit
 Prime Minister,Awn Shawkat Al-Khasawneh,Q441349,2011-10-24,2012-05-02,male,1950-02-22,,Awn Shawkat Al Khasawneh - World Economic Forum Annual Meeting 2012.jpg,Awn Al-Khasawneh
 Prime Minister,Fayez al-Tarawneh,Q512535,2012-05-02,2012-10-11,male,1949-05-01,2021-12-15,"Fayez A. Tarawneh - World Economic Forum on the Middle East, North Africa and Eurasia 2012.jpg",Fayez Tarawneh
 Prime Minister,Abdullah Ensour,Q34426,2012-10-10,2016-06-01,male,1939-01-20,,FM Urmas Paet met with the Prime Minister of Jordan Abdullah Ensour in Amman. 9.01.2013 (8364907805).jpg,Abdullah Ensour
@@ -26,12 +30,13 @@ Minister of Education,Tayseer Al-Noaimi,Q12203617,2019-11-07,2021-03-08,male,195
 Minister of Energy and Mineral Resources,Saleh Ali Hamed Al-Kharabsheh,Q110066264,2021-10-11,,,,,,
 Minister of Environment,Saleh Ali Hamed Al-Kharabsheh,Q110066264,2019-11-07,2020-10-12,,,,,
 Minister of Environment,Nabil Masarweh,Q110066647,2020-10-12,2021-10-11,,,,,
-Minister of Environment,Muawieh Khalid Radaideh,Q110066642,2021-10-12,,,,,,
+Minister of Environment,Muawieh Khalid Radaideh,Q110066642,2021-10-12,,male,,,,
 Minister of Finance,Ziad Fariz,Q19398943,2005-11,2007-09,male,1943,,,
 Minister of Finance,Mohamad Al-Ississ,Q54861811,2020-10-12,,male,1977,,Al-Ississ WEF High Resolution.jpg,
 Minister of Foreign Affairs,Hani al-Mulki,Q5648173,2004-10-25,2005-04-05,male,1951-10-15,,Hani Mulki 2017.jpg,Hani Mulki
 Minister of Foreign Affairs,Farouq Qasrawi,Q5436181,2005-04-07,2005-11-24,male,1942-02-12,2021-11-10,,Farouq Qasrawi
 Minister of Foreign Affairs,Ayman al-Ṣafadī,Q28336737,2017-01-15,,male,1962-01-15,,His Excellency Safadi at the Meeting of Ministers of the Global Coalition in Washington (cropped).jpg,Ayman Safadi
+Minister of Health,Saad Jaber,Q88950377,2019-05-09,2020-10-12,male,1960-04-16,,,Saad Jaber
 Minister of Health,Nathir Mefleh Obeidat,Q100328148,2020-10-12,2021-03-13,male,1959-12-20,,,
 Minister of Health,Mazin Abdallah Alfarrayeh,Q110067244,2021-03-14,2021-03-28,,,,,
 Minister of Health,Feras Tbrahim Hawari,Q110067351,2021-03-29,,,,,,
@@ -71,6 +76,7 @@ Minister of State for Media Affairs,Amjad Adaileh,Q4747014,2019-11-07,2020-10-12
 Minister of State for Media Affairs,Ali Hamdan Al Ayed,Q100377210,2020-10-12,2021-03-07,male,,,,
 Minister of State for Media Affairs,Faisal Shboul,Q110067984,2021-10-11,,,,,,
 Minister of State for Prime Ministry Affairs,Ibrahim Jazi,Q109257176,2020-10-12,,,1966,,,
+Speaker of the Senate,Abdelraouf al-Rawabdeh,Q2067199,2013-10-24,2015-10-25,male,1939-02-18,,Defense.gov News Photo 990520-D-9880W-077.jpg,Abdelraouf Rawabdeh
 Speaker of the Senate,Faisal al-Fayez,Q1393504,2015-10-25,,male,1952-12-20,,Faisal Al Fayez (cropped).jpg,Faisal Al-Fayez
 Speaker of the Chamber of Deputies,Faisal al-Fayez,Q1393504,2010,2011,male,1952-12-20,,Faisal Al Fayez (cropped).jpg,Faisal Al-Fayez
 Speaker of the Chamber of Deputies,Atef Tarawneh,Q16186517,2013-11-03,2020-12-10,male,1954,,タラウネ・ヨルダン下院議長.jpg,Atef Tarawneh

@@ -1,7 +1,9 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 President,Joseph Estrada,Q212733,1998-06-30,2001-01-20,male,1937-04-19,,President Joseph Erap Ejercito Estrada poses with Senate President Andres Zaldiver of Chile.jpg,Joseph Estrada
+President,Gloria Macapagal Arroyo,Q123665,2001-01-20,2010-06-30,female,1947-04-05,,Gloria Macapagal Arroyo WEF 2009-crop.jpg,Gloria Macapagal Arroyo
 President,Benigno Aquino III,Q1464,2010-06-30,2016-06-30,male,1960-02-08,2021-06-24,President Benigno S. Aquino III.jpg,Benigno Aquino III
 President,Rodrigo Duterte,Q457786,2016-06-30,,male,1945-03-28,,President Rodrigo Duterte.jpg,Rodrigo Duterte
+Vice President,Gloria Macapagal Arroyo,Q123665,1998-06-30,2001-01-20,female,1947-04-05,,Gloria Macapagal Arroyo WEF 2009-crop.jpg,Gloria Macapagal Arroyo
 Vice President,Teofisto Guingona Jr.,Q983317,2001-02-07,2004-06-30,male,1928-07-04,,Vp guingona.jpg,Teofisto Guingona Jr.
 Vice President,Noli de Castro,Q338324,2004-06-30,2010-06-30,male,1949-07-06,,Vp Noli De Castro.jpg,Noli de Castro
 Vice President,Jejomar Binay,Q380154,2010-06-30,2016-06-30,male,1942-11-11,,Jejomar Binay.jpg,Jejomar Binay
@@ -54,11 +56,14 @@ Secretary of Labor and Employment,Arturo Brion,Q1888439,2006,2008,male,1946-12-2
 Secretary of Labor and Employment,Marianito D. Roque,Q61026281,2008,2010,male,,,,
 Secretary of Labor and Employment,Rosalinda Baldoz,Q7367260,2010-06-30,2016-06-30,female,,,Rosalinda Baldoz Oct 2013.jpg,Rosalinda Baldoz
 Secretary of Labor and Employment,Silvestre Bello III,Q25136908,2016-06-30,,male,1944-06-23,,Silvestre Bello - 2018 (38693) (cropped).jpg,Silvestre Bello III
+Secretary of National Defence,Gloria Macapagal Arroyo,Q123665,2003-09-01,2003-10-02,female,1947-04-05,,Gloria Macapagal Arroyo WEF 2009-crop.jpg,Gloria Macapagal Arroyo
+Secretary of National Defence,Gloria Macapagal Arroyo,Q123665,2006-11-30,2007-02-01,female,1947-04-05,,Gloria Macapagal Arroyo WEF 2009-crop.jpg,Gloria Macapagal Arroyo
 Secretary of National Defence,Delfin Lorenzana,Q25351017,2016-06-30,,male,1948-10-28,,Delfin Lorenzana.jpg,Delfin Lorenzana
 Secretary of Public Works and Highways,Rafael Yabut,Q27107735,2016-06-30,2016-07-31,male,1953-04-26,,Rafael Yabut 2007 (cropped).jpg,Rafael Yabut
 Secretary of Public Works and Highways,Mark Villar,Q17371175,2016-08-01,2021-10-06,male,1978-08-14,,Mark A. Villar dpwh portrait.png,Mark Villar
 Secretary of Public Works and Highways,Roger Mercado,Q12970094,2021-10-13,,male,,,,
 Secretary of Science and Technology,Fortunato de la Peña,Q25350219,2016-06-30,,male,1949-11-12,,Fortunato de la Peña.jpg,Fortunato de la Peña
+Secretary of Social Welfare and Development,Gloria Macapagal Arroyo,Q123665,1998-06-30,2000-10-12,female,1947-04-05,,Gloria Macapagal Arroyo WEF 2009-crop.jpg,Gloria Macapagal Arroyo
 Secretary of Social Welfare and Development,Judy Taguiwalo,Q25341910,2016-06-30,2017-08-16,female,1950-02-18,,Judy Taguiwalo - 2016 (cropped).jpg,Judy Taguiwalo
 Secretary of Social Welfare and Development,Rolando Joselito Bautista,Q64746899,2018-10-17,,male,1961,,"Rolando Bautista, DSWD Secretary.jpg",Rolando Joselito Bautista
 Secretary of Tourism,Wanda Corazon Teo,Q24731530,2016-06-30,2018-05-08,female,1952-11-04,,Wanda Teo SG WTTC cropped.jpg,Wanda Tulfo Teo
