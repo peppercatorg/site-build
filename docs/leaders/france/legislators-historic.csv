@@ -1,13 +1,16 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+member of the Senate of France,Jacques Habert,Q3159073,1969-03-21,2012-08-06,male,1919-09-26,2012-08-06,,
 member of the Senate of France,Jean-Pierre Fourcade,Q1685206,1977-09-25,2011-09-30,male,1929-10-18,,Jean-Pierre Fourcade.jpg,Jean-Pierre Fourcade
 member of the Senate of France,Hélène Luc,Q3144808,1977-09-25,2007-09-18,female,1932-03-13,,Hélène Luc.jpg,
 member of the Senate of France,Marcel Henry,Q3289029,1977-09-25,2004-09-30,male,1926-10-30,2021-08-30,,Marcel Henry
 member of the Senate of France,Jean Puech,Q3174139,1980-09-28,2008-09-30,male,1942-02-22,,Jean Puech.jpg,Jean Puech
 member of the Senate of France,Louis Souvet,Q3263129,1980-09-28,2008-09-30,male,1931-10-19,2020-06-29,Louis Souvet 2.jpg,
+member of the Senate of France,Philippe Madrelle,Q3380285,1980-09-28,2019-08-27,male,1937-04-21,2019-08-27,"Président du Conseil général de la Gironde, Philippe Madrelle.jpg",Philippe Madrelle
 member of the Senate of France,Roland Courteau,Q3440013,1980-10-01,,male,1943-02-24,,"Roland Courteau, Sénateur de l'Aude.png",Roland Courteau
 member of the Senate of France,Jean Delaneau,Q3171628,1983,2001,male,1933-08-29,2018-10-10,,
+member of the Senate of France,Philippe Labeyrie,Q3380117,1983,2012-10-13,male,1938-04-29,2012-10-13,,Philippe Labeyrie
 member of the Senate of France,Daniel Percheron,Q3014544,1983-09-25,2017-10-01,male,1942-08-31,,PortraitDanielPercheron.jpg,Daniel Percheron
-member of the Senate of France,Lucien Neuwirth,Q3265654,1983-09-25,2001-09-30,male,1924-05-18,2013-11-26,Lucien Neuwirth.jpg,Lucien Neuwirth
+member of the Senate of France,Lucien Neuwirth,Q3265654,1983-09-25,2001-09-30,male,1924-05-18,2013-11-26,,Lucien Neuwirth
 member of the Senate of France,Paul Masson,Q3371800,1983-09-25,2001-09-30,male,1920-07-21,2009-05-28,,
 member of the Senate of France,Michel Souplet,Q3310890,1983-10-02,2001-09-30,male,1929-04-03,2020-05-14,,Michel Souplet
 member of the Senate of France,Christian Bonnet,Q2965060,1983-10-03,2001-09-30,male,1921-06-14,2020-04-07,Portrait de Christian Bonnet.jpg,Christian Bonnet
@@ -115,6 +118,7 @@ member of the Senate of France,Jacques Gautier,Q3158984,2007-06-25,2009-07-23,ma
 member of the Senate of France,Marc Laménie,Q3288166,2007-08-26,,male,1956-07-11,,M Laménie 5310.JPG,Marc Laménie
 member of the Senate of France,Odette Terrade,Q3349217,2007-09-19,2011-09-30,female,1949-02-21,,Odette Terrade.jpg,Odette Terrade
 member of the Senate of France,Louis Pinton,Q3262926,2007-11-22,2016-11-17,male,1948-10-24,2016-11-17,,Louis Pinton
+member of the Senate of France,Roland Povinelli,Q3440221,2008,2020-05-11,male,1941-08-09,2020-05-11,Roland Povinelli.jpg,Roland Povinelli
 member of the Senate of France,Yves Ackermann,Q3573437,2008-09-08,2008-09-30,male,1949-06-01,,2014-03-26 20-00-51 meeting-butzbach.jpg,
 member of the Senate of France,Colette Giudicelli,Q2396093,2008-09-21,2014-09-27,female,1943-11-24,2020-09-24,,Colette Giudicelli
 member of the Senate of France,Anne-Marie Escoffier,Q2850864,2008-09-21,2014-09-28,female,1942-08-15,,Anne-Marie Escoffier-02.07.2013.JPG,Anne-Marie Escoffier
@@ -252,7 +256,7 @@ member of the Senate of France,Jean Sol,Q40896414,2017-10-02,,male,1952-06-03,,,
 member of the Senate of France,Isabelle Raimond-Pavero,Q40905122,2017-10-02,,female,1961-02-23,,,Isabelle Raimond-Pavero
 member of the Senate of France,Pierre Louault,Q40910532,2017-10-02,,male,1949-05-03,,Pierre Louault.jpg,
 member of the Senate of France,Frédérique Puissat,Q40919469,2017-10-02,,female,1967-11-04,,,
-member of the Senate of France,Catherine Fournier,Q40950154,2017-10-02,2021-12-07,female,1955-09-16,2021,,"Catherine Fournier (politician, born 1955)"
+member of the Senate of France,Catherine Fournier,Q40950154,2017-10-02,2021-12-07,female,1955-09-16,2021-12-07,,"Catherine Fournier (politician, born 1955)"
 member of the Senate of France,Nadège Lefebvre,Q40954397,2017-10-02,2017-11-25,female,1960-10-25,,,
 member of the Senate of France,Olivier Jacquin,Q41250063,2017-10-02,,male,1964-05-08,,Olivier Jacquin.jpg,
 member of the Senate of France,Rémi Féraud,Q3456022,2017-10-19,,male,1971-08-24,,Rémi Féraud.jpg,
@@ -680,7 +684,7 @@ member of the French National Assembly,Édouard Landrain,Q3579929,1997-06-12,200
 member of the French National Assembly,Raymond Forni,Q359005,1997-06-12,2002-06-18,male,1941-05-20,2008-01-05,Raymondforni.jpeg,Raymond Forni
 member of the French National Assembly,Étienne Pinte,Q3592334,1997-06-12,2002-06-18,male,1939-03-19,,Etienne Pinte.jpg,Étienne Pinte
 member of the French National Assembly,Guy Drut,Q365638,1997-06-12,2002-06-18,male,1950-12-06,,Guy Drut 1972.JPG,Guy Drut
-member of the French National Assembly,Philippe Douste-Blazy,Q366016,1997-06-12,2001-04-01,male,1953-01,,Douste Blazy Meeting Bayrou Toulouse (cropped).JPG,Philippe Douste-Blazy
+member of the French National Assembly,Philippe Douste-Blazy,Q366016,1997-06-12,2001-04-01,male,1953-01-01,,Douste Blazy Meeting Bayrou Toulouse (cropped).JPG,Philippe Douste-Blazy
 member of the French National Assembly,Joseph Parrenin,Q377127,1997-06-12,2002-06-18,male,1941-05-16,,,Joseph Parrenin
 member of the French National Assembly,Jack Lang,Q379229,1997-06-12,2000-04-27,male,1939-09-02,,Jack Lang 2005 Belem cropped.jpg,Jack Lang (French politician)
 member of the French National Assembly,Daniel Paul,Q387058,1997-06-12,2002-06-18,male,1943-08-16,,,Daniel Paul
@@ -804,7 +808,7 @@ member of the French National Assembly,Jean-Claude Robert,Q16645205,2000-11-19,2
 member of the French National Assembly,Jean Dufour,Q16645454,2001,2002,male,1949-04-05,2020-03-15,,Jean Dufour
 member of the French National Assembly,Gilles Cocquempot,Q3106167,2001,2012,male,1952-10-22,,Gilles Cocquempot.JPG,Gilles Cocquempot
 member of the French National Assembly,Bernard Brochand,Q2897604,2001-04-02,2002-06-18,male,1938-06-05,,Bernard Brochand.jpg,Bernard Brochand
-member of the French National Assembly,Philippe Douste-Blazy,Q366016,2001-04-02,2002-06-18,male,1953-01,,Douste Blazy Meeting Bayrou Toulouse (cropped).JPG,Philippe Douste-Blazy
+member of the French National Assembly,Philippe Douste-Blazy,Q366016,2001-04-02,2002-06-18,male,1953-01-01,,Douste Blazy Meeting Bayrou Toulouse (cropped).JPG,Philippe Douste-Blazy
 member of the French National Assembly,Dominique Strauss-Kahn,Q385437,2001-04-02,2002-06-18,male,1949-04-25,,"Strauss-Kahn, Dominique (official portrait 2008).jpg",Dominique Strauss-Kahn
 member of the French National Assembly,Michel Bourgeois,Q16798440,2001-04-28,2002-06-18,male,1940-04-02,,,
 member of the French National Assembly,Didier Arnal,Q3026900,2001-08-11,2002-06-18,male,1961-09-08,,Didier Arnal.jpg,
@@ -1255,7 +1259,7 @@ member of the French National Assembly,Éric Jalton,Q3591191,2002-06-19,2007-06-
 member of the French National Assembly,Éric Raoult,Q3591330,2002-06-19,2007-06-19,male,1955-06-19,2021-04-16,Eric Raoult p1370330.jpg,Éric Raoult
 member of the French National Assembly,Étienne Pinte,Q3592334,2002-06-19,2007-06-19,male,1939-03-19,,Etienne Pinte.jpg,Étienne Pinte
 member of the French National Assembly,Guy Drut,Q365638,2002-06-19,2007-06-19,male,1950-12-06,,Guy Drut 1972.JPG,Guy Drut
-member of the French National Assembly,Philippe Douste-Blazy,Q366016,2002-06-19,2004-04-30,male,1953-01,,Douste Blazy Meeting Bayrou Toulouse (cropped).JPG,Philippe Douste-Blazy
+member of the French National Assembly,Philippe Douste-Blazy,Q366016,2002-06-19,2004-04-30,male,1953-01-01,,Douste Blazy Meeting Bayrou Toulouse (cropped).JPG,Philippe Douste-Blazy
 member of the French National Assembly,Jack Lang,Q379229,2002-06-19,2007-06-19,male,1939-09-02,,Jack Lang 2005 Belem cropped.jpg,Jack Lang (French politician)
 member of the French National Assembly,Dominique Strauss-Kahn,Q385437,2002-06-19,2007-06-19,male,1949-04-25,,"Strauss-Kahn, Dominique (official portrait 2008).jpg",Dominique Strauss-Kahn
 member of the French National Assembly,Christian Vanneste,Q385595,2002-06-19,2007-06-19,male,1947-07-14,,Vanneste (cropped).jpg,Christian Vanneste
@@ -2646,7 +2650,7 @@ member of the French National Assembly,Annick Girardin,Q2851582,2014-06-30,2014-
 member of the French National Assembly,Joël Aviragnet,Q17350680,2014-07-04,2015-07-17,male,1956-06-16,,Joël Aviragnet 04.jpg,Joël Aviragnet
 member of the French National Assembly,Romain Colas,Q17350886,2014-07-04,2017-06-17,male,1979-11-22,,Romain Colas - 2009-02-07 - IMG 2914.jpg,
 member of the French National Assembly,Valérie Fourneyron,Q291356,2014-07-04,2017-06-20,female,1959-10-04,,Valérie Fourneyron.jpg,Valérie Fourneyron
-member of the French National Assembly,Stéphane Claireaux,Q17332884,2014-07-30,2017-06-20,male,1964-06-23,,StéphaneClaireaux.jpg,
+member of the French National Assembly,Stéphane Claireaux,Q17332884,2014-07-30,2017-06-20,male,1964-06-23,,StéphaneClaireaux.jpg,Stéphane Claireaux
 member of the French National Assembly,Pascal Demarthe,Q17619515,2014-09-27,2017-06-17,male,1960-01-29,,Demarthe boistard.jpg,Pascal Demarthe
 member of the French National Assembly,Aurélie Filippetti,Q198005,2014-09-27,2017-06-20,female,1973-06-17,,Aurélie Filippetti - Semanticpedia 2012 - 002.jpg,Aurélie Filippetti
 member of the French National Assembly,Florence Delaunay,Q3073960,2014-09-27,2017-06-17,female,1956-06-12,,,Florence Delaunay
@@ -3277,7 +3281,7 @@ member of the French National Assembly,Stéphane Le Foll,Q960150,2017-06-21,2018
 member of the French National Assembly,Damien Abad,Q966529,2017-06-21,,male,1980-04-05,,Portrait Damien Abad.jpg,Damien Abad
 member of the French National Assembly,Maurice Leroy,Q984381,2017-06-21,2019-01-09,male,1959-02-02,,Maurice Leroy.jpg,Maurice Leroy
 member of the French National Assembly,Bruno Le Maire,Q993472,2017-06-21,2017-07-21,male,1969-04-15,,Bruno Le Maire par Claude Truong-Ngoc novembre 2014.jpg,Bruno Le Maire
-member of the French National Assembly,Stéphane Claireaux,Q17332884,2017-07-22,,male,1964-06-23,,StéphaneClaireaux.jpg,
+member of the French National Assembly,Stéphane Claireaux,Q17332884,2017-07-22,,male,1964-06-23,,StéphaneClaireaux.jpg,Stéphane Claireaux
 member of the French National Assembly,Delphine O,Q30068067,2017-07-22,2019-04-28,female,1985-12-25,,Delphine O.jpg,Delphine O
 member of the French National Assembly,Adrien Morenas,Q30498482,2017-07-22,2020-08-03,male,1982-01-01,,Tour de France de l'&galité femmes-hommes - Adrien Morenas 1 (cropped).jpg,Adrien Morenas
 member of the French National Assembly,Fabien Lainé,Q30729390,2017-07-22,,male,1976-04-15,,,Fabien Lainé
@@ -3328,7 +3332,7 @@ member of the French National Assembly,Sarah Taillebois,Q96631873,2020-06-24,202
 member of the French National Assembly,Philippe Meyer,Q63765776,2020-06-28,,male,1969-04-29,,,
 member of the French National Assembly,Olivier Hoarau,Q63607760,2020-07-08,2020-07-08,male,1975-03-31,,,
 member of the French National Assembly,Philippe Naillet,Q22683833,2020-07-14,,male,1960-08-14,,,Philippe Naillet
-member of the French National Assembly,Nathalie Porte,Q63313474,2020-07-28,,female,1973-02-02,,SCP 6598-c.jpg,Nathalie Porte
+member of the French National Assembly,Nathalie Porte,Q63313474,2020-07-28,,female,1973-02-02,,,Nathalie Porte
 member of the French National Assembly,Brigitte Klinkert,Q63764562,2020-07-29,2020-07-29,female,1956-07-22,,Brigitte Klinkert en 2021.jpg,Brigitte Klinkert
 member of the French National Assembly,Jean-Luc Bourgeaux,Q63765024,2020-08-01,,male,1963-04-10,,Jean-luc-bourgeaux 1-7-2021.png,
 member of the French National Assembly,Elisabeth Marquet,Q65592000,2020-08-01,2020-08-01,female,1960-11-20,,,
