@@ -6,7 +6,7 @@ President,Vlad Filat,Q57685,2010-12-28,2010-12-30,male,1969-05-06,,Vladimir Fila
 President,Marian Lupu,Q312340,2010-12-30,2012-03-23,male,1966-06-20,,Marian Lupu Senate of Poland.JPG,Marian Lupu
 President,Nicolae Nasoc,Q57478,2012-03-22,2016-12-23,male,1948-12-22,,Nicolae Timofti.jpg,Nicolae Timofti
 President,Igor Dodon,Q4164146,2016-12-23,2020-12-24,male,1975-02-18,,Igor Dodon in the Russian State Duma (2018-11-21) 11.jpg,Igor Dodon
-President,Maia Sandu,Q15071069,2020-12-24,,female,1972-05-24,,Staatspräsidentin aus Moldau Maia Sandu in Wien 21.10.2021 (cropped).jpg,Maia Sandu
+President,Maia Sandu,Q15071069,2020-12-24,,female,1972-05-24,,Maia Sandu in October 2021.jpg,Maia Sandu
 Prime Minister,Dumitru Braghiș,Q1265040,1999-12-21,2001-03-19,male,1957-12-28,,Braghis.jpg,Dumitru Braghiș
 Prime Minister,Vasile Tarlev,Q182230,2001-04-19,2008-03-31,male,1963-10-06,,Василий Тарлев (23-02-2004).jpg,Vasile Tarlev
 Prime Minister,Zinaida Greceanîi,Q61299,2008-03-31,2009-09-14,female,1956-02-07,,"Zinaida Greceanîi, 2014 (cropped).jpg",Zinaida Greceanîi
@@ -19,12 +19,13 @@ Prime Minister,Natalia Gherman,Q6968023,2015-06-22,2015-07-30,female,1969-03-20,
 Prime Minister,Valeriu Streleț,Q7911417,2015-07-30,2015-10-30,male,1970-03-08,,Валерий Стрелец (10-12-2015).jpg,Valeriu Streleț
 Prime Minister,Gheorghe Brega,Q15715802,2015-10-30,2016-01-20,male,1951-09-25,,Gheorghe Brega (01).png,Gheorghe Brega
 Prime Minister,Pavel Filip,Q7155601,2016-01-20,2019-06-08,male,1966-04-10,,Pavel Filip (11322438465) cropped.jpg,Pavel Filip
-Prime Minister,Maia Sandu,Q15071069,2019-06-08,2019-11-14,female,1972-05-24,,Staatspräsidentin aus Moldau Maia Sandu in Wien 21.10.2021 (cropped).jpg,Maia Sandu
+Prime Minister,Maia Sandu,Q15071069,2019-06-08,2019-11-14,female,1972-05-24,,Maia Sandu in October 2021.jpg,Maia Sandu
 Prime Minister,Ion Chicu,Q75020865,2019-11-14,2020-12-31,male,1972-02-28,,Ion Chicu (2020-01-31).jpg,Ion Chicu
 Prime Minister,Aureliu Ciocoi,Q4822275,2020-12-31,2021-08-05,male,1968-06-05,,Aureliu Ciocoi (13-04-2021).jpg,Aureliu Ciocoi
 Prime Minister,Natalia Gavrilița,Q105193792,2021-08-06,,female,1977-09-21,,Natalia Gavrilița September 2021.jpg,Natalia Gavrilița
 First Deputy Prime Minister,Igor Dodon,Q4164146,2008-03-31,2009-09-14,male,1975-02-18,,Igor Dodon in the Russian State Duma (2018-11-21) 11.jpg,Igor Dodon
 Deputy Prime Minister,Valeriu Lazăr,Q7911407,2009-09-25,2013-05-30,male,1968-05-20,,Valeriu Lazăr (2015-06-19).png,Valeriu Lazăr
+Deputy Prime Minister,Mihail Moldovanu,Q6845152,2011-01-14,2013-05-16,male,1965-06-07,,,Mihai Moldovanu
 Deputy Prime Minister,Natalia Gherman,Q6968023,2013-05-30,2016-01-20,female,1969-03-20,,NataliaGherman̠Wien.jpg,Natalia Gherman
 Deputy Prime Minister,Tatiana Potîng,Q13461378,2013-05-31,2015-02-18,female,1971-02-04,,,Tatiana Potîng
 Deputy Prime Minister,Gheorghe Brega,Q15715802,2015-07-30,2017-05-30,male,1951-09-25,,Gheorghe Brega (01).png,Gheorghe Brega
@@ -69,8 +70,8 @@ Minister of the Economy,Anatol Usatii,Q85981844,2019-11-14,2020-03-16,male,1976-
 Minister of the Economy,Sergiu Răilean,Q105494203,2020-03-16,2020-11-09,male,,,,Sergiu Răilean
 Minister of the Economy,Anatol Usatii,Q85981844,2020-11-09,2020-12-31,male,1976-07-21,,,Anatol Usatîi
 Minister of the Economy,Sergiu Gaibu,Q108213034,2021-08-05,,male,1976-05-13,,,Sergiu Gaibu
-Minister of Education and Research,Igor Șarov,Q104420223,2000-03-16,2020-11-09,male,1967-11-03,,Igor Șarov - oct 2020.jpg,
 Minister of Education and Research,Monica Babuc,Q15071201,2017-07-26,2019-06-08,female,1964-03-29,,Monica Babuc (01).jpg,Monica Babuc
+Minister of Education and Research,Igor Șarov,Q104420223,2020-03-16,2020-11-09,male,1967-11-03,,Igor Șarov - oct 2020.jpg,
 Minister of Education and Research,Lilia Pogolșa,Q104433075,2020-11-09,2021-08-05,female,1963-04-01,,,Lilia Pogolșa
 Minister of Education and Research,Anatolie Topală,Q108084522,2021-08-06,,male,1970-10-27,,,Anatolie Topală
 Minister of the Environment,Violeta Ivanov,Q18544109,2008-03-31,2009-09-25,female,1967-09-15,,Violeta Ivanov (2015).png,Violeta Ivanov
@@ -176,4 +177,4 @@ Mayor of Bălți,Renato Usatîi,Q16691871,2015-06-29,2018-02-15,male,1978-11-04,
 Mayor of Bălți,Nikolay Grigorishin,Q51668723,2018-06-04,2019-11-01,male,1971-09-05,,,
 Mayor of Bălți,Renato Usatîi,Q16691871,2019-11-01,2021-07-12,male,1978-11-04,,Renato Usatîi - sep 2020 (cropped).jpg,Renato Usatîi
 Mayor of Bălți,Tatiana Dubițkaia,Q109188451,2021-07-12,2021-12-20,female,,,,
-Mayor of Bălți,Nikolay Grigorishin,Q51668723,2021-12-20,,male,1971-09-05,,,
+Mayor of Bălți,Nikolay Grigorishin,Q51668723,2021-12-24,,male,1971-09-05,,,

@@ -1,5 +1,5 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-monarch,Elizabeth II,Q9682,1952-02-06,,female,1926-04-21,,Queen Elizabeth II in March 2015.jpg,Elizabeth II
+monarch,Elizabeth II,Q9682,1952-02-06,,female,1926-04-21,,Elizabeth II 2021.jpg,Elizabeth II
 Prime Minister,Tony Blair,Q9545,1997-05-02,2007-06-27,male,1953-05-06,,"Tony Blair, 2002 (cropped).jpg",Tony Blair
 Prime Minister,Gordon Brown,Q10648,2007-06-27,2010-05-11,male,1951-02-20,,Gordon Brown (2008).jpg,Gordon Brown
 Prime Minister,David Cameron,Q192,2010-05-11,2016-07-13,male,1966-10-09,,David Cameron official.jpg,David Cameron
@@ -434,6 +434,7 @@ Governor of the Cayman Islands,Duncan Taylor,Q5314627,2010,2013,male,1958-10-17,
 Governor of the Cayman Islands,Helen Kilpatrick,Q16239881,2013-09-06,2018-03-05,female,1958-10-09,,Helen Kilpatrick.jpg,Helen Kilpatrick
 Governor of the Cayman Islands,Anwar Choudhury,Q4778017,2018-03-26,2018-09-20,male,1959-06-15,,Anwar choudhury.jpg,Anwar Choudhury
 Governor of the Cayman Islands,Martyn Roper,Q56808433,2018-10-29,,male,1965-06-08,,Martyn Roper.jpg,Martyn Roper
+Premier of the Cayman Islands,Truman Bodden,Q7847694,1995-04-26,2000-11-08,male,1945-04-22,,,Truman Bodden
 Premier of the Cayman Islands,Kurt Tibbetts,Q3365492,2000-11-15,2001-11-08,male,1954-03-02,,,Kurt Tibbetts
 Premier of the Cayman Islands,McKeeva Bush,Q794036,2001-11-08,2005-05-18,male,1955-01-20,,William McKeeva Bush.jpg,McKeeva Bush
 Premier of the Cayman Islands,Kurt Tibbetts,Q3365492,2005-05-18,2009-05-27,male,1954-03-02,,,Kurt Tibbetts
@@ -447,6 +448,12 @@ Governor of the Falkland Islands,Alan Huckle,Q575354,2006,2010,male,1948-06-15,,
 Governor of the Falkland Islands,Nigel Haywood,Q3341354,2010-10-16,2014-04-29,male,1955-03-17,,Hugo Swire visits the Falkland Islands (12524033064).jpg,Nigel Haywood
 Governor of the Falkland Islands,Colin Roberts,Q5145519,2014-04-29,2017-09-12,male,1959-07-31,,Colin Roberts.jpg,Colin Roberts (diplomat)
 Governor of the Falkland Islands,Nigel Phillips,Q34970383,2017-09-12,,male,1963,,Nigel Phillips.jpg,Nigel Phillips
+Chief Executive of the Falkland Islands,Michael Blanch,Q6828692,2000-01,2003-03,male,1947,,,Michael Blanch
+Chief Executive of the Falkland Islands,Chris Simpkins,Q5108063,2003-03,2007-09-12,male,1950,,,Chris Simpkins
+Chief Executive of the Falkland Islands,Michael Blanch,Q6828692,2007-09-12,2008-01-03,male,1947,,,Michael Blanch
+Chief Executive of the Falkland Islands,Tim Thorogood,Q7804395,2008-01-03,2012-02-01,male,1962-05-15,,,Tim Thorogood
+Chief Executive of the Falkland Islands,Keith Padgett,Q24521,2012-02-01,2016-10-03,male,,,,Keith Padgett
+Chief Executive of the Falkland Islands,Barry Rowland,Q26251720,2016-10-03,2021-04,male,1961-08,,,Barry Rowland
 Chief Executive of the Falkland Islands,Andy Keeling,Q109544916,2021-04,,male,,,,
 Governor of Montserrat,Anthony J. Abbott,Q56794768,1997,2001,male,1941,,,
 Governor of Montserrat,Tony Abbott,Q7821739,1997-09-17,2001-05-11,male,1941-09-09,,,Tony Abbott (diplomat)
@@ -461,10 +468,16 @@ Premier of Montserrat,John Osborne,Q1699125,2001-04-05,2006-06-02,male,1936-05-2
 Premier of Montserrat,Reuben Meade,Q1862326,2011-09-27,2014-09-12,male,1954-03-07,,Reuben Meade (cropped).jpg,Reuben Meade
 Premier of Montserrat,Donaldson Romeo,Q18164296,2014-09-12,2019-11-19,male,1962,,Donaldson Romeo 2014.jpg,Donaldson Romeo
 Premier of Montserrat,Joseph E. Farrell,Q71333507,2019-11-19,,male,,,,Easton Taylor-Farrell
+Chief Minister of Montserrat,David Brandt,Q5231691,1997-08-22,2001-04-05,male,,,,David Brandt (politician)
+Chief Minister of Montserrat,Lowell Lewis,Q715018,2006-06-02,2009-09-10,male,1952-08-18,,,Lowell Lewis
+Chief Minister of Montserrat,Reuben Meade,Q1862326,2009-09-10,2011-09-26,male,1954-03-07,,Reuben Meade (cropped).jpg,Reuben Meade
 Governor of the Turks and Caicos Islands,John Kelly,Q6242722,1996,2000,male,1941-06-25,,,John Kelly (diplomat)
 Governor of the Turks and Caicos Islands,Mervyn Jones,Q6820915,2000,2002,male,1942-11-23,,,Mervyn Jones
 Governor of the Turks and Caicos Islands,James Poston,Q57900451,2002,2005,male,1945,2007,,
 Governor of the Turks and Caicos Islands,Cynthia Astwood,Q5200013,2002-11-26,2002-12-16,female,1946-10-09,,,Cynthia Astwood
+Governor of the Turks and Caicos Islands,Richard Tauwhare,Q3556435,2005,2008,male,1959-11-01,,,Richard Tauwhare
+Governor of the Turks and Caicos Islands,Mahala Wynns,Q6732907,2008,2008-08-05,female,1948-10-04,,,Mahala Wynns
+Governor of the Turks and Caicos Islands,Gordon Wetherell,Q3365174,2008-08-05,2011-08-21,male,1948-11-11,,Governor Gordon Wetherell (5011436688).jpg,Gordon Wetherell
 Governor of the Turks and Caicos Islands,Ric Todd,Q4352464,2011-09-12,2013-09-15,male,1959-08-29,,Ric Todd.jpg,Ric Todd
 Governor of the Turks and Caicos Islands,Peter Beckingham,Q1581292,2013,2016,male,1949-03-13,,Peter Beckingham.jpg,Peter Beckingham
 Governor of the Turks and Caicos Islands,John Freeman,Q56808524,2016-10,2019-07,male,1951-03-25,,Argentina- John Freeman (8473848056).jpg,John Freeman (diplomat)
@@ -474,7 +487,7 @@ Premier of the Turks and Caicos Islands,Michael Misick,Q3314428,2003-08-15,2009-
 Premier of the Turks and Caicos Islands,Galmo Williams,Q3561699,2009-03-23,2009-08-14,male,1966-02-02,,,Galmo Williams
 Premier of the Turks and Caicos Islands,Rufus Ewing,Q7378029,2012-11-13,2016-12-20,male,1968,,Rufus Ewing 2013 (cropped).jpg,Rufus Ewing
 Premier of the Turks and Caicos Islands,Sharlene Cartwright-Robinson,Q7489886,2016-12-20,2021-02-20,female,1971-09-04,,Sharlene Cartwright-Robinson.jpg,Sharlene Cartwright-Robinson
-Premier of the Turks and Caicos Islands,Washington Misick,Q7972058,2021-02-20,,male,1950-03-13,,International tax compliance (11083000084)(cropped).jpg,Washington Misick
+Premier of the Turks and Caicos Islands,Washington Misick,Q7972058,2021-02-20,,male,1950-03-13,,Washington Misick 2013.jpg,Washington Misick
 Governor of the Virgin Islands,Elton Georges,Q26923681,2004-10-11,2004-10-14,male,1943-05-01,2018-04-04,,Elton Georges
 Governor of the Virgin Islands,Tom Macan,Q7816677,2004-10-14,2006-04-10,male,1946,,,Tom Macan
 Governor of the Virgin Islands,David Pearey,Q3560835,2006,2010,male,1948-07-15,,David Pearey (cropped).jpg,David Pearey

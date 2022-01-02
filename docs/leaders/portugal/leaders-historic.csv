@@ -1,6 +1,6 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 President,Jorge Sampaio,Q156780,1996-03-09,2006-03-09,male,1939-09-18,2021-09-10,Jorge Sampaio (2010).jpg,Jorge Sampaio
-President,Aníbal Cavaco Silva,Q57398,2006-03-09,2016-03-09,male,1939-07-15,,Aníbal Cavaco Silva Senate of Poland 01.jpg,Aníbal Cavaco Silva
+President,Aníbal Cavaco Silva,Q57398,2006-03-09,2016-03-09,male,1939-07-15,,Анибал Каваку Силва 01 (13-06-2013) (cropped).jpg,Aníbal Cavaco Silva
 President,Marcelo Rebelo de Sousa,Q6756617,2016-03-09,,male,1948-12-12,,Marcelo Rebelo de Sousa em fevereiro de 2018.jpg,Marcelo Rebelo de Sousa
 Prime Minister,António Guterres,Q311440,1995-10-28,2002-04-06,male,1949-04-30,,"António Guterres, 9th Secretary-General of the United Nations.jpg",António Guterres
 Prime Minister,José Manuel Durão Barroso,Q15849,2002-04-06,2004-07-17,male,1956-03-23,,José Manuel Barroso MEDEF 2.jpg,José Manuel Barroso
@@ -10,7 +10,7 @@ Prime Minister,Pedro Passos Coelho,Q57615,2011-06-21,2015-11-26,male,1964-07-24,
 Prime Minister,António Costa,Q610788,2015-11-26,,male,1961-07-17,,António Costa img 6536.jpg,António Costa
 Prime Minister,António Costa,Q610788,2015-11-26,2019-10-26,male,1961-07-17,,António Costa img 6536.jpg,António Costa
 Deputy Prime Minister,Paulo Portas,Q58161,2013-07-24,2015-11-26,male,1962-09-12,,Paulo Portas in 23º Congress of CDS-PP 5.jpg,Paulo Portas
-Minister of Agriculture,Maria do Céu Albuquerque,Q72410716,2019-10-26,,female,1970-07-10,,,
+Minister of Agriculture,Maria do Céu Albuquerque,Q72410716,2019-10-26,,female,1970-07-10,,,Maria do Céu Antunes
 Minister of Culture,Graça Fonseca,Q30930777,2019-10-26,,female,1971-08-13,,"Graça Fonseca (Sessão de Evocação do Centenário de Amália Rodrigues, no Panteão Nacional), cropped.png",Graça Fonseca
 Minister of Education,Maria do Carmo Seabra,Q6761703,2004-07-17,2005-03-12,female,1955-01-27,,,Maria do Carmo Seabra
 Minister of Education,Maria de Lurdes Rodrigues,Q275677,2005-03-12,2009-10-26,female,1956-03-19,,Maria Lurdes Rodrigues na Exponor.JPG,Maria de Lurdes Rodrigues
@@ -43,9 +43,10 @@ Minister of Health,Ana Jorge,Q482868,2008-01-30,2011-06-21,female,1949-09-23,,An
 Minister of Health,Adalberto Campos Fernandes,Q23805019,2015-11-26,2018-10-15,male,1958,,HAND SHAKE 2016-10-03 (29792656790) (Adalberto Campos Fernandes).jpg,Adalberto Campos Fernandes
 Minister of Health,Marta Temido,Q57339530,2018-10-15,,female,1974-03-02,,2021 - HealthConf DG4 4259 (51652310341).jpg,Marta Temido
 Minister of Health,Marta Temido,Q57339530,2018-10-15,2019-10-26,female,1974-03-02,,2021 - HealthConf DG4 4259 (51652310341).jpg,Marta Temido
-Minister for Infrastructure and Housing,Pedro Nuno Santos,Q10347660,2019-10-26,,male,1977-04-13,,"Pedro Nuno Santos, 2020-01-15 (cropped).png",
+Minister for Infrastructure and Housing,Pedro Nuno Santos,Q10347660,2019-10-26,,male,1977-04-13,,"Pedro Nuno Santos, 2020-01-15 (cropped).png",Pedro Nuno Santos
 Minister of Internal Administration,Fernando Gomes,Q10281366,1999-10-25,2000-09-14,male,1946-04-13,,,
 Minister of Internal Administration,Nuno Severiano Teixeira,Q920869,2000-09-14,2002-04-06,male,1957-11-05,,Nuno Severiano Teixeira 070608-D-9880W-007.jpg,Nuno Severiano Teixeira
+Minister of Internal Administration,António Figueiredo Lopes,Q16336718,2002-04-06,2004-07-17,male,1936-11-21,,,
 Minister of Internal Administration,Daniel Sanches,Q10263994,2004-07-17,2005-03-12,male,1949-07-25,,,
 Minister of Internal Administration,António Costa,Q610788,2005-03-12,2007-05-17,male,1961-07-17,,António Costa img 6536.jpg,António Costa
 Minister of Internal Administration,Rui Pereira,Q729402,2007-05-17,2011-06-21,male,1956-03-24,,,Rui Pereira (politician)
@@ -65,7 +66,7 @@ Minister of Justice,Fernando Negrão,Q10281462,2015-10-30,2015-11-26,male,1955-1
 Minister of Justice,Francisca Van Dunem,Q5482965,2015-11-26,,female,1955-11-05,,TOUR DE TABLE 2016-07-08 Informal Meeting of Justice Ministers (27553458143) (cropped).jpg,Francisca Van Dunem
 Minister of Justice,Francisca Van Dunem,Q5482965,2015-11-26,2019-10-26,female,1955-11-05,,TOUR DE TABLE 2016-07-08 Informal Meeting of Justice Ministers (27553458143) (cropped).jpg,Francisca Van Dunem
 "Minister of Labour, Solidarity and Social Security",Ana Mendes Godinho,Q52112309,2019-10-26,,female,1972-06-29,,Sustainable Growth tourism that benefits everyone (39757095370) (cropped).jpg,Ana Mendes Godinho
-Minister of Maritime Affairs,Ricardo Serrão Santos,Q16596372,2019-10-26,,male,1954-10-11,,,
+Minister of Maritime Affairs,Ricardo Serrão Santos,Q16596372,2019-10-26,,male,1954-10-11,,,Ricardo Serrão Santos
 Minister for Modernization of the State and Public Administration,Alexandra Leitão,Q25440529,2019-10-26,,female,1973-04-08,,,Alexandra Leitão
 Minister of National Defence,Júlio Castro Caldas,Q10313391,1999-10-25,2001-07-03,male,1943-11-19,2020-01-04,"Júlio Castro Caldas, 001010-D-9880W-031.jpg",Júlio Castro Caldas
 Minister of National Defence,Rui Pena,Q10365313,2001-07-03,2002-04-06,male,1939-12-25,2018-01-08,,
@@ -92,5 +93,8 @@ President of the Assembly of the Republic,Mota Amaral,Q745134,2002-04-10,2005-03
 President of the Assembly of the Republic,Jaime Gama,Q472589,2005-03-16,2011-06-20,male,1947-06-08,,Jaime Gama (Brasilia 2008).jpg,Jaime Gama
 President of the Assembly of the Republic,Maria da Assunção Esteves,Q2868303,2011-06-21,2015-10-22,female,1956-10-15,,Assunção Esteves (18272649550) (cropped).jpg,Maria da Assunção Esteves
 President of the Assembly of the Republic,Eduardo Ferro Rodrigues,Q925136,2015-10-23,,male,1949-11-03,,"Eduardo Ferro Rodrigues smiling at handshaking, Bratislava Informal Parliamentary Summit 2016-10-07.jpg",Eduardo Ferro Rodrigues
+Governor of the Bank of Portugal,António José Fernandes de Sousa,Q16491799,1994-06,2000-02,male,1955-02-18,,,
+Governor of the Bank of Portugal,Vítor Constâncio,Q529992,2000-02-09,2010-05-31,male,1943-10-12,,Vítor Constancio at Chatham House.jpg,Vítor Constâncio
+Governor of the Bank of Portugal,Carlos Costa,Q524996,2010-06-07,2020-07-20,male,1949-11-03,,"Carlos Costa, Governor, Banco de Portugal.JPG",Carlos da Silva Costa
 Governor of the Bank of Portugal,Mário Centeno,Q21568721,2020-07-20,,male,1966-12-09,,"Informal meeting of economic and financial affairs ministers (ECOFIN). Handshake, Eurogroup Toomas Tõniste and Mário Centeno (37238535645) (cropped).jpg",Mário Centeno
 Chief of the General Staff of the Armed Forces,António Manuel Fernandes da Silva Ribeiro,Q106542530,2018-03-01,,male,1957-10-14,,"Rear Adm. Antonio Silva Ribeiro, Deputy Vice Chief of the Portuguese Naval Staff, Portuguese Navy (5222172280) (cropped).jpg",António da Silva Ribeiro

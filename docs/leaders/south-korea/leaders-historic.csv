@@ -6,6 +6,7 @@ President,Park Geun-hye,Q138048,2013-02-25,2017-03-10,female,1952-02-02,,Park Ge
 President,Moon Jae-in,Q21001,2017-05-10,,male,1953-01-24,,Moon Jae-in (2017-10-01) cropped.jpg,Moon Jae-in
 Prime Minister,Lee Hae Chan,Q319920,2004-07-30,2006-03-15,male,1952-07-10,,Lee Hae-chan prime ministerial portriat (cropped).jpg,Lee Hae-chan
 Prime Minister,Chung Un-chan,Q336417,2009-09-29,2010-08-11,male,1946-02-29,,ChungUnChan(060515)Cropped.jpg,Chung Un-chan
+Prime Minister,Yoon Jeung-hyun,Q498266,2010-08-11,2010-10-01,male,1946-09-19,,Yoon Jeung-Hyun.jpg,Yoon Jeung-hyun
 Prime Minister,Jung Hong-won,Q4352214,2013-02-26,2015-02-16,male,1944-10-09,,Chung Hong won.jpg,Chung Hong-won
 Prime Minister,Lee Wan-koo,Q12612132,2015-02-17,2015-04-27,male,1950-06-02,2021-10-14,이완구 전 총리.png,Lee Wan-koo
 Prime Minister,Hwang Kyo-ahn,Q12625765,2015-06-18,2017-05-11,male,1957-04-15,,Hwang Kyo-ahn.PNG,Hwang Kyo-ahn
@@ -22,7 +23,7 @@ Deputy Prime Minister,Hong Nam-ki,Q31180640,2018-12-11,,male,1960-07-29,,"Hong N
 "Minister of Culture, Sports and Tourism",Lee Chang-dong,Q239656,2003-02-27,2004-06-30,male,1954-04-01,,Lee Chang-dong 2010.jpg,Lee Chang-dong
 "Minister of Culture, Sports and Tourism",Do Jong-hwan,Q12593087,2017-06-16,2019-04-03,male,1955-09-27,,도종환 국회 교육문화체육관광위원회 간사.jpg,Do Jong-hwan
 "Minister of Culture, Sports and Tourism",Park Yang-woo,Q16081865,2019-04-03,2021-02-10,male,1958-11-20,,,Park Yang-woo
-"Minister of Culture, Sports and Tourism",Hwang Hee,Q24856300,2021-02-11,,male,1967-07-28,,"Minister of Culture, Sports and Tourism Hwang Hee giving a speech at the Opening Ceremony for ‘Korea-China Year of Cultural Exchanges’.jpg",Hwang Hee (politician)
+"Minister of Culture, Sports and Tourism",Hwang Hee,Q24856300,2021-02-11,,male,1967-07-28,,"Minister of Culture, Sports and Tourism Hwang Hee taking a commemorative photo with the Speaker of the National Assembly.jpg",Hwang Hee (politician)
 Minister of Defence,Han Min-goo,Q5646647,2014-06-30,2017-07-13,male,1951-08-30,,Han Min-koo.jpg,Han Min-goo
 Minister of Defence,Song Young-moo,Q31179461,2017-07-13,2018-09-21,male,1949-02-24,,170919-A-ZZ999-001 MINDEF Song 국방장관 송영무.jpg,Song Young-moo
 Minister of Defence,Jeong Kyeong-doo,Q22974878,2018-09-21,2020-09-18,male,1960,,Air Force (ROKAF) General Jeong Kyeong-doo 공군대장 정경두 (UNC-CFC-USFK photo 170625-A-HU462-383).jpg,Jeong Kyeong-doo
@@ -36,12 +37,14 @@ Minister of the Environment,,Q12610308,2013-03-11,2016-09-04,male,1956-05-08,,Yo
 Minister of the Environment,,Q48421040,2016-09-05,2017-07-03,male,,,,
 Minister of the Environment,Kim Eunkyung,Q31178699,2017-07-04,2018-11-09,female,1956-06-09,,,Kim Eun-kyung (politician)
 Minister of the Environment,Han Jeoung-ae,Q12624300,2021-01-22,,female,1965-01-08,,Han Jeoung-ae 2021.jpg,Han Jeoung-ae
+Minister of Finance,Yoon Jeung-hyun,Q498266,2009-02-10,2011-06-01,male,1946-09-19,,Yoon Jeung-Hyun.jpg,Yoon Jeung-hyun
 Minister of Finance,Kim Dong-yeon,Q16080198,2017-06-09,2018-12-10,male,1957-01-28,,,Kim Dong-yeon
 Minister of Finance,Hong Nam-ki,Q31180640,2018-11,,male,1960-07-29,,"Hong Nam-ki, Deputy Prime Minister and Minister of Economy and Finance.jpg",Hong Nam-ki
 Minister of Food and Drink Safety,Kim Ganglip,Q105076339,2020-11-02,,male,1965-11-09,,,Kim Ganglip
 Minister of Foreign Affairs,Hong Soon-young,Q5895672,1998-08-04,2000-01-14,male,1937-01-30,2014-04-30,,Hong Soon-young
 Minister of Foreign Affairs,Lee Joung-binn,Q12612564,2000-01-14,2001-03-26,male,1937-12-16,,Lee Jung-Bin.jpg,
 Minister of Foreign Affairs,Han Seung-soo,Q356675,2001-03-26,2002-02-04,male,1936-12-28,,Han Seung-soo.jpg,Han Seung-soo
+Minister of Foreign Affairs,Choi Sung-hong,Q12619619,2002-02-04,2003-02-27,male,1938,2020-09-17,,
 Minister of Foreign Affairs,Yoon Young-kwan,Q8055228,2003-02-27,2004-01-17,male,1951-01-12,,Yoon Young Kwan.jpg,Yoon Young-kwan
 Minister of Foreign Affairs,Ban Ki-moon,Q1253,2004-01-17,2006-11-10,male,1944-06-13,,Ban Ki-moon 1-2.jpg,Ban Ki-moon
 Minister of Foreign Affairs,Song Minsoon,Q490657,2006-11-10,2008-02-29,male,1948-07-28,,송민순편집.JPG,Song Min-soon
@@ -105,6 +108,14 @@ Governor of the Bank of Korea,Park Seung,Q12596812,2002-04-01,2006-03-31,male,19
 Governor of the Bank of Korea,Seongtae Lee,Q16090966,2006-04-01,2010-03-31,,1945-06-20,,,
 Governor of the Bank of Korea,Kim Choong-soo,Q495038,2010-04-01,2014-03-31,male,1947-06-06,,Kim Choong-Soo - World Economic Forum Annual Meeting 2012.jpg,Kim Choong-soo
 Governor of the Bank of Korea,Lee Ju-yeol,Q16091117,2014-04,,male,1952-07-24,,"The Bank of Korea Governor Lee, Ju Yeol.jpg",Lee Ju-yeol
+Chairman of the Financial Services Commission,Jun Kwang-Woo,Q6311493,2008-03-01,2009-01-20,male,1949-05-07,,,Jun Kwang-woo
+Chairman of the Financial Services Commission,Jin Dong-su,Q16092025,2009-01-20,2011-01-03,male,1949-03-18,,,
+Chairman of the Financial Services Commission,Kim Seokdong,Q12587639,2011-01-03,2013-02-25,male,1953-05-03,,,
+Chairman of the Financial Services Commission,Choo Kyung-ho,Q12619978,2013-02-26,2013-03-21,male,1960-07-29,,,
+Chairman of the Financial Services Commission,Shin Je-yoon,Q16084301,2013-03-22,2015-03-13,male,1958-03-25,,,
+Chairman of the Financial Services Commission,Jung Chan-woo,Q16091762,2015-03-13,2013-03-17,male,1963-09-16,,,
+Chairman of the Financial Services Commission,Im Jungryong,Q16091382,2015-03-17,2017-07-18,,1959-08-03,,,
+Chairman of the Financial Services Commission,Choi Jong-gu,Q55737954,2017-07-19,2019-09-08,,1957,,,
 Chairman of the Financial Services Commission,Eun Sung-soo,Q55732998,2019-09-09,2021-08-30,male,1961,,,
 Chairman of the Financial Services Commission,Koh Seungbeom,Q109628296,2021-08-31,,male,,,,
 Chairman of the Joint Chiefs of Staff,Choi Yoon-hee,Q12619778,2013,2015,male,1953-06-09,,Republic of Korea Navy Adm. Choi Yoon Hee.jpg,
@@ -112,7 +123,7 @@ Chairman of the Joint Chiefs of Staff,Jeong Kyeong-doo,Q22974878,2017-08-20,2018
 Chairman of the Joint Chiefs of Staff,Park Han-ki,Q47501409,2018-10-11,2020-09-23,male,1960,,"Army (ROKA) General Park Han-ki 육군대장 박한기 (US Navy photo 191001-D-PB383-001 CJCS Hosts ROK, Japanese Counterparts for Multilateral Discussions).jpg",Park Han-ki
 Chairman of the Joint Chiefs of Staff,Won In-choul,Q42527142,2020-09-23,,male,1961,,Air Force (ROKAF) General Won In-choul 공군대장 원인철 (US Air Force photo 191016-F-HB600-1082 Pacific Air Forces Commander reaffirms ironclad alliance at exhibition in Seoul).jpg,Won In-choul
 Prosecutor General,,Q19939855,2017-07-25,2019-07-24,male,1961-07-16,,,
-Prosecutor General,Yoon Suk-yeol,Q16090635,2019-07-25,2021-03-04,male,1960-12-18,,Yoon Seok-youl at the People Power Party Presidential Primary Candidate Debate.png,Yoon Suk Yeol
+Prosecutor General,Yoon Suk-yeol,Q16090635,2019-07-25,2021-03-04,male,1960-12-18,,Yoon Suk-yeol appears on 3Pro TV and explains his economic policy.png,Yoon Suk-yeol
 Prosecutor General,Kim Oh-soo,Q60467132,2021-06-01,,male,1963,,,Kim Oh-soo
 Chief of Staff to the President,You Young-min,Q24856203,2021-01-01,,male,1951-08-27,,유영민20160401.225px.jpg,You Young-min
 Chief Presidential Secretary for Policy,Lee Ho-seung,Q60467999,2021-03-29,,male,1965,,,
