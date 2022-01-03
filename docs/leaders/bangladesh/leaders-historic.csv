@@ -1,13 +1,13 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-President,Shahabuddin Ahmed,Q465481,1996-10-09,2001-11-14,male,1930-02-01,,,Shahabuddin Ahmed
+President,Shahabuddin Ahmed,Q465481,1996-10-09,2001-11-14,male,1930-02-01,,Shahabuddin Ahmed.jpg,Shahabuddin Ahmed
 President,A. Q. M. Badruddoza Chowdhury,Q278403,2001-11-14,2002-06-21,male,1932-11-01,,,A. Q. M. Badruddoza Chowdhury
 President,Muhammad Jamiruddin Sircar,Q4159817,2002-06-21,2002-09-06,male,1931-12-01,,,Muhammad Jamiruddin Sircar
-President,Iajuddin Ahmed,Q165672,2002-09-06,2009-02-12,male,1931-02-01,2012-12-10,,Iajuddin Ahmed
+President,Iajuddin Ahmed,Q165672,2002-09-06,2009-02-12,male,1931-02-01,2012-12-10,Iajuddin Ahmed at Zia International Airport in Dhaka (cropped).jpg,Iajuddin Ahmed
 President,Zillur Rahman,Q57485,2009-02-12,2013-03-20,male,1929-03-09,2013-03-20,"Zillur Rahman in Neubrandenburg, Germany in 1973.jpg",Zillur Rahman
 President,Abdul Hamid,Q3246667,2013-03-14,,male,1944-01-01,,"President of People’s Republic of Bangladesh, Mr. Md. Abdul Hamid, at Hyderabad House, in New Delhi on May 31, 2019.jpg",Abdul Hamid (politician)
 Prime Minister,Sheikh Hasina,Q52183,1996-06-23,2001-07-15,female,1947-09-28,,Sheikh Hasina in London cropped.jpg,Sheikh Hasina
 Prime Minister,Khaleda Zia,Q234814,2001-10-10,2006-10-29,female,1945,,"Begum Zia Book-opening Ceremony, 1 Mar, 2010.jpg",Khaleda Zia
-Prime Minister,Iajuddin Ahmed,Q165672,2006-10-29,2007-01-11,male,1931-02-01,2012-12-10,,Iajuddin Ahmed
+Prime Minister,Iajuddin Ahmed,Q165672,2006-10-29,2007-01-11,male,1931-02-01,2012-12-10,Iajuddin Ahmed at Zia International Airport in Dhaka (cropped).jpg,Iajuddin Ahmed
 Prime Minister,Fazlul Haque,Q5439229,2007-01-11,2007-01-12,male,1938-06-30,,,Fazlul Haque (judge)
 Prime Minister,Fakhruddin Ahmed,Q560060,2007-01-12,2009-01-06,male,1940-05-01,,Fakhruddin Ahmed - WEF Annual Meeting Davos 2008.jpg,Fakhruddin Ahmed
 Prime Minister,Sheikh Hasina,Q52183,2009-01-06,,female,1947-09-28,,Sheikh Hasina in London cropped.jpg,Sheikh Hasina
@@ -84,6 +84,13 @@ Chief of Army Staff,Abu Belal Muhammad Shafiul Huq,Q20265428,2015-06-25,2018-06-
 Chief of Army Staff,Aziz Ahmed,Q27627669,2018-06-25,2021-06-24,male,1961-01-01,,"Chief of Army Staff, Bangladesh Army, General Aziz Ahmed.JPG",Aziz Ahmed (general)
 Chief of Army Staff,SM Shafiuddin Ahmed,Q66817788,2021-06-24,,male,1963-12-01,,,SM Shafiuddin Ahmed
 Chief of Naval Staff,M Shaheen Iqbal,Q97685559,2020-07-25,,male,1964,,M Shaheen Iqbal in September 2021 (cropped).jpg,M Shaheen Iqbal
+Chief of Air Staff,Jamal Uddin Ahmed,Q27916509,1995-06-04,2001-06-03,male,1943-03-26,,,Jamal Uddin Ahmed
+Chief of Air Staff,Mohammad Rafiqul Islam,Q28225469,2001-06-04,2002-04-08,male,,,,Mohammad Rafiqul Islam
+Chief of Air Staff,Fakhrul Azam,Q26132978,2002-04-08,2007-04-07,male,,,,Fakhrul Azam
+Chief of Air Staff,Shah Mohammad Ziaur Rahman,Q7461312,2007-04-08,2012-06-12,male,1955,,"Shah Mohammad Ziaur Rahman in New Delhi on April 24, 2009.jpg",Shah Mohammad Ziaur Rahman
+Chief of Air Staff,Enamul Bari,Q27016832,2012-06-13,2015-06-12,male,,,এয়ার মার্শাল (অব.) মোহাম্মদ ইনামুল বারী (১).jpg,Enamul Bari
+Chief of Air Staff,Abu Esrar,Q25587546,2015-06-12,2018-06-12,male,1961,,,Abu Esrar
+Chief of Air Staff,Masihuzzaman Serniabat,Q55084246,2018-06-12,2021-06-12,male,1962-02-14,,,Masihuzzaman Serniabat
 Chief of Air Staff,Shaikh Abdul Hannan,Q107213763,2021-06-12,,male,1963-08-01,,,Shaikh Abdul Hannan
 Governor of Bangladesh Bank,Salahuddin Ahmed (governor),Q20202812,2005-05-01,2009-04-30,male,,,,Salahuddin Ahmed (economist)
 Governor of Bangladesh Bank,Atiur Rahman,Q3350886,2009-05-01,2016-03-15,male,1953-12-13,,আতিউর রহমান.jpg,Atiur Rahman
