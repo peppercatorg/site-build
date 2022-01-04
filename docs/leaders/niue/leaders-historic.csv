@@ -1,31 +1,31 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Premier,Sani Lakatani,Q2424697,1999-03-26,2002-05-01,male,1936,,,Sani Lakatani
-Premier,Young Vivian,Q508830,2002-05-01,2008-06-19,male,1935-11-12,,Young-Vivian-2006.jpg,Young Vivian
-Premier,Toke Talagi,Q785548,2008-06-19,2020-06-11,male,1951-01-09,2020-07-15,Toke Talagi 2014.jpg,Toke Talagi
-Premier,Dalton Tagelagi,Q19876617,2020-06-11,,male,1968-06-05,,Dalton Tagelagi.jpg,Dalton Tagelagi
-Minister for Central Agencies & Commercial Agencies,Dalton Tagelagi,Q19876617,2020-06-11,,male,1968-06-05,,Dalton Tagelagi.jpg,Dalton Tagelagi
-Minister for Infrastructure and Finance,Crossley Tatui,Q96204345,2020-06-11,,male,,,,Crossley Tatui
-Minister of Natural Resources,Mona Ainuu,Q42704251,2020-06-11,,female,,,Mona Ainu’u 2017.jpg,Mona Ainuu
-Minister of Social Services,Sauni Tongatule,Q97453993,2020-06-11,,male,,,,Sauni Tongatule
-Speaker of the Assembly,Hima Douglas,Q5764847,2020-06-11,,male,,,,Hima Douglas
-Speaker of the Assembly,Sani Lakatani,Q2424697,1990-04-07,2004-11,male,1936,,,Sani Lakatani
-Speaker of the Assembly,Tofua Puletama,Q108815192,2017-06-06,2020-05,,,,,
-Speaker of the Assembly,Opili Talafasi,Q108815195,2017-06-06,2020-05,,,,,
-Speaker of the Assembly,Talititama Taliati,Q108815198,2017-06-06,2020-05,,,,,
-Speaker of the Assembly,Dion Taufitu,Q108815199,2017-06-06,2020-05,,,,,
-Speaker of the Assembly,Joan Viliamu,Q16645937,2017-06-06,2020-05,female,1966-03-22,,,Joan Viliamu
-Speaker of the Assembly,Va'aiga Tukuitonga,Q16886221,2017-06-06,2020-05,female,,,,Va'aiga Tukuitonga
-Speaker of the Assembly,Dalton Tagelagi,Q19876617,2017-06-06,2020-05,male,1968-06-05,,Dalton Tagelagi.jpg,Dalton Tagelagi
-Speaker of the Assembly,Halene Magatogia,Q19956512,2017-06-06,2020-05,male,,,,
-Speaker of the Assembly,Pokotoa Sipeli,Q251952,2017-06-06,2020-05,male,,,,Pokotoa Sipeli
-Speaker of the Assembly,Michael Jackson,Q3308266,2017-06-06,2020-05,male,,,,Michael Jackson (journalist)
-Speaker of the Assembly,Mona Ainuu,Q42704251,2017-06-06,2020-05,female,,,Mona Ainu’u 2017.jpg,Mona Ainuu
-Speaker of the Assembly,Bill Vakaafi Motufoou,Q4911209,2017-06-06,2020-05,male,,,,Bill Vakaafi Motufoou
-Speaker of the Assembly,Enetama Lipitoa,Q5377251,2017-06-06,2020-05,male,,,,Enetama Lipitoa
-Speaker of the Assembly,Andrew Funaki,Q60194471,2017-06-06,2020-05,male,,,Peter Funaki 2016.jpg,Andrew Funaki
-Speaker of the Assembly,O'Love Jacobsen,Q7071866,2017-06-06,2020-05,female,,,O'Love Jacobsen (cropped).jpg,O'Love Jacobsen
-Speaker of the Assembly,Terry Coe,Q7704226,2017-06-06,2020-05,male,,,,Terry Coe
-Speaker of the Assembly,Toke Talagi,Q785548,2017-06-06,2020-05,male,1951-01-09,2020-07-15,Toke Talagi 2014.jpg,Toke Talagi
-Speaker of the Assembly,Crossley Tatui,Q96204345,2017-06-06,2020-05,male,,,,Crossley Tatui
-Speaker of the Assembly,Billy Talagi,Q96634077,2017-06-06,2020-05,male,,,Billy Talagi 2017.jpg,Billy Talagi
-Speaker of the Assembly,Stan Kalauni,Q97483357,2017-06-06,2020-05,male,,,,Stan Kalauni
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Niue,Premier,Sani Lakatani,Q2424697,1999-03-26,2002-05-01,male,1936,,,Sani Lakatani
+Niue,Premier,Young Vivian,Q508830,2002-05-01,2008-06-19,male,1935-11-12,,Young-Vivian-2006.jpg,Young Vivian
+Niue,Premier,Toke Talagi,Q785548,2008-06-19,2020-06-11,male,1951-01-09,2020-07-15,Toke Talagi 2014.jpg,Toke Talagi
+Niue,Premier,Dalton Tagelagi,Q19876617,2020-06-11,,male,1968-06-05,,Dalton Tagelagi.jpg,Dalton Tagelagi
+Niue,Minister for Central Agencies & Commercial Agencies,Dalton Tagelagi,Q19876617,2020-06-11,,male,1968-06-05,,Dalton Tagelagi.jpg,Dalton Tagelagi
+Niue,Minister for Infrastructure and Finance,Crossley Tatui,Q96204345,2020-06-11,,male,,,,Crossley Tatui
+Niue,Minister of Natural Resources,Mona Ainuu,Q42704251,2020-06-11,,female,,,Mona Ainu’u 2017.jpg,Mona Ainuu
+Niue,Minister of Social Services,Sauni Tongatule,Q97453993,2020-06-11,,male,,,,Sauni Tongatule
+Niue,Speaker of the Assembly,Hima Douglas,Q5764847,2020-06-11,,male,,,,Hima Douglas
+Niue,Speaker of the Assembly,Sani Lakatani,Q2424697,1990-04-07,2004-11,male,1936,,,Sani Lakatani
+Niue,Speaker of the Assembly,Tofua Puletama,Q108815192,2017-06-06,2020-05,,,,,
+Niue,Speaker of the Assembly,Opili Talafasi,Q108815195,2017-06-06,2020-05,,,,,
+Niue,Speaker of the Assembly,Talititama Taliati,Q108815198,2017-06-06,2020-05,,,,,
+Niue,Speaker of the Assembly,Dion Taufitu,Q108815199,2017-06-06,2020-05,,,,,
+Niue,Speaker of the Assembly,Joan Viliamu,Q16645937,2017-06-06,2020-05,female,1966-03-22,,,Joan Viliamu
+Niue,Speaker of the Assembly,Va'aiga Tukuitonga,Q16886221,2017-06-06,2020-05,female,,,,Va'aiga Tukuitonga
+Niue,Speaker of the Assembly,Dalton Tagelagi,Q19876617,2017-06-06,2020-05,male,1968-06-05,,Dalton Tagelagi.jpg,Dalton Tagelagi
+Niue,Speaker of the Assembly,Halene Magatogia,Q19956512,2017-06-06,2020-05,male,,,,
+Niue,Speaker of the Assembly,Pokotoa Sipeli,Q251952,2017-06-06,2020-05,male,,,,Pokotoa Sipeli
+Niue,Speaker of the Assembly,Michael Jackson,Q3308266,2017-06-06,2020-05,male,,,,Michael Jackson (journalist)
+Niue,Speaker of the Assembly,Mona Ainuu,Q42704251,2017-06-06,2020-05,female,,,Mona Ainu’u 2017.jpg,Mona Ainuu
+Niue,Speaker of the Assembly,Bill Vakaafi Motufoou,Q4911209,2017-06-06,2020-05,male,,,,Bill Vakaafi Motufoou
+Niue,Speaker of the Assembly,Enetama Lipitoa,Q5377251,2017-06-06,2020-05,male,,,,Enetama Lipitoa
+Niue,Speaker of the Assembly,Andrew Funaki,Q60194471,2017-06-06,2020-05,male,,,Peter Funaki 2016.jpg,Andrew Funaki
+Niue,Speaker of the Assembly,O'Love Jacobsen,Q7071866,2017-06-06,2020-05,female,,,O'Love Jacobsen (cropped).jpg,O'Love Jacobsen
+Niue,Speaker of the Assembly,Terry Coe,Q7704226,2017-06-06,2020-05,male,,,,Terry Coe
+Niue,Speaker of the Assembly,Toke Talagi,Q785548,2017-06-06,2020-05,male,1951-01-09,2020-07-15,Toke Talagi 2014.jpg,Toke Talagi
+Niue,Speaker of the Assembly,Crossley Tatui,Q96204345,2017-06-06,2020-05,male,,,,Crossley Tatui
+Niue,Speaker of the Assembly,Billy Talagi,Q96634077,2017-06-06,2020-05,male,,,Billy Talagi 2017.jpg,Billy Talagi
+Niue,Speaker of the Assembly,Stan Kalauni,Q97483357,2017-06-06,2020-05,male,,,,Stan Kalauni

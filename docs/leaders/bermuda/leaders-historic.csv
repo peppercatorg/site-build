@@ -1,29 +1,29 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Governor,Thorold Masefield,Q56811167,1997,2001,male,1939,,,Thorold Masefield
-Governor,Richard Gozney,Q1278584,2007,2012,male,1951-07-21,,Governor175.jpg,Richard Gozney
-Governor,George Fergusson,Q3489398,2012-05-23,2016-08-02,male,1955-09-30,,George Fergusson (cropped).jpg,George Fergusson (diplomat)
-Governor,Ginny Ferson,Q39503490,2016-08-02,2016-12-05,female,1963,,,Ginny Ferson
-Governor,John Rankin,Q15429094,2016-12-05,2020-12-12,male,1957-03-12,,Johnrankin.jpg,John Rankin (diplomat)
-Governor,Rena Lalgie,Q97685578,2020-12-14,,female,,,S300 Rena Lalgie photo.jpg,Rena Lalgie
-Deputy Governor,Mark Andrew Capes,Q6766545,2006,2009,male,1954-02-19,,,Mark Capes
-Deputy Governor,Ginny Ferson,Q39503490,2013-12,2018-07,female,1963,,,Ginny Ferson
-Deputy Governor,Alison Crocket,Q110097256,2018-07,,female,,,,
-Premier,E. David Burt,Q33120852,2017-07-19,,male,1979,,Edward David Burt 1 (cropped).jpg,Edward David Burt
-Deputy Premier,Walter Roban,Q107980143,2017-07-19,,male,,,,
-Minister for the Cabinet Office,Wayne L. Furbert,Q107980074,2017-07-19,,male,,,,
-Minister of Economic Development and Tourism,Jamahl Simmons,Q107980343,2017-07-19,2018-11-01,male,,,,
-Minister of Education,Diallo Rabain,Q107980110,2017-07-19,,male,,,,
-Minister of Finance,Curtis L. Dickinson,Q107980116,2017-07-19,,,,,,
-Minister of Health,Kim Wilson,Q94952755,2017-07-19,,female,,,Kim Wilson.jpg,
-Minister of Home Affairs,Walter Roban,Q107980143,2017-07-19,,male,,,,
-Minister of Labour,Jason Hayward,Q107980104,2017-07-19,,male,,,,
-Minister of Legal Affairs,Kathy Lightbourne-Simmons,Q107980095,2017-07-19,,female,,,,
-Minister of National Security,Wayne Caines,Q56522655,2017-07-19,2020-07-06,male,,,,Wayne Caines
-Minister of National Security,Renee Ming,Q107980085,2020-07-16,,female,,,,
-Minister of Public Works,David Burch,Q107980114,2017-07-19,,male,,,,
-Minister of Social Development and Seniors,Tinee Furbert,Q107980082,2020-10-08,,female,,,,
-Minister of Social Development and Sport,Zane DeSilva,Q107980320,2017-07-19,2020-07-06,,,,,
-Minister of Transport,Lawrence Scott,Q107980091,2020-10-08,,male,,,,
-"Minister of Youth, Culture and Sports",Ernest Peets,Q107980108,2020-11-10,,male,,,,
-Attorney General,Kathy Lightbourne-Simmons,Q107980095,2017-07-19,,female,,,,
-Speaker of the House of Assembly,Dennis Lister,Q109517094,2017-09-08,,male,,,,
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Bermuda,Governor,Thorold Masefield,Q56811167,1997,2001,male,1939,,,Thorold Masefield
+Bermuda,Governor,Richard Gozney,Q1278584,2007,2012,male,1951-07-21,,Governor175.jpg,Richard Gozney
+Bermuda,Governor,George Fergusson,Q3489398,2012-05-23,2016-08-02,male,1955-09-30,,George Fergusson (cropped).jpg,George Fergusson (diplomat)
+Bermuda,Governor,Ginny Ferson,Q39503490,2016-08-02,2016-12-05,female,1963,,,Ginny Ferson
+Bermuda,Governor,John Rankin,Q15429094,2016-12-05,2020-12-12,male,1957-03-12,,Johnrankin.jpg,John Rankin (diplomat)
+Bermuda,Governor,Rena Lalgie,Q97685578,2020-12-14,,female,,,S300 Rena Lalgie photo.jpg,Rena Lalgie
+Bermuda,Deputy Governor,Mark Andrew Capes,Q6766545,2006,2009,male,1954-02-19,,,Mark Capes
+Bermuda,Deputy Governor,Ginny Ferson,Q39503490,2013-12,2018-07,female,1963,,,Ginny Ferson
+Bermuda,Deputy Governor,Alison Crocket,Q110097256,2018-07,,female,,,,
+Bermuda,Premier,E. David Burt,Q33120852,2017-07-19,,male,1979,,Edward David Burt 1 (cropped).jpg,Edward David Burt
+Bermuda,Deputy Premier,Walter Roban,Q107980143,2017-07-19,,male,,,,
+Bermuda,Minister for the Cabinet Office,Wayne L. Furbert,Q107980074,2017-07-19,,male,,,,
+Bermuda,Minister of Economic Development and Tourism,Jamahl Simmons,Q107980343,2017-07-19,2018-11-01,male,,,,
+Bermuda,Minister of Education,Diallo Rabain,Q107980110,2017-07-19,,male,,,,
+Bermuda,Minister of Finance,Curtis L. Dickinson,Q107980116,2017-07-19,,,,,,
+Bermuda,Minister of Health,Kim Wilson,Q94952755,2017-07-19,,female,,,Kim Wilson.jpg,
+Bermuda,Minister of Home Affairs,Walter Roban,Q107980143,2017-07-19,,male,,,,
+Bermuda,Minister of Labour,Jason Hayward,Q107980104,2017-07-19,,male,,,,
+Bermuda,Minister of Legal Affairs,Kathy Lightbourne-Simmons,Q107980095,2017-07-19,,female,,,,
+Bermuda,Minister of National Security,Wayne Caines,Q56522655,2017-07-19,2020-07-06,male,,,,Wayne Caines
+Bermuda,Minister of National Security,Renee Ming,Q107980085,2020-07-16,,female,,,,
+Bermuda,Minister of Public Works,David Burch,Q107980114,2017-07-19,,male,,,,
+Bermuda,Minister of Social Development and Seniors,Tinee Furbert,Q107980082,2020-10-08,,female,,,,
+Bermuda,Minister of Social Development and Sport,Zane DeSilva,Q107980320,2017-07-19,2020-07-06,,,,,
+Bermuda,Minister of Transport,Lawrence Scott,Q107980091,2020-10-08,,male,,,,
+Bermuda,"Minister of Youth, Culture and Sports",Ernest Peets,Q107980108,2020-11-10,,male,,,,
+Bermuda,Attorney General,Kathy Lightbourne-Simmons,Q107980095,2017-07-19,,female,,,,
+Bermuda,Speaker of the House of Assembly,Dennis Lister,Q109517094,2017-09-08,,male,,,,

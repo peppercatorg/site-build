@@ -1,26 +1,26 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Prime Minister,Jonathan Motzfeldt,Q381139,1997-09-19,2002-12-14,male,1938-09-25,2010-10-28,Jonathan Motzfeldt 2003.jpg,Jonathan Motzfeldt
-Prime Minister,Hans Enoksen,Q310653,2002-12-14,2009-06-12,male,1956-08-07,,Landsstyreformand Hans Enoksen til Folkeafstemning i Multihallen i Nuuk med Pipaluk Petersen pa 5 ar.jpg,Hans Enoksen
-Prime Minister,Kuupik Kleist,Q317400,2009-06-02,2013-04-04,male,1958-03-31,,Kuupik Kleist.jpg,Kuupik Kleist
-Prime Minister,Aleqa Hammond,Q1796195,2013-04-05,2014-09-30,female,1965-09-23,,Aleqa Hammond (cropped).jpg,Aleqa Hammond
-Prime Minister,Kim Kielsen,Q10566620,2014-12-10,2021-04-23,male,1966-11-30,,Kim Kielsen. Nordiska raoedets session i Helsingfors 2012.jpg,Kim Kielsen
-Prime Minister,Múte Bourup Egede,Q51846080,2021-04-23,,male,1987-03-11,,Múte Bourup Egede May 2021.jpg,Múte Bourup Egede
-"Minister for Agriculture, Self-Sufficiency, Energy and Environment",Kalistat Lund,Q100600989,2021-04-23,,male,1959,,,
-Minister for Business and Trade,Pele Broberg,Q55808448,2021-09-27,,male,1972,,"Pele Broberg with Tony Blinken, Jeppe Kofod and Jenis av Rana in Copenhagen (2021) (cropped).jpg",Pele Broberg
-"Minister for Children, Youth, Families and Justice",Eqaluk Høegh,Q107716067,2021-04-23,2021-08-27,,,,,
-"Minister for Children, Youth, Families and Justice",Mimi Karlsen,Q6862146,2021-08-27,2021-09-27,female,1957-01-23,,Mimi Karlsen vid Nordiska Radets session 2011 i Kopenhamn.jpg,Mimi Karlsen
-"Minister for Children, Youth, Families and Justice",Paneeraq Olsen,Q107280074,2021-09-27,,female,1958-12-26,,,Paneeraq Olsen
-"Minister for Education, Culture, Sports and Church",Vivian Motzfeldt,Q55808436,2018,2020,female,1972-06-10,,,Vivian Motzfeldt
-"Minister for Education, Culture, Sports and Church",Ane Lone Bagger,Q66778033,2018-10,2019-11,female,1966,,"Secretary Pompeo Meets with Foreign Minister of Denmark Kofod and Minister of Education, Culture, Church, and Foreign Affairs of Greenland Bagger (49060462912) (cropped).jpg",Ane Lone Bagger
-"Minister for Education, Culture, Sports and Church",Peter P. Olsen,Q107715997,2021-04-23,,male,,,,
-Minister for Finance and Domestic Affairs,Asii Chemnitz Narup,Q2196317,2021-04-23,2021-11-23,female,1954-06-27,,,Asii Chemnitz Narup
-"Minister for Finance, Mineral Resources, Justice and Gender Equality",Naaja H. Nathanielsen,Q53872865,2021-11-23,,female,1975-12-06,,,Naaja Nathanielsen
-Minister for Fisheries and Hunting,Aqqaluaq B. Egede,Q47092177,2021-04-23,,male,1981,,,
-Minister for Health,Kirsten L. Fencker,Q107716061,2021-04-23,,female,,,,
-Minister for Housing and Infrastructure,Mariane Paviasen,Q109917990,2021-11-23,,female,,,,Mariane Paviasen
-"Minister for Housing, Infrastructure, Minerals and Gender Equality",Naaja H. Nathanielsen,Q53872865,2021-04-23,2021-11-23,female,1975-12-06,,,Naaja Nathanielsen
-"Minister for Industry, Trade, Foreign Affairs and Climate",Pele Broberg,Q55808448,2021-04-23,2021-09-27,male,1972,,"Pele Broberg with Tony Blinken, Jeppe Kofod and Jenis av Rana in Copenhagen (2021) (cropped).jpg",Pele Broberg
-Minister for Social Affairs and Labour,Mimi Karlsen,Q6862146,2021-04-23,,female,1957-01-23,,Mimi Karlsen vid Nordiska Radets session 2011 i Kopenhamn.jpg,Mimi Karlsen
-Speaker of the Inatsisartut,Hans Enoksen,Q310653,2018,2018-10-03,male,1956-08-07,,Landsstyreformand Hans Enoksen til Folkeafstemning i Multihallen i Nuuk med Pipaluk Petersen pa 5 ar.jpg,Hans Enoksen
-Speaker of the Inatsisartut,Vivian Motzfeldt,Q55808436,2018-10-03,2021-04-16,female,1972-06-10,,,Vivian Motzfeldt
-Speaker of the Inatsisartut,Hans Enoksen,Q310653,2021-04-16,,male,1956-08-07,,Landsstyreformand Hans Enoksen til Folkeafstemning i Multihallen i Nuuk med Pipaluk Petersen pa 5 ar.jpg,Hans Enoksen
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Greenland,Prime Minister,Jonathan Motzfeldt,Q381139,1997-09-19,2002-12-14,male,1938-09-25,2010-10-28,Jonathan Motzfeldt 2003.jpg,Jonathan Motzfeldt
+Greenland,Prime Minister,Hans Enoksen,Q310653,2002-12-14,2009-06-12,male,1956-08-07,,Landsstyreformand Hans Enoksen til Folkeafstemning i Multihallen i Nuuk med Pipaluk Petersen pa 5 ar.jpg,Hans Enoksen
+Greenland,Prime Minister,Kuupik Kleist,Q317400,2009-06-02,2013-04-04,male,1958-03-31,,Kuupik Kleist.jpg,Kuupik Kleist
+Greenland,Prime Minister,Aleqa Hammond,Q1796195,2013-04-05,2014-09-30,female,1965-09-23,,Aleqa Hammond (cropped).jpg,Aleqa Hammond
+Greenland,Prime Minister,Kim Kielsen,Q10566620,2014-12-10,2021-04-23,male,1966-11-30,,Kim Kielsen. Nordiska raoedets session i Helsingfors 2012.jpg,Kim Kielsen
+Greenland,Prime Minister,Múte Bourup Egede,Q51846080,2021-04-23,,male,1987-03-11,,Múte Bourup Egede May 2021.jpg,Múte Bourup Egede
+Greenland,"Minister for Agriculture, Self-Sufficiency, Energy and Environment",Kalistat Lund,Q100600989,2021-04-23,,male,1959,,,
+Greenland,Minister for Business and Trade,Pele Broberg,Q55808448,2021-09-27,,male,1972,,"Pele Broberg with Tony Blinken, Jeppe Kofod and Jenis av Rana in Copenhagen (2021) (cropped).jpg",Pele Broberg
+Greenland,"Minister for Children, Youth, Families and Justice",Eqaluk Høegh,Q107716067,2021-04-23,2021-08-27,,,,,
+Greenland,"Minister for Children, Youth, Families and Justice",Mimi Karlsen,Q6862146,2021-08-27,2021-09-27,female,1957-01-23,,Mimi Karlsen vid Nordiska Radets session 2011 i Kopenhamn.jpg,Mimi Karlsen
+Greenland,"Minister for Children, Youth, Families and Justice",Paneeraq Olsen,Q107280074,2021-09-27,,female,1958-12-26,,,Paneeraq Olsen
+Greenland,"Minister for Education, Culture, Sports and Church",Vivian Motzfeldt,Q55808436,2018,2020,female,1972-06-10,,,Vivian Motzfeldt
+Greenland,"Minister for Education, Culture, Sports and Church",Ane Lone Bagger,Q66778033,2018-10,2019-11,female,1966,,"Secretary Pompeo Meets with Foreign Minister of Denmark Kofod and Minister of Education, Culture, Church, and Foreign Affairs of Greenland Bagger (49060462912) (cropped).jpg",Ane Lone Bagger
+Greenland,"Minister for Education, Culture, Sports and Church",Peter P. Olsen,Q107715997,2021-04-23,,male,,,,
+Greenland,Minister for Finance and Domestic Affairs,Asii Chemnitz Narup,Q2196317,2021-04-23,2021-11-23,female,1954-06-27,,,Asii Chemnitz Narup
+Greenland,"Minister for Finance, Mineral Resources, Justice and Gender Equality",Naaja H. Nathanielsen,Q53872865,2021-11-23,,female,1975-12-06,,,Naaja Nathanielsen
+Greenland,Minister for Fisheries and Hunting,Aqqaluaq B. Egede,Q47092177,2021-04-23,,male,1981,,,
+Greenland,Minister for Health,Kirsten L. Fencker,Q107716061,2021-04-23,,female,,,,
+Greenland,Minister for Housing and Infrastructure,Mariane Paviasen,Q109917990,2021-11-23,,female,,,,Mariane Paviasen
+Greenland,"Minister for Housing, Infrastructure, Minerals and Gender Equality",Naaja H. Nathanielsen,Q53872865,2021-04-23,2021-11-23,female,1975-12-06,,,Naaja Nathanielsen
+Greenland,"Minister for Industry, Trade, Foreign Affairs and Climate",Pele Broberg,Q55808448,2021-04-23,2021-09-27,male,1972,,"Pele Broberg with Tony Blinken, Jeppe Kofod and Jenis av Rana in Copenhagen (2021) (cropped).jpg",Pele Broberg
+Greenland,Minister for Social Affairs and Labour,Mimi Karlsen,Q6862146,2021-04-23,,female,1957-01-23,,Mimi Karlsen vid Nordiska Radets session 2011 i Kopenhamn.jpg,Mimi Karlsen
+Greenland,Speaker of the Inatsisartut,Hans Enoksen,Q310653,2018,2018-10-03,male,1956-08-07,,Landsstyreformand Hans Enoksen til Folkeafstemning i Multihallen i Nuuk med Pipaluk Petersen pa 5 ar.jpg,Hans Enoksen
+Greenland,Speaker of the Inatsisartut,Vivian Motzfeldt,Q55808436,2018-10-03,2021-04-16,female,1972-06-10,,,Vivian Motzfeldt
+Greenland,Speaker of the Inatsisartut,Hans Enoksen,Q310653,2021-04-16,,male,1956-08-07,,Landsstyreformand Hans Enoksen til Folkeafstemning i Multihallen i Nuuk med Pipaluk Petersen pa 5 ar.jpg,Hans Enoksen

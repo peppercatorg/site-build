@@ -1,10 +1,10 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Premier of Montserrat,John Osborne,Q1699125,2001-04-05,2006-06-02,male,1936-05-27,2011-01-02,,John Osborne (Montserrat politician)
-Premier of Montserrat,Reuben Meade,Q1862326,2011-09-27,2014-09-12,male,1954-03-07,,Reuben Meade (cropped).jpg,Reuben Meade
-Premier of Montserrat,Donaldson Romeo,Q18164296,2014-09-12,2019-11-19,male,1962,,Donaldson Romeo 2014.jpg,Donaldson Romeo
-Premier of Montserrat,Joseph E. Farrell,Q71333507,2019-11-19,,male,,,,Easton Taylor-Farrell
-"Minister of Agriculture, Lands, Housing & Environment",Crenston Buffonge,Q104600729,2019-11-25,,male,1974-10-13,,,Crenston Buffonge
-"Minister of Communications, Works, Labour & Energy",Samuel Joseph,Q109849941,2019-11-25,,male,,,,
-Minister of Education,Charles Kirnon,Q109849924,2019-11-25,,male,,,,
-Minister of Finance,Joseph E. Farrell,Q71333507,2019-11-25,,male,,,,Easton Taylor-Farrell
-Minister of Health,Charles Kirnon,Q109849924,2019-11-25,,male,,,,
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Montserrat,Premier of Montserrat,John Osborne,Q1699125,2001-04-05,2006-06-02,male,1936-05-27,2011-01-02,,John Osborne (Montserrat politician)
+Montserrat,Premier of Montserrat,Reuben Meade,Q1862326,2011-09-27,2014-09-12,male,1954-03-07,,Reuben Meade (cropped).jpg,Reuben Meade
+Montserrat,Premier of Montserrat,Donaldson Romeo,Q18164296,2014-09-12,2019-11-19,male,1962,,Donaldson Romeo 2014.jpg,Donaldson Romeo
+Montserrat,Premier of Montserrat,Joseph E. Farrell,Q71333507,2019-11-19,,male,,,,Easton Taylor-Farrell
+Montserrat,"Minister of Agriculture, Lands, Housing & Environment",Crenston Buffonge,Q104600729,2019-11-25,,male,1974-10-13,,,Crenston Buffonge
+Montserrat,"Minister of Communications, Works, Labour & Energy",Samuel Joseph,Q109849941,2019-11-25,,male,,,,
+Montserrat,Minister of Education,Charles Kirnon,Q109849924,2019-11-25,,male,,,,
+Montserrat,Minister of Finance,Joseph E. Farrell,Q71333507,2019-11-25,,male,,,,Easton Taylor-Farrell
+Montserrat,Minister of Health,Charles Kirnon,Q109849924,2019-11-25,,male,,,,

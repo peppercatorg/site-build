@@ -1,559 +1,559 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-President,Bill Clinton,Q1124,1993-01-20,2001-01-20,male,1946-08-19,,Bill Clinton.jpg,Bill Clinton
-President,George W. Bush,Q207,2001-01-20,2009-01-20,male,1946-07-06,,George-W-Bush.jpeg,George W. Bush
-President,Barack Obama,Q76,2009-01-20,2017-01-20,male,1961-08-04,,President Barack Obama.jpg,Barack Obama
-President,Donald Trump,Q22686,2017-01-20,2021-01-20,male,1946-06-14,,Donald Trump official portrait.jpg,Donald Trump
-President,Joe Biden,Q6279,2021-01-20,,male,1942-11-20,,Joe Biden presidential portrait.jpg,Joe Biden
-Vice President,Al Gore,Q19673,1993-01-20,2001-01-20,male,1948-03-31,,"Al Gore, Vice President of the United States, official portrait 1994.jpg",Al Gore
-Vice President,Dick Cheney,Q48259,2001-01-20,2009-01-20,male,1941-01-30,,Richard Cheney 2005 official portrait.jpg,Dick Cheney
-Vice President,Joe Biden,Q6279,2009-01-20,2017-01-20,male,1942-11-20,,Joe Biden presidential portrait.jpg,Joe Biden
-Vice President,Mike Pence,Q24313,2017-01-20,2021-01-20,male,1959-06-07,,Mike Pence official Vice Presidential portrait.jpg,Mike Pence
-Vice President,Kamala Harris,Q10853588,2021-01-20,,female,1964-10-20,,Kamala Harris official photo.jpg,Kamala Harris
-Secretary of Agriculture,Dan Glickman,Q370213,1995-03-30,2001-01-19,male,1944-11-24,,Dan glickman.jpg,Dan Glickman
-Secretary of Agriculture,Ann Veneman,Q292936,2001-01-20,2005-01-20,female,1949-06-29,,Ann Veneman.jpg,Ann Veneman
-Secretary of Agriculture,Mike Johanns,Q448880,2005-01-21,2007-09-20,male,1950-06-18,,Mike Johanns.jpg,Mike Johanns
-Secretary of Agriculture,Charles F. Conner,Q2967584,2007-09-20,2008-01-28,male,1957-12-30,,"Charles F. Conner, official USDA photo portrait.jpg",Charles Franklin Conner
-Secretary of Agriculture,Ed Schafer,Q887102,2008-01-28,2009-01-20,male,1946-08-08,,Ed Schafer -- February 2008.jpg,Ed Schafer
-Secretary of Agriculture,Tom Vilsack,Q353826,2009-01-21,2017-01-13,male,1950-12-13,,20210427-OSEC-TEW-001 Agriculture Secretary Tom Vilsack (51148817903).jpg,Tom Vilsack
-Secretary of Agriculture,Michael Scuse,Q28317075,2017-01-13,2017-01-20,male,1954,,Michael T. Scuse official portrait.JPG,Michael Scuse
-Secretary of Agriculture,Mike Young (agriculture official),Q30274534,2017-01-20,2017-04-25,male,,,Michael Young 20170216-DM-RBN-7992 (32557392300).jpg,Mike Young (agriculture official)
-Secretary of Agriculture,Sonny Perdue,Q525362,2017-04-25,2021-01-20,male,1946-12-20,,Sonny Perdue at rally.jpg,Sonny Perdue
-Secretary of Agriculture,Tom Vilsack,Q353826,2021-02-24,,male,1950-12-13,,20210427-OSEC-TEW-001 Agriculture Secretary Tom Vilsack (51148817903).jpg,Tom Vilsack
-Secretary of Commerce,William M. Daley,Q1370400,1997-01-30,2000-07-19,male,1948-08-09,,William M. Daley official portrait.jpg,William M. Daley
-Secretary of Commerce,Norman Mineta,Q553502,2000-07-20,2001-01-20,male,1931-11-12,,"Norman Mineta, official portrait, DOT.jpg",Norman Mineta
-Secretary of Commerce,Donald Evans,Q1240095,2001-01-20,2005-02-07,male,1946-07-27,,Donald Evans.jpg,Donald Evans
-Secretary of Commerce,Carlos Gutierrez,Q741648,2005-02-07,2009-01-20,male,1953-11-04,,Carlos Gutierrez.jpg,Carlos Gutierrez
-Secretary of Commerce,Gary Locke,Q350378,2009-03-26,2011-08-01,male,1950-01-21,,Gary Locke official portrait.jpg,Gary Locke
-Secretary of Commerce,Rebecca Blank,Q510127,2011-08-01,2011-10-21,female,1955-09-15,,Rebecca Blank official portrait.jpg,Rebecca Blank
-Secretary of Commerce,John Bryson,Q1365901,2011-10-21,2012-06-21,male,1943-07-24,,John Bryson official portrait.jpg,John Bryson
-Secretary of Commerce,Rebecca Blank,Q510127,2012-06-11,2013-06-01,female,1955-09-15,,Rebecca Blank official portrait.jpg,Rebecca Blank
-Secretary of Commerce,Cameron Kerry,Q5026282,2013,2013,male,1950-09-06,,Cameron Kerry official portrait.jpeg,Cameron Kerry
-Secretary of Commerce,Penny Pritzker,Q293365,2013-06-26,2017-01-20,female,1959-05-02,,Penny Pritzker official portrait.jpg,Penny Pritzker
-Secretary of Commerce,Wilbur Ross,Q8000233,2017-02-28,2021-01-20,male,1937-11-28,,Wilbur Ross.jpg,Wilbur Ross
-Secretary of Commerce,Gina Raimondo,Q5562913,2021-03-03,,female,1971-05-17,,Gina Raimondo (cropped 2).jpg,Gina Raimondo
-Secretary of Defence,William Cohen,Q710721,1997-01-24,2001-01-20,male,1940-08-28,,"William Cohen, official portrait.jpg",William Cohen
-Secretary of Defence,Donald Rumsfeld,Q184650,2001-01-20,2006-12-18,male,1932-07-09,2021-06-29,Rumsfeld1.jpg,Donald Rumsfeld
-Secretary of Defence,Robert Gates,Q212979,2006-12-18,2011-07-01,male,1943-09-25,,"Robert Gates, official DoD photo portrait, 2006.jpg",Robert Gates
-Secretary of Defence,Leon Panetta,Q244631,2011-07-01,2013-02-27,male,1938-06-28,,"Leon Panetta, official DoD photo portrait, 2011.jpg",Leon Panetta
-Secretary of Defence,Chuck Hagel,Q381670,2013-02-27,2015-02-17,male,1946-10-04,,Secretary of Defense Chuck Hagel. 130227-A-SS368-001.jpg,Chuck Hagel
-Secretary of Defence,Ashton Carter,Q4806029,2015-02-17,2017-01-19,male,1954-09-24,,Ashton Carter DOD photo.jpg,Ash Carter
-Secretary of Defence,James Mattis,Q267902,2017-01-20,2018-12-31,male,1950-09-08,,James N. Mattis.jpg,Jim Mattis
-Secretary of Defence,Mark T. Esper,Q33190271,2019-07-22,2020-11-09,male,1964-04-26,,Dr. Mark T. Esper – Secretary of Defense.jpg,Mark Esper
-Secretary of Defence,Christopher C. Miller,Q101423348,2020-11-09,2021-01-20,male,1965-10-15,,Christopher C. Miller.jpg,Christopher C. Miller
-Secretary of Defence,David Norquist,Q29346709,2021-01-20,2021-01-22,male,1966,,"David L. Norquist, official portrait.jpg",David Norquist
-Secretary of Defence,Lloyd Austin,Q941013,2021-01-22,,male,1953-08-08,,Defense Secretary Lloyd J. Austin III (50885754687).jpg,Lloyd Austin
-Secretary of Education,Richard Riley,Q880774,1993-01-21,2001-01-20,male,1933-01-02,,Richard Riley Official Department of Education Photo.jpg,Richard Riley
-Secretary of Education,Rod Paige,Q283396,2001-01-20,2005-01-20,male,1933-06-17,,Rod Paige.jpg,Rod Paige
-Secretary of Education,Margaret Spellings,Q262554,2005-01-20,2009-01-20,female,1957-11-30,,Official Photo of Margaret Spellings.jpg,Margaret Spellings
-Secretary of Education,Arne Duncan,Q349922,2009-01-21,2016-01-01,male,1964-11-06,,Arne Duncan official photo.jpg,Arne Duncan
-Secretary of Education,"John King, Jr.",Q6243110,2015-01-04,2016-03-14,male,1975-01-05,,"John B. King, Jr.2015.jpg",John King Jr.
-Secretary of Education,"John King, Jr.",Q6243110,2016-03-14,2017-01-20,male,1975-01-05,,"John B. King, Jr.2015.jpg",John King Jr.
-Secretary of Education,Phil Rosenfelt,Q28530100,2017-01-20,2017-02-07,male,,,Phil Rosenfelt (cropped).jpg,Phil Rosenfelt
-Secretary of Education,Betsy DeVos,Q4898286,2017-02-07,2021-01-08,female,1958-01-08,,Betsy DeVos official portrait.jpg,Betsy DeVos
-Secretary of Education,Mick Zais,Q16107563,2021-01-07,2021-01-20,male,1946-12-10,,Mick Zais official photo (cropped).jpg,Mick Zais
-Secretary of Education,Phil Rosenfelt,Q28530100,2021-01-20,2021-03-02,male,,,Phil Rosenfelt (cropped).jpg,Phil Rosenfelt
-Secretary of Education,Miguel Cardona,Q104244043,2021-03-02,,male,1975-07-11,,"Secretary of Education Miguel Cardona, official portrait.jpg",Miguel Cardona
-Secretary of Energy,Bill Richardson,Q311782,1998-08-18,2001-01-20,male,1947-11-15,,"Bill Richardson at an event in Kensington, New Hampshire, March 18, 2006.jpg",Bill Richardson
-Secretary of Energy,Spencer Abraham,Q1285613,2001-01-20,2005-01-31,male,1952-06-12,,Spencer Abraham.jpg,Spencer Abraham
-Secretary of Energy,Samuel Bodman,Q1276376,2005-01-31,2009-01-20,male,1938-11-26,2018-09-07,Samuel Bodman.jpg,Samuel Bodman
-Secretary of Energy,Steven Chu,Q172466,2009-01-21,2013-04-22,male,1948-02-28,,Steven Chu official DOE portrait.jpg,Steven Chu
-Secretary of Energy,Daniel Poneman,Q5218466,2013-04-22,2013-05-21,male,1956-03-12,,Daniel Poneman official portrait.jpg,Daniel Poneman
-Secretary of Energy,Ernest Moniz,Q5393576,2013-05-21,2017-01-20,male,1944-12-22,,Ernest Moniz official portrait.jpg,Ernest Moniz
-Secretary of Energy,Grace Bochenek,Q28469524,2017-01-20,2017-03-02,female,1961-06-15,,Grace Bochenek.jpg,Grace Bochenek
-Secretary of Energy,Rick Perry,Q215057,2017-03-02,2019-12-01,male,1950-03-04,,Rick Perry official portrait.jpg,Rick Perry
-Secretary of Energy,Dan R. Brouillette,Q29453265,2019-12-04,2021-01-20,male,1947-09-14,,Dan Brouillette official photo.jpg,Dan Brouillette
-Secretary of Energy,David Huizenga,Q104936878,2021-01-20,2021-02-25,male,,,,David Huizenga
-Secretary of Energy,Jennifer Granholm,Q234994,2021-02-25,,female,1959-02-05,,Secretary Jennifer Granholm (cropped).jpg,Jennifer Granholm
-Secretary of Health and Human Services,Donna Shalala,Q292569,1993-01-22,2001-01-20,female,1941-02-14,,Shalala portrait.jpg,Donna Shalala
-Secretary of Health and Human Services,Tommy Thompson,Q732804,2001-02-02,2005-01-26,male,1941-11-19,,Tommy Thompson 1.jpg,Tommy Thompson
-Secretary of Health and Human Services,Mike Leavitt,Q879432,2005-01-26,2009-01-20,male,1951-02-11,,Mike Leavitt.jpg,Mike Leavitt
-Secretary of Health and Human Services,Kathleen Sebelius,Q27677,2009-04-28,2014-06-09,female,1948-05-15,,Kathleen Sebelius official portrait.jpg,Kathleen Sebelius
-Secretary of Health and Human Services,Sylvia Burwell,Q12014326,2014-06-09,2017-01-20,female,1965-08-23,,Sylvia Mathews Burwell at April 2013 Senate nomination hearing.jpg,Sylvia Mathews Burwell
-Secretary of Health and Human Services,Tom Price,Q1415243,2017-02-10,2017-09-29,male,1954-10-08,,Tom Price official photo.jpg,Tom Price (American politician)
-Secretary of Health and Human Services,Alex Azar,Q4716651,2018-01-29,2021-01-20,male,1967-06-17,,Alex Azar official portrait.jpg,Alex Azar
-Secretary of Health and Human Services,Norris Cochran,Q28530101,2021-01-20,2021-03-19,male,1970,,Norris Cochran.jpg,Norris Cochran
-Secretary of Health and Human Services,Xavier Becerra,Q1855840,2021-03-19,,male,1958-01-26,,HHS Xavier Becerra.jpg,Xavier Becerra
-Secretary of Homeland Security,Tom Ridge,Q559822,2003-01-24,2005-02-01,male,1945-08-26,,Tom Ridge.jpg,Tom Ridge
-Secretary of Homeland Security,James Loy,Q1314442,2005-02-01,2005-02-15,male,1942-08-10,,James M. Loy.jpg,James Loy
-Secretary of Homeland Security,Michael Chertoff,Q733612,2005-02-15,2009-01-21,male,1953-11-28,,"Michael Chertoff, official DHS photo portrait, 2005.jpg",Michael Chertoff
-Secretary of Homeland Security,Janet Napolitano,Q229032,2009-01-21,2013-09-06,female,1957-11-29,,Portrait Napolitano hires new.jpg,Janet Napolitano
-Secretary of Homeland Security,Rand Beers,Q7291417,2013-09-06,2013-12-23,male,1942-11-30,,Rand Beers official portrait.jpg,Rand Beers
-Secretary of Homeland Security,Jeh Johnson,Q6176439,2013-12-23,2017-01-20,male,1957-09-11,,Jeh Johnson official DHS portrait.jpg,Jeh Johnson
-Secretary of Homeland Security,John F. Kelly,Q6232322,2017-01-20,2017-07-31,male,1950-05-11,,"John F. Kelly, 2012.jpg",John F. Kelly
-Secretary of Homeland Security,Elaine Duke,Q28839617,2017-07-31,2017-12-06,female,1958-06-26,,Elaine Duke official photo.jpg,Elaine Duke
-Secretary of Homeland Security,Kirstjen Nielsen,Q38858352,2017-12-06,2019-04-05,female,1972-05-14,,Kirstjen Nielsen official photo.jpg,Kirstjen Nielsen
-Secretary of Homeland Security,Kevin McAleenan,Q30122656,2019-04-11,2019-10-11,male,1971-09-05,,Kevin McAleenan official photo.jpg,Kevin McAleenan
-Secretary of Homeland Security,Chad Wolf,Q72044313,2019-11-13,2021-01-11,male,1976,,Chad Wolf official portrait 2017.jpg,Chad Wolf
-Secretary of Homeland Security,Pete Gaynor,Q82607085,2021-01-11,2021-01-20,male,1958,,Peter Gaynor official photo (cropped).jpg,Pete Gaynor
-Secretary of Homeland Security,David Pekoske,Q5238485,2021-01-20,2021-02-02,male,1955-05-05,,David Pekoske official TSA portrait.jpg,David Pekoske
-Secretary of Homeland Security,Alejandro Mayorkas,Q4714600,2021-02-02,,male,1959-11-24,,Secretary Mayorkas Official Photo.jpg,Alejandro Mayorkas
-Secretary of Housing and Urban Development,Andrew Cuomo,Q11673,1997-01-29,2001-01-20,male,1957-12-06,,Andrew Cuomo by Pat Arnow cropped.jpeg,Andrew Cuomo
-Secretary of Housing and Urban Development,Mel Martínez,Q435010,2001-01-24,2003-12-13,male,1946-10-23,,Mel Martinez.jpg,Mel Martínez
-Secretary of Housing and Urban Development,Alphonso Jackson,Q324505,2003-11-01,2004-08-01,male,1945-09-09,,Alphonso Jackson (seated).jpg,Alphonso Jackson
-Secretary of Housing and Urban Development,Alphonso Jackson,Q324505,2004-08-01,2008-04-18,male,1945-09-09,,Alphonso Jackson (seated).jpg,Alphonso Jackson
-Secretary of Housing and Urban Development,Roy Bernardi,Q3445744,2008-04-18,2008-06-04,male,1942-10-14,,Roy Bernardi.jpg,Roy Bernardi
-Secretary of Housing and Urban Development,Steve Preston,Q376530,2008-06-04,2009-01-20,male,1960-08-04,,Steve Preston HUD.jpg,Steve Preston
-Secretary of Housing and Urban Development,Brian D. Montgomery,Q4963500,2009-01-20,2009-01-26,male,1956-08-02,,MontgomeryBrian.jpg,Brian D. Montgomery
-Secretary of Housing and Urban Development,Shaun Donovan,Q379739,2009-01-26,2014-07-28,male,1966-01-24,,DonovanShaunLS.jpg,Shaun Donovan
-Secretary of Housing and Urban Development,Julián Castro,Q970720,2014-07-28,2017-01-20,male,1974-09-16,,Julián Castro's Official HUD Portrait.jpg,Julian Castro
-Secretary of Housing and Urban Development,Craig Clemmensen,Q28543103,2017-01-20,2017-03-02,male,,,Craig Clemmensen.jpg,Craig Clemmensen
-Secretary of Housing and Urban Development,Ben Carson,Q816459,2017-03-02,2021-01-20,male,1951-09-18,,Ben Carson by Skidmore with lighting correction.jpg,Ben Carson
-Secretary of Housing and Urban Development,Matt Ammon,Q104936860,2021-01-20,2021-03-10,male,,,,Matt Ammon
-Secretary of Housing and Urban Development,Marcia Fudge,Q461746,2021-03-10,,female,1952-10-29,,Secretary Fudge official photo.png,Marcia Fudge
-Secretary of Labor,Alexis Herman,Q292340,1997-05-01,2001-01-20,female,1947-07-16,,Alexis osec.jpg,Alexis Herman
-Secretary of Labor,Elaine Chao,Q263322,2001-01-20,2009-01-20,female,1953-03-26,,Elaine Chao official portrait 2.jpg,Elaine Chao
-Secretary of Labor,Howard M. Radzely,Q5920259,2009-01-20,2009-02-02,male,1970,,RadzelyHoward.jpg,Howard M. Radzely
-Secretary of Labor,Edward C. Hugler,Q5342139,2009-02-02,2009-02-24,male,1950-02-07,,HuglerEdward.jpg,Edward C. Hugler
-Secretary of Labor,Hilda Solis,Q50610,2009-02-24,2013-01-22,female,1957-10-20,,AF8E6752.jpg,Hilda Solis
-Secretary of Labor,Seth Harris,Q4120997,2013-01-22,2013-07-23,male,1962-10-12,,Seth Harris DOL.jpg,Seth Harris
-Secretary of Labor,Thomas Perez,Q7793121,2013-07-23,2017-01-20,male,1961-10-07,,Official portrait of United States Secretary of Labor Tom Perez.jpg,Tom Perez
-Secretary of Labor,Edward C. Hugler,Q5342139,2017-01-20,2017-04-27,male,1950-02-07,,HuglerEdward.jpg,Edward C. Hugler
-Secretary of Labor,Alexander Acosta,Q7273452,2017-04-28,2019-07-19,male,1969-01-16,,Alexander Acosta official portrait.jpg,Alexander Acosta
-Secretary of Labor,Patrick Pizzella,Q30349466,2019-07-20,2019-09-30,male,1954-05-19,,Patrick Pizzella official photo.jpg,Patrick Pizzella
-Secretary of Labor,Eugene Scalia,Q16875330,2019-09-30,2021-01-20,male,1963-08-14,,Eugene Scalia as Solicitor of Labor.jpg,Eugene Scalia
-Secretary of Labor,Al Stewart,Q105320190,2021-01-20,2021-03-23,male,1955,,,Al Stewart (U.S. government official)
-Secretary of Labor,Marty Walsh,Q15126384,2021-03-23,,male,1967-04-10,,Secretary Marty Walsh official portrait.jpg,Marty Walsh
-Secretary of State,Madeleine Albright,Q174438,1997-01-23,2001-01-20,female,1937-05-15,,Albrightmadeleine.jpg,Madeleine Albright
-Secretary of State,Colin Powell,Q150851,2001-01-20,2005-01-26,male,1937-04-05,2021-10-18,Colin Powell (15570753996) cropped.jpg,Colin Powell
-Secretary of State,Condoleezza Rice,Q47216,2005-01-26,2009-01-20,female,1954-11-14,,Condoleezza Rice.jpg,Condoleezza Rice
-Secretary of State,William Joseph Burns,Q1276563,2009-01-20,2009-01-21,male,1956-04-04,,"Assignment- 59-CF-DS-22432-05) Official portrait of William Burns, U.S. Ambassador-designate to Russia (Photographer- Ann Thomas--State) (59-CF-DS-22432-05 Amb BillBurns0086 fromPSD - DPLA - 24e3adb7aadd75ad1930cff23ef02645.jpg",William J. Burns (diplomat)
-Secretary of State,Hillary Clinton,Q6294,2009-01-21,2013-02-01,female,1947-10-26,,Hillary Clinton Arizona 2016 .jpg,Hillary Clinton
-Secretary of State,John Kerry,Q22316,2013-02-01,2017-01-20,male,1943-12-11,,John F. Kerry.jpg,John Kerry
-Secretary of State,"Thomas A. Shannon, Jr.",Q7786914,2017-01-20,2017-02-01,male,1958,,Thomas A. Shannon Jr official photo.jpg,Thomas A. Shannon Jr.
-Secretary of State,Rex Tillerson,Q331401,2017-02-01,2018-03-31,male,1952-03-23,,Rex Tillerson official portrait.jpg,Rex Tillerson
-Secretary of State,John J. Sullivan,Q6241291,2018-04-01,2018-04-26,male,1959-11-20,,John J. Sullivan.jpg,John J. Sullivan (diplomat)
-Secretary of State,Mike Pompeo,Q473239,2018-04-26,2021-01-20,male,1963-12-30,,Mike Pompeo official photo.jpg,Mike Pompeo
-Secretary of State,Daniel Bennett Smith,Q30106114,2021-01-20,2021-01-26,male,1956-03-06,,Daniel Bennett Smith ambassador.jpg,Daniel Bennett Smith
-Secretary of State,Antony Blinken,Q7821917,2021-01-26,,male,1962-04-16,,Secretary Blinken's Official Department Photo.jpg,Antony Blinken
-Secretary of the Air Force,Pete Geren,Q1170156,2005-06-29,2005-11-04,male,1952-01-29,,"Pete Geren, Secretary of the Army, official photo.jpg",Pete Geren
-Secretary of the Air Force,Michael B. Donley,Q1852641,2008-06-21,2008-10-02,male,1952-10-04,,Michael Donley official portrait.jpg,Michael B. Donley
-Secretary of the Air Force,Deborah Lee James,Q16189325,2013-12-20,2017-01-20,female,1958-11-25,,Deborah Lee James.JPG,Deborah Lee James
-Secretary of the Air Force,Lisa Disbrow,Q28739918,2017-01-20,2017-05-16,female,1962-09-29,,"Lisa S. Disbrow, USAF, 2014.JPG",Lisa Disbrow
-Secretary of the Air Force,Heather Wilson,Q459712,2017-05-16,,female,1960-12-30,,"Heather Wilson, official 109th Congress photo.jpg",Heather Wilson
-Secretary of the Army,Louis Caldera,Q353121,1998-07-02,2001-01-20,male,1956-04-01,,CalderaLouis.jpg,Louis Caldera
-Secretary of the Army,Thomas E. White,Q2423569,2001-05-31,2003-04-25,male,1943-12-14,,"Thomas E. White, official military photo, April 1989.jpg",Thomas E. White
-Secretary of the Army,Francis J. Harvey,Q1294838,2004-11-19,2007-03-09,male,1943-07-08,,"Francis J. Harvey, official photo as Secretary of the Army.jpg",Francis J. Harvey
-Secretary of the Army,Pete Geren,Q1170156,2007-03-09,2009-09-16,male,1952-01-29,,"Pete Geren, Secretary of the Army, official photo.jpg",Pete Geren
-Secretary of the Army,John M. McHugh,Q457729,2009,2015,male,1948-09-29,,Army Secretary John McHugh.jpg,John M. McHugh
-Secretary of the Army,Eric Fanning,Q13534694,2015-11-03,2016-01-11,male,1968-07-02,,Eric Fanning.jpg,Eric Fanning
-Secretary of the Army,Patrick Murphy,Q5997832,2016-01-11,2016-05-17,male,1973-10-19,,Patrick Murphy official 110th Congress photo.jpg,Patrick Murphy (Pennsylvania politician)
-Secretary of the Army,Eric Fanning,Q13534694,2016-05-17,2017-01-20,male,1968-07-02,,Eric Fanning.jpg,Eric Fanning
-Secretary of the Army,Robert M. Speer,Q19929152,2017-01-20,2017-08-02,male,1956-02-10,,Robert M. Speer.jpg,Robert M. Speer
-Secretary of the Army,Mark T. Esper,Q33190271,2017-11-20,2019,male,1964-04-26,,Dr. Mark T. Esper – Secretary of Defense.jpg,Mark Esper
-Secretary of the Army,Ryan McCarthy,Q30612229,2019-09-30,,male,1973,,Ryan McCarthy-Under Secretary of the Army.jpg,Ryan D. McCarthy
-Secretary of the Interior,Bruce Babbitt,Q878739,1993-01-22,2001-01-02,male,1938-06-27,,Bruce babbitt.jpg,Bruce Babbitt
-Secretary of the Interior,Gale Norton,Q271717,2001-01-31,2006-03-31,female,1954-03-11,,Gale Norton.jpeg,Gale Norton
-Secretary of the Interior,Dirk Kempthorne,Q737493,2006-06-07,2009-01-20,male,1951-10-29,,"Dirk Kempthorne, official Interior Dept color photo, 2006.jpg",Dirk Kempthorne
-Secretary of the Interior,Ken Salazar,Q342586,2009-01-20,2013-04-12,male,1955-03-02,,Kensalazar.jpg,Ken Salazar
-Secretary of the Interior,Sally Jewell,Q4231614,2013-04-12,2017-01-20,female,1956-02-21,,Secretary Jewell and the Northwest Youth Corps (8818705428).jpg,Sally Jewell
-Secretary of the Interior,Kevin Haugrud,Q28530107,2017-01-20,2017-03-01,male,,,,Kevin Haugrud
-Secretary of the Interior,Ryan Zinke,Q7384672,2017-03-01,2019-01-02,male,1961-11-01,,Ryan Zinke official congressional photo (crop).jpg,Ryan Zinke
-Secretary of the Interior,David L. Bernhardt,Q29918896,2019-01-02,2021-01-20,male,1969-08-17,,David Bernhardt official photo.jpg,David Bernhardt
-Secretary of the Interior,Deb Haaland,Q54860790,2021-03-16,,female,1960-12-02,,"Deb Haaland, official portrait, 116th Congress (cropped).jpg",Deb Haaland
-Secretary of the Navy,Gordon R. England,Q323508,2001-05-24,2003-01-24,male,1937-09-15,,Gordon England portrait.jpg,Gordon R. England
-Secretary of the Navy,Susan Livingstone,Q7648121,2003-01-30,2003-02-07,female,1946-01-13,,US Navy 030202-N-0000X-001 Under Secretary of the Navy.jpg,Susan Livingstone
-Secretary of the Navy,Hansford T. Johnson,Q5651089,2003-02-07,2003-09-30,male,1936-01-03,,"General Hansford Johnson, official military photo, 1990.jpg",Hansford T. Johnson
-Secretary of the Navy,Gordon R. England,Q323508,2003-10-01,2006-01-03,male,1937-09-15,,Gordon England portrait.jpg,Gordon R. England
-Secretary of the Navy,Donald C. Winter,Q1239753,2006-01-03,2009-03-13,male,1948-06-15,,"Donald Winter, official photo as Secretary of the Navy, 2006.jpg",Donald C. Winter
-Secretary of the Navy,Ray Mabus,Q531247,2009-05-19,2017-01-20,male,1948-10-11,,MabusRay.jpg,Ray Mabus
-Secretary of the Navy,Sean Stackley,Q7441451,2017-01-20,2017-08-03,male,1957-08-07,,Sean J. Stackley.jpg,Sean Stackley
-Secretary of the Navy,Richard V. Spencer,Q29342932,2017-08-03,2019-11-24,male,1954-01-18,,Richard V. Spencer official photo.jpg,Richard V. Spencer
-Secretary of the Navy,Kenneth Braithwaite,Q42316397,2020-05-29,2021-01-20,male,1960,,Kenneth J. Braithwaite official portrait.jpg,Kenneth Braithwaite
-Secretary of the Navy,Carlos Del Toro,Q107195317,2021-08-09,,male,1961,,Carlos Del Toro SECNAV portrait.jpg,Carlos Del Toro
-Secretary of the Treasury,Lawrence Summers,Q317953,1999-07-02,2001-01-20,male,1954-11-30,,Lawrence Summers Treasury portrait.jpg,Lawrence Summers
-Secretary of the Treasury,Paul H. O'Neill,Q456921,2001-01-20,2002-12-31,male,1935-12-04,2020-04-18,OneilllPaul.jpg,Paul H. O'Neill
-Secretary of the Treasury,John W. Snow,Q449689,2003-02-03,2006-06-28,male,1939-08-02,,John W. Snow.jpg,John W. Snow
-Secretary of the Treasury,Henry Paulson,Q311025,2006-07-10,2009-01-20,male,1946-03-28,,"Henry Paulson official Treasury photo, 2006.jpg",Henry Paulson
-Secretary of the Treasury,Timothy Geithner,Q311211,2009-01-26,2013-01-25,male,1961-08-18,,Timothy Geithner official portrait.jpg,Timothy Geithner
-Secretary of the Treasury,Neal S. Wolin,Q1302611,2013-01-25,2013-02-28,male,1961-12-09,,Neal S. Wolin official portrait.jpg,Neal S. Wolin
-Secretary of the Treasury,Jack Lew,Q1677579,2013-02-28,2017-01-20,male,1955-08-29,,Jacob Lew.jpg,Jack Lew
-Secretary of the Treasury,Adam Szubin,Q28514306,2017-01-20,2017-02-13,male,1972,,Adam Szubin.jpg,Adam Szubin
-Secretary of the Treasury,Steven Mnuchin,Q24248265,2017-02-13,2021-01-20,male,1962-12-21,,Steven Mnuchin.jpg,Steven Mnuchin
-Secretary of the Treasury,Andy Baukol,Q104923417,2021-01-20,2021-01-26,male,,,,Andy Baukol
-Secretary of the Treasury,Janet Yellen,Q263725,2021-01-26,,female,1946-08-13,,Secretary Janet Yellen portrait (cropped).jpg,Janet Yellen
-Secretary of Transportation,Rodney E. Slater,Q2161181,1997-02-14,2001-01-20,male,1955-02-23,,Slater rodney.jpg,Rodney E. Slater
-Secretary of Transportation,Norman Mineta,Q553502,2001-01-25,2006-08-07,male,1931-11-12,,"Norman Mineta, official portrait, DOT.jpg",Norman Mineta
-Secretary of Transportation,Maria Cino,Q1396000,2006-08-07,2006-10-17,female,1957-04-19,,Maria Cino DOC official photo.jpg,Maria Cino
-Secretary of Transportation,Mary Peters,Q469483,2006-10-17,2009-01-20,female,1948-12-04,,"Mary Peters, official FHWA photo.jpg",Mary E. Peters
-Secretary of Transportation,Ray LaHood,Q467891,2009-01-23,2013-07-02,male,1945-12-06,,Ray LaHood.jpg,Ray LaHood
-Secretary of Transportation,Anthony Foxx,Q4772543,2013-07-02,2017-01-20,male,1971-04-30,,Anthony Foxx official portrait.jpg,Anthony Foxx
-Secretary of Transportation,Elaine Chao,Q263322,2017-01-31,2021-01-11,female,1953-03-26,,Elaine Chao official portrait 2.jpg,Elaine Chao
-Secretary of Transportation,Steven G. Bradbury,Q15485936,2021-01-11,2021-01-20,male,1958-09-12,,Steven G. Bradbury official photo.jpg,Steven G. Bradbury
-Secretary of Transportation,Lana Hurdle,Q104949692,2021-01-20,2021-02-03,female,,,,Lana Hurdle
-Secretary of Transportation,Pete Buttigieg,Q7173106,2021-02-03,,male,1982-01-19,,Pete Buttigieg official photo.jpg,Pete Buttigieg
-Secretary of Veterans Affairs,"Togo D. West, Jr.",Q1406519,1998-05-04,2000-07-25,male,1942-06-21,2018-03-08,TogoDWest.jpg,Togo D. West Jr.
-Secretary of Veterans Affairs,Hershel W. Gober,Q937285,2000-07-25,2001-01-20,male,1936-12-21,,Gober sm.jpg,Hershel Gober
-Secretary of Veterans Affairs,Anthony Principi,Q573825,2001-01-23,2005-01-26,male,1944-04-16,,Anthony Principi.jpg,Anthony Principi
-Secretary of Veterans Affairs,Jim Nicholson,Q1288295,2005-01-26,2007-10-01,male,1938-02-04,,JimNicholson.jpg,Jim Nicholson (Secretary of Veterans Affairs)
-Secretary of Veterans Affairs,Gordon H. Mansfield,Q3110903,2007-10-01,2007-12-20,male,1941-09-15,2013-01-29,Gordon H. Mansfield.jpg,Gordon H. Mansfield
-Secretary of Veterans Affairs,James Peake,Q1534214,2007-12-20,2009-01-20,male,1944-06-18,,PeakeJames.jpg,James Peake
-Secretary of Veterans Affairs,Eric Shinseki,Q373274,2009-01-21,2014-05-30,male,1942-11-28,,Eric Shinseki official Veterans Affairs portrait.jpg,Eric Shinseki
-Secretary of Veterans Affairs,Sloan D. Gibson,Q16499744,2014-05-30,2014-07-30,male,,,Sloan Gibson.jpg,Sloan D. Gibson
-Secretary of Veterans Affairs,Robert A. McDonald,Q1681148,2014-07-30,2017-01-20,male,1953-06-20,,Bob.McDonald.jpg,Bob McDonald (businessman)
-Secretary of Veterans Affairs,Robert Snyder,Q28543113,2017-01-20,2017-02-14,male,,,Robert Snyder.jpg,Robert Snyder (civil servant)
-Secretary of Veterans Affairs,David Shulkin,Q5239766,2017-02-14,2018-03-28,male,1959-07-22,,David Shulkin official photo.jpg,David Shulkin
-Secretary of Veterans Affairs,Robert Wilkie,Q7351064,2018-03-28,2018-05-29,male,1962-08-02,,Rwilkie DoD.jpg,Robert Wilkie
-Secretary of Veterans Affairs,Peter O'Rourke,Q55629652,2018-05-29,2018-07-30,male,1966-01-03,,Peter O'Rourke official photo.jpg,Peter O'Rourke (U.S. government official)
-Secretary of Veterans Affairs,Robert Wilkie,Q7351064,2018-07-30,2021-01-20,male,1962-08-02,,Rwilkie DoD.jpg,Robert Wilkie
-Secretary of Veterans Affairs,Dat Tran,Q105069464,2021-01-20,2021-02-09,male,,,,Dat Tran
-Secretary of Veterans Affairs,Denis McDonough,Q3702047,2021-02-09,,male,1969-12-02,,"Secretary McDonough, official photo.jpg",Denis McDonough
-Chief Justice of the United States,William Rehnquist,Q311562,1986-09-26,2005-09-03,male,1924-10-01,2005-09-03,William Rehnquist.jpg,William Rehnquist
-Chief Justice of the United States,John Roberts,Q11153,2005-09-29,,male,1955-01-27,,Official roberts CJ.jpg,John Roberts
-Attorney General,Janet Reno,Q236421,1993-03-12,2001-01-20,female,1938-07-21,2016-11-07,Janet Reno-us-Portrait.jpg,Janet Reno
-Attorney General,Eric Holder,Q312644,2001-01-20,2001-02-02,male,1951-01-21,,Eric Holder official portrait.jpg,Eric Holder
-Attorney General,John Ashcroft,Q311141,2001-02-02,2005-02-03,male,1942-05-09,,John Ashcroft.jpg,John Ashcroft
-Attorney General,Alberto Gonzales,Q202350,2005-02-03,2007-09-17,male,1955-08-04,,Alberto Gonzales - official DoJ photograph.jpg,Alberto Gonzales
-Attorney General,Paul Clement,Q1356377,2007-09-17,2007-09-18,male,1966-06-24,,Paul D. Clement.jpg,Paul Clement
-Attorney General,Peter Keisler,Q3376685,2007-09-18,2007-11-09,male,1960-10-13,,Peterkeisler.jpg,Peter Keisler
-Attorney General,Michael Mukasey,Q540275,2007-11-09,2009-01-20,male,1941-07-28,,MichaelMukaseySept2010.jpg,Michael Mukasey
-Attorney General,Mark Filip,Q1773127,2009-01-20,2009-02-03,male,1966-06-01,,Mark Filip.jpg,Mark Filip
-Attorney General,Eric Holder,Q312644,2009-02-03,2015-04-27,male,1951-01-21,,Eric Holder official portrait.jpg,Eric Holder
-Attorney General,Loretta Lynch,Q6680965,2015-04-27,2017-01-20,female,1959-05-21,,"Loretta Lynch, official portrait.jpg",Loretta Lynch
-Attorney General,Sally Yates,Q21062855,2017-01-20,2017-01-30,female,1960-08-20,,Sally Q. Yates.jpg,Sally Yates
-Attorney General,Dana Boente,Q17989631,2017-01-30,2017-02-09,male,1954-02-07,,Dana Boente.jpg,Dana Boente
-Attorney General,Jeff Sessions,Q358443,2017-02-09,2018-11-07,male,1946-12-24,,"Jeff Sessions, official portrait.jpg",Jeff Sessions
-Attorney General,Matthew Whitaker,Q6790538,2018-11-07,2019-02-14,male,1969-10-29,,Matthew G. Whitaker official photo.jpg,Matthew Whitaker
-Attorney General,William Barr,Q723917,2019-02-14,2020-12-23,male,1950-05-23,,William Barr.jpg,William Barr
-Attorney General,Jeffrey A. Rosen,Q28968002,2020-12-24,2021-01-20,male,1958,,Jeffrey A. Rosen.jpg,Jeffrey A. Rosen
-Attorney General,Monty Wilkinson,Q104907580,2021-01-20,2021-03-10,male,,,,Monty Wilkinson (lawyer)
-Attorney General,John Demers,Q41800022,2021-01-20,2021-01-20,male,1971-09-21,,John Demers official photo.png,John Demers
-Attorney General,Merrick Garland,Q1922011,2021-03-11,,male,1952-11-13,,2016 March 16 Merrick Garland profile by The White House.jpg,Merrick Garland
-Chairman of the Joint Chiefs of Staff,Hugh Shelton,Q1358112,1997-10-01,2001-09-30,male,1942-01-02,,"General Henry Shelton, official portrait 2.jpg",Hugh Shelton
-Chairman of the Joint Chiefs of Staff,Richard Bowman Myers,Q1937025,2001-10-01,2005-09-30,male,1942-03-01,,Richard Myers wearing Japanese Happi.jpg,Richard Myers
-Chairman of the Joint Chiefs of Staff,Peter Pace,Q540453,2005-10-01,2007-09-30,male,1945-11-05,,Peter Pace official portrait.jpg,Peter Pace
-Chairman of the Joint Chiefs of Staff,Michael Mullen,Q503161,2007-10-01,2011-09-30,male,1946-10-04,,"Michael Mullen, CJCS, official photo portrait, 2007.jpg",Michael Mullen
-Chairman of the Joint Chiefs of Staff,Martin Dempsey,Q26093,2011-10-01,2015-09-25,male,1952-03-14,,Dempsey max.jpg,Martin Dempsey
-Chairman of the Joint Chiefs of Staff,"Joseph F. Dunford, Jr.",Q6282969,2015-10-01,2019-09-30,male,1955-12-08,,General Joseph F. Dunford.jpg,Joseph Dunford
-Chairman of the Joint Chiefs of Staff,Mark A. Milley,Q6766465,2019-10-01,,male,1958-06-20,,General Mark A. Milley.jpg,Mark Milley
-National Security Advisor,Sandy Berger,Q46089,1997-03-14,2001-01-20,male,1945-10-28,2015-12-02,"Official Portrait of United States National Security Advisor Samuel Richard ""Sandy"" Berger.jpg",Sandy Berger
-National Security Advisor,Condoleezza Rice,Q47216,2001-01-20,2005-01-26,female,1954-11-14,,Condoleezza Rice.jpg,Condoleezza Rice
-National Security Advisor,Stephen Hadley,Q698907,2005-01-26,2009-01-20,male,1947-02-13,,Stephen Hadley.jpg,Stephen Hadley
-National Security Advisor,James L. Jones,Q467451,2009-01-20,2010-10-08,male,1943-12-19,,James L. Jones 2.jpg,James L. Jones
-National Security Advisor,Thomas E. Donilon,Q618727,2010-10-08,2013-07-01,male,1955-05-14,,Thomas Donilon.jpg,Thomas E. Donilon
-National Security Advisor,Susan Rice,Q50612,2013-07-01,2017-01-20,female,1964-11-17,,"Susan E. Rice, DPC Director (cropped).jpg",Susan Rice
-National Security Advisor,Michael Flynn,Q6834757,2017-01-20,2017-02-13,male,1958-12-24,,Michael T Flynn.jpg,Michael Flynn
-National Security Advisor,Keith Kellogg,Q27916194,2017-02-13,2017-02-20,male,1944-05-12,,Keith Kellogg 2000.jpg,Keith Kellogg
-National Security Advisor,H. R. McMaster,Q5628492,2017-02-20,2018-04-09,male,1962-07-24,,Lieutenant General H. R. McMaster.jpg,H. R. McMaster
-National Security Advisor,John R. Bolton,Q311269,2018-04-09,2019-09-10,male,1948-11-20,,John R. Bolton official photo.jpg,John Bolton
-National Security Advisor,Robert C. O'Brien,Q7342642,2019-09-18,2021-01-20,male,1966-06-18,,Robert C. O'Brien.jpg,Robert C. O'Brien
-National Security Advisor,Jake Sullivan,Q16730147,2021-01-20,,male,1976-11-28,,Jake-Sullivan-WH.png,Jake Sullivan
-Director of National Intelligence,John Negroponte,Q453868,2005-04-21,2007-02-13,male,1939-07-21,,John Negroponte official portrait State.jpg,John Negroponte
-Director of National Intelligence,John Michael McConnell,Q1379781,2007-02-20,2009-01-27,male,1943-07-26,,"Mike McConnell, official ODNI photo portrait.jpg",Mike McConnell (U.S. Naval officer)
-Director of National Intelligence,Dennis C. Blair,Q1189023,2009-01-29,2010-05-28,male,1947-02-04,,Dennis Blair official Director of National Intelligence portrait.jpg,Dennis C. Blair
-Director of National Intelligence,David Gompert,Q5234213,2010-05-28,2010-08-05,male,1945,,David Gompert official portrait.jpg,David Gompert
-Director of National Intelligence,James R. Clapper,Q1681008,2010-08-09,2017-01-20,male,1941-03-14,,James R. Clapper official portrait.jpg,James Clapper
-Director of National Intelligence,Mike Dempsey,Q28794135,2017-01-20,2017-03-16,male,,,Michael Dempsey.jpg,Mike Dempsey (intelligence)
-Director of National Intelligence,Dan Coats,Q632321,2017-03-16,2019-08-15,male,1943-05-16,,Dan Coats official DNI portrait.jpg,Dan Coats
-Director of National Intelligence,Joseph Maguire,Q6285224,2019-08-16,2020-02-20,male,1951-08-14,,Joseph Maguire official photo.jpg,Joseph Maguire
-Director of National Intelligence,Richard Grenell,Q7326068,2020-02-20,2020-05-26,male,1966-09-18,,Richard Grenell official photo.jpg,Richard Grenell
-Director of National Intelligence,John Ratcliffe,Q16980175,2020-05-26,2021-01-20,male,1965-10-20,,John Ratcliffe official photo.jpg,John Ratcliffe (American politician)
-Director of National Intelligence,Avril Haines,Q14525857,2021-01-21,,female,1969-08-27,,Avril Haines portrait.jpg,Avril Haines
-United States Trade Representative,Robert Zoellick,Q312724,2001-02-07,2005-02-22,male,1953-07-25,,"Zoellick, Robert (official portrait 2008).jpg",Robert Zoellick
-United States Trade Representative,Ron Kirk,Q1399368,2009-03-18,2013-03-15,male,1954-06-27,,Ron Kirk.jpg,Ron Kirk
-United States Trade Representative,Michael Froman,Q6830434,2013-06-21,2017-01-20,male,1962-08-20,,Michael Froman - World Economic Forum Annual Meeting 2012.jpg,Michael Froman
-United States Trade Representative,Robert Lighthizer,Q28113710,2017-05-15,2021-01-20,male,1947-10-11,,Robert Lighthizer official Transition portrait.jpg,Robert Lighthizer
-United States Trade Representative,Katherine Tai,Q104076331,2021-03-18,,female,1974-03-18,,"Katherine Tai, official portrait.jpg",Katherine Tai
-Administrator of the Environmental Protection Agency,Carol Browner,Q299576,1993-01-23,2001-01-20,female,1955-12-16,,CarolBrowner2.jpg,Carol Browner
-Administrator of the Environmental Protection Agency,Christine Todd Whitman,Q435267,2001-01-31,2003-06-27,female,1946-09-26,,WhitmanChristineTodd.jpg,Christine Todd Whitman
-Administrator of the Environmental Protection Agency,Marianne Lamont Horinko,Q6762242,2003-07-14,2003-11-05,female,1961-05-10,,,Marianne Lamont Horinko
-Administrator of the Environmental Protection Agency,Mike Leavitt,Q879432,2003-11-06,2005-01-26,male,1951-02-11,,Mike Leavitt.jpg,Mike Leavitt
-Administrator of the Environmental Protection Agency,Stephen L. Johnson,Q465315,2005-01-26,2009-01-20,male,1951-03-21,,"Stephen L. Johnson, official 2006 EPA photo.jpg",Stephen L. Johnson
-Administrator of the Environmental Protection Agency,Lisa P. Jackson,Q445734,2009-01-23,2013-02-15,female,1962-02-08,,Lisa P. Jackson official portrait.jpg,Lisa P. Jackson
-Administrator of the Environmental Protection Agency,Bob Perciasepe,Q4933628,2013-02-15,2013-07-18,male,1951-02-19,,BobPerciasepe.jpg,Bob Perciasepe
-Administrator of the Environmental Protection Agency,Gina McCarthy,Q5562899,2013-07-18,2017-01-20,female,1954-05-03,,Gina McCarthy official portrait.jpg,Gina McCarthy
-Administrator of the Environmental Protection Agency,Catherine McCabe,Q28469527,2017-01-20,2017-02-17,female,,,Catherine McCabe.jpg,Catherine McCabe
-Administrator of the Environmental Protection Agency,Scott Pruitt,Q7437083,2017-02-17,2018-07-09,male,1968-05-09,,Scott Pruitt official portrait.jpg,Scott Pruitt
-Administrator of the Environmental Protection Agency,Andrew R. Wheeler,Q37936461,2018-07-09,2019-02-28,male,1964,,Andrew Wheeler official photo.jpg,Andrew R. Wheeler
-Administrator of the Environmental Protection Agency,Andrew R. Wheeler,Q37936461,2019-02-28,2021-01-20,male,1964,,Andrew Wheeler official photo.jpg,Andrew R. Wheeler
-Administrator of the Environmental Protection Agency,Jane Nishida,Q105044605,2021-01-20,2021-03-11,female,1955,,Jane Nishida.jpg,Jane Nishida
-Administrator of the Environmental Protection Agency,Charlotte Bertrand,Q105754549,2021-01-20,2021-01-20,female,,,,Charlotte Bertrand
-Administrator of the Environmental Protection Agency,Michael S. Regan,Q104224230,2021-03-11,,male,1976-08-06,,Michael S. Regan official photo (cropped).jpg,Michael S. Regan
-Administrator of the Small Business Administration,Marianne Markowitz,Q16866716,2014-02-07,2014-04-07,female,1966,,Marianne Markowitz.png,Marianne Markowitz
-Administrator of the Small Business Administration,Maria Contreras-Sweet,Q6761112,2014-04-07,2017-01-20,female,1955,,Maria Contreras Sweet portrait.jpg,Maria Contreras-Sweet
-Administrator of the Small Business Administration,Linda McMahon,Q233905,2017-02-14,2019-04-12,female,1948-10-04,,Linda McMahon official photo.jpg,Linda McMahon
-Administrator of the Small Business Administration,Chris Pilkerton,Q63456197,2019-04-13,2020-01-14,male,1973,,Chris Pilkerton official photo.jpg,Chris Pilkerton
-Administrator of the Small Business Administration,Jovita Carranza,Q6296812,2020-01-14,2021-01-20,female,1949-06-29,,Jovita Carranza official photo.jpg,Jovita Carranza
-Administrator of the Small Business Administration,Isabel Guzman,Q104717188,2021-03-17,,female,1971,,Isabel-Guzman.jpg,Isabel Guzman
-United States Ambassador to the United Nations,Richard Holbrooke,Q155649,1999-09-07,2001-01-20,male,1941-04-24,2010-12-13,Richard Holbrooke.jpg,Richard Holbrooke
-United States Ambassador to the United Nations,John Negroponte,Q453868,2001-09-19,2004-06-23,male,1939-07-21,,John Negroponte official portrait State.jpg,John Negroponte
-United States Ambassador to the United Nations,John Danforth,Q1287554,2004-07-23,2005-01-20,male,1936-09-05,,John danforth.JPG,John Danforth
-United States Ambassador to the United Nations,Anne W. Patterson,Q433742,2005-01-20,2005-08-01,female,1949-10-04,,Anne W Patterson ambassador 2011.jpg,Anne W. Patterson
-United States Ambassador to the United Nations,John R. Bolton,Q311269,2005-08-01,2006-12-09,male,1948-11-20,,John R. Bolton official photo.jpg,John Bolton
-United States Ambassador to the United Nations,Zalmay Khalilzad,Q145193,2007-04-17,2009-01-20,male,1951-03-22,,Zalmay Khalilzad in October 2011-cropped.jpg,Zalmay Khalilzad
-United States Ambassador to the United Nations,Susan Rice,Q50612,2009-01-22,2013-07-01,female,1964-11-17,,"Susan E. Rice, DPC Director (cropped).jpg",Susan Rice
-United States Ambassador to the United Nations,Samantha Power,Q454970,2013-06-05,2017-01-20,female,1970-09-21,,Samantha Power official portrait.jpg,Samantha Power
-United States Ambassador to the United Nations,Michele J. Sison,Q6836763,2017-01-20,2017-01-27,female,1959-05-27,,Michele Sison official photo.jpg,Michele J. Sison
-United States Ambassador to the United Nations,Nikki Haley,Q11668,2017-01-27,2018-12-31,female,1972-01-20,,Nikki Haley by Gage Skidmore 4.jpg,Nikki Haley
-United States Ambassador to the United Nations,Kelly Craft,Q28871485,2019-09-12,2021-01-20,female,1962-02-24,,Kelly Knight Craft.jpg,Kelly Craft
-United States Ambassador to the United Nations,Linda Thomas-Greenfield,Q19920980,2021-02-25,,female,1952-11-22,,Linda-Thomas-Greenfield-v1-8x10-1.jpg,Linda Thomas-Greenfield
-Chair of the Council of Economic Advisers,Tomas J. Philipson,Q7818305,2019-06-28,2020-06-23,male,1962,,Tomas J. Philipson 2012.jpg,Tomas J. Philipson
-Chair of the Council of Economic Advisers,Tyler Goodspeed,Q55433012,2020-06-23,2021-01-07,male,,,Tyler-Beck-Goodspeed-Nov2019.png,Tyler Goodspeed
-Chair of the Council of Economic Advisers,Cecilia Rouse,Q616305,2021-03-12,,female,1963-12-18,,Cecilia Rouse official portrait small.jpg,Cecilia Rouse
-White House Chief of Staff,John Podesta,Q1290476,1998-10-20,2001-01-20,male,1949-01-08,,John Podesta.jpg,John Podesta
-White House Chief of Staff,Andrew Card,Q504029,2001-01-20,2006-04-14,male,1947-05-10,,Andrew Card award crop.jpg,Andrew Card
-White House Chief of Staff,Joshua Bolten,Q649653,2006-04-14,2009-01-20,male,1954-08-16,,Bolten Joshua.jpg,Joshua Bolten
-White House Chief of Staff,Rahm Emanuel,Q298443,2009-01-20,2010-10-01,male,1959-11-29,,"Rahm Emanuel, official photo portrait color.jpg",Rahm Emanuel
-White House Chief of Staff,Pete Rouse,Q1290431,2010-10-01,2011-01-13,male,1946-04-15,,Pete Rouse in the Oval Office.jpg,Pete Rouse
-White House Chief of Staff,William M. Daley,Q1370400,2011-01-13,2012-01-27,male,1948-08-09,,William M. Daley official portrait.jpg,William M. Daley
-White House Chief of Staff,Jack Lew,Q1677579,2012-01-27,2013-01-25,male,1955-08-29,,Jacob Lew.jpg,Jack Lew
-White House Chief of Staff,Denis McDonough,Q3702047,2013-01-25,2017-01-20,male,1969-12-02,,"Secretary McDonough, official photo.jpg",Denis McDonough
-White House Chief of Staff,Reince Priebus,Q1357640,2017-01-20,2017-07-28,male,1972-03-18,,Reince Priebus by Gage Skidmore.jpg,Reince Priebus
-White House Chief of Staff,John F. Kelly,Q6232322,2017-07-31,2019-01-02,male,1950-05-11,,"John F. Kelly, 2012.jpg",John F. Kelly
-White House Chief of Staff,Mick Mulvaney,Q1235731,2019-01-02,2020-03-05,male,1967-07-21,,Mick Mulvaney official photo.jpg,Mick Mulvaney
-White House Chief of Staff,Mark Randall Meadows,Q3956796,2020-03-06,2021-01-20,male,1959-07-28,,"Mark Meadows, Official Portrait, 113th Congress.jpg",Mark Meadows
-White House Chief of Staff,Ron Klain,Q649898,2021-01-20,,male,1961-08-08,,Ron Klain 2015.jpg,Ron Klain
-Presidential Science Advisor and Director of the Office of Science and Technology Policy,Kei Koizumi,Q105320353,2021-01-15,2021-06-02,male,,,20161006-OSEC-RBN-7275 (30189848116).jpg,Kei Koizumi (science policymaker)
-Presidential Science Advisor and Director of the Office of Science and Technology Policy,Eric Lander,Q970550,2021-06-02,,male,1957-02-03,,Eric Lander (cropped).jpg,Eric Lander
-Speaker of the United States House of Representatives,Dennis Hastert,Q553626,1999-01-06,2007-01-03,male,1942-01-02,,Speaker of the United States House of Representatives Dennis Hastert (cropped).jpg,Dennis Hastert
-Speaker of the United States House of Representatives,Nancy Pelosi,Q170581,2007-01-04,2011-01-03,female,1940-03-26,,Official photo of Speaker Nancy Pelosi in 2019.jpg,Nancy Pelosi
-Speaker of the United States House of Representatives,John Boehner,Q11702,2011-01-03,2015-10-29,male,1949-11-17,,John Boehner official portrait.jpg,John Boehner
-Speaker of the United States House of Representatives,Paul Ryan,Q203966,2015-10-29,2019-01-03,male,1970-01-29,,Paul Ryan official photo.jpg,Paul Ryan
-Speaker of the United States House of Representatives,Nancy Pelosi,Q170581,2019-01-03,,female,1940-03-26,,Official photo of Speaker Nancy Pelosi in 2019.jpg,Nancy Pelosi
-Governor of Alabama,Don Siegelman,Q593533,1999-01-18,2003-01-20,male,1946-02-24,,Don Siegelman at Netroots Nation 2008.jpg,Don Siegelman
-Governor of Alabama,Bob Riley,Q438010,2003-01-20,2011-01-17,male,1944-10-03,,Governor Bob Riley.jpg,Bob Riley
-Governor of Alabama,Robert J. Bentley,Q552353,2011-01-17,2017-04-10,male,1943-02-03,,Robert Bentley.jpg,Robert J. Bentley
-Governor of Alabama,Kay Ivey,Q6380211,2017-04-10,,female,1944-10-15,,Portrait-Governor-Kay-Ivey.jpg,Kay Ivey
-Governor of Alaska,Tony Knowles,Q878712,1994-12-05,2002-12-02,male,1943-01-01,,GovTonyKnowles.jpg,Tony Knowles (politician)
-Governor of Alaska,Frank Murkowski,Q448813,2002-12-02,2006-12-04,male,1933-03-28,,"Frank Murkowski, 105th Congress photo.jpg",Frank Murkowski
-Governor of Alaska,Sarah Palin,Q43144,2006-12-04,2009-07-26,female,1964-02-11,,5.3.10SarahPalinByDavidShankbone.jpg,Sarah Palin
-Governor of Alaska,Sean Parnell,Q44639,2009-07-26,2014-12-01,male,1962-11-19,,Former Governor of Alaska Sean Parnell.jpg,Sean Parnell
-Governor of Alaska,Bill Walker,Q18159074,2014-12-01,2018-12-03,male,1951-04-16,,Bill Walker.jpg,Bill Walker (American politician)
-Governor of Alaska,Mike J. Dunleavy,Q16209663,2018-12-03,,male,1961-05-05,,Mike Dunleavy official photo.jpg,Mike Dunleavy (politician)
-Governor of American Samoa,Tauese Sunia,Q533544,1997-01-03,2003-03-26,male,1941-08-29,2003-03-26,GovSunia.jpg,Tauese Sunia
-Governor of American Samoa,Togiola Tulafono,Q472537,2003-03-26,2013-01-03,male,1947-02-28,,Togiola Tulafono.jpg,Togiola Tulafono
-Governor of American Samoa,Lolo Letalu Matalasi Moliga,Q3672115,2013-01-03,2021-01-04,male,1947-08-12,,Lolo Moliga by James Kneubuhl.jpg,Lolo Matalasi Moliga
-Governor of American Samoa,Lemanu Peleti Mauga,Q6521013,2021-01-03,,male,1949-01-01,,Lemanu Peleti Mauga.jpg,Lemanu Peleti Mauga
-Governor of Arizona,Jane Dee Hull,Q264297,1997-09-05,2003-01-06,female,1935-08-08,2020-04-16,Jane Dee Hull by Gage Skidmore.jpg,Jane Dee Hull
-Governor of Arizona,Janet Napolitano,Q229032,2003-01-06,2009-01-21,female,1957-11-29,,Portrait Napolitano hires new.jpg,Janet Napolitano
-Governor of Arizona,Jan Brewer,Q236941,2009-01-21,2015-01-05,female,1944-09-26,,Jan Brewer.jpg,Jan Brewer
-Governor of Arizona,Doug Ducey,Q5300433,2015-01-05,,male,1964-04-09,,DougDucey.jpg,Doug Ducey
-Governor of Arkansas,Mike Huckabee,Q158813,1996-07-15,2007-01-09,male,1955-08-24,,Mike Huckabee by Gage Skidmore 2.jpg,Mike Huckabee
-Governor of Arkansas,Mike Beebe,Q361460,2007-01-09,2015-01-13,male,1946-12-28,,Governor Mike Beebe.jpg,Mike Beebe
-Governor of Arkansas,Asa Hutchinson,Q720121,2015-01-13,,male,1950-12-03,,Asa Hutchinson crop.jpg,Asa Hutchinson
-Governor of California,Gray Davis,Q356929,1999-01-04,2003-11-17,male,1942-12-26,,Gdavis.jpg,Gray Davis
-Governor of California,Arnold Schwarzenegger,Q2685,2003-11-17,2011-01-03,male,1947-07-30,,Arnold Schwarzenegger by Gage Skidmore 4.jpg,Arnold Schwarzenegger
-Governor of California,Jerry Brown,Q152451,2011-01-03,2019-01-17,male,1938-04-07,,Edmund G Brown Jr.jpg,Jerry Brown
-Governor of California,Gavin Newsom,Q461391,2019-01-07,,male,1967-10-10,,Gavin Newsom by Gage Skidmore.jpg,Gavin Newsom
-Governor of Colorado,Bill Owens,Q651820,1999-01-12,2007-01-09,male,1950-10-22,,Governor of Colorado Bill Owens 060502-N-5324D-001 crop.jpg,Bill Owens (Colorado politician)
-Governor of Colorado,Bill Ritter,Q119255,2007-01-09,2011-01-11,male,1956-09-06,,Bill Ritter official photo.jpg,Bill Ritter
-Governor of Colorado,John Hickenlooper,Q430518,2011-01-11,2019-01-08,male,1952-02-07,,"John Hickenlooper, official portrait, 117th Congress.jpeg",John Hickenlooper
-Governor of Colorado,Jared Polis,Q935734,2019-01-08,,male,1975-05-12,,Jared Polis Official 2012.jpg,Jared Polis
-Governor of Connecticut,John G. Rowland,Q885204,1995-01-04,2004-07-01,male,1957-05-24,,CT Governor John Rowland.jpg,John G. Rowland
-Governor of Connecticut,Jodi Rell,Q241788,2004-07-01,2011-01-05,female,1946-06-16,,FEMA - 29383 - Photograph by Debra Young taken on 04-19-2007 in Connecticut.jpg,Jodi Rell
-Governor of Connecticut,Dannel Malloy,Q714269,2011-01-05,2019-01-09,male,1955-07-21,,Dannel Malloy 2016.jpg,Dannel Malloy
-Governor of Connecticut,Ned Lamont,Q1973878,2019-01-09,,male,1954-01-03,,"Governor Ned Lamont of Connecticut, official portrait.jpg",Ned Lamont
-Governor of Delaware,Tom Carper,Q457432,1993-01-19,2001-01-03,male,1947-01-23,,"Tom Carper, official portrait, 112th Congress (cropped).jpg",Tom Carper
-Governor of Delaware,Ruth Ann Minner,Q262440,2001-01-03,2009-01-20,female,1935-01-17,2021-11-04,Ruth Ann Minner.jpg,Ruth Ann Minner
-Governor of Delaware,Jack Markell,Q513243,2009-01-20,2017-01-17,male,1960-11-26,,Jack Markell (2021) (cropped).jpg,Jack Markell
-Governor of Delaware,John Carney,Q505302,2017-01-17,,male,1956-05-20,,John Carney.jpg,John Carney (politician)
-Governor of Florida,Jeb Bush,Q221997,1999-01-05,2007-01-02,male,1953-02-11,,"Governor of Florida Jeb Bush at Southern Republican Leadership Conference, May 2015 by Michael Vadon 02.jpg",Jeb Bush
-Governor of Florida,Charlie Crist,Q374693,2007-01-02,2011-01-04,male,1956-07-24,,Charlie Crist official portrait crop.jpg,Charlie Crist
-Governor of Florida,Rick Scott,Q439729,2011-01-04,2019-01-07,male,1952-12-01,,Official Portrait of Senator Rick Scott (R-FL).jpg,Rick Scott
-Governor of Florida,Ron DeSantis,Q3105215,2019-01-08,,male,1978-09-14,,"Ron DeSantis, Official Portrait, 113th Congress.jpg",Ron DeSantis
-Governor of Georgia,Roy Barnes,Q882665,1999-01-11,2003-01-13,male,1948-03-11,,Governor Roy Barnes.jpg,Roy Barnes
-Governor of Georgia,Sonny Perdue,Q525362,2003-01-13,2011-01-10,male,1946-12-20,,Sonny Perdue at rally.jpg,Sonny Perdue
-Governor of Georgia,Nathan Deal,Q179732,2011-01-10,2019-01-14,male,1942-08-25,,"Nathan Deal, official 110th Congress photo.jpg",Nathan Deal
-Governor of Georgia,Brian Kemp,Q4964973,2019-01-14,,male,1963-11-02,,David Perdue and Brian Kemp (cropped).jpg,Brian Kemp
-Governor of Guam,Carl T.C. Gutierrez,Q1567016,1995-01-02,2003-01-06,male,1941-10-15,,Carl Gutierrez.jpg,Carl Gutierrez
-Governor of Guam,Felix Perez Camacho,Q182504,2003-01-06,2011-01-03,male,1957-10-30,,Guam Governor Felix Camacho.jpg,Felix Perez Camacho
-Governor of Guam,Eddie Calvo,Q888443,2011-01-03,2019-01-07,male,1961-08-29,,Governor Eddie Calvo.jpg,Eddie Baza Calvo
-Governor of Guam,Lou Leon Guerrero,Q21066675,2019-01-07,,female,1950-11-08,,Lou Leon Guerrero in 2018.jpeg,Lou Leon Guerrero
-Governor of Hawaii,Ben Cayetano,Q816457,1994-12-02,2002-12-02,male,1939-11-14,,Ben Cayetano in 2019.jpg,Ben Cayetano
-Governor of Hawaii,Linda Lingle,Q231701,2002-12-02,2010-12-06,female,1953-06-04,,Linda Lingle navy 1-cropped.jpg,Linda Lingle
-Governor of Hawaii,Neil Abercrombie,Q469689,2010-12-06,2014-12-01,male,1938-06-26,,"Neil Abercrombie, 111th Pictorial photo.jpg",Neil Abercrombie
-Governor of Hawaii,David Ige,Q16189318,2014-12-01,,male,1957-01-15,,Governor David Ige.jpg,David Ige
-Governor of Idaho,Dirk Kempthorne,Q737493,1999-01-08,2006-05-26,male,1951-10-29,,"Dirk Kempthorne, official Interior Dept color photo, 2006.jpg",Dirk Kempthorne
-Governor of Idaho,Jim Risch,Q721871,2006-05-26,2007-01-01,male,1943-05-03,,Jim Risch official portrait.jpg,Jim Risch
-Governor of Idaho,Butch Otter,Q39593,2007-01-01,2019-01-07,male,1942-05-03,,ButchOtterOfficialCongressionalPortrait.jpg,Butch Otter
-Governor of Idaho,Brad Little,Q4954097,2019-01-07,,male,1954-02-15,,Brad Little official photo.jpg,Brad Little
-Governor of Illinois,George Ryan,Q887327,1999-01-11,2003-01-13,male,1934-02-24,,2007 Governor George Ryan crop4.JPG,George Ryan
-Governor of Illinois,Rod Blagojevich,Q151891,2003-01-13,2009-01-29,male,1956-12-10,,Blagojevich.jpg,Rod Blagojevich
-Governor of Illinois,Pat Quinn,Q460291,2009-01-29,2015-01-12,male,1948-12-16,,Pat quinn governor of illinois.jpg,Pat Quinn (politician)
-Governor of Illinois,Bruce Rauner,Q15972549,2015-01-12,2019-01-14,male,1957-02-18,,Bruce Rauner cropped 2015.jpg,Bruce Rauner
-Governor of Illinois,J.B. Pritzker,Q6103950,2019-01-14,,male,1965-01-19,,J. B. Pritzker (cropped).jpg,J. B. Pritzker
-Governor of Indiana,Frank O'Bannon,Q176346,1997-01-13,2003-09-13,male,1930-01-30,2003-09-13,Reading Day at the Residence.jpg,Frank O'Bannon
-Governor of Indiana,Joe Kernan,Q1431576,2003-09-13,2005-01-10,male,1946-04-08,2020-07-29,Joe Kernan.jpg,Joe Kernan (politician)
-Governor of Indiana,Mitch Daniels,Q351330,2005-01-10,2013-01-14,male,1949-04-07,,Mitch Daniels.jpg,Mitch Daniels
-Governor of Indiana,Mike Pence,Q24313,2013-01-14,2017-01-09,male,1959-06-07,,Mike Pence official Vice Presidential portrait.jpg,Mike Pence
-Governor of Indiana,Eric Holcomb,Q23016975,2017-01-09,,male,1968-05-02,,Eric Holcomb (2021).jpeg,Eric Holcomb
-Governor of Iowa,Tom Vilsack,Q353826,1999-01-15,2007-01-12,male,1950-12-13,,20210427-OSEC-TEW-001 Agriculture Secretary Tom Vilsack (51148817903).jpg,Tom Vilsack
-Governor of Iowa,Chet Culver,Q222940,2007-01-12,2011-01-14,male,1966-01-25,,Chet Culver speaking.jpg,Chet Culver
-Governor of Iowa,Terry Branstad,Q39609,2011-01-14,2017-05-24,male,1946-11-17,,Terry Branstad by Gage Skidmore.jpg,Terry Branstad
-Governor of Iowa,Kim Reynolds,Q6409269,2017-05-24,,female,1959-08-04,,Kim Reynolds - Official Portrait - 83rd GA.jpg,Kim Reynolds
-Governor of Kansas,Bill Graves,Q50613,1995-01-09,2003-01-13,male,1953-01-09,,Bill Graves.jpg,Bill Graves
-Governor of Kansas,Kathleen Sebelius,Q27677,2003-01-13,2009-04-28,female,1948-05-15,,Kathleen Sebelius official portrait.jpg,Kathleen Sebelius
-Governor of Kansas,Mark Parkinson,Q881181,2009-04-28,2011-01-10,male,1957-06-24,,Mark Parkinson.jpg,Mark Parkinson
-Governor of Kansas,Sam Brownback,Q317618,2011-01-10,2018-01-31,male,1956-09-12,,Sam Brownback official portrait 2.jpg,Sam Brownback
-Governor of Kansas,Jeff Colyer,Q6173601,2018-01-31,2019-01-14,male,1960-06-03,,Jeff Colyer official portrait (cropped).jpg,Jeff Colyer
-Governor of Kansas,Laura Kelly,Q6499080,2019-01-14,,female,1950-01-24,,Laura Kelly official photo (cropped).jpg,Laura Kelly
-Governor of Kentucky,Paul E. Patton,Q889216,1995-12-12,2003-12-09,male,1937-05-26,,Paul E. Patton 2013.jpg,Paul E. Patton
-Governor of Kentucky,Ernie Fletcher,Q881233,2003-12-09,2007-12-11,male,1952-11-12,,Fletcher testifying.jpg,Ernie Fletcher
-Governor of Kentucky,Steve Beshear,Q532220,2007-12-11,2015-12-08,male,1944-09-21,,Steve Beshear by Gage Skidmore.jpg,Steve Beshear
-Governor of Kentucky,Matt Bevin,Q19953601,2015-12-08,2019-12-10,male,1967-01-09,,Matt Bevin.jpg,Matt Bevin
-Governor of Kentucky,Andy Beshear,Q21572825,2019-12-10,,male,1977-11-29,,Gov. Beshear of Kentucky 2020.jpg,Andy Beshear
-Governor of Louisiana,Murphy J. Foster,Q880111,1996-01-08,2004-01-12,male,1930-07-11,2020-10-04,GovFoster1.JPG,Mike Foster (American politician)
-Governor of Louisiana,Kathleen Blanco,Q237786,2004-01-12,2008-01-14,female,1942-12-15,2019-08-18,Kathleen Blanco 2006 (cropped).jpg,Kathleen Blanco
-Governor of Louisiana,Bobby Jindal,Q295492,2008-01-14,2016-01-11,male,1971-06-10,,"Bobby Jindal, official 109th Congressional photo.jpg",Bobby Jindal
-Governor of Louisiana,John Bel Edwards,Q6221385,2016-01-11,,male,1966-09-16,,John Bel Edwards.jpg,John Bel Edwards
-Governor of Maine,Angus King,Q544464,1995-01-05,2003-01-08,male,1944-03-31,,"Angus King, official portrait, 113th Congress.jpg",Angus King
-Governor of Maine,John Baldacci,Q502949,2003-01-08,2011-01-05,male,1955-01-30,,John Baldacci - 107th United States Congress.jpg,John Baldacci
-Governor of Maine,Paul LePage,Q881196,2011-01-05,2019-01-02,male,1948-10-09,,PaulLePage.jpg,Paul LePage
-Governor of Maine,Janet T. Mills,Q6153618,2019-01-02,,female,1947-12-30,,Maine congressional delegation meets with Gov Janet Mills (cropped).jpg,Janet Mills
-Governor of Maryland,Parris Glendening,Q650928,1995-01-18,2003-01-15,male,1942-06-11,,"Parris Glendening speaking, September 2006.jpg",Parris Glendening
-Governor of Maryland,Bob Ehrlich,Q888007,2003-01-15,2007-01-17,male,1957-11-25,,Robertehrlichrep.jpg,Bob Ehrlich
-Governor of Maryland,Martin O'Malley,Q120260,2007-01-17,2015-01-21,male,1963-01-18,,Martin O'Malley 2010.jpg,Martin O'Malley
-Governor of Maryland,Larry Hogan,Q16731303,2015-01-21,,male,1956-05-25,,Larry-Hogan.JPG,Larry Hogan
-Governor of Massachusetts,Paul Cellucci,Q718335,1997-07-29,2001-04-10,male,1948-04-24,2013-06-08,Cellucci paul.jpg,Paul Cellucci
-Governor of Massachusetts,Paul Cellucci,Q718335,1999-01-07,2001-04-10,male,1948-04-24,2013-06-08,Cellucci paul.jpg,Paul Cellucci
-Governor of Massachusetts,Jane Swift,Q449745,2001-04-10,2003-01-02,female,1965-02-24,,Jane Swift 2001.jpeg,Jane Swift
-Governor of Massachusetts,Mitt Romney,Q4496,2003-01-02,2007-01-04,male,1947-03-12,,Mitt Romney official US Senate portrait.jpg,Mitt Romney
-Governor of Massachusetts,Deval Patrick,Q11100,2007-01-04,2015-01-08,male,1956-07-31,,Deval Patrick official photo.jpg,Deval Patrick
-Governor of Massachusetts,Charlie Baker,Q5076629,2015-01-08,,male,1956-11-13,,Charlie Baker official photo.jpg,Charlie Baker
-Governor of Michigan,John Engler,Q735182,1991-01-01,2003-01-01,male,1948-10-12,,John Engler.jpg,John Engler
-Governor of Michigan,Jennifer Granholm,Q234994,2003-01-01,2011-01-01,female,1959-02-05,,Secretary Jennifer Granholm (cropped).jpg,Jennifer Granholm
-Governor of Michigan,Rick Snyder,Q887111,2011-01-01,2019-01-01,male,1958-08-19,,RickSnyder.jpg,Rick Snyder
-Governor of Michigan,Gretchen Whitmer,Q5607720,2019-01-01,,female,1971-08-23,,Gretchen Whitmer (2021) (cropped).jpg,Gretchen Whitmer
-Governor of Minnesota,Jesse Ventura,Q311161,1999-01-04,2003-01-06,male,1951-07-15,,JesseVentura1.jpg,Jesse Ventura
-Governor of Minnesota,Tim Pawlenty,Q160181,2003-01-06,2011-01-03,male,1960-11-27,,Tim Pawlenty official photo.jpg,Tim Pawlenty
-Governor of Minnesota,Mark Dayton,Q513091,2011-01-03,2019-01-07,male,1947-01-26,,Mark Dayton official photo.jpg,Mark Dayton
-Governor of Minnesota,Tim Walz,Q2434360,2019-01-07,,male,1964-04-06,,Tim Walz official photo.jpg,Tim Walz
-Governor of Mississippi,Kirk Fordice,Q887553,1992-01-14,2000-01-11,male,1934-02-10,2004-09-07,Kirk Fordice.jpg,Kirk Fordice
-Governor of Mississippi,Ronnie Musgrove,Q444194,2000-01-11,2004-01-13,male,1956-07-29,,David Ronald Musgrove.jpg,Ronnie Musgrove
-Governor of Mississippi,Haley Barbour,Q361450,2004-01-13,2012-01-10,male,1947-10-22,,"Haley Barbour at FEMA conference, Apr 14, 2006.jpg",Haley Barbour
-Governor of Mississippi,Phil Bryant,Q887898,2012-01-10,2020-01-14,male,1954-12-09,,Governor Phil Bryant.jpg,Phil Bryant
-Governor of Mississippi,Tate Reeves,Q7687964,2020-01-14,,male,1974-06-05,,Tate Reeves 2019.jpg,Tate Reeves
-Governor of Missouri,Mel Carnahan,Q538609,1993-01-11,2000-10-16,male,1934-02-11,2000-10-16,CarnahanMel.jpg,Mel Carnahan
-Governor of Missouri,Roger B. Wilson,Q377417,2000-10-16,2001-01-08,male,1948-10-10,,Roger B. Wilson.jpg,Roger B. Wilson
-Governor of Missouri,Bob Holden,Q714950,2001-01-08,2005-01-10,male,1949-08-26,,Bob Holden rep.jpg,Bob Holden
-Governor of Missouri,Matt Blunt,Q881141,2005-01-10,2009-01-12,male,1970-11-20,,Mattblunt3.jpg,Matt Blunt
-Governor of Missouri,Jay Nixon,Q562174,2009-01-12,2017-01-09,male,1956-02-13,,Jay Nixon crop.jpg,Jay Nixon
-Governor of Missouri,Eric Greitens,Q5386615,2017-01-09,2018-06-01,male,1974-04-10,,Eric Greitens 2011-7.jpg,Eric Greitens
-Governor of Missouri,Mike Parson,Q6848323,2018-06-01,,male,1955-09-17,,Mike Parson official photo.jpg,Mike Parson
-Governor of Montana,Marc Racicot,Q725575,1993-01-03,2001-01-01,male,1948-07-24,,Marc Racicot 2008.JPG,Marc Racicot
-Governor of Montana,Judy Martz,Q449719,2001-01-01,2005-01-03,female,1943-07-28,2017-10-30,Judy Martz 2003.jpg,Judy Martz
-Governor of Montana,Brian Schweitzer,Q445823,2005-01-03,2013-01-07,male,1955-09-04,,Brian Schweitzer official photo.jpg,Brian Schweitzer
-Governor of Montana,Steve Bullock,Q24015,2013-01-07,2021-01-04,male,1966-04-11,,Steve Bullock by Gage Skidmore.jpg,Steve Bullock (American politician)
-Governor of Montana,Greg Gianforte,Q5605607,2021-01-04,,male,1961-04-17,,Greg Gianforte crop.jpg,Greg Gianforte
-Governor of Nebraska,Mike Johanns,Q448880,1999-01-07,2005-01-20,male,1950-06-18,,Mike Johanns.jpg,Mike Johanns
-Governor of Nebraska,Dave Heineman,Q381821,2005-01-20,2015-01-08,male,1948-05-12,,Dave Heineman official photo.jpg,Dave Heineman
-Governor of Nebraska,Pete Ricketts,Q6106781,2015-01-08,,male,1964-08-19,,"Ricketts, Pete 2013-11-04a.JPG",Pete Ricketts
-Governor of Nevada,Kenny Guinn,Q672428,1999-01-04,2007-01-01,male,1936-08-24,2010-07-22,Kenny Guinn.jpg,Kenny Guinn
-Governor of Nevada,Jim Gibbons,Q639207,2007-01-01,2011-01-03,male,1944-12-16,,Jimgibbons.jpg,Jim Gibbons (American politician)
-Governor of Nevada,Brian Sandoval,Q714516,2011-01-03,2019-01-07,male,1963-08-05,,Brian Sandoval 2010.jpg,Brian Sandoval
-Governor of Nevada,Steve Sisolak,Q16185594,2019-01-07,,male,1953-12-26,,Steve Sisolak 2020 (portrait crop).jpg,Steve Sisolak
-Governor of New Hampshire,Jeanne Shaheen,Q270316,1997-01-09,2003-01-09,female,1947-01-28,,"Jeanne Shaheen, official Senate portrait cropped.jpg",Jeanne Shaheen
-Governor of New Hampshire,Craig Benson,Q656079,2003-01-09,2005-01-06,male,1954-10-08,,Gov Craig Benson on 9-11-04.JPG,Craig Benson
-Governor of New Hampshire,John Lynch,Q708125,2005-01-06,2013-01-03,male,1952-11-25,,Governor John Lynch.jpg,John Lynch (New Hampshire governor)
-Governor of New Hampshire,Maggie Hassan,Q24053,2013-01-03,2017-01-02,female,1958-02-27,,"Maggie Hassan, official portrait, 115th Congress.jpg",Maggie Hassan
-Governor of New Hampshire,Chuck Morse,Q16193758,2017-01-02,2017-01-05,male,1960-11-16,,,Chuck Morse
-Governor of New Hampshire,Chris Sununu,Q16215583,2017-01-05,,male,1974-11-05,,Gov. Chris Sununu.jpg,Chris Sununu
-Governor of New Jersey,Christine Todd Whitman,Q435267,1994-01-18,2001-01-31,female,1946-09-26,,WhitmanChristineTodd.jpg,Christine Todd Whitman
-Governor of New Jersey,Donald DiFrancesco,Q889620,2001-01-31,2002-01-08,male,1944-11-20,,Donald DiFrancesco.jpg,Donald DiFrancesco
-Governor of New Jersey,John Orus Bennett III,Q1699314,2002-01-08,2002-01-12,male,1948-08-06,,,John O. Bennett
-Governor of New Jersey,John Farmer,Q889628,2002-01-08,2002-01-08,male,1957-06-24,,,John Farmer Jr.
-Governor of New Jersey,Jim McGreevey,Q248668,2002-01-15,2004-11-15,male,1957-08-06,,Jim McGreevey 2009 Exodus 6.jpg,Jim McGreevey
-Governor of New Jersey,Richard Codey,Q880166,2004-11-15,2006-01-17,male,1946-11-27,,Codey3.jpg,Richard Codey
-Governor of New Jersey,Jon Corzine,Q380570,2006-01-17,2010-01-19,male,1947-01-01,,SenatorJonCorzine.jpg,Jon Corzine
-Governor of New Jersey,Chris Christie,Q63879,2010-01-19,2018-01-16,male,1962-09-06,,Chris Christie 2011 Shankbone.JPG,Chris Christie
-Governor of New Jersey,Phil Murphy,Q260042,2018-01-16,2021-11-02,male,1957-08-16,,Philip D. Murphy.jpg,Phil Murphy
-Governor of New Jersey,Phil Murphy,Q260042,2021-11-02,,male,1957-08-16,,Philip D. Murphy.jpg,Phil Murphy
-Governor of New Mexico,Gary Johnson,Q352123,1995-01-01,2003-01-01,male,1953-01-01,,Johnson Transparent.png,Gary Johnson
-Governor of New Mexico,Bill Richardson,Q311782,2003-01-01,2011-01-01,male,1947-11-15,,"Bill Richardson at an event in Kensington, New Hampshire, March 18, 2006.jpg",Bill Richardson
-Governor of New Mexico,Susana Martinez,Q256334,2011-01-01,2019-01-01,female,1959-07-14,,Governor NewMexico.jpg,Susana Martinez
-Governor of New Mexico,Michelle Lujan Grisham,Q3917203,2019-01-01,,female,1959-10-24,,Michelle Lujan Grisham official photo.jpg,Michelle Lujan Grisham
-Governor of New York,George Pataki,Q11676,1995-01-01,2006-12-31,male,1945-06-24,,Pataki cropped.JPG,George Pataki
-Governor of New York,Eliot Spitzer,Q11675,2007-01-01,2008-03-17,male,1959-06-10,,Eliot Spitzer.jpg,Eliot Spitzer
-Governor of New York,David Paterson,Q11674,2008-03-17,2010-12-31,male,1954-05-20,,David Paterson 2 by David Shankbone.jpg,David Paterson
-Governor of New York,Andrew Cuomo,Q11673,2011-01-01,2021-08-23,male,1957-12-06,,Andrew Cuomo by Pat Arnow cropped.jpeg,Andrew Cuomo
-Governor of New York,Kathy Hochul,Q45956,2021-08-24,,female,1958-08-27,,"Kathy Hochul, November 2017.jpeg",Kathy Hochul
-Governor of North Carolina,Jim Hunt,Q880570,1993-01-09,2001-01-06,male,1937-05-16,,Jim Hunt official portrait (cropped).jpg,Jim Hunt
-Governor of North Carolina,Mike Easley,Q881215,2001-01-06,2009-01-10,male,1950-03-23,,Mike Easley.jpg,Mike Easley
-Governor of North Carolina,Bev Perdue,Q22185,2009-01-10,2013-01-05,female,1947-01-14,,Beverly Perdue official photo.jpg,Bev Perdue
-Governor of North Carolina,Pat McCrory,Q39311,2013-01-05,2017-01-01,male,1956-10-17,,Pat McCrory July 2012.jpg,Pat McCrory
-Governor of North Carolina,Roy Cooper,Q7372694,2017-01-01,,male,1957-06-13,,Gov. Cooper Cropped.jpg,Roy Cooper
-Governor of North Dakota,Ed Schafer,Q887102,1992-12-15,2000-12-15,male,1946-08-08,,Ed Schafer -- February 2008.jpg,Ed Schafer
-Governor of North Dakota,John Hoeven,Q374762,2000-12-15,2010-12-07,male,1957-03-13,,"John Hoeven, Official Senate Portrait, 112th Congress.jpg",John Hoeven
-Governor of North Dakota,Jack Dalrymple,Q770393,2010-12-07,2016-12-15,male,1948-10-16,,Jack Dalrymple crop.jpg,Jack Dalrymple
-Governor of North Dakota,Doug Burgum,Q22095395,2016-12-15,,male,1956-08-01,,Governor Doug Burgum.jpg,Doug Burgum
-Governor of Ohio,Bob Taft,Q888281,1999-01-11,2007-01-08,male,1942-01-08,,Hyland software thirdfrontiersummit 2002 Taft Hyland close cropped.jpg,Bob Taft
-Governor of Ohio,Ted Strickland,Q465295,2007-01-08,2011-01-10,male,1941-08-04,,Ted Strickland.jpg,Ted Strickland
-Governor of Ohio,John Kasich,Q69319,2011-01-10,2019-01-14,male,1952-05-13,,Governor John Kasich.jpg,John Kasich
-Governor of Ohio,Mike DeWine,Q1363468,2019-01-14,,male,1947-01-05,,Gov-Mike-DeWine.jpg,Mike DeWine
-Governor of Oklahoma,Frank Keating,Q889831,1995-01-09,2003-01-13,male,1944-02-10,,"Frank Keating at a conference, Oct 20, 2001 - cropped.jpg",Frank Keating
-Governor of Oklahoma,Brad Henry,Q538331,2003-01-13,2011-01-10,male,1963-07-10,,BradhenryDEA.jpg,Brad Henry
-Governor of Oklahoma,Mary Fallin,Q257237,2011-01-10,2019-01-14,female,1954-12-09,,Mary Fallin official 110th Congress photo.jpg,Mary Fallin
-Governor of Oklahoma,Kevin Stitt,Q58322517,2019-01-14,,male,1972-12-28,,Kevin Stitt 2020.jpg,Kevin Stitt
-Governor of Oregon,John Kitzhaber,Q740345,1995-01-09,2003-01-13,male,1947-03-05,,John Kitzhaber acceptance speech-5.jpg,John Kitzhaber
-Governor of Oregon,Ted Kulongoski,Q880976,2003-01-13,2011-01-10,male,1940-11-05,,Ted Kulongoski headshot Color 2007.JPG,Ted Kulongoski
-Governor of Oregon,John Kitzhaber,Q740345,2011-01-10,2015-02-18,male,1947-03-05,,John Kitzhaber acceptance speech-5.jpg,John Kitzhaber
-Governor of Oregon,Kate Brown,Q6375399,2015-02-18,,female,1960-06-21,,Gov. Kate Brown in April 2015.jpg,Kate Brown
-Governor of Pennsylvania,Tom Ridge,Q559822,1995-01-17,2001-10-05,male,1945-08-26,,Tom Ridge.jpg,Tom Ridge
-Governor of Pennsylvania,Mark S. Schweiker,Q776203,2001-10-05,2003-01-21,male,1953-01-31,,Mark S Schweiker 2001.jpg,Mark Schweiker
-Governor of Pennsylvania,Ed Rendell,Q434902,2003-01-21,2011-01-18,male,1944-01-05,,Ed Rendell ID2004 crop (cropped).JPG,Ed Rendell
-Governor of Pennsylvania,Tom Corbett,Q881171,2011-01-18,2015-01-20,male,1949-06-17,,TomCorbett-McCainRally2008 flipped.jpg,Tom Corbett
-Governor of Pennsylvania,Tom Wolf,Q7794795,2015-01-20,,male,1948-11-17,,Wolf Administration Confirms Two Presumptive Positive Cases of COVID-19 - 49627623222.jpg,Tom Wolf
-Governor of Puerto Rico,Pedro Rosselló,Q1147285,1993-01-02,2001-01-02,male,1944-04-05,,PedroRossello.jpg,Pedro Rosselló
-Governor of Puerto Rico,Sila María Calderón,Q447055,2001-01-02,2005-01-02,female,1942-09-23,,"Puerto Rican Governor Sila Calderon at the Pentagon, Feb 27, 2001.jpg",Sila María Calderón
-Governor of Puerto Rico,Aníbal Acevedo Vilá,Q615126,2005-01-02,2009-01-02,male,1962-02-13,,Anibal Acevedo Vila.jpg,Aníbal Acevedo Vilá
-Governor of Puerto Rico,Luis Fortuño,Q381099,2009-01-02,2013-01-02,male,1960-10-31,,Luis Fortuño congressional portrait.jpg,Luis Fortuño
-Governor of Puerto Rico,Alejandro García Padilla,Q2832449,2013-01-02,2017-01-02,male,1971-08-03,,Alejandro Garcia Padilla -cropped.jpg,Alejandro García Padilla
-Governor of Puerto Rico,Ricardo Rosselló,Q7332181,2017-01-02,2019-08-02,male,1979-03-07,,Ricardo Rosselló.jpg,Ricardo Rosselló
-Governor of Puerto Rico,Pedro Pierluisi,Q2277878,2019-08-02,2019-08-07,male,1959-04-26,,Pedro R. Pierluisi.jpg,Pedro Pierluisi
-Governor of Puerto Rico,Wanda Vázquez Garced,Q56600071,2019-08-07,2021-01-02,female,1960-07-09,,Wanda Vasquez (cropped).jpg,Wanda Vázquez Garced
-Governor of Puerto Rico,Pedro Pierluisi,Q2277878,2021-01-02,,male,1959-04-26,,Pedro R. Pierluisi.jpg,Pedro Pierluisi
-Governor of Rhode Island,Lincoln Almond,Q886847,1995-01-03,2003-01-07,male,1936-06-16,,Lincoln Almond.jpg,Lincoln Almond
-Governor of Rhode Island,Donald Carcieri,Q523783,2003-01-07,2011-01-04,male,1942-12-16,,RI Governor Donald Carcieri.jpg,Donald Carcieri
-Governor of Rhode Island,Lincoln Chafee,Q44690,2011-01-04,2015-01-06,male,1953-03-26,,RI governor Lincoln Chafee in 2007.jpg,Lincoln Chafee
-Governor of Rhode Island,Gina Raimondo,Q5562913,2015-01-06,2021-03-02,female,1971-05-17,,Gina Raimondo (cropped 2).jpg,Gina Raimondo
-Governor of Rhode Island,Daniel McKee,Q5218111,2021-03-02,,male,1951-06-16,,Lt. Gov. McKee on Coast Guard Auxiliary Day (cropped).jpg,Dan McKee
-Governor of South Carolina,Jim Hodges,Q11670,1999-01-13,2003-01-15,male,1956-11-19,,Jim Hodges 20080928.jpg,Jim Hodges
-Governor of South Carolina,Mark Sanford,Q11669,2003-01-15,2011-01-12,male,1960-05-28,,"Mark Sanford, Congressional photo.jpg",Mark Sanford
-Governor of South Carolina,Nikki Haley,Q11668,2011-01-12,2017-01-24,female,1972-01-20,,Nikki Haley by Gage Skidmore 4.jpg,Nikki Haley
-Governor of South Carolina,Henry McMaster,Q5725737,2017-01-24,,male,1947-05-27,,SC Governor Henry McMaster 2019 (cropped).jpg,Henry McMaster
-Governor of South Dakota,Bill Janklow,Q862213,1995-01-07,2003-01-03,male,1939-09-13,2012-01-12,William Janklow (South Dakota Governor).jpg,Bill Janklow
-Governor of South Dakota,Mike Rounds,Q722503,2003-01-07,2011-01-08,male,1954-10-24,,Mike Rounds official photo.JPG,Mike Rounds
-Governor of South Dakota,Dennis Daugaard,Q881199,2011-01-08,2019-01-05,male,1953-06-11,,Dennis Daugaard Berlin 2017-03-22.jpg,Dennis Daugaard
-Governor of South Dakota,Kristi Noem,Q465749,2019-01-05,,female,1971-11-30,,Kristi Noem portrait.jpg,Kristi Noem
-Governor of Tennessee,Don Sundquist,Q358726,1995,2003,male,1936-03-15,,Don Sundquist 103rd Congress.jpg,Don Sundquist
-Governor of Tennessee,Phil Bredesen,Q724001,2003-01-18,2011-01-15,male,1943-11-21,,Governor Bredesen.jpg,Phil Bredesen
-Governor of Tennessee,Bill Haslam,Q862186,2011-01-15,2019-01-19,male,1958-08-23,,Governor Bill Haslam crop.jpg,Bill Haslam
-Governor of Tennessee,Bill Lee,Q58321685,2019-01-19,,male,1959-10-09,,TN Governor Bill Lee 2019 May.jpg,Bill Lee (Tennessee politician)
-Governor of Texas,George W. Bush,Q207,1995-01-17,2000-12-21,male,1946-07-06,,George-W-Bush.jpeg,George W. Bush
-Governor of Texas,Rick Perry,Q215057,2000-12-21,2015-01-20,male,1950-03-04,,Rick Perry official portrait.jpg,Rick Perry
-Governor of Texas,Greg Abbott,Q5605224,2015-01-20,,male,1957-11-13,,Greg Abbott by Gage Skidmore.jpg,Greg Abbott
-Governor of the United States Virgin Islands,Charles Wesley Turnbull,Q880330,1999-01-04,2007-01-01,male,1935-02-05,,CharlesTurnbull.jpg,Charles Wesley Turnbull
-Governor of the United States Virgin Islands,John de Jongh,Q676489,2007-01-01,2015-01-05,male,1957-11-13,,Governor John de Jongh - United States Virgin Islands.jpg,John de Jongh Jr.
-Governor of the United States Virgin Islands,Kenneth Mapp,Q6390443,2015-01-05,2019-01-07,male,1955-11-02,,Kenneth Ezra Mapp.png,Kenneth Mapp
-Governor of the United States Virgin Islands,Albert Bryan Jr.,Q59302363,2019-01-07,,male,1968-02-21,,Albert Bryan with Del Plaskett and Doug Domenech cropped.jpg,Albert Bryan (politician)
-Governor of Utah,Mike Leavitt,Q879432,1993-01-04,2003-11-05,male,1951-02-11,,Mike Leavitt.jpg,Mike Leavitt
-Governor of Utah,Olene S. Walker,Q271061,2003-11-05,2005-01-03,female,1930-11-15,2015-11-28,Olene Walker.JPG,Olene Walker
-Governor of Utah,"Jon Huntsman, Jr.",Q11607,2005-01-03,2009-08-11,male,1960-03-26,,Ambassador Jon Huntsman.jpg,Jon Huntsman Jr.
-Governor of Utah,Gary Herbert,Q881188,2009-08-11,2021-01-04,male,1947-05-07,,2013-05-23 Gary R Herbert.JPG,Gary Herbert
-Governor of Utah,Spencer Cox,Q16208237,2021-01-04,,male,1975-07-11,,Spencer Cox in 2017.jpg,Spencer Cox (politician)
-Governor of Vermont,Howard Dean,Q337470,1991-08-14,2003-01-08,male,1948-11-17,,HowardDeanDNC-cropped.jpg,Howard Dean
-Governor of Vermont,Jim Douglas,Q726313,2003-01-09,2011-01-06,male,1951-06-21,,Jim Douglas-2009.jpg,Jim Douglas
-Governor of Vermont,Peter Shumlin,Q881146,2011-01-06,2017-01-05,male,1956-03-24,,Peter Shumlin by Gage Skidmore.jpg,Peter Shumlin
-Governor of Vermont,Phil Scott,Q7185808,2017-01-05,,male,1958-08-04,,Phil Scott.jpg,Phil Scott
-Governor of Virginia,Jim Gilmore,Q705472,1998-01-17,2002-01-12,male,1949-10-06,,Jim Gilmore 2004 NSTAC crop.jpg,Jim Gilmore
-Governor of Virginia,Mark Warner,Q453893,2002-01-12,2006-01-14,male,1954-12-15,,"Mark Warner, official 112th Congress Senate portrait.jpg",Mark Warner
-Governor of Virginia,Tim Kaine,Q359888,2006-01-14,2010-01-16,male,1958-02-26,,Tim Kaine 116th official portrait.jpg,Tim Kaine
-Governor of Virginia,Bob McDonnell,Q456924,2010-01-16,2014-01-11,male,1954-06-15,,Bob McDonnell (4379673749) (cropped).jpg,Bob McDonnell
-Governor of Virginia,Terry McAuliffe,Q3518911,2014-01-11,2018-01-13,male,1957-02-09,,Terry McAuliffe 2020.jpg,Terry McAuliffe
-Governor of Virginia,Ralph Northam,Q7287916,2018-01-13,,male,1959-09-13,,Governor Ralph Northam Gives Inaugural Address (39348612584) (cropped).jpg,Ralph Northam
-Governor of Washington,Gary Locke,Q350378,1997-01-15,2005-01-12,male,1950-01-21,,Gary Locke official portrait.jpg,Gary Locke
-Governor of Washington,Christine Gregoire,Q239366,2005-01-12,2013-01-16,female,1947-03-24,,ChristineGregoireOfficial.jpg,Christine Gregoire
-Governor of Washington,Jay Inslee,Q1100710,2013-01-16,,male,1951-02-09,,Jay Inslee Official Photo.jpg,Jay Inslee
-Governor of West Virginia,Cecil H. Underwood,Q363972,1997-01-13,2001-01-15,male,1922-11-05,2008-11-24,Cecil H. Underwood.jpg,Cecil H. Underwood
-Governor of West Virginia,Bob Wise,Q780398,2001-01-15,2005-01-17,male,1948-01-06,,Bob Wise.jpg,Bob Wise
-Governor of West Virginia,Joe Manchin,Q538868,2005-01-17,2010-11-15,male,1947-08-24,,"Joe Manchin, Official Senate Portrait.jpg",Joe Manchin
-Governor of West Virginia,Earl Ray Tomblin,Q888517,2010-11-15,2017-01-16,male,1952-03-15,,Earl Ray Tomblin 2.jpg,Earl Ray Tomblin
-Governor of West Virginia,Jim Justice,Q20684288,2017-01-16,,male,1951-04-27,,Governor Jim Justice 2017.jpg,Jim Justice
-Governor of Wisconsin,Tommy Thompson,Q732804,1987-01-05,2001-02-01,male,1941-11-19,,Tommy Thompson 1.jpg,Tommy Thompson
-Governor of Wisconsin,Scott McCallum,Q351214,2001-02-01,2003-01-06,male,1950-05-02,,Governor Scott McCallum 2001.jpg,Scott McCallum
-Governor of Wisconsin,Jim Doyle,Q705961,2003-01-06,2011-01-03,male,1945-11-23,,Jim Doyle (cropped).jpg,Jim Doyle
-Governor of Wisconsin,Scott Walker,Q553254,2011-01-03,2019-01-07,male,1967-11-02,,Scott Walker by Gage Skidmore.jpg,Scott Walker (politician)
-Governor of Wisconsin,Tony Evers,Q7822309,2019-01-07,,male,1951-11-05,,Tony Evers (cropped).jpg,Tony Evers
-Governor of Wyoming,Jim Geringer,Q436576,1995-01-02,2003-01-06,male,1944-04-24,,"Jim Geringer - TEDx Oil Spill - Washington, DC.jpg",Jim Geringer
-Governor of Wyoming,Dave Freudenthal,Q471364,2003-01-06,2011-01-03,male,1950-10-12,,Dave Freudenthal speech.jpg,Dave Freudenthal
-Governor of Wyoming,Matt Mead,Q470663,2011-01-03,2019-01-07,male,1962-03-11,,Matt Mead.jpg,Matt Mead
-Governor of Wyoming,Mark Gordon,Q6767775,2019-01-07,,male,1957-03-14,,Mark Gordon of Wyoming.jpg,Mark Gordon (politician)
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+United States,President,Bill Clinton,Q1124,1993-01-20,2001-01-20,male,1946-08-19,,Bill Clinton.jpg,Bill Clinton
+United States,President,George W. Bush,Q207,2001-01-20,2009-01-20,male,1946-07-06,,George-W-Bush.jpeg,George W. Bush
+United States,President,Barack Obama,Q76,2009-01-20,2017-01-20,male,1961-08-04,,President Barack Obama.jpg,Barack Obama
+United States,President,Donald Trump,Q22686,2017-01-20,2021-01-20,male,1946-06-14,,Donald Trump official portrait.jpg,Donald Trump
+United States,President,Joe Biden,Q6279,2021-01-20,,male,1942-11-20,,Joe Biden presidential portrait.jpg,Joe Biden
+United States,Vice President,Al Gore,Q19673,1993-01-20,2001-01-20,male,1948-03-31,,"Al Gore, Vice President of the United States, official portrait 1994.jpg",Al Gore
+United States,Vice President,Dick Cheney,Q48259,2001-01-20,2009-01-20,male,1941-01-30,,Richard Cheney 2005 official portrait.jpg,Dick Cheney
+United States,Vice President,Joe Biden,Q6279,2009-01-20,2017-01-20,male,1942-11-20,,Joe Biden presidential portrait.jpg,Joe Biden
+United States,Vice President,Mike Pence,Q24313,2017-01-20,2021-01-20,male,1959-06-07,,Mike Pence official Vice Presidential portrait.jpg,Mike Pence
+United States,Vice President,Kamala Harris,Q10853588,2021-01-20,,female,1964-10-20,,Kamala Harris official photo.jpg,Kamala Harris
+United States,Secretary of Agriculture,Dan Glickman,Q370213,1995-03-30,2001-01-19,male,1944-11-24,,Dan glickman.jpg,Dan Glickman
+United States,Secretary of Agriculture,Ann Veneman,Q292936,2001-01-20,2005-01-20,female,1949-06-29,,Ann Veneman.jpg,Ann Veneman
+United States,Secretary of Agriculture,Mike Johanns,Q448880,2005-01-21,2007-09-20,male,1950-06-18,,Mike Johanns.jpg,Mike Johanns
+United States,Secretary of Agriculture,Charles F. Conner,Q2967584,2007-09-20,2008-01-28,male,1957-12-30,,"Charles F. Conner, official USDA photo portrait.jpg",Charles Franklin Conner
+United States,Secretary of Agriculture,Ed Schafer,Q887102,2008-01-28,2009-01-20,male,1946-08-08,,Ed Schafer -- February 2008.jpg,Ed Schafer
+United States,Secretary of Agriculture,Tom Vilsack,Q353826,2009-01-21,2017-01-13,male,1950-12-13,,20210427-OSEC-TEW-001 Agriculture Secretary Tom Vilsack (51148817903).jpg,Tom Vilsack
+United States,Secretary of Agriculture,Michael Scuse,Q28317075,2017-01-13,2017-01-20,male,1954,,Michael T. Scuse official portrait.JPG,Michael Scuse
+United States,Secretary of Agriculture,Mike Young (agriculture official),Q30274534,2017-01-20,2017-04-25,male,,,Michael Young 20170216-DM-RBN-7992 (32557392300).jpg,Mike Young (agriculture official)
+United States,Secretary of Agriculture,Sonny Perdue,Q525362,2017-04-25,2021-01-20,male,1946-12-20,,Sonny Perdue at rally.jpg,Sonny Perdue
+United States,Secretary of Agriculture,Tom Vilsack,Q353826,2021-02-24,,male,1950-12-13,,20210427-OSEC-TEW-001 Agriculture Secretary Tom Vilsack (51148817903).jpg,Tom Vilsack
+United States,Secretary of Commerce,William M. Daley,Q1370400,1997-01-30,2000-07-19,male,1948-08-09,,William M. Daley official portrait.jpg,William M. Daley
+United States,Secretary of Commerce,Norman Mineta,Q553502,2000-07-20,2001-01-20,male,1931-11-12,,"Norman Mineta, official portrait, DOT.jpg",Norman Mineta
+United States,Secretary of Commerce,Donald Evans,Q1240095,2001-01-20,2005-02-07,male,1946-07-27,,Donald Evans.jpg,Donald Evans
+United States,Secretary of Commerce,Carlos Gutierrez,Q741648,2005-02-07,2009-01-20,male,1953-11-04,,Carlos Gutierrez.jpg,Carlos Gutierrez
+United States,Secretary of Commerce,Gary Locke,Q350378,2009-03-26,2011-08-01,male,1950-01-21,,Gary Locke official portrait.jpg,Gary Locke
+United States,Secretary of Commerce,Rebecca Blank,Q510127,2011-08-01,2011-10-21,female,1955-09-15,,Rebecca Blank official portrait.jpg,Rebecca Blank
+United States,Secretary of Commerce,John Bryson,Q1365901,2011-10-21,2012-06-21,male,1943-07-24,,John Bryson official portrait.jpg,John Bryson
+United States,Secretary of Commerce,Rebecca Blank,Q510127,2012-06-11,2013-06-01,female,1955-09-15,,Rebecca Blank official portrait.jpg,Rebecca Blank
+United States,Secretary of Commerce,Cameron Kerry,Q5026282,2013,2013,male,1950-09-06,,Cameron Kerry official portrait.jpeg,Cameron Kerry
+United States,Secretary of Commerce,Penny Pritzker,Q293365,2013-06-26,2017-01-20,female,1959-05-02,,Penny Pritzker official portrait.jpg,Penny Pritzker
+United States,Secretary of Commerce,Wilbur Ross,Q8000233,2017-02-28,2021-01-20,male,1937-11-28,,Wilbur Ross.jpg,Wilbur Ross
+United States,Secretary of Commerce,Gina Raimondo,Q5562913,2021-03-03,,female,1971-05-17,,Gina Raimondo (cropped 2).jpg,Gina Raimondo
+United States,Secretary of Defence,William Cohen,Q710721,1997-01-24,2001-01-20,male,1940-08-28,,"William Cohen, official portrait.jpg",William Cohen
+United States,Secretary of Defence,Donald Rumsfeld,Q184650,2001-01-20,2006-12-18,male,1932-07-09,2021-06-29,Rumsfeld1.jpg,Donald Rumsfeld
+United States,Secretary of Defence,Robert Gates,Q212979,2006-12-18,2011-07-01,male,1943-09-25,,"Robert Gates, official DoD photo portrait, 2006.jpg",Robert Gates
+United States,Secretary of Defence,Leon Panetta,Q244631,2011-07-01,2013-02-27,male,1938-06-28,,"Leon Panetta, official DoD photo portrait, 2011.jpg",Leon Panetta
+United States,Secretary of Defence,Chuck Hagel,Q381670,2013-02-27,2015-02-17,male,1946-10-04,,Secretary of Defense Chuck Hagel. 130227-A-SS368-001.jpg,Chuck Hagel
+United States,Secretary of Defence,Ashton Carter,Q4806029,2015-02-17,2017-01-19,male,1954-09-24,,Ashton Carter DOD photo.jpg,Ash Carter
+United States,Secretary of Defence,James Mattis,Q267902,2017-01-20,2018-12-31,male,1950-09-08,,James N. Mattis.jpg,Jim Mattis
+United States,Secretary of Defence,Mark T. Esper,Q33190271,2019-07-22,2020-11-09,male,1964-04-26,,Dr. Mark T. Esper – Secretary of Defense.jpg,Mark Esper
+United States,Secretary of Defence,Christopher C. Miller,Q101423348,2020-11-09,2021-01-20,male,1965-10-15,,Christopher C. Miller.jpg,Christopher C. Miller
+United States,Secretary of Defence,David Norquist,Q29346709,2021-01-20,2021-01-22,male,1966,,"David L. Norquist, official portrait.jpg",David Norquist
+United States,Secretary of Defence,Lloyd Austin,Q941013,2021-01-22,,male,1953-08-08,,Defense Secretary Lloyd J. Austin III (50885754687).jpg,Lloyd Austin
+United States,Secretary of Education,Richard Riley,Q880774,1993-01-21,2001-01-20,male,1933-01-02,,Richard Riley Official Department of Education Photo.jpg,Richard Riley
+United States,Secretary of Education,Rod Paige,Q283396,2001-01-20,2005-01-20,male,1933-06-17,,Rod Paige.jpg,Rod Paige
+United States,Secretary of Education,Margaret Spellings,Q262554,2005-01-20,2009-01-20,female,1957-11-30,,Official Photo of Margaret Spellings.jpg,Margaret Spellings
+United States,Secretary of Education,Arne Duncan,Q349922,2009-01-21,2016-01-01,male,1964-11-06,,Arne Duncan official photo.jpg,Arne Duncan
+United States,Secretary of Education,"John King, Jr.",Q6243110,2015-01-04,2016-03-14,male,1975-01-05,,"John B. King, Jr.2015.jpg",John King Jr.
+United States,Secretary of Education,"John King, Jr.",Q6243110,2016-03-14,2017-01-20,male,1975-01-05,,"John B. King, Jr.2015.jpg",John King Jr.
+United States,Secretary of Education,Phil Rosenfelt,Q28530100,2017-01-20,2017-02-07,male,,,Phil Rosenfelt (cropped).jpg,Phil Rosenfelt
+United States,Secretary of Education,Betsy DeVos,Q4898286,2017-02-07,2021-01-08,female,1958-01-08,,Betsy DeVos official portrait.jpg,Betsy DeVos
+United States,Secretary of Education,Mick Zais,Q16107563,2021-01-07,2021-01-20,male,1946-12-10,,Mick Zais official photo (cropped).jpg,Mick Zais
+United States,Secretary of Education,Phil Rosenfelt,Q28530100,2021-01-20,2021-03-02,male,,,Phil Rosenfelt (cropped).jpg,Phil Rosenfelt
+United States,Secretary of Education,Miguel Cardona,Q104244043,2021-03-02,,male,1975-07-11,,"Secretary of Education Miguel Cardona, official portrait.jpg",Miguel Cardona
+United States,Secretary of Energy,Bill Richardson,Q311782,1998-08-18,2001-01-20,male,1947-11-15,,"Bill Richardson at an event in Kensington, New Hampshire, March 18, 2006.jpg",Bill Richardson
+United States,Secretary of Energy,Spencer Abraham,Q1285613,2001-01-20,2005-01-31,male,1952-06-12,,Spencer Abraham.jpg,Spencer Abraham
+United States,Secretary of Energy,Samuel Bodman,Q1276376,2005-01-31,2009-01-20,male,1938-11-26,2018-09-07,Samuel Bodman.jpg,Samuel Bodman
+United States,Secretary of Energy,Steven Chu,Q172466,2009-01-21,2013-04-22,male,1948-02-28,,Steven Chu official DOE portrait.jpg,Steven Chu
+United States,Secretary of Energy,Daniel Poneman,Q5218466,2013-04-22,2013-05-21,male,1956-03-12,,Daniel Poneman official portrait.jpg,Daniel Poneman
+United States,Secretary of Energy,Ernest Moniz,Q5393576,2013-05-21,2017-01-20,male,1944-12-22,,Ernest Moniz official portrait.jpg,Ernest Moniz
+United States,Secretary of Energy,Grace Bochenek,Q28469524,2017-01-20,2017-03-02,female,1961-06-15,,Grace Bochenek.jpg,Grace Bochenek
+United States,Secretary of Energy,Rick Perry,Q215057,2017-03-02,2019-12-01,male,1950-03-04,,Rick Perry official portrait.jpg,Rick Perry
+United States,Secretary of Energy,Dan R. Brouillette,Q29453265,2019-12-04,2021-01-20,male,1947-09-14,,Dan Brouillette official photo.jpg,Dan Brouillette
+United States,Secretary of Energy,David Huizenga,Q104936878,2021-01-20,2021-02-25,male,,,,David Huizenga
+United States,Secretary of Energy,Jennifer Granholm,Q234994,2021-02-25,,female,1959-02-05,,Secretary Jennifer Granholm (cropped).jpg,Jennifer Granholm
+United States,Secretary of Health and Human Services,Donna Shalala,Q292569,1993-01-22,2001-01-20,female,1941-02-14,,Shalala portrait.jpg,Donna Shalala
+United States,Secretary of Health and Human Services,Tommy Thompson,Q732804,2001-02-02,2005-01-26,male,1941-11-19,,Tommy Thompson 1.jpg,Tommy Thompson
+United States,Secretary of Health and Human Services,Mike Leavitt,Q879432,2005-01-26,2009-01-20,male,1951-02-11,,Mike Leavitt.jpg,Mike Leavitt
+United States,Secretary of Health and Human Services,Kathleen Sebelius,Q27677,2009-04-28,2014-06-09,female,1948-05-15,,Kathleen Sebelius official portrait.jpg,Kathleen Sebelius
+United States,Secretary of Health and Human Services,Sylvia Burwell,Q12014326,2014-06-09,2017-01-20,female,1965-08-23,,Sylvia Mathews Burwell at April 2013 Senate nomination hearing.jpg,Sylvia Mathews Burwell
+United States,Secretary of Health and Human Services,Tom Price,Q1415243,2017-02-10,2017-09-29,male,1954-10-08,,Tom Price official photo.jpg,Tom Price (American politician)
+United States,Secretary of Health and Human Services,Alex Azar,Q4716651,2018-01-29,2021-01-20,male,1967-06-17,,Alex Azar official portrait.jpg,Alex Azar
+United States,Secretary of Health and Human Services,Norris Cochran,Q28530101,2021-01-20,2021-03-19,male,1970,,Norris Cochran.jpg,Norris Cochran
+United States,Secretary of Health and Human Services,Xavier Becerra,Q1855840,2021-03-19,,male,1958-01-26,,HHS Xavier Becerra.jpg,Xavier Becerra
+United States,Secretary of Homeland Security,Tom Ridge,Q559822,2003-01-24,2005-02-01,male,1945-08-26,,Tom Ridge.jpg,Tom Ridge
+United States,Secretary of Homeland Security,James Loy,Q1314442,2005-02-01,2005-02-15,male,1942-08-10,,James M. Loy.jpg,James Loy
+United States,Secretary of Homeland Security,Michael Chertoff,Q733612,2005-02-15,2009-01-21,male,1953-11-28,,"Michael Chertoff, official DHS photo portrait, 2005.jpg",Michael Chertoff
+United States,Secretary of Homeland Security,Janet Napolitano,Q229032,2009-01-21,2013-09-06,female,1957-11-29,,Portrait Napolitano hires new.jpg,Janet Napolitano
+United States,Secretary of Homeland Security,Rand Beers,Q7291417,2013-09-06,2013-12-23,male,1942-11-30,,Rand Beers official portrait.jpg,Rand Beers
+United States,Secretary of Homeland Security,Jeh Johnson,Q6176439,2013-12-23,2017-01-20,male,1957-09-11,,Jeh Johnson official DHS portrait.jpg,Jeh Johnson
+United States,Secretary of Homeland Security,John F. Kelly,Q6232322,2017-01-20,2017-07-31,male,1950-05-11,,"John F. Kelly, 2012.jpg",John F. Kelly
+United States,Secretary of Homeland Security,Elaine Duke,Q28839617,2017-07-31,2017-12-06,female,1958-06-26,,Elaine Duke official photo.jpg,Elaine Duke
+United States,Secretary of Homeland Security,Kirstjen Nielsen,Q38858352,2017-12-06,2019-04-05,female,1972-05-14,,Kirstjen Nielsen official photo.jpg,Kirstjen Nielsen
+United States,Secretary of Homeland Security,Kevin McAleenan,Q30122656,2019-04-11,2019-10-11,male,1971-09-05,,Kevin McAleenan official photo.jpg,Kevin McAleenan
+United States,Secretary of Homeland Security,Chad Wolf,Q72044313,2019-11-13,2021-01-11,male,1976,,Chad Wolf official portrait 2017.jpg,Chad Wolf
+United States,Secretary of Homeland Security,Pete Gaynor,Q82607085,2021-01-11,2021-01-20,male,1958,,Peter Gaynor official photo (cropped).jpg,Pete Gaynor
+United States,Secretary of Homeland Security,David Pekoske,Q5238485,2021-01-20,2021-02-02,male,1955-05-05,,David Pekoske official TSA portrait.jpg,David Pekoske
+United States,Secretary of Homeland Security,Alejandro Mayorkas,Q4714600,2021-02-02,,male,1959-11-24,,Secretary Mayorkas Official Photo.jpg,Alejandro Mayorkas
+United States,Secretary of Housing and Urban Development,Andrew Cuomo,Q11673,1997-01-29,2001-01-20,male,1957-12-06,,Andrew Cuomo by Pat Arnow cropped.jpeg,Andrew Cuomo
+United States,Secretary of Housing and Urban Development,Mel Martínez,Q435010,2001-01-24,2003-12-13,male,1946-10-23,,Mel Martinez.jpg,Mel Martínez
+United States,Secretary of Housing and Urban Development,Alphonso Jackson,Q324505,2003-11-01,2004-08-01,male,1945-09-09,,Alphonso Jackson (seated).jpg,Alphonso Jackson
+United States,Secretary of Housing and Urban Development,Alphonso Jackson,Q324505,2004-08-01,2008-04-18,male,1945-09-09,,Alphonso Jackson (seated).jpg,Alphonso Jackson
+United States,Secretary of Housing and Urban Development,Roy Bernardi,Q3445744,2008-04-18,2008-06-04,male,1942-10-14,,Roy Bernardi.jpg,Roy Bernardi
+United States,Secretary of Housing and Urban Development,Steve Preston,Q376530,2008-06-04,2009-01-20,male,1960-08-04,,Steve Preston HUD.jpg,Steve Preston
+United States,Secretary of Housing and Urban Development,Brian D. Montgomery,Q4963500,2009-01-20,2009-01-26,male,1956-08-02,,MontgomeryBrian.jpg,Brian D. Montgomery
+United States,Secretary of Housing and Urban Development,Shaun Donovan,Q379739,2009-01-26,2014-07-28,male,1966-01-24,,DonovanShaunLS.jpg,Shaun Donovan
+United States,Secretary of Housing and Urban Development,Julián Castro,Q970720,2014-07-28,2017-01-20,male,1974-09-16,,Julián Castro's Official HUD Portrait.jpg,Julian Castro
+United States,Secretary of Housing and Urban Development,Craig Clemmensen,Q28543103,2017-01-20,2017-03-02,male,,,Craig Clemmensen.jpg,Craig Clemmensen
+United States,Secretary of Housing and Urban Development,Ben Carson,Q816459,2017-03-02,2021-01-20,male,1951-09-18,,Ben Carson by Skidmore with lighting correction.jpg,Ben Carson
+United States,Secretary of Housing and Urban Development,Matt Ammon,Q104936860,2021-01-20,2021-03-10,male,,,,Matt Ammon
+United States,Secretary of Housing and Urban Development,Marcia Fudge,Q461746,2021-03-10,,female,1952-10-29,,Secretary Fudge official photo.png,Marcia Fudge
+United States,Secretary of Labor,Alexis Herman,Q292340,1997-05-01,2001-01-20,female,1947-07-16,,Alexis osec.jpg,Alexis Herman
+United States,Secretary of Labor,Elaine Chao,Q263322,2001-01-20,2009-01-20,female,1953-03-26,,Elaine Chao official portrait 2.jpg,Elaine Chao
+United States,Secretary of Labor,Howard M. Radzely,Q5920259,2009-01-20,2009-02-02,male,1970,,RadzelyHoward.jpg,Howard M. Radzely
+United States,Secretary of Labor,Edward C. Hugler,Q5342139,2009-02-02,2009-02-24,male,1950-02-07,,HuglerEdward.jpg,Edward C. Hugler
+United States,Secretary of Labor,Hilda Solis,Q50610,2009-02-24,2013-01-22,female,1957-10-20,,AF8E6752.jpg,Hilda Solis
+United States,Secretary of Labor,Seth Harris,Q4120997,2013-01-22,2013-07-23,male,1962-10-12,,Seth Harris DOL.jpg,Seth Harris
+United States,Secretary of Labor,Thomas Perez,Q7793121,2013-07-23,2017-01-20,male,1961-10-07,,Official portrait of United States Secretary of Labor Tom Perez.jpg,Tom Perez
+United States,Secretary of Labor,Edward C. Hugler,Q5342139,2017-01-20,2017-04-27,male,1950-02-07,,HuglerEdward.jpg,Edward C. Hugler
+United States,Secretary of Labor,Alexander Acosta,Q7273452,2017-04-28,2019-07-19,male,1969-01-16,,Alexander Acosta official portrait.jpg,Alexander Acosta
+United States,Secretary of Labor,Patrick Pizzella,Q30349466,2019-07-20,2019-09-30,male,1954-05-19,,Patrick Pizzella official photo.jpg,Patrick Pizzella
+United States,Secretary of Labor,Eugene Scalia,Q16875330,2019-09-30,2021-01-20,male,1963-08-14,,Eugene Scalia as Solicitor of Labor.jpg,Eugene Scalia
+United States,Secretary of Labor,Al Stewart,Q105320190,2021-01-20,2021-03-23,male,1955,,,Al Stewart (U.S. government official)
+United States,Secretary of Labor,Marty Walsh,Q15126384,2021-03-23,,male,1967-04-10,,Secretary Marty Walsh official portrait.jpg,Marty Walsh
+United States,Secretary of State,Madeleine Albright,Q174438,1997-01-23,2001-01-20,female,1937-05-15,,Albrightmadeleine.jpg,Madeleine Albright
+United States,Secretary of State,Colin Powell,Q150851,2001-01-20,2005-01-26,male,1937-04-05,2021-10-18,Colin Powell (15570753996) cropped.jpg,Colin Powell
+United States,Secretary of State,Condoleezza Rice,Q47216,2005-01-26,2009-01-20,female,1954-11-14,,Condoleezza Rice.jpg,Condoleezza Rice
+United States,Secretary of State,William Joseph Burns,Q1276563,2009-01-20,2009-01-21,male,1956-04-04,,"Assignment- 59-CF-DS-22432-05) Official portrait of William Burns, U.S. Ambassador-designate to Russia (Photographer- Ann Thomas--State) (59-CF-DS-22432-05 Amb BillBurns0086 fromPSD - DPLA - 24e3adb7aadd75ad1930cff23ef02645.jpg",William J. Burns (diplomat)
+United States,Secretary of State,Hillary Clinton,Q6294,2009-01-21,2013-02-01,female,1947-10-26,,Hillary Clinton Arizona 2016 .jpg,Hillary Clinton
+United States,Secretary of State,John Kerry,Q22316,2013-02-01,2017-01-20,male,1943-12-11,,John F. Kerry.jpg,John Kerry
+United States,Secretary of State,"Thomas A. Shannon, Jr.",Q7786914,2017-01-20,2017-02-01,male,1958,,Thomas A. Shannon Jr official photo.jpg,Thomas A. Shannon Jr.
+United States,Secretary of State,Rex Tillerson,Q331401,2017-02-01,2018-03-31,male,1952-03-23,,Rex Tillerson official portrait.jpg,Rex Tillerson
+United States,Secretary of State,John J. Sullivan,Q6241291,2018-04-01,2018-04-26,male,1959-11-20,,John J. Sullivan.jpg,John J. Sullivan (diplomat)
+United States,Secretary of State,Mike Pompeo,Q473239,2018-04-26,2021-01-20,male,1963-12-30,,Mike Pompeo official photo.jpg,Mike Pompeo
+United States,Secretary of State,Daniel Bennett Smith,Q30106114,2021-01-20,2021-01-26,male,1956-03-06,,Daniel Bennett Smith ambassador.jpg,Daniel Bennett Smith
+United States,Secretary of State,Antony Blinken,Q7821917,2021-01-26,,male,1962-04-16,,Secretary Blinken's Official Department Photo.jpg,Antony Blinken
+United States,Secretary of the Air Force,Pete Geren,Q1170156,2005-06-29,2005-11-04,male,1952-01-29,,"Pete Geren, Secretary of the Army, official photo.jpg",Pete Geren
+United States,Secretary of the Air Force,Michael B. Donley,Q1852641,2008-06-21,2008-10-02,male,1952-10-04,,Michael Donley official portrait.jpg,Michael B. Donley
+United States,Secretary of the Air Force,Deborah Lee James,Q16189325,2013-12-20,2017-01-20,female,1958-11-25,,Deborah Lee James.JPG,Deborah Lee James
+United States,Secretary of the Air Force,Lisa Disbrow,Q28739918,2017-01-20,2017-05-16,female,1962-09-29,,"Lisa S. Disbrow, USAF, 2014.JPG",Lisa Disbrow
+United States,Secretary of the Air Force,Heather Wilson,Q459712,2017-05-16,,female,1960-12-30,,"Heather Wilson, official 109th Congress photo.jpg",Heather Wilson
+United States,Secretary of the Army,Louis Caldera,Q353121,1998-07-02,2001-01-20,male,1956-04-01,,CalderaLouis.jpg,Louis Caldera
+United States,Secretary of the Army,Thomas E. White,Q2423569,2001-05-31,2003-04-25,male,1943-12-14,,"Thomas E. White, official military photo, April 1989.jpg",Thomas E. White
+United States,Secretary of the Army,Francis J. Harvey,Q1294838,2004-11-19,2007-03-09,male,1943-07-08,,"Francis J. Harvey, official photo as Secretary of the Army.jpg",Francis J. Harvey
+United States,Secretary of the Army,Pete Geren,Q1170156,2007-03-09,2009-09-16,male,1952-01-29,,"Pete Geren, Secretary of the Army, official photo.jpg",Pete Geren
+United States,Secretary of the Army,John M. McHugh,Q457729,2009,2015,male,1948-09-29,,Army Secretary John McHugh.jpg,John M. McHugh
+United States,Secretary of the Army,Eric Fanning,Q13534694,2015-11-03,2016-01-11,male,1968-07-02,,Eric Fanning.jpg,Eric Fanning
+United States,Secretary of the Army,Patrick Murphy,Q5997832,2016-01-11,2016-05-17,male,1973-10-19,,Patrick Murphy official 110th Congress photo.jpg,Patrick Murphy (Pennsylvania politician)
+United States,Secretary of the Army,Eric Fanning,Q13534694,2016-05-17,2017-01-20,male,1968-07-02,,Eric Fanning.jpg,Eric Fanning
+United States,Secretary of the Army,Robert M. Speer,Q19929152,2017-01-20,2017-08-02,male,1956-02-10,,Robert M. Speer.jpg,Robert M. Speer
+United States,Secretary of the Army,Mark T. Esper,Q33190271,2017-11-20,2019,male,1964-04-26,,Dr. Mark T. Esper – Secretary of Defense.jpg,Mark Esper
+United States,Secretary of the Army,Ryan McCarthy,Q30612229,2019-09-30,,male,1973,,Ryan McCarthy-Under Secretary of the Army.jpg,Ryan D. McCarthy
+United States,Secretary of the Interior,Bruce Babbitt,Q878739,1993-01-22,2001-01-02,male,1938-06-27,,Bruce babbitt.jpg,Bruce Babbitt
+United States,Secretary of the Interior,Gale Norton,Q271717,2001-01-31,2006-03-31,female,1954-03-11,,Gale Norton.jpeg,Gale Norton
+United States,Secretary of the Interior,Dirk Kempthorne,Q737493,2006-06-07,2009-01-20,male,1951-10-29,,"Dirk Kempthorne, official Interior Dept color photo, 2006.jpg",Dirk Kempthorne
+United States,Secretary of the Interior,Ken Salazar,Q342586,2009-01-20,2013-04-12,male,1955-03-02,,Kensalazar.jpg,Ken Salazar
+United States,Secretary of the Interior,Sally Jewell,Q4231614,2013-04-12,2017-01-20,female,1956-02-21,,Secretary Jewell and the Northwest Youth Corps (8818705428).jpg,Sally Jewell
+United States,Secretary of the Interior,Kevin Haugrud,Q28530107,2017-01-20,2017-03-01,male,,,,Kevin Haugrud
+United States,Secretary of the Interior,Ryan Zinke,Q7384672,2017-03-01,2019-01-02,male,1961-11-01,,Ryan Zinke official congressional photo (crop).jpg,Ryan Zinke
+United States,Secretary of the Interior,David L. Bernhardt,Q29918896,2019-01-02,2021-01-20,male,1969-08-17,,David Bernhardt official photo.jpg,David Bernhardt
+United States,Secretary of the Interior,Deb Haaland,Q54860790,2021-03-16,,female,1960-12-02,,"Deb Haaland, official portrait, 116th Congress (cropped).jpg",Deb Haaland
+United States,Secretary of the Navy,Gordon R. England,Q323508,2001-05-24,2003-01-24,male,1937-09-15,,Gordon England portrait.jpg,Gordon R. England
+United States,Secretary of the Navy,Susan Livingstone,Q7648121,2003-01-30,2003-02-07,female,1946-01-13,,US Navy 030202-N-0000X-001 Under Secretary of the Navy.jpg,Susan Livingstone
+United States,Secretary of the Navy,Hansford T. Johnson,Q5651089,2003-02-07,2003-09-30,male,1936-01-03,,"General Hansford Johnson, official military photo, 1990.jpg",Hansford T. Johnson
+United States,Secretary of the Navy,Gordon R. England,Q323508,2003-10-01,2006-01-03,male,1937-09-15,,Gordon England portrait.jpg,Gordon R. England
+United States,Secretary of the Navy,Donald C. Winter,Q1239753,2006-01-03,2009-03-13,male,1948-06-15,,"Donald Winter, official photo as Secretary of the Navy, 2006.jpg",Donald C. Winter
+United States,Secretary of the Navy,Ray Mabus,Q531247,2009-05-19,2017-01-20,male,1948-10-11,,MabusRay.jpg,Ray Mabus
+United States,Secretary of the Navy,Sean Stackley,Q7441451,2017-01-20,2017-08-03,male,1957-08-07,,Sean J. Stackley.jpg,Sean Stackley
+United States,Secretary of the Navy,Richard V. Spencer,Q29342932,2017-08-03,2019-11-24,male,1954-01-18,,Richard V. Spencer official photo.jpg,Richard V. Spencer
+United States,Secretary of the Navy,Kenneth Braithwaite,Q42316397,2020-05-29,2021-01-20,male,1960,,Kenneth J. Braithwaite official portrait.jpg,Kenneth Braithwaite
+United States,Secretary of the Navy,Carlos Del Toro,Q107195317,2021-08-09,,male,1961,,Carlos Del Toro SECNAV portrait.jpg,Carlos Del Toro
+United States,Secretary of the Treasury,Lawrence Summers,Q317953,1999-07-02,2001-01-20,male,1954-11-30,,Lawrence Summers Treasury portrait.jpg,Lawrence Summers
+United States,Secretary of the Treasury,Paul H. O'Neill,Q456921,2001-01-20,2002-12-31,male,1935-12-04,2020-04-18,OneilllPaul.jpg,Paul H. O'Neill
+United States,Secretary of the Treasury,John W. Snow,Q449689,2003-02-03,2006-06-28,male,1939-08-02,,John W. Snow.jpg,John W. Snow
+United States,Secretary of the Treasury,Henry Paulson,Q311025,2006-07-10,2009-01-20,male,1946-03-28,,"Henry Paulson official Treasury photo, 2006.jpg",Henry Paulson
+United States,Secretary of the Treasury,Timothy Geithner,Q311211,2009-01-26,2013-01-25,male,1961-08-18,,Timothy Geithner official portrait.jpg,Timothy Geithner
+United States,Secretary of the Treasury,Neal S. Wolin,Q1302611,2013-01-25,2013-02-28,male,1961-12-09,,Neal S. Wolin official portrait.jpg,Neal S. Wolin
+United States,Secretary of the Treasury,Jack Lew,Q1677579,2013-02-28,2017-01-20,male,1955-08-29,,Jacob Lew.jpg,Jack Lew
+United States,Secretary of the Treasury,Adam Szubin,Q28514306,2017-01-20,2017-02-13,male,1972,,Adam Szubin.jpg,Adam Szubin
+United States,Secretary of the Treasury,Steven Mnuchin,Q24248265,2017-02-13,2021-01-20,male,1962-12-21,,Steven Mnuchin.jpg,Steven Mnuchin
+United States,Secretary of the Treasury,Andy Baukol,Q104923417,2021-01-20,2021-01-26,male,,,,Andy Baukol
+United States,Secretary of the Treasury,Janet Yellen,Q263725,2021-01-26,,female,1946-08-13,,Secretary Janet Yellen portrait (cropped).jpg,Janet Yellen
+United States,Secretary of Transportation,Rodney E. Slater,Q2161181,1997-02-14,2001-01-20,male,1955-02-23,,Slater rodney.jpg,Rodney E. Slater
+United States,Secretary of Transportation,Norman Mineta,Q553502,2001-01-25,2006-08-07,male,1931-11-12,,"Norman Mineta, official portrait, DOT.jpg",Norman Mineta
+United States,Secretary of Transportation,Maria Cino,Q1396000,2006-08-07,2006-10-17,female,1957-04-19,,Maria Cino DOC official photo.jpg,Maria Cino
+United States,Secretary of Transportation,Mary Peters,Q469483,2006-10-17,2009-01-20,female,1948-12-04,,"Mary Peters, official FHWA photo.jpg",Mary E. Peters
+United States,Secretary of Transportation,Ray LaHood,Q467891,2009-01-23,2013-07-02,male,1945-12-06,,Ray LaHood.jpg,Ray LaHood
+United States,Secretary of Transportation,Anthony Foxx,Q4772543,2013-07-02,2017-01-20,male,1971-04-30,,Anthony Foxx official portrait.jpg,Anthony Foxx
+United States,Secretary of Transportation,Elaine Chao,Q263322,2017-01-31,2021-01-11,female,1953-03-26,,Elaine Chao official portrait 2.jpg,Elaine Chao
+United States,Secretary of Transportation,Steven G. Bradbury,Q15485936,2021-01-11,2021-01-20,male,1958-09-12,,Steven G. Bradbury official photo.jpg,Steven G. Bradbury
+United States,Secretary of Transportation,Lana Hurdle,Q104949692,2021-01-20,2021-02-03,female,,,,Lana Hurdle
+United States,Secretary of Transportation,Pete Buttigieg,Q7173106,2021-02-03,,male,1982-01-19,,Pete Buttigieg official photo.jpg,Pete Buttigieg
+United States,Secretary of Veterans Affairs,"Togo D. West, Jr.",Q1406519,1998-05-04,2000-07-25,male,1942-06-21,2018-03-08,TogoDWest.jpg,Togo D. West Jr.
+United States,Secretary of Veterans Affairs,Hershel W. Gober,Q937285,2000-07-25,2001-01-20,male,1936-12-21,,Gober sm.jpg,Hershel Gober
+United States,Secretary of Veterans Affairs,Anthony Principi,Q573825,2001-01-23,2005-01-26,male,1944-04-16,,Anthony Principi.jpg,Anthony Principi
+United States,Secretary of Veterans Affairs,Jim Nicholson,Q1288295,2005-01-26,2007-10-01,male,1938-02-04,,JimNicholson.jpg,Jim Nicholson (Secretary of Veterans Affairs)
+United States,Secretary of Veterans Affairs,Gordon H. Mansfield,Q3110903,2007-10-01,2007-12-20,male,1941-09-15,2013-01-29,Gordon H. Mansfield.jpg,Gordon H. Mansfield
+United States,Secretary of Veterans Affairs,James Peake,Q1534214,2007-12-20,2009-01-20,male,1944-06-18,,PeakeJames.jpg,James Peake
+United States,Secretary of Veterans Affairs,Eric Shinseki,Q373274,2009-01-21,2014-05-30,male,1942-11-28,,Eric Shinseki official Veterans Affairs portrait.jpg,Eric Shinseki
+United States,Secretary of Veterans Affairs,Sloan D. Gibson,Q16499744,2014-05-30,2014-07-30,male,,,Sloan Gibson.jpg,Sloan D. Gibson
+United States,Secretary of Veterans Affairs,Robert A. McDonald,Q1681148,2014-07-30,2017-01-20,male,1953-06-20,,Bob.McDonald.jpg,Bob McDonald (businessman)
+United States,Secretary of Veterans Affairs,Robert Snyder,Q28543113,2017-01-20,2017-02-14,male,,,Robert Snyder.jpg,Robert Snyder (civil servant)
+United States,Secretary of Veterans Affairs,David Shulkin,Q5239766,2017-02-14,2018-03-28,male,1959-07-22,,David Shulkin official photo.jpg,David Shulkin
+United States,Secretary of Veterans Affairs,Robert Wilkie,Q7351064,2018-03-28,2018-05-29,male,1962-08-02,,Rwilkie DoD.jpg,Robert Wilkie
+United States,Secretary of Veterans Affairs,Peter O'Rourke,Q55629652,2018-05-29,2018-07-30,male,1966-01-03,,Peter O'Rourke official photo.jpg,Peter O'Rourke (U.S. government official)
+United States,Secretary of Veterans Affairs,Robert Wilkie,Q7351064,2018-07-30,2021-01-20,male,1962-08-02,,Rwilkie DoD.jpg,Robert Wilkie
+United States,Secretary of Veterans Affairs,Dat Tran,Q105069464,2021-01-20,2021-02-09,male,,,,Dat Tran
+United States,Secretary of Veterans Affairs,Denis McDonough,Q3702047,2021-02-09,,male,1969-12-02,,"Secretary McDonough, official photo.jpg",Denis McDonough
+United States,Chief Justice of the United States,William Rehnquist,Q311562,1986-09-26,2005-09-03,male,1924-10-01,2005-09-03,William Rehnquist.jpg,William Rehnquist
+United States,Chief Justice of the United States,John Roberts,Q11153,2005-09-29,,male,1955-01-27,,Official roberts CJ.jpg,John Roberts
+United States,Attorney General,Janet Reno,Q236421,1993-03-12,2001-01-20,female,1938-07-21,2016-11-07,Janet Reno-us-Portrait.jpg,Janet Reno
+United States,Attorney General,Eric Holder,Q312644,2001-01-20,2001-02-02,male,1951-01-21,,Eric Holder official portrait.jpg,Eric Holder
+United States,Attorney General,John Ashcroft,Q311141,2001-02-02,2005-02-03,male,1942-05-09,,John Ashcroft.jpg,John Ashcroft
+United States,Attorney General,Alberto Gonzales,Q202350,2005-02-03,2007-09-17,male,1955-08-04,,Alberto Gonzales - official DoJ photograph.jpg,Alberto Gonzales
+United States,Attorney General,Paul Clement,Q1356377,2007-09-17,2007-09-18,male,1966-06-24,,Paul D. Clement.jpg,Paul Clement
+United States,Attorney General,Peter Keisler,Q3376685,2007-09-18,2007-11-09,male,1960-10-13,,Peterkeisler.jpg,Peter Keisler
+United States,Attorney General,Michael Mukasey,Q540275,2007-11-09,2009-01-20,male,1941-07-28,,MichaelMukaseySept2010.jpg,Michael Mukasey
+United States,Attorney General,Mark Filip,Q1773127,2009-01-20,2009-02-03,male,1966-06-01,,Mark Filip.jpg,Mark Filip
+United States,Attorney General,Eric Holder,Q312644,2009-02-03,2015-04-27,male,1951-01-21,,Eric Holder official portrait.jpg,Eric Holder
+United States,Attorney General,Loretta Lynch,Q6680965,2015-04-27,2017-01-20,female,1959-05-21,,"Loretta Lynch, official portrait.jpg",Loretta Lynch
+United States,Attorney General,Sally Yates,Q21062855,2017-01-20,2017-01-30,female,1960-08-20,,Sally Q. Yates.jpg,Sally Yates
+United States,Attorney General,Dana Boente,Q17989631,2017-01-30,2017-02-09,male,1954-02-07,,Dana Boente.jpg,Dana Boente
+United States,Attorney General,Jeff Sessions,Q358443,2017-02-09,2018-11-07,male,1946-12-24,,"Jeff Sessions, official portrait.jpg",Jeff Sessions
+United States,Attorney General,Matthew Whitaker,Q6790538,2018-11-07,2019-02-14,male,1969-10-29,,Matthew G. Whitaker official photo.jpg,Matthew Whitaker
+United States,Attorney General,William Barr,Q723917,2019-02-14,2020-12-23,male,1950-05-23,,William Barr.jpg,William Barr
+United States,Attorney General,Jeffrey A. Rosen,Q28968002,2020-12-24,2021-01-20,male,1958,,Jeffrey A. Rosen.jpg,Jeffrey A. Rosen
+United States,Attorney General,Monty Wilkinson,Q104907580,2021-01-20,2021-03-10,male,,,,Monty Wilkinson (lawyer)
+United States,Attorney General,John Demers,Q41800022,2021-01-20,2021-01-20,male,1971-09-21,,John Demers official photo.png,John Demers
+United States,Attorney General,Merrick Garland,Q1922011,2021-03-11,,male,1952-11-13,,2016 March 16 Merrick Garland profile by The White House.jpg,Merrick Garland
+United States,Chairman of the Joint Chiefs of Staff,Hugh Shelton,Q1358112,1997-10-01,2001-09-30,male,1942-01-02,,"General Henry Shelton, official portrait 2.jpg",Hugh Shelton
+United States,Chairman of the Joint Chiefs of Staff,Richard Bowman Myers,Q1937025,2001-10-01,2005-09-30,male,1942-03-01,,Richard Myers wearing Japanese Happi.jpg,Richard Myers
+United States,Chairman of the Joint Chiefs of Staff,Peter Pace,Q540453,2005-10-01,2007-09-30,male,1945-11-05,,Peter Pace official portrait.jpg,Peter Pace
+United States,Chairman of the Joint Chiefs of Staff,Michael Mullen,Q503161,2007-10-01,2011-09-30,male,1946-10-04,,"Michael Mullen, CJCS, official photo portrait, 2007.jpg",Michael Mullen
+United States,Chairman of the Joint Chiefs of Staff,Martin Dempsey,Q26093,2011-10-01,2015-09-25,male,1952-03-14,,Dempsey max.jpg,Martin Dempsey
+United States,Chairman of the Joint Chiefs of Staff,"Joseph F. Dunford, Jr.",Q6282969,2015-10-01,2019-09-30,male,1955-12-08,,General Joseph F. Dunford.jpg,Joseph Dunford
+United States,Chairman of the Joint Chiefs of Staff,Mark A. Milley,Q6766465,2019-10-01,,male,1958-06-20,,General Mark A. Milley.jpg,Mark Milley
+United States,National Security Advisor,Sandy Berger,Q46089,1997-03-14,2001-01-20,male,1945-10-28,2015-12-02,"Official Portrait of United States National Security Advisor Samuel Richard ""Sandy"" Berger.jpg",Sandy Berger
+United States,National Security Advisor,Condoleezza Rice,Q47216,2001-01-20,2005-01-26,female,1954-11-14,,Condoleezza Rice.jpg,Condoleezza Rice
+United States,National Security Advisor,Stephen Hadley,Q698907,2005-01-26,2009-01-20,male,1947-02-13,,Stephen Hadley.jpg,Stephen Hadley
+United States,National Security Advisor,James L. Jones,Q467451,2009-01-20,2010-10-08,male,1943-12-19,,James L. Jones 2.jpg,James L. Jones
+United States,National Security Advisor,Thomas E. Donilon,Q618727,2010-10-08,2013-07-01,male,1955-05-14,,Thomas Donilon.jpg,Thomas E. Donilon
+United States,National Security Advisor,Susan Rice,Q50612,2013-07-01,2017-01-20,female,1964-11-17,,"Susan E. Rice, DPC Director (cropped).jpg",Susan Rice
+United States,National Security Advisor,Michael Flynn,Q6834757,2017-01-20,2017-02-13,male,1958-12-24,,Michael T Flynn.jpg,Michael Flynn
+United States,National Security Advisor,Keith Kellogg,Q27916194,2017-02-13,2017-02-20,male,1944-05-12,,Keith Kellogg 2000.jpg,Keith Kellogg
+United States,National Security Advisor,H. R. McMaster,Q5628492,2017-02-20,2018-04-09,male,1962-07-24,,Lieutenant General H. R. McMaster.jpg,H. R. McMaster
+United States,National Security Advisor,John R. Bolton,Q311269,2018-04-09,2019-09-10,male,1948-11-20,,John R. Bolton official photo.jpg,John Bolton
+United States,National Security Advisor,Robert C. O'Brien,Q7342642,2019-09-18,2021-01-20,male,1966-06-18,,Robert C. O'Brien.jpg,Robert C. O'Brien
+United States,National Security Advisor,Jake Sullivan,Q16730147,2021-01-20,,male,1976-11-28,,Jake-Sullivan-WH.png,Jake Sullivan
+United States,Director of National Intelligence,John Negroponte,Q453868,2005-04-21,2007-02-13,male,1939-07-21,,John Negroponte official portrait State.jpg,John Negroponte
+United States,Director of National Intelligence,John Michael McConnell,Q1379781,2007-02-20,2009-01-27,male,1943-07-26,,"Mike McConnell, official ODNI photo portrait.jpg",Mike McConnell (U.S. Naval officer)
+United States,Director of National Intelligence,Dennis C. Blair,Q1189023,2009-01-29,2010-05-28,male,1947-02-04,,Dennis Blair official Director of National Intelligence portrait.jpg,Dennis C. Blair
+United States,Director of National Intelligence,David Gompert,Q5234213,2010-05-28,2010-08-05,male,1945,,David Gompert official portrait.jpg,David Gompert
+United States,Director of National Intelligence,James R. Clapper,Q1681008,2010-08-09,2017-01-20,male,1941-03-14,,James R. Clapper official portrait.jpg,James Clapper
+United States,Director of National Intelligence,Mike Dempsey,Q28794135,2017-01-20,2017-03-16,male,,,Michael Dempsey.jpg,Mike Dempsey (intelligence)
+United States,Director of National Intelligence,Dan Coats,Q632321,2017-03-16,2019-08-15,male,1943-05-16,,Dan Coats official DNI portrait.jpg,Dan Coats
+United States,Director of National Intelligence,Joseph Maguire,Q6285224,2019-08-16,2020-02-20,male,1951-08-14,,Joseph Maguire official photo.jpg,Joseph Maguire
+United States,Director of National Intelligence,Richard Grenell,Q7326068,2020-02-20,2020-05-26,male,1966-09-18,,Richard Grenell official photo.jpg,Richard Grenell
+United States,Director of National Intelligence,John Ratcliffe,Q16980175,2020-05-26,2021-01-20,male,1965-10-20,,John Ratcliffe official photo.jpg,John Ratcliffe (American politician)
+United States,Director of National Intelligence,Avril Haines,Q14525857,2021-01-21,,female,1969-08-27,,Avril Haines portrait.jpg,Avril Haines
+United States,United States Trade Representative,Robert Zoellick,Q312724,2001-02-07,2005-02-22,male,1953-07-25,,"Zoellick, Robert (official portrait 2008).jpg",Robert Zoellick
+United States,United States Trade Representative,Ron Kirk,Q1399368,2009-03-18,2013-03-15,male,1954-06-27,,Ron Kirk.jpg,Ron Kirk
+United States,United States Trade Representative,Michael Froman,Q6830434,2013-06-21,2017-01-20,male,1962-08-20,,Michael Froman - World Economic Forum Annual Meeting 2012.jpg,Michael Froman
+United States,United States Trade Representative,Robert Lighthizer,Q28113710,2017-05-15,2021-01-20,male,1947-10-11,,Robert Lighthizer official Transition portrait.jpg,Robert Lighthizer
+United States,United States Trade Representative,Katherine Tai,Q104076331,2021-03-18,,female,1974-03-18,,"Katherine Tai, official portrait.jpg",Katherine Tai
+United States,Administrator of the Environmental Protection Agency,Carol Browner,Q299576,1993-01-23,2001-01-20,female,1955-12-16,,CarolBrowner2.jpg,Carol Browner
+United States,Administrator of the Environmental Protection Agency,Christine Todd Whitman,Q435267,2001-01-31,2003-06-27,female,1946-09-26,,WhitmanChristineTodd.jpg,Christine Todd Whitman
+United States,Administrator of the Environmental Protection Agency,Marianne Lamont Horinko,Q6762242,2003-07-14,2003-11-05,female,1961-05-10,,,Marianne Lamont Horinko
+United States,Administrator of the Environmental Protection Agency,Mike Leavitt,Q879432,2003-11-06,2005-01-26,male,1951-02-11,,Mike Leavitt.jpg,Mike Leavitt
+United States,Administrator of the Environmental Protection Agency,Stephen L. Johnson,Q465315,2005-01-26,2009-01-20,male,1951-03-21,,"Stephen L. Johnson, official 2006 EPA photo.jpg",Stephen L. Johnson
+United States,Administrator of the Environmental Protection Agency,Lisa P. Jackson,Q445734,2009-01-23,2013-02-15,female,1962-02-08,,Lisa P. Jackson official portrait.jpg,Lisa P. Jackson
+United States,Administrator of the Environmental Protection Agency,Bob Perciasepe,Q4933628,2013-02-15,2013-07-18,male,1951-02-19,,BobPerciasepe.jpg,Bob Perciasepe
+United States,Administrator of the Environmental Protection Agency,Gina McCarthy,Q5562899,2013-07-18,2017-01-20,female,1954-05-03,,Gina McCarthy official portrait.jpg,Gina McCarthy
+United States,Administrator of the Environmental Protection Agency,Catherine McCabe,Q28469527,2017-01-20,2017-02-17,female,,,Catherine McCabe.jpg,Catherine McCabe
+United States,Administrator of the Environmental Protection Agency,Scott Pruitt,Q7437083,2017-02-17,2018-07-09,male,1968-05-09,,Scott Pruitt official portrait.jpg,Scott Pruitt
+United States,Administrator of the Environmental Protection Agency,Andrew R. Wheeler,Q37936461,2018-07-09,2019-02-28,male,1964,,Andrew Wheeler official photo.jpg,Andrew R. Wheeler
+United States,Administrator of the Environmental Protection Agency,Andrew R. Wheeler,Q37936461,2019-02-28,2021-01-20,male,1964,,Andrew Wheeler official photo.jpg,Andrew R. Wheeler
+United States,Administrator of the Environmental Protection Agency,Jane Nishida,Q105044605,2021-01-20,2021-03-11,female,1955,,Jane Nishida.jpg,Jane Nishida
+United States,Administrator of the Environmental Protection Agency,Charlotte Bertrand,Q105754549,2021-01-20,2021-01-20,female,,,,Charlotte Bertrand
+United States,Administrator of the Environmental Protection Agency,Michael S. Regan,Q104224230,2021-03-11,,male,1976-08-06,,Michael S. Regan official photo (cropped).jpg,Michael S. Regan
+United States,Administrator of the Small Business Administration,Marianne Markowitz,Q16866716,2014-02-07,2014-04-07,female,1966,,Marianne Markowitz.png,Marianne Markowitz
+United States,Administrator of the Small Business Administration,Maria Contreras-Sweet,Q6761112,2014-04-07,2017-01-20,female,1955,,Maria Contreras Sweet portrait.jpg,Maria Contreras-Sweet
+United States,Administrator of the Small Business Administration,Linda McMahon,Q233905,2017-02-14,2019-04-12,female,1948-10-04,,Linda McMahon official photo.jpg,Linda McMahon
+United States,Administrator of the Small Business Administration,Chris Pilkerton,Q63456197,2019-04-13,2020-01-14,male,1973,,Chris Pilkerton official photo.jpg,Chris Pilkerton
+United States,Administrator of the Small Business Administration,Jovita Carranza,Q6296812,2020-01-14,2021-01-20,female,1949-06-29,,Jovita Carranza official photo.jpg,Jovita Carranza
+United States,Administrator of the Small Business Administration,Isabel Guzman,Q104717188,2021-03-17,,female,1971,,Isabel-Guzman.jpg,Isabel Guzman
+United States,United States Ambassador to the United Nations,Richard Holbrooke,Q155649,1999-09-07,2001-01-20,male,1941-04-24,2010-12-13,Richard Holbrooke.jpg,Richard Holbrooke
+United States,United States Ambassador to the United Nations,John Negroponte,Q453868,2001-09-19,2004-06-23,male,1939-07-21,,John Negroponte official portrait State.jpg,John Negroponte
+United States,United States Ambassador to the United Nations,John Danforth,Q1287554,2004-07-23,2005-01-20,male,1936-09-05,,John danforth.JPG,John Danforth
+United States,United States Ambassador to the United Nations,Anne W. Patterson,Q433742,2005-01-20,2005-08-01,female,1949-10-04,,Anne W Patterson ambassador 2011.jpg,Anne W. Patterson
+United States,United States Ambassador to the United Nations,John R. Bolton,Q311269,2005-08-01,2006-12-09,male,1948-11-20,,John R. Bolton official photo.jpg,John Bolton
+United States,United States Ambassador to the United Nations,Zalmay Khalilzad,Q145193,2007-04-17,2009-01-20,male,1951-03-22,,Zalmay Khalilzad in October 2011-cropped.jpg,Zalmay Khalilzad
+United States,United States Ambassador to the United Nations,Susan Rice,Q50612,2009-01-22,2013-07-01,female,1964-11-17,,"Susan E. Rice, DPC Director (cropped).jpg",Susan Rice
+United States,United States Ambassador to the United Nations,Samantha Power,Q454970,2013-06-05,2017-01-20,female,1970-09-21,,Samantha Power official portrait.jpg,Samantha Power
+United States,United States Ambassador to the United Nations,Michele J. Sison,Q6836763,2017-01-20,2017-01-27,female,1959-05-27,,Michele Sison official photo.jpg,Michele J. Sison
+United States,United States Ambassador to the United Nations,Nikki Haley,Q11668,2017-01-27,2018-12-31,female,1972-01-20,,Nikki Haley by Gage Skidmore 4.jpg,Nikki Haley
+United States,United States Ambassador to the United Nations,Kelly Craft,Q28871485,2019-09-12,2021-01-20,female,1962-02-24,,Kelly Knight Craft.jpg,Kelly Craft
+United States,United States Ambassador to the United Nations,Linda Thomas-Greenfield,Q19920980,2021-02-25,,female,1952-11-22,,Linda-Thomas-Greenfield-v1-8x10-1.jpg,Linda Thomas-Greenfield
+United States,Chair of the Council of Economic Advisers,Tomas J. Philipson,Q7818305,2019-06-28,2020-06-23,male,1962,,Tomas J. Philipson 2012.jpg,Tomas J. Philipson
+United States,Chair of the Council of Economic Advisers,Tyler Goodspeed,Q55433012,2020-06-23,2021-01-07,male,,,Tyler-Beck-Goodspeed-Nov2019.png,Tyler Goodspeed
+United States,Chair of the Council of Economic Advisers,Cecilia Rouse,Q616305,2021-03-12,,female,1963-12-18,,Cecilia Rouse official portrait small.jpg,Cecilia Rouse
+United States,White House Chief of Staff,John Podesta,Q1290476,1998-10-20,2001-01-20,male,1949-01-08,,John Podesta.jpg,John Podesta
+United States,White House Chief of Staff,Andrew Card,Q504029,2001-01-20,2006-04-14,male,1947-05-10,,Andrew Card award crop.jpg,Andrew Card
+United States,White House Chief of Staff,Joshua Bolten,Q649653,2006-04-14,2009-01-20,male,1954-08-16,,Bolten Joshua.jpg,Joshua Bolten
+United States,White House Chief of Staff,Rahm Emanuel,Q298443,2009-01-20,2010-10-01,male,1959-11-29,,"Rahm Emanuel, official photo portrait color.jpg",Rahm Emanuel
+United States,White House Chief of Staff,Pete Rouse,Q1290431,2010-10-01,2011-01-13,male,1946-04-15,,Pete Rouse in the Oval Office.jpg,Pete Rouse
+United States,White House Chief of Staff,William M. Daley,Q1370400,2011-01-13,2012-01-27,male,1948-08-09,,William M. Daley official portrait.jpg,William M. Daley
+United States,White House Chief of Staff,Jack Lew,Q1677579,2012-01-27,2013-01-25,male,1955-08-29,,Jacob Lew.jpg,Jack Lew
+United States,White House Chief of Staff,Denis McDonough,Q3702047,2013-01-25,2017-01-20,male,1969-12-02,,"Secretary McDonough, official photo.jpg",Denis McDonough
+United States,White House Chief of Staff,Reince Priebus,Q1357640,2017-01-20,2017-07-28,male,1972-03-18,,Reince Priebus by Gage Skidmore.jpg,Reince Priebus
+United States,White House Chief of Staff,John F. Kelly,Q6232322,2017-07-31,2019-01-02,male,1950-05-11,,"John F. Kelly, 2012.jpg",John F. Kelly
+United States,White House Chief of Staff,Mick Mulvaney,Q1235731,2019-01-02,2020-03-05,male,1967-07-21,,Mick Mulvaney official photo.jpg,Mick Mulvaney
+United States,White House Chief of Staff,Mark Randall Meadows,Q3956796,2020-03-06,2021-01-20,male,1959-07-28,,"Mark Meadows, Official Portrait, 113th Congress.jpg",Mark Meadows
+United States,White House Chief of Staff,Ron Klain,Q649898,2021-01-20,,male,1961-08-08,,Ron Klain 2015.jpg,Ron Klain
+United States,Presidential Science Advisor and Director of the Office of Science and Technology Policy,Kei Koizumi,Q105320353,2021-01-15,2021-06-02,male,,,20161006-OSEC-RBN-7275 (30189848116).jpg,Kei Koizumi (science policymaker)
+United States,Presidential Science Advisor and Director of the Office of Science and Technology Policy,Eric Lander,Q970550,2021-06-02,,male,1957-02-03,,Eric Lander (cropped).jpg,Eric Lander
+United States,Speaker of the United States House of Representatives,Dennis Hastert,Q553626,1999-01-06,2007-01-03,male,1942-01-02,,Speaker of the United States House of Representatives Dennis Hastert (cropped).jpg,Dennis Hastert
+United States,Speaker of the United States House of Representatives,Nancy Pelosi,Q170581,2007-01-04,2011-01-03,female,1940-03-26,,Official photo of Speaker Nancy Pelosi in 2019.jpg,Nancy Pelosi
+United States,Speaker of the United States House of Representatives,John Boehner,Q11702,2011-01-03,2015-10-29,male,1949-11-17,,John Boehner official portrait.jpg,John Boehner
+United States,Speaker of the United States House of Representatives,Paul Ryan,Q203966,2015-10-29,2019-01-03,male,1970-01-29,,Paul Ryan official photo.jpg,Paul Ryan
+United States,Speaker of the United States House of Representatives,Nancy Pelosi,Q170581,2019-01-03,,female,1940-03-26,,Official photo of Speaker Nancy Pelosi in 2019.jpg,Nancy Pelosi
+United States,Governor of Alabama,Don Siegelman,Q593533,1999-01-18,2003-01-20,male,1946-02-24,,Don Siegelman at Netroots Nation 2008.jpg,Don Siegelman
+United States,Governor of Alabama,Bob Riley,Q438010,2003-01-20,2011-01-17,male,1944-10-03,,Governor Bob Riley.jpg,Bob Riley
+United States,Governor of Alabama,Robert J. Bentley,Q552353,2011-01-17,2017-04-10,male,1943-02-03,,Robert Bentley.jpg,Robert J. Bentley
+United States,Governor of Alabama,Kay Ivey,Q6380211,2017-04-10,,female,1944-10-15,,Portrait-Governor-Kay-Ivey.jpg,Kay Ivey
+United States,Governor of Alaska,Tony Knowles,Q878712,1994-12-05,2002-12-02,male,1943-01-01,,GovTonyKnowles.jpg,Tony Knowles (politician)
+United States,Governor of Alaska,Frank Murkowski,Q448813,2002-12-02,2006-12-04,male,1933-03-28,,"Frank Murkowski, 105th Congress photo.jpg",Frank Murkowski
+United States,Governor of Alaska,Sarah Palin,Q43144,2006-12-04,2009-07-26,female,1964-02-11,,5.3.10SarahPalinByDavidShankbone.jpg,Sarah Palin
+United States,Governor of Alaska,Sean Parnell,Q44639,2009-07-26,2014-12-01,male,1962-11-19,,Former Governor of Alaska Sean Parnell.jpg,Sean Parnell
+United States,Governor of Alaska,Bill Walker,Q18159074,2014-12-01,2018-12-03,male,1951-04-16,,Bill Walker.jpg,Bill Walker (American politician)
+United States,Governor of Alaska,Mike J. Dunleavy,Q16209663,2018-12-03,,male,1961-05-05,,Mike Dunleavy official photo.jpg,Mike Dunleavy (politician)
+United States,Governor of American Samoa,Tauese Sunia,Q533544,1997-01-03,2003-03-26,male,1941-08-29,2003-03-26,GovSunia.jpg,Tauese Sunia
+United States,Governor of American Samoa,Togiola Tulafono,Q472537,2003-03-26,2013-01-03,male,1947-02-28,,Togiola Tulafono.jpg,Togiola Tulafono
+United States,Governor of American Samoa,Lolo Letalu Matalasi Moliga,Q3672115,2013-01-03,2021-01-04,male,1947-08-12,,Lolo Moliga by James Kneubuhl.jpg,Lolo Matalasi Moliga
+United States,Governor of American Samoa,Lemanu Peleti Mauga,Q6521013,2021-01-03,,male,1949-01-01,,Lemanu Peleti Mauga.jpg,Lemanu Peleti Mauga
+United States,Governor of Arizona,Jane Dee Hull,Q264297,1997-09-05,2003-01-06,female,1935-08-08,2020-04-16,Jane Dee Hull by Gage Skidmore.jpg,Jane Dee Hull
+United States,Governor of Arizona,Janet Napolitano,Q229032,2003-01-06,2009-01-21,female,1957-11-29,,Portrait Napolitano hires new.jpg,Janet Napolitano
+United States,Governor of Arizona,Jan Brewer,Q236941,2009-01-21,2015-01-05,female,1944-09-26,,Jan Brewer.jpg,Jan Brewer
+United States,Governor of Arizona,Doug Ducey,Q5300433,2015-01-05,,male,1964-04-09,,DougDucey.jpg,Doug Ducey
+United States,Governor of Arkansas,Mike Huckabee,Q158813,1996-07-15,2007-01-09,male,1955-08-24,,Mike Huckabee by Gage Skidmore 2.jpg,Mike Huckabee
+United States,Governor of Arkansas,Mike Beebe,Q361460,2007-01-09,2015-01-13,male,1946-12-28,,Governor Mike Beebe.jpg,Mike Beebe
+United States,Governor of Arkansas,Asa Hutchinson,Q720121,2015-01-13,,male,1950-12-03,,Asa Hutchinson crop.jpg,Asa Hutchinson
+United States,Governor of California,Gray Davis,Q356929,1999-01-04,2003-11-17,male,1942-12-26,,Gdavis.jpg,Gray Davis
+United States,Governor of California,Arnold Schwarzenegger,Q2685,2003-11-17,2011-01-03,male,1947-07-30,,Arnold Schwarzenegger by Gage Skidmore 4.jpg,Arnold Schwarzenegger
+United States,Governor of California,Jerry Brown,Q152451,2011-01-03,2019-01-17,male,1938-04-07,,Edmund G Brown Jr.jpg,Jerry Brown
+United States,Governor of California,Gavin Newsom,Q461391,2019-01-07,,male,1967-10-10,,Gavin Newsom by Gage Skidmore.jpg,Gavin Newsom
+United States,Governor of Colorado,Bill Owens,Q651820,1999-01-12,2007-01-09,male,1950-10-22,,Governor of Colorado Bill Owens 060502-N-5324D-001 crop.jpg,Bill Owens (Colorado politician)
+United States,Governor of Colorado,Bill Ritter,Q119255,2007-01-09,2011-01-11,male,1956-09-06,,Bill Ritter official photo.jpg,Bill Ritter
+United States,Governor of Colorado,John Hickenlooper,Q430518,2011-01-11,2019-01-08,male,1952-02-07,,"John Hickenlooper, official portrait, 117th Congress.jpeg",John Hickenlooper
+United States,Governor of Colorado,Jared Polis,Q935734,2019-01-08,,male,1975-05-12,,Jared Polis Official 2012.jpg,Jared Polis
+United States,Governor of Connecticut,John G. Rowland,Q885204,1995-01-04,2004-07-01,male,1957-05-24,,CT Governor John Rowland.jpg,John G. Rowland
+United States,Governor of Connecticut,Jodi Rell,Q241788,2004-07-01,2011-01-05,female,1946-06-16,,FEMA - 29383 - Photograph by Debra Young taken on 04-19-2007 in Connecticut.jpg,Jodi Rell
+United States,Governor of Connecticut,Dannel Malloy,Q714269,2011-01-05,2019-01-09,male,1955-07-21,,Dannel Malloy 2016.jpg,Dannel Malloy
+United States,Governor of Connecticut,Ned Lamont,Q1973878,2019-01-09,,male,1954-01-03,,"Governor Ned Lamont of Connecticut, official portrait.jpg",Ned Lamont
+United States,Governor of Delaware,Tom Carper,Q457432,1993-01-19,2001-01-03,male,1947-01-23,,"Tom Carper, official portrait, 112th Congress (cropped).jpg",Tom Carper
+United States,Governor of Delaware,Ruth Ann Minner,Q262440,2001-01-03,2009-01-20,female,1935-01-17,2021-11-04,Ruth Ann Minner.jpg,Ruth Ann Minner
+United States,Governor of Delaware,Jack Markell,Q513243,2009-01-20,2017-01-17,male,1960-11-26,,Jack Markell (2021) (cropped).jpg,Jack Markell
+United States,Governor of Delaware,John Carney,Q505302,2017-01-17,,male,1956-05-20,,John Carney.jpg,John Carney (politician)
+United States,Governor of Florida,Jeb Bush,Q221997,1999-01-05,2007-01-02,male,1953-02-11,,"Governor of Florida Jeb Bush at Southern Republican Leadership Conference, May 2015 by Michael Vadon 02.jpg",Jeb Bush
+United States,Governor of Florida,Charlie Crist,Q374693,2007-01-02,2011-01-04,male,1956-07-24,,Charlie Crist official portrait crop.jpg,Charlie Crist
+United States,Governor of Florida,Rick Scott,Q439729,2011-01-04,2019-01-07,male,1952-12-01,,Official Portrait of Senator Rick Scott (R-FL).jpg,Rick Scott
+United States,Governor of Florida,Ron DeSantis,Q3105215,2019-01-08,,male,1978-09-14,,"Ron DeSantis, Official Portrait, 113th Congress.jpg",Ron DeSantis
+United States,Governor of Georgia,Roy Barnes,Q882665,1999-01-11,2003-01-13,male,1948-03-11,,Governor Roy Barnes.jpg,Roy Barnes
+United States,Governor of Georgia,Sonny Perdue,Q525362,2003-01-13,2011-01-10,male,1946-12-20,,Sonny Perdue at rally.jpg,Sonny Perdue
+United States,Governor of Georgia,Nathan Deal,Q179732,2011-01-10,2019-01-14,male,1942-08-25,,"Nathan Deal, official 110th Congress photo.jpg",Nathan Deal
+United States,Governor of Georgia,Brian Kemp,Q4964973,2019-01-14,,male,1963-11-02,,David Perdue and Brian Kemp (cropped).jpg,Brian Kemp
+United States,Governor of Guam,Carl T.C. Gutierrez,Q1567016,1995-01-02,2003-01-06,male,1941-10-15,,Carl Gutierrez.jpg,Carl Gutierrez
+United States,Governor of Guam,Felix Perez Camacho,Q182504,2003-01-06,2011-01-03,male,1957-10-30,,Guam Governor Felix Camacho.jpg,Felix Perez Camacho
+United States,Governor of Guam,Eddie Calvo,Q888443,2011-01-03,2019-01-07,male,1961-08-29,,Governor Eddie Calvo.jpg,Eddie Baza Calvo
+United States,Governor of Guam,Lou Leon Guerrero,Q21066675,2019-01-07,,female,1950-11-08,,Lou Leon Guerrero in 2018.jpeg,Lou Leon Guerrero
+United States,Governor of Hawaii,Ben Cayetano,Q816457,1994-12-02,2002-12-02,male,1939-11-14,,Ben Cayetano in 2019.jpg,Ben Cayetano
+United States,Governor of Hawaii,Linda Lingle,Q231701,2002-12-02,2010-12-06,female,1953-06-04,,Linda Lingle navy 1-cropped.jpg,Linda Lingle
+United States,Governor of Hawaii,Neil Abercrombie,Q469689,2010-12-06,2014-12-01,male,1938-06-26,,"Neil Abercrombie, 111th Pictorial photo.jpg",Neil Abercrombie
+United States,Governor of Hawaii,David Ige,Q16189318,2014-12-01,,male,1957-01-15,,Governor David Ige.jpg,David Ige
+United States,Governor of Idaho,Dirk Kempthorne,Q737493,1999-01-08,2006-05-26,male,1951-10-29,,"Dirk Kempthorne, official Interior Dept color photo, 2006.jpg",Dirk Kempthorne
+United States,Governor of Idaho,Jim Risch,Q721871,2006-05-26,2007-01-01,male,1943-05-03,,Jim Risch official portrait.jpg,Jim Risch
+United States,Governor of Idaho,Butch Otter,Q39593,2007-01-01,2019-01-07,male,1942-05-03,,ButchOtterOfficialCongressionalPortrait.jpg,Butch Otter
+United States,Governor of Idaho,Brad Little,Q4954097,2019-01-07,,male,1954-02-15,,Brad Little official photo.jpg,Brad Little
+United States,Governor of Illinois,George Ryan,Q887327,1999-01-11,2003-01-13,male,1934-02-24,,2007 Governor George Ryan crop4.JPG,George Ryan
+United States,Governor of Illinois,Rod Blagojevich,Q151891,2003-01-13,2009-01-29,male,1956-12-10,,Blagojevich.jpg,Rod Blagojevich
+United States,Governor of Illinois,Pat Quinn,Q460291,2009-01-29,2015-01-12,male,1948-12-16,,Pat quinn governor of illinois.jpg,Pat Quinn (politician)
+United States,Governor of Illinois,Bruce Rauner,Q15972549,2015-01-12,2019-01-14,male,1957-02-18,,Bruce Rauner cropped 2015.jpg,Bruce Rauner
+United States,Governor of Illinois,J.B. Pritzker,Q6103950,2019-01-14,,male,1965-01-19,,J. B. Pritzker (cropped).jpg,J. B. Pritzker
+United States,Governor of Indiana,Frank O'Bannon,Q176346,1997-01-13,2003-09-13,male,1930-01-30,2003-09-13,Reading Day at the Residence.jpg,Frank O'Bannon
+United States,Governor of Indiana,Joe Kernan,Q1431576,2003-09-13,2005-01-10,male,1946-04-08,2020-07-29,Joe Kernan.jpg,Joe Kernan (politician)
+United States,Governor of Indiana,Mitch Daniels,Q351330,2005-01-10,2013-01-14,male,1949-04-07,,Mitch Daniels.jpg,Mitch Daniels
+United States,Governor of Indiana,Mike Pence,Q24313,2013-01-14,2017-01-09,male,1959-06-07,,Mike Pence official Vice Presidential portrait.jpg,Mike Pence
+United States,Governor of Indiana,Eric Holcomb,Q23016975,2017-01-09,,male,1968-05-02,,Eric Holcomb (2021).jpeg,Eric Holcomb
+United States,Governor of Iowa,Tom Vilsack,Q353826,1999-01-15,2007-01-12,male,1950-12-13,,20210427-OSEC-TEW-001 Agriculture Secretary Tom Vilsack (51148817903).jpg,Tom Vilsack
+United States,Governor of Iowa,Chet Culver,Q222940,2007-01-12,2011-01-14,male,1966-01-25,,Chet Culver speaking.jpg,Chet Culver
+United States,Governor of Iowa,Terry Branstad,Q39609,2011-01-14,2017-05-24,male,1946-11-17,,Terry Branstad by Gage Skidmore.jpg,Terry Branstad
+United States,Governor of Iowa,Kim Reynolds,Q6409269,2017-05-24,,female,1959-08-04,,Kim Reynolds - Official Portrait - 83rd GA.jpg,Kim Reynolds
+United States,Governor of Kansas,Bill Graves,Q50613,1995-01-09,2003-01-13,male,1953-01-09,,Bill Graves.jpg,Bill Graves
+United States,Governor of Kansas,Kathleen Sebelius,Q27677,2003-01-13,2009-04-28,female,1948-05-15,,Kathleen Sebelius official portrait.jpg,Kathleen Sebelius
+United States,Governor of Kansas,Mark Parkinson,Q881181,2009-04-28,2011-01-10,male,1957-06-24,,Mark Parkinson.jpg,Mark Parkinson
+United States,Governor of Kansas,Sam Brownback,Q317618,2011-01-10,2018-01-31,male,1956-09-12,,Sam Brownback official portrait 2.jpg,Sam Brownback
+United States,Governor of Kansas,Jeff Colyer,Q6173601,2018-01-31,2019-01-14,male,1960-06-03,,Jeff Colyer official portrait (cropped).jpg,Jeff Colyer
+United States,Governor of Kansas,Laura Kelly,Q6499080,2019-01-14,,female,1950-01-24,,Laura Kelly official photo (cropped).jpg,Laura Kelly
+United States,Governor of Kentucky,Paul E. Patton,Q889216,1995-12-12,2003-12-09,male,1937-05-26,,Paul E. Patton 2013.jpg,Paul E. Patton
+United States,Governor of Kentucky,Ernie Fletcher,Q881233,2003-12-09,2007-12-11,male,1952-11-12,,Fletcher testifying.jpg,Ernie Fletcher
+United States,Governor of Kentucky,Steve Beshear,Q532220,2007-12-11,2015-12-08,male,1944-09-21,,Steve Beshear by Gage Skidmore.jpg,Steve Beshear
+United States,Governor of Kentucky,Matt Bevin,Q19953601,2015-12-08,2019-12-10,male,1967-01-09,,Matt Bevin.jpg,Matt Bevin
+United States,Governor of Kentucky,Andy Beshear,Q21572825,2019-12-10,,male,1977-11-29,,Gov. Beshear of Kentucky 2020.jpg,Andy Beshear
+United States,Governor of Louisiana,Murphy J. Foster,Q880111,1996-01-08,2004-01-12,male,1930-07-11,2020-10-04,GovFoster1.JPG,Mike Foster (American politician)
+United States,Governor of Louisiana,Kathleen Blanco,Q237786,2004-01-12,2008-01-14,female,1942-12-15,2019-08-18,Kathleen Blanco 2006 (cropped).jpg,Kathleen Blanco
+United States,Governor of Louisiana,Bobby Jindal,Q295492,2008-01-14,2016-01-11,male,1971-06-10,,"Bobby Jindal, official 109th Congressional photo.jpg",Bobby Jindal
+United States,Governor of Louisiana,John Bel Edwards,Q6221385,2016-01-11,,male,1966-09-16,,John Bel Edwards.jpg,John Bel Edwards
+United States,Governor of Maine,Angus King,Q544464,1995-01-05,2003-01-08,male,1944-03-31,,"Angus King, official portrait, 113th Congress.jpg",Angus King
+United States,Governor of Maine,John Baldacci,Q502949,2003-01-08,2011-01-05,male,1955-01-30,,John Baldacci - 107th United States Congress.jpg,John Baldacci
+United States,Governor of Maine,Paul LePage,Q881196,2011-01-05,2019-01-02,male,1948-10-09,,PaulLePage.jpg,Paul LePage
+United States,Governor of Maine,Janet T. Mills,Q6153618,2019-01-02,,female,1947-12-30,,Maine congressional delegation meets with Gov Janet Mills (cropped).jpg,Janet Mills
+United States,Governor of Maryland,Parris Glendening,Q650928,1995-01-18,2003-01-15,male,1942-06-11,,"Parris Glendening speaking, September 2006.jpg",Parris Glendening
+United States,Governor of Maryland,Bob Ehrlich,Q888007,2003-01-15,2007-01-17,male,1957-11-25,,Robertehrlichrep.jpg,Bob Ehrlich
+United States,Governor of Maryland,Martin O'Malley,Q120260,2007-01-17,2015-01-21,male,1963-01-18,,Martin O'Malley 2010.jpg,Martin O'Malley
+United States,Governor of Maryland,Larry Hogan,Q16731303,2015-01-21,,male,1956-05-25,,Larry-Hogan.JPG,Larry Hogan
+United States,Governor of Massachusetts,Paul Cellucci,Q718335,1997-07-29,2001-04-10,male,1948-04-24,2013-06-08,Cellucci paul.jpg,Paul Cellucci
+United States,Governor of Massachusetts,Paul Cellucci,Q718335,1999-01-07,2001-04-10,male,1948-04-24,2013-06-08,Cellucci paul.jpg,Paul Cellucci
+United States,Governor of Massachusetts,Jane Swift,Q449745,2001-04-10,2003-01-02,female,1965-02-24,,Jane Swift 2001.jpeg,Jane Swift
+United States,Governor of Massachusetts,Mitt Romney,Q4496,2003-01-02,2007-01-04,male,1947-03-12,,Mitt Romney official US Senate portrait.jpg,Mitt Romney
+United States,Governor of Massachusetts,Deval Patrick,Q11100,2007-01-04,2015-01-08,male,1956-07-31,,Deval Patrick official photo.jpg,Deval Patrick
+United States,Governor of Massachusetts,Charlie Baker,Q5076629,2015-01-08,,male,1956-11-13,,Charlie Baker official photo.jpg,Charlie Baker
+United States,Governor of Michigan,John Engler,Q735182,1991-01-01,2003-01-01,male,1948-10-12,,John Engler.jpg,John Engler
+United States,Governor of Michigan,Jennifer Granholm,Q234994,2003-01-01,2011-01-01,female,1959-02-05,,Secretary Jennifer Granholm (cropped).jpg,Jennifer Granholm
+United States,Governor of Michigan,Rick Snyder,Q887111,2011-01-01,2019-01-01,male,1958-08-19,,RickSnyder.jpg,Rick Snyder
+United States,Governor of Michigan,Gretchen Whitmer,Q5607720,2019-01-01,,female,1971-08-23,,Gretchen Whitmer (2021) (cropped).jpg,Gretchen Whitmer
+United States,Governor of Minnesota,Jesse Ventura,Q311161,1999-01-04,2003-01-06,male,1951-07-15,,JesseVentura1.jpg,Jesse Ventura
+United States,Governor of Minnesota,Tim Pawlenty,Q160181,2003-01-06,2011-01-03,male,1960-11-27,,Tim Pawlenty official photo.jpg,Tim Pawlenty
+United States,Governor of Minnesota,Mark Dayton,Q513091,2011-01-03,2019-01-07,male,1947-01-26,,Mark Dayton official photo.jpg,Mark Dayton
+United States,Governor of Minnesota,Tim Walz,Q2434360,2019-01-07,,male,1964-04-06,,Tim Walz official photo.jpg,Tim Walz
+United States,Governor of Mississippi,Kirk Fordice,Q887553,1992-01-14,2000-01-11,male,1934-02-10,2004-09-07,Kirk Fordice.jpg,Kirk Fordice
+United States,Governor of Mississippi,Ronnie Musgrove,Q444194,2000-01-11,2004-01-13,male,1956-07-29,,David Ronald Musgrove.jpg,Ronnie Musgrove
+United States,Governor of Mississippi,Haley Barbour,Q361450,2004-01-13,2012-01-10,male,1947-10-22,,"Haley Barbour at FEMA conference, Apr 14, 2006.jpg",Haley Barbour
+United States,Governor of Mississippi,Phil Bryant,Q887898,2012-01-10,2020-01-14,male,1954-12-09,,Governor Phil Bryant.jpg,Phil Bryant
+United States,Governor of Mississippi,Tate Reeves,Q7687964,2020-01-14,,male,1974-06-05,,Tate Reeves 2019.jpg,Tate Reeves
+United States,Governor of Missouri,Mel Carnahan,Q538609,1993-01-11,2000-10-16,male,1934-02-11,2000-10-16,CarnahanMel.jpg,Mel Carnahan
+United States,Governor of Missouri,Roger B. Wilson,Q377417,2000-10-16,2001-01-08,male,1948-10-10,,Roger B. Wilson.jpg,Roger B. Wilson
+United States,Governor of Missouri,Bob Holden,Q714950,2001-01-08,2005-01-10,male,1949-08-26,,Bob Holden rep.jpg,Bob Holden
+United States,Governor of Missouri,Matt Blunt,Q881141,2005-01-10,2009-01-12,male,1970-11-20,,Mattblunt3.jpg,Matt Blunt
+United States,Governor of Missouri,Jay Nixon,Q562174,2009-01-12,2017-01-09,male,1956-02-13,,Jay Nixon crop.jpg,Jay Nixon
+United States,Governor of Missouri,Eric Greitens,Q5386615,2017-01-09,2018-06-01,male,1974-04-10,,Eric Greitens 2011-7.jpg,Eric Greitens
+United States,Governor of Missouri,Mike Parson,Q6848323,2018-06-01,,male,1955-09-17,,Mike Parson official photo.jpg,Mike Parson
+United States,Governor of Montana,Marc Racicot,Q725575,1993-01-03,2001-01-01,male,1948-07-24,,Marc Racicot 2008.JPG,Marc Racicot
+United States,Governor of Montana,Judy Martz,Q449719,2001-01-01,2005-01-03,female,1943-07-28,2017-10-30,Judy Martz 2003.jpg,Judy Martz
+United States,Governor of Montana,Brian Schweitzer,Q445823,2005-01-03,2013-01-07,male,1955-09-04,,Brian Schweitzer official photo.jpg,Brian Schweitzer
+United States,Governor of Montana,Steve Bullock,Q24015,2013-01-07,2021-01-04,male,1966-04-11,,Steve Bullock by Gage Skidmore.jpg,Steve Bullock (American politician)
+United States,Governor of Montana,Greg Gianforte,Q5605607,2021-01-04,,male,1961-04-17,,Greg Gianforte crop.jpg,Greg Gianforte
+United States,Governor of Nebraska,Mike Johanns,Q448880,1999-01-07,2005-01-20,male,1950-06-18,,Mike Johanns.jpg,Mike Johanns
+United States,Governor of Nebraska,Dave Heineman,Q381821,2005-01-20,2015-01-08,male,1948-05-12,,Dave Heineman official photo.jpg,Dave Heineman
+United States,Governor of Nebraska,Pete Ricketts,Q6106781,2015-01-08,,male,1964-08-19,,"Ricketts, Pete 2013-11-04a.JPG",Pete Ricketts
+United States,Governor of Nevada,Kenny Guinn,Q672428,1999-01-04,2007-01-01,male,1936-08-24,2010-07-22,Kenny Guinn.jpg,Kenny Guinn
+United States,Governor of Nevada,Jim Gibbons,Q639207,2007-01-01,2011-01-03,male,1944-12-16,,Jimgibbons.jpg,Jim Gibbons (American politician)
+United States,Governor of Nevada,Brian Sandoval,Q714516,2011-01-03,2019-01-07,male,1963-08-05,,Brian Sandoval 2010.jpg,Brian Sandoval
+United States,Governor of Nevada,Steve Sisolak,Q16185594,2019-01-07,,male,1953-12-26,,Steve Sisolak 2020 (portrait crop).jpg,Steve Sisolak
+United States,Governor of New Hampshire,Jeanne Shaheen,Q270316,1997-01-09,2003-01-09,female,1947-01-28,,"Jeanne Shaheen, official Senate portrait cropped.jpg",Jeanne Shaheen
+United States,Governor of New Hampshire,Craig Benson,Q656079,2003-01-09,2005-01-06,male,1954-10-08,,Gov Craig Benson on 9-11-04.JPG,Craig Benson
+United States,Governor of New Hampshire,John Lynch,Q708125,2005-01-06,2013-01-03,male,1952-11-25,,Governor John Lynch.jpg,John Lynch (New Hampshire governor)
+United States,Governor of New Hampshire,Maggie Hassan,Q24053,2013-01-03,2017-01-02,female,1958-02-27,,"Maggie Hassan, official portrait, 115th Congress.jpg",Maggie Hassan
+United States,Governor of New Hampshire,Chuck Morse,Q16193758,2017-01-02,2017-01-05,male,1960-11-16,,,Chuck Morse
+United States,Governor of New Hampshire,Chris Sununu,Q16215583,2017-01-05,,male,1974-11-05,,Gov. Chris Sununu.jpg,Chris Sununu
+United States,Governor of New Jersey,Christine Todd Whitman,Q435267,1994-01-18,2001-01-31,female,1946-09-26,,WhitmanChristineTodd.jpg,Christine Todd Whitman
+United States,Governor of New Jersey,Donald DiFrancesco,Q889620,2001-01-31,2002-01-08,male,1944-11-20,,Donald DiFrancesco.jpg,Donald DiFrancesco
+United States,Governor of New Jersey,John Orus Bennett III,Q1699314,2002-01-08,2002-01-12,male,1948-08-06,,,John O. Bennett
+United States,Governor of New Jersey,John Farmer,Q889628,2002-01-08,2002-01-08,male,1957-06-24,,,John Farmer Jr.
+United States,Governor of New Jersey,Jim McGreevey,Q248668,2002-01-15,2004-11-15,male,1957-08-06,,Jim McGreevey 2009 Exodus 6.jpg,Jim McGreevey
+United States,Governor of New Jersey,Richard Codey,Q880166,2004-11-15,2006-01-17,male,1946-11-27,,Codey3.jpg,Richard Codey
+United States,Governor of New Jersey,Jon Corzine,Q380570,2006-01-17,2010-01-19,male,1947-01-01,,SenatorJonCorzine.jpg,Jon Corzine
+United States,Governor of New Jersey,Chris Christie,Q63879,2010-01-19,2018-01-16,male,1962-09-06,,Chris Christie 2011 Shankbone.JPG,Chris Christie
+United States,Governor of New Jersey,Phil Murphy,Q260042,2018-01-16,2021-11-02,male,1957-08-16,,Philip D. Murphy.jpg,Phil Murphy
+United States,Governor of New Jersey,Phil Murphy,Q260042,2021-11-02,,male,1957-08-16,,Philip D. Murphy.jpg,Phil Murphy
+United States,Governor of New Mexico,Gary Johnson,Q352123,1995-01-01,2003-01-01,male,1953-01-01,,Johnson Transparent.png,Gary Johnson
+United States,Governor of New Mexico,Bill Richardson,Q311782,2003-01-01,2011-01-01,male,1947-11-15,,"Bill Richardson at an event in Kensington, New Hampshire, March 18, 2006.jpg",Bill Richardson
+United States,Governor of New Mexico,Susana Martinez,Q256334,2011-01-01,2019-01-01,female,1959-07-14,,Governor NewMexico.jpg,Susana Martinez
+United States,Governor of New Mexico,Michelle Lujan Grisham,Q3917203,2019-01-01,,female,1959-10-24,,Michelle Lujan Grisham official photo.jpg,Michelle Lujan Grisham
+United States,Governor of New York,George Pataki,Q11676,1995-01-01,2006-12-31,male,1945-06-24,,Pataki cropped.JPG,George Pataki
+United States,Governor of New York,Eliot Spitzer,Q11675,2007-01-01,2008-03-17,male,1959-06-10,,Eliot Spitzer.jpg,Eliot Spitzer
+United States,Governor of New York,David Paterson,Q11674,2008-03-17,2010-12-31,male,1954-05-20,,David Paterson 2 by David Shankbone.jpg,David Paterson
+United States,Governor of New York,Andrew Cuomo,Q11673,2011-01-01,2021-08-23,male,1957-12-06,,Andrew Cuomo by Pat Arnow cropped.jpeg,Andrew Cuomo
+United States,Governor of New York,Kathy Hochul,Q45956,2021-08-24,,female,1958-08-27,,"Kathy Hochul, November 2017.jpeg",Kathy Hochul
+United States,Governor of North Carolina,Jim Hunt,Q880570,1993-01-09,2001-01-06,male,1937-05-16,,Jim Hunt official portrait (cropped).jpg,Jim Hunt
+United States,Governor of North Carolina,Mike Easley,Q881215,2001-01-06,2009-01-10,male,1950-03-23,,Mike Easley.jpg,Mike Easley
+United States,Governor of North Carolina,Bev Perdue,Q22185,2009-01-10,2013-01-05,female,1947-01-14,,Beverly Perdue official photo.jpg,Bev Perdue
+United States,Governor of North Carolina,Pat McCrory,Q39311,2013-01-05,2017-01-01,male,1956-10-17,,Pat McCrory July 2012.jpg,Pat McCrory
+United States,Governor of North Carolina,Roy Cooper,Q7372694,2017-01-01,,male,1957-06-13,,Gov. Cooper Cropped.jpg,Roy Cooper
+United States,Governor of North Dakota,Ed Schafer,Q887102,1992-12-15,2000-12-15,male,1946-08-08,,Ed Schafer -- February 2008.jpg,Ed Schafer
+United States,Governor of North Dakota,John Hoeven,Q374762,2000-12-15,2010-12-07,male,1957-03-13,,"John Hoeven, Official Senate Portrait, 112th Congress.jpg",John Hoeven
+United States,Governor of North Dakota,Jack Dalrymple,Q770393,2010-12-07,2016-12-15,male,1948-10-16,,Jack Dalrymple crop.jpg,Jack Dalrymple
+United States,Governor of North Dakota,Doug Burgum,Q22095395,2016-12-15,,male,1956-08-01,,Governor Doug Burgum.jpg,Doug Burgum
+United States,Governor of Ohio,Bob Taft,Q888281,1999-01-11,2007-01-08,male,1942-01-08,,Hyland software thirdfrontiersummit 2002 Taft Hyland close cropped.jpg,Bob Taft
+United States,Governor of Ohio,Ted Strickland,Q465295,2007-01-08,2011-01-10,male,1941-08-04,,Ted Strickland.jpg,Ted Strickland
+United States,Governor of Ohio,John Kasich,Q69319,2011-01-10,2019-01-14,male,1952-05-13,,Governor John Kasich.jpg,John Kasich
+United States,Governor of Ohio,Mike DeWine,Q1363468,2019-01-14,,male,1947-01-05,,Gov-Mike-DeWine.jpg,Mike DeWine
+United States,Governor of Oklahoma,Frank Keating,Q889831,1995-01-09,2003-01-13,male,1944-02-10,,"Frank Keating at a conference, Oct 20, 2001 - cropped.jpg",Frank Keating
+United States,Governor of Oklahoma,Brad Henry,Q538331,2003-01-13,2011-01-10,male,1963-07-10,,BradhenryDEA.jpg,Brad Henry
+United States,Governor of Oklahoma,Mary Fallin,Q257237,2011-01-10,2019-01-14,female,1954-12-09,,Mary Fallin official 110th Congress photo.jpg,Mary Fallin
+United States,Governor of Oklahoma,Kevin Stitt,Q58322517,2019-01-14,,male,1972-12-28,,Kevin Stitt 2020.jpg,Kevin Stitt
+United States,Governor of Oregon,John Kitzhaber,Q740345,1995-01-09,2003-01-13,male,1947-03-05,,John Kitzhaber acceptance speech-5.jpg,John Kitzhaber
+United States,Governor of Oregon,Ted Kulongoski,Q880976,2003-01-13,2011-01-10,male,1940-11-05,,Ted Kulongoski headshot Color 2007.JPG,Ted Kulongoski
+United States,Governor of Oregon,John Kitzhaber,Q740345,2011-01-10,2015-02-18,male,1947-03-05,,John Kitzhaber acceptance speech-5.jpg,John Kitzhaber
+United States,Governor of Oregon,Kate Brown,Q6375399,2015-02-18,,female,1960-06-21,,Gov. Kate Brown in April 2015.jpg,Kate Brown
+United States,Governor of Pennsylvania,Tom Ridge,Q559822,1995-01-17,2001-10-05,male,1945-08-26,,Tom Ridge.jpg,Tom Ridge
+United States,Governor of Pennsylvania,Mark S. Schweiker,Q776203,2001-10-05,2003-01-21,male,1953-01-31,,Mark S Schweiker 2001.jpg,Mark Schweiker
+United States,Governor of Pennsylvania,Ed Rendell,Q434902,2003-01-21,2011-01-18,male,1944-01-05,,Ed Rendell ID2004 crop (cropped).JPG,Ed Rendell
+United States,Governor of Pennsylvania,Tom Corbett,Q881171,2011-01-18,2015-01-20,male,1949-06-17,,TomCorbett-McCainRally2008 flipped.jpg,Tom Corbett
+United States,Governor of Pennsylvania,Tom Wolf,Q7794795,2015-01-20,,male,1948-11-17,,Wolf Administration Confirms Two Presumptive Positive Cases of COVID-19 - 49627623222.jpg,Tom Wolf
+United States,Governor of Puerto Rico,Pedro Rosselló,Q1147285,1993-01-02,2001-01-02,male,1944-04-05,,PedroRossello.jpg,Pedro Rosselló
+United States,Governor of Puerto Rico,Sila María Calderón,Q447055,2001-01-02,2005-01-02,female,1942-09-23,,"Puerto Rican Governor Sila Calderon at the Pentagon, Feb 27, 2001.jpg",Sila María Calderón
+United States,Governor of Puerto Rico,Aníbal Acevedo Vilá,Q615126,2005-01-02,2009-01-02,male,1962-02-13,,Anibal Acevedo Vila.jpg,Aníbal Acevedo Vilá
+United States,Governor of Puerto Rico,Luis Fortuño,Q381099,2009-01-02,2013-01-02,male,1960-10-31,,Luis Fortuño congressional portrait.jpg,Luis Fortuño
+United States,Governor of Puerto Rico,Alejandro García Padilla,Q2832449,2013-01-02,2017-01-02,male,1971-08-03,,Alejandro Garcia Padilla -cropped.jpg,Alejandro García Padilla
+United States,Governor of Puerto Rico,Ricardo Rosselló,Q7332181,2017-01-02,2019-08-02,male,1979-03-07,,Ricardo Rosselló.jpg,Ricardo Rosselló
+United States,Governor of Puerto Rico,Pedro Pierluisi,Q2277878,2019-08-02,2019-08-07,male,1959-04-26,,Pedro R. Pierluisi.jpg,Pedro Pierluisi
+United States,Governor of Puerto Rico,Wanda Vázquez Garced,Q56600071,2019-08-07,2021-01-02,female,1960-07-09,,Wanda Vasquez (cropped).jpg,Wanda Vázquez Garced
+United States,Governor of Puerto Rico,Pedro Pierluisi,Q2277878,2021-01-02,,male,1959-04-26,,Pedro R. Pierluisi.jpg,Pedro Pierluisi
+United States,Governor of Rhode Island,Lincoln Almond,Q886847,1995-01-03,2003-01-07,male,1936-06-16,,Lincoln Almond.jpg,Lincoln Almond
+United States,Governor of Rhode Island,Donald Carcieri,Q523783,2003-01-07,2011-01-04,male,1942-12-16,,RI Governor Donald Carcieri.jpg,Donald Carcieri
+United States,Governor of Rhode Island,Lincoln Chafee,Q44690,2011-01-04,2015-01-06,male,1953-03-26,,RI governor Lincoln Chafee in 2007.jpg,Lincoln Chafee
+United States,Governor of Rhode Island,Gina Raimondo,Q5562913,2015-01-06,2021-03-02,female,1971-05-17,,Gina Raimondo (cropped 2).jpg,Gina Raimondo
+United States,Governor of Rhode Island,Daniel McKee,Q5218111,2021-03-02,,male,1951-06-16,,Lt. Gov. McKee on Coast Guard Auxiliary Day (cropped).jpg,Dan McKee
+United States,Governor of South Carolina,Jim Hodges,Q11670,1999-01-13,2003-01-15,male,1956-11-19,,Jim Hodges 20080928.jpg,Jim Hodges
+United States,Governor of South Carolina,Mark Sanford,Q11669,2003-01-15,2011-01-12,male,1960-05-28,,"Mark Sanford, Congressional photo.jpg",Mark Sanford
+United States,Governor of South Carolina,Nikki Haley,Q11668,2011-01-12,2017-01-24,female,1972-01-20,,Nikki Haley by Gage Skidmore 4.jpg,Nikki Haley
+United States,Governor of South Carolina,Henry McMaster,Q5725737,2017-01-24,,male,1947-05-27,,SC Governor Henry McMaster 2019 (cropped).jpg,Henry McMaster
+United States,Governor of South Dakota,Bill Janklow,Q862213,1995-01-07,2003-01-03,male,1939-09-13,2012-01-12,William Janklow (South Dakota Governor).jpg,Bill Janklow
+United States,Governor of South Dakota,Mike Rounds,Q722503,2003-01-07,2011-01-08,male,1954-10-24,,Mike Rounds official photo.JPG,Mike Rounds
+United States,Governor of South Dakota,Dennis Daugaard,Q881199,2011-01-08,2019-01-05,male,1953-06-11,,Dennis Daugaard Berlin 2017-03-22.jpg,Dennis Daugaard
+United States,Governor of South Dakota,Kristi Noem,Q465749,2019-01-05,,female,1971-11-30,,Kristi Noem portrait.jpg,Kristi Noem
+United States,Governor of Tennessee,Don Sundquist,Q358726,1995,2003,male,1936-03-15,,Don Sundquist 103rd Congress.jpg,Don Sundquist
+United States,Governor of Tennessee,Phil Bredesen,Q724001,2003-01-18,2011-01-15,male,1943-11-21,,Governor Bredesen.jpg,Phil Bredesen
+United States,Governor of Tennessee,Bill Haslam,Q862186,2011-01-15,2019-01-19,male,1958-08-23,,Governor Bill Haslam crop.jpg,Bill Haslam
+United States,Governor of Tennessee,Bill Lee,Q58321685,2019-01-19,,male,1959-10-09,,TN Governor Bill Lee 2019 May.jpg,Bill Lee (Tennessee politician)
+United States,Governor of Texas,George W. Bush,Q207,1995-01-17,2000-12-21,male,1946-07-06,,George-W-Bush.jpeg,George W. Bush
+United States,Governor of Texas,Rick Perry,Q215057,2000-12-21,2015-01-20,male,1950-03-04,,Rick Perry official portrait.jpg,Rick Perry
+United States,Governor of Texas,Greg Abbott,Q5605224,2015-01-20,,male,1957-11-13,,Greg Abbott by Gage Skidmore.jpg,Greg Abbott
+United States,Governor of the United States Virgin Islands,Charles Wesley Turnbull,Q880330,1999-01-04,2007-01-01,male,1935-02-05,,CharlesTurnbull.jpg,Charles Wesley Turnbull
+United States,Governor of the United States Virgin Islands,John de Jongh,Q676489,2007-01-01,2015-01-05,male,1957-11-13,,Governor John de Jongh - United States Virgin Islands.jpg,John de Jongh Jr.
+United States,Governor of the United States Virgin Islands,Kenneth Mapp,Q6390443,2015-01-05,2019-01-07,male,1955-11-02,,Kenneth Ezra Mapp.png,Kenneth Mapp
+United States,Governor of the United States Virgin Islands,Albert Bryan Jr.,Q59302363,2019-01-07,,male,1968-02-21,,Albert Bryan with Del Plaskett and Doug Domenech cropped.jpg,Albert Bryan (politician)
+United States,Governor of Utah,Mike Leavitt,Q879432,1993-01-04,2003-11-05,male,1951-02-11,,Mike Leavitt.jpg,Mike Leavitt
+United States,Governor of Utah,Olene S. Walker,Q271061,2003-11-05,2005-01-03,female,1930-11-15,2015-11-28,Olene Walker.JPG,Olene Walker
+United States,Governor of Utah,"Jon Huntsman, Jr.",Q11607,2005-01-03,2009-08-11,male,1960-03-26,,Ambassador Jon Huntsman.jpg,Jon Huntsman Jr.
+United States,Governor of Utah,Gary Herbert,Q881188,2009-08-11,2021-01-04,male,1947-05-07,,2013-05-23 Gary R Herbert.JPG,Gary Herbert
+United States,Governor of Utah,Spencer Cox,Q16208237,2021-01-04,,male,1975-07-11,,Spencer Cox in 2017.jpg,Spencer Cox (politician)
+United States,Governor of Vermont,Howard Dean,Q337470,1991-08-14,2003-01-08,male,1948-11-17,,HowardDeanDNC-cropped.jpg,Howard Dean
+United States,Governor of Vermont,Jim Douglas,Q726313,2003-01-09,2011-01-06,male,1951-06-21,,Jim Douglas-2009.jpg,Jim Douglas
+United States,Governor of Vermont,Peter Shumlin,Q881146,2011-01-06,2017-01-05,male,1956-03-24,,Peter Shumlin by Gage Skidmore.jpg,Peter Shumlin
+United States,Governor of Vermont,Phil Scott,Q7185808,2017-01-05,,male,1958-08-04,,Phil Scott.jpg,Phil Scott
+United States,Governor of Virginia,Jim Gilmore,Q705472,1998-01-17,2002-01-12,male,1949-10-06,,Jim Gilmore 2004 NSTAC crop.jpg,Jim Gilmore
+United States,Governor of Virginia,Mark Warner,Q453893,2002-01-12,2006-01-14,male,1954-12-15,,"Mark Warner, official 112th Congress Senate portrait.jpg",Mark Warner
+United States,Governor of Virginia,Tim Kaine,Q359888,2006-01-14,2010-01-16,male,1958-02-26,,Tim Kaine 116th official portrait.jpg,Tim Kaine
+United States,Governor of Virginia,Bob McDonnell,Q456924,2010-01-16,2014-01-11,male,1954-06-15,,Bob McDonnell (4379673749) (cropped).jpg,Bob McDonnell
+United States,Governor of Virginia,Terry McAuliffe,Q3518911,2014-01-11,2018-01-13,male,1957-02-09,,Terry McAuliffe 2020.jpg,Terry McAuliffe
+United States,Governor of Virginia,Ralph Northam,Q7287916,2018-01-13,,male,1959-09-13,,Governor Ralph Northam Gives Inaugural Address (39348612584) (cropped).jpg,Ralph Northam
+United States,Governor of Washington,Gary Locke,Q350378,1997-01-15,2005-01-12,male,1950-01-21,,Gary Locke official portrait.jpg,Gary Locke
+United States,Governor of Washington,Christine Gregoire,Q239366,2005-01-12,2013-01-16,female,1947-03-24,,ChristineGregoireOfficial.jpg,Christine Gregoire
+United States,Governor of Washington,Jay Inslee,Q1100710,2013-01-16,,male,1951-02-09,,Jay Inslee Official Photo.jpg,Jay Inslee
+United States,Governor of West Virginia,Cecil H. Underwood,Q363972,1997-01-13,2001-01-15,male,1922-11-05,2008-11-24,Cecil H. Underwood.jpg,Cecil H. Underwood
+United States,Governor of West Virginia,Bob Wise,Q780398,2001-01-15,2005-01-17,male,1948-01-06,,Bob Wise.jpg,Bob Wise
+United States,Governor of West Virginia,Joe Manchin,Q538868,2005-01-17,2010-11-15,male,1947-08-24,,"Joe Manchin, Official Senate Portrait.jpg",Joe Manchin
+United States,Governor of West Virginia,Earl Ray Tomblin,Q888517,2010-11-15,2017-01-16,male,1952-03-15,,Earl Ray Tomblin 2.jpg,Earl Ray Tomblin
+United States,Governor of West Virginia,Jim Justice,Q20684288,2017-01-16,,male,1951-04-27,,Governor Jim Justice 2017.jpg,Jim Justice
+United States,Governor of Wisconsin,Tommy Thompson,Q732804,1987-01-05,2001-02-01,male,1941-11-19,,Tommy Thompson 1.jpg,Tommy Thompson
+United States,Governor of Wisconsin,Scott McCallum,Q351214,2001-02-01,2003-01-06,male,1950-05-02,,Governor Scott McCallum 2001.jpg,Scott McCallum
+United States,Governor of Wisconsin,Jim Doyle,Q705961,2003-01-06,2011-01-03,male,1945-11-23,,Jim Doyle (cropped).jpg,Jim Doyle
+United States,Governor of Wisconsin,Scott Walker,Q553254,2011-01-03,2019-01-07,male,1967-11-02,,Scott Walker by Gage Skidmore.jpg,Scott Walker (politician)
+United States,Governor of Wisconsin,Tony Evers,Q7822309,2019-01-07,,male,1951-11-05,,Tony Evers (cropped).jpg,Tony Evers
+United States,Governor of Wyoming,Jim Geringer,Q436576,1995-01-02,2003-01-06,male,1944-04-24,,"Jim Geringer - TEDx Oil Spill - Washington, DC.jpg",Jim Geringer
+United States,Governor of Wyoming,Dave Freudenthal,Q471364,2003-01-06,2011-01-03,male,1950-10-12,,Dave Freudenthal speech.jpg,Dave Freudenthal
+United States,Governor of Wyoming,Matt Mead,Q470663,2011-01-03,2019-01-07,male,1962-03-11,,Matt Mead.jpg,Matt Mead
+United States,Governor of Wyoming,Mark Gordon,Q6767775,2019-01-07,,male,1957-03-14,,Mark Gordon of Wyoming.jpg,Mark Gordon (politician)

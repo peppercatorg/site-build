@@ -1,45 +1,45 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Lord of Mann,Elizabeth II,Q9682,1952-02-06,,female,1926-04-21,,Elizabeth II 2021.jpg,Elizabeth II
-Chief Minister,Donald Gelling,Q935074,1996-12-03,2001-12-04,male,1938-07-05,,,Donald Gelling
-Chief Minister,Richard Corkill,Q373700,2001-12,2004-12,male,1951,,,Richard Corkill
-Chief Minister,Donald Gelling,Q935074,2004-12-14,2006-12-14,male,1938-07-05,,,Donald Gelling
-Chief Minister,James Anthony Brown,Q1378254,2006-12-14,2011-10-11,male,1950-01-05,,,Tony Brown (Manx politician)
-Chief Minister,Allan Bell,Q976107,2011-10-11,2016-10-04,male,1947-06-20,,Alan Bell 2007.jpg,Allan Bell
-Chief Minister,Howard Quayle,Q25752048,2016-10-04,2021-10-12,male,1967,,Howard Quayle.jpg,Howard Quayle
-Chief Minister,Alfred Cannan,Q25752002,2021-10-12,,male,,,,Alfred Cannan
-Lieutenant Governor,Timothy Daunt,Q3529060,1995,2000,male,1935-10-11,,,Timothy Daunt
-Lieutenant Governor,Adam Wood,Q351194,2011,2016,male,1955-03-13,,MMRC Sloc 2012-04-27 (0).jpg,Adam Wood
-Lieutenant Governor,Richard Gozney,Q1278584,2016-05-27,2021-09-29,male,1951-07-21,,Governor175.jpg,Richard Gozney
-Lieutenant Governor,John Lorimer,Q6245279,2021-09-29,,male,1962-11-27,,John G. Lorimer.jpg,John Lorimer (British Army officer)
-Minister for Cabinet Office,Kate Lord-Brennan,Q50676528,2021-10-12,,female,,,,Kate Lord-Brennan
-Minister for Economic Development,Allan Bell,Q976107,2010,2011,male,1947-06-20,,Alan Bell 2007.jpg,Allan Bell
-Minister for Economic Development,Laurence Skelly,Q24852556,2014-07-02,2017-09-21,male,,,,Laurence Skelly
-Minister for Education,Steve Rodan,Q7613782,1999-05-12,2004-06-30,male,1954-04-19,,,Steve Rodan
-Minister for Education,Alexander J Allinson,Q107833017,2020-03-03,2021-10-12,male,,,,
-Minister for Education,Julie Edge,Q106808901,2021-10-12,,female,,,,Julie Edge
-Minister for Enterprise,Laurence Skelly,Q24852556,2017-11-22,2021-07-20,male,,,,Laurence Skelly
-Minister for Enterprise,Howard Quayle,Q25752048,2021-07-20,2021-10-12,male,1967,,Howard Quayle.jpg,Howard Quayle
-Minister for Enterprise,Alexander J Allinson,Q107833017,2021-10-12,,male,,,,
-"Minister for Environment, Food and Agriculture",Geoffrey Boot,Q84598810,2016-10-04,2021-10-12,male,1953,,,Geoffrey Boot
-"Minister for Environment, Food and Agriculture",Clare Barber,Q108933969,2021-10-12,,female,,,,
-Minister for Health,Steve Rodan,Q7613782,2004-06-30,2006-12-15,male,1954-04-19,,,Steve Rodan
-Minister for Health,David Ashford,Q54935545,2018-10-04,2021-10-12,male,1977,,,David Ashford
-Minister for Health,Lawrie Hooper,Q106808905,2021-10-12,,male,,,,Lawrie Hooper
-Minister for Home Affairs,Allan Bell,Q976107,1996,2001,male,1947-06-20,,Alan Bell 2007.jpg,Allan Bell
-Minister for Infrastructure,Laurence Skelly,Q24852556,2014-03-03,2014-07-01,male,,,,Laurence Skelly
-Minister for Infrastructure,Timothy Baker,Q107832854,2020-06-03,2021-10-12,male,,,,
-Minister for Infrastructure,Tim Crookall,Q7803374,2021-10-12,,male,,,,Tim Crookall
-Minister for Justice and Home Affairs,Graham Cregeen,Q25751961,2020-03-03,2021-10-12,male,,,,Graham Cregeen
-Minister for Justice and Home Affairs,Jane Poole-Wilson,Q43549347,2021-10-12,,female,,,,Jane Poole-Wilson
-Minister of Local Government and the Environment,John Rimmington,Q16735234,2004,2006,male,,,,John Rimington
-Minister for Policy and Reform,Ray Harmer,Q25752130,2020-06-03,2021-10-12,male,,,,Ray Harmer
-Minister for the Treasury,Allan Bell,Q976107,2001,2010,male,1947-06-20,,Alan Bell 2007.jpg,Allan Bell
-Minister for the Treasury,Alfred Cannan,Q25752002,2016-10-04,2021-10-12,male,,,,Alfred Cannan
-Minister for the Treasury,David Ashford,Q54935545,2021-10-12,,male,1977,,,David Ashford
-President of Tynwald,Charles Kerruish,Q5079779,1990,2000,male,1917-07-23,2003-08-02,,Charles Kerruish
-President of Tynwald,Noel Cringle,Q11169337,2000,2011,male,1937-12-16,2021-08-28,,Noel Cringle
-President of Tynwald,Clare Christian,Q2975531,2011-07-12,2016,female,1945-09-11,,,Clare Christian
-President of Tynwald,Steve Rodan,Q7613782,2016-07-19,2021-07-20,male,1954-04-19,,,Steve Rodan
-President of Tynwald,Laurence Skelly,Q24852556,2021-07-20,,male,,,,Laurence Skelly
-Speaker of the House of Keys,Steve Rodan,Q7613782,2006-12-16,2016-07-18,male,1954-04-19,,,Steve Rodan
-Speaker of the House of Keys,Juan Watterson,Q6301157,2016,,male,1980-07-04,,,Juan Watterson
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Isle of Man,Lord of Mann,Elizabeth II,Q9682,1952-02-06,,female,1926-04-21,,Elizabeth II 2021.jpg,Elizabeth II
+Isle of Man,Chief Minister,Donald Gelling,Q935074,1996-12-03,2001-12-04,male,1938-07-05,,,Donald Gelling
+Isle of Man,Chief Minister,Richard Corkill,Q373700,2001-12,2004-12,male,1951,,,Richard Corkill
+Isle of Man,Chief Minister,Donald Gelling,Q935074,2004-12-14,2006-12-14,male,1938-07-05,,,Donald Gelling
+Isle of Man,Chief Minister,James Anthony Brown,Q1378254,2006-12-14,2011-10-11,male,1950-01-05,,,Tony Brown (Manx politician)
+Isle of Man,Chief Minister,Allan Bell,Q976107,2011-10-11,2016-10-04,male,1947-06-20,,Alan Bell 2007.jpg,Allan Bell
+Isle of Man,Chief Minister,Howard Quayle,Q25752048,2016-10-04,2021-10-12,male,1967,,Howard Quayle.jpg,Howard Quayle
+Isle of Man,Chief Minister,Alfred Cannan,Q25752002,2021-10-12,,male,,,,Alfred Cannan
+Isle of Man,Lieutenant Governor,Timothy Daunt,Q3529060,1995,2000,male,1935-10-11,,,Timothy Daunt
+Isle of Man,Lieutenant Governor,Adam Wood,Q351194,2011,2016,male,1955-03-13,,MMRC Sloc 2012-04-27 (0).jpg,Adam Wood
+Isle of Man,Lieutenant Governor,Richard Gozney,Q1278584,2016-05-27,2021-09-29,male,1951-07-21,,Governor175.jpg,Richard Gozney
+Isle of Man,Lieutenant Governor,John Lorimer,Q6245279,2021-09-29,,male,1962-11-27,,John G. Lorimer.jpg,John Lorimer (British Army officer)
+Isle of Man,Minister for Cabinet Office,Kate Lord-Brennan,Q50676528,2021-10-12,,female,,,,Kate Lord-Brennan
+Isle of Man,Minister for Economic Development,Allan Bell,Q976107,2010,2011,male,1947-06-20,,Alan Bell 2007.jpg,Allan Bell
+Isle of Man,Minister for Economic Development,Laurence Skelly,Q24852556,2014-07-02,2017-09-21,male,,,,Laurence Skelly
+Isle of Man,Minister for Education,Steve Rodan,Q7613782,1999-05-12,2004-06-30,male,1954-04-19,,,Steve Rodan
+Isle of Man,Minister for Education,Alexander J Allinson,Q107833017,2020-03-03,2021-10-12,male,,,,
+Isle of Man,Minister for Education,Julie Edge,Q106808901,2021-10-12,,female,,,,Julie Edge
+Isle of Man,Minister for Enterprise,Laurence Skelly,Q24852556,2017-11-22,2021-07-20,male,,,,Laurence Skelly
+Isle of Man,Minister for Enterprise,Howard Quayle,Q25752048,2021-07-20,2021-10-12,male,1967,,Howard Quayle.jpg,Howard Quayle
+Isle of Man,Minister for Enterprise,Alexander J Allinson,Q107833017,2021-10-12,,male,,,,
+Isle of Man,"Minister for Environment, Food and Agriculture",Geoffrey Boot,Q84598810,2016-10-04,2021-10-12,male,1953,,,Geoffrey Boot
+Isle of Man,"Minister for Environment, Food and Agriculture",Clare Barber,Q108933969,2021-10-12,,female,,,,
+Isle of Man,Minister for Health,Steve Rodan,Q7613782,2004-06-30,2006-12-15,male,1954-04-19,,,Steve Rodan
+Isle of Man,Minister for Health,David Ashford,Q54935545,2018-10-04,2021-10-12,male,1977,,,David Ashford
+Isle of Man,Minister for Health,Lawrie Hooper,Q106808905,2021-10-12,,male,,,,Lawrie Hooper
+Isle of Man,Minister for Home Affairs,Allan Bell,Q976107,1996,2001,male,1947-06-20,,Alan Bell 2007.jpg,Allan Bell
+Isle of Man,Minister for Infrastructure,Laurence Skelly,Q24852556,2014-03-03,2014-07-01,male,,,,Laurence Skelly
+Isle of Man,Minister for Infrastructure,Timothy Baker,Q107832854,2020-06-03,2021-10-12,male,,,,
+Isle of Man,Minister for Infrastructure,Tim Crookall,Q7803374,2021-10-12,,male,,,,Tim Crookall
+Isle of Man,Minister for Justice and Home Affairs,Graham Cregeen,Q25751961,2020-03-03,2021-10-12,male,,,,Graham Cregeen
+Isle of Man,Minister for Justice and Home Affairs,Jane Poole-Wilson,Q43549347,2021-10-12,,female,,,,Jane Poole-Wilson
+Isle of Man,Minister of Local Government and the Environment,John Rimmington,Q16735234,2004,2006,male,,,,John Rimington
+Isle of Man,Minister for Policy and Reform,Ray Harmer,Q25752130,2020-06-03,2021-10-12,male,,,,Ray Harmer
+Isle of Man,Minister for the Treasury,Allan Bell,Q976107,2001,2010,male,1947-06-20,,Alan Bell 2007.jpg,Allan Bell
+Isle of Man,Minister for the Treasury,Alfred Cannan,Q25752002,2016-10-04,2021-10-12,male,,,,Alfred Cannan
+Isle of Man,Minister for the Treasury,David Ashford,Q54935545,2021-10-12,,male,1977,,,David Ashford
+Isle of Man,President of Tynwald,Charles Kerruish,Q5079779,1990,2000,male,1917-07-23,2003-08-02,,Charles Kerruish
+Isle of Man,President of Tynwald,Noel Cringle,Q11169337,2000,2011,male,1937-12-16,2021-08-28,,Noel Cringle
+Isle of Man,President of Tynwald,Clare Christian,Q2975531,2011-07-12,2016,female,1945-09-11,,,Clare Christian
+Isle of Man,President of Tynwald,Steve Rodan,Q7613782,2016-07-19,2021-07-20,male,1954-04-19,,,Steve Rodan
+Isle of Man,President of Tynwald,Laurence Skelly,Q24852556,2021-07-20,,male,,,,Laurence Skelly
+Isle of Man,Speaker of the House of Keys,Steve Rodan,Q7613782,2006-12-16,2016-07-18,male,1954-04-19,,,Steve Rodan
+Isle of Man,Speaker of the House of Keys,Juan Watterson,Q6301157,2016,,male,1980-07-04,,,Juan Watterson

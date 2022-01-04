@@ -1,26 +1,26 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-President,Imata Kabua,Q12917,1997-01-14,2000-01-10,male,1943-05-20,2019-09-18,Imata Kabua.jpg,Imata Kabua
-President,Kessai Note,Q12914,2000-01-10,2008-01-14,male,1950-08-07,,Kessai Note 2005.jpg,Kessai Note
-President,Litokwa Tomeing,Q12913,2008-01-14,2009-10-21,male,1939-10-14,2020-10-12,Litokwa Tomeing.jpg,Litokwa Tomeing
-President,Ruben Zackhras,Q1131432,2009-10-21,2009-11-02,male,1947-12-04,2019-01-01,Ruben Zackhras (cropped).jpg,Ruben Zackhras
-President,Jurelang Zedkaia,Q12912,2009-11-02,2012-01-10,male,1950-07-13,2015-10-07,Jurelang Zedkaia.gif,Jurelang Zedkaia
-President,Christopher Loeak,Q12911,2012-01-10,2016-01-01,male,1952-11-11,,Christopher Loeak portrait.PNG,Christopher Loeak
-President,Casten Nemra,Q21968142,2016-01-11,2016-01-28,male,1971-07-29,,Casten Nemra.jpg,Casten Nemra
-President,Hilda C. Heine,Q20090884,2016-01-28,2020-01-13,female,1951-04-06,,Hilda Heine 20171030.jpg,Hilda Heine
-President,David Kabua,Q20658229,2020-01-13,,male,1951,,"David Kabua, 2021.jpg",David Kabua
-Minister in Assistance to the President,Christopher Loeak,Q12911,2020-01-13,,male,1952-11-11,,Christopher Loeak portrait.PNG,Christopher Loeak
-Minister of Education,Kitlang Kabua,Q101054208,2020-01-13,,female,1991-06-26,,,Kitlang Kabua
-Minister of Finance,Alfred Alfred Jr.,Q110030503,2020-01-13,2021-10-15,,,,,
-Minister of Finance,Brenson Wase,Q110030889,2021-10-15,,male,,,,
-Minister of Foreign Affairs,John Silk,Q1637473,2016-01-28,2020-01-13,male,1956-09-15,,2019-09-27 John M. Silk.jpg,
-Minister of Foreign Affairs,Casten Nemra,Q21968142,2020-01-13,,male,1971-07-29,,Casten Nemra.jpg,Casten Nemra
-Minister of Health,Bruce Bilimon,Q109867463,2020-01-13,,male,,,Bruce Bilimon Health Minister of the Marshall Islands (51666533397) (at COP26).jpg,
-Minister of Internal Affairs,Jemi Nashion,Q110030514,2020-01-13,,male,,,,
-Minister of Justice,Kessai Note,Q12914,2020-01-13,,male,1950-08-07,,Kessai Note 2005.jpg,Kessai Note
-Minister of Natural Resources and Commerce,John Silk,Q1637473,2000-01-10,2008-01-14,male,1956-09-15,,2019-09-27 John M. Silk.jpg,
-Minister of Natural Resources and Commerce,Sandy Alfred,Q110030473,2020-01-13,2021-11-02,,,,,
-Minister of Natural Resources and Commerce,John Silk,Q1637473,2021-11-02,,male,1956-09-15,,2019-09-27 John M. Silk.jpg,
-Minister of Public Works,Jiba B. Kabua,Q110030533,2020-01-13,,male,,,,
-Minister of Transportation & Communication,Donald Capelle,Q94977219,2020-01-13,,male,,,,Donald Capelle
-Speaker of the Nitijela,Donald Capelle,Q94977219,2012-01-07,2016-01-04,male,,,,Donald Capelle
-Speaker of the Nitijela,Kenneth Kedi,Q23416906,2016-01-04,,male,1971,,Kenneth Kedi 20171031.jpg,Kenneth Kedi
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Marshall Islands,President,Imata Kabua,Q12917,1997-01-14,2000-01-10,male,1943-05-20,2019-09-18,Imata Kabua.jpg,Imata Kabua
+Marshall Islands,President,Kessai Note,Q12914,2000-01-10,2008-01-14,male,1950-08-07,,Kessai Note 2005.jpg,Kessai Note
+Marshall Islands,President,Litokwa Tomeing,Q12913,2008-01-14,2009-10-21,male,1939-10-14,2020-10-12,Litokwa Tomeing.jpg,Litokwa Tomeing
+Marshall Islands,President,Ruben Zackhras,Q1131432,2009-10-21,2009-11-02,male,1947-12-04,2019-01-01,Ruben Zackhras (cropped).jpg,Ruben Zackhras
+Marshall Islands,President,Jurelang Zedkaia,Q12912,2009-11-02,2012-01-10,male,1950-07-13,2015-10-07,Jurelang Zedkaia.gif,Jurelang Zedkaia
+Marshall Islands,President,Christopher Loeak,Q12911,2012-01-10,2016-01-01,male,1952-11-11,,Christopher Loeak portrait.PNG,Christopher Loeak
+Marshall Islands,President,Casten Nemra,Q21968142,2016-01-11,2016-01-28,male,1971-07-29,,Casten Nemra.jpg,Casten Nemra
+Marshall Islands,President,Hilda C. Heine,Q20090884,2016-01-28,2020-01-13,female,1951-04-06,,Hilda Heine 20171030.jpg,Hilda Heine
+Marshall Islands,President,David Kabua,Q20658229,2020-01-13,,male,1951,,"David Kabua, 2021.jpg",David Kabua
+Marshall Islands,Minister in Assistance to the President,Christopher Loeak,Q12911,2020-01-13,,male,1952-11-11,,Christopher Loeak portrait.PNG,Christopher Loeak
+Marshall Islands,Minister of Education,Kitlang Kabua,Q101054208,2020-01-13,,female,1991-06-26,,,Kitlang Kabua
+Marshall Islands,Minister of Finance,Alfred Alfred Jr.,Q110030503,2020-01-13,2021-10-15,,,,,
+Marshall Islands,Minister of Finance,Brenson Wase,Q110030889,2021-10-15,,male,,,,
+Marshall Islands,Minister of Foreign Affairs,John Silk,Q1637473,2016-01-28,2020-01-13,male,1956-09-15,,2019-09-27 John M. Silk.jpg,
+Marshall Islands,Minister of Foreign Affairs,Casten Nemra,Q21968142,2020-01-13,,male,1971-07-29,,Casten Nemra.jpg,Casten Nemra
+Marshall Islands,Minister of Health,Bruce Bilimon,Q109867463,2020-01-13,,male,,,Bruce Bilimon Health Minister of the Marshall Islands (51666533397) (at COP26).jpg,
+Marshall Islands,Minister of Internal Affairs,Jemi Nashion,Q110030514,2020-01-13,,male,,,,
+Marshall Islands,Minister of Justice,Kessai Note,Q12914,2020-01-13,,male,1950-08-07,,Kessai Note 2005.jpg,Kessai Note
+Marshall Islands,Minister of Natural Resources and Commerce,John Silk,Q1637473,2000-01-10,2008-01-14,male,1956-09-15,,2019-09-27 John M. Silk.jpg,
+Marshall Islands,Minister of Natural Resources and Commerce,Sandy Alfred,Q110030473,2020-01-13,2021-11-02,,,,,
+Marshall Islands,Minister of Natural Resources and Commerce,John Silk,Q1637473,2021-11-02,,male,1956-09-15,,2019-09-27 John M. Silk.jpg,
+Marshall Islands,Minister of Public Works,Jiba B. Kabua,Q110030533,2020-01-13,,male,,,,
+Marshall Islands,Minister of Transportation & Communication,Donald Capelle,Q94977219,2020-01-13,,male,,,,Donald Capelle
+Marshall Islands,Speaker of the Nitijela,Donald Capelle,Q94977219,2012-01-07,2016-01-04,male,,,,Donald Capelle
+Marshall Islands,Speaker of the Nitijela,Kenneth Kedi,Q23416906,2016-01-04,,male,1971,,Kenneth Kedi 20171031.jpg,Kenneth Kedi

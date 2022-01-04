@@ -1,60 +1,60 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-President,Ram Baran Yadav,Q57441,2008-07-23,2015-10-28,male,1948-02-04,,Ram Baran Yadav 2008-08-26.jpg,Ram Baran Yadav
-President,Bidya Devi Bhandari,Q16193958,2015-10-29,,female,1961-06-19,,Bidhya Devi Bhandari.jpg,Bidya Devi Bhandari
-Vice President,Parmanand Jha,Q2482925,2008-07-23,2015-10-31,male,1944,,परमानन्द.jpg,Parmanand Jha
-Vice President,Nanda Kishor Pun,Q596635,2015-10-31,,male,1966-10-23,,Nanda Kishore Pun.png,Nanda Kishor Pun
-Prime Minister,Krishna Prasad Bhattarai,Q380145,1999-05-31,2000-03-22,male,1924-12-24,2011-03-04,Krishna bhattarai.jpg,Krishna Prasad Bhattarai
-Prime Minister,Girija Prasad Koirala,Q220991,2000-03-22,2001-07-26,male,1925-02-20,2010-03-20,Girija P koirala.jpg,Girija Prasad Koirala
-Prime Minister,Sher Bahadur Deuba,Q470903,2001-07-26,2002-10-04,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
-Prime Minister,Lokendra Bahadur Chand,Q2628548,2002-10-11,2003-06-05,male,1940-02-15,,,Lokendra Bahadur Chand
-Prime Minister,Surya Bahadur Thapa,Q983444,2003-06-05,2004-06-03,male,1928,2015-04-15,Surya Bahadur Thapa 2005-11-24.jpg,Surya Bahadur Thapa
-Prime Minister,Sher Bahadur Deuba,Q470903,2004-06-03,2005-02-01,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
-Prime Minister,Girija Prasad Koirala,Q220991,2006-04-25,2008-08-18,male,1925-02-20,2010-03-20,Girija P koirala.jpg,Girija Prasad Koirala
-Prime Minister,Pushpa Kamal Dahal,Q315500,2008-08-18,2009-05-25,male,1954-12-11,,Prachanda 2009.jpg,Pushpa Kamal Dahal
-Prime Minister,Jhala Nath Khanal,Q57819,2011-02-06,2011-08-29,male,1950-05-20,,J.n (2).jpg,Jhala Nath Khanal
-Prime Minister,Baburam Bhattarai,Q57816,2011-08-29,2013-03-14,male,1954-06-18,,Baburam bhattarai.jpg,Baburam Bhattarai
-Prime Minister,Khil Raj Regmi,Q6401600,2013-03-14,2014-02-11,male,1949-05-31,,Khilaraj regmi.jpg,Khil Raj Regmi
-Prime Minister,Sushil Koirala,Q422969,2014-02-11,2015-10-12,male,1939-08-12,2016-02-09,Sushil Koirala 2010-04-15.jpg,Sushil Koirala
-Prime Minister,Khadga Prasad Sharma Oli,Q3195923,2015-10-12,2016-08-04,male,1952-02-22,,"Prime Minister of Nepal, Mr. K.P. Sharma Oli, at Hyderabad House, in New Delhi on April 07, 2018 (1).jpg",KP Sharma Oli
-Prime Minister,Pushpa Kamal Dahal,Q315500,2016-08-04,2017-06-07,male,1954-12-11,,Prachanda 2009.jpg,Pushpa Kamal Dahal
-Prime Minister,Sher Bahadur Deuba,Q470903,2017-06-07,2018-02-15,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
-Prime Minister,Khadga Prasad Sharma Oli,Q3195923,2018-02-15,2021-07-13,male,1952-02-22,,"Prime Minister of Nepal, Mr. K.P. Sharma Oli, at Hyderabad House, in New Delhi on April 07, 2018 (1).jpg",KP Sharma Oli
-Prime Minister,Sher Bahadur Deuba,Q470903,2021-07-13,,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
-Deputy Prime Minister,Khadga Prasad Sharma Oli,Q3195923,2006,2007,male,1952-02-22,,"Prime Minister of Nepal, Mr. K.P. Sharma Oli, at Hyderabad House, in New Delhi on April 07, 2018 (1).jpg",KP Sharma Oli
-Minister of Agriculture and Livestock Development,Mahendra Raya Yadav,Q66906524,2021-10-08,,male,,,,Mahendra Raya Yadav
-Minister of Communications and Information Technology,Minendra Rijal,Q17388671,2014-02-25,2015-10-12,male,1957-10-01,,,Minendra Rijal
-Minister of Communications and Information Technology,Gyanendra Bahadur Karki,Q30300972,2021-10-08,,male,1957-02-22,,Nepali Minister Gyanendra Bahadur Karki - 2017 (37086219821) (cropped).jpg,Gyanendra Bahadur Karki
-"Minister for Constituent Assembly, Parliamentary Affairs and Culture",Minendra Rijal,Q17388671,2009-05-25,2011-02-06,male,1957-10-01,,,Minendra Rijal
-"Minister of Culture, Tourism and Civil Aviation",Prem Ale,Q105007716,2021-10-08,,male,1971-04-28,,,Prem Ale
-Minister of Defence,Minendra Rijal,Q17388671,2021-10-08,2021-12-16,male,1957-10-01,,,Minendra Rijal
-Minister of Defence,Sher Bahadur Deuba,Q470903,2021-12-21,,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
-"Minister of Education, Science and Technology",Devendra Paudel,Q59726513,2021-10-08,,male,,,,Devendra Paudel
-"Minister of Energy, Water Resources and Irrigation",Pampha Bhusal,Q3361809,2021-07-13,,female,,,,Pampha Bhusal
-Minister of Federal Affairs and General Administration,Rajendra Prasad Shrestha,Q107026781,2021-10-08,,male,,,,Rajendra Prasad Shrestha
-Minister of Finance,Janardhan Sharma,Q3161833,2021-07-13,,male,1963-04-25,,,Janardan Sharma
-Minister of Foreign Affairs,Khadga Prasad Sharma Oli,Q3195923,2006,2007,male,1952-02-22,,"Prime Minister of Nepal, Mr. K.P. Sharma Oli, at Hyderabad House, in New Delhi on April 07, 2018 (1).jpg",KP Sharma Oli
-Minister of Foreign Affairs,Sahana Pradhan,Q577100,2007-04-01,2008-08-22,female,1927-06-11,2014-09-22,Sahana Pradhan.jpg,Sahana Pradhan
-Minister of Foreign Affairs,Narayan Khadka,Q13181537,2021-09-22,,male,1949-03-20,,,Narayan Khadka
-Minister of Forests and Environment,Ram Sahaya Yadav,Q106993234,2021-10-08,,male,,,,Ram Sahaya Yadav
-Minister of Health and Population,Birodh Khatiwada,Q59726451,2021-10-08,,male,,,,Birodh Khatiwada
-Minister of Home Affairs,Krishna Bahadur Mahara,Q1779490,2007-04-01,2007-09-17,male,1958-06-29,,Krishna Bahadur mahara.jpg,Krishna Bahadur Mahara
-Minister of Home Affairs,Bal Krishna Khand,Q13183947,2021-07-13,,male,,,,Bal Krishna Khand
-"Minister of Industry, Commerce and Supplies",Sher Bahadur Deuba,Q470903,2021-10-10,,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
-"Minister of Labor, Employment and Social Security",Krishna Kumar Shrestha,Q66722241,2021-10-08,,male,1967,,,Krishna Kumar Shrestha
-"Minister of Land Management, Cooperatives and Poverty Alleviation",Shashi Shrestha,Q7490561,2021-10-08,,female,,,,Shashi Shrestha
-"Minister of Law, Justice and Parliamentary Affairs",Dilendra Prasad Badu,Q5276755,2021-10-08,,male,1954-01-09,,,Dilendra Prasad Badu
-Minister of Physical Infrastructure and Transport,Renu Kumari Yadav,Q3425614,2021-10-08,,female,1963-06-19,,,Renu Kumari Yadav
-Minister of Urban Development,Ram Kumari Jhakri,Q19683093,2021-10-08,,female,,,Ram Kumari Jhakri2.JPG,Ram Kumari Jhakri
-Minister of Water Supply,Uma Kanta Chaudhari,Q7881016,2021-10-08,,male,,,,Uma Kanta Chaudhari
-"Minister of Women, Children and Senior Citizens",Uma Regmi,Q99234998,2021-10-08,,female,1954-07-15,,,Uma Regmi
-Minister of Youth and Sports,Maheshwar Jung Gahatraj,Q66909846,2021-10-08,,male,1971,,,Maheshwar Jung Gahatraj
-"Minister of State for Education, Science and Technology",Bodhmaya Kumari Yadav,Q66391512,2021-10-08,,female,,,,Bodhmaya Kumari Yadav
-Minister of State for Health and Population,Bhawani Prasad Khapung,Q60544995,2021-10-08,,male,,,,Bhawani Prasad Khapung
-Minister of State for the Office of the Prime Minister and Council of Ministers,Umesh Shrestha,Q19670829,2021-10-08,,male,1968,,,Umesh Shrestha
-Speaker of the House of Representatives,Taranath Ranabhat,Q7685404,1999-05,2002-05,male,,,,Taranath Ranabhat
-Speaker of the House of Representatives,Subash Nemwang,Q7630835,2006-04,2008-04,male,1953-03-11,,Subash Nemwang.jpg,Subaschandra Nemwang
-Speaker of the House of Representatives,Krishna Bahadur Mahara,Q1779490,2018-03-10,2019-10-01,male,1958-06-29,,Krishna Bahadur mahara.jpg,Krishna Bahadur Mahara
-Speaker of the House of Representatives,Agni Sapkota,Q4693207,2020-01-27,,male,1960-03-07,,Agni Spkta.jpg,Agni Prasad Sapkota
-Chair of the National Assembly,Ganesh Prasad Timilsina,Q55760946,2018-03-16,,male,1960,,,Ganesh Prasad Timilsina
-Governor of the Central Bank,Maha Prasad Adhikari,Q97260768,2020-04-06,,male,,,,
-Chief of Army Staff,Prabhu Ram Sharma,Q107699712,2021-11-09,,male,1964-01-05,,,Prabhu Ram Sharma
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Nepal,President,Ram Baran Yadav,Q57441,2008-07-23,2015-10-28,male,1948-02-04,,Ram Baran Yadav 2008-08-26.jpg,Ram Baran Yadav
+Nepal,President,Bidya Devi Bhandari,Q16193958,2015-10-29,,female,1961-06-19,,Bidhya Devi Bhandari.jpg,Bidya Devi Bhandari
+Nepal,Vice President,Parmanand Jha,Q2482925,2008-07-23,2015-10-31,male,1944,,परमानन्द.jpg,Parmanand Jha
+Nepal,Vice President,Nanda Kishor Pun,Q596635,2015-10-31,,male,1966-10-23,,Nanda Kishore Pun.png,Nanda Kishor Pun
+Nepal,Prime Minister,Krishna Prasad Bhattarai,Q380145,1999-05-31,2000-03-22,male,1924-12-24,2011-03-04,Krishna bhattarai.jpg,Krishna Prasad Bhattarai
+Nepal,Prime Minister,Girija Prasad Koirala,Q220991,2000-03-22,2001-07-26,male,1925-02-20,2010-03-20,Girija P koirala.jpg,Girija Prasad Koirala
+Nepal,Prime Minister,Sher Bahadur Deuba,Q470903,2001-07-26,2002-10-04,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
+Nepal,Prime Minister,Lokendra Bahadur Chand,Q2628548,2002-10-11,2003-06-05,male,1940-02-15,,,Lokendra Bahadur Chand
+Nepal,Prime Minister,Surya Bahadur Thapa,Q983444,2003-06-05,2004-06-03,male,1928,2015-04-15,Surya Bahadur Thapa 2005-11-24.jpg,Surya Bahadur Thapa
+Nepal,Prime Minister,Sher Bahadur Deuba,Q470903,2004-06-03,2005-02-01,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
+Nepal,Prime Minister,Girija Prasad Koirala,Q220991,2006-04-25,2008-08-18,male,1925-02-20,2010-03-20,Girija P koirala.jpg,Girija Prasad Koirala
+Nepal,Prime Minister,Pushpa Kamal Dahal,Q315500,2008-08-18,2009-05-25,male,1954-12-11,,Prachanda 2009.jpg,Pushpa Kamal Dahal
+Nepal,Prime Minister,Jhala Nath Khanal,Q57819,2011-02-06,2011-08-29,male,1950-05-20,,J.n (2).jpg,Jhala Nath Khanal
+Nepal,Prime Minister,Baburam Bhattarai,Q57816,2011-08-29,2013-03-14,male,1954-06-18,,Baburam bhattarai.jpg,Baburam Bhattarai
+Nepal,Prime Minister,Khil Raj Regmi,Q6401600,2013-03-14,2014-02-11,male,1949-05-31,,Khilaraj regmi.jpg,Khil Raj Regmi
+Nepal,Prime Minister,Sushil Koirala,Q422969,2014-02-11,2015-10-12,male,1939-08-12,2016-02-09,Sushil Koirala 2010-04-15.jpg,Sushil Koirala
+Nepal,Prime Minister,Khadga Prasad Sharma Oli,Q3195923,2015-10-12,2016-08-04,male,1952-02-22,,"Prime Minister of Nepal, Mr. K.P. Sharma Oli, at Hyderabad House, in New Delhi on April 07, 2018 (1).jpg",KP Sharma Oli
+Nepal,Prime Minister,Pushpa Kamal Dahal,Q315500,2016-08-04,2017-06-07,male,1954-12-11,,Prachanda 2009.jpg,Pushpa Kamal Dahal
+Nepal,Prime Minister,Sher Bahadur Deuba,Q470903,2017-06-07,2018-02-15,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
+Nepal,Prime Minister,Khadga Prasad Sharma Oli,Q3195923,2018-02-15,2021-07-13,male,1952-02-22,,"Prime Minister of Nepal, Mr. K.P. Sharma Oli, at Hyderabad House, in New Delhi on April 07, 2018 (1).jpg",KP Sharma Oli
+Nepal,Prime Minister,Sher Bahadur Deuba,Q470903,2021-07-13,,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
+Nepal,Deputy Prime Minister,Khadga Prasad Sharma Oli,Q3195923,2006,2007,male,1952-02-22,,"Prime Minister of Nepal, Mr. K.P. Sharma Oli, at Hyderabad House, in New Delhi on April 07, 2018 (1).jpg",KP Sharma Oli
+Nepal,Minister of Agriculture and Livestock Development,Mahendra Raya Yadav,Q66906524,2021-10-08,,male,,,,Mahendra Raya Yadav
+Nepal,Minister of Communications and Information Technology,Minendra Rijal,Q17388671,2014-02-25,2015-10-12,male,1957-10-01,,,Minendra Rijal
+Nepal,Minister of Communications and Information Technology,Gyanendra Bahadur Karki,Q30300972,2021-10-08,,male,1957-02-22,,Nepali Minister Gyanendra Bahadur Karki - 2017 (37086219821) (cropped).jpg,Gyanendra Bahadur Karki
+Nepal,"Minister for Constituent Assembly, Parliamentary Affairs and Culture",Minendra Rijal,Q17388671,2009-05-25,2011-02-06,male,1957-10-01,,,Minendra Rijal
+Nepal,"Minister of Culture, Tourism and Civil Aviation",Prem Ale,Q105007716,2021-10-08,,male,1971-04-28,,,Prem Ale
+Nepal,Minister of Defence,Minendra Rijal,Q17388671,2021-10-08,2021-12-16,male,1957-10-01,,,Minendra Rijal
+Nepal,Minister of Defence,Sher Bahadur Deuba,Q470903,2021-12-21,,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
+Nepal,"Minister of Education, Science and Technology",Devendra Paudel,Q59726513,2021-10-08,,male,,,,Devendra Paudel
+Nepal,"Minister of Energy, Water Resources and Irrigation",Pampha Bhusal,Q3361809,2021-07-13,,female,,,,Pampha Bhusal
+Nepal,Minister of Federal Affairs and General Administration,Rajendra Prasad Shrestha,Q107026781,2021-10-08,,male,,,,Rajendra Prasad Shrestha
+Nepal,Minister of Finance,Janardhan Sharma,Q3161833,2021-07-13,,male,1963-04-25,,,Janardan Sharma
+Nepal,Minister of Foreign Affairs,Khadga Prasad Sharma Oli,Q3195923,2006,2007,male,1952-02-22,,"Prime Minister of Nepal, Mr. K.P. Sharma Oli, at Hyderabad House, in New Delhi on April 07, 2018 (1).jpg",KP Sharma Oli
+Nepal,Minister of Foreign Affairs,Sahana Pradhan,Q577100,2007-04-01,2008-08-22,female,1927-06-11,2014-09-22,Sahana Pradhan.jpg,Sahana Pradhan
+Nepal,Minister of Foreign Affairs,Narayan Khadka,Q13181537,2021-09-22,,male,1949-03-20,,,Narayan Khadka
+Nepal,Minister of Forests and Environment,Ram Sahaya Yadav,Q106993234,2021-10-08,,male,,,,Ram Sahaya Yadav
+Nepal,Minister of Health and Population,Birodh Khatiwada,Q59726451,2021-10-08,,male,,,,Birodh Khatiwada
+Nepal,Minister of Home Affairs,Krishna Bahadur Mahara,Q1779490,2007-04-01,2007-09-17,male,1958-06-29,,Krishna Bahadur mahara.jpg,Krishna Bahadur Mahara
+Nepal,Minister of Home Affairs,Bal Krishna Khand,Q13183947,2021-07-13,,male,,,,Bal Krishna Khand
+Nepal,"Minister of Industry, Commerce and Supplies",Sher Bahadur Deuba,Q470903,2021-10-10,,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
+Nepal,"Minister of Labor, Employment and Social Security",Krishna Kumar Shrestha,Q66722241,2021-10-08,,male,1967,,,Krishna Kumar Shrestha
+Nepal,"Minister of Land Management, Cooperatives and Poverty Alleviation",Shashi Shrestha,Q7490561,2021-10-08,,female,,,,Shashi Shrestha
+Nepal,"Minister of Law, Justice and Parliamentary Affairs",Dilendra Prasad Badu,Q5276755,2021-10-08,,male,1954-01-09,,,Dilendra Prasad Badu
+Nepal,Minister of Physical Infrastructure and Transport,Renu Kumari Yadav,Q3425614,2021-10-08,,female,1963-06-19,,,Renu Kumari Yadav
+Nepal,Minister of Urban Development,Ram Kumari Jhakri,Q19683093,2021-10-08,,female,,,Ram Kumari Jhakri2.JPG,Ram Kumari Jhakri
+Nepal,Minister of Water Supply,Uma Kanta Chaudhari,Q7881016,2021-10-08,,male,,,,Uma Kanta Chaudhari
+Nepal,"Minister of Women, Children and Senior Citizens",Uma Regmi,Q99234998,2021-10-08,,female,1954-07-15,,,Uma Regmi
+Nepal,Minister of Youth and Sports,Maheshwar Jung Gahatraj,Q66909846,2021-10-08,,male,1971,,,Maheshwar Jung Gahatraj
+Nepal,"Minister of State for Education, Science and Technology",Bodhmaya Kumari Yadav,Q66391512,2021-10-08,,female,,,,Bodhmaya Kumari Yadav
+Nepal,Minister of State for Health and Population,Bhawani Prasad Khapung,Q60544995,2021-10-08,,male,,,,Bhawani Prasad Khapung
+Nepal,Minister of State for the Office of the Prime Minister and Council of Ministers,Umesh Shrestha,Q19670829,2021-10-08,,male,1968,,,Umesh Shrestha
+Nepal,Speaker of the House of Representatives,Taranath Ranabhat,Q7685404,1999-05,2002-05,male,,,,Taranath Ranabhat
+Nepal,Speaker of the House of Representatives,Subash Nemwang,Q7630835,2006-04,2008-04,male,1953-03-11,,Subash Nemwang.jpg,Subaschandra Nemwang
+Nepal,Speaker of the House of Representatives,Krishna Bahadur Mahara,Q1779490,2018-03-10,2019-10-01,male,1958-06-29,,Krishna Bahadur mahara.jpg,Krishna Bahadur Mahara
+Nepal,Speaker of the House of Representatives,Agni Sapkota,Q4693207,2020-01-27,,male,1960-03-07,,Agni Spkta.jpg,Agni Prasad Sapkota
+Nepal,Chair of the National Assembly,Ganesh Prasad Timilsina,Q55760946,2018-03-16,,male,1960,,,Ganesh Prasad Timilsina
+Nepal,Governor of the Central Bank,Maha Prasad Adhikari,Q97260768,2020-04-06,,male,,,,
+Nepal,Chief of Army Staff,Prabhu Ram Sharma,Q107699712,2021-11-09,,male,1964-01-05,,,Prabhu Ram Sharma

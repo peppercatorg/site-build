@@ -1,37 +1,37 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-President,Emomali Rahmon,Q57366,1994-11-19,,male,1952-10-05,,Emomali Rahmon (2017-02-27).jpg,Emomali Rahmon
-Prime Minister,Oqil Oqilov,Q57754,1999-12-20,2013-11-23,male,1944-02-02,,Oqil Oqilov.jpeg,Oqil Oqilov
-Prime Minister,Kokhir Rasulzoda,Q15222839,2013-11-23,,male,1961-03-08,,Kokhir Rasulzoda.jpg,Kokhir Rasulzoda
-First Deputy Prime Minister,Davlatali Said,Q25612207,2013-11-19,,male,1970-03-30,,,
-Deputy Prime Minister,Usmonali Usmonov,Q25612364,2020-11-03,,male,1959-09-13,,,
-Deputy Prime Minister,Matloubkhon Sattoriyon,Q110159963,2020-12-10,,female,,,,
-Minister of Agriculture,,Q13202018,2016-03-30,2020-11,male,1957-12-24,,,
-Minister of Agriculture,Ziyozoda Sulaimon Rizoi,Q110159626,2020-11-03,,male,1962,,,
-Minister of Culture,,Q20609964,2013-11-21,2020-01-24,,,,,
-Minister of Culture,Davlatzoda Zulfiya Davlat,Q86724010,2020-01-24,,female,1974-03-13,,,
-Minister of Defence,Sherali Khayrulloyev,Q7494657,1995-04-07,2013-11-20,male,1949-11-08,,Sherali Khayrulloyev.jpg,Sherali Khayrulloyev
-Minister of Defence,Sherali Mirzo,Q20611394,2013-11-20,,male,1967-05-24,,Sherali Mirzo.jpeg,Sherali Mirzo
-Minister of Economic Development and Trade,Zavkizoda Zavki Amin,Q110160067,2020-02-03,,male,1972,,,
-Minister of Education and Science,Imomzoda Muhammadyusuf Saydali,Q20609429,2020-01-24,,male,1959-04-28,,,
-Minister of Energy and Water Resources,Usmonali Usmonov,Q25612364,2013-11-21,2020-11-03,male,1959-09-13,,,
-Minister of Energy and Water Resources,Daler Jumayev,Q110160952,2020-12-10,,male,,,,
-Minister of Finance,Faiziddin Kahhorzoda,Q110161251,2018-01-19,,male,1971-08-05,,,
-Minister of Foreign Affairs,Sirodjidin Aslov,Q18198123,2013-11-29,,male,1964-02-17,,Sirodjidin Aslov September 2016 (29799875305).jpg,Sirojiddin Muhriddin
-Minister of Health,Nasim Olimzoda,Q31456826,2017-01-12,2020-05-05,male,1964-08-20,,,
-Minister of Health,Abdullozoda Jamoliddin Abdullo,Q110159906,2020-05-05,,,,,,
-Minister of Industry and New Technologies,Sherali Gul,Q13202276,2006-12-01,2013,male,1950-02-20,,,
-Minister of Industry and New Technologies,Sherali Kabirov,Q110160082,2020-12-10,,male,,,,
-Minister of Internal Affairs,Abdurahim Kakhorov,Q17462318,2009-01,2012-01,male,1951-11-10,,,
-Minister of Internal Affairs,Ramazon Rahimov,Q7289157,2012-01-05,,male,1960-04-25,,,Ramazon Rahimov
-Minister of Justice,Rustam Shokhmurod,Q25592532,2013-11-21,2020-01-21,male,1965-05-03,,,
-Minister of Justice,Ashuriyon Muzaffar Qurbonmuhammad,Q110159406,2020-01-21,,male,1963,,,
-"Minister of Labour, Migration and Population Employment",Shirin Amonzoda,Q110160957,2020-12-10,,female,,,,
-Minister of Transport,Azim Ibrohim,Q20604614,2020-08-31,,male,1962-03-01,,,
-Chairman of the State Committee for Investments and State Property Management,Sadi Kodirzoda,Q110161154,2020-12-04,,male,1978-05-04,,,
-Chairman of the State Committee for Land Management and Geodesy,Orif Khojazoda,Q110161208,2020-11-03,,male,,,,
-Chairman of the State Committee for National Security,Saimumin Yatimov,Q4539588,2010-09-02,,male,1955-07-23,,,Saimumin Yatimov
-Speaker of the National Assembly,Rustam Emomali,Q24258837,2020-04-17,,male,1987-12-19,,Rustam Emomali.jpg,Rustam Emomali
-Speaker of the Assembly of Representatives,Zokirzoda Mahmadtohir,Q110161298,2020-03-17,,male,1956,,,
-Governor of the National Bank,Kholiqzoda Hokim Hikmatullo,Q110161368,2020-11-20,,male,1973-07-27,,,
-Chief of the General Staff,Zarif Sharifzoda,Q48742563,2014-01-18,2015-11-24,male,1970-11-03,2017-01-18,,Zarif Sharifzoda
-Chief of the General Staff,Emomali Sobirzoda,Q56702398,2015-11-24,,male,1972-07-20,,Эмомали Собирзода.jpg,Emomali Sobirzoda
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Tajikistan,President,Emomali Rahmon,Q57366,1994-11-19,,male,1952-10-05,,Emomali Rahmon (2017-02-27).jpg,Emomali Rahmon
+Tajikistan,Prime Minister,Oqil Oqilov,Q57754,1999-12-20,2013-11-23,male,1944-02-02,,Oqil Oqilov.jpeg,Oqil Oqilov
+Tajikistan,Prime Minister,Kokhir Rasulzoda,Q15222839,2013-11-23,,male,1961-03-08,,Kokhir Rasulzoda.jpg,Kokhir Rasulzoda
+Tajikistan,First Deputy Prime Minister,Davlatali Said,Q25612207,2013-11-19,,male,1970-03-30,,,
+Tajikistan,Deputy Prime Minister,Usmonali Usmonov,Q25612364,2020-11-03,,male,1959-09-13,,,
+Tajikistan,Deputy Prime Minister,Matloubkhon Sattoriyon,Q110159963,2020-12-10,,female,,,,
+Tajikistan,Minister of Agriculture,,Q13202018,2016-03-30,2020-11,male,1957-12-24,,,
+Tajikistan,Minister of Agriculture,Ziyozoda Sulaimon Rizoi,Q110159626,2020-11-03,,male,1962,,,
+Tajikistan,Minister of Culture,,Q20609964,2013-11-21,2020-01-24,,,,,
+Tajikistan,Minister of Culture,Davlatzoda Zulfiya Davlat,Q86724010,2020-01-24,,female,1974-03-13,,,
+Tajikistan,Minister of Defence,Sherali Khayrulloyev,Q7494657,1995-04-07,2013-11-20,male,1949-11-08,,Sherali Khayrulloyev.jpg,Sherali Khayrulloyev
+Tajikistan,Minister of Defence,Sherali Mirzo,Q20611394,2013-11-20,,male,1967-05-24,,Sherali Mirzo.jpeg,Sherali Mirzo
+Tajikistan,Minister of Economic Development and Trade,Zavkizoda Zavki Amin,Q110160067,2020-02-03,,male,1972,,,
+Tajikistan,Minister of Education and Science,Imomzoda Muhammadyusuf Saydali,Q20609429,2020-01-24,,male,1959-04-28,,,
+Tajikistan,Minister of Energy and Water Resources,Usmonali Usmonov,Q25612364,2013-11-21,2020-11-03,male,1959-09-13,,,
+Tajikistan,Minister of Energy and Water Resources,Daler Jumayev,Q110160952,2020-12-10,,male,,,,
+Tajikistan,Minister of Finance,Faiziddin Kahhorzoda,Q110161251,2018-01-19,,male,1971-08-05,,,
+Tajikistan,Minister of Foreign Affairs,Sirodjidin Aslov,Q18198123,2013-11-29,,male,1964-02-17,,Sirodjidin Aslov September 2016 (29799875305).jpg,Sirojiddin Muhriddin
+Tajikistan,Minister of Health,Nasim Olimzoda,Q31456826,2017-01-12,2020-05-05,male,1964-08-20,,,
+Tajikistan,Minister of Health,Abdullozoda Jamoliddin Abdullo,Q110159906,2020-05-05,,,,,,
+Tajikistan,Minister of Industry and New Technologies,Sherali Gul,Q13202276,2006-12-01,2013,male,1950-02-20,,,
+Tajikistan,Minister of Industry and New Technologies,Sherali Kabirov,Q110160082,2020-12-10,,male,,,,
+Tajikistan,Minister of Internal Affairs,Abdurahim Kakhorov,Q17462318,2009-01,2012-01,male,1951-11-10,,,
+Tajikistan,Minister of Internal Affairs,Ramazon Rahimov,Q7289157,2012-01-05,,male,1960-04-25,,,Ramazon Rahimov
+Tajikistan,Minister of Justice,Rustam Shokhmurod,Q25592532,2013-11-21,2020-01-21,male,1965-05-03,,,
+Tajikistan,Minister of Justice,Ashuriyon Muzaffar Qurbonmuhammad,Q110159406,2020-01-21,,male,1963,,,
+Tajikistan,"Minister of Labour, Migration and Population Employment",Shirin Amonzoda,Q110160957,2020-12-10,,female,,,,
+Tajikistan,Minister of Transport,Azim Ibrohim,Q20604614,2020-08-31,,male,1962-03-01,,,
+Tajikistan,Chairman of the State Committee for Investments and State Property Management,Sadi Kodirzoda,Q110161154,2020-12-04,,male,1978-05-04,,,
+Tajikistan,Chairman of the State Committee for Land Management and Geodesy,Orif Khojazoda,Q110161208,2020-11-03,,male,,,,
+Tajikistan,Chairman of the State Committee for National Security,Saimumin Yatimov,Q4539588,2010-09-02,,male,1955-07-23,,,Saimumin Yatimov
+Tajikistan,Speaker of the National Assembly,Rustam Emomali,Q24258837,2020-04-17,,male,1987-12-19,,Rustam Emomali.jpg,Rustam Emomali
+Tajikistan,Speaker of the Assembly of Representatives,Zokirzoda Mahmadtohir,Q110161298,2020-03-17,,male,1956,,,
+Tajikistan,Governor of the National Bank,Kholiqzoda Hokim Hikmatullo,Q110161368,2020-11-20,,male,1973-07-27,,,
+Tajikistan,Chief of the General Staff,Zarif Sharifzoda,Q48742563,2014-01-18,2015-11-24,male,1970-11-03,2017-01-18,,Zarif Sharifzoda
+Tajikistan,Chief of the General Staff,Emomali Sobirzoda,Q56702398,2015-11-24,,male,1972-07-20,,Эмомали Собирзода.jpg,Emomali Sobirzoda

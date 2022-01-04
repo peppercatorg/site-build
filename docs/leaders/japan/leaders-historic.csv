@@ -1,439 +1,439 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Emperor,Akihito,Q37979,1989-01-07,2019-04-30,male,1933-12-23,,Emperor Akihito of Japan.jpg,Akihito
-Emperor,Naruhito,Q217096,2019-05-01,,male,1960-02-23,,Emperor Naruhito and Empress Masako (cropped).jpg,Naruhito
-Prime Minister,Keizō Obuchi,Q313339,1998-07-30,2000-04-05,male,1937-06-25,2000-05-14,Keizo Obuchi 19980730.jpg,Keizō Obuchi
-Prime Minister,Yoshirō Mori,Q233499,2000-04-05,2000-07-04,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
-Prime Minister,Yoshirō Mori,Q233499,2000-04-05,2001-04-26,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
-Prime Minister,Yoshirō Mori,Q233499,2000-07-04,2001-04-26,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
-Prime Minister,Junichiro Koizumi,Q130852,2001-04-26,2003-11-19,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
-Prime Minister,Junichiro Koizumi,Q130852,2003-11-19,2005-09-21,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
-Prime Minister,Junichiro Koizumi,Q130852,2005-09-21,2006-09-26,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
-Prime Minister,Shinzō Abe,Q132345,2006-09-26,2007-09-25,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
-Prime Minister,Yasuo Fukuda,Q101137,2007-09-26,2008-09-24,male,1936-07-16,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
-Prime Minister,Tarō Asō,Q132596,2008-09-24,2009-09-16,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
-Prime Minister,Yukio Hatoyama,Q131077,2009-09-16,2010-06-08,male,1947-02-11,,Yukio Hatoyama 20090916.jpg,Yukio Hatoyama
-Prime Minister,Naoto Kan,Q47846,2010-06-08,2011-09-02,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
-Prime Minister,Yoshihiko Noda,Q57647,2011-09-02,2012-12-26,male,1957-05-20,,Yoshihiko Noda 20110902.jpg,Yoshihiko Noda
-Prime Minister,Shinzō Abe,Q132345,2012-12-26,2014-12-24,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
-Prime Minister,Shinzō Abe,Q132345,2014-12-24,2017-11-01,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
-Prime Minister,Shinzō Abe,Q132345,2017-11-01,2020-09-16,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
-Prime Minister,Yoshihide Suga,Q122465,2020-09-16,2021-10-04,male,1948-12-06,,Yoshihide Suga 20200916.jpg,Yoshihide Suga
-Prime Minister,Fumio Kishida,Q359480,2021-10-04,,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
-Deputy Prime Minister,Naoto Kan,Q47846,2009-09-16,2010-06-08,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
-Deputy Prime Minister,Katsuya Okada,Q513317,2012-01-13,2012-12-26,male,1953-07-14,,Katsuya Okada 20120113.jpg,Katsuya Okada
-Deputy Prime Minister,Tarō Asō,Q132596,2012-12-26,2021-10-04,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
-"Minister of Agriculture, Forestry and Fisheries",Tadamori Oshima,Q49998,2002-09-30,2003-04-01,male,1946-09-06,,Queen's Birthsday Party 2016 (26830017170).jpg,Tadamori Ōshima
-"Minister of Agriculture, Forestry and Fisheries",Junichiro Koizumi,Q130852,2005-08-08,2005-08-11,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
-"Minister of Agriculture, Forestry and Fisheries",Norihiko Akagi,Q351832,2007-06-01,2007-08-01,male,1959-04-18,,Norihiko Akagi.jpg,Norihiko Akagi
-"Minister of Agriculture, Forestry and Fisheries",Shigeru Ishiba,Q1335527,2008-09-24,2009-09-16,male,1957-02-04,,Gates meets Ishiba 8 November 2007 cropped for Ishiba.jpg,Shigeru Ishiba
-"Minister of Agriculture, Forestry and Fisheries",Yoshimasa Hayashi,Q1141271,2012-12-26,2014-09-03,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
-"Minister of Agriculture, Forestry and Fisheries",Yoshimasa Hayashi,Q1141271,2015-02-23,2015-10-07,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
-"Minister of Agriculture, Forestry and Fisheries",Ken Saitō,Q11679075,2017-08-03,2018-10-02,male,1959-06-14,,Saito ken.jpg,Ken Saitō
-"Minister of Agriculture, Forestry and Fisheries",Takamori Yoshikawa,Q7677156,2018-10-02,2019-09-11,male,1950-10-20,,Takamori Yoshikawa.jpg,Takamori Yoshikawa
-"Minister of Agriculture, Forestry and Fisheries",Genjirō Kaneko,Q1502275,2021-10-04,,male,1944-05-08,,金子原二郎.jpg,Genjirō Kaneko
-Minister of Defence,Fumio Kyūma,Q943732,2007-01-09,2007-07-04,male,1940-12-04,,Fumio Kyuma in Pentagon.jpg,Fumio Kyūma
-Minister of Defence,Yuriko Koike,Q261703,2007-07-04,2007-08-27,female,1952-07-15,,Koike Yuriko (2019).jpg,Yuriko Koike
-Minister of Defence,Masahiko Kōmura,Q697969,2007-08-27,2007-09-26,male,1942-03-15,,Komura Masahiko 1-3.jpg,Masahiko Kōmura
-Minister of Defence,Shigeru Ishiba,Q1335527,2007-09-26,2008-08-02,male,1957-02-04,,Gates meets Ishiba 8 November 2007 cropped for Ishiba.jpg,Shigeru Ishiba
-Minister of Defence,Yoshimasa Hayashi,Q1141271,2008-08-02,2008-09-24,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
-Minister of Defence,Yasukazu Hamada,Q1132836,2008-09-24,2009-09-16,male,1955-10-21,,Yasukazu Hamada cropped Yasukazu Hamadand and John Hamre 19981103.jpg,Yasukazu Hamada
-Minister of Defence,Toshimi Kitazawa,Q1155846,2009-09-24,2011-09-02,male,1938-03-06,,"Toshimi Kitazawa Oct. 21, 2009.jpg",Toshimi Kitazawa
-Minister of Defence,Akinori Eto,Q49999,2014-09-03,2014-12-24,male,1955-10-12,,Akinori Eto 071217-N-8772M-001 0YH9U.jpg,Akinori Eto
-Minister of Defence,Gen Nakatani,Q5530859,2014-12-24,2016-08-03,male,1957-10-14,,Gen Nakatani 4 Apr 2007 without US flag.jpg,Gen Nakatani
-Minister of Defence,Tomomi Inada,Q1654408,2016-08-03,2017-07-28,female,1959-02-20,,Tomomi Inada 20161027.jpg,Tomomi Inada
-Minister of Defence,Fumio Kishida,Q359480,2017-07-28,2017-08-03,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
-Minister of Defence,Itsunori Onodera,Q49969,2017-08-03,2018-10-02,male,1960-05-05,,"Minister of Defense for Japan Itsunori Onodera in Washington, D.C., August 17, 2017 (36238435810) (cropped).jpg",Itsunori Onodera
-Minister of Defence,Takeshi Iwaya,Q1654639,2018-10-02,2019-09-11,male,1957-08-24,,Takeshi Iwaya (cropped).jpg,Takeshi Iwaya
-Minister of Defence,Taro Kono,Q1161024,2019-09-11,2020-09-16,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
-Minister of Defence,Nobuo Kishi,Q1995125,2020-09-16,,male,1959-04-01,,Nobuo Kishi 20211004.jpg,Nobuo Kishi
-Minister for Digital Transformation,Takuya Hirai,Q7678622,2021-09-01,2021-10-04,male,1958-01-25,,Takuya Hirai.jpg,Takuya Hirai
-Minister for Digital Transformation,Karen Makishima,Q11570409,2021-10-04,,female,1976-11-01,,Karen Makishima 20211008.png,Karen Makishima
-Minister for Economic Cooperation with Russia,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
-"Minister of Economy, Trade and Industry",Yukio Edano,Q732087,2011-09-12,2012-12-26,male,1964-05-31,,Yukio Edano In front of Tenjin Twin Building (2020.10.18).jpg,Yukio Edano
-"Minister of Economy, Trade and Industry",Toshimitsu Motegi,Q1655453,2012-12-26,2014-09-03,male,1955-10-07,,Toshimitsu Motegi 20200916.jpg,Toshimitsu Motegi
-"Minister of Economy, Trade and Industry",Isshu Sugawara,Q11619136,2019-09-11,2019-10-25,male,1962-01-07,,Isshu Sugawara cropped 2 Yukiya Amano Isshu Sugawara and Toshiro Ozawa 20130627.jpg,Isshu Sugawara
-"Minister of Economy, Trade and Industry",Hiroshi Kajiyama,Q5770884,2019-10-25,2021-10-04,male,1955-10-18,,Hiroshi Kajiyama.jpg,Hiroshi Kajiyama (politician)
-"Minister of Economy, Trade and Industry",Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
-"Minister of Education, Culture, Sports, Science and Technology",Nobutaka Machimura,Q697258,2001-01-06,2001-04-26,male,1944-10-17,2015-06-01,Nobutaka Machimura April 2015.jpg,Nobutaka Machimura
-"Minister of Education, Culture, Sports, Science and Technology",Atsuko Tōyama,Q6147883,2001-04-26,2003-09-22,female,1938-12-10,,Atsuko Tōyama.jpg,Toyama Atsuko
-"Minister of Education, Culture, Sports, Science and Technology",Takeo Kawamura,Q382311,2003-09-22,2004-09-27,male,1942-11-10,,Takeo Kawamura.jpg,Takeo Kawamura (politician)
-"Minister of Education, Culture, Sports, Science and Technology",Nariaki Nakayama,Q382089,2004-09-27,2005-10-31,male,1943-06-07,,Nariaki Nakayama 20090825.JPG,Nariaki Nakayama
-"Minister of Education, Culture, Sports, Science and Technology",Kenji Kosaka,Q5365896,2005-10-31,2006-09-26,male,1946-03-12,2016-10-21,Kenji Kosaka.jpg,Kenji Kosaka
-"Minister of Education, Culture, Sports, Science and Technology",Bunmei Ibuki,Q729599,2006-09-26,2007-09-26,male,1938-01-09,,사본 -8632564647 fb1ba67294 o.jpg,Bunmei Ibuki
-"Minister of Education, Culture, Sports, Science and Technology",Kisaburo Tokai,Q1133136,2007-09-26,2008-08-02,male,1948-02-11,,Kisaburō Tokai.jpg,Kisaburo Tokai
-"Minister of Education, Culture, Sports, Science and Technology",Tsuneo Suzuki,Q372833,2008-08-02,2008-09-24,male,1941-02-10,,Tsuneo Suzuki.jpg,Tsuneo Suzuki
-"Minister of Education, Culture, Sports, Science and Technology",Ryu Shionoya,Q935199,2008-09-24,2009-09-16,male,1950-02-18,,Ryū Shionoya.jpg,Ryū Shionoya
-"Minister of Education, Culture, Sports, Science and Technology",Tatsuo Kawabata,Q1131518,2009-09-16,2010-09-17,male,1945-01-24,,Tatsuo Kawabata cropped 1 Tatsuo Kawabata and David Warren 20120606.jpg,Tatsuo Kawabata
-"Minister of Education, Culture, Sports, Science and Technology",Yoshiaki Takaki,Q472792,2010-09-17,2011-09-02,male,1945-12-22,,Yoshiaki Takaki.jpg,Yoshiaki Takaki
-"Minister of Education, Culture, Sports, Science and Technology",Masaharu Nakagawa,Q1906668,2011-09-02,2012-01-13,male,1950-06-10,,Masaharu Nakagawa.jpg,Masaharu Nakagawa (House of Representatives)
-"Minister of Education, Culture, Sports, Science and Technology",Hirofumi Hirano,Q1155448,2012-01-13,2012-10-01,male,1949-03-19,,Hirofumi Hirano cropped Hirofumi Hirano in Kadena Air Base.jpg,Hirofumi Hirano
-"Minister of Education, Culture, Sports, Science and Technology",Makiko Tanaka,Q465217,2012-10-01,2012-12-26,female,1944-01-14,,Makiko Tanaka in Hawaii cropped.jpg,Makiko Tanaka
-"Minister of Education, Culture, Sports, Science and Technology",Hakubun Shimomura,Q1655220,2012-12-26,2015-10-07,male,1954-05-23,,Hirofumi Shimomura cropped 2 Hirofumi Shimomura and Ernest Moniz 20131031.jpg,Hakubun Shimomura
-"Minister of Education, Culture, Sports, Science and Technology",Hiroshi Hase,Q3136350,2015-10-07,2016-08-03,male,1961-05-05,,Hase271007.jpg,Hiroshi Hase
-"Minister of Education, Culture, Sports, Science and Technology",Hirokazu Matsuno,Q5770251,2016-08-03,2017-08-03,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
-"Minister of Education, Culture, Sports, Science and Technology",Yoshimasa Hayashi,Q1141271,2017-08-03,2018-10-02,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
-"Minister of Education, Culture, Sports, Science and Technology",Masahiko Shibayama,Q6782350,2018-10-02,2019-09-11,male,1965-12-05,,Masahiko Shibayama (cropped).jpg,Masahiko Shibayama
-"Minister of Education, Culture, Sports, Science and Technology",Koichi Hagiuda,Q6426211,2019-09-11,2021-10-04,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
-"Minister of Education, Culture, Sports, Science and Technology",Shinsuke Suematsu,Q7497773,2021-10-04,,male,1955-12-17,,Shinsuke Suematsu in Takarazuka (04) IMG 2150 20130407.JPG,Shinsuke Suematsu
-Minister of the Environment,Yoriko Kawaguchi,Q444899,2001-01-06,2002-02-08,female,1941-01-20,,Yoriko Kawaguchi cropped.jpg,Yoriko Kawaguchi
-Minister of the Environment,Hiroshi Ōki,Q6140479,2002-02-08,2002-09-30,male,1927-06-30,2015-11-13,Hiroshi Ōki.jpg,
-Minister of the Environment,Shun'ichi Suzuki,Q3482658,2002-09-30,2003-09-22,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
-Minister of the Environment,Yuriko Koike,Q261703,2003-09-22,2006-09-26,female,1952-07-15,,Koike Yuriko (2019).jpg,Yuriko Koike
-Minister of the Environment,Masatoshi Wakabayashi,Q260536,2006-09-26,2007-08-27,male,1934-07-04,,Masatoshi Wakabayashi 200708.jpg,Masatoshi Wakabayashi
-Minister of the Environment,Ichirō Kamoshita,Q730991,2007-08-27,2008-08-02,male,1949-01-16,,Ichiro Kamoshita 200210.jpg,Ichirō Kamoshita
-Minister of the Environment,Tetsuo Saito,Q926287,2008-08-02,2009-09-16,male,1952-02-05,,Tetsuo Saitō.jpg,Tetsuo Saito
-Minister of the Environment,Sakihito Ozawa,Q978256,2009-09-16,2010-09-21,male,1954-05-31,,Sakihito Ozawa cropped 1 Members of the Global Legislators Organization for a Balanced Environment Edward Davey and Tim Hitchens 20130530.jpg,Sakihito Ozawa
-Minister of the Environment,Ryu Matsumoto,Q1518904,2010-09-21,2011-09-02,male,1951-05-17,2018-07-21,Ryū Matsumoto.jpg,Ryu Matsumoto
-Minister of the Environment,Satsuki Eda,Q212305,2011-06-27,2011-09-02,male,1941-05-22,2021-07-28,Satsuki Eda cropped.jpg,Satsuki Eda
-Minister of the Environment,Goshi Hosono,Q1135729,2011-09-02,2012-12-26,male,1971-08-21,,Goshi Hosono Minshu IMG 5474 20130707.JPG,Goshi Hosono
-Minister of the Environment,Nobuteru Ishihara,Q992930,2012-09-26,2014-09-03,male,1957-04-19,,Ishihara Nobuteru - Wakaba Station - 20100703.JPG,Nobuteru Ishihara
-Minister of the Environment,Yoshio Mochizuki,Q8056243,2014-09-03,2015-10-07,male,1947-05-02,2019-12-19,Yoshio Mochizuki.jpg,Yoshio Mochizuki
-Minister of the Environment,Tamayo Marukawa,Q7680979,2015-10-07,2016-08-03,female,1971-01-19,,Tamayo Murakawa 20210218.jpg,Tamayo Marukawa
-Minister of the Environment,Koichi Yamamoto,Q6426244,2016-08-03,2017-08-03,male,1947-09-04,,Kōichi Yamamoto.jpg,Koichi Yamamoto
-Minister of the Environment,Masaharu Nakagawa,Q474554,2017-08-03,2018-10-02,male,1947-02-22,,Nakagawa masaharu.jpg,Masaharu Nakagawa (House of Councillors)
-Minister of the Environment,Yoshiaki Harada,Q8055970,2018-10-02,2019,male,1944-10-01,,Yoshiaki Harada.jpg,Yoshiaki Harada
-Minister of the Environment,Shinjirō Koizumi,Q661410,2019-09-11,2021-10-04,male,1981-04-14,,Shinjirō Koizumi in 2020(Suga Cabinet).jpg,Shinjirō Koizumi
-Minister of the Environment,Tsuyoshi Yamaguchi,Q704345,2021-10-04,,male,1954-10-03,,Tsuyoshi Yamaguchi cropped.jpg,Tsuyoshi Yamaguchi (politician)
-Minister of Finance,Kiichi Miyazawa,Q315565,2001-01-06,2001-04-26,male,1919-10-08,2007-06-28,Kiichi Miyazawa 19911105.jpg,Kiichi Miyazawa
-Minister of Finance,Masajuro Shiokawa,Q1133913,2001-04-26,2003-09-22,male,1921-10-13,2015-09-19,Masajuro Shiokawa cropped 2 Finance Ministers of G7 20030412.jpg,Masajuro Shiokawa
-Minister of Finance,Sadakazu Tanigaki,Q463331,2003-09-22,2006-09-26,male,1945-03-07,,Tanigaki Sadakazu.jpg,Sadakazu Tanigaki
-Minister of Finance,Koji Omi,Q1132669,2006-09-26,2007-08-27,male,1932-12-14,,Koji Omi.jpg,Kōji Omi
-Minister of Finance,Fukushiro Nukaga,Q1207174,2007-08-27,2008-08-02,male,1944-01-11,,Nukaga Fukushiro 1-2.jpg,Fukushiro Nukaga
-Minister of Finance,Bunmei Ibuki,Q729599,2008-08-02,2008-09-24,male,1938-01-09,,사본 -8632564647 fb1ba67294 o.jpg,Bunmei Ibuki
-Minister of Finance,Shōichi Nakagawa,Q440571,2008-09-24,2009-02-17,male,1953-07-19,2009-10-04,Shoichi Nakagawa 20080924.jpg,Shōichi Nakagawa
-Minister of Finance,Kaoru Yosano,Q1156675,2009-02-17,2009-09-16,male,1938-08-22,2017-05-23,Kaoru Yosano cropped 1 Timothy Geithner and Kaoru Yosano 20090424.jpg,Kaoru Yosano
-Minister of Finance,Hirohisa Fujii,Q290890,2009-09-16,2010-01-07,male,1932-06-24,,Hisahiro Fujii cropped 1 G7 Finance Ministers and Central Bank Governors meeting 20091003.jpg,Hirohisa Fujii
-Minister of Finance,Naoto Kan,Q47846,2010-01-06,2010-06-08,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
-Minister of Finance,Jun Azumi,Q212400,2011-09-02,2012-10-01,male,1962-01-17,,Minister Azumi.jpg,Jun Azumi
-Minister of Finance,Koriki Jojima,Q552388,2012-10-01,2012-12-26,male,1947-01-01,,Koriki Jojima.jpg,Koriki Jojima
-Minister of Finance,Tarō Asō,Q132596,2012-12-26,2021-10-04,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
-Minister of Finance,Shun'ichi Suzuki,Q3482658,2021-10-04,,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
-Minister for Foreign Affairs,Yōhei Kōno,Q186146,1999-10-05,2001-04-26,male,1937-01-15,,Yōhei Kōno.jpg,Yōhei Kōno
-Minister for Foreign Affairs,Makiko Tanaka,Q465217,2001,2002,female,1944-01-14,,Makiko Tanaka in Hawaii cropped.jpg,Makiko Tanaka
-Minister for Foreign Affairs,Makiko Tanaka,Q465217,2001-04-26,2002-01-30,female,1944-01-14,,Makiko Tanaka in Hawaii cropped.jpg,Makiko Tanaka
-Minister for Foreign Affairs,Yoriko Kawaguchi,Q444899,2002,2004,female,1941-01-20,,Yoriko Kawaguchi cropped.jpg,Yoriko Kawaguchi
-Minister for Foreign Affairs,Junichiro Koizumi,Q130852,2002-01-30,2002-02-01,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
-Minister for Foreign Affairs,Nobutaka Machimura,Q697258,2004-09-27,2005-10-31,male,1944-10-17,2015-06-01,Nobutaka Machimura April 2015.jpg,Nobutaka Machimura
-Minister for Foreign Affairs,Nobutaka Machimura,Q697258,2007-08-27,2007-09-26,male,1944-10-17,2015-06-01,Nobutaka Machimura April 2015.jpg,Nobutaka Machimura
-Minister for Foreign Affairs,Hirofumi Nakasone,Q937682,2008-09-24,2009-09-16,male,1945-11-28,,Hirofumi Nakasone Senate of Poland 2016 01.JPG,Hirofumi Nakasone
-Minister for Foreign Affairs,Seiji Maehara,Q132280,2010-09-17,2011-03-07,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
-Minister for Foreign Affairs,Yukio Edano,Q732087,2011-03-07,2011-03-09,male,1964-05-31,,Yukio Edano In front of Tenjin Twin Building (2020.10.18).jpg,Yukio Edano
-Minister for Foreign Affairs,Takeaki Matsumoto,Q1315762,2011-03-09,2011-09-02,male,1959-04-25,,Takeaki Matsumoto Au10 01.JPG,Takeaki Matsumoto
-Minister for Foreign Affairs,Kōichirō Genba,Q58213,2011-09-02,2012-12-26,male,1964-05-20,,Minister Gemba.jpg,Kōichirō Genba
-Minister for Foreign Affairs,Fumio Kishida,Q359480,2012-12-26,2017-08-03,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
-Minister for Foreign Affairs,Taro Kono,Q1161024,2017-08-03,2019-09-11,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
-Minister for Foreign Affairs,Toshimitsu Motegi,Q1655453,2019-09-11,2021-11-04,male,1955-10-07,,Toshimitsu Motegi 20200916.jpg,Toshimitsu Motegi
-Minister for Foreign Affairs,Yoshimasa Hayashi,Q1141271,2021-11-10,,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
-"Minister of Health, Labour and Welfare",Chikara Sakaguchi,Q5097389,2001-01-06,2004-09-27,male,1934-04-01,,Chikara Sakaguchi 200012.jpg,Chikara Sakaguchi
-"Minister of Health, Labour and Welfare",Hidehisa Otsuji,Q5752333,2004-09-27,2005-10-31,male,1940-10-02,,Hidehisa Otsuji cropped 2 Hidehisa Otsuji 200409.jpg,Hidehisa Otsuji
-"Minister of Health, Labour and Welfare",Jirō Kawasaki,Q1689655,2005-10-31,2006-09-26,male,1947-11-15,,Jirō Kawasaki.jpg,Jirō Kawasaki
-"Minister of Health, Labour and Welfare",Hakuo Yanagisawa,Q640668,2006-09-26,2007-08-27,male,1935-08-18,,Hakuo Yanagisawa 200609.jpg,Hakuo Yanagisawa
-"Minister of Health, Labour and Welfare",Yōichi Masuzoe,Q389617,2007-08-27,2009-09-16,male,1948-11-29,,Masuzoe 210 Herman.jpg,Yōichi Masuzoe
-"Minister of Health, Labour and Welfare",Akira Nagatsuma,Q263777,2009-09-16,2010-09-17,male,1960-06-14,,Akira Nagatsuma 201006.jpg,Akira Nagatsuma
-"Minister of Health, Labour and Welfare",Ritsuo Hosokawa,Q472775,2010-09-17,2011-09-02,male,1943-08-08,,Ritsuo Hosokawa 201101.png,Ritsuo Hosokawa
-"Minister of Health, Labour and Welfare",Yoko Komiyama,Q456352,2011-09-02,2012-10-01,female,1948-09-17,,Yōko Komiyama.jpg,Yoko Komiyama
-"Minister of Health, Labour and Welfare",Wakio Mitsui,Q2484183,2012-10-01,2012-12-26,male,1942-11-24,2021-04-02,Wakio Mitsui.jpg,Wakio Mitsui
-"Minister of Health, Labour and Welfare",Norihisa Tamura,Q1656878,2012-12-26,2014-09-03,male,1964-12-15,,Norihisa TAMURA 01.jpg,Norihisa Tamura
-"Minister of Health, Labour and Welfare",Yasuhisa Shiozaki,Q360395,2014-09-03,2017-08-03,male,1950-11-07,,Shiozaki Yasuhisa 1-1.jpg,Yasuhisa Shiozaki
-"Minister of Health, Labour and Welfare",Katsunobu Kato,Q6378155,2017-08-03,2018-10-02,male,1955-11-22,,Katsunobu Katō.jpg,Katsunobu Katō
-"Minister of Health, Labour and Welfare",Katsunobu Kato,Q6378155,2019-09-11,2020-09-16,male,1955-11-22,,Katsunobu Katō.jpg,Katsunobu Katō
-"Minister of Health, Labour and Welfare",Shigeyuki Goto,Q7496422,2021-10-04,,male,1955-12-09,,20211004goto shigeyuki.jpg,Shigeyuki Goto
-Minister for Internal Affairs and Communications,Toranosuke Katayama,Q188095,2001-01-06,2003-09-22,male,1935-08-02,,Toranosuke Katayama 200101.jpg,Toranosuke Katayama
-Minister for Internal Affairs and Communications,Tarō Asō,Q132596,2003-09-22,2005-10-31,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
-Minister for Internal Affairs and Communications,Heizō Takenaka,Q861857,2005-10-31,2006-09-26,male,1951-03-03,,Heizo Takenaka in World Economic Forum on East Asia 2009.jpg,Heizō Takenaka
-Minister for Internal Affairs and Communications,Yoshihide Suga,Q122465,2006-09-26,2007-08-27,male,1948-12-06,,Yoshihide Suga 20200916.jpg,Yoshihide Suga
-Minister for Internal Affairs and Communications,Hiroya Masuda,Q738197,2007-08-27,2008-09-24,male,1951-12-20,,Hiroya Masuda 200808.jpg,Hiroya Masuda
-Minister for Internal Affairs and Communications,Kunio Hatoyama,Q777936,2008-09-24,2009-06-12,male,1948-09-13,2016-06-21,Kunio Hatoyama 200809.jpg,Kunio Hatoyama
-Minister for Internal Affairs and Communications,Tsutomu Satō,Q1133360,2009-06-12,2009-09-16,male,1952-06-20,,Tsutomu Satō.jpg,Tsutomu Sato (politician)
-Minister for Internal Affairs and Communications,Kazuhiro Haraguchi,Q548239,2009-09-16,2010-09-17,male,1959-07-02,,Kazuhiro Haraguchi.jpg,Kazuhiro Haraguchi
-Minister for Internal Affairs and Communications,Yoshihiro Katayama,Q967196,2010-09-17,2011-09-02,male,1951-07-29,,Yoshihiro Katayama-20060719a.jpg,Yoshihiro Katayama
-Minister for Internal Affairs and Communications,Tatsuo Kawabata,Q1131518,2011-09-02,2012-10-01,male,1945-01-24,,Tatsuo Kawabata cropped 1 Tatsuo Kawabata and David Warren 20120606.jpg,Tatsuo Kawabata
-Minister for Internal Affairs and Communications,Shinji Tarutoko,Q462308,2012-10-01,2012-12-26,male,1959-08-06,,Shinji Tarutoko Minshu IMG 5451 20130707.JPG,Shinji Tarutoko
-Minister for Internal Affairs and Communications,Yoshitaka Shindō,Q529792,2012-12-26,2014-09-03,male,1958-01-20,,Yoshitaka Shindō.jpg,Yoshitaka Shindō
-Minister for Internal Affairs and Communications,Sanae Takaichi,Q1705028,2014-09-03,2017-08-03,female,1961-03-07,,Sanae Takaichi.jpg,Sanae Takaichi
-Minister for Internal Affairs and Communications,Seiko Noda,Q459698,2017-08-03,2018-10-02,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
-Minister for Internal Affairs and Communications,Masatoshi Ishida,Q6782738,2018-10-02,2019-09-11,male,1952-04-11,,Masatoshi Ishida.jpg,Masatoshi Ishida (politician)
-Minister for Internal Affairs and Communications,Sanae Takaichi,Q1705028,2019-09-11,2020-09-16,female,1961-03-07,,Sanae Takaichi.jpg,Sanae Takaichi
-Minister for Internal Affairs and Communications,Ryota Takeda,Q7385342,2020-09-16,2021-10-04,male,1968-04-01,,Ryota Takeda 20200916.jpeg,Ryota Takeda
-Minister for Internal Affairs and Communications,Yasushi Kaneko,Q8050092,2021-10-04,,male,1961-02-27,,Yasushi Kaneko 20211004.jpg,Yasushi Kaneko
-Minister of Justice,Yoshito Sengoku,Q965723,2010-11-22,2011-01-14,male,1946-01-15,2018-10-11,Yoshito Sengoku - World Economic Forum Annual Meeting Davos 2010.jpg,Yoshito Sengoku
-Minister of Justice,Satsuki Eda,Q212305,2011-01-14,2011-09-02,male,1941-05-22,2021-07-28,Satsuki Eda cropped.jpg,Satsuki Eda
-Minister of Justice,Toshio Ogawa,Q962110,2012-01-13,2012-06-04,male,1948-03-18,,Toshio Ogawa cropped 2 Toshio Ogawa 20110603 1.jpg,Toshio Ogawa
-Minister of Justice,Makoto Taki,Q552398,2012-06-04,2012-10-01,male,1938-09-15,,Makoto Taki.jpg,Makoto Taki
-Minister of Justice,Keishu Tanaka,Q212271,2012-10-01,2012-10-24,male,1938-03-06,,Keishu Tanaka.jpg,Keishu Tanaka
-Minister of Justice,Makoto Taki,Q552398,2012-10-24,2012-12-26,male,1938-09-15,,Makoto Taki.jpg,Makoto Taki
-Minister of Justice,Sadakazu Tanigaki,Q463331,2012-12-26,2014-09-03,male,1945-03-07,,Tanigaki Sadakazu.jpg,Sadakazu Tanigaki
-Minister of Justice,Yoshihisa Furukawa,Q8056070,2021-10-04,,male,1965-08-03,,Furukawayoshihisa.jpg,Yoshihisa Furukawa
-"Minister of Land, Infrastructure, Transport and Tourism",Chikage Oogi,Q456161,2001-01-06,2003-09-22,female,1933-05-10,,Chikage Ogi 2006.png,Chikage Oogi
-"Minister of Land, Infrastructure, Transport and Tourism",Sadakazu Tanigaki,Q463331,2008-08-02,2008-09-24,male,1945-03-07,,Tanigaki Sadakazu.jpg,Sadakazu Tanigaki
-"Minister of Land, Infrastructure, Transport and Tourism",Nariaki Nakayama,Q382089,2008-09-24,2008-09-28,male,1943-06-07,,Nariaki Nakayama 20090825.JPG,Nariaki Nakayama
-"Minister of Land, Infrastructure, Transport and Tourism",Seiji Maehara,Q132280,2009-09-16,2010-09-17,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
-"Minister of Land, Infrastructure, Transport and Tourism",Keiichi Ishii,Q1737905,2015-10-07,2019-09-11,male,1958-03-20,,Keiichi Ishii 201510.jpg,Keiichi Ishii
-"Minister of Land, Infrastructure, Transport and Tourism",Tetsuo Saito,Q926287,2021-10-04,,male,1952-02-05,,Tetsuo Saitō.jpg,Tetsuo Saito
-Minister for Reconstruction,Kosaburo Nishime,Q11629931,2021-10-04,,male,1954-08-07,,98 nishime kousaburou.jpg,Kosaburo Nishime
-Minister for the Tokyo Olympic and Paralympic Games,Noriko Horiuchi,Q11427301,2021-10-04,,female,1965-10-28,,Noriko Horiuchi.jpg,Noriko Horiuchi
-Minister for the World Expo 2025,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-Minister for the World Expo 2025,Kenji Wakamiya,Q6389383,2021-10-04,2021-11-10,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-Minister in Charge of Administrative Reform,Karen Makishima,Q11570409,2021-10-04,,female,1976-11-01,,Karen Makishima 20211008.png,Karen Makishima
-Minister in Charge of Building National Resilience,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
-Minister in Charge of Civil Service Reform,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
-Minister in Charge of Cohesive Society,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-Minister in Charge of Comprehensive Policy Coordination for Revival from the Nuclear Accident at Fukushima,Kosaburo Nishime,Q11629931,2021-10-04,,male,1954-08-07,,98 nishime kousaburou.jpg,Kosaburo Nishime
-Minister in Charge of Digital Garden City Nation Vision,Kenji Wakamiya,Q6389383,2021-11-10,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-Minister in Charge of Economic Revitalization,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
-Minister in Charge of Economic Security,Takayuki Kobayashi,Q11461955,2021-10-04,,male,1974-11-29,,Takayuki Kobayashi.jpg,Takayuki Kobayashi
-Minister in Charge of Education Rebuilding,Shinsuke Suematsu,Q7497773,2021-10-04,,male,1955-12-17,,Shinsuke Suematsu in Takarazuka (04) IMG 2150 20130407.JPG,Shinsuke Suematsu
-Minister in Charge of Industrial Competitiveness,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
-Minister in Charge of Measures for Loneliness and Isolation,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
-Minister in Charge of Measures for Novel Coronavirus Disease andHealth Crisis Management,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
-Minister in Charge of Mitigating the Impact of U.S. Forces in Okinawa,Hirokazu Matsuno,Q5770251,2021-10-04,,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
-Minister in Charge of New Capitalism,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
-Minister in Charge of Overcoming Deflation,Shun'ichi Suzuki,Q3482658,2021-10-04,,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
-Minister in Charge of Overcoming Population Decline and Vitalizing Local Economy,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-Minister in Charge of Policies Related to Children,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
-Minister in Charge of Promoting Vaccinations,Noriko Horiuchi,Q11427301,2021-10-04,,female,1965-10-28,,Noriko Horiuchi.jpg,Noriko Horiuchi
-Minister in Charge of Social Security Reform,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
-Minister in Charge of Territorial Issues,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
-Minister in Charge of Water Cycle Policy,Tetsuo Saito,Q926287,2021-10-04,,male,1952-02-05,,Tetsuo Saitō.jpg,Tetsuo Saito
-Minister in Charge of Women's Empowerment,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
-Minister in Charge of the Abductions Issue,Hirokazu Matsuno,Q5770251,2021-10-04,,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
-Minister in Charge of the Response to the Economic Impact caused by the Nuclear Accident,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
-"Minister of State for ""Cool Japan"" Strategy",Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-"Minister of State for ""Cool Japan"" Strategy",Kenji Wakamiya,Q6389383,2021-10-04,2021-11-10,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-Minister of State for Consumer Affairs and Food Safety,Mizuho Fukushima,Q264290,2009-09-16,2010-05-28,female,1955-12-24,,Mizuho Fukushima 2014.jpg,Mizuho Fukushima
-Minister of State for Consumer Affairs and Food Safety,Shunichi Yamaguchi,Q7505080,2014-12-24,2015-10-07,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
-Minister of State for Consumer Affairs and Food Safety,Taro Kono,Q1161024,2015-10-07,2016-08-03,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
-Minister of State for Consumer Affairs and Food Safety,Shinji Inoue,Q7497583,2020-09-16,2021-10-04,male,1969-10-07,,Shinji Inoue.jpg,Shinji Inoue
-Minister of State for Consumer Affairs and Food Safety,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-Minister of State for Disaster Management and Ocean Policy,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
-Minister of State for Economic and Fiscal Policy,Taichi Sakaiya,Q9034256,1998-07-30,2000-12-05,male,1935-07-13,2019-02-08,Taichi Sakaiya.jpg,
-Minister of State for Economic and Fiscal Policy,Seiji Maehara,Q132280,2012-10-01,2012-12-26,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
-Minister of State for Economic and Fiscal Policy,Yasutoshi Nishimura,Q8050121,2019-09-11,2021-10-04,male,1962-10-15,,Yasutoshi Nishimura cropped 2 Urmas Paet and Yasutoshi Nishimura 20140131.jpg,Yasutoshi Nishimura
-Minister of State for Economic and Fiscal Policy,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
-Minister of State for Financial Services,Tarō Asō,Q132596,2012-12-26,2021-10-04,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
-Minister of State for Financial Services,Shun'ichi Suzuki,Q3482658,2021-10-04,,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
-Minister of State for Gender Equality,Yasuo Fukuda,Q101137,2003-09-22,2004-05-07,male,1936-07-16,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
-Minister of State for Gender Equality,Hiroyuki Hosoda,Q1133192,2004-05-07,2005-10-31,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
-Minister of State for Gender Equality,Tamayo Marukawa,Q7680979,2021-02-18,2021-10-04,female,1971-01-19,,Tamayo Murakawa 20210218.jpg,Tamayo Marukawa
-Minister of State for Gender Equality,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
-Minister of State for Intellectual Property Strategy,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-Minister of State for Intellectual Property Strategy,Kenji Wakamiya,Q6389383,2021-10-04,2021-11-10,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
-Minister of State for Measures for Declining Birthrate,Tetsushi Sakamoto,Q7706925,2020-09-16,2021-10-04,male,1950-11-06,,Tetsushi Sakamoto.jpg,Tetsushi Sakamoto
-Minister of State for Measures for Declining Birthrate,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
-Minister of State for Nuclear Emergency Preparedness,Tamayo Marukawa,Q7680979,2015-10-07,2016-08-03,female,1971-01-19,,Tamayo Murakawa 20210218.jpg,Tamayo Marukawa
-Minister of State for Nuclear Emergency Preparedness,Shinjirō Koizumi,Q661410,2020-09-16,2021-10-04,male,1981-04-14,,Shinjirō Koizumi in 2020(Suga Cabinet).jpg,Shinjirō Koizumi
-Minister of State for Nuclear Emergency Preparedness,Tsuyoshi Yamaguchi,Q704345,2021-10-04,,male,1954-10-03,,Tsuyoshi Yamaguchi cropped.jpg,Tsuyoshi Yamaguchi (politician)
-Minister of State for Okinawa and Northern Territories Affairs,Hiroyuki Hosoda,Q1133192,2002-09-30,2003-09-22,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
-Minister of State for Okinawa and Northern Territories Affairs,Sanae Takaichi,Q1705028,2006-09-26,2007-09-26,female,1961-03-07,,Sanae Takaichi.jpg,Sanae Takaichi
-Minister of State for Okinawa and Northern Territories Affairs,Fumio Kishida,Q359480,2007-08-27,2008-08-02,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
-Minister of State for Okinawa and Northern Territories Affairs,Tsutomu Satō,Q1133360,2008-09-24,2009-07-02,male,1952-06-20,,Tsutomu Satō.jpg,Tsutomu Sato (politician)
-Minister of State for Okinawa and Northern Territories Affairs,Ichita Yamamoto,Q1655599,2012-12-26,2014-09-03,male,1958-01-24,,"Ichita Yamamoto, 20191206.jpg",Ichita Yamamoto
-Minister of State for Okinawa and Northern Territories Affairs,Shunichi Yamaguchi,Q7505080,2014-09-03,2015-10-07,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
-Minister of State for Okinawa and Northern Territories Affairs,Taro Kono,Q1161024,2020-09-16,2021-10-04,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
-Minister of State for Okinawa and Northern Territories Affairs,Kosaburo Nishime,Q11629931,2021-10-04,,male,1954-08-07,,98 nishime kousaburou.jpg,Kosaburo Nishime
-Minister of State for Regional Revitalization,Shigeru Ishiba,Q1335527,2015-10-07,2016-08-03,male,1957-02-04,,Gates meets Ishiba 8 November 2007 cropped for Ishiba.jpg,Shigeru Ishiba
-Minister of State for Regional Revitalization,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
-Minister of State for Regulatory Reform,Fumio Kishida,Q359480,2007-08-27,2008-08-02,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
-Minister of State for Regulatory Reform,Tomomi Inada,Q1654408,2012-12-26,2014-09-03,female,1959-02-20,,Tomomi Inada 20161027.jpg,Tomomi Inada
-Minister of State for Regulatory Reform,Taro Kono,Q1161024,2015-10-07,2016-08-03,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
-Minister of State for Regulatory Reform,Taro Kono,Q1161024,2020-09-16,2021-10-04,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
-Minister of State for Regulatory Reform,Karen Makishima,Q11570409,2021-10-04,,female,1976-11-01,,Karen Makishima 20211008.png,Karen Makishima
-Minister of State for Science and Technology Policy,Hiroyuki Hosoda,Q1133192,2002-09-30,2003-09-22,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
-Minister of State for Science and Technology Policy,Sanae Takaichi,Q1705028,2006-09-26,2007-09-26,female,1961-03-07,,Sanae Takaichi.jpg,Sanae Takaichi
-Minister of State for Science and Technology Policy,Fumio Kishida,Q359480,2007-08-27,2008-08-02,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
-Minister of State for Science and Technology Policy,Kōichirō Genba,Q58213,2011-01-14,2011-09-02,male,1964-05-20,,Minister Gemba.jpg,Kōichirō Genba
-Minister of State for Science and Technology Policy,Seiji Maehara,Q132280,2012-10-01,2012-12-26,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
-Minister of State for Science and Technology Policy,Shunichi Yamaguchi,Q7505080,2014-09-03,2015-10-07,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
-Minister of State for Science and Technology Policy,Takuya Hirai,Q7678622,2018-02-10,2019-09-11,male,1958-01-25,,Takuya Hirai.jpg,Takuya Hirai
-Minister of State for Science and Technology Policy,Shinji Inoue,Q7497583,2020-09-16,2021-10-04,male,1969-10-07,,Shinji Inoue.jpg,Shinji Inoue
-Minister of State for Science and Technology Policy,Takayuki Kobayashi,Q11461955,2021-10-04,,male,1974-11-29,,Takayuki Kobayashi.jpg,Takayuki Kobayashi
-Minister of State for Space Policy,Seiji Maehara,Q132280,2012-10-01,2012-12-26,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
-Minister of State for Space Policy,Shunichi Yamaguchi,Q7505080,2014-09-03,2015-10-07,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
-Minister of State for Space Policy,Takayuki Kobayashi,Q11461955,2021-10-04,,male,1974-11-29,,Takayuki Kobayashi.jpg,Takayuki Kobayashi
-Minister of State for the Nuclear Damage Compensation and Decommissioning Facilitation Corporation,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
-Chairperson of the National Public Safety Commission,Kosuke Hori,Q382368,1999-10-05,2000-07-04,male,1934-09-23,,Kōsuke Hori.jpg,Kosuke Hori
-Chairperson of the National Public Safety Commission,Mamoru Nishida,Q11629210,2000-07-04,2000-12-05,male,1928-05-13,2014-05-09,Mamoru Nishida.jpg,
-Chairperson of the National Public Safety Commission,Bunmei Ibuki,Q729599,2000-12-05,2001-04-26,male,1938-01-09,,사본 -8632564647 fb1ba67294 o.jpg,Bunmei Ibuki
-Chairperson of the National Public Safety Commission,Jin Murai,Q1689507,2001-04-26,2002-09-30,male,1937-03-28,,Jin Murai.jpg,Jin Murai
-Chairperson of the National Public Safety Commission,Sadakazu Tanigaki,Q463331,2002-09-30,2003-09-22,male,1945-03-07,,Tanigaki Sadakazu.jpg,Sadakazu Tanigaki
-Chairperson of the National Public Safety Commission,Kiyoko Ono,Q6419024,2003-09-22,2004-09-27,female,1936-02-04,2021-03-13,Kiyoko Ono 1964d.jpg,Kiyoko Ono
-Chairperson of the National Public Safety Commission,Yoshitaka Murata,Q8056287,2004-09-27,2005-10-31,male,1944-07-30,,Yoshitaka Murata.jpg,Yoshitaka Murata
-Chairperson of the National Public Safety Commission,Tetsuo Kutsukake,Q7706901,2005-10-31,2006-09-26,male,1929-09-12,,Tetsuo Kutsukake.jpg,Tetsuo Kutsukake
-Chairperson of the National Public Safety Commission,Kensei Mizote,Q6391370,2006-09-26,2007-08-27,male,1942-09-13,,Kensei Mizote cropped 2 Kensei Mizote 20140716.jpg,Kensei Mizote
-Chairperson of the National Public Safety Commission,Shinya Izumi,Q359926,2007-08-27,2008-08-02,male,1937-08-01,,Shinya Izumi 200007.jpg,Shinya Izumi
-Chairperson of the National Public Safety Commission,Motoo Hayashi,Q926370,2008-08-02,2008-09-24,male,1947-01-03,,Motoo Hayashi.jpg,Motoo Hayashi
-Chairperson of the National Public Safety Commission,Tsutomu Satō,Q1133360,2008-09-24,2009-07-02,male,1952-06-20,,Tsutomu Satō.jpg,Tsutomu Sato (politician)
-Chairperson of the National Public Safety Commission,Motoo Hayashi,Q926370,2009-07-02,2009-09-16,male,1947-01-03,,Motoo Hayashi.jpg,Motoo Hayashi
-Chairperson of the National Public Safety Commission,Hiroshi Nakai,Q921399,2009-09-16,2010-09-17,male,1942-06-10,2017-04-22,中井弘.jpg,Hiroshi Nakai
-Chairperson of the National Public Safety Commission,Tomiko Okazaki,Q299927,2010-09-17,2011-01-14,female,1944-02-16,2017-03-19,Tomiko Okazaki.jpg,Tomiko Okazaki
-Chairperson of the National Public Safety Commission,Kansei Nakano,Q1723930,2011-01-14,2011-09-02,male,1940-11-26,,Kansei Nakano IMG 3272-2 20140110.JPG,Kansei Nakano
-Chairperson of the National Public Safety Commission,Kenji Yamaoka,Q529825,2011-09-02,2012-01-13,male,1943-04-25,,Kenji Yamaoka 201109.jpg,Kenji Yamaoka
-Chairperson of the National Public Safety Commission,Jin Matsubara,Q1336805,2012-01-13,2012-10-01,male,1956-07-31,,Jin Matsubara 201109.jpg,Jin Matsubara
-Chairperson of the National Public Safety Commission,Tadamasa Kodaira,Q2387080,2012-10-01,2012-12-26,male,1942-03-18,,Tadamasa Kodaira.jpg,Tadamasa Kodaira
-Chairperson of the National Public Safety Commission,Keiji Furuya,Q1704969,2012-12-26,2014-09-03,male,1952-11-01,,Keiji Furuya cropped 2 Keiji Furuya and Robert R King 20130828 3.jpg,Keiji Furuya
-Chairperson of the National Public Safety Commission,Eriko Yamatani,Q534539,2014-09-03,2015-10-07,female,1950-09-19,,Eriko Yamatani.jpg,Eriko Yamatani
-Chairperson of the National Public Safety Commission,Taro Kono,Q1161024,2015-10-07,2016-08-03,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
-Chairperson of the National Public Safety Commission,Jun Matsumoto,Q6311513,2016-08-03,2017-08-03,male,1950-04-11,,Jun Mastumoto 20160803.jpg,Jun Matsumoto (politician)
-Chairperson of the National Public Safety Commission,Hachiro Okonogi,Q5637084,2017-08-03,2018-10-02,male,1965-06-22,,Okonogi hachirou.jpg,Hachiro Okonogi
-Chairperson of the National Public Safety Commission,Junzo Yamamoto,Q6314438,2018-10-02,2019-09-11,male,1954-10-27,,Junzō Yamamoto.jpg,Junzo Yamamoto
-Chairperson of the National Public Safety Commission,Ryota Takeda,Q7385342,2019-09-11,2020-09-16,male,1968-04-01,,Ryota Takeda 20200916.jpeg,Ryota Takeda
-Chairperson of the National Public Safety Commission,Yasufumi Tanahashi,Q1340817,2019-10-25,2021-10-04,male,1963-02-11,,Yasufumi Tanahashi.jpg,Yasufumi Tanahashi
-Chairperson of the National Public Safety Commission,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
-Chief Cabinet Secretary,Hidenao Nakagawa,Q906180,2000-07-04,2000-10-27,male,1944-02-02,,Hidenao Nakagawa (cropped).jpg,Hidenao Nakagawa
-Chief Cabinet Secretary,Yasuo Fukuda,Q101137,2000-10-27,2004-05-07,male,1936-07-16,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
-Chief Cabinet Secretary,Hiroyuki Hosoda,Q1133192,2004-05-07,2005-10-31,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
-Chief Cabinet Secretary,Shinzō Abe,Q132345,2005-10-31,2006-09-26,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
-Chief Cabinet Secretary,Yasuhisa Shiozaki,Q360395,2006-09-26,2007-08-27,male,1950-11-07,,Shiozaki Yasuhisa 1-1.jpg,Yasuhisa Shiozaki
-Chief Cabinet Secretary,Nobutaka Machimura,Q697258,2007-09-26,2008-09-02,male,1944-10-17,2015-06-01,Nobutaka Machimura April 2015.jpg,Nobutaka Machimura
-Chief Cabinet Secretary,Yoshito Sengoku,Q965723,2010-06-08,2011-01-14,male,1946-01-15,2018-10-11,Yoshito Sengoku - World Economic Forum Annual Meeting Davos 2010.jpg,Yoshito Sengoku
-Chief Cabinet Secretary,Osamu Fujimura,Q1138023,2011-09-02,2012-12-26,male,1949-11-03,,Osamu Fujimura.jpg,Osamu Fujimura
-Chief Cabinet Secretary,Yoshihide Suga,Q122465,2012-12-26,2020-09-16,male,1948-12-06,,Yoshihide Suga 20200916.jpg,Yoshihide Suga
-Chief Cabinet Secretary,Katsunobu Kato,Q6378155,2020-09-16,2021-10-04,male,1955-11-22,,Katsunobu Katō.jpg,Katsunobu Katō
-Chief Cabinet Secretary,Hirokazu Matsuno,Q5770251,2021-10-04,,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
-Chief Justice,Shigeru Yamaguchi,Q11467428,1997-10-31,2002-11-03,male,1932-11-04,,,
-Chief Justice,Akira Machida,Q3607346,2002-11-06,2006-10-15,male,1936-10-16,2015-04-05,,Akira Machida
-Chief Justice,Niro Shimada,Q11476857,2006-10-16,2008-11-21,male,1938-11-22,,,Niro Shimada
-Chief Justice,Hironobu Takesaki,Q2892819,2008-11-25,2014-03-31,male,1944-07-08,,,Hironobu Takesaki
-Chief Justice,Itsurō Terada,Q11458035,2014-04-01,2018-01-08,male,1948-01-09,,,Itsurō Terada
-Chief Justice,Naoto Ōtani,Q11439136,2018,,male,1952-06-23,,,Naoto Ōtani
-Director of Cabinet Intelligence,Shin'ichi Uematsu,Q11540617,2010-04-02,2011-12-27,male,1954-01,,,
-Director of Cabinet Intelligence,Hiroaki Takizawa,Q69634994,2019-09-11,,male,1959-07-18,,Takizawa Hiroaki.jpg,
-Special Adviser to the Prime Minister,Shunichi Yamaguchi,Q7505080,2008-09-30,2009-09-16,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
-Special Adviser to the Prime Minister,Satoshi Arai,Q1478311,2009-10-23,2010-06-10,male,1946-05-27,,Satoshi Arai 201006.jpg,Satoshi Arai
-Superintendent General,Yoshihiko Oishi,Q92672207,2021-09-16,,male,1963-05-04,,,
-Commissioner for Cultural Affairs,Hideki Hayashida,Q11533219,1997-07-01,2000-06-15,male,1942-04-03,,,
-Commissioner for Cultural Affairs,Masamine Sasaki,Q11382292,2000-06-15,2002-01-18,male,1941,,,
-Commissioner for Cultural Affairs,Hayao Kawai,Q2025444,2002-01-18,2007-01-17,male,1928-06-23,2007-07-19,,Hayao Kawai
-Commissioner for Cultural Affairs,Kondō Shinji,Q11638707,2006-11-01,2007-04-01,male,1948-02,,,
-Commissioner for Cultural Affairs,Tamotsu Aoki,Q11661638,2007-04-01,2009-07-14,male,1938-10-30,,,
-Commissioner for Cultural Affairs,Hideo Tamai,Q11572377,2009-07-14,2010-07-30,male,1948,,,
-Commissioner for Cultural Affairs,Seiichi Kondō,Q6145934,2010-07-30,2013-07-07,male,1946-03-24,,,
-Commissioner for Cultural Affairs,Masanori Aoyagi,Q11661949,2013-07-08,2016-04-01,male,1944-11-21,,Masanori Aoyagi cropped 1 Masanori Aoyagi 20211103.jpg,
-Commissioner for Cultural Affairs,Ryōhei Miyata,Q11455106,2016-04-01,2021-03-31,male,1945-06-08,,宮田亮平 2016 (28639495693).jpg,
-Commissioner for Cultural Affairs,Shunichi Tokura,Q11643484,2021-04-01,,male,1948-06-21,,,Shunichi Tokura
-Governor of the Bank of Japan,Masaru Hayami,Q1047651,1998-03-20,2003-03-19,male,1925-03-24,2009-05-17,Masaru Hayami.jpg,Masaru Hayami
-Governor of the Bank of Japan,Toshihiko Fukui,Q1045577,2003-03-20,2008-03-19,male,1935-09-07,,Toshihiko Fukui.jpg,Toshihiko Fukui
-Governor of the Bank of Japan,Masaaki Shirakawa,Q168716,2008-04-09,2013-03-19,male,1949-09-27,,Masaaki Shirakawa 2012.jpg,Masaaki Shirakawa
-Governor of the Bank of Japan,Haruhiko Kuroda,Q5244721,2013-03-20,,male,1944-10-25,,Haruhiko Kuroda at ADB Philippines (crop).jpg,Haruhiko Kuroda
-President of the House of Councillors,Jūrō Saitō,Q11500493,1995-08-04,2000-10-19,male,1940-02-05,,Juro Saito.jpg,
-President of the House of Councillors,Yutaka Inoue,Q11373220,2000-10-19,2002-04-22,male,1927-11-17,2008-06-22,Yutaka Inoue 1990.jpg,
-President of the House of Councillors,Hiroyuki Kurata,Q11386875,2002-04-22,2004-07-30,male,1938-04-09,2020-04-07,Hiroyuki Kurata.jpg,
-President of the House of Councillors,Chikage Oogi,Q456161,2004-07-30,2007-07-28,female,1933-05-10,,Chikage Ogi 2006.png,Chikage Oogi
-President of the House of Councillors,Satsuki Eda,Q212305,2007-08-07,2010-07-25,male,1941-05-22,2021-07-28,Satsuki Eda cropped.jpg,Satsuki Eda
-President of the House of Councillors,Takeo Nishioka,Q967214,2010-07-30,2011-11-05,male,1936-02-12,2011-11-05,Takeo Nishioka 1988.jpg,Takeo Nishioka
-President of the House of Councillors,Kenji Hirata,Q536655,2011-11-14,2013-07-28,male,1944-01-04,,Kenji Hirata.jpg,Kenji Hirata
-President of the House of Councillors,Masaaki Yamazaki,Q2225687,2013-08-02,2016-07-25,male,1942-05-24,,Masaaki Yamazaki cropped 2 Masaaki Yamazaki and Urmas Paet 20140721 3.jpg,Masaaki Yamazaki
-President of the House of Councillors,Chuichi Date,Q1091221,2016-08-01,2019-07-28,male,1939-01-20,,Chūichi Date (2018).jpg,Chūichi Date
-President of the House of Councillors,Akiko Santō,Q3546202,2019-08-01,,female,1942-05-11,,Delegação oficial da Câmara dos Conselheiros do Japão (49363497538).jpg,Akiko Santō
-Speaker of the House of Representatives,Tamisuke Watanuki,Q2391659,2000-07-04,2003-10-10,male,1927-04-30,,,Tamisuke Watanuki
-Speaker of the House of Representatives,Takahiro Yokomichi,Q130856,2009-09-16,2012-11-16,male,1941-01-03,,,Takahiro Yokomichi
-Speaker of the House of Representatives,Hiroyuki Hosoda,Q1133192,2021-11-10,,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
-Governor of Aichi Prefecture,Masaaki Kanda,Q204939,1999-02-15,2011-02-14,male,1951-10-01,,,Masaaki Kanda
-Governor of Aichi Prefecture,Hideaki Ōmura,Q1617350,2011-02-15,,male,1960-03-09,,Hideaki Omura (2014.03.23) 5.jpg,Hideaki Ōmura
-Governor of Akita Prefecture,Norihisa Satake,Q438468,2009-04-20,,male,1947-11-15,,Satake Norihisa 1-1.jpg,Norihisa Satake
-Governor of Aomori Prefecture,Shingo Mimura,Q174982,2003-06-29,,male,1956-04-16,,日本青森縣知事三村申吾.jpg,Shingo Mimura
-Governor of Chiba Prefecture,Akiko Dōmoto,Q418188,2001-04-05,2009-04-04,female,1932-07-31,,Governor Akiko Dōmoto.jpg,Akiko Dōmoto
-Governor of Chiba Prefecture,Kensaku Morita,Q449915,2009-04-05,2021-04-05,male,1949-12-16,,08.10 副總統接見「日本千葉縣知事森田健作訪團」 (28272292543).jpg,Kensaku Morita
-Governor of Chiba Prefecture,Toshihito Kumagai,Q11568706,2021-04-05,,male,1978-02-18,,,
-Governor of Ehime Prefecture,Moriyuki Kato,Q1948191,1999-01-28,2010-11-30,male,1934-09-18,2020-03-21,,Moriyuki Kato
-Governor of Ehime Prefecture,Tokihiro Nakamura,Q2438992,2010-12-01,,male,1960-01-25,,Tokihiro Nakamura 2013-02-01.JPG,Tokihiro Nakamura
-Governor of Fukui Prefecture,Issei Nishikawa,Q127759,2003-04-23,2019-04-22,male,1945-01-02,,Nishikawa Issei 2014 04 12.JPG,Issei Nishikawa
-Governor of Fukui Prefecture,Tatsuji Sugimoto,Q67498535,2019-04-23,,male,1962-07-31,,,Tatsuji Sugimoto
-Governor of Fukuoka Prefecture,Wataru Asō,Q269414,1995-04-23,2011-04-22,male,1939-05-15,,,Wataru Asō
-Governor of Fukuoka Prefecture,Hiroshi Ogawa,Q1620282,2011-04-25,2021-03-24,male,1949-05-17,2021-11-02,,Hiroshi Ogawa (politician)
-Governor of Fukuoka Prefecture,Seitaro Hattori,Q95162957,2021-04-11,,male,1954-09-11,,,
-Governor of Fukushima Prefecture,Eisaku Satō,Q5349896,1988-09-19,2006-09-28,male,1939-06-24,,,Eisaku Satō (governor)
-Governor of Fukushima Prefecture,Yūhei Satō,Q1450003,2006-11-12,2014-11-11,male,1947-12-13,,Yuhei Sato cropped 2 Yuhei Sato and Yukiya Amano 20120831 2.jpg,Yūhei Satō
-Governor of Fukushima Prefecture,Masao Uchibori,Q17989197,2014-11-12,,male,1964-03-26,,Masao Uchibori cropped 2 Shin Maruo Elena Buglova and Masao Uchibori 20130527.jpg,Masao Uchibori
-Governor of Gifu Prefecture,Hiromu Kajiwara,Q11538825,1989-02-06,2005-02-05,male,1933-11-14,2017-08-29,,
-Governor of Gifu Prefecture,Hajime Furuta,Q982638,2005-02-06,,male,1947-09-13,,,Hajime Furuta
-Governor of Gunma Prefecture,Masaaki Ōsawa,Q982644,2007-07-28,2019-07-27,male,1946-01-21,,,Masaaki Ōsawa
-Governor of Gunma Prefecture,Ichita Yamamoto,Q1655599,2019-07-28,,male,1958-01-24,,"Ichita Yamamoto, 20191206.jpg",Ichita Yamamoto
-Governor of Hiroshima Prefecture,Yūzan Fujita,Q982634,1993,2009,male,1949-04-19,2015-12-18,,Yūzan Fujita
-Governor of Hiroshima Prefecture,Hidehiko Yuzaki,Q1485068,2009-11-29,,male,1965-10-04,,Hidehiko Yuzaki cropped 3 Hidehiko Yuzaki and Toshiro Ozawa 20121102.jpg,Hidehiko Yuzaki
-Governor of Hokkaidō Prefecture,Tatsuya Hori,Q7688352,1995-04-10,2003-04-10,male,1935-11-22,,,Tatsuya Hori
-Governor of Hokkaidō Prefecture,Harumi Takahashi,Q459145,2003-04-14,2019-04-22,female,1954-01-06,,20211006takahashi harumi.jpg,Harumi Takahashi
-Governor of Hokkaidō Prefecture,Naomichi Suzuki,Q11649100,2019-04-23,,male,1981-03-14,,Governor Naomichi Suzuki in 2020.jpg,Naomichi Suzuki
-Governor of Hyōgo Prefecture,Toshizō Ido,Q982641,2001-08-01,2021-07-31,male,1945-08-10,,Ido Toshizo 1-1.jpg,Toshizō Ido
-Governor of Hyōgo Prefecture,Motohiko Saitō,Q107917854,2021-08-01,,male,1977-11-15,,斎藤元彦.jpg,Motohiko Saitō
-Governor of Ibaraki Prefecture,Masaru Hashimoto,Q982631,1993-09-26,2017-09-25,male,1945-11-19,,Masaru Hashimoto cropped 2 Masaru Hashimoto and Yoshihiko Noda 20110927.jpg,Masaru Hashimoto
-Governor of Ibaraki Prefecture,Kazuhiko Ōigawa,Q38081041,2017-09-26,,male,1964-04-03,,"Kazuhiko Oigawa, 20191206.jpg",Kazuhiko Ōigawa
-Governor of Ishikawa Prefecture,Masanori Tanimoto,Q982469,1994-03-27,,male,1945-04-16,,,Masanori Tanimoto
-Governor of Iwate Prefecture,Hiroya Masuda,Q738197,1995-04-30,2007-04-29,male,1951-12-20,,Hiroya Masuda 200808.jpg,Hiroya Masuda
-Governor of Iwate Prefecture,Takuya Tasso,Q49869,2007-04-08,,male,1964-06-10,,Tasso Takuya (2010).JPG,Takuya Tasso
-Governor of Kagawa Prefecture,Takeki Manabe,Q2389419,1998-09-05,2010-09-04,male,1940-04-03,,,Takeki Manabe
-Governor of Kagawa Prefecture,Keizō Hamada,Q1738107,2010-09-05,,male,1952-01-10,,,Keizō Hamada
-Governor of Kagoshima Prefecture,Yūichirō Itō,Q1275484,2004-07-28,2016-07-27,male,1947-11-17,,,Yūichirō Itō
-Governor of Kagoshima Prefecture,Satoshi Mitazono,Q11354596,2016-07-28,2020-07-27,male,1958-02-13,,SatoshiMitazono.jpg,Satoshi Mitazono
-Governor of Kagoshima Prefecture,Kōichi Shiota,Q97291648,2020-07-28,,male,1965-10-15,,,Kōichi Shiota
-Governor of Kanagawa Prefecture,Hiroshi Okazaki,Q11472952,1995-04-23,2003-04-22,male,1932-03-27,2018-03-31,,
-Governor of Kanagawa Prefecture,Shigefumi Matsuzawa,Q1725744,2003-04-23,2011-04-23,male,1958-04-02,,Shigefumi Matsuzawa (cropped).jpg,Shigefumi Matsuzawa
-Governor of Kanagawa Prefecture,Yūji Kuroiwa,Q655960,2011-04-23,,male,1954-09-26,,"Governor Kanagawa Yuji Kuroiwa. In the case of an electric bus test ride, I photographed it at Fureiyu.JPG",Yūji Kuroiwa
-Governor of Kumamoto Prefecture,Jōji Fukushima,Q11593742,1991-02-11,2000-02-25,male,1927-03-31,2000-02-25,,
-Governor of Kumamoto Prefecture,Yoshiko Shiotani,Q529347,2000-04-16,2008-04-15,female,1939-04-05,,,Yoshiko Shiotani
-Governor of Kumamoto Prefecture,Ikuo Kabashima,Q1658176,2008-04-16,,male,1947-01-28,,Ikuo Kabashima 20090523.jpg,Ikuo Kabashima
-Governor of Kyoto,Teiichi Aramaki,Q11618643,1986-04-16,2002-04-15,male,1931-07-22,,,
-Governor of Kyoto,Keiji Yamada,Q656085,2002-04-16,2018-04-16,male,1954-04-05,,"The Governor of Kyoto Prefecture Keiji Yamada in Kyoto, Japan cropped.jpg",Keiji Yamada
-Governor of Kyoto,Takatoshi Nishiwaki,Q50824931,2018-04-16,,male,1955-07-15,,Takatoshi Nishiwaki IMG 0884-28 20181111.jpg,Takatoshi Nishiwaki
-Governor of Kōchi Prefecture,Masanao Ozaki,Q656644,2007-12-07,2019-12-06,male,1967-09-14,,,Masanao Ozaki
-Governor of Kōchi Prefecture,Seiji Hamada,Q80073979,2019-12-07,,male,1963-01-23,,,Seiji Hamada
-Governor of Mie Prefecture,Masayasu Kitagawa,Q11401644,1995-04-21,2003-04-20,male,1944-11-11,,,
-Governor of Mie Prefecture,Akihiko Noro,Q4700917,2003-04-21,2011-04-20,male,1946-08-28,,,Akihiko Noro
-Governor of Mie Prefecture,Eikei Suzuki,Q1303796,2011-04-21,2021-09-12,male,1974-08-15,,鈴木英敬.jpg,Eikei Suzuki
-Governor of Mie Prefecture,Katsumi Ichimi,Q100454684,2021-09-14,,male,1963,,,
-Governor of Miyagi Prefecture,Shirō Asano,Q6139860,1993-11-21,2005-11-20,male,1948-04-08,,,Shirō Asano (politician)
-Governor of Miyagi Prefecture,Yoshihiro Murai,Q377940,2005-11-21,,male,1960-08-20,,Miyagi Prefecture Governor Yoshihiro Murai (村井嘉浩 ) at 2011 MOD seminar.jpg,Yoshihiro Murai
-Governor of Miyazaki Prefecture,Hideo Higashikokubaru,Q730869,2007-01-21,2011-01-20,male,1957-09-16,,Hideo Higashikokubaru 2007 1216.jpg,Hideo Higashikokubaru
-Governor of Miyazaki Prefecture,Shunji Kōno,Q1804854,2011-01-21,,male,1964-09-08,,"Governor Miyazaki Syunji Kouno. In the case of a symposium of the Kojiki, I photographed it at Meiji university.jpg",Shunji Kōno
-Governor of Nagano Prefecture,Shuichi Abe,Q2280320,2010-08,,male,1960-12-21,,ABE Syuichi 2011.jpg,Shuichi Abe
-Governor of Nagasaki Prefecture,Hōdō Nakamura,Q52349,2010-03-02,,male,1950-11-29,,,Hōdō Nakamura
-Governor of Nara Prefecture,Yoshiya Kakimoto,Q11535021,1991-11-28,2007-05-02,male,1938-02-07,,,
-Governor of Nara Prefecture,Shōgo Arai,Q1247261,2007-05-03,,male,1945-01-18,,"Governor Nara sougo Arai. In the case of a symposium of the Kojiki, I photographed it at Meiji university.jpg",Shōgo Arai
-Governor of Niigata Prefecture,Ikuo Hirayama,Q11482509,1992-10-25,2004-10-24,male,1944-07-21,,,
-Governor of Niigata Prefecture,Hirohiko Izumida,Q1620229,2004-10-25,2016-10-24,male,1962-09-15,,"Hirohiko Izumida at Nagaoka Niigata 2019,07 2.jpg",Hirohiko Izumida
-Governor of Niigata Prefecture,Ryūichi Yoneyama,Q11604169,2016-10-25,2018-04-27,male,1967-09-08,,,Ryuichi Yoneyama
-Governor of Niigata Prefecture,Hideyo Hanazumi,Q54913364,2018-06-10,,male,1958-05-22,,,Hideyo Hanazumi
-Governor of Ōita Prefecture,Morihiko Hiramatsu,Q6912213,1979,2003,male,1924-03-12,2016-08-21,,Morihiko Hiramatsu
-Governor of Ōita Prefecture,Katsusada Hirose,Q1736802,2003-04-28,,male,1942-06-25,,20160908大分縣廣瀨勝貞知事.jpg,Katsusada Hirose
-Governor of Osaka Prefecture,Fusae Ōta,Q337446,2000-02-05,2008-02-05,female,1951-06-26,,Fusae Ohta.png,Fusae Ohta
-Governor of Osaka Prefecture,Tōru Hashimoto,Q706296,2008-02-06,2011-10-31,male,1969-06-29,,Tōru Hashimoto.jpg,Tōru Hashimoto
-Governor of Osaka Prefecture,Ichirō Matsui,Q128573,2011-11-28,2019-03-21,male,1964-01-31,,Ichiro Matsui Ishin IMG 5775 20130713.JPG,Ichirō Matsui
-Governor of Osaka Prefecture,Hirofumi Yoshimura,Q21529384,2019-04-08,,male,1975-06-17,,Hirofumi Yoshimura.jpg,Hirofumi Yoshimura
-Governor of Okayama Prefecture,Masahiro Ishii,Q557011,1996-11,2012-11,male,1945-11-29,,20211006ishii masahiro.jpg,Masahiro Ishii
-Governor of Okayama Prefecture,Ryūta Ibaragi,Q11379176,2012-11-12,,male,1966-07-29,,Ryuta Ibaragi cropped 2 Shinzo Abe Hidehiko Yuzaki Ryuta Ibaragi and Tokihiro Nakamura 20180802.jpg,Ryuta Ibaragi
-Governor of Okinawa Prefecture,Keiichi Inamine,Q4662124,1998-12-10,2006-12-09,male,1933-10-14,,Keiichi Inamine.jpg,Keiichi Inamine
-Governor of Okinawa Prefecture,Hirokazu Nakaima,Q452327,2006-12-10,2014-12-10,male,1939-08-19,,Hirokazu Nakaima.jpg,Hirokazu Nakaima
-Governor of Okinawa Prefecture,Takeshi Onaga,Q11610464,2014-12-10,2018-08-08,male,1950-10-02,2018-08-08,Takeshi Onaga (2016).jpg,Takeshi Onaga
-Governor of Okinawa Prefecture,Denny Tamaki,Q11572466,2018-10-04,,male,1959-10-13,,Denny Tamaki (2018).jpg,Denny Tamaki
-Governor of Saga Prefecture,Isamu Imoto,Q11373611,1991,2003-04-22,male,1925-09-17,2018-04-23,,Isamu Imoto
-Governor of Saga Prefecture,Isamu Imoto,Q11373611,1991,2003-04-23,male,1925-09-17,2018-04-23,,Isamu Imoto
-Governor of Saga Prefecture,Isamu Imoto,Q11373611,1991-04-23,2003-04-22,male,1925-09-17,2018-04-23,,Isamu Imoto
-Governor of Saga Prefecture,Isamu Imoto,Q11373611,1991-04-23,2003-04-23,male,1925-09-17,2018-04-23,,Isamu Imoto
-Governor of Saga Prefecture,Yasushi Furukawa,Q2576940,2003-04-23,2014-11-25,male,1958-07-15,,20200918furukawa yasushi.jpg,Yasushi Furukawa (governor)
-Governor of Saga Prefecture,Yoshinori Yamaguchi,Q18818272,2015-01-14,,male,1965-07-01,,,Yoshinori Yamaguchi
-Governor of Saitama Prefecture,Kiyoshi Ueda,Q638431,2003-09-01,2019-08-30,male,1948-05-15,,KiyoshiUeda-Saitama-2018-5-4.jpg,Kiyoshi Ueda
-Governor of Saitama Prefecture,Motohiro Ōno,Q6140287,2019,,male,1963-11-12,,Motohiro Ono 201210.jpg,Motohiro Ōno
-Governor of Shiga Prefecture,Yukiko Kada,Q152728,2006-07-20,2014-07-19,female,1950-05-18,,Kada Yukiko 1-1.jpg,Yukiko Kada
-Governor of Shiga Prefecture,Taizo Mikazuki,Q7676684,2014-07-20,,male,1971-05-24,,,Taizō Mikazuki
-Governor of Shimane Prefecture,Zenbee Mizoguchi,Q189287,2007-04-30,2019-04-30,male,1946-01-20,,Mizoguchi Zenbei 1-1.jpg,Zenbee Mizoguchi
-Governor of Shimane Prefecture,Tatsuya Maruyama,Q64783824,2019-04-30,,male,1970-03-25,,,Tatsuya Maruyama
-Governor of Shizuoka Prefecture,Heita Kawakatsu,Q1505020,2009-07-07,,male,1948-08-16,,Heita Kawakatsu cropped 2 Heita Kawakatsu 20140831.jpg,Heita Kawakatsu
-Governor of Tochigi Prefecture,Akio Fukuda,Q3435725,2000-12-09,2004-12-08,male,1948-04-17,,Ryo Shuhama Akio Fukuda and Takashi Morita 201109.jpg,Akio Fukuda
-Governor of Tochigi Prefecture,Tomikazu Fukuda,Q455915,2004-12-09,,male,1953-05-21,,"Tomikazu Fukuda, 20191206.jpg",Tomikazu Fukuda
-Governor of Tokushima Prefecture,Kamon Iizumi,Q1670854,2003-05-18,,male,1960-07-29,,,Kamon Iizumi
-Governor of Tokyo,Shintarō Ishihara,Q38849,1999-04-23,2012-10-31,male,1932-09-30,,"Shintaro Ishihara, 2006-Sep-1 Rev.jpg",Shintaro Ishihara
-Governor of Tokyo,Naoki Inose,Q1280894,2012-12-18,2013-12-24,male,1946-11-20,,Naoki Inose.jpg,Naoki Inose
-Governor of Tokyo,Yōichi Masuzoe,Q389617,2014-02-11,2016-06-21,male,1948-11-29,,Masuzoe 210 Herman.jpg,Yōichi Masuzoe
-Governor of Tokyo,Yuriko Koike,Q261703,2016-08-02,,female,1952-07-15,,Koike Yuriko (2019).jpg,Yuriko Koike
-Governor of Tottori Prefecture,Hirai Shinji,Q1326985,2007-04-13,,male,1961-09-17,,Shinji Hirai.jpg,Shinji Hirai
-Governor of Toyama Prefecture,Takakazu Ishii,Q1455923,2004-11-09,2020-11-09,male,1945-12-15,,,Takakazu Ishii
-Governor of Toyama Prefecture,Hachiro Nitta,Q50640705,2020-11-09,,male,1958-08-27,,,
-Governor of Wakayama Prefecture,Yoshinobu Nisaka,Q453168,2006-12-17,,male,1950-10-02,,Yoshinobu Nisaka-20070215.jpg,Yoshinobu Nisaka
-Governor of Yamagata Prefecture,Mieko Yoshimura,Q529418,2009-02-14,,female,1951-05-18,,20160519吉村美榮子.jpg,Mieko Yoshimura
-Governor of Yamaguchi Prefecture,Sekinari Nii,Q656326,1996,2012,male,1943-03-20,,Nii Sekinari 1-1.jpg,Sekinari Nii
-Governor of Yamaguchi Prefecture,Shigetarō Yamamoto,Q2278729,2012-08-22,2014-01-14,male,1948-11-14,2014-03-15,,
-Governor of Yamaguchi Prefecture,Tsugumasa Muraoka,Q15830756,2014-02-25,,male,1972-12-07,,,Tsugumasa Muraoka
-Governor of Yamanashi Prefecture,Takahiko Yamamoto,Q11469139,2003-02-17,2007-02-16,male,1935-09-06,,,
-Governor of Yamanashi Prefecture,Shōmei Yokouchi,Q732124,2007-02-17,2015-02-16,male,1942-03-02,2020-04-21,Yokouchi.jpg,Shōmei Yokouchi
-Governor of Yamanashi Prefecture,Hitoshi Goto,Q5872336,2015-02-16,2019-02,male,1957-07-22,,Gotohitoshi.jpg,Hitoshi Goto
-Governor of Yamanashi Prefecture,Kotaro Nagasaki,Q6433881,2019-02-17,,male,1968-08-18,,,Kotaro Nagasaki
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Japan,Emperor,Akihito,Q37979,1989-01-07,2019-04-30,male,1933-12-23,,Emperor Akihito of Japan.jpg,Akihito
+Japan,Emperor,Naruhito,Q217096,2019-05-01,,male,1960-02-23,,Emperor Naruhito and Empress Masako (cropped).jpg,Naruhito
+Japan,Prime Minister,Keizō Obuchi,Q313339,1998-07-30,2000-04-05,male,1937-06-25,2000-05-14,Keizo Obuchi 19980730.jpg,Keizō Obuchi
+Japan,Prime Minister,Yoshirō Mori,Q233499,2000-04-05,2000-07-04,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
+Japan,Prime Minister,Yoshirō Mori,Q233499,2000-04-05,2001-04-26,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
+Japan,Prime Minister,Yoshirō Mori,Q233499,2000-07-04,2001-04-26,male,1937-07-14,,Yoshiro Mori 20000405.jpg,Yoshirō Mori
+Japan,Prime Minister,Junichiro Koizumi,Q130852,2001-04-26,2003-11-19,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
+Japan,Prime Minister,Junichiro Koizumi,Q130852,2003-11-19,2005-09-21,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
+Japan,Prime Minister,Junichiro Koizumi,Q130852,2005-09-21,2006-09-26,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
+Japan,Prime Minister,Shinzō Abe,Q132345,2006-09-26,2007-09-25,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
+Japan,Prime Minister,Yasuo Fukuda,Q101137,2007-09-26,2008-09-24,male,1936-07-16,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
+Japan,Prime Minister,Tarō Asō,Q132596,2008-09-24,2009-09-16,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
+Japan,Prime Minister,Yukio Hatoyama,Q131077,2009-09-16,2010-06-08,male,1947-02-11,,Yukio Hatoyama 20090916.jpg,Yukio Hatoyama
+Japan,Prime Minister,Naoto Kan,Q47846,2010-06-08,2011-09-02,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
+Japan,Prime Minister,Yoshihiko Noda,Q57647,2011-09-02,2012-12-26,male,1957-05-20,,Yoshihiko Noda 20110902.jpg,Yoshihiko Noda
+Japan,Prime Minister,Shinzō Abe,Q132345,2012-12-26,2014-12-24,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
+Japan,Prime Minister,Shinzō Abe,Q132345,2014-12-24,2017-11-01,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
+Japan,Prime Minister,Shinzō Abe,Q132345,2017-11-01,2020-09-16,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
+Japan,Prime Minister,Yoshihide Suga,Q122465,2020-09-16,2021-10-04,male,1948-12-06,,Yoshihide Suga 20200916.jpg,Yoshihide Suga
+Japan,Prime Minister,Fumio Kishida,Q359480,2021-10-04,,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
+Japan,Deputy Prime Minister,Naoto Kan,Q47846,2009-09-16,2010-06-08,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
+Japan,Deputy Prime Minister,Katsuya Okada,Q513317,2012-01-13,2012-12-26,male,1953-07-14,,Katsuya Okada 20120113.jpg,Katsuya Okada
+Japan,Deputy Prime Minister,Tarō Asō,Q132596,2012-12-26,2021-10-04,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
+Japan,"Minister of Agriculture, Forestry and Fisheries",Tadamori Oshima,Q49998,2002-09-30,2003-04-01,male,1946-09-06,,Queen's Birthsday Party 2016 (26830017170).jpg,Tadamori Ōshima
+Japan,"Minister of Agriculture, Forestry and Fisheries",Junichiro Koizumi,Q130852,2005-08-08,2005-08-11,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
+Japan,"Minister of Agriculture, Forestry and Fisheries",Norihiko Akagi,Q351832,2007-06-01,2007-08-01,male,1959-04-18,,Norihiko Akagi.jpg,Norihiko Akagi
+Japan,"Minister of Agriculture, Forestry and Fisheries",Shigeru Ishiba,Q1335527,2008-09-24,2009-09-16,male,1957-02-04,,Gates meets Ishiba 8 November 2007 cropped for Ishiba.jpg,Shigeru Ishiba
+Japan,"Minister of Agriculture, Forestry and Fisheries",Yoshimasa Hayashi,Q1141271,2012-12-26,2014-09-03,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
+Japan,"Minister of Agriculture, Forestry and Fisheries",Yoshimasa Hayashi,Q1141271,2015-02-23,2015-10-07,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
+Japan,"Minister of Agriculture, Forestry and Fisheries",Ken Saitō,Q11679075,2017-08-03,2018-10-02,male,1959-06-14,,Saito ken.jpg,Ken Saitō
+Japan,"Minister of Agriculture, Forestry and Fisheries",Takamori Yoshikawa,Q7677156,2018-10-02,2019-09-11,male,1950-10-20,,Takamori Yoshikawa.jpg,Takamori Yoshikawa
+Japan,"Minister of Agriculture, Forestry and Fisheries",Genjirō Kaneko,Q1502275,2021-10-04,,male,1944-05-08,,金子原二郎.jpg,Genjirō Kaneko
+Japan,Minister of Defence,Fumio Kyūma,Q943732,2007-01-09,2007-07-04,male,1940-12-04,,Fumio Kyuma in Pentagon.jpg,Fumio Kyūma
+Japan,Minister of Defence,Yuriko Koike,Q261703,2007-07-04,2007-08-27,female,1952-07-15,,Koike Yuriko (2019).jpg,Yuriko Koike
+Japan,Minister of Defence,Masahiko Kōmura,Q697969,2007-08-27,2007-09-26,male,1942-03-15,,Komura Masahiko 1-3.jpg,Masahiko Kōmura
+Japan,Minister of Defence,Shigeru Ishiba,Q1335527,2007-09-26,2008-08-02,male,1957-02-04,,Gates meets Ishiba 8 November 2007 cropped for Ishiba.jpg,Shigeru Ishiba
+Japan,Minister of Defence,Yoshimasa Hayashi,Q1141271,2008-08-02,2008-09-24,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
+Japan,Minister of Defence,Yasukazu Hamada,Q1132836,2008-09-24,2009-09-16,male,1955-10-21,,Yasukazu Hamada cropped Yasukazu Hamadand and John Hamre 19981103.jpg,Yasukazu Hamada
+Japan,Minister of Defence,Toshimi Kitazawa,Q1155846,2009-09-24,2011-09-02,male,1938-03-06,,"Toshimi Kitazawa Oct. 21, 2009.jpg",Toshimi Kitazawa
+Japan,Minister of Defence,Akinori Eto,Q49999,2014-09-03,2014-12-24,male,1955-10-12,,Akinori Eto 071217-N-8772M-001 0YH9U.jpg,Akinori Eto
+Japan,Minister of Defence,Gen Nakatani,Q5530859,2014-12-24,2016-08-03,male,1957-10-14,,Gen Nakatani 4 Apr 2007 without US flag.jpg,Gen Nakatani
+Japan,Minister of Defence,Tomomi Inada,Q1654408,2016-08-03,2017-07-28,female,1959-02-20,,Tomomi Inada 20161027.jpg,Tomomi Inada
+Japan,Minister of Defence,Fumio Kishida,Q359480,2017-07-28,2017-08-03,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
+Japan,Minister of Defence,Itsunori Onodera,Q49969,2017-08-03,2018-10-02,male,1960-05-05,,"Minister of Defense for Japan Itsunori Onodera in Washington, D.C., August 17, 2017 (36238435810) (cropped).jpg",Itsunori Onodera
+Japan,Minister of Defence,Takeshi Iwaya,Q1654639,2018-10-02,2019-09-11,male,1957-08-24,,Takeshi Iwaya (cropped).jpg,Takeshi Iwaya
+Japan,Minister of Defence,Taro Kono,Q1161024,2019-09-11,2020-09-16,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Minister of Defence,Nobuo Kishi,Q1995125,2020-09-16,,male,1959-04-01,,Nobuo Kishi 20211004.jpg,Nobuo Kishi
+Japan,Minister for Digital Transformation,Takuya Hirai,Q7678622,2021-09-01,2021-10-04,male,1958-01-25,,Takuya Hirai.jpg,Takuya Hirai
+Japan,Minister for Digital Transformation,Karen Makishima,Q11570409,2021-10-04,,female,1976-11-01,,Karen Makishima 20211008.png,Karen Makishima
+Japan,Minister for Economic Cooperation with Russia,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
+Japan,"Minister of Economy, Trade and Industry",Yukio Edano,Q732087,2011-09-12,2012-12-26,male,1964-05-31,,Yukio Edano In front of Tenjin Twin Building (2020.10.18).jpg,Yukio Edano
+Japan,"Minister of Economy, Trade and Industry",Toshimitsu Motegi,Q1655453,2012-12-26,2014-09-03,male,1955-10-07,,Toshimitsu Motegi 20200916.jpg,Toshimitsu Motegi
+Japan,"Minister of Economy, Trade and Industry",Isshu Sugawara,Q11619136,2019-09-11,2019-10-25,male,1962-01-07,,Isshu Sugawara cropped 2 Yukiya Amano Isshu Sugawara and Toshiro Ozawa 20130627.jpg,Isshu Sugawara
+Japan,"Minister of Economy, Trade and Industry",Hiroshi Kajiyama,Q5770884,2019-10-25,2021-10-04,male,1955-10-18,,Hiroshi Kajiyama.jpg,Hiroshi Kajiyama (politician)
+Japan,"Minister of Economy, Trade and Industry",Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Nobutaka Machimura,Q697258,2001-01-06,2001-04-26,male,1944-10-17,2015-06-01,Nobutaka Machimura April 2015.jpg,Nobutaka Machimura
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Atsuko Tōyama,Q6147883,2001-04-26,2003-09-22,female,1938-12-10,,Atsuko Tōyama.jpg,Toyama Atsuko
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Takeo Kawamura,Q382311,2003-09-22,2004-09-27,male,1942-11-10,,Takeo Kawamura.jpg,Takeo Kawamura (politician)
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Nariaki Nakayama,Q382089,2004-09-27,2005-10-31,male,1943-06-07,,Nariaki Nakayama 20090825.JPG,Nariaki Nakayama
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Kenji Kosaka,Q5365896,2005-10-31,2006-09-26,male,1946-03-12,2016-10-21,Kenji Kosaka.jpg,Kenji Kosaka
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Bunmei Ibuki,Q729599,2006-09-26,2007-09-26,male,1938-01-09,,사본 -8632564647 fb1ba67294 o.jpg,Bunmei Ibuki
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Kisaburo Tokai,Q1133136,2007-09-26,2008-08-02,male,1948-02-11,,Kisaburō Tokai.jpg,Kisaburo Tokai
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Tsuneo Suzuki,Q372833,2008-08-02,2008-09-24,male,1941-02-10,,Tsuneo Suzuki.jpg,Tsuneo Suzuki
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Ryu Shionoya,Q935199,2008-09-24,2009-09-16,male,1950-02-18,,Ryū Shionoya.jpg,Ryū Shionoya
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Tatsuo Kawabata,Q1131518,2009-09-16,2010-09-17,male,1945-01-24,,Tatsuo Kawabata cropped 1 Tatsuo Kawabata and David Warren 20120606.jpg,Tatsuo Kawabata
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Yoshiaki Takaki,Q472792,2010-09-17,2011-09-02,male,1945-12-22,,Yoshiaki Takaki.jpg,Yoshiaki Takaki
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Masaharu Nakagawa,Q1906668,2011-09-02,2012-01-13,male,1950-06-10,,Masaharu Nakagawa.jpg,Masaharu Nakagawa (House of Representatives)
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Hirofumi Hirano,Q1155448,2012-01-13,2012-10-01,male,1949-03-19,,Hirofumi Hirano cropped Hirofumi Hirano in Kadena Air Base.jpg,Hirofumi Hirano
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Makiko Tanaka,Q465217,2012-10-01,2012-12-26,female,1944-01-14,,Makiko Tanaka in Hawaii cropped.jpg,Makiko Tanaka
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Hakubun Shimomura,Q1655220,2012-12-26,2015-10-07,male,1954-05-23,,Hirofumi Shimomura cropped 2 Hirofumi Shimomura and Ernest Moniz 20131031.jpg,Hakubun Shimomura
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Hiroshi Hase,Q3136350,2015-10-07,2016-08-03,male,1961-05-05,,Hase271007.jpg,Hiroshi Hase
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Hirokazu Matsuno,Q5770251,2016-08-03,2017-08-03,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Yoshimasa Hayashi,Q1141271,2017-08-03,2018-10-02,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Masahiko Shibayama,Q6782350,2018-10-02,2019-09-11,male,1965-12-05,,Masahiko Shibayama (cropped).jpg,Masahiko Shibayama
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Koichi Hagiuda,Q6426211,2019-09-11,2021-10-04,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
+Japan,"Minister of Education, Culture, Sports, Science and Technology",Shinsuke Suematsu,Q7497773,2021-10-04,,male,1955-12-17,,Shinsuke Suematsu in Takarazuka (04) IMG 2150 20130407.JPG,Shinsuke Suematsu
+Japan,Minister of the Environment,Yoriko Kawaguchi,Q444899,2001-01-06,2002-02-08,female,1941-01-20,,Yoriko Kawaguchi cropped.jpg,Yoriko Kawaguchi
+Japan,Minister of the Environment,Hiroshi Ōki,Q6140479,2002-02-08,2002-09-30,male,1927-06-30,2015-11-13,Hiroshi Ōki.jpg,
+Japan,Minister of the Environment,Shun'ichi Suzuki,Q3482658,2002-09-30,2003-09-22,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
+Japan,Minister of the Environment,Yuriko Koike,Q261703,2003-09-22,2006-09-26,female,1952-07-15,,Koike Yuriko (2019).jpg,Yuriko Koike
+Japan,Minister of the Environment,Masatoshi Wakabayashi,Q260536,2006-09-26,2007-08-27,male,1934-07-04,,Masatoshi Wakabayashi 200708.jpg,Masatoshi Wakabayashi
+Japan,Minister of the Environment,Ichirō Kamoshita,Q730991,2007-08-27,2008-08-02,male,1949-01-16,,Ichiro Kamoshita 200210.jpg,Ichirō Kamoshita
+Japan,Minister of the Environment,Tetsuo Saito,Q926287,2008-08-02,2009-09-16,male,1952-02-05,,Tetsuo Saitō.jpg,Tetsuo Saito
+Japan,Minister of the Environment,Sakihito Ozawa,Q978256,2009-09-16,2010-09-21,male,1954-05-31,,Sakihito Ozawa cropped 1 Members of the Global Legislators Organization for a Balanced Environment Edward Davey and Tim Hitchens 20130530.jpg,Sakihito Ozawa
+Japan,Minister of the Environment,Ryu Matsumoto,Q1518904,2010-09-21,2011-09-02,male,1951-05-17,2018-07-21,Ryū Matsumoto.jpg,Ryu Matsumoto
+Japan,Minister of the Environment,Satsuki Eda,Q212305,2011-06-27,2011-09-02,male,1941-05-22,2021-07-28,Satsuki Eda cropped.jpg,Satsuki Eda
+Japan,Minister of the Environment,Goshi Hosono,Q1135729,2011-09-02,2012-12-26,male,1971-08-21,,Goshi Hosono Minshu IMG 5474 20130707.JPG,Goshi Hosono
+Japan,Minister of the Environment,Nobuteru Ishihara,Q992930,2012-09-26,2014-09-03,male,1957-04-19,,Ishihara Nobuteru - Wakaba Station - 20100703.JPG,Nobuteru Ishihara
+Japan,Minister of the Environment,Yoshio Mochizuki,Q8056243,2014-09-03,2015-10-07,male,1947-05-02,2019-12-19,Yoshio Mochizuki.jpg,Yoshio Mochizuki
+Japan,Minister of the Environment,Tamayo Marukawa,Q7680979,2015-10-07,2016-08-03,female,1971-01-19,,Tamayo Murakawa 20210218.jpg,Tamayo Marukawa
+Japan,Minister of the Environment,Koichi Yamamoto,Q6426244,2016-08-03,2017-08-03,male,1947-09-04,,Kōichi Yamamoto.jpg,Koichi Yamamoto
+Japan,Minister of the Environment,Masaharu Nakagawa,Q474554,2017-08-03,2018-10-02,male,1947-02-22,,Nakagawa masaharu.jpg,Masaharu Nakagawa (House of Councillors)
+Japan,Minister of the Environment,Yoshiaki Harada,Q8055970,2018-10-02,2019,male,1944-10-01,,Yoshiaki Harada.jpg,Yoshiaki Harada
+Japan,Minister of the Environment,Shinjirō Koizumi,Q661410,2019-09-11,2021-10-04,male,1981-04-14,,Shinjirō Koizumi in 2020(Suga Cabinet).jpg,Shinjirō Koizumi
+Japan,Minister of the Environment,Tsuyoshi Yamaguchi,Q704345,2021-10-04,,male,1954-10-03,,Tsuyoshi Yamaguchi cropped.jpg,Tsuyoshi Yamaguchi (politician)
+Japan,Minister of Finance,Kiichi Miyazawa,Q315565,2001-01-06,2001-04-26,male,1919-10-08,2007-06-28,Kiichi Miyazawa 19911105.jpg,Kiichi Miyazawa
+Japan,Minister of Finance,Masajuro Shiokawa,Q1133913,2001-04-26,2003-09-22,male,1921-10-13,2015-09-19,Masajuro Shiokawa cropped 2 Finance Ministers of G7 20030412.jpg,Masajuro Shiokawa
+Japan,Minister of Finance,Sadakazu Tanigaki,Q463331,2003-09-22,2006-09-26,male,1945-03-07,,Tanigaki Sadakazu.jpg,Sadakazu Tanigaki
+Japan,Minister of Finance,Koji Omi,Q1132669,2006-09-26,2007-08-27,male,1932-12-14,,Koji Omi.jpg,Kōji Omi
+Japan,Minister of Finance,Fukushiro Nukaga,Q1207174,2007-08-27,2008-08-02,male,1944-01-11,,Nukaga Fukushiro 1-2.jpg,Fukushiro Nukaga
+Japan,Minister of Finance,Bunmei Ibuki,Q729599,2008-08-02,2008-09-24,male,1938-01-09,,사본 -8632564647 fb1ba67294 o.jpg,Bunmei Ibuki
+Japan,Minister of Finance,Shōichi Nakagawa,Q440571,2008-09-24,2009-02-17,male,1953-07-19,2009-10-04,Shoichi Nakagawa 20080924.jpg,Shōichi Nakagawa
+Japan,Minister of Finance,Kaoru Yosano,Q1156675,2009-02-17,2009-09-16,male,1938-08-22,2017-05-23,Kaoru Yosano cropped 1 Timothy Geithner and Kaoru Yosano 20090424.jpg,Kaoru Yosano
+Japan,Minister of Finance,Hirohisa Fujii,Q290890,2009-09-16,2010-01-07,male,1932-06-24,,Hisahiro Fujii cropped 1 G7 Finance Ministers and Central Bank Governors meeting 20091003.jpg,Hirohisa Fujii
+Japan,Minister of Finance,Naoto Kan,Q47846,2010-01-06,2010-06-08,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
+Japan,Minister of Finance,Jun Azumi,Q212400,2011-09-02,2012-10-01,male,1962-01-17,,Minister Azumi.jpg,Jun Azumi
+Japan,Minister of Finance,Koriki Jojima,Q552388,2012-10-01,2012-12-26,male,1947-01-01,,Koriki Jojima.jpg,Koriki Jojima
+Japan,Minister of Finance,Tarō Asō,Q132596,2012-12-26,2021-10-04,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
+Japan,Minister of Finance,Shun'ichi Suzuki,Q3482658,2021-10-04,,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
+Japan,Minister for Foreign Affairs,Yōhei Kōno,Q186146,1999-10-05,2001-04-26,male,1937-01-15,,Yōhei Kōno.jpg,Yōhei Kōno
+Japan,Minister for Foreign Affairs,Makiko Tanaka,Q465217,2001,2002,female,1944-01-14,,Makiko Tanaka in Hawaii cropped.jpg,Makiko Tanaka
+Japan,Minister for Foreign Affairs,Makiko Tanaka,Q465217,2001-04-26,2002-01-30,female,1944-01-14,,Makiko Tanaka in Hawaii cropped.jpg,Makiko Tanaka
+Japan,Minister for Foreign Affairs,Yoriko Kawaguchi,Q444899,2002,2004,female,1941-01-20,,Yoriko Kawaguchi cropped.jpg,Yoriko Kawaguchi
+Japan,Minister for Foreign Affairs,Junichiro Koizumi,Q130852,2002-01-30,2002-02-01,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
+Japan,Minister for Foreign Affairs,Nobutaka Machimura,Q697258,2004-09-27,2005-10-31,male,1944-10-17,2015-06-01,Nobutaka Machimura April 2015.jpg,Nobutaka Machimura
+Japan,Minister for Foreign Affairs,Nobutaka Machimura,Q697258,2007-08-27,2007-09-26,male,1944-10-17,2015-06-01,Nobutaka Machimura April 2015.jpg,Nobutaka Machimura
+Japan,Minister for Foreign Affairs,Hirofumi Nakasone,Q937682,2008-09-24,2009-09-16,male,1945-11-28,,Hirofumi Nakasone Senate of Poland 2016 01.JPG,Hirofumi Nakasone
+Japan,Minister for Foreign Affairs,Seiji Maehara,Q132280,2010-09-17,2011-03-07,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
+Japan,Minister for Foreign Affairs,Yukio Edano,Q732087,2011-03-07,2011-03-09,male,1964-05-31,,Yukio Edano In front of Tenjin Twin Building (2020.10.18).jpg,Yukio Edano
+Japan,Minister for Foreign Affairs,Takeaki Matsumoto,Q1315762,2011-03-09,2011-09-02,male,1959-04-25,,Takeaki Matsumoto Au10 01.JPG,Takeaki Matsumoto
+Japan,Minister for Foreign Affairs,Kōichirō Genba,Q58213,2011-09-02,2012-12-26,male,1964-05-20,,Minister Gemba.jpg,Kōichirō Genba
+Japan,Minister for Foreign Affairs,Fumio Kishida,Q359480,2012-12-26,2017-08-03,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
+Japan,Minister for Foreign Affairs,Taro Kono,Q1161024,2017-08-03,2019-09-11,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Minister for Foreign Affairs,Toshimitsu Motegi,Q1655453,2019-09-11,2021-11-04,male,1955-10-07,,Toshimitsu Motegi 20200916.jpg,Toshimitsu Motegi
+Japan,Minister for Foreign Affairs,Yoshimasa Hayashi,Q1141271,2021-11-10,,male,1961-01-19,,Y. Hayashi.png,Yoshimasa Hayashi
+Japan,"Minister of Health, Labour and Welfare",Chikara Sakaguchi,Q5097389,2001-01-06,2004-09-27,male,1934-04-01,,Chikara Sakaguchi 200012.jpg,Chikara Sakaguchi
+Japan,"Minister of Health, Labour and Welfare",Hidehisa Otsuji,Q5752333,2004-09-27,2005-10-31,male,1940-10-02,,Hidehisa Otsuji cropped 2 Hidehisa Otsuji 200409.jpg,Hidehisa Otsuji
+Japan,"Minister of Health, Labour and Welfare",Jirō Kawasaki,Q1689655,2005-10-31,2006-09-26,male,1947-11-15,,Jirō Kawasaki.jpg,Jirō Kawasaki
+Japan,"Minister of Health, Labour and Welfare",Hakuo Yanagisawa,Q640668,2006-09-26,2007-08-27,male,1935-08-18,,Hakuo Yanagisawa 200609.jpg,Hakuo Yanagisawa
+Japan,"Minister of Health, Labour and Welfare",Yōichi Masuzoe,Q389617,2007-08-27,2009-09-16,male,1948-11-29,,Masuzoe 210 Herman.jpg,Yōichi Masuzoe
+Japan,"Minister of Health, Labour and Welfare",Akira Nagatsuma,Q263777,2009-09-16,2010-09-17,male,1960-06-14,,Akira Nagatsuma 201006.jpg,Akira Nagatsuma
+Japan,"Minister of Health, Labour and Welfare",Ritsuo Hosokawa,Q472775,2010-09-17,2011-09-02,male,1943-08-08,,Ritsuo Hosokawa 201101.png,Ritsuo Hosokawa
+Japan,"Minister of Health, Labour and Welfare",Yoko Komiyama,Q456352,2011-09-02,2012-10-01,female,1948-09-17,,Yōko Komiyama.jpg,Yoko Komiyama
+Japan,"Minister of Health, Labour and Welfare",Wakio Mitsui,Q2484183,2012-10-01,2012-12-26,male,1942-11-24,2021-04-02,Wakio Mitsui.jpg,Wakio Mitsui
+Japan,"Minister of Health, Labour and Welfare",Norihisa Tamura,Q1656878,2012-12-26,2014-09-03,male,1964-12-15,,Norihisa TAMURA 01.jpg,Norihisa Tamura
+Japan,"Minister of Health, Labour and Welfare",Yasuhisa Shiozaki,Q360395,2014-09-03,2017-08-03,male,1950-11-07,,Shiozaki Yasuhisa 1-1.jpg,Yasuhisa Shiozaki
+Japan,"Minister of Health, Labour and Welfare",Katsunobu Kato,Q6378155,2017-08-03,2018-10-02,male,1955-11-22,,Katsunobu Katō.jpg,Katsunobu Katō
+Japan,"Minister of Health, Labour and Welfare",Katsunobu Kato,Q6378155,2019-09-11,2020-09-16,male,1955-11-22,,Katsunobu Katō.jpg,Katsunobu Katō
+Japan,"Minister of Health, Labour and Welfare",Shigeyuki Goto,Q7496422,2021-10-04,,male,1955-12-09,,20211004goto shigeyuki.jpg,Shigeyuki Goto
+Japan,Minister for Internal Affairs and Communications,Toranosuke Katayama,Q188095,2001-01-06,2003-09-22,male,1935-08-02,,Toranosuke Katayama 200101.jpg,Toranosuke Katayama
+Japan,Minister for Internal Affairs and Communications,Tarō Asō,Q132596,2003-09-22,2005-10-31,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
+Japan,Minister for Internal Affairs and Communications,Heizō Takenaka,Q861857,2005-10-31,2006-09-26,male,1951-03-03,,Heizo Takenaka in World Economic Forum on East Asia 2009.jpg,Heizō Takenaka
+Japan,Minister for Internal Affairs and Communications,Yoshihide Suga,Q122465,2006-09-26,2007-08-27,male,1948-12-06,,Yoshihide Suga 20200916.jpg,Yoshihide Suga
+Japan,Minister for Internal Affairs and Communications,Hiroya Masuda,Q738197,2007-08-27,2008-09-24,male,1951-12-20,,Hiroya Masuda 200808.jpg,Hiroya Masuda
+Japan,Minister for Internal Affairs and Communications,Kunio Hatoyama,Q777936,2008-09-24,2009-06-12,male,1948-09-13,2016-06-21,Kunio Hatoyama 200809.jpg,Kunio Hatoyama
+Japan,Minister for Internal Affairs and Communications,Tsutomu Satō,Q1133360,2009-06-12,2009-09-16,male,1952-06-20,,Tsutomu Satō.jpg,Tsutomu Sato (politician)
+Japan,Minister for Internal Affairs and Communications,Kazuhiro Haraguchi,Q548239,2009-09-16,2010-09-17,male,1959-07-02,,Kazuhiro Haraguchi.jpg,Kazuhiro Haraguchi
+Japan,Minister for Internal Affairs and Communications,Yoshihiro Katayama,Q967196,2010-09-17,2011-09-02,male,1951-07-29,,Yoshihiro Katayama-20060719a.jpg,Yoshihiro Katayama
+Japan,Minister for Internal Affairs and Communications,Tatsuo Kawabata,Q1131518,2011-09-02,2012-10-01,male,1945-01-24,,Tatsuo Kawabata cropped 1 Tatsuo Kawabata and David Warren 20120606.jpg,Tatsuo Kawabata
+Japan,Minister for Internal Affairs and Communications,Shinji Tarutoko,Q462308,2012-10-01,2012-12-26,male,1959-08-06,,Shinji Tarutoko Minshu IMG 5451 20130707.JPG,Shinji Tarutoko
+Japan,Minister for Internal Affairs and Communications,Yoshitaka Shindō,Q529792,2012-12-26,2014-09-03,male,1958-01-20,,Yoshitaka Shindō.jpg,Yoshitaka Shindō
+Japan,Minister for Internal Affairs and Communications,Sanae Takaichi,Q1705028,2014-09-03,2017-08-03,female,1961-03-07,,Sanae Takaichi.jpg,Sanae Takaichi
+Japan,Minister for Internal Affairs and Communications,Seiko Noda,Q459698,2017-08-03,2018-10-02,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
+Japan,Minister for Internal Affairs and Communications,Masatoshi Ishida,Q6782738,2018-10-02,2019-09-11,male,1952-04-11,,Masatoshi Ishida.jpg,Masatoshi Ishida (politician)
+Japan,Minister for Internal Affairs and Communications,Sanae Takaichi,Q1705028,2019-09-11,2020-09-16,female,1961-03-07,,Sanae Takaichi.jpg,Sanae Takaichi
+Japan,Minister for Internal Affairs and Communications,Ryota Takeda,Q7385342,2020-09-16,2021-10-04,male,1968-04-01,,Ryota Takeda 20200916.jpeg,Ryota Takeda
+Japan,Minister for Internal Affairs and Communications,Yasushi Kaneko,Q8050092,2021-10-04,,male,1961-02-27,,Yasushi Kaneko 20211004.jpg,Yasushi Kaneko
+Japan,Minister of Justice,Yoshito Sengoku,Q965723,2010-11-22,2011-01-14,male,1946-01-15,2018-10-11,Yoshito Sengoku - World Economic Forum Annual Meeting Davos 2010.jpg,Yoshito Sengoku
+Japan,Minister of Justice,Satsuki Eda,Q212305,2011-01-14,2011-09-02,male,1941-05-22,2021-07-28,Satsuki Eda cropped.jpg,Satsuki Eda
+Japan,Minister of Justice,Toshio Ogawa,Q962110,2012-01-13,2012-06-04,male,1948-03-18,,Toshio Ogawa cropped 2 Toshio Ogawa 20110603 1.jpg,Toshio Ogawa
+Japan,Minister of Justice,Makoto Taki,Q552398,2012-06-04,2012-10-01,male,1938-09-15,,Makoto Taki.jpg,Makoto Taki
+Japan,Minister of Justice,Keishu Tanaka,Q212271,2012-10-01,2012-10-24,male,1938-03-06,,Keishu Tanaka.jpg,Keishu Tanaka
+Japan,Minister of Justice,Makoto Taki,Q552398,2012-10-24,2012-12-26,male,1938-09-15,,Makoto Taki.jpg,Makoto Taki
+Japan,Minister of Justice,Sadakazu Tanigaki,Q463331,2012-12-26,2014-09-03,male,1945-03-07,,Tanigaki Sadakazu.jpg,Sadakazu Tanigaki
+Japan,Minister of Justice,Yoshihisa Furukawa,Q8056070,2021-10-04,,male,1965-08-03,,Furukawayoshihisa.jpg,Yoshihisa Furukawa
+Japan,"Minister of Land, Infrastructure, Transport and Tourism",Chikage Oogi,Q456161,2001-01-06,2003-09-22,female,1933-05-10,,Chikage Ogi 2006.png,Chikage Oogi
+Japan,"Minister of Land, Infrastructure, Transport and Tourism",Sadakazu Tanigaki,Q463331,2008-08-02,2008-09-24,male,1945-03-07,,Tanigaki Sadakazu.jpg,Sadakazu Tanigaki
+Japan,"Minister of Land, Infrastructure, Transport and Tourism",Nariaki Nakayama,Q382089,2008-09-24,2008-09-28,male,1943-06-07,,Nariaki Nakayama 20090825.JPG,Nariaki Nakayama
+Japan,"Minister of Land, Infrastructure, Transport and Tourism",Seiji Maehara,Q132280,2009-09-16,2010-09-17,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
+Japan,"Minister of Land, Infrastructure, Transport and Tourism",Keiichi Ishii,Q1737905,2015-10-07,2019-09-11,male,1958-03-20,,Keiichi Ishii 201510.jpg,Keiichi Ishii
+Japan,"Minister of Land, Infrastructure, Transport and Tourism",Tetsuo Saito,Q926287,2021-10-04,,male,1952-02-05,,Tetsuo Saitō.jpg,Tetsuo Saito
+Japan,Minister for Reconstruction,Kosaburo Nishime,Q11629931,2021-10-04,,male,1954-08-07,,98 nishime kousaburou.jpg,Kosaburo Nishime
+Japan,Minister for the Tokyo Olympic and Paralympic Games,Noriko Horiuchi,Q11427301,2021-10-04,,female,1965-10-28,,Noriko Horiuchi.jpg,Noriko Horiuchi
+Japan,Minister for the World Expo 2025,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,Minister for the World Expo 2025,Kenji Wakamiya,Q6389383,2021-10-04,2021-11-10,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,Minister in Charge of Administrative Reform,Karen Makishima,Q11570409,2021-10-04,,female,1976-11-01,,Karen Makishima 20211008.png,Karen Makishima
+Japan,Minister in Charge of Building National Resilience,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
+Japan,Minister in Charge of Civil Service Reform,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
+Japan,Minister in Charge of Cohesive Society,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,Minister in Charge of Comprehensive Policy Coordination for Revival from the Nuclear Accident at Fukushima,Kosaburo Nishime,Q11629931,2021-10-04,,male,1954-08-07,,98 nishime kousaburou.jpg,Kosaburo Nishime
+Japan,Minister in Charge of Digital Garden City Nation Vision,Kenji Wakamiya,Q6389383,2021-11-10,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,Minister in Charge of Economic Revitalization,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
+Japan,Minister in Charge of Economic Security,Takayuki Kobayashi,Q11461955,2021-10-04,,male,1974-11-29,,Takayuki Kobayashi.jpg,Takayuki Kobayashi
+Japan,Minister in Charge of Education Rebuilding,Shinsuke Suematsu,Q7497773,2021-10-04,,male,1955-12-17,,Shinsuke Suematsu in Takarazuka (04) IMG 2150 20130407.JPG,Shinsuke Suematsu
+Japan,Minister in Charge of Industrial Competitiveness,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
+Japan,Minister in Charge of Measures for Loneliness and Isolation,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
+Japan,Minister in Charge of Measures for Novel Coronavirus Disease andHealth Crisis Management,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
+Japan,Minister in Charge of Mitigating the Impact of U.S. Forces in Okinawa,Hirokazu Matsuno,Q5770251,2021-10-04,,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
+Japan,Minister in Charge of New Capitalism,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
+Japan,Minister in Charge of Overcoming Deflation,Shun'ichi Suzuki,Q3482658,2021-10-04,,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
+Japan,Minister in Charge of Overcoming Population Decline and Vitalizing Local Economy,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,Minister in Charge of Policies Related to Children,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
+Japan,Minister in Charge of Promoting Vaccinations,Noriko Horiuchi,Q11427301,2021-10-04,,female,1965-10-28,,Noriko Horiuchi.jpg,Noriko Horiuchi
+Japan,Minister in Charge of Social Security Reform,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
+Japan,Minister in Charge of Territorial Issues,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
+Japan,Minister in Charge of Water Cycle Policy,Tetsuo Saito,Q926287,2021-10-04,,male,1952-02-05,,Tetsuo Saitō.jpg,Tetsuo Saito
+Japan,Minister in Charge of Women's Empowerment,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
+Japan,Minister in Charge of the Abductions Issue,Hirokazu Matsuno,Q5770251,2021-10-04,,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
+Japan,Minister in Charge of the Response to the Economic Impact caused by the Nuclear Accident,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
+Japan,"Minister of State for ""Cool Japan"" Strategy",Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,"Minister of State for ""Cool Japan"" Strategy",Kenji Wakamiya,Q6389383,2021-10-04,2021-11-10,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,Minister of State for Consumer Affairs and Food Safety,Mizuho Fukushima,Q264290,2009-09-16,2010-05-28,female,1955-12-24,,Mizuho Fukushima 2014.jpg,Mizuho Fukushima
+Japan,Minister of State for Consumer Affairs and Food Safety,Shunichi Yamaguchi,Q7505080,2014-12-24,2015-10-07,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
+Japan,Minister of State for Consumer Affairs and Food Safety,Taro Kono,Q1161024,2015-10-07,2016-08-03,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Minister of State for Consumer Affairs and Food Safety,Shinji Inoue,Q7497583,2020-09-16,2021-10-04,male,1969-10-07,,Shinji Inoue.jpg,Shinji Inoue
+Japan,Minister of State for Consumer Affairs and Food Safety,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,Minister of State for Disaster Management and Ocean Policy,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
+Japan,Minister of State for Economic and Fiscal Policy,Taichi Sakaiya,Q9034256,1998-07-30,2000-12-05,male,1935-07-13,2019-02-08,Taichi Sakaiya.jpg,
+Japan,Minister of State for Economic and Fiscal Policy,Seiji Maehara,Q132280,2012-10-01,2012-12-26,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
+Japan,Minister of State for Economic and Fiscal Policy,Yasutoshi Nishimura,Q8050121,2019-09-11,2021-10-04,male,1962-10-15,,Yasutoshi Nishimura cropped 2 Urmas Paet and Yasutoshi Nishimura 20140131.jpg,Yasutoshi Nishimura
+Japan,Minister of State for Economic and Fiscal Policy,Daishiro Yamagiwa,Q5209617,2021-10-04,,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
+Japan,Minister of State for Financial Services,Tarō Asō,Q132596,2012-12-26,2021-10-04,male,1940-09-20,,Taro Aso cropped.jpg,Tarō Asō
+Japan,Minister of State for Financial Services,Shun'ichi Suzuki,Q3482658,2021-10-04,,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
+Japan,Minister of State for Gender Equality,Yasuo Fukuda,Q101137,2003-09-22,2004-05-07,male,1936-07-16,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
+Japan,Minister of State for Gender Equality,Hiroyuki Hosoda,Q1133192,2004-05-07,2005-10-31,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
+Japan,Minister of State for Gender Equality,Tamayo Marukawa,Q7680979,2021-02-18,2021-10-04,female,1971-01-19,,Tamayo Murakawa 20210218.jpg,Tamayo Marukawa
+Japan,Minister of State for Gender Equality,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
+Japan,Minister of State for Intellectual Property Strategy,Kenji Wakamiya,Q6389383,2021-10-04,,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,Minister of State for Intellectual Property Strategy,Kenji Wakamiya,Q6389383,2021-10-04,2021-11-10,male,1961-09-02,,Wakamiya Kenji.jpg,Kenji Wakamiya
+Japan,Minister of State for Measures for Declining Birthrate,Tetsushi Sakamoto,Q7706925,2020-09-16,2021-10-04,male,1950-11-06,,Tetsushi Sakamoto.jpg,Tetsushi Sakamoto
+Japan,Minister of State for Measures for Declining Birthrate,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
+Japan,Minister of State for Nuclear Emergency Preparedness,Tamayo Marukawa,Q7680979,2015-10-07,2016-08-03,female,1971-01-19,,Tamayo Murakawa 20210218.jpg,Tamayo Marukawa
+Japan,Minister of State for Nuclear Emergency Preparedness,Shinjirō Koizumi,Q661410,2020-09-16,2021-10-04,male,1981-04-14,,Shinjirō Koizumi in 2020(Suga Cabinet).jpg,Shinjirō Koizumi
+Japan,Minister of State for Nuclear Emergency Preparedness,Tsuyoshi Yamaguchi,Q704345,2021-10-04,,male,1954-10-03,,Tsuyoshi Yamaguchi cropped.jpg,Tsuyoshi Yamaguchi (politician)
+Japan,Minister of State for Okinawa and Northern Territories Affairs,Hiroyuki Hosoda,Q1133192,2002-09-30,2003-09-22,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
+Japan,Minister of State for Okinawa and Northern Territories Affairs,Sanae Takaichi,Q1705028,2006-09-26,2007-09-26,female,1961-03-07,,Sanae Takaichi.jpg,Sanae Takaichi
+Japan,Minister of State for Okinawa and Northern Territories Affairs,Fumio Kishida,Q359480,2007-08-27,2008-08-02,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
+Japan,Minister of State for Okinawa and Northern Territories Affairs,Tsutomu Satō,Q1133360,2008-09-24,2009-07-02,male,1952-06-20,,Tsutomu Satō.jpg,Tsutomu Sato (politician)
+Japan,Minister of State for Okinawa and Northern Territories Affairs,Ichita Yamamoto,Q1655599,2012-12-26,2014-09-03,male,1958-01-24,,"Ichita Yamamoto, 20191206.jpg",Ichita Yamamoto
+Japan,Minister of State for Okinawa and Northern Territories Affairs,Shunichi Yamaguchi,Q7505080,2014-09-03,2015-10-07,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
+Japan,Minister of State for Okinawa and Northern Territories Affairs,Taro Kono,Q1161024,2020-09-16,2021-10-04,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Minister of State for Okinawa and Northern Territories Affairs,Kosaburo Nishime,Q11629931,2021-10-04,,male,1954-08-07,,98 nishime kousaburou.jpg,Kosaburo Nishime
+Japan,Minister of State for Regional Revitalization,Shigeru Ishiba,Q1335527,2015-10-07,2016-08-03,male,1957-02-04,,Gates meets Ishiba 8 November 2007 cropped for Ishiba.jpg,Shigeru Ishiba
+Japan,Minister of State for Regional Revitalization,Seiko Noda,Q459698,2021-10-04,,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
+Japan,Minister of State for Regulatory Reform,Fumio Kishida,Q359480,2007-08-27,2008-08-02,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
+Japan,Minister of State for Regulatory Reform,Tomomi Inada,Q1654408,2012-12-26,2014-09-03,female,1959-02-20,,Tomomi Inada 20161027.jpg,Tomomi Inada
+Japan,Minister of State for Regulatory Reform,Taro Kono,Q1161024,2015-10-07,2016-08-03,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Minister of State for Regulatory Reform,Taro Kono,Q1161024,2020-09-16,2021-10-04,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Minister of State for Regulatory Reform,Karen Makishima,Q11570409,2021-10-04,,female,1976-11-01,,Karen Makishima 20211008.png,Karen Makishima
+Japan,Minister of State for Science and Technology Policy,Hiroyuki Hosoda,Q1133192,2002-09-30,2003-09-22,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
+Japan,Minister of State for Science and Technology Policy,Sanae Takaichi,Q1705028,2006-09-26,2007-09-26,female,1961-03-07,,Sanae Takaichi.jpg,Sanae Takaichi
+Japan,Minister of State for Science and Technology Policy,Fumio Kishida,Q359480,2007-08-27,2008-08-02,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
+Japan,Minister of State for Science and Technology Policy,Kōichirō Genba,Q58213,2011-01-14,2011-09-02,male,1964-05-20,,Minister Gemba.jpg,Kōichirō Genba
+Japan,Minister of State for Science and Technology Policy,Seiji Maehara,Q132280,2012-10-01,2012-12-26,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
+Japan,Minister of State for Science and Technology Policy,Shunichi Yamaguchi,Q7505080,2014-09-03,2015-10-07,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
+Japan,Minister of State for Science and Technology Policy,Takuya Hirai,Q7678622,2018-02-10,2019-09-11,male,1958-01-25,,Takuya Hirai.jpg,Takuya Hirai
+Japan,Minister of State for Science and Technology Policy,Shinji Inoue,Q7497583,2020-09-16,2021-10-04,male,1969-10-07,,Shinji Inoue.jpg,Shinji Inoue
+Japan,Minister of State for Science and Technology Policy,Takayuki Kobayashi,Q11461955,2021-10-04,,male,1974-11-29,,Takayuki Kobayashi.jpg,Takayuki Kobayashi
+Japan,Minister of State for Space Policy,Seiji Maehara,Q132280,2012-10-01,2012-12-26,male,1962-04-30,,Maehara Crop.jpg,Seiji Maehara
+Japan,Minister of State for Space Policy,Shunichi Yamaguchi,Q7505080,2014-09-03,2015-10-07,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
+Japan,Minister of State for Space Policy,Takayuki Kobayashi,Q11461955,2021-10-04,,male,1974-11-29,,Takayuki Kobayashi.jpg,Takayuki Kobayashi
+Japan,Minister of State for the Nuclear Damage Compensation and Decommissioning Facilitation Corporation,Koichi Hagiuda,Q6426211,2021-10-04,,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
+Japan,Chairperson of the National Public Safety Commission,Kosuke Hori,Q382368,1999-10-05,2000-07-04,male,1934-09-23,,Kōsuke Hori.jpg,Kosuke Hori
+Japan,Chairperson of the National Public Safety Commission,Mamoru Nishida,Q11629210,2000-07-04,2000-12-05,male,1928-05-13,2014-05-09,Mamoru Nishida.jpg,
+Japan,Chairperson of the National Public Safety Commission,Bunmei Ibuki,Q729599,2000-12-05,2001-04-26,male,1938-01-09,,사본 -8632564647 fb1ba67294 o.jpg,Bunmei Ibuki
+Japan,Chairperson of the National Public Safety Commission,Jin Murai,Q1689507,2001-04-26,2002-09-30,male,1937-03-28,,Jin Murai.jpg,Jin Murai
+Japan,Chairperson of the National Public Safety Commission,Sadakazu Tanigaki,Q463331,2002-09-30,2003-09-22,male,1945-03-07,,Tanigaki Sadakazu.jpg,Sadakazu Tanigaki
+Japan,Chairperson of the National Public Safety Commission,Kiyoko Ono,Q6419024,2003-09-22,2004-09-27,female,1936-02-04,2021-03-13,Kiyoko Ono 1964d.jpg,Kiyoko Ono
+Japan,Chairperson of the National Public Safety Commission,Yoshitaka Murata,Q8056287,2004-09-27,2005-10-31,male,1944-07-30,,Yoshitaka Murata.jpg,Yoshitaka Murata
+Japan,Chairperson of the National Public Safety Commission,Tetsuo Kutsukake,Q7706901,2005-10-31,2006-09-26,male,1929-09-12,,Tetsuo Kutsukake.jpg,Tetsuo Kutsukake
+Japan,Chairperson of the National Public Safety Commission,Kensei Mizote,Q6391370,2006-09-26,2007-08-27,male,1942-09-13,,Kensei Mizote cropped 2 Kensei Mizote 20140716.jpg,Kensei Mizote
+Japan,Chairperson of the National Public Safety Commission,Shinya Izumi,Q359926,2007-08-27,2008-08-02,male,1937-08-01,,Shinya Izumi 200007.jpg,Shinya Izumi
+Japan,Chairperson of the National Public Safety Commission,Motoo Hayashi,Q926370,2008-08-02,2008-09-24,male,1947-01-03,,Motoo Hayashi.jpg,Motoo Hayashi
+Japan,Chairperson of the National Public Safety Commission,Tsutomu Satō,Q1133360,2008-09-24,2009-07-02,male,1952-06-20,,Tsutomu Satō.jpg,Tsutomu Sato (politician)
+Japan,Chairperson of the National Public Safety Commission,Motoo Hayashi,Q926370,2009-07-02,2009-09-16,male,1947-01-03,,Motoo Hayashi.jpg,Motoo Hayashi
+Japan,Chairperson of the National Public Safety Commission,Hiroshi Nakai,Q921399,2009-09-16,2010-09-17,male,1942-06-10,2017-04-22,中井弘.jpg,Hiroshi Nakai
+Japan,Chairperson of the National Public Safety Commission,Tomiko Okazaki,Q299927,2010-09-17,2011-01-14,female,1944-02-16,2017-03-19,Tomiko Okazaki.jpg,Tomiko Okazaki
+Japan,Chairperson of the National Public Safety Commission,Kansei Nakano,Q1723930,2011-01-14,2011-09-02,male,1940-11-26,,Kansei Nakano IMG 3272-2 20140110.JPG,Kansei Nakano
+Japan,Chairperson of the National Public Safety Commission,Kenji Yamaoka,Q529825,2011-09-02,2012-01-13,male,1943-04-25,,Kenji Yamaoka 201109.jpg,Kenji Yamaoka
+Japan,Chairperson of the National Public Safety Commission,Jin Matsubara,Q1336805,2012-01-13,2012-10-01,male,1956-07-31,,Jin Matsubara 201109.jpg,Jin Matsubara
+Japan,Chairperson of the National Public Safety Commission,Tadamasa Kodaira,Q2387080,2012-10-01,2012-12-26,male,1942-03-18,,Tadamasa Kodaira.jpg,Tadamasa Kodaira
+Japan,Chairperson of the National Public Safety Commission,Keiji Furuya,Q1704969,2012-12-26,2014-09-03,male,1952-11-01,,Keiji Furuya cropped 2 Keiji Furuya and Robert R King 20130828 3.jpg,Keiji Furuya
+Japan,Chairperson of the National Public Safety Commission,Eriko Yamatani,Q534539,2014-09-03,2015-10-07,female,1950-09-19,,Eriko Yamatani.jpg,Eriko Yamatani
+Japan,Chairperson of the National Public Safety Commission,Taro Kono,Q1161024,2015-10-07,2016-08-03,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Chairperson of the National Public Safety Commission,Jun Matsumoto,Q6311513,2016-08-03,2017-08-03,male,1950-04-11,,Jun Mastumoto 20160803.jpg,Jun Matsumoto (politician)
+Japan,Chairperson of the National Public Safety Commission,Hachiro Okonogi,Q5637084,2017-08-03,2018-10-02,male,1965-06-22,,Okonogi hachirou.jpg,Hachiro Okonogi
+Japan,Chairperson of the National Public Safety Commission,Junzo Yamamoto,Q6314438,2018-10-02,2019-09-11,male,1954-10-27,,Junzō Yamamoto.jpg,Junzo Yamamoto
+Japan,Chairperson of the National Public Safety Commission,Ryota Takeda,Q7385342,2019-09-11,2020-09-16,male,1968-04-01,,Ryota Takeda 20200916.jpeg,Ryota Takeda
+Japan,Chairperson of the National Public Safety Commission,Yasufumi Tanahashi,Q1340817,2019-10-25,2021-10-04,male,1963-02-11,,Yasufumi Tanahashi.jpg,Yasufumi Tanahashi
+Japan,Chairperson of the National Public Safety Commission,Satoshi Ninoyu,Q7426414,2021-10-04,,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
+Japan,Chief Cabinet Secretary,Hidenao Nakagawa,Q906180,2000-07-04,2000-10-27,male,1944-02-02,,Hidenao Nakagawa (cropped).jpg,Hidenao Nakagawa
+Japan,Chief Cabinet Secretary,Yasuo Fukuda,Q101137,2000-10-27,2004-05-07,male,1936-07-16,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
+Japan,Chief Cabinet Secretary,Hiroyuki Hosoda,Q1133192,2004-05-07,2005-10-31,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
+Japan,Chief Cabinet Secretary,Shinzō Abe,Q132345,2005-10-31,2006-09-26,male,1954-09-21,,Shinzo Abe 20200102.jpg,Shinzo Abe
+Japan,Chief Cabinet Secretary,Yasuhisa Shiozaki,Q360395,2006-09-26,2007-08-27,male,1950-11-07,,Shiozaki Yasuhisa 1-1.jpg,Yasuhisa Shiozaki
+Japan,Chief Cabinet Secretary,Nobutaka Machimura,Q697258,2007-09-26,2008-09-02,male,1944-10-17,2015-06-01,Nobutaka Machimura April 2015.jpg,Nobutaka Machimura
+Japan,Chief Cabinet Secretary,Yoshito Sengoku,Q965723,2010-06-08,2011-01-14,male,1946-01-15,2018-10-11,Yoshito Sengoku - World Economic Forum Annual Meeting Davos 2010.jpg,Yoshito Sengoku
+Japan,Chief Cabinet Secretary,Osamu Fujimura,Q1138023,2011-09-02,2012-12-26,male,1949-11-03,,Osamu Fujimura.jpg,Osamu Fujimura
+Japan,Chief Cabinet Secretary,Yoshihide Suga,Q122465,2012-12-26,2020-09-16,male,1948-12-06,,Yoshihide Suga 20200916.jpg,Yoshihide Suga
+Japan,Chief Cabinet Secretary,Katsunobu Kato,Q6378155,2020-09-16,2021-10-04,male,1955-11-22,,Katsunobu Katō.jpg,Katsunobu Katō
+Japan,Chief Cabinet Secretary,Hirokazu Matsuno,Q5770251,2021-10-04,,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
+Japan,Chief Justice,Shigeru Yamaguchi,Q11467428,1997-10-31,2002-11-03,male,1932-11-04,,,
+Japan,Chief Justice,Akira Machida,Q3607346,2002-11-06,2006-10-15,male,1936-10-16,2015-04-05,,Akira Machida
+Japan,Chief Justice,Niro Shimada,Q11476857,2006-10-16,2008-11-21,male,1938-11-22,,,Niro Shimada
+Japan,Chief Justice,Hironobu Takesaki,Q2892819,2008-11-25,2014-03-31,male,1944-07-08,,,Hironobu Takesaki
+Japan,Chief Justice,Itsurō Terada,Q11458035,2014-04-01,2018-01-08,male,1948-01-09,,,Itsurō Terada
+Japan,Chief Justice,Naoto Ōtani,Q11439136,2018,,male,1952-06-23,,,Naoto Ōtani
+Japan,Director of Cabinet Intelligence,Shin'ichi Uematsu,Q11540617,2010-04-02,2011-12-27,male,1954-01,,,
+Japan,Director of Cabinet Intelligence,Hiroaki Takizawa,Q69634994,2019-09-11,,male,1959-07-18,,Takizawa Hiroaki.jpg,
+Japan,Special Adviser to the Prime Minister,Shunichi Yamaguchi,Q7505080,2008-09-30,2009-09-16,male,1950-02-28,,Shunichi Yamaguchi (cropped).jpg,Shunichi Yamaguchi
+Japan,Special Adviser to the Prime Minister,Satoshi Arai,Q1478311,2009-10-23,2010-06-10,male,1946-05-27,,Satoshi Arai 201006.jpg,Satoshi Arai
+Japan,Superintendent General,Yoshihiko Oishi,Q92672207,2021-09-16,,male,1963-05-04,,,
+Japan,Commissioner for Cultural Affairs,Hideki Hayashida,Q11533219,1997-07-01,2000-06-15,male,1942-04-03,,,
+Japan,Commissioner for Cultural Affairs,Masamine Sasaki,Q11382292,2000-06-15,2002-01-18,male,1941,,,
+Japan,Commissioner for Cultural Affairs,Hayao Kawai,Q2025444,2002-01-18,2007-01-17,male,1928-06-23,2007-07-19,,Hayao Kawai
+Japan,Commissioner for Cultural Affairs,Kondō Shinji,Q11638707,2006-11-01,2007-04-01,male,1948-02,,,
+Japan,Commissioner for Cultural Affairs,Tamotsu Aoki,Q11661638,2007-04-01,2009-07-14,male,1938-10-30,,,
+Japan,Commissioner for Cultural Affairs,Hideo Tamai,Q11572377,2009-07-14,2010-07-30,male,1948,,,
+Japan,Commissioner for Cultural Affairs,Seiichi Kondō,Q6145934,2010-07-30,2013-07-07,male,1946-03-24,,,
+Japan,Commissioner for Cultural Affairs,Masanori Aoyagi,Q11661949,2013-07-08,2016-04-01,male,1944-11-21,,Masanori Aoyagi cropped 1 Masanori Aoyagi 20211103.jpg,
+Japan,Commissioner for Cultural Affairs,Ryōhei Miyata,Q11455106,2016-04-01,2021-03-31,male,1945-06-08,,宮田亮平 2016 (28639495693).jpg,
+Japan,Commissioner for Cultural Affairs,Shunichi Tokura,Q11643484,2021-04-01,,male,1948-06-21,,,Shunichi Tokura
+Japan,Governor of the Bank of Japan,Masaru Hayami,Q1047651,1998-03-20,2003-03-19,male,1925-03-24,2009-05-17,Masaru Hayami.jpg,Masaru Hayami
+Japan,Governor of the Bank of Japan,Toshihiko Fukui,Q1045577,2003-03-20,2008-03-19,male,1935-09-07,,Toshihiko Fukui.jpg,Toshihiko Fukui
+Japan,Governor of the Bank of Japan,Masaaki Shirakawa,Q168716,2008-04-09,2013-03-19,male,1949-09-27,,Masaaki Shirakawa 2012.jpg,Masaaki Shirakawa
+Japan,Governor of the Bank of Japan,Haruhiko Kuroda,Q5244721,2013-03-20,,male,1944-10-25,,Haruhiko Kuroda at ADB Philippines (crop).jpg,Haruhiko Kuroda
+Japan,President of the House of Councillors,Jūrō Saitō,Q11500493,1995-08-04,2000-10-19,male,1940-02-05,,Juro Saito.jpg,
+Japan,President of the House of Councillors,Yutaka Inoue,Q11373220,2000-10-19,2002-04-22,male,1927-11-17,2008-06-22,Yutaka Inoue 1990.jpg,
+Japan,President of the House of Councillors,Hiroyuki Kurata,Q11386875,2002-04-22,2004-07-30,male,1938-04-09,2020-04-07,Hiroyuki Kurata.jpg,
+Japan,President of the House of Councillors,Chikage Oogi,Q456161,2004-07-30,2007-07-28,female,1933-05-10,,Chikage Ogi 2006.png,Chikage Oogi
+Japan,President of the House of Councillors,Satsuki Eda,Q212305,2007-08-07,2010-07-25,male,1941-05-22,2021-07-28,Satsuki Eda cropped.jpg,Satsuki Eda
+Japan,President of the House of Councillors,Takeo Nishioka,Q967214,2010-07-30,2011-11-05,male,1936-02-12,2011-11-05,Takeo Nishioka 1988.jpg,Takeo Nishioka
+Japan,President of the House of Councillors,Kenji Hirata,Q536655,2011-11-14,2013-07-28,male,1944-01-04,,Kenji Hirata.jpg,Kenji Hirata
+Japan,President of the House of Councillors,Masaaki Yamazaki,Q2225687,2013-08-02,2016-07-25,male,1942-05-24,,Masaaki Yamazaki cropped 2 Masaaki Yamazaki and Urmas Paet 20140721 3.jpg,Masaaki Yamazaki
+Japan,President of the House of Councillors,Chuichi Date,Q1091221,2016-08-01,2019-07-28,male,1939-01-20,,Chūichi Date (2018).jpg,Chūichi Date
+Japan,President of the House of Councillors,Akiko Santō,Q3546202,2019-08-01,,female,1942-05-11,,Delegação oficial da Câmara dos Conselheiros do Japão (49363497538).jpg,Akiko Santō
+Japan,Speaker of the House of Representatives,Tamisuke Watanuki,Q2391659,2000-07-04,2003-10-10,male,1927-04-30,,,Tamisuke Watanuki
+Japan,Speaker of the House of Representatives,Takahiro Yokomichi,Q130856,2009-09-16,2012-11-16,male,1941-01-03,,,Takahiro Yokomichi
+Japan,Speaker of the House of Representatives,Hiroyuki Hosoda,Q1133192,2021-11-10,,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
+Japan,Governor of Aichi Prefecture,Masaaki Kanda,Q204939,1999-02-15,2011-02-14,male,1951-10-01,,,Masaaki Kanda
+Japan,Governor of Aichi Prefecture,Hideaki Ōmura,Q1617350,2011-02-15,,male,1960-03-09,,Hideaki Omura (2014.03.23) 5.jpg,Hideaki Ōmura
+Japan,Governor of Akita Prefecture,Norihisa Satake,Q438468,2009-04-20,,male,1947-11-15,,Satake Norihisa 1-1.jpg,Norihisa Satake
+Japan,Governor of Aomori Prefecture,Shingo Mimura,Q174982,2003-06-29,,male,1956-04-16,,日本青森縣知事三村申吾.jpg,Shingo Mimura
+Japan,Governor of Chiba Prefecture,Akiko Dōmoto,Q418188,2001-04-05,2009-04-04,female,1932-07-31,,Governor Akiko Dōmoto.jpg,Akiko Dōmoto
+Japan,Governor of Chiba Prefecture,Kensaku Morita,Q449915,2009-04-05,2021-04-05,male,1949-12-16,,08.10 副總統接見「日本千葉縣知事森田健作訪團」 (28272292543).jpg,Kensaku Morita
+Japan,Governor of Chiba Prefecture,Toshihito Kumagai,Q11568706,2021-04-05,,male,1978-02-18,,,
+Japan,Governor of Ehime Prefecture,Moriyuki Kato,Q1948191,1999-01-28,2010-11-30,male,1934-09-18,2020-03-21,,Moriyuki Kato
+Japan,Governor of Ehime Prefecture,Tokihiro Nakamura,Q2438992,2010-12-01,,male,1960-01-25,,Tokihiro Nakamura 2013-02-01.JPG,Tokihiro Nakamura
+Japan,Governor of Fukui Prefecture,Issei Nishikawa,Q127759,2003-04-23,2019-04-22,male,1945-01-02,,Nishikawa Issei 2014 04 12.JPG,Issei Nishikawa
+Japan,Governor of Fukui Prefecture,Tatsuji Sugimoto,Q67498535,2019-04-23,,male,1962-07-31,,,Tatsuji Sugimoto
+Japan,Governor of Fukuoka Prefecture,Wataru Asō,Q269414,1995-04-23,2011-04-22,male,1939-05-15,,,Wataru Asō
+Japan,Governor of Fukuoka Prefecture,Hiroshi Ogawa,Q1620282,2011-04-25,2021-03-24,male,1949-05-17,2021-11-02,,Hiroshi Ogawa (politician)
+Japan,Governor of Fukuoka Prefecture,Seitaro Hattori,Q95162957,2021-04-11,,male,1954-09-11,,,
+Japan,Governor of Fukushima Prefecture,Eisaku Satō,Q5349896,1988-09-19,2006-09-28,male,1939-06-24,,,Eisaku Satō (governor)
+Japan,Governor of Fukushima Prefecture,Yūhei Satō,Q1450003,2006-11-12,2014-11-11,male,1947-12-13,,Yuhei Sato cropped 2 Yuhei Sato and Yukiya Amano 20120831 2.jpg,Yūhei Satō
+Japan,Governor of Fukushima Prefecture,Masao Uchibori,Q17989197,2014-11-12,,male,1964-03-26,,Masao Uchibori cropped 2 Shin Maruo Elena Buglova and Masao Uchibori 20130527.jpg,Masao Uchibori
+Japan,Governor of Gifu Prefecture,Hiromu Kajiwara,Q11538825,1989-02-06,2005-02-05,male,1933-11-14,2017-08-29,,
+Japan,Governor of Gifu Prefecture,Hajime Furuta,Q982638,2005-02-06,,male,1947-09-13,,,Hajime Furuta
+Japan,Governor of Gunma Prefecture,Masaaki Ōsawa,Q982644,2007-07-28,2019-07-27,male,1946-01-21,,,Masaaki Ōsawa
+Japan,Governor of Gunma Prefecture,Ichita Yamamoto,Q1655599,2019-07-28,,male,1958-01-24,,"Ichita Yamamoto, 20191206.jpg",Ichita Yamamoto
+Japan,Governor of Hiroshima Prefecture,Yūzan Fujita,Q982634,1993,2009,male,1949-04-19,2015-12-18,,Yūzan Fujita
+Japan,Governor of Hiroshima Prefecture,Hidehiko Yuzaki,Q1485068,2009-11-29,,male,1965-10-04,,Hidehiko Yuzaki cropped 3 Hidehiko Yuzaki and Toshiro Ozawa 20121102.jpg,Hidehiko Yuzaki
+Japan,Governor of Hokkaidō Prefecture,Tatsuya Hori,Q7688352,1995-04-10,2003-04-10,male,1935-11-22,,,Tatsuya Hori
+Japan,Governor of Hokkaidō Prefecture,Harumi Takahashi,Q459145,2003-04-14,2019-04-22,female,1954-01-06,,20211006takahashi harumi.jpg,Harumi Takahashi
+Japan,Governor of Hokkaidō Prefecture,Naomichi Suzuki,Q11649100,2019-04-23,,male,1981-03-14,,Governor Naomichi Suzuki in 2020.jpg,Naomichi Suzuki
+Japan,Governor of Hyōgo Prefecture,Toshizō Ido,Q982641,2001-08-01,2021-07-31,male,1945-08-10,,Ido Toshizo 1-1.jpg,Toshizō Ido
+Japan,Governor of Hyōgo Prefecture,Motohiko Saitō,Q107917854,2021-08-01,,male,1977-11-15,,斎藤元彦.jpg,Motohiko Saitō
+Japan,Governor of Ibaraki Prefecture,Masaru Hashimoto,Q982631,1993-09-26,2017-09-25,male,1945-11-19,,Masaru Hashimoto cropped 2 Masaru Hashimoto and Yoshihiko Noda 20110927.jpg,Masaru Hashimoto
+Japan,Governor of Ibaraki Prefecture,Kazuhiko Ōigawa,Q38081041,2017-09-26,,male,1964-04-03,,"Kazuhiko Oigawa, 20191206.jpg",Kazuhiko Ōigawa
+Japan,Governor of Ishikawa Prefecture,Masanori Tanimoto,Q982469,1994-03-27,,male,1945-04-16,,,Masanori Tanimoto
+Japan,Governor of Iwate Prefecture,Hiroya Masuda,Q738197,1995-04-30,2007-04-29,male,1951-12-20,,Hiroya Masuda 200808.jpg,Hiroya Masuda
+Japan,Governor of Iwate Prefecture,Takuya Tasso,Q49869,2007-04-08,,male,1964-06-10,,Tasso Takuya (2010).JPG,Takuya Tasso
+Japan,Governor of Kagawa Prefecture,Takeki Manabe,Q2389419,1998-09-05,2010-09-04,male,1940-04-03,,,Takeki Manabe
+Japan,Governor of Kagawa Prefecture,Keizō Hamada,Q1738107,2010-09-05,,male,1952-01-10,,,Keizō Hamada
+Japan,Governor of Kagoshima Prefecture,Yūichirō Itō,Q1275484,2004-07-28,2016-07-27,male,1947-11-17,,,Yūichirō Itō
+Japan,Governor of Kagoshima Prefecture,Satoshi Mitazono,Q11354596,2016-07-28,2020-07-27,male,1958-02-13,,SatoshiMitazono.jpg,Satoshi Mitazono
+Japan,Governor of Kagoshima Prefecture,Kōichi Shiota,Q97291648,2020-07-28,,male,1965-10-15,,,Kōichi Shiota
+Japan,Governor of Kanagawa Prefecture,Hiroshi Okazaki,Q11472952,1995-04-23,2003-04-22,male,1932-03-27,2018-03-31,,
+Japan,Governor of Kanagawa Prefecture,Shigefumi Matsuzawa,Q1725744,2003-04-23,2011-04-23,male,1958-04-02,,Shigefumi Matsuzawa (cropped).jpg,Shigefumi Matsuzawa
+Japan,Governor of Kanagawa Prefecture,Yūji Kuroiwa,Q655960,2011-04-23,,male,1954-09-26,,"Governor Kanagawa Yuji Kuroiwa. In the case of an electric bus test ride, I photographed it at Fureiyu.JPG",Yūji Kuroiwa
+Japan,Governor of Kumamoto Prefecture,Jōji Fukushima,Q11593742,1991-02-11,2000-02-25,male,1927-03-31,2000-02-25,,
+Japan,Governor of Kumamoto Prefecture,Yoshiko Shiotani,Q529347,2000-04-16,2008-04-15,female,1939-04-05,,,Yoshiko Shiotani
+Japan,Governor of Kumamoto Prefecture,Ikuo Kabashima,Q1658176,2008-04-16,,male,1947-01-28,,Ikuo Kabashima 20090523.jpg,Ikuo Kabashima
+Japan,Governor of Kyoto,Teiichi Aramaki,Q11618643,1986-04-16,2002-04-15,male,1931-07-22,,,
+Japan,Governor of Kyoto,Keiji Yamada,Q656085,2002-04-16,2018-04-16,male,1954-04-05,,"The Governor of Kyoto Prefecture Keiji Yamada in Kyoto, Japan cropped.jpg",Keiji Yamada
+Japan,Governor of Kyoto,Takatoshi Nishiwaki,Q50824931,2018-04-16,,male,1955-07-15,,Takatoshi Nishiwaki IMG 0884-28 20181111.jpg,Takatoshi Nishiwaki
+Japan,Governor of Kōchi Prefecture,Masanao Ozaki,Q656644,2007-12-07,2019-12-06,male,1967-09-14,,,Masanao Ozaki
+Japan,Governor of Kōchi Prefecture,Seiji Hamada,Q80073979,2019-12-07,,male,1963-01-23,,,Seiji Hamada
+Japan,Governor of Mie Prefecture,Masayasu Kitagawa,Q11401644,1995-04-21,2003-04-20,male,1944-11-11,,,
+Japan,Governor of Mie Prefecture,Akihiko Noro,Q4700917,2003-04-21,2011-04-20,male,1946-08-28,,,Akihiko Noro
+Japan,Governor of Mie Prefecture,Eikei Suzuki,Q1303796,2011-04-21,2021-09-12,male,1974-08-15,,鈴木英敬.jpg,Eikei Suzuki
+Japan,Governor of Mie Prefecture,Katsumi Ichimi,Q100454684,2021-09-14,,male,1963,,,
+Japan,Governor of Miyagi Prefecture,Shirō Asano,Q6139860,1993-11-21,2005-11-20,male,1948-04-08,,,Shirō Asano (politician)
+Japan,Governor of Miyagi Prefecture,Yoshihiro Murai,Q377940,2005-11-21,,male,1960-08-20,,Miyagi Prefecture Governor Yoshihiro Murai (村井嘉浩 ) at 2011 MOD seminar.jpg,Yoshihiro Murai
+Japan,Governor of Miyazaki Prefecture,Hideo Higashikokubaru,Q730869,2007-01-21,2011-01-20,male,1957-09-16,,Hideo Higashikokubaru 2007 1216.jpg,Hideo Higashikokubaru
+Japan,Governor of Miyazaki Prefecture,Shunji Kōno,Q1804854,2011-01-21,,male,1964-09-08,,"Governor Miyazaki Syunji Kouno. In the case of a symposium of the Kojiki, I photographed it at Meiji university.jpg",Shunji Kōno
+Japan,Governor of Nagano Prefecture,Shuichi Abe,Q2280320,2010-08,,male,1960-12-21,,ABE Syuichi 2011.jpg,Shuichi Abe
+Japan,Governor of Nagasaki Prefecture,Hōdō Nakamura,Q52349,2010-03-02,,male,1950-11-29,,,Hōdō Nakamura
+Japan,Governor of Nara Prefecture,Yoshiya Kakimoto,Q11535021,1991-11-28,2007-05-02,male,1938-02-07,,,
+Japan,Governor of Nara Prefecture,Shōgo Arai,Q1247261,2007-05-03,,male,1945-01-18,,"Governor Nara sougo Arai. In the case of a symposium of the Kojiki, I photographed it at Meiji university.jpg",Shōgo Arai
+Japan,Governor of Niigata Prefecture,Ikuo Hirayama,Q11482509,1992-10-25,2004-10-24,male,1944-07-21,,,
+Japan,Governor of Niigata Prefecture,Hirohiko Izumida,Q1620229,2004-10-25,2016-10-24,male,1962-09-15,,"Hirohiko Izumida at Nagaoka Niigata 2019,07 2.jpg",Hirohiko Izumida
+Japan,Governor of Niigata Prefecture,Ryūichi Yoneyama,Q11604169,2016-10-25,2018-04-27,male,1967-09-08,,,Ryuichi Yoneyama
+Japan,Governor of Niigata Prefecture,Hideyo Hanazumi,Q54913364,2018-06-10,,male,1958-05-22,,,Hideyo Hanazumi
+Japan,Governor of Ōita Prefecture,Morihiko Hiramatsu,Q6912213,1979,2003,male,1924-03-12,2016-08-21,,Morihiko Hiramatsu
+Japan,Governor of Ōita Prefecture,Katsusada Hirose,Q1736802,2003-04-28,,male,1942-06-25,,20160908大分縣廣瀨勝貞知事.jpg,Katsusada Hirose
+Japan,Governor of Osaka Prefecture,Fusae Ōta,Q337446,2000-02-05,2008-02-05,female,1951-06-26,,Fusae Ohta.png,Fusae Ohta
+Japan,Governor of Osaka Prefecture,Tōru Hashimoto,Q706296,2008-02-06,2011-10-31,male,1969-06-29,,Tōru Hashimoto.jpg,Tōru Hashimoto
+Japan,Governor of Osaka Prefecture,Ichirō Matsui,Q128573,2011-11-28,2019-03-21,male,1964-01-31,,Ichiro Matsui Ishin IMG 5775 20130713.JPG,Ichirō Matsui
+Japan,Governor of Osaka Prefecture,Hirofumi Yoshimura,Q21529384,2019-04-08,,male,1975-06-17,,Hirofumi Yoshimura.jpg,Hirofumi Yoshimura
+Japan,Governor of Okayama Prefecture,Masahiro Ishii,Q557011,1996-11,2012-11,male,1945-11-29,,20211006ishii masahiro.jpg,Masahiro Ishii
+Japan,Governor of Okayama Prefecture,Ryūta Ibaragi,Q11379176,2012-11-12,,male,1966-07-29,,Ryuta Ibaragi cropped 2 Shinzo Abe Hidehiko Yuzaki Ryuta Ibaragi and Tokihiro Nakamura 20180802.jpg,Ryuta Ibaragi
+Japan,Governor of Okinawa Prefecture,Keiichi Inamine,Q4662124,1998-12-10,2006-12-09,male,1933-10-14,,Keiichi Inamine.jpg,Keiichi Inamine
+Japan,Governor of Okinawa Prefecture,Hirokazu Nakaima,Q452327,2006-12-10,2014-12-10,male,1939-08-19,,Hirokazu Nakaima.jpg,Hirokazu Nakaima
+Japan,Governor of Okinawa Prefecture,Takeshi Onaga,Q11610464,2014-12-10,2018-08-08,male,1950-10-02,2018-08-08,Takeshi Onaga (2016).jpg,Takeshi Onaga
+Japan,Governor of Okinawa Prefecture,Denny Tamaki,Q11572466,2018-10-04,,male,1959-10-13,,Denny Tamaki (2018).jpg,Denny Tamaki
+Japan,Governor of Saga Prefecture,Isamu Imoto,Q11373611,1991,2003-04-22,male,1925-09-17,2018-04-23,,Isamu Imoto
+Japan,Governor of Saga Prefecture,Isamu Imoto,Q11373611,1991,2003-04-23,male,1925-09-17,2018-04-23,,Isamu Imoto
+Japan,Governor of Saga Prefecture,Isamu Imoto,Q11373611,1991-04-23,2003-04-22,male,1925-09-17,2018-04-23,,Isamu Imoto
+Japan,Governor of Saga Prefecture,Isamu Imoto,Q11373611,1991-04-23,2003-04-23,male,1925-09-17,2018-04-23,,Isamu Imoto
+Japan,Governor of Saga Prefecture,Yasushi Furukawa,Q2576940,2003-04-23,2014-11-25,male,1958-07-15,,20200918furukawa yasushi.jpg,Yasushi Furukawa (governor)
+Japan,Governor of Saga Prefecture,Yoshinori Yamaguchi,Q18818272,2015-01-14,,male,1965-07-01,,,Yoshinori Yamaguchi
+Japan,Governor of Saitama Prefecture,Kiyoshi Ueda,Q638431,2003-09-01,2019-08-30,male,1948-05-15,,KiyoshiUeda-Saitama-2018-5-4.jpg,Kiyoshi Ueda
+Japan,Governor of Saitama Prefecture,Motohiro Ōno,Q6140287,2019,,male,1963-11-12,,Motohiro Ono 201210.jpg,Motohiro Ōno
+Japan,Governor of Shiga Prefecture,Yukiko Kada,Q152728,2006-07-20,2014-07-19,female,1950-05-18,,Kada Yukiko 1-1.jpg,Yukiko Kada
+Japan,Governor of Shiga Prefecture,Taizo Mikazuki,Q7676684,2014-07-20,,male,1971-05-24,,,Taizō Mikazuki
+Japan,Governor of Shimane Prefecture,Zenbee Mizoguchi,Q189287,2007-04-30,2019-04-30,male,1946-01-20,,Mizoguchi Zenbei 1-1.jpg,Zenbee Mizoguchi
+Japan,Governor of Shimane Prefecture,Tatsuya Maruyama,Q64783824,2019-04-30,,male,1970-03-25,,,Tatsuya Maruyama
+Japan,Governor of Shizuoka Prefecture,Heita Kawakatsu,Q1505020,2009-07-07,,male,1948-08-16,,Heita Kawakatsu cropped 2 Heita Kawakatsu 20140831.jpg,Heita Kawakatsu
+Japan,Governor of Tochigi Prefecture,Akio Fukuda,Q3435725,2000-12-09,2004-12-08,male,1948-04-17,,Ryo Shuhama Akio Fukuda and Takashi Morita 201109.jpg,Akio Fukuda
+Japan,Governor of Tochigi Prefecture,Tomikazu Fukuda,Q455915,2004-12-09,,male,1953-05-21,,"Tomikazu Fukuda, 20191206.jpg",Tomikazu Fukuda
+Japan,Governor of Tokushima Prefecture,Kamon Iizumi,Q1670854,2003-05-18,,male,1960-07-29,,,Kamon Iizumi
+Japan,Governor of Tokyo,Shintarō Ishihara,Q38849,1999-04-23,2012-10-31,male,1932-09-30,,"Shintaro Ishihara, 2006-Sep-1 Rev.jpg",Shintaro Ishihara
+Japan,Governor of Tokyo,Naoki Inose,Q1280894,2012-12-18,2013-12-24,male,1946-11-20,,Naoki Inose.jpg,Naoki Inose
+Japan,Governor of Tokyo,Yōichi Masuzoe,Q389617,2014-02-11,2016-06-21,male,1948-11-29,,Masuzoe 210 Herman.jpg,Yōichi Masuzoe
+Japan,Governor of Tokyo,Yuriko Koike,Q261703,2016-08-02,,female,1952-07-15,,Koike Yuriko (2019).jpg,Yuriko Koike
+Japan,Governor of Tottori Prefecture,Hirai Shinji,Q1326985,2007-04-13,,male,1961-09-17,,Shinji Hirai.jpg,Shinji Hirai
+Japan,Governor of Toyama Prefecture,Takakazu Ishii,Q1455923,2004-11-09,2020-11-09,male,1945-12-15,,,Takakazu Ishii
+Japan,Governor of Toyama Prefecture,Hachiro Nitta,Q50640705,2020-11-09,,male,1958-08-27,,,
+Japan,Governor of Wakayama Prefecture,Yoshinobu Nisaka,Q453168,2006-12-17,,male,1950-10-02,,Yoshinobu Nisaka-20070215.jpg,Yoshinobu Nisaka
+Japan,Governor of Yamagata Prefecture,Mieko Yoshimura,Q529418,2009-02-14,,female,1951-05-18,,20160519吉村美榮子.jpg,Mieko Yoshimura
+Japan,Governor of Yamaguchi Prefecture,Sekinari Nii,Q656326,1996,2012,male,1943-03-20,,Nii Sekinari 1-1.jpg,Sekinari Nii
+Japan,Governor of Yamaguchi Prefecture,Shigetarō Yamamoto,Q2278729,2012-08-22,2014-01-14,male,1948-11-14,2014-03-15,,
+Japan,Governor of Yamaguchi Prefecture,Tsugumasa Muraoka,Q15830756,2014-02-25,,male,1972-12-07,,,Tsugumasa Muraoka
+Japan,Governor of Yamanashi Prefecture,Takahiko Yamamoto,Q11469139,2003-02-17,2007-02-16,male,1935-09-06,,,
+Japan,Governor of Yamanashi Prefecture,Shōmei Yokouchi,Q732124,2007-02-17,2015-02-16,male,1942-03-02,2020-04-21,Yokouchi.jpg,Shōmei Yokouchi
+Japan,Governor of Yamanashi Prefecture,Hitoshi Goto,Q5872336,2015-02-16,2019-02,male,1957-07-22,,Gotohitoshi.jpg,Hitoshi Goto
+Japan,Governor of Yamanashi Prefecture,Kotaro Nagasaki,Q6433881,2019-02-17,,male,1968-08-18,,,Kotaro Nagasaki

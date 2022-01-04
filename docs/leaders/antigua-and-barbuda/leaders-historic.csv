@@ -1,37 +1,37 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-monarch,Elizabeth II,Q9682,1981-11-01,,female,1926-04-21,,Elizabeth II 2021.jpg,Elizabeth II
-Governor-General,James Carlisle,Q431167,1993-06-10,2007-06-30,male,1937-08-05,,,James Carlisle
-Governor-General,Louise Lake-Tack,Q232610,2007-07-17,2014-08-13,female,1944-07-26,,DameLouiseLake-Tack.jpg,Louise Lake-Tack
-Governor-General,Rodney Williams,Q17566330,2014-08-14,,male,1947-11-02,,Governor General Of Antigua And Barbuda (37250652361) (cropped).jpg,Rodney Williams (governor-general)
-Prime Minister,Lester Bird,Q365451,1994-03-09,2004-03-24,male,1938-02-21,2021-08-09,Former Prime Minister Honourable Lester B. Bird speak to the audience.jpg,Lester Bird
-Prime Minister,Baldwin Spencer,Q57602,2004-03-24,2014-06-13,male,1948-10-08,,Baldwin Spencer.jpg,Baldwin Spencer
-Prime Minister,Gaston Browne,Q17177542,2014-06-13,,male,1967-02-09,,PM Gaston Browne (36764147103).jpg,Gaston Browne
-Deputy Prime Minister,Robin Yearwood,Q7352892,2002-09-09,2004,male,,,,Robin Yearwood
-"Minister of Agriculture, Lands, Fisheries and Barbuda Affairs",Dean Jonas,Q20172576,2018-03-22,2020-01-20,male,1961-05-23,,,
-"Minister of Agriculture, Lands, Fisheries and Barbuda Affairs",Samantha Marshall,Q20192069,2020-01-20,,female,,,,Samantha Marshall
-"Minister of Education, Science and Technology",Michael Sherwin Harris Browne,Q20171315,2018-03-22,,male,,,,
-Minister of Finance,Robin Yearwood,Q7352892,2003,2004,male,,,,Robin Yearwood
-Minister of Finance,Errol Cort,Q5395562,2004,2009,male,,,,Errol Cort
-Minister of Finance,Harold Lovell,Q5661574,2009,2014,male,1955-09-27,,,Harold Lovell
-Minister of Finance,Gaston Browne,Q17177542,2018-03-22,,male,1967-02-09,,PM Gaston Browne (36764147103).jpg,Gaston Browne
-Minister of Foreign Affairs,Harold Lovell,Q5661574,2004-08,2005-01,male,1955-09-27,,,Harold Lovell
-Minister of Foreign Affairs,Baldwin Spencer,Q57602,2005-01-06,2014-06-13,male,1948-10-08,,Baldwin Spencer.jpg,Baldwin Spencer
-Minister of Foreign Affairs,Paul Chet Greene,Q20172097,2018-03-22,,male,,,,Paul Chet Greene
-"Minister of Health, Wellness & The Environment",Molwyn Joseph,Q16730448,2018-03-22,,male,,,,Molwyn Joseph
-"Minister for Housing, Lands and Urban Renewal",Maria Bird-Browne,Q100606338,2018-03-22,,female,1991,,,Maria Bird-Browne
-"Minister of Information, Broadcasting, Telecommunications and Information Technology",Melford Nicholas,Q20850520,2018-03-22,,male,,,,
-Minister of Investment and Trade,Asot Michael,Q4807601,2018-03-02,2020-05,male,1969-12,,,Asot Michael
-"Minister of Legal Affairs, Public Safety, and Labour",Steadroy Benjamin,Q7605192,2018-03-22,,male,,,,Steadroy Benjamin
-"Minister of Public Utilities, Civil Aviation, Transportation",Robin Yearwood,Q7352892,1987-01-01,2004,male,,,,Robin Yearwood
-"Minister of Public Utilities, Civil Aviation, Transportation",Robin Yearwood,Q7352892,2018-03-22,,male,,,,Robin Yearwood
-Minister of Social Transformation and Human Resource Development,Samantha Marshall,Q20192069,2018-03-22,,female,,,,Samantha Marshall
-"Minister of Sports, Culture, National Festivals and the Arts",Daryll Mathew,Q104634506,2018-03-22,,male,,,,Daryll Mathew
-Minister of Tourism and Economic Development,Asot Michael,Q4807601,2014-06-12,2017-10-23,male,1969-12,,,Asot Michael
-Minister of Tourism and Economic Development,Charles Fernandez,Q20171771,2018-03-22,,male,1954-12-24,,Charles Max Fernandez.jpg,Charles Fernandez
-Minister of Works,Lennox Weston,Q108319069,2018-03-22,,male,,,,
-Attorney General,Steadroy Benjamin,Q7605192,2018-03-22,,male,,,,Steadroy Benjamin
-Speaker of the House of Representatives,Gerald Watt,Q104642679,2014-06-25,,male,1938-12-19,,,Gerald Watt
-President of the Senate,Millicent Percival,Q48331998,1994-03-21,2004-02-26,female,,2006,,Millicent Percival
-President of the Senate,Edmond Mansoor,Q110124535,2004-03-26,2005-01-05,male,,,,
-President of the Senate,Hazelyn Francis,Q16105080,2005-01-07,2014-05-16,female,1939,,,Hazelyn Francis
-President of the Senate,Alincia Williams-Grant,Q48417293,2014-06-25,,female,,,,Alincia Williams-Grant
+catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Antigua and Barbuda,monarch,Elizabeth II,Q9682,1981-11-01,,female,1926-04-21,,Elizabeth II 2021.jpg,Elizabeth II
+Antigua and Barbuda,Governor-General,James Carlisle,Q431167,1993-06-10,2007-06-30,male,1937-08-05,,,James Carlisle
+Antigua and Barbuda,Governor-General,Louise Lake-Tack,Q232610,2007-07-17,2014-08-13,female,1944-07-26,,DameLouiseLake-Tack.jpg,Louise Lake-Tack
+Antigua and Barbuda,Governor-General,Rodney Williams,Q17566330,2014-08-14,,male,1947-11-02,,Governor General Of Antigua And Barbuda (37250652361) (cropped).jpg,Rodney Williams (governor-general)
+Antigua and Barbuda,Prime Minister,Lester Bird,Q365451,1994-03-09,2004-03-24,male,1938-02-21,2021-08-09,Former Prime Minister Honourable Lester B. Bird speak to the audience.jpg,Lester Bird
+Antigua and Barbuda,Prime Minister,Baldwin Spencer,Q57602,2004-03-24,2014-06-13,male,1948-10-08,,Baldwin Spencer.jpg,Baldwin Spencer
+Antigua and Barbuda,Prime Minister,Gaston Browne,Q17177542,2014-06-13,,male,1967-02-09,,PM Gaston Browne (36764147103).jpg,Gaston Browne
+Antigua and Barbuda,Deputy Prime Minister,Robin Yearwood,Q7352892,2002-09-09,2004,male,,,,Robin Yearwood
+Antigua and Barbuda,"Minister of Agriculture, Lands, Fisheries and Barbuda Affairs",Dean Jonas,Q20172576,2018-03-22,2020-01-20,male,1961-05-23,,,
+Antigua and Barbuda,"Minister of Agriculture, Lands, Fisheries and Barbuda Affairs",Samantha Marshall,Q20192069,2020-01-20,,female,,,,Samantha Marshall
+Antigua and Barbuda,"Minister of Education, Science and Technology",Michael Sherwin Harris Browne,Q20171315,2018-03-22,,male,,,,
+Antigua and Barbuda,Minister of Finance,Robin Yearwood,Q7352892,2003,2004,male,,,,Robin Yearwood
+Antigua and Barbuda,Minister of Finance,Errol Cort,Q5395562,2004,2009,male,,,,Errol Cort
+Antigua and Barbuda,Minister of Finance,Harold Lovell,Q5661574,2009,2014,male,1955-09-27,,,Harold Lovell
+Antigua and Barbuda,Minister of Finance,Gaston Browne,Q17177542,2018-03-22,,male,1967-02-09,,PM Gaston Browne (36764147103).jpg,Gaston Browne
+Antigua and Barbuda,Minister of Foreign Affairs,Harold Lovell,Q5661574,2004-08,2005-01,male,1955-09-27,,,Harold Lovell
+Antigua and Barbuda,Minister of Foreign Affairs,Baldwin Spencer,Q57602,2005-01-06,2014-06-13,male,1948-10-08,,Baldwin Spencer.jpg,Baldwin Spencer
+Antigua and Barbuda,Minister of Foreign Affairs,Paul Chet Greene,Q20172097,2018-03-22,,male,,,,Paul Chet Greene
+Antigua and Barbuda,"Minister of Health, Wellness & The Environment",Molwyn Joseph,Q16730448,2018-03-22,,male,,,,Molwyn Joseph
+Antigua and Barbuda,"Minister for Housing, Lands and Urban Renewal",Maria Bird-Browne,Q100606338,2018-03-22,,female,1991,,,Maria Bird-Browne
+Antigua and Barbuda,"Minister of Information, Broadcasting, Telecommunications and Information Technology",Melford Nicholas,Q20850520,2018-03-22,,male,,,,
+Antigua and Barbuda,Minister of Investment and Trade,Asot Michael,Q4807601,2018-03-02,2020-05,male,1969-12,,,Asot Michael
+Antigua and Barbuda,"Minister of Legal Affairs, Public Safety, and Labour",Steadroy Benjamin,Q7605192,2018-03-22,,male,,,,Steadroy Benjamin
+Antigua and Barbuda,"Minister of Public Utilities, Civil Aviation, Transportation",Robin Yearwood,Q7352892,1987-01-01,2004,male,,,,Robin Yearwood
+Antigua and Barbuda,"Minister of Public Utilities, Civil Aviation, Transportation",Robin Yearwood,Q7352892,2018-03-22,,male,,,,Robin Yearwood
+Antigua and Barbuda,Minister of Social Transformation and Human Resource Development,Samantha Marshall,Q20192069,2018-03-22,,female,,,,Samantha Marshall
+Antigua and Barbuda,"Minister of Sports, Culture, National Festivals and the Arts",Daryll Mathew,Q104634506,2018-03-22,,male,,,,Daryll Mathew
+Antigua and Barbuda,Minister of Tourism and Economic Development,Asot Michael,Q4807601,2014-06-12,2017-10-23,male,1969-12,,,Asot Michael
+Antigua and Barbuda,Minister of Tourism and Economic Development,Charles Fernandez,Q20171771,2018-03-22,,male,1954-12-24,,Charles Max Fernandez.jpg,Charles Fernandez
+Antigua and Barbuda,Minister of Works,Lennox Weston,Q108319069,2018-03-22,,male,,,,
+Antigua and Barbuda,Attorney General,Steadroy Benjamin,Q7605192,2018-03-22,,male,,,,Steadroy Benjamin
+Antigua and Barbuda,Speaker of the House of Representatives,Gerald Watt,Q104642679,2014-06-25,,male,1938-12-19,,,Gerald Watt
+Antigua and Barbuda,President of the Senate,Millicent Percival,Q48331998,1994-03-21,2004-02-26,female,,2006,,Millicent Percival
+Antigua and Barbuda,President of the Senate,Edmond Mansoor,Q110124535,2004-03-26,2005-01-05,male,,,,
+Antigua and Barbuda,President of the Senate,Hazelyn Francis,Q16105080,2005-01-07,2014-05-16,female,1939,,,Hazelyn Francis
+Antigua and Barbuda,President of the Senate,Alincia Williams-Grant,Q48417293,2014-06-25,,female,,,,Alincia Williams-Grant
