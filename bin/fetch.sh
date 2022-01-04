@@ -13,7 +13,7 @@ if [[ ${#match[@]} != 1 ]]; then
 fi
 
 # There's almost certainly a better way to pass these as parameters, but
-# as this is CSV data, which could have spaces and commas in placeames, it's
+# as this is CSV data, which could have spaces and commas in placenames, it's
 # easiest to just extract them one by one.
 name=$(echo ${match[0]} | qsv select 1)
 slug=$(echo ${match[0]} | qsv select 2)
@@ -37,8 +37,27 @@ qsv search -s repo ^$repo repos.csv |
   qsv select 10,1-9 |
   qsv fill catalog |
   ifne tee $dir/current.csv
-curl -L -o $dir/leaders-historic.csv $csv21
-curl -L -o $dir/legislators-historic.csv $csvmp
+
+# These next two also have an 'end' column
+# TODO: also have that in `current.csv`
+curl -L -o $TMPFILE $csv21
+qsv search -s repo ^$repo repos.csv |
+  qsv select country |
+  qsv rename catalog |
+  qsv cat -p columns $TMPFILE - |
+  qsv select 11,1-10 |
+  qsv fill catalog |
+  ifne tee $dir/leaders-historic.csv
+
+curl -L -o $TMPFILE $csvmp
+qsv search -s repo ^$repo repos.csv |
+  qsv select country |
+  qsv rename catalog |
+  qsv cat -p columns $TMPFILE - |
+  qsv select 11,1-10 |
+  qsv fill catalog |
+  ifne tee $dir/legislators-historic.csv
+
 erb country="$name" countrydir=$dir src=$srce -r csv -T- template/index.erb > $dir/index.html
 
 qsv cat rows docs/leaders/**/current.csv > everywhere-current.csv
