@@ -61,3 +61,5 @@ qsv search -s repo ^$repo repos.csv |
 erb country="$name" countrydir=$dir src=$srce -r csv -T- template/index.erb > $dir/index.html
 
 qsv cat rows docs/leaders/**/current.csv > everywhere-current.csv
+qsv cat rows docs/leaders/**/leaders-historic.csv > everywhere-leaders.csv
+qsv cat rows docs/leaders/**/legislators-historic.csv > everywhere-legislators.csv
