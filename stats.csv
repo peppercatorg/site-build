@@ -29,7 +29,9 @@ bulgaria,27,114,15,125
 cameroon,42,51,5,56
 canada,62,239,1111,1204
 caymans,12,20,1,20
+chad,8,19,155,174
 chile,26,163,230,358
+china,29,78,5392,5456
 croatia,23,93,158,234
 cyprus,24,120,183,272
 czechia,26,199,1172,1256
@@ -43,8 +45,9 @@ fiji,14,28,3,28
 finland,30,124,429,462
 france,50,167,1999,2082
 gambia,25,62,2,63
-georgia,19,149,28,167
-germany,23,110,2070,2110
+georgia,19,150,28,168
+germany,23,111,2070,2111
+ghana,11,67,780,810
 gibraltar,11,15,40,46
 greece,27,113,514,566
 greenland,11,19,2,20
@@ -63,7 +66,7 @@ jamaica,26,39,3,40
 japan,76,299,682,856
 jersey,13,18,1,19
 jordan,35,71,7,74
-kazakhstan,32,43,3,43
+kazakhstan,30,43,3,43
 kenya,29,47,401,441
 kiribati,16,24,40,54
 kosovo,23,40,4,42
@@ -99,6 +102,7 @@ north-macedonia,25,71,3,72
 northern-ireland,15,68,301,308
 norway,25,156,1413,1460
 pakistan,49,119,572,656
+panama,6,13,2,15
 paraguay,24,32,15,43
 peru,24,204,306,482
 philippines,34,109,660,739
@@ -144,4 +148,4 @@ vanuatu,16,32,2,32
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,27,49,34,73
-TOTAL,3871,11697,46898,54223
+TOTAL,3916,11848,53212,60636
