@@ -41,7 +41,7 @@ el-salvador,21,37,12,47
 estonia,25,163,385,444
 ethiopia,30,54,1,54
 european-union,31,118,2814,2896
-faroes,8,20,6,24
+faroes,8,22,6,26
 fiji,14,28,3,28
 finland,30,126,429,464
 france,50,167,1999,2082
@@ -76,7 +76,7 @@ latvia,20,95,418,445
 lesotho,32,39,1,40
 liechtenstein,9,16,32,42
 lithuania,20,68,303,332
-luxembourg,23,56,139,172
+luxembourg,23,59,139,173
 malawi,30,65,196,235
 malaysia,38,71,259,286
 maldives,23,41,6,41
@@ -131,14 +131,14 @@ spain,31,144,1936,1992
 sri-lanka,34,53,258,273
 st-kitts-and-nevis,14,19,11,21
 sweden,28,139,1291,1342
-switzerland,11,42,623,637
+switzerland,11,54,623,637
 tajikistan,26,35,1,36
 tanzania,25,58,399,423
 timor-leste,24,30,1,31
 tonga,16,50,41,60
 transnistria,18,41,1,41
 trinidad-and-tobago,35,46,45,69
-tunisia,16,185,259,428
+tunisia,28,292,259,526
 turkey,25,99,775,840
 turks-and-caicos,12,28,7,30
 ukraine,33,205,2021,2126
@@ -150,4 +150,4 @@ vanuatu,16,32,2,32
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,27,49,34,73
-TOTAL,3956,12189,53482,61199
+TOTAL,3968,12313,53482,61300
