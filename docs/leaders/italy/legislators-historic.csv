@@ -1,7 +1,6 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Italy,member of the Italian Senate,Stefano Corti,Q66284718,0019-07-29,,male,1975-07-16,,Stefano Corti (00034675).jpg,
 Italy,member of the Italian Senate,Bortolo Galletto,Q65496139,1948-04-18,,male,1889-08-17,,,
-Italy,member of the Italian Senate,Nicola Nacucchi,Q65496146,1948-04-18,,male,1886-01-06,,,
 Italy,member of the Italian Senate,Antonio Bolettieri,Q61809753,1958-05-25,2003-03-30,male,1915-04-18,2003-03-30,Antonio Bolettieri.jpg,
 Italy,member of the Italian Senate,Ettore Vallauri,Q65496275,1958-05-25,,male,1904-07-14,,,
 Italy,member of the Italian Senate,Ercole Bonacina,Q107355201,1963-04-28,2006-04-20,male,1919-06-02,2006-04-20,,
@@ -850,6 +849,7 @@ Italy,member of the Italian Senate,Massimo Vittorio Berutti,Q67214361,2018-03-23
 Italy,member of the Italian Senate,Gianpietro Maffoni,Q56524022,2018-07-10,,male,1951-11-02,,Gianpietro Maffoni datisenato 2018.jpg,
 Italy,member of the Italian Senate,Michelina Lunesu,Q61875295,2019-06-19,,female,1954-07-25,,Michelina Lunesu.jpg,
 Italy,member of the Italian Senate,Giovanna Petrenga,Q3766264,2019-07-02,,female,1956-07-06,,Giovanna Petrenga daticamera.jpg,
+Italy,member of the Italian Senate,Kristalia Papaevangeliu,Q65953174,2019-07-02,2019-07-31,female,1977-07-26,,Kristalia Rachele Papaevangeliu datisenato 2019.jpg,
 Italy,member of the Italian Senate,Emma Pavanelli,Q66364266,2019-07-31,,female,1973-03-19,,Emma Pavanelli datisenato 2019.jpg,
 Italy,member of the Italian Senate,Sandro Ruotolo,Q3948285,2020-02-27,,male,1955-07-09,,Sandro Ruotolo datisenato.jpg,Sandro Ruotolo
 Italy,member of the Italian Senate,Valeria Alessandrini,Q87396728,2020-03-12,,female,1975-08-26,,Valeria Alessandrini datisenato.jpg,Valeria Alessandrini
@@ -907,7 +907,7 @@ Italy,member of the Chamber of Deputies of the Italian Republic,Vincenzo Cerulli
 Italy,member of the Chamber of Deputies of the Italian Republic,Giuseppe Alveti,Q107428531,1996-05-09,2001-05-29,male,1948-07-15,,Giuseppe Alveti XIII legislatura.jpg,
 Italy,member of the Chamber of Deputies of the Italian Republic,Antonina Dedoni,Q107441323,1996-05-09,2001-05-29,female,1949-07-02,,Antonina Dedoni XIII legislatura.jpg,
 Italy,member of the Chamber of Deputies of the Italian Republic,Daniela Santandrea,Q108317378,1996-05-09,2001-05-29,female,1958-04-07,,,
-Italy,member of the Chamber of Deputies of the Italian Republic,,Q110383865,1996-05-09,2001-05-29,male,1949-04-09,,,
+Italy,member of the Chamber of Deputies of the Italian Republic,Cosimo Faggiano,Q110383865,1996-05-09,2001-05-29,male,1949-04-09,,,
 Italy,member of the Chamber of Deputies of the Italian Republic,Rocco Gaetani,Q16597537,1996-05-09,2001-05-29,male,1957-02-02,2020-01-18,Rocco Gaetani daticamera.jpg,
 Italy,member of the Chamber of Deputies of the Italian Republic,Salvatore Biasco,Q21832775,1996-05-09,2001-05-29,male,1939-12-31,,,
 Italy,member of the Chamber of Deputies of the Italian Republic,Vittorio Sgarbi,Q2426702,1996-05-09,2001-05-29,male,1952-05-08,,Vittorio Sgarbi at Eataly Smeraldo Milano.jpg,Vittorio Sgarbi
@@ -1731,7 +1731,7 @@ Italy,member of the Chamber of Deputies of the Italian Republic,Giovanna Sanna,Q
 Italy,member of the Chamber of Deputies of the Italian Republic,Giovanni Monchiero,Q16560068,2013-03-15,2018-03-22,male,1946-07-16,,Giovanni Monchiero daticamera.jpg,
 Italy,member of the Chamber of Deputies of the Italian Republic,Giovanni Mottola,Q16560074,2013-03-15,2018-03-22,male,1946-05-16,,Giovanni Mottola daticamera.jpg,
 Italy,member of the Chamber of Deputies of the Italian Republic,Giovanni Sanga,Q16560169,2013-03-15,2018-03-22,male,1962-09-13,,Giovanni Sanga daticamera.jpg,
-Italy,member of the Chamber of Deputies of the Italian Republic,Giorgio Girgis Sorial,Q16560248,2013-03-15,2018-03-22,male,1983-07-12,,Sorial.jpg,Giorgio Girgis Sorial
+Italy,member of the Chamber of Deputies of the Italian Republic,Giorgio Girgis Sorial,Q16560248,2013-03-15,2018-03-22,male,1983-07-12,,Girgis Sorial daticamera.jpg,Giorgio Girgis Sorial
 Italy,member of the Chamber of Deputies of the Italian Republic,Girolamo Pisano,Q16560345,2013-03-15,2018-03-22,male,1974-04-11,,Girolamo Pisano daticamera.jpg,
 Italy,member of the Chamber of Deputies of the Italian Republic,Giulia Di Vita,Q16560395,2013-03-15,2018-03-22,female,1984-11-24,,Giulia Di Vita daticamera.jpg,
 Italy,member of the Chamber of Deputies of the Italian Republic,Giulia Narduolo,Q16560407,2013-03-15,2018-03-22,female,1984-11-23,,Giulia Narduolo daticamera.jpg,
@@ -1947,7 +1947,7 @@ Italy,member of the Chamber of Deputies of the Italian Republic,Titti Di Salvo,Q
 Italy,member of the Chamber of Deputies of the Italian Republic,Tommaso Ginoble,Q3992773,2013-03-15,2018-03-22,male,1953-04-29,,Tommaso Ginoble daticamera.jpg,
 Italy,member of the Chamber of Deputies of the Italian Republic,Vincenzo Garofalo,Q4013289,2013-03-15,2018-03-22,male,1958-11-30,,Vincenzo Garofalo (cropped).jpg,
 Italy,member of the Chamber of Deputies of the Italian Republic,Vinicio Peluffo,Q4013688,2013-03-15,2018-03-22,male,1971-03-21,,Peluffo 2.JPG,
-Italy,member of the Chamber of Deputies of the Italian Republic,Rosy Bindi,Q466836,2013-03-15,2018-03-22,female,1951-02-12,,Rosy Bindi foto Stefano Bolognini 2011 1.jpg,Rosy Bindi
+Italy,member of the Chamber of Deputies of the Italian Republic,Rosy Bindi,Q466836,2013-03-15,2018-03-22,female,1951-02-12,,Rosy Bindi - Flickr - Rosy Bindi.jpg,Rosy Bindi
 Italy,member of the Chamber of Deputies of the Italian Republic,Andrea Causin,Q4755010,2013-03-15,2018-03-22,male,1972-09-13,,Andrea Causin datisenato 2018.jpg,Andrea Causin
 Italy,member of the Chamber of Deputies of the Italian Republic,Nichi Vendola,Q507595,2013-03-15,2013-04-16,male,1958-08-26,,Nichi Vendola.jpg,Nichi Vendola
 Italy,member of the Chamber of Deputies of the Italian Republic,Claudio Fava,Q517161,2013-03-15,2018-03-22,male,1957-04-15,,Claudio Fava daticamera.jpg,Claudio Fava
