@@ -6,8 +6,8 @@ andorra,16,37,20,47
 angola,26,42,25,65
 anguilla,5,8,7,14
 antigua-and-barbuda,16,27,1,28
-argentina,53,137,710,788
-armenia,19,58,318,359
+argentina,53,137,711,789
+armenia,19,58,320,361
 aruba,13,23,3,23
 australia,73,272,597,713
 austria,24,93,511,565
@@ -34,6 +34,7 @@ caymans,12,20,1,20
 chad,7,24,155,179
 chile,26,163,230,358
 china,37,87,5392,5455
+colombia,24,174,41,206
 congo-kinshasa,5,24,15,38
 croatia,23,94,158,235
 cyprus,24,120,183,272
@@ -45,7 +46,7 @@ el-salvador,21,37,12,47
 eritrea,20,29,1,30
 estonia,25,163,385,444
 ethiopia,30,54,1,54
-european-union,31,119,2815,2897
+european-union,31,120,2815,2897
 faroes,8,22,6,26
 fiji,14,28,3,28
 finland,30,126,429,464
@@ -57,7 +58,7 @@ ghana,16,109,779,824
 gibraltar,11,15,40,46
 greece,27,113,515,567
 greenland,11,19,2,20
-guatemala,20,50,4,53
+guatemala,20,55,5,57
 hong-kong,18,64,109,166
 hungary,23,99,795,852
 iceland,17,77,198,220
@@ -69,7 +70,7 @@ isle-of-man,13,30,3,30
 israel,40,130,502,518
 italy,29,207,1646,1758
 jamaica,31,51,3,52
-japan,76,299,682,856
+japan,76,299,683,857
 jersey,13,18,1,19
 jordan,35,72,7,75
 kazakhstan,31,51,4,51
@@ -101,8 +102,8 @@ morocco,29,59,426,474
 mozambique,27,37,8,43
 namibia,29,46,3,48
 nauru,13,23,4,26
-nepal,29,46,357,398
-netherlands,30,175,941,1005
+nepal,29,47,357,399
+netherlands,32,175,941,1005
 new-zealand,29,106,228,278
 niger,32,56,7,58
 nigeria,37,89,45,130
@@ -113,7 +114,7 @@ norway,25,156,1413,1460
 pakistan,49,119,572,656
 panama,5,13,2,15
 paraguay,24,32,15,43
-peru,24,228,306,505
+peru,24,280,306,556
 philippines,34,109,660,739
 poland,28,134,533,622
 portugal,24,80,440,500
@@ -139,12 +140,12 @@ spain,31,144,1936,1992
 sri-lanka,34,53,258,273
 st-kitts-and-nevis,14,19,11,21
 sweden,28,139,1292,1343
-switzerland,11,54,623,637
+switzerland,11,54,624,638
 tajikistan,26,35,1,36
 tanzania,25,61,399,426
 timor-leste,24,30,1,31
 tonga,16,50,41,60
-transnistria,18,41,1,41
+transnistria,18,42,1,42
 trinidad-and-tobago,35,46,45,69
 tunisia,28,292,259,526
 turkey,25,106,775,847
@@ -152,11 +153,11 @@ turks-and-caicos,12,28,7,30
 uganda,9,29,8,36
 ukraine,33,205,2021,2126
 united-kingdom,48,296,2680,2770
-united-states,86,508,1371,1799
+united-states,86,508,1372,1800
 uruguay,21,40,37,63
 uzbekistan,34,40,1,40
 vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,26,51,34,74
-TOTAL,4129,12838,53561,61836
+TOTAL,4155,13072,53609,62105
