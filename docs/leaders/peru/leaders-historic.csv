@@ -6,7 +6,7 @@ Peru,President,Alan García,Q167211,2006-07-28,2011-07-28,male,1949-05-23,2019-0
 Peru,President,Ollanta Humala,Q57254,2011-07-28,2016-07-28,male,1962-06-27,,Ollanta Humala Tasso.jpg,Ollanta Humala
 Peru,President,Pedro Pablo Kuczynski,Q381027,2016-07-28,2018-03-23,male,1938-10-03,,Pedro Pablo Kuczynski 2016 (cropped).jpg,Pedro Pablo Kuczynski
 Peru,President,Martín Vizcarra Cornejo,Q24030720,2018-03-23,2020-10-09,male,1963-03-22,,Martín Vizcarra Cornejo (cropped) (cropped).png,Martín Vizcarra
-Peru,President,Manuel Merino de Lama,Q5993760,2020-11-10,2020-11-15,male,1961-08-20,,Manuel Merino de Lama (cropped).jpg,Manuel Merino
+Peru,President,Manuel Merino,Q5993760,2020-11-10,2020-11-15,male,1961-08-20,,Manuel Merino de Lama (cropped).jpg,Manuel Merino
 Peru,President,Francisco Sagasti,Q20015136,2020-11-17,2021-07-28,male,1944-10-10,,Francisco Sagasti Hochhausler.jpg,Francisco Sagasti
 Peru,President,Pedro Castillo,Q103838608,2021-07-28,,male,1969-10-19,,Mensaje a la Nación - Pedro Castillo (cropped).png,Pedro Castillo
 Peru,Vice President,Martín Vizcarra Cornejo,Q24030720,2016-07-28,2018-03-23,male,1963-03-22,,Martín Vizcarra Cornejo (cropped) (cropped).png,Martín Vizcarra
@@ -50,6 +50,7 @@ Peru,Minister of Agriculture,Federico Tenorio,Q102104707,2020-11-18,2021-07-28,m
 Peru,Minister of Agriculture,Víctor Raúl Maita Frisancho,Q107709935,2021-07-29,,male,1992-05-14,,Juramentación de nuevo Gabinete Ministerial 5-55 screenshot - Víctor Maita (cropped).png,
 Peru,Minister of Culture,Juan Ossio,Q923067,2010-09-04,2011-07-28,male,1943,,Juan Ossio Acuña.jpg,Juan Ossio Acuña
 Peru,Minister of Culture,Susana Baca,Q152266,2011-07-28,2011-12-10,female,1944-05-24,,Susana baca.jpg,Susana Baca
+Peru,Minister of Culture,Luis Peirano,Q5984158,2011-12-11,2013-07-24,male,1946-10,,,
 Peru,Minister of Culture,Diana Álvarez-Calderón,Q16297357,2013-07-24,2016-07-28,female,1952-11-05,,Diana Álvarez-Calderón Gallo.JPG,
 Peru,Minister of Culture,Jorge Nieto,Q26195791,2016-07-28,2016-12-05,male,1951-10-29,,Jorge Nieto Montesinos .jpg,
 Peru,Minister of Culture,Salvador del Solar,Q9073088,2016-12-05,2017-12-27,male,1970-05-01,,"Salvador del Solar, primer ministro del Perú.jpg",Salvador del Solar
@@ -57,6 +58,10 @@ Peru,Minister of Culture,Alejandro Neyra,Q29414068,2018-01-09,2018-04-02,male,19
 Peru,Minister of Culture,Patricia Balbuena,Q51304847,2018-04-02,2018-11-30,female,,,Patricia Balbuena en 2018.jpg,Patricia Balbuena
 Peru,Minister of Culture,Rogers Valencia,Q51297444,2018-12-18,2019-03-11,male,,,,
 Peru,Minister of Culture,Ulla Holmquist,Q62027455,2019-03-11,2019-07-08,female,1969-01-31,,,
+Peru,Minister of Culture,Luis Jaime Castillo Butters,Q65178616,2019-07-08,2019-10-03,male,1963-05-04,,Luis Jaime Castillo.jpg,
+Peru,Minister of Culture,Francesco Petrozzi,Q1441182,2019-10-03,2019-12-04,male,1962-12-13,,DMV8504 (cropped).jpg,
+Peru,Minister of Culture,Sonia Guillén,Q64068412,2019-12-07,2020-05-29,female,,,Sonia Guillén Reflexión en torno a la producción cultural de la Amazonia.jpg,Sonia Guillén
+Peru,Minister of Culture,Alejandro Neyra,Q29414068,2020-05-30,2020-11-09,male,1974-10-15,,"Neyra, Alejandro -FILSA 20181028 fRF01.jpg",
 Peru,Minister of Culture,María del Carmen de Reparaz,Q101580009,2020-11-12,2020-11-17,female,,,,
 Peru,Minister of Culture,Alejandro Neyra,Q29414068,2020-11-18,2021-07-28,male,1974-10-15,,"Neyra, Alejandro -FILSA 20181028 fRF01.jpg",
 Peru,Minister of Culture,Ciro Gálvez,Q5121942,2021-07-29,2021-10-06,male,1949-01-16,,Galvez. Ceremonia de juramentación del Gabinete Ministerial 15-55 screenshot (cropped).png,Ciro Gálvez
@@ -138,15 +143,22 @@ Peru,Minister of Energy and Mines,Jaime Gálvez,Q102123424,2020-11-19,2021-07-28
 Peru,Minister of Energy and Mines,Iván Godofredo Merino Aguirre,Q107710200,2021-07-29,2021-10-06,male,,,Merino. Ceremonia de juramentación del Gabinete Ministerial 12-6 screenshot (cropped).png,
 Peru,Minister of Energy and Mines,Eduardo González Toro,Q108828174,2021-10-06,,male,,,Juramentación de nuevo Gabinete Ministerial 8-52 screenshot - Eduardo González Toro (cropped).png,
 Peru,Minister of the Environment,Antonio Brack Egg,Q949184,2008-05-16,2011-07-28,male,1940-06-03,2014-09-30,Antonio-Brack-1.jpg,Antonio Brack Egg
+Peru,Minister of the Environment,Ricardo Giesecke,Q6108213,2011-07-28,2011-12-10,male,1947-03-06,,Ricardo Giesecke.jpg,
+Peru,Minister of the Environment,Manuel Pulgar Vidal,Q5994081,2011-12-11,2016-07-28,male,1962,,Manuel Pulgar-Vidal.jpg,
+Peru,Minister of the Environment,Elsa Patricia Galarza Contreras,Q25903906,2016-07-28,2018-04-02,female,1963-08-12,,Elsa Galarza.jpg,Elsa Patricia Galarza Contreras
+Peru,Minister of the Environment,Fabiola Muñoz,Q51340732,2018-04-02,2019-03-11,female,,,Fabiola Muñoz.jpg,
+Peru,Minister of the Environment,Lucía Ruiz Ostoic,Q62059226,2019-03-11,2019-09-30,female,1966-09-17,,Lucía Ruiz Ostoic.jpg,
+Peru,Minister of the Environment,Fabiola Muñoz,Q51340732,2019-10-03,2020-07-15,female,,,Fabiola Muñoz.jpg,
+Peru,Minister of the Environment,Kirla Echegaray,Q100517346,2020-07-15,2020-11-12,female,1968-03-27,,,
 Peru,Minister of the Environment,Lizzet Rojas,Q102037503,2020-11-12,2020-11-15,female,,,,
-Peru,Minister of the Environment,Gabriel Quijandría,Q102104647,2020-11-18,2021-07-28,male,,,,
+Peru,Minister of the Environment,Gabriel Quijandría,Q102104647,2020-11-18,2021-07-28,male,1969-04-16,,,
 Peru,Minister of the Environment,Rubén José Ramírez Mateo,Q107710491,2021-07-29,,male,1965-07-31,,Juramentación de nuevo Gabinete Ministerial 11-3 screenshot - Rubén Ramírez.png,
 Peru,Minister of Foreign Affairs,Fernando de Trazegnies,Q3069566,1998-10-12,2000-11-25,male,1935-09-03,,,Fernando de Trazegnies
 Peru,Minister of Foreign Affairs,Javier Pérez de Cuéllar,Q1259,2000-11-22,2001-07-28,male,1920-01-19,2020-03-04,"Aankomst op Schiphol van secretaris-generaal VN, Perez de Cuellar , Perez de Cue, Bestanddeelnr 932-2443.jpg",Javier Pérez de Cuéllar
 Peru,Minister of Foreign Affairs,Diego García Sayán,Q5274679,2001-07-28,2002-07-12,male,1950-08-02,,Diego García Sayán (cropped).jpg,Diego García Sayán
 Peru,Minister of Foreign Affairs,Allan Wagner,Q533296,2002-07-12,2003-12-15,male,1942-02-07,,Allan Wagner Tizon 070809-N-7088A-322 0X1WL.jpg,Allan Wagner Tizón
 Peru,Minister of Foreign Affairs,Manuel Rodríguez Cuadros,Q6752851,2003,2005,male,1949-03-17,,Manuel Rodríguez Cuadros.jpg,Manuel Rodríguez Cuadros
-Peru,Minister of Foreign Affairs,Fernando Olivera,Q1406788,2005-08-11,2005-08-16,male,1958-09-14,,,Fernando Olivera
+Peru,Minister of Foreign Affairs,Fernando Olivera,Q1406788,2005-08-11,2005-08-16,male,1958-09-14,,,Fernando Olivera (politician)
 Peru,Minister of Foreign Affairs,Óscar Maúrtua,Q6174876,2005-08-16,2006-07-28,male,1947-02-07,,KM39047.jpg,Óscar Maúrtua
 Peru,Minister of Foreign Affairs,José García Belaúnde,Q58098,2006-07-28,2011-07-28,male,1948-03-16,,"CANCILLER DEL PERÚ, JOSÉ A. GARCÍA BELAUNDE, EN CONFERENCIA DE PRENSA INAUGURAL DE LA 40° ASAMBLEA GENERAL DE LA OEA (4673307294).jpg",José Antonio García Belaúnde
 Peru,Minister of Foreign Affairs,Rafael Roncagliolo,Q7282307,2011-07-28,2013-05-15,male,1944-11-14,2021-05-01,Rafael roncagliolo.jpg,Rafael Roncagliolo
@@ -271,7 +283,7 @@ Peru,President of Congress,Luis Alva Castro,Q3266597,2011,2011-07-26,male,1942,,
 Peru,President of Congress,Luz Salgado,Q5985016,2016-07-28,2017-07-26,female,1949-07-03,,Luz Salgado.jpg,Luz Salgado
 Peru,President of Congress,Luis Galarreta,Q6700615,2017-07-26,2018-07-26,male,1971-03-12,,Luis Galarreta 2.jpg,Luis Galarreta
 Peru,President of Congress,Daniel Salaverry,Q26155916,2018-07-26,2021-07-27,male,1972-08-07,,Daniel E. Salaverry Villa.jpg,Daniel Salaverry
-Peru,President of Congress,Manuel Merino de Lama,Q5993760,2020-03-16,2020-11-10,male,1961-08-20,,Manuel Merino de Lama (cropped).jpg,Manuel Merino
+Peru,President of Congress,Manuel Merino,Q5993760,2020-03-16,2020-11-10,male,1961-08-20,,Manuel Merino de Lama (cropped).jpg,Manuel Merino
 Peru,President of Congress,Luis Valdez Farías,Q56876718,2020-11-10,2020-11-15,male,1979-02-04,,,Luis Valdez Farías
 Peru,President of Congress,Francisco Sagasti,Q20015136,2020-11-16,2021-07-26,male,1944-10-10,,Francisco Sagasti Hochhausler.jpg,Francisco Sagasti
 Peru,President of Congress,Mirtha Vásquez,Q84282244,2020-11-17,2021-07-27,female,1975-03-31,,Juramentación de nuevo Gabinete Ministerial 0-50 screenshot - Mirtha Vasquez (cropped).png,Mirtha Vásquez
