@@ -114,3 +114,6 @@ a:hover { text-decoration: underline; }
 .logo-bar a:hover { text-decoration: none; }
 .logo-bar .navigation-bar a:hover { text-decoration: underline; }
 
+span.toggle {
+  cursor: pointer;
+}
