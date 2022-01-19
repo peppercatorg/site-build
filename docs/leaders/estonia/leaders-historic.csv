@@ -2,7 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Estonia,President,Lennart Meri,Q153149,1992-10-06,2001-10-08,male,1929-03-29,2006-03-14,Lennart Meri 1998.jpg,Lennart Meri
 Estonia,President,Arnold Rüütel,Q194000,2001-10-08,2006-10-09,male,1928-05-10,,Est UN.jpg,Arnold Rüütel
 Estonia,President,Toomas Hendrik Ilves,Q57289,2006-10-09,2016-10-10,male,1953-12-26,,Toomas Hendrik Ilves.jpg,Toomas Hendrik Ilves
-Estonia,President,Kersti Kaljulaid,Q12366816,2016-10-10,2021-10-11,female,1969-12-30,,Kersti Kaljulaid - 2018 (cropped).jpg,Kersti Kaljulaid
+Estonia,President,Kersti Kaljulaid,Q12366816,2016-10-10,2021-10-11,female,1969-12-30,,Kersti Kaljulaid - 2018.jpg,Kersti Kaljulaid
 Estonia,President,Alar Karis,Q12358575,2021-10-11,,male,1958-03-26,,Alar Karis cropped.jpg,Alar Karis
 Estonia,Prime Minister,Mart Laar,Q307473,1999-03-25,2002-01-28,male,1960-04-22,,MartLaar2007.jpg,Mart Laar
 Estonia,Prime Minister,Siim Kallas,Q156469,2002-01-28,2003-04-10,male,1948-10-02,,"Siim Kallas, arvamusfestival 2014.jpg",Siim Kallas
@@ -24,19 +24,19 @@ Estonia,Minister of Culture,Raivo Palmaru,Q16408011,2005-04-13,2007-04-04,male,1
 Estonia,Minister of Culture,Laine Randjärv,Q449939,2007-04-05,2011-04-06,female,1964-07-30,,RE Laine Randjärv.jpg,Laine Randjärv
 Estonia,Minister of Culture,Rein Lang,Q998617,2011-04-06,2013-12-04,male,1957-07-04,,Balticfestival 1c563 7266.Rein Lang.jpg,Rein Lang
 Estonia,Minister of Culture,Urve Tiidus,Q11032994,2013-12-04,2015-04-09,female,1954-06-06,,RE Urve Tiidus.jpg,Urve Tiidus
-Estonia,Minister of Culture,Indrek Saar,Q16403371,2015-04-09,2019-04-29,male,1973-02-20,,Indrek Saar 2017-05-25.jpg,Indrek Saar
-Estonia,Minister of Culture,Tõnis Lukas,Q1149033,2019-04-29,2021-01-26,male,1962-06-05,,Tõnis Lukas (cropped).jpg,Tõnis Lukas
+Estonia,Minister of Culture,Indrek Saar,Q16403371,2015-04-09,2019-04-29,male,1973-02-20,,Indrek Saar 2017-05-25 (cropped).jpg,Indrek Saar
+Estonia,Minister of Culture,Tõnis Lukas,Q1149033,2019-04-29,2021-01-26,male,1962-06-05,,IRL Tõnis Lukas.jpg,Tõnis Lukas
 Estonia,Minister of Culture,Anneli Ott,Q22041600,2021-01-26,2021-11-03,female,1976-05-02,,Anneli Ott.jpg,Anneli Ott
 Estonia,Minister of Culture,Tiit Terik,Q12376941,2021-11-08,,male,1979-06-15,,Tiit Terik 2013.jpg,Tiit Terik
 Estonia,Minister of Defence,Jüri Luik,Q1433583,1999-03-25,2002-01-28,male,1966-08-17,,Jüri Luik 2017-06-09 (cropped).jpg,Jüri Luik
-Estonia,Minister of Defence,Sven Mikser,Q2097451,2002-01-28,2003-04-10,male,1973-11-08,,Sven Mikser 2017-05-25.jpg,Sven Mikser
+Estonia,Minister of Defence,Sven Mikser,Q2097451,2002-01-28,2003-04-10,male,1973-11-08,,SDE Sven Mikser.jpg,Sven Mikser
 Estonia,Minister of Defence,Margus Hanson,Q6760839,2003-04-10,2004-11-22,male,1958-01-06,,RE Margus Hanson.jpg,Margus Hanson
 Estonia,Minister of Defence,Jaak Jõerüüt,Q1676748,2004-11-22,2005-10-08,male,1947-12-09,,Jaak Jõerüüt 2012.jpg,Jaak Jõerüüt
 Estonia,Minister of Defence,Jürgen Ligi,Q983831,2005-10-10,2007-04-05,male,1959-07-16,,"Jürgen Ligi, 2011.jpg",Jürgen Ligi
 Estonia,Minister of Defence,Jaak Aaviksoo,Q253515,2007-04-05,2011-04-06,male,1954-01-11,,"Jaak Aaviksoo, 2011.jpg",Jaak Aaviksoo
 Estonia,Minister of Defence,Mart Laar,Q307473,2011-04-06,2012-05-11,male,1960-04-22,,MartLaar2007.jpg,Mart Laar
 Estonia,Minister of Defence,Urmas Reinsalu,Q645970,2012-05-11,2014-03-26,male,1975-06-22,,Urmas Reinsalu 2017-05-25 (cropped).jpg,Urmas Reinsalu
-Estonia,Minister of Defence,Sven Mikser,Q2097451,2014-03-26,2015-09-14,male,1973-11-08,,Sven Mikser 2017-05-25.jpg,Sven Mikser
+Estonia,Minister of Defence,Sven Mikser,Q2097451,2014-03-26,2015-09-14,male,1973-11-08,,SDE Sven Mikser.jpg,Sven Mikser
 Estonia,Minister of Defence,Hannes Hanso,Q17446918,2015-09-14,2016-11-23,male,1971-10-06,,RK Hannes Hanso.jpg,Hannes Hanso
 Estonia,Minister of Defence,Margus Tsahkna,Q11716283,2016-11-23,2017-06-12,male,1977-04-13,,IRL Margus Tsahkna.jpg,Margus Tsahkna
 Estonia,Minister of Defence,Jüri Luik,Q1433583,2017-06-12,2021-01-26,male,1966-08-17,,Jüri Luik 2017-06-09 (cropped).jpg,Jüri Luik
@@ -53,11 +53,11 @@ Estonia,Minister of Economic Affairs and Infrastructure,Urve Palo,Q465437,2014-0
 Estonia,Minister of Economic Affairs and Infrastructure,Kristen Michal,Q1789192,2015-04-09,2016-11-23,male,1975-07-12,,Kristen Michal.jpg,Kristen Michal
 Estonia,Minister of Economic Affairs and Infrastructure,Kadri Simson,Q13570003,2016-11-23,2019-04-29,female,1977-01-22,,Kadri Simson 2017-05-25 (cropped).jpg,Kadri Simson
 Estonia,Minister of Economic Affairs and Infrastructure,Taavi Aas,Q16403144,2019-04-29,2021-01-14,male,1966-01-10,,Taavi Aas 2017 (cropped).jpg,Taavi Aas
-Estonia,Minister of Education and Research,Tõnis Lukas,Q1149033,1999-03-25,2002-01-28,male,1962-06-05,,Tõnis Lukas (cropped).jpg,Tõnis Lukas
+Estonia,Minister of Education and Research,Tõnis Lukas,Q1149033,1999-03-25,2002-01-28,male,1962-06-05,,IRL Tõnis Lukas.jpg,Tõnis Lukas
 Estonia,Minister of Education and Research,Mailis Reps,Q449851,2002-01-28,2003-04-10,female,1975-01-13,,Mailis Reps 2017-05-25.jpg,Mailis Reps
 Estonia,Minister of Education and Research,Toivo Maimets,Q16407429,2003-04-10,2005-04-13,male,1957-12-29,,Toivo Maimets.jpg,Toivo Maimets
 Estonia,Minister of Education and Research,Mailis Reps,Q449851,2005-04-13,2007-04-05,female,1975-01-13,,Mailis Reps 2017-05-25.jpg,Mailis Reps
-Estonia,Minister of Education and Research,Tõnis Lukas,Q1149033,2007-04-05,2011-04-05,male,1962-06-05,,Tõnis Lukas (cropped).jpg,Tõnis Lukas
+Estonia,Minister of Education and Research,Tõnis Lukas,Q1149033,2007-04-05,2011-04-05,male,1962-06-05,,IRL Tõnis Lukas.jpg,Tõnis Lukas
 Estonia,Minister of Education and Research,Jaak Aaviksoo,Q253515,2011-04-06,2014-03-26,male,1954-01-11,,"Jaak Aaviksoo, 2011.jpg",Jaak Aaviksoo
 Estonia,Minister of Education and Research,Jevgeni Ossinovski,Q12365130,2014-03-26,2015-04-09,male,1986-03-15,,SDE Jevgeni Ossinovski.jpg,Jevgeni Ossinovski
 Estonia,Minister of Education and Research,Jürgen Ligi,Q983831,2015-04-09,2016-09-12,male,1959-07-16,,"Jürgen Ligi, 2011.jpg",Jürgen Ligi
@@ -81,7 +81,7 @@ Estonia,Minister of the Environment,Marko Pomerants,Q1399189,2015-04-09,2017-06-
 Estonia,Minister of the Environment,Siim-Valmar Kiisler,Q743341,2017-06-12,2019-04-29,male,1965-11-06,,Siim-Valmar Kiisler.jpg,Siim Valmar Kiisler
 Estonia,Minister of the Environment,Rene Kokk,Q62934345,2019-04-29,2020-11-05,male,1980-03-04,,,Rene Kokk
 Estonia,Minister of the Environment,Rain Epler,Q103205431,2020-11-16,2021-01-26,male,1977,,,Rain Epler
-Estonia,Minister of the Environment,Tõnis Mölder,Q62975984,2021-01-26,2021-11-18,male,1989-10-09,,Tõnis Mölder.jpg,Tõnis Mölder
+Estonia,Minister of the Environment,Tõnis Mölder,Q62975984,2021-01-26,2021-11-18,male,1989-10-09,,Tõnis Mölder (crop).jpg,Tõnis Mölder
 Estonia,Minister of the Environment,Erki Savisaar,Q20528493,2021-11-18,,male,1978-06-16,,RK Erki Savisaar.jpg,Erki Savisaar
 Estonia,Minister of Finance,Siim Kallas,Q156469,1999-03-25,2002-01-28,male,1948-10-02,,"Siim Kallas, arvamusfestival 2014.jpg",Siim Kallas
 Estonia,Minister of Finance,Harri Õunapuu,Q1586128,2002-01-28,2003-04-10,male,1947-02-02,,,Harri Õunapuu
@@ -102,7 +102,7 @@ Estonia,Minister of Foreign Affairs,Urmas Paet,Q58100,2005-04-13,2014-11-03,male
 Estonia,Minister of Foreign Affairs,Keit Pentus-Rosimannus,Q458003,2014-11-17,2015-07-01,female,1976-03-03,,Keit Pentus-Rosimannus (crop).jpg,Keit Pentus-Rosimannus
 Estonia,Minister of Foreign Affairs,Marina Kaljurand,Q439111,2015-07-16,2016-09-12,female,1962-09-06,,Välisminister Marina Kaljurand (25528444880).jpg,Marina Kaljurand
 Estonia,Minister of Foreign Affairs,Jürgen Ligi,Q983831,2016-09-12,2016-11-23,male,1959-07-16,,"Jürgen Ligi, 2011.jpg",Jürgen Ligi
-Estonia,Minister of Foreign Affairs,Sven Mikser,Q2097451,2016-11-23,2019-04-29,male,1973-11-08,,Sven Mikser 2017-05-25.jpg,Sven Mikser
+Estonia,Minister of Foreign Affairs,Sven Mikser,Q2097451,2016-11-23,2019-04-29,male,1973-11-08,,SDE Sven Mikser.jpg,Sven Mikser
 Estonia,Minister of Foreign Affairs,Urmas Reinsalu,Q645970,2019-04-29,2021-01-26,male,1975-06-22,,Urmas Reinsalu 2017-05-25 (cropped).jpg,Urmas Reinsalu
 Estonia,Minister of Foreign Affairs,Eva-Maria Liimets,Q105069608,2021-01-26,,female,1974-05-31,,Eva-Maria Liimets (crop).jpg,Eva-Maria Liimets
 Estonia,Minister of Foreign Trade and Information Technology,Marti Kuusik,Q62933420,2019-04-29,2019-04-30,male,1970-07-04,,,Marti Kuusik
@@ -175,7 +175,7 @@ Estonia,Minister of Social Protection,Signe Riisalo,Q64850482,2021-01-26,,female
 Estonia,Auditor General,Juhan Parts,Q312894,1998-06-09,2002-10-08,male,1966-08-27,,Juhan Parts.jpg,Juhan Parts
 Estonia,Auditor General,Mihkel Oviir,Q1577141,2003-02-25,2013-04-06,male,1942-10-11,,Mihkel Oviir.jpg,Mihkel Oviir
 Estonia,Auditor General,Alar Karis,Q12358575,2013-04-08,2018-04-07,male,1958-03-26,,Alar Karis cropped.jpg,Alar Karis
-Estonia,Auditor General,Janar Holm,Q61110563,2018-03-07,,male,1976-08-17,,,Janar Holm
+Estonia,Auditor General,Janar Holm,Q61110563,2018-03-07,,male,1976-08-17,,Janar Holm 2021. aasta Arvamusfestivalil.jpg,Janar Holm
 Estonia,Chancellor of Justice,Eerik-Juhan Truuväli,Q14571300,1993-01-28,2000-06-17,male,1938-03-07,2019-06-25,,Eerik-Juhan Truuväli
 Estonia,Chancellor of Justice,Allar Jõks,Q12358921,2001-02-20,2008-03-07,male,1965-03-18,,Allar Jõks.png,Allar Jõks
 Estonia,Chancellor of Justice,Indrek Teder,Q12364524,2008-03-10,2015-03-09,male,1957-12-03,,Indrek Teder.jpg,Indrek Teder
