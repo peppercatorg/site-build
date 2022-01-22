@@ -799,7 +799,7 @@ Bulgaria,Mayor of Sofia Capital Municipality,Yordanka Fandakova,Q444718,2011-11-
 Burundi,President,Évariste Ndayishimiye,Q27329764,2020-06-18,male,1968-06-17,,Évariste Ndayishimiye.png,Évariste Ndayishimiye
 Burundi,Vice-President,Prosper Bazombanza,Q96695249,2020-06-23,male,,,Vice President of Burundi Prosper Bazombanza.png,Prosper Bazombanza
 Burundi,Prime Minister,Alain-Guillaume Bunyoni,Q27231038,2020-06-24,male,1972-04-23,,Alain-Guillaume Bunyoni 2020 (cropped).jpg,Alain-Guillaume Bunyoni
-Burundi,Minister of Foreign Affairs,Albert Shingiro,Q107361984,2020-06-30,male,,,,Albert Shingiro
+Burundi,Minister of Foreign Affairs,Albert Shingiro,Q107361984,2020-06-30,male,,,Burundian Minister of Foreign Affairs Albert Shingiro.png,Albert Shingiro
 Burundi,Minister of National Defence,Emmanuel Ntahomvukiy,Q23674942,2015-05-25,male,1969,,,
 Burundi,Minister of Youth,Evelyne Butoyi,Q98560477,2018-04-19,female,1975,,,
 Cameroon,President,Paul Biya,Q57272,1982-11-06,male,1933-02-13,,Paul Biya 2014.png,Paul Biya
@@ -984,7 +984,7 @@ China,Secretary-General of the State Council,Xiao Jie,Q999251,2018-03-19,male,19
 China,Minister of Agriculture,Tang Renjian,Q20063077,2020-12,male,1962-08,,Tang Renjian.jpg,Tang Renjian
 China,Minister of Civil Affairs,Li Jiheng,Q1822571,2019-10-26,male,1957-01,,,Li Jiheng
 China,Minister of Commerce,Wang Wentao,Q8292723,2020-12-26,male,1964-05,,Wang Wentao.jpg,Wang Wentao
-China,Minister of Culture,Hu Heping,Q8292447,2020-08-11,male,1962-10,,,Hu Heping
+China,Minister of Culture,Hu Heping,Q8292447,2020-08-11,male,1962-10,,Hu Heping.jpg,Hu Heping
 China,Minister of Ecology and Environment,Huang Runqiu,Q11177950,2020-04-29,male,1963,,,Huang Runqiu
 China,Minister of Education,Huai Jinpeng,Q9142144,2021-08-20,male,1962,,Han Zheng (2018-09-18) 01.jpg,Huai Jinpeng
 China,Minister of Emergency Management,Huang Ming,Q9462347,2021-04-29,male,1957-10,,,Huang Ming (politician)
@@ -1317,7 +1317,7 @@ Ethiopia,Speaker of the House of Federation,Agegnehu Teshager,Q109995129,2021-10
 Ethiopia,Speaker of the House of People's Representatives,Tagesse Chafo,Q62023811,2018-10-18,male,1970,,Tagesse Chafo (cropped).jpg,Tagesse Chafo
 Ethiopia,National Security Advisor,Gedu Andargachew,Q3100062,2020-11-04,male,1969,,Gedu Andargachew - 2019 (48802681123) (cropped).jpg,Gedu Andargachew
 Ethiopia,Governor of the National Bank,Yinager Dessie,Q109995269,2018-07-25,male,,,,
-Ethiopia,Chief of General Staff,Birhanu Jula Gelalcha,Q18686307,2020-11-04,male,,,,Birhanu Jula
+Ethiopia,Chief of General Staff,Birhanu Jula Gelalcha,Q18686307,2020-11-04,male,,,Birhanu Jula Gelalcha parade 2019 (cropped).jpg,Birhanu Jula
 Ethiopia,Mayor of Addis Ababa,Adanech Abebe,Q101063239,2021-09-28,female,,,,Adanech Abebe
 European Union,President of the European Commission,Ursula von der Leyen,Q60772,2019-12-01,female,1958-10-08,,Ursula von der Leyen.jpg,Ursula von der Leyen
 European Union,Vice-President of the European Commission,Frans Timmermans,Q32681,2014-11-01,male,1961-05-06,,2018-12-09 SPD Europadelegiertenkonferenz Frans Timmermans IMG 2814-b.jpg,Frans Timmermans
@@ -1510,7 +1510,7 @@ Georgia,Minister of Defence,Juansher Burchuladze,Q106094877,2021-02-22,male,1978
 Georgia,Minister of Economy and Sustainable Development,Natela Turnava,Q63247681,2019-04-18,female,1968-10-19,,Natela Turnava - 2019 (cropped).jpg,Natela Turnava
 Georgia,Minister of Education and Science,Mikheil Chkhenkeli,Q65285987,2019-11-13,male,1968-04-01,,,
 Georgia,Minister of the Environment,Levan Davitashvili,Q31354638,2017-12-15,male,1978-12-10,,Levan Davitashvili.jpg,
-Georgia,Minister of Finance,Lasha Khutsishvili,Q106522763,2021-04-01,male,1985-09-02,,,Lasha Khutsishvili
+Georgia,Minister of Finance,Lasha Khutsishvili,Q106522763,2021-04-01,male,1985-09-02,,Lasha Khutsishvili.jpg,Lasha Khutsishvili
 Georgia,Minister of Foreign Affairs,David Zakaliani,Q56152039,2018-06-21,male,1968-02-27,,David Zalkaliani.jpg,David Zalkaliani
 Georgia,Minister of Health,Zurab Azarashvili,Q110420479,2021-12-27,male,,,,
 Georgia,Minister of Internal Affairs,Vakhtang Gomelauri,Q20557144,2019-09-08,male,1974-12-24,,"Mr. Vakhtang Gomelauri, the Head of State Security Service of Georgia.png",Vakhtang Gomelauri
@@ -1551,11 +1551,11 @@ Ghana,President,Nana Akufo-Addo,Q718601,2017-01-07,male,1944-03-29,,Nana Akufo-A
 Ghana,Vice President,Mahamudu Bawumia,Q6733078,2017-01-07,male,1963-10-07,,"Dr. Mahamudu Bawumia, Vice President of the Republic of Ghana.jpg",Mahamudu Bawumia
 Ghana,Minister for Communications,Ursula Owusu,Q21063772,2017,female,1964-10-20,,"H.E. Ursula G. Owusu-Ekuful, Minister of Communications of Ghana.jpg",Ursula Owusu
 Ghana,Minister for Defence,Dominic Nitiwul,Q30323575,2017-02,male,1977-11-04,,Dominic Nitiwul at Obangame Express 2017 (cropped).jpg,Dominic Nitiwul
-Ghana,Minister for Education,Matthew Opoku Prempeh,Q28677017,2017-01-28,male,1968-05-23,,,Matthew Opoku Prempeh
+Ghana,Minister for Education,Matthew Opoku Prempeh,Q28677017,2017-01-28,male,1968-05-23,,Matthew Opoku Prempeh.jpg,Matthew Opoku Prempeh
 Ghana,Minister for Finance and Economic Planning,Ken Ofori-Atta,Q20022251,2017-01-27,male,1959,,Ken Ofori-Atta.jpg,Ken Ofori-Atta
 Ghana,Minister for Food and Agriculture,Owusu Afriyie Akoto,Q31718297,2017-01-28,male,1949-10-19,,Owusu Afriyie Akoto 2019 (cropped).jpg,Owusu Afriyie Akoto
 Ghana,Minister for Foreign Affairs,Shirley Ayorkor Botchway,Q26923626,2017-01-28,female,1963-02-08,,Shirley Ayorkor Botchway.jpg,Shirley Ayorkor Botchway
-Ghana,Minister for Health,Kwaku Agyemang-Manu,Q28741196,2017-01-28,male,1955-09-06,,,Kwaku Agyemang-Manu
+Ghana,Minister for Health,Kwaku Agyemang-Manu,Q28741196,2017-01-28,male,1955-09-06,,KWAKU AGYEMAN-MANU.jpg,Kwaku Agyemang-Manu
 Ghana,Minister for Information,Kojo Oppong Nkrumah,Q20202651,2018-08,male,1982-04-05,,Kojo-oppong-nkrumah.jpg,Kojo Oppong Nkrumah
 Ghana,Minister of the Interior,Ambrose Dery,Q459187,2021-01-21,male,1956-08-23,,,Ambrose Dery
 Ghana,Minister of Justice,Godfred Yeboah Dame,Q105489544,2021-01,male,1979,,,Godfred Yeboah Dame
@@ -1787,11 +1787,11 @@ India,Governor of Madhya Pradesh,Mangubhai C. Patel,Q17517188,2021-07-06,male,19
 India,Chief Minister of Madhya Pradesh,Shivraj Singh Chauhan,Q3180602,2020-03-23,male,1959-03-05,,Shivraj Singh Chauhan.jpg,Shivraj Singh Chouhan
 India,Governor of Maharashtra,Bhagat Singh Koshiyari,Q4900607,2019-09-05,male,1942-06-17,,Bhagatsinghkoshyari.jpg,Bhagat Singh Koshyari
 India,Chief Minister of Maharashtra,Uddhav Thackeray,Q3634346,2019-11-28,male,1960-07-27,,"The Chief Minister of Maharashtra, Shri Uddhav Thackeray calling on the Prime Minister, Shri Narendra Modi, in New Delhi on February 21, 2020 (Uddhav Thackeray) (cropped).jpg",Uddhav Thackeray
-India,Governor of Manipur,La Ganesan,Q6462710,2021-08-27,male,1945-02-17,,,La. Ganesan
+India,Governor of Manipur,La Ganesan,Q6462710,2021-08-27,male,1945-02-17,,ला. गणेशन.png,La. Ganesan
 India,Chief Minister of Manipur,Nongthombam Biren Singh,Q7049407,2017-03-15,male,1961-01-01,,N. Biren Singh.jpg,N. Biren Singh
 India,Governor of Meghalaya,Satya Pal Malik,Q7426876,2020-08-18,male,1946-07-24,,Governor of Bihar Satya Pal Malik.jpg,Satya Pal Malik
 India,Chief Minister of Meghalaya,Conrad Sangma,Q5162596,2018-03-06,male,1977-01-27,,Conrad-Sangma .png,Conrad Sangma
-India,Governor of Mizoram,Kambhampati Hari Babu,Q16897892,2021-07-19,male,1953-06-15,,,Kambhampati Hari Babu
+India,Governor of Mizoram,Kambhampati Hari Babu,Q16897892,2021-07-19,male,1953-06-15,,कमभमपती हरी बाबू.png,Kambhampati Hari Babu
 India,Chief Minister of Mizoram,Pu Zoramthanga,Q1362153,2018-12-15,male,1944-07-13,,Zoramthanga in 2008.jpg,Zoramthanga
 India,Governor of Nagaland,Jagdish Mukhi,Q6122326,2021-09-17,male,1942-12-01,,Lt. Governor of Andaman & Nicobar Islands Prof. Jagdish Mukhi.jpg,Jagdish Mukhi
 India,Chief Minister of Nagaland,Neiphiu Rio,Q3530214,2018-03-08,male,1950-11-11,,NeiphiuRio.jpg,Neiphiu Rio
@@ -2160,7 +2160,7 @@ Japan,Chief Cabinet Secretary,Hirokazu Matsuno,Q5770251,2021-10-04,male,1962-09-
 Japan,Chief Justice,Naoto Ōtani,Q11439136,2018,male,1952-06-23,,,Naoto Ōtani
 Japan,Director of Cabinet Intelligence,Hiroaki Takizawa,Q69634994,2019-09-11,male,1959-07-18,,Takizawa Hiroaki.jpg,
 Japan,Superintendent General,Yoshihiko Oishi,Q92672207,2021-09-16,male,1963-05-04,,,
-Japan,Commissioner for Cultural Affairs,Shunichi Tokura,Q11643484,2021-04-01,male,1948-06-21,,,Shunichi Tokura
+Japan,Commissioner for Cultural Affairs,Shunichi Tokura,Q11643484,2021-04-01,male,1948-06-21,,都倉俊一.jpg,Shunichi Tokura
 Japan,Governor of the Bank of Japan,Haruhiko Kuroda,Q5244721,2013-03-20,male,1944-10-25,,Haruhiko Kuroda at ADB Philippines (crop).jpg,Haruhiko Kuroda
 Japan,President of the House of Councillors,Akiko Santō,Q3546202,2019-08-01,female,1942-05-11,,Delegação oficial da Câmara dos Conselheiros do Japão (49363497538).jpg,Akiko Santō
 Japan,Speaker of the House of Representatives,Hiroyuki Hosoda,Q1133192,2021-11-10,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
@@ -2764,7 +2764,7 @@ Mexico,Secretary of Welfare,Ariadna Montiel Reyes,Q63857028,2022-01-11,female,,,
 Mexico,Attorney General,Alejandro Gertz Manero,Q1500199,2019-01-18,male,1939-10-31,,Alejandro Gertz.jpg,Alejandro Gertz Manero
 Mexico,President of the Chamber of Deputies,Sergio Gutiérrez Luna,Q85268444,2021-09-01,male,1976-07-12,,Potrait of Sergio Gutiérrez Luna.jpg,Sergio Gutiérrez Luna
 Mexico,President of the Senate,Olga Sánchez Cordero,Q5099093,2021-09-01,female,1947-07-16,,Olga Sánchez Cordero sen.jpg,Olga Sánchez Cordero
-Mexico,Governor of the Bank of Mexico,Victoria Rodríguez Ceja,Q109911726,2022-01-01,female,,,,
+Mexico,Governor of the Bank of Mexico,Victoria Rodríguez Ceja,Q109911726,2022-01-01,female,,,Victoria Rodríguez Ceja.jpg,
 Federated States of Micronesia,President,David W. Panuelo,Q63872093,2019-05-11,male,1964-04-13,,David Panuelo at the Enthronement of Naruhito (1).jpg,David W. Panuelo
 Federated States of Micronesia,Vice President,Yosiwo P. George,Q23302699,2015-05-11,male,1941,,Federated States of Micronesia Opening Ceremony 150622-N-MK341-013 (cropped).jpg,Yosiwo George
 Federated States of Micronesia,Secretary of Education,Gardenia Aisek,Q109779446,2021-10-08,female,,,,
@@ -2864,7 +2864,7 @@ Montserrat,Minister of Health,Charles Kirnon,Q109849924,2019-11-25,male,,,,
 Morocco,King,Mohammed VI,Q57553,1999-07-23,male,1963-08-21,,King Mohammed VI (cropped).jpg,Mohammed VI of Morocco
 Morocco,Prime Minister,Aziz Akhannouch,Q1638114,2021-10-07,male,1961,,Aziz Akhannouch (cropped).jpg,Aziz Akhannouch
 Morocco,"Minister of Agriculture, Fisheries, Rural Development and Water and Forests",Mohamed Sadiki,Q108839550,2021-10-07,male,,,,
-Morocco,"Minister of Economic Inclusion, Small Business, Employment and Skills",Younes Sekkouri,Q108839644,2021-10-07,male,1981,,,
+Morocco,"Minister of Economic Inclusion, Small Business, Employment and Skills",Younes Sekkouri,Q108839644,2021-10-07,male,1981,,Younes-sekkouri.jpg,
 Morocco,Minister of Economy and Finance,Nadia Fettah Alaoui,Q79351303,2021-10-07,female,1971-09-17,,Nadia Fettah Alaoui (cropped).jpg,Nadia Fettah Alaoui
 Morocco,Minister of Endowment and Islamic Affairs,Ahmed Toufiq,Q2827677,2002-11-07,male,1943-06-22,,,Ahmed Toufiq
 Morocco,Minister of Energy,Leila Benali,Q108846334,2021-10-07,female,1978,,Leila Benali.jpg,Leila Benali
@@ -2981,7 +2981,7 @@ Nepal,Vice President,Nanda Kishor Pun,Q596635,2015-10-31,male,1966-10-23,,Nanda 
 Nepal,Prime Minister,Sher Bahadur Deuba,Q470903,2021-07-13,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
 Nepal,Minister of Agriculture and Livestock Development,Mahendra Raya Yadav,Q66906524,2021-10-08,male,,,,Mahendra Raya Yadav
 Nepal,Minister of Communications and Information Technology,Gyanendra Bahadur Karki,Q30300972,2021-10-08,male,1957-02-22,,Nepali Minister Gyanendra Bahadur Karki - 2017 (37086219821) (cropped).jpg,Gyanendra Bahadur Karki
-Nepal,"Minister of Culture, Tourism and Civil Aviation",Prem Ale,Q105007716,2021-10-08,male,1971-04-28,,,Prem Ale
+Nepal,"Minister of Culture, Tourism and Civil Aviation",Prem Ale,Q105007716,2021-10-08,male,1971-04-28,,Prem Ale.jpg,Prem Ale
 Nepal,Minister of Defence,Sher Bahadur Deuba,Q470903,2021-12-21,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
 Nepal,"Minister of Education, Science and Technology",Devendra Paudel,Q59726513,2021-10-08,male,,,,Devendra Paudel
 Nepal,"Minister of Energy, Water Resources and Irrigation",Pampha Bhusal,Q3361809,2021-07-13,female,,,,Pampha Bhusal
@@ -3318,12 +3318,12 @@ Panama,Minister of the Environment,Milciades Concepción,Q96066480,2019-07-01,ma
 Panama,Minister of Foreign Affairs,Erika Mouynes,Q105724712,2020-12-02,female,1977-11-24,,"Erika Mouynes, Minister of Foreign Affairs of Panama (cropped).jpg",Erika Mouynes
 Panama,Minister of Government,Janaina Tewaney,Q96182040,2020-02-06,female,1984-07-14,,,Janaina Tewaney
 Panama,Minister of Health,Luis Francisco Sucre,Q95807201,2020-06-01,male,1967-10-25,,"Luis Francisco Sucre, Minister of Health of Panama (cropped).jpg",
-Panama,Minister of Housing and Land Management,Rogelio Paredes,Q110628751,2020-06-24,,,,,
+Panama,Minister of Housing and Land Management,Rogelio Paredes,Q110628751,2020-06-24,male,1957-08-17,,,
 Panama,Minister of Labour,Doris Zapata,Q110628727,2019-07-01,female,1972-08-02,,,
 Panama,Minister of the Presidency,José Gabriel Carrizo,Q63633749,2019-07-01,male,1983,,,Jose Gabriel Carrizo
-Panama,Minister of Public Security,Juan Pino,Q110628794,2020-02-05,,,,,
+Panama,Minister of Public Security,Juan Pino,Q110628794,2020-02-05,male,,,,
 Panama,Minister of Public Works,Rafael Sabonge,Q100351071,2019-07-01,male,1978-10-09,,Ministro en consejo gabinete.jpg,
-Panama,Minister of Social Development,María Inés Castillo,Q110628773,2020-06-24,,,,,
+Panama,Minister of Social Development,María Inés Castillo,Q110628773,2020-06-24,female,,,,
 Panama,Speaker of the National Assembly,Crispiano Adames,Q110628932,2021-07-01,male,1961,,,
 Paraguay,President,Mario Abdo Benítez,Q48136013,2018-08-15,male,1971-11-10,,"24 11 2021 Encontro com o Presidente da República do Paraguai, Mario Abdo Benítez (51703646860) (cropped).jpg",Mario Abdo Benítez
 Paraguay,Vice President,Hugo Velázquez Moreno,Q52138237,2018-08-15,male,1967-07-03,,Hugo Velázquez.jpg,Hugo Velázquez Moreno
@@ -3630,7 +3630,7 @@ Samoa,Minister of Tourism,Toeolesulusulu Cedric Schuster,Q102969894,2021-10-20,m
 Samoa,"Minister of Women, Community, and Social Development",Leota Laki Lamositele,Q107010422,2021-05-24,male,,,,Leota Laki Lamositele
 Samoa,"Minister of Works, Transport and Infrastructure",Afoa Vaai,Q97186497,2021-05-24,male,,,,Olo Fiti Vaai
 Samoa,Speaker of the Legislative Assembly,Papali’i Li’o Taeu Masipau,Q103648797,2021-05-24,male,1953,,,Papali’i Li’o Taeu Masipau
-Samoa,Attorney General,Su'a Hellene Wallwork,Q109706996,2021-09-08,female,,,,
+Samoa,Attorney General,Su'a Hellene Wallwork,Q109706996,2021-09-08,female,,,,Su'a Hellene Wallwork
 Samoa,Governor of the Central Bank,Atalina Enari,Q11959476,2011-08,female,,,,
 San Marino,Captain Regent,Giacomo Simoncini,Q108584119,2021-10-01,male,1994-11-30,,Capitano Reggente S. E. Giacomo Simoncini.jpg,Giacomo Simoncini
 San Marino,Captain Regent,Francesco Mussoni,Q887796,2021-10-01,male,1971-05-15,,,Francesco Mussoni
@@ -3910,7 +3910,7 @@ South Africa,Minister of Home Affairs,Aaron Motsoaledi,Q302359,2019-05-30,male,1
 South Africa,Minister of Human Settlements,Mmamoloko Kubayi,Q16746680,2021-08-05,female,1978-05-08,,Minister of Energy Mmamoloko Kubayi.jpg,Mmamoloko Kubayi-Ngubane
 South Africa,Minister of International Relations and Cooperation,Naledi Pandor,Q11043304,2019-05-30,female,1953-12-07,,Naledi Pandor 2012.jpg,Naledi Pandor
 South Africa,Minister of Justice and Constitutional Development,Ronald Lamola,Q1718291,2019-05-30,male,1983-11-21,,Ronald Lamola (cropped).jpg,Ronald Lamola
-South Africa,Minister of Mineral Resources,Gwede Mantashe,Q975366,2018-02-27,male,1955-06-21,,,Gwede Mantashe
+South Africa,Minister of Mineral Resources,Gwede Mantashe,Q975366,2018-02-27,male,1955-06-21,,Gwede Mantashe in 2019.png,Gwede Mantashe
 South Africa,Minister of Police,Bheki Cele,Q4901661,2018-02-26,male,1952-04-22,,Bheki Cele at press conference on crime at World Cup 2010-06-29 1.jpg,Bheki Cele
 South Africa,Minister in the Presidency,Mondli Gungubele,Q16746664,2021-08-06,male,1957-02-01,,Mondli Gungubele.jpg,Mondli Gungubele
 South Africa,Minister of Public Enterprises,Pravin Gordhan,Q561279,2018-02-28,male,1949-04-12,,Pravin Gordhan - World Economic Forum Annual Meeting 2012.jpg,Pravin Gordhan
@@ -3974,7 +3974,7 @@ South Korea,Director of the National Security Office,Suh Hoon,Q31180700,2020-07-
 South Korea,Director of the National Intelligence Service,Park Jie-won,Q624217,2020-07-29,male,1942-06-05,,Park Ji-won in 2017.png,Park Jie-won
 South Korea,Chair of the Fair Trade Commission,Joh Sung-wook,Q66316843,2019-09-09,female,1964,,,Joh Sung-wook
 South Korea,Mayor of Seoul,Oh Se-hoon,Q494239,2021-04-08,male,1961-01-04,,Oh Se-hoon mayoral portrait.jpg,Oh Se-hoon
-Spain,monarch,Felipe VI of Spain,Q191045,2014-06-17,male,1968-01-30,,1 rey gala (cropped).jpg,Felipe VI
+Spain,monarch,Felipe VI of Spain,Q191045,2014-06-17,male,1968-01-30,,,Felipe VI
 Spain,Prime Minister,Pedro Sánchez,Q6070218,2018-06-02,male,1972-02-29,,Pedro Sánchez 2021 (portrait).jpg,Pedro Sánchez
 Spain,Deputy Prime Minister,Nadia Calviño Santamaría,Q20535388,2020-01-13,female,1968-10-03,,Nadia Calviño 2020 (cropped).jpg,Nadia Calviño
 Spain,Second Deputy Prime Minister,Yolanda Díaz Pérez,Q3393973,2020-07-12,female,1971-05-06,,Yolanda Díaz en reunión.jpg,Yolanda Díaz
@@ -4357,9 +4357,9 @@ Tuvalu,Speaker of Parliament,Samuelu Teo,Q21062794,2019-09-20,male,1957,,,Samuel
 Uganda,President,Yoweri Museveni,Q57274,1986-01-29,male,1944-09-15,,Yoweri Museveni September 2015.jpg,Yoweri Museveni
 Uganda,Vice President,Edward Ssekandi,Q5345394,2011-05-24,male,1943-01-19,,Edward Ssekandi.jpg,Edward Ssekandi
 Uganda,Prime Minister,Ruhakana Rugunda,Q1740843,2014-09-18,male,1947-11-07,,Ruhakana Rugunda.jpg,Ruhakana Rugunda
-Uganda,Minister of Finance,Matia Kasaija,Q6787393,2015-03-01,male,1944-05-28,,,Matia Kasaija
+Uganda,Minister of Finance,Matia Kasaija,Q6787393,2015-03-01,male,1944-05-28,,Matia Kasaija profile.jpg,Matia Kasaija
 Uganda,Minister of Foreign Affairs,Sam Kutesa,Q58240,2015-11-19,male,1949-02-01,,Sam Kutesa - 2018 (32521275868) (cropped).jpg,Sam Kutesa
-Uganda,Minister of Justice,Kahinda Otafiire,Q6346972,2011,male,1950-12-29,,,Kahinda Otafiire
+Uganda,Minister of Justice,Kahinda Otafiire,Q6346972,2011,male,1950-12-29,,Kahinda Otafiire (cropped).jpg,Kahinda Otafiire
 Uganda,Minister of Karamoja,John Byabagambi,Q6224194,2016-06-06,male,1958-05-08,,,John Byabagambi
 Uganda,Minister of Trade and Industry,Amelia Kyambadde,Q4742276,2011-05-27,female,1955-06-01,,Ministerial Roundtable LDCs and Business Executive (45487557362).jpg,Amelia Kyambadde
 Uganda,Attorney General,William Byaruhanga,Q24572632,2016-06-06,male,,,,William Byaruhanga
