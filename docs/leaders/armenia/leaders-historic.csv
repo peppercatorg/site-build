@@ -1,7 +1,8 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Armenia,President,Robert Kocharyan,Q613051,1998-04-09,2008-04-09,male,1954-08-31,,"Robert Kocharyan, second President of Armenia, 2006 (02).JPG",Robert Kocharyan
 Armenia,President,Serzh Sargsyan,Q612803,2008-04-09,2018-04-09,male,1954-06-30,,S Sarkisyan.jpg,Serzh Sargsyan
-Armenia,President,Armen Sarkissian,Q93153,2018-04-09,,male,1953-06-23,,President of the Republic of Armenia Armen Sarkissian (cropped).jpg,Armen Sarkissian
+Armenia,President,Armen Sarkissian,Q93153,2018-04-09,2022-01-23,male,1953-06-23,,President of the Republic of Armenia Armen Sarkissian (cropped).jpg,Armen Sarkissian
+Armenia,President,Alen Simonyan,Q20513503,2022-01-23,,male,1980,,Alen Simonyan.jpg,Alen Simonyan
 Armenia,Prime Minister,Aram Sargsyan,Q501736,1999-11-03,2000-05-02,male,1961-01-02,,Aram Sargsyan 2010.jpg,Aram Sargsyan
 Armenia,Prime Minister,Andranik Margaryan,Q215782,2000-05-12,2007-03-25,male,1951-06-12,2007-03-25,AndranikMargaryan (cropped2).jpg,Andranik Margaryan
 Armenia,Prime Minister,Serzh Sargsyan,Q612803,2007-04-04,2008-04-09,male,1954-06-30,,S Sarkisyan.jpg,Serzh Sargsyan
@@ -78,7 +79,7 @@ Armenia,Chief of Police,Hayk Harutyunyan,Q13053595,2001-12,2008-05-24,male,1955-
 Armenia,Chief of Police,Vahe Ghazaryan,Q96213914,2020-01-08,,male,1974-06-15,,,
 Armenia,President of the National Assembly,Ara Babloyan,Q4074471,2017,2018,male,1947-05-05,,,Ara Babloyan
 Armenia,President of the National Assembly,Ararat Mirzoyan,Q31196321,2019-01-14,2021-08-02,male,1979-11-23,,Арарат Мирзоян (cropped).jpg,Ararat Mirzoyan
-Armenia,President of the National Assembly,Alen Simonyan,Q20513503,2021-08-02,,male,1980-01-05,,Alen Simonyan.jpg,Alen Simonyan
+Armenia,President of the National Assembly,Alen Simonyan,Q20513503,2021-08-02,,male,1980,,Alen Simonyan.jpg,Alen Simonyan
 Armenia,Governor of the Central Bank,Martin Galstyan,Q109452938,2020-06-13,,male,,,,
 Armenia,Mayor of Yerevan,Albert Bazeyan,Q2830950,1999-08-09,2001-01-10,male,1956-05-28,,Albert-Bazeyan.jpg,Albert Bazeyan
 Armenia,Mayor of Yerevan,Robert Nazaryan,Q3435991,2001-01-11,2003-06-30,male,1956-06-26,,,Robert Nazaryan
