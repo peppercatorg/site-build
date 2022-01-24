@@ -7,7 +7,7 @@ angola,26,42,25,65
 anguilla,5,8,7,14
 antigua-and-barbuda,16,27,0,27
 argentina,53,137,711,789
-armenia,19,70,320,371
+armenia,18,70,321,371
 aruba,13,23,3,23
 australia,73,273,597,714
 austria,24,93,512,566
@@ -106,7 +106,7 @@ mozambique,27,37,8,43
 namibia,29,46,3,48
 nauru,13,23,4,26
 nepal,29,47,357,399
-netherlands,32,176,945,1010
+netherlands,37,181,945,1012
 new-zealand,30,107,228,279
 niger,32,56,7,58
 nigeria,37,89,45,130
@@ -165,4 +165,4 @@ vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,26,54,34,77
-TOTAL,4265,13822,53690,62895
+TOTAL,4269,13827,53691,62897
