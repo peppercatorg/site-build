@@ -15,7 +15,7 @@ azerbaijan,41,60,146,202
 bahamas,28,61,5,61
 bangladesh,34,83,396,445
 barbados,31,37,2,37
-belarus,48,130,234,362
+belarus,48,130,235,363
 belgium,27,76,407,450
 belize,24,37,41,66
 benin,3,18,1,19
@@ -51,7 +51,7 @@ european-union,31,120,2817,2899
 faroes,8,22,6,26
 fiji,14,28,3,28
 finland,30,126,430,465
-france,50,167,2001,2084
+france,50,166,2001,2083
 gabon,6,32,3,33
 gambia,25,62,2,63
 georgia,19,150,28,168
@@ -66,7 +66,7 @@ hungary,23,99,799,856
 iceland,17,77,198,220
 india,106,379,1613,1864
 indonesia,45,89,874,954
-iran,39,88,35,115
+iran,39,88,36,116
 iraq,29,127,13,139
 ireland,28,124,596,619
 isle-of-man,13,30,3,30
@@ -91,7 +91,7 @@ luxembourg,23,59,139,173
 malawi,30,65,196,235
 malaysia,38,71,259,286
 maldives,23,41,6,41
-malta,25,46,73,91
+malta,25,46,74,92
 marshall-islands,12,19,0,19
 mauritius,25,40,1,40
 mexico,24,91,178,260
@@ -120,15 +120,15 @@ paraguay,24,32,15,43
 peru,24,287,307,564
 philippines,34,109,660,739
 poland,28,144,533,632
-portugal,24,80,441,501
+portugal,24,81,442,502
 qatar,23,30,0,30
-romania,29,285,1135,1264
-russia,40,162,91,240
+romania,29,285,1139,1268
+russia,40,169,91,247
 rwanda,29,53,0,53
 saint-lucia,17,34,38,48
 samoa,17,23,83,88
 san-marino,13,88,9,94
-saudi-arabia,9,39,14,52
+saudi-arabia,9,40,14,53
 scotland,18,85,347,364
 senegal,37,53,4,57
 serbia,30,94,44,134
@@ -139,7 +139,7 @@ slovenia,23,101,170,243
 solomon-islands,27,41,67,83
 somalia,32,76,2,76
 south-africa,43,122,712,768
-south-korea,35,120,973,1054
+south-korea,35,120,974,1055
 spain,31,144,1935,1991
 sri-lanka,34,53,258,273
 st-kitts-and-nevis,14,19,11,21
@@ -149,7 +149,7 @@ tajikistan,26,35,0,35
 tanzania,27,66,399,426
 timor-leste,24,30,1,31
 tonga,16,50,41,60
-transnistria,18,43,1,43
+transnistria,18,44,1,44
 trinidad-and-tobago,35,46,45,69
 tunisia,28,292,259,526
 turkey,25,106,775,847
@@ -157,7 +157,7 @@ turks-and-caicos,12,28,7,30
 tuvalu,12,49,26,51
 uganda,9,29,8,36
 ukraine,33,205,2021,2126
-united-kingdom,49,327,2680,2788
+united-kingdom,49,337,2680,2788
 united-states,87,590,1373,1882
 uruguay,21,40,37,63
 uzbekistan,34,40,0,40
@@ -165,4 +165,4 @@ vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,26,54,34,77
-TOTAL,4269,13932,55294,64545
+TOTAL,4269,13951,55303,64562
