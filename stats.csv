@@ -16,7 +16,7 @@ bahamas,28,61,5,61
 bangladesh,34,83,396,445
 barbados,31,37,2,37
 belarus,48,130,235,363
-belgium,27,76,504,545
+belgium,27,76,505,545
 belize,24,37,41,66
 benin,3,18,1,19
 bermuda,16,25,0,25
@@ -42,7 +42,7 @@ czechia,26,214,1171,1261
 denmark,29,129,600,628
 djibouti,29,33,1,34
 ecuador,6,38,33,66
-egypt,35,90,9,99
+egypt,35,91,9,100
 el-salvador,21,37,12,47
 eritrea,20,29,0,29
 estonia,25,163,385,444
@@ -77,12 +77,12 @@ jamaica,31,54,3,55
 japan,76,299,683,857
 jersey,13,18,0,18
 jordan,35,72,7,75
-kazakhstan,31,93,4,93
+kazakhstan,30,99,4,99
 kenya,29,47,401,441
 kiribati,16,24,40,54
 kosovo,23,40,4,42
 kuwait,21,47,2,48
-kyrgyzstan,26,60,9,69
+kyrgyzstan,26,60,10,70
 latvia,20,94,418,444
 lesotho,32,39,0,39
 liberia,24,57,4,59
@@ -124,7 +124,7 @@ poland,28,144,533,632
 portugal,24,81,449,509
 qatar,23,30,0,30
 romania,30,285,1139,1268
-russia,40,170,92,249
+russia,40,183,94,262
 rwanda,29,53,0,53
 saint-lucia,17,34,42,49
 samoa,17,23,83,88
@@ -166,4 +166,4 @@ vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,26,54,34,77
-TOTAL,4298,15982,62632,73734
+TOTAL,4297,16001,62635,73752
