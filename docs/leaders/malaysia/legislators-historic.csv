@@ -1,7 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Malaysia,Member of the Dewan Rakyat,Hassan Mansor,Q12687590,1959,,male,,,,
 Malaysia,Member of the Dewan Rakyat,Hassan Mansor,Q12687591,1959,,male,,,,
-Malaysia,Member of the Dewan Rakyat,Abdul Hadi Awang,Q2495157,1990,2004,male,1947-10-20,,Hadi Awang (cropped).jpg,Abdul Hadi Awang
+Malaysia,Member of the Dewan Rakyat,Abdul Hadi Awang,Q2495157,1990,2004,male,1947-10-20,,AbdulHadiAwang.png,Abdul Hadi Awang
 Malaysia,Member of the Dewan Rakyat,Tan Yee Kew,Q54972218,1995-06-07,2008-02-13,female,1953,,,Tan Yee Kew
 Malaysia,Member of the Dewan Rakyat,Alwi Jusoh,Q107340535,1999,2004,male,,2012-05-09,,
 Malaysia,Member of the Dewan Rakyat,Shahnon Ahmad,Q4521287,1999,2004,male,1933-01-13,2017-12-26,Shahnon Ahmad.jpg,Shahnon Ahmad
@@ -14,9 +14,9 @@ Malaysia,Member of the Dewan Rakyat,Abdul Aziz Shamsuddin,Q4665287,2004-03-21,20
 Malaysia,Member of the Dewan Rakyat,Ismail Sabri Yaakob,Q6084858,2004-03-21,,male,1960-01-18,,DSISY in November 2021.png,Ismail Sabri Yaakob
 Malaysia,Member of the Dewan Rakyat,Mohd Radzi Sheikh Ahmad,Q6894027,2004-03-21,2008-03-08,male,1942-02-24,,,Mohd Radzi Sheikh Ahmad
 Malaysia,Member of the Dewan Rakyat,K. S. Nijhar,Q6323953,2004-05-17,2008-02-13,male,1936,2021-06-15,,K. S. Nijhar
-Malaysia,Member of the Dewan Rakyat,Abdul Hadi Awang,Q2495157,2008,,male,1947-10-20,,Hadi Awang (cropped).jpg,Abdul Hadi Awang
-Malaysia,Member of the Dewan Rakyat,Abdul Hadi Awang,Q2495157,2008,2013-04-03,male,1947-10-20,,Hadi Awang (cropped).jpg,Abdul Hadi Awang
-Malaysia,Member of the Dewan Rakyat,Abdul Hadi Awang,Q2495157,2008,2018-04-07,male,1947-10-20,,Hadi Awang (cropped).jpg,Abdul Hadi Awang
+Malaysia,Member of the Dewan Rakyat,Abdul Hadi Awang,Q2495157,2008,,male,1947-10-20,,AbdulHadiAwang.png,Abdul Hadi Awang
+Malaysia,Member of the Dewan Rakyat,Abdul Hadi Awang,Q2495157,2008,2013-04-03,male,1947-10-20,,AbdulHadiAwang.png,Abdul Hadi Awang
+Malaysia,Member of the Dewan Rakyat,Abdul Hadi Awang,Q2495157,2008,2018-04-07,male,1947-10-20,,AbdulHadiAwang.png,Abdul Hadi Awang
 Malaysia,Member of the Dewan Rakyat,Ibrahim Ali,Q5984464,2008-03-08,2013-05-05,male,1957-01-25,,Ibrahim Ali 2014.png,Ibrahim Ali (politician)
 Malaysia,Member of the Dewan Rakyat,Mohd Radzi Sheikh Ahmad,Q6894027,2008-03-08,2013-05-05,male,1942-02-24,,,Mohd Radzi Sheikh Ahmad
 Malaysia,Member of the Dewan Rakyat,Ahmad Baihaki Atiqullah,Q25485932,2013,2018,male,,,,
@@ -72,7 +72,7 @@ Malaysia,Member of the Dewan Rakyat,Reezal Merican Naina Merican,Q19646358,2018-
 Malaysia,Member of the Dewan Rakyat,Wong Chen,Q19841039,2018-05-10,,male,1968-12-18,,Wongchenphoto.jpg,Wong Chen
 Malaysia,Member of the Dewan Rakyat,Hasan Arifin,Q20448187,2018-05-10,,male,1953-04-28,,,Hasan Arifin
 Malaysia,Member of the Dewan Rakyat,Mohamed Hanipa Maidin,Q20451479,2018-05-10,,male,1969,,,Mohamed Hanipa Maidin
-Malaysia,Member of the Dewan Rakyat,Rosol Wahid,Q20451558,2018-05-10,,male,1964-07-10,,Rosol Wahid.jpg,Rosol Wahid
+Malaysia,Member of the Dewan Rakyat,Rosol Wahid,Q20451558,2018-05-10,,male,1964-07-10,,,Rosol Wahid
 Malaysia,Member of the Dewan Rakyat,Mohd Anuar Mohd Tahir,Q20451653,2018-05-10,,male,1952,,Mohd Anuar Mohd Tahir.jpg,Mohd Anuar Mohd Tahir
 Malaysia,Member of the Dewan Rakyat,Mohd Rashid Hasnon,Q20451988,2018-05-10,,male,1960-01-02,,Rashid Hasnon 1 (cropped).jpg,Mohd Rashid Hasnon
 Malaysia,Member of the Dewan Rakyat,Khoo Poay Tiong,Q20465849,2018-05-10,,male,1970-12-13,,SDVF2668.jpg,Khoo Poay Tiong
@@ -186,7 +186,7 @@ Malaysia,Member of the Dewan Rakyat,Shaharizukirnain Abd. Kadir,Q55847790,2018-0
 Malaysia,Member of the Dewan Rakyat,Halimah Mohd Sadique,Q5642346,2018-05-10,,female,1962-02-02,,Halimah Mohd Sadique.png,Halimah Mohamed Sadique
 Malaysia,Member of the Dewan Rakyat,Hamzah Zainuddin,Q5646531,2018-05-10,,male,1957-03-12,,Dato' Seri Hamzah Zainudin.png,Hamzah Zainudin
 Malaysia,Member of the Dewan Rakyat,Hannah Yeoh,Q5649002,2018-05-10,,female,1979-01-09,,Hannah Yeoh at MBPJ Stadium in 2013.jpg,Hannah Yeoh
-Malaysia,Member of the Dewan Rakyat,Hasbi Habibollah,Q5678682,2018-05-10,,male,1963-01-02,,Hasbi Habibollah.jpg,Hasbi Habibollah
+Malaysia,Member of the Dewan Rakyat,Hasbi Habibollah,Q5678682,2018-05-10,,male,1963-01-02,,,Hasbi Habibollah
 Malaysia,Member of the Dewan Rakyat,Henry Sum Agong,Q5728886,2018-05-10,,male,1946-02-18,,,Henry Sum Agong
 Malaysia,Member of the Dewan Rakyat,Najib Razak,Q57675,2018-05-10,,male,1953-07-23,,Najib Razak 2008-08-21.jpg,Najib Razak
 Malaysia,Member of the Dewan Rakyat,Hishammuddin Hussein,Q5772615,2018-05-10,,male,1961-08-05,,Hishamuddin2014.jpg,Hishammuddin Hussein
