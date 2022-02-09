@@ -50,7 +50,7 @@ ethiopia,30,54,1,54
 european-union,31,120,2819,2901
 faroes,8,22,6,26
 fiji,14,28,3,28
-finland,30,126,430,465
+finland,30,127,430,465
 france,50,592,2018,2523
 gabon,6,32,3,33
 gambia,25,62,2,63
@@ -87,7 +87,7 @@ latvia,20,94,418,444
 lesotho,32,39,0,39
 liberia,24,57,4,59
 liechtenstein,9,16,32,42
-lithuania,20,68,303,332
+lithuania,20,147,303,389
 luxembourg,23,59,139,173
 malawi,35,77,196,243
 malaysia,38,71,259,286
@@ -166,4 +166,4 @@ vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,26,54,34,77
-TOTAL,4302,16288,62912,74289
+TOTAL,4302,16368,62912,74345
