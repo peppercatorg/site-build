@@ -1,9 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Ukraine,People's Deputy of Ukraine,Mykola Kovach,Q12111051,1998,2002,male,1967-04-08,,,
 Ukraine,People's Deputy of Ukraine,Irina Belousova,Q11109895,1998-05-12,2002-05-14,female,1954-07-10,,,Irina Belousova
 Ukraine,People's Deputy of Ukraine,Andrii Derkach,Q11285342,1998-05-12,2002-05-14,male,1967-08-19,,Андрей Деркач.jpg,Andrii Derkach
 Ukraine,People's Deputy of Ukraine,Boris Kozhin,Q11338776,1998-05-12,2002-05-14,male,1944-09-25,,,Boris Kozhin
-Ukraine,People's Deputy of Ukraine,Anatolii Tolstoukhov,Q11685722,1998-05-12,2002-05-14,male,1956-01-02,,Anatoly Tolstouhov.jpg,
 Ukraine,People's Deputy of Ukraine,Ivan Tkalenko,Q11714495,1998-05-12,2002-05-14,male,1955-04-17,,,
 Ukraine,People's Deputy of Ukraine,Ivan Zaiets,Q11714508,1998-05-12,2000-03-02,male,1952-07-05,,Заєць Іван.jpg,
 Ukraine,People's Deputy of Ukraine,Jurij Kluczkowski,Q11729549,1998-05-12,2002-05-14,male,1949-07-18,,Yuriy Klyuchkovskyi.jpg,
@@ -197,11 +195,13 @@ Ukraine,People's Deputy of Ukraine,Serhii Potimkov,Q12142909,1998-05-12,2002-05-
 Ukraine,People's Deputy of Ukraine,Serhii Pravdenko,Q12143211,1998-05-12,2002-05-14,male,1949-04-29,2017-06-27,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Pukhkal,Q12145679,1998-05-12,2002-05-14,male,1948-10-15,,,
 Ukraine,People's Deputy of Ukraine,Stanislav Pkhydenko,Q12145747,1998-05-12,2002-05-14,male,1941-09-18,,,
+Ukraine,People's Deputy of Ukraine,Viktor Razvadovsky,Q12146812,1998-05-12,2002-05-14,male,1959-06-03,,РАЗВАДОВСЬКИЙ ВІКТОР ЙОСИПОВИЧ VADIM CHUPRINA ©.jpg,Viktor Razvadovsky
 Ukraine,People's Deputy of Ukraine,Mykhailo Ratushnyi,Q12147021,1998-05-12,2002-05-14,male,1962-08-18,,,
 Ukraine,People's Deputy of Ukraine,Anatolii Rakhanskyi,Q12147039,1998-05-12,2002-05-14,male,1939-06-30,2018-09-10,,
 Ukraine,People's Deputy of Ukraine,Oleksii Remeniuk,Q12147552,1998-05-12,2002-05-14,male,1956-01-12,,,
 Ukraine,People's Deputy of Ukraine,Serhii Rys,Q12148028,1998-05-12,2002-05-14,male,1958-07-13,,,
 Ukraine,People's Deputy of Ukraine,Petro Romanchuk,Q12148702,1998-05-12,2002-05-14,male,,,,
+Ukraine,People's Deputy of Ukraine,Zoryslava Romovska,Q12148779,1998-05-12,2002-05-14,female,1940-09-18,,,
 Ukraine,People's Deputy of Ukraine,Viktor Roienko,Q12149014,1998-05-12,2002-05-14,male,1949-04-08,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Riabchenko,Q12149569,1998-05-12,2002-05-14,male,1953-08-25,,,
 Ukraine,People's Deputy of Ukraine,Mykhailo Savenko,Q12149965,1998-05-12,2002-05-14,male,1949-11-07,,,
@@ -212,6 +212,7 @@ Ukraine,People's Deputy of Ukraine,Yurii Sakhno,Q12150821,1998-05-12,2002-05-14,
 Ukraine,People's Deputy of Ukraine,Oleksandr Svyryda,Q12150957,1998-05-12,2002-05-14,male,1967-07-08,,,
 Ukraine,People's Deputy of Ukraine,Valentyna Semenyuk-Samsonenko,Q12151978,1998-05-12,2002-05-14,female,1957-06-04,2014-08-27,,Valentyna Semenyuk-Samsonenko
 Ukraine,People's Deputy of Ukraine,Mykhailo Sydorchuk,Q12152597,1998-05-12,2002-05-14,male,1951-08-04,,,
+Ukraine,People's Deputy of Ukraine,Yurii Syzenko,Q12152611,1998-05-12,2002-05-14,male,1956-01-19,,,
 Ukraine,People's Deputy of Ukraine,Svitlana Synenko,Q12152816,1998-05-12,2002-05-14,female,1964-01-09,,,
 Ukraine,People's Deputy of Ukraine,Yevhen Smirnov,Q12153935,1998-05-12,2002-05-14,male,1947-01-09,2003-05-06,,
 Ukraine,People's Deputy of Ukraine,Andrii Snihach,Q12154068,1998-05-12,2002-05-14,male,1948-06-20,2009-11-08,,
@@ -243,6 +244,7 @@ Ukraine,People's Deputy of Ukraine,Liubov Fedorenko,Q12165417,1998-05-12,2002-05
 Ukraine,People's Deputy of Ukraine,Yaroslav Fedoryn,Q12165423,1998-05-12,2002-05-14,male,1955-06-01,,,
 Ukraine,People's Deputy of Ukraine,Orest Furdychko,Q12166405,1998-05-12,2002-05-14,male,1952-10-10,,Фурдичко Орест Іванович.jpg,
 Ukraine,People's Deputy of Ukraine,Volodymyr Fialkovskyi,Q12166463,1998-05-12,2002-05-14,male,1965-07-14,2011-08-04,,
+Ukraine,People's Deputy of Ukraine,Vasyl Khmelnytsky,Q12167343,1998-05-12,2002-05-14,male,1966-09-10,,BIONIC University opening. BIONIC University Founder V.Khmelnytsky..JPG,Vasyl Khmelnytsky
 Ukraine,People's Deputy of Ukraine,Anatolii Khmelovyi,Q12167361,1998-05-12,2002-05-14,male,1952-01-17,,,
 Ukraine,People's Deputy of Ukraine,Anatolii Khunov,Q12168021,1998-05-12,2002-05-14,male,1940-03-21,,,
 Ukraine,People's Deputy of Ukraine,Vitalii Tsekhmistrenko,Q12168706,1998-05-12,2002-05-14,male,1965-06-01,,,
@@ -304,6 +306,7 @@ Ukraine,People's Deputy of Ukraine,Refat Chubarov,Q2038582,1998-05-12,2002-05-14
 Ukraine,People's Deputy of Ukraine,Liudmyla Suprun,Q2065621,1998-05-12,2002-05-14,female,1965-01-07,,Liudmyla Suprun.jpg,Liudmyla Suprun
 Ukraine,People's Deputy of Ukraine,Oleksandr Lavrynovych,Q2066222,1998-05-12,2001-10-18,male,1956-06-28,,Oleksandr Lavrynovych.jpg,Oleksandr Lavrynovych
 Ukraine,People's Deputy of Ukraine,Yuriy Kostenko,Q220362,1998-05-12,2002-05-14,male,1951,,Wp yuriy kostenko.jpg,Yuriy Kostenko
+Ukraine,People's Deputy of Ukraine,Hryhoriy Surkis,Q225357,1998-05-12,2002-05-14,male,1949-09-04,,Hryhoriy Surkis.jpg,Hryhoriy Surkis
 Ukraine,People's Deputy of Ukraine,Ion Popescu,Q2330766,1998-05-12,2002-05-14,male,1964-04-16,,,
 Ukraine,People's Deputy of Ukraine,Serhii Sas,Q2374925,1998-05-12,2002-05-14,male,1957-08-07,,,
 Ukraine,People's Deputy of Ukraine,Oleh Bilorus,Q250302,1998-05-12,2002-05-14,male,1939-10-14,,,Oleh Bilorus
@@ -348,7 +351,6 @@ Ukraine,People's Deputy of Ukraine,Leonid Kosakivskyi,Q4234749,1998-05-12,2002-0
 Ukraine,People's Deputy of Ukraine,Oleksiy Kostusyev,Q4235602,1998-05-12,2001-12-14,male,1954-06-29,,Kostusev фото.jpg,Oleksiy Kostusyev
 Ukraine,People's Deputy of Ukraine,Vasyl Kremen,Q4240131,1998-05-12,2000-02-22,male,1947-06-25,,Vasyl Kremen.jpg,
 Ukraine,People's Deputy of Ukraine,Heorhii Kriuchkov,Q4243218,1998-05-12,2002-05-14,male,1929-10-20,2021-11-04,Крючков Георгій.JPG,Heorhiy Kryuchkov
-Ukraine,People's Deputy of Ukraine,Vasyl Kuybida,Q4245576,1998-05-12,2002-05-14,male,1958-05-08,,Водник Василий Куйбида.JPG,Vasyl Kuybida
 Ukraine,People's Deputy of Ukraine,Oleksiy Kucherenko,Q4249950,1998-05-12,2002-05-14,male,1961-04-03,,Oleksiy Kucherenko.jpg,Oleksiy Kucherenko
 Ukraine,People's Deputy of Ukraine,Vladimir Makeienko,Q4275699,1998-05-12,2002-05-14,male,1965-07-17,,Volodymyr Makeyenko.jpg,Volodymyr Makeyenko
 Ukraine,People's Deputy of Ukraine,Anatolii Manhul,Q4280241,1998-05-12,2002-05-14,male,1952-08-24,,,
@@ -390,6 +392,7 @@ Ukraine,People's Deputy of Ukraine,Anatoliy Kinakh,Q488180,1998-05-12,2001-10-04
 Ukraine,People's Deputy of Ukraine,Bohdan Boyko,Q4938020,1998-05-12,2002-05-14,male,1954-09-29,,,Bohdan Boyko
 Ukraine,People's Deputy of Ukraine,Oleksandr Mykolaiovych Hudyma,Q5102073,1998-05-12,2002-05-14,male,1950-06-26,,,
 Ukraine,People's Deputy of Ukraine,Pavlo Lazarenko,Q559607,1998-05-12,2002-02-07,male,1953-01-23,,Pavlo Lazarenko.jpg,Pavlo Lazarenko
+Ukraine,People's Deputy of Ukraine,Volodymyr Pustovoitov,Q56026558,1998-05-12,2002-05-14,male,1948-08-01,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Moroz,Q561122,1998-05-12,2002-05-14,male,1944-02-29,,Moroz 2003.jpg,Oleksandr Moroz
 Ukraine,People's Deputy of Ukraine,Petro Poroshenko,Q58077,1998-05-12,2002-05-14,male,1965-09-26,,Official portrait of Petro Poroshenko.jpg,Petro Poroshenko
 Ukraine,People's Deputy of Ukraine,Eduard Gurwits,Q609435,1998-05-12,2002-05-14,male,1948-01-30,,Eduard gurviz.jpg,Eduard Gurwits
@@ -639,6 +642,7 @@ Ukraine,People's Deputy of Ukraine,Mykhailo Potebenko,Q12142842,2002-05-14,2006-
 Ukraine,People's Deputy of Ukraine,Serhii Pravdenko,Q12143211,2002-05-14,2006-05-25,male,1949-04-29,2017-06-27,,
 Ukraine,People's Deputy of Ukraine,Stanislav Pkhydenko,Q12145747,2002-05-14,2006-05-25,male,1941-09-18,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Piekhota,Q12145784,2002-05-14,2006-05-25,male,1939-06-20,,,
+Ukraine,People's Deputy of Ukraine,Viktor Razvadovsky,Q12146812,2002-05-14,2006-05-25,male,1959-06-03,,РАЗВАДОВСЬКИЙ ВІКТОР ЙОСИПОВИЧ VADIM CHUPRINA ©.jpg,Viktor Razvadovsky
 Ukraine,People's Deputy of Ukraine,Borys Raikov,Q12146839,2002-05-14,2006-05-25,male,1946-10-19,,,
 Ukraine,People's Deputy of Ukraine,Anatolii Rakhanskyi,Q12147039,2002-05-14,2006-05-25,male,1939-06-30,2018-09-10,,
 Ukraine,People's Deputy of Ukraine,Ihor Reznik,Q12147417,2002-05-14,2006-05-25,male,1945-06-22,,,
@@ -744,6 +748,7 @@ Ukraine,People's Deputy of Ukraine,Andriy Shkil,Q2067495,2002-05-14,2006-05-25,m
 Ukraine,People's Deputy of Ukraine,Nikolay Bagrayev,Q2073071,2002-05-14,2006-05-25,male,1964-06-19,,Bagraev.jpg,Nikolay Bagrayev
 Ukraine,People's Deputy of Ukraine,Volodymyr Yavorivsky,Q2081889,2002-05-14,2006-05-25,male,1942-10-11,2021-04-16,Володимир Яворівський - 19031889.jpg,Volodymyr Yavorivsky
 Ukraine,People's Deputy of Ukraine,Yuriy Kostenko,Q220362,2002-05-14,2006-05-25,male,1951,,Wp yuriy kostenko.jpg,Yuriy Kostenko
+Ukraine,People's Deputy of Ukraine,Hryhoriy Surkis,Q225357,2002-05-14,2006-05-25,male,1949-09-04,,Hryhoriy Surkis.jpg,Hryhoriy Surkis
 Ukraine,People's Deputy of Ukraine,Victor Boiko,Q22669003,2002-05-14,2006-05-25,male,1961-07-06,,Віктор Бойко.jpg,Victor Oleksiyovych Boiko
 Ukraine,People's Deputy of Ukraine,Yuriy Pavlenko,Q2330587,2002-05-14,2005-03-03,male,1975-03-20,,Pavlenko Yuriy.jpg,Yurii Pavlenko
 Ukraine,People's Deputy of Ukraine,Serhii Sas,Q2374925,2002-05-14,2006-05-25,male,1957-08-07,,,
@@ -762,9 +767,11 @@ Ukraine,People's Deputy of Ukraine,Hanna Antonieva,Q4067546,2002-05-14,2006-05-2
 Ukraine,People's Deputy of Ukraine,Yuriy Artemenko,Q4070192,2002-05-14,2005-09-08,male,1963-02-28,,Артеменко Юрій Анатолійович.jpg,Yuriy Artemenko
 Ukraine,People's Deputy of Ukraine,Hennadii Astrov-Shumilov,Q4071770,2002-05-14,2006-05-25,male,1937-09-13,2011-07-24,,
 Ukraine,People's Deputy of Ukraine,Aleksey Baburin,Q4074524,2002-05-14,2006-05-25,male,1949-01-11,,,Aleksey Baburin
+Ukraine,People's Deputy of Ukraine,Leonid Baisarov,Q4075729,2002-05-14,2006-05-25,male,1947-07-19,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Boiko,Q4090389,2002-05-14,2006-05-25,male,1938-09-20,2015-06-10,Volodymyr Semenovych Boiko.jpg,
 Ukraine,People's Deputy of Ukraine,Ivan Bokyi,Q4090549,2002-05-14,2006-05-25,male,1942-02-20,2020-03-24,,Ivan Bokyi
 Ukraine,People's Deputy of Ukraine,Oleksandr Bondarchuk,Q4093261,2002-05-14,2006-05-25,male,1957-09-30,,,
+Ukraine,People's Deputy of Ukraine,Serhii Bondarchuk,Q4093266,2002-05-14,2005-09-08,male,1971-10-31,,Bondarchuk S.V.jpg,Serhii Bondarchuk
 Ukraine,People's Deputy of Ukraine,Vladimir Bronnikov,Q4097023,2002-05-14,2006-05-25,male,1943-09-25,,,
 Ukraine,People's Deputy of Ukraine,Serhii Bychkov,Q4101318,2002-05-14,2006-05-25,male,1961-07-21,,Sergiy Bychkov Int.JPG,Sergiy Bychkov
 Ukraine,People's Deputy of Ukraine,Hennadii Vayliev,Q4104589,2002-05-14,2003-12-11,male,1953-10-03,,,Hennadiy Vasilyev
@@ -829,7 +836,6 @@ Ukraine,People's Deputy of Ukraine,Mykhailo Poplavskyi,Q4372317,2002-05-14,2006-
 Ukraine,People's Deputy of Ukraine,Tamara Proshkuratova,Q4382350,2002-05-14,2006-05-25,female,1958-08-23,,,
 Ukraine,People's Deputy of Ukraine,Mykoła Rudkowski,Q4399787,2002-05-14,2006-05-25,male,1967-12-18,,,
 Ukraine,People's Deputy of Ukraine,Dmitriy Svyatash,Q4411301,2002-05-14,2006-05-25,male,1971-06-15,,Dmitriy Svyatash on the opening of the Monumet of Independece in Kharkiv (cropped).JPG,Dmytro Svyatash
-Ukraine,People's Deputy of Ukraine,Wiktor Skopenko,Q4422144,2002-05-14,2006-05-25,male,1935-12-12,2010-07-05,,
 Ukraine,People's Deputy of Ukraine,Heorhii Skudar,Q4422672,2002-05-14,2006-05-25,male,1942-07-18,,,
 Ukraine,People's Deputy of Ukraine,Petro Symonenko,Q443471,2002-05-14,2006-05-25,male,1952-08-01,,Vladimir Putin 18 March 2002-3.jpg,Petro Symonenko
 Ukraine,People's Deputy of Ukraine,Ivan Spodarenko,Q4437986,2002-05-14,2006-05-25,male,1931-01-23,2009-12-17,,
@@ -862,7 +868,6 @@ Ukraine,People's Deputy of Ukraine,Volodymyr Lytvyn,Q463095,2002-05-14,2006-05-2
 Ukraine,People's Deputy of Ukraine,Alla Aleksandrovska,Q4730239,2002-05-14,2006-05-25,female,1948-12-07,,Alla O. Aleksandrovska KPU (09.2014).jpg,Alla Aleksandrovska
 Ukraine,People's Deputy of Ukraine,Andrey Verevskiy,Q4759250,2002-05-14,2006-05-25,male,1974-07-25,,,Andriy Verevskyi
 Ukraine,People's Deputy of Ukraine,Yulia Tymoshenko,Q48283,2002-05-14,2005-02-04,female,1960-11-27,,Yulia Tymoshenko 2018 Vadim Chuprina.jpg,Yulia Tymoshenko
-Ukraine,People's Deputy of Ukraine,Anatoliy Kinakh,Q488180,2002-05-14,2006-05-25,male,1954-08-04,,Anatoliy Kinakh.jpg,Anatoliy Kinakh
 Ukraine,People's Deputy of Ukraine,Anatoly Pisarenko,Q488190,2002-05-14,2006-05-25,male,1958-01-10,,,Anatoly Pisarenko
 Ukraine,People's Deputy of Ukraine,Oleksandr Mykolaiovych Hudyma,Q5102073,2002-05-14,2006-05-25,male,1950-06-26,,,
 Ukraine,People's Deputy of Ukraine,Andriy Klyuyev,Q510926,2002-05-14,2006-05-25,male,1964-08-12,,KlyevAP.jpg,Andriy Klyuyev
@@ -945,6 +950,7 @@ Ukraine,People's Deputy of Ukraine,Kseniya Lyapina,Q12119458,2005-04-05,2006-05-
 Ukraine,People's Deputy of Ukraine,Oleksandr Tkalenko,Q12161494,2005-04-05,2006-05-25,male,1959-08-05,2009-11-25,,
 Ukraine,People's Deputy of Ukraine,Valerii Kelestyn,Q16701349,2005-04-05,2006-05-25,male,1964-09-26,,,
 Ukraine,People's Deputy of Ukraine,Mykhailo Pozhyvanov,Q4368726,2005-04-05,2006-05-25,male,1960-04-12,,Pozhyvanovmykhailo.jpg,
+Ukraine,People's Deputy of Ukraine,Oleksandr Kyselov,Q55107750,2005-04-05,2006-05-25,male,1953-06-25,,,
 Ukraine,People's Deputy of Ukraine,Anatolii Korchynskyi,Q12113315,2005-04-19,2006-05-25,male,1952-10-02,,,
 Ukraine,People's Deputy of Ukraine,Yevhen Konstantynov,Q12112435,2005-05-31,2006-05-25,male,1937-05-02,,,
 Ukraine,People's Deputy of Ukraine,Leonid Mordovets,Q12130021,2005-05-31,2006-05-25,male,1951-03-15,,,
@@ -1003,6 +1009,7 @@ Ukraine,People's Deputy of Ukraine,Oleksandr Vasyliev,Q12087964,2006-05-25,2007-
 Ukraine,People's Deputy of Ukraine,Ivan Vernydubov,Q12088767,2006-05-25,2007-11-23,male,1951-01-04,,,
 Ukraine,People's Deputy of Ukraine,Inha Vershynina,Q12088928,2006-05-25,2007-11-23,female,1967-06-11,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Vecherko,Q12089036,2006-05-25,2007-11-23,male,1953-11-07,,,
+Ukraine,People's Deputy of Ukraine,Yurii Voropayev,Q12090715,2006-05-25,2007-11-23,male,1955-01-10,,Воропаєв Юрій Миколайович Вадим Чуприна ©.jpg,
 Ukraine,People's Deputy of Ukraine,Ihor Vorotniuk,Q12090717,2006-05-25,2007-06-12,male,1962-01-01,,,
 Ukraine,People's Deputy of Ukraine,Olena Vitenko,Q12093533,2006-05-25,2007-11-23,female,1960-12-09,,Вітенко Олена Андріївна 1.jpg,
 Ukraine,People's Deputy of Ukraine,Halyna Harmash,Q12094377,2006-05-25,2007-11-23,female,1950-06-04,,,
@@ -1037,6 +1044,7 @@ Ukraine,People's Deputy of Ukraine,Yevhen Zimin,Q12107284,2006-05-25,2007-06-12,
 Ukraine,People's Deputy of Ukraine,Oleg Kalashnikov,Q12107759,2006-05-25,2007-11-23,male,1962-11-06,2015-04-15,,Oleg Kalashnikov
 Ukraine,People's Deputy of Ukraine,Hryhorii Kaletnik,Q12107778,2006-05-25,2007-11-23,male,1949-05-02,,,
 Ukraine,People's Deputy of Ukraine,Ihor Kalnichenko,Q12107897,2006-05-25,2007-11-23,male,1961-11-07,2009-11-27,,
+Ukraine,People's Deputy of Ukraine,Serhii Kaltsev,Q12107900,2006-05-25,2007-11-23,male,1960-04-20,,,
 Ukraine,People's Deputy of Ukraine,Vitalii Kaliuzhnyi,Q12107917,2006-05-25,2007-11-23,male,1979-11-20,,,
 Ukraine,People's Deputy of Ukraine,Valerii Kamchatnyi,Q12108223,2006-05-25,2007-06-12,male,1955-06-13,,,
 Ukraine,People's Deputy of Ukraine,Yurii Karakai,Q12108517,2006-05-25,2007-11-23,male,1967-05-20,,,
@@ -1080,6 +1088,7 @@ Ukraine,People's Deputy of Ukraine,Andrii Lopushanskyi,Q12118440,2006-05-25,2007
 Ukraine,People's Deputy of Ukraine,Maksym Lutskyi,Q12118975,2006-05-25,2007-11-23,male,1976-06-04,,Луцький Максим.JPG,
 Ukraine,People's Deputy of Ukraine,Kseniya Lyapina,Q12119458,2006-05-25,2007-06-08,female,1964-09-05,,Ksenia Liapina.jpg,
 Ukraine,People's Deputy of Ukraine,Oleh Liashko,Q12119499,2006-05-25,2007-06-12,male,1972-12-03,,"Ляшко, Олег Валерьевич 0076 Чуприна Вадим А (cropped).jpg",Oleh Liashko
+Ukraine,People's Deputy of Ukraine,Oleksandr Lieshchynskyi,Q12119514,2006-05-25,2007-11-23,male,1964-03-02,,,
 Ukraine,People's Deputy of Ukraine,Mykola Lisin,Q12119890,2006-05-25,2007-11-23,male,1964-11-02,2011-04-17,,
 Ukraine,People's Deputy of Ukraine,Serhii Maiboroda,Q12120403,2006-05-25,2007-11-23,male,1959-04-24,,,
 Ukraine,People's Deputy of Ukraine,Vitalii Maiko,Q12120443,2006-05-25,2007-11-23,male,1936-05-15,,,
@@ -1124,6 +1133,7 @@ Ukraine,People's Deputy of Ukraine,Volodymyr Piekhota,Q12145784,2006-05-25,2007-
 Ukraine,People's Deputy of Ukraine,Andrii Pinchuk,Q12146225,2006-05-25,2007-11-23,male,1980-01-26,,Andriy Pinchuk.jpg,
 Ukraine,People's Deputy of Ukraine,Oleh Radkovskyi,Q12146613,2006-05-25,2007-06-14,male,1960-08-22,,,
 Ukraine,People's Deputy of Ukraine,Arnold Radovets,Q12146617,2006-05-25,2007-06-14,male,1937-11-30,,,
+Ukraine,People's Deputy of Ukraine,Oleksandr Rymaruk,Q12147961,2006-05-25,2007-11-23,male,1956-08-02,,,
 Ukraine,People's Deputy of Ukraine,Anton Ruzhytskyi,Q12149264,2006-05-25,2007-11-23,male,1952-11-23,,,
 Ukraine,People's Deputy of Ukraine,Aleksandr Riabeka,Q12149537,2006-05-25,2007-06-14,male,1959-11-26,,Рябека Олександр Григорович Чуприна Вадим. А.jpg,Aleksandr Riabeka
 Ukraine,People's Deputy of Ukraine,Samoilenko Yurii Pavlovych,Q12150390,2006-05-25,2007-11-23,male,1944-10-19,,,
@@ -1172,7 +1182,6 @@ Ukraine,People's Deputy of Ukraine,Anatolii Shkribliak,Q12172040,2006-05-25,2007
 Ukraine,People's Deputy of Ukraine,Zinovii Shkutiak,Q12172059,2006-05-25,2007-06-08,male,1948-01-05,,,
 Ukraine,People's Deputy of Ukraine,Mykola Yakovyna,Q12173509,2006-05-25,2007-06-14,male,1957-03-24,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Yaroshchuk,Q12174005,2006-05-25,2007-11-23,male,1969-11-20,,,
-Ukraine,People's Deputy of Ukraine,Leonid Chernovetskyi,Q128922,2006-05-25,2007-11-23,male,1951-11-25,,Черновецький Леонід Михайлович 2006 (1).jpg,Leonid Chernovetskyi
 Ukraine,People's Deputy of Ukraine,Ruslana,Q129119,2006-05-25,2007-06-19,female,1973-05-24,,Ruslana in Kiev.JPG,Ruslana
 Ukraine,People's Deputy of Ukraine,Vyacheslav Kyrylenko,Q1378506,2006-05-25,2007-06-08,male,1968-06-07,,Wikipedia Loves Monuments Awards Ceremony - 0238.jpg,Vyacheslav Kyrylenko
 Ukraine,People's Deputy of Ukraine,Roman Bezsmertnyi,Q1392354,2006-05-25,2007-06-15,male,1965-11-15,,Роман Безсмертний.jpg,Roman Bezsmertnyi
@@ -1283,6 +1292,7 @@ Ukraine,People's Deputy of Ukraine,Nina Karpachova,Q4215667,2006-05-25,2007-02-0
 Ukraine,People's Deputy of Ukraine,Mykola Katerynchuk,Q4217364,2006-05-25,2007-06-08,male,1967-11-19,,Mykola Katerynchuk - 2014 (cropped).jpg,Mykola Katerynchuk
 Ukraine,People's Deputy of Ukraine,Serhii Kivalov,Q4220006,2006-05-25,2007-11-23,male,1954-05-01,,Sergey Kivalov.jpeg,Serhii Kivalov
 Ukraine,People's Deputy of Ukraine,Vasily Kiselyov,Q4222040,2006-05-25,2007-11-23,male,1948-09-25,,,
+Ukraine,People's Deputy of Ukraine,Pavlo Klymets,Q4223698,2006-05-25,2007-11-23,male,1967-07-23,,Klymets P.A..png,Pavlo Klymets
 Ukraine,People's Deputy of Ukraine,Rusłan Kniazewycz,Q4224957,2006-05-25,2007-06-08,male,1974-06-28,,,
 Ukraine,People's Deputy of Ukraine,Vadym Kolesnichenko,Q4227824,2006-05-25,2007-11-23,male,1958-03-21,,"Vadim Kolesnicenko February 8, 2010.JPG",
 Ukraine,People's Deputy of Ukraine,Yevhen Korniichuk,Q4233304,2006-05-25,2007-06-15,male,1966-10-18,,Евге́ний Влади́мирович Корнийчу́к.jpg,
@@ -1348,6 +1358,7 @@ Ukraine,People's Deputy of Ukraine,Ołeksandr Feldman,Q4482504,2006-05-25,2007-0
 Ukraine,People's Deputy of Ukraine,Vasyl Khara,Q4495663,2006-05-25,2007-11-23,male,1947-09-11,,,
 Ukraine,People's Deputy of Ukraine,Raisa Bogatyrova,Q450278,2006-05-25,2007-11-23,female,1953-01-06,,Raisa Bogatyrova US.jpg,Raisa Bogatyrova
 Ukraine,People's Deputy of Ukraine,Serhiy Chervonopyskyi,Q4512349,2006-05-25,2007-11-23,male,1957-07-06,,Serhiy Chervonopyskyi.jpg,
+Ukraine,People's Deputy of Ukraine,Oleksandr Chernomorov,Q4514053,2006-05-25,2007-11-23,male,1953-05-20,,,
 Ukraine,People's Deputy of Ukraine,Mykhailo Chechetov,Q4515350,2006-05-25,2007-11-23,male,1953-10-03,2015-02-28,Mykhailo Chechetov.jpg,Mykhailo Chechetov
 Ukraine,People's Deputy of Ukraine,Vitalii Shybko,Q4523595,2006-05-25,2007-11-23,male,1948-11-29,2021-12-24,,Vitaly Shibko
 Ukraine,People's Deputy of Ukraine,Ihor Shkiria,Q4524986,2006-05-25,2007-11-23,male,1965-08-20,,,
@@ -1433,6 +1444,8 @@ Ukraine,People's Deputy of Ukraine,Andrii Sokil,Q20069995,2006-12-19,2007-11-23,
 Ukraine,People's Deputy of Ukraine,Jurij Kiczaty,Q11729544,2007-01-12,2007-11-23,male,1959-11-27,,,
 Ukraine,People's Deputy of Ukraine,Pavlo Soltus,Q4428508,2007-02-06,2007-11-23,male,1962-02-19,,,
 Ukraine,People's Deputy of Ukraine,Boris Bilash,Q4081542,2007-02-20,2007-11-23,male,1941-08-01,,2011. Прильни к студёным родникам 064.jpg,
+Ukraine,People's Deputy of Ukraine,Dmytro Voloshenkov,Q56026584,2007-03-13,2007-11-23,male,1981-11-09,,,
+Ukraine,People's Deputy of Ukraine,Nataliia Horbenko,Q56026784,2007-03-20,2007-11-23,female,1955-02-19,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Kasianiuk,Q20067432,2007-05-22,2007-11-23,male,1967-05-17,,,
 Ukraine,People's Deputy of Ukraine,Ihor Shkira,Q20070849,2007-05-30,2007-11-23,male,1965-06-28,,,
 Ukraine,People's Deputy of Ukraine,Bohdan Kostyniuk,Q12113583,2007-05-31,2007-06-08,male,1958-09-06,,,
@@ -1497,7 +1510,6 @@ Ukraine,People's Deputy of Ukraine,Oleksij Schurawko,Q12104870,2007-11-23,2012-1
 Ukraine,People's Deputy of Ukraine,Hennadii Zadyrko,Q12105308,2007-11-23,2012-12-12,male,1967-09-13,,,
 Ukraine,People's Deputy of Ukraine,Oleh Zarubinskyi,Q12105942,2007-11-23,2012-12-12,male,1963-10-26,,,
 Ukraine,People's Deputy of Ukraine,Mykola Slotschewskyj,Q12106760,2007-11-23,2011-02-04,male,1966-06-14,,Mykola Zlochevskiy.jpg,Mykola Zlochevsky
-Ukraine,People's Deputy of Ukraine,Volodymyr Zubanov,Q12107148,2007-11-23,2012-12-12,male,1957-08-15,,Zubanov.jpg,
 Ukraine,People's Deputy of Ukraine,Volodymyr Zubyk,Q12107163,2007-11-23,2012-12-12,male,1958-02-28,,Зубик Володимир.jpg,Volodymyr Zubyk
 Ukraine,People's Deputy of Ukraine,Valentyn Zubov,Q12107176,2007-11-23,2012-12-12,male,1946-06-10,,,
 Ukraine,People's Deputy of Ukraine,Yevhen Zimin,Q12107284,2007-11-23,2012-12-12,male,1960-12-29,,,
@@ -1540,7 +1552,7 @@ Ukraine,People's Deputy of Ukraine,Kateryna Lukianova,Q12118684,2007-11-23,2012-
 Ukraine,People's Deputy of Ukraine,Kseniya Lyapina,Q12119458,2007-11-23,2012-12-12,female,1964-09-05,,Ksenia Liapina.jpg,
 Ukraine,People's Deputy of Ukraine,Oleh Liashko,Q12119499,2007-11-23,2012-12-12,male,1972-12-03,,"Ляшко, Олег Валерьевич 0076 Чуприна Вадим А (cropped).jpg",Oleh Liashko
 Ukraine,People's Deputy of Ukraine,Oleksandr Lieshchynskyi,Q12119514,2007-11-23,2012-12-12,male,1964-03-02,,,
-Ukraine,People's Deputy of Ukraine,Mykola Lisin,Q12119890,2007-11-23,2011-04-17,male,1964-11-02,2011-04-17,,
+Ukraine,People's Deputy of Ukraine,Mykola Lisin,Q12119890,2007-11-23,2011-04-21,male,1964-11-02,2011-04-17,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Makiienko,Q12120684,2007-11-23,2012-12-12,male,1955-11-20,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Malyshev,Q12120873,2007-11-23,2012-12-12,male,1950-07-26,,Malyshev Vladimir Stepanovich.jpg,Volodymyr Malyshev
 Ukraine,People's Deputy of Ukraine,Vladimir Maltsev,Q12120999,2007-11-23,2012-12-12,male,1974-04-20,,,Vladimir Maltsev
@@ -1563,7 +1575,6 @@ Ukraine,People's Deputy of Ukraine,Andrii Naidonov,Q12132215,2007-11-23,2012-12-
 Ukraine,People's Deputy of Ukraine,Volodymyr Nakonechnyi,Q12132274,2007-11-23,2012-12-12,male,1952-06-20,,,
 Ukraine,People's Deputy of Ukraine,Oleh Novikov,Q12134319,2007-11-23,2012-12-12,male,1967-05-06,,,
 Ukraine,People's Deputy of Ukraine,Viktor Oliinyk,Q12135839,2007-11-23,2012-12-12,male,1972-12-27,,,
-Ukraine,People's Deputy of Ukraine,Andrii Orlov,Q12136376,2007-11-23,2012-12-12,male,1970-08-15,,,
 Ukraine,People's Deputy of Ukraine,Lesya Orobets,Q12136414,2007-11-23,2012-12-12,female,1982-05-03,,Lesya Orobets meeting with voters.jpg,Lesya Orobets
 Ukraine,People's Deputy of Ukraine,Eduard Pavlenko,Q12137278,2007-11-23,2012-12-12,male,1947-10-14,,,
 Ukraine,People's Deputy of Ukraine,Serhii Pavlenko,Q12137282,2007-11-23,2012-12-12,male,1956-05-21,,,
@@ -1661,7 +1672,6 @@ Ukraine,People's Deputy of Ukraine,Mykola Tomenko,Q1957965,2007-11-23,2012-12-12
 Ukraine,People's Deputy of Ukraine,Taras Chornovil,Q1968425,2007-11-23,2012-12-12,male,1964-06-01,,Taras Chornovil.jpg,Taras Chornovil
 Ukraine,People's Deputy of Ukraine,Nestor Shufrych,Q1973323,2007-11-23,2010-03-11,male,1966-12-29,,Нестор Шуфрич 8 февраля 2010 года.JPG,Nestor Shufrych
 Ukraine,People's Deputy of Ukraine,Kostyantin Zhevago,Q1977990,2007-11-23,2012-12-12,male,1974-01-07,,,Kostyantyn Zhevago
-Ukraine,People's Deputy of Ukraine,Oleksandr Leshchynskyi,Q20068098,2007-11-23,2012-12-12,male,1939-12-14,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Filenko,Q2034986,2007-11-23,2012-12-12,male,1955-10-11,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Lavrynovych,Q2066222,2007-11-23,2010-03-11,male,1956-06-28,,Oleksandr Lavrynovych.jpg,Oleksandr Lavrynovych
 Ukraine,People's Deputy of Ukraine,Andriy Shkil,Q2067495,2007-11-23,2012-12-12,male,1963-11-26,,Вп андрей шкиль.jpg,Andriy Shkil
@@ -1721,7 +1731,7 @@ Ukraine,People's Deputy of Ukraine,Olha Herasymyuk,Q4136089,2007-11-23,2012-12-1
 Ukraine,People's Deputy of Ukraine,Hanna Herman,Q4137223,2007-11-23,2010-03-12,female,1959-04-24,,"Hanna Herman, 31 July 2014.jpg",Hanna Herman
 Ukraine,People's Deputy of Ukraine,Oleg Shevchuk,Q4139907,2007-11-23,2012-12-12,male,1968-01-02,,Oleg Shevchuk.jpg,
 Ukraine,People's Deputy of Ukraine,Oleksandr Chornovolenko,Q4141057,2007-11-23,2012-12-12,male,1955-03-28,,Oleksandr Chornovolenko.jpg,
-Ukraine,People's Deputy of Ukraine,Ihor Holovchenko,Q4142034,2007-11-23,2012-04-07,male,1960-05-25,2012-04-07,Golovchenko Igor Borysovych.jpg,
+Ukraine,People's Deputy of Ukraine,Ihor Holovchenko,Q4142034,2007-11-23,2012-04-23,male,1960-05-25,2012-04-07,Golovchenko Igor Borysovych.jpg,
 Ukraine,People's Deputy of Ukraine,Oleksandr Holub,Q4142266,2007-11-23,2012-12-12,male,1967-07-19,,Oleksandr Holub.jpg,
 Ukraine,People's Deputy of Ukraine,Vasyl Horbal,Q4143485,2007-11-23,2012-12-12,male,1971-03-18,,Gorbal.jpg,Vasyl Horbal
 Ukraine,People's Deputy of Ukraine,Leonid Hrach,Q4148127,2007-11-23,2012-12-12,male,1948-01-01,,,Leonid Hrach
@@ -1774,8 +1784,8 @@ Ukraine,People's Deputy of Ukraine,Petro Pysarchuk,Q4363606,2007-11-23,2012-12-1
 Ukraine,People's Deputy of Ukraine,Sviatoslav Piskun,Q4363659,2007-11-23,2012-12-12,male,1959-03-08,,Svyatoslav Piskun.jpg,Svyatoslav Piskun
 Ukraine,People's Deputy of Ukraine,Ihor Plokhoi,Q4365445,2007-11-23,2012-12-12,male,1968-12-05,,,
 Ukraine,People's Deputy of Ukraine,Mykhailo Pozhyvanov,Q4368726,2007-11-23,2008-05-23,male,1960-04-12,,Pozhyvanovmykhailo.jpg,
-Ukraine,People's Deputy of Ukraine,Volodymyr Polokhalo,Q4370711,2007-11-23,2011-09-23,male,1949-04-28,2011-09-23,,
-Ukraine,People's Deputy of Ukraine,Vladimir Polyachenko,Q4371618,2007-11-23,2012-04-20,male,1938-08-14,2012-04-20,,
+Ukraine,People's Deputy of Ukraine,Volodymyr Polokhalo,Q4370711,2007-11-23,2011-10-06,male,1949-04-28,2011-09-23,,
+Ukraine,People's Deputy of Ukraine,Vladimir Polyachenko,Q4371618,2007-11-23,2012-05-15,male,1938-08-14,2012-04-20,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Popov,Q4372354,2007-11-23,2010-03-11,male,1960-11-22,,Oleksandr Popov (8241465812) (cropped).jpg,Oleksandr Popov
 Ukraine,People's Deputy of Ukraine,Andrii Portnov,Q4373277,2007-11-23,2010-04-16,male,1973-10-27,,Andriy Portnov politician.jpg,Andriy Portnov
 Ukraine,People's Deputy of Ukraine,Igor Prasolov,Q4376467,2007-11-23,2012-12-12,male,1962-02-04,,,Ihor Prasolov
@@ -1888,6 +1898,7 @@ Ukraine,People's Deputy of Ukraine,Viktor Topolov,Q9374171,2007-11-23,2012-12-12
 Ukraine,People's Deputy of Ukraine,Vladyslav Kaskiv,Q9381935,2007-11-23,2012-02-23,male,1973-12-01,,Каськив Владислав Владимирович (cropped).jpg,Vladyslav Kaskiv
 Ukraine,People's Deputy of Ukraine,Zoia Shyshkina,Q9391943,2007-11-23,2012-12-12,female,1954-05-23,,Zoya Shyshkina.jpg,
 Ukraine,People's Deputy of Ukraine,Roman Zvarych,Q966820,2007-11-23,2012-12-12,male,1953-11-20,,Zvarych.jpg,Roman Zvarych
+Ukraine,People's Deputy of Ukraine,Andrii Orlov,Q12136376,2007-11-29,2012-12-12,male,1970-08-15,,,
 Ukraine,People's Deputy of Ukraine,Antonina Boliura,Q12083817,2007-12-25,2012-12-12,female,1949-04-13,,,
 Ukraine,People's Deputy of Ukraine,Serhii Vasylenko,Q12087878,2007-12-25,2012-12-12,male,1971-08-02,,,
 Ukraine,People's Deputy of Ukraine,Yaroslav Dzhodzhyk,Q12100796,2007-12-25,2012-12-12,male,1960-01-09,,,
@@ -1946,6 +1957,7 @@ Ukraine,People's Deputy of Ukraine,Oleksandr Yehorov,Q12073208,2010-04-26,2012-1
 Ukraine,People's Deputy of Ukraine,Serhii Vasiutin,Q12088035,2010-04-26,2012-12-12,male,1961-05-16,,,
 Ukraine,People's Deputy of Ukraine,Serhii Husarov,Q12098562,2010-04-26,2012-12-12,male,1953-03-24,,Гусаров Сергій Миколайович.jpg,
 Ukraine,People's Deputy of Ukraine,Vasyl Demchyshen,Q12100035,2010-04-26,2012-12-12,male,1956-05-15,,,
+Ukraine,People's Deputy of Ukraine,Volodymyr Zubanov,Q12107148,2010-04-26,2012-12-12,male,1957-08-15,,Zubanov.jpg,
 Ukraine,People's Deputy of Ukraine,Orest Muts,Q12130907,2010-04-26,2012-12-12,male,1959-02-26,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Fomin,Q12165921,2010-04-26,2012-12-12,male,1963-07-28,,,
 Ukraine,People's Deputy of Ukraine,Yulia Kovalevska,Q18243641,2010-04-26,2012-12-12,female,1977-10-08,,Фото Ковалевская Ю.С..jpg,
@@ -2209,7 +2221,6 @@ Ukraine,People's Deputy of Ukraine,Kostyantin Zhevago,Q1977990,2012-12-12,2014-1
 Ukraine,People's Deputy of Ukraine,Taisia Povaliy,Q1984215,2012-12-12,2014-11-27,female,1964-12-10,,Tais Povaliy 2016.jpg,Taisia Povaliy
 Ukraine,People's Deputy of Ukraine,Artem Iliuk,Q20067307,2012-12-12,2014-11-27,male,1979-04-17,,,
 Ukraine,People's Deputy of Ukraine,Oleh Kulinich,Q20067944,2012-12-12,2014-11-27,male,1966-11-25,,"Oleh Kulinich, Ukrainian politician.jpg",
-Ukraine,People's Deputy of Ukraine,Serhii Lutsenko,Q20068212,2012-12-12,2014-11-27,male,1960-07-05,,,
 Ukraine,People's Deputy of Ukraine,Valentyn Nychyporenko,Q20068814,2012-12-12,2014-11-27,male,1961-02-25,,,
 Ukraine,People's Deputy of Ukraine,Konstantin Pavlov,Q20069013,2012-12-12,2014-11-27,male,1973-01-12,2021-08-15,Kostiantyn Pavlov.jpg,
 Ukraine,People's Deputy of Ukraine,Oleksandr Ponomariov,Q20069305,2012-12-12,2014-11-27,male,1962-01-07,,Пономарьов Олександр Сергійович VADIM CHUPRINA ©.JPG,Oleksandr Ponomariov (politician)
@@ -2254,6 +2265,7 @@ Ukraine,People's Deputy of Ukraine,Maria Matios,Q2993741,2012-12-12,2014-11-27,f
 Ukraine,People's Deputy of Ukraine,Vasyl Kovach,Q30957585,2012-12-12,2014-11-27,male,1956-06-10,,,
 Ukraine,People's Deputy of Ukraine,Vitaliy Klitschko,Q31919,2012-12-12,2014-06-05,male,1971-07-19,,2014-09-12 - Vitali Klitschko - 9019 (cropped).jpg,Vitali Klitschko
 Ukraine,People's Deputy of Ukraine,Sergei Mishchenko,Q32193,2012-12-12,2014-11-27,male,1970-08-13,,Serhiy Mishchenko.jpg,
+Ukraine,People's Deputy of Ukraine,Olha Levchenko,Q32498872,2012-12-12,2014-11-27,female,1959-09-30,,,
 Ukraine,People's Deputy of Ukraine,Alexandr Dubovoy,Q3458945,2012-12-12,2014-11-27,male,1976-03-11,,Alexander Dubovoy (crop).jpg,Oleksandr Dubovoy
 Ukraine,People's Deputy of Ukraine,Viktor Yanukovych,Q3460875,2012-12-12,2014-11-27,male,1981-07-16,2015-03-20,Виктор Викторович Янукович (1).jpg,Viktor Viktorovych Yanukovych
 Ukraine,People's Deputy of Ukraine,Andriy Pavelko,Q3527702,2012-12-12,2014-11-27,male,1975-10-07,,"2019-05-18 Fußball, Frauen, UEFA Women's Champions League, Olympique Lyonnais - FC Barcelona StP 0941 LR10 by Stepro.jpg",Andriy Pavelko
@@ -2271,8 +2283,10 @@ Ukraine,People's Deputy of Ukraine,Mykola Kucheruk,Q3950614,2012-12-12,2014-11-2
 Ukraine,People's Deputy of Ukraine,Ruslan Lukyanchuk,Q3950909,2012-12-12,2014-11-27,male,1972-03-19,,Ruslan Lukyanchuk.jpg,
 Ukraine,People's Deputy of Ukraine,Nurulislam Arkallayev,Q4069425,2012-12-12,2014-11-27,male,1961-01-19,,,Nurulislam Arkallayev
 Ukraine,People's Deputy of Ukraine,Volodymyr Ariev,Q4071072,2012-12-12,2014-11-27,male,1975-03-31,,Volodymyr Ariev2.jpg,Volodymyr Ariev
+Ukraine,People's Deputy of Ukraine,Leonid Baisarov,Q4075729,2012-12-12,2014-11-27,male,1947-07-19,,,
 Ukraine,People's Deputy of Ukraine,Oleksii Bilyi,Q4083038,2012-12-12,2014-11-27,male,1961-05-01,,,Oleksii Bilyi
 Ukraine,People's Deputy of Ukraine,Bohdan Beniuk,Q4083903,2012-12-12,2014-11-27,male,1957-05-26,,Богдан Бенюк.JPG,Bohdan Beniuk
+Ukraine,People's Deputy of Ukraine,Anatoliy Blyznyuk,Q4088164,2012-12-12,2014-11-27,male,1948-11-24,,Blyznyuk Anatoliy Mykhaylovych.jpg,
 Ukraine,People's Deputy of Ukraine,Hennadii Bobov,Q4088590,2012-12-12,2014-11-27,male,1965-11-15,,,
 Ukraine,People's Deputy of Ukraine,Vyacheslav Boguslayev,Q4089899,2012-12-12,2014-11-27,male,1938-10-28,,,Vyacheslav Boguslayev
 Ukraine,People's Deputy of Ukraine,Volodymyr Boiko,Q4090389,2012-12-12,2014-11-27,male,1938-09-20,2015-06-10,Volodymyr Semenovych Boiko.jpg,
@@ -2371,6 +2385,13 @@ Ukraine,People's Deputy of Ukraine,Oleksii Kaida,Q5289670,2012-12-12,2014-11-27,
 Ukraine,People's Deputy of Ukraine,Volodymyr Pekhov,Q56026590,2012-12-12,2014-11-27,male,1969-01-04,,,
 Ukraine,People's Deputy of Ukraine,Hennadii Fedoriak,Q56026592,2012-12-12,2014-11-27,male,1966-07-13,,,
 Ukraine,People's Deputy of Ukraine,Artem Semeniuk,Q56026594,2012-12-12,2014-11-27,male,1983-08-08,,,
+Ukraine,People's Deputy of Ukraine,Serhii Topalov,Q56026597,2012-12-12,2014-05-13,male,1965-08-15,,,
+Ukraine,People's Deputy of Ukraine,Oleh Bukhovets,Q56026599,2012-12-12,2014-11-27,male,1974-07-10,,,
+Ukraine,People's Deputy of Ukraine,Serhii Balandin,Q56026604,2012-12-12,2014-11-27,male,1973-11-01,,,
+Ukraine,People's Deputy of Ukraine,Anton Dorokhov,Q56026610,2012-12-12,2014-11-27,male,1976-10-25,,,
+Ukraine,People's Deputy of Ukraine,Roman Shuhalo,Q56026614,2012-12-12,2014-11-27,male,1986-12-27,,,
+Ukraine,People's Deputy of Ukraine,Viktor Hubar,Q56026619,2012-12-12,2014-11-27,male,1971-12-26,,,
+Ukraine,People's Deputy of Ukraine,Viktoriia Babych,Q56026814,2012-12-12,2014-11-27,female,1974-04-22,,,
 Ukraine,People's Deputy of Ukraine,Mykola Azarov,Q57590,2012-12-12,2012-12-18,male,1947-12-17,,Mykola Azarov 2012.jpg,Mykola Azarov
 Ukraine,People's Deputy of Ukraine,Petro Poroshenko,Q58077,2012-12-12,2014-06-03,male,1965-09-26,,Official portrait of Petro Poroshenko.jpg,Petro Poroshenko
 Ukraine,People's Deputy of Ukraine,Igor Alekseyev,Q5993113,2012-12-12,2014-11-27,male,1960-01-10,,,Igor Alekseyev (politician)
@@ -2378,6 +2399,7 @@ Ukraine,People's Deputy of Ukraine,Eduard Gurwits,Q609435,2012-12-12,2014-11-27,
 Ukraine,People's Deputy of Ukraine,Serhij Buriak,Q6356452,2012-12-12,2014-11-27,male,1966-04-01,,Serhiy Buryak.jpg,
 Ukraine,People's Deputy of Ukraine,Ivan Bushko,Q6360538,2012-12-12,2014-11-27,male,1969-03-10,,"Бушко, Иван Иванович.jpg",Ivan Bushko
 Ukraine,People's Deputy of Ukraine,Leonid Klimov,Q6526378,2012-12-12,2014-11-27,male,1953-03-31,,Leonid Klimov.jpg,Leonid Klimov
+Ukraine,People's Deputy of Ukraine,Borys Kolesnikov,Q704326,2012-12-12,2014-11-27,male,1962-10-25,,Борис Колесніков.jpg,Borys Kolesnikov
 Ukraine,People's Deputy of Ukraine,Arsen Avakov,Q704389,2012-12-12,2014-03-17,male,1964-01-02,,Аваков.jpg,Arsen Avakov
 Ukraine,People's Deputy of Ukraine,Leonid Litvinov,Q7238508,2012-12-12,2014-11-27,male,1944-07-07,,,
 Ukraine,People's Deputy of Ukraine,Hennadiy Moskal,Q724219,2012-12-12,2014-11-27,male,1950-12-11,,Hennadiy Moskal.jpg,Hennadiy Moskal
@@ -2393,6 +2415,7 @@ Ukraine,People's Deputy of Ukraine,Volodymyr Bondarenko,Q7940558,2012-12-12,2014
 Ukraine,People's Deputy of Ukraine,Oleksandr Abdullin,Q83996,2012-12-12,2014-11-27,male,1962-06-29,,But11Абдуллін Олександр Рафкатович.jpg,Oleksandr Abdullin
 Ukraine,People's Deputy of Ukraine,Inna Bohoslovska,Q841624,2012-12-12,2014-11-27,female,1960-08-05,,Inna Bohoslovska 9.jpg,Inna Bohoslovska
 Ukraine,People's Deputy of Ukraine,Yakiv Bezbakh,Q8521847,2012-12-12,2014-11-27,male,1957-09-08,,Безбах Яків Якович Вадим Чуприна ©.jpg,
+Ukraine,People's Deputy of Ukraine,Andriy Ponomariov,Q8544910,2012-12-12,2014-11-27,male,1961-07-02,,Ponomarevav.jpg,
 Ukraine,People's Deputy of Ukraine,Kostiantyn Huzenko,Q8578602,2012-12-12,2014-11-27,male,1966-11-21,,,
 Ukraine,People's Deputy of Ukraine,Hryhorii Hruba,Q8578624,2012-12-12,2014-11-27,male,1954-03-30,,Груба Григорій Іванович.jpg,
 Ukraine,People's Deputy of Ukraine,Ruslan Koshulynskyi,Q890274,2012-12-12,2014-11-27,male,1969-09-09,,Ruslan Koshulynskyi.jpg,Ruslan Koshulynskyi
@@ -2413,6 +2436,7 @@ Ukraine,People's Deputy of Ukraine,Ivan Myrnyi,Q12123491,2013-02-22,2014-11-27,m
 Ukraine,People's Deputy of Ukraine,Roman Stadniichuk,Q16717741,2013-03-19,2014-11-27,male,1980-07-23,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Kozub,Q20067650,2013-03-19,2014-11-27,male,1956-06-08,,,
 Ukraine,People's Deputy of Ukraine,Vadim Novinsky,Q4322799,2013-09-03,2014-11-27,male,1963-06-03,,Вадим Новинський на літургії митрополита Онуфрія (cropped).jpg,Vadym Novynskyi
+Ukraine,People's Deputy of Ukraine,Vasyl Demediuk,Q56026625,2013-12-03,2014-11-27,male,1957-08-18,,,
 Ukraine,People's Deputy of Ukraine,Leonid Datsenko,Q12099608,2014-01-15,2014-11-27,male,1963-07-28,,,
 Ukraine,People's Deputy of Ukraine,Mykola Kruhlov,Q12115042,2014-01-15,2014-11-27,male,1950-11-10,,Круглов Микола Петрович.jpg,
 Ukraine,People's Deputy of Ukraine,Viktor Pylypyshyn,Q12140481,2014-01-15,2014-11-27,male,1961-04-06,,Viktor Pylypyshyn.jpg,
@@ -2433,11 +2457,13 @@ Ukraine,People's Deputy of Ukraine,Anatoliy Revenko,Q12147185,2014-03-26,2014-11
 Ukraine,People's Deputy of Ukraine,Halyna Chorna,Q16723413,2014-04-09,2014-11-27,female,1967-11-18,,Halyna Chorna2.jpg,
 Ukraine,People's Deputy of Ukraine,Vitalii Krutii,Q17371901,2014-04-09,2014-11-27,male,1967-03-08,,,
 Ukraine,People's Deputy of Ukraine,Yegor Firsov,Q17292954,2014-04-24,2014-11-27,male,1988-12-01,,,
+Ukraine,People's Deputy of Ukraine,Oleksandr Hanchukov,Q56026630,2014-05-29,2014-11-27,male,1949-06-17,,,
 Ukraine,People's Deputy of Ukraine,Olexandr Shevchenko,Q12171504,2014-06-17,2014-11-27,male,1971-04-08,,Олександр Шевченко (cropped).jpg,Olexandr Shevchenko
 Ukraine,People's Deputy of Ukraine,Vitalii Iliashenko,Q20067299,2014-06-17,2014-11-27,male,1985-04-09,,,
 Ukraine,People's Deputy of Ukraine,Ruslan Bogdan,Q7380984,2014-06-17,2014-11-27,male,1972-01-28,,,Ruslan Bogdan
 Ukraine,People's Deputy of Ukraine,Yevgeny Bakulin,Q1100750,2014-11-27,2019-08-29,male,1956-09-26,,,
 Ukraine,People's Deputy of Ukraine,Andrii Derkach,Q11285342,2014-11-27,2019-08-29,male,1967-08-19,,Андрей Деркач.jpg,Andrii Derkach
+Ukraine,People's Deputy of Ukraine,Ihor Huz,Q11711544,2014-11-27,2019-08-29,male,1982-01-11,,Ігор Гузь народний депутат України.jpg,Ihor Huz
 Ukraine,People's Deputy of Ukraine,Iwan Bałoha,Q11714380,2014-11-27,2019-08-29,male,1966-11-10,,,
 Ukraine,People's Deputy of Ukraine,Yevhen Heller,Q11726010,2014-11-27,2019-08-29,male,1974-05-12,,Гєллєр Євгеній Борисович Вадим Чуприна © (cropped).jpg,Yevhen Heller
 Ukraine,People's Deputy of Ukraine,Oleksandr Dombrovskyi,Q11801425,2014-11-27,2019-08-29,male,1962-07-07,,,Oleksandr Dombrovskyi
@@ -2560,7 +2586,7 @@ Ukraine,People's Deputy of Ukraine,Oleksandr Bakumenko,Q16161751,2014-11-27,2019
 Ukraine,People's Deputy of Ukraine,Mykola Velychkovych,Q16167609,2014-11-27,2019-08-29,male,1972-11-18,,Mykola Velychkovych.jpg,
 Ukraine,People's Deputy of Ukraine,Mykhailo Havryliuk,Q16169678,2014-11-27,2019-08-29,male,1979-08-15,,Myhailo Gavryliuk.jpg,Mykhailo Havryliuk
 Ukraine,People's Deputy of Ukraine,Oleksiy Honcharenko,Q16172176,2014-11-27,2019-08-29,male,1980-09-16,,Oleksiy Goncharenko.jpg,Oleksiy Honcharenko
-Ukraine,People's Deputy of Ukraine,Dmytro Tymchuk,Q16644807,2014-11-27,2019-06-19,male,1972-06-27,2019-06-19,Dmytro Tymchuk.jpg,Dmytro Tymchuk
+Ukraine,People's Deputy of Ukraine,Dmytro Tymchuk,Q16644807,2014-11-27,2019-08-29,male,1972-06-27,2019-06-19,Dmytro Tymchuk.jpg,Dmytro Tymchuk
 Ukraine,People's Deputy of Ukraine,Igor Artjushenko,Q16692021,2014-11-27,2019-08-29,male,1984-09-21,,,
 Ukraine,People's Deputy of Ukraine,Anton Herashchenko,Q16696252,2014-11-27,2019-08-29,male,1979-02-10,,Геращенко Антон Юрійович Вадим Чуприна ©.JPG,Anton Herashchenko
 Ukraine,People's Deputy of Ukraine,Ihor Zhdanov,Q16699147,2014-11-27,2014-12-02,male,1967-12-29,,Igory Zhdanov Ucraine.jpg,Ihor Zhdanov
@@ -2569,6 +2595,7 @@ Ukraine,People's Deputy of Ukraine,Viktor Kryvenko,Q16703342,2014-11-27,2019-08-
 Ukraine,People's Deputy of Ukraine,Oleksandr Ksenzhuk,Q16703699,2014-11-27,2019-08-29,male,1968-06-11,,,
 Ukraine,People's Deputy of Ukraine,Serhiy Labazyuk,Q16704457,2014-11-27,2019-08-29,male,1980-06-04,,Сергій Лабазюк.jpg,
 Ukraine,People's Deputy of Ukraine,Mykola Lavryk,Q16704480,2014-11-27,2019-08-29,male,1952-06-30,,,
+Ukraine,People's Deputy of Ukraine,Serhii Rudyk,Q16714864,2014-11-27,2019-08-29,male,1970-10-11,,Рудик Сергій Ярославович 888 Vadim Chuprina.jpg,Serhii Rudyk
 Ukraine,People's Deputy of Ukraine,Yurii Savchuk,Q16715168,2014-11-27,2019-08-29,male,1967-09-22,,Yuriy P Savchuk.jpg,
 Ukraine,People's Deputy of Ukraine,Dmytro Storozhuk,Q16718181,2014-11-27,2016-09-06,male,1985-11-12,,,
 Ukraine,People's Deputy of Ukraine,Hennadii Tkachuk,Q16720089,2014-11-27,2019-08-29,male,1968-08-27,,Hennadiy Tkachuk.jpg,
@@ -2580,6 +2607,7 @@ Ukraine,People's Deputy of Ukraine,Viktor Yelensky,Q17371774,2014-11-27,2019-08-
 Ukraine,People's Deputy of Ukraine,Hennadii Kryvosheia,Q17371893,2014-11-27,2019-08-29,male,1977-07-02,,"Геннадій Григорович Кривошея, 2018Hennadii Kryvosheia.jpg",Hennadii Kryvosheia
 Ukraine,People's Deputy of Ukraine,Andrii Lozovoi,Q17371928,2014-11-27,2019-08-29,male,1989-06-03,,,
 Ukraine,People's Deputy of Ukraine,Vasyl Yanitskyi,Q17372440,2014-11-27,2019-08-29,male,1973-01-14,,Яніцький Василь Петрович CHUPRINA VADIM.А.jpg,Vasyl Yanitskyi
+Ukraine,People's Deputy of Ukraine,Viktor Halasiuk,Q18091304,2014-11-27,2019-08-29,male,1981-08-28,,Vg 2.png,Viktor Halasiuk
 Ukraine,People's Deputy of Ukraine,Vasiliy Gulyayev,Q18238419,2014-11-27,2019-08-29,male,1963-09-03,,Гуляев Василий нов.jpg,
 Ukraine,People's Deputy of Ukraine,Hanna Hopko,Q18342447,2014-11-27,2019-08-29,female,1982-03-04,,"Hopko, Hanna.IMG 7508.JPG",Hanna Hopko
 Ukraine,People's Deputy of Ukraine,Oleh Barna,Q18342757,2014-11-27,2019-08-29,male,1967-04-18,,Barna-Oleh-Stepanovych-15043021.jpg,
@@ -2590,11 +2618,10 @@ Ukraine,People's Deputy of Ukraine,Yuriy Bereza,Q18402641,2014-11-27,2019-08-29,
 Ukraine,People's Deputy of Ukraine,Oksana Syroyid,Q18575021,2014-11-27,2019-08-29,female,1976-05-02,,Oksana Syroyid IMG 0247 01.JPG,Oksana Syroyid
 Ukraine,People's Deputy of Ukraine,Natalia Veselova,Q18577779,2014-11-27,2019-08-29,female,1975-08-27,,Nataliia Veselova.jpg,Natalia Veselova
 Ukraine,People's Deputy of Ukraine,Alyona Koshelyeva,Q18577824,2014-11-27,2019-08-29,female,1990-07-14,,,
-Ukraine,People's Deputy of Ukraine,Iryna Yefremova,Q18578820,2014-11-27,,female,1959-03-26,,,
+Ukraine,People's Deputy of Ukraine,Iryna Yefremova,Q18578820,2014-11-27,2018-10-04,female,1959-03-26,,,
 Ukraine,People's Deputy of Ukraine,Olena Sotnyk,Q18578912,2014-11-27,2019-08-29,female,1982-12-21,,SotnkOlenaSergiivna.jpg,Olena Sotnyk
 Ukraine,People's Deputy of Ukraine,Oleh Bereziuk,Q18580047,2014-11-27,2019-08-29,male,1969-10-08,,Oleh Bereziuk.jpg,Oleh Bereziuk
 Ukraine,People's Deputy of Ukraine,Iryna Sysoienko,Q18581883,2014-11-27,2019-08-29,female,1982-03-06,,Ірина Сисоєнко - 18105846.jpg,Iryna Sysoyenko
-Ukraine,People's Deputy of Ukraine,Stepan Barna,Q18596002,2014-11-27,2015-05-13,male,1979-10-09,,Barna-Stepan-Stepanovych-15045370.jpg,Stepan Barna
 Ukraine,People's Deputy of Ukraine,Anna Romanova,Q18601057,2014-11-27,2019-08-29,female,1985-02-21,,,Anna Romanova
 Ukraine,People's Deputy of Ukraine,Valeriy Voshchevsky,Q18601637,2014-11-27,2014-12-02,male,1956-06-12,,,Valeriy Voshchevsky
 Ukraine,People's Deputy of Ukraine,Oleksandr Marchenko,Q18609005,2014-11-27,2019-08-29,male,1965-01-14,,Марченко Олександр Олександрович.jpeg,
@@ -2609,7 +2636,7 @@ Ukraine,People's Deputy of Ukraine,Taras Yuryk,Q18822407,2014-11-27,2019-08-29,m
 Ukraine,People's Deputy of Ukraine,Nataliya Katser-Buchkovska,Q19043600,2014-11-27,2019-08-29,female,1983-03-15,,,Nataliya Katser-Buchkovska
 Ukraine,People's Deputy of Ukraine,Roman Nasirov,Q19203574,2014-11-27,2015-09-02,male,1979-03-03,,Nasirov cropped.jpg,Roman Nasirov
 Ukraine,People's Deputy of Ukraine,Wiktorija Ptaschnyk,Q19207050,2014-11-27,2019-08-29,female,1983-01-01,,Вікторія Пташник.jpeg,
-Ukraine,People's Deputy of Ukraine,Iryna Fris,Q19237116,2014-11-27,,female,1974-09-25,,Ірина Фріз (Iryna Friz).jpg,Iryna Friz
+Ukraine,People's Deputy of Ukraine,Iryna Fris,Q19237116,2014-11-27,2018-11-22,female,1974-09-25,,Ірина Фріз (Iryna Friz).jpg,Iryna Friz
 Ukraine,People's Deputy of Ukraine,Victoria Voytsitska,Q19263372,2014-11-27,2019-08-29,female,1974-11-27,,,Victoria Voytsitska
 Ukraine,People's Deputy of Ukraine,Olha Chervakova,Q19307666,2014-11-27,2019-08-29,female,1975-04-06,,Червакова Ольга Валеріївна Вадим Чуприна .JPG,
 Ukraine,People's Deputy of Ukraine,Serhiy Melnychuk,Q19327013,2014-11-27,2019-08-29,male,1972-01-26,,Мельничук Сергій Петрович.jpg,
@@ -2645,7 +2672,7 @@ Ukraine,People's Deputy of Ukraine,Artur Herasymov,Q20066471,2014-11-27,2019-08-
 Ukraine,People's Deputy of Ukraine,Vladyslav Holub,Q20066546,2014-11-27,2019-08-29,male,1983-04-22,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Horbunov,Q20066572,2014-11-27,2019-08-29,male,1969-02-13,,Фото Олександра Горбунова.jpeg,
 Ukraine,People's Deputy of Ukraine,Andriy Hordeyev,Q20066576,2014-11-27,2016-05-19,male,1983-06-13,,ГОРДЄЄВ АНДРІЙ АНАТОЛІЙОВИЧ VADIM CHUPRINA ©.jpg,Andrii Gordieiev
-Ukraine,People's Deputy of Ukraine,Oleksandr Hranovskyi,Q20066619,2014-11-27,,male,1979-12-25,,Oleksandr Hranovskyi.jpg,Oleksandr Hranovskyi (politician)
+Ukraine,People's Deputy of Ukraine,Oleksandr Hranovskyi,Q20066619,2014-11-27,2019-08-29,male,1979-12-25,,Oleksandr Hranovskyi.jpg,Oleksandr Hranovskyi (politician)
 Ukraine,People's Deputy of Ukraine,Vitalii Hudzenko,Q20066676,2014-11-27,2019-08-29,male,1971-07-15,,,
 Ukraine,People's Deputy of Ukraine,Valeriy Davydenko,Q20066713,2014-11-27,2019-08-29,male,1973-03-16,2020-05-23,,Valeriy Davydenko
 Ukraine,People's Deputy of Ukraine,Oleksandr Danchenko,Q20066733,2014-11-27,2019-08-29,male,1974-11-14,,Samopomich's presentation. Oleksandr Danchenko.JPG,Oleksandr Danchenko
@@ -2667,7 +2694,7 @@ Ukraine,People's Deputy of Ukraine,Maksym Yefimov,Q20067043,2014-11-27,2019-08-2
 Ukraine,People's Deputy of Ukraine,Oleksandr Zholobetskyi,Q20067083,2014-11-27,2019-08-29,male,1966-04-24,,Oleksandr Zholobetskyi 2017 Vadim Chuprina.jpg,Oleksandr Zholobetskyi
 Ukraine,People's Deputy of Ukraine,Zhurzhiy Andriy,Q20067100,2014-11-27,2019-08-29,male,1978-03-19,,Андрій Журжій 26-03-2015 DSCN0519.JPG,Andriy Zhurzhiy
 Ukraine,People's Deputy of Ukraine,Vadym Ivchenko,Q20067282,2014-11-27,2019-08-29,male,1980-01-29,,Івченко Вадим Євгенович (cropped).jpg,Vadym Ivchenko
-Ukraine,People's Deputy of Ukraine,Artem Iliuk,Q20067307,2014-11-27,,male,1979-04-17,,,
+Ukraine,People's Deputy of Ukraine,Artem Iliuk,Q20067307,2014-11-27,2019-08-29,male,1979-04-17,,,
 Ukraine,People's Deputy of Ukraine,Kostiantyn Ishcheikin,Q20067318,2014-11-27,2019-08-29,male,1975-09-11,,,
 Ukraine,People's Deputy of Ukraine,Mykola Kadykalo,Q20067341,2014-11-27,2019-08-29,male,1974-12-19,,,
 Ukraine,People's Deputy of Ukraine,Oleksii Kyrychenko,Q20067495,2014-11-27,2019-08-29,male,1975-03-16,,,
@@ -2835,9 +2862,6 @@ Ukraine,People's Deputy of Ukraine,Arseniy Yatsenyuk,Q471730,2014-11-27,2014-12-
 Ukraine,People's Deputy of Ukraine,Yulia Tymoshenko,Q48283,2014-11-27,2019-08-29,female,1960-11-27,,Yulia Tymoshenko 2018 Vadim Chuprina.jpg,Yulia Tymoshenko
 Ukraine,People's Deputy of Ukraine,Serhiy Taruta,Q538204,2014-11-27,2019-08-29,male,1955-07-23,,Taruta-mariupol.jpg,Serhiy Taruta
 Ukraine,People's Deputy of Ukraine,Serhiy Lyovochkin,Q538231,2014-11-27,2019-08-29,male,1972-07-17,,Serhiy Lyovochkin.png,Serhiy Lyovochkin
-Ukraine,People's Deputy of Ukraine,Mykhailo Pobochikh,Q56026279,2014-11-27,2019-08-29,male,1986-10-06,,,
-Ukraine,People's Deputy of Ukraine,Ivan Savka,Q60908345,2014-11-27,2019-08-29,male,1972-02-29,,,
-Ukraine,People's Deputy of Ukraine,Oleksandr Hulak,Q60909215,2014-11-27,2019-08-29,male,1972-10-06,,,
 Ukraine,People's Deputy of Ukraine,Leonid Klimov,Q6526378,2014-11-27,2019-08-29,male,1953-03-31,,Leonid Klimov.jpg,Leonid Klimov
 Ukraine,People's Deputy of Ukraine,Denys Sylantyev,Q653266,2014-11-27,2019-08-29,male,1976-10-03,,Денис Силантьєв.jpg,Denys Sylantyev
 Ukraine,People's Deputy of Ukraine,Roman Zastavnyi,Q678352,2014-11-27,2019-08-29,male,1972-05-01,,Роман Заставний - 07080632.jpg,
@@ -2856,11 +2880,11 @@ Ukraine,People's Deputy of Ukraine,Borys Tarasyuk,Q894312,2014-11-27,2019-08-29,
 Ukraine,People's Deputy of Ukraine,Viktor Baloha,Q898717,2014-11-27,2019-08-29,male,1963-06-15,,Baloha Viktor-MNS UA-photo.jpg,Viktor Baloha
 Ukraine,People's Deputy of Ukraine,Dmytro Yarosh,Q9208014,2014-11-27,2019-08-29,male,1971-09-30,,Dmytro Jarosh.jpg,Dmytro Yarosh
 Ukraine,People's Deputy of Ukraine,Yukhym Zvyahilsky,Q927269,2014-11-27,2019-08-29,male,1933-02-20,2021-11-06,Yukhym Zvyahilsky 2013.jpg,Yukhym Zvyahilsky
-Ukraine,People's Deputy of Ukraine,Serhii Rudyk,Q16714864,2014-12-02,2019-08-29,male,1970-10-11,,Рудик Сергій Ярославович 888 Vadim Chuprina.jpg,Serhii Rudyk
 Ukraine,People's Deputy of Ukraine,Maria Matios,Q2993741,2014-12-02,2019-08-29,female,1959-12-19,,Mariya Matios.jpg,Maria Matios
 Ukraine,People's Deputy of Ukraine,Olena Kondratyuk,Q12112307,2014-12-04,2019-08-29,female,1970-11-17,,Фото ОК.jpeg,Olena Kondratiuk
 Ukraine,People's Deputy of Ukraine,Yurii Chyzhmar,Q12170240,2014-12-04,2019-08-29,male,1974-10-27,,,
 Ukraine,People's Deputy of Ukraine,Ihor Pober,Q16711818,2014-12-04,2019-08-29,male,1968-12-17,,Побер Ігор Миколайович - 16037715.jpg,
+Ukraine,People's Deputy of Ukraine,Stepan Barna,Q18596002,2014-12-04,2015-05-13,male,1979-10-09,,Barna-Stepan-Stepanovych-15045370.jpg,Stepan Barna
 Ukraine,People's Deputy of Ukraine,Serhii Draiuk,Q20066920,2014-12-04,2019-08-29,male,1953-06-18,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Drozdyk,Q20066926,2014-12-04,2019-08-29,male,1983-06-14,,Дроздик Олександр Валерійович.jpg,
 Ukraine,People's Deputy of Ukraine,Davyd Makarian,Q20068275,2014-12-04,2019-08-29,male,1984-08-12,,Davyd Makarian 2019.jpg,
@@ -2879,7 +2903,7 @@ Ukraine,People's Deputy of Ukraine,Serhiy Berezenko,Q17371647,2015-09-02,2019-08
 Ukraine,People's Deputy of Ukraine,Grigorij Shverk,Q17361956,2015-09-17,2019-08-29,male,1957-07-20,,"Grigory Shverk, September 2015 (cropped).JPG",
 Ukraine,People's Deputy of Ukraine,Vladyslav Sevriukov,Q20069708,2015-09-17,2019-08-29,male,1975-05-13,,,
 Ukraine,People's Deputy of Ukraine,Vadym Pidberezniak,Q22137807,2015-12-24,2019-08-29,male,1972-03-22,,,
-Ukraine,People's Deputy of Ukraine,Tetiana Yuzkova,Q22138148,2015-12-24,,female,1963-09-01,,,
+Ukraine,People's Deputy of Ukraine,Tetiana Yuzkova,Q22138148,2015-12-24,2018-10-04,female,1963-09-01,,,
 Ukraine,People's Deputy of Ukraine,Dmytro Bilotserkovets,Q23783065,2016-03-29,2019-08-29,male,1986-02-21,,"Белоцерковец (crop, 2018, 1).jpg",
 Ukraine,People's Deputy of Ukraine,Alexander Briginets,Q4096456,2016-03-29,2019-08-29,male,1962-04-14,,Бригинец Александр Михайлович.jpg,
 Ukraine,People's Deputy of Ukraine,Valeriy Karpuntsov,Q12108844,2016-04-21,2019-08-29,male,1978-06-15,,Valery Karpuncov.jpg,
@@ -2899,37 +2923,54 @@ Ukraine,People's Deputy of Ukraine,Vladyslav Danilin,Q27910160,2016-09-22,2019-0
 Ukraine,People's Deputy of Ukraine,Fedir Bendiuzhenko,Q28846109,2017-02-21,2019-08-29,male,1982-07-23,,,
 Ukraine,People's Deputy of Ukraine,Yurii Buhlak,Q30960675,2017-03-14,2019-08-29,male,1965-02-07,,,
 Ukraine,People's Deputy of Ukraine,Valeriya Zaruzhko,Q45092699,2017-12-07,2019-08-29,female,1978-12-02,,,
+Ukraine,People's Deputy of Ukraine,Mykhailo Pobochikh,Q56026279,2018-03-22,2019-08-29,male,1986-10-06,,,
 Ukraine,People's Deputy of Ukraine,Roman Zvarych,Q966820,2018-04-17,2019-08-29,male,1953-11-20,,Zvarych.jpg,Roman Zvarych
+Ukraine,People's Deputy of Ukraine,Ivan Savka,Q60908345,2018-10-16,2019-08-29,male,1972-02-29,,,
+Ukraine,People's Deputy of Ukraine,Oleksandr Hulak,Q60909215,2018-10-16,2019-08-29,male,1972-10-06,,,
 Ukraine,People's Deputy of Ukraine,Vladimir Kurennoy,Q4248257,2018-12-04,2019-08-29,male,1967-08-02,,Volodymyr Kurennoy2.jpg,
+Ukraine,People's Deputy of Ukraine,Andrey Aksenov,Q106363123,2019-08-29,,male,1971-02-02,,Andrey Aksenov.jpg,Andrey Aksenov
 Ukraine,People's Deputy of Ukraine,Andrii Derkach,Q11285342,2019-08-29,,male,1967-08-19,,Андрей Деркач.jpg,Andrii Derkach
 Ukraine,People's Deputy of Ukraine,Ihor Huz,Q11711544,2019-08-29,,male,1982-01-11,,Ігор Гузь народний депутат України.jpg,Ihor Huz
+Ukraine,People's Deputy of Ukraine,Ihor Palytsia,Q11711558,2019-08-29,,male,1972-12-10,,Ighor Palitsa.JPG,Ihor Palytsia
 Ukraine,People's Deputy of Ukraine,Ihor Palytsia,Q11711558,2019-08-29,2012-12-12,male,1972-12-10,,Ighor Palitsa.JPG,Ihor Palytsia
 Ukraine,People's Deputy of Ukraine,Mykhailo Tsymbaliuk,Q11787482,2019-08-29,,male,1964-11-21,,Цимбалюк ММ.jpg,
+Ukraine,People's Deputy of Ukraine,Mariya Ionova,Q12074921,2019-08-29,,female,1978-05-31,,Марія Іонова.jpeg,Mariya Ionova
+Ukraine,People's Deputy of Ukraine,Yulii Ioffe,Q12074931,2019-08-29,,male,1940-12-10,,,
 Ukraine,People's Deputy of Ukraine,Taras Batenko,Q12081184,2019-08-29,,male,1974-06-20,,Батенко Тарас Іванович фото.jpg,
+Ukraine,People's Deputy of Ukraine,Vitaly Bort,Q12084239,2019-08-29,,male,1972-09-01,,Борт Віталій.jpg,Vitaly Bort
 Ukraine,People's Deputy of Ukraine,Oleksandr Hereha,Q12095802,2019-08-29,,male,1967-06-27,,ГЕРЕГА О В (cropped).jpg,
 Ukraine,People's Deputy of Ukraine,Oles Dovgiy,Q12101639,2019-08-29,,male,1980-11-01,,Oles Dovgiy.jpg,Oles Dovgiy
 Ukraine,People's Deputy of Ukraine,Yaroslav Dubnevych,Q12102633,2019-08-29,,male,1969-08-07,,"Yaroslav Dubnevych, Ukrainian politician.jpg",Yaroslav Vasilyevich Dubnevich
+Ukraine,People's Deputy of Ukraine,Serhii Dunaiev,Q12102897,2019-08-29,,male,1973-08-19,,ДУНАЄВ СЕРГІЙ ВОЛОДИМИРОВИЧ VADIM CHUPRINA ©.JPG,
+Ukraine,People's Deputy of Ukraine,Olena Kondratyuk,Q12112307,2019-08-29,,female,1970-11-17,,Фото ОК.jpeg,Olena Kondratiuk
+Ukraine,People's Deputy of Ukraine,Ivan Krulko,Q12115068,2019-08-29,,male,1981-07-20,,Ivan Krulko at RPR Forum.JPG,
 Ukraine,People's Deputy of Ukraine,Andrii Lopushanskyi,Q12118440,2019-08-29,,male,1962-12-04,,,
 Ukraine,People's Deputy of Ukraine,Valeriy Lunchenko,Q12118869,2019-08-29,,male,1982-10-13,,Лунченко Валерій Валерійович 3 CHUPRINA VADIM.А.jpg,Valerii Lunchenko
 Ukraine,People's Deputy of Ukraine,Ihor Molotok,Q12124276,2019-08-29,,male,1967-06-04,,Молоток Ігор Федорович VADIM CHUPRINA.jpg,
 Ukraine,People's Deputy of Ukraine,Stepan Ivakhiv,Q12127790,2019-08-29,,male,1968-01-24,,,Stepan Ivakhiv
 Ukraine,People's Deputy of Ukraine,Oleksandr Kachnyi,Q12129373,2019-08-29,,male,1968-10-23,,Oleksandr KachnyiOp36.jpg,
 Ukraine,People's Deputy of Ukraine,Mykhailo Novikov,Q12134318,2019-08-29,,male,1965-11-15,,,
+Ukraine,People's Deputy of Ukraine,Rostyslav Pavlenko,Q12137283,2019-08-29,,male,1976-08-19,,Rostyslav Pavlenko.jpg,
 Ukraine,People's Deputy of Ukraine,Wasyl Petiowka,Q12140350,2019-08-29,,male,1967-01-30,,,Vasyl Petiovka
 Ukraine,People's Deputy of Ukraine,Serhiy Rakhmanin,Q12147046,2019-08-29,,male,1969-04-17,,,
 Ukraine,People's Deputy of Ukraine,Yaroslav Rushchyshyn,Q12149531,2019-08-29,,male,1967-10-29,,Ярослав Рущишин.jpg,
+Ukraine,People's Deputy of Ukraine,Viktoria Siumar,Q12159142,2019-08-29,,female,1977-10-23,,Writing About Charity wikicontest 2012 - 11.jpg,Viktoria Siumar
 Ukraine,People's Deputy of Ukraine,Sophia Fedyna,Q12165396,2019-08-29,,female,1984-02-18,,,
 Ukraine,People's Deputy of Ukraine,Dmytro Shentsev,Q12171653,2019-08-29,,male,1964-11-28,,,
 Ukraine,People's Deputy of Ukraine,Anton Yatsenko,Q12174150,2019-08-29,,male,1977-07-13,,Яценко Антон Володимирович Вадим Чуприна ©.jpg,
 Ukraine,People's Deputy of Ukraine,Mykola Kniazhytskyi,Q136971,2019-08-29,,male,1968-06-02,,Mykola Kniazhytshkyi.jpg,Mykola Kniazhytskyi
+Ukraine,People's Deputy of Ukraine,Yuriy Boyko,Q1420661,2019-08-29,,male,1958-10-09,,Boiko Yurii Wiki Vadim Chuprina.jpg,Yuriy Boyko
+Ukraine,People's Deputy of Ukraine,Iryna Lutsenko,Q15071392,2019-08-29,2019-11-12,female,1966-02-07,,Iryna Lutsenko.jpg,
 Ukraine,People's Deputy of Ukraine,Andriy Nikolayenko,Q15075442,2019-08-29,,male,1979-06-23,,Nikolaenko Andrey.jpg,Andriy Nikolayenko
+Ukraine,People's Deputy of Ukraine,Olga Bielkova,Q15127847,2019-08-29,2020-06-18,female,1975-06-16,,Olga Bielkova2.png,Olga Bielkova
+Ukraine,People's Deputy of Ukraine,Mykola Skoryk,Q15235100,2019-08-29,,male,1972-11-27,,Mykola Skoryk.jpg,Mykola Skoryk
 Ukraine,People's Deputy of Ukraine,Mykola Babenko,Q16161387,2019-08-29,,male,1980-09-17,,BabenkoMV.jpg,
+Ukraine,People's Deputy of Ukraine,Mykola Velychkovych,Q16167609,2019-08-29,,male,1972-11-18,,Mykola Velychkovych.jpg,
 Ukraine,People's Deputy of Ukraine,Oleksiy Honcharenko,Q16172176,2019-08-29,,male,1980-09-16,,Oleksiy Goncharenko.jpg,Oleksiy Honcharenko
 Ukraine,People's Deputy of Ukraine,Danylo Hetmantsev,Q16636588,2019-08-29,,male,1978-04-26,,,
-Ukraine,People's Deputy of Ukraine,Oleksandr Kopylenko,Q16665708,2019-08-29,,male,1961-06-26,,Oleksandr Kopylenko.jpg,
 Ukraine,People's Deputy of Ukraine,Serhiy Minko,Q16676634,2019-08-29,,male,1973-09-20,,Сергей Минько (мэр).jpg,Serhii Minko
 Ukraine,People's Deputy of Ukraine,Dmytro Isaienko,Q16690373,2019-08-29,,male,1967-08-30,,Dmytro Isaienko.jpg,Dmytro Isaienko
-Ukraine,People's Deputy of Ukraine,Anna Kovalenko,Q16701826,2019-08-29,,female,1991-05-05,,Анна Коваленко на штабі 39 сотні.JPG,Anna Kovalenko
+Ukraine,People's Deputy of Ukraine,Anna Kovalenko,Q16701826,2019-08-29,2019-09-10,female,1991-05-05,,Анна Коваленко на штабі 39 сотні.JPG,Anna Kovalenko
 Ukraine,People's Deputy of Ukraine,Serhiy Labazyuk,Q16704457,2019-08-29,,male,1980-06-04,,Сергій Лабазюк.jpg,
 Ukraine,People's Deputy of Ukraine,Borys Prykhodko,Q16713197,2019-08-29,,male,1973-01-23,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Puzanov,Q16713505,2019-08-29,,male,1977-02-26,,,
@@ -2941,16 +2982,24 @@ Ukraine,People's Deputy of Ukraine,Bohdan Yaremenko,Q17372445,2019-08-29,,male,1
 Ukraine,People's Deputy of Ukraine,Mykhaylo Zabrodsky,Q17977837,2019-08-29,,male,1973-01-24,,Забродський 2018 01.jpg,Mykhailo Zabrodskyi
 Ukraine,People's Deputy of Ukraine,Zhan Beleniuk,Q18129428,2019-08-29,,male,1991-01-24,,Zhan Beleniuk - 2016-10-05 - 2.jpg,Zhan Beleniuk
 Ukraine,People's Deputy of Ukraine,Viktor Medvedchuk,Q1859524,2019-08-29,,male,1954-08-07,,2019 Viktor Medvedchuk.jpg,Viktor Medvedchuk
+Ukraine,People's Deputy of Ukraine,Alyona Shkrum,Q18643345,2019-08-29,,female,1988-01-02,,Alyona Shkrum.jpg,Alyona Shkrum
+Ukraine,People's Deputy of Ukraine,Serhii Alieksieiev,Q18752355,2019-08-29,,male,1977-02-09,,,
+Ukraine,People's Deputy of Ukraine,Iryna Fris,Q19237116,2019-08-29,,female,1974-09-25,,Ірина Фріз (Iryna Friz).jpg,Iryna Friz
 Ukraine,People's Deputy of Ukraine,Dmytro Lubinets,Q19402646,2019-08-29,,male,1981-07-04,,Dmytro Lubinets.JPG,
 Ukraine,People's Deputy of Ukraine,Yuriy Solod,Q19605093,2019-08-29,,male,1972-04-27,,,Yuriy Solod
 Ukraine,People's Deputy of Ukraine,Volodymyr Areshonkov,Q19692769,2019-08-29,,male,1957-12-17,,Арешонков Володимир Юрійович VADIM CHUPRINA ©.jpg,Volodymyr Areshonkov
+Ukraine,People's Deputy of Ukraine,Nestor Shufrych,Q1973323,2019-08-29,,male,1966-12-29,,Нестор Шуфрич 8 февраля 2010 года.JPG,Nestor Shufrych
 Ukraine,People's Deputy of Ukraine,Mykhaylo Bondar,Q20066005,2019-08-29,,male,1973-11-17,,,
-Ukraine,People's Deputy of Ukraine,Iryna Vereshchuk,Q20066227,2019-08-29,,female,1979-11-30,,Верещук Ірина Андріївна (cropped).jpg,Iryna Vereshchuk
+Ukraine,People's Deputy of Ukraine,Iryna Vereshchuk,Q20066227,2019-08-29,2021-11-04,female,1979-11-30,,Верещук Ірина Андріївна (cropped).jpg,Iryna Vereshchuk
 Ukraine,People's Deputy of Ukraine,Ihor Herasymenko,Q20066469,2019-08-29,,male,1984-01-05,,Ігор Герасименко.jpg,
+Ukraine,People's Deputy of Ukraine,Artur Herasymov,Q20066471,2019-08-29,,male,1972-08-23,,"Зустріч Зеленського з керівництвом ВРУ, 7.jpg",
 Ukraine,People's Deputy of Ukraine,Valeriy Davydenko,Q20066713,2019-08-29,2020-05-23,male,1973-03-16,2020-05-23,,Valeriy Davydenko
 Ukraine,People's Deputy of Ukraine,Maksym Yefimov,Q20067043,2019-08-29,,male,1974-11-01,,,
 Ukraine,People's Deputy of Ukraine,Yana Zinkevych,Q20067204,2019-08-29,,female,1995-07-02,,"March of Ukraine's Defenders in Kiev, 2019.08.24 - 36crop.jpg",Yana Zinkevych
+Ukraine,People's Deputy of Ukraine,Vadym Ivchenko,Q20067282,2019-08-29,,male,1980-01-29,,Івченко Вадим Євгенович (cropped).jpg,Vadym Ivchenko
 Ukraine,People's Deputy of Ukraine,Andriy Kit,Q20067533,2019-08-29,,male,1971-11-02,,Kit Andriy.jpg,Andriy Bohdanovych Kit
+Ukraine,People's Deputy of Ukraine,Ivanna Klympush-Tsintsadze,Q20067554,2019-08-29,,female,1972-07-05,,Іванна Орестівна Климпуш-Цинцадзе.jpg,Ivanna Klympush-Tsintsadze
+Ukraine,People's Deputy of Ukraine,Taras Kozak,Q20067638,2019-08-29,,male,1972-04-06,,Taras Romanovych Kozak.jpg,Taras Kozak
 Ukraine,People's Deputy of Ukraine,Oleh Kulinich,Q20067944,2019-08-29,,male,1966-11-25,,"Oleh Kulinich, Ukrainian politician.jpg",
 Ukraine,People's Deputy of Ukraine,Mykola Kucher,Q20067991,2019-08-29,,male,1959-08-24,,,Mykola Kucher
 Ukraine,People's Deputy of Ukraine,Mykola Lyushniak,Q20068232,2019-08-29,,male,1974-02-08,,,Mykola Lyushnyak
@@ -2959,47 +3008,76 @@ Ukraine,People's Deputy of Ukraine,Arsenii Pushkarenko,Q20069434,2019-08-29,,mal
 Ukraine,People's Deputy of Ukraine,Oleh Synyutka,Q20069801,2019-08-29,,male,1970-02-14,,Олег Синютка.jpg,Oleh Synyutka
 Ukraine,People's Deputy of Ukraine,Ruslan Stefanchuk,Q20070130,2019-08-29,,male,1975-10-29,,"Стефанчук Руслан, 2019, 1 (cropped).jpg",Ruslan Stefanchuk
 Ukraine,People's Deputy of Ukraine,Yuriy Shapovalov,Q20070770,2019-08-29,,male,1972-03-14,,,Yurii Shapovalov
+Ukraine,People's Deputy of Ukraine,Nina Yuzhanina,Q20070923,2019-08-29,,female,1965-01-11,,Ніна Петрівна Южаніна 2018 PARLIAMENT OF UKRAINE.jpg,Nina Yuzhanina
 Ukraine,People's Deputy of Ukraine,Petro Yurchyshyn,Q20070942,2019-08-29,,male,1958-07-13,,ЮРЧИШИН ПЕТРО ВАСИЛЬОВИЧ VADIM CHUPRINA ©.jpg,Petro Yurchyshyn
-Ukraine,People's Deputy of Ukraine,Oleksandr Skichko,Q21600273,2019-08-29,,male,1991-04-28,,Skicko O O.jpg,Oleksandr Skichko
+Ukraine,People's Deputy of Ukraine,Vadim Rabinovich,Q202339,2019-08-29,,male,1953-08-04,,Vadym Rabinovych.jpg,Vadim Rabinovich
+Ukraine,People's Deputy of Ukraine,Vitaliy Danilov,Q2068553,2019-08-29,,male,1967-06-10,,Vitaliy Danilov.jpg,Vitaliy Danilov
+Ukraine,People's Deputy of Ukraine,Oleksandr Skichko,Q21600273,2019-08-29,2021-03-30,male,1991-04-28,,Skicko O O.jpg,Oleksandr Skichko
 Ukraine,People's Deputy of Ukraine,Illia Kyva,Q22137528,2019-08-29,,male,1977-10-02,,"Victory Day in Kyiv, 2019 (09).jpg",Illia Kyva
 Ukraine,People's Deputy of Ukraine,Dmytro Natalukha,Q22137747,2019-08-29,,male,1987-09-15,,Natalukha Dmytro.png,Dmytro Natalukha
 Ukraine,People's Deputy of Ukraine,Hryhoriy Surkis,Q225357,2019-08-29,,male,1949-09-04,,Hryhoriy Surkis.jpg,Hryhoriy Surkis
 Ukraine,People's Deputy of Ukraine,Hanna Bondar,Q22828811,2019-08-29,,female,1975-02-23,,,
+Ukraine,People's Deputy of Ukraine,Yuriy Pavlenko,Q2330587,2019-08-29,,male,1975-03-20,,Pavlenko Yuriy.jpg,Yurii Pavlenko
+Ukraine,People's Deputy of Ukraine,Hryhoriy Nemyria,Q2343701,2019-08-29,,male,1960-04-05,,EPP Summit June 2011 - Hrihoriy Nemyria.jpg,Hryhoriy Nemyria
+Ukraine,People's Deputy of Ukraine,Vasily Nimchenko,Q23636120,2019-08-29,,male,1950-09-13,,,
 Ukraine,People's Deputy of Ukraine,Andriy Parubiy,Q2482633,2019-08-29,,male,1971-01-31,,Andriy parubiy cropped.jpg,Andriy Parubiy
 Ukraine,People's Deputy of Ukraine,Robert Horvat,Q24958322,2019-08-29,,male,1969-02-17,,Горват Роберт Іванович1491 VADIM CHUPRINA 05.jpg,Robert Khorvat
+Ukraine,People's Deputy of Ukraine,Valentyn Nalyvaichenko,Q2509516,2019-08-29,,male,1966-06-08,,"Наливайченко, Валентин Александрович 0074 Чуприна Вадим А.jpg",Valentyn Nalyvaichenko
+Ukraine,People's Deputy of Ukraine,Maksym Savrasov,Q25375975,2019-08-29,,male,1980-08-07,,,
+Ukraine,People's Deputy of Ukraine,Stepan Kubiv,Q2589861,2019-08-29,,male,1962-03-19,,Степан Кубів.jpg,Stepan Kubiv
+Ukraine,People's Deputy of Ukraine,Vasyl Virastyuk,Q2601051,2019-08-29,,male,1974-04-22,,Vasyl Virastyuk 2008.jpg,Vasyl Virastyuk
+Ukraine,People's Deputy of Ukraine,Ivan Kyrylenko,Q2614431,2019-08-29,,male,1956-10-02,,Ivan Kyrylenko.jpg,Ivan Kyrylenko
+Ukraine,People's Deputy of Ukraine,Svyatoslav Vakarchuk,Q2622781,2019-08-29,2020-06-26,male,1975-05-14,,Svyatoslav Vakarchuk July 2016.jpg,Svyatoslav Vakarchuk
+Ukraine,People's Deputy of Ukraine,Serhiy Vlasenko,Q2689345,2019-08-29,,male,1967-03-07,,Власенко Сергій Володимирович Вадим Чуприна © (cropped).JPG,Serhiy Vlasenko
+Ukraine,People's Deputy of Ukraine,Sergei Sobolev,Q2689356,2019-08-29,,male,1961-09-05,,Serhiy Soboliev.jpg,Serhiy Sobolyev
+Ukraine,People's Deputy of Ukraine,Andriy Kozhemiakin,Q2689361,2019-08-29,,male,1965-11-13,,Andriy Kozhemyakin.jpg,Andriy Kozhemiakin
+Ukraine,People's Deputy of Ukraine,Iryna Herashchenko,Q2690130,2019-08-29,,female,1971-05-15,,Iryna Herashchenko September 2016 (29376164683).jpg,Iryna Herashchenko (politician)
 Ukraine,People's Deputy of Ukraine,Iryna Konstankevych,Q27910161,2019-08-29,,female,1965-06-23,,,Iryna Konstankevych
 Ukraine,People's Deputy of Ukraine,Anatoliy Urbansky,Q28701872,2019-08-29,,male,1975-06-21,,Anatolij Urbansky.jpg,
 Ukraine,People's Deputy of Ukraine,Roman Hryshchuk,Q28860885,2019-08-29,,male,1989-08-27,,Roman gryshchuk (cropped).jpg,
 Ukraine,People's Deputy of Ukraine,Hennadiy Vatsak,Q30961598,2019-08-29,,male,1972-02-08,,,Hennadii Vatsak
 Ukraine,People's Deputy of Ukraine,Oleg Voloshyn,Q30961751,2019-08-29,,male,1981-04-07,,,Oleg Voloshyn
+Ukraine,People's Deputy of Ukraine,Konstantin Bondarev,Q3950513,2019-08-29,,male,1972-09-13,,,Konstantin Bondarev
+Ukraine,People's Deputy of Ukraine,Valeriy Dubil,Q3950518,2019-08-29,,male,1973-09-26,,Valeriy Deubil.jpg,
+Ukraine,People's Deputy of Ukraine,Volodymyr Ariev,Q4071072,2019-08-29,,male,1975-03-31,,Volodymyr Ariev2.jpg,Volodymyr Ariev
 Ukraine,People's Deputy of Ukraine,Viktor Bondar,Q4093282,2019-08-29,,male,1975-11-05,,Viktor Bondar.JPG,Viktor Bondar
+Ukraine,People's Deputy of Ukraine,Mykhailo Volynets,Q4124410,2019-08-29,,male,1956-10-30,,,
 Ukraine,People's Deputy of Ukraine,Yurii Zahorodnii,Q4183552,2019-08-29,,male,1959-05-07,,Zahorodnii Yurii Ivanovych 2020.jpg,Yurii Zahorodnii
 Ukraine,People's Deputy of Ukraine,Anton Kisse,Q4222295,2019-08-29,,male,1958-10-10,,Anton Kisse.jpg,Anton Kisse
+Ukraine,People's Deputy of Ukraine,Rusłan Kniazewycz,Q4224957,2019-08-29,,male,1974-06-28,,,
 Ukraine,People's Deputy of Ukraine,Yuriy Koryavchenkov,Q4234684,2019-08-29,,male,1974-11-26,,Yuriy Koryavchenkov.jpg,
+Ukraine,People's Deputy of Ukraine,Oleksiy Kucherenko,Q4249950,2019-08-29,,male,1961-04-03,,Oleksiy Kucherenko.jpg,Oleksiy Kucherenko
+Ukraine,People's Deputy of Ukraine,Anzhelika Labunska,Q4251923,2019-08-29,,female,1967-11-02,,Анжеліка Лабунська 1.JPG,
+Ukraine,People's Deputy of Ukraine,Yuliya Liovochkina,Q4256770,2019-08-29,,female,1977-02-17,,Julia Liovochkina.jpg,
 Ukraine,People's Deputy of Ukraine,Vadim Novinsky,Q4322799,2019-08-29,,male,1963-06-03,,Вадим Новинський на літургії митрополита Онуфрія (cropped).jpg,Vadym Novynskyi
+Ukraine,People's Deputy of Ukraine,Mykhailo Papiyev,Q4344668,2019-08-29,,male,1960-10-01,,Михаил Папиев 10 февраля 2010 года.JPG,Mykhailo Papiyev
 Ukraine,People's Deputy of Ukraine,Andriy Ivanchuk,Q4352165,2019-08-29,,male,1973-06-16,,Andriy Ivanchuk.jpg,Andrey Vladimirovich Ivanchuk
 Ukraine,People's Deputy of Ukraine,Yaroslav Yurchyshyn,Q44056619,2019-08-29,,male,1980-10-14,,Ярослав Юрчишин.jpg,
 Ukraine,People's Deputy of Ukraine,Davyd Arakhamia,Q44059595,2019-08-29,,male,1979-05-23,,Arakhamia Davyd.jpg,Davyd Arakhamia
-Ukraine,People's Deputy of Ukraine,Oleksandr Tkachenko,Q4458923,2019-08-29,,male,1966-01-22,,Олександр Ткаченко.jpg,Oleksandr Tkachenko (journalist)
+Ukraine,People's Deputy of Ukraine,Natalia Korolevska,Q442391,2019-08-29,,female,1975-05-18,,Королевська Наталия Юрьевна Вадим Чуприна © 1.JPG,Natalia Korolevska
+Ukraine,People's Deputy of Ukraine,Vadim Stolar,Q4442811,2019-08-29,,male,1982-08-10,,Stolar Vadim.png,
+Ukraine,People's Deputy of Ukraine,Oleksandr Tkachenko,Q4458923,2019-08-29,2020-06-04,male,1966-01-22,,Олександр Ткаченко.jpg,Oleksandr Tkachenko (journalist)
 Ukraine,People's Deputy of Ukraine,Ołeksandr Feldman,Q4482504,2019-08-29,,male,1960-01-06,,"Oleksandr Feldman, Ukrainian politician.jpg",Oleksandr Feldman
 Ukraine,People's Deputy of Ukraine,Dmytro Shpenov,Q4526413,2019-08-29,,male,1978-12-20,,Шпенов Дмитро Юрійович Вадим Чуприна © (cropped).jpg,
 Ukraine,People's Deputy of Ukraine,Solomiia Bobrovska,Q47489760,2019-08-29,,female,1989-12-20,,,Solomiia Bobrovska
+Ukraine,People's Deputy of Ukraine,Yulia Tymoshenko,Q48283,2019-08-29,,female,1960-11-27,,Yulia Tymoshenko 2018 Vadim Chuprina.jpg,Yulia Tymoshenko
 Ukraine,People's Deputy of Ukraine,Renat Kuzmin,Q5015548,2019-08-29,,male,1967-07-12,,Renat Kuzmin.jpg,Renat Kuzmin
+Ukraine,People's Deputy of Ukraine,Serhiy Taruta,Q538204,2019-08-29,,male,1955-07-23,,Taruta-mariupol.jpg,Serhiy Taruta
+Ukraine,People's Deputy of Ukraine,Serhiy Lyovochkin,Q538231,2019-08-29,,male,1972-07-17,,Serhiy Lyovochkin.png,Serhiy Lyovochkin
 Ukraine,People's Deputy of Ukraine,Olena Shuliak,Q55107948,2019-08-29,,female,1976-01-24,,Sn13Шуляк Олена.jpg,Olena Shuliak
 Ukraine,People's Deputy of Ukraine,Lesia Vasylenko,Q55107999,2019-08-29,,female,1987-03-31,,Lesia Vasylenko.jpg,
 Ukraine,People's Deputy of Ukraine,Andrii Osadchuk,Q56368885,2019-08-29,,male,1971-11-20,,,
 Ukraine,People's Deputy of Ukraine,Petro Poroshenko,Q58077,2019-08-29,,male,1965-09-26,,Official portrait of Petro Poroshenko.jpg,Petro Poroshenko
-Ukraine,People's Deputy of Ukraine,Ivan Kalaur,Q61116462,2019-08-29,,male,1968-07-04,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Kaltsev,Q61117938,2019-08-29,,male,1966-06-16,,Володимир Федорович Кальцев.jpg,
 Ukraine,People's Deputy of Ukraine,Dmytro Razumkov,Q63184986,2019-08-29,,male,1983-10-08,,Razumkov official photo 2021.jpg,Dmytro Razumkov
 Ukraine,People's Deputy of Ukraine,Olha Saladukha,Q6351,2019-08-29,,female,1983-06-04,,Olga Saladuha by Augustas Didzgalvis.jpg,Olha Saladukha
 Ukraine,People's Deputy of Ukraine,Serhiy Kalchenko,Q63568986,2019-08-29,,male,1964-12-30,,,
 Ukraine,People's Deputy of Ukraine,Yuliia Klymenko,Q64064169,2019-08-29,,female,1976-10-05,,Юлія Клименко.jpg,
-Ukraine,People's Deputy of Ukraine,Mykhailo Fedorov,Q64495543,2019-08-29,,male,1991-01-21,,Mykhailo Fedorov.jpg,Mykhailo Fedorov
+Ukraine,People's Deputy of Ukraine,Mykhailo Fedorov,Q64495543,2019-08-29,2019-08-29,male,1991-01-21,,Mykhailo Fedorov.jpg,Mykhailo Fedorov
 Ukraine,People's Deputy of Ukraine,Kyryll Nesterenko,Q64511146,2019-08-29,,male,1993-02-08,,Kirill-nesterenko.jpg,
 Ukraine,People's Deputy of Ukraine,Yevhen Pyvovarov,Q64624159,2019-08-29,,male,1978-11-04,,Wiki Pivovarov EP.jpg,
 Ukraine,People's Deputy of Ukraine,Iryna Venediktova,Q64632862,2019-08-29,2020-01-14,female,1978-09-21,,Venediktova.jpg,Iryna Venediktova
-Ukraine,People's Deputy of Ukraine,Vladyslav Krykliy,Q64809012,2019-08-29,,male,1986-11-27,,Vladyslav Krykliy 2020.jpg,Vladyslav Krykliy
+Ukraine,People's Deputy of Ukraine,Vladyslav Krykliy,Q64809012,2019-08-29,2019-08-29,male,1986-11-27,,Vladyslav Krykliy 2020.jpg,Vladyslav Krykliy
 Ukraine,People's Deputy of Ukraine,Rustem Umerov,Q64842485,2019-08-29,,male,1982-04-19,,Рустем Умеров.jpg,Rustem Umerov
 Ukraine,People's Deputy of Ukraine,Oleksii Zhmerenetskyi,Q64979621,2019-08-29,,male,1986-10-28,,Олексій Жмеренецький (cropped).jpg,Oleksii Zhmerenetskyi
 Ukraine,People's Deputy of Ukraine,Andriy Odarchenko,Q65131666,2019-08-29,,male,1978-11-02,,"Andriy Odarchenko, Ukrainian politician.jpg",
@@ -3008,8 +3086,8 @@ Ukraine,People's Deputy of Ukraine,Oksana Savchuk,Q65196720,2019-08-29,,female,1
 Ukraine,People's Deputy of Ukraine,Ihor Murdiy,Q65197457,2019-08-29,,male,1982-08-08,,,
 Ukraine,People's Deputy of Ukraine,Sergii Ionushas,Q65198485,2019-08-29,,male,1979-10-18,,,Sergii Ionushas
 Ukraine,People's Deputy of Ukraine,Marina Bardina,Q65198501,2019-08-29,,female,1992-12-17,,"Марина Бардіна під час конференції ""Діалоги про реформи. На шляху до Вільнюса"".jpg",
-Ukraine,People's Deputy of Ukraine,Denys Monastyrskyi,Q65198777,2019-08-29,,male,1980-06-12,,Denys Monastyrsky.jpg,Denys Monastyrsky
-Ukraine,People's Deputy of Ukraine,Oleksiy Orzhel,Q65198802,2019-08-29,,male,1984-01-26,,Олексій Оржель КМУ.jpg,Oleksiy Orzhel
+Ukraine,People's Deputy of Ukraine,Denys Monastyrskyi,Q65198777,2019-08-29,2021-07-16,male,1980-06-12,,Denys Monastyrsky.jpg,Denys Monastyrsky
+Ukraine,People's Deputy of Ukraine,Oleksiy Orzhel,Q65198802,2019-08-29,2019-08-29,male,1984-01-26,,Олексій Оржель КМУ.jpg,Oleksiy Orzhel
 Ukraine,People's Deputy of Ukraine,Mykhaylo Radutsky,Q65198825,2019-08-29,,male,1968-12-05,,,Mykhailo Radutskyi
 Ukraine,People's Deputy of Ukraine,Halyna Yanchenko,Q65198934,2019-08-29,,female,1988-04-29,,,Halyna Yanchenko
 Ukraine,People's Deputy of Ukraine,Yelyzaveta Yasko,Q65198937,2019-08-29,,female,1990-10-17,,Yasko Elyzaveta.jpg,Yelyzaveta Yasko
@@ -3021,13 +3099,13 @@ Ukraine,People's Deputy of Ukraine,Andriy Gerus,Q65201067,2019-08-29,,male,1982-
 Ukraine,People's Deputy of Ukraine,Serhii Babak,Q65201857,2019-08-29,,male,1978-07-31,,,
 Ukraine,People's Deputy of Ukraine,Vadym Halaichuk,Q65206874,2019-08-29,,male,1971-02-14,,,
 Ukraine,People's Deputy of Ukraine,Roksolana Pidlasa,Q65208208,2019-08-29,,female,1994-01-25,,PidlasaРоксоланапідласа667.jpg,
-Ukraine,People's Deputy of Ukraine,Ihor Kolykhaiev,Q65212886,2019-08-29,,male,1971-05-08,,Колихаєв Ігор Вікторович. 2020. UKRAINE.jpg,Ihor Kolykhaiev
+Ukraine,People's Deputy of Ukraine,Ihor Kolykhaiev,Q65212886,2019-08-29,2021-03-30,male,1971-05-08,,Колихаєв Ігор Вікторович. 2020. UKRAINE.jpg,Ihor Kolykhaiev
 Ukraine,People's Deputy of Ukraine,Ivan Yunakov,Q65645758,2019-08-29,,male,1984-01-28,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Dubinsky,Q65663194,2019-08-29,,male,1981-04-18,,Oleksandr Dubinskiy.jpg,Oleksandr Dubinsky
 Ukraine,People's Deputy of Ukraine,Olena Kopanchuk,Q65920318,2019-08-29,,female,1978-11-01,,Копанчук О..jpg,Kopanchuk Olena Yevhenivna
 Ukraine,People's Deputy of Ukraine,Heo Leros,Q65922607,2019-08-29,,male,1989-04-24,,Лерос Гео Багратович (2020).jpg,
 Ukraine,People's Deputy of Ukraine,Andriy Boblyakh,Q65931465,2019-08-29,,male,1985-03-05,,Boblyakh.jpg,
-Ukraine,People's Deputy of Ukraine,Zinoviy Andriyovych,Q65931490,2019-08-29,,male,1972-01-10,,,
+Ukraine,People's Deputy of Ukraine,Zinoviy Andriyovych,Q65931490,2019-08-29,2020-11-17,male,1972-01-10,,,
 Ukraine,People's Deputy of Ukraine,Oleh Makarov,Q65938541,2019-08-29,,male,1965-07-24,,,
 Ukraine,People's Deputy of Ukraine,Oleksandra Ustinova,Q65938549,2019-08-29,,female,1985-10-02,,,
 Ukraine,People's Deputy of Ukraine,Nataliya Pipa,Q65946387,2019-08-29,,female,1983-10-12,,Nataliapipa.jpg,
@@ -3053,8 +3131,8 @@ Ukraine,People's Deputy of Ukraine,Olha Stefanyshyna,Q66486525,2019-08-29,,femal
 Ukraine,People's Deputy of Ukraine,Yaroslav Zhelezniak,Q66486529,2019-08-29,,male,1989-10-20,,,
 Ukraine,People's Deputy of Ukraine,Yevhen Petruniak,Q66609759,2019-08-29,,male,1977-07-24,,,
 Ukraine,People's Deputy of Ukraine,Mariya Mezentseva,Q66711955,2019-08-29,,female,1989-12-10,,,
-Ukraine,People's Deputy of Ukraine,Denys Maliuska,Q66809435,2019-08-29,,male,1981-11-19,,Denys Malyuska.jpg,Denys Maliuska
-Ukraine,People's Deputy of Ukraine,Oleksandr Kubrakov,Q66809451,2019-08-29,,male,1982-08-20,,"Чортків, Олександр Кубраков, 2020.jpg",Oleksandr Kubrakov
+Ukraine,People's Deputy of Ukraine,Denys Maliuska,Q66809435,2019-08-29,2019-08-29,male,1981-11-19,,Denys Malyuska.jpg,Denys Maliuska
+Ukraine,People's Deputy of Ukraine,Oleksandr Kubrakov,Q66809451,2019-08-29,2019-12-03,male,1982-08-20,,"Чортків, Олександр Кубраков, 2020.jpg",Oleksandr Kubrakov
 Ukraine,People's Deputy of Ukraine,Yuliia Didenko,Q66809461,2019-08-29,,female,1978-05-08,,,
 Ukraine,People's Deputy of Ukraine,Dmytro Solomchuk,Q66809477,2019-08-29,,male,1980-10-01,,,
 Ukraine,People's Deputy of Ukraine,Mykhailo Ananchenko,Q66809490,2019-08-29,,male,1994-11-17,,Mykhailo Ananchenko.jpg,
@@ -3069,7 +3147,7 @@ Ukraine,People's Deputy of Ukraine,Artem Kovalov,Q66809845,2019-08-29,,male,1984
 Ukraine,People's Deputy of Ukraine,Valerii Sterniichuk,Q66809981,2019-08-29,,male,1981-06-18,,,
 Ukraine,People's Deputy of Ukraine,Galyna Mykhailiuk,Q66809997,2019-08-29,,female,1987-06-14,,Михайлюк Галина.jpg,Galyna Mykhailiuk
 Ukraine,People's Deputy of Ukraine,Roman Babii,Q66810048,2019-08-29,,male,1977-07-06,,,
-Ukraine,People's Deputy of Ukraine,Hanna Novosad,Q66810142,2019-08-29,,female,1990-07-28,,Анна Новосад. 3 декабря 2019 года.jpg,Hanna Novosad
+Ukraine,People's Deputy of Ukraine,Hanna Novosad,Q66810142,2019-08-29,2019-08-29,female,1990-07-28,,Анна Новосад. 3 декабря 2019 года.jpg,Hanna Novosad
 Ukraine,People's Deputy of Ukraine,Vyacheslav Rublyov,Q66810153,2019-08-29,,male,1979-02-25,,,Viacheslav Rublyov
 Ukraine,People's Deputy of Ukraine,Dmytro Kysylevsky,Q66813300,2019-08-29,,male,1983-04-23,,,Dmytro Kysylevskyi
 Ukraine,People's Deputy of Ukraine,Vyacheslav Medyanyk,Q66813344,2019-08-29,,male,1987-08-03,,,
@@ -3149,7 +3227,7 @@ Ukraine,People's Deputy of Ukraine,Yuriy Zdebsky,Q66919139,2019-08-29,,male,1972
 Ukraine,People's Deputy of Ukraine,Oleksandr Bakumov,Q66919527,2019-08-29,,male,1989-04-25,,,
 Ukraine,People's Deputy of Ukraine,Dmytro Lyubota,Q66919918,2019-08-29,,male,1981-01-09,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Litvinov,Q66920339,2019-08-29,,male,1972-01-21,,,
-Ukraine,People's Deputy of Ukraine,Oleksiy Kucher,Q66920519,2019-08-29,,male,1985-03-23,,Kucher Oleksii 20.08.07 - 01.jpg,Oleksiy Kucher
+Ukraine,People's Deputy of Ukraine,Oleksiy Kucher,Q66920519,2019-08-29,2019-12-03,male,1985-03-23,,Kucher Oleksii 20.08.07 - 01.jpg,Oleksiy Kucher
 Ukraine,People's Deputy of Ukraine,Oleksiy Krasov,Q66920733,2019-08-29,,male,1987-11-13,,,
 Ukraine,People's Deputy of Ukraine,Dmytro Mykysha,Q66922328,2019-08-29,,male,1985-09-04,,,
 Ukraine,People's Deputy of Ukraine,Pavlo Pavlish,Q66922539,2019-08-29,,male,1979-12-10,,,
@@ -3178,7 +3256,7 @@ Ukraine,People's Deputy of Ukraine,Lyudmyla Buymister,Q66970651,2019-08-29,,fema
 Ukraine,People's Deputy of Ukraine,Musa Magomedov,Q66972269,2019-08-29,,male,1970-04-07,,,
 Ukraine,People's Deputy of Ukraine,Fedir Khrystenko,Q66972430,2019-08-29,,male,1983-10-11,,,
 Ukraine,People's Deputy of Ukraine,Valeriy Hnatenko,Q66972546,2019-08-29,,male,1967-02-03,,,
-Ukraine,People's Deputy of Ukraine,Ruslan Trebushkin,Q66972674,2019-08-29,,male,1975-11-27,,,
+Ukraine,People's Deputy of Ukraine,Ruslan Trebushkin,Q66972674,2019-08-29,2020-12-16,male,1975-11-27,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Kovalov,Q66972848,2019-08-29,,male,1967-10-07,,,
 Ukraine,People's Deputy of Ukraine,Yevhen Yakovenko,Q66972997,2019-08-29,,male,1965-06-06,,,
 Ukraine,People's Deputy of Ukraine,Serhiy Mahera,Q66973148,2019-08-29,,male,1956-11-08,,,
@@ -3204,10 +3282,10 @@ Ukraine,People's Deputy of Ukraine,Oleh Tarasov,Q70709509,2019-08-29,,male,1984-
 Ukraine,People's Deputy of Ukraine,Lada Bulakh,Q70709830,2019-08-29,,female,1976-02-11,,,
 Ukraine,People's Deputy of Ukraine,Ella Riepina,Q71951503,2019-08-29,,female,1973-11-17,,,
 Ukraine,People's Deputy of Ukraine,Andrii Puziichuk,Q72258501,2019-08-29,,male,1978-06-13,,,
+Ukraine,People's Deputy of Ukraine,Mustafa Dzhemilev,Q735699,2019-08-29,,male,1943-11-13,,Mustafa Abdülcemil Kırımoğlu.jpg,Mustafa Dzhemilev
 Ukraine,People's Deputy of Ukraine,Mykhailo Kriachko,Q75792742,2019-08-29,,male,1980-05-24,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Kabachenko,Q75813748,2019-08-29,,male,1987-07-01,,,
 Ukraine,People's Deputy of Ukraine,Oleh Marusiak,Q77226986,2019-08-29,,male,1968-09-24,,,
-Ukraine,People's Deputy of Ukraine,Serhii Mandzii,Q77241647,2019-08-29,,male,1974-11-28,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Merezhko,Q7757002,2019-08-29,,male,1971-02-14,,Oleksandr Merezhko.jpg,
 Ukraine,People's Deputy of Ukraine,Viktoriia Podhorna,Q79005993,2019-08-29,,female,1969-02-10,,,Viktoriya Valentynivna Podhorna
 Ukraine,People's Deputy of Ukraine,Mykola Solsky,Q79291635,2019-08-29,,male,1979-05-22,,,
@@ -3236,6 +3314,7 @@ Ukraine,People's Deputy of Ukraine,Maksym Pavliuk,Q82447440,2019-08-29,,male,199
 Ukraine,People's Deputy of Ukraine,Artem Nahaievskyi,Q82458877,2019-08-29,,male,1983-01-24,,,
 Ukraine,People's Deputy of Ukraine,Andrii Motovylovets,Q82747550,2019-08-29,,male,1982-04-29,,,Andrey Motovilovets
 Ukraine,People's Deputy of Ukraine,Viktor Chornyi,Q83536253,2019-08-29,,male,1968-04-06,,Viktor Chornyi 22.01.2020 UKRAINE.jpg,Viktor Chornyi
+Ukraine,People's Deputy of Ukraine,Oleksandr Abdullin,Q83996,2019-08-29,,male,1962-06-29,,But11Абдуллін Олександр Рафкатович.jpg,Oleksandr Abdullin
 Ukraine,People's Deputy of Ukraine,Yevhenii Brahar,Q84004767,2019-08-29,,male,1994-05-30,,Брагар Євгеній. Народний депутат України.jpg,
 Ukraine,People's Deputy of Ukraine,Vitalii Bezghin,Q84009307,2019-08-29,,male,1990-04-18,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Kabanov,Q84016570,2019-08-29,,male,1973-08-06,,,
@@ -3247,7 +3326,6 @@ Ukraine,People's Deputy of Ukraine,Mykola Oleksandrovych Kyrychenko,Q85429117,20
 Ukraine,People's Deputy of Ukraine,Volodymyr Vatras,Q85989568,2019-08-29,,male,1980-02-12,,,
 Ukraine,People's Deputy of Ukraine,Daria Volodina,Q85989884,2019-08-29,,female,1991-04-16,,,
 Ukraine,People's Deputy of Ukraine,Oksana Hrynchuk,Q85990854,2019-08-29,,female,1979-06-20,,,
-Ukraine,People's Deputy of Ukraine,Yuliia Hryshyna,Q85990874,2019-08-29,,female,1978-06-16,,"Hryshyna Yuliia Mykolaivna, people deputy, 9th Ukrainian Verkhovna Rada.jpg",
 Ukraine,People's Deputy of Ukraine,Alina Zagoruyko,Q85992245,2019-08-29,,female,1984-04-11,,"Аліна Загоруйко під час конференції ""Діалоги про реформи. На шляху до Вільнюса"".jpg",
 Ukraine,People's Deputy of Ukraine,Olha Koval,Q85993387,2019-08-29,,female,1991-06-17,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Kozak,Q85993460,2019-08-29,,male,1984-06-09,,,
@@ -3263,24 +3341,35 @@ Ukraine,People's Deputy of Ukraine,Oleksandr Marikovskyi,Q85995508,2019-08-29,,m
 Ukraine,People's Deputy of Ukraine,Vasyl Mokan,Q85996011,2019-08-29,,male,1985-04-19,,,
 Ukraine,People's Deputy of Ukraine,Roman Mulyk,Q85996107,2019-08-29,,male,1973-06-18,,,
 Ukraine,People's Deputy of Ukraine,Yuliia Ovchynnykova,Q85996605,2019-08-29,,female,1985-03-24,,Borzov and Ovchynnikova (cropped).jpg,
-Ukraine,People's Deputy of Ukraine,Anatolii Ostapenko,Q85996834,2019-08-29,,male,1968-02-01,,,
 Ukraine,People's Deputy of Ukraine,Tetiana Plachkova,Q85997313,2019-08-29,,female,1983-01-05,,,
 Ukraine,People's Deputy of Ukraine,Dmytro Pryputen,Q85997671,2019-08-29,,male,1986-05-23,,,
 Ukraine,People's Deputy of Ukraine,Nataliia Prykhodko,Q85997696,2019-08-29,,female,1981-10-29,,,
-Ukraine,People's Deputy of Ukraine,Olha Rudenko,Q85998269,2019-08-29,,female,1979-05-29,,,
 Ukraine,People's Deputy of Ukraine,Antonina Slavytska,Q85998866,2019-08-29,,female,1988-04-30,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Fediienko,Q85999996,2019-08-29,,male,1972-04-20,,,
 Ukraine,People's Deputy of Ukraine,Pavlo Frolov,Q86000031,2019-08-29,,male,1976-09-01,,,
 Ukraine,People's Deputy of Ukraine,Olena Khomenko,Q86000218,2019-08-29,,female,1975-12-07,,,
 Ukraine,People's Deputy of Ukraine,Volodymyr Tsabal,Q86000294,2019-08-29,,male,1985-04-25,,,
-Ukraine,People's Deputy of Ukraine,Tetiana Tsyba,Q86000387,2019-08-29,,female,1977-04-15,,,
 Ukraine,People's Deputy of Ukraine,Nelli Yakovlieva,Q86001092,2019-08-29,,female,1985-06-21,,,
 Ukraine,People's Deputy of Ukraine,Viktor Baloha,Q898717,2019-08-29,,male,1963-06-15,,Baloha Viktor-MNS UA-photo.jpg,Viktor Baloha
-Ukraine,People's Deputy of Ukraine,Volodymyr Viatrovych,Q9377997,2019-08-29,,male,1977-07-07,,Wlodzimierz wiatrowycz.jpg,Volodymyr Viatrovych
 Ukraine,People's Deputy of Ukraine,Kira Rudyk,Q94633869,2019-08-29,,female,1985-10-14,,Kira Rudyk (cropped).jpg,Kira Rudyk
-Ukraine,People's Deputy of Ukraine,Denys Maslov,Q96210463,2019-08-29,,male,1983-08-01,,,
 Ukraine,People's Deputy of Ukraine,Suto Mamoian,Q96621339,2019-08-29,,male,1981-12-02,,,Suto Mamoian
+Ukraine,People's Deputy of Ukraine,Serhiy Larin,Q12117141,2019-09-03,,male,1962-01-11,,Serhiy Larin.jpg,Serhiy Larin
+Ukraine,People's Deputy of Ukraine,Ivan Kalaur,Q61116462,2019-09-03,,male,1968-07-04,,,
+Ukraine,People's Deputy of Ukraine,Yuliia Hryshyna,Q85990874,2019-09-03,,female,1978-06-16,,"Hryshyna Yuliia Mykolaivna, people deputy, 9th Ukrainian Verkhovna Rada.jpg",
+Ukraine,People's Deputy of Ukraine,Anatolii Ostapenko,Q85996834,2019-09-03,,male,1968-02-01,,,
+Ukraine,People's Deputy of Ukraine,Olha Rudenko,Q85998269,2019-09-03,,female,1979-05-29,,,
+Ukraine,People's Deputy of Ukraine,Tetiana Tsyba,Q86000387,2019-09-03,,female,1977-04-15,,,
+Ukraine,People's Deputy of Ukraine,Oleksandr Kopylenko,Q16665708,2019-10-15,,male,1961-06-26,,Oleksandr Kopylenko.jpg,
 Ukraine,People's Deputy of Ukraine,Serhii Rudyk,Q16714864,2019-11-12,,male,1970-10-11,,Рудик Сергій Ярославович 888 Vadim Chuprina.jpg,Serhii Rudyk
+Ukraine,People's Deputy of Ukraine,Volodymyr Viatrovych,Q9377997,2019-12-03,,male,1977-07-07,,Wlodzimierz wiatrowycz.jpg,Volodymyr Viatrovych
+Ukraine,People's Deputy of Ukraine,Serhii Mandzii,Q77241647,2019-12-06,,male,1974-11-28,,,
 Ukraine,People's Deputy of Ukraine,Oleksandr Sanchenko,Q81281218,2020-01-17,,male,1988-09-11,,Олександр Санченко 2020 (cropped).jpg,
 Ukraine,People's Deputy of Ukraine,Yuliya Svitlychna,Q26726321,2020-04-13,,female,1984-06-06,,Yuliya Svitlychna Head of Kharkiv Region State Administration.jpg,Yuliya Svitlychna
+Ukraine,People's Deputy of Ukraine,Denys Maslov,Q96210463,2020-06-16,,male,1983-08-01,,,
+Ukraine,People's Deputy of Ukraine,Serhii Yevtushok,Q12073183,2020-06-30,,male,1973-11-13,,,
+Ukraine,People's Deputy of Ukraine,Andrii Sharaskin,Q64025729,2020-11-06,,male,1977-09-20,,Andriy Sharaskin.jpg,
 Ukraine,People's Deputy of Ukraine,Anatoliy Hunko,Q102046961,2020-11-17,,male,1976-03-12,,,
+Ukraine,People's Deputy of Ukraine,Anton Oleksiyovych Shvachko,Q109338782,2021-09-07,,male,,,,Anton Oleksiyovych Shvachko
+Ukraine,People's Deputy of Ukraine,Serhiy Kozyr,Q109337498,2021-11-16,,male,,,Serhiy Kozyr.jpg,
+Ukraine,People's Deputy of Ukraine,Sergei Kostriichuk,Q110914231,2021-11-16,,,,,,
+Ukraine,People's Deputy of Ukraine,Vitaliy Wojciechowski,Q44055503,2021-11-16,,male,1967-07-04,,Войцехівський Віталій Олександрович.jpg,
