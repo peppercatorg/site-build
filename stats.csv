@@ -47,14 +47,14 @@ el-salvador,21,37,12,47
 eritrea,20,29,0,29
 estonia,25,163,385,444
 ethiopia,30,54,1,54
-european-union,31,120,2819,2901
+european-union,31,120,2820,2902
 faroes,8,22,6,26
 fiji,14,28,3,28
 finland,30,127,430,465
 france,50,592,2018,2523
 gabon,6,32,3,33
 gambia,25,62,2,63
-georgia,19,153,28,171
+georgia,19,160,28,178
 germany,37,617,3516,4031
 ghana,16,109,777,822
 gibraltar,11,23,40,53
@@ -63,7 +63,7 @@ greenland,12,32,2,33
 guatemala,20,56,5,58
 honduras,9,16,3,19
 hong-kong,18,64,109,166
-hungary,23,99,822,879
+hungary,23,99,823,880
 iceland,17,77,198,220
 india,106,380,1614,1865
 indonesia,45,89,874,954
@@ -157,7 +157,7 @@ turkey,25,106,775,847
 turks-and-caicos,12,28,7,30
 tuvalu,12,49,26,51
 uganda,9,29,8,36
-ukraine,33,205,2048,2153
+ukraine,33,232,2048,2173
 united-kingdom,51,936,2682,3369
 united-states,87,891,5257,6043
 uruguay,21,40,92,114
@@ -166,4 +166,4 @@ vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,26,54,34,77
-TOTAL,4304,16438,63871,75344
+TOTAL,4304,16472,63873,75373
