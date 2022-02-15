@@ -1,4 +1,529 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Australia,Speaker of the Legislative Assembly,Shane Rattenbury,Q7488240,2008-11-05,2012-11-06,male,1971-08-25,,Shane Rattenbury MLA ACT Greens.jpg,Shane Rattenbury
+Australia,Speaker of the Legislative Assembly,Vicki Dunne,Q7925392,2012-11-06,2016-10-31,female,1956-12-25,,,Vicki Dunne
+Australia,Justice of the Supreme Court,Malcolm Gray,Q56050641,2000,,male,1941-08-01,,,
+Australia,Attorney-General,Bill Stefaniak,Q4910989,2000-12-15,2001-11-14,male,1952-01-08,,Bill Stefaniak.jpg,Bill Stefaniak
+Australia,Deputy Premier,John Watkins,Q16186946,2005-08-10,2008-09-05,male,1955-12-07,,,John Watkins (Australian politician)
+Australia,Deputy Premier,Carmel Tebbutt,Q5043327,2008-09-05,2011-03-26,female,1964-01-22,,,Carmel Tebbutt
+Australia,Deputy Premier,John Barilaro,Q6220673,2016-11-15,2021-10-06,male,1971-11-14,,John Barilaro 2016.jpg,John Barilaro
+Australia,Minister for Aboriginal Affairs,Milton Orkopoulos,Q6861366,2005-08-10,2006-11-08,male,1957-07-22,,,Milton Orkopoulos
+Australia,Minister for Counter Terrorism and Corrections,David Elliott,Q5233352,2017-01-30,2019-04-02,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
+Australia,Minister for Counter Terrorism and Corrections,Anthony Roberts,Q4773367,2019-04-02,,male,1970-04-17,,Anthony Roberts 2016.jpg,Anthony Roberts
+Australia,Minister for Health and Medical Research,Jillian Skinner,Q6193175,2011-04-03,,female,1944-08-05,,Jillian Skinner at the Mosman International Women's Day Breakfast.jpg,Jillian Skinner
+Australia,Minister for Industrial Relations,Gladys Berejiklian,Q5566385,2015-04-02,2017-01-30,female,1970-09-22,,Premier Gladys 2019.jpg,Gladys Berejiklian
+Australia,Minister for Industrial Relations,Dominic Perrottet,Q5290616,2017-01-30,2019-04-02,male,1982-09-21,,"CEBIT Australia - Day 2, The Hon Dominic Perrottet MP (2) (cropped).jpg",Dominic Perrottet
+Australia,Minister for Justice,Greg Smith,Q5606262,2011-04-03,2014-04-17,male,1947-11-26,,,Greg Smith (New South Wales politician)
+Australia,Minister for Police and Emergency Services,Stuart Ayres,Q7626294,2014-05-06,2015-04-02,male,1980-11-24,,Stuart Ayres 2015.jpg,Stuart Ayres
+Australia,Minister for Police and Emergency Services,David Elliott,Q5233352,2019-04-02,,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
+Australia,Minister for Sport and Recreation,Kevin Greene,Q6396393,2009-12-08,2011-03-28,male,1958-10-18,,,Kevin Greene (politician)
+Australia,Minister for Sport and Recreation,Stuart Ayres,Q7626294,2014-04-23,,male,1980-11-24,,Stuart Ayres 2015.jpg,Stuart Ayres
+Australia,Minister for Transport,Gladys Berejiklian,Q5566385,2011-04-03,2015-04-02,female,1970-09-22,,Premier Gladys 2019.jpg,Gladys Berejiklian
+Australia,Minister for Transport,Andrew Constance,Q4756662,2015-04-02,2021-10-06,male,1973-10-31,,Minister introduces Sydney's first metro train (37069473950) (cropped).png,Andrew Constance
+Australia,Minister for Transport,Melinda Pavey,Q6812492,2017-01-30,2019-04-02,female,1969,,Melinda Pavey.jpg,Melinda Pavey
+Australia,"Minister for Water, Property and Housing",Melinda Pavey,Q6812492,2019-04-02,,female,1969,,Melinda Pavey.jpg,Melinda Pavey
+Australia,Vice-President of the Executive Council,Michael Egan,Q6830088,1995-04-03,2005-01-21,male,1948-02-21,,,Michael Egan (Australian politician)
+Australia,Vice-President of the Executive Council,Duncan Gay,Q5314363,2014-05-07,2017-01-23,male,1950-05-02,,"NSW Minister for Roads and Ports, Duncan Gay speech at the Holbrook bypass open day (cropped).jpg",Duncan Gay
+Australia,President of the Legislative Council,Fred Nile,Q5496002,2007-11-28,,male,1934-09-15,,,Fred Nile
+Australia,President of the Legislative Council,Amanda Fazio,Q4739616,2009-11-24,2011-05-03,female,1954-08-23,,,Amanda Fazio
+Australia,President of the Legislative Council,John Ajaka,Q6218383,2017-02-21,2021-03-24,male,1956-01-13,,,John Ajaka
+Australia,President of the Legislative Council,Matthew Mason-Cox,Q6790929,2021-05-04,,male,,,,Matthew Mason-Cox
+Australia,Speaker of the Legislative Assembly,John Murray,Q6249930,1995-05-02,2003-02-28,male,1939-07-14,,,John Murray (New South Wales politician)
+Australia,Speaker of the Legislative Assembly,John Aquilina,Q6219273,2003-04-29,2007-05-07,male,1950-03-12,,,John Aquilina
+Australia,Speaker of the Legislative Assembly,Richard Torbay,Q7329514,2007-05-08,2011-05-02,male,1961-03-26,,"Hon Richard Torbay MP, Speaker of the House.jpg",Richard Torbay
+Australia,Speaker of the Legislative Assembly,Shelley Hancock,Q7493784,2011-05-03,,female,1951-01-14,,Shelley Hancock Official Photo.jpg,Shelley Hancock
+Australia,Treasurer,Michael Egan,Q6830088,1995-04-03,2005-01-21,male,1948-02-21,,,Michael Egan (Australian politician)
+Australia,Treasurer,Gladys Berejiklian,Q5566385,2015-04-02,2017-01-30,female,1970-09-22,,Premier Gladys 2019.jpg,Gladys Berejiklian
+Australia,Treasurer,Dominic Perrottet,Q5290616,2017-01-30,2021-10-05,male,1982-09-21,,"CEBIT Australia - Day 2, The Hon Dominic Perrottet MP (2) (cropped).jpg",Dominic Perrottet
+Australia,Treasurer,Matt Kean,Q6788883,2021-10-05,,male,1981-09-16,,Matt Kean - CEBIT Australia Day 1 Plenary.jpg,Matt Kean
+Australia,Chief Justice,James Spigelman,Q6143445,1998-05-19,2011-05-31,male,1946-01-01,,James Spigelman 2012-02.jpg,James Spigelman
+Australia,Chief Justice,Tom Bathurst,Q7814902,2011-06-01,,male,1948-03-17,,,Tom Bathurst
+Australia,Attorney General,Bob Debus,Q4932251,2000-06-28,2007-04-02,male,1943-09-16,,,Bob Debus
+Australia,Attorney General,Greg Smith,Q5606262,2011-04-03,2014-04-17,male,1947-11-26,,,Greg Smith (New South Wales politician)
+Australia,Attorney General,Gabrielle Upton,Q5516102,2015-04-02,2017-01-30,female,1964-12-16,,The Hon. Gabrielle Upton MP.jpg,Gabrielle Upton
+Australia,Attorney General,Mark Speakman,Q6769797,2017-01-30,,male,1959-11-06,,150225 MDCC Election Forum Mark Speakman.jpg,Mark Speakman
+Australia,Commissioner of Police,Peter Ryan,Q7176722,1996-08-30,2002-04-17,male,1944-05-18,,,Peter Ryan (police officer)
+Australia,Commissioner of Police,Ken Moroney,Q6388188,2002-05-29,2007-08-31,male,1946-08-18,,,Ken Moroney
+Australia,Commissioner of Police,Andrew Scipione,Q4758530,2007-08-31,2017-03-31,male,1958-03-31,,,Andrew Scipione
+Australia,Commissioner of Police,Mick Fuller,Q29336271,2017-03-31,,male,,,,Mick Fuller
+Australia,Commissioner of Police,Karen Webb,Q109696694,2022-02-01,,female,,,,Karen Webb
+Australia,Deputy Chief Minister,Mike Reed,Q16107102,1995-05-26,2001-08-26,male,1945-06-02,2020-11-24,,Mike Reed (politician)
+Australia,Deputy Chief Minister,Peter Styles,Q7177170,2016-02-16,,male,1953-07-08,,,Peter Styles (politician)
+Australia,Deputy Chief Minister,Nicole Manison,Q7030114,2016-09-12,,female,1979,,,Nicole Manison
+Australia,Minister for Education,Eva Lawler,Q26923342,2016-09-12,,female,,,,Eva Lawler
+Australia,Speaker of the Legislative Assembly,Loraine Braham,Q6678746,2001-10-16,2005-06-28,female,1938-08-21,,,Loraine Braham
+Australia,Speaker of the Legislative Assembly,Jane Aagaard,Q6151067,2005-06-29,2012-10-23,female,1956,,,Jane Aagaard
+Australia,Speaker of the Legislative Assembly,Kezia Purick,Q6398589,2012-10-23,2020-06-23,female,1958-05-12,,,Kezia Purick
+Australia,Speaker of the Legislative Assembly,Chansey Paech,Q26709567,2020-06-23,2020-09-08,male,1987,,,Chansey Paech
+Australia,Speaker of the Legislative Assembly,Ngaree Ah Kit,Q26732186,2020-10-20,,female,1981-06-04,,Ngaree Ah Kit Talisman Sabre 2015.jpg,Ngaree Ah Kit
+Australia,Chief Justice,Brian Martin,Q4965183,2004,,male,1947-09-02,,,Brian Ross Martin
+Australia,Chief Justice,Trevor Riley,Q16122431,2010-09-27,2016-07-04,male,1948-01-29,,,Trevor Riley
+Australia,Chief Justice,Michael Grant,Q109719613,2016-07-05,,male,1963,,,Michael Grant (judge)
+Australia,Treasurer,Nicole Manison,Q7030114,2016-08-31,,female,1979,,,Nicole Manison
+Australia,Deputy Premier,Terry Mackenroth,Q7704719,2000-11-30,2005-07-28,male,1949-07-16,2018-04-30,,Terry Mackenroth
+Australia,Deputy Premier,Jackie Trad,Q16214242,2015-02-14,,female,1972-04-25,,JackieTrad2.jpg,Jackie Trad
+Australia,Attorney-General,Matt Foley,Q6788649,1998-07-29,2001-02-22,male,1951-01-24,,,Matt Foley (politician)
+Australia,Attorney-General,Cameron Dick,Q5026232,2009-03-26,2011-02-21,male,1967,,Cameron Dick MP.jpg,Cameron Dick
+Australia,Attorney-General,Jarrod Bleijie,Q6161053,2012-04-03,2015-02-14,male,1982-01-25,,Jarrod Bleijie.jpg,Jarrod Bleijie
+Australia,Attorney-General,Yvette D'Ath,Q8062364,2015-02-16,,female,1970-07-26,,Yvette D'Ath MP November 2014.jpg,Yvette D'Ath
+Australia,Chief Justice,Paul de Jersey,Q7154577,1998-02-17,2014-07-08,male,1948-09-21,,US Navy 110507-N-1X994-001 Members of the U.S. 7th Fleet Band are inspected by acting Governor and Chief Justice of Queensland the Honorable Paul d (cropped).jpg,Paul de Jersey
+Australia,Chief Justice,Catherine Holmes,Q5052732,2015-09-11,,female,1956-10-12,,,Catherine Holmes
+Australia,Treasurer,Terry Mackenroth,Q7704719,2001-02-22,2005-07-25,male,1949-07-16,2018-04-30,,Terry Mackenroth
+Australia,Treasurer,Peter Beattie,Q3376445,2005-07-28,2006-02-02,male,1952-11-18,,"Peter Beattie at the Queen's Baton Relay, Sydney, Australia, 2018-02-03.jpg",Peter Beattie
+Australia,Treasurer,Tim Nicholls,Q7804046,2012-03-26,2015-02-14,male,1965-04-06,,Tim Nicholls CEO Sleepout 2011.jpg,Tim Nicholls
+Australia,Treasurer,Curtis Pitt,Q5195856,2015-02-16,2017-12-11,male,1977-02-01,,HonCurtisPitt.jpg,Curtis Pitt
+Australia,Treasurer,Jackie Trad,Q16214242,2017-12-12,,female,1972-04-25,,JackieTrad2.jpg,Jackie Trad
+Australia,Speaker of the Legislative Assembly,Neil Turner,Q6989433,1986-04-02,2008-06-13,male,1934-06-25,2011-07-04,,Neil Turner (Australian politician)
+Australia,Speaker of the Legislative Assembly,Ray Hollis,Q7297628,1998-07-28,2005-07-21,male,1940-01-30,,,Ray Hollis
+Australia,Speaker of the Legislative Assembly,Tony McGrady,Q7822929,2005-08-09,2006-10-09,male,1944-03-28,,,Tony McGrady
+Australia,Speaker of the Legislative Assembly,Mike Reynolds,Q6848553,2006-10-10,2009-02-23,male,1946-09-16,,,Mike Reynolds (politician)
+Australia,Speaker of the Legislative Assembly,John Mickel,Q6248688,2009-04-21,2012-05-14,male,1953-08,,"John Mickel speaks at launch of Secret History of Democracy, Avid Reader, Bouindary St, West End, Brisbane Queensland Australia 110630.jpg",John Mickel (politician)
+Australia,Speaker of the Legislative Assembly,Fiona Simpson,Q5451108,2012-05-15,2015-03-24,female,1965-04-18,,,Fiona Simpson
+Australia,Speaker of the Legislative Assembly,Peter Wellington,Q7177643,2015-03-24,2017-11-25,male,1957-08-21,,,Peter Wellington
+Australia,Speaker of the Legislative Assembly,Curtis Pitt,Q5195856,2018-02-13,,male,1977-02-01,,HonCurtisPitt.jpg,Curtis Pitt
+Australia,Lieutenant Governor,Basil Hetzel,Q15504776,1992,2000,male,1922-06-13,2017-02-04,Basil Hetzel.jpg,Basil Hetzel
+Australia,Lieutenant Governor,Bruno Krumins,Q57635654,2000,2007,male,1924-07-19,,,
+Australia,Lieutenant Governor,Hieu Van Le,Q5753361,2007-08-23,2014-08-15,male,1954-01-01,,Hieu Van Le 2015.jpg,Hieu Van Le
+Australia,Lieutenant Governor,Brenda Wilson,Q18166244,2014-08-15,2022-01-20,female,1959,,,Brenda Wilson
+Australia,Lieutenant Governor,James Muecke,Q83615892,2022-01-27,,male,,,,James Muecke
+Australia,Deputy Premier,Rob Kerin,Q3434193,1998-07-07,2001-10-22,male,1954-01-04,,,Rob Kerin
+Australia,Deputy Premier,Dean Brown,Q3020626,2001-10-22,2002-03-05,male,1943-04-05,,,Dean Brown
+Australia,Deputy Premier,Kevin Foley,Q6396291,2002-03-06,2011-02-08,male,1960-09-25,,Kevin Foley - politician.JPG,Kevin Foley (South Australian politician)
+Australia,Deputy Premier,John Rau,Q16193316,2011-02-07,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Deputy Premier,Vickie Chapman,Q7925455,2018-03-19,,female,1957-06-21,,Chapman2018.jpg,Vickie Chapman
+Australia,Minister for Aboriginal Affairs and Reconciliation,Terry Roberts,Q7704955,2002-03-06,2006-02-18,male,1946-01-28,2006-02-18,,Terry Roberts
+Australia,Minister for Aboriginal Affairs and Reconciliation,Jay Weatherill,Q1446178,2006-02-20,2010-03-25,male,1964-04-03,,Jay Weatherill.jpg,Jay Weatherill
+Australia,Minister for Aboriginal Affairs and Reconciliation,Grace Portolesi,Q5591343,2010-03-25,2011-10-21,female,1968-06-26,,,Grace Portolesi
+Australia,Minister for Aboriginal Affairs and Reconciliation,Paul Caica,Q7149675,2011-10-21,2013-01-21,male,1957,,,Paul Caica
+Australia,Minister for Aboriginal Affairs and Reconciliation,Ian Hunter,Q1383644,2013-01-21,2015-02-03,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Aboriginal Affairs and Reconciliation,Kyam Maher,Q6450701,2015-02-03,2018-03-18,male,,,,Kyam Maher
+Australia,Minister for Aboriginal Affairs and Reconciliation,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Ageing,Jennifer Rankine,Q6178728,2008-07-24,2011-10-21,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for Ageing,Zoe Bettison,Q8073256,2014-03-26,2018-03-18,female,,,,Zoe Bettison
+Australia,Minister for Ageing,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,"Minister for Agriculture, Food and Fisheries",Paul Holloway,Q7151348,2002-03-06,2004-03-05,male,1949-08-20,,,Paul Holloway
+Australia,"Minister for Agriculture, Food and Fisheries",Rory McEwen,Q7366915,2004-03-05,2009-03-02,male,1948-09-24,,,Rory McEwen (politician)
+Australia,"Minister for Agriculture, Food and Fisheries",Paul Caica,Q7149675,2009-03-03,2010-03-25,male,1957,,,Paul Caica
+Australia,"Minister for Agriculture, Food and Fisheries",Gail Gago,Q5517076,2011-10-21,2014-03-26,female,1957-07-04,,,Gail Gago
+Australia,"Minister for Agriculture, Food and Fisheries",Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Automotive Transformation,Tom Koutsantonis,Q7816502,2013-01-21,2014-03-26,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Automotive Transformation,Susan Close,Q7647681,2014-05-27,2015-02-03,female,1967-11-12,,Susan Close 2012.jpg,Susan Close
+Australia,Minister for Automotive Transformation,Kyam Maher,Q6450701,2015-02-03,2016-01-18,male,,,,Kyam Maher
+Australia,Minister for Automotive Transformation,Kyam Maher,Q6450701,2016-01-19,2018-03-18,male,,,,Kyam Maher
+Australia,Minister for Automotive Transformation,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for the Arts,Diana Laidlaw,Q5271209,1993-12-14,2002-03-05,female,1951-09-02,,,Diana Laidlaw
+Australia,Minister for the Arts,Mike Rann,Q3108729,2002-03-05,2011-10-21,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,Minister for the Arts,John Hill,Q6239256,2011-10-21,2013-01-21,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister for the Arts,Jack Snelling,Q6115240,2014-03-26,2017-09-18,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for the Arts,Jay Weatherill,Q1446178,2017-09-18,2018-03-18,male,1964-04-03,,Jay Weatherill.jpg,Jay Weatherill
+Australia,Minister for the Arts,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Child Protection,Rachel Sanderson,Q7279386,2018-03-22,,female,,,Rachel Sanderson 2018.jpg,Rachel Sanderson
+Australia,Minister for Child Protection Reform,John Rau,Q16193316,2015-02-03,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Child Protection Reform,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Climate Change,Ian Hunter,Q1383644,2015-02-03,2018-03-18,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Climate Change,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Communities and Social Inclusion,Ian Hunter,Q1383644,2011-10-21,2013-01-21,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Communities and Social Inclusion,Tony Piccolo,Q7823174,2013-01-21,2014-03-26,male,1960-02-22,,Tony Piccolo.jpg,Tony Piccolo
+Australia,Minister for Communities and Social Inclusion,Zoe Bettison,Q8073256,2014-03-26,2018-03-18,female,,,,Zoe Bettison
+Australia,Minister for Communities and Social Inclusion,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Consumer Affairs,Trevor Griffin,Q18686474,1993-12-14,2001-12-04,male,1940-09-14,2015-03-07,,Trevor Griffin
+Australia,Minister for Consumer Affairs,Michael Atkinson,Q6828295,2002-03-06,2003-06-30,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Minister for Consumer Affairs,John Hill,Q6239256,2003-06-30,2003-08-29,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister for Consumer Affairs,Michael Atkinson,Q6828295,2003-08-29,2004-07-23,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Minister for Consumer Affairs,Karlene Maywald,Q6372494,2004-07-23,2006-03-23,female,1961-05-26,,,Karlene Maywald
+Australia,Minister for Consumer Affairs,Jennifer Rankine,Q6178728,2006-03-23,2008-07-24,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for Consumer Affairs,Gail Gago,Q5517076,2008-07-24,2011-10-21,female,1957-07-04,,,Gail Gago
+Australia,Minister for Consumer and Business Services,John Rau,Q16193316,2011-10-21,2014-03-26,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Consumer and Business Services,Gail Gago,Q5517076,2014-03-26,2016-01-19,female,1957-07-04,,,Gail Gago
+Australia,Minister for Consumer and Business Services,John Rau,Q16193316,2016-01-19,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Consumer and Business Services,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Correctional Services,Terry Roberts,Q7704955,2002-03-06,2006-02-18,male,1946-01-28,2006-02-18,,Terry Roberts
+Australia,Minister for Correctional Services,Michael Atkinson,Q6828295,2006-02-20,2006-03-23,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Minister for Correctional Services,Tom Koutsantonis,Q7816502,2009-03-03,2011-10-21,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Correctional Services,Jennifer Rankine,Q6178728,2011-10-21,2013-01-21,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for Correctional Services,John Rau,Q16193316,2014-02-06,2014-03-26,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Correctional Services,Tony Piccolo,Q7823174,2014-03-26,2016-01-19,male,1960-02-22,,Tony Piccolo.jpg,Tony Piccolo
+Australia,Minister for Correctional Services,Chris Picton,Q16734515,2017-09-18,2018-03-18,male,1983-01-13,,,Chris Picton
+Australia,Minister for Correctional Services,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Defence and Space Industries,Jack Snelling,Q6115240,2011-10-21,2014-05-27,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for Defence and Space Industries,Martin Hamilton-Smith,Q14915577,2017-09-19,2018-01-17,male,1953-09-01,,MHSmith3.jpg,Martin Hamilton-Smith
+Australia,Minister for Defence and Space Industries,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Disabilities,Ian Hunter,Q1383644,2011-10-21,2013-01-21,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Disabilities,Tony Piccolo,Q7823174,2013-01-21,2016-01-19,male,1960-02-22,,Tony Piccolo.jpg,Tony Piccolo
+Australia,Minister for Disabilities,Leesa Vlahos,Q16196758,2016-01-19,2017-09-18,female,1966,,Leesa Vlahos.jpg,Leesa Vlahos
+Australia,Minister for Disabilities,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Economic Development,Mike Rann,Q3108729,2002-03-05,2011-10-21,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,Minister of Education,Jane Lomax-Smith,Q6152492,2008-07-24,2010-03-25,female,1950-06-19,,,Jane Lomax-Smith
+Australia,Minister for Education,John Gardner,Q6234870,2018-03-22,,male,,,"John Gardner, South Australia, 2018.jpg",John Gardner (Australian politician)
+Australia,Minister for Education and Child Development,Grace Portolesi,Q5591343,2011-10-21,2013-01-21,female,1968-06-26,,,Grace Portolesi
+Australia,Minister for Education and Child Development,Jennifer Rankine,Q6178728,2013-01-21,2015-02-03,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for Education and Child Development,Susan Close,Q7647681,2015-02-03,2018-03-18,female,1967-11-12,,Susan Close 2012.jpg,Susan Close
+Australia,Minister for Education and Child Development,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Emergency Services,Michael Wright,Q6835459,2008-07-24,2011-02-08,male,1956-05-03,,Michael Wright.jpg,Michael Wright (Australian politician)
+Australia,Minister for Emergency Services,Kevin Foley,Q6396291,2011-02-08,2011-10-21,male,1960-09-25,,Kevin Foley - politician.JPG,Kevin Foley (South Australian politician)
+Australia,Minister for Emergency Services,Jennifer Rankine,Q6178728,2011-10-21,2013-01-21,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for Emergency Services,Ian Hunter,Q1383644,2014-02-06,2014-03-26,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Emergency Services,Tony Piccolo,Q7823174,2014-03-26,2016-01-19,male,1960-02-22,,Tony Piccolo.jpg,Tony Piccolo
+Australia,Minister for Emergency Services,Chris Picton,Q16734515,2017-09-18,2018-03-18,male,1983-01-13,,,Chris Picton
+Australia,Minister for Emergency Services,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Employment,Mark Brindal,Q6766854,1998-10-08,2000-02-14,male,1948-05-12,,,Mark Brindal
+Australia,Minister for Employment,Kyam Maher,Q6450701,2016-01-19,2018-03-18,male,,,,Kyam Maher
+Australia,Minister for Employment,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,"Minister for Employment, Higher Education and Skills",Tom Kenyon,Q7816444,2011-10-21,2013-01-21,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
+Australia,"Minister for Employment, Higher Education and Skills",Grace Portolesi,Q5591343,2013-01-21,2014-03-14,female,1968-06-26,,,Grace Portolesi
+Australia,"Minister for Employment, Higher Education and Skills",Gail Gago,Q5517076,2014-03-26,2016-01-19,female,1957-07-04,,,Gail Gago
+Australia,"Minister for Employment, Training and Further Education",Jane Lomax-Smith,Q6152492,2002-03-06,2004-03-05,female,1950-06-19,,,Jane Lomax-Smith
+Australia,"Minister for Employment, Training and Further Education",Steph Key,Q7608103,2004-03-05,2006-03-23,female,1954-12-13,,Steph Key MP.jpg,Steph Key
+Australia,"Minister for Employment, Training and Further Education",Paul Caica,Q7149675,2006-03-23,2009-03-02,male,1957,,,Paul Caica
+Australia,"Minister for Employment, Training and Further Education",Jack Snelling,Q6115240,2010-03-25,2011-10-21,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for Energy and Mining,Dan van Holst Pellekaan,Q5214641,2018-03-22,,male,,,Dan van Holst Pellekaan (2015).jpg,Dan van Holst Pellekaan
+Australia,Minister for Environment and Conservation,John Hill,Q6239256,2002-03-06,2006-03-23,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister for Environment and Conservation,Gail Gago,Q5517076,2006-03-23,2008-07-24,female,1957-07-04,,,Gail Gago
+Australia,Minister for Environment and Conservation,Paul Caica,Q7149675,2010-03-25,2011-10-21,male,1957,,,Paul Caica
+Australia,Minister for Environment and Water,David Speirs,Q16885817,2018-03-22,,male,1984-12-15,,David Speirs crop.jpg,David Speirs
+Australia,Minister for Finance,Tom Koutsantonis,Q7816502,2014-03-26,2018-03-18,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Finance,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Food Marketing,John Rau,Q16193316,2011-02-08,2011-10-21,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Forests,Rory McEwen,Q7366915,2003-05-13,2009-03-02,male,1948-09-24,,,Rory McEwen (politician)
+Australia,Minister for Forests,Paul Caica,Q7149675,2009-03-03,2010-03-25,male,1957,,,Paul Caica
+Australia,Minister for Forests,Gail Gago,Q5517076,2011-10-21,2014-03-26,female,1957-07-04,,,Gail Gago
+Australia,Minister for Forests,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Gambling,Robert Brokenshire,Q7342378,2001-10-04,2002-03-05,male,1957,,Robert Brokenshire 2.jpg,Robert Brokenshire
+Australia,Minister for Gambling,John Hill,Q6239256,2002-03-06,2002-12-03,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister for Gambling,Michael Wright,Q6835459,2004-03-05,2006-03-23,male,1956-05-03,,Michael Wright.jpg,Michael Wright (Australian politician)
+Australia,Minister for Gambling,Paul Caica,Q7149675,2006-03-23,2008-07-24,male,1957,,,Paul Caica
+Australia,Minister for Gambling,Tom Koutsantonis,Q7816502,2009-03-03,2011-02-08,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Gambling,Bernard Finnigan,Q4893122,2011-02-08,2011-04-21,male,1972-12-08,,,Bernard Finnigan
+Australia,Minister for Gambling,Gail Gago,Q5517076,2011-04-21,2011-10-21,female,1957-07-04,,,Gail Gago
+Australia,Minister for Government Enterprises,Michael Armitage,Q6828265,1997-10-20,2001-12-04,male,1949-05-03,,,Michael Armitage (politician)
+Australia,Minister for Government Enterprises,Michael Wright,Q6835459,2006-12-14,2008-07-24,male,1956-05-03,,Michael Wright.jpg,Michael Wright (Australian politician)
+Australia,Minister for Government Enterprises,Gail Gago,Q5517076,2008-07-24,2011-10-21,female,1957-07-04,,,Gail Gago
+Australia,Minister for Health,Lea Stevens,Q6508228,2002-03-06,2005-11-04,female,1947-06-15,,Lea Stevens.jpg,Lea Stevens
+Australia,Minister for Health,John Hill,Q6239256,2005-11-04,2011-10-21,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister for Health,Jack Snelling,Q6115240,2014-03-26,2017-09-18,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for Health,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Health Industries,Jack Snelling,Q6115240,2014-03-26,2017-09-18,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for Health Industries,Martin Hamilton-Smith,Q14915577,2017-09-19,2018-01-17,male,1953-09-01,,MHSmith3.jpg,Martin Hamilton-Smith
+Australia,Minister for Health Industries,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Health and Ageing,John Hill,Q6239256,2011-10-21,2013-01-21,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister for Health and Ageing,Jack Snelling,Q6115240,2013-01-21,2014-03-26,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for Health and Wellbeing,Stephen Wade,Q7610783,2018-03-22,,male,1960-03-28,,Wade2018.jpg,Stephen Wade
+Australia,Minister for Higher Education and Skills,Susan Close,Q7647681,2016-01-19,2018-03-18,female,1967-11-12,,Susan Close 2012.jpg,Susan Close
+Australia,Minister for Higher Education and Skills,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Housing and Urban Development,Tom Koutsantonis,Q7816502,2013-01-21,2014-03-26,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Housing and Urban Development,John Rau,Q16193316,2014-03-26,2016-01-19,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Housing and Urban Development,Stephen Mullighan,Q16732988,2016-01-19,2018-03-18,male,,,Stephen Mullighan.jpg,Stephen Mullighan
+Australia,Minister for Housing and Urban Development,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Human Services,Dean Brown,Q3020626,1997-10-20,2002-03-05,male,1943-04-05,,,Dean Brown
+Australia,Minister for Human Services,Michelle Lensink,Q6837123,2018-03-22,,female,1970-02-20,,Michelle Lensink.JPG,Michelle Lensink
+Australia,Minister for Industrial Relations,Michael Wright,Q6835459,2002-03-06,2008-07-24,male,1956-05-03,,Michael Wright.jpg,Michael Wright (Australian politician)
+Australia,Minister for Industrial Relations,Paul Caica,Q7149675,2008-07-24,2010-03-25,male,1957,,,Paul Caica
+Australia,Minister for Industrial Relations,Bernard Finnigan,Q4893122,2011-02-08,2011-04-21,male,1972-12-08,,,Bernard Finnigan
+Australia,Minister for Industrial Relations,John Rau,Q16193316,2013-01-21,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Industrial Relations,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Industry and Trade,Paul Holloway,Q7151348,2004-07-23,2006-03-22,male,1949-08-20,,,Paul Holloway
+Australia,Minister for Industry and Trade,Kevin Foley,Q6396291,2006-03-23,2010-03-25,male,1960-09-25,,Kevin Foley - politician.JPG,Kevin Foley (South Australian politician)
+Australia,Minister for Industry and Trade,Tom Koutsantonis,Q7816502,2010-03-25,2011-10-21,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Innovation and Skills,David Pisoni,Q5238597,2018-03-22,,male,1963,,David Pisoni (cropped).jpg,David Pisoni
+Australia,Minister for Investment and Trade,Martin Hamilton-Smith,Q14915577,2014-05-27,2018-01-17,male,1953-09-01,,MHSmith3.jpg,Martin Hamilton-Smith
+Australia,Minister for Investment and Trade,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Justice,Trevor Griffin,Q18686474,1997-10-20,2001-12-04,male,1940-09-14,2015-03-07,,Trevor Griffin
+Australia,Minister for Justice,Michael Atkinson,Q6828295,2002-03-06,2003-06-30,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Minister for Justice,Paul Holloway,Q7151348,2003-06-23,2003-08-23,male,1949-08-20,,,Paul Holloway
+Australia,Minister for Justice,Michael Atkinson,Q6828295,2003-08-29,2010-03-25,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Minister for Justice,John Rau,Q16193316,2010-03-25,2011-10-21,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Justice Reform,John Rau,Q16193316,2014-03-26,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Justice Reform,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Local Government,Mark Brindal,Q6766854,1997-12-17,2000-02-14,male,1948-05-12,,,Mark Brindal
+Australia,Minister for Local Government,Dorothy Kotz,Q5298496,2000-02-14,2001-12-04,female,1944-01-03,,,Dorothy Kotz
+Australia,Minister for Local Government,Mark Brindal,Q6766854,2001-12-04,2002-03-05,male,1948-05-12,,,Mark Brindal
+Australia,Minister for Local Government,Jay Weatherill,Q1446178,2002-03-06,2002-12-03,male,1964-04-03,,Jay Weatherill.jpg,Jay Weatherill
+Australia,Minister for Local Government,Rory McEwen,Q7366915,2002-12-04,2004-03-05,male,1948-09-24,,,Rory McEwen (politician)
+Australia,Minister for Local Government,Geoff Brock,Q5534059,2014-03-26,2018-03-18,male,1950,,,Geoff Brock
+Australia,Minister for Local Government,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Manufacturing and Innovation,Susan Close,Q7647681,2014-05-27,2015-02-03,female,1967-11-12,,Susan Close 2012.jpg,Susan Close
+Australia,Minister for Manufacturing and Innovation,Kyam Maher,Q6450701,2015-02-03,2016-01-18,male,,,,Kyam Maher
+Australia,Minister for Manufacturing and Innovation,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,"Minister for Manufacturing, Innovation and Trade",Tom Koutsantonis,Q7816502,2011-10-21,2013-01-21,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,"Minister for Manufacturing, Innovation and Trade",Tom Kenyon,Q7816444,2013-01-21,2014-03-26,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
+Australia,"Minister for Manufacturing, Innovation and Trade",Susan Close,Q7647681,2014-03-26,2014-05-27,female,1967-11-12,,Susan Close 2012.jpg,Susan Close
+Australia,Minister for Mental Health and Substance Abuse,Gail Gago,Q5517076,2006-03-23,2008-07-24,female,1957-07-04,,,Gail Gago
+Australia,Minister for Mental Health and Substance Abuse,Jane Lomax-Smith,Q6152492,2008-07-24,2010-03-25,female,1950-06-19,,,Jane Lomax-Smith
+Australia,Minister for Mental Health and Substance Abuse,John Hill,Q6239256,2010-03-25,2013-01-21,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister for Mental Health and Substance Abuse,Jack Snelling,Q6115240,2013-01-21,2016-01-19,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for Mental Health and Substance Abuse,Leesa Vlahos,Q16196758,2016-01-19,2017-09-18,female,1966,,Leesa Vlahos.jpg,Leesa Vlahos
+Australia,Minister for Mental Health and Substance Abuse,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Mineral Resources Development,Tom Koutsantonis,Q7816502,2011-02-08,2011-10-21,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Mineral Resources and Energy,Tom Koutsantonis,Q7816502,2011-10-21,2018-03-18,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Mineral Resources and Energy,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Minerals and Energy,Rob Kerin,Q3434193,1999-12-09,2000-02-14,male,1954-01-04,,,Rob Kerin
+Australia,Minister for Minerals and Energy,Wayne Matthew,Q7976450,2000-02-14,2002-03-05,male,1958-01-14,,,Wayne Matthew
+Australia,Minister for Multicultural Affairs,Rob Kerin,Q3434193,2001-10-22,2002-03-05,male,1954-01-04,,,Rob Kerin
+Australia,Minister for Multicultural Affairs,Michael Atkinson,Q6828295,2002-03-06,2003-06-30,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Minister for Multicultural Affairs,John Hill,Q6239256,2003-06-30,2003-08-29,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister for Multicultural Affairs,Michael Atkinson,Q6828295,2003-08-29,2010-03-25,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Minister for Multicultural Affairs,Grace Portolesi,Q5591343,2010-03-25,2011-10-21,female,1968-06-26,,,Grace Portolesi
+Australia,Minister for Multicultural Affairs,Jennifer Rankine,Q6178728,2011-10-21,2014-03-26,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for Multicultural Affairs,Zoe Bettison,Q8073256,2014-03-26,2018-03-18,female,,,,Zoe Bettison
+Australia,Minister for Multicultural Affairs,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Planning,John Rau,Q16193316,2011-10-21,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Planning,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Planning,Stephan Knoll,Q16730936,2018-03-22,,male,1982,,"Stephan Knoll, South Australia, 2018.jpg",Stephan Knoll
+Australia,Minister for Police,Kevin Foley,Q6396291,2003-05-13,2006-03-23,male,1960-09-25,,Kevin Foley - politician.JPG,Kevin Foley (South Australian politician)
+Australia,Minister for Police,Paul Holloway,Q7151348,2006-03-23,2010-03-25,male,1949-08-20,,,Paul Holloway
+Australia,Minister for Police,Michael Wright,Q6835459,2008-07-24,2011-02-08,male,1956-05-03,,Michael Wright.jpg,Michael Wright (Australian politician)
+Australia,Minister for Police,Kevin Foley,Q6396291,2011-02-08,2011-10-21,male,1960-09-25,,Kevin Foley - politician.JPG,Kevin Foley (South Australian politician)
+Australia,Minister for Police,Jennifer Rankine,Q6178728,2011-10-21,2013-01-21,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for Police,John Rau,Q16193316,2014-02-06,2014-03-26,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Police,Tony Piccolo,Q7823174,2014-03-26,2016-01-19,male,1960-02-22,,Tony Piccolo.jpg,Tony Piccolo
+Australia,Minister for Police,Chris Picton,Q16734515,2017-09-18,2018-03-18,male,1983-01-13,,,Chris Picton
+Australia,Minister for Police,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,"Minister for Police, Emergency Services and Correctional Services",Corey Wingard,Q16728204,2018-03-22,,male,,,Wingard.jpg,Corey Wingard
+Australia,Minister for Primary Industries,Rob Kerin,Q3434193,1999-12-09,2000-02-14,male,1954-01-04,,,Rob Kerin
+Australia,Minister for Primary Industries,Caroline Schaefer,Q5045210,2001-12-04,2002-03-05,female,1947-04-16,,Caroline Schaefer.jpg,Caroline Schaefer
+Australia,Minister for Primary Industries and Regional Development,Tim Whetstone,Q7804478,2018-03-22,,male,1960-03-05,,Whetstone2018.jpg,Tim Whetstone
+Australia,Minister for Primary Industries and Resources,Rob Kerin,Q3434193,2000-02-14,2001-12-04,male,1954-01-04,,,Rob Kerin
+Australia,Minister for the Public Sector,Susan Close,Q7647681,2014-03-26,2016-01-19,female,1967-11-12,,Susan Close 2012.jpg,Susan Close
+Australia,Minister for the Public Sector,John Rau,Q16193316,2016-01-19,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for the Public Sector,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Public Sector Management,Gail Gago,Q5517076,2011-02-08,2011-10-21,female,1957-07-04,,,Gail Gago
+Australia,Minister of Public Works,Thoko Didiza,Q7786663,2006-05-22,2008-09-25,female,1965-06-02,,,Thoko Didiza
+Australia,Minister for Recreation and Sport,Tom Kenyon,Q7816444,2011-10-21,2013-01-21,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
+Australia,Minister for Recreation and Sport,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,"Minister for Recreation, Sport and Racing",Dorothy Kotz,Q5298496,2001-12-04,2002-03-05,female,1944-01-03,,,Dorothy Kotz
+Australia,"Minister for Recreation, Sport and Racing",Michael Wright,Q6835459,2002-03-06,2011-02-08,male,1956-05-03,,Michael Wright.jpg,Michael Wright (Australian politician)
+Australia,"Minister for Recreation, Sport and Racing",Tom Kenyon,Q7816444,2011-02-08,2011-10-21,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
+Australia,"Minister for Recreation, Sport and Racing",Corey Wingard,Q16728204,2018-03-22,,male,,,Wingard.jpg,Corey Wingard
+Australia,Minister for Regional Affairs,Terry Roberts,Q7704955,2002-03-06,2002-12-03,male,1946-01-28,2006-02-18,,Terry Roberts
+Australia,Minister for Regional Development,Rob Kerin,Q3434193,1999-12-09,2001-12-04,male,1954-01-04,,,Rob Kerin
+Australia,Minister for Regional Development,Karlene Maywald,Q6372494,2004-07-23,2008-07-24,female,1961-05-26,,,Karlene Maywald
+Australia,Minister for Regional Development,Rory McEwen,Q7366915,2008-07-24,2009-03-02,male,1948-09-24,,,Rory McEwen (politician)
+Australia,Minister for Regional Development,Paul Caica,Q7149675,2009-03-03,2010-03-25,male,1957,,,Paul Caica
+Australia,Minister for Regional Development,Gail Gago,Q5517076,2011-02-08,2014-03-26,female,1957-07-04,,,Gail Gago
+Australia,Minister for Regional Development,Geoff Brock,Q5534059,2014-03-26,2018-03-18,male,1950,,,Geoff Brock
+Australia,Minister for Regional Development,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for the River Murray,John Hill,Q6239256,2002-03-06,2004-07-23,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister for the River Murray,Karlene Maywald,Q6372494,2004-07-23,2010-03-25,female,1961-05-26,,,Karlene Maywald
+Australia,Minister for the River Murray,Paul Caica,Q7149675,2010-03-25,2011-10-21,male,1957,,,Paul Caica
+Australia,Minister for Road Safety,Tom Koutsantonis,Q7816502,2009-03-03,2009-04-20,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Road Safety,Jack Snelling,Q6115240,2010-03-25,2011-02-08,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for Road Safety,Tom Kenyon,Q7816444,2011-02-08,2011-10-21,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
+Australia,Minister for Road Safety,Jennifer Rankine,Q6178728,2011-10-21,2013-01-21,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for Road Safety,Ian Hunter,Q1383644,2014-02-06,2014-03-26,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Road Safety,Tony Piccolo,Q7823174,2014-03-26,2016-01-19,male,1960-02-22,,Tony Piccolo.jpg,Tony Piccolo
+Australia,Minister for Road Safety,Chris Picton,Q16734515,2017-09-18,2018-03-18,male,1983-01-13,,,Chris Picton
+Australia,Minister for Road Safety,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Science and Information Economy,Jane Lomax-Smith,Q6152492,2002-03-06,2004-03-05,female,1950-06-19,,,Jane Lomax-Smith
+Australia,Minister for Science and Information Economy,Trish White,Q7844008,2004-03-05,2005-03-17,female,1964-09-07,,,Trish White
+Australia,Minister for Science and Information Economy,Karlene Maywald,Q6372494,2005-03-23,2007-02-06,female,1961-05-26,,,Karlene Maywald
+Australia,Minister for Science and Information Economy,Paul Caica,Q7149675,2007-02-06,2009-03-02,male,1957,,,Paul Caica
+Australia,Minister for Science and Information Economy,Tom Kenyon,Q7816444,2011-10-21,2013-01-21,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
+Australia,Minister for Science and Information Economy,Grace Portolesi,Q5591343,2013-01-21,2014-03-14,female,1968-06-26,,,Grace Portolesi
+Australia,Minister for Science and Information Economy,Gail Gago,Q5517076,2014-03-26,2016-01-19,female,1957-07-04,,,Gail Gago
+Australia,Minister for Science and Information Economy,Kyam Maher,Q6450701,2016-01-19,2018-03-18,male,,,,Kyam Maher
+Australia,Minister for Science and Information Economy,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Small Business,Rory McEwen,Q7366915,2003-05-13,2004-03-05,male,1948-09-24,,,Rory McEwen (politician)
+Australia,Minister for Small Business,Paul Holloway,Q7151348,2004-03-05,2004-07-23,male,1949-08-20,,,Paul Holloway
+Australia,Minister for Small Business,Karlene Maywald,Q6372494,2004-07-23,2008-07-24,female,1961-05-26,,,Karlene Maywald
+Australia,Minister for Small Business,Tom Koutsantonis,Q7816502,2010-03-25,2013-01-21,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Small Business,Tom Kenyon,Q7816444,2013-01-21,2014-03-26,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
+Australia,Minister for Small Business,Tom Koutsantonis,Q7816502,2014-03-26,2016-01-19,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Small Business,Martin Hamilton-Smith,Q14915577,2016-01-19,2018-01-17,male,1953-09-01,,MHSmith3.jpg,Martin Hamilton-Smith
+Australia,Minister for Small Business,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Social Housing,Ian Hunter,Q1383644,2011-10-21,2013-01-21,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Social Housing,Tony Piccolo,Q7823174,2013-01-21,2014-03-26,male,1960-02-22,,Tony Piccolo.jpg,Tony Piccolo
+Australia,Minister for Social Housing,Zoe Bettison,Q8073256,2014-03-26,2018-03-18,female,,,,Zoe Bettison
+Australia,Minister for Social Housing,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Social Inclusion,Mike Rann,Q3108729,2004-03-05,2011-10-21,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,Minister for State / Local Government Relations,Rory McEwen,Q7366915,2004-03-05,2006-03-23,male,1948-09-24,,,Rory McEwen (politician)
+Australia,Minister for State / Local Government Relations,Jennifer Rankine,Q6178728,2006-03-23,2008-07-24,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for State / Local Government Relations,Gail Gago,Q5517076,2008-07-24,2011-10-21,female,1957-07-04,,,Gail Gago
+Australia,Minister for State / Local Government Relations,Bernard Finnigan,Q4893122,2011-02-08,2011-04-21,male,1972-12-08,,,Bernard Finnigan
+Australia,Minister for State / Local Government Relations,Gail Gago,Q5517076,2013-01-21,2014-03-26,female,1957-07-04,,,Gail Gago
+Australia,Minister for State Development,John Olsen,Q3182215,1998-08-08,2001-10-22,male,1945-06-07,,John Olsen (1).jpg,John Olsen
+Australia,Minister for State Development,Rob Kerin,Q3434193,2001-10-22,2001-12-04,male,1954-01-04,,,Rob Kerin
+Australia,Minister for State Development,Jay Weatherill,Q1446178,2011-10-21,2014-03-26,male,1964-04-03,,Jay Weatherill.jpg,Jay Weatherill
+Australia,Minister for State Development,Tom Koutsantonis,Q7816502,2014-03-26,2018-03-18,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for State Development,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for State and Regional Development,Rob Kerin,Q3434193,2001-12-04,2002-03-05,male,1954-01-04,,,Rob Kerin
+Australia,Minister for Sustainability and Climate Change,Mike Rann,Q3108729,2006-03-23,2011-10-21,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,"Minister for Sustainability, Environment and Conservation",Paul Caica,Q7149675,2011-10-21,2013-01-21,male,1957,,,Paul Caica
+Australia,"Minister for Sustainability, Environment and Conservation",Ian Hunter,Q1383644,2013-01-21,2018-03-18,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,"Minister for Sustainability, Environment and Conservation",Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Tourism,Joan Hall,Q6205085,1998-10-08,2001-10-05,female,1946-12-22,,,Joan Hall
+Australia,Minister for Tourism,John Olsen,Q3182215,2001-10-08,2001-10-22,male,1945-06-07,,John Olsen (1).jpg,John Olsen
+Australia,Minister for Tourism,Rob Kerin,Q3434193,2001-10-22,2001-12-04,male,1954-01-04,,,Rob Kerin
+Australia,Minister for Tourism,Martin Hamilton-Smith,Q14915577,2001-12-04,2002-03-05,male,1953-09-01,,MHSmith3.jpg,Martin Hamilton-Smith
+Australia,Minister for Tourism,Jane Lomax-Smith,Q6152492,2002-03-06,2010-03-25,female,1950-06-19,,,Jane Lomax-Smith
+Australia,Minister for Tourism,John Rau,Q16193316,2010-03-25,2011-10-21,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Tourism,Gail Gago,Q5517076,2011-10-21,2013-01-21,female,1957-07-04,,,Gail Gago
+Australia,Minister for Tourism,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,"Minister for Trade, Tourism and Investment",David Ridgway,Q5239060,2018-03-22,,male,1960-11-14,,Ridgway.jpg,David Ridgway (politician)
+Australia,Minister for Transport,Michael Wright,Q6835459,2002-03-06,2004-03-05,male,1956-05-03,,Michael Wright.jpg,Michael Wright (Australian politician)
+Australia,Minister for Transport,Trish White,Q7844008,2004-03-05,2005-03-17,female,1964-09-07,,,Trish White
+Australia,Minister for Transport and Infrastructure,Tom Koutsantonis,Q7816502,2013-01-21,2014-03-26,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Transport and Infrastructure,Stephen Mullighan,Q16732988,2014-03-26,2018-03-18,male,,,Stephen Mullighan.jpg,Stephen Mullighan
+Australia,Minister for Transport and Infrastructure,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,"Minister for Transport, Infrastructure and Local Government",Stephan Knoll,Q16730936,2018-03-22,,male,1982,,"Stephan Knoll, South Australia, 2018.jpg",Stephan Knoll
+Australia,"Minister for Urban Development, Planning and the City of Adelaide",John Rau,Q16193316,2011-02-08,2011-10-21,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for Veterans' Affairs,Michael Atkinson,Q6828295,2008-05-01,2010-03-25,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Minister for Veterans' Affairs,Jack Snelling,Q6115240,2010-03-25,2011-02-08,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for Veterans' Affairs,Tom Kenyon,Q7816444,2011-02-08,2011-10-21,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
+Australia,Minister for Veterans' Affairs,Jack Snelling,Q6115240,2011-10-21,2014-03-26,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Minister for Veterans' Affairs,Zoe Bettison,Q8073256,2014-03-26,2014-05-27,female,,,,Zoe Bettison
+Australia,Minister for Veterans' Affairs,Martin Hamilton-Smith,Q14915577,2014-05-27,2018-01-17,male,1953-09-01,,MHSmith3.jpg,Martin Hamilton-Smith
+Australia,Minister for Veterans' Affairs,Jay Weatherill,Q1446178,2018-01-19,2018-03-18,male,1964-04-03,,Jay Weatherill.jpg,Jay Weatherill
+Australia,Minister for Veterans' Affairs,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Volunteers,Robert Brokenshire,Q7342378,2001-12-04,2002-03-05,male,1957,,Robert Brokenshire 2.jpg,Robert Brokenshire
+Australia,Minister for Volunteers,Mike Rann,Q3108729,2002-03-05,2006-03-23,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,Minister for Volunteers,Jennifer Rankine,Q6178728,2006-03-23,2008-07-24,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for Volunteers,Paul Caica,Q7149675,2008-07-24,2009-03-02,male,1957,,,Paul Caica
+Australia,Minister for Volunteers,Tom Koutsantonis,Q7816502,2009-03-03,2010-03-25,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Volunteers,Grace Portolesi,Q5591343,2010-03-25,2011-10-21,female,1968-06-26,,,Grace Portolesi
+Australia,Minister for Volunteers,Ian Hunter,Q1383644,2011-10-21,2013-01-21,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Volunteers,Tony Piccolo,Q7823174,2013-01-21,2014-03-26,male,1960-02-22,,Tony Piccolo.jpg,Tony Piccolo
+Australia,Minister for Volunteers,Zoe Bettison,Q8073256,2014-03-26,2018-03-18,female,,,,Zoe Bettison
+Australia,Minister for Volunteers,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Water,Paul Caica,Q7149675,2010-03-25,2011-10-21,male,1957,,,Paul Caica
+Australia,Minister for Water,,Q98959579,2014-08-19,,male,1966-12-20,,مازن غنيم.png,
+Australia,Minister for Water Security,Karlene Maywald,Q6372494,2007-02-06,2010-03-25,female,1961-05-26,,,Karlene Maywald
+Australia,Minister for Water and the River Murray,Paul Caica,Q7149675,2011-10-21,2013-01-21,male,1957,,,Paul Caica
+Australia,Minister for Water and the River Murray,Ian Hunter,Q1383644,2013-01-21,2018-03-18,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Water and the River Murray,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for Youth,Mark Brindal,Q6766854,1998-10-08,2002-03-05,male,1948-05-12,,,Mark Brindal
+Australia,Minister for Youth,Steph Key,Q7608103,2002-03-06,2006-03-23,female,1954-12-13,,Steph Key MP.jpg,Steph Key
+Australia,Minister for Youth,Paul Caica,Q7149675,2006-03-23,2009-03-02,male,1957,,,Paul Caica
+Australia,Minister for Youth,Tom Koutsantonis,Q7816502,2009-03-03,2010-03-25,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister for Youth,Grace Portolesi,Q5591343,2010-03-25,2011-10-21,female,1968-06-26,,,Grace Portolesi
+Australia,Minister for Youth,Ian Hunter,Q1383644,2011-10-21,2013-01-21,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
+Australia,Minister for Youth,Tony Piccolo,Q7823174,2013-01-21,2014-03-26,male,1960-02-22,,Tony Piccolo.jpg,Tony Piccolo
+Australia,Minister for Youth,Zoe Bettison,Q8073256,2014-03-26,2018-03-18,female,,,,Zoe Bettison
+Australia,Minister for Youth,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for the Status of Women,Diana Laidlaw,Q5271209,1993-12-14,2002-03-05,female,1951-09-02,,,Diana Laidlaw
+Australia,Minister for the Status of Women,Steph Key,Q7608103,2002-03-06,2006-03-23,female,1954-12-13,,Steph Key MP.jpg,Steph Key
+Australia,Minister for the Status of Women,Jennifer Rankine,Q6178728,2006-03-23,2008-07-24,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
+Australia,Minister for the Status of Women,Gail Gago,Q5517076,2008-07-24,2016-01-19,female,1957-07-04,,,Gail Gago
+Australia,Minister for the Status of Women,Zoe Bettison,Q8073256,2016-01-19,2018-03-18,female,,,,Zoe Bettison
+Australia,Minister for the Status of Women,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister for the City of Adelaide,Jane Lomax-Smith,Q6152492,2006-03-23,2010-03-25,female,1950-06-19,,,Jane Lomax-Smith
+Australia,Minister for the City of Adelaide,Gail Gago,Q5517076,2010-03-20,2011-02-08,female,1957-07-04,,,Gail Gago
+Australia,Minister for the City of Adelaide,John Rau,Q16193316,2016-01-19,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Minister for the City of Adelaide,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister Assisting the Minister for Environment and Conservation,Terry Roberts,Q7704955,2002-12-04,2006-02-18,male,1946-01-28,2006-02-18,,Terry Roberts
+Australia,Minister Assisting the Minister for Health,Chris Picton,Q16734515,2017-09-18,2018-03-18,male,1983-01-13,,,Chris Picton
+Australia,Minister Assisting the Minister for Health,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister Assisting the Minister for Mental Health and Substance Abuse,Chris Picton,Q16734515,2017-09-18,2018-03-18,male,1983-01-13,,,Chris Picton
+Australia,Minister Assisting the Minister for Mental Health and Substance Abuse,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,Minister Assisting the Minister for Recreation and Sport,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
+Australia,"Minister Assisting the Minister for Transport, Energy and Infrastructure",Gail Gago,Q5517076,2008-07-24,2010-03-25,female,1957-07-04,,,Gail Gago
+Australia,Minister Assisting the Premier in the Arts,John Hill,Q6239256,2002-03-06,2011-10-21,male,1949-12-03,,"John Hill, Member for Kaurna.JPG",John Hill (Australian politician)
+Australia,Minister assisting the Minister for Industry and Trade,Carmel Zollo,Q3660205,2005,2006,female,1952-01-10,,Carmel Zollo.jpg,Carmel Zollo
+Australia,Minister assisting the Minister for Industry and Trade,Karlene Maywald,Q6372494,2006-03-23,2008-07-24,female,1961-05-26,,,Karlene Maywald
+Australia,Minister assisting the Minister for Multicultural Affairs,Carmel Zollo,Q3660205,2006,2009-03-02,female,1952-01-10,,Carmel Zollo.jpg,Carmel Zollo
+Australia,Minister assisting the Minister for Multicultural Affairs,Tom Koutsantonis,Q7816502,2009-03-03,2010-03-25,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Minister assisting the Minister of Health,Gail Gago,Q5517076,2006-03-23,2008-07-24,female,1957-07-04,,,Gail Gago
+Australia,Speaker of the House of Assembly,John Oswald,Q6251387,1997,2002,male,1939-06-06,,,John Oswald (politician)
+Australia,Speaker of the House of Assembly,Peter Lewis,Q7175450,2002-03-05,2005-04-04,male,1942-01-01,2017-09-25,,Peter Lewis (politician)
+Australia,Speaker of the House of Assembly,Bob Such,Q4934116,2005-04-04,2006-03-26,male,1944-06-02,2014-10-11,Bob Such.jpg,Bob Such
+Australia,Speaker of the House of Assembly,Jack Snelling,Q6115240,2006-04-27,2010-03-25,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Speaker of the House of Assembly,Lyn Breuer,Q6708303,2010-05-06,2013-02-05,female,1951-03-28,,,Lyn Breuer
+Australia,Speaker of the House of Assembly,Michael Atkinson,Q6828295,2013-02-05,2018-03-16,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Speaker of the House of Assembly,Vincent Tarzia,Q16886350,2018-05-03,2020-07-29,male,1986-09-24,,,Vincent Tarzia
+Australia,Speaker of the House of Assembly,Josh Teague,Q50729197,2020-09-08,2021-10-12,male,,,,Josh Teague
+Australia,Speaker of the House of Assembly,Dan Cregan,Q50729685,2021-10-12,,male,,,,Dan Cregan
+Australia,President of the Legislative Council,Jamie Irwin,Q18645811,1997-12-02,2002-02-08,male,1937-04-16,2005-11-04,,Jamie Irwin
+Australia,President of the Legislative Council,Bob Sneath,Q4934033,2000-10-04,2012-10-05,male,1949-06-24,,,Bob Sneath
+Australia,President of the Legislative Council,Ron Roberts,Q16106780,2002-03-05,2006-03-17,male,1944,,,Ron Roberts (politician)
+Australia,President of the Legislative Council,John Gazzola,Q6235031,2012-10-17,2014-05-05,male,1957,,,John Gazzola
+Australia,President of the Legislative Council,Russell Wortley,Q7381884,2014-05-06,,male,,,,Russell Wortley
+Australia,President of the Legislative Council,Andrew McLachlan,Q16732352,2018-05-03,2020-02-05,male,1966-01-14,,McLachlan Profile.jpg,Andrew McLachlan
+Australia,President of the Legislative Council,Terry Stephens,Q7705045,2020-02-05,2020-09-08,male,1959-06-11,,,Terry Stephens
+Australia,President of the Legislative Council,John Dawkins,Q6228875,2020-09-08,,male,1954-07-03,,John Dawkins.jpg,John Dawkins (South Australian politician)
+Australia,Chief Justice,John Doyle,Q6230056,1995-05-04,2012-06-22,male,1945-01-04,,,John Doyle (judge)
+Australia,Chief Justice,Chris Kourakis,Q16888490,2012-06-25,,male,1958-06-17,,,Chris Kourakis
+Australia,Attorney-General,Trevor Griffin,Q18686474,1993-12-14,2001-12-04,male,1940-09-14,2015-03-07,,Trevor Griffin
+Australia,Attorney-General,Paul Holloway,Q7151348,2003-06-30,2003-08-23,male,1949-08-20,,,Paul Holloway
+Australia,Attorney-General,Michael Atkinson,Q6828295,2003-08-29,2010-03-25,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
+Australia,Attorney-General,John Rau,Q16193316,2010-03-25,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
+Australia,Attorney-General,Vickie Chapman,Q7925455,2018-03-19,,female,1957-06-21,,Chapman2018.jpg,Vickie Chapman
+Australia,Solicitor-General,Bradley Selway,Q4955029,1995,2002-11,male,1955-01-09,2005-04-10,,Bradley Selway
+Australia,Solicitor-General,Chris Kourakis,Q16888490,2003,2008-08-21,male,1958-06-17,,,Chris Kourakis
+Australia,Solicitor-General,Martin Hinton,Q52225971,2008-08,2016,male,,,,Martin Hinton (judge)
+Australia,Treasurer,Rob Lucas,Q7340323,1997-10-20,2002-03-05,male,1953-06-07,,Lucas2018.jpg,Rob Lucas
+Australia,Treasurer,Kevin Foley,Q6396291,2002-03-06,2011-02-08,male,1960-09-25,,Kevin Foley - politician.JPG,Kevin Foley (South Australian politician)
+Australia,Treasurer,Jack Snelling,Q6115240,2011-02-08,2013-01-21,male,1972-11-08,,Jack Snelling crop.JPG,Jack Snelling
+Australia,Treasurer,Jay Weatherill,Q1446178,2013-01-21,2014-03-26,male,1964-04-03,,Jay Weatherill.jpg,Jay Weatherill
+Australia,Treasurer,Tom Koutsantonis,Q7816502,2014-03-26,2018-03-18,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
+Australia,Treasurer,Rob Lucas,Q7340323,2018-03-19,,male,1953-06-07,,Lucas2018.jpg,Rob Lucas
+Australia,Deputy Premier,Steve Kons,Q16194639,2006-10-30,2008-04-09,male,1962-09-17,,,Steve Kons
+Australia,Deputy Premier,Jeremy Rockliff,Q6181827,2014-03-31,,male,1970-02-05,,Jeremy-Rockliff.jpg,Jeremy Rockliff
+Australia,President of the Legislative Council,Ray Bailey,Q7297158,1997-06-17,2002-05-04,male,1935-11-25,2012-02-14,,Ray Bailey
+Australia,President of the Legislative Council,Don Wing,Q5293743,2002-05-21,2008-06-10,male,1938-04-27,,,Don Wing
+Australia,President of the Legislative Council,Sue Smith,Q16150449,2008-06-10,2013-05-04,female,1951-01-24,,,Sue Smith (politician)
+Australia,President of the Legislative Council,Jim Wilkinson,Q6198934,2013-05-21,2019-05-03,male,1951-12-04,,,Jim Wilkinson (Australian politician)
+Australia,President of the Legislative Council,Craig Farrell,Q5180952,2019-05-21,,male,1964-01-28,,,Craig Farrell (politician)
+Australia,Speaker of the House of Assembly,Michael Polley,Q6833574,1998-10-06,2014-03-15,male,1949-11-04,,,Michael Polley
+Australia,Speaker of the House of Assembly,Elise Archer,Q5361642,2014-03-31,2017-10-02,female,1971-03-25,,,Elise Archer
+Australia,Speaker of the House of Assembly,Mark Shelton,Q6769690,2017-10-17,2018-05-01,male,1959-02-20,,,Mark Shelton (Australian politician)
+Australia,Speaker of the House of Assembly,Sue Hickey,Q18386100,2018-05-01,2021-06-22,female,1958-07-25,,,Sue Hickey
+Australia,Speaker of the House of Assembly,Mark Shelton,Q6769690,2021-06-22,,male,1959-02-20,,,Mark Shelton (Australian politician)
+Australia,Chief Justice,Peter Underwood,Q982736,2004-12-02,2008-03-28,male,1937-10-10,2014-07-07,,Peter Underwood
+Australia,Chief Justice,Ewan Crawford,Q5418900,2008-04-24,2013-04-08,male,1941-04-08,,,Ewan Crawford
+Australia,Chief Justice,Alan Blow,Q14918444,2013-04-08,,male,1949-12-02,,,Alan Blow
+Australia,Attorney-General,Brian Wightman,Q4965634,2010-05-13,2014-03-31,male,1976-01-09,,,Brian Wightman
+Australia,Attorney-General,Vanessa Goodwin,Q7914652,2014-03-31,2017-10-02,female,1969-04-22,2018-03-03,Vanessa Goodwin.jpg,Vanessa Goodwin
+Australia,Attorney-General,Will Hodgman,Q8002867,2017-10-02,2018-03-21,male,1969-04-20,,Will Hodgman apples cropped.jpg,Will Hodgman
+Australia,Treasurer,Michael Aird,Q6828140,2006-04-05,2010-12-06,male,1949-04-12,,,Michael Aird
+Australia,Treasurer,Peter Gutwein,Q7174432,2014-03-31,,male,1964-12-21,,Peter Gutwein (cropped).jpg,Peter Gutwein
+Australia,Lieutenant-Governor,Ken Lay,Q6388005,2017-11-09,2021-11-12,male,1956-02-17,,,Ken Lay (police officer)
+Australia,Lieutenant-Governor,James Angus,Q28094330,2021-11-12,,male,1949-02-15,,,James Angus (scientist)
+Australia,Deputy Premier,John Thwaites,Q6260803,1999-10-19,2007-07-30,male,1955-10-15,,John Thwaites (29 November 2002).jpg,John Thwaites (Australian politician)
+Australia,Deputy Premier,Rob Hulls,Q7340226,2007-07-30,2010-12-02,male,1957-01-23,,Rob Hulls - Sarah Ewart.jpg,Rob Hulls
+Australia,Deputy Premier,Peter Ryan,Q7176723,2010-12-02,2014-12-04,male,1950-10-30,,Peter Ryan.jpg,Peter Ryan (politician)
+Australia,Deputy Premier,James Merlino,Q6139657,2014-12-04,,male,1972-08-19,,James Merlino.jpg,James Merlino
+Australia,President of the Legislative Council,Monica Gould,Q6899966,2003-02-25,2006-12-18,female,1957-05-05,,,Monica Gould
+Australia,President of the Legislative Council,Bob Smith,Q4934021,2006-12-19,2010-12-20,male,1948-05-22,,,Bob Smith (Australian politician)
+Australia,President of the Legislative Council,Bruce Atkinson,Q16150027,2010-12-21,2018-12-19,male,1953-05-15,,Bruce Atkinson.jpg,Bruce Atkinson
+Australia,President of the Legislative Council,Shaun Leane,Q7490899,2018-12-19,2020-06-18,male,1963-08-20,,,Shaun Leane
+Australia,President of the Legislative Council,Nazih Elasmar,Q6983442,2020-06-18,,male,1953-04-16,,,Nazih Elasmar
+Australia,Speaker of the Legislative Assembly,Alex Andrianopoulos,Q4716622,1999-11-03,2003-02-24,male,1955-01-01,,,Alex Andrianopoulos
+Australia,Speaker of the Legislative Assembly,Judy Maddigan,Q6304517,2003-02-25,2006-12-20,female,1948-02-03,,,Judy Maddigan
+Australia,Speaker of the Legislative Assembly,Jenny Lindell,Q6179380,2006-12-19,2010-12-21,female,1953-12-19,,,Jenny Lindell
+Australia,Speaker of the Legislative Assembly,Ken Smith,Q6388514,2010-12-21,2014-02-04,male,1944-12-30,,Kenneth Smith.jpg,Ken Smith (Australian politician)
+Australia,Speaker of the Legislative Assembly,Christine Fyffe,Q5111024,2014-02-04,2014-12-22,female,1944-12-10,,,Christine Fyffe
+Australia,Speaker of the Legislative Assembly,Telmo Languiller,Q7697769,2014-12-23,2017-02-25,male,1957-07-31,,,Telmo Languiller
+Australia,Speaker of the Legislative Assembly,Colin Brooks,Q5144918,2017-03-07,,male,1970-01-09,,BrooksColinWilliam 75.jpg,Colin Brooks (politician)
+Australia,Chief Justice,Marilyn Warren,Q6763646,2003-11-25,2017-10-01,female,1951,,,Marilyn Warren
+Australia,Chief Justice,Anne Ferguson,Q16728952,2017-10-02,,female,,,,Anne Ferguson (judge)
+Australia,Attorney-General,Rob Hulls,Q7340226,1999-10-20,2010-12-02,male,1957-01-23,,Rob Hulls - Sarah Ewart.jpg,Rob Hulls
+Australia,Attorney-General,Robert Clark,Q7342941,2010-12-02,2014-12-04,male,1957-03-11,,,Robert Clark (Australian politician)
+Australia,Attorney-General,Jill Hennessy,Q16213990,2018-11-29,2020-12-16,female,1972-03-13,,,Jill Hennessy (politician)
+Australia,Attorney-General,Jaclyn Symes,Q19605122,2020-12-22,,female,,,,Jaclyn Symes
+Australia,Solicitor-General,Kristen Walker,Q107228400,2017,2021,female,,,,Kristen Walker
+Australia,Solicitor-General,Rowena Orr,Q107228541,2021-05-10,,female,,,,
+Australia,Chief Commissioner of Police,Neil Comrie,Q6988410,1993,2001,male,1947-03-10,,,Neil Comrie
+Australia,Chief Commissioner of Police,Christine Nixon,Q5111136,2001-04-23,2009-02-27,female,1953-06-11,,Christine Nixon March 2012.jpg,Christine Nixon
+Australia,Chief Commissioner of Police,Simon Overland,Q7519473,2009-03-02,2011-06-16,male,1962-03-19,,Simon Overland.jpg,Simon Overland
+Australia,Chief Commissioner of Police,Ken Lay,Q6388005,2011-11-14,2015-01-31,male,1956-02-17,,,Ken Lay (police officer)
+Australia,Chief Commissioner of Police,Graham Ashton,Q21004883,2015-07-01,2020-06-26,male,1962,,,Graham Ashton
+Australia,Chief Commissioner of Police,Shane Patton,Q96742494,2020-06-27,,male,,,,Shane Patton
+Australia,Treasurer,Michael O'Brien,Q6833128,2013-03-13,2014-12-04,male,1971-08-05,,Michael O'Brien cropped.png,Michael O'Brien (Victorian politician)
+Australia,Treasurer,Tim Pallas,Q7804090,2014-12-04,,male,1960-01-07,,,Tim Pallas
+Australia,Minister for Education,Ljiljanna Ravlich,Q6660849,2005-03-10,2006-12-13,female,1958-01-09,,Ljiljanna Ravlich - black and white.jpg,Ljiljanna Ravlich
+Australia,Minister for Lands,Inusah Fuseini,Q16194544,2013-01,2014-07,male,1962-01-23,,Inusah Fuseini.png,Inusah Fuseini
+Australia,Minister for Lands,Rita Saffioti,Q16214165,2017-03-27,,female,1972-05-26,,,Rita Saffioti
+Australia,Minister for Mines and Petroleum,Bill Johnston,Q4909631,2017-03-22,,male,1962-08-11,,,Bill Johnston (politician)
+Australia,Minister for Planning,Rita Saffioti,Q16214165,2017-03-17,,female,1972-05-26,,,Rita Saffioti
+Australia,Minister for Transport,Rita Saffioti,Q16214165,2017-03-17,,female,1972-05-26,,,Rita Saffioti
+Australia,President of the Legislative Council,Barry House,Q4864320,2009-05-22,2017-05-21,male,1949-11-27,,,Barry House
+Australia,President of the Legislative Council,Kate Doust,Q6375471,2017-05-23,,female,1962-05-27,,Kate Doust.jpg,Kate Doust
+Australia,Speaker of the Legislative Assembly,Peter Watson,Q7177611,2017-05-11,,male,1947-05-30,,Peter Watson campaign poster 2017.jpg,Peter Watson (politician)
+Australia,Attorney-General,Christian Porter,Q5110039,2008-09-23,2012-06-12,male,1970-07-11,,Christian Porter.jpg,Christian Porter
+Australia,Attorney-General,John Quigley,Q6253682,2017-03-17,,male,1948-12-01,,,John Quigley (politician)
+Australia,Treasurer,Troy Buswell,Q7846781,2008-09-23,2010-04-27,male,1966-03-19,,Troy Buswell 2009 WAITTA.JPG,Troy Buswell
+Australia,Treasurer,Christian Porter,Q5110039,2010-12-14,2012-06-12,male,1970-07-11,,Christian Porter.jpg,Christian Porter
+Australia,Treasurer,Troy Buswell,Q7846781,2012-07-07,2014-03-10,male,1966-03-19,,Troy Buswell 2009 WAITTA.JPG,Troy Buswell
+Australia,Treasurer,Mike Nahan,Q6848162,2014-03-17,2017-03-17,male,1950-07-02,,Mike nahan gnangarra 02.JPG,Mike Nahan
+Australia,Treasurer,Ben Wyatt,Q4886731,2017-03-17,,male,1974-04-01,,,Ben Wyatt (politician)
 Australia,Governor-General,William Deane,Q267745,1996-02-16,2001-06-29,male,1931-01-04,,William Deane cropped.jpg,William Deane
 Australia,Governor-General,Peter Hollingworth,Q1354229,2001-06-29,2003-05-28,male,1935-04-10,,Dr Peter Hollingworth.jpg,Peter Hollingworth
 Australia,Governor-General,Michael Jeffery,Q355053,2003-08-11,2008-09-05,male,1937-12-12,2020-12-18,Jeffery Michael 030238DI-002.jpg,Michael Jeffery
@@ -456,3 +981,51 @@ Australia,Administrator of the Indian Ocean Territories,Brian Lacy,Q4964412,2009
 Australia,Administrator of the Indian Ocean Territories,Jon Stanhope,Q713954,2012-10-05,2014-10-05,male,1951-04-29,,Jon Stanhope June 19 2006 crop.jpg,Jon Stanhope
 Australia,Administrator of the Indian Ocean Territories,Barry Haase,Q4864285,2014-10-05,2017-10-04,male,1945-11-19,,Barry Haase.jpg,Barry Haase
 Australia,Administrator of the Indian Ocean Territories,Natasha Griggs,Q16207753,2017-10-05,,female,1969-01-24,,NatashaGriggs.png,Natasha Griggs
+Australia,Vice-President of the Executive Council,John Faulkner,Q466003,2007-12-03,2010-09-13,male,1954-04-12,,John Faulkner Jan 2010.jpg,John Faulkner
+Australia,Vice-President of the Executive Council,Robert McClelland,Q5981237,2010-09-13,2012-03-05,male,1958-01-26,,Robert McClelland 2011-02 (cropped).jpg,Robert McClelland (Australian politician)
+Australia,Vice-President of the Executive Council,George Brandis,Q5537216,2013-09-18,2017-12-20,male,1957-06-22,,George Brandis DFAT 2017 1.jpg,George Brandis
+Australia,Vice-President of the Executive Council,Simon Birmingham,Q7518284,2020-10-30,,male,1974-06-14,,Simon Birmingham.jpg,Simon Birmingham
+Australia,Ambassador to Albania,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,ambassador to Ireland,Bob Halverson,Q4932666,1999,2003,male,1937-10-22,2016-02-09,,Bob Halverson
+Australia,Ambassador to Italy,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,ambassador to the Holy See,Bob Halverson,Q4932666,1999,2003,male,1937-10-22,2016-02-09,,Bob Halverson
+Australia,ambassador to the Holy See,John McCarthy,Q6247457,2012-11,2016,male,1947-10-20,,"John McCarthy, QC.jpg",John A. McCarthy
+Australia,Ambassador to Libya,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,Ambassador to San Marino,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,Ambassador to the United States of America,Michael Thawley,Q16963813,2000-02-02,2005-06,male,1950-04-16,,Amb Michael Thawley.jpg,Michael Thawley
+Australia,Ambassador to the United States of America,Dennis Richardson,Q5258898,2005-06-20,2010-02,male,1947-05-14,,Dennis J Richardson (2).jpg,Dennis Richardson (diplomat)
+Australia,Ambassador to the United States of America,Kim Beazley,Q304561,2010-02-17,2016-01-22,male,1948-12-14,,Kim Beazley crop.jpg,Kim Beazley
+Australia,Ambassador to the United States of America,Joe Hockey,Q6210353,2016-01-29,,male,1965-08-02,,Joe Hockey portrait 2.jpg,Joe Hockey
+Australia,Permanent Representative to the United Nations,Mitch Fifield,Q6880868,2019-10-17,,male,1967-01-16,,Mitch Fifield DFAT.jpg,Mitch Fifield
+Australia,Lord Mayor of Adelaide,Jane Lomax-Smith,Q6152492,1997,2000,female,1950-06-19,,,Jane Lomax-Smith
+Australia,Lord Mayor of Adelaide,Alfred Huang,Q53232106,2000,2003,male,,,,
+Australia,Lord Mayor of Adelaide,Michael Harbison,Q16185376,2003,2010,male,1953-06-16,,Michael Harbison DF-SD-07-24063.jpg,Michael Harbison
+Australia,Lord Mayor of Adelaide,Stephen Yarwood,Q7610899,2010,2014-11,male,1971-03-23,,Yarwood cropped.jpg,Stephen Yarwood
+Australia,Lord Mayor of Adelaide,Martin Haese,Q18686537,2014-11-18,2018,male,1965-10-22,,Martin Haese.JPG,Martin Haese
+Australia,Lord Mayor of Adelaide,Sandy Verschoor,Q58426814,2018,,female,1959-04-25,,Sandy Verschoor.jpg,Sandy Verschoor
+Australia,Lord Mayor of Brisbane,Jim Soorley,Q6198219,1991-03-30,2003-05-30,male,1951-04-08,,,Jim Soorley
+Australia,Lord Mayor of Brisbane,Tim Quinn,Q7804140,2003-05-30,2004-03-27,male,1949-07-26,,,Tim Quinn
+Australia,Lord Mayor of Brisbane,Campbell Newman,Q1446607,2004-03-27,2011-04-03,male,1963-08-12,,CNewman slugger.jpg,Campbell Newman
+Australia,Lord Mayor of Brisbane,Graham Quirk,Q5593164,2011-04-07,,male,1958,,Graham Quirk APCS 2011.jpg,Graham Quirk
+Australia,Lord Mayor of Darwin,George Brown,Q27925509,1992-06,2002-01-08,male,1929-07-29,2002-01-08,,George Brown (Australian politician)
+Australia,Lord Mayor of Darwin,Peter Adamson,Q7172466,2002,2007,male,1961,,,Peter Adamson (politician)
+Australia,Lord Mayor of Darwin,Katrina Fong Lim,Q6377932,2012-04-03,2017-09-04,female,1961-09-02,,,Katrina Fong Lim
+Australia,Lord Mayor of Darwin,Kon Vatskalis,Q6428695,2017-09-04,,male,1957-04-04,,,Kon Vatskalis
+Australia,Lord Mayor of Hobart,Rob Valentine,Q7340615,1999-03-24,2011-10-25,male,1950-06-15,,,Rob Valentine
+Australia,Lord Mayor of Hobart,Damon Thomas,Q5212889,2011-10-25,2014-11-05,male,1949-10-27,,,Damon Thomas (politician)
+Australia,Lord Mayor of Hobart,Sue Hickey,Q18386100,2014-11-05,2018-03-21,female,1958-07-25,,,Sue Hickey
+Australia,Lord Mayor of Hobart,Anna Reynolds,Q102046769,2018-11,,female,,,,Anna Reynolds (mayor)
+Australia,Lord Mayor of Melbourne,John So,Q926168,2001-07,2008-11,male,1946-10-02,,Cropped version of John So.jpg,John So
+Australia,Lord Mayor of Melbourne,Robert Doyle,Q3497630,2008-12-01,2018-02-04,male,1953-05-20,,Robert Doyle 2013.jpg,Robert Doyle
+Australia,Lord Mayor of Melbourne,Sally Capp,Q7405097,2018-05-24,,female,,,,Sally Capp
+Australia,Lord Mayor of Sydney,Lucy Turnbull,Q6698540,2003-03-22,2004-03-01,female,1958-03-30,,Lucy Turnbull in 2015.jpg,Lucy Turnbull
+Australia,Lord Mayor of Sydney,Clover Moore,Q3497534,2004-03-27,,female,1945-10-22,,Clover Moore speaks at the media.jpg,Clover Moore
+Australia,Mayor of Fremantle,Richard Utting,Q28961998,1997,2001,male,,,,
+Australia,Mayor of Fremantle,Peter Tagliaferri,Q7177233,2001,2009,male,1960,,,Peter Tagliaferri
+Australia,Mayor of Fremantle,Brad Pettitt,Q28961882,2009-10-17,2021-04-06,male,1972-07-14,,Brad Pettitt.jpg,Brad Pettitt
+Australia,Mayor of Fremantle,Hannah Fitzhardinge,Q108942387,2021-10-16,,female,,,,
+Australia,Mayor of the Gold Coast,Ron Clarke,Q549365,2004-03-25,2012-02-27,male,1937-02-21,2015-06-17,BillyMills Crossing Finish Line 1964Olympics.jpg,Ron Clarke
+Australia,Mayor of the Gold Coast,Tom Tate,Q22813354,2012-04-28,,male,1959-01-15,,Mayor Tom Tate.jpg,Tom Tate
+Australia,Information Commissioner,Timothy Pilgrim,Q7807458,2016-10-13,,male,1960-08-19,,Timothy Pilgrim 2011.jpg,Timothy Pilgrim
+Australia,Privacy Commissioner,Timothy Pilgrim,Q7807458,2010-07-19,,male,1960-08-19,,Timothy Pilgrim 2011.jpg,Timothy Pilgrim
+Australia,Deputy Chief of Navy,Geoffrey Smith,Q22271933,1999,2002,male,1950-05-16,,,Geoffrey Smith (admiral)
