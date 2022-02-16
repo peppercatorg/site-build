@@ -24,7 +24,7 @@ bhutan,17,36,77,98
 bolivia,22,46,8,49
 bosnia-herzegovina,20,73,20,73
 botswana,25,38,4,41
-brazil,60,192,1717,1848
+brazil,60,197,1717,1852
 british-virgin-islands,9,21,0,21
 bulgaria,27,157,102,235
 burundi,6,33,0,33
@@ -33,8 +33,8 @@ canada,62,355,1823,1960
 caymans,12,20,1,20
 chad,7,24,155,179
 chile,30,247,304,503
-china,37,87,5393,5456
-colombia,24,174,41,206
+china,37,115,5393,5482
+colombia,24,203,41,234
 congo-kinshasa,5,24,15,38
 croatia,23,94,158,235
 cyprus,24,120,183,272
@@ -45,7 +45,7 @@ ecuador,6,38,33,66
 egypt,39,96,9,105
 el-salvador,21,37,12,47
 eritrea,20,29,0,29
-estonia,25,163,385,444
+estonia,21,173,385,453
 ethiopia,30,54,1,54
 european-union,31,120,2820,2902
 faroes,8,22,6,26
@@ -63,7 +63,7 @@ greenland,12,32,2,33
 guatemala,20,56,5,58
 honduras,9,16,3,19
 hong-kong,17,76,110,179
-hungary,23,99,823,880
+hungary,23,202,824,977
 iceland,17,77,198,220
 india,106,467,2857,3170
 indonesia,45,89,874,954
@@ -95,7 +95,7 @@ maldives,23,41,6,41
 malta,25,46,74,92
 marshall-islands,12,19,0,19
 mauritius,25,40,1,40
-mexico,24,97,178,266
+mexico,24,99,178,268
 micronesia,13,22,0,22
 moldova,24,140,224,323
 monaco,10,34,53,83
@@ -108,7 +108,7 @@ namibia,29,46,3,48
 nauru,13,23,4,26
 nepal,29,47,357,399
 netherlands,37,181,946,1013
-new-zealand,30,107,228,279
+new-zealand,30,134,228,304
 niger,32,56,7,58
 nigeria,37,89,45,130
 niue,5,8,21,24
@@ -124,7 +124,7 @@ poland,27,210,533,695
 portugal,24,81,455,515
 qatar,23,30,0,30
 romania,30,330,1140,1304
-russia,40,183,531,696
+russia,40,217,531,727
 rwanda,29,55,0,55
 saint-lucia,17,34,42,49
 samoa,17,23,83,88
@@ -136,7 +136,7 @@ serbia,30,94,44,134
 seychelles,18,28,0,28
 singapore,25,53,228,248
 slovakia,21,54,16,66
-slovenia,23,101,170,243
+slovenia,23,111,170,253
 solomon-islands,27,41,67,83
 somalia,32,76,2,76
 south-africa,43,130,712,776
@@ -145,7 +145,7 @@ spain,31,463,3562,3920
 sri-lanka,34,53,258,273
 st-kitts-and-nevis,14,19,11,21
 sweden,29,182,1294,1388
-switzerland,11,54,643,657
+switzerland,11,54,644,658
 tajikistan,27,36,0,36
 tanzania,27,67,399,426
 timor-leste,24,47,1,48
@@ -156,14 +156,14 @@ tunisia,28,292,259,526
 turkey,25,106,775,847
 turks-and-caicos,12,28,7,30
 tuvalu,12,49,26,51
-uganda,9,29,8,36
+uganda,9,29,10,38
 ukraine,33,232,2048,2173
 united-kingdom,51,1112,2682,3385
-united-states,87,1066,5263,6203
+united-states,87,1066,5262,6202
 uruguay,21,40,92,114
 uzbekistan,34,40,0,40
 vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,26,54,34,77
-TOTAL,4311,18513,69036,81879
+TOTAL,4307,18761,69039,82110
