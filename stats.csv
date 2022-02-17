@@ -95,7 +95,7 @@ maldives,23,41,6,41
 malta,25,46,74,92
 marshall-islands,12,19,0,19
 mauritius,25,40,1,40
-mexico,24,99,178,268
+mexico,24,157,1363,1445
 micronesia,13,22,0,22
 moldova,24,140,224,323
 monaco,10,34,53,83
@@ -140,7 +140,7 @@ slovenia,23,111,170,253
 solomon-islands,27,41,67,83
 somalia,32,76,2,76
 south-africa,43,130,712,776
-south-korea,35,186,974,1104
+south-korea,35,193,974,1111
 spain,31,463,3562,3920
 sri-lanka,34,53,258,273
 st-kitts-and-nevis,14,19,11,21
@@ -166,4 +166,4 @@ vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,26,54,34,77
-TOTAL,4307,19073,69157,82467
+TOTAL,4307,19138,70342,83651
