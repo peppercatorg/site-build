@@ -1,5 +1,5 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Peru,President,Alberto Fujimori,Q133040,1990-07-28,2000-11-21,male,1938-07-26,,Al Fujimori.jpg,Alberto Fujimori
+Peru,President,Alberto Fujimori,Q133040,1990-07-28,2000-11-21,male,1938-07-28,,Al Fujimori.jpg,Alberto Fujimori
 Peru,President,Valentín Paniagua,Q81638,2000-11-22,2001-07-28,male,1936-09-23,2006-10-16,,Valentín Paniagua
 Peru,President,Alejandro Toledo,Q207426,2001-07-28,2006-07-28,male,1946-03-28,,Alejandro Toledo 2015 (cropped).jpg,Alejandro Toledo
 Peru,President,Alan García,Q167211,2006-07-28,2011-07-28,male,1949-05-23,2019-04-17,Alan García presidente del Perú.jpg,Alan García
@@ -65,7 +65,7 @@ Peru,Minister of Agriculture,Fernando Hurtado Pascual,Q102347116,2020-11-12,2020
 Peru,Minister of Agriculture,Federico Tenorio,Q102104707,2020-11-18,2021-07-28,male,1957-03-10,,,
 Peru,Minister of Agriculture,Víctor Raúl Maita Frisancho,Q107709935,2021-07-29,2022-02-01,male,1992-05-14,,Juramentación de nuevo Gabinete Ministerial 5-55 screenshot - Víctor Maita (cropped).png,
 Peru,Minister of Agriculture,Alberto Ramos Quilca,Q110782475,2022-02-01,2022-02-08,male,,,,
-Peru,Minister of Agriculture,Óscar Zea Choquechambi,Q107347946,2022-02-08,,male,,,Óscar Zea Choquechambi.png,
+Peru,Minister of Agriculture,Óscar Zea Choquechambi,Q107347946,2022-02-08,,male,1973,,Óscar Zea Choquechambi.png,
 Peru,Minister of Culture,Juan Ossio,Q923067,2010-09-04,2011-07-28,male,1943,,Juan Ossio Acuña.jpg,Juan Ossio Acuña
 Peru,Minister of Culture,Susana Baca,Q152266,2011-07-28,2011-12-10,female,1944-05-24,,Susana baca.jpg,Susana Baca
 Peru,Minister of Culture,Luis Peirano,Q5984158,2011-12-11,2013-07-24,male,1946-10,,,
@@ -84,7 +84,7 @@ Peru,Minister of Culture,María del Carmen de Reparaz,Q101580009,2020-11-12,2020
 Peru,Minister of Culture,Alejandro Neyra,Q29414068,2020-11-18,2021-07-28,male,1974-10-15,,"Neyra, Alejandro -FILSA 20181028 fRF01.jpg",
 Peru,Minister of Culture,Ciro Gálvez,Q5121942,2021-07-29,2021-10-06,male,1949-01-16,,Galvez. Ceremonia de juramentación del Gabinete Ministerial 15-55 screenshot (cropped).png,Ciro Gálvez
 Peru,Minister of Culture,Gisela Ortiz,Q5880434,2021-10-06,2022-02-01,female,1972-02-16,,Juramentación de nuevo Gabinete Ministerial 11-39 screenshot - Gisela Ortiz (cropped).png,Gisela Ortiz
-Peru,Minister of Culture,Alejandro Salas,Q110782373,2022-02-01,,male,,,Alejandro Salas Zegarra.png,
+Peru,Minister of Culture,Alejandro Salas,Q110782373,2022-02-01,,male,1977,,Alejandro Salas Zegarra.png,
 Peru,Minister of Defence,David Waisman,Q5240770,2001-07-28,2002-01-18,male,1937-05-04,,David Waisman.jpg,David Waisman
 Peru,Minister of Defence,Aurelio Loret de Mola,Q29917691,2002-01-18,2003-12-15,male,1953-08-28,,,
 Peru,Minister of Defence,Roberto Chiabra,Q5411209,2003-12-15,2005-08-16,male,1949-07-15,,Roberto Chiabra Discurso.jpg,
@@ -260,7 +260,7 @@ Peru,"Minister of Housing, Construction and Sanitation",Rodolfo Yáñez,Q6960955
 Peru,"Minister of Housing, Construction and Sanitation",Carlos Lozada Contreras,Q86706363,2020-07-15,2020-11-10,male,,,Carlos Lozada Contreras.jpg,
 Peru,"Minister of Housing, Construction and Sanitation",Hilda Sandoval Cornejo,Q101917728,2020-11-12,2020-11-15,female,,,,
 Peru,"Minister of Housing, Construction and Sanitation",Solangel Fernández,Q102104625,2020-11-18,2021-07-26,female,,,Solangel Fernández (cropped).jpg,
-Peru,"Minister of Housing, Construction and Sanitation",Geiner Alvarado López,Q107710357,2021-07-29,,male,1983-05-07,,Juramentación de nuevo Gabinete Ministerial 9-49 screenshot - Geiner Alvarado.png,
+Peru,"Minister of Housing, Construction and Sanitation",Geiner Alvarado López,Q107710357,2021-07-29,,male,1983-05-07,,Juramentación de nuevo Gabinete Ministerial 10-2 screenshot - Geiner Alvarado (cropped).png,
 Peru,Minister of Justice and Human Rights,Alberto Bustamante Belaunde,Q743834,2000-07-28,2000-11-21,male,1950-09-12,2008-02-07,,Alberto Bustamante Belaúnde
 Peru,Minister of Justice and Human Rights,Rosario Fernández,Q2378206,2007-12-20,2009-07-10,female,1955-11-09,,ROSARIO FERNANDEZ02.jpg,Rosario Fernández
 Peru,Minister of Justice and Human Rights,Rosario Fernández,Q2378206,2010-09-14,2011-07-28,female,1955-11-09,,ROSARIO FERNANDEZ02.jpg,Rosario Fernández
@@ -390,7 +390,7 @@ Peru,Minister of Women and Vulnerable Populations,Antonina Sasieta,Q4776347,2020
 Peru,Minister of Women and Vulnerable Populations,Patricia Teullet,Q99264100,2020-11-12,2020-11-15,female,1960,,,Patricia Teullet
 Peru,Minister of Women and Vulnerable Populations,Silvia Loli,Q102104673,2020-11-18,2021-07-29,female,,,,Silvia Loli
 Peru,Minister of Women and Vulnerable Populations,Anahí Durand Guevara,Q107710430,2021-07-29,2022-02-01,female,1978-04-01,,Ceremonia de juramentación del Gabinete Ministerial 19-49 screenshot (cropped).png,Anahí Durand
-Peru,Minister of Women and Vulnerable Populations,Jhakeline Katy Ugarte Mamani,Q108414754,2022-02-01,2022-02-08,female,1972,,,
+Peru,Minister of Women and Vulnerable Populations,Jhakeline Katy Ugarte Mamani,Q108414754,2022-02-01,2022-02-08,female,1972-12-21,,,
 Peru,Minister of Women and Vulnerable Populations,Diana Miloslavich,Q108758583,2022-02-08,,female,,,Diana Miloslavich.png,
 Peru,Minister of the Presidency,Juan Incháustegui,Q20016275,2000-11-22,2001-01-18,male,1938-03-04,2019-02-16,,Juan Incháustegui
 Peru,President of Congress,Máximo San roman,Q3331996,1995-07-26,2000-07-26,male,1946-04-14,,Máximo San Román.png,Máximo San Román
