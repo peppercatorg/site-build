@@ -4,7 +4,7 @@ Ukraine,President,Viktor Yushchenko,Q1459699,2005-01-23,2010-02-25,male,1954-02-
 Ukraine,President,Viktor Yanukovych,Q1459658,2010-02-25,2014-02-22,male,1950-07-09,,Viktor Yanukovych 27 April 2010-1.jpeg,Viktor Yanukovych
 Ukraine,President,Oleksandr Turchynov,Q15850,2014-02-23,2014-06-07,male,1964-03-31,,Oleksandr Turchynov in August 2014.jpg,Oleksandr Turchynov
 Ukraine,President,Petro Poroshenko,Q58077,2014-06-07,2019-05-20,male,1965-09-26,,Official portrait of Petro Poroshenko.jpg,Petro Poroshenko
-Ukraine,President,Volodymyr Zelenskyi,Q3874799,2019-05-20,,male,1978-01-25,,Volodymyr Zelensky Official portrait.jpg,Volodymyr Zelenskyy
+Ukraine,President,Volodymyr Zelenskyy,Q3874799,2019-05-20,,male,1978-01-25,,Volodymyr Zelensky Official portrait.jpg,Volodymyr Zelenskyy
 Ukraine,Prime Minister,Viktor Yushchenko,Q1459699,1999-12-22,2001-05-29,male,1954-02-23,,Viktor Yushchenko by Tasnimnews 01 (cropped).jpg,Viktor Yushchenko
 Ukraine,Prime Minister,Anatoliy Kinakh,Q488180,2001-05-29,2002-11-21,male,1954-08-04,,Anatoliy Kinakh.jpg,Anatoliy Kinakh
 Ukraine,Prime Minister,Viktor Yanukovych,Q1459658,2002-11-21,2004-12-07,male,1950-07-09,,Viktor Yanukovych 27 April 2010-1.jpeg,Viktor Yanukovych
@@ -199,6 +199,7 @@ Ukraine,Minister of Regional Development,Aliona Babak,Q20065724,2019-08-29,2020-
 Ukraine,Minister of Regional Development,Denys Shmyhal,Q66094865,2020-02-04,2020-03-04,male,1975-10-15,,Денис Шмигаль (08-12-2020) (cropped).jpg,Denys Shmyhal
 Ukraine,Minister of Regional Development,Oleksiy Chernyshov,Q42792644,2020-03-04,,male,1977-09-04,,Chernishov Oleksiy.jpg,Oleksiy Chernyshov
 Ukraine,Minister for Reintegration of the Temporarily Occupied Territories,Oleksii Reznikov,Q4392444,2020-03-04,2021-11-03,male,1966-06-18,,Oleksii Reznikov (portrait).jpg,Oleksii Reznikov
+Ukraine,Minister of Revenues and Duties,Oleksandr Klymenko,Q2690204,2012-12-24,2014-02-27,male,1980-11-16,,Клименко P17A0360.jpg,Oleksandr Klymenko (politician)
 Ukraine,Minister of Social Policy,Vyacheslav Kyrylenko,Q1378506,2005-02-04,2005-09-27,male,1968-06-07,,Wikipedia Loves Monuments Awards Ceremony - 0238.jpg,Vyacheslav Kyrylenko
 Ukraine,Minister of Social Policy,Liudmyla Denisova,Q74023,2007-12-18,2010-03-11,female,1960-07-06,,Liudmyla Denisova en.jpg,Lyudmyla Denisova
 Ukraine,Minister of Social Policy,Serhiy Tihipko,Q379720,2010-03-11,2012-12-24,male,1960-02-13,,Сергей Леонидович Тигипко.jpg,Serhiy Tihipko
@@ -295,7 +296,21 @@ Ukraine,Prosecutor General,Yuriy Lutsenko,Q458282,2016-05-12,2019-08-29,male,196
 Ukraine,Prosecutor General,Ruslan Riaboshapka,Q16714996,2019-08-29,2020-03-05,male,1976-10-14,,"Рябошапка Руслан, 2019 (cropped).jpg",Ruslan Riaboshapka
 Ukraine,Prosecutor General,Viktor Chumak,Q12170784,2020-03-06,2020-03-17,male,1958-06-05,,Viktor Chumak.jpg,
 Ukraine,Prosecutor General,Iryna Venediktova,Q64632862,2020-03-17,,female,1978-09-21,,Venediktova.jpg,Iryna Venediktova
+Ukraine,First Lady,Liudmyla Kuchma,Q4250060,1994-07-19,2005-01-23,female,1940-06-19,,Людмила Кучма 29 11 2001.jpg,Lyudmyla Kuchma
+Ukraine,First Lady,Kateryna Yushchenko,Q2313952,2005-01-23,2010-02-25,female,1961-09-01,,Yushchenko.jpg,Kateryna Yushchenko
+Ukraine,First Lady,Lyudmila Yanukovych,Q4538301,2010-02-25,2014-02-22,female,1949-10-09,,Lyudmila Yanukovych (1).JPG,Lyudmyla Yanukovych
+Ukraine,First Lady,Hanna Turchynova,Q17372365,2014-02-23,2014-06-07,female,1970-04-01,,Ганна Турчинова (2).jpg,Hanna Turchynova
+Ukraine,First Lady,Maryna Poroshenko,Q16976525,2014-06-07,2019-05-20,female,1962-02-01,,Maryna Poroshenko's visit to Croatia - 2018 (1534789117) (cropped).jpg,Maryna Poroshenko
+Ukraine,First Lady,Olena Zelenska,Q59321885,2019-05-20,,female,1978-02-06,,"Olena Zelenska, the First Lady of Ukraine.jpg",Olena Zelenska
+Ukraine,Deputy Head of the Office of the President,Andriy Smyrnov,Q85998900,2019-09-10,,male,1981-01-20,,Андрій Смирнов (cropped).jpg,
+Ukraine,Deputy Head of the Office of the President,Roman Mashovets,Q94741534,2020-04-22,,male,1976,,Roman Mashovets.jpg,
+Ukraine,First Deputy Head of the Secretariat of the President,Oleksandr Shlapak,Q12172086,2007-03-23,2010-02-24,male,1960-01-01,,Oleksandr Shlapak2.jpg,Oleksandr Shlapak
 Ukraine,Deputy Minister of Economic Development,Pavlo Kukhta,Q87446768,2019-09-06,,male,1985-12-03,,Павло Кухта.png,Pavlo Kukhta
+Ukraine,Chairman of the State Treasury,Oleksandr Shlapak,Q12172086,2005-10-12,2006-08-10,male,1960-01-01,,Oleksandr Shlapak2.jpg,Oleksandr Shlapak
+Ukraine,Head of the State Emergency Service,Serhii Bochkovskyi,Q17371669,2014-04-23,,male,1968-11-20,,Сергій Бочковський.jpg,
+Ukraine,Head of the State Emergency Service,Mykola Chechotkin,Q23659350,2015-05-14,2021-11-10,male,1965-11-29,,Chechotkin.jpg,
+Ukraine,First Deputy Chairman of the Verkhovna Rada,Ruslan Stefanchuk,Q20070130,2019-08-29,2021-10-08,male,1975-10-29,,"Стефанчук Руслан, 2019, 1 (cropped).jpg",Ruslan Stefanchuk
+Ukraine,Commander-in-Chief of the Armed Forces,Valery Zaluzhnyi,Q54964679,2021-07-27,,male,1973-07-08,,Lieutenant General Valerii Zaluzhnyi.jpg,Valerii Zaluzhnyi
 Ukraine,Governor of Cherkasy Oblast,,Q15627818,1999-09-08,2002-11-13,male,1956-06-16,2014-01-13,,
 Ukraine,Governor of Cherkasy Oblast,,Q47489377,2002-11-13,2005-01-21,male,1955-06-23,,,
 Ukraine,Governor of Cherkasy Oblast,,Q12169700,2005-02-04,2010-03-12,male,1959-04-06,,Фото Черевка Олександра Володимировича.jpg,
@@ -326,3 +341,61 @@ Ukraine,Governor of Chernihiv Oblast,Anna Kovalenko,Q16701826,2020-10-13,2021-08
 Ukraine,Governor of Chernihiv Oblast,Vyacheslav Chaus,Q107884996,2021-08-04,,male,1977-08-28,,В'ячеслав Анатолійович Чаус.jpg,
 Ukraine,Governor of Dnipropetrovsk Oblast,Yuriy Yekhanurov,Q311116,2005-04-01,2005-09-08,male,1948-08-23,,Yuriy Yekhanurov 2013.jpg,Yuriy Yekhanurov
 Ukraine,Governor of Donetsk Oblast,Viktor Yanukovych,Q1459658,1997-05-14,2002-11-21,male,1950-07-09,,Viktor Yanukovych 27 April 2010-1.jpeg,Viktor Yanukovych
+Ukraine,Governor of Ivano-Frankivsk Oblast,Oleh Honcharuk,Q18012519,2014-09-09,2019-06-11,male,1968-01-31,,OLED 2022.jpg,
+Ukraine,Governor of Ivano-Frankivsk Oblast,Denys Shmyhal,Q66094865,2019-08-01,2020-02-05,male,1975-10-15,,Денис Шмигаль (08-12-2020) (cropped).jpg,Denys Shmyhal
+Ukraine,Governor of Ivano-Frankivsk Oblast,Vitaliy Fedoriv,Q85999983,2020-04-24,2020-11-05,male,1977-01-23,,,Vitaliy Fedoriv (politician)
+Ukraine,Governor of Ivano-Frankivsk Oblast,Svitlana Onyschuk,Q109297952,2021-07-08,,female,1984-01-07,,,Svitlana Onyschuk
+Ukraine,Governor of Kyiv Oblast,Oleksiy Chernyshov,Q42792644,2019-10-28,2020-03-11,male,1977-09-04,,Chernishov Oleksiy.jpg,Oleksiy Chernyshov
+Ukraine,Governor of Kirovohrad Oblast,Vadym Chernysh,Q4514263,2006-08-03,2007-11-01,male,1971-10-16,,Вадим Черниш.jpg,Vadym Chernysh
+Ukraine,Governor of Luhansk Oblast,Oleksiy Danilov,Q4154638,2005-02-04,2005-11-08,male,1962-09-07,,Oleksiy Danilov.jpg,Oleksiy Danilov
+Ukraine,Governor of Odessa Oblast,Mikheil Saakashvili,Q43330,2015-05-30,2016-11-09,male,1967-12-21,,"Mikheil Saakashvili, 2020.jpg",Mikheil Saakashvili
+Ukraine,Governor of Odessa Oblast,Maksym Stepanov,Q28665698,2017-01-12,2019-04-10,male,1975-08-18,,Максим Степанов.jpg,Maksym Stepanov
+Ukraine,Governor of Odessa Oblast,Serhiy Paraschenko,Q63033291,2019-04-10,2019-06-11,male,1972-08-05,,,Serhiy Paraschenko
+Ukraine,Governor of Zaporizhzhia Oblast,Viktor Baloha,Q898717,1999-05-05,2001-06-01,male,1963-06-15,,Baloha Viktor-MNS UA-photo.jpg,Viktor Baloha
+Ukraine,Governor of Zaporizhzhia Oblast,Yuriy Artemenko,Q4070192,2005-02-04,2005-11-08,male,1963-02-28,,Артеменко Юрій Анатолійович.jpg,Yuriy Artemenko
+Ukraine,Governor of Zaporizhzhia Oblast,Viktor Baloha,Q898717,2005-02-04,2005-09-27,male,1963-06-15,,Baloha Viktor-MNS UA-photo.jpg,Viktor Baloha
+Ukraine,Governor of Zaporizhzhia Oblast,Alexander Peklushenko,Q4348130,2011-11-02,2014-03-03,male,1954-08-29,2015-03-12,,Oleksandr Peklushenko
+Ukraine,Governor of Zaporizhzhia Oblast,Valery Baranov,Q7911466,2014-03-03,2014-10-29,male,1957-04-19,,Баранов. В.JPG,Valery Baranov (politician)
+Ukraine,Governor of Sevastopol,Aleksei Chalyi,Q15829163,2014-03-21,2014-04-14,male,1961-06-13,,Alexey Chaly.jpeg,Aleksei Chaly
+Ukraine,Governor of Sevastopol,Sergei Menyailo,Q4290693,2014-04-14,2016-07-28,male,1960-08-22,,Sergey Meniaylo (2020).jpg,Sergey Menyaylo
+Ukraine,Governor of Sevastopol,Dmitriy Ovsyannikov,Q26158335,2016-07-28,2017-09-18,male,1977-02-21,,Dmitriy Ovsyannikov.jpg,Dmitry Ovsyannikov
+Ukraine,Governor of Sevastopol,Dmitriy Ovsyannikov,Q26158335,2017-09-18,2019-07-11,male,1977-02-21,,Dmitriy Ovsyannikov.jpg,Dmitry Ovsyannikov
+Ukraine,Governor of Sevastopol,Mikhail Razvozhayev,Q60828711,2019-07-11,,male,1980-12-30,,Mikhail Razvozhaev (2019-07-11).jpg,Mikhail Razvozhayev
+Ukraine,Lviv City Mayor,Andriy Sadovyi,Q2011720,2006-04-25,,male,1968-08-19,,AndriiSadovyi.JPG,Andriy Sadovyi
+Ukraine,ambassador to Armenia,Volodymyr Tyahlo,Q12163134,2002,2005,male,1947-06-24,2021-07-04,,Volodymyr Tyahlo
+Ukraine,ambassador to Belarus,Valentyn Nalyvaichenko,Q2509516,2005-12-30,2006-05-29,male,1966-06-08,,"Наливайченко, Валентин Александрович 0074 Чуприна Вадим А.jpg",Valentyn Nalyvaichenko
+Ukraine,ambassador to Bulgaria,Victor Kalnik,Q11293567,2007,2011,male,1948-05-21,,,
+Ukraine,ambassador to Bulgaria,Mikola Baltazhi,Q12080700,2011-03-04,2018,male,1956-04-27,,Mikola Baltazhi 2017.jpg,
+Ukraine,ambassador to Bulgaria,Moskalenko Vitalij Anatolijovic,Q12130188,2018,,male,1955-10-31,,"Віталій Москаленко, український дипломат.jpg",
+Ukraine,ambassador to Canada,Vadym Prystaiko,Q16713168,2012-11-08,2014-11-26,male,1970-02-20,,Vadym Prystaiko (cropped 3).jpg,Vadym Prystaiko
+Ukraine,ambassador to Canada,Andriy Shevchenko,Q2081854,2015-09-22,,male,1976-06-10,,Andriy V Shevchenko.jpg,Andriy Shevchenko (politician)
+Ukraine,ambassador to Estonia,Viktor Kryzhanivsky,Q12114744,2010,2021-10-16,male,1961-12-21,2021-10-16,ViktorKryzhanivskyj.jpg,Viktor Kryzhanivsky
+Ukraine,ambassador to Finland,Petro Sardachuk,Q12150649,2001,2003,male,1938-07-11,2022-01-21,,Petro Sardachuk
+Ukraine,ambassador to Finland,Andriy Deshchytsya,Q12100652,2008,2012,male,1965-09-22,,Andrii Deshchytsia.jpg,Andrii Deshchytsia
+Ukraine,ambassador to Greece,Volodymyr Shkurov,Q12172056,2010,2016,male,1958,,Volodymyr Shkurov.jpg,
+Ukraine,ambassador to Greece,Sergey Shutenko,Q47489284,2018-09-03,,male,1968-12-15,,"Сергій Шутенко, український дипломат.jpg",
+Ukraine,ambassador to Hungary,Orest Klympush,Q1225368,1997,2002,male,1941-02-14,,,Orest Klympush
+Ukraine,ambassador to Hungary,Vasyl Durdynets,Q964173,2002,2003,male,1937-09-27,,Василь Дурдинець.jpg,Vasyl Durdynets
+Ukraine,ambassador to Hungary,Yuriy Mushka,Q28158186,2003,2006,male,1964-09-08,,"Юрій Мушка, український дипломат.jpg",
+Ukraine,ambassador to Hungary,Yuriy Mushka,Q28158186,2003-11-10,2006-01-26,male,1964-09-08,,"Юрій Мушка, український дипломат.jpg",
+Ukraine,ambassador to Hungary,Dmytro Tkach,Q12161507,2006,2010,male,1950-12-22,,,
+Ukraine,ambassador to Hungary,Lyubov Nepop,Q25440006,2016,,female,1971-08-23,,"Любов Непоп, українська дипломатка.jpg",
+Ukraine,ambassador to Japan,Serhii Korsunskyi,Q12113287,2020-04-14,,male,1962-08-10,,Сергій Корусунський.jpg,Sergiy Korsunsky
+Ukraine,ambassador to Kyrgyzstan,Volodymyr Tyahlo,Q12163134,2005,2008,male,1947-06-24,2021-07-04,,Volodymyr Tyahlo
+Ukraine,ambassador to Montenegro,Oksana Sliusarenko,Q4424155,2008-12-01,2014-03-31,female,1962-04-23,,,
+Ukraine,ambassador to Poland,Andriy Deshchytsya,Q12100652,2014-10-13,,male,1965-09-22,,Andrii Deshchytsia.jpg,Andrii Deshchytsia
+Ukraine,ambassador to Portugal,Inna Ohnivets,Q12135137,2015-10-19,,female,1962-08-30,,"Інна Огнівець, українська дипломатка.jpg",
+Ukraine,ambassador to Romania,Alexander Bankov,Q30958811,2017,,male,1983-02-03,,"Олександр Баньков, український дипломат.jpg",
+Ukraine,ambassador to Russia,Kostyantyn Gryshchenko,Q58113,2008,2010,male,1953-10-28,,Msc 2004-Saturday Afternoon-1600-1800-Gryshchenko.jpg,Kostyantyn Gryshchenko
+Ukraine,ambassador to Slovakia,Inna Ohnivets,Q12135137,2005-12-30,2010-02-05,female,1962-08-30,,"Інна Огнівець, українська дипломатка.jpg",
+Ukraine,ambassador to Slovakia,Yuriy Mushka,Q28158186,2017,,male,1964-09-08,,"Юрій Мушка, український дипломат.jpg",
+Ukraine,ambassador to Switzerland,Artem Rybchenko,Q56367611,2018,,male,1983-06-23,,"Артем Рибченко, український дипломат.jpg",
+Ukraine,ambassador to the United Kingdom,Natalia Galibarenko,Q16170021,2015,,female,1978-05-12,,Natalia Galibarenko in London - 2018 (41466902124) (cropped).jpg,Natalia Galibarenko
+Ukraine,ambassador to the United Kingdom,Vadym Prystaiko,Q16713168,2020-07-20,,male,1970-02-20,,Vadym Prystaiko (cropped 3).jpg,Vadym Prystaiko
+Ukraine,Permanent Representative to the United Nations,Volodymyr Yelchenko,Q4175308,1997,2001,male,1959-06-27,,Єльченко Володимир Юрійович.jpg,Volodymyr Yelchenko
+Ukraine,Permanent Representative to the United Nations,Viktor Kryzhanivsky,Q12114744,2006,2007,male,1961-12-21,2021-10-16,ViktorKryzhanivskyj.jpg,Viktor Kryzhanivsky
+Ukraine,Permanent Representative to the United Nations,Yuriy A. Sergeyev,Q12152236,2007-04-18,2015-12-09,male,1956-02-05,,Yuri Sergeev 2013.jpg,Yuriy Sergeyev
+Ukraine,Permanent Representative to the United Nations,Volodymyr Yelchenko,Q4175308,2015,2019,male,1959-06-27,,Єльченко Володимир Юрійович.jpg,Volodymyr Yelchenko
+Ukraine,Permanent Representative to the United Nations,Sergiy Kyslytsya,Q16701497,2020,,male,1969-08-15,,Sergiy Kyslytsya (cropped).jpg,Sergiy Kyslytsya
+Ukraine,ambassador of Ukraine,Yevgeniy Kartashov,Q4216172,2000,2001,male,1942-01-01,,Карташов Євген Григорович (cropped).jpg,
+Ukraine,ambassador of Ukraine,Andrei Karlov,Q15068349,2011-03-22,2016-12-19,male,1954-02-04,2016-12-19,Andrey Karlov 2016.jpg,Andrei Karlov
