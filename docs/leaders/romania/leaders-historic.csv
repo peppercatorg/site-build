@@ -242,6 +242,7 @@ Romania,Minister of Health,Florin Cîțu,Q28035183,2021-04-14,2021-04-21,male,19
 Romania,Minister of Health,Ioana Mihăilă,Q106574142,2021-04-21,2021-09-08,female,1980-11-20,,,Ioana Mihăilă
 Romania,Minister of Health,Attila Cseke,Q747255,2021-09-08,2021-11-25,male,1973-06-09,,Cseke Attila.JPG,Attila Cseke
 Romania,Minister of Health,Alexandru Rafila,Q88007402,2021-11-25,,male,1961-12-27,,,Alexandru Rafila
+Romania,Minister of Information,Vasile Dîncu,Q347209,2000-12-28,2003-06-19,male,1961-11-25,,Vasile Dîncu portrait.jpg,Vasile Dîncu
 Romania,Minister of Internal Affairs,Ioan Rus,Q1671900,2000-12-28,2004-03-11,male,1955-02-21,,Ioan Rus2014.png,Ioan Rus
 Romania,Minister of Internal Affairs,Vasile Blaga,Q728720,2004-12-29,2007-04-05,male,1956-07-26,,EPP Congress 7615 (8100155267) (cropped).jpg,Vasile Blaga
 Romania,Minister of Internal Affairs,Gabriel Oprea,Q3093904,2008-12-22,2009-01-12,male,1961-01-01,,Gabriel Oprea.jpg,Gabriel Oprea
@@ -429,9 +430,11 @@ Romania,Prefect of Bucharest,Georgiana-Alexandra Văcaru,Q108818570,2021-10-06,,
 Romania,Director of the Intelligence Service,Costin Georgescu,Q12725834,1997-05-26,2000-12,male,1942-02-22,,,
 Romania,Director of the Intelligence Service,George Maior,Q5542064,2006-10-04,2015-01-27,male,1967-11-16,,George Cristian Maior.jpg,George Maior
 Romania,Director of the Intelligence Service,Eduard Raul Hellvig,Q349024,2015-03-02,,male,1974-10-27,,Eduard Hellvig.png,Eduard Hellvig
+Romania,ambassador to Albania,Filip Teodorescu,Q5448524,1997,2001,male,1951-12-26,,,Filip Teodorescu
 Romania,ambassador to Andorra,Teodor Baconschi,Q3518225,2008-03-04,2009,male,1963-02-14,,Teodor Baconschi 2011.jpg,Teodor Baconschi
 Romania,ambassador to Argentina,Ion Vîlcu,Q6063401,2007,2011,male,1966-05-12,,,Ion Vîlcu
 Romania,ambassador to Austria,Emil Hurezeanu,Q1336281,2021,,male,1955-08-26,,Emil Hurezeanu.jpg,Emil Hurezeanu
+Romania,ambassador to Azerbaijan,Tahsin Gemil,Q4118381,1998,2003,male,1943-09-21,,,Tahsin Gemil
 Romania,ambassador to Belgium,Ion Jinga,Q12730882,2003-04-09,2008-03-07,male,1961-09-01,,HE Dr Ion Jinga.jpg,Ion Jinga
 Romania,ambassador to Belgium,Andreea Păstârnac,Q28470540,2019-07-12,,female,1967,,,
 Romania,ambassador to Burundi,Iulia Pataki,Q12731175,2012-05,,female,1963-05-16,,,
@@ -441,8 +444,11 @@ Romania,ambassador to China,Viorel Isticioaia-Budura,Q12743516,2002-11-20,2012,m
 Romania,ambassador to China,Doru Romulus Costea,Q5299031,2012-03-01,2017-10-26,male,1953-09-22,,Conference on Facilitating the Entry into Force of the CTBT - Flickr - The Official CTBTO Photostream (32).jpg,Doru Romulus Costea
 Romania,ambassador to China,,Q97393722,2017-10-26,,male,1969-05-02,,,
 Romania,ambassador to Costa Rica,Ion Vîlcu,Q6063401,2016,2018,male,1966-05-12,,,Ion Vîlcu
+Romania,ambassador to Cyprus,Costin Georgescu,Q12725834,2001-01-12,2004-08-24,male,1942-02-22,,,
 Romania,ambassador to Denmark,Theodor Paleologu,Q3523675,2005,2008,male,1973-07-15,,Theodor Paleologu 2012-04-22.jpg,Theodor Paleologu
+Romania,ambassador to Egypt,Doru Romulus Costea,Q5299031,1997,2001,male,1953-09-22,,Conference on Facilitating the Entry into Force of the CTBT - Flickr - The Official CTBTO Photostream (32).jpg,Doru Romulus Costea
 Romania,ambassador to El Salvador,Ion Vîlcu,Q6063401,2016,2018,male,1966-05-12,,,Ion Vîlcu
+Romania,ambassador to Finland,Smaranda Enache,Q18539988,1998,2001,female,1950-03-31,,,
 Romania,ambassador to France,Oliviu Gherman,Q12737148,2001-09-04,2004,male,1930-04-26,2020-08-11,,Oliviu Gherman
 Romania,ambassador to France,Teodor Baconschi,Q3518225,2007-08-02,2009,male,1963-02-14,,Teodor Baconschi 2011.jpg,Teodor Baconschi
 Romania,ambassador to France,Bogdan Mazuru,Q4937451,2010,2015,male,1962-03-26,,,Bogdan Mazuru
@@ -460,6 +466,7 @@ Romania,ambassador to Honduras,Ion Vîlcu,Q6063401,2016,2018,male,1966-05-12,,,I
 Romania,ambassador to Hungary,Marius Lazurca,Q6765963,2016,2020-09,male,1971-03-15,,,Marius Lazurca
 Romania,ambassador to Hungary,Gabriel Cătălin Șopandă,Q105080724,2021-01,,male,,,,
 Romania,ambassador to Iceland,Theodor Paleologu,Q3523675,2005,2008,male,1973-07-15,,Theodor Paleologu 2012-04-22.jpg,Theodor Paleologu
+Romania,ambassador to Indonesia,Dan-Adrian Bălănescu,Q108393442,2021-09-03,,male,1974-03-14,,,
 Romania,ambassador to Ireland,Iulian Buga,Q18538370,2009,2013,male,1957-08-31,,,
 Romania,ambassador to Israel,Gheorghe Chitic,Q97393070,1950-01,,male,,,,
 Romania,ambassador to Israel,Mariana Stoica,Q12734963,2000,2006,female,1945-08-29,2012,,
@@ -492,21 +499,23 @@ Romania,ambassador to San Marino,Teodor Baconschi,Q3518225,1999,2001,male,1963-0
 Romania,ambassador to Serbia,Daniel Banu,Q97392889,1949-12,,male,,,,
 Romania,ambassador to Serbia,Ștefan Glăvan,Q18544048,2000,2004,male,1939-12-20,,,
 Romania,ambassador to Spain,Ion Vîlcu,Q6063401,2011,2016,male,1966-05-12,,,Ion Vîlcu
+Romania,ambassador to Switzerland,Radu Boroianu,Q18538179,1997,2001,male,1942-09-20,,,
 Romania,ambassador to Thailand,Silvia Petrovici,Q18545345,2000,2001,female,1949-01-29,,,
 Romania,ambassador to Tunisia,Florin Bucur Vasilescu,Q12728407,2001-08-17,2006,male,,,,
 Romania,ambassador to Turkey,George Ciamba,Q17641551,1999,2003,male,1966-02-20,2021-07-11,Minister George Ciamba.jpg,George Ciamba
 Romania,ambassador to Turkey,Gabriel Cătălin Șopandă,Q105080724,2016-09,2020-12,male,,,,
 Romania,ambassador to Turkmenistan,Tahsin Gemil,Q4118381,2004,2007,male,1943-09-21,,,Tahsin Gemil
+Romania,ambassador to Uganda,Iulia Pataki,Q12731175,2012-05,,female,1963-05-16,,,
 Romania,ambassador to the United Kingdom,Radu Florescu,Q107390602,1940,,male,,,,
 Romania,ambassador to the United Kingdom,Radu Onofrei,Q107377990,2001-06-13,2002,female,,,,
 Romania,ambassador to the United Kingdom,Dan Ghibernea,Q18544042,2002-11-29,2006-07-18,male,1954-09-15,,,
 Romania,ambassador to the United Kingdom,Ion Jinga,Q12730882,2008-03-07,2015-08-04,male,1961-09-01,,HE Dr Ion Jinga.jpg,Ion Jinga
 Romania,ambassador to the United Kingdom,Mihnea Motoc,Q6845299,2015-09-11,2015-11-17,male,1966-11-11,,MihneaMotoc.jpg,Mihnea Motoc
 Romania,ambassador to the United Kingdom,Dan Mihalache,Q347466,2016-06-08,,male,1971-05-18,,Dan Mihalache.png,Dan Mihalache
+Romania,ambassador to the United States of America,Mircea Geoană,Q435200,1996,2000,male,1958-07-14,,Mircea Geoana la reuniunea BPN - 02.12.2013 (11173070964) (cropped 2).jpg,Mircea Geoană
+Romania,ambassador to the United States of America,Iulian Buga,Q18538370,2013-12-04,2015,male,1957-08-31,,,
+Romania,ambassador to the United States of America,George Maior,Q5542064,2015-09-17,2021,male,1967-11-16,,George Cristian Maior.jpg,George Maior
 Romania,ambassador to Venezuela,Ioan Leș,Q12730655,2004,2006,male,1947-09-01,,,
-Romania,ambassador to the USA,Mircea Geoană,Q435200,1996,2000,male,1958-07-14,,Mircea Geoana la reuniunea BPN - 02.12.2013 (11173070964) (cropped 2).jpg,Mircea Geoană
-Romania,ambassador to the USA,Iulian Buga,Q18538370,2013-12-04,2015,male,1957-08-31,,,
-Romania,ambassador to the USA,George Maior,Q5542064,2015-09-17,2021,male,1967-11-16,,George Cristian Maior.jpg,George Maior
 Romania,Permanent Representative to the United Nations,Ion Goriță,Q28195984,1994,2000,male,,,,Ion Goriță
 Romania,Permanent Representative to the United Nations,Sorin Ducaru,Q18150863,2000,2001,male,1964-06-22,,Dumitru Sorin Ducaru.jpg,
 Romania,Permanent Representative to the United Nations,Mihnea Motoc,Q6845299,2003,2008-04-01,male,1966-11-11,,MihneaMotoc.jpg,Mihnea Motoc
