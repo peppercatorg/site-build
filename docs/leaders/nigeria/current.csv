@@ -9,7 +9,7 @@ Nigeria,Minister of Defence,Bashir Salihi Magashi,Q4866857,2019-08-21,male,,,,Ba
 Nigeria,Minister of Education,Adamu Adamu,Q41559149,2015-11-11,male,1956-05-25,,Adam-Adamu.jpg,Adamu Adamu
 Nigeria,Minister of the Environment,Muhammad Mahmood Abubakar,Q109252006,2019-08-21,male,,,,
 Nigeria,Minister of the Federal Capital Territory,Mohammed Musa Bello,Q59829052,2015-05-29,male,1959-01,,,Mohammed Musa Bello
-Nigeria,Minister of Finance,Zainab Ahmed,Q42559242,2019-08-21,female,1960-06-16,,Zainab Ahmed - 2016.jpg,Zainab Ahmed
+Nigeria,Minister of Finance,Zainab Ahmed,Q42559242,2018-09,female,1960-06-16,,Zainab Ahmed - 2016.jpg,Zainab Ahmed
 Nigeria,Minister of Foreign Affairs,Geoffrey Onyeama,Q21467394,2015,male,1956-02-02,,Geoffrey Onyeama (25864152320) (cropped).jpg,Geoffrey Onyeama
 Nigeria,Minister of Health,Osagie Emmanuel Ehanire,Q62670421,2019-08,male,1946,,,Osagie Ehanire
 Nigeria,"Minister of Humanitarian Affairs, Disaster Management and Social Development",Sadiya Umar Farouq,Q20195461,2019-08-21,female,1974-11-05,,Sadiya Umaru Farouq.jpg,Sadiya Umar Farouq
@@ -20,6 +20,7 @@ Nigeria,Minister of Justice,Abubakar Malami,Q23714146,2015-11-11,male,1967-04-17
 Nigeria,Minister of Labour,Chris Ngige,Q3510794,2015-11-11,male,1952-08-08,,Ngige.jpg,Chris Ngige
 Nigeria,Minister of Mines and Steel Development,Olamilekan Adegbite,Q75184824,2019,male,,,,Olamilekan Adegbite
 Nigeria,Minister of Niger Delta,Godswill Akpabio,Q5576947,2019-08-21,male,1962-12-19,,Godswill Obot Akpabio (2012).jpg,Godswill Akpabio
+Nigeria,Minister of Petroleum Resources,Muhammadu Buhari,Q361567,2015-11-11,male,1942-12-17,,Muhammadu Buhari.jpg,Muhammadu Buhari
 Nigeria,Minister of Police Affairs,Mohammed Maigari Dingyadi,Q108704107,2019-08-21,male,1953,,,Mohammed Maigari Dingyadi
 Nigeria,Minister of Power,Abubakar D. Aliyu,Q109661629,2021-09-01,male,,,,
 Nigeria,Minister of Science and Technology,Ogbonnaya Onu,Q13655513,2019-06-14,male,1951-12-01,,Ogbonnaya Onu - 2018 (cropped).jpg,Ogbonnaya Onu
@@ -29,12 +30,26 @@ Nigeria,Minister of Water Resources,Suleiman Adamu Kazaure,Q66309786,2015-11,mal
 Nigeria,Minister of Women Affairs and Social Development,Pauline Tallen,Q27830470,2019,female,1959-01-08,,,Pauline Tallen
 Nigeria,Minister of Works and Housing,Babatunde Fashola,Q62356,2015-11-11,male,1963-06-28,,Babatunde Fashola.jpg,Babatunde Fashola
 Nigeria,Minister of Youth and Sports,Sunday Dare,Q65953957,2019,male,1966-05-29,,,Sunday Akin Dare
-Nigeria,Minister of State Environment,Sharon Ikeazor,Q66309734,2019-08-21,female,1961,,Sharon Ikeazor.jpeg,Sharon Ikeazor
+Nigeria,Minister of State for Agriculture and Rural Development,Mustapha Baba Shehuri,Q99162710,2019-08-21,male,1961-07-04,,,Mustapha Baba Shehuri
+Nigeria,Minister of State for Education,Chukwuemeka Nwajiuba,Q66901800,2019-08-21,male,1967,,,Chukwuemeka Nwajiuba
+Nigeria,Minister of State for Environment,Sharon Ikeazor,Q66309734,2019-08-21,female,1961,,Sharon Ikeazor.jpeg,Sharon Ikeazor
+Nigeria,Minister of State for Federal Capital Territory,Ramatu Tijjani Aliyu,Q65938686,2019-08-19,female,1970-06-12,,,Ramatu Tijani Aliyu
 Nigeria,Minister of State for Foreign Affairs,Zubairu Dada,Q101693651,2019,male,1952-03-28,,,Zubairu Dada
-Nigeria,"Minister of State, Mines and Steel Development",Uchechukwu Sampson Ogah,Q18355928,2019-08-21,male,1969-12-22,,UcheOgah.jpg,Uche Ogah
+Nigeria,Minister of State for Health,Adeleke Mamora,Q4681916,2019-08-21,male,1953-02-16,,,Adeleke Mamora
+Nigeria,"Minister of State for Industry, Trade and Investment",Mariam Yalwaji Katagum,Q73590469,2019-08-21,female,1954,,,Mariam Yalwaji Katagum
+Nigeria,Minister of State for Labour and Employment,Festus Keyamo,Q19667657,2019-09-24,male,1970-01-21,,Festus Keyamo at Mojeec International 2020 07.jpg,Festus Keyamo
+Nigeria,Minister of State for Mines and Steel Development,Uchechukwu Sampson Ogah,Q18355928,2019-08-21,male,1969-12-22,,UcheOgah.jpg,Uche Ogah
+Nigeria,Minister of State for Niger Delta Affairs,Omotayo Alasoadura,Q107491747,2019-09-24,male,1949,,,Tayo Alasoadura
+Nigeria,Minister of State for Petroleum Resources,Timipre Sylva,Q3509607,2019-08-21,male,1964-07-07,,Timipre Sylva.jpg,Timipre Sylva
+Nigeria,Minister of State for Power,Goddy Jedy Agba,Q66039284,2019-08-21,male,1958-08-20,,,Goddy Jedy Agba
+Nigeria,"Minister of State for Science, Technology and Innovation",Mohammed Hassan Abdullahi,Q101245550,2019-08-21,male,1968-04-21,,,Mohammed Hassan Abdullahi
+Nigeria,Minister of State for Transportation,Gbemisola Ruqayyah Saraki,Q5529326,2019-08-21,female,1965,,,Gbemisola Ruqayyah Saraki
+Nigeria,Minister of State for Works and Housing,Muazu Sambo,Q111079726,2021-12-24,male,,,,
+Nigeria,Chief of Staff to the President,Ibrahim Gambari,Q953167,2020-05-13,male,1944-11-24,,"Ibrahim Gambari, UNDP-USA-159HR-09 crop.jpg",Ibrahim Gambari
+Nigeria,Secretary to the Government,Boss Mustapha,Q47363740,2017-11-01,male,,,,Boss Mustapha
 Nigeria,Attorney General,Abubakar Malami,Q23714146,2015-11-11,male,1967-04-17,,Abubakar Malami638.jpg,Abubakar Malami
 Nigeria,Chief Justice,Ibrahim Tanko Muhammad,Q19958154,2019-01-25,male,1953-12-31,,,Tanko Muhammad
 Nigeria,President of the Senate,Ahmed Lawan,Q4695864,2019-06-11,male,1959,,Ahmed Ibrahim Lawan.jpg,Ahmad Lawan
 Nigeria,Speaker of the House of Representatives,Femi Gbaja Biamila,Q5442793,2019-06-12,male,1962-06,,Femi Gbajabiamila 2018.png,Femi Gbajabiamila
-Nigeria,Chief of Army Staff,Faruk Yahaya,Q108901870,2021-05-27,male,1966-01-05,,,Faruk Yahaya
+Nigeria,Chief of Defence Staff,Lucky Irabor,Q105084418,2021-01-26,male,1965-10-05,,Gen Lucky Irabor portrait.jpg,Lucky Irabor
 Nigeria,Governor of the Central Bank,Godwin Emefiele,Q16728824,2014-06-03,male,1961-08-04,,,Godwin Emefiele
