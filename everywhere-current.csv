@@ -63,7 +63,7 @@ Algeria,Minister of Mojahedin,Laïd Rebigua,Q107447250,2021-02-21,male,1973-12-2
 Algeria,"Minister of National Solidarity, Family, and the Status of Women",Kaoutar Krikou,Q85204610,2021-07-07,female,1982-03-02,,,
 Algeria,Minister of the Pharmaceutical Industry,Lotfi Benbahmad,Q97397923,2020-01-04,male,1966-12-02,,,
 Algeria,Minister of Post and Communication Technology and Information,Karim Bibi Triki,Q107447367,2021-07-07,male,1968-08-18,,,
-Algeria,Minister of Professional Education and Training,Yacine Merabi,Q107447253,2021-07-07,male,1966-08-07,,,
+Algeria,Minister of Professional Education and Training,Yacine Merabi,Q107447253,2021-07-07,male,1966-08-07,,Yacine merabi.jpg,
 Algeria,Minister of Public Works,Kamel Nasri,Q83875272,2021-02-22,male,1961-02-17,,,
 Algeria,Minister of Relations with Parliament,Basma Azouar,Q80824173,2020-01-04,female,1983-03-16,,BASMA AZOUAR.jpg,
 Algeria,Minister of Religious Affairs and Wakfs,Youcef Belmehdi,Q62639219,2019-04-01,male,1963-09-29,,,
@@ -225,7 +225,7 @@ Aruba,Governor,Alfonso Boekhoudt,Q26899180,2017-01-01,male,1965-01-27,,Gouverneu
 Aruba,Prime Minister,Evelyn Wever-Croes,Q23038705,2017-11-17,female,1966-12-05,,180531 Wever-Croes Aruba bij Blok (28597045908) (cropped).jpg,Evelyn Wever-Croes
 Aruba,"Minister of Economic Affairs, Communications, and Sustainable Development",Geoffrey B. Wever,Q109684418,2021-08-09,male,,,Geoffrey Wever 2021.jpeg,
 Aruba,Minister of Education and Sport,Endy Croes,Q109684647,2021-09-20,male,1968,,Endy Croes 2021.jpeg,
-Aruba,Minister of Finance and Culture,Xiomara Ruiz-Maduro,Q23038687,2021-08-09,female,1974-12-24,,Xiomara Ruiz-Maduro (cropped).jpg,Xiomara Ruiz-Maduro
+Aruba,Minister of Finance and Culture,Xiomara Ruiz-Maduro,Q23038687,2021-08-09,female,1974-12-24,,Xiomara Ruiz-Maduro (cropped).jpg,Xiomara Maduro
 Aruba,"Minister of General Affairs, Innovation, Government Organization, Infrastructure and Spatial Planning",Evelyn Wever-Croes,Q23038705,2021-08-09,female,1966-12-05,,180531 Wever-Croes Aruba bij Blok (28597045908) (cropped).jpg,Evelyn Wever-Croes
 Aruba,Minister of Justice and Social Affairs,Rocco Tjon,Q107958842,2021-08-09,male,,,Rocco Tjon.jpeg,
 Aruba,Minister for Health and Tourism,Dangui Oduber,Q60733815,2021-08-09,male,1978-07-13,,Minister Dangui Oduber.jpg,Dangui Oduber
@@ -1048,9 +1048,9 @@ Colombia,Minister of the Environment,Carlos Eduardo Correa Escaf,Q17624238,2020-
 Colombia,Minister of Finance and Public Credit,José Manuel Restrepo Abondano,Q55813470,2021-05-03,male,1969,,,José Manuel Restrepo Abondano
 Colombia,Minister of Foreign Affairs,Marta Lucía Ramírez,Q6774142,2021-05-19,female,1954-07-04,,"Marta Lucía Ramírez, 2012.jpg",Marta Lucía Ramírez
 Colombia,Minister of Health and Social Protection,Eduardo Rodríguez Pérez,Q88549792,2020-03-03,male,1958-10-31,,Fernando Ruiz Gómez.jpg,
-Colombia,"Minister of Housing""",Jonathan Malagón,Q55815245,2018-08-07,male,1984-08-10,,JonathanMalagon-MinistroVivienda.jpg,
+Colombia,Minister of Housing,Jonathan Malagón,Q55815245,2018-08-07,male,1984-08-10,,JonathanMalagon-MinistroVivienda.jpg,
 Colombia,Minister of Information Technology and Communications,Carmen Ligia Valderrama Rojas,Q108748143,2021-09-28,female,,,Articles-118039 foto perfil.jpg,
-Colombia,Minister of the Interior,Daniel Palacios,Q106515173,2020-12-22,male,1982,,,
+Colombia,Minister of the Interior,Daniel Palacios,Q106515173,2020-12-22,male,1982,,Daniel Palacios.jpg,
 Colombia,Minister of Justice and Law,Wilson Ruiz Orejuela,Q17478258,2020-10-05,male,,,,
 Colombia,Minister of Labour,Ángel Custodio Cabrera,Q19788638,2020-02-07,male,1956-07,,,
 Colombia,Minister of Mining and Energy,Diego Mesa Puyo,Q96674931,2020-07-01,male,1982,,,
@@ -1616,7 +1616,7 @@ Gibraltar,Chief Minister,Fabian Picardo,Q2356379,2011-12-09,male,1972-02-18,,05-
 Gibraltar,Deputy Chief Minister,Joseph Garcia,Q1442437,2011-12-09,male,1967,,Joseph Garcia portrait.jpg,Joseph Garcia (Gibraltarian politician)
 Gibraltar,"Minister for Digital, Financial Services and Public Utilities",Albert Isola,Q16190596,2013-07-04,male,1963-09-27,,The Hon Albert Isola 2014 (cropped).jpg,Albert Isola
 Gibraltar,"Minister for Economic Development, Enterprise, Telecommunications & the Gibraltar Savings Bank",Joe Bossano,Q3090591,2011-12-08,male,1939-06-10,,Joebossano.jpg,Joe Bossano
-Gibraltar,"Minister for the Environment, Sustainability, Climate Change and Education",John Cortes,Q3323220,2011-12,male,,,Dr john cortes.jpg,John Cortes
+Gibraltar,"Minister for the Environment, Sustainability, Climate Change and Education",John Cortes,Q3323220,2011-12,male,,,Dr john cortes.jpg,John Cortes (Gibraltarian politician)
 Gibraltar,Minister for Transport,Paul Balban,Q3323197,2021-06-21,male,,,,Paul Balban
 Gibraltar,"Minister for the Health Authority, Justice, Multiculturalism, Equality and Community Affairs",Samantha Sacramento,Q3322990,2016,female,,,Samantha Sacramento.jpg,Samantha Sacramento
 Gibraltar,"Minister for Housing, Employment, Youth and Sport",Steven Linares,Q3323210,2011-12,male,,,Steven Linares at the 2013 Gibraltar Music Festival.jpg,Steven Linares
@@ -1769,7 +1769,7 @@ India,Minister of Defence,Rajnath Singh,Q3506475,2019-05-31,male,1951-07-10,,191
 India,Minister for Development of North Eastern Region,G. Kishan Reddy,Q5512319,2021-07-07,male,1964-06-15,,G. Kishan Reddy.jpg,G. Kishan Reddy
 India,Minister of Education,Dharmendra Pradhan,Q5269370,2021-07-07,male,1969-06-26,,Dharmendra Pradhan ଧର୍ମେନ୍ଦ୍ର ପ୍ରଧାନ.jpg,Dharmendra Pradhan
 India,Minister of Electronics and Information Technology,Ashwini Vaishnaw,Q75184694,2021-07-07,male,1970-07-18,,Shri Ashwini Vaishnaw Minister.jpg,Ashwini Vaishnaw
-India,Minister of Environment and Forests,Bhupender Yadav,Q16208337,2021-07-07,male,1969-06-30,,,Bhupender Yadav
+India,Minister of Environment and Forests,Bhupender Yadav,Q16208337,2021-07-07,male,1969-06-30,,Bhupender Yadav.jpg,Bhupender Yadav
 India,Minister of External Affairs,Subrahmanyam Jaishankar,Q16186720,2019-05-30,male,1955-01-09,,Subrahmanyam Jaishankar 2014.jpg,S. Jaishankar
 India,Minister of Finance,Nirmala Sitharaman,Q7040049,2019-05-31,female,1959-08-18,,Nirmala Sitharaman - 2018 (46166396231) (cropped).jpg,Nirmala Sitharaman
 India,"Minister of Fisheries, Animal Husbandry and Dairying",Parsottambhai Rupala,Q7140070,2021-07-07,male,1954-10-01,,"Parshottam Rupala addressing the inaugural session of the NEDAC (Network for Development of Agricultural Cooperatives in Asia) General Assembly, in New Delhi.JPG",Parshottam Rupala
@@ -1780,7 +1780,7 @@ India,Minister of Heavy Industries and Public Enterprises,Mahendra Nath Pandey,Q
 India,Minister of Home Affairs,Amit Shah,Q4746875,2019-05-30,male,1964-10-22,,Amit Shah new.jpg,Amit Shah
 India,Minister of Information and Broadcasting,Anurag Thakur,Q4777895,2021-07-07,male,1974-10-24,,Anurag Thakur.jpg,Anurag Thakur
 India,Minister of Jal Shakti,Gajendrasingh Shekhawat,Q16914124,2019-05-30,male,1967-10-03,,"The Minister of State for Agriculture and Farmers Welfare, Shri Gajendra Singh Shekhawat addressing a press conference, at Asansol, in West Bengal on June 03, 2018.JPG",Gajendra Singh Shekhawat
-India,Minister of Labour and Employment,Bhupender Yadav,Q16208337,2021-07-07,male,1969-06-30,,,Bhupender Yadav
+India,Minister of Labour and Employment,Bhupender Yadav,Q16208337,2021-07-07,male,1969-06-30,,Bhupender Yadav.jpg,Bhupender Yadav
 India,Minister of Law and Justice,Kiren Rijiju,Q6415053,2021-07-07,male,1971-11-19,,"The Minister of State for Home Affairs, Shri Kiren Rijiju addressing the ‘India Disaster Response Summit’, in New Delhi on November 09, 2017.jpg",Kiren Rijiju
 India,"Minister of Micro, Small and Medium Enterprises",Narayan Rane,Q3631470,2021-07-07,male,1952-04-10,,Narayan Rane (cropped).jpg,Narayan Rane
 India,Minister of Mines,Pralhad Joshi,Q7238224,2019-05-30,male,1962-11-27,,ಶ್ರೀ ಪ್ರಲ್ಹಾದ ಜೋಶಿ.JPG,Pralhad Joshi
@@ -1872,7 +1872,7 @@ India,Chief Minister of Uttar Pradesh,Yogi Adityanath,Q4683097,2017-03-19,male,1
 India,Governor of Uttarakhand,Gurmit Singh,Q108553289,2021-09-15,male,,,,Gurmit Singh (general)
 India,Chief Minister of Uttarakhand,Pushkar Singh Dhami,Q28370220,2021-07-04,male,1975-09-16,,Pushkar Singh Dhami.jpg,Pushkar Singh Dhami
 India,Governor of West Bengal,Jagdeep Dhankhar,Q50410280,2019-07-30,male,1951,,Jagdeep Dhankar profile.jpg,Jagdeep Dhankhar
-India,Chief Minister of West Bengal,Mamata Banerjee,Q465041,2011-05-20,female,1960-10-05,,"Ms. Mamata Banerjee, in Kolkata on July 17, 2018 (cropped).JPG",Mamata Banerjee
+India,Chief Minister of West Bengal,Mamata Banerjee,Q465041,2011-05-20,female,1955-01-05,,"Ms. Mamata Banerjee, in Kolkata on July 17, 2018 (cropped).JPG",Mamata Banerjee
 India,Lieutenant Governor the Andaman and Nicobar Islands,Devendra Kumar Joshi,Q5266858,2017-10-08,male,1954-07-04,,DK Joshi official portrait.jpg,Devendra Kumar Joshi
 India,Lieutenant Governor of Delhi,Anil Baijal,Q28086313,2016-12-31,male,,,Anil Baijal.jpg,Anil Baijal
 India,Lieutenant Governor of Jammu and Kashmir,Manoj Sinha,Q6751189,2020-08-07,male,1959-07-01,,Manoj Sinha Profile Pic.jpeg,Manoj Sinha
@@ -2080,7 +2080,6 @@ Israel,Minister of Strategic Affairs,Yair Lapid,Q1396120,2021-06-13,male,1963-11
 Israel,Minister of Tourism,Yoel Razvozov,Q2468984,2021-06-13,male,1980-07-05,,"Yoel Razvozov (Knesset Member)-Helping Hand Global Forum hosted the Ceremony to Salute Holocaust Survivors, 2013.jpg",Yoel Razvozov
 Israel,Minister of Transport and Road Safety,Merav Michaeli,Q391262,2021-06-13,female,1952-11-24,,Merav Michaeli by Ron Kedmi.jpg,Merav Michaeli
 Israel,Minister of Water Resources,Karin Elharar,Q3663042,2021-06-13,female,1977-10-09,,קארין אלהרר.jpg,Karine Elharrar
-Israel,Minister without portfolio,Eli Avidar,Q5360165,2021-08-05,male,1964-12-03,,Eli AvidarA.jpg,Eli Avidar
 Israel,Liaison Between the Knesset and Government,Ze'ev Elkin,Q2583898,2021-06-13,male,1971-04-03,,זאב אלקין (cropped).png,Ze'ev Elkin
 Israel,Deputy Minister of Defence,Alon Schuster,Q6965078,2021-06-28,male,1957-03-02,,Alon Schuster.jpeg,Alon Schuster
 Israel,Deputy Minister of the Economy and Industry,Yair Golan,Q569975,2021-07-26,male,1962-05-14,,יאיר גולן.jpg,Yair Golan
@@ -2154,7 +2153,7 @@ Jamaica,Chief Justice,Bryan Sykes,Q62036276,2018-03-01,male,,,,Bryan Sykes (judg
 Jamaica,Speaker of the House of Representatives,Marisa Dalrymple-Philibert,Q99478706,2020-09-15,female,,,Marisa Dalrymple-Philibert.jpg,Marisa Dalrymple-Philibert
 Jamaica,President of the Senate,Tom Tavares-Finson,Q16751168,2016-03-10,male,1953-07-07,,,Tom Tavares-Finson
 Jamaica,Governor of the Central Bank,Richard Byles,Q109929154,2019-08-19,male,,,,
-Jamaica,Chief of Defence Staff,Antonette Wemyss-Gorman,Q110663428,2022-01-21,female,,,,Antonette Wemyss Gorman
+Jamaica,Chief of Defence Staff,Antonette Wemyss-Gorman,Q110663428,2022-01-21,female,,,Antonette Wemyss-Gorman (170322-N-ZD845-111) (cropped).jpg,Antonette Wemyss Gorman
 Japan,Emperor,Naruhito,Q217096,2019-05-01,male,1960-02-23,,Emperor Naruhito and Empress Masako (cropped).jpg,Naruhito
 Japan,Prime Minister,Fumio Kishida,Q359480,2021-10-04,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
 Japan,"Minister of Agriculture, Forestry and Fisheries",Genjirō Kaneko,Q1502275,2021-10-04,male,1944-05-08,,金子原二郎.jpg,Genjirō Kaneko
@@ -2172,15 +2171,15 @@ Japan,Minister of Justice,Yoshihisa Furukawa,Q8056070,2021-10-04,male,1965-08-03
 Japan,"Minister of Land, Infrastructure, Transport and Tourism",Tetsuo Saito,Q926287,2021-10-04,male,1952-02-05,,Tetsuo Saitō.jpg,Tetsuo Saito
 Japan,Minister for Reconstruction,Kosaburo Nishime,Q11629931,2021-10-04,male,1954-08-07,,98 nishime kousaburou.jpg,Kosaburo Nishime
 Japan,Minister for the Tokyo Olympic and Paralympic Games,Noriko Horiuchi,Q11427301,2021-10-04,female,1965-10-28,,Noriko Horiuchi.jpg,Noriko Horiuchi
-Japan,Minister for the World Expo 2025,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,,Kenji Wakamiya
+Japan,Minister for the World Expo 2025,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,Kenji Wakamiya.jpg,Kenji Wakamiya
 Japan,Minister in Charge of Administrative Reform,Karen Makishima,Q11570409,2021-10-04,female,1976-11-01,,Karen Makishima 20211008.png,Karen Makishima
 Japan,Minister in Charge of Building National Resilience,Satoshi Ninoyu,Q7426414,2021-10-04,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
 Japan,Minister in Charge of Civil Service Reform,Satoshi Ninoyu,Q7426414,2021-10-04,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
-Japan,Minister in Charge of Cohesive Society,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,,Kenji Wakamiya
+Japan,Minister in Charge of Cohesive Society,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,Kenji Wakamiya.jpg,Kenji Wakamiya
 Japan,Minister in Charge of Comprehensive Policy Coordination for Revival from the Nuclear Accident at Fukushima,Kosaburo Nishime,Q11629931,2021-10-04,male,1954-08-07,,98 nishime kousaburou.jpg,Kosaburo Nishime
-Japan,Minister in Charge of Digital Garden City Nation Vision,Kenji Wakamiya,Q6389383,2021-11-10,male,1961-09-02,,,Kenji Wakamiya
+Japan,Minister in Charge of Digital Garden City Nation Vision,Kenji Wakamiya,Q6389383,2021-11-10,male,1961-09-02,,Kenji Wakamiya.jpg,Kenji Wakamiya
 Japan,Minister in Charge of Economic Revitalization,Daishiro Yamagiwa,Q5209617,2021-10-04,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
-Japan,Minister in Charge of Economic Security,Takayuki Kobayashi,Q11461955,2021-10-04,male,1974-11-29,,Takayuki Kobayashi.jpg,Takayuki Kobayashi
+Japan,Minister in Charge of Economic Security,Takayuki Kobayashi,Q11461955,2021-10-04,male,1974-11-29,,Takayuki Kobayashi 2017.jpg,Takayuki Kobayashi
 Japan,Minister in Charge of Education Rebuilding,Shinsuke Suematsu,Q7497773,2021-10-04,male,1955-12-17,,Shinsuke Suematsu 20211004.jpg,Shinsuke Suematsu
 Japan,Minister in Charge of Industrial Competitiveness,Koichi Hagiuda,Q6426211,2021-10-04,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
 Japan,Minister in Charge of Measures for Loneliness and Isolation,Seiko Noda,Q459698,2021-10-04,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
@@ -2188,7 +2187,7 @@ Japan,Minister in Charge of Measures for Novel Coronavirus Disease andHealth Cri
 Japan,Minister in Charge of Mitigating the Impact of U.S. Forces in Okinawa,Hirokazu Matsuno,Q5770251,2021-10-04,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
 Japan,Minister in Charge of New Capitalism,Daishiro Yamagiwa,Q5209617,2021-10-04,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
 Japan,Minister in Charge of Overcoming Deflation,Shun'ichi Suzuki,Q3482658,2021-10-04,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
-Japan,Minister in Charge of Overcoming Population Decline and Vitalizing Local Economy,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,,Kenji Wakamiya
+Japan,Minister in Charge of Overcoming Population Decline and Vitalizing Local Economy,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,Kenji Wakamiya.jpg,Kenji Wakamiya
 Japan,Minister in Charge of Policies Related to Children,Seiko Noda,Q459698,2021-10-04,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
 Japan,Minister in Charge of Promoting Vaccinations,Noriko Horiuchi,Q11427301,2021-10-04,female,1965-10-28,,Noriko Horiuchi.jpg,Noriko Horiuchi
 Japan,Minister in Charge of Social Security Reform,Daishiro Yamagiwa,Q5209617,2021-10-04,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
@@ -2197,20 +2196,20 @@ Japan,Minister in Charge of Water Cycle Policy,Tetsuo Saito,Q926287,2021-10-04,m
 Japan,Minister in Charge of Women's Empowerment,Seiko Noda,Q459698,2021-10-04,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
 Japan,Minister in Charge of the Abductions Issue,Hirokazu Matsuno,Q5770251,2021-10-04,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
 Japan,Minister in Charge of the Response to the Economic Impact caused by the Nuclear Accident,Koichi Hagiuda,Q6426211,2021-10-04,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
-Japan,"Minister of State for ""Cool Japan"" Strategy",Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,,Kenji Wakamiya
-Japan,Minister of State for Consumer Affairs and Food Safety,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,,Kenji Wakamiya
+Japan,"Minister of State for ""Cool Japan"" Strategy",Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,Kenji Wakamiya.jpg,Kenji Wakamiya
+Japan,Minister of State for Consumer Affairs and Food Safety,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,Kenji Wakamiya.jpg,Kenji Wakamiya
 Japan,Minister of State for Disaster Management and Ocean Policy,Satoshi Ninoyu,Q7426414,2021-10-04,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
 Japan,Minister of State for Economic and Fiscal Policy,Daishiro Yamagiwa,Q5209617,2021-10-04,male,1968-09-12,,211005yamagiwa.png,Daishiro Yamagiwa
 Japan,Minister of State for Financial Services,Shun'ichi Suzuki,Q3482658,2021-10-04,male,1953-04-13,,Shunichi Suzuki cropped 2 Shunichi Suzuki and Yukiya Amano 20130701.jpg,Shun'ichi Suzuki (politician)
 Japan,Minister of State for Gender Equality,Seiko Noda,Q459698,2021-10-04,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
-Japan,Minister of State for Intellectual Property Strategy,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,,Kenji Wakamiya
+Japan,Minister of State for Intellectual Property Strategy,Kenji Wakamiya,Q6389383,2021-10-04,male,1961-09-02,,Kenji Wakamiya.jpg,Kenji Wakamiya
 Japan,Minister of State for Measures for Declining Birthrate,Seiko Noda,Q459698,2021-10-04,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
 Japan,Minister of State for Nuclear Emergency Preparedness,Tsuyoshi Yamaguchi,Q704345,2021-10-04,male,1954-10-03,,Tsuyoshi Yamaguchi cropped.jpg,Tsuyoshi Yamaguchi (politician)
 Japan,Minister of State for Okinawa and Northern Territories Affairs,Kosaburo Nishime,Q11629931,2021-10-04,male,1954-08-07,,98 nishime kousaburou.jpg,Kosaburo Nishime
 Japan,Minister of State for Regional Revitalization,Seiko Noda,Q459698,2021-10-04,female,1960-09-03,,Noda Seiko (cropped).jpg,Seiko Noda
 Japan,Minister of State for Regulatory Reform,Karen Makishima,Q11570409,2021-10-04,female,1976-11-01,,Karen Makishima 20211008.png,Karen Makishima
-Japan,Minister of State for Science and Technology Policy,Takayuki Kobayashi,Q11461955,2021-10-04,male,1974-11-29,,Takayuki Kobayashi.jpg,Takayuki Kobayashi
-Japan,Minister of State for Space Policy,Takayuki Kobayashi,Q11461955,2021-10-04,male,1974-11-29,,Takayuki Kobayashi.jpg,Takayuki Kobayashi
+Japan,Minister of State for Science and Technology Policy,Takayuki Kobayashi,Q11461955,2021-10-04,male,1974-11-29,,Takayuki Kobayashi 2017.jpg,Takayuki Kobayashi
+Japan,Minister of State for Space Policy,Takayuki Kobayashi,Q11461955,2021-10-04,male,1974-11-29,,Takayuki Kobayashi 2017.jpg,Takayuki Kobayashi
 Japan,Minister of State for the Nuclear Damage Compensation and Decommissioning Facilitation Corporation,Koichi Hagiuda,Q6426211,2021-10-04,male,1963-08-31,,Koichi Hagiuda 20211004.jpg,Kōichi Hagiuda
 Japan,Chairperson of the National Public Safety Commission,Satoshi Ninoyu,Q7426414,2021-10-04,male,1944-09-13,,06ninoyu.jpg,Satoshi Ninoyu
 Japan,Chief Cabinet Secretary,Hirokazu Matsuno,Q5770251,2021-10-04,male,1962-09-13,,Hirokazu Matsuno.jpg,Hirokazu Matsuno
@@ -2602,7 +2601,7 @@ Luxembourg,Minister of Defence,François Bausch,Q3083923,2018-12-05,male,1956-10
 Luxembourg,Minister for Development Cooperation and Humanitarian Affairs,Franz Fayot,Q16439160,2020-02-04,male,1972-02-28,,"Franz Fayot, Inauguration plaque commémorative, «Villa Pauly»-101.jpg",
 Luxembourg,Minister for Digitalisation,Xavier Bettel,Q561213,2018-12-05,male,1973-03-03,,Tallinn Digital Summit. Handshake Xavier Bettel and Jüri Ratas (36718144533) CROP BETTEL.jpg,Xavier Bettel
 Luxembourg,Minister of the Economy,Franz Fayot,Q16439160,2020-02-04,male,1972-02-28,,"Franz Fayot, Inauguration plaque commémorative, «Villa Pauly»-101.jpg",
-Luxembourg,"Minister for Education, Children and Youth",Claude Meisch,Q2977816,2013-12-04,male,1971-11-27,,Claude Meisch (DP).jpg,Claude Meisch
+Luxembourg,"Minister for Education, Children and Youth",Claude Meisch,Q2977816,2013-12-04,male,1971-11-27,,Claude Meisch (DP) (cropped).jpg,Claude Meisch
 Luxembourg,Minister for Energy and Spatial Planning,Claude Turmes,Q1097204,2018-12-05,male,1960-11-26,,Flickr - boellstiftung - Claude Turmes.jpg,Claude Turmes
 Luxembourg,"Minister for the Environment, Climate and Sustainable Development",Carole Dieschbourg,Q15275863,2013-12-04,female,1977-10-03,,Informal meeting of environment ministers. Handshake Siim Kiisler and Carole Dieschbourg (35852057136) CROP DIESCHBOURG.jpg,Carole Dieschbourg
 Luxembourg,Minister of Equality between Women and Men,Taina Bofferding,Q16438964,2018-12-05,female,1982-11-22,,Portrait Taina Bofferding.jpg,Taina Bofferding
@@ -2611,7 +2610,7 @@ Luxembourg,Minister for Finance,Yuriko Backes,Q92437804,2022-01-05,female,1970-1
 Luxembourg,Minister of Foreign and European Affairs,Jean Asselborn,Q58200,2004-07-31,male,1949-04-27,,Jean Asselborn February 2015.jpg,Jean Asselborn
 Luxembourg,Minister for the Greater Region,Corinne Cahen,Q15629005,2013-12-04,female,1973-05-16,,"Corinne Cahen, Official signature of the «Charte du bénévolat»-102.jpg",Corinne Cahen
 Luxembourg,Minister of Health,Paulette Lenert,Q59465834,2020-02-04,female,1968-05-31,,,Paulette Lenert
-Luxembourg,Minister for Higher Education and Research,Claude Meisch,Q2977816,2013-12-04,male,1971-11-27,,Claude Meisch (DP).jpg,Claude Meisch
+Luxembourg,Minister for Higher Education and Research,Claude Meisch,Q2977816,2013-12-04,male,1971-11-27,,Claude Meisch (DP) (cropped).jpg,Claude Meisch
 Luxembourg,Minister for Home Affairs,Taina Bofferding,Q16438964,2018-12-05,female,1982-11-22,,Portrait Taina Bofferding.jpg,Taina Bofferding
 Luxembourg,Minister for Housing,Henri Kox,Q13103001,2019-10-11,male,1961-05-07,,HANDSHAKE - BRATISLAVA INFORMAL PARLIAMENTARY SUMMIT 2016-10-07 (30082374961) cropped Kox.jpg,
 Luxembourg,Minister of Immigration and Asylum,Jean Asselborn,Q58200,2013-12-04,male,1949-04-27,,Jean Asselborn February 2015.jpg,Jean Asselborn
@@ -2716,7 +2715,7 @@ Maldives,Vice President,Faisal Naseem,Q56752471,2018-11-17,male,1973-07-20,,Fais
 Maldives,"Minister of Arts, Culture and Heritage",Yumna Maumoon,Q109756386,2018-11-17,female,,,,
 Maldives,Minister of Defence,Mariya Ahmed Didi,Q17517052,2018-11-17,female,1963,,Minister Mariya as Minister of Defence.jpg,Mariya Ahmed Didi
 Maldives,Minister of Economic Development,Fayyaz Ismail,Q109756433,2018-11-17,male,,,,
-Maldives,Minister of Education,Aishath Ali,Q109756274,2018-11-17,female,,,,
+Maldives,Minister of Education,Aishath Ali,Q109756274,2018-11-17,female,,,Dr. Aishath Ali at the inauguration of the Principals' Scholarship Scheme in 2022.jpg,
 Maldives,"Minister of Environment, Climate Change and Technology",Shauna Aminath,Q59660221,2021-05-05,female,,,,Shauna Aminath
 Maldives,Minister of Finance,Ibrahim Ameer,Q89875889,2018-11-17,male,,,IBRAHIMAMEER.png,Ibrahim Ameer
 Maldives,"Minister of Fisheries, Marine Resources and Agriculture",Hussain Rasheed Hassan,Q109756571,2021-05-05,male,,,,
@@ -2943,7 +2942,7 @@ Morocco,Minister of Justice,Abdellatif Ouahbi,Q96758677,2021-10-07,male,1961-07-
 Morocco,"Minister of National Education, Preschool and Sports",Chakib Benmoussa,Q360273,2021-10-07,male,1958-02-24,,Benmoussa.jpg,Chakib Benmoussa
 Morocco,"Minister of Solidarity, Social Inclusion and Family",Aawatif Hayar,Q108544123,2021-10-07,female,,,Aawatif hayar 1.jpg,
 Morocco,Minister of Tourism,Fatim-Zahra Ammor,Q108842763,2021-10,female,1967,,Fatim-Zahra Ammor.jpg,Fatim-Zahra Ammor
-Morocco,Minister of Transport and Logistics,Mohamed Abdeljalil,Q108847159,2021-10-07,male,1968-08,,,
+Morocco,Minister of Transport and Logistics,Mohamed Abdeljalil,Q108847159,2021-10-07,male,1968-08,,Mohamed Abdeljalil.jpg,
 Morocco,"Minister of Youth, Culture and Communication",Mohammed Mehdi Bensaid,Q65499406,2021-10-07,male,1984-10-26,,Mehdi Bensaid (cropped).jpg,
 Morocco,Minister of National Planning,Fatima-Zahra Mansouri,Q3067221,2021-10-07,female,1976-01-03,,,Fatima-Zahra Mansouri
 Morocco,Minister Delegate in charge of the Budget,Fouzi Lekjaa,Q19365724,2021-10-07,male,1970-07-23,,فوزي لقجع.jpg,Fouzi Lekjaa
@@ -3230,7 +3229,7 @@ Nigeria,Minister of Health,Osagie Emmanuel Ehanire,Q62670421,2019-08,male,1946,,
 Nigeria,"Minister of Humanitarian Affairs, Disaster Management and Social Development",Sadiya Umar Farouq,Q20195461,2019-08-21,female,1974-11-05,,Sadiya Umaru Farouq.jpg,Sadiya Umar Farouq
 Nigeria,"Minister of Industry, Trade and Investment",Niyi Adebayo,Q13140763,2019-08-21,male,1958,,,Niyi Adebayo
 Nigeria,Minister of Information and Culture,Lai Mohammed,Q19561129,2015-11,male,1951-12-06,,,Lai Mohammed
-Nigeria,Minister of Interior,Rauf Aregbesola,Q7296120,2019-08,male,1957-05-25,,,Rauf Aregbesola
+Nigeria,Minister of Interior,Rauf Aregbesola,Q7296120,2019-08,male,1957-05-25,,Rauf Aregbesola.jpg,Rauf Aregbesola
 Nigeria,Minister of Justice,Abubakar Malami,Q23714146,2015-11-11,male,1967-04-17,,Abubakar Malami638.jpg,Abubakar Malami
 Nigeria,Minister of Labour,Chris Ngige,Q3510794,2015-11-11,male,1952-08-08,,Ngige.jpg,Chris Ngige
 Nigeria,Minister of Mines and Steel Development,Olamilekan Adegbite,Q75184824,2019-08,male,,,,Olamilekan Adegbite
@@ -3257,7 +3256,7 @@ Nigeria,Minister of State for Mines and Steel Development,Uchechukwu Sampson Oga
 Nigeria,Minister of State for Niger Delta Affairs,Omotayo Alasoadura,Q107491747,2019-09-24,male,1949,,,Tayo Alasoadura
 Nigeria,Minister of State for Petroleum Resources,Timipre Sylva,Q3509607,2019-08-21,male,1964-07-07,,Timipre Sylva.jpg,Timipre Sylva
 Nigeria,Minister of State for Power,Goddy Jedy Agba,Q66039284,2019-08-21,male,1958-08-20,,,Goddy Jedy Agba
-Nigeria,"Minister of State for Science, Technology and Innovation",Mohammed Hassan Abdullahi,Q101245550,2019-08-21,male,1968-04-21,,,Mohammed Hassan Abdullahi
+Nigeria,"Minister of State for Science, Technology and Innovation",Mohammed Hassan Abdullahi,Q101245550,2019-08-21,male,1968-04-21,,MOHAMMED HASSAN ABDULLAHI.jpg,Mohammed Hassan Abdullahi
 Nigeria,Minister of State for Transportation,Gbemisola Ruqayyah Saraki,Q5529326,2019-08-21,female,1965,,,Gbemisola Ruqayyah Saraki
 Nigeria,Minister of State for Works and Housing,Muazu Sambo,Q111079726,2021-12-24,male,,,,
 Nigeria,Chief of Staff to the President,Ibrahim Gambari,Q953167,2020-05-13,male,1944-11-24,,"Ibrahim Gambari, UNDP-USA-159HR-09 crop.jpg",Ibrahim Gambari
@@ -3539,7 +3538,7 @@ Portugal,Minister for Infrastructure and Housing,Pedro Nuno Santos,Q10347660,201
 Portugal,Minister of Internal Administration,Francisca Van Dunem,Q5482965,2021-12-04,female,1955-11-05,,TOUR DE TABLE 2016-07-08 Informal Meeting of Justice Ministers (27553458143) (cropped).jpg,Francisca Van Dunem
 Portugal,Minister of Justice,Francisca Van Dunem,Q5482965,2015-11-26,female,1955-11-05,,TOUR DE TABLE 2016-07-08 Informal Meeting of Justice Ministers (27553458143) (cropped).jpg,Francisca Van Dunem
 Portugal,"Minister of Labour, Solidarity and Social Security",Ana Mendes Godinho,Q52112309,2019-10-26,female,1972-06-29,,Sustainable Growth tourism that benefits everyone (39757095370) (cropped).jpg,Ana Mendes Godinho
-Portugal,Minister of Maritime Affairs,Ricardo Serrão Santos,Q16596372,2019-10-26,male,1954-10-11,,,Ricardo Serrão Santos
+Portugal,Minister of Maritime Affairs,Ricardo Serrão Santos,Q16596372,2019-10-26,male,1954-10-11,,"Ricardo Serrão Santos (What is Deep Sea Mining, Ep 3), cropped.png",Ricardo Serrão Santos
 Portugal,Minister for Modernization of the State and Public Administration,Alexandra Leitão,Q25440529,2019-10-26,female,1973-04-08,,,Alexandra Leitão
 Portugal,Minister of National Defence,João Gomes Cravinho,Q57343622,2018-10-15,male,1964-06-16,,05 04 2018 - João Gomes Cravinho.jpg,João Gomes Cravinho
 Portugal,Minister for Planning,Nelson de Souza,Q85875924,2019-10-26,male,1954-12-11,,,
@@ -3740,7 +3739,7 @@ Saudi Arabia,Minister of Finance,Mohammed Al-Jadaan,Q28715686,2016-11-01,male,19
 Saudi Arabia,Minister of Foreign Affairs,Faisal bin Farhan Al Saud,Q72099398,2019-10-23,male,1974-11-01,,Außenminister Alexander Schallenberg empfängt den saudi-arabischen Außenminister Prinz Faisal bin Abdullah Al Saud 22.06.2021 03.jpg,Faisal bin Farhan Al Saud
 Saudi Arabia,Minister of Hajj and Umrah,Tawfiq Al Rabiah,Q7689265,2021-10-15,male,1965,,Tawfiq Al Rabiah - 2015 (23492095650) (cropped).jpg,Tawfig Al-Rabiah
 Saudi Arabia,Minister of Health,​Fahad bin Abdurrahman Al-Jalajel​,Q108904593,2021-10-15,male,,,,
-Saudi Arabia,Minister of Justice,Walid bin Mohammed Al Samani,Q22934750,2015,male,,,,
+Saudi Arabia,Minister of Justice,Walid bin Mohammed Al Samani,Q22934750,2015,male,,,Waleed Alsamaani.jpg,
 Saudi Arabia,Minister of Media,Majed Bin Abdullah Al Qasabi,Q12238118,2020-02-25,male,1960,,Majid bin Abdullah Al-Qasabi.jpg,Majid bin Abdullah Al Qasabi
 Saudi Arabia,Minister of National Guard,Abdullah bin Bandar bin Abdulaziz Al Saud,Q60195440,2018-12-27,male,1986-08-07,,عبدالله بن بندر.jpg,Abdullah bin Bandar Al Saud
 Saudi Arabia,Chairman of the General Staff,Fayyadh Al Ruwaili,Q56250519,2018-02-26,male,1958-04-27,,,Fayyadh Al Ruwaili
@@ -3907,7 +3906,7 @@ Slovakia,Minister of Justice,Mária Kolíková,Q56823084,2021-04-01,female,1974-
 Slovakia,"Minister of Labor, Social Affairs and Family",Milan Krajniak,Q54991677,2021-04-01,male,1973-01-30,,MilanKrajniakWikifoto.jpg,Milan Krajniak
 Slovakia,Minister of Transport and Construction,Andrej Doležal,Q88298109,2020-03-21,male,1981-03-23,,,Andrej Doležal
 Slovakia,Speaker of the National Council,Boris Kollár,Q23022210,2020-03-20,male,1965-08-14,,Boris Kollár (cropped).jpg,Boris Kollár
-Slovakia,Chief of the General Staff,Daniel Zmeko,Q52110606,2018-05-07,male,1967-11-24,,,Daniel Zmeko
+Slovakia,Chief of the General Staff,Daniel Zmeko,Q52110606,2018-05-07,male,1967-11-24,,"Generál Zmeko, vojenská prehliadka Banská Bystrica 22 Slovakia 1.jpg",Daniel Zmeko
 Slovakia,Governor of the National Bank,Peter Kažimír,Q552534,2019-06-01,male,1968-06-28,,Peter Kažimír (36400657164) crop.jpg,Peter Kažimír
 Slovakia,Mayor of Bratislava,Matúš Vallo,Q12771236,2018-12-07,male,1977-09-18,,Matúš Vallo. 2017.jpg,Matúš Vallo
 Slovenia,President,Borut Pahor,Q206471,2012-12-23,male,1963-11-02,,Borut Pahor (cropped).jpg,Borut Pahor
@@ -4059,7 +4058,7 @@ South Korea,Minister of Justice,Park Beom-kye,Q12596659,2021-01-28,male,1963-04-
 South Korea,"Minister of Land, Infrastructure and Transport",Noh Hyeong-ouk,Q31178685,2021-05-14,male,1962,,"Minister of Land, Infrastructure and Transport Noh Hyeong-ouk taking a commemorative photo with the Speaker of the National Assembly.jpg",Noh Hyeong-ouk
 South Korea,Minister of Oceans and Fisheries,Moon Seong-hyeok,Q63378324,2019-04-03,male,1958,,Seong-Hyeok Moon - 2019 (cropped).jpg,Moon Seong-hyeok
 South Korea,Minister of Patriots and Veterans Affairs,Hwang Ki-chul,Q16092691,2020-12-31,male,1956-07-28,,Vice Adm. Hwang Ki-Chul 100724.jpg,Hwang Ki-chul
-South Korea,Minister of Reunification,Lee In-young,Q16091058,2020-07-27,male,1964-06-28,,,Lee In-young
+South Korea,Minister of Reunification,Lee In-young,Q16091058,2020-07-27,male,1964-06-28,,Lee In-young in 2020.jpg,Lee In-young
 South Korea,Minister of Science and ICT,Lim Hyesook,Q97198407,2021-05-14,female,1963,,Lim Hyesook Minister of Science and ICT in June 2021.jpg,Lim Hyesook
 South Korea,Minister of SMEs and Startups,Kwon Chil-seung,Q24000551,2021-02-05,male,1965-11-18,,Minister of SMEs and Startups Kwon Chil-seung taking a commemorative photo with the Speaker of the National Assembly.jpg,Kwon Chil-seung
 South Korea,"Minister of Trade, Industry and Energy",Moon Sung-wook,Q106518639,2021-05-06,male,1965,,"Minister of Trade, Industry and Energy Moon Seung-wook taking a commemorative photo with the Speaker of the National Assembly.jpg",Moon Sung-wook
@@ -4357,7 +4356,7 @@ Trinidad and Tobago,Minister of Sport and Community Development,Shamfa Cudjoe,Q1
 Trinidad and Tobago,"Minister of Tourism, Culture and the Arts",Randall Mitchell,Q107861234,2015-09-09,male,,,,
 Trinidad and Tobago,Minister of Trade and Industry,Paula Gopee-Scoon,Q1673889,2015-09-09,female,1958-04-18,,Barack Obama & Paula Gopee-Scoon at Piarco International Airport 4-19-09.JPG,Paula Gopee-Scoon
 Trinidad and Tobago,Minister of Works and Transport,Rohan Sinanan,Q107861221,2015-09-09,male,,,,
-Trinidad and Tobago,Minister of Youth Development and National Service,Foster Cummings,Q107504794,2021-04-19,male,,,,Foster Cummings
+Trinidad and Tobago,Minister of Youth Development and National Service,Foster Cummings,Q107504794,2021-04-19,male,,,FosterCummings.jpg,Foster Cummings
 Trinidad and Tobago,"Minister in the Ministry of Agriculture, Land and Fisheries",Avinash Singh,Q107861281,2015-09-09,male,,,,
 Trinidad and Tobago,Minister in the Ministry of Education,Lisa Morris-Julian,Q107504770,2015-09-09,female,,,,Lisa Morris-Julian
 Trinidad and Tobago,Minister in the Ministry of Finance,Brian Manning,Q107504941,2015-09-09,male,,,,Brian Manning (politician)
@@ -4424,7 +4423,7 @@ Turkey,Minister of Transport and Infrastructure,Adil Karaismailoğlu,Q19612675,2
 Turkey,Minister of Youth and Sports,Mehmet Kasapoğlu,Q56127416,2018-07-10,male,1976-12-22,,Mehmet Muharrem Kasapoğlu beUNITED.png,Mehmet Kasapoğlu
 Turkey,Speaker of the Grand National Assembly,Mustafa Şentop,Q21044620,2019-02-22,male,1968-08-06,,Mustafa Şentop.jpg,Mustafa Şentop
 Turkey,Chief of the General Staff,Yaşar Güler,Q19636157,2018-07-10,male,1954-09-18,,OrgeneralYasarGulerNATOHQ.jpg,Yaşar Güler
-Turkey,Governor of the Central Bank,Şahap Kavcıoğlu,Q106076541,2021-03-20,male,1967-05-23,,,Şahap Kavcıoğlu
+Turkey,Governor of the Central Bank,Şahap Kavcıoğlu,Q106076541,2021-03-20,male,1967-05-23,,Sahap Kavcioglu.jpg,Şahap Kavcıoğlu
 Turkey,Governor of Ankara,Vasip Şahin,Q6027159,2018-11-06,male,1964,,,Vasip Şahin
 Turkey,Governor of İstanbul,Ali Yerlikaya,Q12808436,2018-10-26,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
 Turkey,mayor of Istanbul,Ekrem İmamoğlu,Q59313241,2019-06-27,male,1970-06-04,,"Ekrem İmamoğlu, 27 December 2021.jpg",Ekrem İmamoğlu
@@ -4689,7 +4688,7 @@ Uruguay,Minister of Tourism,Tabaré Viera,Q1621502,2021-08-23,male,1955-04-07,,,
 Uruguay,Minister of Transport and Public Works,José Luis Falero,Q1709330,2021-05-25,male,1966-05-19,,José Luis Falero en 2014 (cropped).jpg,José Luis Falero
 Uruguay,Secretary of the Presidency,Álvaro Delgado Ceretta,Q26727956,2020-03-01,male,1969-03-11,,AlvaroDelgado-2000x1500.jpg,Álvaro Delgado Ceretta
 Uruguay,Director of the Office of Planning and Budget,Isaac Alfie,Q5920552,2020-03-01,male,1962-04-27,,Alfieisaac.jpg,Isaac Alfie
-Uruguay,Speaker of the Chamber of Deputies,Alfredo Fratti,Q106512605,2021-03-01,male,1968,,,Alfredo Fratti
+Uruguay,Speaker of the Chamber of Deputies,Ope Pasquet,Q3824716,2022-03-01,male,1956-01-10,,,Ope Pasquet
 Uruguay,President of the Central Bank,Diego Labat,Q110208264,2020-03-20,male,,,,
 Uruguay,Chief of Defence Staff,Gustavo Fajardo,Q110251215,2021-02-01,male,1962-08-22,,,Gustavo Fajardo
 Uzbekistan,President,Shavkat Mirziyoyev,Q57808,2016-12-14,male,1957-07-24,,Shavkat Mirziyoyev official portrait (cropped 2).jpg,Shavkat Mirziyoyev
@@ -4721,7 +4720,7 @@ Uzbekistan,Minister of Pre-School Education,Agrippina Vasilievna Shin,Q60330941,
 Uzbekistan,Minister of Public Health,Behzod Musaev,Q106511584,2021-11-11,male,1973,,,
 Uzbekistan,Minister of Public Education,Bakhtiyor Saidov,Q109656595,2020-11-17,male,,,Saidov Bakhtiyor Odilovich.jpg,
 Uzbekistan,Minister of Tourism and Sport,Aziz Abdukhakimov,Q24009847,2021-02-10,male,1974-11-06,,Aziz Abduhakimov Министр.jpg,Aziz Abduhakimov
-Uzbekistan,Minister of Transport,Ilhom Mahkamov,Q106592837,2021-02-22,male,1979-06-12,,,
+Uzbekistan,Minister of Transport,Ilhom Mahkamov,Q106592837,2021-02-22,male,1979-06-12,,Ilkhom Makhkamov.jpg,
 Uzbekistan,Minister of Water Resources,Shavkat Khamraev,Q106606931,2018-02-12,male,1964-08-13,,,
 Uzbekistan,Chair of the Council of Ministers,Kakhraman Sariev,Q106612393,2016-10-14,male,1980,,,
 Uzbekistan,Prosecutor General,Nigmatilla Yuldashev,Q20533811,2019-06-20,male,1962-11-05,,Nigmatilla Yuldashev.jpg,Nigmatilla Yuldashev
