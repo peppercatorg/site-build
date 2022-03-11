@@ -39,7 +39,7 @@ chile,30,247,304,503
 china,37,142,5394,5497
 colombia,24,203,42,234
 congo-kinshasa,5,24,16,39
-croatia,22,97,158,238
+croatia,23,98,158,239
 cyprus,24,121,183,273
 czechia,26,240,1425,1527
 denmark,29,134,600,632
@@ -81,7 +81,7 @@ japan,76,558,823,1247
 jersey,13,18,0,18
 jordan,35,74,7,77
 kazakhstan,30,98,50,143
-kenya,29,47,401,441
+kenya,29,73,695,754
 kiribati,16,24,40,54
 kosovo,23,40,4,42
 kuwait,19,49,2,50
@@ -141,7 +141,7 @@ seychelles,18,28,0,28
 singapore,25,64,229,260
 slovakia,21,74,16,85
 slovenia,23,111,170,253
-solomon-islands,27,41,67,83
+solomon-islands,28,42,67,83
 somalia,32,76,2,76
 south-africa,43,130,712,776
 south-korea,35,211,974,1127
@@ -150,7 +150,7 @@ sri-lanka,34,58,258,276
 st-kitts-and-nevis,15,20,11,21
 sweden,29,323,1294,1508
 switzerland,12,81,645,683
-tajikistan,27,37,0,37
+tajikistan,27,38,0,38
 tanzania,27,67,399,426
 timor-leste,24,47,1,48
 tonga,16,50,41,60
@@ -171,4 +171,4 @@ vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,183,222
 zimbabwe,26,54,34,77
-TOTAL,4355,21350,75248,90244
+TOTAL,4357,21379,75542,90559
