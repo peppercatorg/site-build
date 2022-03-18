@@ -1,13 +1,19 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Zimbabwe,President,Robert Mugabe,Q10707,1987-12-31,2017-11-21,male,1924-02-21,2019-09-06,Robert Mugabe official portrait.jpg,Robert Mugabe
+Zimbabwe,President,Phelekezela Mphoko,Q7181212,2017-11-21,2017-11-24,male,1940-06-11,,Phelekezela Mphoko.jpg,Phelekezela Mphoko
 Zimbabwe,President,Emmerson Mnangagwa,Q510523,2017-11-24,,male,1942-09-15,,Emmerson Mnangagwa (2019-01-15).jpg,Emmerson Mnangagwa
 Zimbabwe,Vice President,Simon Muzenda,Q2287723,1987,2003,male,1922-10-28,2003-09-20,,Simon Muzenda
 Zimbabwe,Vice President,Joice Mujuru,Q981736,2004-12-06,2014-12-08,female,1955-04-15,,Joice Mujuru at Horasis Global Arab Business Meeting 2012 crop.jpg,Joice Mujuru
 Zimbabwe,Vice President,Emmerson Mnangagwa,Q510523,2014-12-12,2017-11-06,male,1942-09-15,,Emmerson Mnangagwa (2019-01-15).jpg,Emmerson Mnangagwa
-Zimbabwe,Vice President,Phelekezela Mphoko,Q7181212,2014-12-12,2017-11-27,male,1940-06-11,,Phelekezela Mphoko.jpg,Phelekezela Mphoko
 Zimbabwe,Vice President,Constantine Chiwenga,Q381334,2017-12-28,,male,1956-08-25,,"The Vice President of the Republic of Zimbabwe, General (Retd.) Dr. Constantino Chiwenga on March 23, 2018 (cropped).jpg",Constantine Chiwenga
-Zimbabwe,Vice President,Kembo Mohadi,Q6386891,2017-12-28,2021-03-01,male,1949-11-15,,"Vice President of Zimbabwe, Mr. Kembo Mohadi, at the Munhumutapa Building, in Harare, Zimbabwe on November 03, 2018 (cropped).JPG",Kembo Mohadi
+Zimbabwe,Second Vice President,Joseph Msika,Q1399766,1999-12-23,2009-08-04,male,1923-12-06,2009-08-04,Joseph Msika.jpg,Joseph Msika
+Zimbabwe,Second Vice President,John Nkomo,Q3274147,2009-12-14,2013-01-17,male,1934-08-22,2013-01-17,,John Nkomo
+Zimbabwe,Second Vice President,Phelekezela Mphoko,Q7181212,2014-12-12,2017-11-27,male,1940-06-11,,Phelekezela Mphoko.jpg,Phelekezela Mphoko
+Zimbabwe,Second Vice President,Kembo Mohadi,Q6386891,2017-12-28,2021-03-01,male,1949-11-15,,"Vice President of Zimbabwe, Mr. Kembo Mohadi, at the Munhumutapa Building, in Harare, Zimbabwe on November 03, 2018 (cropped).JPG",Kembo Mohadi
 Zimbabwe,Prime Minister,Morgan Tsvangirai,Q57762,2009-02-11,2013-09-11,male,1952-03-10,2018-02-14,Morgan Tsvangirai Oslo 2009 A.jpg,Morgan Tsvangirai
+Zimbabwe,Minister of Defence,Moven Mahachi,Q14922135,1992,2001-05-26,male,1952,2001-05-26,,Moven Mahachi
+Zimbabwe,Minister of Defence,Sydney Sekeramayi,Q7660136,2001,2009-02-13,male,1944-03-30,,,Sydney Sekeramayi
+Zimbabwe,Minister of Defence,Emmerson Mnangagwa,Q510523,2009-02-13,2013-09-11,male,1942-09-15,,Emmerson Mnangagwa (2019-01-15).jpg,Emmerson Mnangagwa
 Zimbabwe,Minister of Defence,Sydney Sekeramayi,Q7660136,2013-09-11,2017-11-27,male,1944-03-30,,,Sydney Sekeramayi
 Zimbabwe,Minister of Defence,Kembo Mohadi,Q6386891,2017-11-30,2017-12-29,male,1949-11-15,,"Vice President of Zimbabwe, Mr. Kembo Mohadi, at the Munhumutapa Building, in Harare, Zimbabwe on November 03, 2018 (cropped).JPG",Kembo Mohadi
 Zimbabwe,Minister of Defence,Constantine Chiwenga,Q381334,2017-12-29,2018-09-11,male,1956-08-25,,"The Vice President of the Republic of Zimbabwe, General (Retd.) Dr. Constantino Chiwenga on March 23, 2018 (cropped).jpg",Constantine Chiwenga
@@ -15,7 +21,7 @@ Zimbabwe,Minister of Defence,Oppah Muchinguri,Q7095508,2018-09-11,,female,1958-1
 Zimbabwe,Minister of Energy and Power Development,Fortune Chasi,Q16195944,2019-05-14,2020-08-14,male,1965-02-05,,,Fortune Chasi
 Zimbabwe,Minister of Energy and Power Development,Soda Zhemu,Q98931496,2020-08-14,,male,1974,,Soda Zhemu - 2021 (cropped).jpg,Soda Zhemu
 Zimbabwe,"Minister of the Environment, Climate Change, Tourism, and International Trade",Nqobizitha Ndlovu,Q85115570,2019-11-09,,male,1980,,,Mangaliso Ndlovu
-Zimbabwe,Minister of Finance,Herbert Murerwa,Q3133488,1996,2000,male,1941-07-31,,,Herbert Murerwa
+Zimbabwe,Minister of Finance,Herbert Murerwa,Q3133488,1996-04,2000-07,male,1941-07-31,,,Herbert Murerwa
 Zimbabwe,Minister of Finance,Simba Makoni,Q1379403,2000,2002,male,1950-03-22,,,Simba Makoni
 Zimbabwe,Minister of Finance,Herbert Murerwa,Q3133488,2002-08,2004-02,male,1941-07-31,,,Herbert Murerwa
 Zimbabwe,Minister of Finance,Christopher Kuruneri,Q32534048,2004-02,2004-04-26,male,1949,,,Christopher Kuruneri
@@ -32,7 +38,13 @@ Zimbabwe,Minister of Foreign Affairs,Simbarashe Mumbengegwi,Q514464,2005-04-15,2
 Zimbabwe,Minister of Foreign Affairs,Walter Mzembi,Q7965696,2017-10-09,2017-11-27,male,1964-03-16,,"H.E. Walter Mzembi, Minister of Tourism & Hospitality Industry, Government of Zimbabwe cropped.jpg",Walter Mzembi
 Zimbabwe,Minister of Foreign Affairs,Simbarashe Mumbengegwi,Q514464,2017-11-27,2017-11-30,male,1945-07-20,,Simbarashe Mumbengegwi.jpg,Simbarashe Mumbengegwi
 Zimbabwe,Minister of Foreign Affairs,Sibusiso Moyo,Q43180489,2017-11-30,2021-01-20,male,1960,2021-01-20,"Sibusiso Moyo, Minister of Foreign Affairs and International Trade, Republic of Zimbabwe (28014487638) (cropped).jpg",Sibusiso Moyo
+Zimbabwe,Minister of Foreign Affairs,Amon Murwira,Q85748517,2021-01-20,2021-03-02,male,,,,Amon Murwira
 Zimbabwe,Minister of Foreign Affairs,Frederick Shava,Q105637570,2021-02-08,,male,,,,Frederick Shava
+Zimbabwe,Minister of Health and Child Welfare,Timothy Stamps,Q7807530,1986,2002-08,male,1936-10-15,2017-11-26,,Timothy Stamps
+Zimbabwe,Minister of Health and Child Welfare,David Parirenyatwa,Q5238373,2002-08,2009-02-13,male,1950-08-02,,,David Parirenyatwa
+Zimbabwe,Minister of Health and Child Welfare,Henry Madzorera,Q5725372,2009-02-13,2013-09-10,male,1975-07-07,,,Henry Madzorera
+Zimbabwe,Minister of Health and Child Welfare,David Parirenyatwa,Q5238373,2013-09-10,2018-09-10,male,1950-08-02,,,David Parirenyatwa
+Zimbabwe,Minister of Health and Child Welfare,Obadiah Moyo,Q86628132,2018-09-10,2020-07-07,male,,,,Obadiah Moyo
 Zimbabwe,Minister of Health and Child Welfare,Constantine Chiwenga,Q381334,2020-08-04,,male,1956-08-25,,"The Vice President of the Republic of Zimbabwe, General (Retd.) Dr. Constantino Chiwenga on March 23, 2018 (cropped).jpg",Constantine Chiwenga
 Zimbabwe,"Minister of Higher Education, Science and Technology",Oppah Muchinguri,Q7095508,2014-12,2015-07-23,female,1958-12-14,,,Oppah Muchinguri
 Zimbabwe,"Minister of Higher Education, Science and Technology",Amon Murwira,Q85748517,2017-12-01,,male,,,,Amon Murwira
@@ -43,6 +55,11 @@ Zimbabwe,Minister of Industry and Commerce,Sekai Nzenza-Shand,Q7447120,2019-11-0
 Zimbabwe,Minister of Information and Publicity,Monica Mutsvangwa,Q85118775,2018-08,,female,,,,Monica Mutsvangwa
 Zimbabwe,Minister of Information and Communications Technology,Jenfan Muswere,Q110197420,2019-11-08,,male,1981-12-19,,,
 Zimbabwe,Minister of Justice and Legal Affairs,Ziyambi Ziyambi,Q85678984,2018-08,,male,,,,Ziyambi Ziyambi
+Zimbabwe,"Minister of Lands, Agriculture, Water and Rural Resettlement",Kumbirai Kangai,Q25697807,1994,2000,male,1938-02-17,2013-08-24,,
+Zimbabwe,"Minister of Lands, Agriculture, Water and Rural Resettlement",Joseph Made,Q6285211,2000,2007,male,1954-11-21,,,Joseph Made
+Zimbabwe,"Minister of Lands, Agriculture, Water and Rural Resettlement",Rugare Gumbo,Q7378129,2007,2009,male,1940-03-08,,,Rugare Gumbo
+Zimbabwe,"Minister of Lands, Agriculture, Water and Rural Resettlement",Sylvester Nguni,Q7660812,2009,2009,male,1955,,,Sylvester Nguni
+Zimbabwe,"Minister of Lands, Agriculture, Water and Rural Resettlement",Joseph Made,Q6285211,2009-02-13,2017-11-27,male,1954-11-21,,,Joseph Made
 Zimbabwe,"Minister of Lands, Agriculture, Water and Rural Resettlement",Perence Shiri,Q7167845,2017-11-30,2020-07-27,male,1955-01-11,2020-07-29,,Perrance Shiri
 Zimbabwe,"Minister of Lands, Agriculture, Water and Rural Resettlement",Anxious Jongwe Masuka,Q99237454,2020-08-14,,male,,,,Anxious Jongwe Masuka
 Zimbabwe,Minister of Mines and Mining Development,Winston Chitando,Q87110935,2017-12-01,,male,,,,Winston Chitando
@@ -61,13 +78,31 @@ Zimbabwe,"Minister of Women's Affairs, Gender and Community Development",Oppah M
 Zimbabwe,"Minister of Women's Affairs, Gender and Community Development",Sithembiso Nyoni,Q16733535,2017-12-01,,female,1949-09-20,,,Sithembiso Nyoni
 Zimbabwe,Minister of Water Resources and Development,Oppah Muchinguri,Q7095508,2015-07-23,2018-09-11,female,1958-12-14,,,Oppah Muchinguri
 Zimbabwe,Minister of State for National Security,Owen Ncube,Q98112108,2018-09-20,2022-01-10,male,1968-04-17,,,Owen Ncube
+Zimbabwe,Speaker of the National Assembly,Emmerson Mnangagwa,Q510523,2000-07-01,2005,male,1942-09-15,,Emmerson Mnangagwa (2019-01-15).jpg,Emmerson Mnangagwa
+Zimbabwe,Speaker of the National Assembly,John Nkomo,Q3274147,2005-04-01,2008-03-05,male,1934-08-22,2013-01-17,,John Nkomo
 Zimbabwe,Speaker of the National Assembly,Lovemore Moyo,Q3264301,2008-08-25,2013-09-03,male,1965-01-29,,,Lovemore Moyo
 Zimbabwe,Speaker of the National Assembly,Jacob Mudenda,Q58007739,2013-09-03,,male,1946,,Jacob Mudenda 2019 (cropped).jpg,Jacob Mudenda
-Zimbabwe,Speaker of the National Assembly,Mabel Chinomona,Q93452160,2013-09-03,2018,female,1958-01-21,,,Mabel Chinomona
 Zimbabwe,President of the Senate,Edna Madzongwe,Q5340066,2005-11-30,2018-09-11,female,1943-07-11,,,Edna Madzongwe
 Zimbabwe,President of the Senate,Mabel Chinomona,Q93452160,2018-09-11,,female,1958-01-21,,,Mabel Chinomona
+Zimbabwe,Governor of the Reserve Bank,Leonard Tsumba,Q111263156,1993,2003-06,male,,,,
+Zimbabwe,Governor of the Reserve Bank,Gideon Gono,Q433688,2003,2013,male,1959-11-29,,Gideon Gono10.jpg,Gideon Gono
+Zimbabwe,Governor of the Reserve Bank,Charles Chikaura,Q111263155,2003-06,2003-12,male,,,,
+Zimbabwe,Governor of the Reserve Bank,Charity Dhliwayo,Q111263149,2013,2014,female,,,,
 Zimbabwe,Governor of the Reserve Bank,John Mangudya,Q26935194,2014-05-01,,male,1963-10-05,,,John Mangudya
+Zimbabwe,Chief of Defence,Vitalis Zvinavashe,Q7936864,1994-07,2003-12-31,male,1943-09-23,2009-03-11,,Vitalis Zvinavashe
+Zimbabwe,Chief of Defence,Constantine Chiwenga,Q381334,2004-01-01,2017-12-19,male,1956-08-25,,"The Vice President of the Republic of Zimbabwe, General (Retd.) Dr. Constantino Chiwenga on March 23, 2018 (cropped).jpg",Constantine Chiwenga
 Zimbabwe,Chief of Defence,Philip Valerio Sibanda,Q7184496,2017-12-18,,male,,,,Philip Valerio Sibanda
 Zimbabwe,Chief Justice,Anthony Gubbay,Q4772638,1990,2001,male,1932-04-26,,,Anthony Gubbay
 Zimbabwe,Chief Justice,Godfrey Chidyausiku,Q5576402,2001-07,2017-02-28,male,1947-02-23,2017-05-03,,Godfrey Chidyausiku
 Zimbabwe,Chief Justice,Luke Malaba,Q56222237,2017-03-27,2021-05-15,male,1951,,,Luke Malaba
+Zimbabwe,First Lady,Grace Mugabe,Q453364,1996-08-17,2017-11-21,female,1965-07-23,,Grace Mugabe 2013-08-04 11-53 (cropped).jpeg,Grace Mugabe
+Zimbabwe,First Lady,Auxillia Mnangagwa,Q43962933,2017-11-24,,female,1963-03-25,,Auxillia Mnangagwa - First Lady of Zimbabwe.jpg,Auxillia Mnangagwa
+Zimbabwe,Deputy Minister of Agriculture,Sylvester Nguni,Q7660812,2006,2006,male,1955,,,Sylvester Nguni
+Zimbabwe,Deputy Minister of Agriculture,Seiso Moyo,Q7446983,2011-10-11,2012-12-21,male,1956-09-03,2012-12-21,,Seiso Moyo
+Zimbabwe,Deputy Minister of Agriculture,Paddy Zhanda,Q111270218,2013-10-10,2017,male,,,,
+Zimbabwe,Deputy Minister of Agriculture,Davis Marapira,Q111270219,2017-11-30,2018,male,,,,
+Zimbabwe,Deputy Minister of Agriculture,Douglas Karoro,Q111270220,2018,,male,,,,
+Zimbabwe,Deputy Minister of Agriculture,Vangelis Haritatos,Q94973458,2018,,male,1986-04-08,,Vangelis Haritatos.jpg,Vangelis Haritatos
+Zimbabwe,Deputy Speaker of the House of Assembly,Mabel Chinomona,Q93452160,2013-09-03,2018,female,1958-01-21,,,Mabel Chinomona
+Zimbabwe,ambassador to South Africa,Simon Khaya-Moyo,Q16866539,2007,2011,male,1945-10-01,2021-11-14,,Simon Khaya-Moyo
+Zimbabwe,ambassador to South Africa,Phelekezela Mphoko,Q7181212,2011,2014,male,1940-06-11,,Phelekezela Mphoko.jpg,Phelekezela Mphoko
