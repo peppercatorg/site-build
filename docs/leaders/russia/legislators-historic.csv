@@ -1,4 +1,9 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Russia,Deputy of the State Council of the Udmurt Republic,Oleg Nikolaevich Bekmemetiev,Q60830455,2012,2015,male,1968-03-03,,Олег Бекмеметьев.png,
+Russia,Deputy of the State Council of the Udmurt Republic,Viktor Balakin,Q4076289,2014-07-10,2017,male,1947-04-26,,,
+Russia,Member of the State Council of the Komi Republic,Valery Markov,Q25680976,2007,2015,male,1947-07-11,,Valery Markov.jpg,
+Russia,Member of the Legislative Assembly of Saint Petersburg,Vitaly Valentinovich Milonow,Q4293669,2007,,male,1974-01-23,,"Vitaly Milonov, 2018.jpg",Vitaly Milonov
+Russia,Member of the Legislative Assembly of Orenburg Oblast,Igor Sukharev,Q34256225,2002,2016,male,1968-10-26,,И.Н. Сухарев.png,
 Russia,member of the State Duma,Gennadiy Seleznyov,Q1756312,1993-12-12,2007-12-02,male,1947-11-06,2015-07-19,Gennady Seleznyov (2000-01-18).jpg,Gennadiy Seleznyov
 Russia,member of the State Duma,Gennady Zyuganov,Q182452,1993-12-12,,male,1944-06-26,,Gennady Zyuganov Moscow asv2018-01 (cropped).jpg,Gennady Zyuganov
 Russia,member of the State Duma,Andrey Kozyrev,Q502746,1993-12-12,2000-01-18,male,1951-03-27,,Evstafiev-Andrey Kozyrev.jpg,Andrei Kozyrev
@@ -20,76 +25,76 @@ Russia,member of the State Duma,Vasily Galushkin,Q101386802,1999-12-19,2003-12-2
 Russia,member of the State Duma,Aleksandra Buratayeva,Q4099366,1999-12-19,2007-12-24,female,1965-03-30,,Alexandra Buratayeva.jpg,
 Russia,member of the State Duma,Suleyman Kerimov,Q447250,1999-12-19,2007-12-24,male,1966-03-12,,"Suleyman Kerimov, 2016.jpg",Suleyman Kerimov
 Russia,member of the State Duma,Roman Abramovich,Q171428,2000-01-10,2000-12-17,male,1966-10-24,,Abramovich Chukotka (cropped).jpg,Roman Abramovich
-Russia,member of the State Duma,,Q100155186,2000-01-18,2003-12-07,male,1952-06-08,,,
-Russia,member of the State Duma,,Q100230399,2000-01-18,2003-12-07,male,1952,,Zalepukhin Nikolay Petrovich.jpg,
+Russia,member of the State Duma,"Уткин, Олег Васильевич",Q100155186,2000-01-18,2003-12-07,male,1952-06-08,,,
+Russia,member of the State Duma,"Залепухин, Николай Петрович",Q100230399,2000-01-18,2003-12-07,male,1952,,Zalepukhin Nikolay Petrovich.jpg,
 Russia,member of the State Duma,Rafael Gimalov,Q100254920,2000-01-18,2003-12-07,male,1950-08-09,,Gimalov Rafael Imamovich.jpg,
 Russia,member of the State Duma,Igor Dines,Q100587989,2000-01-18,2003-12-07,male,1970-04-22,,,
-Russia,member of the State Duma,,Q100729371,2000-01-18,2003-12-07,male,1957-09-27,,,
-Russia,member of the State Duma,,Q100873283,2000-01-18,2003-12-07,male,1951-04-14,,,
-Russia,member of the State Duma,,Q101086416,2000-01-18,2003-12-07,male,1947-02-13,,,
-Russia,member of the State Duma,,Q101094857,2000-01-18,2003-12-07,male,1949-08-25,,,
-Russia,member of the State Duma,,Q101116109,2000-01-18,2003-12-07,male,1956-04-23,,,
-Russia,member of the State Duma,,Q101161717,2000-01-18,2003-12-07,male,1941-05-01,,,
-Russia,member of the State Duma,,Q101342253,2000-01-18,2003-12-07,male,1950-07-06,,,
+Russia,member of the State Duma,"Шиманов, Александр Алексеевич",Q100729371,2000-01-18,2003-12-07,male,1957-09-27,,,
+Russia,member of the State Duma,"Леонтьев, Георгий Карпеевич",Q100873283,2000-01-18,2003-12-07,male,1951-04-14,,,
+Russia,member of the State Duma,"Кузнецов, Василий Федотович",Q101086416,2000-01-18,2003-12-07,male,1947-02-13,,,
+Russia,member of the State Duma,"Медведев, Юрий Германович",Q101094857,2000-01-18,2003-12-07,male,1949-08-25,,,
+Russia,member of the State Duma,Василий Михайлович Ивер,Q101116109,2000-01-18,2003-12-07,male,1956-04-23,,,
+Russia,member of the State Duma,"Ивлев, Иван Алексеевич",Q101161717,2000-01-18,2003-12-07,male,1941-05-01,,,
+Russia,member of the State Duma,"Мещерин, Иван Васильевич",Q101342253,2000-01-18,2003-12-07,male,1950-07-06,,,
 Russia,member of the State Duma,Aleksandr Lotorev,Q101354967,2000-01-18,2003-12-07,male,1948-09-10,,,
-Russia,member of the State Duma,,Q101380272,2000-01-18,2003-12-07,male,1944-05-10,,,
-Russia,member of the State Duma,,Q101403107,2000-01-18,2003-12-07,male,1954-10-10,,,
-Russia,member of the State Duma,,Q101403810,2000-01-18,2003-12-07,male,1947-04-24,,,
-Russia,member of the State Duma,,Q101404213,2000-01-18,2003-12-07,male,1942-08-10,,,
-Russia,member of the State Duma,,Q101405426,2000-01-18,2003-12-07,male,1954-03-22,,,
-Russia,member of the State Duma,,Q101406811,2000-01-18,2003-12-07,male,1960-12-24,,,
-Russia,member of the State Duma,,Q101417645,2000-01-18,2003-12-07,male,1944-01-01,,,
-Russia,member of the State Duma,,Q101438765,2000-01-18,2003-12-07,male,1968-10-11,,,
-Russia,member of the State Duma,,Q101523153,2000-01-18,2003-12-07,male,1945-09-24,,,
-Russia,member of the State Duma,,Q101525364,2000-01-18,2003-12-07,male,1949-02-15,,,
-Russia,member of the State Duma,,Q101532682,2000-01-18,2003-12-07,male,1961-08-19,,,
-Russia,member of the State Duma,,Q101533226,2000-01-18,2003-12-07,male,1949-05-26,,,
-Russia,member of the State Duma,,Q101565889,2000-01-18,2003-12-07,male,1938-10-28,2005-06-17,,
-Russia,member of the State Duma,,Q101583205,2000-01-18,2003-12-07,male,1948-04-08,,,
-Russia,member of the State Duma,,Q101978942,2000-01-18,2003-12-07,male,1942-10-03,,,
-Russia,member of the State Duma,,Q102035733,2000-01-18,2003-12-07,male,1950-06-01,,,
-Russia,member of the State Duma,,Q102037569,2000-01-18,2003-12-07,male,1959-12-02,,,
-Russia,member of the State Duma,,Q102071337,2000-01-18,2003-12-07,male,1947-01-03,,,
-Russia,member of the State Duma,,Q102113210,2000-01-18,2003-12-07,male,1948-02-06,,,
-Russia,member of the State Duma,,Q102113802,2000-01-18,2003-12-07,male,1959-12-05,,,
-Russia,member of the State Duma,,Q102114269,2000-01-18,2003-12-07,male,1949-11-23,,,
+Russia,member of the State Duma,"Пискун, Николай Леонидович",Q101380272,2000-01-18,2003-12-07,male,1944-05-10,,,
+Russia,member of the State Duma,"Орголайнен, Александр Арович",Q101403107,2000-01-18,2003-12-07,male,1954-10-10,,,
+Russia,member of the State Duma,"Гребенюк, Владимир Дмитриевич",Q101403810,2000-01-18,2003-12-07,male,1947-04-24,,,
+Russia,member of the State Duma,"Конев, Юрий Михайлович",Q101404213,2000-01-18,2003-12-07,male,1942-08-10,,,
+Russia,member of the State Duma,"Буткеев, Владимир Анатольевич",Q101405426,2000-01-18,2003-12-07,male,1954-03-22,,,
+Russia,member of the State Duma,"Широков, Сергей Валентинович",Q101406811,2000-01-18,2003-12-07,male,1960-12-24,,,
+Russia,member of the State Duma,"Опекунов, Виктор Семёнович",Q101417645,2000-01-18,2003-12-07,male,1944-01-01,,,
+Russia,member of the State Duma,"Прощин, Сергей Александрович",Q101438765,2000-01-18,2003-12-07,male,1968-10-11,,,
+Russia,member of the State Duma,"Захаров, Иван Васильевич",Q101523153,2000-01-18,2003-12-07,male,1945-09-24,,,
+Russia,member of the State Duma,"Зорькин, Вячеслав Алексеевич",Q101525364,2000-01-18,2003-12-07,male,1949-02-15,,,
+Russia,member of the State Duma,"Золотилин, Сергей Александрович",Q101532682,2000-01-18,2003-12-07,male,1961-08-19,,,
+Russia,member of the State Duma,"Певцов, Владимир Андреевич",Q101533226,2000-01-18,2003-12-07,male,1949-05-26,,,
+Russia,member of the State Duma,"Литвинов, Владимир Александрович",Q101565889,2000-01-18,2003-12-07,male,1938-10-28,2005-06-17,,
+Russia,member of the State Duma,"Волковский, Василий Иванович",Q101583205,2000-01-18,2003-12-07,male,1948-04-08,,,
+Russia,member of the State Duma,"Черёмушкин, Василий Павлович",Q101978942,2000-01-18,2003-12-07,male,1942-10-03,,,
+Russia,member of the State Duma,"Тетерин, Василий Николаевич",Q102035733,2000-01-18,2003-12-07,male,1950-06-01,,,
+Russia,member of the State Duma,Стрельченко Сергей Георгиевич,Q102037569,2000-01-18,2003-12-07,male,1959-12-02,,,
+Russia,member of the State Duma,"Останин, Валерий Сергеевич",Q102071337,2000-01-18,2003-12-07,male,1947-01-03,,,
+Russia,member of the State Duma,"Чуприна, Николай Нестерович",Q102113210,2000-01-18,2003-12-07,male,1948-02-06,,,
+Russia,member of the State Duma,"Чикулаев, Сергей Николаевич",Q102113802,2000-01-18,2003-12-07,male,1959-12-05,,,
+Russia,member of the State Duma,"Чекис, Анатолий Владимирович",Q102114269,2000-01-18,2003-12-07,male,1949-11-23,,,
 Russia,member of the State Duma,Aleksey Tomov,Q102115686,2000-01-18,2003-12-07,male,1959-05-24,,,
-Russia,member of the State Duma,,Q102155213,2000-01-18,2003-12-07,male,1953-04-23,,,
-Russia,member of the State Duma,,Q102157625,2000-01-18,2003-12-07,male,1953-07-03,,,
-Russia,member of the State Duma,,Q102164752,2000-01-18,2003-12-07,male,1954-08-09,,,
-Russia,member of the State Duma,,Q102177133,2000-01-18,2003-12-07,male,1966-06-07,,,
-Russia,member of the State Duma,,Q102258889,2000-01-18,2003-12-07,male,1944-10-03,,,
-Russia,member of the State Duma,,Q102268807,2000-01-18,2003-12-07,male,1961-08-02,,,
-Russia,member of the State Duma,,Q102270978,2000-01-18,2003-12-07,male,1948-09-12,,,
-Russia,member of the State Duma,,Q102288025,2000-01-18,2003-12-07,male,1965-11-19,,,
-Russia,member of the State Duma,,Q102295135,2000-01-18,2003-12-07,male,1937-09-20,2022-03-04,,Valentin Knysh
-Russia,member of the State Duma,,Q102307575,2000-01-18,2003-12-07,male,1952-01-01,,,
-Russia,member of the State Duma,,Q102427736,2000-01-18,2003-12-07,male,1947-05-26,,,
-Russia,member of the State Duma,,Q102434598,2000-01-18,2003-12-07,male,1952-02-08,,,
-Russia,member of the State Duma,,Q102435281,2000-01-18,2003-12-07,male,1952-04-18,,,
-Russia,member of the State Duma,,Q102440981,2000-01-18,2003-12-07,male,1947-08-02,,,
-Russia,member of the State Duma,,Q102875903,2000-01-18,2003-12-07,female,1948-06-19,,,
-Russia,member of the State Duma,,Q103812575,2000-01-18,2003-12-07,male,1948-01-24,,,
-Russia,member of the State Duma,,Q103830652,2000-01-18,2003-12-07,male,1952-06-17,2020-11-11,,
-Russia,member of the State Duma,,Q103831293,2000-01-18,2003-12-07,male,1960-10-13,,,
-Russia,member of the State Duma,,Q103840750,2000-01-18,2003-12-07,male,1947-01-01,,,
-Russia,member of the State Duma,,Q103841082,2000-01-18,2003-12-07,male,1948-07-20,,,
-Russia,member of the State Duma,,Q103974471,2000-01-18,2003-12-07,male,1951-08-01,,,
-Russia,member of the State Duma,,Q104025179,2000-01-18,2003-12-07,male,1942-03-28,,,
-Russia,member of the State Duma,,Q104026114,2000-01-18,2003-12-07,male,1946-02-08,2002-11-04,,
-Russia,member of the State Duma,,Q104028177,2000-01-18,2003-12-07,male,1937-01-08,,,
-Russia,member of the State Duma,,Q104028311,2000-01-18,2003-12-07,male,1949-08-26,,,
-Russia,member of the State Duma,,Q104029604,2000-01-18,2003-12-07,male,1945-01-14,,,
-Russia,member of the State Duma,,Q104061106,2000-01-18,2003-12-07,male,1962-06-18,2019-01-23,,
-Russia,member of the State Duma,,Q104065778,2000-01-18,2003-12-07,male,1957-07-02,,,
+Russia,member of the State Duma,"Тарачев, Владимир Александрович",Q102155213,2000-01-18,2003-12-07,male,1953-04-23,,,
+Russia,member of the State Duma,"Лобов, Сергей Сергеевич",Q102157625,2000-01-18,2003-12-07,male,1953-07-03,,,
+Russia,member of the State Duma,"Лунцевич, Валентин Васильевич",Q102164752,2000-01-18,2003-12-07,male,1954-08-09,,,
+Russia,member of the State Duma,"Федоткин, Иван Тимофеевич",Q102177133,2000-01-18,2003-12-07,male,1966-06-07,,,
+Russia,member of the State Duma,"Каретников, Владимир Владимирович",Q102258889,2000-01-18,2003-12-07,male,1944-10-03,,,
+Russia,member of the State Duma,"Климов, Владимир Владимирович",Q102268807,2000-01-18,2003-12-07,male,1961-08-02,,,
+Russia,member of the State Duma,Александр Александрович Сизов,Q102270978,2000-01-18,2003-12-07,male,1948-09-12,,,
+Russia,member of the State Duma,"Мартынов, Борис Алексеевич",Q102288025,2000-01-18,2003-12-07,male,1965-11-19,,,
+Russia,member of the State Duma,"Кныш, Валентин Филиппович",Q102295135,2000-01-18,2003-12-07,male,1937-09-20,2022-03-04,,Valentin Knysh
+Russia,member of the State Duma,"Будажапов, Сергей Пурбуевич",Q102307575,2000-01-18,2003-12-07,male,1952-01-01,,,
+Russia,member of the State Duma,"Алексеев, Алексей Алексеевич (депутат)",Q102427736,2000-01-18,2003-12-07,male,1947-05-26,,,
+Russia,member of the State Duma,"Костерин, Николай Николаевич",Q102434598,2000-01-18,2003-12-07,male,1952-02-08,,,
+Russia,member of the State Duma,"Бородай, Виктор Иванович",Q102435281,2000-01-18,2003-12-07,male,1952-04-18,,,
+Russia,member of the State Duma,"Галичанин, Евгений Николаевич",Q102440981,2000-01-18,2003-12-07,male,1947-08-02,,,
+Russia,member of the State Duma,"Романчук, Антонина Ивановна",Q102875903,2000-01-18,2003-12-07,female,1948-06-19,,,
+Russia,member of the State Duma,"Никитин, Анатолий Алексеевич",Q103812575,2000-01-18,2003-12-07,male,1948-01-24,,,
+Russia,member of the State Duma,"Кислицын, Василий Александрович",Q103830652,2000-01-18,2003-12-07,male,1952-06-17,2020-11-11,,
+Russia,member of the State Duma,"Коваленко, Павел Иванович",Q103831293,2000-01-18,2003-12-07,male,1960-10-13,,,
+Russia,member of the State Duma,"Ханкоев, Игорь Матвеевич",Q103840750,2000-01-18,2003-12-07,male,1947-01-01,,,
+Russia,member of the State Duma,"Хуснутдинов, Наиль Кадырович",Q103841082,2000-01-18,2003-12-07,male,1948-07-20,,,
+Russia,member of the State Duma,"Дружинин, Геннадий Иннокентьевич",Q103974471,2000-01-18,2003-12-07,male,1951-08-01,,,
+Russia,member of the State Duma,Иван Иванович Казанков,Q104025179,2000-01-18,2003-12-07,male,1942-03-28,,,
+Russia,member of the State Duma,"Гусенков, Владимир Петрович",Q104026114,2000-01-18,2003-12-07,male,1946-02-08,2002-11-04,,
+Russia,member of the State Duma,"Гаманенко, Александр Иванович",Q104028177,2000-01-18,2003-12-07,male,1937-01-08,,,
+Russia,member of the State Duma,"Голубков, Анатолий Иванович",Q104028311,2000-01-18,2003-12-07,male,1949-08-26,,,
+Russia,member of the State Duma,"Крюков, Валерий Александрович",Q104029604,2000-01-18,2003-12-07,male,1945-01-14,,,
+Russia,member of the State Duma,"Шитуев, Валерий Анатольевич",Q104061106,2000-01-18,2003-12-07,male,1962-06-18,2019-01-23,,
+Russia,member of the State Duma,"Шубин, Александр Валентинович",Q104065778,2000-01-18,2003-12-07,male,1957-07-02,,,
 Russia,member of the State Duma,Alexander M. Shelekhov,Q104086620,2000-01-18,2003-12-07,male,1942-10-30,,,
-Russia,member of the State Duma,,Q104086760,2000-01-18,2003-12-07,male,1951-02-10,2008-04-27,,
-Russia,member of the State Duma,,Q104087730,2000-01-18,2003-12-07,male,1947-11-05,,,
-Russia,member of the State Duma,,Q104088130,2000-01-18,2003-12-07,male,1935-12-05,,,
+Russia,member of the State Duma,"Швецов, Александр Сергеевич",Q104086760,2000-01-18,2003-12-07,male,1951-02-10,2008-04-27,,
+Russia,member of the State Duma,"Солдаткин, Дмитрий Фёдорович",Q104087730,2000-01-18,2003-12-07,male,1947-11-05,,,
+Russia,member of the State Duma,"Предыбайлов, Виталий Митрофанович",Q104088130,2000-01-18,2003-12-07,male,1935-12-05,,,
 Russia,member of the State Duma,Aleksandr Podgursky,Q104092375,2000-01-18,2003-12-07,male,1940-08-10,2021-06-16,,
-Russia,member of the State Duma,,Q104097203,2000-01-18,2003-12-07,male,1947-11-06,,,
-Russia,member of the State Duma,,Q104098642,2000-01-18,2003-12-07,male,1950-01-20,2002-05-07,,
-Russia,member of the State Duma,,Q104113980,2000-01-18,2003-12-07,male,1967-05-23,,,
+Russia,member of the State Duma,"Кущенко, Виктор Николаевич",Q104097203,2000-01-18,2003-12-07,male,1947-11-06,,,
+Russia,member of the State Duma,"Малышев, Валерий Иванович",Q104098642,2000-01-18,2003-12-07,male,1950-01-20,2002-05-07,,
+Russia,member of the State Duma,"Марченко, Евгений Владимирович",Q104113980,2000-01-18,2003-12-07,male,1967-05-23,,,
 Russia,member of the State Duma,Vladimir Ryzhkov,Q1049488,2000-01-18,2003-12-07,male,1966-09-03,,Vladimir Ryzhkov2-041211.jpg,Vladimir Ryzhkov
 Russia,member of the State Duma,Fändäs Safiullin,Q13207858,2000-01-18,2003-12-07,male,1936-08-17,2021-10-10,Fandas Safiullin (2021-04-22).jpg,Fandas Safiullin
 Russia,member of the State Duma,Mikhail Gutseriyev,Q1346607,2000-01-18,2003-12-07,male,1958-03-09,,Guzeriev.Ogonek5.jpg,Mikhail Gutseriyev
@@ -97,8 +102,8 @@ Russia,member of the State Duma,Sergey Glazyev,Q1381768,2000-01-18,2003-12-07,ma
 Russia,member of the State Duma,Yuri Maslyukov,Q1396655,2000-01-18,2003-12-07,male,1937-09-30,2010-04-01,Yury Maslyukov (duma.gov.ru).jpg,Yuri Maslyukov
 Russia,member of the State Duma,Mikhail Musatov,Q14920892,2000-01-18,2003-12-07,male,1950-08-23,,Mikhail Musatov.jpg,Mikhail Musatov
 Russia,member of the State Duma,Vladislav Djomin,Q15065793,2000-01-18,2003-12-07,male,1974-06-22,,,
-Russia,member of the State Duma,,Q15066991,2000-01-18,2003-12-07,male,1951-11-18,,,
-Russia,member of the State Duma,,Q15074608,2000-01-18,2003-12-07,male,1963-04-18,,Arthur Maki.jpg,
+Russia,member of the State Duma,"Зеленов, Евгений Алексеевич",Q15066991,2000-01-18,2003-12-07,male,1951-11-18,,,
+Russia,member of the State Duma,"Мяки, Артур Элденович",Q15074608,2000-01-18,2003-12-07,male,1963-04-18,,Arthur Maki.jpg,
 Russia,member of the State Duma,Nina Ostanina,Q15077198,2000-01-18,2003-12-07,female,1955-12-26,,Nina Ostanina.jpg,Nina Ostanina
 Russia,member of the State Duma,Viktor Pautov,Q15079062,2000-01-18,2003-12-07,male,1953-07-05,,Viktor Pautov.jpg,
 Russia,member of the State Duma,Oleg Shein,Q1517429,2000-01-18,2003-12-07,male,1972-03-21,,Shein OV.jpg,Oleg Shein
@@ -129,7 +134,7 @@ Russia,member of the State Duma,Dmitry Savelyev,Q19818061,2000-01-18,2003-12-07,
 Russia,member of the State Duma,Nikolay Kovalyov,Q1990789,2000-01-18,2003-12-07,male,1949-08-06,2019-04-05,Nikolay Dmitrievich Kovalyov.jpg,Nikolay Kovalyov (politician)
 Russia,member of the State Duma,Ivan Khudyakov,Q19916173,2000-01-18,2003-12-07,male,1938-08-14,2016-04-30,,
 Russia,member of the State Duma,Boris Titenko,Q19917170,2000-01-18,2003-12-07,male,1954-03-06,,,
-Russia,member of the State Duma,,Q19918363,2000-01-18,2003-12-07,male,1959-04-02,,,
+Russia,member of the State Duma,"Рубежанский, Петр Николаевич",Q19918363,2000-01-18,2003-12-07,male,1959-04-02,,,
 Russia,member of the State Duma,Vladimir Zhirinovsky,Q200015,2000-01-18,2003-12-07,male,1946-04-25,,"Vladimir Zhirinovsky (cropped, 2018-03-19).jpg",Vladimir Zhirinovsky
 Russia,member of the State Duma,Vladimir Lukin,Q2003890,2000-01-18,2003-12-07,male,1937-07-13,,Vladimir Lukin.jpg,Vladimir Lukin
 Russia,member of the State Duma,Gadzhimet Safaraliyev,Q20202264,2000-01-18,2003-12-07,male,1950-06-26,,Г.К. Сафаралиев.jpg,
@@ -152,7 +157,7 @@ Russia,member of the State Duma,Gasanov Magomedkadi,Q28497346,2000-01-18,2003-12
 Russia,member of the State Duma,Reznik Boris Lvovich,Q28799019,2000-01-18,2003-12-07,male,1940-02-12,2018-01-27,Boris Reznik.jpg,
 Russia,member of the State Duma,Rem Khramov,Q29043638,2000-01-18,2003-12-07,male,1932-06-28,2020-02-16,Rem Khramov.jpg,
 Russia,member of the State Duma,Robert Nigmatulin,Q2911549,2000-01-18,2003-12-07,male,1940-06-17,,Robert Nigmatulin.jpg,
-Russia,member of the State Duma,,Q29359320,2000-01-18,2003-12-07,male,1953-07-17,,,
+Russia,member of the State Duma,"Орлов, Вадим Иванович",Q29359320,2000-01-18,2003-12-07,male,1953-07-17,,,
 Russia,member of the State Duma,Nikolay Kharitonov,Q2995350,2000-01-18,2003-12-07,male,1948-10-30,,Nikolay Kharitonov 5 December 2000.jpg,Nikolay Kharitonov
 Russia,member of the State Duma,Mikhail Bugera,Q30346534,2000-01-18,2003-12-07,male,1961-01-14,,Mikhail Bugera.jpg,
 Russia,member of the State Duma,Abdul-Vahed Niyazov,Q308515,2000-01-18,2003-12-07,male,1969-04-23,,,Abdul-Vahed Niyazov
@@ -324,7 +329,7 @@ Russia,member of the State Duma,Vladislav Reznik,Q4392436,2000-01-18,2003-12-07,
 Russia,member of the State Duma,Konstantin Remchukov,Q4393205,2000-01-18,2003-12-07,male,1954-11-21,,Direct Line with Vladimir Putin (2014-04-17) 29.jpeg,
 Russia,member of the State Duma,Sergey Reshulsky,Q4394133,2000-01-18,2003-12-07,male,1951-09-21,,Sergey Reshulskiy.png,
 Russia,member of the State Duma,Pyotr Rogonov,Q4395642,2000-01-18,2003-12-07,male,1942-10-06,,,
-Russia,member of the State Duma,,Q4395840,2000-01-18,2003-12-07,male,1938-03-12,,,
+Russia,member of the State Duma,"Родионов, Юрий Николаевич",Q4395840,2000-01-18,2003-12-07,male,1938-03-12,,,
 Russia,member of the State Duma,Valentin Stepanovitsj Romanov,Q4397135,2000-01-18,2003-12-07,male,1937-10-29,2018-03-28,Valentin Romanov.jpg,
 Russia,member of the State Duma,Pjotr Vasilevitsj Romanov,Q4397186,2000-01-18,2003-12-07,male,1943-07-21,,Peter Romanov.jpg,
 Russia,member of the State Duma,Igor Rudenskiy,Q4399366,2000-01-18,2003-12-07,male,1962-09-11,,Igor Rudenskiy Jan2015 RT Moscow.jpg,
@@ -362,9 +367,9 @@ Russia,member of the State Duma,Gennadiy Ivanovitsj Tsjoerkin,Q4518237,2000-01-1
 Russia,member of the State Duma,Aleksandr Shabanov,Q4519050,2000-01-18,2003-12-07,male,1935-11-05,,,
 Russia,member of the State Duma,Rifchat Midchatovitsj Sjakirov,Q4519581,2000-01-18,2003-12-07,male,1945-05-03,,,
 Russia,member of the State Duma,Martin Shakkum,Q4519585,2000-01-18,2003-12-07,male,1951-09-21,,Martin Shakkum 2018-02-12 (cropped).jpg,Martin Shakkum
-Russia,member of the State Duma,,Q4521574,2000-01-18,2003-12-07,male,1957-01-13,,,
-Russia,member of the State Duma,,Q4521783,2000-01-18,2003-12-07,female,1943-04-17,,,
-Russia,member of the State Duma,,Q4521826,2000-01-18,2003-12-07,male,1949-06-27,,,
+Russia,member of the State Duma,"Шашурин, Сергей Петрович",Q4521574,2000-01-18,2003-12-07,male,1957-01-13,,,
+Russia,member of the State Duma,"Швец, Любовь Никитична",Q4521783,2000-01-18,2003-12-07,female,1943-04-17,,,
+Russia,member of the State Duma,"Швыряев, Ярослав Михайлович",Q4521826,2000-01-18,2003-12-07,male,1949-06-27,,,
 Russia,member of the State Duma,Petr Shelisch,Q4522642,2000-01-18,2003-12-07,male,1945-12-09,,,
 Russia,member of the State Duma,Sergey Shishkarev,Q4524729,2000-01-18,2003-12-07,male,1968-02-02,,Shishkarev 1.JPG,Sergey Shishkarev
 Russia,member of the State Duma,Aleksandr Shishlov,Q4524827,2000-01-18,2003-12-07,male,1955-07-28,,Aleksandr Shishlov (cropped).JPG,
@@ -372,25 +377,25 @@ Russia,member of the State Duma,Alexander Shokhin,Q4526318,2000-01-18,2003-12-07
 Russia,member of the State Duma,Vyacheslav Shport,Q4526528,2000-01-18,2003-12-07,male,1954-06-16,,Vyacheslav Shport by Vladimir Galkin.jpg,Vyacheslav Shport
 Russia,member of the State Duma,Sergey Shtogrin,Q4526892,2000-01-18,2003-12-07,male,1948-07-21,,Sergey Shtogrin.jpg,
 Russia,member of the State Duma,Vitaly Shuba,Q4527120,2000-01-18,2003-12-07,male,1951-07-13,,Shuba V.jpg,
-Russia,member of the State Duma,,Q4527525,2000-01-18,2003-12-07,male,1949-09-09,2011-11-13,,
+Russia,member of the State Duma,Александр Васильевич Шульга,Q4527525,2000-01-18,2003-12-07,male,1949-09-09,2011-11-13,,
 Russia,member of the State Duma,Valentin Shurchanov,Q4528002,2000-01-18,2003-12-07,male,1947-04-19,2020-12-18,Valentin Shurchanov.jpg,Valentin Shurchanov
 Russia,member of the State Duma,Vladimir Yuzhakov,Q4533873,2000-01-18,2003-12-07,male,1951-10-23,,"Южаков Владимир Николаевич, депутат.jpg",
 Russia,member of the State Duma,Vitali Južilin,Q4533884,2000-01-18,2003-12-07,male,1965-12-10,,Vitaliy Yuzhilin.jpg,
 Russia,member of the State Duma,Mikhail Yurevich,Q4534804,2000-01-18,2003-12-07,male,1969-02-13,,"Mikhail Yurevich, July 2010.jpeg",Mikhail Yurevich
-Russia,member of the State Duma,,Q4535214,2000-01-18,2003-12-07,male,1938-01-30,,,
+Russia,member of the State Duma,"Юрчик, Владислав Григорьевич",Q4535214,2000-01-18,2003-12-07,male,1938-01-30,,,
 Russia,member of the State Duma,Valery Yazev,Q4536413,2000-01-18,2003-12-07,male,1949-10-29,,Valery Yazev.jpg,
 Russia,member of the State Duma,Tatiana Yakovleva,Q4536978,2000-01-18,2003-12-07,female,1960-07-07,,2019 Tatyana Yakovleva.jpg,
 Russia,member of the State Duma,Tatyana Yarygina,Q4539103,2000-01-18,2003-12-07,female,1953-03-02,,Tatiana Yarygina.jpg,
 Russia,member of the State Duma,Alexander Ryazanov,Q4719997,2000-01-18,2003-12-07,male,1953-10-13,,,Alexander Ryazanov
-Russia,member of the State Duma,,Q47453031,2000-01-18,2003-12-07,male,1936-04-04,2000-01-25,,
+Russia,member of the State Duma,Геннадий Павлович Лузин,Q47453031,2000-01-18,2003-12-07,male,1936-04-04,2000-01-25,,
 Russia,member of the State Duma,Anatoly Lukyanov,Q487779,2000-01-18,2003-12-07,male,1930-05-07,2019-01-09,Анатолий Лукьянов (депутат) (cropped).jpg,Anatoly Lukyanov
-Russia,member of the State Duma,,Q49240119,2000-01-18,2003-12-07,male,1950-09-04,,Saifullin Franis Askaryanovich.jpg,
+Russia,member of the State Duma,Сәйфуллин Франис Әсҡәрйән улы,Q49240119,2000-01-18,2003-12-07,male,1950-09-04,,Saifullin Franis Askaryanovich.jpg,
 Russia,member of the State Duma,Andrey Selivanov,Q502756,2000-01-18,2003-12-07,male,1967-07-09,,Andrei Selivanov 2010 Moscow 01.jpg,Andrey Selivanov (chess player)
 Russia,member of the State Duma,Boris Gromov,Q504137,2000-01-18,2003-12-07,male,1943-11-07,,Gromov boris 8.06.2010.jpg,Boris Gromov
 Russia,member of the State Duma,Valentin Nikitin,Q51144826,2000-01-18,2003-12-07,male,1948-11-01,2018-03-28,,
-Russia,member of the State Duma,,Q51667848,2000-01-18,2003-12-07,male,1962-05-18,,,
-Russia,member of the State Duma,,Q51669089,2000-01-18,2003-12-07,female,1948-01-04,,Лекарева В.А. (2007).jpg,
-Russia,member of the State Duma,,Q51711681,2000-01-18,2003-12-07,male,1939-09-10,,,
+Russia,member of the State Duma,Игорь Васильевич Лисиненко,Q51667848,2000-01-18,2003-12-07,male,1962-05-18,,,
+Russia,member of the State Duma,Вера Александровна Лекарева,Q51669089,2000-01-18,2003-12-07,female,1948-01-04,,Лекарева В.А. (2007).jpg,
+Russia,member of the State Duma,Владимир Казбулатович Сохов,Q51711681,2000-01-18,2003-12-07,male,1939-09-10,,,
 Russia,member of the State Duma,Igor Lebedev,Q520016,2000-01-18,2003-12-07,male,1972-09-27,,Igor V. Lebedev (2019-07-11).jpg,Igor Lebedev (politician)
 Russia,member of the State Duma,Yuri Shchekochikhin,Q521209,2000-01-18,2003-12-07,male,1950-06-09,2003-07-03,Yuri Shchekochikhin.jpg,Yuri Shchekochikhin
 Russia,member of the State Duma,Irina Khakamada,Q541213,2000-01-18,2003-12-07,female,1955-04-13,,Irina Hakamada1.jpg,Irina Khakamada
@@ -399,12 +404,12 @@ Russia,member of the State Duma,Yury Mamonov,Q55723768,2000-01-18,2003-12-07,mal
 Russia,member of the State Duma,Viktor Peshkov,Q56418611,2000-01-18,2003-12-07,male,1945-10-28,,Viktor Peshkov.jpg,
 Russia,member of the State Duma,Alexander Zhukov,Q57735,2000-01-18,2003-12-07,male,1956-06-01,,Alexander Zhukov 2018-07-12.jpg,Alexander Zhukov
 Russia,member of the State Duma,Mikhail Rokitsky,Q59446722,2000-01-18,2003-12-07,male,1931-09-28,2018-11-26,,
-Russia,member of the State Duma,,Q60695074,2000-01-18,2003-12-07,male,1953-10-16,2018-11-12,,
-Russia,member of the State Duma,,Q61135742,2000-01-18,2003-12-07,male,1965-05-16,,,
+Russia,member of the State Duma,"Оленьев, Вячеслав Владимирович",Q60695074,2000-01-18,2003-12-07,male,1953-10-16,2018-11-12,,
+Russia,member of the State Duma,Сергей Заһидуллин,Q61135742,2000-01-18,2003-12-07,male,1965-05-16,,,
 Russia,member of the State Duma,Bato Semenov,Q62712704,2000-01-18,2003-12-07,male,1960-08-21,,Бато Семёнов.jpg,
-Russia,member of the State Duma,,Q65149942,2000-01-18,2003-12-07,male,1958-11-04,,,
+Russia,member of the State Duma,"Пекарев, Владимир Янович",Q65149942,2000-01-18,2003-12-07,male,1958-11-04,,,
 Russia,member of the State Duma,Alexey Ogonkov,Q65153172,2000-01-18,2003-12-07,male,1963-03-21,,,
-Russia,member of the State Duma,,Q65158252,2000-01-18,2003-12-07,male,1951-04-28,,,
+Russia,member of the State Duma,"Куваев, Александр Александрович",Q65158252,2000-01-18,2003-12-07,male,1951-04-28,,,
 Russia,member of the State Duma,Yegor Ligachyov,Q707005,2000-01-18,2003-12-07,male,1920-11-29,2021-05-07,Yegor Ligachyov.jpg,Yegor Ligachyov
 Russia,member of the State Duma,Georgy Boos,Q708130,2000-01-18,2003-12-07,male,1963-01-22,,Georgiy Boos.jpg,Georgy Boos
 Russia,member of the State Duma,Konstantin Kosachev,Q736840,2000-01-18,2003-12-07,male,1962-09-17,,Konstantin Kosachev 2021-02-15 (cropped).jpg,Konstantin Kosachev
@@ -413,40 +418,40 @@ Russia,member of the State Duma,Yegor Solomatin,Q8051160,2000-01-18,2003-12-07,m
 Russia,member of the State Duma,Yegor Gaidar,Q82695,2000-01-18,2003-12-07,male,1956-03-19,2009-12-16,Gaidar in 2008 - crop.jpg,Yegor Gaidar
 Russia,member of the State Duma,Vladimir Vsyvtsev,Q85960714,2000-01-18,2003-12-07,male,1961-04-21,,Vsyvtsev.jpg,
 Russia,member of the State Duma,Oleg Finko,Q89808971,2000-01-18,2003-12-07,male,1941-05-23,,Oleg Finko.jpg,
-Russia,member of the State Duma,,Q91963355,2000-01-18,2003-12-07,female,1947-02-18,2011-03-01,,
-Russia,member of the State Duma,,Q91964869,2000-01-18,2003-12-07,female,1950-05-24,,,
-Russia,member of the State Duma,,Q91967919,2000-01-18,2003-12-07,female,1948-09-21,,,
-Russia,member of the State Duma,,Q92113206,2000-01-18,2003-12-07,female,1947-04-02,,,
-Russia,member of the State Duma,,Q92113382,2000-01-18,2003-12-07,female,1949-04-24,,,
+Russia,member of the State Duma,Флюра Газизовна Зиятдинова,Q91963355,2000-01-18,2003-12-07,female,1947-02-18,2011-03-01,,
+Russia,member of the State Duma,"Гвоздева, Светлана Николаевна",Q91964869,2000-01-18,2003-12-07,female,1950-05-24,,,
+Russia,member of the State Duma,"Савостьянова, Валентина Борисовна",Q91967919,2000-01-18,2003-12-07,female,1948-09-21,,,
+Russia,member of the State Duma,"Воронцова, Зоя Ивановна",Q92113206,2000-01-18,2003-12-07,female,1947-04-02,,,
+Russia,member of the State Duma,"Ермакова, Эльвира Леонидовна",Q92113382,2000-01-18,2003-12-07,female,1949-04-24,,,
 Russia,member of the State Duma,Aleksandr Klukin,Q93511108,2000-01-18,2003-12-07,male,1957-07-05,,Aleksandr Klukin.jpg,
 Russia,member of the State Duma,Vladimir Nikolaevich Volkov,Q95963004,2000-01-18,2003-12-07,male,1948-08-23,,"Владимир Николаевич Волков, депутат ГД.jpg",
 Russia,member of the State Duma,Vitaliy Gukov,Q95984309,2000-01-18,2003-12-07,male,1948-01-01,,"Виталий Владимирович Гуков, депутат ГД.jpg",
 Russia,member of the State Duma,Evgeniy Kosterev,Q96244718,2000-01-18,2003-12-07,male,1949-01-02,2005-06-17,"Костерин, Евгений Алексеевич, депутат ГД.jpg",
 Russia,member of the State Duma,Vladimir Sergeevich Mikhailov,Q96395980,2000-01-18,2003-12-07,male,1948-01-21,2018-09-24,"Медведев, Владимир Сергеевич, депутат ГД.jpg",
-Russia,member of the State Duma,,Q96609231,2000-01-18,2003-12-07,male,1939-08-05,,,
-Russia,member of the State Duma,,Q96695270,2000-01-18,2003-12-07,male,1968-04-15,,,
+Russia,member of the State Duma,"Топилин, Виктор Михайлович",Q96609231,2000-01-18,2003-12-07,male,1939-08-05,,,
+Russia,member of the State Duma,"Васильев, Максим Игоревич",Q96695270,2000-01-18,2003-12-07,male,1968-04-15,,,
 Russia,member of the State Duma,Nikolay Sukhoy,Q96739536,2000-01-18,2003-12-07,male,1941-03-05,,"Сухой, Николай Авксентьевич, депутат ГД.jpg",
-Russia,member of the State Duma,,Q96945068,2000-01-18,2003-12-07,male,1951-05-11,,,
-Russia,member of the State Duma,,Q97180835,2000-01-18,2003-12-07,male,1970-01-09,,,
-Russia,member of the State Duma,,Q97286527,2000-01-18,2003-12-07,male,1958-11-08,,,
-Russia,member of the State Duma,,Q97648623,2000-01-18,2003-12-07,male,1951-05-13,,,
-Russia,member of the State Duma,,Q97664810,2000-01-18,2003-12-07,male,1946-10-22,2007-09-21,,
-Russia,member of the State Duma,,Q97667051,2000-01-18,2003-12-07,male,1972-07-13,,,
-Russia,member of the State Duma,,Q97670137,2000-01-18,2003-12-07,male,1946-06-06,2002-09-05,,
-Russia,member of the State Duma,,Q97772588,2000-01-18,2003-12-07,male,1950-08-19,,,
-Russia,member of the State Duma,,Q97958767,2000-01-18,2003-12-07,male,1957-01-22,,,
-Russia,member of the State Duma,,Q98228866,2000-01-18,2003-12-07,male,1963-03-12,,,
+Russia,member of the State Duma,"Никитин, Владимир Петрович",Q96945068,2000-01-18,2003-12-07,male,1951-05-11,,,
+Russia,member of the State Duma,"Зайцев, Константин Борисович",Q97180835,2000-01-18,2003-12-07,male,1970-01-09,,,
+Russia,member of the State Duma,Александр Михайлович Федулов,Q97286527,2000-01-18,2003-12-07,male,1958-11-08,,,
+Russia,member of the State Duma,"Новиков, Александр Васильевич (депутат)",Q97648623,2000-01-18,2003-12-07,male,1951-05-13,,,
+Russia,member of the State Duma,"Яркин, Лев Николаевич",Q97664810,2000-01-18,2003-12-07,male,1946-10-22,2007-09-21,,
+Russia,member of the State Duma,"Гузанов, Алексей Анатольевич",Q97667051,2000-01-18,2003-12-07,male,1972-07-13,,,
+Russia,member of the State Duma,"Семенков, Владимир Михайлович",Q97670137,2000-01-18,2003-12-07,male,1946-06-06,2002-09-05,,
+Russia,member of the State Duma,"Мащенко, Олег Иванович",Q97772588,2000-01-18,2003-12-07,male,1950-08-19,,,
+Russia,member of the State Duma,"Яшин, Александр Михайлович",Q97958767,2000-01-18,2003-12-07,male,1957-01-22,,,
+Russia,member of the State Duma,"Цыбакин, Юрий Владимирович",Q98228866,2000-01-18,2003-12-07,male,1963-03-12,,,
 Russia,member of the State Duma,Vyacheslav Volodin,Q982461,2000-01-18,2003-12-07,male,1964-02-04,,Володин В.В.jpg,Vyacheslav Volodin
 Russia,member of the State Duma,Yuriy Kurin,Q98497160,2000-01-18,2003-12-07,male,1955-04-29,,Юрий Геннадьевич Курин.jpg,
-Russia,member of the State Duma,,Q98544764,2000-01-18,2003-12-07,male,1962-02-19,2002-04-20,,
-Russia,member of the State Duma,,Q99521798,2000-01-18,2003-12-07,male,1949-02-12,,,
-Russia,member of the State Duma,,Q99670836,2000-01-18,2003-12-07,male,1954-07-08,,,
-Russia,member of the State Duma,,Q99711338,2000-01-18,2003-12-07,male,1962-04-06,2012-12-28,,
-Russia,member of the State Duma,,Q99883988,2000-01-18,2003-12-07,female,1947-03-28,,Gainullina Farida Ismagilovna.jpg,
-Russia,member of the State Duma,,Q103800343,2000-02-04,2003-12-07,male,1964-04-14,,,
+Russia,member of the State Duma,"Веретено, Александр Константинович",Q98544764,2000-01-18,2003-12-07,male,1962-02-19,2002-04-20,,
+Russia,member of the State Duma,"Ботка, Николай Петрович",Q99521798,2000-01-18,2003-12-07,male,1949-02-12,,,
+Russia,member of the State Duma,"Быков, Владимир Иванович (депутат)",Q99670836,2000-01-18,2003-12-07,male,1954-07-08,,,
+Russia,member of the State Duma,Сергей Владимирович Житинкин,Q99711338,2000-01-18,2003-12-07,male,1962-04-06,2012-12-28,,
+Russia,member of the State Duma,"Гайнуллина, Фарида Исмагиловна",Q99883988,2000-01-18,2003-12-07,female,1947-03-28,,Gainullina Farida Ismagilovna.jpg,
+Russia,member of the State Duma,"Петров, Юрий Юрьевич",Q103800343,2000-02-04,2003-12-07,male,1964-04-14,,,
 Russia,member of the State Duma,Aleksandr Vladislavlev,Q4113334,2000-02-04,2003-12-07,male,1936-05-21,2017-11-08,,
 Russia,member of the State Duma,Nikolai Ovchinnikov,Q14848577,2000-03,2003-02-13,male,1949-04-28,,Nikolai Ovchinnikov.jpg,
-Russia,member of the State Duma,,Q101276486,2000-04-07,2003-12-07,male,1965-06-21,,,
+Russia,member of the State Duma,"Зяблицев, Евгений Геннадьевич",Q101276486,2000-04-07,2003-12-07,male,1965-06-21,,,
 Russia,member of the State Duma,Konstantin Sevenard,Q103813305,2000-04-07,2003-12-07,male,1967-11-16,,Константин Севенард.jpg,
 Russia,member of the State Duma,Alexander Nevzorov,Q1978790,2000-04-07,2003-12-07,male,1958-08-03,,Nevzorov at Open Library debate 140928 (2) (cropped).jpg,Alexander Nevzorov
 Russia,member of the State Duma,Valeriy Dorogin,Q21856926,2000-04-07,2003-12-07,male,1946-04-13,,Дорогин Валерий Федорович.jpg,
@@ -461,106 +466,106 @@ Russia,member of the State Duma,Magomet Tekeev,Q60445264,2000-12-15,2003-12-07,m
 Russia,member of the State Duma,Vladimir Yudin,Q4533785,2001-02-02,2003-12-07,male,1948-02-20,,,
 Russia,member of the State Duma,Gennady Gudkov,Q555125,2001-03-21,2003-12-07,male,1956-08-15,,"March of Peace (2014-03-15, Moscow), Gennady Gudkov.JPG",Gennady Gudkov
 Russia,member of the State Duma,Andrey Vulf,Q4128393,2001-04-12,2003-12-07,male,1968-03-23,,Andrey Wulf 05.jpg,
-Russia,member of the State Duma,,Q101239112,2001-04-20,2003-12-07,male,1956-02-17,,,
+Russia,member of the State Duma,"Амирханов, Алихан Хусейнович",Q101239112,2001-04-20,2003-12-07,male,1956-02-17,,,
 Russia,member of the State Duma,Gennady Lemeshov,Q4257893,2001-05-11,2003-12-07,male,1968-09-26,,,
-Russia,member of the State Duma,,Q103973881,2001-05-23,2003-12-07,male,1950-02-10,,,
+Russia,member of the State Duma,"Денисов, Николай Григорьевич",Q103973881,2001-05-23,2003-12-07,male,1950-02-10,,,
 Russia,member of the State Duma,Valentina Vasilevna Kroetova,Q4242452,2001-06-04,2003-12-07,female,1946-01-13,,,
 Russia,member of the State Duma,Vladimir Etilin,Q4177307,2001-07-10,2003-12-07,male,1944-10-15,,,Vladimir Yetylin
-Russia,member of the State Duma,,Q104067316,2001-10-12,2003-12-07,male,1950-06-10,,,
+Russia,member of the State Duma,"Винидиктов, Александр Николаевич",Q104067316,2001-10-12,2003-12-07,male,1950-06-10,,,
 Russia,member of the State Duma,Chylgychy Ondar,Q4334832,2001-10-19,2003-12-07,male,1955,2020,,Chylgychy Ondar
 Russia,member of the State Duma,Natalya Komarova,Q216535,2001-12-17,2010-03-01,female,1955-10-21,,Natalya Komarova 2018.jpg,Natalya Komarova
-Russia,member of the State Duma,,Q104034150,2002-01-29,2003-12-07,male,1965-09-08,,,
-Russia,member of the State Duma,,Q100699756,2002-02-16,2003-12-07,male,1957-02-04,,,
+Russia,member of the State Duma,"Котюсов, Александр Николаевич",Q104034150,2002-01-29,2003-12-07,male,1965-09-08,,,
+Russia,member of the State Duma,"Журавлёв, Владимир Клавдиевич",Q100699756,2002-02-16,2003-12-07,male,1957-02-04,,,
 Russia,member of the State Duma,Vladimir Aseev,Q4071201,2002-03-28,2003-12-07,male,1951-06-19,,,Vladimir Aseev
 Russia,member of the State Duma,Vladimir Basov,Q4079104,2002-04-05,2003-12-07,male,1950-07-16,2010-04-14,Владимир Басов (депутат).jpg,
 Russia,member of the State Duma,Sergey Timoerovitsj Pekpeev,Q4348137,2002-05-02,2003-12-07,male,1956-09-04,2012-04-25,,
 Russia,member of the State Duma,Yevgeny Loginov,Q4265101,2002-09-24,2003-12-07,male,1965-05-13,,Evgeny Loginov.jpg,
-Russia,member of the State Duma,,Q98102402,2002-09-24,2003-12-07,male,1969-02-05,,,
-Russia,member of the State Duma,,Q104114184,2002-10-25,2003-12-07,male,1963-05-06,,,
+Russia,member of the State Duma,"Щерчков, Сергей Владимирович",Q98102402,2002-09-24,2003-12-07,male,1969-02-05,,,
+Russia,member of the State Duma,"Сафонов, Александр Николаевич (депутат)",Q104114184,2002-10-25,2003-12-07,male,1963-05-06,,,
 Russia,member of the State Duma,Sergey Surovov,Q4446588,2003,2006,male,1956-10-31,,,
 Russia,member of the State Duma,Alexander Rosenbaum,Q663116,2003,2005,male,1951-09-13,,Rosenbaum kursk.jpg,Alexander Rosenbaum
 Russia,member of the State Duma,Arsen Fadzayev,Q704427,2003,2011,male,1962-09-05,,Arsen Fadzayev.jpg,Arsen Fadzaev
-Russia,member of the State Duma,,Q100452330,2003-04-14,2003-12-07,male,1965-08-13,,,
+Russia,member of the State Duma,"Ткачёв, Александр Николаевич (1965)",Q100452330,2003-04-14,2003-12-07,male,1965-08-13,,,
 Russia,member of the State Duma,Mikhail Malakhov,Q18634569,2003-05-21,2003-12-07,male,1953-10-08,,,
-Russia,member of the State Duma,,Q104028578,2003-05-28,2003-12-07,male,1954-09-04,,,
+Russia,member of the State Duma,"Губский, Николай Васильевич",Q104028578,2003-05-28,2003-12-07,male,1954-09-04,,,
 Russia,member of the State Duma,Nikolai Ryzhkov,Q366524,2003-09-17,2003-09-17,male,1929-09-28,,2019 Nikolay Ryzhkov.jpg,Nikolai Ryzhkov
 Russia,member of the State Duma,Aleksey Zakharov,Q15066895,2003-09-18,2003-12-07,male,1948-03-03,2012-03-06,,
 Russia,member of the State Duma,Vasily Galushkin,Q101386802,2003-12-07,2007,male,1954-02-11,,Vasily Ivanovich Galushkin in Duma 1999.jpg,
 Russia,member of the State Duma,Zoya Stepanova,Q4441872,2003-12-07,2007-12-24,female,1953-07-06,,Zoya Stepanova.jpg,
-Russia,member of the State Duma,,Q100230399,2003-12-29,2007-12-24,male,1952,,Zalepukhin Nikolay Petrovich.jpg,
-Russia,member of the State Duma,,Q100230434,2003-12-29,2007-12-24,male,1957-05-11,,,
-Russia,member of the State Duma,,Q100249787,2003-12-29,2007-12-24,male,1947-08-20,,,
+Russia,member of the State Duma,"Залепухин, Николай Петрович",Q100230399,2003-12-29,2007-12-24,male,1952,,Zalepukhin Nikolay Petrovich.jpg,
+Russia,member of the State Duma,"Кнорр, Андрей Филиппович",Q100230434,2003-12-29,2007-12-24,male,1957-05-11,,,
+Russia,member of the State Duma,"Камалетдинов, Венер Хаернасович",Q100249787,2003-12-29,2007-12-24,male,1947-08-20,,,
 Russia,member of the State Duma,Rafael Gimalov,Q100254920,2003-12-29,2007-12-24,male,1950-08-09,,Gimalov Rafael Imamovich.jpg,
-Russia,member of the State Duma,,Q100279095,2003-12-29,2007-12-24,male,1947-04-05,,Drusinov Valentin Dmitrievich.jpg,
+Russia,member of the State Duma,"Друсинов, Валентин Дмитриевич",Q100279095,2003-12-29,2007-12-24,male,1947-04-05,,Drusinov Valentin Dmitrievich.jpg,
 Russia,member of the State Duma,Igor Dines,Q100587989,2003-12-29,2007-12-24,male,1970-04-22,,,
-Russia,member of the State Duma,,Q100724587,2003-12-29,2007-12-24,male,1964-11-12,,,
-Russia,member of the State Duma,,Q100729371,2003-12-29,2007-12-24,male,1957-09-27,,,
-Russia,member of the State Duma,,Q100753328,2003-12-29,2007-12-24,male,1953-01-05,,,
-Russia,member of the State Duma,,Q100770488,2003-12-29,2007-12-24,male,1955-07-01,,,
+Russia,member of the State Duma,"Медведев, Евгений Николаевич",Q100724587,2003-12-29,2007-12-24,male,1964-11-12,,,
+Russia,member of the State Duma,"Шиманов, Александр Алексеевич",Q100729371,2003-12-29,2007-12-24,male,1957-09-27,,,
+Russia,member of the State Duma,"Губкин, Анатолий Алексеевич",Q100753328,2003-12-29,2007-12-24,male,1953-01-05,,,
+Russia,member of the State Duma,"Денисов, Валентин Петрович",Q100770488,2003-12-29,2007-12-24,male,1955-07-01,,,
 Russia,member of the State Duma,Andrey Chirkin,Q100869490,2003-12-29,2007-12-24,male,1961-03-15,,,
-Russia,member of the State Duma,,Q100873283,2003-12-29,2007-12-24,male,1951-04-14,,,
-Russia,member of the State Duma,,Q100924084,2003-12-29,2007-12-24,male,1940-05-31,,,
+Russia,member of the State Duma,"Леонтьев, Георгий Карпеевич",Q100873283,2003-12-29,2007-12-24,male,1951-04-14,,,
+Russia,member of the State Duma,"Тягунов, Александр Александрович",Q100924084,2003-12-29,2007-12-24,male,1940-05-31,,,
 Russia,member of the State Duma,Valery Prozorovsky,Q101019146,2003-12-29,2007-12-24,male,1953-04-24,,,
-Russia,member of the State Duma,,Q101086416,2003-12-29,2007-12-24,male,1947-02-13,,,
+Russia,member of the State Duma,"Кузнецов, Василий Федотович",Q101086416,2003-12-29,2007-12-24,male,1947-02-13,,,
 Russia,member of the State Duma,Valeriy Malchikhin,Q101093510,2003-12-29,2007-12-24,male,1946-08-31,,Мальчихин Валерий Андреевич.JPG,
-Russia,member of the State Duma,,Q101094857,2003-12-29,2007-12-24,male,1949-08-25,,,
+Russia,member of the State Duma,"Медведев, Юрий Германович",Q101094857,2003-12-29,2007-12-24,male,1949-08-25,,,
 Russia,member of the State Duma,Viktor Nefyodov,Q101097189,2003-12-29,2007-12-24,male,1959-05-02,,,
-Russia,member of the State Duma,,Q101110466,2003-12-29,2007-12-24,male,1968-01-14,,,
-Russia,member of the State Duma,,Q101243313,2003-12-29,2007-12-24,male,1943-05-01,,,
-Russia,member of the State Duma,,Q101244579,2003-12-29,2007-12-24,female,1952-10-06,,,
+Russia,member of the State Duma,"Исаков, Игорь Анатольевич",Q101110466,2003-12-29,2007-12-24,male,1968-01-14,,,
+Russia,member of the State Duma,"Нахушев, Заурби Ахмедович",Q101243313,2003-12-29,2007-12-24,male,1943-05-01,,,
+Russia,member of the State Duma,"Рудикова, Любовь Михайловна",Q101244579,2003-12-29,2007-12-24,female,1952-10-06,,,
 Russia,member of the State Duma,Kirill Ragozin,Q101246821,2003-12-29,2007-12-24,male,1967-07-28,2005-01-29,,
 Russia,member of the State Duma,Vasily Galushkin,Q101386802,2003-12-29,2007-12-24,male,1954-02-11,,Vasily Ivanovich Galushkin in Duma 1999.jpg,
-Russia,member of the State Duma,,Q101403107,2003-12-29,2007-12-24,male,1954-10-10,,,
-Russia,member of the State Duma,,Q101403810,2003-12-29,2007-12-24,male,1947-04-24,,,
-Russia,member of the State Duma,,Q101404213,2003-12-29,2007-12-24,male,1942-08-10,,,
-Russia,member of the State Duma,,Q101406811,2003-12-29,2007-12-24,male,1960-12-24,,,
+Russia,member of the State Duma,"Орголайнен, Александр Арович",Q101403107,2003-12-29,2007-12-24,male,1954-10-10,,,
+Russia,member of the State Duma,"Гребенюк, Владимир Дмитриевич",Q101403810,2003-12-29,2007-12-24,male,1947-04-24,,,
+Russia,member of the State Duma,"Конев, Юрий Михайлович",Q101404213,2003-12-29,2007-12-24,male,1942-08-10,,,
+Russia,member of the State Duma,"Широков, Сергей Валентинович",Q101406811,2003-12-29,2007-12-24,male,1960-12-24,,,
 Russia,member of the State Duma,Viktor Derenkovskiy,Q101407155,2003-12-29,2007-12-24,male,1942-11-28,,,
-Russia,member of the State Duma,,Q101417645,2003-12-29,2007-12-24,male,1944-01-01,,,
-Russia,member of the State Duma,,Q101438725,2003-12-29,2007-12-24,male,1960-01-25,,,
-Russia,member of the State Duma,,Q101438765,2003-12-29,2007-12-24,male,1968-10-11,,,
-Russia,member of the State Duma,,Q101512804,2003-12-29,2007-12-24,male,1951-09-01,,,
-Russia,member of the State Duma,,Q101520525,2003-12-29,2007-12-24,male,1946-03-04,,,
-Russia,member of the State Duma,,Q101552493,2003-12-29,2007-12-24,male,1947-08-18,2004-06-15,,
-Russia,member of the State Duma,,Q101565889,2003-12-29,2007-12-24,male,1938-10-28,2005-06-17,,
+Russia,member of the State Duma,"Опекунов, Виктор Семёнович",Q101417645,2003-12-29,2007-12-24,male,1944-01-01,,,
+Russia,member of the State Duma,"Шибалкин, Александр Степанович",Q101438725,2003-12-29,2007-12-24,male,1960-01-25,,,
+Russia,member of the State Duma,"Прощин, Сергей Александрович",Q101438765,2003-12-29,2007-12-24,male,1968-10-11,,,
+Russia,member of the State Duma,"Ельцов, Виктор Николаевич",Q101512804,2003-12-29,2007-12-24,male,1951-09-01,,,
+Russia,member of the State Duma,"Елисейкин, Станислав Агафонович",Q101520525,2003-12-29,2007-12-24,male,1946-03-04,,,
+Russia,member of the State Duma,"Лосский, Юрий Васильевич",Q101552493,2003-12-29,2007-12-24,male,1947-08-18,2004-06-15,,
+Russia,member of the State Duma,"Литвинов, Владимир Александрович",Q101565889,2003-12-29,2007-12-24,male,1938-10-28,2005-06-17,,
 Russia,member of the State Duma,Andrey Benin,Q101779049,2003-12-29,2007-12-24,male,1960-08-25,,Andrey Benin.jpg,
-Russia,member of the State Duma,,Q101910881,2003-12-29,2007-12-24,male,1967-05-09,,,
-Russia,member of the State Duma,,Q101916936,2003-12-29,2007-12-24,male,1957-02-27,,,
-Russia,member of the State Duma,,Q101957974,2003-12-29,2007-12-24,male,1968-11-07,,,
-Russia,member of the State Duma,,Q101978942,2003-12-29,2007-12-24,male,1942-10-03,,,
-Russia,member of the State Duma,,Q102037569,2003-12-29,2007-12-24,male,1959-12-02,,,
-Russia,member of the State Duma,,Q102115247,2003-12-29,2007-12-24,male,1970-03-01,,,
-Russia,member of the State Duma,,Q102155213,2003-12-29,2007-12-24,male,1953-04-23,,,
-Russia,member of the State Duma,,Q102164752,2003-12-29,2007-12-24,male,1954-08-09,,,
-Russia,member of the State Duma,,Q102178465,2003-12-29,2007-12-24,male,1948-12-31,,,
-Russia,member of the State Duma,,Q102218670,2003-12-29,2007-12-24,male,1948-01-20,,,
-Russia,member of the State Duma,,Q102268807,2003-12-29,2007-12-24,male,1961-08-02,,,
-Russia,member of the State Duma,,Q102270978,2003-12-29,2007-12-24,male,1948-09-12,,,
-Russia,member of the State Duma,,Q102356930,2003-12-29,2007-12-24,male,1956-01-08,,,
-Russia,member of the State Duma,,Q102359811,2003-12-29,2007-12-24,male,1961-08-30,,,
-Russia,member of the State Duma,,Q102361174,2003-12-29,2007-12-24,male,1967-06-14,,,
-Russia,member of the State Duma,,Q102361688,2003-12-29,2007-12-24,male,1946-08-22,,,
-Russia,member of the State Duma,,Q102392219,2003-12-29,2007-12-24,male,1964-01-22,,,
-Russia,member of the State Duma,,Q102397133,2003-12-29,2007-12-24,male,1954-08-16,,,
-Russia,member of the State Duma,,Q102425197,2003-12-29,2007-12-24,male,1948-11-30,,,
-Russia,member of the State Duma,,Q102426658,2003-12-29,2007-12-24,male,1963-07-03,2009-01-21,,
+Russia,member of the State Duma,"Харченко, Иван Николаевич",Q101910881,2003-12-29,2007-12-24,male,1967-05-09,,,
+Russia,member of the State Duma,"Хвоинский, Леонид Адамович",Q101916936,2003-12-29,2007-12-24,male,1957-02-27,,,
+Russia,member of the State Duma,"Чаплинский, Сергей Игоревич",Q101957974,2003-12-29,2007-12-24,male,1968-11-07,,,
+Russia,member of the State Duma,"Черёмушкин, Василий Павлович",Q101978942,2003-12-29,2007-12-24,male,1942-10-03,,,
+Russia,member of the State Duma,Стрельченко Сергей Георгиевич,Q102037569,2003-12-29,2007-12-24,male,1959-12-02,,,
+Russia,member of the State Duma,"Трепов, Евгений Александрович",Q102115247,2003-12-29,2007-12-24,male,1970-03-01,,,
+Russia,member of the State Duma,"Тарачев, Владимир Александрович",Q102155213,2003-12-29,2007-12-24,male,1953-04-23,,,
+Russia,member of the State Duma,"Лунцевич, Валентин Васильевич",Q102164752,2003-12-29,2007-12-24,male,1954-08-09,,,
+Russia,member of the State Duma,"Литвинов, Николай Петрович",Q102178465,2003-12-29,2007-12-24,male,1948-12-31,,,
+Russia,member of the State Duma,"Казаков, Борис Анушеванович",Q102218670,2003-12-29,2007-12-24,male,1948-01-20,,,
+Russia,member of the State Duma,"Климов, Владимир Владимирович",Q102268807,2003-12-29,2007-12-24,male,1961-08-02,,,
+Russia,member of the State Duma,Александр Александрович Сизов,Q102270978,2003-12-29,2007-12-24,male,1948-09-12,,,
+Russia,member of the State Duma,"Филиппов, Александр Николаевич (депутат)",Q102356930,2003-12-29,2007-12-24,male,1956-01-08,,,
+Russia,member of the State Duma,"Фоменко, Александр Владимирович (депутат)",Q102359811,2003-12-29,2007-12-24,male,1961-08-30,,,
+Russia,member of the State Duma,"Воронин, Павел Юрьевич",Q102361174,2003-12-29,2007-12-24,male,1967-06-14,,,
+Russia,member of the State Duma,"Кальметьев, Марс Рахматуллович",Q102361688,2003-12-29,2007-12-24,male,1946-08-22,,,
+Russia,member of the State Duma,"Воробчуков, Сергей Анатольевич",Q102392219,2003-12-29,2007-12-24,male,1964-01-22,,,
+Russia,member of the State Duma,"Васильев, Владимир Алексеевич",Q102397133,2003-12-29,2007-12-24,male,1954-08-16,,,
+Russia,member of the State Duma,"Виноградов, Борис Алексеевич",Q102425197,2003-12-29,2007-12-24,male,1948-11-30,,,
+Russia,member of the State Duma,"Васильев, Иван Афанасьевич (депутат)",Q102426658,2003-12-29,2007-12-24,male,1963-07-03,2009-01-21,,
 Russia,member of the State Duma,Yury Sentyurin,Q102428569,2003-12-29,2007-12-24,male,1960-01-16,,,
-Russia,member of the State Duma,,Q102440981,2003-12-29,2007-12-24,male,1947-08-02,,,
-Russia,member of the State Duma,,Q102441959,2003-12-29,2007-12-24,male,1950-02-04,,,
-Russia,member of the State Duma,,Q102442715,2003-12-29,2007-12-24,female,1958-10-31,,,
-Russia,member of the State Duma,,Q104409428,2003-12-29,2007-12-24,male,1966-06-25,,,
-Russia,member of the State Duma,,Q104412534,2003-12-29,2007-12-24,male,1965-07-20,,,
-Russia,member of the State Duma,,Q104413279,2003-12-29,2007-12-24,male,1947-06-17,,,
-Russia,member of the State Duma,,Q104431681,2003-12-29,2007-12-24,female,1965-07-09,,,
-Russia,member of the State Duma,,Q104432781,2003-12-29,2007-12-24,male,1953-02-17,,,
-Russia,member of the State Duma,,Q104434357,2003-12-29,2007-12-24,male,1971-09-18,,,
-Russia,member of the State Duma,,Q104434403,2003-12-29,2007-12-24,male,1947-01-21,,,
-Russia,member of the State Duma,,Q104438572,2003-12-29,2007-12-24,male,1952-09-07,,,
-Russia,member of the State Duma,,Q104438615,2003-12-29,2007-12-24,male,1946-05-26,,,
+Russia,member of the State Duma,"Галичанин, Евгений Николаевич",Q102440981,2003-12-29,2007-12-24,male,1947-08-02,,,
+Russia,member of the State Duma,"Григорьев, Сергей Михайлович",Q102441959,2003-12-29,2007-12-24,male,1950-02-04,,,
+Russia,member of the State Duma,"Савельева, Ирина Валентиновна",Q102442715,2003-12-29,2007-12-24,female,1958-10-31,,,
+Russia,member of the State Duma,"Денисов, Олег Иванович",Q104409428,2003-12-29,2007-12-24,male,1966-06-25,,,
+Russia,member of the State Duma,"Дубровский, Виктор Николаевич",Q104412534,2003-12-29,2007-12-24,male,1965-07-20,,,
+Russia,member of the State Duma,Дятленко Валерий Владимирович,Q104413279,2003-12-29,2007-12-24,male,1947-06-17,,,
+Russia,member of the State Duma,Бэлла Леонидовна Панина,Q104431681,2003-12-29,2007-12-24,female,1965-07-09,,,
+Russia,member of the State Duma,Виктор Александрович Клюс,Q104432781,2003-12-29,2007-12-24,male,1953-02-17,,,
+Russia,member of the State Duma,Анбяр Арифуллович Кармеев,Q104434357,2003-12-29,2007-12-24,male,1971-09-18,,,
+Russia,member of the State Duma,"Камшилов, Пётр Петрович",Q104434403,2003-12-29,2007-12-24,male,1947-01-21,,,
+Russia,member of the State Duma,"Семеньков, Василий Иванович",Q104438572,2003-12-29,2007-12-24,male,1952-09-07,,,
+Russia,member of the State Duma,"Ситнов, Виктор Владимирович",Q104438615,2003-12-29,2007-12-24,male,1946-05-26,,,
 Russia,member of the State Duma,Shamil' Sultanov,Q104438916,2003-12-29,2007-12-24,male,1952-05-16,2022-02-18,,Shamil Sultanov
-Russia,member of the State Duma,,Q104439060,2003-12-29,2007-12-24,male,1955-09-16,,,
-Russia,member of the State Duma,,Q104439593,2003-12-29,2007-12-24,male,1949-06-27,2011-02-19,,
-Russia,member of the State Duma,,Q104444218,2003-12-29,2007-12-24,male,1969-06-25,,,
-Russia,member of the State Duma,,Q104444489,2003-12-29,2007-12-24,male,1950-05-02,,,
+Russia,member of the State Duma,"Столяров, Олег Анатольевич",Q104439060,2003-12-29,2007-12-24,male,1955-09-16,,,
+Russia,member of the State Duma,"Старков, Анатолий Михайлович",Q104439593,2003-12-29,2007-12-24,male,1949-06-27,2011-02-19,,
+Russia,member of the State Duma,"Смоленский, Владимир Иванович",Q104444218,2003-12-29,2007-12-24,male,1969-06-25,,,
+Russia,member of the State Duma,"Семенченко, Анатолий Фёдорович",Q104444489,2003-12-29,2007-12-24,male,1950-05-02,,,
 Russia,member of the State Duma,Vladimir Ryzhkov,Q1049488,2003-12-29,2007-12-24,male,1966-09-03,,Vladimir Ryzhkov2-041211.jpg,Vladimir Ryzhkov
 Russia,member of the State Duma,Sergey Glazyev,Q1381768,2003-12-29,2007-12-24,male,1961-01-01,,"Sergey Glazyev, 2016.jpg",Sergey Glazyev
 Russia,member of the State Duma,Yuri Maslyukov,Q1396655,2003-12-29,2007-12-24,male,1937-09-30,2010-04-01,Yury Maslyukov (duma.gov.ru).jpg,Yuri Maslyukov
@@ -569,8 +574,8 @@ Russia,member of the State Duma,Aleksandr Ageyev,Q15063908,2003-12-29,2007-12-24
 Russia,member of the State Duma,Igor Morozov,Q15073631,2003-12-29,2007-12-24,male,1956-12-10,,Igor Morozov.jpg,Igor Morozov (politician)
 Russia,member of the State Duma,Nina Ostanina,Q15077198,2003-12-29,2007-12-24,female,1955-12-26,,Nina Ostanina.jpg,Nina Ostanina
 Russia,member of the State Duma,Viktor Pautov,Q15079062,2003-12-29,2007-12-24,male,1953-07-05,,Viktor Pautov.jpg,
-Russia,member of the State Duma,,Q15079517,2003-12-29,2007-12-24,male,1976-12-07,,,
-Russia,member of the State Duma,,Q15080836,2003-12-29,2007-12-24,male,1949-07-03,2012-12-16,,
+Russia,member of the State Duma,"Семёнов, Павел Владимирович",Q15079517,2003-12-29,2007-12-24,male,1976-12-07,,,
+Russia,member of the State Duma,Борис Владимирович Плохотнюк,Q15080836,2003-12-29,2007-12-24,male,1949-07-03,2012-12-16,,
 Russia,member of the State Duma,Oleg Shein,Q1517429,2003-12-29,2007-12-24,male,1972-03-21,,Shein OV.jpg,Oleg Shein
 Russia,member of the State Duma,Svetlana Smirnova,Q15699063,2003-12-29,2007-12-24,female,1962-12-04,,Svetlana Smirnova.jpg,
 Russia,member of the State Duma,Frants Klintsevich,Q15702796,2003-12-29,2007-12-24,male,1957-06-15,,"Frants Klintsevich, 2016.jpg",
@@ -601,14 +606,14 @@ Russia,member of the State Duma,Aleksandr Moskalets,Q19818038,2003-12-29,2007-12
 Russia,member of the State Duma,Dmitry Savelyev,Q19818061,2003-12-29,2007-12-24,male,1968-08-03,,Dmitry Saveliev.jpg,
 Russia,member of the State Duma,Yury Vasilyev,Q19861744,2003-12-29,2007-12-24,male,1951-05-01,,Yuriy Vasiliev.jpg,
 Russia,member of the State Duma,Nikolay Kovalyov,Q1990789,2003-12-29,2007-12-24,male,1949-08-06,2019-04-05,Nikolay Dmitrievich Kovalyov.jpg,Nikolay Kovalyov (politician)
-Russia,member of the State Duma,,Q19918363,2003-12-29,2007-12-24,male,1959-04-02,,,
+Russia,member of the State Duma,"Рубежанский, Петр Николаевич",Q19918363,2003-12-29,2007-12-24,male,1959-04-02,,,
 Russia,member of the State Duma,Vladimir Zhirinovsky,Q200015,2003-12-29,2007-12-24,male,1946-04-25,,"Vladimir Zhirinovsky (cropped, 2018-03-19).jpg",Vladimir Zhirinovsky
 Russia,member of the State Duma,Asanbuba Nyudyurbegov,Q20160757,2003-12-29,2007-12-24,male,1961-02-13,,,
 Russia,member of the State Duma,Gadzhimet Safaraliyev,Q20202264,2003-12-29,2007-12-24,male,1950-06-26,,Г.К. Сафаралиев.jpg,
 Russia,member of the State Duma,Nikolai Leonov,Q2025648,2003-12-29,2007-12-24,male,1928-08-22,,Nikolái Leonov.png,Nikolai Leonov
 Russia,member of the State Duma,Sergey Antufyev,Q2029013,2003-12-29,2007-12-24,male,1955-09-22,,"Sergey Antufyev, April 2010-2.jpeg",Sergey Antufyev
 Russia,member of the State Duma,Leonid Slutsky,Q2037108,2003-12-29,2007-12-24,male,1968-01-04,,Leonid Slutsky 2018.jpg,Leonid Slutsky (politician)
-Russia,member of the State Duma,,Q20587584,2003-12-29,2007-12-24,male,1952-07-26,,,
+Russia,member of the State Duma,Марат Мәһдиев,Q20587584,2003-12-29,2007-12-24,male,1952-07-26,,,
 Russia,member of the State Duma,Ruslan Yamadayev,Q2065147,2003-12-29,2007-12-24,male,1961-12-10,2008-09-24,Ruslan Yamadayev 2004.jpg,Ruslan Yamadayev
 Russia,member of the State Duma,Vladimir Medinsky,Q2121094,2003-12-29,2007-12-24,male,1970-07-18,,Vladimir Medinsky govru.png,Vladimir Medinsky
 Russia,member of the State Duma,Stepan Shorshorov,Q21534107,2003-12-29,2007-12-24,male,1956-01-31,2017-10-17,,
@@ -634,13 +639,13 @@ Russia,member of the State Duma,Magomed Gadzhiyev,Q28497328,2003-12-29,2007-12-2
 Russia,member of the State Duma,Gasanov Magomedkadi,Q28497346,2003-12-29,2007-12-24,male,1962-11-21,,Gasanov Magomedkadi.jpg,
 Russia,member of the State Duma,Dmitry Yeryomin,Q28498003,2003-12-29,2007-12-24,male,1969-04-09,,,
 Russia,member of the State Duma,Viktor Kolesnikov,Q28498354,2003-12-29,2007-12-24,male,1946-07-30,,Victor Kolesnikov.jpg,
-Russia,member of the State Duma,,Q28500274,2003-12-29,2007-12-24,male,1961-03-01,,,
+Russia,member of the State Duma,Валерий Викторович Панов,Q28500274,2003-12-29,2007-12-24,male,1961-03-01,,,
 Russia,member of the State Duma,Sergey Dubrovin,Q28664500,2003-12-29,2007-12-24,male,1957,,,
 Russia,member of the State Duma,Reznik Boris Lvovich,Q28799019,2003-12-29,2007-12-24,male,1940-02-12,2018-01-27,Boris Reznik.jpg,
 Russia,member of the State Duma,Vyacheslav Timchenko,Q28853840,2003-12-29,2007-12-24,male,1955-11-20,,Vyacheslav Timchenko (politician; 2018-10-23).jpg,
 Russia,member of the State Duma,Rem Khramov,Q29043638,2003-12-29,2007-12-24,male,1932-06-28,2020-02-16,Rem Khramov.jpg,
 Russia,member of the State Duma,Oleg Savchenko,Q29359467,2003-12-29,2007-12-24,male,1966-10-25,,Oleg Savchenko.jpg,
-Russia,member of the State Duma,,Q29359489,2003-12-29,2007-12-24,female,1959-04-05,,,
+Russia,member of the State Duma,Ольга Юрьевна Селивёрстова,Q29359489,2003-12-29,2007-12-24,female,1959-04-05,,,
 Russia,member of the State Duma,Viktor Lazutkin,Q29570934,2003-12-29,2007-12-24,male,1950-04-18,2017-04-22,,
 Russia,member of the State Duma,Vasily Tarasyuk,Q29883665,2003-12-29,2007-12-24,male,1948-10-10,2017-05-06,"Vasily Mikhailovich Tarasyuk (November 30, 2015).jpg",Vasily Tarasyuk
 Russia,member of the State Duma,Nikolay Kharitonov,Q2995350,2003-12-29,2007-12-24,male,1948-10-30,,Nikolay Kharitonov 5 December 2000.jpg,Nikolay Kharitonov
@@ -687,7 +692,7 @@ Russia,member of the State Duma,Viktor Vidmanov,Q4110807,2003-12-29,2007-12-24,m
 Russia,member of the State Duma,Ivan Viktorov,Q4111062,2003-12-29,2007-12-24,male,1937-01-18,2017-01-30,,
 Russia,member of the State Duma,Vladimir Katrenko,Q41201488,2003-12-29,2007-12-24,male,1956-11-11,,Катренко В.С. 2012.jpg,
 Russia,member of the State Duma,Viktor Voytenko,Q4122746,2003-12-29,2007-12-24,male,1951-04-24,,,
-Russia,member of the State Duma,Yury Volkov,Q4123361,2003-12-29,2007-12-24,male,1954-09-19,,Yuri Volkov.jpg,
+Russia,member of the State Duma,Yury Volkov,Q4123361,2003-12-29,2007-12-24,male,1954-09-19,,Yuri Volkov.jpg,Yury Volkov
 Russia,member of the State Duma,Valeriy Galchenko,Q4132910,2003-12-29,2007-12-24,male,1951-08-15,,Политик Гальченко Валерий.jpg,
 Russia,member of the State Duma,Valeriy Karlovitsj Gartoeng,Q4133962,2003-12-29,2007-12-24,male,1960-11-12,,Valery Gartung 2018-04-03 (cropped).jpg,Valery Gartung
 Russia,member of the State Duma,Nikolay Gerasimenko,Q4135981,2003-12-29,2007-12-24,male,1950-12-01,,Nikolay Gerasimenko.jpg,Nikolai Gerasimenko
@@ -795,7 +800,7 @@ Russia,member of the State Duma,Viktor Pokhmelkin,Q4375091,2003-12-29,2007-12-24
 Russia,member of the State Duma,Valery Rashkin,Q4391353,2003-12-29,2007-12-24,male,1955-03-14,,Valery Rashkin.jpg,Valery Rashkin
 Russia,member of the State Duma,Vladislav Reznik,Q4392436,2003-12-29,2007-12-24,male,1954-05-17,,Vladislav Reznik.png,Vladislav Reznik
 Russia,member of the State Duma,Sergey Reshulsky,Q4394133,2003-12-29,2007-12-24,male,1951-09-21,,Sergey Reshulskiy.png,
-Russia,member of the State Duma,,Q4395840,2003-12-29,2007-12-24,male,1938-03-12,,,
+Russia,member of the State Duma,"Родионов, Юрий Николаевич",Q4395840,2003-12-29,2007-12-24,male,1938-03-12,,,
 Russia,member of the State Duma,Yevgeny Roizman,Q4396754,2003-12-29,2007-12-24,male,1962-09-14,,Roizman Eugene.jpg,Yevgeny Roizman
 Russia,member of the State Duma,Valentin Stepanovitsj Romanov,Q4397135,2003-12-29,2007-12-24,male,1937-10-29,2018-03-28,Valentin Romanov.jpg,
 Russia,member of the State Duma,Pjotr Vasilevitsj Romanov,Q4397186,2003-12-29,2007-12-24,male,1943-07-21,,Peter Romanov.jpg,
@@ -811,7 +816,7 @@ Russia,member of the State Duma,Gennady Semigin,Q4415436,2003-12-29,2007-12-24,m
 Russia,member of the State Duma,Viktor Semyonov,Q4415788,2003-12-29,2007-12-24,male,1958-01-14,,,
 Russia,member of the State Duma,Valery Sergiyenko,Q4417092,2003-12-29,2007-12-24,male,1946-02-07,2015-09-30,,
 Russia,member of the State Duma,Aleksey Alekseevitsj Sigoetkin,Q4418694,2003-12-29,2007-12-24,male,1949-09-12,,,
-Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2003-12-29,2007-12-24,male,1949-07-19,,Leonid Simanovsky 2018.jpg,
+Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2003-12-29,2007-12-24,male,1949-07-19,,Leonid Simanovsky 2018.jpg,Leonid Simanovsky
 Russia,member of the State Duma,Aleksandr Skorobogatko,Q4422296,2003-12-29,2007-12-24,male,1967-09-25,,Alexander Skorobogatko.jpg,Aleksandr Skorobogatko
 Russia,member of the State Duma,Andrei Skoch,Q4422468,2003-12-29,2007-12-24,male,1966-01-30,,Andrey Skoch.jpg,Andrei Skoch
 Russia,member of the State Duma,Oleg Smolin,Q4425021,2003-12-29,2007-12-24,male,1952-02-10,,"Смолин, Олег Николаевич.png",Oleg Smolin
@@ -836,7 +841,7 @@ Russia,member of the State Duma,Aleksandr Chukhrayov,Q4518365,2003-12-29,2007-12
 Russia,member of the State Duma,Damir Shadaev,Q4519335,2003-12-29,2007-12-24,male,1967-11-03,,,Damir Shadaev
 Russia,member of the State Duma,Rifat Shaykhutdinov,Q4519529,2003-12-29,2007-12-24,male,1963-12-23,,Рифат Шайхутдинов.jpg,Rifat Shaykhutdinov
 Russia,member of the State Duma,Martin Shakkum,Q4519585,2003-12-29,2007-12-24,male,1951-09-21,,Martin Shakkum 2018-02-12 (cropped).jpg,Martin Shakkum
-Russia,member of the State Duma,,Q4521783,2003-12-29,2007-12-24,female,1943-04-17,,,
+Russia,member of the State Duma,"Швец, Любовь Никитична",Q4521783,2003-12-29,2007-12-24,female,1943-04-17,,,
 Russia,member of the State Duma,Andrey Shevelyov,Q4521940,2003-12-29,2007-12-24,male,1970-05-24,,"Andrey Shevelyov, December 2011.jpeg",
 Russia,member of the State Duma,Georgy Shevtsov,Q4522018,2003-12-29,2007-12-24,male,1948-10-28,,ShevtsovGE.jpg,
 Russia,member of the State Duma,Petr Shelisch,Q4522642,2003-12-29,2007-12-24,male,1945-12-09,,,
@@ -852,7 +857,7 @@ Russia,member of the State Duma,Alexey Chernyshov,Q4721311,2003-12-29,2007-12-24
 Russia,member of the State Duma,Nadezda Maksimova,Q47284136,2003-12-29,2007-12-24,female,1942-01-13,,Надежда Сергеевна Максимова.jpg,
 Russia,member of the State Duma,Andrey Bronitsyn,Q4759151,2003-12-29,2007-12-24,male,1972-12-20,,,Andrey Bronitsyn
 Russia,member of the State Duma,Andrey Golovatiuk,Q4759173,2003-12-29,2007-12-24,male,1968-12-17,,,Andrey Golovatyuk
-Russia,member of the State Duma,,Q49240119,2003-12-29,2007-12-24,male,1950-09-04,,Saifullin Franis Askaryanovich.jpg,
+Russia,member of the State Duma,Сәйфуллин Франис Әсҡәрйән улы,Q49240119,2003-12-29,2007-12-24,male,1950-09-04,,Saifullin Franis Askaryanovich.jpg,
 Russia,member of the State Duma,Andrey Vorobyov,Q502185,2003-12-29,2007-12-24,male,1970-04-14,,Губернатор Московской области Андрей Воробьёв 2.jpg,Andrey Vorobyov
 Russia,member of the State Duma,Igor Lebedev,Q520016,2003-12-29,2007-12-24,male,1972-09-27,,Igor V. Lebedev (2019-07-11).jpg,Igor Lebedev (politician)
 Russia,member of the State Duma,Dimitri Gusakov,Q5277489,2003-12-29,2007-12-24,male,1971-02-15,2014-01-15,,Dimitri Gusakov
@@ -861,23 +866,23 @@ Russia,member of the State Duma,Katalnikov Vladimir,Q54854633,2003-12-29,2007-12
 Russia,member of the State Duma,Raisa Karmazina,Q55105949,2003-12-29,2007-12-24,female,1951-01-09,,Кармазина Р.В.jpg,Raisa Karmazina
 Russia,member of the State Duma,Igor Chernyshenko,Q55106915,2003-12-29,2007-12-24,male,1945-08-25,,Igor Chernyshenko.jpg,
 Russia,member of the State Duma,Gennady Gudkov,Q555125,2003-12-29,2007-12-24,male,1956-08-15,,"March of Peace (2014-03-15, Moscow), Gennady Gudkov.JPG",Gennady Gudkov
-Russia,member of the State Duma,,Q56314778,2003-12-29,2007-12-24,female,1962-10-21,,,
+Russia,member of the State Duma,"Давлетова, Камиля Жаудатовна",Q56314778,2003-12-29,2007-12-24,female,1962-10-21,,,
 Russia,member of the State Duma,Alexander Zhukov,Q57735,2003-12-29,2007-12-24,male,1956-06-01,,Alexander Zhukov 2018-07-12.jpg,Alexander Zhukov
 Russia,member of the State Duma,Mikhail Rokitsky,Q59446722,2003-12-29,2007-12-24,male,1931-09-28,2018-11-26,,
 Russia,member of the State Duma,Arsen Kanokov,Q594635,2003-12-29,2007-12-24,male,1957-02-22,,Arsen Kanokov.jpg,Arsen Kanokov
 Russia,member of the State Duma,Ilya Yelizarov,Q6001552,2003-12-29,2007-12-24,male,1963-01-27,,Илья Елизарович Елизаров.jpg,Ilya Yelizarov
 Russia,member of the State Duma,Viktor Kazakov,Q60346025,2003-12-29,2007-12-24,male,1949-04-04,,Казаков Виктор Алексеевич.jpg,Viktor Kazakov (politician)
-Russia,member of the State Duma,,Q60826754,2003-12-29,2007-12-24,male,1948-10-17,,,
-Russia,member of the State Duma,,Q60837227,2003-12-29,2007-12-24,male,1946-06-05,,,
+Russia,member of the State Duma,"Харитонов, Александр Николаевич",Q60826754,2003-12-29,2007-12-24,male,1948-10-17,,,
+Russia,member of the State Duma,"Трофимов, Евгений Николаевич",Q60837227,2003-12-29,2007-12-24,male,1946-06-05,,,
 Russia,member of the State Duma,Ivan Musatov,Q6097047,2003-12-29,2007-12-24,male,1976-02-14,,Ivan Musatov.jpg,Ivan Musatov
 Russia,member of the State Duma,Sergey Ivanov,Q61914148,2003-12-29,2007-12-24,male,1969-10-26,,С.В. Иванов политик.jpg,"Sergey Ivanov (politician, born 1969)"
-Russia,member of the State Duma,,Q62712759,2003-12-29,2007-12-24,male,1953-07-09,,,
+Russia,member of the State Duma,"Бабошкин, Анатолий Васильевич",Q62712759,2003-12-29,2007-12-24,male,1953-07-09,,,
 Russia,member of the State Duma,Anatoliy Kozeradsky,Q63289885,2003-12-29,2007-12-24,male,1948-03-03,,Козерадский Анатолий Александрович.jpg,
 Russia,member of the State Duma,Evgeniy Bogomolniy,Q65031844,2003-12-29,2007-12-24,male,1952-12-29,2019-04-14,Evgeniy Bogomolniy.jpg,
 Russia,member of the State Duma,Mukhametzakirov Anvar,Q65146781,2003-12-29,2007-12-24,male,1948-10-26,,Mukhametzakirov Anvar.jpg,
-Russia,member of the State Duma,,Q65149942,2003-12-29,2007-12-24,male,1958-11-04,,,
+Russia,member of the State Duma,"Пекарев, Владимир Янович",Q65149942,2003-12-29,2007-12-24,male,1958-11-04,,,
 Russia,member of the State Duma,Alexey Ogonkov,Q65153172,2003-12-29,2007-12-24,male,1963-03-21,,,
-Russia,member of the State Duma,,Q65158252,2003-12-29,2007-12-24,male,1951-04-28,,,
+Russia,member of the State Duma,"Куваев, Александр Александрович",Q65158252,2003-12-29,2007-12-24,male,1951-04-28,,,
 Russia,member of the State Duma,Valery Vostrotin,Q661432,2003-12-29,2007-12-24,male,1952-11-20,,Vostrotin V.A.JPG,
 Russia,member of the State Duma,Lyubov Blizhina,Q6710481,2003-12-29,2007-12-24,female,1947-06-11,,,Lyubov Blizhina
 Russia,member of the State Duma,Vera Oskina,Q70250935,2003-12-29,2007-12-24,female,1955-03-23,,,
@@ -895,121 +900,121 @@ Russia,member of the State Duma,Irina Panchenko,Q88572620,2003-12-29,2007-12-24,
 Russia,member of the State Duma,OӀga Borzova,Q8990421,2003-12-29,2007-12-24,female,1949-01-01,,Olga Borzova.jpg,
 Russia,member of the State Duma,Ildar Gabdrakhmanov,Q91113059,2003-12-29,2007-12-24,male,1974-11-04,,First Vice-Governor of the Moscow Region Ildar Gabdrakhmanov at a meeting with an entrepreneur.jpg,
 Russia,member of the State Duma,Valeriy Kravchenko,Q91164185,2003-12-29,2007-12-24,male,1947-01-01,,Valeriy Kravchenko.jpg,
-Russia,member of the State Duma,,Q91966365,2003-12-29,2007-12-24,female,1958,,,
-Russia,member of the State Duma,,Q91967919,2003-12-29,2007-12-24,female,1948-09-21,,,
+Russia,member of the State Duma,"Пирожникова, Людмила Владимировна",Q91966365,2003-12-29,2007-12-24,female,1958,,,
+Russia,member of the State Duma,"Савостьянова, Валентина Борисовна",Q91967919,2003-12-29,2007-12-24,female,1948-09-21,,,
 Russia,member of the State Duma,Tamara Fraltzova,Q91968267,2003-12-29,2007-12-24,female,1957-04-02,,Фральцова Тамара Анатольевна.jpg,
 Russia,member of the State Duma,Galina Doroshenko,Q92111917,2003-12-29,2007-12-24,female,1947,2020-10-03,Дорошенко Галина Степановна.jpg,
 Russia,member of the State Duma,Aleksandr Klukin,Q93511108,2003-12-29,2007-12-24,male,1957-07-05,,Aleksandr Klukin.jpg,
 Russia,member of the State Duma,Vladimir Churov,Q940665,2003-12-29,2007-12-24,male,1953-03-17,,2019 Vladimir Churov.jpg,Vladimir Churov
-Russia,member of the State Duma,,Q94716701,2003-12-29,2007-12-24,female,1960-12-27,,Мухина Е.Ю. (2003).jpg,
+Russia,member of the State Duma,"Мухина, Елена Юрьевна",Q94716701,2003-12-29,2007-12-24,female,1960-12-27,,Мухина Е.Ю. (2003).jpg,
 Russia,member of the State Duma,Nikolay Sukhoy,Q96739536,2003-12-29,2007-12-24,male,1941-03-05,,"Сухой, Николай Авксентьевич, депутат ГД.jpg",
-Russia,member of the State Duma,,Q96945068,2003-12-29,2007-12-24,male,1951-05-11,,,
-Russia,member of the State Duma,,Q97667051,2003-12-29,2007-12-24,male,1972-07-13,,,
-Russia,member of the State Duma,,Q97772588,2003-12-29,2007-12-24,male,1950-08-19,,,
-Russia,member of the State Duma,,Q98090206,2003-12-29,2007-12-24,male,1948-02-07,,,
+Russia,member of the State Duma,"Никитин, Владимир Петрович",Q96945068,2003-12-29,2007-12-24,male,1951-05-11,,,
+Russia,member of the State Duma,"Гузанов, Алексей Анатольевич",Q97667051,2003-12-29,2007-12-24,male,1972-07-13,,,
+Russia,member of the State Duma,"Мащенко, Олег Иванович",Q97772588,2003-12-29,2007-12-24,male,1950-08-19,,,
+Russia,member of the State Duma,"Эренбург, Владимир Александрович",Q98090206,2003-12-29,2007-12-24,male,1948-02-07,,,
 Russia,member of the State Duma,Vyacheslav Volodin,Q982461,2003-12-29,2007-12-24,male,1964-02-04,,Володин В.В.jpg,Vyacheslav Volodin
-Russia,member of the State Duma,,Q98923511,2003-12-29,2007-12-24,male,1945-01-29,,,
-Russia,member of the State Duma,,Q99210054,2003-12-29,2007-12-24,female,1964-07-12,,,
-Russia,member of the State Duma,,Q99337563,2003-12-29,2007-12-24,male,1962-01-25,,Salikhov Albert Ildusovich.jpg,
-Russia,member of the State Duma,,Q99337571,2003-12-29,2007-12-24,male,1944-09-01,,Kozlovsky Alexander Alexandrovich.jpg,
+Russia,member of the State Duma,"Волков, Алексей Николаевич",Q98923511,2003-12-29,2007-12-24,male,1945-01-29,,,
+Russia,member of the State Duma,"Лебедева, Марина Яковлевна",Q99210054,2003-12-29,2007-12-24,female,1964-07-12,,,
+Russia,member of the State Duma,"Салихов, Альберт Ильдусович",Q99337563,2003-12-29,2007-12-24,male,1962-01-25,,Salikhov Albert Ildusovich.jpg,
+Russia,member of the State Duma,"Козловский, Александр Александрович",Q99337571,2003-12-29,2007-12-24,male,1944-09-01,,Kozlovsky Alexander Alexandrovich.jpg,
 Russia,member of the State Duma,Alexey Likhachev,Q9956195,2003-12-29,2007-12-24,male,1962-12-23,,Alexey Likhachev.jpg,
-Russia,member of the State Duma,,Q99702117,2003-12-29,2007-12-24,male,1948-10-10,,,
-Russia,member of the State Duma,,Q99710437,2003-12-29,2007-12-24,male,1947-11-09,,,
-Russia,member of the State Duma,,Q99711338,2003-12-29,2007-12-24,male,1962-04-06,2012-12-28,,
-Russia,member of the State Duma,,Q99883988,2003-12-29,2007-12-24,female,1947-03-28,,Gainullina Farida Ismagilovna.jpg,
+Russia,member of the State Duma,"Жуков, Андрей Дмитриевич",Q99702117,2003-12-29,2007-12-24,male,1948-10-10,,,
+Russia,member of the State Duma,"Розуван, Алексей Михайлович",Q99710437,2003-12-29,2007-12-24,male,1947-11-09,,,
+Russia,member of the State Duma,Сергей Владимирович Житинкин,Q99711338,2003-12-29,2007-12-24,male,1962-04-06,2012-12-28,,
+Russia,member of the State Duma,"Гайнуллина, Фарида Исмагиловна",Q99883988,2003-12-29,2007-12-24,female,1947-03-28,,Gainullina Farida Ismagilovna.jpg,
 Russia,member of the State Duma,Lubomir Tyan,Q99883995,2003-12-29,2007-12-24,male,1959-05-25,,Tyan Lubomir Indekovich.jpg,
 Russia,member of the State Duma,Yuri Barzykin,Q99944286,2003-12-29,2007-12-24,male,1955-12-04,,Barzykin Yuri Alexandrovich.jpg,
-Russia,member of the State Duma,,Q101276486,2004-03-23,2007-12-24,male,1965-06-21,,,
+Russia,member of the State Duma,"Зяблицев, Евгений Геннадьевич",Q101276486,2004-03-23,2007-12-24,male,1965-06-21,,,
 Russia,member of the State Duma,Aleksandr Vladimirovich Morozov,Q102335729,2004-03-23,2007-12-24,male,1965-02-24,,,
-Russia,member of the State Duma,,Q101861422,2004-04-26,2007-12-24,male,1957-07-16,,,
+Russia,member of the State Duma,"Бадалов, Рубен Михайлович",Q101861422,2004-04-26,2007-12-24,male,1957-07-16,,,
 Russia,member of the State Duma,Mikhail Markelov,Q4281893,2004-07-23,2007-12-24,male,1966-12-05,,Mihail Markelov 01.jpg,
-Russia,member of the State Duma,,Q98413347,2004-10-29,2007-12-24,male,1945-04-22,,,
+Russia,member of the State Duma,"Блохин, Евгений Евгеньевич",Q98413347,2004-10-29,2007-12-24,male,1945-04-22,,,
 Russia,member of the State Duma,Yury Kogan,Q4226014,2004-12-10,2007-12-24,male,1950-11-20,,,
 Russia,member of the State Duma,Fyodor Shvalev,Q19818039,2004-12-24,2007-12-24,male,1949-12-21,,Fedor Shvalev.jpg,
 Russia,member of the State Duma,Vadim Varshavsky,Q4104081,2005,2011,male,1961-04-30,,Варшавский В.Е.jpg,
 Russia,member of the State Duma,Edoeard Sjaychoellovitsj Hamitov,Q4495285,2005-03-15,2007-12-24,male,1937-09-22,,,
 Russia,member of the State Duma,Konstantin Shipunov,Q100740600,2005-04-07,2007-12-24,male,1961-11-26,,,
-Russia,member of the State Duma,,Q101583205,2005-04-07,2007-12-24,male,1948-04-08,,,
-Russia,member of the State Duma,,Q102258889,2005-04-07,2007-12-24,male,1944-10-03,,,
-Russia,member of the State Duma,,Q97697342,2005-10-07,2007-12-24,male,1972-08-09,,,
+Russia,member of the State Duma,"Волковский, Василий Иванович",Q101583205,2005-04-07,2007-12-24,male,1948-04-08,,,
+Russia,member of the State Duma,"Каретников, Владимир Владимирович",Q102258889,2005-04-07,2007-12-24,male,1944-10-03,,,
+Russia,member of the State Duma,"Тепляков, Евгений Нодариевич",Q97697342,2005-10-07,2007-12-24,male,1972-08-09,,,
 Russia,member of the State Duma,Sergey Shavrin,Q4519238,2005-12-09,2007-12-24,male,1965-11-05,,"Sergey Shavrin, July 2011.jpeg",
 Russia,member of the State Duma,Oleg Yeremeyev,Q4176247,2005-12-29,2007-12-24,male,1963-09-24,,Oleg Eremeev.jpg,
-Russia,member of the State Duma,,Q102035733,2006-02-28,2007-12-24,male,1950-06-01,,,
-Russia,member of the State Duma,,Q102435754,2006-03-17,2007-12-24,male,1952-10-23,,,
+Russia,member of the State Duma,"Тетерин, Василий Николаевич",Q102035733,2006-02-28,2007-12-24,male,1950-06-01,,,
+Russia,member of the State Duma,"Говоров, Леонид Владимирович",Q102435754,2006-03-17,2007-12-24,male,1952-10-23,,,
 Russia,member of the State Duma,Viktor Malashenko,Q91094200,2006-03-17,2007-12-24,male,1955-01-19,,Viktor Malashenko.jpg,
-Russia,member of the State Duma,,Q102220567,2006-03-27,2007-12-24,female,1952-01-27,,,
-Russia,member of the State Duma,,Q102288025,2006-04-25,2007-12-24,male,1965-11-19,,,
+Russia,member of the State Duma,"Мальцева, Людмила Давыдовна",Q102220567,2006-03-27,2007-12-24,female,1952-01-27,,,
+Russia,member of the State Duma,"Мартынов, Борис Алексеевич",Q102288025,2006-04-25,2007-12-24,male,1965-11-19,,,
 Russia,member of the State Duma,Oleg Kulikov,Q4246222,2006-06-16,2007-12-24,male,1946-01-28,,Oleg Kulikov.jpg,
 Russia,member of the State Duma,Vladimir Semago,Q4415041,2006-06-16,2007-12-24,male,1947-04-27,,Vladimir Semago 2013.jpg,Vladimir Semago
-Russia,member of the State Duma,,Q99669939,2006-09-19,2007-12-24,male,1962-09-05,,,
+Russia,member of the State Duma,"Сивиркин, Дмитрий Вадимович",Q99669939,2006-09-19,2007-12-24,male,1962-09-05,,,
 Russia,member of the State Duma,Valery Maleyev,Q4277608,2006-10-16,2007-12-24,male,1964-05-28,,Valery Maleev.jpg,
-Russia,member of the State Duma,,Q92111906,2006-10-16,2007-12-24,female,1953-03-26,,,
-Russia,member of the State Duma,,Q101097637,2007,2011,male,1949-01-01,,,
+Russia,member of the State Duma,"Иванова, Светлана Васильевна",Q92111906,2006-10-16,2007-12-24,female,1953-03-26,,,
+Russia,member of the State Duma,Вячеслав Анатольевич Дубровин,Q101097637,2007,2011,male,1949-01-01,,,
 Russia,member of the State Duma,Alina Kabayeva,Q254220,2007,2014-09-15,female,1983-05-12,,KabaevaOrdercropped.jpg,Alina Kabaeva
 Russia,member of the State Duma,Andrey Nazarov,Q4312139,2007,2011,male,1970-04-28,,Снимок199173.jpg,
 Russia,member of the State Duma,Kira Lukyanova,Q46461187,2007,2011,female,1962-11-23,,,
-Russia,member of the State Duma,,Q97676427,2007-04-06,2007-12-24,male,1969-12-25,,,
-Russia,member of the State Duma,,Q99670836,2007-04-06,2007-12-24,male,1954-07-08,,,
-Russia,member of the State Duma,,Q101429826,2007-05-31,2007-12-24,male,1955-10-21,,,
+Russia,member of the State Duma,"Полуханов, Андрей Анатольевич",Q97676427,2007-04-06,2007-12-24,male,1969-12-25,,,
+Russia,member of the State Duma,"Быков, Владимир Иванович (депутат)",Q99670836,2007-04-06,2007-12-24,male,1954-07-08,,,
+Russia,member of the State Duma,"Зубалев, Владимир Степанович",Q101429826,2007-05-31,2007-12-24,male,1955-10-21,,,
 Russia,member of the State Duma,Sergey Smetanyuk,Q4424463,2007-12-02,2010-01,male,1962-06-08,,,Sergey Smetanyuk
-Russia,member of the State Duma,,Q100154426,2007-12-24,2011-12-21,male,1947-12-11,,Виктор Васильевич Усачёв.jpg,
-Russia,member of the State Duma,,Q100230434,2007-12-24,2011-12-21,male,1957-05-11,,,
-Russia,member of the State Duma,,Q100251727,2007-12-24,2011-12-21,female,1972-03-16,,,
+Russia,member of the State Duma,"Усачев, Виктор Васильевич",Q100154426,2007-12-24,2011-12-21,male,1947-12-11,,Виктор Васильевич Усачёв.jpg,
+Russia,member of the State Duma,"Кнорр, Андрей Филиппович",Q100230434,2007-12-24,2011-12-21,male,1957-05-11,,,
+Russia,member of the State Duma,Елена Николаевна Лапшина,Q100251727,2007-12-24,2011-12-21,female,1972-03-16,,,
 Russia,member of the State Duma,Rafael Gimalov,Q100254920,2007-12-24,2011-12-21,male,1950-08-09,,Gimalov Rafael Imamovich.jpg,
-Russia,member of the State Duma,,Q100279095,2007-12-24,2011-12-21,male,1947-04-05,,Drusinov Valentin Dmitrievich.jpg,
-Russia,member of the State Duma,,Q100558392,2007-12-24,2011-12-21,male,1942-07-23,,,
-Russia,member of the State Duma,,Q100578080,2007-12-24,2011-12-21,male,1958-08-11,,,
-Russia,member of the State Duma,,Q100602209,2007-12-24,2011-12-21,male,1976-03-14,,,
-Russia,member of the State Duma,,Q100724587,2007-12-24,2011-12-21,male,1964-11-12,,,
-Russia,member of the State Duma,,Q100729371,2007-12-24,2011-12-21,male,1957-09-27,,,
-Russia,member of the State Duma,,Q100731158,2007-12-24,2011-12-21,male,1949-07-23,,,
+Russia,member of the State Duma,"Друсинов, Валентин Дмитриевич",Q100279095,2007-12-24,2011-12-21,male,1947-04-05,,Drusinov Valentin Dmitrievich.jpg,
+Russia,member of the State Duma,"Зиновьев, Василий Васильевич (политик)",Q100558392,2007-12-24,2011-12-21,male,1942-07-23,,,
+Russia,member of the State Duma,"Гребёнкин, Олег Анатольевич",Q100578080,2007-12-24,2011-12-21,male,1958-08-11,,,
+Russia,member of the State Duma,"Берхеев, Ильдар Мансурович",Q100602209,2007-12-24,2011-12-21,male,1976-03-14,,,
+Russia,member of the State Duma,"Медведев, Евгений Николаевич",Q100724587,2007-12-24,2011-12-21,male,1964-11-12,,,
+Russia,member of the State Duma,"Шиманов, Александр Алексеевич",Q100729371,2007-12-24,2011-12-21,male,1957-09-27,,,
+Russia,member of the State Duma,"Кауфман, Юрий Алексеевич",Q100731158,2007-12-24,2011-12-21,male,1949-07-23,,,
 Russia,member of the State Duma,Konstantin Shipunov,Q100740600,2007-12-24,2011-12-21,male,1961-11-26,,,
-Russia,member of the State Duma,,Q100753328,2007-12-24,2011-12-21,male,1953-01-05,,,
-Russia,member of the State Duma,,Q100770488,2007-12-24,2011-12-21,male,1955-07-01,,,
-Russia,member of the State Duma,,Q100844510,2007-12-24,2011-12-21,male,1967-11-24,,,
+Russia,member of the State Duma,"Губкин, Анатолий Алексеевич",Q100753328,2007-12-24,2011-12-21,male,1953-01-05,,,
+Russia,member of the State Duma,"Денисов, Валентин Петрович",Q100770488,2007-12-24,2011-12-21,male,1955-07-01,,,
+Russia,member of the State Duma,"Копылов, Василий Васильевич",Q100844510,2007-12-24,2011-12-21,male,1967-11-24,,,
 Russia,member of the State Duma,Andrey Chirkin,Q100869490,2007-12-24,2011-12-21,male,1961-03-15,,,
-Russia,member of the State Duma,,Q100873283,2007-12-24,2011-12-21,male,1951-04-14,,,
-Russia,member of the State Duma,,Q100874366,2007-12-24,2011-12-21,male,1959-12-28,,,
-Russia,member of the State Duma,,Q100924084,2007-12-24,2011-12-21,male,1940-05-31,,,
-Russia,member of the State Duma,,Q100924899,2007-12-24,2011-12-21,male,1946-01-24,,,
-Russia,member of the State Duma,,Q100942701,2007-12-24,2011-12-21,male,1955-07-24,,,
-Russia,member of the State Duma,,Q100950602,2007-12-24,2011-12-21,male,1962-05-01,,,
-Russia,member of the State Duma,,Q100952305,2007-12-24,2011-12-21,male,1955-04-12,,,
-Russia,member of the State Duma,,Q100954260,2007-12-24,2011-12-21,male,1955-10-04,,,
-Russia,member of the State Duma,,Q100956219,2007-12-24,2011-12-21,male,1952-07-02,,,
-Russia,member of the State Duma,,Q100965085,2007-12-24,2011-12-21,male,1968-01-10,,,
-Russia,member of the State Duma,,Q100983715,2007-12-24,2011-12-21,male,1958-04-20,,,
-Russia,member of the State Duma,,Q100983933,2007-12-24,2011-12-21,male,1945-05-22,2018-07-05,,
-Russia,member of the State Duma,,Q100988119,2007-12-24,2011-12-21,male,1948-04-13,,,
-Russia,member of the State Duma,,Q100988157,2007-12-24,2011-12-21,male,1947-08-22,2015-05-27,,
-Russia,member of the State Duma,,Q101001998,2007-12-24,2011-12-21,male,1970-05-14,,Евгений Туголуков.jpg,
+Russia,member of the State Duma,"Леонтьев, Георгий Карпеевич",Q100873283,2007-12-24,2011-12-21,male,1951-04-14,,,
+Russia,member of the State Duma,"Сабадаш, Алексей Владиславович",Q100874366,2007-12-24,2011-12-21,male,1959-12-28,,,
+Russia,member of the State Duma,"Тягунов, Александр Александрович",Q100924084,2007-12-24,2011-12-21,male,1940-05-31,,,
+Russia,member of the State Duma,"Захарьящев, Василий Иванович",Q100924899,2007-12-24,2011-12-21,male,1946-01-24,,,
+Russia,member of the State Duma,"Гималетдинов, Ильдар Мансурович",Q100942701,2007-12-24,2011-12-21,male,1955-07-24,,,
+Russia,member of the State Duma,"Исаев, Эрнст Фаритович",Q100950602,2007-12-24,2011-12-21,male,1962-05-01,,,
+Russia,member of the State Duma,"Озеров, Сергей Павлович",Q100952305,2007-12-24,2011-12-21,male,1955-04-12,,,
+Russia,member of the State Duma,"Марков, Владимир Константинович",Q100954260,2007-12-24,2011-12-21,male,1955-10-04,,,
+Russia,member of the State Duma,"Морозов, Андрей Андреевич",Q100956219,2007-12-24,2011-12-21,male,1952-07-02,,,
+Russia,member of the State Duma,"Заварницин, Алексей Юрьевич",Q100965085,2007-12-24,2011-12-21,male,1968-01-10,,,
+Russia,member of the State Duma,"Овсянников, Сергей Александрович",Q100983715,2007-12-24,2011-12-21,male,1958-04-20,,,
+Russia,member of the State Duma,"Рыжак, Николай Викторович",Q100983933,2007-12-24,2011-12-21,male,1945-05-22,2018-07-05,,
+Russia,member of the State Duma,"Егоров, Сергей Николаевич",Q100988119,2007-12-24,2011-12-21,male,1948-04-13,,,
+Russia,member of the State Duma,"Зеленский, Юрий Борисович",Q100988157,2007-12-24,2011-12-21,male,1947-08-22,2015-05-27,,
+Russia,member of the State Duma,"Туголуков, Евгений Александрович",Q101001998,2007-12-24,2011-12-21,male,1970-05-14,,Евгений Туголуков.jpg,
 Russia,member of the State Duma,Valentin Chernyavsky,Q101003401,2007-12-24,2011-12-21,male,1951-07-03,,,
-Russia,member of the State Duma,,Q101011975,2007-12-24,2011-12-21,male,1956-04-16,,,
+Russia,member of the State Duma,"Дедов, Виктор Михайлович",Q101011975,2007-12-24,2011-12-21,male,1956-04-16,,,
 Russia,member of the State Duma,Valery Prozorovsky,Q101019146,2007-12-24,2011-12-21,male,1953-04-24,,,
-Russia,member of the State Duma,,Q101051905,2007-12-24,2011-12-21,male,1946-02-28,,,
-Russia,member of the State Duma,,Q101072298,2007-12-24,2011-12-21,male,1954-09-18,,,
-Russia,member of the State Duma,,Q101072434,2007-12-24,2011-12-21,male,1960-03-10,,,
-Russia,member of the State Duma,,Q101077271,2007-12-24,2011-12-21,male,1972-06-09,,,
-Russia,member of the State Duma,,Q101079098,2007-12-24,2011-12-21,male,1964-03-06,,,
-Russia,member of the State Duma,,Q101086416,2007-12-24,2011-12-21,male,1947-02-13,,,
+Russia,member of the State Duma,"Корендясев, Анатолий Александрович",Q101051905,2007-12-24,2011-12-21,male,1946-02-28,,,
+Russia,member of the State Duma,"Клименко, Владимир Витальевич",Q101072298,2007-12-24,2011-12-21,male,1954-09-18,,,
+Russia,member of the State Duma,"Казарин, Виктор Николаевич",Q101072434,2007-12-24,2011-12-21,male,1960-03-10,,,
+Russia,member of the State Duma,"Кондратов, Руслан Викторович",Q101077271,2007-12-24,2011-12-21,male,1972-06-09,,,
+Russia,member of the State Duma,"Корнилов, Валерий Александрович",Q101079098,2007-12-24,2011-12-21,male,1964-03-06,,,
+Russia,member of the State Duma,"Кузнецов, Василий Федотович",Q101086416,2007-12-24,2011-12-21,male,1947-02-13,,,
 Russia,member of the State Duma,Valeriy Malchikhin,Q101093510,2007-12-24,2011-12-21,male,1946-08-31,,Мальчихин Валерий Андреевич.JPG,
-Russia,member of the State Duma,,Q101094857,2007-12-24,2011-12-21,male,1949-08-25,,,
-Russia,member of the State Duma,,Q101097096,2007-12-24,2011-12-21,male,1963-02-14,,,
+Russia,member of the State Duma,"Медведев, Юрий Германович",Q101094857,2007-12-24,2011-12-21,male,1949-08-25,,,
+Russia,member of the State Duma,"Муслимов, Ильяз Булатович",Q101097096,2007-12-24,2011-12-21,male,1963-02-14,,,
 Russia,member of the State Duma,Viktor Nefyodov,Q101097189,2007-12-24,2011-12-21,male,1959-05-02,,,
-Russia,member of the State Duma,,Q101110466,2007-12-24,2011-12-21,male,1968-01-14,,,
-Russia,member of the State Duma,,Q101110622,2007-12-24,2011-12-21,male,1946-09-03,,,
-Russia,member of the State Duma,,Q101111685,2007-12-24,2011-12-21,male,1958-09-12,,,
-Russia,member of the State Duma,,Q101111796,2007-12-24,2011-12-21,male,1957-10-09,,,
+Russia,member of the State Duma,"Исаков, Игорь Анатольевич",Q101110466,2007-12-24,2011-12-21,male,1968-01-14,,,
+Russia,member of the State Duma,"Никонов, Борис Иванович",Q101110622,2007-12-24,2011-12-21,male,1946-09-03,,,
+Russia,member of the State Duma,"Плахотников, Алексей Михайлович",Q101111685,2007-12-24,2011-12-21,male,1958-09-12,,,
+Russia,member of the State Duma,"Стародубец, Анатолий Сергеевич",Q101111796,2007-12-24,2011-12-21,male,1957-10-09,,,
 Russia,member of the State Duma,Yury Sverdlov,Q101112173,2007-12-24,2011-12-21,male,1972-05-06,,,
-Russia,member of the State Duma,,Q101112279,2007-12-24,2011-12-21,male,1952-06-23,,,
-Russia,member of the State Duma,,Q101112419,2007-12-24,2011-12-21,male,1972-08-01,,,
-Russia,member of the State Duma,,Q101112661,2007-12-24,2011-12-21,male,1947-05-09,,,
+Russia,member of the State Duma,"Иткулов, Салават Гильмишарифович",Q101112279,2007-12-24,2011-12-21,male,1952-06-23,,,
+Russia,member of the State Duma,"Матханов, Владимир Эдуардович",Q101112419,2007-12-24,2011-12-21,male,1972-08-01,,,
+Russia,member of the State Duma,"Попов, Александр Васильевич (политик)",Q101112661,2007-12-24,2011-12-21,male,1947-05-09,,,
 Russia,member of the State Duma,Yuri Maslyukov,Q1396655,2007-12-24,2011-12-21,male,1937-09-30,2010-04-01,Yury Maslyukov (duma.gov.ru).jpg,Yuri Maslyukov
 Russia,member of the State Duma,Mikhail Musatov,Q14920892,2007-12-24,2011-12-21,male,1950-08-23,,Mikhail Musatov.jpg,Mikhail Musatov
 Russia,member of the State Duma,Vladimir Golovnyov,Q15065439,2007-12-24,2011-12-21,male,1970-01-25,,,
 Russia,member of the State Duma,Gennady Dyudyayev,Q15066193,2007-12-24,2011-12-21,male,1947-07-16,2009-11-19,Gennady Dyudyaev.jpg,
 Russia,member of the State Duma,Grigory Ivliev,Q15067342,2007-12-24,2011-12-21,male,1957-09-27,,Grigory Ivliev (Rospatent).png,
-Russia,member of the State Duma,,Q15067357,2007-12-24,2011-12-21,female,1967-01-22,,,
+Russia,member of the State Duma,"Игнатова, Марина Валерьевна",Q15067357,2007-12-24,2011-12-21,female,1967-01-22,,,
 Russia,member of the State Duma,Yury Isayev,Q15067589,2007-12-24,2011-12-21,male,1972-01-01,,Yuriy Isaev.jpg,
 Russia,member of the State Duma,Ramil Iskuzhin,Q15067681,2007-12-24,2011-12-21,male,1958-03-05,,Ramil Iskuzhin.jpg,
 Russia,member of the State Duma,Oleg Miheev,Q15072844,2007-12-24,2011-12-21,male,1967-11-01,,Oleg Miheev 01.jpg,
@@ -1017,7 +1022,7 @@ Russia,member of the State Duma,Adnan Muzykayev,Q15074132,2007-12-24,2011-12-21,
 Russia,member of the State Duma,Vladimir Taskayev,Q15074673,2007-12-24,2011-12-21,male,1962-09-10,,Vladimir Taskaev.jpg,
 Russia,member of the State Duma,Nina Ostanina,Q15077198,2007-12-24,2011-12-21,female,1955-12-26,,Nina Ostanina.jpg,Nina Ostanina
 Russia,member of the State Duma,Viktor Pautov,Q15079062,2007-12-24,2011-12-21,male,1953-07-05,,Viktor Pautov.jpg,
-Russia,member of the State Duma,,Q15079517,2007-12-24,2011-12-21,male,1976-12-07,,,
+Russia,member of the State Duma,"Семёнов, Павел Владимирович",Q15079517,2007-12-24,2011-12-21,male,1976-12-07,,,
 Russia,member of the State Duma,Oleg Shein,Q1517429,2007-12-24,2011-12-21,male,1972-03-21,,Shein OV.jpg,Oleg Shein
 Russia,member of the State Duma,Viktor Kidyaev,Q15206940,2007-12-24,2011-12-21,male,1956-07-09,,Кидяев Виктор Борисович.jpg,Viktor Kidyayev
 Russia,member of the State Duma,Frants Klintsevich,Q15702796,2007-12-24,2011-12-21,male,1957-06-15,,"Frants Klintsevich, 2016.jpg",
@@ -1061,13 +1066,13 @@ Russia,member of the State Duma,Asanbuba Nyudyurbegov,Q20160757,2007-12-24,2011-
 Russia,member of the State Duma,Gadzhimet Safaraliyev,Q20202264,2007-12-24,2011-12-21,male,1950-06-26,,Г.К. Сафаралиев.jpg,
 Russia,member of the State Duma,Nikolai Levichev,Q2029643,2007-12-24,2011-12-21,male,1953-05-28,,Nikolay Levichev IF 09-2013 (1).jpg,Nikolai Levichev
 Russia,member of the State Duma,Leonid Slutsky,Q2037108,2007-12-24,2011-12-21,male,1968-01-04,,Leonid Slutsky 2018.jpg,Leonid Slutsky (politician)
-Russia,member of the State Duma,,Q20585025,2007-12-24,2011-12-21,male,1958-06-26,,,
+Russia,member of the State Duma,Фоат Комаров,Q20585025,2007-12-24,2011-12-21,male,1958-06-26,,,
 Russia,member of the State Duma,Saliya Murzabayeva,Q20605035,2007-12-24,2011-12-21,female,1957-09-13,,Salia Murzabaeva.jpg,
 Russia,member of the State Duma,Kirill Cherkasov,Q21134686,2007-12-24,2011-12-21,male,1967-04-03,,Кирилл Черкасов.jpg,
 Russia,member of the State Duma,Vladimir Medinsky,Q2121094,2007-12-24,2011-12-21,male,1970-07-18,,Vladimir Medinsky govru.png,Vladimir Medinsky
 Russia,member of the State Duma,Stepan Shorshorov,Q21534107,2007-12-24,2011-12-21,male,1956-01-31,2017-10-17,,
 Russia,member of the State Duma,Oleg Valenchuk,Q21636672,2007-12-24,2011-12-21,male,1960-09-14,,Валенчук О.Д.jpg,
-Russia,member of the State Duma,,Q22919388,2007-12-24,2011-12-21,female,1952-05-12,2015-12-16,,
+Russia,member of the State Duma,"Шубина, Любовь Фёдоровна",Q22919388,2007-12-24,2011-12-21,female,1952-05-12,2015-12-16,,
 Russia,member of the State Duma,Irina Rodnina,Q233812,2007-12-24,2011-12-21,female,1949-09-12,,Irina Rodnina 2018.jpg,Irina Rodnina
 Russia,member of the State Duma,Svetlana Khorkina,Q233830,2007-12-24,2011-12-21,female,1979-01-19,,Svetlana Khorkina 2017.jpg,Svetlana Khorkina
 Russia,member of the State Duma,Ivan Demchenko,Q23655907,2007-12-24,2011-12-21,male,1960-09-27,,Ivan Demchenko 2011.jpg,Ivan Demchenko
@@ -1095,7 +1100,7 @@ Russia,member of the State Duma,Gasanov Magomedkadi,Q28497346,2007-12-24,2011-12
 Russia,member of the State Duma,Elmira Glubokovskaya,Q28497365,2007-12-24,2011-12-21,female,1957-04-20,,Elmira Glubokovskaya.jpg,Elmira Glubokovskaya
 Russia,member of the State Duma,Vasiliy Zhurko,Q28498031,2007-12-24,2011-12-21,male,1963-07-15,,Vasiliy Zhurko.jpg,
 Russia,member of the State Duma,Rizvangadzhi Isayev,Q28498121,2007-12-24,2011-12-21,male,1960-09-26,,,
-Russia,member of the State Duma,,Q28500274,2007-12-24,2011-12-21,male,1961-03-01,,,
+Russia,member of the State Duma,Валерий Викторович Панов,Q28500274,2007-12-24,2011-12-21,male,1961-03-01,,,
 Russia,member of the State Duma,Dmitry Svishchev,Q28543758,2007-12-24,2011-12-21,male,1969-05-22,,Свищев Дмитрий.jpg,Dmitry Svishchev
 Russia,member of the State Duma,Reznik Boris Lvovich,Q28799019,2007-12-24,2011-12-21,male,1940-02-12,2018-01-27,Boris Reznik.jpg,
 Russia,member of the State Duma,Vyacheslav Timchenko,Q28853840,2007-12-24,2011-12-21,male,1955-11-20,,Vyacheslav Timchenko (politician; 2018-10-23).jpg,
@@ -1105,10 +1110,10 @@ Russia,member of the State Duma,Vasily Tarasyuk,Q29883665,2007-12-24,2011-12-21,
 Russia,member of the State Duma,Nikolay Kharitonov,Q2995350,2007-12-24,2011-12-21,male,1948-10-30,,Nikolay Kharitonov 5 December 2000.jpg,Nikolay Kharitonov
 Russia,member of the State Duma,Vladislav Tretiak,Q316864,2007-12-24,2011-12-21,male,1952-04-25,,Vladislav Tretiak.JPG,Vladislav Tretiak
 Russia,member of the State Duma,Yury Afonin,Q3196127,2007-12-24,2011-12-21,male,1977-03-22,,Yury Afonin 2019-09-12.jpg,Yury Afonin
-Russia,member of the State Duma,,Q32144701,2007-12-24,2011-12-21,male,1958-11-09,,,
+Russia,member of the State Duma,Хәмит Камалов,Q32144701,2007-12-24,2011-12-21,male,1958-11-09,,,
 Russia,member of the State Duma,Adam Delimkhanov,Q351025,2007-12-24,2011-12-21,male,1969-09-25,,Adam Delimkhanov 2018.jpg,Adam Delimkhanov
 Russia,member of the State Duma,Lyubov Sliska,Q3739052,2007-12-24,2011-12-21,female,1953-10-15,,Vladimir Putin 22 January 2001-1.jpg,Lyubov Sliska
-Russia,member of the State Duma,,Q39040489,2007-12-24,2011-12-21,male,1955-03-27,2017-08-24,,
+Russia,member of the State Duma,"Сагитов, Ринат Шайхимансурович",Q39040489,2007-12-24,2011-12-21,male,1955-03-27,2017-08-24,,
 Russia,member of the State Duma,Sergey Abeltsev,Q4054685,2007-12-24,2011-12-21,male,1961-05-06,,Абельцев Сергей ЛДПР.png,Sergey Abeltsev
 Russia,member of the State Duma,Viktor Abramov,Q4054910,2007-12-24,2011-12-21,male,1956-08-18,,Viktor Abramov.jpg,Viktor Abramov
 Russia,member of the State Duma,Anatoly Aksakov,Q4059843,2007-12-24,2011-12-21,male,1957-11-28,,Anatoly Aksakov 2018.jpg,Anatoly Aksakov
@@ -1139,7 +1144,7 @@ Russia,member of the State Duma,Vladimir Vasilyev,Q4104566,2007-12-24,2011-12-21
 Russia,member of the State Duma,Konstantin Vetrov,Q4110058,2007-12-24,2011-12-21,male,1962-12-30,,"Ветров, Константин Владимирович.jpg",
 Russia,member of the State Duma,Viktor Vodolatsky,Q4114095,2007-12-24,2011-12-21,male,1957-08-19,,Viktor Vodolatsky 2019.jpg,Viktor Vodolatsky
 Russia,member of the State Duma,Viktor Voytenko,Q4122746,2007-12-24,2011-12-21,male,1951-04-24,,,
-Russia,member of the State Duma,Yury Volkov,Q4123361,2007-12-24,2011-12-21,male,1954-09-19,,Yuri Volkov.jpg,
+Russia,member of the State Duma,Yury Volkov,Q4123361,2007-12-24,2011-12-21,male,1954-09-19,,Yuri Volkov.jpg,Yury Volkov
 Russia,member of the State Duma,Tatjana Gennadevna Voronova,Q4125670,2007-12-24,2011-12-21,female,1975-03-30,,Tatyana Voronova.jpg,
 Russia,member of the State Duma,Sergey Gavrilov,Q4131198,2007-12-24,2011-12-21,male,1966-01-27,,Сергей Гаврилов (duma.gov.ru).jpg,Sergei Gavrilov (politician)
 Russia,member of the State Duma,Valeriy Galchenko,Q4132910,2007-12-24,2011-12-21,male,1951-08-15,,Политик Гальченко Валерий.jpg,
@@ -1273,11 +1278,11 @@ Russia,member of the State Duma,Nikolay Sapozhnikov,Q4408116,2007-12-24,2011-12-
 Russia,member of the State Duma,Arkady Sarkisyan,Q4408649,2007-12-24,2011-12-21,male,1959-02-23,,Arkady Sarkisyan.jpg,
 Russia,member of the State Duma,Aleksandr Sarychev,Q4408893,2007-12-24,2011-12-21,male,1952-03-27,,,
 Russia,member of the State Duma,Pyotr Svechnikov,Q4410616,2007-12-24,2011-12-21,male,1953-11-01,,,
-Russia,member of the State Duma,,Q44155891,2007-12-24,2011-12-21,male,1967-07-26,,,
+Russia,member of the State Duma,Александр Александрович Соловьёв,Q44155891,2007-12-24,2011-12-21,male,1967-07-26,,,
 Russia,member of the State Duma,Viktor Semyonov,Q4415788,2007-12-24,2011-12-21,male,1958-01-14,,,
 Russia,member of the State Duma,Ekaterina Jurevna Semjonova,Q4415877,2007-12-24,2011-12-21,female,1972-07-12,,Ekaterina Semenova.jpg,
 Russia,member of the State Duma,Lev Borisovitsj Serebrov,Q4417317,2007-12-24,2011-12-21,male,1939-05-01,2011-12-31,,
-Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2007-12-24,2011-12-21,male,1949-07-19,,Leonid Simanovsky 2018.jpg,
+Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2007-12-24,2011-12-21,male,1949-07-19,,Leonid Simanovsky 2018.jpg,Leonid Simanovsky
 Russia,member of the State Duma,Aleksandr Skorobogatko,Q4422296,2007-12-24,2011-12-21,male,1967-09-25,,Alexander Skorobogatko.jpg,Aleksandr Skorobogatko
 Russia,member of the State Duma,Andrei Skoch,Q4422468,2007-12-24,2011-12-21,male,1966-01-30,,Andrey Skoch.jpg,Andrei Skoch
 Russia,member of the State Duma,Oleg Smolin,Q4425021,2007-12-24,2011-12-21,male,1952-02-10,,"Смолин, Олег Николаевич.png",Oleg Smolin
@@ -1322,23 +1327,23 @@ Russia,member of the State Duma,Sergey Shtogrin,Q4526892,2007-12-24,2011-12-21,m
 Russia,member of the State Duma,Vitaly Shuba,Q4527120,2007-12-24,2011-12-21,male,1951-07-13,,Shuba V.jpg,
 Russia,member of the State Duma,Viktor Shudegov,Q4527351,2007-12-24,2011-12-21,male,1952-12-05,2020-05-16,Viktor Shudegov.jpg,Viktor Shudegov
 Russia,member of the State Duma,Valentin Shurchanov,Q4528002,2007-12-24,2011-12-21,male,1947-04-19,2020-12-18,Valentin Shurchanov.jpg,Valentin Shurchanov
-Russia,member of the State Duma,,Q4529832,2007-12-24,2011-12-21,male,1956-01-02,,,
+Russia,member of the State Duma,"Эдель, Игорь Олегович",Q4529832,2007-12-24,2011-12-21,male,1956-01-02,,,
 Russia,member of the State Duma,Akhmad Erkenov,Q4532483,2007-12-24,2011-12-21,male,1951-07-13,,Akhmad Erkenov.jpg,
 Russia,member of the State Duma,Vitali Južilin,Q4533884,2007-12-24,2011-12-21,male,1965-12-10,,Vitaliy Yuzhilin.jpg,
-Russia,member of the State Duma,,Q4535214,2007-12-24,2011-12-21,male,1938-01-30,,,
+Russia,member of the State Duma,"Юрчик, Владислав Григорьевич",Q4535214,2007-12-24,2011-12-21,male,1938-01-30,,,
 Russia,member of the State Duma,Marsel Yusupov,Q4535396,2007-12-24,2011-12-21,male,1969-11-03,,Marsel Yusupov.jpg,
 Russia,member of the State Duma,Valery Yazev,Q4536413,2007-12-24,2011-12-21,male,1949-10-29,,Valery Yazev.jpg,
 Russia,member of the State Duma,Viktor Yakimov,Q4536656,2007-12-24,2011-12-21,male,1951-12-19,,Якимов Виктор Васильевич.jpg,
 Russia,member of the State Duma,Tatiana Yakovleva,Q4536978,2007-12-24,2011-12-21,female,1960-07-07,,2019 Tatyana Yakovleva.jpg,
 Russia,member of the State Duma,Irina Yarovaya,Q4538691,2007-12-24,2011-12-21,female,1966-10-17,,Irina Yarovaya 2018-11-01.jpg,Irina Yarovaya
-Russia,member of the State Duma,,Q4539688,2007-12-24,2011-12-21,male,1948-07-23,,,
+Russia,member of the State Duma,"Яхихажиев, Саид Кожалович",Q4539688,2007-12-24,2011-12-21,male,1948-07-23,,,
 Russia,member of the State Duma,Musa Manarov,Q467732,2007-12-24,2011-12-21,male,1951-03-22,,U2mir musa manarov.jpg,Musa Manarov
 Russia,member of the State Duma,Nadezda Maksimova,Q47284136,2007-12-24,2011-12-21,female,1942-01-13,,Надежда Сергеевна Максимова.jpg,
-Russia,member of the State Duma,,Q47452790,2007-12-24,2011-12-21,male,1983-12-24,,,
+Russia,member of the State Duma,Павел Александрович Зырянов,Q47452790,2007-12-24,2011-12-21,male,1983-12-24,,,
 Russia,member of the State Duma,Andrey Vorobyov,Q502185,2007-12-24,2011-12-21,male,1970-04-14,,Губернатор Московской области Андрей Воробьёв 2.jpg,Andrey Vorobyov
 Russia,member of the State Duma,Andrey Lugovoy,Q502224,2007-12-24,2011-12-21,male,1966-09-19,,Andrey Lugovoy 2019.png,Andrey Lugovoy
 Russia,member of the State Duma,Fatikh Sibagatullin,Q50932640,2007-12-24,2011-12-21,male,1950-05-01,,Ф.С. Сибагатуллин.jpg,
-Russia,member of the State Duma,,Q51669089,2007-12-24,2011-12-21,female,1948-01-04,,Лекарева В.А. (2007).jpg,
+Russia,member of the State Duma,Вера Александровна Лекарева,Q51669089,2007-12-24,2011-12-21,female,1948-01-04,,Лекарева В.А. (2007).jpg,
 Russia,member of the State Duma,Igor Lebedev,Q520016,2007-12-24,2011-12-21,male,1972-09-27,,Igor V. Lebedev (2019-07-11).jpg,Igor Lebedev (politician)
 Russia,member of the State Duma,Grigory Balykhin,Q55104097,2007-12-24,2011-12-21,male,1946-11-19,,Балыхин Григорий Артёмович.jpg,
 Russia,member of the State Duma,Raisa Karmazina,Q55105949,2007-12-24,2011-12-21,female,1951-01-09,,Кармазина Р.В.jpg,Raisa Karmazina
@@ -1357,8 +1362,8 @@ Russia,member of the State Duma,Ivan Kvitka,Q59957545,2007-12-24,2011-12-21,male
 Russia,member of the State Duma,Valentina Kabanova,Q60044880,2007-12-24,2011-12-21,female,1951-10-10,,Кабанова Валентина Викторовна.jpg,
 Russia,member of the State Duma,Vladimir Krupennikov,Q60322806,2007-12-24,2011-12-21,male,1969-09-01,,Крупенников Владимир Александрович.png,
 Russia,member of the State Duma,Viktor Kazakov,Q60346025,2007-12-24,2011-12-21,male,1949-04-04,,Казаков Виктор Алексеевич.jpg,Viktor Kazakov (politician)
-Russia,member of the State Duma,Valeriy Skrug,Q60836532,2007-12-24,2011-12-21,male,1963-06-20,,В.С. Скруг.jpg,
-Russia,member of the State Duma,,Q60836968,2007-12-24,2011-12-21,female,1954-08-30,,,
+Russia,member of the State Duma,Valeriy Skrug,Q60836532,2007-12-24,2011-12-21,male,1963-06-20,,В.С. Скруг.jpg,Valery Skrug
+Russia,member of the State Duma,"Цветова, Любовь Михайловна",Q60836968,2007-12-24,2011-12-21,female,1954-08-30,,,
 Russia,member of the State Duma,Sergey Ivanov,Q61914148,2007-12-24,2011-12-21,male,1969-10-26,,С.В. Иванов политик.jpg,"Sergey Ivanov (politician, born 1969)"
 Russia,member of the State Duma,Viktor Taranin,Q63256238,2007-12-24,2011-12-21,male,1957-02-19,,Viktor Taranin.jpg,
 Russia,member of the State Duma,Anatoliy Kozeradsky,Q63289885,2007-12-24,2011-12-21,male,1948-03-03,,Козерадский Анатолий Александрович.jpg,
@@ -1367,13 +1372,13 @@ Russia,member of the State Duma,Evgeniy Bogomolniy,Q65031844,2007-12-24,2011-12-
 Russia,member of the State Duma,Oleg Vladimirovich Lebedev,Q65054900,2007-12-24,2011-12-21,male,1964-03-21,,Oleg Lebedev.jpg,Oleg Lebedev (politician)
 Russia,member of the State Duma,Denis Volchek,Q65134855,2007-12-24,2011-12-21,male,1971-01-10,,Denis Volchek.jpg,
 Russia,member of the State Duma,Eduard Markin,Q65148971,2007-12-24,2011-12-21,male,1968-12-19,,Eduard Markin.jpg,
-Russia,member of the State Duma,,Q65149942,2007-12-24,2011-12-21,male,1958-11-04,,,
+Russia,member of the State Duma,"Пекарев, Владимир Янович",Q65149942,2007-12-24,2011-12-21,male,1958-11-04,,,
 Russia,member of the State Duma,Alexey Ogonkov,Q65153172,2007-12-24,2011-12-21,male,1963-03-21,,,
 Russia,member of the State Duma,Valery Vostrotin,Q661432,2007-12-24,2011-12-21,male,1952-11-20,,Vostrotin V.A.JPG,
 Russia,member of the State Duma,Georgiy Golikov,Q70251074,2007-12-24,2011-12-21,male,1950-04-10,,,
 Russia,member of the State Duma,Konstantin Kosachev,Q736840,2007-12-24,2011-12-21,male,1962-09-17,,Konstantin Kosachev 2021-02-15 (cropped).jpg,Konstantin Kosachev
 Russia,member of the State Duma,Mikhail Ivanov,Q740120,2007-12-24,2011-12-21,male,1977-11-20,,Mikhail Ivanov from Russian Ski Magazine (cropped).JPG,Mikhail Ivanov (cross-country skier)
-Russia,member of the State Duma,,Q78975673,2007-12-24,2011-12-21,male,1951-10-01,,,
+Russia,member of the State Duma,"Кульмухаметов, Энгельс Варисович",Q78975673,2007-12-24,2011-12-21,male,1951-10-01,,,
 Russia,member of the State Duma,Anatoly Lisitsyn,Q840698,2007-12-24,2011-12-21,male,1947-06-26,,Anatoly Lisitsyn (2021-10-11).jpg,Anatoly Lisitsyn
 Russia,member of the State Duma,Aleksandr Terentyev,Q85013136,2007-12-24,2011-12-21,male,1961-01-01,,Aleksandr Terentyev.jpg,
 Russia,member of the State Duma,Mikhail Nenashev,Q85863615,2007-12-24,2011-12-21,male,1960-03-18,2021-08-29,М.П.Ненашев-1.jpg,Mikhail Nenashev
@@ -1387,35 +1392,35 @@ Russia,member of the State Duma,Khozh Magomed Vakhaev,Q91190820,2007-12-24,2011-
 Russia,member of the State Duma,Mikhail Everestov,Q91725122,2007-12-24,2011-12-21,male,1958-04-16,,Mikhail Everestov.jpg,
 Russia,member of the State Duma,Gulnara Sergeeva,Q91892933,2007-12-24,2011-12-21,female,1960-06-05,,Сергеева Гульнара Ильдусовна.jpg,
 Russia,member of the State Duma,Nadezda Orlova,Q91964849,2007-12-24,2011-12-21,female,1980,,Орлова Надежда Павловна.jpg,
-Russia,member of the State Duma,,Q91966365,2007-12-24,2011-12-21,female,1958,,,
+Russia,member of the State Duma,"Пирожникова, Людмила Владимировна",Q91966365,2007-12-24,2011-12-21,female,1958,,,
 Russia,member of the State Duma,Tatiana Dubrovskaya,Q91966368,2007-12-24,2011-12-21,female,1969-09-19,,Дубровская Татьяна Борисовна.jpg,
 Russia,member of the State Duma,Yuliya Peskovskaya,Q91966370,2007-12-24,2011-12-21,female,1956-07-10,,Песковская Юлия Анатольевна.jpg,
 Russia,member of the State Duma,Olga Galtzova,Q91968412,2007-12-24,2011-12-21,female,1952-04-27,,Гальцова Ольга Дмитриевна.jpg,
 Russia,member of the State Duma,Olga Uvarova,Q92110268,2007-12-24,2011-12-21,female,1958-04-10,,Уварова Ольга Евгеньевна.jpg,
 Russia,member of the State Duma,Olga Noskova,Q92111899,2007-12-24,2011-12-21,female,1955,,Носкова Ольга Владимировна.jpg,
 Russia,member of the State Duma,Aleksandr Klukin,Q93511108,2007-12-24,2011-12-21,male,1957-07-05,,Aleksandr Klukin.jpg,
-Russia,member of the State Duma,,Q96695216,2007-12-24,2011-12-21,male,1948-10-18,,,
-Russia,member of the State Duma,,Q97180835,2007-12-24,2011-12-21,male,1970-01-09,,,
-Russia,member of the State Duma,,Q97697342,2007-12-24,2011-12-21,male,1972-08-09,,,
+Russia,member of the State Duma,"Хесин, Михаил Яковлевич",Q96695216,2007-12-24,2011-12-21,male,1948-10-18,,,
+Russia,member of the State Duma,"Зайцев, Константин Борисович",Q97180835,2007-12-24,2011-12-21,male,1970-01-09,,,
+Russia,member of the State Duma,"Тепляков, Евгений Нодариевич",Q97697342,2007-12-24,2011-12-21,male,1972-08-09,,,
 Russia,member of the State Duma,Andrey Lebedev,Q97699029,2007-12-24,2011-12-21,male,1962-07-29,,Andrey Lebedev.jpg,
-Russia,member of the State Duma,,Q97709177,2007-12-24,2011-12-21,male,1965-04-28,,,
-Russia,member of the State Duma,,Q97711000,2007-12-24,2011-12-21,male,1956-02-03,,,
-Russia,member of the State Duma,,Q97928185,2007-12-24,2011-12-21,male,1955-07-30,,,
+Russia,member of the State Duma,"Свистунов, Аркадий Николаевич",Q97709177,2007-12-24,2011-12-21,male,1965-04-28,,,
+Russia,member of the State Duma,"Рожков, Игорь Анатольевич",Q97711000,2007-12-24,2011-12-21,male,1956-02-03,,,
+Russia,member of the State Duma,"Бурносов, Александр Леонидович",Q97928185,2007-12-24,2011-12-21,male,1955-07-30,,,
 Russia,member of the State Duma,Vyacheslav Volodin,Q982461,2007-12-24,2011-12-21,male,1964-02-04,,Володин В.В.jpg,Vyacheslav Volodin
-Russia,member of the State Duma,,Q98276832,2007-12-24,2011-12-21,male,1950-11-14,,,
-Russia,member of the State Duma,,Q98412857,2007-12-24,2011-12-21,male,1956-09-16,,,
-Russia,member of the State Duma,,Q98423426,2007-12-24,2011-12-21,female,1972-02-25,,,
-Russia,member of the State Duma,,Q98433005,2007-12-24,2011-12-21,male,1965-01-30,,,
-Russia,member of the State Duma,,Q98923511,2007-12-24,2011-12-21,male,1945-01-29,,,
-Russia,member of the State Duma,,Q98924214,2007-12-24,2011-12-21,female,1953-10-26,,,
-Russia,member of the State Duma,,Q98929270,2007-12-24,2011-12-21,female,1954-07-29,,,
-Russia,member of the State Duma,,Q99199318,2007-12-24,2011-12-21,female,1982-01-27,,,
-Russia,member of the State Duma,,Q99205776,2007-12-24,2011-12-21,female,1947-05-08,,,
-Russia,member of the State Duma,,Q99210737,2007-12-24,2011-12-21,female,1957-05-19,,Ermakova NA.jpg,
-Russia,member of the State Duma,,Q99337571,2007-12-24,2011-12-21,male,1944-09-01,,Kozlovsky Alexander Alexandrovich.jpg,
-Russia,member of the State Duma,,Q99671409,2007-12-24,2011-12-21,female,1951-09-10,,,
-Russia,member of the State Duma,,Q99710437,2007-12-24,2011-12-21,male,1947-11-09,,,
-Russia,member of the State Duma,,Q99883988,2007-12-24,2011-12-21,female,1947-03-28,,Gainullina Farida Ismagilovna.jpg,
+Russia,member of the State Duma,"Беднов, Александр Викторович",Q98276832,2007-12-24,2011-12-21,male,1950-11-14,,,
+Russia,member of the State Duma,"Берестов, Александр Павлович",Q98412857,2007-12-24,2011-12-21,male,1956-09-16,,,
+Russia,member of the State Duma,"Бобровская, Ольга Владимировна",Q98423426,2007-12-24,2011-12-21,female,1972-02-25,,,
+Russia,member of the State Duma,"Борисовец, Юрий Львович",Q98433005,2007-12-24,2011-12-21,male,1965-01-30,,,
+Russia,member of the State Duma,"Волков, Алексей Николаевич",Q98923511,2007-12-24,2011-12-21,male,1945-01-29,,,
+Russia,member of the State Duma,"Пугачева, Наталья Васильевна",Q98924214,2007-12-24,2011-12-21,female,1953-10-26,,,
+Russia,member of the State Duma,"Мещерякова, Татьяна Григорьевна",Q98929270,2007-12-24,2011-12-21,female,1954-07-29,,,
+Russia,member of the State Duma,"Черкесова, Виктория Валерьевна",Q99199318,2007-12-24,2011-12-21,female,1982-01-27,,,
+Russia,member of the State Duma,"Данилова, Нина Петровна",Q99205776,2007-12-24,2011-12-21,female,1947-05-08,,,
+Russia,member of the State Duma,"Ермакова, Наталья Афанасьевна",Q99210737,2007-12-24,2011-12-21,female,1957-05-19,,Ermakova NA.jpg,
+Russia,member of the State Duma,"Козловский, Александр Александрович",Q99337571,2007-12-24,2011-12-21,male,1944-09-01,,Kozlovsky Alexander Alexandrovich.jpg,
+Russia,member of the State Duma,"Горячева, Раиса Вениаминовна",Q99671409,2007-12-24,2011-12-21,female,1951-09-10,,,
+Russia,member of the State Duma,"Розуван, Алексей Михайлович",Q99710437,2007-12-24,2011-12-21,male,1947-11-09,,,
+Russia,member of the State Duma,"Гайнуллина, Фарида Исмагиловна",Q99883988,2007-12-24,2011-12-21,female,1947-03-28,,Gainullina Farida Ismagilovna.jpg,
 Russia,member of the State Duma,Lubomir Tyan,Q99883995,2007-12-24,2011-12-21,male,1959-05-25,,Tyan Lubomir Indekovich.jpg,
 Russia,member of the State Duma,Makharbek Khadartsev,Q1393551,2011,2016,male,1964-10-02,,Makharbek Khadartsev.jpg,Makharbek Khadartsev
 Russia,member of the State Duma,Valentina Tereshkova,Q44371,2011,,female,1937-03-06,,Valentina Tereshkova (2017-03-06).jpg,Valentina Tereshkova
@@ -1710,7 +1715,7 @@ Russia,member of the State Duma,Adam Amirilayev,Q4064366,2011-12-21,2016-10-05,m
 Russia,member of the State Duma,Grigory Anikeyev,Q4066230,2011-12-21,2016-10-05,male,1972-02-28,,Grigory Anikeev.jpg,Grigory Anikeyev
 Russia,member of the State Duma,Otari Arshba,Q4071023,2011-12-21,2016-10-05,male,1955-04-12,,Otari Arshba.jpg,Otari Arshba
 Russia,member of the State Duma,Igor Barinov,Q4078238,2011-12-21,2016-10-05,male,1968-05-22,,Igor Barinov.jpg,
-Russia,member of the State Duma,Olga Batalina,Q4079281,2011-12-21,2016-10-05,female,1975-11-08,,"Olga Batalina, 17 March 2016 (cropped).jpg",
+Russia,member of the State Duma,Olga Batalina,Q4079281,2011-12-21,,female,1975-11-08,,"Olga Batalina, 17 March 2016 (cropped).jpg",
 Russia,member of the State Duma,Rima Batalova,Q4079299,2011-12-21,2016-10-05,female,1964-01-01,,Rima Batalova.jpg,Rima Batalova
 Russia,member of the State Duma,Sergei Bozhenov,Q4090157,2011-12-21,2016-10-05,male,1965-04-08,,Боженов Сергей Анатольевич 001.jpg,Sergey Bozhenov
 Russia,member of the State Duma,Nikolay Bortsov,Q4094838,2011-12-21,2016-10-05,male,1945-05-08,,Nikolay Bortsov.jpg,Nikolay Bortsov
@@ -1720,7 +1725,7 @@ Russia,member of the State Duma,Vadim Bulavinov,Q4098685,2011-12-21,2016-10-05,m
 Russia,member of the State Duma,Nikolay Bulayev,Q4098702,2011-12-21,2016-10-05,male,1949-09-01,,Nikolay Bulaev.jpg,
 Russia,member of the State Duma,Vladimir Burmatov,Q4099750,2011-12-21,2016-10-05,male,1981-08-18,,Vladimir Burmatov.jpg,Vladimir Burmatov
 Russia,member of the State Duma,Vladimir Vasilyev,Q4104566,2011-12-21,2016-10-05,male,1949-08-11,,Vladimir Vasilev in Dagestan (2018-07-19) 4 (cropped).jpg,Vladimir Vasilyev (politician)
-Russia,member of the State Duma,Yury Volkov,Q4123361,2011-12-21,2016-10-05,male,1954-09-19,,Yuri Volkov.jpg,
+Russia,member of the State Duma,Yury Volkov,Q4123361,2011-12-21,2016-10-05,male,1954-09-19,,Yuri Volkov.jpg,Yury Volkov
 Russia,member of the State Duma,Anatoly Vyborny,Q4128570,2011-12-21,2016-10-05,male,1965-06-08,,AGER0467.jpg,
 Russia,member of the State Duma,Valeriy Galchenko,Q4132910,2011-12-21,2016-10-05,male,1951-08-15,,Политик Гальченко Валерий.jpg,
 Russia,member of the State Duma,Ildar Irekovitsj Gilmoetdinov,Q4138366,2011-12-21,2016-10-05,male,1962-09-03,,Ildar Gilmutdinov.jpg,Ildar Gilmutdinov
@@ -1782,7 +1787,7 @@ Russia,member of the State Duma,Dmitry Sablin,Q4403533,2011-12-21,2016-10-05,mal
 Russia,member of the State Duma,Shamsail Saraliyev,Q4408310,2011-12-21,2016-10-05,male,1973-11-05,,518A8010.JPG,
 Russia,member of the State Duma,Ekaterina Jurevna Semjonova,Q4415877,2011-12-21,2016-10-05,female,1972-07-12,,Ekaterina Semenova.jpg,
 Russia,member of the State Duma,Aleksandr Gennadevitsj Sidjakin,Q4418960,2011-12-21,2016-10-05,male,1977-11-17,,SidyakinAG.jpg,
-Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2011-12-21,2016-10-05,male,1949-07-19,,Leonid Simanovsky 2018.jpg,
+Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2011-12-21,2016-10-05,male,1949-07-19,,Leonid Simanovsky 2018.jpg,Leonid Simanovsky
 Russia,member of the State Duma,Aleksandr Skorobogatko,Q4422296,2011-12-21,2016-10-05,male,1967-09-25,,Alexander Skorobogatko.jpg,Aleksandr Skorobogatko
 Russia,member of the State Duma,Andrei Skoch,Q4422468,2011-12-21,2016-10-05,male,1966-01-30,,Andrey Skoch.jpg,Andrei Skoch
 Russia,member of the State Duma,Mikhail Slipenchuk,Q4423465,2011-12-21,2016-10-05,male,1965-01-20,,Михаил Викторович Слипенчук.jpg,
@@ -1857,6 +1862,7 @@ Russia,member of the State Duma,Sergey Naryshkin,Q983654,2011-12-21,2016-10-05,m
 Russia,member of the State Duma,Vladimir Resin,Q983851,2011-12-21,2016-10-05,male,1936-02-21,,Vladimir Resin 2018.jpg,Vladimir Resin
 Russia,member of the State Duma,Alyona Arshinova,Q4071033,2012-03-28,,female,1985-03-03,,Arshinova alena.jpg,Alena Arshinova
 Russia,member of the State Duma,Vladimir Ovsyannikov,Q4330844,2012-12-04,2016-10-05,male,1961-11-22,,Vladimir Ovsyannikov.jpg,Vladimir Ovsyannikov
+Russia,member of the State Duma,Nikolay Parshin,Q61914197,2014-01-29,2016-09-18,male,1972-08-14,,Nikolay Parshin.jpg,
 Russia,member of the State Duma,Maksim Schepinov,Q89184267,2014-10-15,2016-10-05,male,1974-09-11,,Maksim Schepinov.jpg,
 Russia,member of the State Duma,Alexander Avdeev,Q28495038,2016,2021,male,1975-08-12,,Alexander Avdeev.jpg,"Aleksandr Avdeyev (politician, born 1975)"
 Russia,member of the State Duma,Aleksey Kanayev,Q60329384,2016,,male,1971-09-30,,Алексей Валерианович Канаев.jpg,Alexey Kanayev
@@ -1864,7 +1870,7 @@ Russia,member of the State Duma,Viktor Karamyshev,Q16661684,2016-09-18,2019-06,m
 Russia,member of the State Duma,Fedot Tumusov,Q18278938,2016-09-18,,male,1955-06-30,,Fedot Tumusov.jpg,
 Russia,member of the State Duma,Nikolay Lyubimov,Q19910548,2016-09-18,2017-02-17,male,1971-11-21,,Nikolay Lyubimov 2019.jpg,Nikolay Lyubimov
 Russia,member of the State Duma,Anna Kuvychko,Q43231501,2016-09-18,2021-10-12,female,1979-06-26,,Anna Kuvychko.jpg,
-Russia,member of the State Duma,Valeriy Skrug,Q60836532,2016-09-18,2021-10-12,male,1963-06-20,,В.С. Скруг.jpg,
+Russia,member of the State Duma,Valeriy Skrug,Q60836532,2016-09-18,2021-10-12,male,1963-06-20,,В.С. Скруг.jpg,Valery Skrug
 Russia,member of the State Duma,Oleg Nikolaev,Q62841889,2016-09-18,2020-01-29,male,1969-12-10,,Oleg Nikolaev 2020.png,Oleg Nikolayev (politician)
 Russia,member of the State Duma,Anatoly Karpov,Q131674,2016-10-05,2021-10-12,male,1951-05-23,,Anatoly Karpov 2017 april.jpg,Anatoly Karpov
 Russia,member of the State Duma,Vladimir Shamanov,Q1361037,2016-10-05,2021-10-12,male,1957-02-15,,Vladimir Shamanov. Cabinet photo.jpg,Vladimir Shamanov
@@ -1927,9 +1933,9 @@ Russia,member of the State Duma,Kirill Cherkasov,Q21134686,2016-10-05,2021-10-12
 Russia,member of the State Duma,Yury Sinelschikov,Q21149199,2016-10-05,2021-10-12,male,1947-09-26,,Sinelschikov.jpg,
 Russia,member of the State Duma,Oleg Valenchuk,Q21636672,2016-10-05,2021-10-12,male,1960-09-14,,Валенчук О.Д.jpg,
 Russia,member of the State Duma,Bator Aduchiyev,Q21856783,2016-10-05,2021-10-12,male,1963-01-27,,Aduchiev bator kanurovich.jpg,
-Russia,member of the State Duma,Dmitry Skrivanov,Q21857207,2016-10-05,2021-10-12,male,1971-08-15,,Skrivanov wiki.png,
+Russia,member of the State Duma,Dmitry Skrivanov,Q21857207,2016-10-05,2021-10-12,male,1971-08-15,,Skrivanov wiki.png,Dmitry Skrivanov
 Russia,member of the State Duma,Sergey Shargunov,Q2272536,2016-10-05,2021-10-12,male,1980-05-12,,Sergey Shargunov (2015-05-22) 1.jpg,
-Russia,member of the State Duma,Gennadiy Sklyar,Q22919647,2016-10-05,2021-10-12,male,1952-05-17,,Gennadiy Sklyar.png,
+Russia,member of the State Duma,Gennadiy Sklyar,Q22919647,2016-10-05,2021-10-12,male,1952-05-17,,Gennadiy Sklyar.png,Gennady Sklyar
 Russia,member of the State Duma,Alexander Petrov,Q22976341,2016-10-05,2021-10-12,male,1958-05-21,,А.П. Петров ГД.jpg,
 Russia,member of the State Duma,Irina Rodnina,Q233812,2016-10-05,2021-10-12,female,1949-09-12,,Irina Rodnina 2018.jpg,Irina Rodnina
 Russia,member of the State Duma,Ivan Demchenko,Q23655907,2016-10-05,2021-10-12,male,1960-09-27,,Ivan Demchenko 2011.jpg,Ivan Demchenko
@@ -1952,6 +1958,7 @@ Russia,member of the State Duma,Larisa Tutova,Q27057495,2016-10-05,2021-10-12,fe
 Russia,member of the State Duma,Denis Parfyonov,Q27122240,2016-10-05,2021-10-12,male,1987-09-22,,Denis Parfenov 2017.jpg,
 Russia,member of the State Duma,Oleg Kolesnikov,Q27136229,2016-10-05,2021-10-12,male,1968-09-11,,Oleg Kolesnikov.jpg,Oleg Kolesnikov
 Russia,member of the State Duma,Alexey Tkachyov,Q27230932,2016-10-05,2021-10-12,male,1957-03-01,,Alexey Tkachyov.png,
+Russia,member of the State Duma,Vladimir Sysoev,Q27230970,2016-10-05,2021-10-12,male,1973-06-21,,Vladimir Sysoev.jpg,
 Russia,member of the State Duma,Tatyana Voronina,Q27230990,2016-10-05,2021-10-12,female,1962-01-04,,Воронина Татьяна Евгеньевна.jpg,
 Russia,member of the State Duma,Aldar Damdinov,Q27230996,2016-10-05,2021-10-12,male,1971-03-28,,Deputy of the State Duma of Russia from the Republic of Buryatia Aldar Damdinov.jpg,
 Russia,member of the State Duma,Alikhan Kharsiev,Q27231073,2016-10-05,2021-10-12,male,1956-06-10,,Alikhan Kharsiev.jpg,
@@ -2000,6 +2007,7 @@ Russia,member of the State Duma,Maksim Schablykin,Q28500998,2016-10-05,2021-10-1
 Russia,member of the State Duma,Abulgamid Emirgamzaev,Q28501031,2016-10-05,2021-10-12,male,1965-05-26,,Эмиргамзаев А.Г.2.jpg,
 Russia,member of the State Duma,Dmitry Yurkov,Q28501037,2016-10-05,2021-10-12,male,1972-05-05,,Dmitry Yurkov 2018.jpg,
 Russia,member of the State Duma,Artyom Turov,Q28526218,2016-10-05,2021-10-12,male,1984-03-01,,Artem Turov.jpg,
+Russia,member of the State Duma,Daniel Shilkov,Q28536877,2016-10-05,2021-10-12,male,1982-09-25,,Д.Е. Шилков.jpg,Daniel Shilkov
 Russia,member of the State Duma,Dmitry Svishchev,Q28543758,2016-10-05,2021-10-12,male,1969-05-22,,Свищев Дмитрий.jpg,Dmitry Svishchev
 Russia,member of the State Duma,Andrey Vetlugskikh,Q28646629,2016-10-05,2021-10-12,male,1961-08-05,,А. Л. Ветлужских ГД.jpg,
 Russia,member of the State Duma,Alexey Kurinny,Q28664932,2016-10-05,2021-10-12,male,1974-01-18,,Alexey Kurinny (2017-12-20).jpg,
@@ -2019,15 +2027,17 @@ Russia,member of the State Duma,Nikolay Kharitonov,Q2995350,2016-10-05,2021-10-1
 Russia,member of the State Duma,Umakhan Umakhanov,Q30345177,2016-10-05,2021-10-12,male,1965-05-25,,У.М. Умаханов.jpg,
 Russia,member of the State Duma,Mikhail Bugera,Q30346534,2016-10-05,2021-10-12,male,1961-01-14,,Mikhail Bugera.jpg,
 Russia,member of the State Duma,Yuriy Berezutsky,Q30596843,2016-10-05,2021-10-12,male,1956-08-08,,Yuriy Berezutsky.jpg,
-Russia,member of the State Duma,Yuri Shvytkin,Q30879078,2016-10-05,2021-10-12,male,1965-05-24,,Юрий Швыткин (депутат).jpg,
+Russia,member of the State Duma,Yuri Shvytkin,Q30879078,2016-10-05,2021-10-12,male,1965-05-24,,Юрий Швыткин (депутат).jpg,Yury Shvytkin
 Russia,member of the State Duma,Buvaisar Saitiev,Q313452,2016-10-05,2021-10-12,male,1975-03-11,,Buwaisar Saytiev.jpg,Buvaisar Saitiev
 Russia,member of the State Duma,Vladislav Tretiak,Q316864,2016-10-05,2021-10-12,male,1952-04-25,,Vladislav Tretiak.JPG,Vladislav Tretiak
 Russia,member of the State Duma,Valery Gazzaev,Q319517,2016-10-05,2021-10-12,male,1954-08-07,,Valeriy Gazzaev.jpg,Valery Gazzaev
 Russia,member of the State Duma,Yury Afonin,Q3196127,2016-10-05,2021-10-12,male,1977-03-22,,Yury Afonin 2019-09-12.jpg,Yury Afonin
+Russia,member of the State Duma,Igor Sukharev,Q34256225,2016-10-05,2021-10-12,male,1968-10-26,,И.Н. Сухарев.png,
 Russia,member of the State Duma,Yelena Serova,Q3492123,2016-10-05,2021-10-12,female,1976-04-22,,Yelena Serova (2016-03-10).JPG,Yelena Serova
 Russia,member of the State Duma,Adam Delimkhanov,Q351025,2016-10-05,2021-10-12,male,1969-09-25,,Adam Delimkhanov 2018.jpg,Adam Delimkhanov
 Russia,member of the State Duma,Sergey Mironov,Q368947,2016-10-05,2021-10-12,male,1953-02-14,,Sergei Mironov IF 09-2013.jpg,Sergey Mironov
 Russia,member of the State Duma,Svetlana Savchenko,Q37607146,2016-10-05,2021-10-12,female,1965-06-24,,Svetlana Savchenko.jpg,Svetlana Savchenko
+Russia,member of the State Duma,Irek Zinnurov,Q3801862,2016-10-05,2021-10-12,male,1969-01-11,,Зиннуров Ирек Хайдарович депутат.jpg,Irek Zinnurov
 Russia,member of the State Duma,Ramzil Issharin,Q39344331,2016-10-05,2021-10-12,male,1975-06-13,,Ишсарин Рамзил Рафаилович.jpg,
 Russia,member of the State Duma,Zarif Bayguskarov,Q39374943,2016-10-05,2021-10-12,male,1967-06-30,,Байгускаров З.З.jpg,Zarif Baiguskarov
 Russia,member of the State Duma,Aleksey Zagrebin,Q39391916,2016-10-05,2021-10-12,male,1972-07-05,,Zae.jpg,
@@ -2092,6 +2102,7 @@ Russia,member of the State Duma,Pavel Krasheninnikov,Q4239942,2016-10-05,2021-10
 Russia,member of the State Duma,Oleg Lebedev,Q4255784,2016-10-05,2021-10-12,male,1976-10-12,,Lebedev Oleg.JPG,
 Russia,member of the State Duma,Ivan Loor,Q4266544,2016-10-05,2021-10-12,male,1955-12-11,,Ivan Loor.jpg,Ivan Loor
 Russia,member of the State Duma,Andrey Makarov,Q4275338,2016-10-05,2021-10-12,male,1954-07-22,,Andrey Makarov (2021-10-18).jpg,Andrey Makarov (politician)
+Russia,member of the State Duma,Nikolai Makarovets,Q4275420,2016-10-05,2021-10-12,male,1939-03-21,2019-03-31,Makarovets N A.jpg,
 Russia,member of the State Duma,Rafael Mirchatimovitsj Mardansjin,Q4281253,2016-10-05,2021-10-12,male,1961-12-24,,Марданшин Рафаэль Мирхатимович.jpg,
 Russia,member of the State Duma,Ivan Melnikov,Q4289876,2016-10-05,2021-10-12,male,1950-08-07,,Ivan Melnikov (2017-11-13).jpg,Ivan Melnikov (politician)
 Russia,member of the State Duma,Vitaly Valentinovich Milonow,Q4293669,2016-10-05,2021-10-12,male,1974-01-23,,"Vitaly Milonov, 2018.jpg",Vitaly Milonov
@@ -2119,12 +2130,12 @@ Russia,member of the State Duma,Aleksey Alekseevitsj Ponomarjov,Q4371938,2016-10
 Russia,member of the State Duma,Aleksandr Prokopyev,Q4380372,2016-10-05,2021-10-12,male,1986-08-05,,AS Prokopiev.jpg,
 Russia,member of the State Duma,Oksana Pushkina,Q4384732,2016-10-05,2021-10-12,female,1963-05-10,,2019 Oksana Pushkina.png,Oksana Pushkina
 Russia,member of the State Duma,Valery Rashkin,Q4391353,2016-10-05,2021-10-12,male,1955-03-14,,Valery Rashkin.jpg,Valery Rashkin
-Russia,member of the State Duma,Yevgeny Revenko,Q4391661,2016-10-05,2021-10-12,male,1972-05-22,,Evgeniy Revenko 2018 (cropped).jpg,
+Russia,member of the State Duma,Yevgeny Revenko,Q4391661,2016-10-05,2021-10-12,male,1972-05-22,,Евгений Ревенко ГД.jpg,
 Russia,member of the State Duma,Vladislav Reznik,Q4392436,2016-10-05,2021-10-12,male,1954-05-17,,Vladislav Reznik.png,Vladislav Reznik
 Russia,member of the State Duma,Dmitry Sablin,Q4403533,2016-10-05,2021-10-12,male,1968-09-05,,Sablin d v.jpg,Dmitry Sablin
 Russia,member of the State Duma,Igor Sapko,Q4408077,2016-10-05,2021-10-12,male,1966-07-13,,Igor Sapko.jpg,
 Russia,member of the State Duma,Shamsail Saraliyev,Q4408310,2016-10-05,2021-10-12,male,1973-11-05,,518A8010.JPG,
-Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2016-10-05,2021-10-12,male,1949-07-19,,Leonid Simanovsky 2018.jpg,
+Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2016-10-05,2021-10-12,male,1949-07-19,,Leonid Simanovsky 2018.jpg,Leonid Simanovsky
 Russia,member of the State Duma,Vladimir Sinyagovsky,Q4420607,2016-10-05,2021-10-12,male,1948-08-09,,В.И. Синяговский.jpg,
 Russia,member of the State Duma,Andrei Skoch,Q4422468,2016-10-05,2021-10-12,male,1966-01-30,,Andrey Skoch.jpg,Andrei Skoch
 Russia,member of the State Duma,Yury Smirnov,Q4424776,2016-10-05,2021-10-12,male,1952-12-01,,Yuri Smirnov.jpg,
@@ -2242,8 +2253,8 @@ Russia,member of the State Duma,Valentina Rudchenko,Q61473815,2016-10-05,2021-10
 Russia,member of the State Duma,Viktor Seliverstov,Q61474081,2016-10-05,2021-10-12,male,1954-08-02,,В.В. Селиверстов.jpg,
 Russia,member of the State Duma,Natalya Sanina,Q61474788,2016-10-05,2021-10-12,female,1954-07-20,,Н.П.Санина.jpg,
 Russia,member of the State Duma,Magomed Selimkhanov,Q61550040,2016-10-05,2021-10-12,male,1976-01-31,,М.С. Селимханов.jpg,
-Russia,member of the State Duma,,Q61550404,2016-10-05,2021-10-12,male,1952-03-15,,А.Л. Сидоров.jpg,
-Russia,member of the State Duma,Aleksey Sitnikov,Q61595604,2016-10-05,2021-10-12,male,1971-06-19,,А.В. Ситников.jpg,
+Russia,member of the State Duma,"Сидоров, Александр Леонидович",Q61550404,2016-10-05,2021-10-12,male,1952-03-15,,А.Л. Сидоров.jpg,
+Russia,member of the State Duma,Aleksey Sitnikov,Q61595604,2016-10-05,2021-10-12,male,1971-06-19,,А.В. Ситников.jpg,Alexey Sitnikov (politician)
 Russia,member of the State Duma,Sergey Sopchuk,Q61595867,2016-10-05,2021-10-12,male,1964-02-16,,С.А. Сопчук.jpg,
 Russia,member of the State Duma,Anatoliy Tikhomirov,Q61642224,2016-10-05,2021-10-12,male,1956-05-07,,А.Ф. Тихомиров.jpg,
 Russia,member of the State Duma,Ivan Firulin,Q61656518,2016-10-05,2021-10-12,male,1954-09-10,,И.И. Фирюлин.jpg,
@@ -2259,6 +2270,7 @@ Russia,member of the State Duma,Vladimir Dratchev,Q729257,2016-10-05,2021-10-12,
 Russia,member of the State Duma,Viktor Shreyder,Q822805,2016-10-05,2021-10-12,male,1952-02-23,,Victor Schrader.jpg,
 Russia,member of the State Duma,Aleksandr Terentyev,Q85013136,2016-10-05,2021-10-12,male,1961-01-01,,Aleksandr Terentyev.jpg,
 Russia,member of the State Duma,Vyacheslav Volodin,Q982461,2016-10-05,2021-10-12,male,1964-02-04,,Володин В.В.jpg,Vyacheslav Volodin
+Russia,member of the State Duma,Sergey Naryshkin,Q983654,2016-10-05,2021-10-12,male,1954-10-27,,Naryshkin Sergey Evgenyevich.jpg,Sergey Naryshkin
 Russia,member of the State Duma,Vladimir Resin,Q983851,2016-10-05,2021-10-12,male,1936-02-21,,Vladimir Resin 2018.jpg,Vladimir Resin
 Russia,member of the State Duma,Vladimir Bortko,Q984154,2016-10-05,2021-10-12,male,1946-05-07,,Vladimir Bortko 2018.jpg,Vladimir Bortko
 Russia,member of the State Duma,Dmitry Pirog,Q1232545,2017-03-01,2021-10-12,male,1980-06-27,,Dmitry Pirog.jpg,Dmitry Pirog
@@ -2290,8 +2302,8 @@ Russia,member of the State Duma,Maxim Zaytsev,Q84664834,2019-10-03,2021-10-12,ma
 Russia,member of the State Duma,Boris Ivanyuzhenkov,Q21099076,2020-02-05,2021-10-12,male,1966-02-25,,Boris Ivanuzhenkov.jpg,
 Russia,member of the State Duma,Igor Molyakov,Q84394256,2020-02-05,2021-10-12,male,1961-01-29,,,
 Russia,member of the State Duma,Alexey Gordeyev,Q478290,2020-02-12,2021-10-12,male,1955-02-28,,Alexey Gordeyev (2019-03-13).jpg,Alexey Gordeyev
-Russia,member of the State Duma,Sergey Sokol,Q4426961,2020-03-18,2021-10-12,male,1970-12-17,,Sergey Sokol.jpg,
-Russia,member of the State Duma,,Q96074705,2020-05-20,2021-10-12,male,1985-05-03,,,
+Russia,member of the State Duma,Sergey Sokol,Q4426961,2020-03-18,2021-10-12,male,1970-12-17,,Sergey Sokol.jpg,Sergey Sokol
+Russia,member of the State Duma,"Березин, Никита Владимирович",Q96074705,2020-05-20,2021-10-12,male,1985-05-03,,,
 Russia,member of the State Duma,Dmitriy Pyanykh,Q100255526,2020-07-29,2021-10-12,male,1992-08-05,,Пьяных Дмитрий Сергеевич.jpg,
 Russia,member of the State Duma,Oleg Morozov,Q4302998,2020-09-23,2021-10-12,male,1953-11-05,,Oleg Morozov.jpg,Oleg Viktorovich Morozov
 Russia,member of the State Duma,Andrei Kovalenko,Q502310,2020-09-23,2021-10-12,male,1970-06-07,,Andrei Kovalenko (cropped).jpg,Andrei Kovalenko
@@ -2304,140 +2316,141 @@ Russia,member of the State Duma,Roman Lyabikhov,Q101188545,2020-11-05,2021-10-12
 Russia,member of the State Duma,Radik Ilyasov,Q65158465,2021-01-14,2021-10-12,male,1951-05-27,,Radik Ilyasov.jpg,
 Russia,member of the State Duma,Dmitry Kuzyakin,Q104913511,2021-01-21,2021-10-12,male,1961-12-21,,Dmitry Kuzyakin (10-03-2021).jpg,
 Russia,member of the State Duma,Evgeniy Grishin,Q66741758,2021-01-21,2021-10-12,male,1961-03-15,,Гришин Евгений Анатольевич.jpg,
-Russia,member of the State Duma,,Q105265245,2021-02-05,2021-10-12,male,1979-11-14,,Лисовенко Алексей Анатольевич.jpg,
+Russia,member of the State Duma,Алексей Анатольевич Лисовенко,Q105265245,2021-02-05,2021-10-12,male,1979-11-14,,Лисовенко Алексей Анатольевич.jpg,
 Russia,member of the State Duma,Gavril Parakhin,Q106506131,2021-04-15,,male,1972-07-16,,Парахин Гаврил Павлович.jpg,
 Russia,member of the State Duma,Roman Lyabikhov,Q101188545,2021-10-12,,male,1973-05-07,,Лябихов Роман Михайлович - депутат Государственной Думы РФ.jpg,
 Russia,member of the State Duma,Sultan Khamzaev,Q102332085,2021-10-12,,male,1982-05-24,,Султан Султанович Хамзаев (1).jpg,Biysultan Khamzaev
 Russia,member of the State Duma,Andrey Anikeev,Q106274168,2021-10-12,,male,1961-12-16,,,Andrey Anikeyev
-Russia,member of the State Duma,,Q106621543,2021-10-12,,female,1968-03-25,,,
+Russia,member of the State Duma,"Разворотнева, Светлана Викторовна",Q106621543,2021-10-12,,female,1968-03-25,,,
 Russia,member of the State Duma,Marat Nuriev,Q106679639,2021-10-12,,male,1966-05-14,,Nuriev.jpg,
 Russia,member of the State Duma,Tatiana Butskaya,Q106712635,2021-10-12,,female,1975-05-08,,,Tatiana Butskaya
 Russia,member of the State Duma,Evgeniy Nifantiev,Q106730823,2021-10-12,,male,1978-09-14,,NifantievEA.jpg,
-Russia,member of the State Duma,,Q106814366,2021-10-12,,female,1969-01-13,,Tzunaeva.jpg,
-Russia,member of the State Duma,,Q106838707,2021-10-12,,female,1989-11-01,,,
+Russia,member of the State Duma,"Цунаева, Елена Моисеевна",Q106814366,2021-10-12,,female,1969-01-13,,Tzunaeva.jpg,
+Russia,member of the State Duma,"Оглоблина, Юлия Васильевна",Q106838707,2021-10-12,,female,1989-11-01,,,
 Russia,member of the State Duma,Artem Metelev,Q107295383,2021-10-12,,male,1993-08-11,,Артем Павлович Метелев.jpg,
-Russia,member of the State Duma,,Q107296540,2021-10-12,,male,1960-11-21,,Скачков АА 001.jpg,
+Russia,member of the State Duma,"Скачков, Александр Анатольевич",Q107296540,2021-10-12,,male,1960-11-21,,Скачков АА 001.jpg,Alexander Skachkov
 Russia,member of the State Duma,Alexey Nechayev,Q107311193,2021-10-12,,male,1966-08-30,,Alexey Nechayev (2021-09-25).jpg,Alexey Nechayev
 Russia,member of the State Duma,Badma Bashankayev,Q107542723,2021-10-12,,male,1978-06-16,,Badma Bashankaev.jpg,Badma Bashankayev
 Russia,member of the State Duma,Vyacheslav Damdintsurunov,Q108044859,2021-10-12,,male,1977-09-21,,Вячеслав Анатольевич Дамдинцурунов.jpg,Vyacheslav Damdintsurunov
 Russia,member of the State Duma,Oleg Leonov (politician),Q108566280,2021-10-12,,male,1970-09-10,,Oleg Leonov. Round table on torture.jpg,Oleg Leonov (politician)
 Russia,member of the State Duma,Olga Korobova,Q108616243,2021-10-12,,female,1978-09-15,,Коробова Ольга Владимировна.jpg,Olga Korobova
-Russia,member of the State Duma,,Q108649891,2021-10-12,,female,1979-09-14,,"Салаева Алла Леонидовна, государственный деятель.jpg",
+Russia,member of the State Duma,"Салаева, Алла Леонидовна",Q108649891,2021-10-12,,female,1979-09-14,,"Салаева Алла Леонидовна, государственный деятель.jpg",
 Russia,member of the State Duma,Maria Prusakova,Q108657489,2021-10-12,,female,1983-09-04,,Прусакова Мария Николаевна (duma.gov.ru).png,Maria Prusakova (politician)
 Russia,member of the State Duma,Leonid Babashov,Q108658597,2021-10-12,,male,1966-01-31,,Бабашов Леонид Иванович 2018.jpg,Leonid Babashov
 Russia,member of the State Duma,Alexander Drozdov,Q108660854,2021-10-12,,male,1970-11-01,,,Alexander Drozdov
-Russia,member of the State Duma,,Q108678963,2021-10-12,,male,1976-06-01,,,
-Russia,member of the State Duma,,Q108679923,2021-10-12,,male,1973-03-22,,,Sergey Kolunov
+Russia,member of the State Duma,Владимир Викторович Павлов,Q108678963,2021-10-12,,male,1976-06-01,,,
+Russia,member of the State Duma,Sergey Kolunov,Q108679923,2021-10-12,,male,1973-03-22,,,Sergey Kolunov
 Russia,member of the State Duma,Nikita Chaplin,Q108680262,2021-10-12,,male,1982-07-28,,Чаплин без фонаСогласованная-фотка.jpg,Nikita Chaplin
 Russia,member of the State Duma,Roman Teryushkov,Q108680695,2021-10-12,,male,1979-12-20,,,
 Russia,member of the State Duma,Vyacheslav Fomichyov,Q108680736,2021-10-12,,male,1965-04-26,,,Vyacheslav Fomichyov
 Russia,member of the State Duma,Yekaterina Kharchenko,Q108680763,2021-10-12,,female,1977-08-11,,,Yekaterina Kharchenko
 Russia,member of the State Duma,Roman Ptitsyn,Q108680783,2021-10-12,,male,1975-09-08,,,Roman Ptitsyn
-Russia,member of the State Duma,,Q108680830,2021-10-12,,male,1977-10-04,,,
+Russia,member of the State Duma,"Погорелый, Дмитрий Викторович",Q108680830,2021-10-12,,male,1977-10-04,,,
 Russia,member of the State Duma,Yelena Yevtyukhova,Q108680861,2021-10-12,,female,1970-08-07,,,Yelena Yevtyukhova
-Russia,member of the State Duma,,Q108680915,2021-10-12,,female,1974-01-09,,,
-Russia,member of the State Duma,,Q108680938,2021-10-12,,male,1961-05-01,,,
-Russia,member of the State Duma,,Q108681034,2021-10-12,,male,1993-04-07,,,
+Russia,member of the State Duma,"Лобач, Татьяна Георгиевна",Q108680915,2021-10-12,,female,1974-01-09,,,
+Russia,member of the State Duma,"Соловьёв, Сергей Анатольевич",Q108680938,2021-10-12,,male,1961-05-01,,,Sergey Soloviev (politician)
+Russia,member of the State Duma,"Толмачёв, Александр Романович",Q108681034,2021-10-12,,male,1993-04-07,,,
 Russia,member of the State Duma,Artem Kiryanov,Q108681939,2021-10-12,,male,1977-01-12,,Artem Kiryanov.png,Artyom Kiryanov
 Russia,member of the State Duma,Oleg Ivaninsky,Q108682127,2021-10-12,,male,1966-06-05,,,Oleg Ivaninsky
-Russia,member of the State Duma,,Q108684748,2021-10-12,,male,1959-02-09,,,
+Russia,member of the State Duma,"Алёхин, Андрей Анатольевич",Q108684748,2021-10-12,,male,1959-02-09,,,
 Russia,member of the State Duma,Oleg Dimov,Q108684807,2021-10-12,,male,1968-03-08,,,Oleg Dimov
 Russia,member of the State Duma,Anton Basansky,Q108684862,2021-10-12,,male,1987-07-09,,Депутат Антон Басанский.jpg,Anton Basansky
-Russia,member of the State Duma,,Q108684903,2021-10-12,,male,1986-06-10,,,Anton Krasnoshtanov
-Russia,member of the State Duma,,Q108684918,2021-10-12,,male,1978-03-31,,,Mikhail Kizeyev (politician)
+Russia,member of the State Duma,Anton Krasnoshtanov,Q108684903,2021-10-12,,male,1986-06-10,,,Anton Krasnoshtanov
+Russia,member of the State Duma,Mikhail Kizeyev,Q108684918,2021-10-12,,male,1978-03-31,,,Mikhail Kizeyev (politician)
 Russia,member of the State Duma,Valentina Artamonova,Q108684933,2021-10-12,,female,1960-12-13,,Артамонова.jpg,Valentina Artamonova
 Russia,member of the State Duma,Andrey Gimbatov,Q108684958,2021-10-12,,male,1979-07-19,,А.П. Гимбатов.jpg,Andrey Gimbatov
 Russia,member of the State Duma,Nikolay Alexeyenko,Q108685004,2021-10-12,,male,1971-11-29,,Николай Николаевич Алекссенко.jpg,Nikolay Alexeyenko
-Russia,member of the State Duma,,Q108685026,2021-10-12,,male,1989-01-03,,,
-Russia,member of the State Duma,,Q108685049,2021-10-12,,male,1968-07-26,,ПавелСимигин.jpg,
+Russia,member of the State Duma,"Спиридонов, Александр Юрьевич",Q108685026,2021-10-12,,male,1989-01-03,,,
+Russia,member of the State Duma,"Симигин, Павел Владимирович",Q108685049,2021-10-12,,male,1968-07-26,,ПавелСимигин.jpg,Pavel Simigin
 Russia,member of the State Duma,Aleksandr Shcherbakov (21st-century politician),Q108685063,2021-10-12,,male,1965-03-12,,,Aleksandr Shcherbakov (21st-century politician)
 Russia,member of the State Duma,Irina Ivenskikh,Q108685074,2021-10-12,,male,1972-07-22,,,Irina Ivenskikh
-Russia,member of the State Duma,,Q108685083,2021-10-12,,male,1982-11-25,,Роман Водянов.jpg,
-Russia,member of the State Duma,,Q108685100,2021-10-12,,male,1975-03-02,,,
+Russia,member of the State Duma,"Водянов, Роман Михайлович",Q108685083,2021-10-12,,male,1982-11-25,,Роман Водянов.jpg,
+Russia,member of the State Duma,"Лоцманов, Дмитрий Николаевич",Q108685100,2021-10-12,,male,1975-03-02,,,
 Russia,member of the State Duma,Andrey Doroshenko,Q108685117,2021-10-12,,male,1977-03-10,,,Andrey Doroshenko
 Russia,member of the State Duma,Sergey Altukhov,Q108685126,2021-10-12,,male,1982-02-23,,Sergey Altukhov.jpg,Sergey Altukhov
-Russia,member of the State Duma,,Q108685512,2021-10-12,,male,1959-10-06,,,
-Russia,member of the State Duma,,Q108685555,2021-10-12,,male,1983-11-20,,Teterdinko.jpg,
-Russia,member of the State Duma,,Q108685717,2021-10-12,,male,1965-05-01,,,
-Russia,member of the State Duma,,Q108686121,2021-10-12,,male,1988-10-21,,Saranova julia.jpg,
-Russia,member of the State Duma,,Q108686213,2021-10-12,,male,1973-03-31,,,
-Russia,member of the State Duma,,Q108686242,2021-10-12,,male,1969-09-20,,,
-Russia,member of the State Duma,,Q108686251,2021-10-12,,male,1988-02-22,,,
-Russia,member of the State Duma,,Q108686261,2021-10-12,,male,1981-06-08,,,
-Russia,member of the State Duma,,Q108686306,2021-10-12,,male,1981-04-04,,,
-Russia,member of the State Duma,,Q108686357,2021-10-12,,male,1985-07-24,,,
-Russia,member of the State Duma,,Q108686482,2021-10-12,,male,1971-12-20,,,Dmitry Khubezov
+Russia,member of the State Duma,"Цед, Николай Григорьевич",Q108685512,2021-10-12,,male,1959-10-06,,,
+Russia,member of the State Duma,"Тетердинко, Александр Павлович",Q108685555,2021-10-12,,male,1983-11-20,,Teterdinko.jpg,
+Russia,member of the State Duma,"Трифонов, Андрей Фёдорович",Q108685717,2021-10-12,,male,1965-05-01,,,
+Russia,member of the State Duma,"Саранова, Юлия Владимировна",Q108686121,2021-10-12,,male,1988-10-21,,Saranova julia.jpg,
+Russia,member of the State Duma,"Захаров, Константин Юрьевич",Q108686213,2021-10-12,,male,1973-03-31,,,
+Russia,member of the State Duma,"Григорьев, Юрий Иннокентьевич",Q108686242,2021-10-12,,male,1969-09-20,,,
+Russia,member of the State Duma,"Сарыглар, Айдын Николаевич",Q108686251,2021-10-12,,male,1988-02-22,,,
+Russia,member of the State Duma,"Вольфсон, Илья Светославович",Q108686261,2021-10-12,,male,1981-06-08,,,
+Russia,member of the State Duma,"Ягафаров, Азат Фердинандович",Q108686306,2021-10-12,,male,1981-04-04,,,
+Russia,member of the State Duma,"Воробьёв, Андрей Викторович",Q108686357,2021-10-12,,male,1985-07-24,,,
+Russia,member of the State Duma,Dmitry Khubezov,Q108686482,2021-10-12,,male,1971-12-20,,,Dmitry Khubezov
 Russia,member of the State Duma,Ekaterina Stenyakina,Q108686518,2021-10-12,,female,1985-05-04,,Стенякина Екатерина Петровна.jpg,
 Russia,member of the State Duma,Nikolay Goncharov,Q108686559,2021-10-12,,male,1984-01-13,,,Nikolay Goncharov
-Russia,member of the State Duma,,Q108687302,2021-10-12,,male,1966-09-22,,,
-Russia,member of the State Duma,,Q108687404,2021-10-12,,male,1987-01-06,,Михайлов Олег Алексеевич (duma.gov.ru).jpg,
+Russia,member of the State Duma,"Аммосов, Пётр Револьдович",Q108687302,2021-10-12,,male,1966-09-22,,,
+Russia,member of the State Duma,"Михайлов, Олег Алексеевич",Q108687404,2021-10-12,,male,1987-01-06,,Михайлов Олег Алексеевич (duma.gov.ru).jpg,
 Russia,member of the State Duma,Roza Chemeris,Q108691440,2021-10-12,,female,1978-06-11,,,Roza Chemeris
-Russia,member of the State Duma,,Q108696445,2021-10-12,,male,1981-07-05,,Волоцков Алексей Анатольевич.png,
-Russia,member of the State Duma,,Q108749457,2021-10-12,,male,1960-09-17,,,
-Russia,member of the State Duma,,Q108757236,2021-10-12,,male,1975-09-20,,Samokish Vladimir (2021).jpg,
-Russia,member of the State Duma,,Q108757245,2021-10-12,,female,1988-12-14,,,
-Russia,member of the State Duma,,Q108757700,2021-10-12,,male,1972-09-04,,,
+Russia,member of the State Duma,Алексей Анатольевич Волоцков,Q108696445,2021-10-12,,male,1981-07-05,,Волоцков Алексей Анатольевич.png,
+Russia,member of the State Duma,"Сенин, Владимир Борисович",Q108749457,2021-10-12,,male,1960-09-17,,,
+Russia,member of the State Duma,"Самокиш, Владимир Игоревич",Q108757236,2021-10-12,,male,1975-09-20,,Samokish Vladimir (2021).jpg,
+Russia,member of the State Duma,"Лантратова, Яна Валерьевна",Q108757245,2021-10-12,,female,1988-12-14,,,
+Russia,member of the State Duma,"Наумов, Станислав Александрович",Q108757700,2021-10-12,,male,1972-09-04,,,
 Russia,member of the State Duma,Igor Antropenko,Q108807090,2021-10-12,,male,1969-12-10,,Igor Antropenko.jpg,Igor Antropenko
 Russia,member of the State Duma,Veronika Vlasova,Q108807671,2021-10-12,,female,1966-11-02,,Veronika Vlasova (2021).jpg,
-Russia,member of the State Duma,,Q108807721,2021-10-12,,female,1969-08-29,,,
+Russia,member of the State Duma,"Орлова, Наталья Алексеевна",Q108807721,2021-10-12,,female,1969-08-29,,,
 Russia,member of the State Duma,Igor Kastyukevich,Q108807738,2021-10-12,,male,1976-12-06,,Кастюкевич Игорь Юрьевич.jpg,Igor Kastyukevich
 Russia,member of the State Duma,Nurbagand Nurbagandov,Q108807795,2021-10-12,,male,1957-03-19,,Nurbagandovy s Putinym (cropped) - Magomed Nurbagandov.jpg,
-Russia,member of the State Duma,,Q108807865,2021-10-12,,male,1987-02-25,,Исаков Владимир Павлович.jpg,
+Russia,member of the State Duma,"Исаков, Владимир Павлович",Q108807865,2021-10-12,,male,1987-02-25,,Исаков Владимир Павлович.jpg,
 Russia,member of the State Duma,Maria Drobot,Q108822677,2021-10-12,,female,1982-03-21,,Мария Дробот (12-10-2021) (cropped).jpg,
-Russia,member of the State Duma,,Q108827912,2021-10-12,,male,1960-03-16,,,
-Russia,member of the State Duma,,Q108829036,2021-10-12,,female,1977-12-08,,Rjabtzeva.jpg,
-Russia,member of the State Duma,,Q108830484,2021-10-12,,male,1997-05-16,,,
-Russia,member of the State Duma,,Q108830680,2021-10-12,,male,1980-07-16,,,
-Russia,member of the State Duma,,Q108830914,2021-10-12,,male,1967-08-06,,,
+Russia,member of the State Duma,"Щеглов, Николай Михайлович",Q108827912,2021-10-12,,male,1960-03-16,,,
+Russia,member of the State Duma,"Рябцева, Жанна Анатольевна",Q108829036,2021-10-12,,female,1977-12-08,,Rjabtzeva.jpg,
+Russia,member of the State Duma,Максим Алексеевич Гулин,Q108830484,2021-10-12,,male,1997-05-16,,,
+Russia,member of the State Duma,"Любарский, Роман Валерьевич",Q108830680,2021-10-12,,male,1980-07-16,,,
+Russia,member of the State Duma,"Кузнецов, Эдуард Анатольевич",Q108830914,2021-10-12,,male,1967-08-06,,,
 Russia,member of the State Duma,Larisa Buranova,Q108864931,2021-10-12,,male,1969-04-03,,,Larisa Buranova
 Russia,member of the State Duma,Olga Anufrieva,Q108878862,2021-10-12,,female,1974-08-18,,AnufrievaON.jpg,Olga Anufriyeva
-Russia,member of the State Duma,,Q108879547,2021-10-12,,male,1984-02-25,,Davankov.jpg,
+Russia,member of the State Duma,"Даванков, Владислав Андреевич",Q108879547,2021-10-12,,male,1984-02-25,,Davankov.jpg,
 Russia,member of the State Duma,Maria Vasilkova,Q108881789,2021-10-12,,female,1978-02-13,,Maria Vasilkova (2021).jpg,
 Russia,member of the State Duma,Maksim Ivanov,Q108882737,2021-10-12,,male,1987-05-23,,IvanovMaksim.jpg,"Maxim Ivanov (politician, born 1987)"
 Russia,member of the State Duma,Mihail Kiselev,Q108882840,2021-10-12,,male,1986-06-18,,Mihail Kiselev (2021).jpg,Mikhail Kiselyov
 Russia,member of the State Duma,Angelika Egorovna Glazkova,Q108886260,2021-10-12,,female,1968-12-28,,Glazkova.jpg,
 Russia,member of the State Duma,Oleg Golikov,Q108886713,2021-10-12,,male,1968-10-21,,Голиков Олег Александрович.jpg,Oleg Golikov
 Russia,member of the State Duma,Kseniya Gorjatcheva,Q108886753,2021-10-12,,female,1996-05-16,,Gorjatcheva.jpg,
-Russia,member of the State Duma,,Q108886778,2021-10-12,,male,1988-09-23,,,
+Russia,member of the State Duma,"Дёмин, Александр Вячеславович",Q108886778,2021-10-12,,male,1988-09-23,,,
 Russia,member of the State Duma,Alexey Chernyak,Q108888620,2021-10-12,,male,1973-08-27,,,Alexey Chernyak
-Russia,member of the State Duma,,Q108894438,2021-10-12,,male,1974-12-24,,,
+Russia,member of the State Duma,"Чудаев, Сергей Дмитриевич",Q108894352,2021-10-12,,male,1996-08-12,,,
+Russia,member of the State Duma,"Новичков, Николай Владимирович",Q108894438,2021-10-12,,male,1974-12-24,,,
 Russia,member of the State Duma,Leonid Ivlev,Q108894565,2021-10-12,,male,1953-05-01,,,Leonid Ivlev
 Russia,member of the State Duma,Vladimir Valeryevich Ivanov,Q108894601,2021-10-12,,male,1971-02-10,,,Vladimir Valeryevich Ivanov
 Russia,member of the State Duma,Georgy Arapov,Q108894621,2021-10-12,,male,1999-09-11,,ArapovGK.jpg,Georgy Arapov
 Russia,member of the State Duma,Olga Amelchenkova,Q108894635,2021-10-12,,female,1990-09-05,,,Olga Amelchenkova
-Russia,member of the State Duma,,Q108894659,2021-10-12,,female,1966-12-28,,,
+Russia,member of the State Duma,"Вороновский, Анатолий Владимирович",Q108894659,2021-10-12,,female,1966-12-28,,,
 Russia,member of the State Duma,Grigoriy Shilkin,Q108894875,2021-10-12,,male,1976-10-20,,ShilkinGV.jpg,
 Russia,member of the State Duma,Anton Nemkin,Q108895576,2021-10-12,,male,1983-08-22,,NemkinAI.jpg,
 Russia,member of the State Duma,Tatyana Dyakonova,Q108896935,2021-10-12,,male,1970-04-22,,,Tatyana Dyakonova
 Russia,member of the State Duma,Yuliya Drozhzhina,Q108896953,2021-10-12,,female,1990-03-01,,,Yuliya Drozhzhina
-Russia,member of the State Duma,,Q108897020,2021-10-12,,male,1975-02-04,,HamitovAM.jpg,
-Russia,member of the State Duma,,Q108897053,2021-10-12,,female,1952-01-03,,UtjashevaRA.jpg,
-Russia,member of the State Duma,,Q108897120,2021-10-12,,female,1989-10-29,,,
-Russia,member of the State Duma,,Q108897252,2021-10-12,,male,1988-04-27,,,
+Russia,member of the State Duma,"Хамитов, Амир Махсудович",Q108897020,2021-10-12,,male,1975-02-04,,HamitovAM.jpg,
+Russia,member of the State Duma,"Утяшева, Римма Амировна",Q108897053,2021-10-12,,female,1952-01-03,,UtjashevaRA.jpg,
+Russia,member of the State Duma,"Родина, Виктория Сергеевна",Q108897120,2021-10-12,,female,1989-10-29,,,
+Russia,member of the State Duma,"Румянцев, Никита Геннадьевич",Q108897252,2021-10-12,,male,1988-04-27,,,
 Russia,member of the State Duma,Andrey Gorokhov (politician),Q108897291,2021-10-12,,male,1960-01-13,,,Andrey Gorokhov (politician)
 Russia,member of the State Duma,Aleksey Govyrin,Q108897335,2021-10-12,,male,1983-05-26,,,Aleksey Govyrin
-Russia,member of the State Duma,Ivan Solodovnikov,Q108897379,2021-10-12,,male,1985-04-09,,Ivan Solodovnikov.jpg,
-Russia,member of the State Duma,,Q108898811,2021-10-12,,male,1981-09-19,,,
-Russia,member of the State Duma,,Q108899086,2021-10-12,,female,1970-11-26,,,
+Russia,member of the State Duma,Ivan Solodovnikov,Q108897379,2021-10-12,,male,1985-04-09,,Ivan Solodovnikov.jpg,Ivan Solodovnikov
+Russia,member of the State Duma,"Плякин, Владимир Владимирович",Q108898811,2021-10-12,,male,1981-09-19,,,
+Russia,member of the State Duma,"Полякова, Алла Викторовна",Q108899086,2021-10-12,,female,1970-11-26,,,
 Russia,member of the State Duma,Rinat Ayupov,Q108905091,2021-10-12,,male,1974-08-13,,AjupovRZ.jpg,Rinat Ayupov
-Russia,member of the State Duma,,Q108905100,2021-10-12,,male,1982-09-02,,,
-Russia,member of the State Duma,,Q108905116,2021-10-12,,male,1968-11-26,,Бессонов Евгений Иванович.jpg,
-Russia,member of the State Duma,,Q108905778,2021-10-12,,male,1983-12-31,,,
-Russia,member of the State Duma,,Q108905839,2021-10-12,,female,1986-03-08,,,
+Russia,member of the State Duma,"Бабич, Иван Николаевич",Q108905100,2021-10-12,,male,1982-09-02,,,
+Russia,member of the State Duma,"Бессонов, Евгений Иванович",Q108905116,2021-10-12,,male,1968-11-26,,Бессонов Евгений Иванович.jpg,
+Russia,member of the State Duma,"Прокофьев, Артём Вячеславович",Q108905778,2021-10-12,,male,1983-12-31,,,
+Russia,member of the State Duma,"Панькина, Ирина Александровна",Q108905839,2021-10-12,,female,1986-03-08,,,
 Russia,member of the State Duma,Ruslan Gadjiev,Q108907121,2021-10-12,,male,1978-08-29,,Gadjiev.jpg,Ruslan Gadzhiev
-Russia,member of the State Duma,,Q108911265,2021-10-12,,male,1976-07-24,,Станкевич Юрий Аркадьевич.jpg,
+Russia,member of the State Duma,"Станкевич, Юрий Аркадьевич",Q108911265,2021-10-12,,male,1976-07-24,,Станкевич Юрий Аркадьевич.jpg,Yury Stankevich
 Russia,member of the State Duma,Dmitry Kadenkov,Q108913968,2021-10-12,,male,1972-05-03,,,Dmitry Kadenkov
 Russia,member of the State Duma,Rustam Kalimullin,Q108914039,2021-10-12,,male,1958-01-02,,KalimullinRG.jpg,Rustam Kalimullin
-Russia,member of the State Duma,,Q108914070,2021-10-12,,male,1972-09-24,,,
-Russia,member of the State Duma,,Q108914226,2021-10-12,,male,1975-11-18,,,Mikhail Kislyakov
+Russia,member of the State Duma,"Каноков, Тимур Борисович",Q108914070,2021-10-12,,male,1972-09-24,,,
+Russia,member of the State Duma,Mikhail Kislyakov,Q108914226,2021-10-12,,male,1975-11-18,,,Mikhail Kislyakov
 Russia,member of the State Duma,Irina Filatova,Q108915787,2021-10-12,,female,1978-08-08,,FilatovaIA.jpg,
-Russia,member of the State Duma,,Q108915833,2021-10-12,,male,1967-01-25,,,
-Russia,member of the State Duma,,Q108915854,2021-10-12,,male,1980-01-11,,,
+Russia,member of the State Duma,"Узденов, Джашарбек Борисович",Q108915833,2021-10-12,,male,1967-01-25,,,
+Russia,member of the State Duma,"Татриев, Муслим Барисович",Q108915854,2021-10-12,,male,1980-01-11,,,
 Russia,member of the State Duma,Renat Sulejmanov,Q108915868,2021-10-12,,male,1965-12-24,,SulejmanovRI.jpg,
-Russia,member of the State Duma,,Q108915942,2021-10-12,,male,1974-09-04,,Kaplan Panesh.jpg,
-Russia,member of the State Duma,,Q108915979,2021-10-12,,male,1974-10-01,,,
-Russia,member of the State Duma,,Q108926569,2021-10-12,,male,1965-07-02,,,
-Russia,member of the State Duma,,Q108929249,2021-10-12,,male,1972-05-29,,,
+Russia,member of the State Duma,"Панеш, Каплан Мугдинович",Q108915942,2021-10-12,,male,1974-09-04,,Kaplan Panesh.jpg,
+Russia,member of the State Duma,"Кошелев, Владимир Алексеевич",Q108915979,2021-10-12,,male,1974-10-01,,,
+Russia,member of the State Duma,"Лечхаджиев, Руслан Абдулвахиевич",Q108926569,2021-10-12,,male,1965-07-02,,,
+Russia,member of the State Duma,"Кузнецов, Андрей Анатольевич (политик)",Q108929249,2021-10-12,,male,1972-05-29,,,
 Russia,member of the State Duma,Abdulkhakim Gadzhiyev,Q108929258,2021-10-12,,male,1966-02-13,,,Abdulkhakim Gadzhiyev
 Russia,member of the State Duma,Bekkhan Barakhoyev,Q108929263,2021-10-12,,male,1973-08-01,,,Bekkhan Barakhoyev
 Russia,member of the State Duma,Artem Bitchaev,Q108929279,2021-10-12,,male,1990-04-04,,BitchaevAA.jpg,Artyom Bichayev
@@ -2457,6 +2470,7 @@ Russia,member of the State Duma,Vladimir Novikov,Q15076569,2021-10-12,,male,1966
 Russia,member of the State Duma,Nina Ostanina,Q15077198,2021-10-12,,female,1955-12-26,,Nina Ostanina.jpg,Nina Ostanina
 Russia,member of the State Duma,Aleksandr Rumyantsev,Q15088821,2021-10-12,,male,1947-02-12,,Rumyantsev Alexander Grigorevich.jpg,
 Russia,member of the State Duma,Viktor Kidyaev,Q15206940,2021-10-12,,male,1956-07-09,,Кидяев Виктор Борисович.jpg,Viktor Kidyayev
+Russia,member of the State Duma,Zakhar Prilepin,Q1530559,2021-10-12,,male,1975-07-07,,Zahar-Prilepin (1).jpg,Zakhar Prilepin
 Russia,member of the State Duma,Nikolai Doluda,Q16645355,2021-10-12,,male,1952-06-10,,Otaman Doluda Mykola.jpg,Nikolai Doluda
 Russia,member of the State Duma,Viktor Zubarev,Q16654510,2021-10-12,,male,1961-02-20,,Зубарев Виктор Владиславович.jpg,
 Russia,member of the State Duma,Vladimir Kononov,Q16665423,2021-10-12,,male,1958-03-13,,Vladimir M Kononov.jpg,
@@ -2464,7 +2478,7 @@ Russia,member of the State Duma,Aleksandr Remezkov,Q16691842,2021-10-12,,male,19
 Russia,member of the State Duma,Alexander Boroday,Q16902077,2021-10-12,,male,1972-07-25,,Alexander Borodai 1.jpg,Alexander Borodai
 Russia,member of the State Duma,Murat Khasanov,Q18170426,2021-10-12,,male,1970-12-10,,Мурат Хасанов.jpg,Murat Khasanov
 Russia,member of the State Duma,Valery Seleznyov,Q18277467,2021-10-12,,male,1964-09-05,,Селезнев Валерий Сергеевич.png,
-Russia,member of the State Duma,Viktor Smirnov,Q18277846,2021-10-12,,male,1968-09-09,,Viktor Smirnov.jpg,
+Russia,member of the State Duma,Viktor Smirnov,Q18277846,2021-10-12,,male,1968-09-09,,Viktor Smirnov.jpg,Viktor Smirnov
 Russia,member of the State Duma,Yevgeny Popov,Q18634850,2021-10-12,,male,1978-09-11,,Evgeny Popov (deputy).jpg,
 Russia,member of the State Duma,Ivan Sukharev,Q18635188,2021-10-12,,male,1978-06-10,,Иван Сухарев Википедия.jpg,
 Russia,member of the State Duma,Galina Danchikova,Q19295729,2021-10-12,,female,1954-08-13,,Galina Danchikova.jpg,Galina Danchikova
@@ -2484,15 +2498,15 @@ Russia,member of the State Duma,Mikhail Avdeev,Q20090184,2021-10-12,,male,1977-0
 Russia,member of the State Duma,Leonid Slutsky,Q2037108,2021-10-12,,male,1968-01-04,,Leonid Slutsky 2018.jpg,Leonid Slutsky (politician)
 Russia,member of the State Duma,Dinar Gilmutdinov,Q20606285,2021-10-12,,male,1969-08-10,,GilmutdinovDZ.jpg,Dinar Gilmutdinov
 Russia,member of the State Duma,Boris Ivanyuzhenkov,Q21099076,2021-10-12,,male,1966-02-25,,Boris Ivanuzhenkov.jpg,
-Russia,member of the State Duma,,Q21104344,2021-10-12,,male,1959-02-27,,,
+Russia,member of the State Duma,"Лесун, Анатолий Фёдорович",Q21104344,2021-10-12,,male,1959-02-27,,,
 Russia,member of the State Duma,Aleksandr Yushchenko,Q21131026,2021-10-12,,male,1969-11-19,,Alexander Yushchenko (2018-06-14).jpg,
 Russia,member of the State Duma,Yury Sinelschikov,Q21149199,2021-10-12,,male,1947-09-26,,Sinelschikov.jpg,
 Russia,member of the State Duma,Oleg Valenchuk,Q21636672,2021-10-12,,male,1960-09-14,,Валенчук О.Д.jpg,
-Russia,member of the State Duma,Dmitry Skrivanov,Q21857207,2021-10-12,,male,1971-08-15,,Skrivanov wiki.png,
+Russia,member of the State Duma,Dmitry Skrivanov,Q21857207,2021-10-12,,male,1971-08-15,,Skrivanov wiki.png,Dmitry Skrivanov
 Russia,member of the State Duma,Georgy Kamnev,Q22133490,2021-10-12,,male,1983-10-05,,KamnevGP.jpg,Georgy Kamnev
 Russia,member of the State Duma,Sergey Shargunov,Q2272536,2021-10-12,,male,1980-05-12,,Sergey Shargunov (2015-05-22) 1.jpg,
 Russia,member of the State Duma,Vyacheslav Markhayev,Q22919490,2021-10-12,,male,1955-06-01,,Markhaev V.jpg,Vyacheslav Markhayev
-Russia,member of the State Duma,Gennadiy Sklyar,Q22919647,2021-10-12,,male,1952-05-17,,Gennadiy Sklyar.png,
+Russia,member of the State Duma,Gennadiy Sklyar,Q22919647,2021-10-12,,male,1952-05-17,,Gennadiy Sklyar.png,Gennady Sklyar
 Russia,member of the State Duma,Alexander Petrov,Q22976341,2021-10-12,,male,1958-05-21,,А.П. Петров ГД.jpg,
 Russia,member of the State Duma,Irina Rodnina,Q233812,2021-10-12,,female,1949-09-12,,Irina Rodnina 2018.jpg,Irina Rodnina
 Russia,member of the State Duma,Ivan Demchenko,Q23655907,2021-10-12,,male,1960-09-27,,Ivan Demchenko 2011.jpg,Ivan Demchenko
@@ -2552,10 +2566,10 @@ Russia,member of the State Duma,Sergey Panteleev,Q29359343,2021-10-12,,male,1951
 Russia,member of the State Duma,Oleg Savchenko,Q29359467,2021-10-12,,male,1966-10-25,,Oleg Savchenko.jpg,
 Russia,member of the State Duma,Viktor Dzyuba,Q29864955,2021-10-12,,male,1977-08-10,,RS8A9039.jpg,Viktor Dzyuba
 Russia,member of the State Duma,Nikolay Kharitonov,Q2995350,2021-10-12,,male,1948-10-30,,Nikolay Kharitonov 5 December 2000.jpg,Nikolay Kharitonov
-Russia,member of the State Duma,Yuri Shvytkin,Q30879078,2021-10-12,,male,1965-05-24,,Юрий Швыткин (депутат).jpg,
+Russia,member of the State Duma,Yuri Shvytkin,Q30879078,2021-10-12,,male,1965-05-24,,Юрий Швыткин (депутат).jpg,Yury Shvytkin
 Russia,member of the State Duma,Vladislav Tretiak,Q316864,2021-10-12,,male,1952-04-25,,Vladislav Tretiak.JPG,Vladislav Tretiak
 Russia,member of the State Duma,Yury Afonin,Q3196127,2021-10-12,,male,1977-03-22,,Yury Afonin 2019-09-12.jpg,Yury Afonin
-Russia,member of the State Duma,,Q32362282,2021-10-12,,male,1975-05-01,,,
+Russia,member of the State Duma,"Кушнарёв, Виталий Васильевич",Q32362282,2021-10-12,,male,1975-05-01,,,
 Russia,member of the State Duma,Dmitry Pevtsov,Q3400285,2021-10-12,,male,1963-07-08,,2022 Dmitry Pevtsov.png,Dmitry Pevtsov
 Russia,member of the State Duma,Adam Delimkhanov,Q351025,2021-10-12,,male,1969-09-25,,Adam Delimkhanov 2018.jpg,Adam Delimkhanov
 Russia,member of the State Duma,Sergey Mironov,Q368947,2021-10-12,,male,1953-02-14,,Sergei Mironov IF 09-2013.jpg,Sergey Mironov
@@ -2644,23 +2658,23 @@ Russia,member of the State Duma,Valentina Pivnenko,Q4362360,2021-10-12,,female,1
 Russia,member of the State Duma,Vladimir Plotnikov,Q4365364,2021-10-12,,male,1961-11-30,,Vladimir Plotnikov 01.jpg,
 Russia,member of the State Duma,Aleksandr Prokopyev,Q4380372,2021-10-12,,male,1986-08-05,,AS Prokopiev.jpg,
 Russia,member of the State Duma,Valery Rashkin,Q4391353,2021-10-12,,male,1955-03-14,,Valery Rashkin.jpg,Valery Rashkin
-Russia,member of the State Duma,Yevgeny Revenko,Q4391661,2021-10-12,,male,1972-05-22,,Evgeniy Revenko 2018 (cropped).jpg,
+Russia,member of the State Duma,Yevgeny Revenko,Q4391661,2021-10-12,,male,1972-05-22,,Евгений Ревенко ГД.jpg,
 Russia,member of the State Duma,Vladislav Reznik,Q4392436,2021-10-12,,male,1954-05-17,,Vladislav Reznik.png,Vladislav Reznik
 Russia,member of the State Duma,Igor Rudenskiy,Q4399366,2021-10-12,,male,1962-09-11,,Igor Rudenskiy Jan2015 RT Moscow.jpg,
 Russia,member of the State Duma,Dmitry Sablin,Q4403533,2021-10-12,,male,1968-09-05,,Sablin d v.jpg,Dmitry Sablin
 Russia,member of the State Duma,Shamsail Saraliyev,Q4408310,2021-10-12,,male,1973-11-05,,518A8010.JPG,
 Russia,member of the State Duma,Gennady Semigin,Q4415436,2021-10-12,,male,1964-03-23,,Gennady Semigin.jpg,Gennady Semigin
-Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2021-10-12,,male,1949-07-19,,Leonid Simanovsky 2018.jpg,
+Russia,member of the State Duma,Leonid Jakovlevitsj Simanovskiy,Q4419490,2021-10-12,,male,1949-07-19,,Leonid Simanovsky 2018.jpg,Leonid Simanovsky
 Russia,member of the State Duma,Andrei Skoch,Q4422468,2021-10-12,,male,1966-01-30,,Andrey Skoch.jpg,Andrei Skoch
 Russia,member of the State Duma,Oleg Smolin,Q4425021,2021-10-12,,male,1952-02-10,,"Смолин, Олег Николаевич.png",Oleg Smolin
-Russia,member of the State Duma,Sergey Sokol,Q4426961,2021-10-12,,male,1970-12-17,,Sergey Sokol.jpg,
+Russia,member of the State Duma,Sergey Sokol,Q4426961,2021-10-12,,male,1970-12-17,,Sergey Sokol.jpg,Sergey Sokol
 Russia,member of the State Duma,Kazbek Taysayev,Q4450041,2021-10-12,,male,1967-02-12,,Казбек Тайсаев.jpg,
 Russia,member of the State Duma,Michail Vasilevitsj Tarasenko,Q4451621,2021-10-12,,male,1947-11-21,,М.В. Тароасенко.jpg,
 Russia,member of the State Duma,Sangadji Tarbaev,Q4451931,2021-10-12,,male,1982-04-15,,Сангаджи Андреевич Тарбаев.JPG,Sangadji Tarbaev
 Russia,member of the State Duma,Mikhail Terentiev,Q4455642,2021-10-12,,male,1970-05-14,,Mikhail Terentiev 2018.jpg,Mikhail Terentyev
 Russia,member of the State Duma,Pyotr Olegovich Tolstoy,Q4459965,2021-10-12,,male,1969-06-20,,Pyotr Tolstoy 2018.jpg,Pyotr Olegovich Tolstoy
 Russia,member of the State Duma,Maxim Topilin,Q4460667,2021-10-12,,male,1967-04-19,,Maksim Topilin 2017.jpg,Maxim Topilin
-Russia,member of the State Duma,,Q4475336,2021-10-12,,male,1962-04-03,,Сайгидпаша Умаханов.jpg,
+Russia,member of the State Duma,"Умаханов, Сайгидпаша Дарбишевич",Q4475336,2021-10-12,,male,1962-04-03,,Сайгидпаша Умаханов.jpg,
 Russia,member of the State Duma,Yevgeny Fyodorov,Q4493964,2021-10-12,,male,1963-05-11,,Fedorov Eugeny 20 july 2017.jpg,Yevgeny Alexeyevich Fyodorov
 Russia,member of the State Duma,Alexander Khinshtein,Q4497838,2021-10-12,,male,1974-10-26,,"Alexander Khinshtein, 2019.jpg",Alexander Khinshtein
 Russia,member of the State Duma,Galina Khovanskaya,Q4498598,2021-10-12,,female,1943-08-23,,Galina Khovanskaya (2019-12-17).jpg,Galina Khovanskaya
@@ -2721,31 +2735,31 @@ Russia,member of the State Duma,Alexander Yakubovsky,Q60389401,2021-10-12,,male,
 Russia,member of the State Duma,Natalya Vasilyevna Nazarova,Q60433375,2021-10-12,,female,1953-12-22,,Назарова Н.В.jpg,
 Russia,member of the State Duma,Leonid Ogul,Q60445162,2021-10-12,,male,1963-10-26,,Огуль Л.А.jpg,
 Russia,member of the State Duma,Nikolay Petrunin,Q60682885,2021-10-12,,male,1976-02-27,,Петрунин Н.Ю.jpg,
-Russia,member of the State Duma,,Q60826185,2021-10-12,,male,1969-08-17,,Vyacheslav Petrov.jpg,
+Russia,member of the State Duma,"Петров, Вячеслав Анатольевич",Q60826185,2021-10-12,,male,1969-08-17,,Vyacheslav Petrov.jpg,
 Russia,member of the State Duma,Alexander Majouga,Q60834597,2021-10-12,,male,1980-08-06,,Majouga A.G..jpg,
-Russia,member of the State Duma,Valeriy Skrug,Q60836532,2021-10-12,,male,1963-06-20,,В.С. Скруг.jpg,
+Russia,member of the State Duma,Valeriy Skrug,Q60836532,2021-10-12,,male,1963-06-20,,В.С. Скруг.jpg,Valery Skrug
 Russia,member of the State Duma,Aleksandr Polyakov,Q60838724,2021-10-12,,male,1969-01-31,,А.А. Поляков.png,
 Russia,member of the State Duma,Ivan Musatov,Q6097047,2021-10-12,,male,1976-02-14,,Ivan Musatov.jpg,Ivan Musatov
 Russia,member of the State Duma,Vyacheslav Loginov,Q60997838,2021-10-12,,male,1979-01-09,,Логинов Вячеслав Юрьевич.jpg,
 Russia,member of the State Duma,Viktor Seliverstov,Q61474081,2021-10-12,,male,1954-08-02,,В.В. Селиверстов.jpg,
-Russia,member of the State Duma,Aleksey Sitnikov,Q61595604,2021-10-12,,male,1971-06-19,,А.В. Ситников.jpg,
+Russia,member of the State Duma,Aleksey Sitnikov,Q61595604,2021-10-12,,male,1971-06-19,,А.В. Ситников.jpg,Alexey Sitnikov (politician)
 Russia,member of the State Duma,Khizri Abakarov,Q62714064,2021-10-12,,male,1960-06-28,,,Khizri Abakarov
 Russia,member of the State Duma,Evgeniy Markov,Q63515454,2021-10-12,,male,1973-11-08,,Депутат Государственной Думы России Евгений Марков.jpg,
 Russia,member of the State Duma,Elvira Aitkulova,Q64734131,2021-10-12,,female,1973-08-19,,Башҡорт Википедияһына 15 йыл 43.jpg,Elvira Aitkulova
 Russia,member of the State Duma,Andrey Kolesnik,Q65158492,2021-10-12,,male,1960-02-26,,Andrey Kolesnik.jpg,Andrey Kolesnik
 Russia,member of the State Duma,Robert Kochiev,Q65158617,2021-10-12,,male,1966-03-16,,Robert Kochiev.jpg,
-Russia,member of the State Duma,,Q70252960,2021-10-12,,male,1950-02-23,,Sobolev Viktor Ivanovich.jpg,
+Russia,member of the State Duma,"Соболев, Виктор Иванович",Q70252960,2021-10-12,,male,1950-02-23,,Sobolev Viktor Ivanovich.jpg,
 Russia,member of the State Duma,Oleg Matveychev,Q7086097,2021-10-12,,male,1970-02-01,,MatveytchevOA.jpg,Oleg Matveychev
 Russia,member of the State Duma,Anatoly Lisitsyn,Q840698,2021-10-12,,male,1947-06-26,,Anatoly Lisitsyn (2021-10-11).jpg,Anatoly Lisitsyn
-Russia,member of the State Duma,,Q84720974,2021-10-12,,male,1958-07-04,,Стрелюхин Александр Михайлович.jpg,
+Russia,member of the State Duma,"Стрелюхин, Александр Михайлович",Q84720974,2021-10-12,,male,1958-07-04,,Стрелюхин Александр Михайлович.jpg,
 Russia,member of the State Duma,Aleksandr Terentyev,Q85013136,2021-10-12,,male,1961-01-01,,Aleksandr Terentyev.jpg,
 Russia,member of the State Duma,Sergey Burlakov,Q85858557,2021-10-12,,male,1971-05-26,,Сергей Бурлаков.jpg,Sergey Burlakov
 Russia,member of the State Duma,Bekhan Agaev,Q86830849,2021-10-12,,male,1975-03-29,,Bekhan Agaev.jpg,Bekkhan Agayev
 Russia,member of the State Duma,Aleksandr Samokutyayev,Q928034,2021-10-12,,male,1970-03-13,,Aleksandr Samokutyayev 2011.jpg,Aleksandr Samokutyaev
 Russia,member of the State Duma,Sholban Kara-ool,Q967028,2021-10-12,,male,1966-07-18,,Sholban Kara-ool (2016-03-03).jpg,Sholban Kara-ool
-Russia,member of the State Duma,,Q97198619,2021-10-12,,female,1981-03-11,,,
-Russia,member of the State Duma,,Q97709177,2021-10-12,,male,1965-04-28,,,
-Russia,member of the State Duma,,Q97760452,2021-10-12,,male,1963-09-04,,Кабышев Сергей Владимирович.jpeg,
+Russia,member of the State Duma,"Полуянова, Наталия Владимировна",Q97198619,2021-10-12,,female,1981-03-11,,,
+Russia,member of the State Duma,"Свистунов, Аркадий Николаевич",Q97709177,2021-10-12,,male,1965-04-28,,,
+Russia,member of the State Duma,"Кабышев, Сергей Владимирович",Q97760452,2021-10-12,,male,1963-09-04,,Кабышев Сергей Владимирович.jpeg,
 Russia,member of the State Duma,Vladimir Ilinykh,Q98085238,2021-10-12,,male,1975-05-20,,,Vladimir Ilinykh
 Russia,member of the State Duma,Vyacheslav Volodin,Q982461,2021-10-12,,male,1964-02-04,,Володин В.В.jpg,Vyacheslav Volodin
 Russia,member of the State Duma,Vladimir Resin,Q983851,2021-10-12,,male,1936-02-21,,Vladimir Resin 2018.jpg,Vladimir Resin
@@ -2797,7 +2811,7 @@ Russia,member of the Federation Council of Russia,Anatoly Saltykov,Q24352137,200
 Russia,member of the Federation Council of Russia,Viktor Shudegov,Q4527351,2001-04-17,2007-12-07,male,1952-12-05,2020-05-16,Viktor Shudegov.jpg,Viktor Shudegov
 Russia,member of the Federation Council of Russia,Adam Tleuzh,Q18278741,2001-04-18,2007-02-02,male,1951-07-23,,Тлеуж Адам Хусейнович.jpg,
 Russia,member of the Federation Council of Russia,Valentina Dyomina,Q108067000,2001-04-25,2005-09-21,female,1949-10-01,,,
-Russia,member of the Federation Council of Russia,Yury Volkov,Q4123361,2001-04-25,2002-01-23,male,1954-09-19,,Yuri Volkov.jpg,
+Russia,member of the Federation Council of Russia,Yury Volkov,Q4123361,2001-04-25,2002-01-23,male,1954-09-19,,Yuri Volkov.jpg,Yury Volkov
 Russia,member of the Federation Council of Russia,Oleg Panteleyev,Q28354848,2001-04-26,2014-09-26,male,1952-07-21,2016-09-15,Oleg Panteleev.jpg,Oleg Panteleyev
 Russia,member of the Federation Council of Russia,Valentina Petrenko,Q4360473,2001-04-26,2011-11-25,female,1955-08-23,,Valentina Petrenko 2016.jpg,Valentina Petrenko
 Russia,member of the Federation Council of Russia,Arkady Sarkisyan,Q4408649,2001-04-26,2006-06-02,male,1959-02-23,,Arkady Sarkisyan.jpg,
@@ -2842,7 +2856,7 @@ Russia,member of the Federation Council of Russia,Boris Tretyak,Q28354838,2001-1
 Russia,member of the Federation Council of Russia,VIiktor Stepanov,Q4441791,2001-12-14,2006-04-07,male,1947-01-27,,Степанов Виктор Николаевич.jpg,Viktor Stepanov (politician)
 Russia,member of the Federation Council of Russia,Galina Buslova,Q55651074,2001-12-14,2007-09-19,female,1946-05-10,,Galina Semyonovna Buslova.jpg,
 Russia,member of the Federation Council of Russia,Andrey Chirkin,Q100869490,2001-12-15,2005,male,1961-03-15,,,
-Russia,member of the Federation Council of Russia,Wiktor Alexejewitsch Oserow,Q19311626,2001-12-15,2019-10-23,male,1958-01-05,,Victor Ozerov.jpg,Viktor Ozerov
+Russia,member of the Federation Council of Russia,Viktor Alekseyevich Ozerov,Q19311626,2001-12-15,2019-10-23,male,1958-01-05,,Victor Ozerov.jpg,Viktor Ozerov
 Russia,member of the Federation Council of Russia,Vladimir Nikitov,Q106778328,2001-12-18,2002-07-04,male,1951-09-04,,,
 Russia,member of the Federation Council of Russia,Vladimir Bavlov,Q55650549,2001-12-18,2004-07-01,male,1947-05-24,,Vladimir Bavlov.jpg,
 Russia,member of the Federation Council of Russia,Yury Alaferovsky,Q4060543,2001-12-20,2006-01-25,male,1942-06-11,2009-05-26,Yuri Alaferovsky.jpg,
@@ -2890,7 +2904,7 @@ Russia,member of the Federation Council of Russia,Vladimir Sloutsker,Q4424063,20
 Russia,member of the Federation Council of Russia,Mikhail Nikolayev,Q2390534,2002-01-28,2010-06-23,male,1937-11-13,,NikolaevME.jpg,Mikhail Nikolayev
 Russia,member of the Federation Council of Russia,Robert Burnashov,Q25641519,2002-01-28,2003-01-23,male,1947-01-20,2003-01-29,,
 Russia,member of the Federation Council of Russia,Mikhail Gloubokovsky,Q28497366,2002-01-30,2002-11-27,male,1948-09-20,,Mikhail Gloubokovsky.jpg,
-Russia,member of the Federation Council of Russia,Yury Volkov,Q4123361,2002-01-31,2002-09-26,male,1954-09-19,,Yuri Volkov.jpg,
+Russia,member of the Federation Council of Russia,Yury Volkov,Q4123361,2002-01-31,2002-09-26,male,1954-09-19,,Yuri Volkov.jpg,Yury Volkov
 Russia,member of the Federation Council of Russia,Anatoly Lyskov,Q4270684,2002-01-31,2014-09-26,male,1947-03-08,,Anatoly Lyskov.jpg,
 Russia,member of the Federation Council of Russia,Andrey Artyukhov,Q108040998,2002-02-14,2005-11-23,male,1958-04-18,,,
 Russia,member of the Federation Council of Russia,Boris Agapov,Q4056625,2002-02-19,2005-10-12,male,1946-02-06,,Boris Agapov.jpg,
@@ -3263,7 +3277,7 @@ Russia,member of the Federation Council of Russia,Eduard Isakov,Q4203649,2015-09
 Russia,member of the Federation Council of Russia,Nikolay Vasilyevich Fyodorov,Q734866,2015-09-15,,male,1958-05-09,,"Nikolay Vasilyevich Fyodorov, November 2018.jpg",Nikolay Fyodorov (politician)
 Russia,member of the Federation Council of Russia,Oleg Morozov,Q4302998,2015-09-18,2020-09-18,male,1953-11-05,,Oleg Morozov.jpg,Oleg Viktorovich Morozov
 Russia,member of the Federation Council of Russia,Vasily Bochkaryov,Q4095390,2015-09-21,2016-06-22,male,1949-04-29,2016-06-22,Vasiliy Bochkariov.jpg,Vasily Bochkaryov
-Russia,member of the Federation Council of Russia,Yury Volkov,Q4123361,2015-09-21,2020-01-22,male,1954-09-19,,Yuri Volkov.jpg,
+Russia,member of the Federation Council of Russia,Yury Volkov,Q4123361,2015-09-21,2020-01-22,male,1954-09-19,,Yuri Volkov.jpg,Yury Volkov
 Russia,member of the Federation Council of Russia,Alexander Georgievich Suvorov,Q55106913,2015-09-21,2018-09-27,male,1957-11-04,,Alexander Georgievich Suvorov (cropped).jpg,
 Russia,member of the Federation Council of Russia,Konstantin Kosachev,Q736840,2015-09-21,,male,1962-09-17,,Konstantin Kosachev 2021-02-15 (cropped).jpg,Konstantin Kosachev
 Russia,member of the Federation Council of Russia,Aleksey Kondratyev,Q15069303,2015-09-22,2020-09-22,male,1971-09-30,,Alexey Kondratyev 2019.jpg,
@@ -3350,7 +3364,7 @@ Russia,member of the Federation Council of Russia,Vladimir Igorevich Kozhin,Q422
 Russia,member of the Federation Council of Russia,Sergey Brilka,Q29864930,2018-09-20,,male,1954-03-14,,Sergey Brilka.jpg,
 Russia,member of the Federation Council of Russia,Victor Novozhilov,Q28500214,2018-09-21,,male,1965-02-16,,Новожилов Виктор Федосьевич (cropped).jpg,
 Russia,member of the Federation Council of Russia,Natalya Kosikhina,Q62713767,2018-09-25,,female,1972-08-07,,Nataliia Kosikhina (cropped).jpg,
-Russia,member of the Federation Council of Russia,Viktor Smirnov,Q18277846,2018-09-27,2021-09,male,1968-09-09,,Viktor Smirnov.jpg,
+Russia,member of the Federation Council of Russia,Viktor Smirnov,Q18277846,2018-09-27,2021-09,male,1968-09-09,,Viktor Smirnov.jpg,Viktor Smirnov
 Russia,member of the Federation Council of Russia,Ivan Abramov,Q4054921,2018-09-27,,male,1978-06-16,,Иван Николаевич Абрамов.jpg,
 Russia,member of the Federation Council of Russia,Pavel Vladimirovitsj Tarakanov,Q4451506,2018-09-27,,male,1982-06-21,,Pavel Tarakanov.jpg,
 Russia,member of the Federation Council of Russia,Sergey Leonov,Q57204406,2018-09-27,2021-10-06,male,1983-05-09,,Sergey Leonov.jpg,Sergey Leonov
@@ -3383,7 +3397,7 @@ Russia,member of the Federation Council of Russia,Sergey Gornyakov,Q71164393,201
 Russia,member of the Federation Council of Russia,Dina Oyun,Q84719197,2019-10-14,,female,1963-06-25,,,
 Russia,member of the Federation Council of Russia,Aleksey Orlov,Q466927,2019-10-23,,male,1961-10-09,,Alexei Orlov 17757 (cropped).jpeg,Aleksey Orlov (politician)
 Russia,member of the Federation Council of Russia,Dmitry Priyatnov,Q76446687,2019-10-23,2019-10-31,male,1978-07-27,,,
-Russia,member of the Federation Council of Russia,Vladimir Lakunin,Q75330465,2019-11-14,2020-09-21,male,1962-10-04,,,
+Russia,member of the Federation Council of Russia,Vladimir Lakunin,Q75330465,2019-11-14,2020-09-21,male,1962-10-04,,,Vladimir Lakunin
 Russia,member of the Federation Council of Russia,Mokhmad Akhmadov,Q84720768,2019-11-14,,male,1972-04-17,,Mokhmad Akhmadov (cropped).jpg,
 Russia,member of the Federation Council of Russia,Sergey Bezdenezhnykh,Q84722539,2019-12-05,,male,1979-08-25,,БЕЗДеженых сергей.jpg,Sergey Bezdenezhnykh
 Russia,member of the Federation Council of Russia,Anatoly Artamonov,Q1778728,2020-02-14,,male,1952-05-05,,Anatoly Artamonov 17718.jpeg,Anatoly Artamonov
@@ -3437,3 +3451,4 @@ Russia,member of the Federation Council of Russia,Aleksandr Bryksin,Q4097351,202
 Russia,member of the Federation Council of Russia,Alexander Vysokinskij,Q60367985,2021-10-08,,male,1973-09-24,,Vysokinskij.jpg,
 Russia,member of the Federation Council of Russia,Alexander Yaroshuk,Q4538993,2021-10-21,,male,1965-11-15,,Alexander G. Yarashuk (2015-11-06).jpg,Alexander Yaroshuk
 Russia,member of the Federation Council of Russia,Nikolay Kondratyuk,Q110817787,2021-12-21,,male,1957-07-11,,,
+Russia,Member of Moscow City Duma,Nikolai Gubenko,Q1983805,2005,2020,male,1941-08-17,2020-08-16,Nikolai Gubenko (cropped).jpg,Nikolai Gubenko

@@ -3,7 +3,7 @@ Armenia,President,Robert Kocharyan,Q613051,1998-04-09,2008-04-09,male,1954-08-31
 Armenia,President,Serzh Sargsyan,Q612803,2008-04-09,2018-04-09,male,1954-06-30,,Serzh Sargsyan official portrait.jpg,Serzh Sargsyan
 Armenia,President,Armen Sarkissian,Q93153,2018-04-09,2022-02-01,male,1953-06-23,,President of the Republic of Armenia Armen Sarkissian (cropped).jpg,Armen Sarkissian
 Armenia,President,Alen Simonyan,Q20513503,2022-02-01,2022-03-13,male,1980-01-05,,Alen Simonyan1.jpg,Alen Simonyan
-Armenia,President,Vahagn Khachatryan,Q3553274,2022-03-13,,male,1959-07-26,,Vahagn Khachaturyan 2021.jpg,Vahagn Khachaturyan
+Armenia,President,Vahagn Khachatryan,Q3553274,2022-03-13,,male,1959-07-26,,Vahagn Khachaturyan portrait (cropped).jpg,Vahagn Khachaturyan
 Armenia,Prime Minister,Aram Sargsyan,Q501736,1999-11-03,2000-05-02,male,1961-01-02,,Aram Sargsyan 2010.jpg,Aram Sargsyan
 Armenia,Prime Minister,Andranik Margaryan,Q215782,2000-05-12,2007-03-25,male,1951-06-12,2007-03-25,AndranikMargaryan (cropped2).jpg,Andranik Margaryan
 Armenia,Prime Minister,Serzh Sargsyan,Q612803,2007-04-04,2008-04-09,male,1954-06-30,,Serzh Sargsyan official portrait.jpg,Serzh Sargsyan
@@ -39,13 +39,13 @@ Armenia,Minister of Emergency Situations,Feliks Tsolakyan,Q4506053,2018-10-04,20
 Armenia,Minister of Emergency Situations,Andranik Piloyan,Q100691234,2020-11-20,,male,1962,,,
 Armenia,Minister of Environment,Romanos Petrosyan,Q56121104,2020-07-30,2021-12-09,male,1979-08-26,,Ռոմանոս Պետրոսյան.jpg,
 Armenia,Minister of Environment,Hakob Simidyan,Q60492375,2021-12-10,,male,1984-04-20,,Հակոբ Սիմիդյան («Իմ Քայլը» դաշինք).png,
-Armenia,Minister of Finance,,Q4078776,1999-06-15,2000-11-11,male,1958-04-06,,,
+Armenia,Minister of Finance,Levon Barkhudaryan,Q4078776,1999-06-15,2000-11-11,male,1958-04-06,,,
 Armenia,Minister of Finance,Vardan Khachatryan,Q4496712,2000-11-11,2008-04-09,male,1959-04-06,,,
-Armenia,Minister of Finance,,Q4153681,2008-04-21,2010-12-17,male,1961-06-04,,,
+Armenia,Minister of Finance,Tigran Davtyan,Q4153681,2008-04-21,2010-12-17,male,1961-06-04,,,
 Armenia,Minister of Finance,Vache Gabrielyan,Q7907998,2010-12-17,2013-04-09,male,1968-11-24,,Vache Gabrielyan.jpg,Vache Gabrielyan
 Armenia,Minister of Finance,David Sargsyan,Q4408655,2013-05-09,2014-04-26,male,1977-07-14,,David Sargsyan.jpg,David Sargsyan
 Armenia,Minister of Finance,Gagik Khachatryan,Q13052485,2014-04-26,2016-09-20,male,1955-11-26,,Gagik-Khachatryan-Armenia-Minister.jpg,Gagik Khachatryan (politician)
-Armenia,Minister of Finance,,Q21209929,2016-09-20,2018-05-12,male,1975-12-04,,,
+Armenia,Minister of Finance,Vardan Aramyan,Q21209929,2016-09-20,2018-05-12,male,1975-12-04,,,
 Armenia,Minister of Finance,Atom Janjughazyan,Q21212607,2018-05-12,2021-08-02,male,1971-03-22,,,
 Armenia,Minister of Finance,Tigran Khachatryan,Q108315666,2021-08-02,,male,1970-12-11,,,
 Armenia,Minister of Foreign Affairs,Vartan Oskanian,Q1974113,1998-02,2008-04,male,1955-02-07,,Vartan Oskanian.jpg,Vartan Oskanian
@@ -57,7 +57,7 @@ Armenia,Minister of Foreign Affairs,Ararat Mirzoyan,Q31196321,2021-08-19,,male,1
 Armenia,Minister of Health,Anahit Avanesian,Q87244322,2021-01,,female,1981-03-21,,,Anahit Avanesian
 Armenia,Minister of High-Tech Industry,Hakob Arshakyan,Q56880432,2019,2021,male,1985-04-16,,,
 Armenia,Minister of High-Tech Industry,Hayk Chobanyan,Q61667659,2021-04-02,2021-08-04,male,1973-03-05,,Hayk Chobanyan IMG.jpg,Hayk Chobanyan
-Armenia,Minister of High-Tech Industry,Vahagn Khachatryan,Q3553274,2021-08-02,2022-03-03,male,1959-07-26,,Vahagn Khachaturyan 2021.jpg,Vahagn Khachaturyan
+Armenia,Minister of High-Tech Industry,Vahagn Khachatryan,Q3553274,2021-08-02,2022-03-03,male,1959-07-26,,Vahagn Khachaturyan portrait (cropped).jpg,Vahagn Khachaturyan
 Armenia,Minister of Internal Affairs,Hayk Harutyunyan,Q13053595,1999-11,2001-12,male,1955-10-20,2019-09-23,,
 Armenia,Minister of Justice,Davit Harutyunyan,Q4070525,1998,2007,male,1963-03-05,,,Davit Harutyunyan
 Armenia,Minister of Justice,Arpine Hovhannisyan,Q21212025,2015-09-04,2017,female,1983-12-04,,Arpine Hovhannisyan.png,Arpine Hovhannisyan
@@ -70,7 +70,6 @@ Armenia,Minister of Labor and Social Affairs,Narek Mkrtchyan,Q63762730,2021-04-2
 Armenia,Minister of Labor and Social Affairs,Narek Mkrtchyan,Q63762730,2021-04-23,2021-08-02,male,1989-06-20,,,
 Armenia,Minister of Territorial Administration and Infrastructures,Gnel Sanosyan,Q57269722,2021-08-02,,male,1983-10-07,,Gnel Sanosyan.jpg,
 Armenia,"Minister of Transport, Communication and Information Technologies",Hakob Arshakyan,Q56880432,2018-10-04,2019-06-01,male,1985-04-16,,,
-Armenia,Minister of State for Immigration and Registration of Persons,Otieno Kajwang,Q7108730,2008,2013,male,1959-07-15,2014-11-18,"Gerald Otieno Kajwang Tartus, 9. mai 2014 - Foto Lilian Lukka.jpg",Otieno Kajwang
 Armenia,Chief of the General Staff,Mikael Harutyunyan,Q4070523,1995,2007-04-04,male,1946-02-10,,,Mikael Harutyunyan
 Armenia,Chief of the General Staff,Seyran Ohanyan,Q2634821,2007-05,2008-04-14,male,1962-07-01,,Seyran Ohanyan at the Pentagon 2012 crop.jpg,Seyran Ohanyan
 Armenia,Chief of the General Staff,Yuri Khatchaturov,Q4496740,2008-04-15,2016-10-03,male,1952-05-01,,Meeting with CSTO Secretary General Yury Khachaturov.jpg,Yuri Khatchaturov

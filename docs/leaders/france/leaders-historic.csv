@@ -2,7 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 France,President,Jacques Chirac,Q2105,1995-05-17,2007-05-16,male,1932-11-29,2019-09-26,Jacques Chirac (1997) (cropped).jpg,Jacques Chirac
 France,President,Nicolas Sarkozy,Q329,2007-05-16,2012-05-15,male,1955-01-28,,Nicolas Sarkozy (2015-10-29) 03 (cropped).jpg,Nicolas Sarkozy
 France,President,François Hollande,Q157,2012-05-15,2017-05-14,male,1954-08-12,,Francois Hollande 2015.jpeg,François Hollande
-France,President,Emmanuel Macron,Q3052772,2017-05-14,,male,1977-12-21,,Emmanuel Macron in July 2017.jpg,Emmanuel Macron
+France,President,Emmanuel Macron,Q3052772,2017-05-14,,male,1977-12-21,,Emmanuel Macron (cropped).jpg,Emmanuel Macron
 France,Prime Minister,Lionel Jospin,Q187099,1997-06-03,2002-05-06,male,1937-07-12,,"Lionel Jospin, mai 2014, Rennes, France (cropped).jpg",Lionel Jospin
 France,Prime Minister,Jean-Pierre Raffarin,Q63263,2002-05-06,2005-05-31,male,1948-08-03,,Jean-Pierre Raffarin par Claude Truong-Ngoc 2013.jpg,Jean-Pierre Raffarin
 France,Prime Minister,Dominique de Villepin,Q131660,2005-05-31,2007-05-17,male,1953-11-14,,Dominique de Villepin (2010).jpg,Dominique de Villepin
@@ -78,7 +78,7 @@ France,"Minister of the Economy, Finances and Industry",Michel Sapin,Q713296,201
 France,"Minister of the Economy, Finances and Industry",Michel Sapin,Q713296,2016-12-06,2017-05-15,male,1952-04-09,,Michel sapin mars 2015-wikipedia1 (cropped).jpg,Michel Sapin
 France,"Minister of the Economy, Finances and Industry",Bruno Le Maire,Q993472,2017-05-15,2017-06-21,male,1969-04-15,,Bruno Le Maire par Claude Truong-Ngoc novembre 2014.jpg,Bruno Le Maire
 France,"Minister of the Economy, Finances and Industry",Bruno Le Maire,Q993472,2017-06-21,,male,1969-04-15,,Bruno Le Maire par Claude Truong-Ngoc novembre 2014.jpg,Bruno Le Maire
-France,"Minister of Economy, Industry and Digital",Emmanuel Macron,Q3052772,2014-08-26,2016-08-30,male,1977-12-21,,Emmanuel Macron in July 2017.jpg,Emmanuel Macron
+France,"Minister of Economy, Industry and Digital",Emmanuel Macron,Q3052772,2014-08-26,2016-08-30,male,1977-12-21,,Emmanuel Macron (cropped).jpg,Emmanuel Macron
 France,Minister of Europe and Foreign Affairs,Jean-Yves Le Drian,Q559040,2017-05-17,2017-06-21,male,1947-06-30,,"Reuven Rivlin at a meeting with Jean-Yves Le Drian, March 2018 (9730) (cropped).jpg",Jean-Yves Le Drian
 France,Minister of Europe and Foreign Affairs,Jean-Yves Le Drian,Q559040,2017-06-21,,male,1947-06-30,,"Reuven Rivlin at a meeting with Jean-Yves Le Drian, March 2018 (9730) (cropped).jpg",Jean-Yves Le Drian
 France,Minister of European Affairs,Noëlle Lenoir,Q529265,2002-06-17,2004-03-31,female,1948-04-27,,Noëlle Lenoir 2.jpg,Noëlle Lenoir
@@ -105,6 +105,7 @@ France,Minister of Higher Education,Geneviève Fioraso,Q283173,2014-04-09,2015-0
 France,"Minister of Higher Education, Research and Innovation",Claude Allègre,Q1096420,1997-06-04,2000-03-27,male,1937-03-31,,"Claude Allègre, 2009 (cropped).jpg",Claude Allègre
 France,"Minister of Higher Education, Research and Innovation",Frédérique Vidal,Q28950190,2017-05-17,,female,1964-05-09,,Frédérique Vidal - 2019 (cropped).jpg,Frédérique Vidal
 France,Minister of the Interior,Jean-Pierre Chevènement,Q736502,1998-12-30,2000-08-29,male,1939-03-09,,2014-07-14 11-07-47 defile-militaire-belfort (cropped).jpg,Jean-Pierre Chevènement
+France,Minister of the Interior,Natan Sharansky,Q360961,1999-07-06,2000-07-11,male,1948-01-20,,Natan Shernasky1.JPG,Natan Sharansky
 France,Minister of the Interior,Daniel Vaillant,Q1905371,2000-08-29,2002-05-07,male,1949-07-19,,Daniel Vaillant1 (5).JPG,Daniel Vaillant
 France,Minister of the Interior,Nicolas Sarkozy,Q329,2002-05-07,2002-06-17,male,1955-01-28,,Nicolas Sarkozy (2015-10-29) 03 (cropped).jpg,Nicolas Sarkozy
 France,Minister of the Interior,Nicolas Sarkozy,Q329,2002-06-17,2004-03-30,male,1955-01-28,,Nicolas Sarkozy (2015-10-29) 03 (cropped).jpg,Nicolas Sarkozy
@@ -166,8 +167,8 @@ France,Minister of Sport,Laura Flessel-Colovic,Q239263,2017-05-17,2018-09-04,fem
 France,Minister of Sport,Roxana Maracineanu,Q446170,2018-09-04,2020-07-06,female,1975-05-07,,Roxana Maracineanu - 2018 (cropped).jpg,Roxana Mărăcineanu
 France,Minister of Territorial Development,Richard Ferrand,Q3430759,2017-05-17,2017-06-21,male,1962-07-01,,Richard Ferrand 2008.jpg,Richard Ferrand
 France,Minister of Territorial Development,Jacques Mézard,Q3159636,2017-06-21,2020-07-06,male,1947-12-03,,Jacques Mézard ministre.jpg,Jacques Mézard
-France,Minister of Territorial Development,Jacqueline Gourault,Q3157735,2018-10-16,,female,1950-11-20,,Informal meeting of justice and home affairs ministers.Arrivals (Home Affairs) Jacqueline Gourault (34910260564) (cropped).jpg,Jacqueline Gourault
-France,Minister of Territorial Development,Jacqueline Gourault,Q3157735,2018-10-16,2020-07-03,female,1950-11-20,,Informal meeting of justice and home affairs ministers.Arrivals (Home Affairs) Jacqueline Gourault (34910260564) (cropped).jpg,Jacqueline Gourault
+France,Minister of Territorial Development,Jacqueline Gourault,Q3157735,2018-10-16,2022-03-05,female,1950-11-20,,Informal meeting of justice and home affairs ministers.Arrivals (Home Affairs) Jacqueline Gourault (34910260564) (cropped).jpg,Jacqueline Gourault
+France,Minister of Territorial Development,Joël Giraud,Q637002,2022-03-05,,male,1959-10-14,,Joël Giraud.jpg,Joël Giraud
 France,Minister for Transport,Jean-Baptiste Djebbari,Q30343005,2019-09-03,,male,1982-02-26,,Jean-Baptiste Djebbari - 2019 (cropped).jpg,Jean-Baptiste Djebbari
 France,Minister of Veterans Affairs,Hamlaoui Mekachera,Q3126470,2004-03,2007-05,male,1930-09-17,2018-10-17,"Hamlaoui Mekachera (20e Maghreb des Livres, Paris, 8 février 2014).jpg",
 France,Minister of State for Biodiversity,Bérangère Abba,Q30339386,2020-07-25,,female,1976-10-22,,Bérangère Abba.jpg,Bérangère Abba
@@ -176,8 +177,8 @@ France,Minister of State for Disabled People,Dominique Gillot,Q3035194,2001-02-0
 France,Minister of State for Disabled People,Sophie Cluzel,Q3490886,2017-05-17,,female,1961-01-07,,Sophie Cluzel 2018-04-06 lancement stratégie autisme 2018-2022 (3).jpg,Sophie Cluzel
 France,Minister of State for Pensions and Occupational Health,Laurent Pietraszewski,Q30385534,2019-12-17,,male,1966-11-19,,Laurent Pietraszewski 2017.jpg,Laurent Pietraszewski
 France,Minister of State for Pensions and Occupational Health,Laurent Pietraszewski,Q30385534,2019-12-17,2020-07-03,male,1966-11-19,,Laurent Pietraszewski 2017.jpg,Laurent Pietraszewski
-France,Minister of State for Priority Education Policy,Nathalie Élimas,Q30511578,2020-07,,female,1973-06-05,,PAGE 3 - DANS L'HEMICYCLE ASSEMBLEE NATIONALE.jpg,Nathalie Élimas
-France,Minister of State for Rural Affairs,Joël Giraud,Q637002,2020-07-06,,male,1959-10-14,,Joël Giraud.jpg,Joël Giraud
+France,Minister of State for Priority Education Policy,Nathalie Élimas,Q30511578,2020-07-26,2022-03-05,female,1973-06-05,,NathalieAvyElimas.jpg,Nathalie Élimas
+France,Minister of State for Rural Affairs,Joël Giraud,Q637002,2020-07-06,2022-03-05,male,1959-10-14,,Joël Giraud.jpg,Joël Giraud
 France,"Minister of State for Tourism, French Nationals Abroad and Francophonie",Amélie de Montchalin,Q30379410,2019-03-31,2020-07-06,female,1985-06-19,,Amélie de Montchalin.jpg,Amélie de Montchalin
 France,"Minister of State for Tourism, French Nationals Abroad and Francophonie",Jean-Baptiste Lemoyne,Q18202528,2020-07-25,2021-12-11,male,1977-09-15,,Jean-Baptiste Lemoyne (cropped).jpg,Jean-Baptiste Lemoyne (politician)
 France,Minister of State for Youth and Engagement,Sarah El Haïry,Q30343245,2020-07-26,,female,1989-03-16,,Sarah-El-Haïry.jpg,Sarah El Haïry
@@ -245,7 +246,7 @@ France,Government Spokesperson,Christophe Castaner,Q1726930,2017-06-21,2017-11-2
 France,Government Spokesperson,Benjamin Griveaux,Q29210910,2017-11-24,2019-03-27,male,1977-12-29,,Benjamin Griveaux (40581872673).jpg,Benjamin Griveaux
 France,Government Spokesperson,Sibeth Ndiaye,Q29867485,2019-03-31,2020-07-03,female,1979-12-13,,Sibeth-Ndiaye-le-17-mai-2019-à-Poitiers (cropped).jpg,Sibeth Ndiaye
 France,Government Spokesperson,Gabriel Attal,Q30339350,2020-07-06,,male,1989-03-16,,ATTAL Gabriel - 20200916.jpg,Gabriel Attal
-France,Chief of Staff of the Army,,Q60499624,1999-01-20,2002-08-30,male,,,,
+France,Chief of Staff of the Army,Yves Crène,Q60499624,1999-01-20,2002-08-30,male,,,,
 France,Chief of Staff of the Army,Bernard Thorette,Q33104780,2002-09-01,2006-07-15,male,1945-10-20,,,
 France,Chief of Staff of the Army,Bruno Cuche,Q2926718,2006-07-16,2008-07-01,male,1948-04-13,,Bruno Cuche par Claude Truong-Ngoc novembre 2014.jpg,
 France,Chief of Staff of the Army,Elrick Irastorza,Q3051692,2008-07-02,2011-08-31,male,1950-09-29,,Elrick Irastorza-120109-M-0884D-005b.jpg,Elrick Irastorza
@@ -354,7 +355,7 @@ France,ambassador to Cambodia,Eva Nguyen Binh,Q50689540,2017,2021,female,1970-09
 France,ambassador to Cameroon,Christine Robichon,Q33232520,2013-10,2016-09-01,female,1956-09-29,,,
 France,ambassador to Canada,Denis Bauchard,Q29609423,1998,2001,male,1936-09-20,,,
 France,ambassador to Canada,Philippe Guelluy,Q29608940,2001,2004,male,1941-11-30,,,
-France,ambassador to Canada,Daniel Jouanneau,Q5217730,2004,2008,male,1946-09-15,,,Daniel Jouanneau
+France,ambassador to Canada,Daniel Jouanneau,Q5217730,2004,2008,male,1946-09-15,,Daniel jouanneau reims 1308057.jpg,Daniel Jouanneau
 France,ambassador to Canada,François Delattre,Q4157031,2008,2011,male,1963-11-15,,"Francois Delattre, Permanent Representative of France to the UN (35763006325).jpg",François Delattre
 France,ambassador to Canada,Philippe Zeller,Q24054581,2011-08-01,2015-01-09,male,1952-10-03,,,
 France,ambassador to Canada,Nicolas Chapuis,Q3340186,2015-01-09,2017,male,1957-11-08,,Nicolas Chapuis.jpg,
@@ -386,9 +387,10 @@ France,ambassador to the Comoros,Jacqueline Bassa-Mazzoni,Q28033557,2017,,female
 France,ambassador to Costa Rica,Fabrice Delloye,Q23868608,2008,2013,male,1951-01-27,,,
 France,ambassador to Costa Rica,Thierry Vankerk-Hoven,Q50689989,2016,,male,1955-05-29,,,
 France,ambassador to Croatia,Albert Turot,Q76943891,1999,2001,male,1936-05-02,,,
+France,ambassador to Croatia,Francis Bellanger,Q42432076,2001,2004,male,1941-01-28,,,
 France,ambassador to Croatia,François Saint-Paul,Q29019464,2004,2009,male,1958-03-03,,,
 France,ambassador to Croatia,Jérôme Pasquier,Q33120554,2009-06,2012,male,1957-04-10,,,
-France,ambassador to Croatia,Corinne Brunon-Meunier,Q50690126,2016,,female,1956-10-19,,,
+France,ambassador to Croatia,Corinne Brunon-Meunier,Q50690126,2016,2019,female,1956-10-19,,,
 France,ambassador to Croatia,Philippe Meunier,Q50690383,2016,,male,1953-10-19,,,
 France,ambassador in Cuba,Yvon Roé d'Albert,Q33220580,1997,2000,male,1945-10-04,,,
 France,ambassador in Cuba,Jean Lévy,Q66370779,2000,2003,male,,,,
@@ -474,7 +476,7 @@ France,ambassador to Germany,Anne-Marie Descôtes,Q28819229,2017-06,,female,1959
 France,ambassador to Greece,Jean-Maurice Ripert,Q3167909,2000-07,2003-09,male,1953-06-22,,Jean-Maurice Ripert.jpeg,Jean-Maurice Ripert
 France,ambassador to Greece,Bruno Delaye,Q993184,2003,2007,male,1952-05-08,,,
 France,ambassador to Greece,Christophe Chantepy,Q2966144,2015,2019,male,1959-08-08,,,
-France,ambassador to Greece,Patrick Maisonnave,Q18402388,2019,,male,1963-09-06,,,
+France,ambassador to Greece,Patrick Maisonnave,Q18402388,2019,,male,1963-09-06,,Nikos Dendias & Patrick Maisonnave 01 (cropped) - Patrick Maisonnave.jpg,
 France,ambassador to Guatemala,Michèle Ramis,Q33108571,2008,2010,female,1956-07-02,,,
 France,ambassador to Guatemala,Jean-Hugues Simon-Michel,Q33283975,2015,2018,male,1965-10-01,,,
 France,ambassador to Guatemala,Jean-François Charpentier,Q54322351,2018,,male,,,,
@@ -540,7 +542,7 @@ France,ambassador to Ireland,Vincent Guérend,Q49284021,2020-09-23,,male,,,,
 France,ambassador to Israel,Jacques Huntzinger,Q1677979,1999,2003,male,1943-01-08,,,Jacques Huntzinger
 France,ambassador to Israel,Gérard Araud,Q1558943,2003,2006,male,1953-02-20,,Gérard Araud 2011 (cropped).jpg,Gérard Araud
 France,ambassador to Israel,Jean-Michel Casa,Q1685069,2006,2009,male,1957-08-01,,Jean-Michel Casa 2016 (cropped).jpg,
-France,ambassador to Israel,Patrick Maisonnave,Q18402388,2013,2019,male,1963-09-06,,,
+France,ambassador to Israel,Patrick Maisonnave,Q18402388,2013,2019,male,1963-09-06,,Nikos Dendias & Patrick Maisonnave 01 (cropped) - Patrick Maisonnave.jpg,
 France,ambassador to Israel,Hélène Le Gal,Q31189795,2016,2019,female,1967-04-21,,Hélène Le Gal.jpg,
 France,ambassador to Israel,Éric Danon,Q3591062,2019-09-12,,male,1957-02-22,,Amb. Eric Danon.jpg,
 France,ambassador to Italy,Jacques Blot,Q28057540,1998,2002,male,,,,
@@ -570,6 +572,7 @@ France,ambassador to Kazakhstan,Philippe Martinet,Q50692051,2017-09-11,2020-09-1
 France,ambassador to Kazakhstan,Didier Canesse,Q50385830,2020-09-14,,male,,,,
 France,ambassador to Kenya,Pierre Jacquemot,Q33237648,2000-08-30,,male,1946-06-12,,,
 France,ambassador to Kenya,Hubert Fournier,Q46401784,2004-01-07,,male,1948-09-13,,,
+France,ambassador to Kenya,Élisabeth Barbier,Q47500080,2006,2010,female,1954-09-13,,,
 France,ambassador to Kenya,Étienne de Poncins,Q33103386,2010,2013,male,1964-03-06,,Етьєн де Понсен.jpg,
 France,ambassador to Kenya,Antoine Sivan,Q31192318,2016,2018,male,1958,,,
 France,ambassador to Kenya,Aline Kuster-Menager,Q33103191,2018,,female,1957-12-10,,Aline Kuster-Menager French Ambassador to Somalia (51693839212) (cropped).jpg,
@@ -591,6 +594,7 @@ France,ambassador to Liberia,Terence Wills,Q50692617,2017-09-18,2020-10-20,male,
 France,ambassador to Liberia,Michaël Roux,Q48322112,2020-10-21,,male,1966-09-06,,,
 France,ambassador to Libya,Josette Dallant,Q66121782,1996,2001,female,1941-06-04,,,
 France,ambassador to Libya,François Gouyette,Q3084753,2007-12-17,2011-10-13,male,1956-06-17,,,
+France,ambassador to Libya,Élisabeth Barbier,Q47500080,2016,2017,female,1954-09-13,,,
 France,ambassador to Libya,Brigitte Curmi,Q48448126,2016-08-01,2018-07-15,female,1957-12-07,,,
 France,ambassador to Libya,Béatrice Le Fraper du Hellen,Q50365159,2018-07-16,,female,1961-06-28,,,
 France,ambassador to Liechtenstein,Jacques Rummelhardt,Q3159936,2003,2005,male,1941-07-09,,,
@@ -704,7 +708,7 @@ France,ambassador to Peru,Antoine Blanca,Q41742304,1997,2001,male,1936-06-04,201
 France,ambassador to Peru,Cécile Pozzo di Borgo,Q20556667,2008,2011,female,1952-01-04,,Cécile Pozzo di Borgo.jpg,
 France,ambassador to Peru,Antoine Grassin,Q33122192,2017,,male,1955-03-08,,,
 France,"ambassador of France, Manila",Renée Veyret,Q76945059,2002,2005,female,1946-02-16,,,
-France,"ambassador of France, Manila",Gérard Chesnel,Q51845672,2005,,male,1946-04-01,,,
+France,"ambassador of France, Manila",Gérard Chesnel,Q51845672,2005,2008,male,1946-04-01,,,
 France,"ambassador of France, Manila",Gilles Garachon,Q33117389,2012,2015,male,1955-03-11,,,
 France,"ambassador of France, Manila",Thierry Mathou,Q33109300,2015-09-09,2017-07-30,male,1963,,Thierry Mathou.jpg,
 France,"ambassador of France, Manila",Nicolas Galey,Q8325152,2017,2020,male,1960-11-18,,,
@@ -756,7 +760,7 @@ France,ambassador to Saudi Arabia,Ludovic Pouille,Q50690868,2020-09-14,,male,197
 France,ambassador to Senegal,Jean-Christophe Rufin,Q713222,2007,2010,male,1952-06-28,,Jean-Christophe Rufin par Claude Truong-Ngoc octobre 2013.jpg,Jean-Christophe Rufin
 France,ambassador to Serbia,François-Xavier Deniau,Q3083699,2010-08-25,2014-07-29,male,1955-03-04,,,
 France,ambassador to Serbia,Christine Moro,Q31189796,2014,2017,female,1955-07-02,,,
-France,ambassador to Serbia,Jean-Louis Falconi,Q100272010,2017,2019,male,,,,
+France,ambassador to Serbia,Jean-Louis Falconi,Q100272010,2017,2019,male,,,Jean-Louis Falconi (2022) (cropped).jpg,
 France,ambassador to Serbia,Frédéric Mondoloni,Q33260428,2017,2019,male,1971-09-23,,,
 France,ambassador to Serbia,Pierre Cochard,Q50386174,2021-09,,male,1962-06-13,,Bastille Day 2018 in Jerusalem (41609490250).jpg,
 France,ambassador to Singapore,Michel Filhol,Q60889490,1999,2003,male,1948-12-30,,,
@@ -775,6 +779,7 @@ France,Ambassador to Slovenia,Florence Ferrari,Q56221006,2018,,female,1969-06-07
 France,ambassador to Somalia,Aline Kuster-Menager,Q33103191,2018,,female,1957-12-10,,Aline Kuster-Menager French Ambassador to Somalia (51693839212) (cropped).jpg,
 France,ambassador to South Africa,Jean Cadet,Q4207204,2001,2003,male,1942-10-15,,Vladimir Putin with Jean Cadet.jpg,
 France,ambassador to South Africa,Jean Félix-Paganon,Q3172164,2003,2006,male,1951-06-10,,,
+France,ambassador to South Africa,Élisabeth Barbier,Q47500080,2013,2016,female,1954-09-13,,,
 France,ambassador to South Africa,Aurélien Lechevallier,Q48032435,2019-07-04,,male,1976-09-06,,,Aurélien Lechevallier
 France,ambassador to Spain,Patrick Leclercq,Q1395490,1996,2000,male,1938-08-02,,,Patrick Leclercq
 France,ambassador to Spain,Alfred Siefer-Gaillardin,Q25292438,2000,2002,male,1938-01-31,,,
