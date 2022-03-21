@@ -11,7 +11,7 @@ argentina,53,158,744,837
 armenia,18,92,320,388
 artsakh,5,23,0,23
 aruba,13,23,3,23
-australia,72,520,1766,1928
+australia,72,521,1766,1928
 austria,24,157,759,857
 azerbaijan,41,62,146,204
 bahamas,28,61,5,61
@@ -122,7 +122,7 @@ norway,26,648,1575,1963
 pakistan,50,160,1475,1577
 panama,17,89,3,91
 paraguay,24,33,15,44
-peru,24,334,308,609
+peru,24,335,308,610
 philippines,34,238,662,833
 poland,27,229,538,715
 portugal,24,95,460,529
@@ -144,7 +144,7 @@ slovenia,23,111,170,253
 solomon-islands,28,42,67,83
 somalia,32,75,2,75
 south-africa,43,128,712,774
-south-korea,35,212,976,1130
+south-korea,35,213,976,1131
 spain,31,521,3577,3952
 sri-lanka,33,58,258,276
 st-kitts-and-nevis,15,20,11,21
@@ -170,5 +170,5 @@ uzbekistan,34,42,0,42
 vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,184,222
-zimbabwe,26,80,700,740
-TOTAL,4355,21662,76715,91894
+zimbabwe,26,80,844,873
+TOTAL,4355,21665,76859,92029
