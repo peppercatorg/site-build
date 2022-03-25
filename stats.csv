@@ -11,7 +11,7 @@ argentina,53,158,744,837
 armenia,18,92,320,388
 artsakh,5,23,0,23
 aruba,13,23,3,23
-australia,72,523,1767,1931
+australia,72,524,1767,1931
 austria,24,157,759,857
 azerbaijan,41,62,146,204
 bahamas,28,61,5,61
@@ -35,7 +35,7 @@ cameroon,42,52,747,794
 canada,62,393,1861,2011
 caymans,12,20,1,20
 chad,7,24,155,179
-chile,31,272,358,572
+chile,31,272,360,574
 china,37,142,5394,5497
 colombia,24,204,44,235
 congo-kinshasa,5,24,16,39
@@ -58,7 +58,7 @@ france,48,595,2020,2528
 gabon,6,32,3,33
 gambia,25,62,2,63
 georgia,19,171,28,188
-germany,35,629,3620,4134
+germany,35,629,3621,4135
 ghana,16,119,777,832
 gibraltar,12,37,40,66
 greece,27,168,514,592
@@ -76,7 +76,7 @@ ireland,28,154,596,643
 isle-of-man,13,30,3,30
 israel,39,191,502,577
 italy,29,519,3541,3850
-jamaica,31,55,3,56
+jamaica,31,55,4,57
 japan,76,558,823,1247
 jersey,13,18,0,18
 jordan,35,74,7,77
@@ -94,7 +94,7 @@ lithuania,20,154,303,396
 luhansk,5,11,0,11
 luxembourg,23,60,142,176
 malawi,35,77,196,243
-malaysia,38,84,365,403
+malaysia,38,84,367,405
 maldives,23,41,6,41
 malta,25,46,74,92
 marshall-islands,12,19,0,19
@@ -114,7 +114,7 @@ nepal,29,51,356,401
 netherlands,37,242,1089,1184
 new-zealand,30,139,228,309
 niger,32,56,7,58
-nigeria,51,520,1613,2043
+nigeria,51,520,1612,2042
 niue,5,8,21,24
 north-macedonia,26,99,4,100
 northern-ireland,13,72,302,312
@@ -145,7 +145,7 @@ solomon-islands,28,42,67,83
 somalia,32,75,2,75
 south-africa,43,128,712,774
 south-korea,35,213,976,1131
-spain,31,521,3579,3954
+spain,31,521,3580,3955
 sri-lanka,33,58,258,276
 st-kitts-and-nevis,15,20,11,21
 sweden,29,323,1295,1509
@@ -161,7 +161,7 @@ turkey,25,173,775,905
 turks-and-caicos,12,28,7,30
 tuvalu,12,49,26,51
 uganda,9,34,14,47
-ukraine,33,294,2048,2229
+ukraine,33,295,2048,2229
 united-arab-emirates,13,18,0,18
 united-kingdom,51,1113,2683,3387
 united-states,87,1140,5449,6447
@@ -170,5 +170,5 @@ uzbekistan,34,42,0,42
 vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,184,222
-zimbabwe,26,153,899,964
-TOTAL,4352,21760,77731,92953
+zimbabwe,26,153,898,962
+TOTAL,4352,21762,77736,92957
