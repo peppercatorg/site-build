@@ -31,7 +31,7 @@ british-virgin-islands,9,21,0,21
 brunei,5,7,4,11
 bulgaria,27,162,102,240
 burundi,6,33,0,33
-cameroon,42,51,382,430
+cameroon,42,52,747,794
 canada,62,393,1861,2011
 caymans,12,20,1,20
 chad,7,24,155,179
@@ -152,7 +152,7 @@ sweden,29,323,1295,1509
 switzerland,12,81,645,683
 tajikistan,27,38,0,38
 tanzania,27,67,399,426
-timor-leste,24,47,1,48
+timor-leste,24,52,1,53
 tonga,16,50,41,60
 transnistria,18,45,1,45
 trinidad-and-tobago,35,50,45,73
@@ -171,4 +171,4 @@ vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,153,899,964
-TOTAL,4352,21754,77366,92584
+TOTAL,4352,21760,77731,92953
