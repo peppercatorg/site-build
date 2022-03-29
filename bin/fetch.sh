@@ -24,6 +24,7 @@ dir="docs/leaders/$slug"
 csv="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/current.csv"
 csv21="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/holders21.csv"
 csvmp="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/legislators.csv"
+rca="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/family.csv"
 html="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/index.html"
 
 echo $name
