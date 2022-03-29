@@ -31,7 +31,7 @@ british-virgin-islands,9,21,0,21
 brunei,5,7,4,11
 bulgaria,27,162,102,240
 burundi,6,33,0,33
-cameroon,76,198,747,929
+cameroon,76,199,792,975
 canada,62,393,1861,2011
 caymans,12,20,1,20
 chad,7,24,155,179
@@ -125,7 +125,7 @@ paraguay,24,33,15,44
 peru,24,335,308,610
 philippines,35,247,662,840
 poland,27,229,538,715
-portugal,24,95,461,530
+portugal,23,95,461,530
 qatar,23,31,0,31
 romania,30,411,1143,1335
 russia,40,359,2185,2486
@@ -171,4 +171,4 @@ vanuatu,16,36,2,36
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,153,898,962
-TOTAL,4387,21931,77736,93111
+TOTAL,4386,21932,77781,93157
