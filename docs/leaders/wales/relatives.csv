@@ -1,0 +1,36 @@
+catalog,id,name,relationship,relative,relativename
+Wales,Q106767394,Rhys ab Owen,father,Q7114528,Owen John Thomas
+Wales,Q16144618,Lorraine Barrett,spouse,Q7149243,Paul Barrett
+Wales,Q333141,Rhodri Morgan,father,Q7668365,T. J. Morgan
+Wales,Q333141,Rhodri Morgan,spouse,Q6308404,Julie Morgan
+Wales,Q333600,Dafydd Wigley,spouse,Q3400917,Elinor Bennett
+Wales,Q3337819,Neil Hamilton,spouse,Q5111038,Christine Hamilton
+Wales,Q333841,Dafydd Elis-Thomas,spouse,Q75939076,Ellen M. Williams
+Wales,Q333841,Dafydd Elis-Thomas,spouse,Q75939078,Mair Parry Jones
+Wales,Q333869,Ron Davies,spouse,Q20648332,Christina Rees
+Wales,Q336526,"Mike German, Baron German",spouse,Q7922414,Veronica German
+Wales,Q3396810,Ieuan Wyn Jones,spouse,Q22950515,Eirian Llwyd
+Wales,Q3404581,Mohammad Asghar,child,Q98968495,Natasha Asghar
+Wales,Q3405595,Alun Ffred Jones,father,Q18535743,Gerallt Jones
+Wales,Q3405595,Alun Ffred Jones,mother,Q20804643,Elizabeth J. Griffiths
+Wales,Q3405595,Alun Ffred Jones,sibling,Q1157150,Dafydd Iwan
+Wales,Q3405595,Alun Ffred Jones,sibling,Q20804646,Arthur Morus
+Wales,Q3405595,Alun Ffred Jones,sibling,Q545109,Huw Ceredig
+Wales,Q4775602,Antoinette Sandbach,child,Q76332277,Sacha Mackeson-Sandbach
+Wales,Q4775602,Antoinette Sandbach,child,Q76332278,Sam Mackeson-Sandbach
+Wales,Q4775602,Antoinette Sandbach,father,Q75308803,Ian Lawrie Mackeson-Sandbach
+Wales,Q4775602,Antoinette Sandbach,mother,Q76245111,Annie Marie Antoinette Eugenie van Lanschot
+Wales,Q4775602,Antoinette Sandbach,spouse,Q76332280,Matthew R. Sherratt
+Wales,Q47995095,Jack Sargeant,father,Q5040766,Carl Sargeant
+Wales,Q4897688,Bethan Sayed,father,Q6847395,Mike Jenkins
+Wales,Q4963833,Brian Gibbons,father,Q5930907,Hugh Gibbons
+Wales,Q5040766,Carl Sargeant,child,Q47995095,Jack Sargeant
+Wales,Q6152404,Jane Hutt,father,Q29643036,Michael Hutt
+Wales,Q6308284,Julie James,sibling,Q223161,Aphex Twin
+Wales,Q6308404,Julie Morgan,spouse,Q333141,Rhodri Morgan
+Wales,Q6662955,Llyr Huws Gruffydd,mother,Q56009287,Meinir Lloyd
+Wales,Q7114528,Owen John Thomas,child,Q106767394,Rhys ab Owen
+Wales,Q7681863,Tamsin Dunwoody,father,Q1699862,John Dunwoody
+Wales,Q7681863,Tamsin Dunwoody,mother,Q334006,Gwyneth Dunwoody
+Wales,Q7922414,Veronica German,spouse,Q336526,"Mike German, Baron German"
+Wales,Q98968495,Natasha Asghar,father,Q3404581,Mohammad Asghar

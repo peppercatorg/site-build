@@ -1,0 +1,183 @@
+catalog,id,name,relationship,relative,relativename
+Canada,Q1249752,Mel Lastman,child,Q16728342,Dale Lastman
+Canada,Q128529,Paul Martin,father,Q524772,Paul Joseph James Martin
+Canada,Q128529,Paul Martin,spouse,Q3481745,Sheila Martin
+Canada,Q128543,Jean Chrétien,child,Q21483285,Hubert Chrétien
+Canada,Q128543,Jean Chrétien,child,Q5478272,France Chrétien Desmarais
+Canada,Q128543,Jean Chrétien,child,Q6836336,Michel Chrétien
+Canada,Q128543,Jean Chrétien,father,Q96241739,Willie Chrétien
+Canada,Q128543,Jean Chrétien,mother,Q96241812,Marie Boisvert
+Canada,Q128543,Jean Chrétien,relative,Q3420759,Raymond Chrétien
+Canada,Q128543,Jean Chrétien,sibling,Q3309276,Michel Chrétien
+Canada,Q128543,Jean Chrétien,spouse,Q2837024,Aline Chrétien
+Canada,Q128574,Joe Clark,child,Q5052592,Catherine Clark
+Canada,Q128574,Joe Clark,spouse,Q4410540,Maureen McTeer
+Canada,Q128933,Michaëlle Jean,spouse,Q3087911,Jean-Daniel Lafond
+Canada,Q1382032,Frank Mahovlich,sibling,Q432389,Peter Mahovlich
+Canada,Q1607747,Amir Khadir,spouse,Q71977944,Nimâ Machouf
+Canada,Q16243873,Hélène David,father,Q3370985,Paul David
+Canada,Q16243873,Hélène David,mother,Q58468244,Nellie Maillard
+Canada,Q16243873,Hélène David,sibling,Q2093379,Pierre David
+Canada,Q16243873,Hélène David,sibling,Q2958279,Charles-Philippe David
+Canada,Q16243873,Hélène David,sibling,Q3086459,Françoise David
+Canada,Q16536539,Catherine Dorion,father,Q74032615,Louis Dorion
+Canada,Q16536539,Catherine Dorion,mother,Q74033024,Claudette Brasseur
+Canada,Q1677183,Jack Ramsay,child,Q100390635,John G. Ramsay
+Canada,Q169303,Rob Ford,father,Q5300479,Doug Ford Sr.
+Canada,Q169303,Rob Ford,relative,Q24663887,Michael Ford
+Canada,Q169303,Rob Ford,sibling,Q39503265,Kathy Stirpe
+Canada,Q169303,Rob Ford,sibling,Q39503489,Randy Ford
+Canada,Q169303,Rob Ford,sibling,Q5300478,Doug Ford
+Canada,Q169303,Rob Ford,spouse,Q39503985,Renata Ford
+Canada,Q17305769,Arnold Chan,spouse,Q45311888,Jean Yip
+Canada,Q1840895,Erin O'Toole,father,Q14949607,John O'Toole
+Canada,Q1849355,Mike Scott,partner,Q2935027,Camille O'Sullivan
+Canada,Q1849355,Mike Scott,spouse,Q11281593,Megumi Igarashi
+Canada,Q1873388,Lucien Bouchard,sibling,Q3123783,Gérard Bouchard
+Canada,Q1892814,Thomas Mulcair,father,Q67152995,Harry Donnelly Mulcair
+Canada,Q1892814,Thomas Mulcair,mother,Q67153065,Jeanne Hurtubise
+Canada,Q1892814,Thomas Mulcair,spouse,Q5052876,Catherine Pinhas
+Canada,Q19880417,Karen McPherson,spouse,Q6211300,Joe McPherson
+Canada,Q205319,Gilles Duceppe,child,Q72194331,Alexis Brunelle-Duceppe
+Canada,Q205319,Gilles Duceppe,father,Q3171833,Jean Duceppe
+Canada,Q206,Stephen Harper,spouse,Q3218812,Laureen Harper
+Canada,Q20682472,Jonathan Vance,father,Q15993600,Jack Vance
+Canada,Q2086479,Helena Guergis,spouse,Q3417573,Rahim Jaffer
+Canada,Q21160212,Gary Anandasangaree,father,Q3535025,V. Anandasangaree
+Canada,Q21167969,Marilène Gill,spouse,Q21284594,Xavier Barsalou-Duval
+Canada,Q21284594,Xavier Barsalou-Duval,spouse,Q21167969,Marilène Gill
+Canada,Q21335996,Catherine McKenna,spouse,Q18686354,Scott Gilmore
+Canada,Q21336246,Harjit Sajjan,spouse,Q22639327,Kuljit Kaur
+Canada,Q21356553,Marie-Claude Bibeau,spouse,Q652759,Bernard Sévigny
+Canada,Q21642319,Daniel Blaikie,father,Q2903125,Bill Blaikie
+Canada,Q21964347,Caroline Mulroney,father,Q128563,Brian Mulroney
+Canada,Q21964347,Caroline Mulroney,mother,Q3313820,Mila Mulroney
+Canada,Q21964347,Caroline Mulroney,relative,Q22905984,Jessica Mulroney
+Canada,Q21964347,Caroline Mulroney,sibling,Q367056,Ben Mulroney
+Canada,Q22442799,Marc Serré,father,Q5516666,Gaetan Serré
+Canada,Q236482,Adrienne Clarkson,father,Q8017050,William Poy
+Canada,Q236482,Adrienne Clarkson,sibling,Q9385301,Neville Poy
+Canada,Q236482,Adrienne Clarkson,spouse,Q13522460,Stephen Clarkson
+Canada,Q236482,Adrienne Clarkson,spouse,Q981841,John R. Saul
+Canada,Q256249,Pauline Marois,spouse,Q2977031,Claude Blanchet
+Canada,Q2604970,Alexa McDonough,father,Q6662738,Lloyd Shaw
+Canada,Q2604970,Alexa McDonough,partner,Q1175435,David MacDonald
+Canada,Q276205,Sheila Copps,father,Q7925819,Victor Copps
+Canada,Q276205,Sheila Copps,mother,Q5549729,Geraldine Copps
+Canada,Q27680102,Renée Dupuis,partner,Q1694899,Pierre Morency
+Canada,Q27680102,Renée Dupuis,spouse,Q1694899,Pierre Morency
+Canada,Q2833494,Alexandre Boulerice,father,Q3158348,Jacques Boulerice
+Canada,Q28835038,Madeleine Bélanger,child,Q3180694,Johanne Gonthier
+Canada,Q28835038,Madeleine Bélanger,spouse,Q59783264,Fabien Bélanger
+Canada,Q2903125,Bill Blaikie,child,Q21642319,Daniel Blaikie
+Canada,Q2907803,Bob Runciman,spouse,Q108887419,Jeannette Runciman
+Canada,Q2977054,Claude Boucher,child,Q3591989,Étienne-Alexis Boucher
+Canada,Q30094708,Rafah DiCostanzo,spouse,Q47535973,John DiConstanzo
+Canada,Q3017694,David Collenette,spouse,Q17037385,Penny Collenette
+Canada,Q3022854,Denis Paradis,sibling,Q3386510,Pierre Paradis
+Canada,Q3026209,Diane Finley,spouse,Q5300472,Doug Finley
+Canada,Q3034854,Dominic LeBlanc,father,Q927934,Roméo LeBlanc
+Canada,Q3034943,Dominique Anglade,father,Q1508785,Georges Anglade
+Canada,Q3034943,Dominique Anglade,spouse,Q16217605,Helge Seetzen
+Canada,Q3086459,Françoise David,father,Q3370985,Paul David
+Canada,Q3086459,Françoise David,mother,Q58468244,Nellie Maillard
+Canada,Q3086459,Françoise David,sibling,Q16243873,Hélène David
+Canada,Q3086459,Françoise David,sibling,Q2093379,Pierre David
+Canada,Q3086459,Françoise David,sibling,Q2958279,Charles-Philippe David
+Canada,Q3099714,Justin Trudeau,father,Q8619,Pierre Trudeau
+Canada,Q3099714,Justin Trudeau,mother,Q3290526,Margaret Trudeau
+Canada,Q3099714,Justin Trudeau,sibling,Q4720909,Alexandre Trudeau
+Canada,Q3099714,Justin Trudeau,sibling,Q5232929,Michel Trudeau
+Canada,Q3099714,Justin Trudeau,spouse,Q3788185,Sophie Grégoire
+Canada,Q3101057,Geoff Regan,father,Q247524,Gerald Regan
+Canada,Q3101057,Geoff Regan,sibling,Q1710153,Laura Regan
+Canada,Q3101057,Geoff Regan,spouse,Q6386259,Kelly Regan
+Canada,Q3101084,Geoffrey Kelley,child,Q60833305,Gregory Kelley
+Canada,Q3106095,Gilles Bernier,child,Q516940,Maxime Bernier
+Canada,Q311684,Michael Ignatieff,father,Q500237,George Ignatieff
+Canada,Q311684,Michael Ignatieff,mother,Q110384411,Alison Grant
+Canada,Q317842,Jack Layton,spouse,Q3350703,Olivia Chow
+Canada,Q3179947,Jody Carr,sibling,Q3157141,Jack Carr
+Canada,Q3180694,Johanne Gonthier,mother,Q28835038,Madeleine Bélanger
+Canada,Q3189174,Julie Boulet,sibling,Q57514843,Jean Boulet
+Canada,Q3193323,Karine Vallières,father,Q3574167,Yvon Vallières
+Canada,Q3242560,Lisette Lapointe,spouse,Q1393455,Jacques Parizeau
+Canada,Q3262931,Louis Plamondon,sibling,Q591655,Luc Plamondon
+Canada,Q3264840,Luc Harvey,child,Q17485986,Magali Harvey
+Canada,Q3289311,Marcel Proulx,relative,Q5338905,Edmond Proulx
+Canada,Q3289311,Marcel Proulx,relative,Q6080948,Isidore Proulx
+Canada,Q3290485,Margaret Delisle,sibling,Q743225,Michael Fortier
+Canada,Q3293420,Mario Dumont,spouse,Q16663022,Marie-Claude Barrette
+Canada,Q3309730,Michel Gauthier,father,Q3184279,Joseph-Georges Gauthier
+Canada,Q3320871,Monique Jérôme-Forget,spouse,Q1153616,Claude Forget
+Canada,Q3341082,Nicole Léger,father,Q3289184,Marcel Léger
+Canada,Q3341504,Niki Ashton,father,Q7611822,Steve Ashton
+Canada,Q3350703,Olivia Chow,spouse,Q317842,Jack Layton
+Canada,Q3367236,Pascal-Pierre Paillé,father,Q3310496,Michel Paillé
+Canada,Q3383756,Pierre Arcand,sibling,Q3370497,Paul Arcand
+Canada,Q3383756,Pierre Arcand,spouse,Q3035049,Dominique Chaloult
+Canada,Q3385672,Pierre Karl Péladeau,father,Q3386717,Pierre Péladeau
+Canada,Q3385672,Pierre Karl Péladeau,spouse,Q3189271,Julie Snyder
+Canada,Q3386510,Pierre Paradis,sibling,Q3022854,Denis Paradis
+Canada,Q3417573,Rahim Jaffer,spouse,Q2086479,Helena Guergis
+Canada,Q3431309,Richard Wagner,father,Q2978274,Claude Wagner
+Canada,Q3441197,Romeo Saganash,child,Q102407100,Maïtée Labrecque-Saganas
+Canada,Q3479234,Serge Cardin,sibling,Q3308737,Michel-André Cardin
+Canada,Q3481750,Sheila Finestone,father,Q1945178,Monroe Abbey
+Canada,Q3501650,Stéphane Bédard,father,Q117141,Marc-André Bédard
+Canada,Q3561548,Vivian Barbot,father,Q16002951,Clément Barbot
+Canada,Q3573412,Yves-François Blanchet,spouse,Q90259141,Nancy Déziel
+Canada,Q3574167,Yvon Vallières,child,Q3193323,Karine Vallières
+Canada,Q366456,Stéphane Dion,father,Q3270913,Léon Dion
+Canada,Q366456,Stéphane Dion,spouse,Q6154564,Janine Krieber
+Canada,Q41564,David Johnston,spouse,Q14949441,Sharon Johnston
+Canada,Q45311888,Jean Yip,spouse,Q17305769,Arnold Chan
+Canada,Q4684985,Adrian Dix,spouse,Q19894620,Renée Sarojini Saklikar
+Canada,Q4890173,Benoît Serré,sibling,Q5516666,Gaetan Serré
+Canada,Q48966,Jean Charest,spouse,Q3311609,Michèle Dionne
+Canada,Q4899314,Bev Desjarlais,spouse,Q4932272,Bob Desjarlais
+Canada,Q516940,Maxime Bernier,father,Q3106095,Gilles Bernier
+Canada,Q517540,Lawrence Cannon,father,Q106866291,Louis Cannon
+Canada,Q517540,Lawrence Cannon,relative,Q2959189,Charles Gavan Power
+Canada,Q517540,Lawrence Cannon,relative,Q3568890,William Power
+Canada,Q5300478,Doug Ford,child,Q6437678,Krista Haynes
+Canada,Q5300478,Doug Ford,father,Q5300479,Doug Ford Sr.
+Canada,Q5300478,Doug Ford,sibling,Q169303,Rob Ford
+Canada,Q5300478,Doug Ford,sibling,Q39503265,Kathy Stirpe
+Canada,Q5300478,Doug Ford,sibling,Q39503489,Randy Ford
+Canada,Q5386756,Eric Hoskins,spouse,Q7408709,Samantha Nutt
+Canada,Q548048,Belinda Stronach,father,Q84699,Frank Stronach
+Canada,Q548048,Belinda Stronach,spouse,Q318403,Johann Olav Koss
+Canada,Q5539530,George Furey,child,Q98098468,Andrew Furey
+Canada,Q56871253,Caroline Proulx,father,Q16266531,Jacques Proulx
+Canada,Q56871253,Caroline Proulx,relative,Q3106466,Gilles Proulx
+Canada,Q574359,Bernard Landry,spouse,Q2956318,Chantal Renaud
+Canada,Q574359,Bernard Landry,spouse,Q3259653,Lorraine Laporte-Landry
+Canada,Q57514843,Jean Boulet,sibling,Q3189174,Julie Boulet
+Canada,Q5761100,Hilary Weston,spouse,Q1491812,Galen Weston
+Canada,Q6122681,Jagmeet Singh,sibling,Q54862585,Gurratan Singh
+Canada,Q63565674,Paul Manly,father,Q6138866,James Manly
+Canada,Q6387442,Ken Cheveldayoff,sibling,Q637302,Kevin Cheveldayoff
+Canada,Q67442310,Anita Anand,sibling,Q28823540,Sonia Anand
+Canada,Q6780723,Mary Simon,spouse,Q107443528,Whit Fraser
+Canada,Q7129736,Pana Merchant,spouse,Q4773084,Anthony Merchant
+Canada,Q716246,Peter MacKay,spouse,Q447592,Nazanin Afshin-Jam
+Canada,Q717744,Ed Broadbent,spouse,Q434183,Ellen Meiksins Wood
+Canada,Q72194331,Alexis Brunelle-Duceppe,father,Q205319,Gilles Duceppe
+Canada,Q7279347,Rachel Notley,father,Q5596382,Grant Notley
+Canada,Q739820,Ken Dryden,father,Q6939214,Murray Dryden
+Canada,Q743225,Michael Fortier,sibling,Q3290485,Margaret Delisle
+Canada,Q7937899,Vivienne Poy,father,Q10898425,Richard Charles Lee
+Canada,Q7937899,Vivienne Poy,spouse,Q9385301,Neville Poy
+Canada,Q872073,David Kilgour,sibling,Q5530135,Geills Turner
+Canada,Q888208,Bob Rae,spouse,Q4792163,Arlene Perly Rae
+Canada,Q930026,Rosalie Abella,spouse,Q356337,Irving Abella
+Canada,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
+Canada,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
+Canada,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
+Canada,Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
+Canada,Q9682,Elizabeth II,father,Q280856,George VI
+Canada,Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
+Canada,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
+Canada,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
+Canada,Q98098468,Andrew Furey,father,Q5539530,George Furey

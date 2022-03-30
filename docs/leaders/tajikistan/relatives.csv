@@ -1,0 +1,10 @@
+catalog,id,name,relationship,relative,relativename
+Tajikistan,Q110160141,Ashrafjon Gulov,father,Q13202276,Sherali Gul
+Tajikistan,Q110976749,Rahimjon Saidzoda,sibling,Q20610514,Ҷамшед Саидзода
+Tajikistan,Q13202276,Sherali Gul,child,Q110160141,Ashrafjon Gulov
+Tajikistan,Q24258837,Rustam Emomali,father,Q57366,Emomali Rahmon
+Tajikistan,Q24258837,Rustam Emomali,mother,Q23683291,Azizmo Asadullayeva
+Tajikistan,Q24258837,Rustam Emomali,sibling,Q24288561,Ozoda Rahmon
+Tajikistan,Q57366,Emomali Rahmon,child,Q24258837,Rustam Emomali
+Tajikistan,Q57366,Emomali Rahmon,child,Q24288561,Ozoda Rahmon
+Tajikistan,Q57366,Emomali Rahmon,spouse,Q23683291,Azizmo Asadullayeva

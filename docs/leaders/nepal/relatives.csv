@@ -1,0 +1,37 @@
+catalog,id,name,relationship,relative,relativename
+Nepal,Q16193958,Bidya Devi Bhandari,spouse,Q982203,Madan Kumar Bhandari
+Nepal,Q162306,Birendra of Nepal,child,Q311235,Dipendra of Nepal
+Nepal,Q162306,Birendra of Nepal,child,Q3959833,Princess Shruti of Nepal
+Nepal,Q162306,Birendra of Nepal,child,Q7244182,Prince Nirajan of Nepal
+Nepal,Q162306,Birendra of Nepal,father,Q313110,Mahendra of Nepal
+Nepal,Q162306,Birendra of Nepal,mother,Q20904033,"Indra, Crown Princess of Nepal"
+Nepal,Q162306,Birendra of Nepal,sibling,Q201327,Gyanendra of Nepal
+Nepal,Q162306,Birendra of Nepal,sibling,Q20985666,Princess Sharada Shah of Nepal
+Nepal,Q162306,Birendra of Nepal,sibling,Q21067412,Princess Shova Shahi of Nepal
+Nepal,Q162306,Birendra of Nepal,sibling,Q5269611,Dhirendra of Nepal
+Nepal,Q162306,Birendra of Nepal,spouse,Q1134162,Aishwarya of Nepal
+Nepal,Q201327,Gyanendra of Nepal,child,Q4202325,Princess Prerana of Nepal
+Nepal,Q201327,Gyanendra of Nepal,child,Q487100,Paras Shah
+Nepal,Q201327,Gyanendra of Nepal,father,Q313110,Mahendra of Nepal
+Nepal,Q201327,Gyanendra of Nepal,mother,Q20904033,"Indra, Crown Princess of Nepal"
+Nepal,Q201327,Gyanendra of Nepal,sibling,Q162306,Birendra of Nepal
+Nepal,Q201327,Gyanendra of Nepal,sibling,Q20985666,Princess Sharada Shah of Nepal
+Nepal,Q201327,Gyanendra of Nepal,sibling,Q21067412,Princess Shova Shahi of Nepal
+Nepal,Q201327,Gyanendra of Nepal,sibling,Q5269611,Dhirendra of Nepal
+Nepal,Q201327,Gyanendra of Nepal,spouse,Q1134149,Queen Komal of Nepal
+Nepal,Q220991,Girija Prasad Koirala,child,Q58299,Sujata Koirala
+Nepal,Q220991,Girija Prasad Koirala,father,Q6437476,Krishna Prasad Koirala
+Nepal,Q220991,Girija Prasad Koirala,sibling,Q13181715,Tarini Prasad Koirala
+Nepal,Q220991,Girija Prasad Koirala,sibling,Q1398637,Matrika Prasad Koirala
+Nepal,Q220991,Girija Prasad Koirala,sibling,Q560515,B. P. Koirala
+Nepal,Q311235,Dipendra of Nepal,father,Q162306,Birendra of Nepal
+Nepal,Q311235,Dipendra of Nepal,mother,Q1134162,Aishwarya of Nepal
+Nepal,Q311235,Dipendra of Nepal,sibling,Q3959833,Princess Shruti of Nepal
+Nepal,Q311235,Dipendra of Nepal,sibling,Q7244182,Prince Nirajan of Nepal
+Nepal,Q3757183,Gagan Kumar Thapa,child,Q107042359,Gargi Thapa
+Nepal,Q3757183,Gagan Kumar Thapa,relative,Q4791574,Arjun Narasingha K.C.
+Nepal,Q45167585,Surendra Prasad Pandey,spouse,Q19921542,Purna Shova Chitrakar
+Nepal,Q470903,Sher Bahadur Deuba,spouse,Q4802770,Arzu Rana Deuba
+Nepal,Q577100,Sahana Pradhan,spouse,Q2280667,Pushpa Lal Shrestha
+Nepal,Q57816,Baburam Bhattarai,relative,Q13182433,Dharma Ratna Yami
+Nepal,Q57816,Baburam Bhattarai,spouse,Q2672325,Hisila Yami

@@ -1,0 +1,61 @@
+catalog,id,name,relationship,relative,relativename
+Cyprus,Q107049021,Giorgos  Koukouma,mother,Q12884514,Skevi Koukouma Koutra
+Cyprus,Q107049720,Christos Christofias,father,Q57334,Dimitris Christofias
+Cyprus,Q107049720,Christos Christofias,mother,Q12872413,Elsi Christofias
+Cyprus,Q107049720,Christos Christofias,sibling,Q97383160,Christina Christofia
+Cyprus,Q107063181,Nikos Georgiou,father,Q64784763,Georgios Georgiou
+Cyprus,Q12884190,Roula Mavronicola,spouse,Q1598789,Kyriakos Mavronikolas
+Cyprus,Q12884514,Skevi Koukouma Koutra,child,Q107049021,Giorgos  Koukouma
+Cyprus,Q1598789,Kyriakos Mavronikolas,spouse,Q12884190,Roula Mavronicola
+Cyprus,Q16208000,Marios Demetriades,father,Q66092594,Andreas Demetriades
+Cyprus,Q200776,Tassos Papadopoulos,child,Q3161181,Nikolas Papadopoulos
+Cyprus,Q200776,Tassos Papadopoulos,relative,Q16331287,Konstantinos Yiorkadjis
+Cyprus,Q23881099,Petros Clerides,relative,Q66093898,Lefkos Clerides
+Cyprus,Q23881194,Kostas Clerides,father,Q66093898,Lefkos Clerides
+Cyprus,Q23881194,Kostas Clerides,relative,Q956928,Giorgos Syrimis
+Cyprus,Q262719,Androula Vassiliou,spouse,Q39180,Giorgos Vasiliou
+Cyprus,Q2957763,Harilaos Stavrakis,relative,Q66736023,Renos Stavrakis
+Cyprus,Q3161181,Nikolas Papadopoulos,father,Q200776,Tassos Papadopoulos
+Cyprus,Q3161181,Nikolas Papadopoulos,relative,Q16331287,Konstantinos Yiorkadjis
+Cyprus,Q317648,Glafcos Clerides,child,Q65942054,Keti Clerides
+Cyprus,Q317648,Glafcos Clerides,father,Q58456663,Ioannis Clerides
+Cyprus,Q317648,Glafcos Clerides,relative,Q65923131,Christos Clerides
+Cyprus,Q317648,Glafcos Clerides,relative,Q66092488,Fivos Clerides
+Cyprus,Q317648,Glafcos Clerides,relative,Q66093162,Nearchos Clerides
+Cyprus,Q317648,Glafcos Clerides,sibling,Q66104215,Xanthos Clerides
+Cyprus,Q317648,Glafcos Clerides,spouse,Q64875993,Lila Irene Clerides
+Cyprus,Q4755398,Andreas Christou,father,Q15161328,Kyriakos Christou
+Cyprus,Q4809655,Yannakis Matsis,sibling,Q6452477,Kyriakos Matsis
+Cyprus,Q4854609,Stavros Malas,relative,Q12886040,Charalampos Mouskos
+Cyprus,Q50364839,Zéta Aimilianídou,sibling,Q65963278,Ouranios Ioannides
+Cyprus,Q511455,Markos Kyprianou,father,Q552389,Spiros Kyprianou
+Cyprus,Q511455,Markos Kyprianou,mother,Q109709702,Mimi Kyprianou
+Cyprus,Q511455,Markos Kyprianou,relative,Q15237847,Spiros Araouzos
+Cyprus,Q53632707,Charalampos Theopemptou,spouse,Q65093838,Evi Theopemptou
+Cyprus,Q552389,Spiros Kyprianou,child,Q511455,Markos Kyprianou
+Cyprus,Q552389,Spiros Kyprianou,relative,Q15237847,Spiros Araouzos
+Cyprus,Q552389,Spiros Kyprianou,relative,Q66724596,Andreas Araouzos
+Cyprus,Q552389,Spiros Kyprianou,spouse,Q109709702,Mimi Kyprianou
+Cyprus,Q57334,Dimitris Christofias,child,Q107049720,Christos Christofias
+Cyprus,Q57334,Dimitris Christofias,child,Q97383160,Christina Christofia
+Cyprus,Q57334,Dimitris Christofias,spouse,Q12872413,Elsi Christofias
+Cyprus,Q64784763,Georgios Georgiou,child,Q107063181,Nikos Georgiou
+Cyprus,Q65497226,Takis Hadjidemetriou,sibling,Q12872536,Ēbē Meleagrou
+Cyprus,Q65553964,Sotiris Sampson,father,Q552189,Nikos Sampson
+Cyprus,Q65923131,Christos Clerides,father,Q66092488,Fivos Clerides
+Cyprus,Q65923131,Christos Clerides,relative,Q317648,Glafcos Clerides
+Cyprus,Q65923131,Christos Clerides,relative,Q58456663,Ioannis Clerides
+Cyprus,Q65923131,Christos Clerides,relative,Q65942054,Keti Clerides
+Cyprus,Q65923131,Christos Clerides,relative,Q66093162,Nearchos Clerides
+Cyprus,Q65923131,Christos Clerides,relative,Q97456249,Christos Kattamis
+Cyprus,Q65942054,Keti Clerides,father,Q317648,Glafcos Clerides
+Cyprus,Q65942054,Keti Clerides,mother,Q64875993,Lila Irene Clerides
+Cyprus,Q65942054,Keti Clerides,relative,Q58456663,Ioannis Clerides
+Cyprus,Q65942054,Keti Clerides,relative,Q65923131,Christos Clerides
+Cyprus,Q65942054,Keti Clerides,relative,Q66092488,Fivos Clerides
+Cyprus,Q65942054,Keti Clerides,relative,Q66093162,Nearchos Clerides
+Cyprus,Q65962643,Isidoros Makrides,father,Q66114126,Nikos Makrides
+Cyprus,Q65963278,Ouranios Ioannides,sibling,Q50364839,Zéta Aimilianídou
+Cyprus,Q7030515,Nikos Tornaritis,father,Q16329358,Giorgos  Tornaritis
+Cyprus,Q7030515,Nikos Tornaritis,sibling,Q98101110,Christophoros  Tornaritis
+Cyprus,Q88414270,Pantelis Kouros,sibling,Q66725213,Andreas Kouros

@@ -1,0 +1,107 @@
+catalog,id,name,relationship,relative,relativename
+Romania,Q104522297,Alexandru Popa,father,Q23894618,Radu Popa
+Romania,Q104535925,Dănuț Aelenei,spouse,Q104654851,Evdochia Aelenei
+Romania,Q104537093,Iulian-Alexandru Badea,father,Q197661,Pavel Badea
+Romania,Q104537428,Maria-Gabriela Horga,father,Q12743195,Vasile Horga
+Romania,Q104578498,Remus Munteanu,father,Q18542120,Ioan Munteanu
+Romania,Q104599949,Vlad Popescu,father,Q12725946,Cristian Popescu Piedone
+Romania,Q104641546,Ciprian Pandea,father,Q23930788,Nicolae Pandea
+Romania,Q104654851,Evdochia Aelenei,spouse,Q104535925,Dănuț Aelenei
+Romania,Q106574142,Ioana Mihăilă,spouse,Q107145564,Marius Călin Mihăilă
+Romania,Q1128407,Lavinia Șandru,spouse,Q12726420,Darius Bogdan Vâlcov
+Romania,Q1177587,Mircea Diaconu,spouse,Q12726648,Diana Lupescu
+Romania,Q12721231,Aurel Gabriel Simionescu,child,Q18547903,Aurora Simionescu
+Romania,Q12722834,Bogdan Diaconu,spouse,Q886476,Maria Olaru
+Romania,Q12725957,Cristian Țopescu,child,Q18548823,Cristina Țopescu
+Romania,Q12726420,Darius Bogdan Vâlcov,spouse,Q1128407,Lavinia Șandru
+Romania,Q12729143,Gheorghe Firczak,child,Q28113995,Iulius Marian Firczak
+Romania,Q12732138,Lia Olguța Vasilescu,spouse,Q18541650,Iulian Claudiu Manda
+Romania,Q12732138,Lia Olguța Vasilescu,spouse,Q99771842,Ovidiu Wlassopol
+Romania,Q12734963,Mariana Stoica,spouse,Q18541001,Ion Aurel Stoica
+Romania,Q12735779,Mitzura Arghezi,father,Q435755,Tudor Arghezi
+Romania,Q12736877,Nora Cecilia Rebreanu,spouse,Q17122031,Mihai Drăgănescu
+Romania,Q12737885,Petru Caraman,father,Q12737877,Petru Caraman
+Romania,Q12739456,Robert Sorin Negoiță,sibling,Q55606108,Ionuț Negoiță
+Romania,Q12743401,Victor Socaciu,spouse,Q110278347,Marina Almășan
+Romania,Q12743401,Victor Socaciu,spouse,Q12725737,Cornelia Pavlovici
+Romania,Q12743606,Vlad Alexandrescu,father,Q12737818,Petre Alexandrescu
+Romania,Q12743606,Vlad Alexandrescu,mother,Q12734883,Maria Alexandrescu Vianu
+Romania,Q13580347,Ilie Sârbu,child,Q274779,Daciana Sârbu
+Romania,Q13580347,Ilie Sârbu,spouse,Q17278773,Mariana Sârbu
+Romania,Q1611034,Hermann Fabini,sibling,Q12743890,Wilhelm Fabini
+Romania,Q16593781,Gabriela Firea,spouse,Q12728365,Florentin Pandele
+Romania,Q18537738,Doru Laurian Bădulescu,child,Q108597241,Raluca Bădulescu
+Romania,Q18538104,Gabriel Bivolaru,sibling,Q12735419,Mihaela Ene
+Romania,Q18538104,Gabriel Bivolaru,sibling,Q4993501,Gregorian Bivolaru
+Romania,Q18539583,Daniel Gheorghe,father,Q23728802,Constantin Silviu Gigi
+Romania,Q18541634,Liviu Maior,child,Q5542064,George Maior
+Romania,Q18541650,Iulian Claudiu Manda,spouse,Q12732138,Lia Olguța Vasilescu
+Romania,Q18541759,Alexandru Mazare,sibling,Q4684822,Radu Ștefan Mazăre
+Romania,Q18541959,Adrian Mocanu,father,Q18541965,Victor Mocanu
+Romania,Q18542120,Ioan Munteanu,child,Q104578498,Remus Munteanu
+Romania,Q18542322,Rareș Mănescu,spouse,Q3064927,Ramona Mănescu
+Romania,Q18544042,Dan Ghibernea,spouse,Q12741926,Tania Filip
+Romania,Q18548147,Alexandru Stănescu,sibling,Q28113893,Paul Stănescu
+Romania,Q18549337,Daniel-Cătălin Zamfir,spouse,Q18548093,Oana Stancu
+Romania,Q18561320,Carmen Iohannis,spouse,Q701484,Klaus Johannis
+Romania,Q189575,Ion Iliescu,father,Q16658368,Alexandru Iliescu
+Romania,Q189575,Ion Iliescu,spouse,Q19664699,Nina Iliescu
+Romania,Q19664699,Nina Iliescu,spouse,Q189575,Ion Iliescu
+Romania,Q21095867,Sorin Cîmpeanu,spouse,Q110420006,Carmen Cîmpeanu
+Romania,Q21512989,Claudia Ana Costea Moarcăș,spouse,Q5299031,Doru Romulus Costea
+Romania,Q21747049,Cornel-Cristian Resmeriță,father,Q26272153,Cornel Resmeriță
+Romania,Q21747049,Cornel-Cristian Resmeriță,sibling,Q30243310,Lucian Resmeriță
+Romania,Q2187195,Ion Dolănescu,spouse,Q12731214,Justina Băluțeanu
+Romania,Q2187195,Ion Dolănescu,spouse,Q2900820,Maria Ciobanu
+Romania,Q23091017,Aurel Bălășoiu,child,Q107369209,Victor Bălășoiu
+Romania,Q274739,Adina-Ioana Vălean,spouse,Q440970,Crin Antonescu
+Romania,Q28055984,Victoria Longher,spouse,Q5556492,Ghervazen Longher
+Romania,Q28113893,Paul Stănescu,sibling,Q18548147,Alexandru Stănescu
+Romania,Q28113942,Andi-Gabriel Grosaru,father,Q3858799,Mircea Grosaru
+Romania,Q28113995,Iulius Marian Firczak,father,Q12729143,Gheorghe Firczak
+Romania,Q2833939,Alexandru Paleologu,child,Q3523675,Theodor Paleologu
+Romania,Q28379851,Andreea Cosma,father,Q18539314,Mircea Cosma
+Romania,Q28379851,Andreea Cosma,sibling,Q12743610,Vlad-Alexandru Cosma
+Romania,Q3064927,Ramona Mănescu,spouse,Q18542322,Rareș Mănescu
+Romania,Q316823,Petre Roman,father,Q4397003,Valter Roman
+Romania,Q347209,Vasile Dîncu,father,Q110383932,Vasile Dâncu
+Romania,Q3518228,Teodor Meleșcanu,spouse,Q12728183,Felicia Meleșcanu
+Romania,Q3523675,Theodor Paleologu,father,Q2833939,Alexandru Paleologu
+Romania,Q3858799,Mircea Grosaru,child,Q28113942,Andi-Gabriel Grosaru
+Romania,Q435200,Mircea Geoană,spouse,Q100334078,Mihaela Geoană
+Romania,Q440970,Crin Antonescu,spouse,Q274739,Adina-Ioana Vălean
+Romania,Q463774,Elena Udrea,spouse,Q12726945,Dorin Cocoș
+Romania,Q4775647,Anton Anton,father,Q12730661,Ioan Anton
+Romania,Q5216496,Daniel Barbu,sibling,Q18548716,Tudor Barbu
+Romania,Q5299031,Doru Romulus Costea,spouse,Q21512989,Claudia Ana Costea Moarcăș
+Romania,Q539072,Anghel Iordănescu,child,Q5340416,Eduard Iordănescu
+Romania,Q5542064,George Maior,father,Q18541634,Liviu Maior
+Romania,Q5542064,George Maior,spouse,Q106834896,Anamaria Buzura
+Romania,Q5556492,Ghervazen Longher,spouse,Q28055984,Victoria Longher
+Romania,Q57279,Traian Băsescu,child,Q271266,Elena Băsescu
+Romania,Q57279,Traian Băsescu,spouse,Q18684617,Maria Băsescu
+Romania,Q57692,Victor Ponta,spouse,Q17278768,Roxana Ponta
+Romania,Q57692,Victor Ponta,spouse,Q274779,Daciana Sârbu
+Romania,Q6272196,Ion Caramitru,spouse,Q104155644,Micaela Caracaș
+Romania,Q646453,Dan Voiculescu,child,Q31180472,Camelia Voiculescu
+Romania,Q6498808,Laura Codruța Kövesi,spouse,Q27044362,Eduárd Kövesi
+Romania,Q663875,Margareta of Romania,father,Q930013,Michael I of Romania
+Romania,Q663875,Margareta of Romania,godparent,Q259752,Princess Margaret of Denmark
+Romania,Q663875,Margareta of Romania,godparent,Q80976,"Prince Philip, Duke of Edinburgh"
+Romania,Q663875,Margareta of Romania,mother,Q563765,Queen Anne of Romania
+Romania,Q663875,Margareta of Romania,sibling,Q1212263,Princess Maria of Romania
+Romania,Q663875,Margareta of Romania,sibling,Q1468375,Princess Sophie of Romania
+Romania,Q663875,Margareta of Romania,sibling,Q2423576,Princess Elena of Romania
+Romania,Q663875,Margareta of Romania,sibling,Q6658829,Princess Irina of Romania
+Romania,Q663875,Margareta of Romania,spouse,Q3029911,"Prince Radu, Prince of Romania"
+Romania,Q6659788,Nicolae-Liviu Dragnea,spouse,Q64168111,Bombonica Dragnea
+Romania,Q671955,Ludovic Orban,sibling,Q463274,Leonard Orban
+Romania,Q6845299,Mihnea Motoc,spouse,Q6095446,Iulia Motoc
+Romania,Q701484,Klaus Johannis,spouse,Q18561320,Carmen Iohannis
+Romania,Q7288407,Raluca Turcan,spouse,Q7911420,Valeriu Turcan
+Romania,Q731851,Péter Eckstein-Kovács,spouse,Q12346302,Csilla Könczei
+Romania,Q7356775,Rodica Stănoiu,spouse,Q18548098,Șerban Stănoiu
+Romania,Q8273614,Irina Loghin,spouse,Q1413817,Ion Cernea
+Romania,Q853537,Ferenc Bárányi,spouse,Q853538,Ildikó Bárányiné László
+Romania,Q897108,Béla Markó,spouse,Q56389236,Anna Kós
+Romania,Q97193689,Iulian-Alexandru Muraru,sibling,Q19707772,Andrei Muraru

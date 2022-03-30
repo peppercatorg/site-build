@@ -1,0 +1,13 @@
+catalog,id,name,relationship,relative,relativename
+Uzbekistan,Q26772600,Tatyana Karimova,child,Q541680,Gulnara Karimova
+Uzbekistan,Q26772600,Tatyana Karimova,child,Q58336,Lola Karimova-Tillyaeva
+Uzbekistan,Q26772600,Tatyana Karimova,spouse,Q57558,Islam Karimov
+Uzbekistan,Q317484,Abdulaziz Komilov,relative,Q4391347,Sayyora Rashidova
+Uzbekistan,Q317484,Abdulaziz Komilov,relative,Q982769,Sharof Rashidov
+Uzbekistan,Q43803431,Ziroatkhon Hoshimova,child,Q96471602,Saida Mirziyoyeva
+Uzbekistan,Q43803431,Ziroatkhon Hoshimova,spouse,Q57808,Shavkat Mirziyoyev
+Uzbekistan,Q57558,Islam Karimov,child,Q541680,Gulnara Karimova
+Uzbekistan,Q57558,Islam Karimov,child,Q58336,Lola Karimova-Tillyaeva
+Uzbekistan,Q57558,Islam Karimov,spouse,Q26772600,Tatyana Karimova
+Uzbekistan,Q57808,Shavkat Mirziyoyev,child,Q96471602,Saida Mirziyoyeva
+Uzbekistan,Q57808,Shavkat Mirziyoyev,spouse,Q43803431,Ziroatkhon Hoshimova

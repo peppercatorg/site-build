@@ -1,0 +1,41 @@
+catalog,id,name,relationship,relative,relativename
+Latvia,Q11712510,Ingmārs Čaklais,father,Q924116,Māris Čaklais
+Latvia,Q11748225,Kristiāna Lībane-Šķēle,spouse,Q511905,Andris Šķēle
+Latvia,Q151301,Vaira Vīķe-Freiberga,spouse,Q11711793,Imants Freibergs
+Latvia,Q15813099,Dāvis Stalts,father,Q16334096,Dainis Stalts
+Latvia,Q16334096,Dainis Stalts,child,Q15813099,Dāvis Stalts
+Latvia,Q16360345,Krišjānis Peters,father,Q4360259,Jānis Peters
+Latvia,Q1663445,Ingrīda Labucka,father,Q4088318,Aloizs Blonskis
+Latvia,Q178708,Raimonds Pauls,sibling,Q16355730,Edite Pauls-Vignere
+Latvia,Q182673,Valdis Zatlers,spouse,Q20566441,Lilita Zatlere
+Latvia,Q19267977,Hosams Abu Meri,spouse,Q2560770,Linda Mūrniece
+Latvia,Q23951329,Arvīds Ulme,child,Q105975333,Una Ulme
+Latvia,Q2416022,Raimonds Vējonis,spouse,Q22675615,Iveta Vējone
+Latvia,Q2451422,Ivans Klementjevs,sibling,Q6176398,Jefimijs Klementjevs
+Latvia,Q2560770,Linda Mūrniece,spouse,Q19267977,Hosams Abu Meri
+Latvia,Q2607120,Ilze Viņķele,father,Q58931299,Juris Vidiņš
+Latvia,Q2662771,Inese Vaidere,spouse,Q27103487,Arturs Vaiders
+Latvia,Q2791789,Pauls Putniņš,child,Q47353255,Anna Putniņa
+Latvia,Q2791789,Pauls Putniņš,spouse,Q465513,Līga Liepiņa
+Latvia,Q30131607,Māris Mičerevskis,mother,Q3743265,Janīna Kursīte-Pakule
+Latvia,Q348043,Egils Levits,father,Q63859039,Jonass Levits
+Latvia,Q348043,Egils Levits,mother,Q64151708,Ingeborga Levite
+Latvia,Q3743265,Janīna Kursīte-Pakule,child,Q30131607,Māris Mičerevskis
+Latvia,Q406265,Ainārs Šlesers,spouse,Q644688,Inese Šlesere
+Latvia,Q4191793,Ausma Ziedone-Kantāne,spouse,Q1044113,Imants Ziedonis
+Latvia,Q4511827,Ilma Čepāne,spouse,Q16351010,Alfrēds Čepānis
+Latvia,Q4801977,Artūrs Rubiks,father,Q724366,Alfrēds Rubiks
+Latvia,Q511905,Andris Šķēle,spouse,Q11748225,Kristiāna Lībane-Šķēle
+Latvia,Q5208606,Dagnija Staķe,child,Q58371519,Mārtiņš Staķis
+Latvia,Q5208606,Dagnija Staķe,sibling,Q98798066,Pēteris Jankavs
+Latvia,Q57506,Andris Bērziņš,spouse,Q4413175,Dace Seisuma
+Latvia,Q57630,Valdis Dombrovskis,spouse,Q17278391,Ārija Dombrovska
+Latvia,Q58371484,Inese Ikstena,child,Q51397031,Eva Johansone
+Latvia,Q58371519,Mārtiņš Staķis,mother,Q5208606,Dagnija Staķe
+Latvia,Q58371519,Mārtiņš Staķis,spouse,Q111362464,Ilze Paidere-Staķe
+Latvia,Q644688,Inese Šlesere,spouse,Q406265,Ainārs Šlesers
+Latvia,Q6454285,Kārlis Leiškalns,spouse,Q30040325,Anita Leiškalne
+Latvia,Q9303235,Raimonds Rubiks,father,Q724366,Alfrēds Rubiks
+Latvia,Q940903,Imants Kalniņš,child,Q11010962,Marts Kristiāns Kalniņš
+Latvia,Q940903,Imants Kalniņš,child,Q3736471,Rēzija Kalniņa
+Latvia,Q940903,Imants Kalniņš,spouse,Q4154898,Helga Dancberga

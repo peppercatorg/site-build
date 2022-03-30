@@ -1,0 +1,56 @@
+catalog,id,name,relationship,relative,relativename
+Zimbabwe,Q10707,Robert Mugabe,child,Q106342677,Michael Nhamodzenyika Mugabe
+Zimbabwe,Q10707,Robert Mugabe,child,Q106342682,Chatunga Bellarmine Mugabe
+Zimbabwe,Q10707,Robert Mugabe,child,Q106342688,Robert Peter Mugabe Jr.
+Zimbabwe,Q10707,Robert Mugabe,child,Q16233420,Bona Mugabe
+Zimbabwe,Q10707,Robert Mugabe,father,Q106342703,Gabriel Mugabe Matibiri
+Zimbabwe,Q10707,Robert Mugabe,mother,Q106342702,Amai Bona Mugabe
+Zimbabwe,Q10707,Robert Mugabe,relative,Q7167845,Perence Shiri
+Zimbabwe,Q10707,Robert Mugabe,sibling,Q2209549,Sabina Mugabe
+Zimbabwe,Q10707,Robert Mugabe,spouse,Q453364,Grace Mugabe
+Zimbabwe,Q10707,Robert Mugabe,spouse,Q465908,Sally Mugabe
+Zimbabwe,Q107491736,Peter Haritatos,child,Q94973458,Vangelis Haritatos
+Zimbabwe,Q111313054,Peter Chanetsa,spouse,Q111317499,Beatrice Chanetsa
+Zimbabwe,Q16732124,Muchadeyi Masunda,child,Q50396635,Sindisiwe van Zyl
+Zimbabwe,Q2209549,Sabina Mugabe,child,Q43402860,Patrick Zhuwao
+Zimbabwe,Q2209549,Sabina Mugabe,father,Q106342703,Gabriel Mugabe Matibiri
+Zimbabwe,Q2209549,Sabina Mugabe,mother,Q106342702,Amai Bona Mugabe
+Zimbabwe,Q2209549,Sabina Mugabe,relative,Q63456225,Jason Zhuwao
+Zimbabwe,Q2209549,Sabina Mugabe,sibling,Q10707,Robert Mugabe
+Zimbabwe,Q274009,Kirsty Coventry,spouse,Q111328523,Tyrone Seward
+Zimbabwe,Q381334,Constantine Chiwenga,spouse,Q111328335,Jocelyn Jacobsen
+Zimbabwe,Q381334,Constantine Chiwenga,spouse,Q111328338,Marry Mubaiwa
+Zimbabwe,Q43266691,Christopher Mutsvangwa,spouse,Q85118775,Monica Mutsvangwa
+Zimbabwe,Q43402860,Patrick Zhuwao,child,Q63456225,Jason Zhuwao
+Zimbabwe,Q43402860,Patrick Zhuwao,mother,Q2209549,Sabina Mugabe
+Zimbabwe,Q43402860,Patrick Zhuwao,relative,Q106342702,Amai Bona Mugabe
+Zimbabwe,Q43402860,Patrick Zhuwao,relative,Q106342703,Gabriel Mugabe Matibiri
+Zimbabwe,Q43402860,Patrick Zhuwao,relative,Q10707,Robert Mugabe
+Zimbabwe,Q43402860,Patrick Zhuwao,spouse,Q43711491,Beauty Zhuwao
+Zimbabwe,Q43962933,Auxillia Mnangagwa,spouse,Q510523,Emmerson Mnangagwa
+Zimbabwe,Q453364,Grace Mugabe,child,Q16233420,Bona Mugabe
+Zimbabwe,Q453364,Grace Mugabe,spouse,Q10707,Robert Mugabe
+Zimbabwe,Q453364,Grace Mugabe,spouse,Q7599637,Stanley Goreraza
+Zimbabwe,Q5017585,Cain Mathema,spouse,Q111315917,Bathabetsoe Diana Nare
+Zimbabwe,Q5017585,Cain Mathema,spouse,Q111315925,Musa Ncube
+Zimbabwe,Q510523,Emmerson Mnangagwa,child,Q111328414,Farai Mlotshwa
+Zimbabwe,Q510523,Emmerson Mnangagwa,child,Q111328416,Tasiwa Mnangagwa
+Zimbabwe,Q510523,Emmerson Mnangagwa,child,Q111328421,Emmerson Dambudzo Mnangagwa
+Zimbabwe,Q510523,Emmerson Mnangagwa,child,Q111328437,Emmerson Tanaka Mnangagwa
+Zimbabwe,Q510523,Emmerson Mnangagwa,child,Q111328475,Sean Mnangagwa
+Zimbabwe,Q510523,Emmerson Mnangagwa,child,Q111328477,Collins Mnangagwa
+Zimbabwe,Q510523,Emmerson Mnangagwa,spouse,Q111328350,Jayne Mnangagwa
+Zimbabwe,Q510523,Emmerson Mnangagwa,spouse,Q43962933,Auxillia Mnangagwa
+Zimbabwe,Q5340334,Edson Zvobgo,spouse,Q17402564,Julia Tukai Zvobgo
+Zimbabwe,Q57762,Morgan Tsvangirai,spouse,Q7648475,Susan Tsvangirai
+Zimbabwe,Q7095508,Oppah Muchinguri,spouse,Q111328312,Anthony Kashiri
+Zimbabwe,Q7095508,Oppah Muchinguri,spouse,Q111328315,Tapiwa Rushesha
+Zimbabwe,Q7167845,Perence Shiri,relative,Q10707,Robert Mugabe
+Zimbabwe,Q7167845,Perence Shiri,relative,Q6131292,James Chikerema
+Zimbabwe,Q7447116,Sekai Holland,father,Q106579027,Masotsha Mike Hove
+Zimbabwe,Q7982050,Welshman Ncube,relative,Q29622258,Gugulethu Zuma-Ncube
+Zimbabwe,Q85118775,Monica Mutsvangwa,spouse,Q43266691,Christopher Mutsvangwa
+Zimbabwe,Q86628132,Obadiah Moyo,spouse,Q111315272,Lucy Memory
+Zimbabwe,Q94973458,Vangelis Haritatos,father,Q107491736,Peter Haritatos
+Zimbabwe,Q981736,Joice Mujuru,spouse,Q4305770,Solomon Mujuru
+Zimbabwe,Q99237213,Ruth Masodzi Chikwira,spouse,Q111418312,Stanford Shikwira

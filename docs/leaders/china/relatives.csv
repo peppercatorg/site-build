@@ -1,0 +1,136 @@
+catalog,id,name,relationship,relative,relativename
+China,Q1006996,Fu Ying,spouse,Q16907516,Hao Shiyuan
+China,Q10414618,Peter Wong Man-kong,father,Q9316158,王華生
+China,Q10414618,Peter Wong Man-kong,sibling,Q9314718,Ronnie Wong
+China,Q1045031,Liu Chuanzhi,child,Q25007174,Liu Qing
+China,Q1069897,Cheng Siwei,father,Q11074611,Cheng Shewo
+China,Q1069897,Cheng Siwei,sibling,Q15240320,Cheng Youshu
+China,Q1069897,Cheng Siwei,sibling,Q15908154,Cheng Zhifan
+China,Q1069897,Cheng Siwei,sibling,Q16075610,Cheng Jialing
+China,Q1069897,Cheng Siwei,sibling,Q47520139,Lucie Cheng
+China,Q11067710,,mother,Q22812876,张稻香
+China,Q12117497,Raymond Wu,father,Q28411516,邬志豪
+China,Q12117497,Raymond Wu,sibling,Q15925031,鄔顯庭
+China,Q1226358,Ding Shisun,spouse,Q15912854,桂琳琳
+China,Q15029,Hu Jintao,child,Q262261,Hu Haifeng
+China,Q15029,Hu Jintao,child,Q4121018,Hu Haiqing
+China,Q15029,Hu Jintao,spouse,Q487095,Liu Yongqing
+China,Q15031,Xi Jinping,child,Q8044049,Xi Mingze
+China,Q15031,Xi Jinping,father,Q301282,Xi Zhongxun
+China,Q15031,Xi Jinping,mother,Q17499761,Qi Xin
+China,Q15031,Xi Jinping,relative,Q15901784,Zhang Lanlan
+China,Q15031,Xi Jinping,relative,Q8951054,Deng Jiagui
+China,Q15031,Xi Jinping,relative,Q9295825,Ke Hua
+China,Q15031,Xi Jinping,sibling,Q104837702,Xi Ganping
+China,Q15031,Xi Jinping,sibling,Q104837711,Xi Heping
+China,Q15031,Xi Jinping,sibling,Q104837712,Xi An'an
+China,Q15031,Xi Jinping,sibling,Q104837764,Zhang Yannan
+China,Q15031,Xi Jinping,sibling,Q1441290,Qi Qiaoqiao
+China,Q15031,Xi Jinping,sibling,Q4119708,Xi Yuanping
+China,Q15031,Xi Jinping,sibling,Q48880970,Xi Zhengning
+China,Q15031,Xi Jinping,spouse,Q430911,Peng Liyuan
+China,Q15031,Xi Jinping,spouse,Q97352031,Ke Lingling
+China,Q1592181,He Luli,father,Q8460116,He Siyuan
+China,Q15934896,Bu Xiaolin,father,Q8920967,Buhe
+China,Q163457,Rita Fan,child,Q16075970,Fan Junhua
+China,Q163457,Rita Fan,father,Q4603094,Hsu Ta Tung
+China,Q16597,Jiang Zemin,child,Q4120678,Jiang Mianheng
+China,Q16597,Jiang Zemin,child,Q4120685,Jiang Miankang
+China,Q16597,Jiang Zemin,father,Q11133618,Jiang Shijun
+China,Q16597,Jiang Zemin,mother,Q107015379,Wang Zhelan
+China,Q16597,Jiang Zemin,relative,Q8296718,Jiang Shangqing
+China,Q16597,Jiang Zemin,relative,Q8296718,Jiang Shangqing
+China,Q16597,Jiang Zemin,sibling,Q9301391,Jiang Zehui
+China,Q16597,Jiang Zemin,spouse,Q717483,Wang Yeping
+China,Q16597,Jiang Zemin,stepparent,Q8296718,Jiang Shangqing
+China,Q16628,Wen Jiabao,child,Q15914799,Wen Ruchun
+China,Q16628,Wen Jiabao,child,Q3380941,Wen Yunsong
+China,Q16628,Wen Jiabao,spouse,Q4122281,Zhang Peili
+China,Q16906311,Bai Tian,father,Q7217871,Bai Dongcai
+China,Q16907286,,child,Q16907309,赵超
+China,Q16907286,,child,Q63993844,赵涛
+China,Q16907309,,sibling,Q63993844,赵涛
+China,Q16907822,Chen Weilan,father,Q557233,Chen Yun
+China,Q16907822,Chen Weilan,mother,Q8289904,Yu Ruomu
+China,Q16907822,Chen Weilan,sibling,Q82260,Chen Yuan
+China,Q16908186,Ma Lan,spouse,Q6860444,Pei Gang
+China,Q1739008,Ma Huateng,child,Q106897236,Ma Manlin
+China,Q1739008,Ma Huateng,father,Q47546393,Ma Chenshu
+China,Q1739008,Ma Huateng,mother,Q106880307,Huang Huiqing
+China,Q1739008,Ma Huateng,spouse,Q106897267,Wang Danting
+China,Q18111,Li Keqiang,father,Q6837118,Li Fengsan
+China,Q18111,Li Keqiang,sibling,Q6836589,Li Keming
+China,Q18111,Li Keqiang,spouse,Q6836696,Cheng Hong
+China,Q18113,Wang Qishan,spouse,Q38888847,Yao Mingshan
+China,Q18285,Zhu Rongji,child,Q6687392,Zhu Yunlai
+China,Q18285,Zhu Rongji,father,Q22829318,Zhu Kuanshu
+China,Q18285,Zhu Rongji,relative,Q10330541,Zhu Pian
+China,Q18285,Zhu Rongji,spouse,Q6687272,Lao An
+China,Q189519,Zeng Qinghong,father,Q3373814,Zeng Shan
+China,Q197178,Zhang Dejiang,spouse,Q17432468,Xin Shusen
+China,Q198026,Zhou Xiaochuan,father,Q7929012,Zhou Jiannan
+China,Q198042,Zhou Yongkang,child,Q15904745,Zhou Bin
+China,Q198042,Zhou Yongkang,child,Q17023447,Zhou Han
+China,Q198042,Zhou Yongkang,spouse,Q15954024,Jia Xiaoye
+China,Q198042,Zhou Yongkang,spouse,Q16603522,Wang Shuhua
+China,Q217239,Ambrose Lee,child,Q7225718,Glen Lee
+China,Q21822,Bo Xilai,child,Q4931095,Bo Guagua
+China,Q21822,Bo Xilai,father,Q553682,Bo Yibo
+China,Q21822,Bo Xilai,relative,Q553682,Bo Yibo
+China,Q21822,Bo Xilai,sibling,Q8925023,Bo Xiyong
+China,Q21822,Bo Xilai,spouse,Q2499132,Gu Kailai
+China,Q3051666,Ip Kwok-him,sibling,Q9334923,Ip Kwok-chung
+China,Q3570137,Wu Jianmin,spouse,Q11085243,Shi yanhua
+China,Q365898,Wang Hongju,child,Q45411700,Wang Dalin
+China,Q365898,Wang Hongju,father,Q45411704,Wang Duanli
+China,Q4892988,Bernard Charnwut Chan,father,Q7352315,Robin Chan
+China,Q4892988,Bernard Charnwut Chan,sibling,Q7610653,Stephen Tan
+China,Q5434051,Fanny Law,sibling,Q5721095,Henry Fan
+China,Q6137125,Chen Saijuan,spouse,Q688508,Chen Zhu
+China,Q6498786,Laura Cha,spouse,Q11108994,Victor Cha Mou-Zing
+China,Q6683999,Cally Kwong,spouse,Q1142931,Ray Lui
+China,Q688508,Chen Zhu,spouse,Q6137125,Chen Saijuan
+China,Q698688,Li Xiaopeng,father,Q18301,Li Peng
+China,Q698688,Li Xiaopeng,mother,Q11094424,Zhu Lin
+China,Q698688,Li Xiaopeng,sibling,Q709111,Li Xiaolin
+China,Q698688,Li Xiaopeng,sibling,Q8986270,Li Xiaoyong
+China,Q702356,Cao Jianming,spouse,Q9065121,Wang Xiaoya
+China,Q708802,Li Yuanchao,father,Q8335383,Li Gancheng
+China,Q708802,Li Yuanchao,mother,Q8289010,Lü Jiying
+China,Q708802,Li Yuanchao,spouse,Q7301173,Gao Jianjin
+China,Q709764,Justin Yifu Lin,spouse,Q8248352,Chen Yunying
+China,Q710112,Bai Enpei,relative,Q8340584,Bai Zhimin
+China,Q712485,Li Tieying,father,Q711421,Li Weihan
+China,Q712485,Li Tieying,mother,Q4121487,Jin Weiying
+China,Q717014,Wu Shengli,father,Q21040355,Wu Xian
+China,Q7184580,Philip Wong,father,Q11176019,Wong Ker-lee
+China,Q7184580,Philip Wong,spouse,Q9298156,Leung Fung Yee
+China,Q734914,Wang Yang,child,Q55715807,Wang Xisha
+China,Q7352315,Robin Chan,child,Q4892988,Bernard Charnwut Chan
+China,Q7352315,Robin Chan,child,Q7610653,Stephen Tan
+China,Q7352315,Robin Chan,father,Q4924721,Chin Sophonpanich
+China,Q7352315,Robin Chan,sibling,Q5087786,Chatri Sophonpanich
+China,Q7682067,Tan Jing,spouse,Q9351762,Deng Zhonghan
+China,Q7849814,Tso Wung-Wai,spouse,Q9189462,Tso Wong Man-yin
+China,Q7929640,Wang Guangya,spouse,Q67935647,Cong Jun
+China,Q80332,Michael Tien,father,Q15969689,Francis Tien
+China,Q80332,Michael Tien,sibling,Q4368021,James Tien
+China,Q8053577,Yigong Shi,father,Q63970432,Shi Huailin
+China,Q8248352,Chen Yunying,spouse,Q709764,Justin Yifu Lin
+China,Q8292979,Gong Ke,father,Q8288235,Gong Yuzhi
+China,Q8297870,Jin Daoming,relative,Q22829655,Hongtiao
+China,Q8315058,Wang Hongguang,father,Q8327416,Wang Jianqing
+China,Q8315116,Xu Xiaoyan,father,Q702194,Xu Xiangqian
+China,Q8321230,Zhou Xiaozhou,father,Q8315615,Zhou Yibing
+China,Q8462985,Zhang Gongqing,father,Q98066755,Zhang Yunqiao
+China,Q8462985,Zhang Gongqing,mother,Q98066775,Chen Jingzhen
+China,Q8464941,Ngapo Todo Doji,father,Q519381,Ngapoi Ngawang Jigme
+China,Q9096750,Zhong Nanshan,spouse,Q60675263,Li Shaofen
+China,Q9126847,Sun Piaoyang,spouse,Q105338400,Zhong Huijuan
+China,Q9137228,Zhang Jiyu,father,Q22813291,张宝训
+China,Q9189989,Tsang Hin-chi,child,Q11091548,曾智明
+China,Q9189989,Tsang Hin-chi,child,Q7228747,曾智雄
+China,Q9331844,Su Hui,father,Q15950043,Cai Xiao
+China,Q9351762,Deng Zhonghan,spouse,Q7682067,Tan Jing
+China,Q9372313,Ian Fok,father,Q3236818,Henry Fok
+China,Q9372313,Ian Fok,sibling,Q7807201,Timothy Fok

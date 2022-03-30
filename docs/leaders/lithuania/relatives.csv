@@ -1,0 +1,28 @@
+catalog,id,name,relationship,relative,relativename
+Lithuania,Q100371377,Arūnas Valinskas,father,Q719281,Arūnas Valinskas
+Lithuania,Q100371377,Arūnas Valinskas,mother,Q541471,Ingrida Valinskienė
+Lithuania,Q145315,Ramūnas Karbauskis,sibling,Q4214550,Mindaugas Karbauskis
+Lithuania,Q153167,Valdas Adamkus,father,Q57697441,Ignas Adamkavičius
+Lithuania,Q153167,Valdas Adamkus,spouse,Q459263,Alma Adamkienė
+Lithuania,Q16444907,Aušra Maldeikienė,spouse,Q952063,Eugenijus Maldeikis
+Lithuania,Q164582,Vytautas Landsbergis,child,Q4253865,Vytautas V. Landsbergis
+Lithuania,Q164582,Vytautas Landsbergis,father,Q644319,Vytautas Landsbergis-Žemkalnis
+Lithuania,Q164582,Vytautas Landsbergis,mother,Q11109641,Ona Jablonskytė-Landsbergienė
+Lithuania,Q17118365,Gabrielius Landsbergis,father,Q4253865,Vytautas V. Landsbergis
+Lithuania,Q17118365,Gabrielius Landsbergis,spouse,Q31198833,Austeja Landsbergiene
+Lithuania,Q1936326,Mindaugas Sinkevičius,father,Q59723,Rimantas Sinkevičius
+Lithuania,Q211408,Virgilijus Alekna,child,Q107583947,Mykolas Alekna
+Lithuania,Q270330,Viktorija Čmilytė-Nielsen,spouse,Q214713,Alexei Shirov
+Lithuania,Q270330,Viktorija Čmilytė-Nielsen,spouse,Q708943,Peter Heine Nielsen
+Lithuania,Q556443,Kęstutis Glaveckas,spouse,Q541383,Rūta Rutkelytė
+Lithuania,Q57379,Dalia Grybauskaitė,father,Q17278674,Polikarpas Grybauskas
+Lithuania,Q57379,Dalia Grybauskaitė,mother,Q12677896,Vitalija Korsakaitė
+Lithuania,Q57663,Andrius Kubilius,father,Q4243603,Vytautas Kubilius
+Lithuania,Q57663,Andrius Kubilius,mother,Q4178641,Janina Žėkaitė–Kubilienė
+Lithuania,Q59723,Rimantas Sinkevičius,child,Q1936326,Mindaugas Sinkevičius
+Lithuania,Q66821243,Diana Nausėdienė,spouse,Q9268379,Gitanas Nausėda
+Lithuania,Q719281,Arūnas Valinskas,child,Q100371377,Arūnas Valinskas
+Lithuania,Q719281,Arūnas Valinskas,spouse,Q541471,Ingrida Valinskienė
+Lithuania,Q922691,Kęstutis Daukšys,child,Q109921212,Mindaugas Daukšys
+Lithuania,Q9268379,Gitanas Nausėda,spouse,Q66821243,Diana Nausėdienė
+Lithuania,Q952063,Eugenijus Maldeikis,spouse,Q16444907,Aušra Maldeikienė

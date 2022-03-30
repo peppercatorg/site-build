@@ -1,0 +1,15 @@
+catalog,id,name,relationship,relative,relativename
+Moldova,Q1110215,Dorin Chirtoacă,relative,Q294473,Mihai Ghimpu
+Moldova,Q1110215,Dorin Chirtoacă,relative,Q5556336,Gheorghe Ghimpu
+Moldova,Q189435,Vladimir Voronin,child,Q7086161,Oleg Voronin
+Moldova,Q20432271,Djumberi Todua,child,Q20031348,Zurab Todua
+Moldova,Q294473,Mihai Ghimpu,sibling,Q7517855,Simion Ghimpu
+Moldova,Q294473,Mihai Ghimpu,spouse,Q37829105,Dina Ghimpu
+Moldova,Q347679,Mircea Snegur,child,Q6968023,Natalia Gherman
+Moldova,Q355874,Petru Lucinschi,child,Q18549566,Chiril Lucinschi
+Moldova,Q355874,Petru Lucinschi,spouse,Q75441702,Antonina Lucinschi
+Moldova,Q4164146,Igor Dodon,spouse,Q33264614,Galina Dodon
+Moldova,Q4526147,Ilan Shor,father,Q61773955,Miron Shor
+Moldova,Q4526147,Ilan Shor,spouse,Q4178347,Jasmin
+Moldova,Q57685,Vlad Filat,spouse,Q18540535,Angela Gonța
+Moldova,Q6968023,Natalia Gherman,father,Q347679,Mircea Snegur

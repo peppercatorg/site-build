@@ -1,0 +1,8 @@
+catalog,id,name,relationship,relative,relativename
+Mauritius,Q217566,Anerood Jugnauth,child,Q3401447,Pravind Jugnauth
+Mauritius,Q217566,Anerood Jugnauth,spouse,Q7424446,Sarojini Jugnauth
+Mauritius,Q3401447,Pravind Jugnauth,father,Q217566,Anerood Jugnauth
+Mauritius,Q4764635,Anil Gayan,relative,Q5582074,Satcam Boolell
+Mauritius,Q57836,Navin Ramgoolam,father,Q2166580,Seewoosagur Ramgoolam
+Mauritius,Q58260,Arvin Boolell,father,Q5582074,Satcam Boolell
+Mauritius,Q58260,Arvin Boolell,relative,Q4764635,Anil Gayan

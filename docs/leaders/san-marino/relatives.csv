@@ -1,0 +1,6 @@
+catalog,id,name,relationship,relative,relativename
+San Marino,Q16549371,Gian Nicola Berti,child,Q107697007,Gian Marco Berti
+San Marino,Q16549371,Gian Nicola Berti,sibling,Q289413,Maria Luisa Berti
+San Marino,Q289413,Maria Luisa Berti,sibling,Q16549371,Gian Nicola Berti
+San Marino,Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti
+San Marino,Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti

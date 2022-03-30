@@ -1,0 +1,215 @@
+catalog,id,name,relationship,relative,relativename
+Denmark,Q100596915,Lars Weiss,father,Q6234817,Ove Weiss
+Denmark,Q100596915,Lars Weiss,mother,Q3435893,Birte Weiss
+Denmark,Q102139,Margrethe II of Denmark,child,Q1004037,"Frederik, Crown Prince of Denmark"
+Denmark,Q102139,Margrethe II of Denmark,child,Q159101,Prince Joachim of Denmark
+Denmark,Q102139,Margrethe II of Denmark,father,Q151312,Frederick IX of Denmark
+Denmark,Q102139,Margrethe II of Denmark,mother,Q163010,Queen Ingrid of Denmark
+Denmark,Q102139,Margrethe II of Denmark,relative,Q12976,Baudouin I of Belgium
+Denmark,Q102139,Margrethe II of Denmark,relative,Q151773,Constantine II of Greece
+Denmark,Q102139,Margrethe II of Denmark,relative,Q154952,Willem-Alexander of the Netherlands
+Denmark,Q102139,Margrethe II of Denmark,relative,Q165241,"Haakon, Crown Prince of Norway"
+Denmark,Q102139,Margrethe II of Denmark,relative,Q1797989,Princess Alexandra of Sayn-Wittgenstein-Berleburg
+Denmark,Q102139,Margrethe II of Denmark,relative,Q20200020,Marcus Knuth
+Denmark,Q102139,Margrethe II of Denmark,relative,Q214704,"Prince Carl Philip, Duke of Värmland"
+Denmark,Q102139,Margrethe II of Denmark,relative,Q292274,Princess Theodora of Greece and Denmark
+Denmark,Q102139,Margrethe II of Denmark,relative,Q38053811,Gregers Heering
+Denmark,Q102139,Margrethe II of Denmark,relative,Q3911,Albert II of Belgium
+Denmark,Q102139,Margrethe II of Denmark,relative,Q443361,Ellen Hillingsø
+Denmark,Q102139,Margrethe II of Denmark,relative,Q45068,Carl XVI Gustaf of Sweden
+Denmark,Q102139,Margrethe II of Denmark,relative,Q50379775,Christoffer Knuth
+Denmark,Q102139,Margrethe II of Denmark,relative,Q57287,Harald V of Norway
+Denmark,Q102139,Margrethe II of Denmark,sibling,Q564889,Queen Anne-Marie of Greece
+Denmark,Q102139,Margrethe II of Denmark,sibling,Q817052,Princess Benedikte of Denmark
+Denmark,Q102139,Margrethe II of Denmark,spouse,Q1389258,"Henrik, Prince Consort of Denmark"
+Denmark,Q1079744,Christian Friis Bach,spouse,Q47500082,Karin Friis Bach
+Denmark,Q10853676,Marie Krarup,father,Q7666571,Søren Krarup
+Denmark,Q10853676,Marie Krarup,sibling,Q12321586,Katrine Winkel Holm
+Denmark,Q11257352,Hans-Pavia Rosing,father,Q45373933,Nikolaj Rosing
+Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q23906043,Christian Rosing
+Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q52709911,Peter Frederik Rosing
+Denmark,Q11989208,Mette Bock,father,Q6090650,Ole Samuelsen
+Denmark,Q11989208,Mette Bock,sibling,Q491263,Anders Samuelsen
+Denmark,Q12301892,Annette Lind,father,Q100715907,Alex Lind
+Denmark,Q12303586,Birthe Skaarup,child,Q12331726,Peter Skaarup
+Denmark,Q12305464,Carsten Bo Jensen,father,Q1703533,Erling Jensen
+Denmark,Q12305692,Charlotte Dyremose,father,Q12316220,Henning Dyremose
+Denmark,Q12306218,Christian Wedell-Neergaard,father,Q12319494,Jens Wedell-Neergaard
+Denmark,Q12309819,Ellen Trane Nørby,father,Q61962245,Jørgen Nørby
+Denmark,Q12311129,Fatma Øktem,spouse,Q16063349,Bünyamin Simsek
+Denmark,Q12311589,Flemming Møller,father,Q12319397,Jens Møller
+Denmark,Q12312157,Frank Dahlgaard,father,Q5615421,Lauge Dahlgaard
+Denmark,Q12315583,Hans Vestager,child,Q270820,Margrethe Vestager
+Denmark,Q12315583,Hans Vestager,spouse,Q62926188,Bodil Tybjerg
+Denmark,Q12316082,Helle Sjelle,spouse,Q917179,Lars Barfoed
+Denmark,Q12316339,Henrik Dahl,spouse,Q531054,Christine Antorini
+Denmark,Q12318355,Inger Marie Bruun-Vierø,spouse,Q12320890,Jørgen Søndergaard
+Denmark,Q12318947,Jakob Ellemann-Jensen,father,Q698080,Uffe Ellemann-Jensen
+Denmark,Q12318947,Jakob Ellemann-Jensen,mother,Q12301035,Alice Vestergaard
+Denmark,Q12318947,Jakob Ellemann-Jensen,sibling,Q3042869,Karen Ellemann
+Denmark,Q12319302,Jens Henrik Thulesen Dahl,sibling,Q4992021,Kristian Thulesen Dahl
+Denmark,Q12321352,Karina Adsbøl,father,Q63762586,Hans Erik Adsbøl
+Denmark,Q12322095,Klaus Hækkerup,child,Q12330081,Ole Hækkerup
+Denmark,Q12322095,Klaus Hækkerup,child,Q645613,Nick Hækkerup
+Denmark,Q12322095,Klaus Hækkerup,father,Q707374,Per Hækkerup
+Denmark,Q12322095,Klaus Hækkerup,mother,Q4955287,Grete Hækkerup
+Denmark,Q12322095,Klaus Hækkerup,sibling,Q1390745,Hans Hækkerup
+Denmark,Q12322894,Kristen Touborg,child,Q12326850,Mette Touborg
+Denmark,Q12322894,Kristen Touborg,child,Q60830783,Karen Touborg Hansen
+Denmark,Q12322894,Kristen Touborg,spouse,Q12301764,Anna Marie Touborg
+Denmark,Q12323860,Lars Kramer Mikkelsen,sibling,Q1687259,Jens Kramer Mikkelsen
+Denmark,Q12324638,Lise Hækkerup,spouse,Q1390745,Hans Hækkerup
+Denmark,Q12324866,Lone Møller,child,Q64441610,Henrik Møller
+Denmark,Q12324973,Louise Schack Elholm,spouse,Q7827256,Torsten Schack Pedersen
+Denmark,Q12327679,Morten Helveg Petersen,father,Q425708,Niels Helveg Petersen
+Denmark,Q12327679,Morten Helveg Petersen,mother,Q18040591,Hanne Elisabeth Aarup
+Denmark,Q12327679,Morten Helveg Petersen,sibling,Q12332907,Rasmus Helveg Petersen
+Denmark,Q12328270,Nanna Westerby,spouse,Q984350,Thor Möger Pedersen
+Denmark,Q12330081,Ole Hækkerup,father,Q12322095,Klaus Hækkerup
+Denmark,Q12330081,Ole Hækkerup,sibling,Q645613,Nick Hækkerup
+Denmark,Q12330081,Ole Hækkerup,spouse,Q512386,Karen Hækkerup
+Denmark,Q12331328,Per Larsen,child,Q16064540,Martin Bech
+Denmark,Q12331411,Pernille Skipper,spouse,Q18199470,Oliver Routhe Skov
+Denmark,Q12331601,Peter Juel-Jensen,mother,Q48692896,Birthe Juel-Jensen
+Denmark,Q12331726,Peter Skaarup,mother,Q12303586,Birthe Skaarup
+Denmark,Q12332907,Rasmus Helveg Petersen,father,Q425708,Niels Helveg Petersen
+Denmark,Q12332907,Rasmus Helveg Petersen,mother,Q18040591,Hanne Elisabeth Aarup
+Denmark,Q12332907,Rasmus Helveg Petersen,sibling,Q12327679,Morten Helveg Petersen
+Denmark,Q12332910,Rasmus Horn Langhoff,spouse,Q16063241,Anne Sina
+Denmark,Q12336452,Sophie Løhde,mother,Q12321347,Karin Løhde
+Denmark,Q12338511,Søren Espersen,relative,Q17142887,Rikke Karlsson
+Denmark,Q12339263,Thor Gunnar Kofoed,father,Q12328700,Niels Anker Kofoed
+Denmark,Q12342520,Liselott Blixt,relative,Q12315997,Helene Marie Blixt
+Denmark,Q1272556,Martin Lidegaard,father,Q12325631,Mads Lidegaard
+Denmark,Q1272556,Martin Lidegaard,mother,Q12309866,Else Lidegaard
+Denmark,Q1272556,Martin Lidegaard,sibling,Q16634716,Øjvind Lidegaard
+Denmark,Q1272556,Martin Lidegaard,sibling,Q887417,Bo Lidegaard
+Denmark,Q131991,Mogens Camre,sibling,Q427290,Henning Camre
+Denmark,Q131991,Mogens Camre,spouse,Q273907,Vita Andersen
+Denmark,Q1338185,Morten Messerschmidt,partner,Q12308875,Dot Wessmann
+Denmark,Q1390745,Hans Hækkerup,father,Q707374,Per Hækkerup
+Denmark,Q1390745,Hans Hækkerup,mother,Q4955287,Grete Hækkerup
+Denmark,Q1390745,Hans Hækkerup,sibling,Q12322095,Klaus Hækkerup
+Denmark,Q1390745,Hans Hækkerup,spouse,Q12324638,Lise Hækkerup
+Denmark,Q1424299,Svend Auken,father,Q12314619,Gunnar Auken
+Denmark,Q1424299,Svend Auken,mother,Q6416061,Kirsten Auken
+Denmark,Q1424299,Svend Auken,sibling,Q12314655,Gunvor Auken
+Denmark,Q1424299,Svend Auken,sibling,Q12319223,Jens Auken
+Denmark,Q1424299,Svend Auken,sibling,Q261120,Margrete Auken
+Denmark,Q1424299,Svend Auken,spouse,Q12301866,Anne Wivel
+Denmark,Q1424299,Svend Auken,spouse,Q38907,Bettina Heltberg
+Denmark,Q15580095,Hellen Hedemann,spouse,Q12342562,Martin Günter
+Denmark,Q15700706,Christian Langballe,father,Q6185850,Jesper Langballe
+Denmark,Q16063241,Anne Sina,spouse,Q12332910,Rasmus Horn Langhoff
+Denmark,Q16167420,Magni Arge,father,Q11991374,Niels Juel Arge
+Denmark,Q16167420,Magni Arge,sibling,Q331826,Jógvan Arge
+Denmark,Q1687259,Jens Kramer Mikkelsen,sibling,Q12323860,Lars Kramer Mikkelsen
+Denmark,Q182397,Lars Løkke Rasmussen,child,Q16948845,Bergur Løkke Rasmussen
+Denmark,Q182397,Lars Løkke Rasmussen,spouse,Q1315326,Sólrun Løkke Rasmussen
+Denmark,Q1937560,Mogens Lykketoft,spouse,Q12326829,Mette Holm
+Denmark,Q1937560,Mogens Lykketoft,spouse,Q547422,Jytte Hilden
+Denmark,Q20200020,Marcus Knuth,father,Q12300542,Adam Wilhelm Knuth
+Denmark,Q20200020,Marcus Knuth,godparent,Q102139,Margrethe II of Denmark
+Denmark,Q20200020,Marcus Knuth,mother,Q4980024,Helle Stangerup
+Denmark,Q20200020,Marcus Knuth,sibling,Q50379775,Christoffer Knuth
+Denmark,Q24293722,Pernille Vermund,spouse,Q108602009,Johnny Gere
+Denmark,Q24293722,Pernille Vermund,spouse,Q29526589,Lars Tvede
+Denmark,Q257881,Ritt Bjerregaard,spouse,Q176570,Søren Mørch
+Denmark,Q261120,Margrete Auken,child,Q441594,Ida Auken
+Denmark,Q261120,Margrete Auken,father,Q12314619,Gunnar Auken
+Denmark,Q261120,Margrete Auken,mother,Q6416061,Kirsten Auken
+Denmark,Q261120,Margrete Auken,sibling,Q12314655,Gunvor Auken
+Denmark,Q261120,Margrete Auken,sibling,Q12319223,Jens Auken
+Denmark,Q261120,Margrete Auken,sibling,Q1424299,Svend Auken
+Denmark,Q261120,Margrete Auken,spouse,Q12310272,Erik A. Nielsen
+Denmark,Q270820,Margrethe Vestager,father,Q12315583,Hans Vestager
+Denmark,Q270820,Margrethe Vestager,mother,Q62926188,Bodil Tybjerg
+Denmark,Q272924,Pia Kjærsgaard,spouse,Q12316470,Henrik Thorup
+Denmark,Q28528045,Orla Østerby,sibling,Q12314845,H.C. Østerby
+Denmark,Q28759772,Peter Seier Christensen,sibling,Q12323908,Lars Seier Christensen
+Denmark,Q299352,Lene Espersen,sibling,Q12301858,Anne Sofie Espersen
+Denmark,Q3042869,Karen Ellemann,father,Q698080,Uffe Ellemann-Jensen
+Denmark,Q3042869,Karen Ellemann,sibling,Q12318947,Jakob Ellemann-Jensen
+Denmark,Q3082669,Ulla Tørnæs,father,Q12324045,Laurits Tørnæs
+Denmark,Q3107100,Mimi Jakobsen,father,Q12310227,Erhard Jakobsen
+Denmark,Q3107100,Mimi Jakobsen,spouse,Q12303105,Bengt Burg
+Denmark,Q311063,Poul Nyrup Rasmussen,spouse,Q3499031,Lone Dybkjær
+Denmark,Q3160663,Jakob Axel Nielsen,relative,Q6007723,K. Axel Nielsen
+Denmark,Q331931,Jóannes Eidesgaard,child,Q20606530,Erling Eidesgaard
+Denmark,Q3321283,Peter Brixtofte,sibling,Q12319240,Jens Brixtofte
+Denmark,Q3435893,Birte Weiss,child,Q100596915,Lars Weiss
+Denmark,Q3435893,Birte Weiss,spouse,Q6234817,Ove Weiss
+Denmark,Q3499031,Lone Dybkjær,spouse,Q311063,Poul Nyrup Rasmussen
+Denmark,Q3547975,Ulrik Federspiel,father,Q701926,Per Federspiel
+Denmark,Q3560841,Carl Holst,father,Q12331577,Peter Holst
+Denmark,Q381139,Jonathan Motzfeldt,spouse,Q55087277,Margit Motzfeldt
+Denmark,Q425708,Niels Helveg Petersen,child,Q12327679,Morten Helveg Petersen
+Denmark,Q425708,Niels Helveg Petersen,child,Q12332907,Rasmus Helveg Petersen
+Denmark,Q425708,Niels Helveg Petersen,father,Q12322884,Kristen Helveg Petersen
+Denmark,Q425708,Niels Helveg Petersen,mother,Q4548513,Lilly Helveg Petersen
+Denmark,Q425708,Niels Helveg Petersen,spouse,Q18040591,Hanne Elisabeth Aarup
+Denmark,Q425708,Niels Helveg Petersen,spouse,Q4934516,Margita Ahlin
+Denmark,Q425708,Niels Helveg Petersen,spouse,Q4961499,Kirsten Lee
+Denmark,Q4357060,Arne Melchior,father,Q6758332,Marcus Melchior
+Denmark,Q4357060,Arne Melchior,sibling,Q12341500,Werner David Melchior
+Denmark,Q4357060,Arne Melchior,sibling,Q4890338,Bent Melchior
+Denmark,Q441594,Ida Auken,father,Q12310272,Erik A. Nielsen
+Denmark,Q441594,Ida Auken,mother,Q261120,Margrete Auken
+Denmark,Q447578,Karen Jespersen,spouse,Q6050924,Ralf Pittelkow
+Denmark,Q46052,Anders Fogh Rasmussen,child,Q12316348,Henrik Fogh Rasmussen
+Denmark,Q46052,Anders Fogh Rasmussen,spouse,Q12301804,Anne-Mette Rasmussen
+Denmark,Q468034,Lars-Emil Johansen,mother,Q11242423,Elisabeth Johansen
+Denmark,Q491263,Anders Samuelsen,father,Q6090650,Ole Samuelsen
+Denmark,Q491263,Anders Samuelsen,sibling,Q11989208,Mette Bock
+Denmark,Q4935633,Bodil Nyboe Andersen,child,Q1691994,Johan Holten
+Denmark,Q4935633,Bodil Nyboe Andersen,child,Q5958465,Kasper Holten
+Denmark,Q4938190,Dorte Bennedsen,child,Q99361966,Morten Bennedsen
+Denmark,Q4938190,Dorte Bennedsen,father,Q3430036,Hal Koch
+Denmark,Q4938190,Dorte Bennedsen,mother,Q4936601,Bodil Koch
+Denmark,Q4938190,Dorte Bennedsen,sibling,Q5916468,Ejler Koch
+Denmark,Q4992021,Kristian Thulesen Dahl,sibling,Q12319302,Jens Henrik Thulesen Dahl
+Denmark,Q4992554,Ulla Sandbæk,father,Q12315681,Harald Sandbæk
+Denmark,Q4993293,Knud Bartels,father,Q110776086,Eyvind Bartels
+Denmark,Q4994613,Malou Aamund,father,Q12302286,Asger Aamund
+Denmark,Q4994613,Malou Aamund,mother,Q65944275,Susanne Aamund
+Denmark,Q4994613,Malou Aamund,partner,Q1004037,"Frederik, Crown Prince of Denmark"
+Denmark,Q4994613,Malou Aamund,spouse,Q12327107,Mikael Bertelsen
+Denmark,Q4994613,Malou Aamund,spouse,Q16064813,Nikolaj Egelund
+Denmark,Q5015,Mette Frederiksen,spouse,Q100902286,Erik Harr
+Denmark,Q5015,Mette Frederiksen,spouse,Q38051211,Bo Tengberg
+Denmark,Q512386,Karen Hækkerup,spouse,Q12330081,Ole Hækkerup
+Denmark,Q531054,Christine Antorini,spouse,Q12316339,Henrik Dahl
+Denmark,Q531614,Pia Olsen Dyhr,spouse,Q12341082,Villy Dyhr
+Denmark,Q546215,Morten Løkkegaard,spouse,Q12331096,Paula Larrain
+Denmark,Q556712,Aksel V. Johannesen,father,Q1414299,Vilhelm Johannesen
+Denmark,Q558865,Naser Khader,mother,Q20607741,Sada Abu Khader
+Denmark,Q567780,Høgni Hoydal,father,Q24004893,Kjartan Hoydal
+Denmark,Q57652,Helle Thorning-Schmidt,child,Q76199431,Johanna Kinnock
+Denmark,Q57652,Helle Thorning-Schmidt,child,Q76240009,Camilla Kinnock
+Denmark,Q57652,Helle Thorning-Schmidt,spouse,Q3377178,Stephen Kinnock
+Denmark,Q60830783,Karen Touborg Hansen,father,Q12322894,Kristen Touborg
+Denmark,Q60830783,Karen Touborg Hansen,mother,Q12301764,Anna Marie Touborg
+Denmark,Q6185850,Jesper Langballe,child,Q15700706,Christian Langballe
+Denmark,Q6185850,Jesper Langballe,relative,Q7666571,Søren Krarup
+Denmark,Q64427892,Niels Flemming Hansen,father,Q707403,Flemming Hansen
+Denmark,Q64441610,Henrik Møller,mother,Q12324866,Lone Møller
+Denmark,Q645613,Nick Hækkerup,father,Q12322095,Klaus Hækkerup
+Denmark,Q645613,Nick Hækkerup,sibling,Q12330081,Ole Hækkerup
+Denmark,Q6491442,Lars Christian Lilleholt,child,Q108783612,Christoffer Lilleholt
+Denmark,Q697184,Per Stig Møller,father,Q7235539,Poul Møller
+Denmark,Q697184,Per Stig Møller,mother,Q4968766,Lis Møller
+Denmark,Q698080,Uffe Ellemann-Jensen,child,Q12318947,Jakob Ellemann-Jensen
+Denmark,Q698080,Uffe Ellemann-Jensen,child,Q3042869,Karen Ellemann
+Denmark,Q698080,Uffe Ellemann-Jensen,father,Q12319432,Jens Peter Jensen
+Denmark,Q698080,Uffe Ellemann-Jensen,spouse,Q12301035,Alice Vestergaard
+Denmark,Q707403,Flemming Hansen,child,Q64427892,Niels Flemming Hansen
+Denmark,Q7659016,Mike Legarth,father,Q12319258,Jens Christian Legarth
+Denmark,Q7659016,Mike Legarth,sibling,Q16065039,Pierre Legarth
+Denmark,Q7666571,Søren Krarup,child,Q10853676,Marie Krarup
+Denmark,Q7666571,Søren Krarup,child,Q12321586,Katrine Winkel Holm
+Denmark,Q7666571,Søren Krarup,relative,Q6185850,Jesper Langballe
+Denmark,Q7819162,Tommy Ahlers,partner,Q12324097,Le Gammeltoft
+Denmark,Q7827256,Torsten Schack Pedersen,spouse,Q12324973,Louise Schack Elholm
+Denmark,Q8084240,Sara Olsvig,father,Q108949687,Lars Olsvig
+Denmark,Q917179,Lars Barfoed,spouse,Q12316082,Helle Sjelle
+Denmark,Q92348929,Birger Riis-Jørgensen,spouse,Q447647,Karin Riis-Jørgensen

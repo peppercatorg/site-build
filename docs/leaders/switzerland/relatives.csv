@@ -1,0 +1,75 @@
+catalog,id,name,relationship,relative,relativename
+Switzerland,Q105062122,Rolf Graber,sibling,Q121886,Jean-Pierre Graber
+Switzerland,Q110634549,Raphaël Mahaim,relative,Q1810035,Ernest Mahaim
+Switzerland,Q115513,Pascal Couchepin,child,Q28739254,Anne-Laure Couchepin Vouilloz
+Switzerland,Q115520,Moritz Leuenberger,father,Q15455198,Robert Leuenberger
+Switzerland,Q115520,Moritz Leuenberger,sibling,Q95341261,Dieter Leuenberger
+Switzerland,Q115520,Moritz Leuenberger,spouse,Q118441,Gret Loewensberg
+Switzerland,Q115891,Christophe Darbellay,relative,Q1340658,Vital Darbellay
+Switzerland,Q116424,Jacqueline Fehr,spouse,Q1911396,Maurice Pedergnana
+Switzerland,Q116886,Ulrich Giezendanner,child,Q61196213,Benjamin Giezendanner
+Switzerland,Q118310,Marina Carobbio Guscetti,father,Q120924,Werner Carobbio
+Switzerland,Q118489,Jean Christophe Schwaab,father,Q3172777,Jean Jacques Schwaab
+Switzerland,Q118535,Christa Markwalder,father,Q19896713,Hans-Rudolf Markwalder
+Switzerland,Q119047,Pierre-François Veillon,child,Q56120093,Vincent Veillon
+Switzerland,Q119393,Carlo Sommaruga,father,Q124591,Cornelio Sommaruga
+Switzerland,Q119880,Thomas Hurter,spouse,Q55025618,Cornelia Stamm Hurter
+Switzerland,Q119896,Michel Béguelin,spouse,Q61596217,Marlyse Dormond Béguelin
+Switzerland,Q120521,Gerold Bührer,spouse,Q120775,Elisabeth Zölch
+Switzerland,Q121147,Anton Cottier,sibling,Q3293782,Marius Cottier
+Switzerland,Q121160,Guy Parmelin,spouse,Q21686685,Caroline Parmelin
+Switzerland,Q121273,Jean-Charles Rielle,child,Q63953026,Natacha Rielle Pegatoquet
+Switzerland,Q121273,Jean-Charles Rielle,spouse,Q21694713,Laurence Fehlmann Rielle
+Switzerland,Q121287,Hans Egloff,father,Q105757679,Kurt Egloff
+Switzerland,Q121882,Ida Glanzmann-Hunkeler,relative,Q546091,Josef Zemp
+Switzerland,Q121886,Jean-Pierre Graber,sibling,Q105062122,Rolf Graber
+Switzerland,Q122377,Micheline Calmy-Rey,child,Q30004315,Alexandra Calmy
+Switzerland,Q122377,Micheline Calmy-Rey,sibling,Q96631839,Eliane Rey
+Switzerland,Q122991,Simonetta Sommaruga,relative,Q124591,Cornelio Sommaruga
+Switzerland,Q122991,Simonetta Sommaruga,spouse,Q1876900,Lukas Hartmann
+Switzerland,Q123363,Corine Mauch,father,Q21509563,Samuel Mauch
+Switzerland,Q123363,Corine Mauch,mother,Q21509161,Ursula Mauch
+Switzerland,Q123363,Corine Mauch,spouse,Q21509773,Juliana Müller
+Switzerland,Q123857,Christoph Blocher,child,Q105074295,Markus Blocher
+Switzerland,Q123857,Christoph Blocher,child,Q1883801,Magdalena Martullo-Blocher
+Switzerland,Q123857,Christoph Blocher,child,Q51511534,Rahel Blocher
+Switzerland,Q123857,Christoph Blocher,spouse,Q56642272,Silvia Blocher
+Switzerland,Q1282105,Françoise Saudan,child,Q26837545,Patrick Saudan
+Switzerland,Q1282105,Françoise Saudan,child,Q26837620,Marc Saudan
+Switzerland,Q1282105,Françoise Saudan,spouse,Q26837540,Henri Saudan
+Switzerland,Q15849165,Stephanie Baumann,child,Q15296660,Simon Baumann
+Switzerland,Q15849165,Stephanie Baumann,child,Q61807649,Kilian Baumann
+Switzerland,Q15849165,Stephanie Baumann,spouse,Q2174654,Ruedi Baumann
+Switzerland,Q1591536,Tim Guldimann,spouse,Q1082694,Christiane Hoffmann
+Switzerland,Q162767,Eveline Widmer-Schlumpf,father,Q558027,Leon Schlumpf
+Switzerland,Q1794227,Kurt Wasserfallen,child,Q73883,Christian Wasserfallen
+Switzerland,Q1866477,Livia Leu Agosti,spouse,Q20650434,Donat Agosti
+Switzerland,Q1883801,Magdalena Martullo-Blocher,father,Q123857,Christoph Blocher
+Switzerland,Q1883801,Magdalena Martullo-Blocher,sibling,Q105074295,Markus Blocher
+Switzerland,Q1883801,Magdalena Martullo-Blocher,sibling,Q51511534,Rahel Blocher
+Switzerland,Q20192072,Min Li Marti,spouse,Q805606,Balthasar Glättli
+Switzerland,Q20961905,Raymond Loretan,father,Q78065197,Wolfgang Loretan
+Switzerland,Q20961905,Raymond Loretan,relative,Q78065185,Raymund Loretan
+Switzerland,Q21032118,Andrea Gmür-Schönenberger,father,Q55902708,Jakob Schönenberger
+Switzerland,Q21032118,Andrea Gmür-Schönenberger,spouse,Q28002997,Philipp Gmür
+Switzerland,Q21694713,Laurence Fehlmann Rielle,spouse,Q121273,Jean-Charles Rielle
+Switzerland,Q2174654,Ruedi Baumann,child,Q15296660,Simon Baumann
+Switzerland,Q2174654,Ruedi Baumann,child,Q61807649,Kilian Baumann
+Switzerland,Q2174654,Ruedi Baumann,spouse,Q15849165,Stephanie Baumann
+Switzerland,Q23059253,Mattea Meyer,partner,Q1385162,Marco Kistler
+Switzerland,Q2431095,Tiana Angelina Moser,partner,Q119144,Matthias Aebischer
+Switzerland,Q380063,Johann Schneider-Ammann,spouse,Q21914418,Katharina Schneider-Ammann
+Switzerland,Q61196213,Benjamin Giezendanner,father,Q116886,Ulrich Giezendanner
+Switzerland,Q61807649,Kilian Baumann,father,Q2174654,Ruedi Baumann
+Switzerland,Q61807649,Kilian Baumann,mother,Q15849165,Stephanie Baumann
+Switzerland,Q61807649,Kilian Baumann,sibling,Q15296660,Simon Baumann
+Switzerland,Q677887,Jean-Philippe Maitre,child,Q71800029,Vincent Maitre
+Switzerland,Q677887,Jean-Philippe Maitre,father,Q96381133,Yves Maitre
+Switzerland,Q690192,Giuliano Bignasca,sibling,Q758134,Attilio Bignasca
+Switzerland,Q71800029,Vincent Maitre,father,Q677887,Jean-Philippe Maitre
+Switzerland,Q73883,Christian Wasserfallen,father,Q1794227,Kurt Wasserfallen
+Switzerland,Q74144,Alexander Tschäppät,father,Q120748,Reynold Tschäppät
+Switzerland,Q758134,Attilio Bignasca,sibling,Q690192,Giuliano Bignasca
+Switzerland,Q805606,Balthasar Glättli,spouse,Q20192072,Min Li Marti
+Switzerland,Q870066,Peter Spuhler,spouse,Q21012582,Daniela Spuhler-Hoffmann
+Switzerland,Q916004,Brigitta Gadient,father,Q1509730,Ulrich Gadient

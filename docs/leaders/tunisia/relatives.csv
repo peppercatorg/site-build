@@ -1,0 +1,56 @@
+catalog,id,name,relationship,relative,relativename
+Tunisia,Q152369,Fouad Mebazaa,spouse,Q66025033,Lilia Mebazaa
+Tunisia,Q15304780,Mehdi Jomaa,sibling,Q3104810,Ghazi Jomaa
+Tunisia,Q16120878,Kais Saied,spouse,Q72121705,Ichraf Chbaïl
+Tunisia,Q16128314,Samia Abbou,spouse,Q3318297,Mohamed Abbou
+Tunisia,Q16639035,Ghazi Jeribi,relative,Q3302915,Maya Jribi
+Tunisia,Q16639035,Ghazi Jeribi,sibling,Q85822499,Thouraya Jeribi Khemiri
+Tunisia,Q16666273,Nejla Moalla Harrouch,father,Q744499,Mansour Moalla
+Tunisia,Q1890995,Mustapha Ben Jafar,relative,Q58454893,Naceur Ben Jaafar
+Tunisia,Q19345818,Selma Elloumi Rekik,child,Q107080205,Fatma Rekik
+Tunisia,Q19544121,Majdouline Cherni,sibling,Q33296406,Socrate Cherni
+Tunisia,Q204487,Zine El Abidine Ben Ali,relative,Q3486682,Slim Chiboub
+Tunisia,Q204487,Zine El Abidine Ben Ali,sibling,Q3125290,Habib Ben Ali
+Tunisia,Q204487,Zine El Abidine Ben Ali,spouse,Q272559,Leïla Ben Ali
+Tunisia,Q204487,Zine El Abidine Ben Ali,spouse,Q3337417,Naïma Ben Ali
+Tunisia,Q22928970,Beatrix Marzouki,spouse,Q4715,Moncef Marzouki
+Tunisia,Q25391268,Youssef Chahed,relative,Q3128235,Hassib Ben Ammar
+Tunisia,Q25391268,Youssef Chahed,relative,Q3416437,Radhia Haddad
+Tunisia,Q272559,Leïla Ben Ali,sibling,Q2894405,Belhassen Trabelsi
+Tunisia,Q272559,Leïla Ben Ali,sibling,Q89819063,Mourad Trabelsi
+Tunisia,Q272559,Leïla Ben Ali,sibling,Q89843055,Moncef Trabelsi
+Tunisia,Q272559,Leïla Ben Ali,spouse,Q204487,Zine El Abidine Ben Ali
+Tunisia,Q27665914,Fadhel Abdelkefi,father,Q2827478,Ahmed Abdelkefi
+Tunisia,Q281184,Ali Laarayedh,sibling,Q2842788,Amer Larayedh
+Tunisia,Q2827633,Ahmed Najib Chebbi,sibling,Q3155694,Issam Chebbi
+Tunisia,Q2842788,Amer Larayedh,sibling,Q281184,Ali Laarayedh
+Tunisia,Q29577511,Mohamed Ali Bedoui,sibling,Q4715,Moncef Marzouki
+Tunisia,Q308017,Abdelwahab Abdallah,spouse,Q2840649,Alya Abdallah
+Tunisia,Q313539,Beji Caid Essebsi,child,Q63124400,Hafedh Caid Essebsi
+Tunisia,Q313539,Beji Caid Essebsi,spouse,Q62344188,Chadlia Caid Essebsi
+Tunisia,Q3193174,Karim Bouebdelli,father,Q3318443,Mohamed Bouebdelli
+Tunisia,Q3318297,Mohamed Abbou,spouse,Q16128314,Samia Abbou
+Tunisia,Q3318509,Mohamed El Aziz Ben Achour,father,Q16254991,Abdelmalek Ben Achour
+Tunisia,Q3318509,Mohamed El Aziz Ben Achour,relative,Q3318841,Muhammad Al-Tahir Ibn 'Ashur
+Tunisia,Q3318530,Mohamed Ennaceur,spouse,Q66026679,Siren Ennaceur
+Tunisia,Q3318790,Sakher El Materi,father,Q13650222,Moncef El Materi
+Tunisia,Q3318790,Sakher El Materi,relative,Q204487,Zine El Abidine Ben Ali
+Tunisia,Q3318790,Sakher El Materi,relative,Q272559,Leïla Ben Ali
+Tunisia,Q3318790,Sakher El Materi,relative,Q3277799,Mahmoud El Materi
+Tunisia,Q3319366,Mokhtar Jallali,spouse,Q1356729,Naziha Réjiba
+Tunisia,Q3320538,Mondher Ben Ammar,child,Q3144896,Hélé Béji
+Tunisia,Q3320538,Mondher Ben Ammar,child,Q962765,Tarak Ben Ammar
+Tunisia,Q3486677,Slim Chaker,father,Q12246948,Mohamed Chaker
+Tunisia,Q4715,Moncef Marzouki,relative,Q51856127,Lotfi Bel Hadj
+Tunisia,Q4715,Moncef Marzouki,sibling,Q29577511,Mohamed Ali Bedoui
+Tunisia,Q4715,Moncef Marzouki,spouse,Q22928970,Beatrix Marzouki
+Tunisia,Q60428357,Selim Azzabi,father,Q3431731,Ridha Azzabi
+Tunisia,Q60712027,Hattab Barakati,relative,Q746363,Nabil Barakati
+Tunisia,Q62344188,Chadlia Caid Essebsi,child,Q63124400,Hafedh Caid Essebsi
+Tunisia,Q62344188,Chadlia Caid Essebsi,spouse,Q313539,Beji Caid Essebsi
+Tunisia,Q66025033,Lilia Mebazaa,spouse,Q152369,Fouad Mebazaa
+Tunisia,Q66026679,Siren Ennaceur,spouse,Q3318530,Mohamed Ennaceur
+Tunisia,Q72121705,Ichraf Chbaïl,spouse,Q16120878,Kais Saied
+Tunisia,Q85822499,Thouraya Jeribi Khemiri,relative,Q3302915,Maya Jribi
+Tunisia,Q85822499,Thouraya Jeribi Khemiri,sibling,Q16639035,Ghazi Jeribi
+Tunisia,Q98828362,Ali Kooli,father,Q3320650,Mongi Kooli

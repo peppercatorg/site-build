@@ -1,0 +1,11 @@
+catalog,id,name,relationship,relative,relativename
+Tanzania,Q15665420,Anne Malecela,spouse,Q744271,John Malecela
+Tanzania,Q320156,Benjamin Mkapa,spouse,Q16732702,Anna Mkapa
+Tanzania,Q454382,Amani Abeid Karume,child,Q61082254,Fatma Karume
+Tanzania,Q454382,Amani Abeid Karume,father,Q318310,Abeid Karume
+Tanzania,Q5018756,John Magufuli,child,Q106009354,Jesca Magufuli
+Tanzania,Q5018756,John Magufuli,child,Q106009406,Joseph Magufuli
+Tanzania,Q5018756,John Magufuli,sibling,Q106009418,Monica Joseph Magufuli
+Tanzania,Q5018756,John Magufuli,spouse,Q21590480,Janeth Magufuli
+Tanzania,Q57488,Jakaya Mrisho Kikwete,spouse,Q7405361,Salma Kikwete
+Tanzania,Q7405361,Salma Kikwete,spouse,Q57488,Jakaya Mrisho Kikwete

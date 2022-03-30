@@ -1,0 +1,36 @@
+catalog,id,name,relationship,relative,relativename
+Sri Lanka,Q110644109,Ioma Rajapaksa,spouse,Q1538702,Gotabaya Rajapaksa
+Sri Lanka,Q13652295,Navin Dissanayake,father,Q5520204,Gamini Dissanayake
+Sri Lanka,Q1538702,Gotabaya Rajapaksa,sibling,Q57338,Mahinda Rajapaksa
+Sri Lanka,Q1538702,Gotabaya Rajapaksa,spouse,Q110644109,Ioma Rajapaksa
+Sri Lanka,Q1848979,Namal Rajapaksa,father,Q57338,Mahinda Rajapaksa
+Sri Lanka,Q194291,Sirimavo Bandaranaike,child,Q207432,Chandrika Kumaratunga
+Sri Lanka,Q194291,Sirimavo Bandaranaike,child,Q612582,Anura Bandaranaike
+Sri Lanka,Q194291,Sirimavo Bandaranaike,spouse,Q313997,S. W. R. D. Bandaranaike
+Sri Lanka,Q207432,Chandrika Kumaratunga,father,Q313997,S. W. R. D. Bandaranaike
+Sri Lanka,Q207432,Chandrika Kumaratunga,mother,Q194291,Sirimavo Bandaranaike
+Sri Lanka,Q207432,Chandrika Kumaratunga,spouse,Q3534760,Vijaya Kumaranatunga
+Sri Lanka,Q3179975,Basil Rajapaksa,sibling,Q57338,Mahinda Rajapaksa
+Sri Lanka,Q3529190,Chamal Rajapaksa,child,Q7490546,Shasheendra Rajapaksa
+Sri Lanka,Q3529190,Chamal Rajapaksa,child,Q98118457,Shamindra Rajapaksa
+Sri Lanka,Q3535025,V. Anandasangaree,child,Q21160212,Gary Anandasangaree
+Sri Lanka,Q57338,Mahinda Rajapaksa,child,Q1848979,Namal Rajapaksa
+Sri Lanka,Q57338,Mahinda Rajapaksa,child,Q20642485,Yoshitha Rajapaksa
+Sri Lanka,Q57338,Mahinda Rajapaksa,child,Q98118007,Rohitha Rajapaksa
+Sri Lanka,Q57338,Mahinda Rajapaksa,sibling,Q1538702,Gotabaya Rajapaksa
+Sri Lanka,Q57338,Mahinda Rajapaksa,sibling,Q3179975,Basil Rajapaksa
+Sri Lanka,Q57338,Mahinda Rajapaksa,spouse,Q7498270,Shiranthi Rajapaksa
+Sri Lanka,Q612582,Anura Bandaranaike,father,Q313997,S. W. R. D. Bandaranaike
+Sri Lanka,Q612582,Anura Bandaranaike,mother,Q194291,Sirimavo Bandaranaike
+Sri Lanka,Q660397,T. Maheswaran,spouse,Q7929262,Vijayakala Maheswaran
+Sri Lanka,Q6796853,Mayantha Dissanayake,father,Q5520204,Gamini Dissanayake
+Sri Lanka,Q7387380,S. B. Nawinne,spouse,Q16018610,Soma Kumari Tennakoon
+Sri Lanka,Q7402667,Sajith Premadasa,father,Q472323,Ranasinghe Premadasa
+Sri Lanka,Q7402667,Sajith Premadasa,mother,Q22279741,Hema Premadasa
+Sri Lanka,Q7498270,Shiranthi Rajapaksa,sibling,Q98117692,Nishantha Wickramasinghe
+Sri Lanka,Q7498270,Shiranthi Rajapaksa,spouse,Q57338,Mahinda Rajapaksa
+Sri Lanka,Q7633463,Sudarshani Fernandopulle,spouse,Q966982,Jeyaraj Fernandopulle
+Sri Lanka,Q7917018,Vasudeva Nanayakkara,relative,Q5710936,Hemakumara Nanayakkara
+Sri Lanka,Q7929262,Vijayakala Maheswaran,spouse,Q660397,T. Maheswaran
+Sri Lanka,Q983402,Ranil Wickremesinghe,father,Q21078155,Cyril Esmond Lucien Wickremesinghe
+Sri Lanka,Q983402,Ranil Wickremesinghe,spouse,Q6737193,Maitree Wickramasinghe

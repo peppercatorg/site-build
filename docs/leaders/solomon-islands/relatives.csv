@@ -1,0 +1,14 @@
+catalog,id,name,relationship,relative,relativename
+Solomon Islands,Q109910928,Titus Mokofi Fika,sibling,Q7599597,Stanley Festus Sofu
+Solomon Islands,Q16588782,Johnley Hatimoana,spouse,Q109074073,Janet Hatimoana
+Solomon Islands,Q59096666,Jimson Tanangada,spouse,Q59125182,Lanelle Tanangada
+Solomon Islands,Q59125182,Lanelle Tanangada,spouse,Q59096666,Jimson Tanangada
+Solomon Islands,Q7599597,Stanley Festus Sofu,sibling,Q109910928,Titus Mokofi Fika
+Solomon Islands,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
+Solomon Islands,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
+Solomon Islands,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
+Solomon Islands,Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
+Solomon Islands,Q9682,Elizabeth II,father,Q280856,George VI
+Solomon Islands,Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
+Solomon Islands,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
+Solomon Islands,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"

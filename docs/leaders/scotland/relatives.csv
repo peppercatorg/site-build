@@ -1,0 +1,95 @@
+catalog,id,name,relationship,relative,relativename
+Scotland,Q1097337,Claudia Beamish,father,Q7851527,"Tufton Beamish, Baron Chelwood"
+Scotland,Q1097337,Claudia Beamish,mother,Q75648943,Janet McMillan Stevenson
+Scotland,Q1108359,"Colin Boyd, Baron Boyd of Duncansby",father,Q75532126,David Hugh Aird Boyd
+Scotland,Q1108359,"Colin Boyd, Baron Boyd of Duncansby",mother,Q75532128,Betty Meldrum
+Scotland,Q1108359,"Colin Boyd, Baron Boyd of Duncansby",spouse,Q75532141,Fiona Margaret MacLeod
+Scotland,Q1495635,John Finnie,child,Q24034376,Ruth Maguire
+Scotland,Q1507362,"George Foulkes, Baron Foulkes of Cumnock",father,Q75450423,George Foulkes
+Scotland,Q1507362,"George Foulkes, Baron Foulkes of Cumnock",mother,Q75450424,Jessie Foulkes
+Scotland,Q1507362,"George Foulkes, Baron Foulkes of Cumnock",spouse,Q75450427,Elizabeth Anna Hope
+Scotland,Q16191157,Alex Rowley,child,Q30163628,Danielle Rowley
+Scotland,Q1680794,Jamie McGrigor,child,Q76062448,Sibylla McGrigor
+Scotland,Q1680794,Jamie McGrigor,child,Q76062450,Sarah McGrigor
+Scotland,Q1680794,Jamie McGrigor,child,Q76062456,Alexander James Edward Lyon McGrigor
+Scotland,Q1680794,Jamie McGrigor,child,Q76062457,Violet Mary Clementina McGrigor
+Scotland,Q1680794,Jamie McGrigor,child,Q76280466,Davina Mary Shira McGrigor
+Scotland,Q1680794,Jamie McGrigor,child,Q76288785,Rosanna Mary Talulla McGrigor
+Scotland,Q1680794,Jamie McGrigor,father,Q75908427,"Sir Charles McGrigor, 5th Bt."
+Scotland,Q1680794,Jamie McGrigor,mother,Q75908426,Mary Edmonstone
+Scotland,Q1680794,Jamie McGrigor,spouse,Q76062447,Caroline F. Roboh
+Scotland,Q1680794,Jamie McGrigor,spouse,Q76062455,Emma Mary Louise Fellowes
+Scotland,Q1681420,Jamie Stone,child,Q76112453,Rupert Michael Stone
+Scotland,Q1681420,Jamie Stone,child,Q76112454,Georgina Stone
+Scotland,Q1681420,Jamie Stone,child,Q76112455,Katharine Madeleine Lestrange Stone
+Scotland,Q1681420,Jamie Stone,father,Q76112451,Edward Reginald Stone
+Scotland,Q1681420,Jamie Stone,spouse,Q75639056,Florence Kathleen Margaret Armstrong
+Scotland,Q16849685,James Wolffe,spouse,Q18163522,"Sarah P. L. Wolffe, Lady Wolffe"
+Scotland,Q1685871,Jean Urquhart,spouse,Q1609787,Robert Urquhart
+Scotland,Q1726790,Siobhan McMahon,father,Q2439870,Michael McMahon
+Scotland,Q24034308,Oliver Mundell,father,Q333520,David Mundell
+Scotland,Q24034376,Ruth Maguire,father,Q1495635,John Finnie
+Scotland,Q24034422,Alexander Burnett,child,Q75568027,Amaryllis Burnett
+Scotland,Q24034422,Alexander Burnett,child,Q75651349,Thomas Burnett
+Scotland,Q24034422,Alexander Burnett,child,Q75930772,Hester Burnett
+Scotland,Q24034422,Alexander Burnett,father,Q75326124,James Burnett of Leys
+Scotland,Q24034422,Alexander Burnett,mother,Q75393425,Fiona Phillips
+Scotland,Q24034422,Alexander Burnett,sibling,Q75244927,Victor Burnett
+Scotland,Q24034422,Alexander Burnett,sibling,Q75244929,Eliza Burnett
+Scotland,Q24034422,Alexander Burnett,spouse,Q75568025,Lavinia Cox
+Scotland,Q24039768,Edward Mountain,child,Q76082478,Thomas Denis Edward Mountain
+Scotland,Q24039768,Edward Mountain,child,Q76082479,Harry Brian Pownall Mountain
+Scotland,Q24039768,Edward Mountain,child,Q76082481,Camilla Margaret Mountain
+Scotland,Q24039768,Edward Mountain,father,Q75951876,"Sir Denis Mountain, 3rd Bt."
+Scotland,Q24039768,Edward Mountain,mother,Q75951875,Hélène Kirwan-Taylor
+Scotland,Q24039768,Edward Mountain,spouse,Q76082477,Charlotte Sarah Jesson Pownall
+Scotland,Q24045406,Alex Cole-Hamilton,father,Q18620305,David J. Cole-Hamilton
+Scotland,Q24045406,Alex Cole-Hamilton,mother,Q75659202,Elizabeth Ann Brown
+Scotland,Q24052673,Donald Cameron,child,Q76098710,Finnian Cameron
+Scotland,Q24052673,Donald Cameron,child,Q76098712,Donald Cameron
+Scotland,Q24052673,Donald Cameron,child,Q76259879,Rose Cameron
+Scotland,Q24052673,Donald Cameron,father,Q75331710,"Donald Cameron of Lochiel, 27th Chief of Clan Cameron"
+Scotland,Q24052673,Donald Cameron,mother,Q75331715,Lady Cecil Kerr
+Scotland,Q24052673,Donald Cameron,sibling,Q75331718,Catherine Cameron
+Scotland,Q24052673,Donald Cameron,sibling,Q75331719,Lucy Cameron
+Scotland,Q24052673,Donald Cameron,sibling,Q75331721,Emily Cameron
+Scotland,Q24052673,Donald Cameron,spouse,Q75521466,Sarah Maclay
+Scotland,Q2439870,Michael McMahon,child,Q1726790,Siobhan McMahon
+Scotland,Q333158,Donald Dewar,spouse,Q76057348,Alison Mary McNair
+Scotland,Q333520,David Mundell,child,Q24034308,Oliver Mundell
+Scotland,Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390683,"John Andrew Douglas-Hamilton, Lord Daer"
+Scotland,Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390685,Charles Douglas Douglas-Hamilton
+Scotland,Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390686,James Robert Douglas-Hamilton
+Scotland,Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",child,Q75390688,Harry Alexander Douglas-Hamilton
+Scotland,Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",father,Q332941,"Douglas Douglas-Hamilton, 14th Duke of Hamilton"
+Scotland,Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",mother,Q5362691,"Elizabeth Douglas-Hamilton, Duchess of Hamilton and Brandon"
+Scotland,Q333795,"James Douglas-Hamilton, Baron Selkirk of Douglas",spouse,Q75390680,Priscilla Susan Buchan
+Scotland,Q333847,David Steel,father,Q5240041,David Steel
+Scotland,Q333847,David Steel,mother,Q76347545,Sheila Eunice Nanette Martin
+Scotland,Q333847,David Steel,spouse,Q76347546,Judith Mary Macgregor
+Scotland,Q333903,Margaret Ewing,spouse,Q559022,Fergus Ewing
+Scotland,Q334015,Winnie Ewing,child,Q559022,Fergus Ewing
+Scotland,Q334015,Winnie Ewing,child,Q564093,Annabelle Ewing
+Scotland,Q334376,Margo MacDonald,spouse,Q6198115,Jim Sillars
+Scotland,Q444675,Shona Robison,spouse,Q689514,Stewart Hosie
+Scotland,Q467112,Nicola Sturgeon,mother,Q107359230,Joan Sturgeon
+Scotland,Q467112,Nicola Sturgeon,spouse,Q61819939,Peter Murrell
+Scotland,Q478812,Anas Sarwar,father,Q334072,Mohammad Sarwar
+Scotland,Q505043,"Andrew Hardie, Baron Hardie",child,Q76063557,Ewan Hardie
+Scotland,Q505043,"Andrew Hardie, Baron Hardie",child,Q76063640,Niall Hardie
+Scotland,Q505043,"Andrew Hardie, Baron Hardie",child,Q76073957,Ruth Hardie
+Scotland,Q505043,"Andrew Hardie, Baron Hardie",father,Q76086177,Andrew Rutherford Hardie
+Scotland,Q505043,"Andrew Hardie, Baron Hardie",mother,Q76086178,Elizabeth Currie Lowe
+Scotland,Q505043,"Andrew Hardie, Baron Hardie",spouse,Q76054701,Catherine Storray Elgin
+Scotland,Q511689,Wendy Alexander,sibling,Q259106,Douglas Alexander
+Scotland,Q559022,Fergus Ewing,mother,Q334015,Winnie Ewing
+Scotland,Q559022,Fergus Ewing,sibling,Q564093,Annabelle Ewing
+Scotland,Q559022,Fergus Ewing,spouse,Q333903,Margaret Ewing
+Scotland,Q559046,Alex Fergusson,child,Q75923921,Iain Alexander Charles Onslow Fergusson
+Scotland,Q559046,Alex Fergusson,child,Q75923925,Dougal George Onslow Fergusson
+Scotland,Q559046,Alex Fergusson,child,Q75923927,Christopher David Onslow Fergusson
+Scotland,Q559046,Alex Fergusson,father,Q75923912,Simon Fergusson
+Scotland,Q559046,Alex Fergusson,mother,Q75923915,Auriole Hughes-Onslow
+Scotland,Q559046,Alex Fergusson,spouse,Q75923919,Jane Merryn Barthold
+Scotland,Q564093,Annabelle Ewing,mother,Q334015,Winnie Ewing
+Scotland,Q564093,Annabelle Ewing,sibling,Q559022,Fergus Ewing

@@ -1,0 +1,19 @@
+catalog,id,name,relationship,relative,relativename
+Monaco,Q21997776,Anne-Marie Campora,father,Q2958665,Charles Campora
+Monaco,Q21997776,Anne-Marie Campora,sibling,Q3166681,Jean-Louis Campora
+Monaco,Q3166681,Jean-Louis Campora,father,Q2958665,Charles Campora
+Monaco,Q3166681,Jean-Louis Campora,sibling,Q21997776,Anne-Marie Campora
+Monaco,Q3479546,Serge Telle,spouse,Q3119520,Guilaine Chenu
+Monaco,Q3910,"Albert II, Prince of Monaco",child,Q18616043,"Jacques, Hereditary Prince of Monaco"
+Monaco,Q3910,"Albert II, Prince of Monaco",child,Q18616095,"Princess Gabriella, Countess of Carladès"
+Monaco,Q3910,"Albert II, Prince of Monaco",child,Q2701854,Alexandre Grimaldi-Coste
+Monaco,Q3910,"Albert II, Prince of Monaco",child,Q2738333,Jazmin Grace Grimaldi
+Monaco,Q3910,"Albert II, Prince of Monaco",father,Q185025,"Rainier III, Prince of Monaco"
+Monaco,Q3910,"Albert II, Prince of Monaco",godparent,Q160001,Victoria Eugenie of Battenberg
+Monaco,Q3910,"Albert II, Prince of Monaco",mother,Q3925,Grace Kelly
+Monaco,Q3910,"Albert II, Prince of Monaco",partner,Q3220363,Nicole Coste
+Monaco,Q3910,"Albert II, Prince of Monaco",partner,Q437351,Angie Everhart
+Monaco,Q3910,"Albert II, Prince of Monaco",partner,Q61742565,Tamara Rotolo
+Monaco,Q3910,"Albert II, Prince of Monaco",sibling,Q215012,Princess Stéphanie of Monaco
+Monaco,Q3910,"Albert II, Prince of Monaco",sibling,Q233966,"Caroline, Princess of Hanover"
+Monaco,Q3910,"Albert II, Prince of Monaco",spouse,Q208466,"Charlene, Princess of Monaco"

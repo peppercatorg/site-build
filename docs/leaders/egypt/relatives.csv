@@ -1,0 +1,15 @@
+catalog,id,name,relationship,relative,relativename
+Egypt,Q1026624,Khaled Mohieddin,relative,Q144615,Zakaria Mohieddin
+Egypt,Q106104576,Maggie Alhulwanii,child,Q2528416,Hazem Emam
+Egypt,Q106104576,Maggie Alhulwanii,relative,Q12251652,Yehia Emam
+Egypt,Q106104576,Maggie Alhulwanii,spouse,Q12208663,Hamada Emam
+Egypt,Q17198126,Entissar Amer,child,Q104642404,Mahmoud el-Sisi
+Egypt,Q17198126,Entissar Amer,spouse,Q307871,Abdel Fattah el-Sisi
+Egypt,Q307871,Abdel Fattah el-Sisi,child,Q76900201,Mahmoud el-Sisi
+Egypt,Q307871,Abdel Fattah el-Sisi,spouse,Q17198126,Entissar Amer
+Egypt,Q34105,Hosni Mubarak,child,Q2707860,Alaa Mubarak
+Egypt,Q34105,Hosni Mubarak,child,Q381863,Gamal Mubarak
+Egypt,Q34105,Hosni Mubarak,spouse,Q238529,Suzanne Mubarak
+Egypt,Q4631,Mohamed Morsi,child,Q67157867,Abdullah Morsi
+Egypt,Q4631,Mohamed Morsi,spouse,Q3080090,Naglaa Mahmoud
+Egypt,Q4696067,Ahmed Zaki Badreldin,father,Q8065083,Zaki Badr

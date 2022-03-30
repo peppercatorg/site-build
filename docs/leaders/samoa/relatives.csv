@@ -1,0 +1,14 @@
+catalog,id,name,relationship,relative,relativename
+Samoa,Q102406339,Toleafoa Faafisi,child,Q106513177,Aiono Afaese Toleafoa
+Samoa,Q102969894,Toeolesulusulu Cedric Schuster,child,Q26704921,Brandon Schuster
+Samoa,Q102969894,Toeolesulusulu Cedric Schuster,relative,Q16731362,Lefau Harry Schuster
+Samoa,Q106513177,Aiono Afaese Toleafoa,father,Q102406339,Toleafoa Faafisi
+Samoa,Q16731362,Lefau Harry Schuster,relative,Q102969894,Toeolesulusulu Cedric Schuster
+Samoa,Q317378,Malietoa Tanumafili II,child,Q91229023,Papalii Laupepa
+Samoa,Q317378,Malietoa Tanumafili II,father,Q3024732,Malietoa Tanumafili I
+Samoa,Q5446290,Fiamē Naomi Mataʻafa,father,Q1281047,Fiame Mata'afa Faumuina Mulinu'u II
+Samoa,Q5446290,Fiamē Naomi Mataʻafa,mother,Q16017839,Laulu Fetauimalemau Mata'afa
+Samoa,Q5527465,Gatoloaifaana Amataga Alesana-Gidlow,father,Q1281027,Tofilau Eti Alesana
+Samoa,Q5527465,Gatoloaifaana Amataga Alesana-Gidlow,sibling,Q7907778,Va'aelua Eti Alesana
+Samoa,Q57523,Tufuga Efi,father,Q887243,Tupua Tamasese Meaʻole
+Samoa,Q57523,Tufuga Efi,mother,Q109732885,Noue Irene Gustava Ta'isi Nelson

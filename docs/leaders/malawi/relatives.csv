@@ -1,0 +1,17 @@
+catalog,id,name,relationship,relative,relativename
+Malawi,Q181586,Bingu wa Mutharika,sibling,Q7176020,Peter Mutharika
+Malawi,Q317107,Bakili Muluzi,child,Q4823200,Austin Muluzi
+Malawi,Q317107,Bakili Muluzi,spouse,Q4769256,Annie Chidzira Muluzi
+Malawi,Q317107,Bakili Muluzi,spouse,Q7145836,Patricia Shanil Muluzi
+Malawi,Q45779534,Akajuwe Banda,mother,Q57388,Joyce Banda
+Malawi,Q45781572,Khumbize Chiponda,sibling,Q6387919,Ken Kandodo
+Malawi,Q4662402,Aaron Sangala,relative,Q6134236,James Frederick Sangala
+Malawi,Q4823200,Austin Muluzi,father,Q317107,Bakili Muluzi
+Malawi,Q5537823,George Chaponda,child,Q41800143,Daliso Chaponda
+Malawi,Q5672821,Harry Thomson,relative,Q7781497,Theo Thomson
+Malawi,Q57388,Joyce Banda,child,Q45779534,Akajuwe Banda
+Malawi,Q57388,Joyce Banda,sibling,Q4765818,Anjimile Oponyo
+Malawi,Q57388,Joyce Banda,spouse,Q7323937,Richard Banda
+Malawi,Q6170933,Jean Kalilani,child,Q7689717,Tay Grin
+Malawi,Q7176020,Peter Mutharika,sibling,Q181586,Bingu wa Mutharika
+Malawi,Q7176020,Peter Mutharika,spouse,Q17285561,Gertrude Maseko

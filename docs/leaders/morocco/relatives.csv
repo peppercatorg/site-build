@@ -1,0 +1,76 @@
+catalog,id,name,relationship,relative,relativename
+Morocco,Q108699304,Nabila Rmili,spouse,Q96758923,Taoufik Kamil
+Morocco,Q1393978,Mohamed El Ouafa,relative,Q2837662,Allal al-Fassi
+Morocco,Q1638114,Aziz Akhannouch,relative,Q2821247,Abderrahmane Benabdelali
+Morocco,Q1638114,Aziz Akhannouch,spouse,Q19818452,Salwa Idrissi Akhannouch
+Morocco,Q20851300,Fouad El Omari,sibling,Q21706309,Ilyas El Omari
+Morocco,Q20961736,Omar Balafrej,relative,Q3318537,Mohamed El Yazghi
+Morocco,Q20961736,Omar Balafrej,relative,Q401160,Ahmed Balafrej
+Morocco,Q20961736,Omar Balafrej,relative,Q7530002,Abderrahim Bouabid
+Morocco,Q2585447,Taieb Fassi Fihri,child,Q2923549,Brahim Fassi Fihri
+Morocco,Q2585447,Taieb Fassi Fihri,father,Q3318517,Mohamed El Habib Fassi-Fihri
+Morocco,Q2585447,Taieb Fassi Fihri,relative,Q3571915,Yasmina Baddou
+Morocco,Q2585447,Taieb Fassi Fihri,sibling,Q2836210,Ali Fassi-Fihri
+Morocco,Q27962429,Faouzi Chaâbi,father,Q3314458,Miloud Chaabi
+Morocco,Q27962429,Faouzi Chaâbi,sibling,Q2866705,Asma Chaabi
+Morocco,Q2821052,Hamid Chabat,child,Q96758967,Noufal Chabat
+Morocco,Q2821217,Abdelwahed Radi,relative,Q96758673,Yassine Radi
+Morocco,Q2866705,Asma Chaabi,father,Q3314458,Miloud Chaabi
+Morocco,Q2866705,Asma Chaabi,sibling,Q27962429,Faouzi Chaâbi
+Morocco,Q305956,Abbas El Fassi,child,Q96758717,Abdelmajid Fassi-Fihri
+Morocco,Q305956,Abbas El Fassi,father,Q2821173,Abdelmajid El Fassi
+Morocco,Q305956,Abbas El Fassi,relative,Q2821135,Abdellah El Fassi
+Morocco,Q305956,Abbas El Fassi,relative,Q2821197,Abdelouahed El Fassi
+Morocco,Q305956,Abbas El Fassi,relative,Q2821289,Abdeslam El Fassi
+Morocco,Q305956,Abbas El Fassi,relative,Q2837662,Allal al-Fassi
+Morocco,Q305956,Abbas El Fassi,relative,Q3282080,Malika al-Fassi
+Morocco,Q305956,Abbas El Fassi,relative,Q3572819,Younes El Mechrafi
+Morocco,Q305956,Abbas El Fassi,relative,Q562410,Nizar Baraka
+Morocco,Q305956,Abbas El Fassi,relative,Q95975325,Mohamed Ghali El Fassi
+Morocco,Q3314458,Miloud Chaabi,child,Q27962429,Faouzi Chaâbi
+Morocco,Q3314458,Miloud Chaabi,child,Q2866705,Asma Chaabi
+Morocco,Q3328975,Mustapha Mansouri,sibling,Q16914098,Mimoun Mansouri
+Morocco,Q3351862,Omar Hejira,father,Q24203093,Abderrahmane Hejira
+Morocco,Q3351862,Omar Hejira,sibling,Q2827676,Ahmed Taoufiq Hejira
+Morocco,Q3519491,Thami El Khyari,spouse,Q50825333,Rabéa Naciri
+Morocco,Q3571915,Yasmina Baddou,father,Q2821246,Abderrahmane Baddou
+Morocco,Q3571915,Yasmina Baddou,relative,Q2585447,Taieb Fassi Fihri
+Morocco,Q3571915,Yasmina Baddou,relative,Q2836115,Ali Baddou
+Morocco,Q3571915,Yasmina Baddou,relative,Q3318517,Mohamed El Habib Fassi-Fihri
+Morocco,Q3571915,Yasmina Baddou,spouse,Q2836210,Ali Fassi-Fihri
+Morocco,Q50364860,Souad Zaidi,father,Q85202287,Ahmed Zaidi
+Morocco,Q50364860,Souad Zaidi,sibling,Q96758654,Said Zaidi
+Morocco,Q50366932,Touria Skalli,sibling,Q3345301,Nouzha Skalli
+Morocco,Q50366932,Touria Skalli,sibling,Q96756982,Badia Skalli
+Morocco,Q537610,Mohand Laenser,child,Q96758892,Hassan Laenser
+Morocco,Q562410,Nizar Baraka,relative,Q2821198,Abdelouahed El Fassi
+Morocco,Q562410,Nizar Baraka,relative,Q2837662,Allal al-Fassi
+Morocco,Q562410,Nizar Baraka,relative,Q305956,Abbas El Fassi
+Morocco,Q562410,Nizar Baraka,relative,Q96758717,Abdelmajid Fassi-Fihri
+Morocco,Q57553,Mohammed VI,child,Q1532982,Lalla Khadija of Morocco
+Morocco,Q57553,Mohammed VI,child,Q276961,Moulay Hassan
+Morocco,Q57553,Mohammed VI,father,Q69103,Hassan II
+Morocco,Q57553,Mohammed VI,mother,Q2164270,Lalla Latifa
+Morocco,Q57553,Mohammed VI,relative,Q193874,Hassan||
+Morocco,Q57553,Mohammed VI,sibling,Q175176,Moulay Rachid ben al Hassan
+Morocco,Q57553,Mohammed VI,sibling,Q1996204,Hasna of Morocco
+Morocco,Q57553,Mohammed VI,sibling,Q2517919,Asma of Morocco
+Morocco,Q57553,Mohammed VI,sibling,Q276850,Princess Lalla Meryem of Morocco
+Morocco,Q57553,Mohammed VI,spouse,Q238691,Princess Lalla Salma of Morocco
+Morocco,Q85202287,Ahmed Zaidi,child,Q50364860,Souad Zaidi
+Morocco,Q85202287,Ahmed Zaidi,child,Q96758654,Said Zaidi
+Morocco,Q96756982,Badia Skalli,sibling,Q3345301,Nouzha Skalli
+Morocco,Q96756982,Badia Skalli,sibling,Q50366932,Touria Skalli
+Morocco,Q96758625,Abdessamad Archane,father,Q3277781,Mahmoud Archane
+Morocco,Q96758654,Said Zaidi,father,Q85202287,Ahmed Zaidi
+Morocco,Q96758654,Said Zaidi,sibling,Q50364860,Souad Zaidi
+Morocco,Q96758673,Yassine Radi,relative,Q2821217,Abdelwahed Radi
+Morocco,Q96758717,Abdelmajid Fassi-Fihri,father,Q305956,Abbas El Fassi
+Morocco,Q96758717,Abdelmajid Fassi-Fihri,relative,Q2821173,Abdelmajid El Fassi
+Morocco,Q96758717,Abdelmajid Fassi-Fihri,relative,Q562410,Nizar Baraka
+Morocco,Q96758892,Hassan Laenser,father,Q537610,Mohand Laenser
+Morocco,Q96758901,Karim Chaoui,father,Q96759016,Belassal Chaoui
+Morocco,Q96758910,Fatiha Choubani,sibling,Q3049907,Lahbib Choubani
+Morocco,Q96758923,Taoufik Kamil,spouse,Q108699304,Nabila Rmili
+Morocco,Q96758967,Noufal Chabat,father,Q2821052,Hamid Chabat
+Morocco,Q96759016,Belassal Chaoui,child,Q96758901,Karim Chaoui

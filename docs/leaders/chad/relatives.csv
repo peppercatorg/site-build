@@ -1,0 +1,7 @@
+catalog,id,name,relationship,relative,relativename
+Chad,Q108188479,Ndolenodji Alixe Naïmbaye,father,Q108189672,Mbaïlaou Naïmbaye Lossimian
+Chad,Q16206405,Mahamat Déby Itno,father,Q57350,Idriss Déby
+Chad,Q16206405,Mahamat Déby Itno,sibling,Q2923553,Brahim Déby
+Chad,Q57350,Idriss Déby,child,Q16206405,Mahamat Déby Itno
+Chad,Q57350,Idriss Déby,child,Q2923553,Brahim Déby
+Chad,Q57350,Idriss Déby,spouse,Q12250368,Hinda Deby Itno

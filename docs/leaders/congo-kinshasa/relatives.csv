@@ -1,0 +1,27 @@
+catalog,id,name,relationship,relative,relativename
+Congo-Kinshasa,Q104600997,Guy Loando Mboyo,father,Q104601569,Mboyo Loando Pierre
+Congo-Kinshasa,Q104600997,Guy Loando Mboyo,mother,Q104601534,Bompongo Mpetshi Marie
+Congo-Kinshasa,Q104600997,Guy Loando Mboyo,spouse,Q104601341,Déborah Linda Loando
+Congo-Kinshasa,Q106914680,Juliette Mbambu Mughole,father,Q110994233,Paluku Malambo
+Congo-Kinshasa,Q106914680,Juliette Mbambu Mughole,mother,Q110994244,Kavira Kyabusiku
+Congo-Kinshasa,Q106914680,Juliette Mbambu Mughole,relative,Q110994233,Paluku Malambo
+Congo-Kinshasa,Q106914680,Juliette Mbambu Mughole,relative,Q110994244,Kavira Kyabusiku
+Congo-Kinshasa,Q107368856,Gael Bussa,father,Q106647261,Jean-Lucien Bussa Tongba
+Congo-Kinshasa,Q107368856,Gael Bussa,mother,Q107369212,Petronelle Mambetuku Kimpioka
+Congo-Kinshasa,Q107368856,Gael Bussa,spouse,Q107369189,Alicia Salawa
+Congo-Kinshasa,Q135547,Laurent-Désiré Kabila,child,Q19629165,Zoé Kabila
+Congo-Kinshasa,Q135547,Laurent-Désiré Kabila,child,Q2828106,Aimée Kabila Mulengela
+Congo-Kinshasa,Q135547,Laurent-Désiré Kabila,child,Q3163304,Jaynet Kabila
+Congo-Kinshasa,Q135547,Laurent-Désiré Kabila,child,Q57416,Joseph Kabila
+Congo-Kinshasa,Q18611995,Franck Mwe di Malila,father,Q18746076,Édouard Mwe di Malila Apenela
+Congo-Kinshasa,Q29032770,Félix Tshisekedi,father,Q168629,Étienne Tshisekedi
+Congo-Kinshasa,Q29032770,Félix Tshisekedi,spouse,Q61855144,Denise Nyakeru Tshisekedi
+Congo-Kinshasa,Q316942,Antoine Gizenga,child,Q25387204,Lugi Gizenga
+Congo-Kinshasa,Q379148,Jean-Pierre Bemba,father,Q3176296,Jeannot Bemba Saolona
+Congo-Kinshasa,Q57416,Joseph Kabila,father,Q135547,Laurent-Désiré Kabila
+Congo-Kinshasa,Q57416,Joseph Kabila,relative,Q109651236,Francis Selemani
+Congo-Kinshasa,Q57416,Joseph Kabila,sibling,Q109673209,Gloria Mteyu
+Congo-Kinshasa,Q57416,Joseph Kabila,sibling,Q19629165,Zoé Kabila
+Congo-Kinshasa,Q57416,Joseph Kabila,sibling,Q2828106,Aimée Kabila Mulengela
+Congo-Kinshasa,Q57416,Joseph Kabila,sibling,Q3163304,Jaynet Kabila
+Congo-Kinshasa,Q57416,Joseph Kabila,spouse,Q509657,Olive Lembe di Sita

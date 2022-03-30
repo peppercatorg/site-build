@@ -1,0 +1,115 @@
+catalog,id,name,relationship,relative,relativename
+Malaysia,Q1015710,Abdul Taib Mahmud,child,Q7635954,Sulaiman Abdul Rahman Taib
+Malaysia,Q1015710,Abdul Taib Mahmud,spouse,Q12701615,Ragad Waleed Alkurdi
+Malaysia,Q1060949,Muhyiddin Yassin,child,Q2645184,Najwa Mahiaddin
+Malaysia,Q1060949,Muhyiddin Yassin,sibling,Q31186764,Abdul Aziz Yassin
+Malaysia,Q1060949,Muhyiddin Yassin,spouse,Q31187026,Noorainee Abdul Rahman
+Malaysia,Q106554659,Annuar Ayub,relative,Q4764583,Anifah Aman
+Malaysia,Q106554659,Annuar Ayub,relative,Q54614138,Yamani Hafez Musa
+Malaysia,Q106554659,Annuar Ayub,relative,Q551611,Musa Aman
+Malaysia,Q106554732,Lim Hui Ying,father,Q717696,Lim Kit Siang
+Malaysia,Q106554732,Lim Hui Ying,sibling,Q707164,Lim Guan Eng
+Malaysia,Q111026260,Wan Abdul Hakim Wan Mokhtar,father,Q12712417,Wan Mokhtar Ahmad
+Malaysia,Q12857568,Ahmad Yaakob,spouse,Q111270224,Siti Zabidah Abdul Hamid
+Malaysia,Q1449940,Khairy Jamaluddin,relative,Q272588,Abdullah Ahmad Badawi
+Malaysia,Q1449940,Khairy Jamaluddin,relative,Q7491747,Shaziman Abu Mansor
+Malaysia,Q1449940,Khairy Jamaluddin,spouse,Q7398907,Nori Abdullah Badawi
+Malaysia,Q15401713,Yeo Bee Yin,spouse,Q96776938,Lee Yeow Seng
+Malaysia,Q15467111,Abdullah of Pahang,child,Q31185944,Tengku Hassanal Ibrahim Alam Shah
+Malaysia,Q15467111,Abdullah of Pahang,child,Q65223155,Tengku Ahmad Ismail Mu’adzam Shah
+Malaysia,Q15467111,Abdullah of Pahang,child,Q68812664,Tengku Ahmad Iskandar Shah
+Malaysia,Q15467111,Abdullah of Pahang,child,Q68813014,Tengku Muhammad Iskandar Ri’ayatuddin Shah
+Malaysia,Q15467111,Abdullah of Pahang,father,Q4200571,Ahmad Shah of Pahang
+Malaysia,Q15467111,Abdullah of Pahang,mother,Q4208223,Tengku Afzan
+Malaysia,Q15467111,Abdullah of Pahang,spouse,Q7452369,Tunku Azizah Aminah Maimunah Iskandariah
+Malaysia,Q16867453,Ramkarpal Singh,father,Q6373289,Karpal Singh
+Malaysia,Q16867453,Ramkarpal Singh,sibling,Q12688350,Jagdeep Singh Deo
+Malaysia,Q16867453,Ramkarpal Singh,sibling,Q5575520,Gobind Singh Deo
+Malaysia,Q181383,Mahathir Mohamad,child,Q103818898,Mirzan Mahathir
+Malaysia,Q181383,Mahathir Mohamad,child,Q103819101,Melinda Mahathir
+Malaysia,Q181383,Mahathir Mohamad,child,Q103819106,Mazhar Mahathir
+Malaysia,Q181383,Mahathir Mohamad,child,Q6763863,Marina Mahathir
+Malaysia,Q181383,Mahathir Mohamad,child,Q6895334,Mokhzani Mahathir
+Malaysia,Q181383,Mahathir Mohamad,child,Q6933490,Mukhriz Mahathir
+Malaysia,Q181383,Mahathir Mohamad,father,Q99540268,Mohamad bin Iskandar
+Malaysia,Q181383,Mahathir Mohamad,mother,Q103820979,Wan Tempawan Wan Hanapi
+Malaysia,Q181383,Mahathir Mohamad,sibling,Q103821004,Habsah Mohamad
+Malaysia,Q181383,Mahathir Mohamad,sibling,Q103821006,Murad Mohamad
+Malaysia,Q181383,Mahathir Mohamad,sibling,Q103821008,Rafeah Mohamad
+Malaysia,Q181383,Mahathir Mohamad,sibling,Q103821010,Mashahor Mohamad
+Malaysia,Q181383,Mahathir Mohamad,sibling,Q103821014,Omar Mohamad
+Malaysia,Q181383,Mahathir Mohamad,sibling,Q103821018,Johora Mohamad
+Malaysia,Q181383,Mahathir Mohamad,sibling,Q103821019,Mustaffa Mohamad
+Malaysia,Q181383,Mahathir Mohamad,sibling,Q103821025,Mahadi Mohamad
+Malaysia,Q181383,Mahathir Mohamad,spouse,Q7531880,Siti Hasmah Mohamad Ali
+Malaysia,Q20451202,Idris Ahmad,sibling,Q7348315,Hassan bin Ahmad
+Malaysia,Q20457974,Fauzi Abdul Rahman,father,Q12681922,Abdul Rahman Talib
+Malaysia,Q2495157,Abdul Hadi Awang,child,Q61106105,Muhammad Khalil Abdul Hadi
+Malaysia,Q2495157,Abdul Hadi Awang,relative,Q20466860,Zaharudin Muhammad
+Malaysia,Q2495157,Abdul Hadi Awang,relative,Q65220005,Mohd Akmal Kamaruddin
+Malaysia,Q272588,Abdullah Ahmad Badawi,child,Q7398907,Nori Abdullah Badawi
+Malaysia,Q272588,Abdullah Ahmad Badawi,father,Q96610223,Ahmad Badawi Abdullah
+Malaysia,Q272588,Abdullah Ahmad Badawi,spouse,Q4918678,Endon Mahmood
+Malaysia,Q299530,Mizan Zainal Abidin of Terengganu,child,Q4251723,Tengku Muhammad Ismail
+Malaysia,Q299530,Mizan Zainal Abidin of Terengganu,father,Q6734530,Mahmud of Terengganu
+Malaysia,Q299530,Mizan Zainal Abidin of Terengganu,mother,Q7699796,Tengku Ampuan Bariah
+Malaysia,Q299530,Mizan Zainal Abidin of Terengganu,spouse,Q4209408,Sultanah Nur Zahirah
+Malaysia,Q299574,Anwar Ibrahim,child,Q7070314,Nurul Izzah Anwar
+Malaysia,Q299574,Anwar Ibrahim,father,Q20451083,Ibrahim Abdul Rahman
+Malaysia,Q299574,Anwar Ibrahim,spouse,Q468579,Wan Azizah Wan Ismail
+Malaysia,Q460568,Sirajuddin of Perlis,child,Q7850643,Tuanku Syed Faizuddin Putra Jamalullail
+Malaysia,Q460568,Sirajuddin of Perlis,father,Q4200614,Syed Putra of Perlis
+Malaysia,Q460568,Sirajuddin of Perlis,mother,Q4251695,Tengku Budriah
+Malaysia,Q460568,Sirajuddin of Perlis,spouse,Q4207386,Tengku Fauziah
+Malaysia,Q468579,Wan Azizah Wan Ismail,child,Q7070314,Nurul Izzah Anwar
+Malaysia,Q468579,Wan Azizah Wan Ismail,spouse,Q299574,Anwar Ibrahim
+Malaysia,Q5244614,Muhammad V of Kelantan,father,Q31543,Ismail Petra of Kelantan
+Malaysia,Q5244614,Muhammad V of Kelantan,spouse,Q60463595,Oksana Voevodina
+Malaysia,Q5575520,Gobind Singh Deo,father,Q6373289,Karpal Singh
+Malaysia,Q5575520,Gobind Singh Deo,sibling,Q12688350,Jagdeep Singh Deo
+Malaysia,Q5575520,Gobind Singh Deo,sibling,Q16867453,Ramkarpal Singh
+Malaysia,Q55847765,Jugah Muyang,father,Q96328327,Muyang anak Bejit
+Malaysia,Q55847765,Jugah Muyang,sibling,Q96323921,Andrew Janggi Muyang
+Malaysia,Q5646531,Hamzah Zainuddin,spouse,Q111353627,Nooraini Rashid
+Malaysia,Q5646531,Hamzah Zainuddin,spouse,Q111353628,Norashikin Abdul Ghani
+Malaysia,Q57550,Abdul Halim of Kedah,child,Q25479566,Tunku Puteri Intan Safinaz
+Malaysia,Q57550,Abdul Halim of Kedah,father,Q4207523,Badlishah of Kedah
+Malaysia,Q57550,Abdul Halim of Kedah,spouse,Q4206751,Sultanah Haminah Hamidun
+Malaysia,Q57550,Abdul Halim of Kedah,spouse,Q4209033,Tuanku Bahiyah
+Malaysia,Q57675,Najib Razak,child,Q20451916,Mohd Nizar Najib
+Malaysia,Q57675,Najib Razak,child,Q23799186,Mohd Nazifuddin Najib
+Malaysia,Q57675,Najib Razak,child,Q91937801,Nooryana Najwa Najib
+Malaysia,Q57675,Najib Razak,child,Q91939357,Puteri Norlisa Najib
+Malaysia,Q57675,Najib Razak,child,Q91939642,Norashman Najib
+Malaysia,Q57675,Najib Razak,father,Q264516,Abdul Razak Hussein
+Malaysia,Q57675,Najib Razak,mother,Q12701632,Rahah Noah
+Malaysia,Q57675,Najib Razak,sibling,Q102957961,Nizam Razak
+Malaysia,Q57675,Najib Razak,sibling,Q102959561,Nazim Razak
+Malaysia,Q57675,Najib Razak,sibling,Q103817587,Johari Razak
+Malaysia,Q57675,Najib Razak,sibling,Q6983484,Nazir Razak
+Malaysia,Q57675,Najib Razak,spouse,Q1100237,Rosmah Mansor
+Malaysia,Q57675,Najib Razak,spouse,Q7448553,Tengku Puteri Zainah
+Malaysia,Q5772615,Hishammuddin Hussein,mother,Q7635204,Suhailah Mohamed Noah
+Malaysia,Q6084858,Ismail Sabri Yaakob,child,Q12479777,Dafi Sabri
+Malaysia,Q6084858,Ismail Sabri Yaakob,spouse,Q108172035,Muhaini Zainal Abidin
+Malaysia,Q654886,Salahuddin of Selangor,child,Q3542702,Sharafuddin of Selangor
+Malaysia,Q654886,Salahuddin of Selangor,child,Q7699811,Tengku Sulaiman Shah
+Malaysia,Q654886,Salahuddin of Selangor,father,Q888240,Hisamuddin Alam Shah of Selangor
+Malaysia,Q654886,Salahuddin of Selangor,mother,Q4209048,Tengku Ampuan Jemaah
+Malaysia,Q654886,Salahuddin of Selangor,sibling,Q7699796,Tengku Ampuan Bariah
+Malaysia,Q654886,Salahuddin of Selangor,spouse,Q2791677,Permaisuri Siti Aishah Abdul Rahman
+Malaysia,Q654886,Salahuddin of Selangor,spouse,Q7699798,Tengku Ampuan Rahimah
+Malaysia,Q6933490,Mukhriz Mahathir,child,Q103817813,Melia Serena Mukhriz
+Malaysia,Q6933490,Mukhriz Mahathir,child,Q103817880,Meera Alyanna Mukhriz
+Malaysia,Q6933490,Mukhriz Mahathir,child,Q103817892,Misha Hakeem bin Mukhriz
+Malaysia,Q6933490,Mukhriz Mahathir,father,Q181383,Mahathir Mohamad
+Malaysia,Q6933490,Mukhriz Mahathir,spouse,Q103819127,Norzieta Zakaria
+Malaysia,Q7070314,Nurul Izzah Anwar,father,Q299574,Anwar Ibrahim
+Malaysia,Q7070314,Nurul Izzah Anwar,mother,Q468579,Wan Azizah Wan Ismail
+Malaysia,Q707164,Lim Guan Eng,father,Q717696,Lim Kit Siang
+Malaysia,Q707164,Lim Guan Eng,sibling,Q106554732,Lim Hui Ying
+Malaysia,Q717696,Lim Kit Siang,child,Q106554732,Lim Hui Ying
+Malaysia,Q717696,Lim Kit Siang,child,Q707164,Lim Guan Eng
+Malaysia,Q7325474,Abang Abdul Rahman Johari Abang Openg,father,Q4663397,Abang Haji Openg
+Malaysia,Q73962,Mohamed Azmin Ali,sibling,Q12683102,Azwan Ali
+Malaysia,Q73962,Mohamed Azmin Ali,sibling,Q12712124,Ummi Hafilda Ali

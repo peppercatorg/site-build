@@ -1,0 +1,52 @@
+catalog,id,name,relationship,relative,relativename
+Kenya,Q111177853,Lena Moi,spouse,Q193492,Daniel arap Moi
+Kenya,Q111232184,Julius Kandie,spouse,Q16734504,Phyllis Kandie
+Kenya,Q111232458,Nahashon Nyagah,father,Q6180863,Jeremiah J.M. Nyagah
+Kenya,Q111232458,Nahashon Nyagah,sibling,Q6285854,Joseph Nyagah
+Kenya,Q111232458,Nahashon Nyagah,sibling,Q7052649,Norman Nyagah
+Kenya,Q11249433,Gideon Moi,father,Q193492,Daniel arap Moi
+Kenya,Q16730244,Amason Kingi,spouse,Q111261629,Liz Kingi
+Kenya,Q16734504,Phyllis Kandie,spouse,Q111232184,Julius Kandie
+Kenya,Q16866530,Margaret Gakuo Kenyatta,spouse,Q196070,Uhuru Kenyatta
+Kenya,Q193492,Daniel arap Moi,child,Q11249433,Gideon Moi
+Kenya,Q193492,Daniel arap Moi,spouse,Q111177853,Lena Moi
+Kenya,Q195725,William Ruto,spouse,Q21064137,Rachel Ruto
+Kenya,Q196070,Uhuru Kenyatta,father,Q173563,Jomo Kenyatta
+Kenya,Q196070,Uhuru Kenyatta,mother,Q1984253,Ngina Kenyatta
+Kenya,Q196070,Uhuru Kenyatta,sibling,Q5360612,Margaret Kenyatta
+Kenya,Q196070,Uhuru Kenyatta,spouse,Q16866530,Margaret Gakuo Kenyatta
+Kenya,Q2013243,Oburu Odinga,father,Q645228,Jaramogi Oginga Odinga
+Kenya,Q27893074,Moses Otieno Kajwang,sibling,Q47494960,Tom Joseph Francis Kajwang'
+Kenya,Q27893074,Moses Otieno Kajwang,sibling,Q7108730,Otieno Kajwang
+Kenya,Q4358037,Moody Awori,sibling,Q393388,Aggrey Awori
+Kenya,Q46795,Wangari Muta Maathai,child,Q79996197,Wanjira Mathai
+Kenya,Q46795,Wangari Muta Maathai,spouse,Q108664231,Mwangi Mathai
+Kenya,Q47490021,Joyce Chepkoech Korir,spouse,Q111338137,Leonard Korir
+Kenya,Q47494960,Tom Joseph Francis Kajwang',sibling,Q27893074,Moses Otieno Kajwang
+Kenya,Q48009463,Jackson Mandago,spouse,Q111261578,Lucy Mandago
+Kenya,Q48472394,Stephen Sang,spouse,Q111261583,Sheila Sang
+Kenya,Q5407838,Eugene Wamalwa,sibling,Q593552,Michael Kijana Wamalwa
+Kenya,Q5407838,Eugene Wamalwa,spouse,Q111261587,Lucy Musundi
+Kenya,Q57291,Mwai Kibaki,spouse,Q6698396,Lucy Kibaki
+Kenya,Q57657,Raila Odinga,father,Q645228,Jaramogi Oginga Odinga
+Kenya,Q57657,Raila Odinga,spouse,Q5360754,Ida Odinga
+Kenya,Q593552,Michael Kijana Wamalwa,sibling,Q5407838,Eugene Wamalwa
+Kenya,Q6249843,John Munyes,spouse,Q111261589,Maryanne Munyes
+Kenya,Q6285854,Joseph Nyagah,father,Q6180863,Jeremiah J.M. Nyagah
+Kenya,Q6285854,Joseph Nyagah,sibling,Q111232458,Nahashon Nyagah
+Kenya,Q6285854,Joseph Nyagah,sibling,Q7052649,Norman Nyagah
+Kenya,Q65850416,Matthew Adams Karauri,child,Q65847532,Ronald Karauri
+Kenya,Q66606803,Ken Okoth,sibling,Q85837193,Benard Otieno Okoth
+Kenya,Q6698396,Lucy Kibaki,spouse,Q57291,Mwai Kibaki
+Kenya,Q6780919,Mary Wambui,father,Q4540107,Charles Njonjo
+Kenya,Q7045471,Noah Wekesa,child,Q963542,Paul Wekesa
+Kenya,Q7052649,Norman Nyagah,father,Q6180863,Jeremiah J.M. Nyagah
+Kenya,Q7052649,Norman Nyagah,sibling,Q111232458,Nahashon Nyagah
+Kenya,Q7052649,Norman Nyagah,sibling,Q6285854,Joseph Nyagah
+Kenya,Q7108730,Otieno Kajwang,sibling,Q27893074,Moses Otieno Kajwang
+Kenya,Q7172546,Peter Anyang' Nyong'o,child,Q111261610,Zawadi Nyongo'o
+Kenya,Q7172546,Peter Anyang' Nyong'o,child,Q3840847,Lupita Nyong'o
+Kenya,Q7172546,Peter Anyang' Nyong'o,spouse,Q111261595,Dorothy Ogada Buyu Nyong'o
+Kenya,Q7175990,Peter Munya,spouse,Q111261585,Phoebe Munya
+Kenya,Q85837193,Benard Otieno Okoth,sibling,Q66606803,Ken Okoth
+Kenya,Q96627361,Wycliffe Wangamati,spouse,Q111261574,Carol Wangamati

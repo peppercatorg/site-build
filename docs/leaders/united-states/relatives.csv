@@ -1,0 +1,1150 @@
+catalog,id,name,relationship,relative,relativename
+United States,Q10390,John McCain,child,Q22810646,James R. D. McCain
+United States,Q10390,John McCain,child,Q22810647,Sidney McCain
+United States,Q10390,John McCain,child,Q22810652,John Sidney McCain IV
+United States,Q10390,John McCain,child,Q22810653,Bridget McCain
+United States,Q10390,John McCain,child,Q461063,Meghan McCain
+United States,Q10390,John McCain,father,Q665850,"John S. McCain, Jr."
+United States,Q10390,John McCain,mother,Q4993396,Roberta McCain
+United States,Q10390,John McCain,sibling,Q6211184,Joe McCain
+United States,Q10390,John McCain,spouse,Q240628,Cindy McCain
+United States,Q10390,John McCain,spouse,Q5044466,Carol McCain
+United States,Q104076331,Katherine Tai,spouse,Q111399240,Robert Riley Skidmore
+United States,Q104841799,Mary Cavanagh,father,Q7181765,Phil Cavanagh
+United States,Q105393688,Sarah Fowler,spouse,Q56063613,Isaac Arthur
+United States,Q1059265,Chaka Fattah,spouse,Q7312975,Renee Chenault-Fattah
+United States,Q105981951,Pat Outman,father,Q7331626,Rick Outman
+United States,Q106089241,Julia Letlow,spouse,Q103928233,Luke Letlow
+United States,Q106823831,Malika Sanders-Fortier,father,Q5727985,Henry Sanders
+United States,Q107178183,Michael Dvorak,child,Q7384032,Ryan Dvorak
+United States,Q1077819,Chris Van Hollen,mother,Q104036929,Edith Eliza Farnsworth
+United States,Q10853588,Kamala Harris,father,Q60894135,Donald J. Harris
+United States,Q10853588,Kamala Harris,mother,Q60844968,Shyamala Gopalan
+United States,Q10853588,Kamala Harris,relative,Q102055307,Sharada Balachandran Orihuela
+United States,Q10853588,Kamala Harris,relative,Q16196331,Tony West
+United States,Q10853588,Kamala Harris,relative,Q96224414,Meena Harris
+United States,Q10853588,Kamala Harris,relative,Q98382417,Cole Emhoff
+United States,Q10853588,Kamala Harris,relative,Q98382515,Ella Emhoff
+United States,Q10853588,Kamala Harris,sibling,Q16729668,Maya Harris
+United States,Q10853588,Kamala Harris,spouse,Q65029113,Doug Emhoff
+United States,Q11100,Deval Patrick,spouse,Q110903410,Diane B. Patrick
+United States,Q111156646,Mary Ann Middaugh,spouse,Q111156151,James Mick Middaugh
+United States,Q11116,Ruth Bader Ginsburg,child,Q15046892,Jane C. Ginsburg
+United States,Q11116,Ruth Bader Ginsburg,child,Q6143596,James Steven Ginsburg
+United States,Q11116,Ruth Bader Ginsburg,spouse,Q6775247,Martin D. Ginsburg
+United States,Q111175402,Joseph F. Young Jr.,father,Q111175404,Joseph F. Young Sr.
+United States,Q111176902,Martin Griffin,father,Q111176899,Michael J. Griffin
+United States,Q11124,Stephen Breyer,father,Q75442273,Irving Breyer
+United States,Q11124,Stephen Breyer,sibling,Q5081816,Charles R. Breyer
+United States,Q11124,Stephen Breyer,spouse,Q75285240,Joanna Freda Hare
+United States,Q11132,Sandra Day O'Connor,sibling,Q24039859,Ann Day
+United States,Q11132,Sandra Day O'Connor,spouse,Q6241719,John Jay O'Connor
+United States,Q11142,Clarence Thomas,spouse,Q22910283,Kathy Ambush
+United States,Q11142,Clarence Thomas,spouse,Q7934359,Virginia Thomas
+United States,Q11153,John Roberts,spouse,Q21551954,Jane Sullivan Roberts
+United States,Q11156,Antonin Scalia,child,Q16875330,Eugene Scalia
+United States,Q11171,Anthony Kennedy,child,Q110653486,Justin Kennedy
+United States,Q11171,Anthony Kennedy,child,Q110653530,Gregory Kennedy
+United States,Q1118577,Max Sandlin,spouse,Q267740,Stephanie Herseth Sandlin
+United States,Q1124,Bill Clinton,child,Q229671,Chelsea Clinton
+United States,Q1124,Bill Clinton,father,Q4112404,"William Jefferson Blythe, Jr."
+United States,Q1124,Bill Clinton,mother,Q4112334,Virginia Clinton Kelley
+United States,Q1124,Bill Clinton,sibling,Q2161657,"Roger Clinton, Jr."
+United States,Q1124,Bill Clinton,sibling,Q27700490,Leon Ritzenthaler
+United States,Q1124,Bill Clinton,spouse,Q6294,Hillary Clinton
+United States,Q1124,Bill Clinton,stepparent,Q4112506,"Roger Clinton, Sr."
+United States,Q1124,Bill Clinton,stepparent,Q4112619,Jeff Dwire
+United States,Q1124,Bill Clinton,stepparent,Q75762966,Richard Kelley
+United States,Q1147285,Pedro Rosselló,child,Q7332181,Ricardo Rosselló
+United States,Q1160178,Daniel Brewster,father,Q102395348,"Capt. Daniel Baugh Brewster, Sr."
+United States,Q11607,"Jon Huntsman, Jr.",child,Q4664468,Abby Huntsman
+United States,Q11607,"Jon Huntsman, Jr.",father,Q327514,Jon Huntsman Sr.
+United States,Q11607,"Jon Huntsman, Jr.",mother,Q103812047,Karen Haight
+United States,Q11607,"Jon Huntsman, Jr.",spouse,Q6779999,Mary Kaye Huntsman
+United States,Q11668,Nikki Haley,spouse,Q22279202,Michael Haley
+United States,Q11673,Andrew Cuomo,child,Q104127073,Mariah Kennedy Cuomo
+United States,Q11673,Andrew Cuomo,child,Q104127085,Cara Kennedy-Cuomo
+United States,Q11673,Andrew Cuomo,child,Q104127116,Michaela Kennedy-Cuomo
+United States,Q11673,Andrew Cuomo,father,Q521145,Mario Cuomo
+United States,Q11673,Andrew Cuomo,mother,Q43900984,Matilda Cuomo
+United States,Q11673,Andrew Cuomo,partner,Q15524741,Sandra Lee
+United States,Q11673,Andrew Cuomo,sibling,Q16728306,Margaret Cuomo
+United States,Q11673,Andrew Cuomo,sibling,Q22996234,Maria Cuomo Cole
+United States,Q11673,Andrew Cuomo,sibling,Q5112179,Chris Cuomo
+United States,Q11673,Andrew Cuomo,spouse,Q467912,Kerry Kennedy
+United States,Q11674,David Paterson,father,Q2886807,Basil A. Paterson
+United States,Q11674,David Paterson,spouse,Q6837195,Michelle Paige Paterson
+United States,Q11675,Eliot Spitzer,father,Q16089983,Bernard Spitzer
+United States,Q11675,Eliot Spitzer,spouse,Q3510804,Silda Wall Spitzer
+United States,Q11676,George Pataki,child,Q15991434,Allison Pataki
+United States,Q11676,George Pataki,father,Q20177117,Louis P. Pataki
+United States,Q11676,George Pataki,spouse,Q6540449,Libby Pataki
+United States,Q1167934,Joaquín Castro,mother,Q25353403,Rosie Castro
+United States,Q1167934,Joaquín Castro,sibling,Q970720,Julián Castro
+United States,Q1176154,David Plouffe,child,Q76104320,Everett Makins Morgan Plouffe
+United States,Q1176154,David Plouffe,child,Q76104321,Vivian Carroll Morgan Plouffe
+United States,Q1176154,David Plouffe,spouse,Q75602882,Olivia Dudley Morgan
+United States,Q1188501,Victoria Nuland,father,Q2278468,Sherwin B. Nuland
+United States,Q1188501,Victoria Nuland,spouse,Q711031,Robert Kagan
+United States,Q119255,Bill Ritter,spouse,Q6172368,Jeannie Ritter
+United States,Q120260,Martin O'Malley,father,Q20155395,Thomas Martin O'Malley
+United States,Q120260,Martin O'Malley,mother,Q20155398,Barbara  O'Malley
+United States,Q120260,Martin O'Malley,spouse,Q6377526,Katie O'Malley
+United States,Q1208992,Diane Sands,spouse,Q22004141,Ann Mary Dussault
+United States,Q1209677,Dick Gephardt,child,Q2964908,Chrissy Gephardt
+United States,Q1263846,Elliott Abrams,spouse,Q15993411,Rachel Abrams
+United States,Q1280288,Joe Scarborough,spouse,Q449013,Mika Brzezinski
+United States,Q1281084,Alan Grayson,spouse,Q20758232,Dena Grayson
+United States,Q1282411,Ed Markey,spouse,Q18386616,Susan Blumenthal
+United States,Q1282477,Ed Royce,spouse,Q55356765,Marie Royce
+United States,Q1287554,John Danforth,sibling,Q1643693,William Henry Danforth
+United States,Q1289901,"Harold Ford, Jr.",father,Q1585826,"Harold Ford, Sr."
+United States,Q1290476,John Podesta,sibling,Q7823193,Tony Podesta
+United States,Q130024,Johnny Isakson,spouse,Q110200187,Νταϊάν Ντέιβισον
+United States,Q1326874,Lincoln Diaz-Balart,father,Q2126946,Rafael Díaz-Balart
+United States,Q1326874,Lincoln Diaz-Balart,sibling,Q767270,Mario Díaz-Balart
+United States,Q1326874,Lincoln Diaz-Balart,sibling,Q9013810,José Díaz-Balart
+United States,Q1344707,John Boozman,sibling,Q5438901,Fay Boozman
+United States,Q1344755,Jo Bonner,sibling,Q20683891,Judy L. Bonner
+United States,Q134549,Ted Kennedy,child,Q2383370,Kara Kennedy
+United States,Q134549,Ted Kennedy,child,Q3048622,Edward M. Kennedy Jr.
+United States,Q134549,Ted Kennedy,child,Q948920,Patrick J. Kennedy
+United States,Q134549,Ted Kennedy,father,Q313696,Joseph P. Kennedy Sr.
+United States,Q134549,Ted Kennedy,godparent,Q9696,John F. Kennedy
+United States,Q134549,Ted Kennedy,mother,Q236540,Rose Kennedy
+United States,Q134549,Ted Kennedy,sibling,Q25310,Robert F. Kennedy
+United States,Q134549,Ted Kennedy,sibling,Q265595,Rosemary Kennedy
+United States,Q134549,Ted Kennedy,sibling,Q268799,Kathleen Cavendish
+United States,Q134549,Ted Kennedy,sibling,Q272401,Jean Kennedy Smith
+United States,Q134549,Ted Kennedy,sibling,Q272908,Eunice Kennedy Shriver
+United States,Q134549,Ted Kennedy,sibling,Q432694,Patricia Kennedy Lawford
+United States,Q134549,Ted Kennedy,sibling,Q505178,Joseph P. Kennedy Jr.
+United States,Q134549,Ted Kennedy,sibling,Q9696,John F. Kennedy
+United States,Q134549,Ted Kennedy,spouse,Q441424,Joan Bennett Kennedy
+United States,Q134549,Ted Kennedy,spouse,Q7926996,Victoria Reggie Kennedy
+United States,Q1345537,Jim Ryun,child,Q6986091,Ned Ryun
+United States,Q13562283,Kelli Stargel,spouse,Q6242405,John K. Stargel
+United States,Q13562486,Charlotte Burks,spouse,Q7819266,Tommy Burks
+United States,Q1362004,Peter Schoomaker,sibling,Q5387463,Eric Schoomaker
+United States,Q13628723,Jared Kushner,child,Q23000820,Arabella Rose Kushner
+United States,Q13628723,Jared Kushner,child,Q23000821,Joseph Frederick Kushner
+United States,Q13628723,Jared Kushner,child,Q23647575,Theodore James Kushner
+United States,Q13628723,Jared Kushner,father,Q5079897,Charles Kushner
+United States,Q13628723,Jared Kushner,relative,Q22686,Donald Trump
+United States,Q13628723,Jared Kushner,relative,Q242351,Ivana Trump
+United States,Q13628723,Jared Kushner,relative,Q24456699,Murray Kushner
+United States,Q13628723,Jared Kushner,sibling,Q6289985,Joshua Kushner
+United States,Q13628723,Jared Kushner,spouse,Q239411,Ivanka Trump
+United States,Q1363468,Mike DeWine,child,Q7143357,Pat DeWine
+United States,Q1370400,William M. Daley,father,Q295267,Richard J. Daley
+United States,Q1370400,William M. Daley,mother,Q5354208,"Eleanor ""Sis"" Daley"
+United States,Q1370400,William M. Daley,sibling,Q16107270,John P. Daley
+United States,Q1370400,William M. Daley,sibling,Q539814,Richard M. Daley
+United States,Q1370968,John Conyers,spouse,Q6899925,Monica Conyers
+United States,Q1386836,Jim Jeffords,father,Q19974758,Olin M. Jeffords
+United States,Q1387868,Kurt Schrader,spouse,Q6774554,Martha Schrader
+United States,Q1400609,William V. Roth,spouse,Q6152658,Jane Richards Roth
+United States,Q1415243,Tom Price,spouse,Q28382598,Betty Price
+United States,Q145193,Zalmay Khalilzad,spouse,Q89891,Cheryl Benard
+United States,Q14525857,Avril Haines,father,Q56280048,Thomas H. Haines
+United States,Q14593411,John B. Emerson,child,Q266109,Jacqueline Emerson
+United States,Q14593411,John B. Emerson,spouse,Q104907762,Kimberly Marteau Emerson
+United States,Q150851,Colin Powell,spouse,Q4733589,Alma Powell
+United States,Q151891,Rod Blagojevich,spouse,Q7145474,Patricia Blagojevich
+United States,Q152451,Jerry Brown,father,Q724121,Pat Brown
+United States,Q152451,Jerry Brown,mother,Q4894292,Bernice Layne Brown
+United States,Q152451,Jerry Brown,spouse,Q16192730,Anne Gust Brown
+United States,Q15257,Ron Paul,child,Q463557,Rand Paul
+United States,Q1525924,Roy Blunt,child,Q881141,Matt Blunt
+United States,Q1525924,Roy Blunt,father,Q18684855,Leroy Blunt
+United States,Q154743,Theodore Olson,spouse,Q2590988,Barbara Olson
+United States,Q15488345,Neil Gorsuch,mother,Q565342,Anne Gorsuch Burford
+United States,Q15488345,Neil Gorsuch,spouse,Q111338070,Louise Gorsuch
+United States,Q155125,Scott Brown,child,Q4357472,Ayla Brown
+United States,Q155125,Scott Brown,spouse,Q5517100,Gail Huff
+United States,Q1555314,Gus Bilirakis,father,Q1885893,Michael Bilirakis
+United States,Q155649,Richard Holbrooke,spouse,Q454987,Kati Marton
+United States,Q155985,Rick Santorum,father,Q20177209,Aldo Santorum
+United States,Q155985,Rick Santorum,spouse,Q20176752,Karen Garver Santorum
+United States,Q158813,Mike Huckabee,child,Q27986907,Sarah Sanders
+United States,Q158813,Mike Huckabee,child,Q5235201,David Huckabee
+United States,Q158813,Mike Huckabee,father,Q20177225,Dorsey Wiles Huckabee
+United States,Q158813,Mike Huckabee,mother,Q99911610,Mae Huckabee
+United States,Q158813,Mike Huckabee,spouse,Q6153404,Janet Huckabee
+United States,Q15972549,Bruce Rauner,spouse,Q20710108,Diana Rauner
+United States,Q15993009,Hugh Gillis,sibling,Q17037420,"Jim L. Gillis, Jr."
+United States,Q160157,Joe Lieberman,spouse,Q5637601,Hadassah Lieberman
+United States,Q160181,Tim Pawlenty,spouse,Q13560980,Mary Pawlenty
+United States,Q160582,Michele Bachmann,spouse,Q21552248,Marcus Bachmann
+United States,Q160717,Tom Lantos,relative,Q1274294,Richard Swett
+United States,Q16104615,Robert Bloxom,child,Q16199598,"Robert Bloxom, Jr."
+United States,Q16146870,Steve Bannon,spouse,Q28587005,Cathleen Houff
+United States,Q16146870,Steve Bannon,spouse,Q28587346,Mary Piccard
+United States,Q16146870,Steve Bannon,spouse,Q28587586,Diane Clohesy
+United States,Q16148997,Bernie Hunhoff,child,Q38195469,Katie Hunhoff
+United States,Q16150298,Loranne Ausley,father,Q5309988,DuBose Ausley
+United States,Q16185594,Steve Sisolak,spouse,Q107157828,Kathleen Sisolak
+United States,Q16189318,David Ige,spouse,Q29452590,Dawn Ige
+United States,Q16193904,Steve Toth,spouse,Q787863,Babette
+United States,Q16194408,Peter Wirth,father,Q6264663,John Wirth
+United States,Q16195097,Gwen Graham,father,Q578102,Bob Graham
+United States,Q16195097,Gwen Graham,mother,Q4681891,Adele Khoury Graham
+United States,Q16195595,Karin Housley,spouse,Q722956,Phil Housley
+United States,Q16196379,Greg Bonnen,relative,Q100979578,Clarence A. Bonnen
+United States,Q16196379,Greg Bonnen,relative,Q64019898,James T. Bonnen
+United States,Q16196379,Greg Bonnen,sibling,Q16213876,Dennis Bonnen
+United States,Q16197260,Donna Soucy,mother,Q72102494,Lillian Soucy
+United States,Q16204936,Rufus Gifford,father,Q5079649,Charles K. Gifford
+United States,Q16215583,Chris Sununu,father,Q887489,John H. Sununu
+United States,Q16215583,Chris Sununu,sibling,Q1699908,John E. Sununu
+United States,Q16221742,Matt Gaetz,father,Q5292650,Don Gaetz
+United States,Q16240798,Michael Brady,sibling,Q95886226,Robert F. Brady Jr.
+United States,Q1667920,Russ Carnahan,mother,Q448619,Jean Carnahan
+United States,Q1667920,Russ Carnahan,relative,Q279153,A. S. J. Carnahan
+United States,Q166928,Chris Cannon,sibling,Q6280774,Joseph A. Cannon
+United States,Q16729797,Curtis Hertel Jr.,father,Q5195759,Curtis Hertel
+United States,Q16730829,Rusty Kidd,father,Q96026796,Culver Kidd Jr.
+United States,Q16730829,Rusty Kidd,sibling,Q515981,Tillie K. Fowler
+United States,Q16731303,Larry Hogan,father,Q2045555,Lawrence J. Hogan
+United States,Q16731303,Larry Hogan,sibling,Q7147309,Patrick N. Hogan
+United States,Q16731303,Larry Hogan,spouse,Q19880284,Yumi Hogan
+United States,Q1683881,Jason Chaffetz,father,Q108002677,John Chaffetz
+United States,Q1683881,Jason Chaffetz,relative,Q6230322,John Dukakis
+United States,Q1683881,Jason Chaffetz,sibling,Q108003544,Alex Chaffetz
+United States,Q1683881,Jason Chaffetz,sibling,Q6230322,John Dukakis
+United States,Q1684313,Jay Dickey,spouse,Q67168428,Betty Dickey
+United States,Q16875330,Eugene Scalia,father,Q11156,Antonin Scalia
+United States,Q16979824,Brian Babin,child,Q6696084,Lucas Babin
+United States,Q1699908,John E. Sununu,father,Q887489,John H. Sununu
+United States,Q1699908,John E. Sununu,sibling,Q16215583,Chris Sununu
+United States,Q17011236,Sarah McBride,spouse,Q47507596,Andrew Cray
+United States,Q1701732,John Shadegg,father,Q18153925,Stephen Shadegg
+United States,Q170581,Nancy Pelosi,child,Q2325554,Alexandra Pelosi
+United States,Q170581,Nancy Pelosi,child,Q5111145,Christine Pelosi
+United States,Q170581,Nancy Pelosi,child,Q7152908,"Paul Pelosi, Jr."
+United States,Q170581,Nancy Pelosi,father,Q1156152,"Thomas D'Alesandro, Jr."
+United States,Q170581,Nancy Pelosi,mother,Q107323320,"Annunciata M. ""Nancy"" D'Alesandro"
+United States,Q170581,Nancy Pelosi,sibling,Q7791637,Thomas L. J. D'Alesandro III
+United States,Q170581,Nancy Pelosi,spouse,Q7152909,Paul Pelosi
+United States,Q1707784,Joe Kennedy III,father,Q1386420,Joseph P. Kennedy II
+United States,Q1707784,Joe Kennedy III,mother,Q75326752,Sheila Brewster Rauch
+United States,Q172466,Steven Chu,father,Q15484220,Ju-Chin Chu
+United States,Q172466,Steven Chu,relative,Q4141131,Li Shu-hua
+United States,Q172466,Steven Chu,relative,Q7504405,Shu-tian Li
+United States,Q172466,Steven Chu,sibling,Q5560855,Gilbert Chu
+United States,Q172466,Steven Chu,sibling,Q6911602,Morgan Chu
+United States,Q1729888,Sean Duffy,spouse,Q2267027,Rachel Campos-Duffy
+United States,Q173839,Tom Cole,mother,Q55713886,Helen Cole
+United States,Q17402717,David Perdue,relative,Q525362,Sonny Perdue
+United States,Q174438,Madeleine Albright,child,Q111351661,Alice Albright
+United States,Q174438,Madeleine Albright,child,Q111352400,Anne Korbel Albright
+United States,Q174438,Madeleine Albright,child,Q111352475,Katie Albright
+United States,Q174438,Madeleine Albright,father,Q1705029,Josef Korbel
+United States,Q174438,Madeleine Albright,mother,Q22138384,Anna Spiegelová
+United States,Q174438,Madeleine Albright,spouse,Q6285495,Joseph Albright
+United States,Q1747322,Neal Katyal,relative,Q6176240,Jeffrey Rosen
+United States,Q1747322,Neal Katyal,sibling,Q63616490,Sonia Katyal
+United States,Q179732,Nathan Deal,spouse,Q22275145,Sandra Dunagan
+United States,Q18159074,Bill Walker,father,Q5335534,Ed Walker
+United States,Q182504,Felix Perez Camacho,father,Q553268,Carlos Camacho
+United States,Q184650,Donald Rumsfeld,mother,Q98807063,Jeannette Husted
+United States,Q184650,Donald Rumsfeld,relative,Q74703207,Lew Sarett
+United States,Q184650,Donald Rumsfeld,spouse,Q108709308,Joyce Pierson
+United States,Q1855840,Xavier Becerra,spouse,Q111411382,Carolina Reyes
+United States,Q18631533,Carlos Curbelo,relative,Q1388356,Mike Lowell
+United States,Q18739754,Nathan Manning,father,Q6176152,Jeffrey Manning
+United States,Q18739754,Nathan Manning,mother,Q5528804,Gayle Manning
+United States,Q18749062,Michelle Lepore-Hagan,spouse,Q4932643,Bob Hagan
+United States,Q1885893,Michael Bilirakis,child,Q1555314,Gus Bilirakis
+United States,Q1895804,Paul Sarbanes,child,Q984509,John Sarbanes
+United States,Q1900355,Mark Pocan,spouse,Q73298651,Philip Frank
+United States,Q1922011,Merrick Garland,spouse,Q23231454,Lynn Rosenman
+United States,Q19276671,John Kooiker,child,Q19894153,Sam Kooiker
+United States,Q193635,Alan Greenspan,spouse,Q494466,Andrea Mitchell
+United States,Q193703,Gabrielle Giffords,spouse,Q357510,Mark Kelly
+United States,Q19561193,Devin LeMahieu,father,Q5217889,Daniel LeMahieu
+United States,Q19673,Al Gore,child,Q107292249,Albert Arnold Gore III
+United States,Q19673,Al Gore,child,Q107292299,Sarah Gore
+United States,Q19673,Al Gore,child,Q600415,Kristin Gore
+United States,Q19673,Al Gore,child,Q6370170,Karenna Gore Schiff
+United States,Q19673,Al Gore,father,Q577160,Albert Arnold Gore
+United States,Q19673,Al Gore,mother,Q7155048,Pauline LaFon Gore
+United States,Q19673,Al Gore,sibling,Q6962713,Nancy Gore Hunger
+United States,Q19673,Al Gore,spouse,Q241609,Tipper Gore
+United States,Q1973878,Ned Lamont,father,Q104443859,"Edward Miner Lamont, Sr."
+United States,Q1973878,Ned Lamont,relative,Q2478543,Corliss Lamont
+United States,Q1973878,Ned Lamont,relative,Q3073519,Thomas William Lamont Jr.
+United States,Q1973878,Ned Lamont,spouse,Q60493791,Ann Lamont
+United States,Q20090094,Kelly Alexander Jr.,father,Q27829199,Kelly Alexander Sr.
+United States,Q2020636,Anita Dunn,spouse,Q7341941,Robert Bauer
+United States,Q2023708,Richard Blumenthal,child,Q60618279,Matt Blumenthal
+United States,Q2023708,Richard Blumenthal,sibling,Q16120254,David Blumenthal
+United States,Q2036942,Ted Cruz,father,Q20155387,Rafael Bienvenido Cruz
+United States,Q2036942,Ted Cruz,mother,Q20155390,Eleanor Wilson Cruz
+United States,Q2036942,Ted Cruz,spouse,Q20165784,Heidi Cruz
+United States,Q203966,Paul Ryan,spouse,Q27831047,Janna Little
+United States,Q20684288,Jim Justice,father,Q106044570,James Conley Justice Sr.
+United States,Q207,George W. Bush,child,Q153481,Jenna Bush Hager
+United States,Q207,George W. Bush,child,Q153730,Barbara Bush
+United States,Q207,George W. Bush,father,Q23505,George H. W. Bush
+United States,Q207,George W. Bush,mother,Q190628,Barbara Bush
+United States,Q207,George W. Bush,sibling,Q1375345,Marvin P. Bush
+United States,Q207,George W. Bush,sibling,Q221997,Jeb Bush
+United States,Q207,George W. Bush,sibling,Q320829,Neil Bush
+United States,Q207,George W. Bush,sibling,Q3305438,Dorothy Bush Koch
+United States,Q207,George W. Bush,spouse,Q152019,Laura Bush
+United States,Q20711148,"Ron Ryckman, Jr.",father,Q7364343,Ron Ryckman
+United States,Q20858327,Michael Sirotkin,spouse,Q19604744,Sally Fox
+United States,Q20932627,Azita Raji,father,Q1266100,Parviz C. Radji
+United States,Q21064122,Broderick D. Johnson,spouse,Q2855852,Michele Norris
+United States,Q215057,Rick Perry,father,Q20177237,Joseph Ray Perry
+United States,Q215057,Rick Perry,spouse,Q4765651,Anita Thigpen Perry
+United States,Q2152423,Major Owens,child,Q5107664,Chris Owens
+United States,Q2152423,Major Owens,child,Q718857,Geoffrey Owens
+United States,Q21572825,Andy Beshear,father,Q532220,Steve Beshear
+United States,Q2157642,Robert Hurt,sibling,Q23762854,Charles Hurt
+United States,Q217314,John Edwards,child,Q5051777,Cate Edwards
+United States,Q217314,John Edwards,child,Q95373273,Emma Claire Edwards
+United States,Q217314,John Edwards,child,Q95374139,Jack Edwards
+United States,Q217314,John Edwards,child,Q95374453,Wade Edwards
+United States,Q217314,John Edwards,father,Q95375149,Wallace Reid Edwards
+United States,Q217314,John Edwards,mother,Q95375539,Catharine Juanita Edwards
+United States,Q217314,John Edwards,spouse,Q270139,Elizabeth Edwards
+United States,Q219861,Paul Wolfowitz,father,Q722273,Jacob Wolfowitz
+United States,Q219861,Paul Wolfowitz,spouse,Q5126250,Clare Selgin Wolfowitz
+United States,Q22095395,Doug Burgum,spouse,Q97673554,Kathryn Burgum
+United States,Q221997,Jeb Bush,child,Q18844106,Noelle Bush
+United States,Q221997,Jeb Bush,child,Q18844109,"John Bush, Jr."
+United States,Q221997,Jeb Bush,child,Q3101841,George P. Bush
+United States,Q221997,Jeb Bush,father,Q23505,George H. W. Bush
+United States,Q221997,Jeb Bush,mother,Q190628,Barbara Bush
+United States,Q221997,Jeb Bush,sibling,Q1375345,Marvin P. Bush
+United States,Q221997,Jeb Bush,sibling,Q207,George W. Bush
+United States,Q221997,Jeb Bush,sibling,Q320829,Neil Bush
+United States,Q221997,Jeb Bush,sibling,Q3305438,Dorothy Bush Koch
+United States,Q221997,Jeb Bush,spouse,Q5149532,Columba Bush
+United States,Q22212,Lindsey Graham,father,Q20177142,F.J. Graham
+United States,Q22237,Amy Klobuchar,father,Q6196159,Jim Klobuchar
+United States,Q22237,Amy Klobuchar,spouse,Q6221766,John Bessler
+United States,Q22279,Susan Collins,father,Q18685474,Donald Collins
+United States,Q22279,Susan Collins,mother,Q22059332,Patricia M. Collins
+United States,Q22290,Olympia Snowe,spouse,Q23020894,Peter T. Snowe
+United States,Q22290,Olympia Snowe,spouse,Q880786,John R. McKernan
+United States,Q22316,John Kerry,child,Q4720675,Alexandra Kerry
+United States,Q22316,John Kerry,child,Q7914670,Vanessa Kerry
+United States,Q22316,John Kerry,father,Q14757787,Richard J. Kerry
+United States,Q22316,John Kerry,mother,Q7368363,Rosemary Forbes Kerry
+United States,Q22316,John Kerry,sibling,Q5026282,Cameron Kerry
+United States,Q22316,John Kerry,spouse,Q288503,Teresa Heinz Kerry
+United States,Q22316,John Kerry,spouse,Q9016414,Julia Thorne
+United States,Q22338,Mary Landrieu,father,Q1946678,Moon Landrieu
+United States,Q22338,Mary Landrieu,sibling,Q3317069,Mitch Landrieu
+United States,Q22360,Lisa Murkowski,father,Q448813,Frank Murkowski
+United States,Q22360,Lisa Murkowski,spouse,Q34844143,Verne Martell
+United States,Q22686,Donald Trump,child,Q12071552,Tiffany Trump
+United States,Q22686,Donald Trump,child,Q23000814,Barron Trump
+United States,Q22686,Donald Trump,child,Q239411,Ivanka Trump
+United States,Q22686,Donald Trump,child,Q3713655,Donald Trump Jr.
+United States,Q22686,Donald Trump,child,Q3731533,Eric Trump
+United States,Q22686,Donald Trump,father,Q3752663,Fred Trump
+United States,Q22686,Donald Trump,mother,Q22952511,Mary Anne MacLeod Trump
+United States,Q22686,Donald Trump,relative,Q102257613,John Whitney Walter
+United States,Q22686,Donald Trump,relative,Q13628723,Jared Kushner
+United States,Q22686,Donald Trump,relative,Q1576675,John G. Trump
+United States,Q22686,Donald Trump,relative,Q23600580,Elizabeth Christ
+United States,Q22686,Donald Trump,relative,Q35703322,Lara Trump
+United States,Q22686,Donald Trump,relative,Q4461939,Vanessa Trump
+United States,Q22686,Donald Trump,relative,Q96475328,Mary L. Trump
+United States,Q22686,Donald Trump,sibling,Q28748031,Robert Trump
+United States,Q22686,Donald Trump,sibling,Q42682724,Fred Trump Jr.
+United States,Q22686,Donald Trump,sibling,Q42682869,Elizabeth Trump Grau
+United States,Q22686,Donald Trump,sibling,Q736223,Maryanne Trump Barry
+United States,Q22686,Donald Trump,spouse,Q242351,Ivana Trump
+United States,Q22686,Donald Trump,spouse,Q2597050,Marla Maples
+United States,Q22686,Donald Trump,spouse,Q432473,Melania Trump
+United States,Q22994482,Trevor Traina,father,Q22994131,John Traina
+United States,Q22994482,Trevor Traina,mother,Q16106853,Dede Wilsey
+United States,Q22994482,Trevor Traina,sibling,Q7812683,Todd Traina
+United States,Q230303,Caroline Kennedy,child,Q15149340,Jack Schlossberg
+United States,Q230303,Caroline Kennedy,child,Q21012764,Rose Schlossberg
+United States,Q230303,Caroline Kennedy,child,Q21012765,Tatiana Schlossberg
+United States,Q230303,Caroline Kennedy,father,Q9696,John F. Kennedy
+United States,Q230303,Caroline Kennedy,mother,Q165421,Jacqueline Kennedy Onassis
+United States,Q230303,Caroline Kennedy,sibling,Q316064,John F. Kennedy Jr.
+United States,Q230303,Caroline Kennedy,sibling,Q3290402,Patrick Bouvier Kennedy
+United States,Q230303,Caroline Kennedy,sibling,Q75326753,Arabella Kennedy
+United States,Q230303,Caroline Kennedy,spouse,Q3048809,Edwin Schlossberg
+United States,Q230733,Dianne Feinstein,father,Q56798517,Leon Goldman
+United States,Q230733,Dianne Feinstein,spouse,Q7324532,Richard C. Blum
+United States,Q233905,Linda McMahon,child,Q842633,Stephanie McMahon
+United States,Q233905,Linda McMahon,child,Q861110,Shane McMahon
+United States,Q233905,Linda McMahon,spouse,Q44430,Vince McMahon
+United States,Q2355703,Fiona Ma,father,Q47300661,William Ma
+United States,Q236421,Janet Reno,sibling,Q67200642,Maggy Hurchalla
+United States,Q237560,Barbara Boxer,child,Q110064220,Nicole Boxer
+United States,Q23772332,Karen Donfried,father,Q22004094,Karl Paul Donfried
+United States,Q237786,Kathleen Blanco,spouse,Q7298599,Raymond Blanco
+United States,Q239411,Ivanka Trump,child,Q23000820,Arabella Rose Kushner
+United States,Q239411,Ivanka Trump,child,Q23000821,Joseph Frederick Kushner
+United States,Q239411,Ivanka Trump,child,Q23647575,Theodore James Kushner
+United States,Q239411,Ivanka Trump,father,Q22686,Donald Trump
+United States,Q239411,Ivanka Trump,mother,Q242351,Ivana Trump
+United States,Q239411,Ivanka Trump,sibling,Q12071552,Tiffany Trump
+United States,Q239411,Ivanka Trump,sibling,Q23000814,Barron Trump
+United States,Q239411,Ivanka Trump,sibling,Q3713655,Donald Trump Jr.
+United States,Q239411,Ivanka Trump,sibling,Q3731533,Eric Trump
+United States,Q239411,Ivanka Trump,spouse,Q13628723,Jared Kushner
+United States,Q239571,Elizabeth Dole,spouse,Q319079,Bob Dole
+United States,Q239928,Kay Bailey Hutchison,spouse,Q7297645,Ray Hutchison
+United States,Q24053,Maggie Hassan,father,Q932181,Robert Coldwell Wood
+United States,Q24053,Maggie Hassan,sibling,Q3082862,Frank Wood
+United States,Q24053,Maggie Hassan,spouse,Q7790485,Thomas Hassan
+United States,Q241788,Jodi Rell,spouse,Q16984069,Lou Rell
+United States,Q24248265,Steven Mnuchin,father,Q27825459,Robert Mnuchin
+United States,Q24248265,Steven Mnuchin,sibling,Q27886656,Lisa Abelow Hedley
+United States,Q24248265,Steven Mnuchin,spouse,Q25753785,Louise Linton
+United States,Q24248265,Steven Mnuchin,spouse,Q28438154,Heather deForest Crosby
+United States,Q24313,Mike Pence,child,Q50825799,Charlotte Pence
+United States,Q24313,Mike Pence,father,Q28465753,"Edward J. Pence, Jr."
+United States,Q24313,Mike Pence,mother,Q28465754,Nancy Jane Pence
+United States,Q24313,Mike Pence,sibling,Q52151577,Greg Pence
+United States,Q24313,Mike Pence,spouse,Q25894869,Karen Pence
+United States,Q2442580,Tony P. Hall,father,Q5228895,Dave Hall
+United States,Q2442580,Tony P. Hall,sibling,Q3471146,Sam Hall
+United States,Q244631,Leon Panetta,child,Q27733776,Jimmy Panetta
+United States,Q2481855,Amy Gutmann,child,Q30323326,Abigail Doyle
+United States,Q2481855,Amy Gutmann,father,Q110860191,Kurt Gutmann
+United States,Q2481855,Amy Gutmann,mother,Q110860833,Beatrice Gutmann
+United States,Q2481855,Amy Gutmann,spouse,Q2718472,Michael W. Doyle
+United States,Q24851563,Hope Hicks,father,Q99836024,Paul Hicks
+United States,Q24851563,Hope Hicks,partner,Q28451032,Rob Porter
+United States,Q248668,Jim McGreevey,partner,Q23025185,Mark O'Donnell
+United States,Q248668,Jim McGreevey,spouse,Q5277849,Dina Matos
+United States,Q2517229,Vern Buchanan,child,Q60735881,James Buchanan
+United States,Q256334,Susana Martinez,spouse,Q5115476,Chuck Franco
+United States,Q259514,Valerie Jarrett,father,Q15451707,James E. Bowman
+United States,Q259514,Valerie Jarrett,mother,Q4859352,Barbara T. Bowman
+United States,Q259514,Valerie Jarrett,relative,Q64826793,Robert Rochon Taylor
+United States,Q260042,Phil Murphy,spouse,Q42948064,Tammy Murphy
+United States,Q2613704,Phil Gramm,spouse,Q7982694,Wendy Lee Gramm
+United States,Q263322,Elaine Chao,father,Q18659626,James S.C. Chao
+United States,Q263322,Elaine Chao,mother,Q24702487,Ruth Mulan Chu Chao
+United States,Q263322,Elaine Chao,spouse,Q355522,Mitch McConnell
+United States,Q263725,Janet Yellen,spouse,Q222541,George Akerlof
+United States,Q263831,Tom Schieffer,sibling,Q439261,Bob Schieffer
+United States,Q26436159,Ilhan Omar,child,Q65693436,Isra Hirsi
+United States,Q26436159,Ilhan Omar,father,Q96370232,Nur Omar Mohamed
+United States,Q265791,Ileana Ros-Lehtinen,spouse,Q5268414,Dexter Lehtinen
+United States,Q267740,Stephanie Herseth Sandlin,father,Q27063777,Lars Herseth
+United States,Q267740,Stephanie Herseth Sandlin,spouse,Q1118577,Max Sandlin
+United States,Q2685,Arnold Schwarzenegger,child,Q23800185,Joseph Baena
+United States,Q2685,Arnold Schwarzenegger,child,Q28109921,Christina Schwarzenegger
+United States,Q2685,Arnold Schwarzenegger,child,Q28109928,Christopher Schwarzenegger
+United States,Q2685,Arnold Schwarzenegger,child,Q4521676,Katherine Schwarzenegger
+United States,Q2685,Arnold Schwarzenegger,child,Q901541,Patrick Schwarzenegger
+United States,Q2685,Arnold Schwarzenegger,father,Q3288486,Gustav Schwarzenegger
+United States,Q2685,Arnold Schwarzenegger,mother,Q23800370,Aurelia Schwarzenegger
+United States,Q2685,Arnold Schwarzenegger,partner,Q110976736,Heather Milligan
+United States,Q2685,Arnold Schwarzenegger,partner,Q75494768,Mildred Patricia Baena
+United States,Q2685,Arnold Schwarzenegger,relative,Q24004771,Patrick M. Knapp Schwarzenegger
+United States,Q2685,Arnold Schwarzenegger,sibling,Q38196234,Meinhard Schwarzenegger
+United States,Q2685,Arnold Schwarzenegger,spouse,Q230654,Maria Shriver
+United States,Q2688821,John Delaney,spouse,Q62090862,April McClain
+United States,Q27063509,Gary Blodgett,child,Q17612129,Todd Blodgett
+United States,Q272628,Jane Harman,spouse,Q469735,Sidney Harman
+United States,Q27677,Kathleen Sebelius,father,Q374960,John J. Gilligan
+United States,Q27677,Kathleen Sebelius,spouse,Q6323362,K. Gary Sebelius
+United States,Q27733776,Jimmy Panetta,father,Q244631,Leon Panetta
+United States,Q27733823,Kayleigh McEnany,spouse,Q7441031,Sean Gilmartin
+United States,Q27831059,Brian Fitzpatrick,sibling,Q45951,Mike Fitzpatrick
+United States,Q27986907,Sarah Sanders,father,Q158813,Mike Huckabee
+United States,Q27986907,Sarah Sanders,mother,Q6153404,Janet Huckabee
+United States,Q27986907,Sarah Sanders,sibling,Q5235201,David Huckabee
+United States,Q27989911,Len Biernat,spouse,Q27916365,Christine Jax
+United States,Q27996060,Stephen Miller,mother,Q56153013,Miriam Glosser Miller
+United States,Q27996060,Stephen Miller,relative,Q56152062,David S. Glosser
+United States,Q27996060,Stephen Miller,relative,Q66090507,Mark Louis Glosser
+United States,Q27996060,Stephen Miller,spouse,Q78337779,Katie Miller
+United States,Q28018207,David Friedman,spouse,Q99548616,Tammy Deborah Sand
+United States,Q2832449,Alejandro García Padilla,spouse,Q8022673,Wilma Pastrana
+United States,Q285102,Jay Rockefeller,child,Q6318065,Justin Rockefeller
+United States,Q285102,Jay Rockefeller,father,Q1699735,John D. Rockefeller III
+United States,Q285102,Jay Rockefeller,mother,Q4924916,Blanchette Ferry Rockefeller
+United States,Q285102,Jay Rockefeller,sibling,Q22326965,Sandra Ferry Rockefeller
+United States,Q285102,Jay Rockefeller,sibling,Q4726369,Alida Rockefeller Messinger
+United States,Q285102,Jay Rockefeller,sibling,Q5899444,Hope Rockefeller Aldrich
+United States,Q285102,Jay Rockefeller,spouse,Q7490177,Sharon Percy Rockefeller
+United States,Q28591,David Petraeus,child,Q24587672,Stephen Petraeus
+United States,Q28591,David Petraeus,father,Q96915630,Sixtus Petraeus
+United States,Q28591,David Petraeus,mother,Q96915636,Miriam Howell
+United States,Q28591,David Petraeus,spouse,Q24587581,Holly Knowlton
+United States,Q28600075,Katie Walsh,spouse,Q98594417,Mike Shields
+United States,Q28861402,Tom Begich,father,Q1619015,Nick Begich
+United States,Q28871485,Kelly Craft,spouse,Q6209275,Joe Craft
+United States,Q2903280,Bill Lipinski,child,Q518424,Dan Lipinski
+United States,Q291143,Linda Sánchez,sibling,Q469094,Loretta Sanchez
+United States,Q293365,Penny Pritzker,father,Q16093011,Donald Pritzker
+United States,Q293365,Penny Pritzker,mother,Q106967837,Susan Ann Pritzker
+United States,Q293365,Penny Pritzker,sibling,Q6103950,J.B. Pritzker
+United States,Q295492,Bobby Jindal,father,Q20160834,Amar Jindal
+United States,Q295492,Bobby Jindal,spouse,Q20176827,Supriya Jindal
+United States,Q2960128,Charles Rivkin,child,Q79050987,Lily Rivkin
+United States,Q2960128,Charles Rivkin,father,Q8017272,William R. Rivkin
+United States,Q2960128,Charles Rivkin,mother,Q23071262,Enid Hammerman
+United States,Q2960128,Charles Rivkin,sibling,Q19757457,Cindy S. Moelis
+United States,Q2960128,Charles Rivkin,sibling,Q7349499,Robert S. Rivkin
+United States,Q298016,Fred Thompson,spouse,Q6182079,Jeri Kehn Thompson
+United States,Q298443,Rahm Emanuel,sibling,Q2861138,Ari Emanuel
+United States,Q298443,Rahm Emanuel,sibling,Q5423140,Ezekiel Emanuel
+United States,Q29863844,Amy Coney Barrett,spouse,Q100146500,Jesse M. Barrett
+United States,Q29913307,Matthew Pottinger,father,Q6258855,John Stanley Pottinger
+United States,Q3002054,Craig Roberts Stapleton,child,Q7962321,Walker Stapleton
+United States,Q3002054,Craig Roberts Stapleton,father,Q99372629,"Benjamin Franklin Stapleton, Jr."
+United States,Q3002054,Craig Roberts Stapleton,spouse,Q99372505,Dorothy Walker
+United States,Q30121703,Richard Ojeda,spouse,Q62096369,Kelly Ojeda
+United States,Q30148517,Christopher A. Wray,spouse,Q106272410,Helen Wray
+United States,Q3036086,Don Beyer,spouse,Q6808633,Megan Beyer
+United States,Q3048622,Edward M. Kennedy Jr.,father,Q134549,Ted Kennedy
+United States,Q3048622,Edward M. Kennedy Jr.,mother,Q441424,Joan Bennett Kennedy
+United States,Q3048622,Edward M. Kennedy Jr.,sibling,Q2383370,Kara Kennedy
+United States,Q3048622,Edward M. Kennedy Jr.,sibling,Q948920,Patrick J. Kennedy
+United States,Q3048622,Edward M. Kennedy Jr.,spouse,Q96080412,Katherine Anne Gershman
+United States,Q3090454,Elizabeth Esty,spouse,Q3013817,Daniel C. Esty
+United States,Q3105215,Ron DeSantis,spouse,Q47492935,Casey DeSantis
+United States,Q310588,Dennis Kucinich,child,Q27733739,Jackie Kucinich
+United States,Q310588,Dennis Kucinich,spouse,Q49297133,Sandra Lee McCarthy
+United States,Q310588,Dennis Kucinich,spouse,Q5363090,Elizabeth Kucinich
+United States,Q31112,Bill Frist,father,Q7789441,"Thomas F. Frist, Sr."
+United States,Q31112,Bill Frist,sibling,Q20740701,Patricia C. Frist
+United States,Q31112,Bill Frist,sibling,Q7789440,"Thomas F. Frist, Jr."
+United States,Q311161,Jesse Ventura,child,Q16218894,Tyrel Ventura
+United States,Q311211,Timothy Geithner,father,Q96089693,Peter Franz Geithner
+United States,Q311211,Timothy Geithner,mother,Q96089692,Deborah Moore
+United States,Q311211,Timothy Geithner,spouse,Q96089695,Carole Sonnenfeld
+United States,Q311562,William Rehnquist,father,Q98646635,William Benjamin Rehnquist
+United States,Q311562,William Rehnquist,mother,Q98646652,Margery Peck
+United States,Q311782,Bill Richardson,father,Q96209989,William Blaney Richardson
+United States,Q311782,Bill Richardson,mother,Q96210068,Maria Luisa López-Collada Márquez
+United States,Q311782,Bill Richardson,spouse,Q4859248,Barbara Richardson
+United States,Q312845,Daniel Inouye,spouse,Q6069055,Irene Hirano
+United States,Q317953,Lawrence Summers,father,Q7350148,Robert Summers
+United States,Q317953,Lawrence Summers,mother,Q4765646,Anita Summers
+United States,Q317953,Lawrence Summers,spouse,Q5361374,Elisa New
+United States,Q3181500,John Fetterman,spouse,Q100270882,Gisele Barreto Fetterman
+United States,Q319084,Al Franken,relative,Q4932461,Bob Franken
+United States,Q319099,Michael Dukakis,child,Q6230322,John Dukakis
+United States,Q319099,Michael Dukakis,relative,Q230188,Olympia Dukakis
+United States,Q319099,Michael Dukakis,spouse,Q6418533,Kitty Dukakis
+United States,Q319111,Chris Dodd,father,Q1619366,Thomas J. Dodd
+United States,Q322724,Richard Egan,child,Q20713681,Christopher F. Egan
+United States,Q324256,Ben R. Luján,father,Q4886084,Ben Luján
+United States,Q324546,Marco Rubio,father,Q20177301,Mario Rubio
+United States,Q324546,Marco Rubio,mother,Q22952514,Oriales Rubio
+United States,Q324546,Marco Rubio,spouse,Q20176884,Jeanette Dousdebes Rubio
+United States,Q324719,Strom Thurmond,child,Q4249647,Essie Mae Washington-Williams
+United States,Q324719,Strom Thurmond,child,Q55092455,James Strom Thurmond Jr.
+United States,Q324719,Strom Thurmond,child,Q66659632,Nancy Moore Thurmond
+United States,Q324719,Strom Thurmond,child,Q66659679,Juliana Gertrude Thurmond Whitmer
+United States,Q324719,Strom Thurmond,child,Q7154003,Paul Thurmond
+United States,Q324719,Strom Thurmond,father,Q66660194,John William Thurmond
+United States,Q324719,Strom Thurmond,mother,Q66660211,Eleanor Gertrude Strom Thurmond
+United States,Q324719,Strom Thurmond,spouse,Q66627831,Nancy Janice Moore
+United States,Q324719,Strom Thurmond,spouse,Q66627872,Jean Crouch Thurmond
+United States,Q32620,Tulsi Gabbard,father,Q4130854,Mike Gabbard
+United States,Q32620,Tulsi Gabbard,mother,Q22810615,Carol Porter Gabbard
+United States,Q32620,Tulsi Gabbard,spouse,Q22810617,Abraham Williams
+United States,Q32620,Tulsi Gabbard,spouse,Q58325067,Eduardo Tamayo
+United States,Q3278769,Dina Powell,spouse,Q5234544,David H. McCormick
+United States,Q331742,George McGovern,spouse,Q5354337,Eleanor McGovern
+United States,Q337470,Howard Dean,father,Q87746123,Howard Brush Dean Jr.
+United States,Q337470,Howard Dean,mother,Q86326379,Andrée Belden Maitland
+United States,Q337470,Howard Dean,sibling,Q16207722,Jim Dean
+United States,Q337470,Howard Dean,sibling,Q5076797,Charles Dean
+United States,Q337470,Howard Dean,spouse,Q6303690,Judith Steinberg Dean
+United States,Q338190,Rodney Frelinghuysen,father,Q612300,"Peter Frelinghuysen, Jr."
+United States,Q344930,Evan Bayh,father,Q864992,Birch Bayh
+United States,Q344930,Evan Bayh,mother,Q6778229,Marvella Bayh
+United States,Q344930,Evan Bayh,spouse,Q7647557,Susan Bayh
+United States,Q3466996,Eric Swalwell,spouse,Q64620957,Brittany Watts
+United States,Q3481765,Sheila Simon,father,Q712134,Paul Simon
+United States,Q3481765,Sheila Simon,mother,Q6172114,Jeanne Hurley Simon
+United States,Q350378,Gary Locke,spouse,Q30944221,Mona Lee Locke
+United States,Q3518911,Terry McAuliffe,spouse,Q45120525,Dorothy McAuliffe
+United States,Q352123,Gary Johnson,father,Q20202251,Earl W. Johnson
+United States,Q352123,Gary Johnson,spouse,Q20202250,Dee Johnson
+United States,Q353826,Tom Vilsack,spouse,Q5110713,Christie Vilsack
+United States,Q355522,Mitch McConnell,father,Q107323253,Addison Mitchell McConnell
+United States,Q355522,Mitch McConnell,mother,Q107323256,Julia McConnell
+United States,Q355522,Mitch McConnell,spouse,Q25016145,Sherrill Redmon
+United States,Q355522,Mitch McConnell,spouse,Q263322,Elaine Chao
+United States,Q3568965,William Stamps Farish III,father,Q106497835,William Stamps Farish Jr.
+United States,Q356929,Gray Davis,spouse,Q7490026,Sharon Davis
+United States,Q3569866,Woody Johnson,child,Q2579013,Casey Johnson
+United States,Q3569866,Woody Johnson,father,Q7351227,Robert Wood Johnson III
+United States,Q3569866,Woody Johnson,spouse,Q107518530,Sale Johnson
+United States,Q3569866,Woody Johnson,spouse,Q107520100,Suzanne Ircha
+United States,Q357510,Mark Kelly,sibling,Q362190,Scott Kelly
+United States,Q357510,Mark Kelly,spouse,Q193703,Gabrielle Giffords
+United States,Q358443,Jeff Sessions,spouse,Q30274606,Mary Blackshear
+United States,Q359442,Bernie Sanders,child,Q57160775,Carina Driscoll
+United States,Q359442,Bernie Sanders,father,Q20177345,Eli Sanders
+United States,Q359442,Bernie Sanders,mother,Q22952517,Dorothy Sanders
+United States,Q359442,Bernie Sanders,sibling,Q22162595,Larry Sanders
+United States,Q359442,Bernie Sanders,spouse,Q20165782,Jane O'Meara Sanders
+United States,Q359442,Bernie Sanders,spouse,Q61965397,Deborah Shiling Messing
+United States,Q359888,Tim Kaine,spouse,Q4768453,Anne Holton
+United States,Q361450,Haley Barbour,spouse,Q6773363,Marsha Barbour
+United States,Q363055,Arlen Specter,child,Q20685505,Shanin Specter
+United States,Q3646340,Bud Shuster,child,Q862455,Bill Shuster
+United States,Q371031,Jon Kyl,father,Q1700428,John Henry Kyl
+United States,Q374693,Charlie Crist,spouse,Q5044674,Carole Crist
+United States,Q380441,Scooter Libby,spouse,Q5664131,Harriet Grant
+United States,Q380900,Chuck Schumer,spouse,Q6070286,Iris Weinshall
+United States,Q381157,Orrin Hatch,father,Q100755743,Jesse Hatch
+United States,Q381880,Sherrod Brown,spouse,Q5161928,Connie Schultz
+United States,Q39038326,Carla Sands,spouse,Q5496215,Fred Sands
+United States,Q39593,Butch Otter,spouse,Q6681057,Lori Easley
+United States,Q39609,Terry Branstad,spouse,Q46996625,Christine Branstad
+United States,Q4014532,Beto O'Rourke,father,Q60780886,Pat O'Rourke
+United States,Q4014532,Beto O'Rourke,mother,Q60780737,Melissa O'Rourke
+United States,Q4014532,Beto O'Rourke,sibling,Q64148416,Charlotte O'Rourke
+United States,Q4014532,Beto O'Rourke,spouse,Q56427677,Amy O'Rourke
+United States,Q40589,Keith Ellison,mother,Q90732093,Clida Martinez Ellison
+United States,Q4075483,John Beyrle,father,Q4075481,Joseph Beyrle
+United States,Q4130854,Mike Gabbard,child,Q32620,Tulsi Gabbard
+United States,Q4130854,Mike Gabbard,spouse,Q22810615,Carol Porter Gabbard
+United States,Q42804470,Mike Braun,sibling,Q48813191,Steve Braun
+United States,Q430518,John Hickenlooper,relative,Q1411603,George Hickenlooper
+United States,Q430518,John Hickenlooper,relative,Q7545166,Smith Hickenlooper
+United States,Q430518,John Hickenlooper,spouse,Q111204664,Robin Pringle
+United States,Q430518,John Hickenlooper,spouse,Q17489652,Helen Thorpe
+United States,Q43144,Sarah Palin,child,Q2190766,Bristol Palin
+United States,Q43144,Sarah Palin,child,Q22575643,Track Palin
+United States,Q43144,Sarah Palin,child,Q22575645,Trig Palin
+United States,Q43144,Sarah Palin,child,Q22575646,Willow Palin
+United States,Q43144,Sarah Palin,child,Q22575647,Piper Palin
+United States,Q43144,Sarah Palin,father,Q84580270,Charles Richard 'Chuck' Heath
+United States,Q43144,Sarah Palin,mother,Q96209317,Sarah 'Sally' Sheeran
+United States,Q43144,Sarah Palin,spouse,Q1265214,Todd Palin
+United States,Q434121,Jack Kingston,mother,Q104036256,Martha Ann Heddens
+United States,Q434706,Elizabeth Warren,child,Q22673677,Amelia Warren Tyagi
+United States,Q434706,Elizabeth Warren,child,Q22673686,Alexander Warren
+United States,Q434706,Elizabeth Warren,father,Q44105606,Donald Jones Herring
+United States,Q434706,Elizabeth Warren,mother,Q107292596,Polly L. Herring (Reed)
+United States,Q434706,Elizabeth Warren,sibling,Q91693470,Donald Reed Herring
+United States,Q434706,Elizabeth Warren,spouse,Q27826137,Jim Warren
+United States,Q434706,Elizabeth Warren,spouse,Q4977945,Bruce Mann
+United States,Q434902,Ed Rendell,spouse,Q2890528,Marjorie Rendell
+United States,Q435267,Christine Todd Whitman,father,Q7978888,Webster B. Todd
+United States,Q435267,Christine Todd Whitman,spouse,Q6263884,John Whitman
+United States,Q436535,Connie Mack III,child,Q973774,Connie Mack IV
+United States,Q436535,Connie Mack III,father,Q102532993,"Connie Mack, Jr."
+United States,Q436535,Connie Mack III,mother,Q102533109,Susan McGillicuddy
+United States,Q437667,Jo Ann Emerson,spouse,Q862084,Norvell William Emerson
+United States,Q437852,Pete Sessions,father,Q464299,William S. Sessions
+United States,Q439729,Rick Scott,spouse,Q106465336,Ann Scott
+United States,Q440246,Niki Tsongas,spouse,Q283884,Paul Tsongas
+United States,Q443640,Tom Daschle,child,Q18149230,Nathan Daschle
+United States,Q443640,Tom Daschle,spouse,Q6501706,Laurie S. Fulton
+United States,Q443640,Tom Daschle,spouse,Q94665432,Linda Hall Daschle
+United States,Q444652,Carl Levin,sibling,Q971943,Sander Levin
+United States,Q445823,Brian Schweitzer,spouse,Q68206328,Nancy Schweitzer
+United States,Q44690,Lincoln Chafee,father,Q887338,John Chafee
+United States,Q44690,Lincoln Chafee,mother,Q20155402,Virginia Chafee
+United States,Q44690,Lincoln Chafee,spouse,Q20176349,Stephanie Chafee
+United States,Q448619,Jean Carnahan,child,Q1667920,Russ Carnahan
+United States,Q448619,Jean Carnahan,spouse,Q538609,Mel Carnahan
+United States,Q448813,Frank Murkowski,child,Q22360,Lisa Murkowski
+United States,Q4496,Mitt Romney,child,Q7675210,Tagg Romney
+United States,Q4496,Mitt Romney,father,Q520275,George W. Romney
+United States,Q4496,Mitt Romney,mother,Q3247018,Lenore Romney
+United States,Q4496,Mitt Romney,sibling,Q2732835,G. Scott Romney
+United States,Q4496,Mitt Romney,spouse,Q1100946,Ann Romney
+United States,Q453868,John Negroponte,father,Q15623520,Dimitri Negroponte
+United States,Q453868,John Negroponte,mother,Q109946736,Catherine Coumantaros
+United States,Q453868,John Negroponte,sibling,Q92601,Nicholas Negroponte
+United States,Q453868,John Negroponte,spouse,Q5271332,Diana Villiers Negroponte
+United States,Q454133,Mark Begich,father,Q1619015,Nick Begich
+United States,Q454133,Mark Begich,mother,Q66385572,Pegge Begich
+United States,Q454439,Tim Hutchinson,sibling,Q720121,Asa Hutchinson
+United States,Q454970,Samantha Power,spouse,Q956164,Cass Sunstein
+United States,Q455833,Carolyn Maloney,spouse,Q5133272,Clifton Maloney
+United States,Q456064,Cynthia Lummis,spouse,Q4738248,Alvin Wiederspahn
+United States,Q457243,Chellie Pingree,spouse,Q16107520,Donald Sussman
+United States,Q458322,Lindy Boggs,child,Q4395105,Cokie Roberts
+United States,Q458322,Lindy Boggs,child,Q4858761,Barbara Boggs Sigmund
+United States,Q458322,Lindy Boggs,child,Q7790344,"Thomas Hale Boggs, Jr."
+United States,Q458322,Lindy Boggs,father,Q91236584,Roland Philemon Claiborne
+United States,Q458322,Lindy Boggs,mother,Q100913297,Martha Corinne Keller
+United States,Q458322,Lindy Boggs,spouse,Q1567156,"Thomas Hale Boggs, Sr."
+United States,Q45942007,Tom Hennies,sibling,Q47460409,Don Hennies
+United States,Q45946,Suzanne Bonamici,spouse,Q6830879,Michael H. Simon
+United States,Q45951,Mike Fitzpatrick,sibling,Q27831059,Brian Fitzpatrick
+United States,Q459618,Shelley Moore Capito,child,Q54861395,Moore Capito
+United States,Q459618,Shelley Moore Capito,father,Q365572,Arch A. Moore
+United States,Q459618,Shelley Moore Capito,mother,Q7493820,Shelley Riley Moore
+United States,Q459693,Lois Capps,spouse,Q1717689,Walter Capps
+United States,Q459753,Mary Bono,spouse,Q179150,Sonny Bono
+United States,Q461391,Gavin Newsom,child,Q28837718,Montana Newsom
+United States,Q461391,Gavin Newsom,child,Q28837723,Hunter Newsom
+United States,Q461391,Gavin Newsom,child,Q28837729,Brooklynn Newsom
+United States,Q461391,Gavin Newsom,father,Q8016104,William Newsom
+United States,Q461391,Gavin Newsom,mother,Q27139386,Tessa Newsom
+United States,Q461391,Gavin Newsom,partner,Q108715077,Kelley Phleger
+United States,Q461391,Gavin Newsom,spouse,Q13560902,Kimberly Guilfoyle
+United States,Q461391,Gavin Newsom,spouse,Q432875,Jennifer Siebel Newsom
+United States,Q461727,Maxine Waters,spouse,Q7507951,Sid Williams
+United States,Q461734,Sheila Jackson Lee,spouse,Q5368369,Elwyn C. Lee
+United States,Q463557,Rand Paul,father,Q15257,Ron Paul
+United States,Q463557,Rand Paul,spouse,Q19893979,Kelley Paul
+United States,Q464810,John Warner,child,Q75788763,Virginia Warner
+United States,Q464810,John Warner,child,Q75788765,John William Warner IV
+United States,Q464810,John Warner,child,Q75788768,Mary Warner
+United States,Q464810,John Warner,spouse,Q21879434,Catherine Conover
+United States,Q464810,John Warner,spouse,Q21879434,Catherine Conover
+United States,Q464810,John Warner,spouse,Q21879436,Jeanne Vander Myde
+United States,Q464810,John Warner,spouse,Q34851,Elizabeth Taylor
+United States,Q467861,Kathleen Kennedy Townsend,child,Q75326813,Meaghan Anne Kennedy Townsend
+United States,Q467861,Kathleen Kennedy Townsend,child,Q75326815,Maeve Kennedy McKean
+United States,Q467861,Kathleen Kennedy Townsend,child,Q75326817,Rose Katherine Kennedy Townsend
+United States,Q467861,Kathleen Kennedy Townsend,child,Q75326818,Kerry Sophia Kennedy Townsend
+United States,Q467861,Kathleen Kennedy Townsend,father,Q25310,Robert F. Kennedy
+United States,Q467861,Kathleen Kennedy Townsend,mother,Q258661,Ethel Skakel Kennedy
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q1352872,Robert F. Kennedy Jr.
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q1386420,Joseph P. Kennedy II
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q1804720,Michael LeMoyne Kennedy
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q1975383,David A. Kennedy
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q273833,Rory Kennedy
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q467912,Kerry Kennedy
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q5112377,Christopher G. Kennedy
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q5178632,Courtney Kennedy Hill
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q5301573,Douglas Harriman Kennedy
+United States,Q467861,Kathleen Kennedy Townsend,sibling,Q6794923,Max Kennedy
+United States,Q467861,Kathleen Kennedy Townsend,spouse,Q75326812,David Lee Townsend
+United States,Q467891,Ray LaHood,child,Q5222780,Darin LaHood
+United States,Q469094,Loretta Sanchez,sibling,Q291143,Linda Sánchez
+United States,Q469115,Lucille Roybal-Allard,father,Q1115522,Edward Ross Roybal
+United States,Q47002803,Shannon Bilbray-Axelrod,father,Q285366,James Bilbray
+United States,Q470663,Matt Mead,father,Q104034259,Peter Bradford Mead
+United States,Q470663,Matt Mead,mother,Q6780328,Mary Mead
+United States,Q470748,Max Baucus,mother,Q6170237,Jean Baucus
+United States,Q470755,Mark Pryor,father,Q881301,David Pryor
+United States,Q4726305,Alicia Suazo,spouse,Q7172285,Pete Suazo
+United States,Q4727130,Alison Lundergan Grimes,father,Q17280630,Jerry Lundergan
+United States,Q4727130,Alison Lundergan Grimes,mother,Q17280629,Charlotte Lundergan
+United States,Q4727130,Alison Lundergan Grimes,spouse,Q17280635,Andrew Grimes
+United States,Q473239,Mike Pompeo,spouse,Q71725344,Susan Pompeo
+United States,Q47460409,Don Hennies,sibling,Q45942007,Tom Hennies
+United States,Q4747436,Amo Houghton,father,Q4747805,Amory Houghton
+United States,Q4760938,Andy Levin,father,Q971943,Sander Levin
+United States,Q4772169,Anthony Bucco,child,Q7821974,Anthony M. Bucco
+United States,Q4772971,Anthony Luzzatto Gardner,father,Q7327990,Richard N. Gardner
+United States,Q4773428,Anthony Scaramucci,spouse,Q34231806,Deidre Ball
+United States,Q4776817,Antonio Muñoz,spouse,Q7145764,Patricia Muñoz
+United States,Q4793462,Donna Campbell,spouse,Q7597578,Stan Campbell
+United States,Q4806029,Ashton Carter,sibling,Q3298939,Cynthia DeFelice
+United States,Q4806029,Ashton Carter,spouse,Q5130328,Clayton Spencer
+United States,Q48259,Dick Cheney,child,Q442226,Mary Cheney
+United States,Q48259,Dick Cheney,child,Q5362573,Elizabeth Cheney
+United States,Q48259,Dick Cheney,father,Q87841130,Richard Herbert Cheney
+United States,Q48259,Dick Cheney,mother,Q96201433,Marjorie Lorraine Dickey
+United States,Q48259,Dick Cheney,spouse,Q234992,Lynne Cheney
+United States,Q484005,Alexander Vershbow,father,Q40176783,Arthur Vershbow
+United States,Q48499400,"Royal Lee Bolling, Sr.",child,Q4977166,Bruce Bolling
+United States,Q48499400,"Royal Lee Bolling, Sr.",child,Q52393546,Royal L. Bolling Jr.
+United States,Q4888549,Benjamin F. Kramer,father,Q7509186,Sidney Kramer
+United States,Q4888549,Benjamin F. Kramer,sibling,Q7364585,Rona E. Kramer
+United States,Q4898286,Betsy DeVos,father,Q20685182,Edgar Prince
+United States,Q4898286,Betsy DeVos,sibling,Q749887,Erik Prince
+United States,Q4898286,Betsy DeVos,spouse,Q5272818,Dick DeVos
+United States,Q4898689,BettyLou DeCroce,spouse,Q4716893,Alex DeCroce
+United States,Q4962244,Brett Kavanaugh,spouse,Q4805425,Ashley Estes Kavanaugh
+United States,Q5006307,C. Boyden Gray,father,Q723378,Gordon Gray
+United States,Q5006307,C. Boyden Gray,sibling,Q5000825,Burton C. Gray
+United States,Q5018131,Cal Cunningham,spouse,Q5362649,Elizabeth Cunningham
+United States,Q5026282,Cameron Kerry,father,Q14757787,Richard J. Kerry
+United States,Q5026282,Cameron Kerry,mother,Q7368363,Rosemary Forbes Kerry
+United States,Q5026282,Cameron Kerry,sibling,Q22316,John Kerry
+United States,Q503580,Dan Boren,father,Q882362,David L. Boren
+United States,Q503580,Dan Boren,mother,Q107138576,Janna Lou Boren
+United States,Q505236,Fred Upton,father,Q24050570,Stephen Edward Upton
+United States,Q505236,Fred Upton,mother,Q96203329,Elizabeth Brooks Vial
+United States,Q505236,Fred Upton,sibling,Q24050623,Jeff Upton
+United States,Q5052604,Catherine Cortez Masto,spouse,Q93876373,Paul Masto
+United States,Q50612,Susan Rice,father,Q1338730,Emmett J. Rice
+United States,Q50612,Susan Rice,mother,Q29261542,Lois Rice
+United States,Q5076629,Charlie Baker,father,Q5076633,Charles D. Baker
+United States,Q50825637,Sara Jacobs,father,Q37072404,Gary E. Jacobs
+United States,Q5107284,Chris Lu,spouse,Q110644133,Kathryn B. Thomson
+United States,Q511389,Anne Northup,sibling,Q234977,Mary T. Meagher
+United States,Q512071,Janice Hahn,sibling,Q706358,James Hahn
+United States,Q512537,Walter B. Jones,father,Q279205,"Walter B. Jones, Sr."
+United States,Q513091,Mark Dayton,father,Q21604321,Bruce Dayton
+United States,Q513091,Mark Dayton,spouse,Q4726369,Alida Rockefeller Messinger
+United States,Q5131741,Cleopatra Tucker,spouse,Q5294649,Donald Kofi Tucker
+United States,Q5146234,Colleen Bell,child,Q78223732,Charlotte Bell
+United States,Q5146234,Colleen Bell,child,Q78468560,Caroline Bell
+United States,Q5146234,Colleen Bell,spouse,Q4954882,Bradley Bell
+United States,Q515981,Tillie K. Fowler,sibling,Q16730829,Rusty Kidd
+United States,Q517649,André Carson,relative,Q461754,Julia Carson
+United States,Q518424,Dan Lipinski,father,Q2903280,Bill Lipinski
+United States,Q52151577,Greg Pence,sibling,Q24313,Mike Pence
+United States,Q5218446,Daniel Pfeiffer,spouse,Q93570553,Sarah Feinberg
+United States,Q5222780,Darin LaHood,father,Q467891,Ray LaHood
+United States,Q5224655,Darrell Jackson,spouse,Q237527,Big Mama Thornton
+United States,Q5232769,David D. Cortese,father,Q5290574,Dominic L. Cortese
+United States,Q5242449,Dawn Gibbons,spouse,Q639207,Jim Gibbons
+United States,Q5248232,Deborah Dingell,spouse,Q600393,"John Dingell, Jr."
+United States,Q525362,Sonny Perdue,relative,Q17402717,David Perdue
+United States,Q5271471,Diane Grendell,spouse,Q7803572,Tim Grendell
+United States,Q527493,Duncan L. Hunter,child,Q540521,Duncan D. Hunter
+United States,Q527553,George Allen,father,Q5536190,George Allen
+United States,Q529344,Ron Wyden,father,Q129364,Peter H. Wyden
+United States,Q529344,Ron Wyden,relative,Q63344,Franz Weidenreich
+United States,Q529344,Ron Wyden,spouse,Q87434148,Nancy Bass Wyden
+United States,Q532220,Steve Beshear,child,Q21572825,Andy Beshear
+United States,Q532279,Jim Webb,father,Q20177358,James Henry Webb
+United States,Q532279,Jim Webb,spouse,Q20176971,Hong Le Webb
+United States,Q532279,Jim Webb,spouse,Q4859281,Barbara Samorajczyk
+United States,Q532279,Jim Webb,spouse,Q6204119,Jo Ann Krukar
+United States,Q533544,Tauese Sunia,spouse,Q21065021,Fagaoalii Satele Sunia
+United States,Q5336251,"Eddie Lucio, Jr.",child,Q5336252,Eddie Lucio III
+United States,Q5336252,Eddie Lucio III,father,Q5336251,"Eddie Lucio, Jr."
+United States,Q5359190,Eleni Tsakopoulos Kounalakis,father,Q4762982,Angelo Tsakopoulos
+United States,Q5359190,Eleni Tsakopoulos Kounalakis,spouse,Q6771306,Markos Kounalakis
+United States,Q5362573,Elizabeth Cheney,father,Q48259,Dick Cheney
+United States,Q5362573,Elizabeth Cheney,mother,Q234992,Lynne Cheney
+United States,Q5362573,Elizabeth Cheney,sibling,Q442226,Mary Cheney
+United States,Q5362573,Elizabeth Cheney,spouse,Q7184207,Philip Perry
+United States,Q538331,Brad Henry,spouse,Q6408717,Kim Henry
+United States,Q538375,Pat Roberts,father,Q5006972,C. Wesley Roberts
+United States,Q538609,Mel Carnahan,spouse,Q448619,Jean Carnahan
+United States,Q538868,Joe Manchin,child,Q5693758,Heather Bresch
+United States,Q538868,Joe Manchin,relative,Q4647998,A. James Manchin
+United States,Q538868,Joe Manchin,spouse,Q5528787,Gayle Conelly Manchin
+United States,Q539459,Charlie Gonzalez,father,Q1606461,Henry B. González
+United States,Q539521,Michael C. Burgess,father,Q104034743,Harry Meredith Burgess
+United States,Q539536,Randy Neugebauer,child,Q7811860,Toby Neugebauer
+United States,Q540521,Duncan D. Hunter,father,Q527493,Duncan L. Hunter
+United States,Q5415533,Evan Ryan,spouse,Q7821917,Antony Blinken
+United States,Q548122,Bill Clay,child,Q959455,William Lacy Clay
+United States,Q54861395,Moore Capito,mother,Q459618,Shelley Moore Capito
+United States,Q5488569,Frank Mrvan,child,Q96077897,Frank J. Mrvan
+United States,Q55223040,Alexandria Ocasio-Cortez,partner,Q63226184,Riley Roberts
+United States,Q55235151,William Brent Christensen,relative,Q2938881,C. C. A. Christensen
+United States,Q552353,Robert J. Bentley,spouse,Q29350569,Dianne Jones
+United States,Q5528804,Gayle Manning,child,Q18739754,Nathan Manning
+United States,Q5528804,Gayle Manning,spouse,Q6174430,Jeff Manning
+United States,Q553116,Judd Gregg,mother,Q17682625,Catherine Gregg
+United States,Q5531164,Gene Davis,spouse,Q28810674,Penny Davis
+United States,Q5531443,Gene Segerblom,child,Q102249412,Robin Liggett
+United States,Q5531443,Gene Segerblom,child,Q7800620,Tick Segerblom
+United States,Q5531443,Gene Segerblom,mother,Q5687838,Hazel Bell Wines
+United States,Q553254,Scott Walker,father,Q20177370,Llew Walker
+United States,Q553254,Scott Walker,spouse,Q20176988,Tonette Walker
+United States,Q55356765,Marie Royce,spouse,Q1282477,Ed Royce
+United States,Q554792,Michael Bennet,father,Q5301639,Douglas J. Bennet
+United States,Q554792,Michael Bennet,mother,Q38346462,Susanne Klejman
+United States,Q554792,Michael Bennet,sibling,Q6129664,James Bennet
+United States,Q5550068,Gerard Luz James,father,Q5512335,G. Luz A. James
+United States,Q5566787,Matthew Barzun,father,Q106837403,Roger Martin Barzun
+United States,Q5566787,Matthew Barzun,mother,Q106837428,Serita Lincoln Winthrop
+United States,Q5566787,Matthew Barzun,sibling,Q6698192,Lucy Barzun Donnelly
+United States,Q5566787,Matthew Barzun,spouse,Q4974408,Brooke Barzun
+United States,Q557810,Anthony Weiner,spouse,Q469222,Huma Abedin
+United States,Q5591303,Grace Meng,child,Q111286055,Tyler Kye
+United States,Q5591303,Grace Meng,child,Q111286084,Brandon Kye
+United States,Q5591303,Grace Meng,father,Q6200841,Jimmy Meng
+United States,Q5591303,Grace Meng,sibling,Q111307919,Andy Meng
+United States,Q5591303,Grace Meng,spouse,Q111285541,Wayne Kye
+United States,Q560447,Herb Kohl,child,Q32533777,Dan Kohl
+United States,Q5648303,Hank Coe,father,Q5723482,Henry Huttleston Rogers Coe
+United States,Q56600071,Wanda Vázquez Garced,spouse,Q88679157,Jorge Díaz Reverón
+United States,Q570173,Paul Gillmor,spouse,Q6369659,Karen Gillmor
+United States,Q578102,Bob Graham,child,Q16195097,Gwen Graham
+United States,Q578102,Bob Graham,father,Q5393708,Ernest R. Graham
+United States,Q578102,Bob Graham,mother,Q91876934,Hilda Elizabeth Simmons
+United States,Q578102,Bob Graham,spouse,Q4681891,Adele Khoury Graham
+United States,Q58324313,Lizzie Pannill Fletcher,sibling,Q6376324,Katherine Center
+United States,Q58399761,Xochitl Torres Small,spouse,Q58008405,Nathan Small
+United States,Q58494532,Jim Hagedorn,father,Q1704699,Tom Hagedorn
+United States,Q58494532,Jim Hagedorn,spouse,Q29834713,Jennifer Carnahan
+United States,Q58993183,Joe Cunningham,father,Q4908635,Bill Cunningham
+United States,Q59164712,Emily Sirota,spouse,Q5239837,David Sirota
+United States,Q600393,"John Dingell, Jr.",child,Q28925186,Christopher D. Dingell
+United States,Q600393,"John Dingell, Jr.",father,Q1699824,"John David Dingell, Sr."
+United States,Q600393,"John Dingell, Jr.",spouse,Q5248232,Deborah Dingell
+United States,Q60428696,Antonio Delgado,spouse,Q20711158,Lacey Schwartz
+United States,Q60428775,Ron Wright,spouse,Q106686477,Susan Wright
+United States,Q60617380,Shawnna Bolick,spouse,Q5133923,Clint Bolick
+United States,Q6066080,Ira Hansen,spouse,Q94851188,Alexis Hansen
+United States,Q607069,Gordon H. Smith,father,Q106866655,Milan Smith
+United States,Q607069,Gordon H. Smith,mother,Q106866656,Jessica Smith
+United States,Q608533,Jay Carney,spouse,Q5125308,Claire Shipman
+United States,Q609189,Jesse Jackson Jr.,father,Q310586,Jesse Jackson
+United States,Q609189,Jesse Jackson Jr.,spouse,Q7416312,Sandi Jackson
+United States,Q60950448,Tara Sweeney,mother,Q61187947,Eileen MacLean
+United States,Q60950448,Tara Sweeney,spouse,Q111353534,Kevin Sweeney
+United States,Q6103950,J.B. Pritzker,father,Q16093011,Donald Pritzker
+United States,Q6103950,J.B. Pritzker,sibling,Q293365,Penny Pritzker
+United States,Q6103950,J.B. Pritzker,sibling,Q4773305,Anthony Pritzker
+United States,Q6106781,Pete Ricketts,father,Q6212003,Joe Ricketts
+United States,Q6106781,Pete Ricketts,sibling,Q20685306,Todd Ricketts
+United States,Q6106781,Pete Ricketts,sibling,Q6499357,Laura Ricketts
+United States,Q6106781,Pete Ricketts,sibling,Q7793737,Thomas S. Ricketts
+United States,Q6107133,J. Steven Griles,spouse,Q7634072,Sue Ellen Wooldridge
+United States,Q61082968,Daire Rendon,spouse,Q16150126,Bruce Rendon
+United States,Q6124620,Jake Corman,mother,Q4878813,Becky Corman
+United States,Q6133686,James F. Moriarty,spouse,Q100542125,Lauren K. Moriarty
+United States,Q614310,George Herbert Walker III,child,Q5540539,George Herbert Walker IV
+United States,Q614310,George Herbert Walker III,father,Q1507567,"George Herbert Walker, Jr."
+United States,Q615126,Aníbal Acevedo Vilá,spouse,Q16729168,Piti Gándara
+United States,Q6153618,Janet T. Mills,sibling,Q7175896,Peter Mills
+United States,Q6162170,Jason Carter,father,Q6111597,Jack Carter
+United States,Q6162170,Jason Carter,mother,Q64013262,Judy Carter
+United States,Q616305,Cecilia Rouse,father,Q64596798,Carl A. Rouse
+United States,Q616305,Cecilia Rouse,relative,Q72334,Toni Morrison
+United States,Q616305,Cecilia Rouse,sibling,Q48821646,Carolyn Rouse
+United States,Q618727,Thomas E. Donilon,father,Q106150010,Edward T. Donilon
+United States,Q618727,Thomas E. Donilon,sibling,Q6846591,Mike Donilon
+United States,Q6228998,Zach Wahls,mother,Q16186938,Terry Wahls
+United States,Q623395,Richard Armitage,child,Q77049766,Lee Armitage
+United States,Q6247018,John Marty,father,Q6152541,Martin E. Marty
+United States,Q62471051,Jen O'Malley Dillon,relative,Q6789145,Matt O'Malley
+United States,Q6255593,John Roos,spouse,Q52950168,Susan Roos
+United States,Q6257460,John Shattuck,spouse,Q111346797,Ellen Hume
+United States,Q6262531,John W. Sears,father,Q107002689,Richard Dudley Sears
+United States,Q627098,Mike Lee,father,Q2147070,Rex E. Lee
+United States,Q6279,Joe Biden,child,Q5944264,Hunter Biden
+United States,Q6279,Joe Biden,child,Q813332,Beau Biden
+United States,Q6279,Joe Biden,child,Q97588420,Ashley Biden
+United States,Q6279,Joe Biden,child,Q98854696,Naomi Biden
+United States,Q6279,Joe Biden,father,Q20177093,Joseph R. Biden Sr.
+United States,Q6279,Joe Biden,mother,Q96318245,Jean Biden
+United States,Q6279,Joe Biden,sibling,Q100741820,James Biden
+United States,Q6279,Joe Biden,sibling,Q100741824,Francis Biden
+United States,Q6279,Joe Biden,sibling,Q98854090,Valerie Biden Owens
+United States,Q6279,Joe Biden,spouse,Q19285477,Neilia Hunter
+United States,Q6279,Joe Biden,spouse,Q235349,Jill Biden
+United States,Q6280908,"Joseph Addabbo, Jr.",father,Q6286109,Joseph Patrick Addabbo
+United States,Q6282358,Joseph Cryan,father,Q16016483,John F. Cryan
+United States,Q6282358,Joseph Cryan,relative,Q6227807,John Cryan
+United States,Q6294,Hillary Clinton,child,Q229671,Chelsea Clinton
+United States,Q6294,Hillary Clinton,father,Q16013081,Hugh E. Rodham
+United States,Q6294,Hillary Clinton,mother,Q5298463,Dorothy Howell Rodham
+United States,Q6294,Hillary Clinton,sibling,Q5932520,Hugh Rodham
+United States,Q6294,Hillary Clinton,sibling,Q7823289,Tony Rodham
+United States,Q6294,Hillary Clinton,spouse,Q1124,Bill Clinton
+United States,Q6297660,Joyce Woodhouse,spouse,Q107130553,Albert Wittenberg
+United States,Q63102003,Christopher J. LaFleur,child,Q11347265,Emma Miyazawa
+United States,Q63102003,Christopher J. LaFleur,child,Q61983418,Sarah Miyazawa LaFleur
+United States,Q63102003,Christopher J. LaFleur,relative,Q315565,Kiichi Miyazawa
+United States,Q63102003,Christopher J. LaFleur,spouse,Q86805475,Keiko Miyazawa Lafleur
+United States,Q631195,Mark Udall,father,Q1941315,Mo Udall
+United States,Q6369866,Karen Mayne,spouse,Q5335131,Ed Mayne
+United States,Q6384936,Keith Regier,child,Q105662089,Amy Regier
+United States,Q6384936,Keith Regier,child,Q36847838,Matt Regier
+United States,Q6386365,Kellyanne Conway,child,Q96880237,Claudia Conway
+United States,Q6386365,Kellyanne Conway,spouse,Q28964312,George T. Conway III
+United States,Q63879,Chris Christie,father,Q20177152,Bill Christie
+United States,Q63879,Chris Christie,spouse,Q20176598,Mary Pat Christie
+United States,Q639207,Jim Gibbons,spouse,Q5242449,Dawn Gibbons
+United States,Q640835,Jamie Raskin,father,Q6758404,Marcus Raskin
+United States,Q64166191,Winston Healy,spouse,Q12764049,Christina Grof
+United States,Q6490243,Larry Echo Hawk,sibling,Q6231112,John EchoHawk
+United States,Q649898,Ron Klain,spouse,Q59779122,Monica Medina
+United States,Q652066,Sheldon Whitehouse,father,Q5082305,Charles Sheldon Whitehouse
+United States,Q65554989,Larry Walker III,father,Q65555452,Larry Walker
+United States,Q65555452,Larry Walker,child,Q65554989,Larry Walker III
+United States,Q6701490,Luiz R. S. Simmons,child,Q14945722,Rachel Simmons
+United States,Q672428,Kenny Guinn,spouse,Q107387818,Dema Guinn
+United States,Q6726900,Madeleine Dean,relative,Q93278657,Joan Cunnane
+United States,Q6761168,María Elena Durazo,spouse,Q6844499,Miguel Contreras
+United States,Q6769099,Mark Obenshain,father,Q7325051,Richard D. Obenshain
+United States,Q6769099,Mark Obenshain,sibling,Q6375701,Kate Obenshain
+United States,Q6780011,Mary Kiffmeyer,spouse,Q7287746,Ralph Kiffmeyer
+United States,Q6793975,"Maury Maverick, Jr.",father,Q1911710,Maury Maverick
+United States,Q6830164,"Michael F. Flaherty, Sr.",child,Q6830166,Michael F. Flaherty
+United States,Q6834757,Michael Flynn,child,Q28167112,Michael G. Flynn
+United States,Q6846591,Mike Donilon,father,Q106150010,Edward T. Donilon
+United States,Q6846591,Mike Donilon,sibling,Q618727,Thomas E. Donilon
+United States,Q69319,John Kasich,father,Q20177175,John Kasich
+United States,Q69319,John Kasich,mother,Q22952512,Anne Kasich
+United States,Q69319,John Kasich,spouse,Q20176678,Karen Kasich
+United States,Q69319,John Kasich,spouse,Q20185706,Mary Lee Griffith
+United States,Q6962863,Nancy Munoz,spouse,Q5387150,Eric Munoz
+United States,Q6968251,Natalie Tennant,spouse,Q5388905,Erik Wells
+United States,Q7030302,Nicolle Wallace,spouse,Q6770199,Mark Wallace
+United States,Q705472,Jim Gilmore,father,Q20177383,"James Stuart Gilmore, Jr."
+United States,Q705472,Jim Gilmore,spouse,Q20177004,Roxane Gatling Gilmore
+United States,Q705961,Jim Doyle,father,Q14589955,James Edward Doyle
+United States,Q705961,Jim Doyle,mother,Q7382881,Ruth Bachhuber Doyle
+United States,Q708125,John Lynch,spouse,Q7648127,Susan Lynch
+United States,Q710721,William Cohen,spouse,Q6153447,Janet Langhart
+United States,Q71332844,Julia Nesheiwat,sibling,Q2267067,Jaclyn Stapp
+United States,Q714516,Brian Sandoval,spouse,Q51754744,Kathleen Teipner Sandoval
+United States,Q7147309,Patrick N. Hogan,father,Q2045555,Lawrence J. Hogan
+United States,Q7147309,Patrick N. Hogan,sibling,Q16731303,Larry Hogan
+United States,Q715156,Robert Mueller,father,Q96243181,Robert Swan Mueller Jr.
+United States,Q715156,Robert Mueller,mother,Q96243182,Alice C. Truesdale
+United States,Q7152365,Paul McHale,spouse,Q6774521,Martha Rainville
+United States,Q715787,Bob Bennett,child,Q40057201,Jim Bennett
+United States,Q715787,Bob Bennett,father,Q925211,Wallace F. Bennett
+United States,Q7172285,Pete Suazo,spouse,Q4726305,Alicia Suazo
+United States,Q71723561,Kent Logsdon,spouse,Q71723466,Michelle Logsdon
+United States,Q7173106,Pete Buttigieg,father,Q61050162,Joseph Buttigieg
+United States,Q7173106,Pete Buttigieg,mother,Q63147432,Jennifer Anne Montgomery
+United States,Q7173106,Pete Buttigieg,spouse,Q63258426,Chasten Buttigieg
+United States,Q7176731,Peter S. Brunstetter,child,Q61968664,Bekah Brunstetter
+United States,Q719941,Raymond T. Odierno,spouse,Q108864840,Linda Burkarth
+United States,Q720121,Asa Hutchinson,sibling,Q454439,Tim Hutchinson
+United States,Q721871,Jim Risch,spouse,Q7925439,Vicki Risch
+United States,Q723295,Ben Cardin,father,Q6826410,Meyer Cardin
+United States,Q723295,Ben Cardin,relative,Q16207382,Jon S. Cardin
+United States,Q723917,William Barr,father,Q5294012,Donald Barr
+United States,Q730580,Peter R. Orszag,father,Q2347632,Steven Orszag
+United States,Q730580,Peter R. Orszag,sibling,Q6274072,Jonathan Orszag
+United States,Q730580,Peter R. Orszag,spouse,Q4902540,Bianna Golodryga
+United States,Q731783,Paul Wellstone,child,Q24054807,Marcia Wellstone Markuson
+United States,Q731783,Paul Wellstone,spouse,Q13562386,Sheila Wellstone
+United States,Q7320554,Rhine McLin,father,Q5006564,C. J. McLin
+United States,Q7331626,Rick Outman,child,Q105981951,Pat Outman
+United States,Q7332181,Ricardo Rosselló,father,Q1147285,Pedro Rosselló
+United States,Q7332181,Ricardo Rosselló,spouse,Q30238575,Beatriz Areizaga
+United States,Q7351940,Roberto Vigoreaux,father,Q6701194,Luis Vigoreaux
+United States,Q7351940,Roberto Vigoreaux,sibling,Q16150757,Luisito Vigoreaux
+United States,Q7356240,Rod J. Rosenstein,sibling,Q88978852,Nancy E. Messonnier
+United States,Q7356240,Rod J. Rosenstein,spouse,Q29986686,Lisa Barsoomian
+United States,Q7364343,Ron Ryckman,child,Q20711148,"Ron Ryckman, Jr."
+United States,Q7369525,Ross Miller,father,Q733724,Bob Miller
+United States,Q7372694,Roy Cooper,spouse,Q56192167,Kristin Cooper
+United States,Q737493,Dirk Kempthorne,spouse,Q7145668,Patricia Kempthorne
+United States,Q7384032,Ryan Dvorak,father,Q107178183,Michael Dvorak
+United States,Q7384672,Ryan Zinke,child,Q42409564,Wolf Zinke
+United States,Q74046740,Ragen Hatcher,father,Q7325826,Richard G. Hatcher
+United States,Q740636,Jerry Weller,spouse,Q1846075,Zury Ríos
+United States,Q7416551,Sandra Bolden Cunningham,spouse,Q5568745,Glenn Cunningham
+United States,Q7595813,Stacey Abrams,sibling,Q105967290,Jeanine Abrams McLean
+United States,Q7595813,Stacey Abrams,sibling,Q16146049,Leslie Joyce Abrams
+United States,Q7595813,Stacey Abrams,sibling,Q55642881,Andrea Abrams
+United States,Q76,Barack Obama,child,Q15070044,Malia Obama
+United States,Q76,Barack Obama,child,Q15070048,Sasha Obama
+United States,Q76,Barack Obama,father,Q649593,Barack Obama Sr.
+United States,Q76,Barack Obama,mother,Q766106,Ann Dunham
+United States,Q76,Barack Obama,relative,Q2856335,Stanley Armour Dunham
+United States,Q76,Barack Obama,relative,Q4115068,Lolo Soetoro
+United States,Q76,Barack Obama,sibling,Q15982167,Malik Obama
+United States,Q76,Barack Obama,sibling,Q15982189,Mark Okoth Obama Ndesandjo
+United States,Q76,Barack Obama,sibling,Q15982309,David Ndesandjo
+United States,Q76,Barack Obama,sibling,Q15982321,Abo Obama
+United States,Q76,Barack Obama,sibling,Q15982322,Bernard Obama
+United States,Q76,Barack Obama,sibling,Q15982326,George Hussein Onyango Obama
+United States,Q76,Barack Obama,sibling,Q4382677,Maya Soetoro-Ng
+United States,Q76,Barack Obama,sibling,Q773197,Auma Obama
+United States,Q76,Barack Obama,spouse,Q13133,Michelle Obama
+United States,Q76,Barack Obama,stepparent,Q4115068,Lolo Soetoro
+United States,Q76570207,Kelly Loeffler,spouse,Q6175884,Jeffrey Sprecher
+United States,Q767270,Mario Díaz-Balart,sibling,Q1326874,Lincoln Diaz-Balart
+United States,Q767270,Mario Díaz-Balart,sibling,Q9013810,José Díaz-Balart
+United States,Q7693450,Ted Lieu,spouse,Q35541871,Betty Lieu
+United States,Q7787733,Thomas Bolling Robertson,mother,Q100230936,Ann Mary Cleveland Robertson
+United States,Q7791445,"Thomas Kean, Jr.",father,Q436412,Thomas Kean
+United States,Q7792929,Thomas P. Giblin,father,Q22959237,John J. Giblin
+United States,Q7799280,"Thurgood Marshall, Jr.",father,Q312348,Thurgood Marshell
+United States,Q7799280,"Thurgood Marshall, Jr.",mother,Q52274563,Cecilia Suyat Marshall
+United States,Q7799280,"Thurgood Marshall, Jr.",sibling,Q16732037,John W. Marshall
+United States,Q7800620,Tick Segerblom,father,Q105830456,Cliff Segerblom
+United States,Q7800620,Tick Segerblom,mother,Q5531443,Gene Segerblom
+United States,Q780398,Bob Wise,spouse,Q7416569,Sandra Casber Wise
+United States,Q7821917,Antony Blinken,father,Q84323643,Donald M. Blinken
+United States,Q7821917,Antony Blinken,spouse,Q5415533,Evan Ryan
+United States,Q7821917,Antony Blinken,stepparent,Q2729586,Samuel Pisar
+United States,Q7821974,Anthony M. Bucco,father,Q4772169,Anthony Bucco
+United States,Q7909083,Val Demings,spouse,Q19663662,Jerry Demings
+United States,Q7911287,Valerie Huttle,father,Q62476286,Anthony P. Vainieri
+United States,Q7914718,Vanessa Summers,father,Q63465047,Joseph W. Summers
+United States,Q7926996,Victoria Reggie Kennedy,father,Q5339770,Edmund Reggie
+United States,Q7926996,Victoria Reggie Kennedy,relative,Q2383370,Kara Kennedy
+United States,Q7926996,Victoria Reggie Kennedy,relative,Q3048622,Edward M. Kennedy Jr.
+United States,Q7926996,Victoria Reggie Kennedy,relative,Q948920,Patrick J. Kennedy
+United States,Q7926996,Victoria Reggie Kennedy,spouse,Q134549,Ted Kennedy
+United States,Q7926996,Victoria Reggie Kennedy,spouse,Q96079331,Grier Raclin
+United States,Q7931849,Vincent Hughes,spouse,Q457180,Sheryl Lee Ralph
+United States,Q7974690,"Watkins Abbitt, Jr.",father,Q2552662,Watkins Moorman Abbitt
+United States,Q8000233,Wilbur Ross,spouse,Q4898310,Betsy McCaughey
+United States,Q8000233,Wilbur Ross,spouse,Q63286186,Hilary Geary Ross
+United States,Q8014209,William L. Saltonstall,father,Q880369,Leverett Saltonstall
+United States,Q8014849,Bill Bulger,sibling,Q557801,Whitey Bulger
+United States,Q8017213,William R. Haine,spouse,Q107121451,Anna Haine
+United States,Q816459,Ben Carson,child,Q22575806,Rhoeyce Carson
+United States,Q816459,Ben Carson,child,Q22575807,Murray Carson
+United States,Q816459,Ben Carson,child,Q22575808,Ben Carson Jr.
+United States,Q816459,Ben Carson,father,Q20155412,Robert Solomon Carson
+United States,Q816459,Ben Carson,mother,Q22952518,Sonya Carson
+United States,Q816459,Ben Carson,spouse,Q20177023,Candy Carson
+United States,Q816460,Ben Chandler,father,Q105831049,"Albert Benjamin Chandler, Jr."
+United States,Q816587,Ben Quayle,father,Q49214,Dan Quayle
+United States,Q816587,Ben Quayle,mother,Q442258,Marilyn Quayle
+United States,Q862186,Bill Haslam,father,Q6195484,Jim Haslam
+United States,Q862186,Bill Haslam,mother,Q107547780,Cynthia Deming Haslam
+United States,Q862186,Bill Haslam,sibling,Q6200312,Jimmy Haslam
+United States,Q862455,Bill Shuster,father,Q3646340,Bud Shuster
+United States,Q878739,Bruce Babbitt,spouse,Q16113963,Harriet C. Babbitt
+United States,Q879432,Mike Leavitt,father,Q17198291,Dixie L. Leavitt
+United States,Q879432,Mike Leavitt,sibling,Q5238166,David O. Leavitt
+United States,Q880166,Richard Codey,spouse,Q6779924,Mary Jo Codey
+United States,Q881141,Matt Blunt,father,Q1525924,Roy Blunt
+United States,Q881196,Paul LePage,spouse,Q30016751,Ann DeRosby
+United States,Q88229559,Cynthia Neeley,spouse,Q73704540,Sheldon Neeley
+United States,Q885559,Richard Bryan,spouse,Q107158106,Bonnie Bryan
+United States,Q885583,Chuck Robb,child,Q105243067,Lucinda Robb
+United States,Q885583,Chuck Robb,child,Q105243069,Catherine Robb
+United States,Q885583,Chuck Robb,child,Q105243070,Jennifer Robb
+United States,Q885583,Chuck Robb,spouse,Q6708532,Lynda Bird Johnson Robb
+United States,Q887102,Ed Schafer,father,Q5662310,Harold Schafer
+United States,Q887111,Rick Snyder,father,Q96963503,Dale F. Snyder
+United States,Q887111,Rick Snyder,mother,Q96963518,Helen Louella
+United States,Q887327,George Ryan,spouse,Q16019206,Lura Lynn Ryan
+United States,Q887553,Kirk Fordice,spouse,Q16017757,Pat Fordice
+United States,Q887841,Bob Casey Jr.,father,Q477577,Robert P. Casey
+United States,Q888007,Bob Ehrlich,father,Q20177406,Robert Leroy Ehrlich
+United States,Q888007,Bob Ehrlich,spouse,Q6388968,Kendel Ehrlich
+United States,Q888132,Robert Menendez,child,Q4726284,Alicia Menendez
+United States,Q888281,Bob Taft,father,Q1614966,"Robert Taft, Jr."
+United States,Q888443,Eddie Calvo,father,Q3105417,Paul McDonald Calvo
+United States,Q91139146,Shannon Pinto,relative,Q6252948,John Pinto
+United States,Q934898,Elijah Cummings,spouse,Q16975742,Maya Rockeymoore
+United States,Q935734,Jared Polis,father,Q60999497,Stephen Schutz
+United States,Q935734,Jared Polis,mother,Q7648292,Susan Polis Schutz
+United States,Q935734,Jared Polis,spouse,Q96318776,Marlon Reis
+United States,Q93659115,Jane Kidd,father,Q885578,Ernest Vandiver
+United States,Q93659115,Jane Kidd,relative,Q718415,Richard Russell
+United States,Q939760,Benigno Fitial,spouse,Q6290747,Josie Fitial
+United States,Q946591,Jim Matheson,father,Q889109,Scott M. Matheson
+United States,Q946591,Jim Matheson,sibling,Q7436779,"Scott Matheson, Jr."
+United States,Q94851188,Alexis Hansen,spouse,Q6066080,Ira Hansen
+United States,Q948920,Patrick J. Kennedy,father,Q134549,Ted Kennedy
+United States,Q948920,Patrick J. Kennedy,mother,Q441424,Joan Bennett Kennedy
+United States,Q948920,Patrick J. Kennedy,sibling,Q2383370,Kara Kennedy
+United States,Q948920,Patrick J. Kennedy,sibling,Q3048622,Edward M. Kennedy Jr.
+United States,Q953554,Peter King,father,Q20177425,Peter E. King
+United States,Q953554,Peter King,spouse,Q20177036,Rosemary Wiedl King
+United States,Q957690,Tom Udall,father,Q1347844,Stewart Udall
+United States,Q957690,Tom Udall,relative,Q1941315,Mo Udall
+United States,Q957690,Tom Udall,relative,Q631195,Mark Udall
+United States,Q959455,William Lacy Clay,father,Q548122,Bill Clay
+United States,Q96054905,Teresa Leger Fernandez,father,Q96012607,Ray Leger
+United States,Q96065500,Melissa Hardy,father,Q18390512,"Melvin D. Close, Jr."
+United States,Q96077897,Frank J. Mrvan,father,Q5488569,Frank Mrvan
+United States,Q96419165,Peter Meijer,father,Q18763618,Hank Meijer
+United States,Q969776,Tom Petri,spouse,Q4768254,Anne D. Neal
+United States,Q970720,Julián Castro,mother,Q25353403,Rosie Castro
+United States,Q970720,Julián Castro,sibling,Q1167934,Joaquín Castro
+United States,Q971943,Sander Levin,child,Q4760938,Andy Levin
+United States,Q971943,Sander Levin,sibling,Q444652,Carl Levin
+United States,Q973774,Connie Mack IV,father,Q436535,Connie Mack III
+United States,Q981167,Chris Smith,spouse,Q99932030,Marie Smith
+United States,Q981424,Scott Garrett,spouse,Q13562301,Susan Garrett
+United States,Q98380406,Marjorie Taylor Greene,spouse,Q105304956,Perry Greene
+United States,Q984509,John Sarbanes,father,Q1895804,Paul Sarbanes
+United States,Q99640581,Sandra Oudkirk,spouse,Q107462961,Scott Oudkirk

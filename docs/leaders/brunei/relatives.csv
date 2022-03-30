@@ -1,0 +1,27 @@
+catalog,id,name,relationship,relative,relativename
+Brunei,Q431442,Crown Prince Al-Muhtadee Billah of Brunei,child,Q4665575,Abdul Muntaqim
+Brunei,Q431442,Crown Prince Al-Muhtadee Billah of Brunei,father,Q57327,Hassanal Bolkiah
+Brunei,Q431442,Crown Prince Al-Muhtadee Billah of Brunei,mother,Q468528,Queen Saleha of Brunei
+Brunei,Q431442,Crown Prince Al-Muhtadee Billah of Brunei,sibling,Q19840595,Prince Malik
+Brunei,Q431442,Crown Prince Al-Muhtadee Billah of Brunei,sibling,Q47544939,Princess Rashidah Sa'adatul Bolkiah
+Brunei,Q431442,Crown Prince Al-Muhtadee Billah of Brunei,sibling,Q7243829,Prince Azim
+Brunei,Q431442,Crown Prince Al-Muhtadee Billah of Brunei,spouse,Q468617,Pengiran Anak Sarah
+Brunei,Q57327,Hassanal Bolkiah,child,Q16234007,Mateen Bolkiah
+Brunei,Q57327,Hassanal Bolkiah,child,Q19840595,Prince Malik
+Brunei,Q57327,Hassanal Bolkiah,child,Q4264827,Majeedah Bolkiah
+Brunei,Q57327,Hassanal Bolkiah,child,Q431442,Crown Prince Al-Muhtadee Billah of Brunei
+Brunei,Q57327,Hassanal Bolkiah,child,Q47544939,Princess Rashidah Sa'adatul Bolkiah
+Brunei,Q57327,Hassanal Bolkiah,child,Q47544946,Princess Fadzilah Lubabul Bolkiah
+Brunei,Q57327,Hassanal Bolkiah,child,Q7243829,Prince Azim
+Brunei,Q57327,Hassanal Bolkiah,father,Q40512,Omar Ali Saifuddien III of Brunei
+Brunei,Q57327,Hassanal Bolkiah,mother,Q42298769,Pengiran Anak Damit
+Brunei,Q57327,Hassanal Bolkiah,sibling,Q58233,Prince Mohamed Bolkiah
+Brunei,Q57327,Hassanal Bolkiah,sibling,Q6176403,Prince Jefri Bolkiah
+Brunei,Q57327,Hassanal Bolkiah,sibling,Q6783481,Masna Bolkiah
+Brunei,Q57327,Hassanal Bolkiah,spouse,Q110375702,Mariam binti Abdul Aziz
+Brunei,Q57327,Hassanal Bolkiah,spouse,Q468528,Queen Saleha of Brunei
+Brunei,Q57327,Hassanal Bolkiah,spouse,Q4808975,Azrinaz Mazhar Hakim
+Brunei,Q58233,Prince Mohamed Bolkiah,father,Q40512,Omar Ali Saifuddien III of Brunei
+Brunei,Q58233,Prince Mohamed Bolkiah,sibling,Q57327,Hassanal Bolkiah
+Brunei,Q58233,Prince Mohamed Bolkiah,sibling,Q6176403,Prince Jefri Bolkiah
+Brunei,Q58233,Prince Mohamed Bolkiah,sibling,Q6783481,Masna Bolkiah
