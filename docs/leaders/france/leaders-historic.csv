@@ -57,7 +57,7 @@ France,Minister of Culture,Françoise Nyssen,Q29962565,2017-06-21,2018-10-16,fem
 France,Minister of Culture,Franck Riester,Q64463,2018-10-16,2020-07-03,male,1974-01-03,,Franck Riester 2019 (cropped).jpg,Franck Riester
 France,Minister of Culture,Roselyne Bachelot,Q436173,2020-07-06,,female,1946-12-24,,Roselyne Bachelot - Narquin.jpg,Roselyne Bachelot
 France,Minister of Ecological and Solidary Transition,Nicolas Hulot,Q982005,2017-05-17,2018-09-04,male,1955-04-30,,"Nicolas Hulot - Huma 2008, 6415 (cropped).jpg",Nicolas Hulot
-France,Minister of Ecological and Solidary Transition,François de Rugy,Q117340,2018-09-04,2018-07-16,male,1973-12-06,,François de Rugy 2016.jpg,François de Rugy
+France,Minister of Ecological and Solidary Transition,François de Rugy,Q117340,2018-09-04,2018-07-16,male,1973-12-06,,François de Rugy.jpg,François de Rugy
 France,Minister of Ecological and Solidary Transition,Élisabeth Borne,Q20020731,2019-07-16,2020-07-06,female,1961-04-18,,"Informal meeting of energy and transport ministers (TTE). Arrivals, transport ministers Elisabeth Borne (37190062412) (cropped).jpg",Élisabeth Borne
 France,Minister of Ecological and Solidary Transition,Barbara Pompili,Q117402,2020-07-06,,female,1975-06-13,,Barbara pompili.jpg,Barbara Pompili
 France,"Minister of the Economy, Finances and Industry",Christian Sautter,Q2965623,1999-11-02,2002-05-06,male,1940-04-09,,"Flickr - World Economic Forum - Takenaka, Turley, Sautter, Dobbs - Antonovich - Annual Meeting of the New Champions Tianjin 2008 (cropped).jpg",Christian Sautter
@@ -230,7 +230,7 @@ France,President of the National Assembly,Jean-Louis Debré,Q713235,2002-06-25,2
 France,President of the National Assembly,Patrick Ollier,Q976436,2007-03-07,2007-06-19,male,1944-12-17,,Patrick Ollier.jpg,Patrick Ollier
 France,President of the National Assembly,Bernard Accoyer,Q822237,2007-06-26,2012-06-19,male,1945-08-12,,Accoyer.jpg,Bernard Accoyer
 France,President of the National Assembly,Claude Bartolone,Q1096496,2012-06-26,2017-06-20,male,1951-07-29,,Claude Bartolone.jpg,Claude Bartolone
-France,President of the National Assembly,François de Rugy,Q117340,2017-06-27,2018-09-04,male,1973-12-06,,François de Rugy 2016.jpg,François de Rugy
+France,President of the National Assembly,François de Rugy,Q117340,2017-06-27,2018-09-04,male,1973-12-06,,François de Rugy.jpg,François de Rugy
 France,President of the National Assembly,Richard Ferrand,Q3430759,2018-09-12,,male,1962-07-01,,Richard Ferrand 2008.jpg,Richard Ferrand
 France,Government Spokesperson,Luc Chatel,Q642640,2008-03-18,2009-06-23,male,1964-08-15,,Luc Chatel par Claude Truong-Ngoc août 2015.jpg,Luc Chatel
 France,Government Spokesperson,Luc Chatel,Q642640,2009-06-23,2010-11-13,male,1964-08-15,,Luc Chatel par Claude Truong-Ngoc août 2015.jpg,Luc Chatel
@@ -576,8 +576,17 @@ France,ambassador to Kenya,Élisabeth Barbier,Q47500080,2006,2010,female,1954-09
 France,ambassador to Kenya,Étienne de Poncins,Q33103386,2010,2013,male,1964-03-06,,Етьєн де Понсен.jpg,
 France,ambassador to Kenya,Antoine Sivan,Q31192318,2016,2018,male,1958,,,
 France,ambassador to Kenya,Aline Kuster-Menager,Q33103191,2018,,female,1957-12-10,,Aline Kuster-Menager French Ambassador to Somalia (51693839212) (cropped).jpg,
-France,ambassador to Kirghizistan,Michaël Roux,Q48322112,2016-08-22,2020-10-20,male,1966-09-06,,,
-France,ambassador to Kirghizistan,François Delahousse,Q50687646,2020-10-26,,male,1965-06-25,,,
+France,ambassador to the Republic of Korea,Jean-Paul Réau,Q60886272,1997,2001,male,1941-08-24,2008-11-09,,
+France,ambassador to the Republic of Korea,Philippe Thiébaud,Q47349202,2005,2007,male,1955,,Philippe Thiébaud.jpg,
+France,ambassador to the Republic of Korea,Élisabeth Laurin,Q60879885,2009,2012,female,1952-12-07,,,Élisabeth Laurin
+France,ambassador to the Republic of Korea,Jérôme Pasquier,Q33120554,2012,2015,male,1957-04-10,,,
+France,ambassador to the Republic of Korea,Fabien Penone,Q28061777,2015-09,,male,1968-10-19,,,
+France,ambassador to the Republic of Korea,Philippe Lefort,Q54820150,2019,,male,1956-11-30,,Ilham Aliyev met with the European Union Special Representative for the South Caucasus Philippe Lefort.jpg,Philippe Lefort
+France,ambassador to the Republic of the Congo,Bertrand Cochery,Q50689802,2016-06-10,2019-09-10,male,1959-10-03,,,
+France,ambassador to Kyrgyzstan,Michaël Roux,Q48322112,2016-08-22,2020-10-20,male,1966-09-06,,,
+France,ambassador to Kyrgyzstan,François Delahousse,Q50687646,2020-10-26,,male,1965-06-25,,,
+France,ambassador to Kuwait,José Paoli,Q80719674,1975,2006-10-17,male,1924-12-16,2006-10-17,,
+France,ambassador to Kuwait,Patrice Paoli,Q33288664,1999,2002,male,1956-12-22,,,
 France,ambassador to Laos,François Sénémaud,Q31192331,2008,2012,male,1957-06-12,,,
 France,ambassador to Laos,Claudine Ledoux,Q2978491,2015,,female,1959-01-10,,Ledoux.jpg,
 France,ambassador to Latvia,Odile Soupison,Q50692328,2016-08-11,2020-05-04,female,,,Odile Soupison.jpg,
@@ -707,11 +716,11 @@ France,ambassador to Paraguay,Emmanuel Cocher,Q48038334,2020-09-11,,male,1969-04
 France,ambassador to Peru,Antoine Blanca,Q41742304,1997,2001,male,1936-06-04,2016-09-11,,
 France,ambassador to Peru,Cécile Pozzo di Borgo,Q20556667,2008,2011,female,1952-01-04,,Cécile Pozzo di Borgo.jpg,
 France,ambassador to Peru,Antoine Grassin,Q33122192,2017,,male,1955-03-08,,,
-France,"ambassador of France, Manila",Renée Veyret,Q76945059,2002,2005,female,1946-02-16,,,
-France,"ambassador of France, Manila",Gérard Chesnel,Q51845672,2005,2008,male,1946-04-01,,,
-France,"ambassador of France, Manila",Gilles Garachon,Q33117389,2012,2015,male,1955-03-11,,,
-France,"ambassador of France, Manila",Thierry Mathou,Q33109300,2015-09-09,2017-07-30,male,1963,,Thierry Mathou.jpg,
-France,"ambassador of France, Manila",Nicolas Galey,Q8325152,2017,2020,male,1960-11-18,,,
+France,ambassador to the Phillipines,Renée Veyret,Q76945059,2002,2005,female,1946-02-16,,,
+France,ambassador to the Phillipines,Gérard Chesnel,Q51845672,2005,2008,male,1946-04-01,,,
+France,ambassador to the Phillipines,Gilles Garachon,Q33117389,2012,2015,male,1955-03-11,,,
+France,ambassador to the Phillipines,Thierry Mathou,Q33109300,2015-09-09,2017-07-30,male,1963,,Thierry Mathou.jpg,
+France,ambassador to the Phillipines,Nicolas Galey,Q8325152,2017,2020,male,1960-11-18,,,
 France,ambassador to Poland,Patrick Gautrat,Q33283620,2001,2004,male,1944-03-21,,,
 France,ambassador to Poland,Pierre Ménat,Q3386399,2004,2007,male,1950-08-12,,Pierre Ménat.jpg,
 France,ambassador to Poland,François Barry Martin-Delongchamps,Q3083902,2007,2012,male,1949-03-27,,,
@@ -856,6 +865,25 @@ France,ambassador to Ukraine,Jacques Faure,Q12104301,2008,2011,male,1947-01-31,,
 France,ambassador to Ukraine,Alain Rémy,Q12077699,2011,2015,male,1952-11-11,,"Alain Rémy, 2 octobre 2017.jpg",
 France,ambassador to Ukraine,Isabelle Dumont,Q21706681,2015,2019,female,1975-11-09,,Isabelle Dumont.jpg,
 France,ambassador to Ukraine,Étienne de Poncins,Q33103386,2019-09,,male,1964-03-06,,Етьєн де Понсен.jpg,
+France,ambassador to the United Arab Emirates,Jean-François Thibault,Q55443850,1997,2001,male,,,,
+France,ambassador to the United Arab Emirates,François Gouyette,Q3084753,2001-05-16,2005-08-26,male,1956-06-17,,,
+France,ambassador to the United Arab Emirates,Patrice Paoli,Q33288664,2005,2008,male,1956-12-22,,,
+France,ambassador to the United Arab Emirates,Alain Azouaou,Q33104141,2008,2013,male,1952-09-02,,,
+France,ambassador to the United Arab Emirates,Michel Miraillet,Q33153081,2013,2017,male,1960-04-10,,"SnT2013 Closing Session - Friday, 21 June (9133586361).jpg",
+France,ambassador to the United Arab Emirates,Ludovic Pouille,Q50690868,2017-04-20,2020-09-13,male,1971-06-22,,,
+France,ambassador to the United Arab Emirates,Xavier Chatel,Q48040363,2020-09-10,,male,,,,
+France,ambassador to the United Kingdom,Daniel Bernard,Q5216554,1998,2002,male,1941-09-13,2004-04-29,,Daniel Bernard (diplomat)
+France,ambassador to the United Kingdom,Gerard Errera,Q5549989,2002,2007,male,1943-10-30,,Gerard ERRERA.jpg,Gérard Errera
+France,ambassador to the United Kingdom,Maurice Gourdault-Montagne,Q16001,2007,2011,male,1953-11-16,,Gedenkfeier Charles de Gaulles Besuch in Köln vor 50 Jahren-9225.jpg,Maurice Gourdault-Montagne
+France,ambassador to the United Kingdom,Bernard Émié,Q1236962,2011,2014,male,1958-09-06,,Bernard Emié 19 March 2013.jpg,Bernard Émié
+France,ambassador to the United Kingdom,Sylvie Bermann,Q17174774,2014,2017,female,1953-10-19,,Sylvie Bermann.JPG,Sylvie Bermann
+France,ambassador to the United Kingdom,Jean-Pierre Jouyet,Q324187,2017-09-11,,male,1954-02-13,,M JOUYET 08 AMF 2009.JPG,Jean-Pierre Jouyet
+France,ambassador to the United States,François Bujon de l'Estang,Q3084135,1995,2002,male,1940-08-21,,Bujon.jpg,François Bujon de l'Estang
+France,ambassador to the United States,Jean-David Levitte,Q3165316,2002,2007,male,1946-06-14,,Jean-David Levitte.jpg,Jean-David Levitte
+France,ambassador to the United States,Pierre Vimont,Q504156,2007,2010,male,1949-06-15,,Pierre Vimont par Claude Truong-Ngoc avril 2014.jpg,Pierre Vimont
+France,ambassador to the United States,François Delattre,Q4157031,2011,2014,male,1963-11-15,,"Francois Delattre, Permanent Representative of France to the UN (35763006325).jpg",François Delattre
+France,ambassador to the United States,Gérard Araud,Q1558943,2014,2019,male,1953-02-20,,Gérard Araud 2011 (cropped).jpg,Gérard Araud
+France,ambassador to the United States,Philippe Étienne,Q3381035,2019,,male,1955-12-24,,Philippe Étienne 2020 (cropped).jpg,Philippe Étienne
 France,ambassador to Uzbekistan,Hugues Pernet,Q12172879,2007,2010,male,1950-09-15,,,
 France,ambassador to Uzbekistan,François Gauthier,Q54322960,2010,2013,male,1953-10-01,,,
 France,ambassador to Uzbekistan,Jacques-Henry Heuls,Q33102703,2013,2016,male,1960-07-22,,,
@@ -898,32 +926,6 @@ France,Permanent Representative to the United Nations,Jean-Maurice Ripert,Q31679
 France,Permanent Representative to the United Nations,Gérard Araud,Q1558943,2009-07-15,2014,male,1953-02-20,,Gérard Araud 2011 (cropped).jpg,Gérard Araud
 France,Permanent Representative to the United Nations,François Delattre,Q4157031,2014-07,2019,male,1963-11-15,,"Francois Delattre, Permanent Representative of France to the UN (35763006325).jpg",François Delattre
 France,Permanent Representative to the United Nations,Nicolas de Rivière,Q65386852,2019-07-08,,male,1963-09-26,,813889-aecf5 (cropped).jpg,Nicolas de Rivière
-France,ambassador in the Republic of Korea,Jean-Paul Réau,Q60886272,1997,2001,male,1941-08-24,2008-11-09,,
-France,ambassador in the Republic of Korea,Philippe Thiébaud,Q47349202,2005,2007,male,1955,,Philippe Thiébaud.jpg,
-France,ambassador in the Republic of Korea,Élisabeth Laurin,Q60879885,2009,2012,female,1952-12-07,,,Élisabeth Laurin
-France,ambassador in the Republic of Korea,Jérôme Pasquier,Q33120554,2012,2015,male,1957-04-10,,,
-France,ambassador in the Republic of Korea,Fabien Penone,Q28061777,2015-09,,male,1968-10-19,,,
-France,ambassador in the Republic of Korea,Philippe Lefort,Q54820150,2019,,male,1956-11-30,,Ilham Aliyev met with the European Union Special Representative for the South Caucasus Philippe Lefort.jpg,Philippe Lefort
-France,ambassador to the Republic of the Congo,Bertrand Cochery,Q50689802,2016-06-10,2019-09-10,male,1959-10-03,,,
-France,ambassador to the United Arab Emirates,Jean-François Thibault,Q55443850,1997,2001,male,,,,
-France,ambassador to the United Arab Emirates,François Gouyette,Q3084753,2001-05-16,2005-08-26,male,1956-06-17,,,
-France,ambassador to the United Arab Emirates,Patrice Paoli,Q33288664,2005,2008,male,1956-12-22,,,
-France,ambassador to the United Arab Emirates,Alain Azouaou,Q33104141,2008,2013,male,1952-09-02,,,
-France,ambassador to the United Arab Emirates,Michel Miraillet,Q33153081,2013,2017,male,1960-04-10,,"SnT2013 Closing Session - Friday, 21 June (9133586361).jpg",
-France,ambassador to the United Arab Emirates,Ludovic Pouille,Q50690868,2017-04-20,2020-09-13,male,1971-06-22,,,
-France,ambassador to the United Arab Emirates,Xavier Chatel,Q48040363,2020-09-10,,male,,,,
-France,ambassador to the United Kingdom,Daniel Bernard,Q5216554,1998,2002,male,1941-09-13,2004-04-29,,Daniel Bernard (diplomat)
-France,ambassador to the United Kingdom,Gerard Errera,Q5549989,2002,2007,male,1943-10-30,,Gerard ERRERA.jpg,Gérard Errera
-France,ambassador to the United Kingdom,Maurice Gourdault-Montagne,Q16001,2007,2011,male,1953-11-16,,Gedenkfeier Charles de Gaulles Besuch in Köln vor 50 Jahren-9225.jpg,Maurice Gourdault-Montagne
-France,ambassador to the United Kingdom,Bernard Émié,Q1236962,2011,2014,male,1958-09-06,,Bernard Emié 19 March 2013.jpg,Bernard Émié
-France,ambassador to the United Kingdom,Sylvie Bermann,Q17174774,2014,2017,female,1953-10-19,,Sylvie Bermann.JPG,Sylvie Bermann
-France,ambassador to the United Kingdom,Jean-Pierre Jouyet,Q324187,2017-09-11,,male,1954-02-13,,M JOUYET 08 AMF 2009.JPG,Jean-Pierre Jouyet
-France,ambassador to the United States,François Bujon de l'Estang,Q3084135,1995,2002,male,1940-08-21,,Bujon.jpg,François Bujon de l'Estang
-France,ambassador to the United States,Jean-David Levitte,Q3165316,2002,2007,male,1946-06-14,,Jean-David Levitte.jpg,Jean-David Levitte
-France,ambassador to the United States,Pierre Vimont,Q504156,2007,2010,male,1949-06-15,,Pierre Vimont par Claude Truong-Ngoc avril 2014.jpg,Pierre Vimont
-France,ambassador to the United States,François Delattre,Q4157031,2011,2014,male,1963-11-15,,"Francois Delattre, Permanent Representative of France to the UN (35763006325).jpg",François Delattre
-France,ambassador to the United States,Gérard Araud,Q1558943,2014,2019,male,1953-02-20,,Gérard Araud 2011 (cropped).jpg,Gérard Araud
-France,ambassador to the United States,Philippe Étienne,Q3381035,2019,,male,1955-12-24,,Philippe Étienne 2020 (cropped).jpg,Philippe Étienne
 France,ambassador of France,Jean-François Fitou,Q55618711,2009,2012,male,1958-11-29,,,
 France,ambassador of France,Michel Rocard,Q12946,2009-03-18,2016-07-02,male,1930-08-23,2016-07-02,Michel Rocard16.JPG,Michel Rocard
 France,ambassador of France,Olivier Vaysset,Q76505976,2011,2013,male,1951-04-22,,,
