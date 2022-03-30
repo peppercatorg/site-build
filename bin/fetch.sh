@@ -59,8 +59,18 @@ qsv search -s repo ^$repo repos.csv |
   qsv fill catalog |
   ifne tee $dir/legislators-historic.csv
 
+curl -L -o $TMPFILE $rca
+qsv search -s repo ^$repo repos.csv |
+  qsv select country |
+  qsv rename catalog |
+  qsv cat -p columns $TMPFILE - |
+  qsv select 6,1-5 |
+  qsv fill catalog |
+  ifne tee $dir/relatives.csv
+
 erb country="$name" countrydir=$dir src=$srce -r csv -T- template/index.erb > $dir/index.html
 
 qsv cat rows docs/leaders/**/current.csv > everywhere-current.csv
 qsv cat rows docs/leaders/**/leaders-historic.csv > everywhere-leaders.csv
 qsv cat rows docs/leaders/**/legislators-historic.csv > everywhere-legislators.csv
+qsv cat rows docs/leaders/**/relatives.csv | qsv search -s relative Q > everywhere-rca.csv
