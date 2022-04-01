@@ -19,6 +19,6 @@ qsv rename -n "country,leaders,historic,legislators,unique" $TMPFILE | tee stats
 leaders=$(qsv cat rows **/current.csv | qsv select personID | qsv dedup | qsv search Q | qsv count)
 histlead=$(qsv cat rows **/leaders-historic.csv | qsv select personID | qsv dedup | qsv search Q | qsv count)
 histleg=$(qsv cat rows **/legislators-historic.csv | qsv select personID | qsv dedup | qsv search Q | qsv count)
-uniqppl=$((for f in everywhere-*.csv; do; qsv select personID $f; done) | qsv sort | qsv dedup | qsv search Q | qsv count)
+uniqppl=$((for f in everywhere-*s.csv; do; qsv select personID $f; done) | qsv sort | qsv dedup | qsv search Q | qsv count)
 
 echo "TOTAL",$leaders,$histlead,$histleg,$uniqppl | sed -e 's/ //g' >> stats.csv
