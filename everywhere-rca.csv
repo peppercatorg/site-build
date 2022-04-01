@@ -9892,6 +9892,7 @@ Portugal,Q106990158,Cristóvão Norte,father,Q66689711,Cristóvão Guerreiro Nor
 Portugal,Q107019540,Filipa Roseta,father,Q10347591,Pedro Manuel da Cruz Roseta
 Portugal,Q107019540,Filipa Roseta,mother,Q10294464,Helena Roseta
 Portugal,Q107122950,Maria Antónia de Almeida Santos,father,Q611579,António de Almeida Santos
+Portugal,Q111435569,Pedro Adão e Silva,relative,Q21290097,Armando Adão e Silva
 Portugal,Q1340708,João Soares,father,Q156781,Mário Soares
 Portugal,Q1340708,João Soares,mother,Q75062,Maria Barroso
 Portugal,Q156780,Jorge Sampaio,spouse,Q82322,Maria José Ritta
@@ -9901,6 +9902,7 @@ Portugal,Q17496474,Mariana Mortágua,father,Q97303328,Camilo Mortágua
 Portugal,Q19409554,Isabel Moreira,father,Q4685594,Adriano Moreira
 Portugal,Q22252746,Maria Manuel Leitão Marques,spouse,Q446042,Vital Moreira
 Portugal,Q23905015,Joana Mortágua,father,Q97303328,Camilo Mortágua
+Portugal,Q25336913,Catarina Sarmento e Castro,father,Q24286982,Osvaldo de Castro
 Portugal,Q2571494,Carlos César,child,Q85872071,Francisco Vale César
 Portugal,Q260092,Inês de Medeiros,father,Q611486,António Victorino de Almeida
 Portugal,Q260092,Inês de Medeiros,sibling,Q235115,Maria de Medeiros
@@ -9928,6 +9930,8 @@ Portugal,Q611579,António de Almeida Santos,child,Q107122950,Maria Antónia de A
 Portugal,Q6205661,Joana Amaral Dias,father,Q9696852,Carlos Amaral Dias
 Portugal,Q6756617,Marcelo Rebelo de Sousa,father,Q4852623,Baltasar Rebelo de Sousa
 Portugal,Q6756617,Marcelo Rebelo de Sousa,mother,Q83277701,Maria das Neves Rebelo de Sousa
+Portugal,Q925136,Eduardo Ferro Rodrigues,child,Q10363031,Rita Ferro Rodrigues
+Portugal,Q925136,Eduardo Ferro Rodrigues,spouse,Q111448806,Maria Filomena Lopes Peixoto de Aguilar
 Qatar,Q1855372,Tamim bin Hamad Al Thani,father,Q57360,Hamad bin Khalifa Al Thani
 Qatar,Q1855372,Tamim bin Hamad Al Thani,mother,Q238774,Moza bint Nasser Al Missned
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q14946739,Maha bint Hamad bin Khalifa Al Thani
