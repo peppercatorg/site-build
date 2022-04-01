@@ -43,9 +43,11 @@ Brazil,Senator,Joaquim Roriz,Q2384480,2007-02-01,2007-07-05,male,1936-08-04,2018
 Brazil,Senator,Francisco Dornelles,Q8962336,2007-02-01,2015-01-01,male,1935-01-07,,Dornelles01022207.jpg,Francisco Dornelles
 Brazil,Senator,Vanessa Grazziotin,Q7914656,2011-01-01,2019-01-31,female,1961-06-29,,CAS - Comissão de Assuntos Sociais Senadora Vanessa Grazziotin (14524491729).jpg,Vanessa Grazziotin
 Brazil,Senator,Itamar Franco,Q485946,2011-02-01,2011-07-02,male,1930-06-28,2011-07-02,Itamar Franco.jpg,Itamar Franco
+Brazil,Senator,Wellington Dias,Q7981381,2011-02-01,2015-01-01,male,1962-03-05,,Wdias2006.jpg,Wellington Dias
 Brazil,Senator,Blairo Maggi,Q881193,2011-02-01,2016-05-12,male,1956-05-29,,Blairo Maggi June 2003.jpg,Blairo Maggi
 Brazil,Senator,Kaká Andrade,Q93659192,2014-07-24,2014-11-22,male,1960-07-03,,CRE - Comissão de Relações Exteriores e Defesa Nacional (40424130051).jpg,
 Brazil,Senator,Antônio Anastasia,Q4777647,2015,2019-01-31,male,1961-05-09,,Foto oficial de Antonio Anastasia.jpg,Antônio Anastasia
+Brazil,Senator,Regina Sousa,Q20046132,2015-01-01,2018-12-14,female,1950-07-04,,Foto oficial de Regina Sousa.jpg,Regina Sousa
 Brazil,Senator,Dário Berger,Q10269227,2015-02-01,2019-01-31,male,1956-12-07,,Foto oficial de Dário Berger.jpg,Dário Berger
 Brazil,Senator,Edison Lobão,Q10270312,2015-02-01,2019-01-31,male,1936-12-05,,Foto oficial senador Edson Lobão.jpg,Edison Lobão
 Brazil,Senator,Eduardo Amorim,Q10270611,2015-02-01,2019-01-31,male,1963-05-17,,Foto oficial de Eduardo Amorim.jpg,Eduardo Amorim (politician)
@@ -175,6 +177,7 @@ Brazil,Federal deputy,Sarney Filho,Q9074685,1983-03-15,2016-05-12,male,1957-06-1
 Brazil,Federal deputy,Elizabete Azize,Q16337407,1987,,female,1940-01-11,,,
 Brazil,Federal deputy,Francisco Dornelles,Q8962336,1987-02-01,2007-02-01,male,1935-01-07,,Dornelles01022207.jpg,Francisco Dornelles
 Brazil,Federal deputy,Antonio Palocci,Q603993,1999-02-01,2001-01-01,male,1960-10-04,,Antonio Palloci.jpg,Antonio Palocci
+Brazil,Federal deputy,Wellington Dias,Q7981381,1999-02-01,2002-11-29,male,1962-03-05,,Wdias2006.jpg,Wellington Dias
 Brazil,Federal deputy,Lúcia Braga,Q16337792,2003,2007,female,1934-12-13,2020-05-08,Plenário do Congresso (39777958125).jpg,Lúcia Braga
 Brazil,Federal deputy,Marcelo de Oliveira Guimarães Filho,Q10325191,2003-02-01,2007-01-31,male,1976-03-01,,Marcelo de Oliveira Guimarães Filho (2011).jpg,
 Brazil,Federal deputy,Raul Jungmann,Q10357609,2003-02-01,2011-02-01,male,1952-04-03,,Raul Jungmann posse Min Seg Pública.jpg,Raul Jungmann
@@ -259,6 +262,7 @@ Brazil,Federal deputy,Luiz Gonzaga Patriota,Q10320757,2015-02-01,2019-01-31,male
 Brazil,Federal deputy,Irmão Lázaro,Q10321916,2015-02-01,2019-01-31,male,1966-11-04,2021-03-19,Cantor evangélico Lazáro.JPG,Irmão Lázaro
 Brazil,Federal deputy,Marco Feliciano,Q10325327,2015-02-01,2019-01-31,male,1972-10-12,,Marco Feliciano.jpg,Marco Feliciano
 Brazil,Federal deputy,Marcondes Gadelha,Q10325371,2015-02-01,2019-01-31,male,1943-07-23,,,
+Brazil,Federal deputy,Marcos Montes Cordeiro,Q10325465,2015-02-01,2019-01-31,male,1949-08-03,,Marcos Montes cropped.png,
 Brazil,Federal deputy,Marcos Soares,Q10325498,2015-02-01,2019-01-31,male,1978-05-18,,Marcos Soares em outubro de 2017.jpg,
 Brazil,Federal deputy,Marcus Pestana,Q10325542,2015-02-01,2019-01-31,male,1960-06-13,,"CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização (34733401774).jpg",
 Brazil,Federal deputy,Margarida Salomão,Q10325618,2015-02-01,2019-01-31,female,1950-06-10,,Margarida Salomão.jpg,
@@ -539,7 +543,6 @@ Brazil,Federal deputy,Ezequiel Fonseca,Q48871811,2015-02-01,2019-01-31,male,,,,
 Brazil,Federal deputy,Subtenente Gonzaga,Q48871822,2015-02-01,2019-01-31,male,1962-05-31,,"CCJ - Comissão de Constituição, Justiça e Cidadania (22700782704).jpg",
 Brazil,Federal deputy,Renato Barbosa de Andrade,Q48871826,2015-02-01,2019-01-31,male,,,,
 Brazil,Federal deputy,Toninho Pinheiro,Q48871828,2015-02-01,2019-01-31,male,,,,
-Brazil,Federal deputy,Marcos Montes,Q48871831,2015-02-01,2019-01-31,male,,,,
 Brazil,Federal deputy,Lúcio Vale,Q48871852,2015-02-01,2019-01-31,male,1972-12-27,,Lúcio Vale em julho de 2015.jpg,
 Brazil,Federal deputy,Beto Faro,Q48871854,2015-02-01,2019-01-31,male,1966,,Beto Faro em março de 2015.jpg,
 Brazil,Federal deputy,José Geraldo Torres,Q48871856,2015-02-01,2019-01-31,male,,,Zé Geraldo em novembro de 2015.jpg,
@@ -2156,6 +2159,7 @@ Brazil,federal deputy of Mato Grosso do Sul,Beto Pereira,Q59204158,2019-02-01,,m
 Brazil,federal deputy of Mato Grosso do Sul,Fábio Trad,Q59204973,2019-02-01,,male,1969-08-18,,Fábio Trad em 2013 (cropped).jpg,
 Brazil,federal deputy of Mato Grosso do Sul,Loester Trutis,Q59204976,2019-02-01,,male,1982,,Loester Trutis em 9 de julho de 2019.jpg,
 Brazil,federal deputy of Mato Grosso do Sul,Luiz Ovando,Q60782558,2019-02-01,,male,1949-09-25,,Luiz Ovando em abril de 2019 (recorte).jpg,
+Brazil,federal deputy of Minas Gerais,Marcos Montes Cordeiro,Q10325465,2011-02-01,,male,1949-08-03,,Marcos Montes cropped.png,
 Brazil,federal deputy of Minas Gerais,George Hilton,Q18707957,2015-02-01,2019-01-31,male,1971-06-11,,George Hilton Homenagem Min Esporte.jpg,George Hilton (politician)
 Brazil,federal deputy of Minas Gerais,Mauro Lopes,Q23893557,2015-02-01,2019-01-31,male,1936-05-24,,MAURO LOPES.jpg,
 Brazil,federal deputy of Minas Gerais,Laudivio Carvalho,Q23904966,2015-02-01,2019-01-31,male,1962-07-16,,Plenário do Congresso (16581406267).jpg,
