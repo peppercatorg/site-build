@@ -26,7 +26,7 @@ Botswana,botswana,botswana-ministers,
 Brazil,brazil,brazil-ministers,https://www.gov.br/
 British Virgin Islands,british-virgin-islands,bvi-ministers,https://bvi.gov.vg/
 Bulgaria,bulgaria,bulgaria-cabinet,https://www.gov.bg/
-Cameroon,cameroon,cameroon-ministers,https://www.spm.gov.cm/
+Cameroon,cameroon,cameroon,https://www.spm.gov.cm/
 Canada,canada,canada-cabinet,https://pm.gc.ca/
 Cayman Islands,caymans,caymans-ministers,https://www.gov.ky/
 Chile,chile,chile-ministers,
@@ -71,7 +71,7 @@ Japan,japan,japan-ministers,https://japan.kantei.go.jp/
 Jersey,jersey,jersey-cabinet,https://www.gov.je/
 Jordan,jordan,jordan-ministers,https://portal.jordan.gov.jo/
 Kazakhstan,kazakhstan,kazakhstan-cabinet,https://primeminister.kz/
-Kenya,kenya,kenya-ministers,https://cabinetoffice.go.ke/
+Kenya,kenya,kenya,https://cabinetoffice.go.ke/
 Kiribati,kiribati,kiribati-ministers,https://www.president.gov.ki/
 Kosovo,kosovo,kosovo-cabinet,https://kryeministri.rks-gov.net/
 Kuwait,kuwait,kuwait-ministers,https://e.gov.kw/
@@ -154,7 +154,7 @@ Uzbekistan,uzbekistan,uzbekistan-ministers,
 Vanuatu,vanuatu,vanuatu-cabinet,https://parliament.gov.vu/
 Wales,wales,wales-cabinet,https://gov.wales/
 Zambia,zambia,zambia-ministers,https://www.parliament.gov.zm/
-Zimbabwe,zimbabwe,zimbabwe-ministers,
+Zimbabwe,zimbabwe,zimbabwe,
 Abkhazia,abkhazia,abkhazia-ministers,
 Artsakh,artsakh,artsakh-ministers,
 Benin,benin,benin-ministers,
