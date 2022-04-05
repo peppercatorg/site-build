@@ -1,6 +1,6 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Argentina,member of the Argentine Chamber of Deputies,José Gabriel Dumón,Q5939927,1993,2001,male,1945-12-13,2019-04-29,Gabriel Dumon.jpg,
-Argentina,member of the Argentine Chamber of Deputies,Miguel Ángel Pichetto,Q1932735,1993-12-10,2001-12-10,male,1950-10-24,,,Miguel Ángel Pichetto
+Argentina,member of the Argentine Chamber of Deputies,Miguel Ángel Pichetto,Q1932735,1993-12-10,2001-12-10,male,1950-10-24,,MAP Foto Oficial AGN.jpg,Miguel Ángel Pichetto
 Argentina,member of the Argentine Chamber of Deputies,Mario das Neves,Q6765031,1995-12-10,2001-12-23,male,1951-04-27,2017-10-31,Mario Das Neves banda.jpg,Mario das Neves
 Argentina,member of the Argentine Chamber of Deputies,Mario Cafiero,Q2841182,1997,2001,male,1956-01-21,2020-09-13,Mario Cafiero.jpg,Mario Cafiero
 Argentina,member of the Argentine Chamber of Deputies,Luis Brandoni,Q6700387,1997,2001,male,1940-04-18,,Luis Brandoni.JPG,Luis Brandoni
@@ -41,9 +41,9 @@ Argentina,member of the Argentine Chamber of Deputies,Remo Carlotto,Q21856082,20
 Argentina,member of the Argentine Chamber of Deputies,Edgardo Fernando Depetri,Q21856115,2005-12-10,2009-12-09,male,1961-04-27,,Edgardo Fernando Depetri.png,
 Argentina,member of the Argentine Chamber of Deputies,Juan Carlos Díaz Roig,Q21856117,2005-12-10,2009-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,María Teresa García,Q21856144,2005-12-10,2009-12-09,female,1956-02-09,,María Teresa García.png,
-Argentina,member of the Argentine Chamber of Deputies,Daniel Ricardo Kroneberger,Q21856170,2005-12-10,2009-12-09,male,,,,
+Argentina,member of the Argentine Chamber of Deputies,Daniel Ricardo Kroneberger,Q21856170,2005-12-10,2009-12-09,male,,,Daniel Ricardo Kroneberger.png,
 Argentina,member of the Argentine Chamber of Deputies,Carlos Moreno,Q21856215,2005-12-10,2009-12-09,male,,,,
-Argentina,member of the Argentine Chamber of Deputies,Cristian Rodolfo Oliva,Q21856220,2005-12-10,2009-12-09,male,,,,
+Argentina,member of the Argentine Chamber of Deputies,Cristian Rodolfo Oliva,Q21856220,2005-12-10,2009-12-09,male,,,Cristian Rodolfo Oliva.png,
 Argentina,member of the Argentine Chamber of Deputies,Elisa Carrió,Q270025,2005-12-10,2009-12-09,female,1956-12-26,,Elisa Carrio.jpg,Elisa Carrió
 Argentina,member of the Argentine Chamber of Deputies,Carlos Kunkel,Q2843155,2005-12-10,2009-12-09,male,1945-11-06,,Carlos Kunkel.jpg,Carlos Kunkel
 Argentina,member of the Argentine Chamber of Deputies,Francisco de Narváez,Q3071423,2005-12-10,2015-12-03,male,1963-09-22,,Francisco de Narvaez.jpg,Francisco de Narváez
@@ -69,8 +69,8 @@ Argentina,member of the Argentine Chamber of Deputies,Héctor Flores,Q17634375,2
 Argentina,member of the Argentine Chamber of Deputies,Christian Gribaudo,Q20644688,2007-12-10,2011-12-09,male,1973-04-04,,GribaudoChristian.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Ivana María Bianchi,Q21856058,2007-12-10,2011-12-09,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Graciela Caselles,Q21856086,2007-12-10,2011-12-09,female,,,Graciela Caselles.jpg,
-Argentina,member of the Argentine Chamber of Deputies,José Alberto Herrera,Q21856156,2007-12-10,2011-12-09,male,,,,
-Argentina,member of the Argentine Chamber of Deputies,Mirta Pastoriza,Q21856225,2007-12-10,2011-12-09,female,,,,
+Argentina,member of the Argentine Chamber of Deputies,José Alberto Herrera,Q21856156,2007-12-10,2011-12-09,male,,,José Alberto Herrera.png,
+Argentina,member of the Argentine Chamber of Deputies,Mirta Pastoriza,Q21856225,2007-12-10,2011-12-09,female,,,Mirta Ameliana Pastoriza.png,
 Argentina,member of the Argentine Chamber of Deputies,Victoria Donda,Q2429045,2007-12-10,2011-12-09,female,1979-09-17,,Victoria Analía Donda Pérez.png,Victoria Donda
 Argentina,member of the Argentine Chamber of Deputies,Cristina Cremer de Busti,Q5186335,2007-12-10,2009-12-09,female,1949,,Maria Cristina Cremer de Busti.jpg,Cristina Cremer de Busti
 Argentina,member of the Argentine Chamber of Deputies,Graciela Camaño,Q5883959,2007-12-10,2011-12-09,female,1953-04-25,,Graciela Camaño dip.jpg,Graciela Camaño
@@ -133,18 +133,18 @@ Argentina,member of the Argentine Chamber of Deputies,Guillermo Ramón Carmona,Q
 Argentina,member of the Argentine Chamber of Deputies,Graciela Caselles,Q21856086,2011-12-10,2015-12-09,female,,,Graciela Caselles.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Marcos Cleri,Q21856090,2011-12-10,2015-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Leonardo Grosso,Q21856151,2011-12-10,2015-12-09,male,1983-04-01,,Leonardo Grosso.png,Leonardo Grosso
-Argentina,member of the Argentine Chamber of Deputies,José Alberto Herrera,Q21856156,2011-12-10,2015-12-09,male,,,,
-Argentina,member of the Argentine Chamber of Deputies,Daniel Ricardo Kroneberger,Q21856170,2011-12-10,2015-12-09,male,,,,
+Argentina,member of the Argentine Chamber of Deputies,José Alberto Herrera,Q21856156,2011-12-10,2015-12-09,male,,,José Alberto Herrera.png,
+Argentina,member of the Argentine Chamber of Deputies,Daniel Ricardo Kroneberger,Q21856170,2011-12-10,2015-12-09,male,,,Daniel Ricardo Kroneberger.png,
 Argentina,member of the Argentine Chamber of Deputies,Inés Beatriz Lotto de Vecchietti,Q21856178,2011-12-10,2015-12-09,female,1953-01-01,,Inés Beatriz Lotto.png,
 Argentina,member of the Argentine Chamber of Deputies,Mayra Mendoza,Q21856192,2011-12-10,2019-12-10,female,1983-11-26,,Sesión 13-06-2018 Diputad Mendoza 43.jpg,Mayra Mendoza
 Argentina,member of the Argentine Chamber of Deputies,Graciela Navarro,Q21856217,2011-12-10,2015-12-09,female,1958,,Graciela Navarro 2019.png,Graciela Navarro
-Argentina,member of the Argentine Chamber of Deputies,Mirta Pastoriza,Q21856225,2011-12-10,2015-12-09,female,,,,
+Argentina,member of the Argentine Chamber of Deputies,Mirta Pastoriza,Q21856225,2011-12-10,2015-12-09,female,,,Mirta Ameliana Pastoriza.png,
 Argentina,member of the Argentine Chamber of Deputies,Alberto Roberti,Q21856261,2011-12-10,2015-12-09,male,1955-10-20,2018-05-17,,
 Argentina,member of the Argentine Chamber of Deputies,Walter Marcelo Santillán,Q21856271,2011-12-10,2015-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Victoria Donda,Q2429045,2011-12-10,2015-12-09,female,1979-09-17,,Victoria Analía Donda Pérez.png,Victoria Donda
 Argentina,member of the Argentine Chamber of Deputies,Andrés Larroque,Q5667299,2011-12-10,2015-12-09,male,1977-01-26,,Andrés Larroque.png,Andrés Larroque
 Argentina,member of the Argentine Chamber of Deputies,Graciela Camaño,Q5883959,2011-12-10,2015-12-09,female,1953-04-25,,Graciela Camaño dip.jpg,Graciela Camaño
-Argentina,member of the Argentine Chamber of Deputies,Julio Catalán Magni,Q5955126,2011-12-10,2013-12-10,male,1968-08-14,,,
+Argentina,member of the Argentine Chamber of Deputies,Julio Catalán Magni,Q5955126,2011-12-10,2013-12-10,male,1968-08-14,,Julio Catalán Magni - Diputados.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Luis Basterra,Q5982877,2011-12-10,2015-12-09,male,1958-10-14,,Luis Eugenio Basterra.png,Luis Basterra
 Argentina,member of the Argentine Chamber of Deputies,Manuel Garrido,Q5993110,2011-12-10,2015-12-09,male,1964,,Manuel Garrido.jpg,Manuel Garrido
 Argentina,member of the Argentine Chamber of Deputies,Olga Inés Brizuela y Doria,Q6049818,2011-12-10,2014-04-02,female,1971,,Olga Inés Brizuela y Doria (cropped).jpg,
@@ -190,12 +190,12 @@ Argentina,member of the Argentine Chamber of Deputies,Guillermo Durand Cornejo,Q
 Argentina,member of the Argentine Chamber of Deputies,María Ehcosor,Q21856123,2013-12-10,2017-12-09,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Eduardo Alberto Fabiani,Q21856125,2013-12-10,2017-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Gustavo Rodolfo Fernández Mendía,Q21856126,2013-12-10,2017-12-09,male,,,,
-Argentina,member of the Argentine Chamber of Deputies,Ana Carolina Gaillard,Q21856142,2013-12-10,2017-12-09,female,1981-10-12,,,Carolina Gaillard
+Argentina,member of the Argentine Chamber of Deputies,Ana Carolina Gaillard,Q21856142,2013-12-10,2017-12-09,female,1981-10-12,,Carolina Gaillard 2021.png,Carolina Gaillard
 Argentina,member of the Argentine Chamber of Deputies,María Teresa García,Q21856144,2013-12-10,2017-12-09,female,1956-02-09,,María Teresa García.png,
 Argentina,member of the Argentine Chamber of Deputies,Lautaro Gervasoni,Q21856146,2013-12-10,2017-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Sandro Adrián Guzmán,Q21856153,2013-12-10,2017-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Evita Nélida Isa,Q21856162,2013-12-10,2017-12-09,female,,,,
-Argentina,member of the Argentine Chamber of Deputies,Manuel Humberto Juárez,Q21856168,2013-12-10,2017-12-09,male,,,,
+Argentina,member of the Argentine Chamber of Deputies,Manuel Humberto Juárez,Q21856168,2013-12-10,2017-12-09,male,,,Manuel Humberto Juarez.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Myrian del Valle Juárez,Q21856169,2013-12-10,2017-12-09,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Elia Nelly Lagoria,Q21856171,2013-12-10,2017-12-09,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Luciano Andrés Laspina,Q21856172,2013-12-10,2017-12-09,male,1972-08-08,,Luciano Andrés Laspina.png,
@@ -204,7 +204,7 @@ Argentina,member of the Argentine Chamber of Deputies,Oscar Anselmo Martínez,Q2
 Argentina,member of the Argentine Chamber of Deputies,Gustavo José Martínez Campos,Q21856185,2013-12-10,2017-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Diego Matías Mestre,Q21856194,2013-12-10,2017-12-09,male,1978,,Diego Mestre.jpg,Diego Mestre
 Argentina,member of the Argentine Chamber of Deputies,Carlos Moreno,Q21856215,2013-12-10,2017-12-09,male,,,,
-Argentina,member of the Argentine Chamber of Deputies,Cristian Rodolfo Oliva,Q21856220,2013-12-10,2017-12-09,male,,,,
+Argentina,member of the Argentine Chamber of Deputies,Cristian Rodolfo Oliva,Q21856220,2013-12-10,2017-12-09,male,,,Cristian Rodolfo Oliva.png,
 Argentina,member of the Argentine Chamber of Deputies,Luis Mario Pastori,Q21856224,2013-12-10,2017-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Juan Manuel Pedrini,Q21856226,2013-12-10,2017-12-09,male,1960,,Juan Manuel Pedrini.png,
 Argentina,member of the Argentine Chamber of Deputies,Martín Alejandro Pérez,Q21856228,2013-12-10,2017-12-09,male,,,,
@@ -224,7 +224,7 @@ Argentina,member of the Argentine Chamber of Deputies,Héctor Olindo Tentor,Q218
 Argentina,member of the Argentine Chamber of Deputies,Susana María Toledo,Q21856286,2013-12-10,2017-12-09,female,,,Susana María Toledo.png,
 Argentina,member of the Argentine Chamber of Deputies,Héctor Daniel Tomas,Q21856287,2013-12-10,2017-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Néstor Nicolás Tomassi,Q21856288,2013-12-10,2017-12-09,male,,,,
-Argentina,member of the Argentine Chamber of Deputies,Francisco Javier Torroba,Q21856290,2013-12-10,2017-12-09,male,1955,,,
+Argentina,member of the Argentine Chamber of Deputies,Francisco Javier Torroba,Q21856290,2013-12-10,2017-12-09,male,1955,,Francisco Javier Torroba.png,
 Argentina,member of the Argentine Chamber of Deputies,Gabriela Troiano,Q21856291,2013-12-10,2017-12-09,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Gustavo Adolfo Valdés,Q21856293,2013-12-10,2017-12-09,male,1968-10-15,,Gustavo Valdés.jpg,Gustavo Valdés
 Argentina,member of the Argentine Chamber of Deputies,María Inés Villar Molina,Q21856295,2013-12-10,2017-12-09,female,,,,
@@ -340,12 +340,12 @@ Argentina,member of the Argentine Chamber of Deputies,Alejandro Ariel Grandinett
 Argentina,member of the Argentine Chamber of Deputies,Leonardo Grosso,Q21856151,2015-12-10,2019-12-09,male,1983-04-01,,Leonardo Grosso.png,Leonardo Grosso
 Argentina,member of the Argentine Chamber of Deputies,María Isabel Guerín,Q21856152,2015-12-10,2019-12-09,female,,,María Isabel Guerín.png,
 Argentina,member of the Argentine Chamber of Deputies,Martín Osvaldo Hernández,Q21856155,2015-12-10,2019-12-09,male,,,,
-Argentina,member of the Argentine Chamber of Deputies,José Alberto Herrera,Q21856156,2015-12-10,2017-11-15,male,,,,
+Argentina,member of the Argentine Chamber of Deputies,José Alberto Herrera,Q21856156,2015-12-10,2017-11-15,male,,,José Alberto Herrera.png,
 Argentina,member of the Argentine Chamber of Deputies,Anabella Ruth Hers Cabral,Q21856157,2015-12-10,2018-12-12,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Juan Manuel Huss,Q21856158,2015-12-10,2019-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Santiago Nicolás Igon,Q21856159,2015-12-10,2019-12-09,male,1977-10-24,,Santiago Igon.jpg,Santiago Igon
 Argentina,member of the Argentine Chamber of Deputies,Lucas Ciriaco Incicco,Q21856160,2015-12-10,2019-12-09,male,,,,
-Argentina,member of the Argentine Chamber of Deputies,Daniel Ricardo Kroneberger,Q21856170,2015-12-10,2021-12-10,male,,,,
+Argentina,member of the Argentine Chamber of Deputies,Daniel Ricardo Kroneberger,Q21856170,2015-12-10,2021-12-10,male,,,Daniel Ricardo Kroneberger.png,
 Argentina,member of the Argentine Chamber of Deputies,Marco Lavagna,Q21856173,2015-12-10,2019-12-09,male,1974,,Marco Lavagna.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Daniel Andrés Lipovetzky,Q21856174,2015-12-10,2019-12-10,male,1967-12-02,,Sesión 13-06-2018 Diputado Lipovetzky (cropped).jpg,
 Argentina,member of the Argentine Chamber of Deputies,Ana Llanos,Q21856175,2015-12-10,2019-12-09,female,,,,
@@ -359,7 +359,7 @@ Argentina,member of the Argentine Chamber of Deputies,Ana Laura Martínez,Q21856
 Argentina,member of the Argentine Chamber of Deputies,Leonor María Martínez Villada,Q21856186,2015-12-10,2019-12-09,female,1950-06-05,,Sesión 13-06-2018 Diputada Villada Martinez.jpg,Leonor Martínez Villada
 Argentina,member of the Argentine Chamber of Deputies,María Lucila Masin,Q21856188,2015-12-10,2019-12-09,female,1984-05-31,,María Lucila Masin.png,Lucila Masin
 Argentina,member of the Argentine Chamber of Deputies,Vanesa Laura Massetani,Q21856189,2015-12-10,2019-12-09,female,1982,,Vmassetani.jpg,Vanesa Massetani
-Argentina,member of the Argentine Chamber of Deputies,Nicolás María Massot,Q21856190,2015-12-10,2019-12-09,male,1984-07-16,,,Nicolás Massot
+Argentina,member of the Argentine Chamber of Deputies,Nicolás María Massot,Q21856190,2015-12-10,2019-12-09,male,1984-07-16,,Nicolás Massot.jpg,Nicolás Massot
 Argentina,member of the Argentine Chamber of Deputies,Verónica Mercado,Q21856193,2015-12-10,2019-12-09,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Pedro Rubén Miranda,Q21856195,2015-12-10,2019-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Karina Alejandra Molina,Q21856211,2015-12-10,2019-12-09,female,,,,
@@ -373,7 +373,7 @@ Argentina,member of the Argentine Chamber of Deputies,José Carlos Núñez,Q2185
 Argentina,member of the Argentine Chamber of Deputies,Héctor Enrique Olivares,Q21856221,2015-12-10,2019-05-12,male,1958-02-18,2019-05-12,Héctor Enrique Olivares.png,Héctor Enrique Olivares
 Argentina,member of the Argentine Chamber of Deputies,José Fernando Orellana,Q21856222,2015-12-10,2019-10-30,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Marcela Fabiana Passo,Q21856223,2015-12-10,2019-12-09,female,,,,
-Argentina,member of the Argentine Chamber of Deputies,Mirta Pastoriza,Q21856225,2015-12-10,2019-12-09,female,,,,
+Argentina,member of the Argentine Chamber of Deputies,Mirta Pastoriza,Q21856225,2015-12-10,2019-12-09,female,,,Mirta Ameliana Pastoriza.png,
 Argentina,member of the Argentine Chamber of Deputies,Juan Manuel Pereyra,Q21856227,2015-12-10,2019-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Raúl Joaquín Pérez,Q21856229,2015-12-10,2019-12-09,male,1958-09-10,,Raúl Joaquín Pérez.png,
 Argentina,member of the Argentine Chamber of Deputies,Carla Betina Pitiot,Q21856231,2015-12-10,2019-12-09,female,,,Carla Betina Pitiot.png,
@@ -402,7 +402,7 @@ Argentina,member of the Argentine Chamber of Deputies,María Teresita Villavicen
 Argentina,member of the Argentine Chamber of Deputies,Luana Volnovich,Q21856297,2015-12-10,2019-12-10,female,1979-09-26,,Luana Volnovich.jpg,Luana Volnovich
 Argentina,member of the Argentine Chamber of Deputies,Marcelo Germán Wechsler,Q21856298,2015-12-10,2019-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Sergio Javier Wisky,Q21856299,2015-12-10,2019-12-09,male,,,,
-Argentina,member of the Argentine Chamber of Deputies,Waldo Wolff,Q21856300,2015-12-10,2019-12-09,male,1968-09-21,,,
+Argentina,member of the Argentine Chamber of Deputies,Waldo Wolff,Q21856300,2015-12-10,2019-12-09,male,1968-09-21,,Waldo Ezequiel Wolff.png,
 Argentina,member of the Argentine Chamber of Deputies,Sergio Raúl Ziliotto,Q21856301,2015-12-10,2019-12-09,male,1962-09-24,,Sergio Raúl Ziliotto.png,Sergio Ziliotto
 Argentina,member of the Argentine Chamber of Deputies,Victoria Donda,Q2429045,2015-12-10,2019-12-09,female,1979-09-17,,Victoria Analía Donda Pérez.png,Victoria Donda
 Argentina,member of the Argentine Chamber of Deputies,José Luis Patiño,Q24960878,2015-12-10,2017-12-09,male,1964,,Diputado Jose Luis Patiño.jpg,
@@ -425,7 +425,7 @@ Argentina,member of the Argentine Chamber of Deputies,Andrés Larroque,Q5667299,
 Argentina,member of the Argentine Chamber of Deputies,Cristina Álvarez Rodríguez,Q5791547,2015-12-10,2019-12-09,female,1967-12-28,,María Cristina Alvárez Rodríguez.png,Cristina Álvarez Rodríguez
 Argentina,member of the Argentine Chamber of Deputies,Eduardo Amadeo,Q5818962,2015-12-10,2019-12-09,male,1947-05-01,,Eduardo Amadeo.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Graciela Camaño,Q5883959,2015-12-10,2019-12-09,female,1953-04-25,,Graciela Camaño dip.jpg,Graciela Camaño
-Argentina,member of the Argentine Chamber of Deputies,Gustavo José Bevilacqua,Q5889685,2015-12-10,2019-12-09,male,1962-05-12,,,
+Argentina,member of the Argentine Chamber of Deputies,Gustavo José Bevilacqua,Q5889685,2015-12-10,2019-12-09,male,1962-05-12,,Gustavo Bevilacqua.png,
 Argentina,member of the Argentine Chamber of Deputies,Héctor Roquel,Q5906402,2015-12-10,2018-02-27,male,1949,2018-02-27,PIRINCHO.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Luis Basterra,Q5982877,2015-12-10,2019-12-10,male,1958-10-14,,Luis Eugenio Basterra.png,Luis Basterra
 Argentina,member of the Argentine Chamber of Deputies,María Carolina Moisés,Q6003481,2015-12-10,2019-12-09,female,1975-03-05,,CarolinaMoiséswikipedia.jpg,Carolina Moisés
@@ -441,7 +441,7 @@ Argentina,member of the Argentine Chamber of Deputies,Juan Carlos Giordano,Q2009
 Argentina,member of the Argentine Chamber of Deputies,Orieta Cecilia Vera Gonzalez,Q28865310,2016-12-22,2019-12-09,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Veronica Couly,Q28865307,2017-02-15,2017-12-09,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Nathalia González Seligra,Q32249562,2017-06-21,2019-04-04,female,1979-01-31,,Nathalia Inés González Seligra.jpg,Nathalia González Seligra
-Argentina,member of the Argentine Chamber of Deputies,Estela Mary Neder,Q55773927,2017-11-22,2019-12-09,female,,,,
+Argentina,member of the Argentine Chamber of Deputies,Estela Mary Neder,Q55773927,2017-11-22,2019-12-09,female,,,Estela Mary Neder.png,
 Argentina,member of the Argentine Chamber of Deputies,Hector Antonio Stefani,Q47455152,2017-12-09,2021-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Daniel Scioli,Q1162679,2017-12-10,2020-05-13,male,1957-01-13,,Daniel Scioli October 2015.jpg,Daniel Scioli
 Argentina,member of the Argentine Chamber of Deputies,Hugo Yasky,Q11682640,2017-12-10,2021-12-09,male,1949,,Hugo Yasky.jpg,Hugo Yasky
@@ -506,7 +506,7 @@ Argentina,member of the Argentine Chamber of Deputies,Silvana Micaela Ginocchio,
 Argentina,member of the Argentine Chamber of Deputies,Elda Pértile,Q47142443,2017-12-10,2021-12-09,female,1953-06-03,,Elda Pértile.jpg,Elda Pértile
 Argentina,member of the Argentine Chamber of Deputies,Juan Mosqueda,Q47142456,2017-12-10,2021-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Gustavo Menna,Q47142461,2017-12-10,2021-12-09,male,1965,,Gustavo Menna - Diputado.png,
-Argentina,member of the Argentine Chamber of Deputies,Carmen Polledo,Q47142563,2017-12-10,2021-12-09,female,1952-11-14,,,Carmen Polledo
+Argentina,member of the Argentine Chamber of Deputies,Carmen Polledo,Q47142563,2017-12-10,2021-12-09,female,1952-11-14,,Carmen Polledo.png,Carmen Polledo
 Argentina,member of the Argentine Chamber of Deputies,Jose Alejandro Garcia,Q47142613,2017-12-10,2021-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Gabriel Alberto Frizza,Q47142696,2017-12-10,2021-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Alejandra María Vigo,Q47142712,2017-12-10,2021-12-10,female,1957-09-22,,Alejandra Vigo 2019.png,Alejandra Vigo
@@ -570,7 +570,7 @@ Argentina,member of the Argentine Chamber of Deputies,Martín Lousteau,Q6553522,
 Argentina,member of the Argentine Chamber of Deputies,Andrés Alberto Vallone,Q47455149,2017-12-18,2019-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Astrid Hummel,Q47455151,2017-12-18,2019-12-10,female,1967-12-01,,Astrid Hummel.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Fernando Asencio,Q55825598,2018-05,2019-12-10,male,1972-04-15,,Fernando Rodrigo Asencio.jpg,
-Argentina,member of the Argentine Chamber of Deputies,Bernardo José Herrera,Q111424753,2019-04-04,2021-12-09,,,,,
+Argentina,member of the Argentine Chamber of Deputies,Bernardo José Herrera,Q111424753,2019-04-04,2021-12-09,,,,Bernardo José Herrera.png,
 Argentina,member of the Argentine Chamber of Deputies,José Luis Moretti,Q111476790,2019-05-15,2019-12-09,male,,,José Luis Moretti.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Alejandra Caballero,Q63342179,2019-06-26,2019-12-09,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,María Luján Rey,Q101413635,2019-12-10,,female,1969-08-04,,María Luján Rey.png,
@@ -579,15 +579,15 @@ Argentina,member of the Argentine Chamber of Deputies,Gustavo Hein,Q104414846,20
 Argentina,member of the Argentine Chamber of Deputies,Dina Rezinovsky,Q104419733,2019-12-10,,female,1987-01-29,,Dina Esther Rezinovsky.png,Dina Rezinovsky
 Argentina,member of the Argentine Chamber of Deputies,Ignacio Agustín Torres,Q104433320,2019-12-10,2021-12-10,male,1988-05-04,,Ignacio Agustín Torres.png,Ignacio Torres (politician)
 Argentina,member of the Argentine Chamber of Deputies,Daniela Vilar,Q104760474,2019-12-10,2021-10-12,female,1984,,Daniela Marina Vilar.png,Daniela Vilar
-Argentina,member of the Argentine Chamber of Deputies,Julio Ferreyra,Q104901318,2019-12-10,,male,1942,,,Julio Ferreyra
+Argentina,member of the Argentine Chamber of Deputies,Julio Ferreyra,Q104901318,2019-12-10,,male,1942,,Julio Ferreyra - Diputado.png,Julio Ferreyra
 Argentina,member of the Argentine Chamber of Deputies,Alejandro Cacace,Q104906639,2019-12-10,,male,,,Alejandro Cacace.png,
 Argentina,member of the Argentine Chamber of Deputies,Martín Soria,Q105969717,2019-12-10,2021-03-27,male,1975-12-15,,Ministro Martín Soria 2021.jpg,Martín Soria
-Argentina,member of the Argentine Chamber of Deputies,Felipe Alvarez,Q106686072,2019-12-10,,male,1980,,,
+Argentina,member of the Argentine Chamber of Deputies,Felipe Alvarez,Q106686072,2019-12-10,,male,1980,,Diego Felipe Álvarez.png,
 Argentina,member of the Argentine Chamber of Deputies,Gabriela Estévez,Q107719053,2019-12-10,,female,1978-02-11,,Gabriela Beatriz Estévez.png,Gabriela Estévez
 Argentina,member of the Argentine Chamber of Deputies,Enrique Estévez,Q107736916,2019-12-10,,male,1983-07-12,,Enrique Eloy Estevez.jpg,Enrique Estévez
 Argentina,member of the Argentine Chamber of Deputies,Carlos Gutiérrez,Q107746592,2019-12-10,,male,1953-10-27,,Carlos Mario Gutiérrez.png,Carlos Gutiérrez (Argentine politician)
 Argentina,member of the Argentine Chamber of Deputies,Federico Frigerio,Q108028101,2019-12-10,,male,1987-04-05,,Federico Frigerio.png,Federico Frigerio
-Argentina,member of the Argentine Chamber of Deputies,Aldo Leiva,Q108305550,2019-12-10,,male,1963-01-10,,,Aldo Leiva
+Argentina,member of the Argentine Chamber of Deputies,Aldo Leiva,Q108305550,2019-12-10,,male,1963-01-10,,Aldo Adolfo Leiva.png,Aldo Leiva
 Argentina,member of the Argentine Chamber of Deputies,Nancy Aracely Sand Giorasi,Q108322391,2019-12-10,,female,1964-01-04,,Nancy Sand.png,Nancy Sand
 Argentina,member of the Argentine Chamber of Deputies,María Rosa Martínez,Q108324373,2019-12-10,,female,1955-09-29,,María Rosa Martínez.png,María Rosa Martínez
 Argentina,member of the Argentine Chamber of Deputies,Susana Graciela Landriscini,Q108373971,2019-12-10,,female,1952-05-16,,Susana Graciela Landriscini.png,Graciela Landriscini
@@ -598,9 +598,9 @@ Argentina,member of the Argentine Chamber of Deputies,Eduardo Gabriel Fernández
 Argentina,member of the Argentine Chamber of Deputies,María Dolores Martínez,Q108426848,2019-12-10,,female,1978-05-16,,María Dolores Martínez.png,Dolores Martínez
 Argentina,member of the Argentine Chamber of Deputies,Daniel Agustín Brué,Q110104134,2019-12-10,,,,,Daniel Agustín Brué.png,
 Argentina,member of the Argentine Chamber of Deputies,Paola Vessvessian,Q110112123,2019-12-10,,female,1971-03-19,,Marcela Paola Vessvessian.png,Paola Vessvessian
-Argentina,member of the Argentine Chamber of Deputies,Ricardo Daniel Daives,Q110191758,2019-12-10,,male,,,,
+Argentina,member of the Argentine Chamber of Deputies,Ricardo Daniel Daives,Q110191758,2019-12-10,,male,,,Ricardo Daniel Daives.png,
 Argentina,member of the Argentine Chamber of Deputies,Diego Sartori,Q110219598,2019-12-10,,male,1959-01-08,,Diego Horacio Sartori.png,Diego Sartori
-Argentina,member of the Argentine Chamber of Deputies,Federico Angelini,Q110727342,2019-12-10,,male,1977-02-19,,,
+Argentina,member of the Argentine Chamber of Deputies,Federico Angelini,Q110727342,2019-12-10,,male,1977-02-19,,Federico Angelini.png,
 Argentina,member of the Argentine Chamber of Deputies,Adriana Noemí Ruarte,Q111478730,2019-12-10,,,,,,
 Argentina,member of the Argentine Chamber of Deputies,Alejandro Daniel Bermejo,Q111478733,2019-12-10,2021-03-03,,,,,
 Argentina,member of the Argentine Chamber of Deputies,Carlos Aníbal Cisneros,Q111478738,2019-12-10,,,,,,
@@ -645,9 +645,9 @@ Argentina,member of the Argentine Chamber of Deputies,Miguel Ángel Bazze,Q17477
 Argentina,member of the Argentine Chamber of Deputies,Pablo Tonelli,Q17624215,2019-12-10,,male,1954-06-13,,Pablo Gabriel Tonelli.png,Pablo Tonelli
 Argentina,member of the Argentine Chamber of Deputies,Hilda Clelia Aguirre,Q18711912,2019-12-10,,female,1960-04-11,,Hilda Clelia Aguirre - Diputados.png,
 Argentina,member of the Argentine Chamber of Deputies,Mabel Luisa Caparrós,Q18756543,2019-12-10,,female,1956-01-09,,Mabel Luisa Caparrós.jpg,Mabel Caparrós
-Argentina,member of the Argentine Chamber of Deputies,Pablo G. González,Q18888590,2019-12-10,2021-01-10,male,1968-06-13,,,Pablo Gerardo González
+Argentina,member of the Argentine Chamber of Deputies,Pablo G. González,Q18888590,2019-12-10,2021-01-10,male,1968-06-13,,Pablo Gerardo González.jpg,Pablo Gerardo González
 Argentina,member of the Argentine Chamber of Deputies,Sergio Casas,Q20969944,2019-12-10,,male,1971-01-13,,Sergio Casas (cropped).jpg,Sergio Casas
-Argentina,member of the Argentine Chamber of Deputies,Omar De Marchi,Q21662521,2019-12-10,,male,1966-05-28,,,Omar De Marchi
+Argentina,member of the Argentine Chamber of Deputies,Omar De Marchi,Q21662521,2019-12-10,,male,1966-05-28,,DiputadoDemarchi.retratooficial.jpg,Omar De Marchi
 Argentina,member of the Argentine Chamber of Deputies,Karina Banfi,Q21856053,2019-12-10,,female,1972-02-27,,Karina Banfi.jpg,Karina Banfi
 Argentina,member of the Argentine Chamber of Deputies,María Cristina Britez,Q21856061,2019-12-10,,female,1981-03-05,,María Cristina Britez.png,
 Argentina,member of the Argentine Chamber of Deputies,Nilda Mabel Carrizo,Q21856084,2019-12-10,,female,1979-01-13,,Mabel Carrizo 2019.png,Mabel Carrizo
@@ -668,7 +668,7 @@ Argentina,member of the Argentine Chamber of Deputies,José Arnaldo Ruiz Aragón
 Argentina,member of the Argentine Chamber of Deputies,Carlos Américo Selva,Q21856274,2019-12-10,,male,,,,
 Argentina,member of the Argentine Chamber of Deputies,Luis Rodolfo Tailhade,Q21856284,2019-12-10,,male,1970,,Luis Rodolfo Tailhade.png,Rodolfo Tailhade
 Argentina,member of the Argentine Chamber of Deputies,Pablo Torello,Q21856289,2019-12-10,,male,1959-02-12,,Pablo Torello HCDN.jpg,Pablo Torello
-Argentina,member of the Argentine Chamber of Deputies,Waldo Wolff,Q21856300,2019-12-10,,male,1968-09-21,,,
+Argentina,member of the Argentine Chamber of Deputies,Waldo Wolff,Q21856300,2019-12-10,,male,1968-09-21,,Waldo Ezequiel Wolff.png,
 Argentina,member of the Argentine Chamber of Deputies,Eduardo Valdés,Q22329411,2019-12-10,,male,1956,,Eduardo Valdés.jpg,Eduardo Valdés
 Argentina,member of the Argentine Chamber of Deputies,Mariana Zuvic,Q24821342,2019-12-10,,female,1974-10-18,,Mariana de Jesús Zuvic.png,Mariana Zuvic
 Argentina,member of the Argentine Chamber of Deputies,Itai Hagman,Q30347207,2019-12-10,,male,1983,,ItaiHagman.jpg,Itai Hagman
@@ -677,7 +677,7 @@ Argentina,member of the Argentine Chamber of Deputies,José Luis Gioja,Q4137510,
 Argentina,member of the Argentine Chamber of Deputies,Norman Dario Martinez,Q41555918,2019-12-10,2020-08-28,male,1974-09-03,,Norman Darío Martínez.png,Darío Martínez
 Argentina,member of the Argentine Chamber of Deputies,Lucía Corpacci,Q4837851,2019-12-10,2021-12-10,female,1958-12-04,,Lucía Corpacci.jpg,Lucía Corpacci
 Argentina,member of the Argentine Chamber of Deputies,Blanca Osuna,Q4924764,2019-12-10,,female,1950-10-25,,Blanca Osuna (cropped).jpg,Blanca Osuna
-Argentina,member of the Argentine Chamber of Deputies,Estela Mary Neder,Q55773927,2019-12-10,,female,,,,
+Argentina,member of the Argentine Chamber of Deputies,Estela Mary Neder,Q55773927,2019-12-10,,female,,,Estela Mary Neder.png,
 Argentina,member of the Argentine Chamber of Deputies,Andrés Larroque,Q5667299,2019-12-10,2020-05-01,male,1977-01-26,,Andrés Larroque.png,Andrés Larroque
 Argentina,member of the Argentine Chamber of Deputies,Alfredo Cornejo,Q5668101,2019-12-10,2021-12-10,male,1962-03-20,,Alfredo Cornejo 2 (cropped).jpg,Alfredo Cornejo (politician)
 Argentina,member of the Argentine Chamber of Deputies,Cristina Álvarez Rodríguez,Q5791547,2019-12-10,2021-09-21,female,1967-12-28,,María Cristina Alvárez Rodríguez.png,Cristina Álvarez Rodríguez
@@ -686,7 +686,7 @@ Argentina,member of the Argentine Chamber of Deputies,María Carolina Moisés,Q6
 Argentina,member of the Argentine Chamber of Deputies,Ricardo Buryaile,Q6108050,2019-12-10,,male,1962-11-29,,Ricardo Buryaile (cropped).jpg,Ricardo Buryaile
 Argentina,member of the Argentine Chamber of Deputies,Marcelo Orrego,Q62000019,2019-12-10,,male,1975-01-29,,Marcelo Orrego.png,Marcelo Orrego
 Argentina,member of the Argentine Chamber of Deputies,Alfredo Oscar Schiavoni,Q63911419,2019-12-10,,male,1963-04-07,,Alfredo Oscar Schiavoni (politician).JPG,
-Argentina,member of the Argentine Chamber of Deputies,Victoria Morales Gorleri,Q63990130,2019-12-10,,female,1972-03-01,,,Victoria Morales Gorleri
+Argentina,member of the Argentine Chamber of Deputies,Victoria Morales Gorleri,Q63990130,2019-12-10,,female,1972-03-01,,Victoria Morales Gorleri.png,Victoria Morales Gorleri
 Argentina,member of the Argentine Chamber of Deputies,Alejandra del Huerto Obeid,Q65970019,2019-12-10,,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Alicia Aparicio,Q76824320,2019-12-10,,female,1954,,Alicia Aparicio.jpg,Alicia Aparicio
 Argentina,member of the Argentine Chamber of Deputies,Maximiliano Ferraro,Q85015520,2019-12-10,,male,1976,,Maximiliano Ferraro.jpg,Maximiliano Ferraro
@@ -694,7 +694,7 @@ Argentina,member of the Argentine Chamber of Deputies,Emiliano Yacobitti,Q851190
 Argentina,member of the Argentine Chamber of Deputies,Alberto Emilio Asseff,Q87726411,2019-12-10,,male,1942-10-31,,Alberto Asseff.jpg,Alberto Asseff
 Argentina,member of the Argentine Chamber of Deputies,Marcelo Casaretto,Q96623937,2019-12-10,,male,1967,,Marcelo Pablo Casaretto.png,Marcelo Casaretto
 Argentina,member of the Argentine Chamber of Deputies,Verónica Caliva,Q97798204,2019-12-10,,female,1977-04-12,,Lcaliva.jpg,Verónica Caliva
-Argentina,member of the Argentine Chamber of Deputies,Lucas Javier Godoy,Q97999604,2019-12-10,,male,1982-03-25,,,Lucas Godoy
+Argentina,member of the Argentine Chamber of Deputies,Lucas Javier Godoy,Q97999604,2019-12-10,,male,1982-03-25,,Lgodoy.jpg,Lucas Godoy
 Argentina,member of the Argentine Chamber of Deputies,Virginia Cornejo,Q98060325,2019-12-10,,female,1951-10-18,,Vcornejo.jpg,Virginia Cornejo
 Argentina,member of the Argentine Chamber of Deputies,Alejandro Rodríguez (politician),Q98770550,2019-12-10,,male,1965-12-27,,Alejandro Esteban Rodriguez.jpg,Alejandro Rodríguez (politician)
 Argentina,member of the Argentine Chamber of Deputies,Camila Crescimbeni,Q99358480,2019-12-10,,female,1990-03-22,,Camila Crescimbeni.png,Camila Crescimbeni
@@ -705,7 +705,7 @@ Argentina,member of the Argentine Chamber of Deputies,Francisco Guevara,Q1081012
 Argentina,member of the Argentine Chamber of Deputies,Jorge Sarghini,Q108261189,2019-12-19,2021-12-09,male,1953-06-11,,Jorge Emilio Sarghini.png,Jorge Sarghini
 Argentina,member of the Argentine Chamber of Deputies,Dante López Rodríguez,Q108299590,2019-12-19,2021-12-09,male,1969-12-13,,Dante Edgardo López Rodríguez.png,Dante López Rodríguez
 Argentina,member of the Argentine Chamber of Deputies,Álvaro de Lamadrid,Q108540459,2019-12-19,2021-12-09,male,1972-02-05,,Álvaro Héctor de Lamadrid.png,
-Argentina,member of the Argentine Chamber of Deputies,María Luisa Montoto,Q110822156,2019-12-19,2021-12-09,female,1952-03-28,,,María Luisa Montoto
+Argentina,member of the Argentine Chamber of Deputies,María Luisa Montoto,Q110822156,2019-12-19,2021-12-09,female,1952-03-28,,María Luisa Montoto de Rogel.png,María Luisa Montoto
 Argentina,member of the Argentine Chamber of Deputies,Ayelén Spósito,Q111478734,2019-12-19,2021-12-09,,,,,
 Argentina,member of the Argentine Chamber of Deputies,Carlos Alberto Vivero,Q111478736,2019-12-19,2021-12-09,,,,,
 Argentina,member of the Argentine Chamber of Deputies,Claudia Gabriela Márquez,Q111478745,2019-12-19,2021-12-09,,,,,
@@ -715,12 +715,12 @@ Argentina,member of the Argentine Chamber of Deputies,Marcelo Koenig,Q111478784,
 Argentina,member of the Argentine Chamber of Deputies,María Jimena López,Q111478793,2019-12-19,,,,,,
 Argentina,member of the Argentine Chamber of Deputies,Nelly Ramona Daldovo,Q111478796,2019-12-19,,,,,,
 Argentina,member of the Argentine Chamber of Deputies,Romina Maricel Uhrig,Q111478799,2019-12-19,2021-12-09,,,,,
-Argentina,member of the Argentine Chamber of Deputies,Ana Carolina Gaillard,Q21856142,2019-12-19,2021-12-09,female,1981-10-12,,,Carolina Gaillard
+Argentina,member of the Argentine Chamber of Deputies,Ana Carolina Gaillard,Q21856142,2019-12-19,2021-12-09,female,1981-10-12,,Carolina Gaillard 2021.png,Carolina Gaillard
 Argentina,member of the Argentine Chamber of Deputies,Carlos Heller,Q5042165,2019-12-19,2021-12-09,male,1940-10-17,,Carlos heller.jpg,Carlos Heller
 Argentina,member of the Argentine Chamber of Deputies,Mara Brawer,Q63342220,2019-12-19,,female,1962-05-16,,Mara Brawer.png,Mara Brawer
 Argentina,member of the Argentine Chamber of Deputies,Juan Carlos Alderete,Q81549870,2019-12-19,,male,1952-09-19,,Jornada Nacional contra la Pobreza - Juan Carlos Alderete - Corriente Clasista y Combativa.jpg,Juan Carlos Alderete
-Argentina,member of the Argentine Chamber of Deputies,Federico Fagioli,Q96625184,2019-12-19,,male,1991-03-27,,,Federico Fagioli
-Argentina,member of the Argentine Chamber of Deputies,Juan Emilio Ameri,Q96923423,2019-12-19,2020-09-25,male,1973-05-25,,,Juan Emilio Ameri
+Argentina,member of the Argentine Chamber of Deputies,Federico Fagioli,Q96625184,2019-12-19,,male,1991-03-27,,Federico Fagioli.png,Federico Fagioli
+Argentina,member of the Argentine Chamber of Deputies,Juan Emilio Ameri,Q96923423,2019-12-19,2020-09-25,male,1973-05-25,,Juanameri.jpg,Juan Emilio Ameri
 Argentina,member of the Argentine Chamber of Deputies,Gisela Marziotta,Q48216423,2020-01-29,2021-12-09,female,1975-03-19,,Gisela Marziotta 2019.jpg,Gisela Marziotta
 Argentina,member of the Argentine Chamber of Deputies,Adriana Cáceres,Q105681968,2020-02-26,2021-12-09,female,1982,,Adriana Cintia Cáceres.png,Adriana Cáceres
 Argentina,member of the Argentine Chamber of Deputies,Liliana Schwindt,Q21856273,2020-02-27,2021-12-09,female,1963-05-13,,María Liliana Schwindt.png,Liliana Schwindt
@@ -739,7 +739,7 @@ Argentina,member of the Argentine Chamber of Deputies,Natalia Marcela Souto,Q111
 Argentina,member of the Argentine Chamber of Deputies,Emiliano Estrada,Q104234791,2021-12-10,,male,,,Emiliano Rafael Estrada.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Victoria Tolosa Paz,Q107209202,2021-12-10,,female,1973-06-24,,Victoria Tolosa Paz HCDN.png,Victoria Tolosa Paz
 Argentina,member of the Argentine Chamber of Deputies,Carolina Yutrovic,Q107646264,2021-12-10,,female,1964-09-12,,Inés Carolina Yutrovic.png,Carolina Yutrovic
-Argentina,member of the Argentine Chamber of Deputies,Mónica Litza,Q107674589,2021-12-10,,female,1,,,Mónica Litza
+Argentina,member of the Argentine Chamber of Deputies,Mónica Litza,Q107674589,2021-12-10,,female,1,,Mónica Edith Litza.png,Mónica Litza
 Argentina,member of the Argentine Chamber of Deputies,Carlos Zapata,Q108165085,2021-12-10,,male,1957-01-30,,CarlosZapata2020.jpg,
 Argentina,member of the Argentine Chamber of Deputies,Dante López Rodríguez,Q108299590,2021-12-10,,male,1969-12-13,,Dante Edgardo López Rodríguez.png,Dante López Rodríguez
 Argentina,member of the Argentine Chamber of Deputies,Pamela Calletti,Q108557748,2021-12-10,,,,,Calletti.png,
@@ -747,10 +747,10 @@ Argentina,member of the Argentine Chamber of Deputies,Leila Chaher,Q109950773,20
 Argentina,member of the Argentine Chamber of Deputies,Martín Tetaz,Q110050625,2021-12-10,,male,1974-12-20,,Martín Alberto Tetaz.png,Martín Tetaz
 Argentina,member of the Argentine Chamber of Deputies,Silvia Sayago,Q110101993,2021-12-10,2021-12-12,female,1955-03-02,2021-12-12,Silvia Sayago.png,Silvia Sayago
 Argentina,member of the Argentine Chamber of Deputies,Gabriela Brouwer de Koning,Q110249925,2021-12-10,,female,1980-12-17,,Gabriela Brouwer.jpg,
-Argentina,member of the Argentine Chamber of Deputies,Constanza Alonso,Q110459291,2021-12-10,,female,1986-02-02,,,
+Argentina,member of the Argentine Chamber of Deputies,Constanza Alonso,Q110459291,2021-12-10,,female,1986-02-02,,Constanza María Alonso.png,
 Argentina,member of the Argentine Chamber of Deputies,Paula Omodeo,Q110561315,2021-12-10,,female,1986-08-19,,Paula Omodeo.png,
-Argentina,member of the Argentine Chamber of Deputies,María Luisa Montoto,Q110822156,2021-12-10,,female,1952-03-28,,,María Luisa Montoto
-Argentina,member of the Argentine Chamber of Deputies,Bernardo José Herrera,Q111424753,2021-12-10,,,,,,
+Argentina,member of the Argentine Chamber of Deputies,María Luisa Montoto,Q110822156,2021-12-10,,female,1952-03-28,,María Luisa Montoto de Rogel.png,María Luisa Montoto
+Argentina,member of the Argentine Chamber of Deputies,Bernardo José Herrera,Q111424753,2021-12-10,,,,,Bernardo José Herrera.png,
 Argentina,member of the Argentine Chamber of Deputies,Agustina Lucrecia Propato,Q111481637,2021-12-10,,,,,,
 Argentina,member of the Argentine Chamber of Deputies,Agustín Domingo,Q111481638,2021-12-10,,,,,,
 Argentina,member of the Argentine Chamber of Deputies,Agustín Fernández,Q111481639,2021-12-10,,,,,,
@@ -808,7 +808,7 @@ Argentina,member of the Argentine Chamber of Deputies,Gustavo Santos,Q21601187,2
 Argentina,member of the Argentine Chamber of Deputies,Emilio Monzó,Q21614815,2021-12-10,,male,1965-09-26,,Emonzo.jpg,Emilio Monzó
 Argentina,member of the Argentine Chamber of Deputies,Carla Carrizo,Q21855237,2021-12-10,,female,1966,,Ccarrizo.jpg,Carla Carrizo
 Argentina,member of the Argentine Chamber of Deputies,María Soledad Carrizo,Q21856085,2021-12-10,,female,1977,,María Soledad Carrizo.png,Soledad Carrizo
-Argentina,member of the Argentine Chamber of Deputies,Ana Carolina Gaillard,Q21856142,2021-12-10,,female,1981-10-12,,,Carolina Gaillard
+Argentina,member of the Argentine Chamber of Deputies,Ana Carolina Gaillard,Q21856142,2021-12-10,,female,1981-10-12,,Carolina Gaillard 2021.png,Carolina Gaillard
 Argentina,member of the Argentine Chamber of Deputies,Luciano Andrés Laspina,Q21856172,2021-12-10,,male,1972-08-08,,Luciano Andrés Laspina.png,
 Argentina,member of the Argentine Chamber of Deputies,Marcela Fabiana Passo,Q21856223,2021-12-10,,female,,,,
 Argentina,member of the Argentine Chamber of Deputies,Juan Manuel Pedrini,Q21856226,2021-12-10,,male,1960,,Juan Manuel Pedrini.png,
@@ -855,8 +855,8 @@ Argentina,member of the Argentine Chamber of Deputies,Alejandro Vilca,Q62118467,
 Argentina,member of the Argentine Chamber of Deputies,Mario Barletta,Q6764548,2021-12-10,,male,1953-12-30,,Mario Barletta.jpg,Mario Barletta
 Argentina,member of the Argentine Chamber of Deputies,María Eugenia Vidal,Q6782004,2021-12-10,,female,1973-09-08,,María Eugenia Vidal en 2019 (cropped).jpg,María Eugenia Vidal
 Argentina,member of the Argentine Chamber of Deputies,Mónica Fein,Q6950244,2021-12-10,,female,1957-06-03,,Monica Fein en 2015 (cropped).jpg,Mónica Fein
-Argentina,member of the Argentine Chamber of Deputies,Roberto Mirabella,Q77247669,2021-12-10,,male,1966-11-26,,,Roberto Mirabella
-Argentina,member of the Argentine Chamber of Deputies,Fabiola Aubone,Q85869425,2021-12-10,,female,,,,
+Argentina,member of the Argentine Chamber of Deputies,Roberto Mirabella,Q77247669,2021-12-10,,male,1966-11-26,,Roberto Mario Mirabella.jpg,Roberto Mirabella
+Argentina,member of the Argentine Chamber of Deputies,Fabiola Aubone,Q85869425,2021-12-10,,female,,,Ana Fabiola Aubone.png,
 Argentina,member of the Argentine Chamber of Deputies,Ricardo López Murphy,Q957748,2021-12-10,,male,1951-08-10,,López Murphy 2000.jpg,Ricardo López Murphy
 Argentina,member of the Argentine Chamber of Deputies,Florencio Randazzo,Q963100,2021-12-10,,male,1964-03-01,,Randazzo2.jpg,Florencio Randazzo
 Argentina,member of the Argentine Chamber of Deputies,Carolina Píparo,Q98470534,2021-12-10,,female,1976-09-12,,Carolina Píparo.png,
@@ -871,7 +871,7 @@ Argentina,member of the Argentine Chamber of Deputies,Matías Taccetta,Q11148167
 Argentina,member of the Argentine Chamber of Deputies,Nilda Moyano,Q111481682,2021-12-16,,,,,,
 Argentina,member of the Argentine Chamber of Deputies,Rogelio Frigerio,Q11184187,2021-12-16,,male,1970-01-07,,Rogelio Frigerio (cropped).jpg,Rogelio Frigerio
 Argentina,member of the Argentine Chamber of Senators,Augusto Alasino,Q18715173,1992-12-02,2001-12-09,male,1947,,Augusto Alasino.png,
-Argentina,member of the Argentine Chamber of Senators,Ricardo Alberto Branda,Q18745693,1992-12-02,2001-12-09,male,1950,,,
+Argentina,member of the Argentine Chamber of Senators,Ricardo Alberto Branda,Q18745693,1992-12-02,2001-12-09,male,1950,,Ricardo Branda - Senador.png,
 Argentina,member of the Argentine Chamber of Senators,Fernando Venancio Cabana,Q18755760,1992-12-02,2001-12-09,male,1930-03-03,,Fernando Venancio Cabana.gif,
 Argentina,member of the Argentine Chamber of Senators,Antonio Cafiero,Q2347235,1992-12-02,2001-12-09,male,1922-09-12,2014-10-13,Antonio Cafiero 1988.png,Antonio Cafiero
 Argentina,member of the Argentine Chamber of Senators,Julio César Humada,Q5955152,1992-12-02,2001-12-09,male,1936-02-01,2015-05-19,Dr. Julio César Humada.jpg,
@@ -883,7 +883,7 @@ Argentina,member of the Argentine Chamber of Senators,Felipe Rodolfo Sapag,Q1926
 Argentina,member of the Argentine Chamber of Senators,José Antonio Romero Feris,Q17987536,1995-11-29,2001-12-09,male,1941-02-25,,José Antonio Romero Feris (cropped).jpg,
 Argentina,member of the Argentine Chamber of Senators,Jorge Alfredo Agúndez,Q18715171,1995-11-29,2001-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Senators,Daniel Baum,Q18744922,1995-11-29,2001-12-09,male,1950-03-26,,,
-Argentina,member of the Argentine Chamber of Senators,Marcelo Emilio Cantarero,Q18756484,1995-11-29,2001-12-10,male,1943,,,
+Argentina,member of the Argentine Chamber of Senators,Marcelo Emilio Cantarero,Q18756484,1995-11-29,2001-12-10,male,1943,,Emilio Marcelo Cantarero.png,
 Argentina,member of the Argentine Chamber of Senators,Carlos Leonardo de la Rosa,Q18761869,1995-11-29,2001-12-09,male,1944-03-02,,Senador Carlos Leonardo de la Rosa.gif,
 Argentina,member of the Argentine Chamber of Senators,Raúl Alfredo Galván,Q18811461,1995-11-29,2001-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Senators,Juan Ignacio Melgarejo,Q19015986,1995-11-29,2000-11-29,male,,,,
@@ -959,13 +959,13 @@ Argentina,member of the Argentine Chamber of Senators,Juan Carlos Passo,Q1911843
 Argentina,member of the Argentine Chamber of Senators,Carlos Alfonso Prades,Q19245981,2001-12-10,2005-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Senators,Pablo Héctor Walter,Q19260747,2001-12-10,2003-12-09,male,,,,
 Argentina,member of the Argentine Chamber of Senators,Beatriz Susana Halak,Q19261440,2001-12-10,2003-08-06,female,1950-05-15,,Beatriz Susana Halak.jpg,
-Argentina,member of the Argentine Chamber of Senators,Marcela Fabiana Lescano,Q19261489,2001-12-10,2005-12-09,female,,,,
+Argentina,member of the Argentine Chamber of Senators,Marcela Fabiana Lescano,Q19261489,2001-12-10,2005-12-09,female,,,Marcela Fabiana Lescano - Senadora.png,
 Argentina,member of the Argentine Chamber of Senators,Floriana Nélida Martín,Q19261539,2001-12-10,2005-12-09,female,1935,,Floriana Nélida Martín.jpg,
 Argentina,member of the Argentine Chamber of Senators,Mabel Hilda Müller,Q19261613,2001-12-10,2005-12-09,female,,,Mabel Hilda Müller - Diputados.jpg,
 Argentina,member of the Argentine Chamber of Senators,Elva Azucena Paz,Q19261624,2001-12-10,2005-12-09,female,1942,,Elva Azucena Paz.jpg,
 Argentina,member of the Argentine Chamber of Senators,Eduardo Aníbal Moro,Q19276513,2001-12-10,2003-12-04,male,1940-06-24,,,
 Argentina,member of the Argentine Chamber of Senators,Raúl Alfonsín,Q193062,2001-12-10,2002-07-03,male,1927-03-12,2009-03-31,Argentina.RaulAlfonsin.01.jpg,Raúl Alfonsín
-Argentina,member of the Argentine Chamber of Senators,Miguel Ángel Pichetto,Q1932735,2001-12-10,2019-12-09,male,1950-10-24,,,Miguel Ángel Pichetto
+Argentina,member of the Argentine Chamber of Senators,Miguel Ángel Pichetto,Q1932735,2001-12-10,2019-12-09,male,1950-10-24,,MAP Foto Oficial AGN.jpg,Miguel Ángel Pichetto
 Argentina,member of the Argentine Chamber of Senators,Isabel Viudes,Q2888825,2001-12-10,2001-12-12,female,1944-05-11,,Isabel Viudes.jpg,Isabel Viudes
 Argentina,member of the Argentine Chamber of Senators,Eduardo Duhalde,Q294578,2001-12-10,2002-01-04,male,1941-10-05,,Duhalde23012007.jpg,Eduardo Duhalde
 Argentina,member of the Argentine Chamber of Senators,Eduardo Brizuela del Moral,Q3048310,2001-12-10,2003-12-10,male,1944-08-20,2021-08-25,Brizuela del Moral.jpg,Eduardo Brizuela del Moral
@@ -1018,9 +1018,9 @@ Argentina,member of the Argentine Chamber of Senators,Jacobo Alberto Abrameto,Q1
 Argentina,member of the Argentine Chamber of Senators,Blanca Osuna,Q4924764,2007-12-10,2011-12-09,female,1950-10-25,,Blanca Osuna (cropped).jpg,Blanca Osuna
 Argentina,member of the Argentine Chamber of Senators,Daniel Filmus,Q5217139,2007-12-10,2013-12-10,male,1955-06-03,,Ministro Daniel Fernando Filmus.jpg,Daniel Filmus
 Argentina,member of the Argentine Chamber of Senators,Eric Calcagno,Q5386230,2007-12-10,2011-12-09,male,1967-04-09,,Calcagno Eric.jpg,Eric Calcagno
-Argentina,member of the Argentine Chamber of Senators,Fabio Biancalani,Q5427799,2007-12-10,2013-12-09,male,1961-09-22,,,Fabio Biancalani
+Argentina,member of the Argentine Chamber of Senators,Fabio Biancalani,Q5427799,2007-12-10,2013-12-09,male,1961-09-22,,Fabio Biancalani.jpg,Fabio Biancalani
 Argentina,member of the Argentine Chamber of Senators,Marcelo Fuentes,Q5995804,2007-12-10,2013-12-09,male,1948-10-06,,Marcelo Fuentes.png,Marcelo Fuentes
-Argentina,member of the Argentine Chamber of Senators,Juan Carlos Romero,Q6299395,2007-12-10,,male,1950-11-16,,Dr. Juan Carlos Romero.png,Juan Carlos Romero (politician)
+Argentina,member of the Argentine Chamber of Senators,Juan Carlos Romero,Q6299395,2007-12-10,2019-12-09,male,1950-11-16,,Dr. Juan Carlos Romero.png,Juan Carlos Romero (politician)
 Argentina,member of the Argentine Chamber of Senators,María José Bongiorno,Q6389305,2007-12-10,2013-12-09,female,,,María José Bongiorno.jpg,María José Bongiorno
 Argentina,member of the Argentine Chamber of Senators,Nanci Parrilli,Q9048549,2007-12-10,2013-12-09,female,1953-09-07,,Nanci Parrilli.jpg,Nanci Parrilli
 Argentina,member of the Argentine Chamber of Senators,José Carlos Martínez,Q943389,2007-12-10,2011-07-07,male,1962-11-29,2011-07-07,José Martínez Senador.png,José Carlos Martínez (politician)
@@ -1038,9 +1038,9 @@ Argentina,member of the Argentine Chamber of Senators,Carlos Menem,Q185107,2011-
 Argentina,member of the Argentine Chamber of Senators,Salvador Cabral,Q18711860,2011-12-10,2017-12-09,male,1943-10-07,2020-02-01,Salvador Cabral.png,
 Argentina,member of the Argentine Chamber of Senators,Marta Borello,Q18711904,2011-12-10,2015-12-09,female,1949-05-25,,Marta Borello.jpg,
 Argentina,member of the Argentine Chamber of Senators,Hilda Clelia Aguirre,Q18711912,2011-12-10,2017-12-09,female,1960-04-11,,Hilda Clelia Aguirre - Diputados.png,
-Argentina,member of the Argentine Chamber of Senators,Inés Blas,Q18711914,2011-12-10,2021-12-09,female,1959-04-21,,,Inés Blas
+Argentina,member of the Argentine Chamber of Senators,Inés Blas,Q18711914,2011-12-10,2021-12-09,female,1959-04-21,,Ines Blas.png,Inés Blas
 Argentina,member of the Argentine Chamber of Senators,María Ester Labado,Q18711919,2011-12-10,2017-12-09,female,,,Maria Labado.png,
-Argentina,member of the Argentine Chamber of Senators,Mirtha María Teresita Luna,Q18711924,2011-12-10,2017-12-09,female,1964-02-19,,,Teresita Luna
+Argentina,member of the Argentine Chamber of Senators,Mirtha María Teresita Luna,Q18711924,2011-12-10,2017-12-09,female,1964-02-19,,Teresita Luna.png,Teresita Luna
 Argentina,member of the Argentine Chamber of Senators,Juan Manuel Irrazábal,Q23304232,2011-12-10,2017-12-09,male,1960,,Irrazabal.png,
 Argentina,member of the Argentine Chamber of Senators,Aníbal Fernández,Q2857937,2011-12-10,2014-12-16,male,1957-01-09,,Ministro Aníbal Domingo Fernández.jpg,Aníbal Fernández
 Argentina,member of the Argentine Chamber of Senators,Adolfo Rodríguez Saá,Q312358,2011-12-10,2017-12-09,male,1947-07-25,,Arodriguezsaa.jpg,Adolfo Rodríguez Saá
@@ -1062,7 +1062,7 @@ Argentina,member of the Argentine Chamber of Senators,Magdalena Odarda,Q16301366
 Argentina,member of the Argentine Chamber of Senators,Rodolfo Urtubey,Q16302727,2013-12-10,2019-12-09,male,1959-03-27,,Urtubey.png,
 Argentina,member of the Argentine Chamber of Senators,Eduardo Alberto Aguilar,Q18711852,2013-12-10,2019-12-09,male,1971,,Eduardo Aguilar-2011.JPG,
 Argentina,member of the Argentine Chamber of Senators,Guillermo Juan Pereyra,Q18711889,2013-12-10,2019-12-09,male,1943-06-25,,Guillermo Pereyra.png,
-Argentina,member of the Argentine Chamber of Senators,Gerardo Antenor Montenegro,Q18711897,2013-12-10,,male,,,,
+Argentina,member of the Argentine Chamber of Senators,Gerardo Antenor Montenegro,Q18711897,2013-12-10,2019-12-09,male,1960,,Gerardo Montenegro.png,
 Argentina,member of the Argentine Chamber of Senators,Maria Cristina del Valle Fiore Viñuales,Q18711917,2013-12-10,2019-12-09,female,1974-02-16,,Fiore Viñuales.png,Cristina Fiore
 Argentina,member of the Argentine Chamber of Senators,Sigrid Elisabeth Kunath,Q18711918,2013-12-10,2019-12-10,female,1969-06-06,,Sigrid Kunath.jpg,
 Argentina,member of the Argentine Chamber of Senators,Carmen Lucila Crexell,Q18711932,2013-12-10,2019-12-09,female,1972-08-10,,Carmen Crexell.png,Carmen Lucila Crexell
@@ -1072,7 +1072,7 @@ Argentina,member of the Argentine Chamber of Senators,Gerardo Zamora,Q4838698,20
 Argentina,member of the Argentine Chamber of Senators,Fernando Solanas,Q508497,2013-12-10,2019-12-09,male,1936-02-16,2020-11-06,"Fernando Solanas, 1985.jpg",Fernando Solanas
 Argentina,member of the Argentine Chamber of Senators,Gabriela Michetti,Q5515970,2013-12-10,2015-12-10,female,1965-05-28,,Gabriela Michetti.jpg,Gabriela Michetti
 Argentina,member of the Argentine Chamber of Senators,Ángel Rozas,Q591796,2013-12-10,2019-12-09,male,1950-03-22,,Angel Rozas.JPG,Ángel Rozas
-Argentina,member of the Argentine Chamber of Senators,Julio Catalán Magni,Q5955126,2013-12-10,2019-12-09,male,1968-08-14,,,
+Argentina,member of the Argentine Chamber of Senators,Julio Catalán Magni,Q5955126,2013-12-10,2019-12-09,male,1968-08-14,,Julio Catalán Magni - Diputados.jpg,
 Argentina,member of the Argentine Chamber of Senators,Marcelo Fuentes,Q5995804,2013-12-10,2019-12-09,male,1948-10-06,,Marcelo Fuentes.png,Marcelo Fuentes
 Argentina,member of the Argentine Chamber of Senators,María Inés Pilatti Vergara,Q6003917,2013-12-10,2019-12-09,female,1965-08-02,,María Inés Pilatti Vergara.png,María Inés Pilatti Vergara
 Argentina,member of the Argentine Chamber of Senators,Pedro Guillermo Ángel Guastavino,Q6069019,2013-12-10,2019-12-09,male,1954-07-01,,Pedro Guastavino.png,Pedro Guastavino
@@ -1093,10 +1093,10 @@ Argentina,member of the Argentine Chamber of Senators,Carlos Alberto Caserio,Q41
 Argentina,member of the Argentine Chamber of Senators,Ana Claudia Almirón,Q41658526,2015-12-10,2021-12-09,female,1984,,Ana Claudia Almiron.png,Ana Almirón
 Argentina,member of the Argentine Chamber of Senators,Anabel Fernández Sagasti,Q41658530,2015-12-10,2021-12-10,female,1984-04-03,,Anabel Fernández Sagasti.png,Anabel Fernández Sagasti
 Argentina,member of the Argentine Chamber of Senators,Beatriz Graciela Mirkin,Q41658534,2015-12-10,2021-12-09,female,1955-08-09,,Mirkin.png,
-Argentina,member of the Argentine Chamber of Senators,Dalmacio Mera Figueroa,Q41658537,2015-12-10,2021-12-09,male,1970-11-13,,,Dalmacio Mera
+Argentina,member of the Argentine Chamber of Senators,Dalmacio Mera Figueroa,Q41658537,2015-12-10,2021-12-09,male,1970-11-13,,Dalmacio Mera.png,Dalmacio Mera
 Argentina,member of the Argentine Chamber of Senators,Daniel Aníbal Lovera,Q41658542,2015-12-10,2021-12-09,male,1965-02-07,,Daniel Lovera.jpg,Daniel Lovera
 Argentina,member of the Argentine Chamber of Senators,José Anatolio Ojeda,Q41658546,2015-12-10,2019-12-09,male,1962-03-01,,José Ojeda (cropped).jpg,
-Argentina,member of the Argentine Chamber of Senators,Juan Mario Pais,Q41658550,2015-12-10,2021-12-09,male,1955-11-07,,,Juan Mario Pais
+Argentina,member of the Argentine Chamber of Senators,Juan Mario Pais,Q41658550,2015-12-10,2021-12-09,male,1955-11-07,,Juan Mario Pais.png,Juan Mario Pais
 Argentina,member of the Argentine Chamber of Senators,Nancy Susana González,Q41658560,2015-12-10,2021-12-09,female,1961-02-10,,Nancy González (cropped).jpg,Nancy González (politician)
 Argentina,member of the Argentine Chamber of Senators,Norma Haydée Durango,Q41658565,2015-12-10,2021-12-09,female,1952,,Norma Durango.png,Norma Durango
 Argentina,member of the Argentine Chamber of Senators,Virginia María García,Q41658568,2015-12-10,2017-12-09,female,,,Virginia María García.png,Virginia María García
@@ -1107,10 +1107,11 @@ Argentina,member of the Argentine Chamber of Senators,Federico Pinedo,Q5857789,2
 Argentina,member of the Argentine Chamber of Senators,Juan Carlos Marino,Q5948411,2015-12-10,2021-12-09,male,1963-10-23,,Juan Carlos Marino.jpg,Juan Carlos Marino (Argentine politician)
 Argentina,member of the Argentine Chamber of Senators,Pedro Braillard Poccard,Q6068353,2015-12-10,2021-12-09,male,1954-04-08,,"Néstor Pedro Braillard Poccard, Vicegobernador.jpg",
 Argentina,member of the Argentine Chamber of Senators,Oscar Castillo,Q7105913,2015-12-10,2021-12-09,male,1954-01-18,,Oscar Castillo.png,Oscar Castillo
-Argentina,member of the Argentine Chamber of Senators,Marta Varela,Q27308136,2016-02-11,2019-12-09,female,1950-09-25,,,
+Argentina,member of the Argentine Chamber of Senators,Marta Varela,Q27308136,2016-02-11,2019-12-09,female,1950-09-25,,Marta Varela.png,
 Argentina,member of the Argentine Chamber of Senators,Humberto Schiavoni,Q11682645,2017-12-10,,male,1958-07-10,,Humberto Schiavoni.jpg,Humberto Schiavoni
 Argentina,member of the Argentine Chamber of Senators,Carlos Menem,Q185107,2017-12-10,2021-02-14,male,1930-07-02,2021-02-14,Menem con banda presidencial.jpg,Carlos Menem
 Argentina,member of the Argentine Chamber of Senators,Gladys González,Q20015265,2017-12-10,,female,1973-05-30,,Gladys González senadora.png,Gladys González
+Argentina,member of the Argentine Chamber of Senators,Julio Martínez,Q21591711,2017-12-10,,male,1962-03-23,,Julio Martínez UCR.png,
 Argentina,member of the Argentine Chamber of Senators,Guillermo Snopek,Q21856278,2017-12-10,,male,1975,,Guillermo Snopek.jpg,
 Argentina,member of the Argentine Chamber of Senators,Cristina Fernández de Kirchner,Q40649,2017-12-10,2019-12-10,female,1953-02-19,,Cristinakirchnermensaje2010.jpg,Cristina Fernández de Kirchner
 Argentina,member of the Argentine Chamber of Senators,Mario Raymundo Fiad,Q41587454,2017-12-10,,male,1957,,Paris - Marche pour la Vie 2019 - 19.jpg,Mario Fiad
@@ -1118,13 +1119,14 @@ Argentina,member of the Argentine Chamber of Senators,María Teresa Margarita Go
 Argentina,member of the Argentine Chamber of Senators,Silvia del Rosario Giacoppo,Q41658575,2017-12-10,,female,1959-05-01,,Giacoppo.png,
 Argentina,member of the Argentine Chamber of Senators,Cristina López Valverde,Q47108965,2017-12-10,,female,1959-02-15,,Cristina Del Carmen López Valverde senadora.png,
 Argentina,member of the Argentine Chamber of Senators,José Rubén Uñac,Q47167622,2017-12-10,,male,1964-03-19,,José Rubén Uñac senador.png,
-Argentina,member of the Argentine Chamber of Senators,María Eugenia Catalfamo,Q47199903,2017-12-10,,female,1987-10-04,,,María Eugenia Catalfamo
+Argentina,member of the Argentine Chamber of Senators,María Eugenia Catalfamo,Q47199903,2017-12-10,,female,1987-10-04,,María Eugenia Catalfamo senadora.png,María Eugenia Catalfamo
 Argentina,member of the Argentine Chamber of Senators,Ana María Ianni,Q47199960,2017-12-10,,female,1969-09-21,,Ana María Ianni senadora.png,
 Argentina,member of the Argentine Chamber of Senators,María Belén Tapia,Q47200046,2017-12-10,,female,1973-11-10,,María Belén Tapia senadora.png,
-Argentina,member of the Argentine Chamber of Senators,Magdalena Solari Quintana,Q47201914,2017-12-10,,female,1968-01-23,,,Magdalena Solari Quintana
+Argentina,member of the Argentine Chamber of Senators,Magdalena Solari Quintana,Q47201914,2017-12-10,,female,1968-01-23,,Magdalena Solari Quintana.png,Magdalena Solari Quintana
 Argentina,member of the Argentine Chamber of Senators,Blanca Porcel de Riccobelli,Q47439677,2017-12-10,2019-12-09,female,1943,,Blanca Porcel de Riccobelli senadora.png,
 Argentina,member of the Argentine Chamber of Senators,Maurice Closs,Q4838458,2017-12-10,,male,1971-06-10,,Maurice-Closs.JPG,Maurice Closs
 Argentina,member of the Argentine Chamber of Senators,Claudio Poggi,Q4838522,2017-12-10,2019-12-09,male,1963-10-07,,Claudio Javier Poggi.png,Claudio Poggi
+Argentina,member of the Argentine Chamber of Senators,Claudio Poggi,Q4838522,2017-12-10,2021-12-08,male,1963-10-07,,Claudio Javier Poggi.png,Claudio Poggi
 Argentina,member of the Argentine Chamber of Senators,Esteban Bullrich,Q5400763,2017-12-10,2021-12-09,male,1969-05-26,,Ebullrich.jpg,Esteban Bullrich
 Argentina,member of the Argentine Chamber of Senators,Eduardo Raúl Costa,Q5819618,2017-12-10,,male,1961-08-27,,Ecosta.jpg,
 Argentina,member of the Argentine Chamber of Senators,Olga Inés Brizuela y Doria,Q6049818,2017-12-10,2019-12-10,female,1971,,Olga Inés Brizuela y Doria (cropped).jpg,
@@ -1140,6 +1142,7 @@ Argentina,member of the Argentine Chamber of Senators,Víctor Zimmermann,Q110071
 Argentina,member of the Argentine Chamber of Senators,Edgardo Darío Kueider,Q110072258,2019-12-10,,male,,,Edgardo Darío Kueider.png,
 Argentina,member of the Argentine Chamber of Senators,Claudia Ledesma Abdala de Zamora,Q16300546,2019-12-10,,female,1974-09-14,,Claudia Ledesma Abdala 24-06-2021 cropped.png,Claudia Ledesma Abdala
 Argentina,member of the Argentine Chamber of Senators,Mariano Recalde,Q16599648,2019-12-10,,male,1972-04-08,,Mariano Recalde 2018 IMG 4564.jpg,Mariano Recalde
+Argentina,member of the Argentine Chamber of Senators,Gerardo Antenor Montenegro,Q18711897,2019-12-10,,male,1960,,Gerardo Montenegro.png,
 Argentina,member of the Argentine Chamber of Senators,Carmen Lucila Crexell,Q18711932,2019-12-10,,female,1972-08-10,,Carmen Crexell.png,Carmen Lucila Crexell
 Argentina,member of the Argentine Chamber of Senators,Silvia Sapag,Q19264170,2019-12-10,,female,1949-02-22,,Silvia Sapag - Diputada.jpg,Silvia Sapag
 Argentina,member of the Argentine Chamber of Senators,Claudio Martín Doñate,Q21856120,2019-12-10,,male,1975-10-12,,Claudio Martín Doñate senado.png,
@@ -1147,10 +1150,12 @@ Argentina,member of the Argentine Chamber of Senators,Matías David Rodríguez,Q
 Argentina,member of the Argentine Chamber of Senators,Alberto Weretilneck,Q3740202,2019-12-10,,male,1962-10-11,,Albertoweretilneck.jpg,Alberto Weretilneck
 Argentina,member of the Argentine Chamber of Senators,Maria Clara Del Valle Vega,Q41555902,2019-12-10,,female,,,María Clara del Valle Vega senado.png,
 Argentina,member of the Argentine Chamber of Senators,Sergio Napoleón Leavy,Q47144945,2019-12-10,,male,1963-11-22,,Sergio Napoleón Leavy.png,Sergio Leavy
+Argentina,member of the Argentine Chamber of Senators,María Inés Pilatti Vergara,Q6003917,2019-12-10,,female,1965-08-02,,María Inés Pilatti Vergara.png,María Inés Pilatti Vergara
 Argentina,member of the Argentine Chamber of Senators,Oscar Parrilli,Q6053944,2019-12-10,,male,1951-08-13,,Oscar Parrilli.jpg,Oscar Parrilli
+Argentina,member of the Argentine Chamber of Senators,Juan Carlos Romero,Q6299395,2019-12-10,,male,1950-11-16,,Dr. Juan Carlos Romero.png,Juan Carlos Romero (politician)
 Argentina,member of the Argentine Chamber of Senators,Martín Lousteau,Q6553522,2019-12-10,,male,1970-12-08,,MLousteau.jpg,Martín Lousteau
 Argentina,member of the Argentine Chamber of Senators,Jorge Taiana,Q721561,2019-12-10,2021-08-10,male,1950-05-31,,Ministro Jorge Enrique Taiana.jpg,Jorge Taiana
-Argentina,member of the Argentine Chamber of Senators,Roberto Mirabella,Q77247669,2019-12-10,2021-12-09,male,1966-11-26,,,Roberto Mirabella
+Argentina,member of the Argentine Chamber of Senators,Roberto Mirabella,Q77247669,2019-12-10,2021-12-09,male,1966-11-26,,Roberto Mario Mirabella.jpg,Roberto Mirabella
 Argentina,member of the Argentine Chamber of Senators,Alfredo de Angeli,Q8195420,2019-12-10,,male,1957-02-16,,Alfredo de Angeli senador.png,Alfredo de Angeli
 Argentina,member of the Argentine Chamber of Senators,José Emilio Neder,Q84706374,2019-12-10,,male,1954,,José Emilio Neder (2013) crop.jpg,
 Argentina,member of the Argentine Chamber of Senators,Guadalupe Tagliaferri,Q84899709,2019-12-10,,female,1974-06-26,,Guadalupe Tagliaferri.png,Guadalupe Tagliaferri
@@ -1170,13 +1175,13 @@ Argentina,member of the Argentine Chamber of Senators,Guillermo Eduardo Andrada,
 Argentina,member of the Argentine Chamber of Senators,Edith Terenzi,Q110071482,2021-12-10,,female,1959-06-07,,Edith Terenzi.png,
 Argentina,member of the Argentine Chamber of Senators,Carmen Álvarez Rivero,Q110071905,2021-12-10,,female,,,Carmen Álvarez Rivero.png,
 Argentina,member of the Argentine Chamber of Senators,Mercedes Gabriela Valenzuela,Q110072156,2021-12-10,,female,,,Mercedes Valenzuela.png,
-Argentina,member of the Argentine Chamber of Senators,Daniel Pablo Bensusán,Q110072488,2021-12-10,,male,,,,
+Argentina,member of the Argentine Chamber of Senators,Daniel Pablo Bensusán,Q110072488,2021-12-10,,male,,,Pali Bensusán.jpg,
 Argentina,member of the Argentine Chamber of Senators,María Victoria Huala,Q110072511,2021-12-10,,female,,,María Victoria Huala.png,
 Argentina,member of the Argentine Chamber of Senators,Marcelo Néstor Lewandowski,Q110073537,2021-12-10,,male,,,Marcelo Lewandowski.png,
 Argentina,member of the Argentine Chamber of Senators,Sandra Mariela Mendoza,Q110073872,2021-12-10,,female,,,Sandra Mariela Mendoza.png,
 Argentina,member of the Argentine Chamber of Senators,Luis Juez,Q1280001,2021-12-10,,male,1963-09-13,,Luis Juez 2011-06-22.jpg,Luis Juez
 Argentina,member of the Argentine Chamber of Senators,Eduardo Vischi,Q20014668,2021-12-10,,male,1970-11-03,,Eduardo Vischi.jpg,
-Argentina,member of the Argentine Chamber of Senators,Daniel Ricardo Kroneberger,Q21856170,2021-12-10,,male,,,,
+Argentina,member of the Argentine Chamber of Senators,Daniel Ricardo Kroneberger,Q21856170,2021-12-10,,male,,,Daniel Ricardo Kroneberger.png,
 Argentina,member of the Argentine Chamber of Senators,Anabel Fernández Sagasti,Q41658530,2021-12-10,,female,1984-04-03,,Anabel Fernández Sagasti.png,Anabel Fernández Sagasti
 Argentina,member of the Argentine Chamber of Senators,Alejandra María Vigo,Q47142712,2021-12-10,,female,1957-09-22,,Alejandra Vigo 2019.png,Alejandra Vigo
 Argentina,member of the Argentine Chamber of Senators,Beatriz Luisa Ávila,Q47145509,2021-12-10,,female,1966-10-05,,Beatriz Luisa Ávila.png,Beatriz Ávila
@@ -1184,6 +1189,7 @@ Argentina,member of the Argentine Chamber of Senators,Pablo Raul Yedlin,Q4745514
 Argentina,member of the Argentine Chamber of Senators,Lucía Corpacci,Q4837851,2021-12-10,,female,1958-12-04,,Lucía Corpacci.jpg,Lucía Corpacci
 Argentina,member of the Argentine Chamber of Senators,Alfredo Cornejo,Q5668101,2021-12-10,,male,1962-03-20,,Alfredo Cornejo 2 (cropped).jpg,Alfredo Cornejo (politician)
 Argentina,member of the Argentine Chamber of Senators,Mariana Juri,Q63342213,2021-12-10,,female,1969-03-24,,Mariana Juri.png,
+Argentina,member of the Argentine Chamber of Senators,José María Torello,Q111492729,2022-02-24,,,,,,
 Argentina,deputy of the province of Santa Fe,Aldo Strada,Q29071553,2003,2007,male,1955,2017-01-17,Aldo Strada.jpg,
 Argentina,deputy of the province of Santa Fe,Lucila de Ponti,Q21856094,2019-12-10,,female,1985-09-03,,Lucila María de Ponti.png,
 Argentina,deputy of the province of Santa Fe,Miguel Lifschitz,Q6844641,2019-12-11,2021-05-09,male,1955-09-13,2021-05-09,Miguel Lifschitz en conferencia.jpg,Miguel Lifschitz
