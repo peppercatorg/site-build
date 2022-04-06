@@ -7987,6 +7987,8 @@ Malta,Q167724,Guido de Marco,child,Q441784,Mario de Marco
 Malta,Q23881652,Silvio Schembri,relative,Q5080619,Charles Mangion
 Malta,Q23881652,Silvio Schembri,spouse,Q110644080,Deandra Schembri
 Malta,Q37860840,Robert Abela,father,Q57502,George Abela
+Malta,Q37860840,Robert Abela,mother,Q6759132,Margaret Abela
+Malta,Q37860840,Robert Abela,spouse,Q111467775,Lydia Abela Zerafa
 Malta,Q441784,Mario de Marco,father,Q167724,Guido de Marco
 Malta,Q57502,George Abela,child,Q37860840,Robert Abela
 Malta,Q57502,George Abela,spouse,Q6759132,Margaret Abela
