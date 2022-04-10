@@ -50,13 +50,18 @@ New Zealand,Q6766765,Mark Blumsky,father,Q14537108,John Blumsky
 New Zealand,Q6768911,Mark Mitchell,spouse,Q109998376,Peggy Bourne
 New Zealand,Q7437262,Scott Simpson,spouse,Q27449969,Desley Simpson
 New Zealand,Q8021596,Willie Jackson,mother,Q78636699,June Jackson
+New Zealand,Q8021596,Willie Jackson,relative,Q15991705,Everard Jackson
+New Zealand,Q8021596,Willie Jackson,relative,Q5498773,Frederick Stanley Jackson
+New Zealand,Q8021596,Willie Jackson,relative,Q6886401,Moana Jackson
+New Zealand,Q8021596,Willie Jackson,relative,Q7659700,Syd Jackson
+New Zealand,Q8021596,Willie Jackson,spouse,Q6886396,Moana
 New Zealand,Q81749869,Tracey McLellan,child,Q81750859,Jake McLellan
 New Zealand,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 New Zealand,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 New Zealand,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
 New Zealand,Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
 New Zealand,Q9682,Elizabeth II,father,Q280856,George VI
-New Zealand,Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
+New Zealand,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 New Zealand,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 New Zealand,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
 New Zealand,Q99746504,Camilla Belich,spouse,Q28839674,Andrew Kirton

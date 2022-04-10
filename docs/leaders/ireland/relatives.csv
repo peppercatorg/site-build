@@ -1,6 +1,7 @@
 catalog,id,name,relationship,relative,relativename
 Ireland,Q1111220,David Andrews,child,Q3777503,Barry Andrews
 Ireland,Q1111220,David Andrews,child,Q5237464,David McSavage
+Ireland,Q13157830,Stephen Donnelly,spouse,Q111495702,Susan Leavy
 Ireland,Q1410728,Noel Ahern,sibling,Q154550,Bertie Ahern
 Ireland,Q1410728,Noel Ahern,sibling,Q1911246,Maurice Ahern
 Ireland,Q154550,Bertie Ahern,child,Q11971868,Georgina Byrne
@@ -93,6 +94,7 @@ Ireland,Q888438,Bobby Aylward,sibling,Q1822660,Liam Aylward
 Ireland,Q912430,"Brian Lenihan, Jnr",father,Q912542,Brian Lenihan Snr
 Ireland,Q912430,"Brian Lenihan, Jnr",relative,Q52325325,Feargal O'Rourke
 Ireland,Q912430,"Brian Lenihan, Jnr",sibling,Q5162247,Conor Lenihan
+Ireland,Q920403,Micheál Martin,child,Q82105313,Micheál Aodh Martin
 Ireland,Q954374,"Edward Haughey, Baron Ballyedmond",child,Q76260664,Caroline Haughey
 Ireland,Q954374,"Edward Haughey, Baron Ballyedmond",child,Q76260665,Edward Haughey
 Ireland,Q954374,"Edward Haughey, Baron Ballyedmond",child,Q76260666,James Haughey

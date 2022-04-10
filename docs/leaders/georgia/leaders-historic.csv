@@ -41,7 +41,7 @@ Georgia,Minister of Corrections,Sozar Subari,Q3649231,2012-10-25,2014-07-22,male
 Georgia,Minister of Corrections,Giorgi Mghebrishvili,Q24008023,2014-07-22,2015-08-01,male,1970-05-09,,Giorgi Mghebrishvili.jpg,
 Georgia,Minister of Corrections,კახა კახიშვილი,Q24008029,2015-08-01,2018-06-21,,1973-03-22,,,
 Georgia,Minister of Corrections,კახა კახიშვილი,Q24008029,2018-06-21,2018-07-14,,1973-03-22,,,
-Georgia,Minister of Culture and Sports,Valeri Asatiani,Q24008061,1995-12-21,2000-09-13,,1950-11-15,,,
+Georgia,Minister of Culture and Sports,Valeri Asatiani,Q24008061,1995-12-21,2000-09-13,male,1950-11-15,,,
 Georgia,Minister of Culture and Sports,Sesili Gogiberidze,Q108377894,2000-09-13,2003-11-21,,,,,
 Georgia,Minister of Culture and Sports,Giorgi Gabashvili,Q1396439,2004-02-17,2008-01-30,male,1973-01-09,,,
 Georgia,Minister of Culture and Sports,Nikoloz Vacheishvili,Q20574147,2008-01-31,2008-11-02,male,1968-05-26,,,Nikoloz Vacheishvili
@@ -103,7 +103,7 @@ Georgia,Minister of the Environment,Nino Chkhobadze,Q24008063,1995-12-21,2004-02
 Georgia,Minister of the Environment,თამარ ლებანიძე,Q108377254,2004-02-17,2005-02-18,,,,,
 Georgia,Minister of the Environment,Giorgi Papuaschwili,Q1525348,2005-02-18,2006-07-21,male,1972-12-26,,,
 Georgia,Minister of the Environment,David Tkeshelashvili,Q5240447,2006-07-21,2007-08-30,male,1969-10-16,,David Tkeshelashvili.jpg,David Tkeshelashvili
-Georgia,Minister of the Environment,დავით ჩანტლაძე,Q108377273,2007-08-30,2008-01-31,,,,,
+Georgia,Minister of the Environment,დავით ჩანტლაძე,Q108377273,2007-08-30,2008-01-31,male,,,,
 Georgia,Minister of the Environment,ზაალ გამცემლიძე,Q108377278,2008-01-31,2008-04-29,,,,,
 Georgia,Minister of the Environment,ირაკლი ღვალაძე,Q108377283,2008-04-29,2008-11-01,,,,,
 Georgia,Minister of the Environment,Giorgi Khachidze,Q5563429,2008-11-02,2012-08-31,male,1974-02-09,,,Goga Khachidze
@@ -138,7 +138,7 @@ Georgia,Minister of Foreign Affairs,Tamar Beruchashvili,Q18533321,2014-11-11,201
 Georgia,Minister of Foreign Affairs,Giorgi Kvirikashvili,Q15277881,2015-09-01,2015-12-30,male,1967-07-20,,Giorgi Kvirikashvili in meeting with Iranian FM Javad Zarif.jpg,Giorgi Kvirikashvili
 Georgia,Minister of Foreign Affairs,Mikheil Janelidze,Q23005525,2015-12-30,2018-06-13,male,1981-03-29,,Mikheil Janelidze - May 2016 (cropped).jpg,Mikheil Janelidze
 Georgia,Minister of Foreign Affairs,David Zakaliani,Q56152039,2018-06-21,2022-02-09,male,1968-02-27,,David Zalkaliani.jpg,David Zalkaliani
-Georgia,Minister of Foreign Affairs,Ilia Darchiashvili,Q111487495,2022-04-04,,male,1981-02-21,,,
+Georgia,Minister of Foreign Affairs,Ilia Darchiashvili,Q111487495,2022-04-04,,male,1981-02-21,,,Ilia Darchiashvili
 Georgia,Minister of Health,Avtandil Jorbenadze,Q2874624,1993-10-27,2001-12-29,male,1951-02-23,,,Avtandil Jorbenadze
 Georgia,Minister of Health,Amiran Gamkhrelidze,Q4133075,2001-12-29,2003-11-27,male,1951-01-24,,,
 Georgia,Minister of Health,Gigi Tsereteli,Q1525382,2004-02-17,2004-05-04,male,1964-02-23,,"George Tsereteli (Georgia) at OSCE PA Autumn Mtg, Geneva, 5 October 2014.jpg",Gigi Tsereteli
@@ -192,7 +192,7 @@ Georgia,Minister of Regional Development and Infrastructure,ლაშა მგ�
 Georgia,Minister of Regional Development and Infrastructure,Davit Narmania,Q17481730,2012-10-25,2014-04-14,male,1979-03-07,,Davit Narmania.jpg,Davit Narmania
 Georgia,Minister of Regional Development and Infrastructure,Elguja Khokrishvili,Q58820281,2014-04-14,2014-07-26,male,1973-05-24,,,
 Georgia,Minister of Regional Development and Infrastructure,დავით შავლიაშვილი,Q108377608,2014-07-26,2015-04-21,,,,,
-Georgia,Minister of Regional Development and Infrastructure,Nodar Javakhishvili,Q25543885,2015-04-22,2016-11-27,,1954-10-07,,,
+Georgia,Minister of Regional Development and Infrastructure,Nodar Javakhishvili,Q25543885,2015-04-22,2016-11-27,male,1954-10-07,,,
 Georgia,Minister of Regional Development and Infrastructure,ზურაბ ალავიძე,Q31355470,2016-11-27,2018-03-30,,1976-02-11,,,
 Georgia,Minister of Regional Development and Infrastructure,Maya Tskitishvili,Q60361123,2018-03-30,2021-02-22,female,1974-06-02,,,Maya Tskitishvili
 Georgia,Minister of Regional Development and Infrastructure,Irakli Karseladze,Q106522864,2021-02-22,,male,1978-02-28,,,
@@ -217,7 +217,7 @@ Georgia,Governor of the National Bank,Koba Gvenetadze,Q25433264,2016-03,,male,19
 Georgia,Mayor of Tbilisi,Vano Zodelava,Q24008059,1998-08-10,2004-04-19,male,1957-05-02,2019-02-05,"Vano Zodelava, Mayor of Tbilisi 1998-2004.jpg",Vano Zodelava
 Georgia,Mayor of Tbilisi,Zurab Tchiaberashvili,Q324649,2004-04-19,2005-07-12,male,1972-06-06,,"Zurab Chiaberashvili (March 16, 2001).jpg",Zurab Tchiaberashvili
 Georgia,Mayor of Tbilisi,Giorgi Ugulava,Q969642,2005-07-12,2013-12-22,male,1975-08-15,,"Gigi Ugulava toasts the construction of the new USAID building (May 31, 2007) (A).jpg",Giorgi Ugulava
-Georgia,Mayor of Tbilisi,Sevdia Ugrekhelidze,Q24008070,2013-12-22,2014-08-02,,1949-07-25,,,
+Georgia,Mayor of Tbilisi,Sevdia Ugrekhelidze,Q24008070,2013-12-22,2014-08-02,female,1949-07-25,,,
 Georgia,Mayor of Tbilisi,Davit Narmania,Q17481730,2014-08-02,2017-11-13,male,1979-03-07,,Davit Narmania.jpg,Davit Narmania
 Georgia,Mayor of Tbilisi,Kakha Kaladze,Q192031,2017-11-13,,male,1978-02-27,,Kakha kaladze.jpg,Kakha Kaladze
 Georgia,ambassador to Azerbaijan,Zurab Pataradze,Q28748049,2018-08-29,,male,1973-02-12,,Zurab Pataradze.jpg,Zurab Pataradze
@@ -233,6 +233,7 @@ Georgia,ambassador to the United Kingdom,Gela Charkviani,Q4525704,2006,2011,male
 Georgia,ambassador to the United Kingdom,Tamar Beruchashvili,Q18533321,2016,,female,1961-04-09,,Tamar Beruchashvili (cropped).jpg,Tamar Beruchashvili
 Georgia,ambassador to the United States of America,Davit Bakradze,Q18638152,2016-12-05,2022-04-04,male,1975-12-30,,,Davit Bakradze (born 1975)
 Georgia,ambassador to the United States of America,David Zakaliani,Q56152039,2022-04-04,,male,1968-02-27,,David Zalkaliani.jpg,David Zalkaliani
+Georgia,ambassador to Uzbekistan,David Zakaliani,Q56152039,2004,2007,male,1968-02-27,,David Zalkaliani.jpg,David Zalkaliani
 Georgia,ambassador to the Holy See,Alexander Chikvaidze,Q4515864,2002,2012-05-08,male,1932-01-19,2012-05-08,,Aleksandre Chikvaidze
 Georgia,ambassador to the Holy See,Ketevan Bagration of Mukhrani,Q4074835,2005-03-09,2014,female,1954-07-20,,,Ketevan Bagration of Mukhrani
 Georgia,ambassador to the Holy See,Tamar Grdzelideze,Q26995987,2014-09-04,,female,,,Tamar Grdzelidze in 2016.jpg,

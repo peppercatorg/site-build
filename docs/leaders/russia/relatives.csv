@@ -13,7 +13,7 @@ Russia,Q108691440,Roza Chemeris,stepparent,Q28497366,Mikhail Gloubokovsky
 Russia,Q108807795,Nurbagand Nurbagandov,child,Q26959934,Magomed Nurbagandov
 Russia,Q108886260,Angelika Egorovna Glazkova,spouse,Q55122121,Nikolai Platoshkin
 Russia,Q108897335,Aleksey Govyrin,spouse,Q231590,Irina Slutskaya
-Russia,Q108899086,,sibling,Q4074398,Mikhail Babich
+Russia,Q108899086,Alla Polyakova,sibling,Q4074398,Mikhail Babich
 Russia,Q1192630,Vyacheslav Shtyrov,father,Q15868908,Anatoliĭ Shtyrov
 Russia,Q133318,Marat Safin,mother,Q7296273,Rauza Islanova
 Russia,Q133318,Marat Safin,sibling,Q1029664,Dinara Safina
@@ -29,6 +29,7 @@ Russia,Q14920892,Mikhail Musatov,child,Q6097047,Ivan Musatov
 Russia,Q150080,Mikhail Fradkov,child,Q110991318,Pavel Fradkov
 Russia,Q150080,Mikhail Fradkov,child,Q4492294,Petr Fradkov
 Russia,Q15075401,Aysen Nikolayev,spouse,Q61110830,Ljudmila Nikolajeva
+Russia,Q15079517,Pavel Semjonov,father,Q109486984,"Семёнов, Владимир Николаевич"
 Russia,Q152318,Svetlana Savitskaya,father,Q523332,Yevgeny Savitsky
 Russia,Q156379,Yury Luzhkov,spouse,Q466610,Yelena Baturina
 Russia,Q15963668,Natalia Poklonskaya,spouse,Q4428059,Ivan Nikolaevich Solovjev
@@ -221,6 +222,7 @@ Russia,Q50224531,Ralif Safin,child,Q270951,Alsou
 Russia,Q503151,Artur Taymazov,sibling,Q1387949,Timur Taymazov
 Russia,Q51667982,Aleksandr Sholokhov,father,Q48402657,Mikhail Mikhailovich Sholokhov
 Russia,Q516824,Alexander Bortnikov,child,Q104902312,Denis Bortnikov
+Russia,Q516824,Alexander Bortnikov,spouse,Q111467812,Tatyana Borisovna
 Russia,Q520016,Igor Lebedev,father,Q200015,Vladimir Zhirinovsky
 Russia,Q520291,Anton Shipulin,sibling,Q229640,Anastasiya Kuzmina
 Russia,Q541213,Irina Khakamada,father,Q11626639,Mutsuo Hakamada

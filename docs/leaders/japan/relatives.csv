@@ -77,6 +77,7 @@ Japan,Q132345,Shinzō Abe,relative,Q5632874,Satō Shinji
 Japan,Q132345,Shinzō Abe,relative,Q713040,Ōshima Yoshimasa
 Japan,Q132345,Shinzō Abe,sibling,Q1995125,Nobuo Kishi
 Japan,Q132345,Shinzō Abe,sibling,Q27917579,Hironobu Abe
+Japan,Q132345,Shinzō Abe,spouse,Q73358,Akie Abe
 Japan,Q132596,Tarō Asō,father,Q752852,Takakichi Asō
 Japan,Q132596,Tarō Asō,mother,Q4479380,Kazuko Asō
 Japan,Q132596,Tarō Asō,relative,Q11066250,弓月君
@@ -146,6 +147,11 @@ Japan,Q313339,Keizō Obuchi,father,Q11462670,Mitsuhei Obuchi
 Japan,Q313339,Keizō Obuchi,mother,Q11462673,Chiyo Obuchi
 Japan,Q313339,Keizō Obuchi,sibling,Q11462671,Mitsuhei Obuchi
 Japan,Q313339,Keizō Obuchi,spouse,Q11462674,Chizuko Obuchi
+Japan,Q3136350,Hiroshi Hase,relative,Q10935192,Ōshima Kumaji
+Japan,Q3136350,Hiroshi Hase,relative,Q2389134,Jun Takami
+Japan,Q3136350,Hiroshi Hase,relative,Q530588,Kafū Nagai
+Japan,Q3136350,Hiroshi Hase,relative,Q910611,Mansai Nomura II
+Japan,Q3136350,Hiroshi Hase,spouse,Q11672816,Kyōko Takami
 Japan,Q315565,Kiichi Miyazawa,child,Q86805475,Keiko Miyazawa Lafleur
 Japan,Q315565,Kiichi Miyazawa,father,Q11455089,Yutaka Miyazawa
 Japan,Q315565,Kiichi Miyazawa,relative,Q11460443,Heiji Ogawa

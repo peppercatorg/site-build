@@ -149,8 +149,8 @@ India,Q18062107,Chiranjib Biswal,father,Q23891552,Basant Kumar Biswal
 India,Q18062107,Chiranjib Biswal,sibling,Q7293136,Ranjib Biswal
 India,Q18145581,Tej Pratap Singh Yadav,father,Q62579150,Ranveer Singh Yadav
 India,Q18145581,Tej Pratap Singh Yadav,mother,Q62744052,Mridula Yadav
-India,Q18145581,Tej Pratap Singh Yadav,relative,Q3503625,"Anuppur, Madhya Pradesh"
-India,Q18145581,Tej Pratap Singh Yadav,relative,Q561812,Chiranjeev Rao
+India,Q18145581,Tej Pratap Singh Yadav,relative,Q3503625,Rabri Devi
+India,Q18145581,Tej Pratap Singh Yadav,relative,Q561812,Lalu Prasad Yadav
 India,Q18145581,Tej Pratap Singh Yadav,spouse,Q25231308,Raj Lakshmi Yadav
 India,Q18216864,Jaivardhan Singh,father,Q3520250,Digvijaya Singh
 India,Q18325951,Pratyusha Rajeshwari Singh,spouse,Q16901254,Hemendra Chandra Singh
@@ -302,6 +302,7 @@ India,Q3210225,Asaduddin Owaisi,sibling,Q3195789,Akbaruddin Owaisi
 India,Q33168,K. Chandrashekar Rao,child,Q25748324,K. T. Rama Rao
 India,Q33168,K. Chandrashekar Rao,child,Q6323498,K. Kavitha
 India,Q3345004,Ashok Gehlot,child,Q61715200,Vaibhav Gehlot
+India,Q3345004,Ashok Gehlot,spouse,Q111427298,Sunita Gehlot
 India,Q3345095,Mohammad Azharuddin,spouse,Q3595327,Sangeeta Bijlani
 India,Q3345623,Ashok Chavan,father,Q5607249,Shankarrao Chavan
 India,Q3347275,Priya Ranjan Dasmunsi,spouse,Q5250462,Deepa Dasmunsi
@@ -318,15 +319,15 @@ India,Q33635,Hema Malini,child,Q48622,Esha Deol
 India,Q33635,Hema Malini,spouse,Q379157,Dharmendra
 India,Q3382907,Madhu Koda,spouse,Q16956874,Geeta Koda
 India,Q3497331,Balram Jakhar,child,Q19662756,Sunil Jakhar
-India,Q3503625,"Anuppur, Madhya Pradesh",child,Q101139897,××××××
-India,Q3503625,"Anuppur, Madhya Pradesh",child,Q14317045,Tejashwi Yadav
-India,Q3503625,"Anuppur, Madhya Pradesh",child,Q21516723,Tej Pratap Yadav
-India,Q3503625,"Anuppur, Madhya Pradesh",child,Q22572409,Misa Bharati Devi
-India,Q3503625,"Anuppur, Madhya Pradesh",child,Q25231308,Raj Lakshmi Yadav
-India,Q3503625,"Anuppur, Madhya Pradesh",relative,Q93303139,G.Chiranjeev Rao
-India,Q3503625,"Anuppur, Madhya Pradesh",sibling,Q7397883,Sadhu Yadav
-India,Q3503625,"Anuppur, Madhya Pradesh",sibling,Q7631238,Subhash Prasad Yadav
-India,Q3503625,"Anuppur, Madhya Pradesh",spouse,Q561812,Chiranjeev Rao
+India,Q3503625,Rabri Devi,child,Q101139897,Anushka Yadav
+India,Q3503625,Rabri Devi,child,Q14317045,Tejashwi Yadav
+India,Q3503625,Rabri Devi,child,Q21516723,Tej Pratap Yadav
+India,Q3503625,Rabri Devi,child,Q22572409,Misa Bharati Devi
+India,Q3503625,Rabri Devi,child,Q25231308,Raj Lakshmi Yadav
+India,Q3503625,Rabri Devi,relative,Q93303139,Chiranjeev Rao
+India,Q3503625,Rabri Devi,sibling,Q7397883,Sadhu Yadav
+India,Q3503625,Rabri Devi,sibling,Q7631238,Subhash Prasad Yadav
+India,Q3503625,Rabri Devi,spouse,Q561812,Lalu Prasad Yadav
 India,Q3504490,Sushilkumar Shinde,child,Q18563984,Praniti Shinde
 India,Q3506475,Rajnath Singh,child,Q16217622,Pankaj Singh
 India,Q3506475,Rajnath Singh,child,Q22320790,Neeraj Singh
@@ -574,16 +575,16 @@ India,Q5512543,G. Vivekanand,father,Q3764490,G. Venkatswamy
 India,Q55406,Shyam Benegal,relative,Q149136,Guru Dutt
 India,Q55406,Shyam Benegal,relative,Q55647621,Atma Ram
 India,Q55406,Shyam Benegal,relative,Q6480386,Lalita Lajmi
-India,Q561812,Chiranjeev Rao,child,Q101139897,××××××
-India,Q561812,Chiranjeev Rao,child,Q14317045,Tejashwi Yadav
-India,Q561812,Chiranjeev Rao,child,Q21516723,Tej Pratap Yadav
-India,Q561812,Chiranjeev Rao,child,Q22572409,Misa Bharati Devi
-India,Q561812,Chiranjeev Rao,child,Q22572414,Rohini Devi
-India,Q561812,Chiranjeev Rao,child,Q25231308,Raj Lakshmi Yadav
-India,Q561812,Chiranjeev Rao,relative,Q7397883,Sadhu Yadav
-India,Q561812,Chiranjeev Rao,relative,Q7631238,Subhash Prasad Yadav
-India,Q561812,Chiranjeev Rao,relative,Q93303139,G.Chiranjeev Rao
-India,Q561812,Chiranjeev Rao,spouse,Q3503625,"Anuppur, Madhya Pradesh"
+India,Q561812,Lalu Prasad Yadav,child,Q101139897,Anushka Yadav
+India,Q561812,Lalu Prasad Yadav,child,Q14317045,Tejashwi Yadav
+India,Q561812,Lalu Prasad Yadav,child,Q21516723,Tej Pratap Yadav
+India,Q561812,Lalu Prasad Yadav,child,Q22572409,Misa Bharati Devi
+India,Q561812,Lalu Prasad Yadav,child,Q22572414,Rohini Devi
+India,Q561812,Lalu Prasad Yadav,child,Q25231308,Raj Lakshmi Yadav
+India,Q561812,Lalu Prasad Yadav,relative,Q7397883,Sadhu Yadav
+India,Q561812,Lalu Prasad Yadav,relative,Q7631238,Subhash Prasad Yadav
+India,Q561812,Lalu Prasad Yadav,relative,Q93303139,Chiranjeev Rao
+India,Q561812,Lalu Prasad Yadav,spouse,Q3503625,Rabri Devi
 India,Q5628624,H. Vasanthakumar,child,Q7929215,Vijay Vasanth
 India,Q5628624,H. Vasanthakumar,sibling,Q6443604,Kumari Ananthan
 India,Q5655835,Hardeep Singh Puri,spouse,Q6479913,Lakshmi Puri
@@ -708,6 +709,7 @@ India,Q6442875,Kuldeep Bishnoi,father,Q4900831,Bhajan Lal
 India,Q6442875,Kuldeep Bishnoi,sibling,Q5071011,Chander Mohan
 India,Q6442875,Kuldeep Bishnoi,spouse,Q20090300,Renuka Bishnoi
 India,Q64590509,Madan Mohan Dutta,child,Q100284924,Manas Kumar Dutta
+India,Q6479913,Lakshmi Puri,spouse,Q5655835,Hardeep Singh Puri
 India,Q6480368,Lalit Mansingh,father,Q5885192,Mayadhar Mansingh
 India,Q6480368,Lalit Mansingh,mother,Q61023353,Hemalata Mansingh
 India,Q6480368,Lalit Mansingh,spouse,Q7560756,Sonal Mansingh

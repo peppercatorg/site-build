@@ -19,6 +19,8 @@ Estonia,Q12363696,Hele Everaus,father,Q50375504,Arnold Everaus
 Estonia,Q12363696,Hele Everaus,mother,Q50375505,Maimu Everaus
 Estonia,Q12364333,Ignar Fjuk,father,Q50375518,Vladislav Fjuk
 Estonia,Q12364333,Ignar Fjuk,mother,Q50375519,Leida Fjuk
+Estonia,Q12365130,Jevgeni Ossinovski,father,Q12371395,Oleg Ossinovski
+Estonia,Q12365130,Jevgeni Ossinovski,spouse,Q111470525,Triinu Ossinovski
 Estonia,Q12366229,Kalle Jürgenson,child,Q194913,Markus Jürgenson
 Estonia,Q12366229,Kalle Jürgenson,father,Q50376150,Aksel Jürgenson
 Estonia,Q12366229,Kalle Jürgenson,mother,Q50376148,Albina Jürgenson
@@ -121,6 +123,9 @@ Estonia,Q16405510,Katri Raik,sibling,Q16405514,Mart Raik
 Estonia,Q16406074,Artur Talvik,father,Q12370001,Mati Talvik
 Estonia,Q16406074,Artur Talvik,mother,Q16406069,Alice Talvik
 Estonia,Q16406074,Artur Talvik,spouse,Q12362202,Epp Eespäev
+Estonia,Q16406166,Aino Lepik von Wirén,child,Q111509156,Illimar Lepik von Wirén
+Estonia,Q16406166,Aino Lepik von Wirén,father,Q969815,Kalju Lepik
+Estonia,Q16406166,Aino Lepik von Wirén,spouse,Q111509160,Jorma von Wirén
 Estonia,Q16406227,Raivo E. Tamm,partner,Q24545471,Külli Palmsaar
 Estonia,Q16406227,Raivo E. Tamm,spouse,Q12363701,Helena Merzin
 Estonia,Q16406227,Raivo E. Tamm,spouse,Q17362506,Katariina Unt
@@ -129,6 +134,7 @@ Estonia,Q16406955,Toomas Tiivel,mother,Q24546203,Irene Tiivel
 Estonia,Q16407368,Matti Maasikas,father,Q24546242,Uno Maasikas
 Estonia,Q16407395,Ülle Madise,father,Q12377528,Tõnu Anton
 Estonia,Q16407395,Ülle Madise,mother,Q50375216,Sirje Anton
+Estonia,Q16407395,Ülle Madise,spouse,Q111530559,Lauri Madise
 Estonia,Q16412204,Sven Sakkov,father,Q12361930,Elmar-Oskar Sakkov
 Estonia,Q16412204,Sven Sakkov,mother,Q24545982,Helmi Sakkov
 Estonia,Q16412204,Sven Sakkov,sibling,Q24545891,Erik Sakkov
@@ -139,6 +145,7 @@ Estonia,Q1676748,Jaak Jõerüüt,father,Q50376136,Sigurd-Hans Jõerüüt
 Estonia,Q1676748,Jaak Jõerüüt,mother,Q50376137,Hella Jõerüüt
 Estonia,Q1676748,Jaak Jõerüüt,spouse,Q299334,Viivi Luik
 Estonia,Q17446896,Yoko Alender,father,Q2492624,Urmas Alender
+Estonia,Q18642208,Anastassia Kovalenko,spouse,Q4250802,Mihhail Kõlvart
 Estonia,Q1916766,Meelis Atonen,father,Q50375279,Aleksander Atonen
 Estonia,Q1916766,Meelis Atonen,mother,Q50375280,Koidu Atonen
 Estonia,Q194000,Arnold Rüütel,spouse,Q457794,Ingrid Rüütel
@@ -170,6 +177,7 @@ Estonia,Q253515,Jaak Aaviksoo,father,Q50375002,Ülo Aaviksoo
 Estonia,Q253515,Jaak Aaviksoo,mother,Q50375013,Laine Aaviksoo
 Estonia,Q2621730,Jüri Ratas,father,Q12373774,Rein Ratas
 Estonia,Q2621730,Jüri Ratas,mother,Q12377841,Urve Ratas
+Estonia,Q2621730,Jüri Ratas,spouse,Q111530599,Karin Ratas
 Estonia,Q272240,Siiri Oviir,child,Q21009735,Liisa Oviir
 Estonia,Q272240,Siiri Oviir,spouse,Q1577141,Mihkel Oviir
 Estonia,Q27430407,Raimond Kaljulaid,sibling,Q12366816,Kersti Kaljulaid
@@ -182,6 +190,7 @@ Estonia,Q3735691,Eerik-Niiles Kross,sibling,Q12370719,Märten Kross
 Estonia,Q3735691,Eerik-Niiles Kross,spouse,Q6779958,Mary Jordan
 Estonia,Q3736786,Lauri Vahtre,father,Q3738894,Sulev Vahtre
 Estonia,Q3737434,Aleksei Lotman,father,Q360084,Juri Lotman
+Estonia,Q3737434,Aleksei Lotman,mother,Q8066536,Zara Mints
 Estonia,Q3737434,Aleksei Lotman,sibling,Q2012757,Mihhail Lotman
 Estonia,Q3739506,Üllar Saaremäe,child,Q27587316,Karl Robert Saaremäe
 Estonia,Q3739506,Üllar Saaremäe,partner,Q12376880,Tiina Mälberg
@@ -191,6 +200,7 @@ Estonia,Q3742259,Kaljo Kiisk,relative,Q544460,Elo Viiding
 Estonia,Q3785077,Taavi Rõivas,spouse,Q3741148,Luisa Rõivas
 Estonia,Q39468117,Lauri Lepik,spouse,Q2152903,Riina Kionka
 Estonia,Q4232659,Valeri Korb,child,Q16404020,Mihhail Korb
+Estonia,Q4250802,Mihhail Kõlvart,spouse,Q18642208,Anastassia Kovalenko
 Estonia,Q439102,Ene Ergma,father,Q50375469,Vambola Ergma
 Estonia,Q439102,Ene Ergma,mother,Q50375470,Helmi Ergma
 Estonia,Q439111,Marina Kaljurand,spouse,Q1722443,Kalle Kaljurand

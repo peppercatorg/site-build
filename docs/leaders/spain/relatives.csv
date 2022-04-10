@@ -133,7 +133,7 @@ Spain,Q187568,Willy Meyer Pleite,child,Q82318256,Amanda Meyer
 Spain,Q187568,Willy Meyer Pleite,spouse,Q104093162,Julia Hidalgo de Argüeso
 Spain,Q191045,Felipe VI of Spain,child,Q214369,"Leonor, Princess of Asturias"
 Spain,Q191045,Felipe VI of Spain,child,Q847010,Infanta Sofía of Spain
-Spain,Q191045,Felipe VI of Spain,father,Q19943,Juan Carlos I de España
+Spain,Q191045,Felipe VI of Spain,father,Q19943,Juan Carlos I of Spain
 Spain,Q191045,Felipe VI of Spain,godparent,Q160001,Victoria Eugenie of Battenberg
 Spain,Q191045,Felipe VI of Spain,godparent,Q313857,"Infante Juan, Count of Barcelona"
 Spain,Q191045,Felipe VI of Spain,mother,Q156548,Queen Sofía of Spain
@@ -156,6 +156,20 @@ Spain,Q1945815,Quim Torra,spouse,Q53186083,Carola Miró
 Spain,Q1961896,Iñigo Urkullu Renteria,spouse,Q30155903,Lucia Arieta
 Spain,Q1969815,Juan José Imbroda,sibling,Q3163154,Javier Imbroda
 Spain,Q19928416,Jordi Sànchez i Picanyol,partner,Q54920223,Susanna Barreda
+Spain,Q19943,Juan Carlos I of Spain,child,Q191045,Felipe VI of Spain
+Spain,Q19943,Juan Carlos I of Spain,child,Q230580,Infanta Cristina of Spain
+Spain,Q19943,Juan Carlos I of Spain,child,Q54386,"Infanta Elena, Duchess of Lugo"
+Spain,Q19943,Juan Carlos I of Spain,father,Q313857,"Infante Juan, Count of Barcelona"
+Spain,Q19943,Juan Carlos I of Spain,godparent,Q160001,Victoria Eugenie of Battenberg
+Spain,Q19943,Juan Carlos I of Spain,godparent,Q518879,Prince Carlos of the Two Sicilies
+Spain,Q19943,Juan Carlos I of Spain,mother,Q235128,"Infanta María de las Mercedes, Countess of Barcelona"
+Spain,Q19943,Juan Carlos I of Spain,partner,Q2899692,Corinna zu Sayn-Wittgenstein
+Spain,Q19943,Juan Carlos I of Spain,partner,Q2929242,Bárbara Rey
+Spain,Q19943,Juan Carlos I of Spain,partner,Q48094025,Marta Gayà
+Spain,Q19943,Juan Carlos I of Spain,sibling,Q237165,"Infanta Margarita, Duchess of Soria"
+Spain,Q19943,Juan Carlos I of Spain,sibling,Q240580,"Infanta Pilar, Duchess of Badajoz"
+Spain,Q19943,Juan Carlos I of Spain,sibling,Q704310,Infante Alfonso of Spain
+Spain,Q19943,Juan Carlos I of Spain,spouse,Q156548,Queen Sofía of Spain
 Spain,Q20004409,José María González Ortea,spouse,Q19998164,Catalina Enseñat Enseñat
 Spain,Q20016592,Marta Silva de Lapuerta,father,Q5857864,Federico Silva Muñoz
 Spain,Q20016592,Marta Silva de Lapuerta,relative,Q16651619,Álvaro Lapuerta

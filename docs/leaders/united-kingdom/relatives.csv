@@ -957,7 +957,7 @@ United Kingdom,Q1699743,"John Dalrymple, 14th Earl of Stair",child,Q76102948,"Jo
 United Kingdom,Q1699743,"John Dalrymple, 14th Earl of Stair",child,Q76245164,Lady Elizabeth Dalrymple
 United Kingdom,Q1699743,"John Dalrymple, 14th Earl of Stair",father,Q6228439,"John Dalrymple, 13th Earl of Stair"
 United Kingdom,Q1699743,"John Dalrymple, 14th Earl of Stair",mother,Q75253177,Davina Bowes-Lyon
-United Kingdom,Q1699743,"John Dalrymple, 14th Earl of Stair",spouse,Q75342704,"Emily Dalrymple, Countes of Stair"
+United Kingdom,Q1699743,"John Dalrymple, 14th Earl of Stair",spouse,Q75342704,"Emily Dalrymple, Countess of Stair"
 United Kingdom,Q1699919,"John Eccles, 2nd Viscount Eccles",child,Q75907225,William David Eccles
 United Kingdom,Q1699919,"John Eccles, 2nd Viscount Eccles",child,Q75907233,Alice Belinda Eccles
 United Kingdom,Q1699919,"John Eccles, 2nd Viscount Eccles",child,Q75907246,Catherine Sara Eccles
@@ -2601,6 +2601,12 @@ United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",chil
 United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",child,Q76373062,Harriet Horatia Waldegrave
 United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",father,Q5534950,"Geoffrey Waldegrave, 12th Earl Waldegrave"
 United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",mother,Q75250240,Mary Hermione Grenfell
+United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",sibling,Q6144983,"James Waldegrave, 13th Earl Waldegrave"
+United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",sibling,Q75250399,Lady Sarah Waldegrave
+United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",sibling,Q75250401,Lady Jane McIntosh
+United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",sibling,Q75250402,Lady Elizabeth Waldegrave
+United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",sibling,Q75250403,Lady Anne Waldegrave
+United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",sibling,Q7647987,"Susan Hussey, Baroness Hussey of North Bradley"
 United Kingdom,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",spouse,Q5045248,Caroline Waldegrave
 United Kingdom,Q332870,"Archie Hamilton, Baron Hamilton of Epsom",child,Q75450389,Laura Hamilton
 United Kingdom,Q332870,"Archie Hamilton, Baron Hamilton of Epsom",child,Q75450390,Iona Janet Hamilton
@@ -2987,6 +2993,7 @@ United Kingdom,Q334048,"John Evans, Baron Evans of Parkside",father,Q75923555,Ja
 United Kingdom,Q334048,"John Evans, Baron Evans of Parkside",mother,Q75944804,Margaret Robson
 United Kingdom,Q334048,"John Evans, Baron Evans of Parkside",spouse,Q75944806,Joan Slater
 United Kingdom,Q334072,Mohammad Sarwar,child,Q478812,Anas Sarwar
+United Kingdom,Q334072,Mohammad Sarwar,spouse,Q111467804,Perveen Sarwar
 United Kingdom,Q334097,Emma Nicholson,father,Q7526990,"Sir Godfrey Nicholson, 1st Baronet"
 United Kingdom,Q334097,Emma Nicholson,mother,Q75263083,Lady Katharine Lindsay
 United Kingdom,Q334097,Emma Nicholson,spouse,Q6830973,Michael Harris Caine
@@ -3319,6 +3326,7 @@ United Kingdom,Q335747,"Hector Monro, Baron Monro of Langholm",father,Q76178179,
 United Kingdom,Q335747,"Hector Monro, Baron Monro of Langholm",mother,Q76183871,Marion Frances Ewart
 United Kingdom,Q335747,"Hector Monro, Baron Monro of Langholm",spouse,Q75588061,Doris Schuchhardt
 United Kingdom,Q335747,"Hector Monro, Baron Monro of Langholm",spouse,Q76112641,Elizabeth Anne Welch
+United Kingdom,Q335759,"Frances D'Souza, Baroness D'Souza",child,Q5109017,Christa D'Souza
 United Kingdom,Q335803,"John Kerr, Baron Kerr of Kinlochard",spouse,Q99964753,Lady Kerr
 United Kingdom,Q335822,"Robert Lindsay, 29th Earl of Crawford",child,Q75262322,"Anthony Lindsay, Baron Balniel"
 United Kingdom,Q335822,"Robert Lindsay, 29th Earl of Crawford",child,Q75262324,Alexander Lindsay
@@ -4298,6 +4306,7 @@ United Kingdom,Q5238722,David Prior,child,Q76132434,Helena Caitlin Elizabeth Pri
 United Kingdom,Q5238722,David Prior,father,Q333412,"James Prior, Baron Prior"
 United Kingdom,Q5238722,David Prior,mother,Q76132428,Jane Primrose Gifford Lywood
 United Kingdom,Q5238722,David Prior,spouse,Q76132431,Caroline Holmes
+United Kingdom,Q5240825,David Warburton,spouse,Q111468804,Harriet Baker-Bates
 United Kingdom,Q5257146,"Denis Carter, Baron Carter",child,Q75547616,Andrew Peter Carter
 United Kingdom,Q5257146,"Denis Carter, Baron Carter",child,Q75547617,Catherine Mary Carter
 United Kingdom,Q5257146,"Denis Carter, Baron Carter",father,Q75547611,Albert William Carter
@@ -5309,7 +5318,7 @@ United Kingdom,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 United Kingdom,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
 United Kingdom,Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
 United Kingdom,Q9682,Elizabeth II,father,Q280856,George VI
-United Kingdom,Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
+United Kingdom,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 United Kingdom,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 United Kingdom,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
 United Kingdom,Q977967,"Frederick Curzon, 7th Earl Howe",child,Q75316972,"Thomas Curzon, Viscount Curzon"
