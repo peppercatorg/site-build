@@ -1,0 +1,15 @@
+catalog,id,name,relationship,relative,relativename
+Vietnam,Q10800073,Nguyen Xuan Phuc,spouse,Q99297852,Tran Thi Nguyet Thu
+Vietnam,Q10806892,Phạm Bình Minh,father,Q10799024,Nguyen Co Thach
+Vietnam,Q10806940,Phạm Minh Chính,relative,Q10807041,Phạm Trí Thức
+Vietnam,Q10807041,Phạm Trí Thức,relative,Q10806940,Phạm Minh Chính
+Vietnam,Q139324,Trần Đức Lương,child,Q24954814,Trần Tuấn Anh
+Vietnam,Q2595973,Vuong Dinh Hue,spouse,Q24959112,Nguyễn Vân Chi
+Vietnam,Q369596,Nong Duc Manh,child,Q10801985,Nông Quốc Tuấn
+Vietnam,Q369596,Nong Duc Manh,spouse,Q10842166,Đỗ Thị Huyền Tâm
+Vietnam,Q379489,Phan Van Khai,spouse,Q10799694,Nguyễn Thị Sáu
+Vietnam,Q57400,Nguyen Minh Triet,spouse,Q7833319,Tran Thi Kim Chi
+Vietnam,Q57600,Nguyen Tan Dung,child,Q10799491,Nguyễn Thanh Nghị
+Vietnam,Q7833292,Trần Đại Quang,relative,Q16158905,Trần Quốc Tỏ
+Vietnam,Q7833292,Trần Đại Quang,sibling,Q16158905,Trần Quốc Tỏ
+Vietnam,Q7847999,Truong Hoa Binh,father,Q10828756,Trương Văn Bang
