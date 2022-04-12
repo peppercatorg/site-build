@@ -1744,6 +1744,9 @@ China,Q15031,Xi Jinping,sibling,Q4119708,Xi Yuanping
 China,Q15031,Xi Jinping,sibling,Q48880970,Xi Zhengning
 China,Q15031,Xi Jinping,spouse,Q430911,Peng Liyuan
 China,Q15031,Xi Jinping,spouse,Q97352031,Ke Lingling
+China,Q150903,Gong Li,partner,Q55430,Zhang Yimou
+China,Q150903,Gong Li,spouse,Q104326,Jean-Michel Jarre
+China,Q150903,Gong Li,spouse,Q28793896,Ooi Hoe Seong
 China,Q1592181,He Luli,father,Q8460116,He Siyuan
 China,Q15934896,Bu Xiaolin,father,Q8920967,Buhe
 China,Q163457,Rita Fan,child,Q16075970,Fan Junhua
@@ -8179,7 +8182,7 @@ Mexico,Q77979353,Irma María Terán Villalobos,spouse,Q63215493,Jorge Arturo Arg
 Mexico,Q853459,Rocío Banquells,father,Q7282036,Rafael Banquells
 Mexico,Q853459,Rocío Banquells,mother,Q3545682,Dina de Marco
 Mexico,Q853459,Rocío Banquells,sibling,Q3545257,Sylvia Pasquel
-Mexico,Q853459,Rocío Banquells,sibling,Q4723693,Alfredo VAndame
+Mexico,Q853459,Rocío Banquells,sibling,Q4723693,Alfredo Adame
 Mexico,Q858636,Carmen Salinas,child,Q6069828,Pedro Plascencia Salinas
 Mexico,Q919981,Dolores Padierna,spouse,Q1881427,René Bejarano
 Mexico,Q927787,Enrique Martínez y Martínez,child,Q5833574,Enrique Martínez y Morales
@@ -10153,6 +10156,7 @@ Russia,Q108807795,Nurbagand Nurbagandov,child,Q26959934,Magomed Nurbagandov
 Russia,Q108886260,Angelika Egorovna Glazkova,spouse,Q55122121,Nikolai Platoshkin
 Russia,Q108897335,Aleksey Govyrin,spouse,Q231590,Irina Slutskaya
 Russia,Q108899086,Alla Polyakova,sibling,Q4074398,Mikhail Babich
+Russia,Q111383871,,father,Q4070368,Vitaly Artyukhov
 Russia,Q1192630,Vyacheslav Shtyrov,father,Q15868908,Anatoliĭ Shtyrov
 Russia,Q133318,Marat Safin,mother,Q7296273,Rauza Islanova
 Russia,Q133318,Marat Safin,sibling,Q1029664,Dinara Safina
@@ -10193,6 +10197,8 @@ Russia,Q1964825,Nikolai Burlyayev,sibling,Q101246260,Gennady Burlyaev
 Russia,Q1964825,Nikolai Burlyayev,spouse,Q510170,Natalya Varley
 Russia,Q1964825,Nikolai Burlyayev,spouse,Q754131,Natalya Bondarchuk
 Russia,Q1973544,Leonid Nevzlin,child,Q27247995,Irina Nevzlin
+Russia,Q1975794,Valentin Yumashev,child,Q4158957,Polina Deripaska
+Russia,Q1975794,Valentin Yumashev,spouse,Q453170,Tatyana Yumasheva
 Russia,Q1978432,Anatoly Wasserman,father,Q21663972,Alexander Vasserman
 Russia,Q1978790,Alexander Nevzorov,spouse,Q1967995,Aleksandra Yakovleva
 Russia,Q1979193,Alexander Tkachov,sibling,Q27230932,Alexey Tkachyov
@@ -12416,7 +12422,7 @@ Ukraine,Q4492496,Anatolii Franchuk,child,Q4492498,Igor Franchuk
 Ukraine,Q4492498,Igor Franchuk,father,Q4492496,Anatolii Franchuk
 Ukraine,Q4492498,Igor Franchuk,spouse,Q4363085,Olena Pinchuk
 Ukraine,Q4494624,Viktor Khazan,child,Q45088,Pavlo Khazan
-Ukraine,Q4524964,Volodymyr Shkidchenko,father,Q4524963,"Шкидченко, Пётр Иванович"
+Ukraine,Q4524964,Volodymyr Shkidchenko,father,Q4524963,Pyotr Shkidchenko
 Ukraine,Q4527973,Ihor Shurma,child,Q22813963,Rostyslav Shurma
 Ukraine,Q4528122,Yurii Shukhevych,father,Q463766,Roman Shukhevych
 Ukraine,Q4528881,Artem Shcherban,father,Q4528883,Volodymyr Shcherban
