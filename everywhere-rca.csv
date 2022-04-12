@@ -3906,6 +3906,8 @@ France,Q10287,Manuel Valls,sibling,Q42310238,Giovanna Valls
 France,Q10287,Manuel Valls,spouse,Q16012814,Anne Gravoin
 France,Q10287,Manuel Valls,spouse,Q16659297,Nathalie Soulié
 France,Q10287,Manuel Valls,spouse,Q98490864,Susana Gallardo
+France,Q107358871,Flavie Collard,father,Q1922673,Gilbert Collard
+France,Q107358871,Flavie Collard,mother,Q58178378,Anne-Marie Collard
 France,Q108702159,Mélanie Vogel,partner,Q1386500,Terry Reintke
 France,Q1103356,Sylvie Andrieux,father,Q2853592,Antoine Andrieux
 France,Q1103356,Sylvie Andrieux,spouse,Q3168350,Jean-Paul Bacquet
@@ -3965,7 +3967,12 @@ France,Q157,François Hollande,partner,Q230539,Valérie Trierweiler
 France,Q157,François Hollande,partner,Q435925,Julie Gayet
 France,Q157,François Hollande,partner,Q81923,Ségolène Royal
 France,Q157,François Hollande,sibling,Q16354873,Philippe Hollande
+France,Q16007948,Éric Piolle,father,Q55088760,Xavier Piolle
+France,Q16007948,Éric Piolle,mother,Q55089006,Marie-Geneviève Ayçaguer
+France,Q1617291,"Pierre Durand, Jr.",father,Q3384876,Pierre Durand
+France,Q16637124,François Kalfon,spouse,Q28782627,Anne Hommel
 France,Q1685859,Jean Tiberi,spouse,Q3570838,Xavière Tiberi
+France,Q17174898,Dominique Bilde,child,Q19606880,Bruno Bilde
 France,Q18202577,François Bonhomme,father,Q15973787,Jean Bonhomme
 France,Q18202580,Jean-Pierre Vogel,spouse,Q65606178,Géraldine Vogel
 France,Q182786,Hervé Gaymard,spouse,Q2975487,Clara Gaymard
@@ -3976,6 +3983,8 @@ France,Q187099,Lionel Jospin,mother,Q3315976,Mireille Jospin
 France,Q187099,Lionel Jospin,sibling,Q536564,Noëlle Châtelet
 France,Q187099,Lionel Jospin,spouse,Q110249945,Élisabeth Dannenmuller
 France,Q187099,Lionel Jospin,spouse,Q3507241,Sylviane Agacinski
+France,Q18744905,Philippe Olivier,child,Q109855685,Nolwenn Olivier
+France,Q18744905,Philippe Olivier,spouse,Q3291581,Marie-Caroline Le Pen
 France,Q1922673,Gilbert Collard,child,Q107358871,Flavie Collard
 France,Q1922673,Gilbert Collard,sibling,Q33180373,Jehanne Collard
 France,Q1922673,Gilbert Collard,spouse,Q58178378,Anne-Marie Collard
@@ -3995,6 +4004,7 @@ France,Q206327,Bernard Kouchner,spouse,Q3592790,Évelyne Pisier
 France,Q20807844,Marlène Schiappa,father,Q3167484,Jean-Marc Schiappa
 France,Q20807844,Marlène Schiappa,spouse,Q50377097,Cédric Bruguière
 France,Q20882460,Marie Le Vern,father,Q2830013,Alain Le Vern
+France,Q20995386,Anne Chain-Larché,father,Q3159263,Jacques Larché
 France,Q2105,Jacques Chirac,child,Q15529521,Laurence Chirac
 France,Q2105,Jacques Chirac,child,Q2977194,Claude Chirac
 France,Q2105,Jacques Chirac,father,Q16354565,François Chirac
@@ -4013,16 +4023,19 @@ France,Q21294609,Sébastien Chenu,spouse,Q56556893,Emmanuel Taché de La Pagerie
 France,Q21294806,Michel Reveyrand-de Menthon,father,Q315029,François de Menthon
 France,Q21294806,Michel Reveyrand-de Menthon,spouse,Q270094,Marisol Touraine
 France,Q215569,Alain Juppé,spouse,Q3154954,Isabelle Juppé
+France,Q21600926,Éric Dillies,spouse,Q16948142,Sylvie Goddyn
 France,Q217070,Laurent Fabius,child,Q16679944,Thomas Fabius
 France,Q217070,Laurent Fabius,child,Q21282497,Victor Fabius
 France,Q217070,Laurent Fabius,father,Q2847733,André Fabius
 France,Q217070,Laurent Fabius,sibling,Q3084578,François Fabius
 France,Q217070,Laurent Fabius,sibling,Q521483,Catherine Leterrier
 France,Q217070,Laurent Fabius,spouse,Q15974197,Françoise Castro
+France,Q22213025,Vincent Terrail-Novès,father,Q2054824,Guy Novès
 France,Q2223097,Jean Charroppin,relative,Q979149,Philippe Grenier
 France,Q2254052,Michèle Tabarot,sibling,Q63371158,Philippe Tabarot
 France,Q22683089,Audrey Azoulay,father,Q2847186,André Azoulay
 France,Q22683089,Audrey Azoulay,mother,Q22695358,Katia Brami
+France,Q2321787,Valérie Létard,father,Q3081393,Francis Decourrière
 France,Q235580,Claudie Haigneré,spouse,Q110404348,Paul Deshays
 France,Q235580,Claudie Haigneré,spouse,Q721397,Jean-Pierre Haigneré
 France,Q2368327,Charles Millon,spouse,Q517390,Chantal Delsol
@@ -4062,6 +4075,7 @@ France,Q272416,Salome Zurabishvili,spouse,Q59334303,Nicolas Gorjestani
 France,Q273143,Françoise de Panafieu,father,Q1278120,François Missoffe
 France,Q273143,Françoise de Panafieu,mother,Q3144821,Hélène Missoffe
 France,Q273143,Françoise de Panafieu,spouse,Q3122282,Guy de Panafieu
+France,Q274232,Maud Fontenoy,sibling,Q56628207,Aurélien Fontenoy
 France,Q27876654,Frédérique Gerbaud,father,Q1922541,François Gerbaud
 France,Q28061777,Fabien Penone,spouse,Q60861380,Niagalé Bagayoko-Penone
 France,Q2815137,Christophe Borgel,spouse,Q28782627,Anne Hommel
@@ -4072,7 +4086,16 @@ France,Q2830085,Alain Marleix,child,Q3351188,Olivier Marleix
 France,Q2830085,Alain Marleix,child,Q45347766,Laurence Saint-Gilles
 France,Q2834481,Alexis Corbière,spouse,Q28477665,Raquel Garrido
 France,Q2848800,André Vézinhet,father,Q106937208,Adrien Vézinhet
+France,Q28494923,Philippe Pascot,child,Q30011693,Panayotis Pascot
+France,Q2851133,Anne Hidalgo,child,Q109496322,Matthieu Jantet-Hidalgo
+France,Q2851133,Anne Hidalgo,child,Q109496483,Elsa Jantet-Hidalgo
+France,Q2851133,Anne Hidalgo,child,Q59781938,Arthur Germain
+France,Q2851133,Anne Hidalgo,partner,Q3167390,Jean-Marc Germain
+France,Q2851133,Anne Hidalgo,sibling,Q109781211,Mary Hidalgo
+France,Q2851133,Anne Hidalgo,spouse,Q109490804,Philippe Jantet
+France,Q2851133,Anne Hidalgo,spouse,Q3167390,Jean-Marc Germain
 France,Q287931,Jean-Louis Fousseret,sibling,Q647011,Alain Fousseret
+France,Q288095,Éric Delcroix,spouse,Q50071947,Monique Delcroix
 France,Q288486,Éric Woerth,spouse,Q3074039,Florence Woerth
 France,Q2897357,Bernadette Isaac-Sibille,child,Q30342132,Cyrille Isaac-Sibille
 France,Q2897375,Bernadette Païx,spouse,Q3165150,Jean-Claude Paix
@@ -4117,6 +4140,8 @@ France,Q2956260,Chantal Berthelot,sibling,Q2956258,Chantal Bertouille
 France,Q29570183,Aurore Bergé,father,Q2829752,Alain Dorval
 France,Q29570183,Aurore Bergé,spouse,Q2388603,Nicolas Bays
 France,Q2960570,Charles de Courson,father,Q2874934,Aymard de Courson
+France,Q2965339,Christian Houdet,father,Q3091011,Furcy Houdet
+France,Q2965339,Christian Houdet,sibling,Q109852357,Brice Houdet
 France,Q2965544,Christian Philip,father,Q3351278,Olivier Philip
 France,Q2965544,Christian Philip,sibling,Q3524473,Thierry Philip
 France,Q2965938,Christine Lazerges,spouse,Q33273419,Roland Lazerges
@@ -4169,21 +4194,29 @@ France,Q3052772,Emmanuel Macron,sibling,Q29889211,Laurent Macron
 France,Q3052772,Emmanuel Macron,spouse,Q21511883,Brigitte Macron
 France,Q30528115,Gilles Le Gendre,sibling,Q2899605,Bertrand Le Gendre
 France,Q30528115,Gilles Le Gendre,sibling,Q50801130,Olivier Le Gendre
+France,Q3052948,Emmanuelle Cosse,spouse,Q3022540,Denis Baupin
+France,Q3063661,Fabien Thiémé,father,Q80082813,Eugène Thiémé
 France,Q3066450,Fanny Dombre-Coste,father,Q65096243,Paul Dombre
 France,Q3074013,Florence Parly,mother,Q37990488,Jeanne-Marie Parly
 France,Q3074013,Florence Parly,spouse,Q2388925,Martin Vial
+France,Q3074223,Florian Philippot,father,Q43649900,Daniel Philippot
+France,Q3074223,Florian Philippot,sibling,Q27334939,Damien Philippot
 France,Q3083699,François-Xavier Deniau,father,Q2597807,Xavier Deniau
 France,Q3084135,François Bujon de l'Estang,child,Q62178731,Anne-Lorraine Bujon de l'Estang
 France,Q3084310,François Cornut-Gentille,relative,Q2897714,Bernard Cornut-Gentille
+France,Q3084390,François Delapierre,spouse,Q42420251,Charlotte Girard
 France,Q3085538,François Perrot,child,Q30343102,Patrice Perrot
 France,Q3090356,Frédérique Bredin,father,Q1230574,Jean-Denis Bredin
 France,Q3090390,Frédérique Massat,father,Q3426608,René Massat
+France,Q3105581,Gilbert Annette,relative,Q3056510,Ericka Bareigts
 France,Q3105845,Gilbert Roseau,relative,Q93932179,Jacques Roseau
 France,Q3119861,Guillaume Garot,father,Q3102761,Georges Garot
 France,Q3124296,Gérard Saumade,sibling,Q57836157,Claude Saumade
 France,Q3132361,Henri de Raincourt,father,Q3380992,Philippe de Raincourt
 France,Q3144808,Hélène Luc,spouse,Q3262561,Louis Luc
 France,Q3154666,Irène Tharin,child,Q2414678,Annie Genevard
+France,Q3155044,Isabelle This Saint-Jean,father,Q2898662,Bernard This
+France,Q3155044,Isabelle This Saint-Jean,sibling,Q899511,Hervé This
 France,Q3157725,Jacqueline Fraysse,mother,Q110806836,Élise Fraysse
 France,Q3158493,Jacques Champagne de Labriolle,father,Q3086224,François de Labriolle
 France,Q3158493,Jacques Champagne de Labriolle,sibling,Q55848543,Philippe Champagne de Labriolle
@@ -4199,6 +4232,7 @@ France,Q3165809,Jean-François Parot,mother,Q54092901,Madeleine Bonin
 France,Q3166219,Jean-Jacques Cottel,spouse,Q65574967,Édith Cottel
 France,Q3166230,Jean-Jacques Descamps,spouse,Q2742542,Marie-Hélène Descamps
 France,Q3166286,Jean-Jacques Guillet,sibling,Q3099476,Gauthier Guillet
+France,Q3167257,Jean-Luc Romero,spouse,Q54493609,Christophe Michel
 France,Q3167390,Jean-Marc Germain,child,Q59781938,Arthur Germain
 France,Q3167390,Jean-Marc Germain,partner,Q2851133,Anne Hidalgo
 France,Q3167390,Jean-Marc Germain,relative,Q109781211,Mary Hidalgo
@@ -4208,6 +4242,9 @@ France,Q3167954,Jean-Michel Blanquer,spouse,Q2850470,Anna Cabana
 France,Q3167954,Jean-Michel Blanquer,spouse,Q48224954,Sophie de Puybaudet
 France,Q3167954,Jean-Michel Blanquer,spouse,Q55433996,Aurélia Devos
 France,Q3168350,Jean-Paul Bacquet,spouse,Q1103356,Sylvie Andrieux
+France,Q3168651,Jean-Paul Planchou,spouse,Q452131,Nicole Bricq
+France,Q3168709,Jean-Paul Virapoullé,child,Q63766250,Jean-Marie Virapoullé
+France,Q3168709,Jean-Paul Virapoullé,sibling,Q3263296,Louis Virapoullé
 France,Q3169552,Jean-Pierre Marcon,sibling,Q3455759,Régis Marcon
 France,Q3170787,Jean Bizet,father,Q3588352,Émile Bizet
 France,Q3171170,Jean Castex,spouse,Q97015109,Sandra Ribelaygue
@@ -4217,15 +4254,26 @@ France,Q3173022,Jean Lassalle,child,Q3524034,Thibault Lassalle
 France,Q3190925,Jérôme Guedj,spouse,Q3588853,Émilie Frèche
 France,Q3219188,Laurent Dominati,father,Q3158751,Jacques Dominati
 France,Q3219188,Laurent Dominati,sibling,Q3379746,Philippe Dominati
+France,Q3229419,Lena Louarn,child,Q16945183,Glenn Jegou
+France,Q3229419,Lena Louarn,child,Q43089561,Bleunienn Jegou-Louarn
+France,Q3229419,Lena Louarn,father,Q2830547,Alan Louarn
+France,Q3229419,Lena Louarn,sibling,Q3282288,Malo Louarn
+France,Q3229419,Lena Louarn,sibling,Q3515114,Tangi Louarn
 France,Q3261014,Louis Aliot,partner,Q12927,Marine Le Pen
 France,Q3262045,Louis Giscard d'Estaing,father,Q2124,Valéry Giscard d'Estaing
 France,Q3262045,Louis Giscard d'Estaing,mother,Q467628,Anne-Aymone Giscard d'Estaing
 France,Q3262045,Louis Giscard d'Estaing,sibling,Q3131194,Henri Giscard d'Estaing
 France,Q3262045,Louis Giscard d'Estaing,sibling,Q33105630,Jacinte Giscard d'Estaing
 France,Q3262045,Louis Giscard d'Estaing,sibling,Q3554215,Valérie-Anne Giscard d'Estaing
+France,Q32625073,Cendrine Blot,father,Q42296355,Marcel Chéreil de La Rivière
+France,Q32625073,Cendrine Blot,sibling,Q62091243,Katherine Chéreil de La Rivière
+France,Q32625073,Cendrine Blot,spouse,Q3167719,Jean-Marie Le Chevallier
+France,Q32625073,Cendrine Blot,spouse,Q3573330,Yvan Blot
 France,Q3265654,Lucien Neuwirth,spouse,Q34070672,Sophie Huet
 France,Q3286565,Mansour Kamardine,relative,Q30337218,Elad Chakrina
 France,Q3286733,Manuel Aeschlimann,spouse,Q63537077,Marie-Dominique Aeschlimann
+France,Q3287656,Marc-Antoine Jamet,father,Q1238702,Dominique Jamet
+France,Q3287656,Marc-Antoine Jamet,mother,Q23041858,Françoise Jamet
 France,Q3288193,Marc Le Fur,spouse,Q33104128,Marine de Carné
 France,Q329,Nicolas Sarkozy,child,Q16338096,Giulia Sarkozy
 France,Q329,Nicolas Sarkozy,child,Q16338100,Pierre Sarkozy
@@ -4242,6 +4290,12 @@ France,Q329,Nicolas Sarkozy,spouse,Q16338091,Marie-Dominique Culioli
 France,Q329,Nicolas Sarkozy,spouse,Q235177,Cécilia Attias
 France,Q329044,Edmond Hervé,child,Q18708455,Marc Hervé
 France,Q3291808,Marie-Françoise Bechtel,spouse,Q23838154,Alain Bechtel
+France,Q3292101,Marie-Luce Penchard,mother,Q3265133,Lucette Michaux-Chevry
+France,Q3292221,Marie-Pierre de La Gontrie,father,Q3387580,Pierre de La Gontrie
+France,Q3292221,Marie-Pierre de La Gontrie,spouse,Q3022959,Denis Verret
+France,Q3295795,Martine Lehideux,father,Q93438468,Hubert Lehideux
+France,Q3295795,Martine Lehideux,sibling,Q2898234,Bernard Lehideux
+France,Q3295795,Martine Lehideux,spouse,Q2847683,André Dufraisse
 France,Q33026911,Emmanuelle Fontaine-Domeizel,father,Q2977303,Claude Domeizel
 France,Q3309485,Michel Diefenbacher,child,Q47546384,Tristan Diefenbacher
 France,Q3309485,Michel Diefenbacher,father,Q19367358,Alfred Diefenbacher
@@ -4252,8 +4306,12 @@ France,Q3309956,Michel Inchauspé,child,Q98250563,Laurent Inchauspé
 France,Q3309956,Michel Inchauspé,father,Q3262280,Louis Inchauspé
 France,Q33103571,Cédric O,sibling,Q30068067,Delphine O
 France,Q33104128,Marine de Carné,spouse,Q3288193,Marc Le Fur
+France,Q33104478,Harold Huwart,father,Q3084884,François Huwart
+France,Q33105695,François Pinte,father,Q3592334,Étienne Pinte
 France,Q33109969,Romain Nadal,mother,Q63759157,Marie-Françoise Matouk
 France,Q33113534,Jean-Christophe Peaucelle,spouse,Q42414936,Véronique Peaucelle-Delelis
+France,Q33140156,Bertrand Dutheil de La Rochère,child,Q41338402,Amélie de La Rochère
+France,Q33140156,Bertrand Dutheil de La Rochère,sibling,Q29641388,Christian Dutheil de La Rochère
 France,Q33142338,Emmanuelle Wargon,father,Q3241949,Lionel Stoléru
 France,Q33142338,Emmanuelle Wargon,mother,Q49166714,Francine Stoléru
 France,Q33142338,Emmanuelle Wargon,spouse,Q60656616,Mathias Wargon
@@ -4263,6 +4321,7 @@ France,Q33170148,Patrick Hénault,spouse,Q47525059,Anne Hénault
 France,Q33186421,Florence Mangin,spouse,Q111183014,Pino Adriano
 France,Q33230494,Agnès Pannier-Runacher,spouse,Q2388603,Nicolas Bays
 France,Q33230494,Agnès Pannier-Runacher,spouse,Q48929742,Marc Pannier
+France,Q33245821,Laurent Dejoie,father,Q3264791,Luc Dejoie
 France,Q3328120,Muriel Marland-Militello,spouse,Q3380317,Philippe Marland
 France,Q3336265,Nassimah Dindar,spouse,Q3147494,Ibrahim Dindar
 France,Q3340186,Nicolas Chapuis,mother,Q3073920,Florence Aboulker
@@ -4285,31 +4344,48 @@ France,Q3368901,Patrice Calmejane,father,Q3434718,Robert Calméjane
 France,Q3369515,Patrick Herr,father,Q3084847,François Herr
 France,Q3369520,Patrick Hoguet,father,Q2400794,Michel Hoguet
 France,Q3369594,Patrick Lassourd,father,Q3131422,Henri Lassourd
+France,Q3369647,Patrick Louis,child,Q47543682,Anne Lorne
 France,Q3379784,Philippe Dunoyer,sibling,Q54958112,Patrice Dunoyer
 France,Q3379805,Philippe Esnol,spouse,Q84363406,Fanny Ervera
 France,Q3379827,Philippe Faure,father,Q3300775,Maurice Faure
 France,Q3379945,Philippe Goujon,child,Q63537103,Alexandra Dublanche
 France,Q3380285,Philippe Madrelle,father,Q66809714,Jacques Madrelle
+France,Q3380365,Philippe Meirieu,child,Q3052796,Emmanuel Meirieu
 France,Q3382825,Pierre-André Wiltzer,father,Q50327693,Pierre-Marcel Wiltzer
 France,Q3384224,Pierre Buhler,spouse,Q3507347,Sylvie Kauffmann
 France,Q3385274,Pierre Gosnat,father,Q3102791,Georges Gosnat
 France,Q3385274,Pierre Gosnat,mother,Q3023001,Denise Bastide
+France,Q3385791,Pierre Larrouturou,sibling,Q2898180,Bernard Larrouturou
 France,Q3387740,Pierre de Villiers,father,Q30728670,Jacques de Villiers
 France,Q3387740,Pierre de Villiers,sibling,Q33102609,Bertrand de Villiers
 France,Q3387740,Pierre de Villiers,sibling,Q45894583,Emmanuel de Villiers
 France,Q3387740,Pierre de Villiers,sibling,Q704846,Philippe de Villiers
+France,Q3411908,Périco Légasse,father,Q12263111,Mark Légasse
+France,Q3411908,Périco Légasse,spouse,Q941949,Natacha Polony
 France,Q3431340,Richard Yung,spouse,Q98437224,Aude Yung
+France,Q3435767,Robert Lion,father,Q67512573,Pierre Lion
+France,Q3435767,Robert Lion,mother,Q47250571,Daisy Lion-Goldschmidt
+France,Q3435767,Robert Lion,sibling,Q67511827,Antoine Lion
 France,Q3438661,Roger Auque,child,Q292458,Marion Maréchal-Le Pen
 France,Q3479546,Serge Telle,spouse,Q3119520,Guilaine Chenu
+France,Q3490954,Sophie Joissains,father,Q2829934,Alain Joissains
+France,Q3490954,Sophie Joissains,mother,Q3296342,Maryse Joissains-Masini
+France,Q3497810,Steeve Briois,mother,Q63106738,Marie-Christine Duriez
+France,Q3497810,Steeve Briois,partner,Q19606880,Bruno Bilde
+France,Q3497810,Steeve Briois,relative,Q3288925,Marcel Duriez
 France,Q3501550,Stéphane Alaize,father,Q3167538,Jean-Marie Alaize
 France,Q3501722,Stéphane Demilly,father,Q3069121,Fernand Demilly
 France,Q3507208,Sylvia Bassot,spouse,Q3141928,Hubert Bassot
+France,Q3524070,Thibaut de La Tocnaye,father,Q2830397,Alain de La Tocnaye
 France,Q3531753,Tony Dreyfus,child,Q16661304,Louis Dreyfus
 France,Q3531753,Tony Dreyfus,child,Q6449494,Pauline Dreyfus
+France,Q3564308,Véronique Fayet,father,Q65123791,Jacques de Parcevaux
 France,Q356919,Pierre Moscovici,father,Q527522,Serge Moscovici
 France,Q356919,Pierre Moscovici,mother,Q27891168,Marie Bromberg
 France,Q356919,Pierre Moscovici,spouse,Q33220652,Anne-Michelle Basteri
 France,Q3571618,Yann Capet,father,Q2847434,André Capet
+France,Q3573330,Yvan Blot,father,Q57235436,Camille Blot
+France,Q3573330,Yvan Blot,spouse,Q32625073,Cendrine Blot
 France,Q3573638,Yves Durand,father,Q2980601,Clément Durand
 France,Q3573907,Yves Pozzo di Borgo,spouse,Q33108864,Marella Moretti-Pozzo di Borgo
 France,Q3579995,Édouard Philippe,spouse,Q47522511,Édith Chabre
@@ -4324,14 +4400,23 @@ France,Q360961,Natan Sharansky,spouse,Q23304251,Avital Sharansky
 France,Q362223,Jacques Bompard,spouse,Q3291701,Marie-Claude Bompard
 France,Q379229,Jack Lang,child,Q3554279,Valérie Lang
 France,Q379229,Jack Lang,spouse,Q28833070,Monique Buczynski
+France,Q38206639,Florence Portelli,father,Q3142662,Hugues Portelli
 France,Q385437,Dominique Strauss-Kahn,sibling,Q33211390,Marc-Olivier Strauss-Kahn
 France,Q385437,Dominique Strauss-Kahn,spouse,Q291731,Anne Sinclair
+France,Q40655898,Jordan Bardella,partner,Q109855685,Nolwenn Olivier
 France,Q40915163,Jean-Louis Lagourgue,relative,Q3385733,Pierre Lagourgue
+France,Q41694483,Jean-Pierre Maugendre,father,Q110571283,Pierre Maugendre
+France,Q41736705,Pascal Gannat,child,Q109707873,Jean-Eudes Gannat
+France,Q42512014,François Werner,sibling,Q33139679,Patrick Werner
 France,Q428214,Christian Bataille,child,Q3021806,Delphine Bataille
 France,Q436173,Roselyne Bachelot,father,Q3173675,Jean Narquin
 France,Q436173,Roselyne Bachelot,sibling,Q3083878,François Bachelot
 France,Q436173,Roselyne Bachelot,sibling,Q50384338,Jean-Yves Narquin
+France,Q43649900,Daniel Philippot,child,Q27334939,Damien Philippot
+France,Q43649900,Daniel Philippot,child,Q3074223,Florian Philippot
 France,Q438465,Michel Barnier,child,Q105605002,Ben Barnier
+France,Q44508188,Jean-Louis Meizonnet,child,Q44508694,Nicolas Meizonnet
+France,Q44508188,Jean-Louis Meizonnet,father,Q96251930,Armand Meizonnet
 France,Q44508694,Nicolas Meizonnet,father,Q44508188,Jean-Louis Meizonnet
 France,Q44508694,Nicolas Meizonnet,spouse,Q85105493,Valentine Lemercier
 France,Q452131,Nicole Bricq,spouse,Q3168651,Jean-Paul Planchou
@@ -4346,9 +4431,15 @@ France,Q455040,Jacques Barrot,child,Q30339198,Jean-Noël Barrot
 France,Q455040,Jacques Barrot,father,Q3345763,Noël Barrot
 France,Q46405548,Alain Catta,father,Q56190500,Jacques Catta
 France,Q467781,Jean-Louis Borloo,spouse,Q258139,Béatrice Schönberg
+France,Q46998362,Thomas Laval,spouse,Q49169204,Kelly Betesh
+France,Q47001311,Mélanie Disdier,father,Q70757416,Jacques Disdier
+France,Q47543682,Anne Lorne,father,Q3369647,Patrick Louis
+France,Q47651081,Alain Fontanel,spouse,Q47652017,Marie Fontanel
 France,Q484605,Christine Lagarde,partner,Q23926430,Xavier Giocanti
+France,Q49875081,Jean-Pierre Daugreilh,spouse,Q3295761,Martine Daugreilh
 France,Q50323350,Jacques Manent,spouse,Q50323363,Jana Navratil-Manent
 France,Q50365159,Béatrice Le Fraper du Hellen,father,Q60677608,Marc Le Fraper du Hellen
+France,Q50384487,Philippe Chevrier,spouse,Q3291630,Marie-Christine Arnautu
 France,Q504156,Pierre Vimont,father,Q4111455,Jacques Vimont
 France,Q50690126,Corinne Brunon-Meunier,spouse,Q50690383,Philippe Meunier
 France,Q50690383,Philippe Meunier,spouse,Q50690126,Corinne Brunon-Meunier
@@ -4372,25 +4463,58 @@ France,Q574342,Georges Frêche,child,Q85632476,Julie Frêche
 France,Q574342,Georges Frêche,child,Q98962044,Agnès Frêche
 France,Q574342,Georges Frêche,spouse,Q98961137,Claudine Frêche
 France,Q574342,Georges Frêche,spouse,Q98961183,Geneviève Fauré
+France,Q57550991,Évelyne Ruty,spouse,Q57551029,Lucien Ruty
 France,Q58130,Michèle Alliot-Marie,father,Q2898296,Bernard Marie
 France,Q58130,Michèle Alliot-Marie,spouse,Q3308847,Michel Alliot
 France,Q58130,Michèle Alliot-Marie,spouse,Q976436,Patrick Ollier
+France,Q58174413,Jocelyne Pezet-Romieux,spouse,Q58174503,Jean-Claude Pezet
+France,Q58178378,Anne-Marie Collard,child,Q107358871,Flavie Collard
+France,Q58178378,Anne-Marie Collard,spouse,Q1922673,Gilbert Collard
 France,Q5829,Jean-Luc Mélenchon,partner,Q28964087,Sophia Chikirou
 France,Q58869106,Francis Chouat,sibling,Q3026961,Didier Chouat
+France,Q6169574,Jean-Marc de Lacoste-Lareymondie,child,Q62664113,Marie Hélène de Lacoste Lareymondie
+France,Q6169574,Jean-Marc de Lacoste-Lareymondie,child,Q75568905,Anne de Lacoste Lareymondie
+France,Q6169574,Jean-Marc de Lacoste-Lareymondie,child,Q75568915,Hugues de Lacoste Lareymondie
+France,Q6169574,Jean-Marc de Lacoste-Lareymondie,child,Q75568922,Solene de Lacoste Lareymondie
+France,Q6169574,Jean-Marc de Lacoste-Lareymondie,child,Q75568925,Emmanuel de Lacoste Lareymondie
+France,Q6169574,Jean-Marc de Lacoste-Lareymondie,child,Q75568929,Aude de Lacoste Lareymondie
+France,Q6169574,Jean-Marc de Lacoste-Lareymondie,child,Q75568931,Romain de Lacoste Lareymondie
+France,Q6169574,Jean-Marc de Lacoste-Lareymondie,father,Q2830393,Alain de Lacoste-Lareymondie
+France,Q6169574,Jean-Marc de Lacoste-Lareymondie,mother,Q75568933,Claude de Percin Northumberland
+France,Q61963125,Monique Huon,spouse,Q62520076,Jean Pot
 France,Q62077701,Philippe Benassaya,father,Q99627635,Daniel Benassaya
 France,Q62354,Jean-François Copé,father,Q3440008,Roland Copé
+France,Q62388202,Alexandrine Ferrand,spouse,Q16948138,Édouard Ferrand
+France,Q62664113,Marie Hélène de Lacoste Lareymondie,father,Q6169574,Jean-Marc de Lacoste-Lareymondie
+France,Q62664113,Marie Hélène de Lacoste Lareymondie,mother,Q75568911,Marie François Catalan
+France,Q62664113,Marie Hélène de Lacoste Lareymondie,spouse,Q75568920,"Emmanuel de Montillet de Grenaud, Baron de Montillet de Grenaud"
 France,Q630747,Jean-Pierre Abelin,father,Q2381218,Pierre Abelin
 France,Q630747,Jean-Pierre Abelin,mother,Q3100586,Geneviève Abelin
+France,Q63106649,Sophie Granato-Bricout,relative,Q56378301,Pierre Bricout
+France,Q63106652,Marie-Sophie Lesne,father,Q71020883,Jean-Marie Lesne
+France,Q63106652,Marie-Sophie Lesne,relative,Q71023366,Robert Lefebvre
+France,Q63106738,Marie-Christine Duriez,child,Q3497810,Steeve Briois
+France,Q63106738,Marie-Christine Duriez,sibling,Q3288925,Marcel Duriez
 France,Q63263,Jean-Pierre Raffarin,father,Q3174208,Jean Raffarin
 France,Q63263,Jean-Pierre Raffarin,spouse,Q48992694,Anne-Marie Raffarin
+France,Q63349000,Jean-Romée Charbonneau,father,Q3132686,Henry Charbonneau
+France,Q63371158,Philippe Tabarot,sibling,Q2254052,Michèle Tabarot
+France,Q63455920,Emmanuelle Bouchaud,partner,Q117340,François de Rugy
+France,Q63456113,Alain Hunault,father,Q3570696,Xavier Hunault
+France,Q63456113,Alain Hunault,sibling,Q3309935,Michel Hunault
+France,Q63537077,Marie-Dominique Aeschlimann,spouse,Q3286733,Manuel Aeschlimann
+France,Q63537103,Alexandra Dublanche,father,Q3379945,Philippe Goujon
+France,Q63537130,Manon Laporte-Sieraczek,spouse,Q2251158,Bernard Laporte
 France,Q645945,Geneviève Gaillard,father,Q3426233,René Gaillard
 France,Q663987,Paul Giacobbi,father,Q3084722,François Giacobbi
+France,Q67522331,Arlette Arnaud-Landau,child,Q993393,Bruno Julliard
 France,Q704846,Philippe de Villiers,child,Q33103224,Nicolas de Villiers
 France,Q704846,Philippe de Villiers,child,Q45845123,Laurent de Villiers
 France,Q704846,Philippe de Villiers,father,Q30728670,Jacques de Villiers
 France,Q704846,Philippe de Villiers,sibling,Q33102609,Bertrand de Villiers
 France,Q704846,Philippe de Villiers,sibling,Q3387740,Pierre de Villiers
 France,Q704846,Philippe de Villiers,sibling,Q45894583,Emmanuel de Villiers
+France,Q70757416,Jacques Disdier,child,Q47001311,Mélanie Disdier
 France,Q707980,Renaud Donnedieu de Vabres,father,Q55830495,Jacques Donnedieu de Vabres
 France,Q713235,Jean-Louis Debré,father,Q296386,Michel Debré
 France,Q713235,Jean-Louis Debré,mother,Q48987588,Anne-Marie Debré
@@ -4417,12 +4541,14 @@ France,Q81923,Ségolène Royal,partner,Q157,François Hollande
 France,Q822809,Bernard de Faubournet de Montferrand,child,Q30117754,Raphaël de Mont­fer­rand
 France,Q87324505,Catherine Daufès-Roux,father,Q94806292,Roger Roux
 France,Q895873,Pierre Méhaignerie,father,Q2834594,Alexis Méhaignerie
+France,Q92076483,Michel Mudry,father,Q2871330,Auguste Mudry
 France,Q937175,Marc Dolez,father,Q19630245,Carlos Dolez
 France,Q945181,Patrick Balkany,spouse,Q3154865,Isabelle Balkany
 France,Q956428,Jean-François Lamour,spouse,Q8441585,Isabelle Spennato
 France,Q960474,Marc-Philippe Daubresse,spouse,Q57202579,Brigitte Astruc-Daubresse
 France,Q960643,Vincent Peillon,sibling,Q22247955,Antoine Peillon
 France,Q965109,Noël Mamère,sibling,Q3173348,Jean Mamère
+France,Q97143904,Paul Fromonteil,spouse,Q97143907,Jeanne Fromonteil
 France,Q976436,Patrick Ollier,spouse,Q58130,Michèle Alliot-Marie
 France,Q981270,Serge Dassault,child,Q11984920,Thierry Dassault
 France,Q981270,Serge Dassault,child,Q17434850,Marie-Hélène Habert
@@ -4434,11 +4560,14 @@ France,Q981270,Serge Dassault,relative,Q317763,Darius Paul Dassault
 France,Q981661,Jean-Marie Bockel,child,Q76508050,Pierre Bockel
 France,Q984375,Laurent Wauquiez,mother,Q47495173,Éliane Wauquiez-Motte
 France,Q984375,Laurent Wauquiez,spouse,Q47495141,Charlotte Wauquiez
+France,Q98630485,Myriam Cau,sibling,Q95184582,Marie Cau
 France,Q99188665,Nicolas de Bouillane de Lacoste,father,Q1559474,Jean-Noël de Bouillane de Lacoste
 France,Q993184,Bruno Delaye,father,Q2131237,Raoul Delaye
 France,Q993472,Bruno Le Maire,father,Q27490943,Maurice Le Maire
 France,Q993472,Bruno Le Maire,mother,Q27490917,Viviane Fradin de Belâbre
 France,Q993472,Bruno Le Maire,spouse,Q47520943,Pauline Le Maire
+France,Q993611,Bruno Mégret,father,Q3159628,Jacques Mégret
+France,Q993611,Bruno Mégret,spouse,Q1051012,Catherine Mégret
 Gabon,Q172083,Omar Bongo,child,Q3367723,Pascaline Bongo Ondimba
 Gabon,Q172083,Omar Bongo,child,Q57521,Ali Bongo Ondimba
 Gabon,Q172083,Omar Bongo,spouse,Q273791,Edith Lucie Bongo
