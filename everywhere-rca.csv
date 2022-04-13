@@ -729,6 +729,8 @@ Azerbaijan,Q12839554,Flora Qasımova,spouse,Q4295621,"Мирзоев, Ширин
 Azerbaijan,Q12839846,Govhar Bakhshaliyeva,father,Q18236290,Bakhshali Bakhshaliyev
 Azerbaijan,Q12839846,Govhar Bakhshaliyeva,spouse,Q11733924,Kamal Abdullayev
 Azerbaijan,Q12840326,Hicran Hüseynova,father,Q16369243,Kamran Hüseynov
+Azerbaijan,Q12840703,Jalə Əliyeva,mother,Q12843450,Nurəngiz Gün
+Azerbaijan,Q12847503,Xanhüseyn Kazımlı,child,Q61122100,Fəxri Kazımov
 Azerbaijan,Q157451,Heydar Aliyev,child,Q16374092,Sevil Aliyeva
 Azerbaijan,Q157451,Heydar Aliyev,child,Q57371,Ilham Aliyev
 Azerbaijan,Q157451,Heydar Aliyev,father,Q55201697,Alirza Aliyev
@@ -1876,12 +1878,12 @@ Colombia,Q315975,Andrés Pastrana Arango,spouse,Q3342698,Nohra Puyana Bickenbach
 Colombia,Q326405,Horacio Serpa,child,Q57842191,Horacio José Serpa
 Colombia,Q380026,Antanas Mockus,mother,Q6042937,Nijolė Šivickas
 Colombia,Q435021,Noemí Sanín,father,Q5925356,Jaime Sanín Echeverri
-Colombia,Q4714502,Alejandro Char,father,Q5506888,Fuad Char
-Colombia,Q4714502,Alejandro Char,sibling,Q4801717,Arturo Char
+Colombia,Q4714502,Alejandro Charr,father,Q5506888,Fuad Char
+Colombia,Q4714502,Alejandro Charr,sibling,Q4801717,Arturo Char
 Colombia,Q4750458,Ana Milena Muñoz Gómez,child,Q7521450,Simón Gaviria Muñoz
 Colombia,Q4750458,Ana Milena Muñoz Gómez,spouse,Q332020,César Gaviria
 Colombia,Q4801717,Arturo Char,father,Q5506888,Fuad Char
-Colombia,Q4801717,Arturo Char,sibling,Q4714502,Alejandro Char
+Colombia,Q4801717,Arturo Char,sibling,Q4714502,Alejandro Charr
 Colombia,Q4968512,Luis Alfredo Ramos,child,Q17462492,Alfredo Ramos Maya
 Colombia,Q508580,María Consuelo Araújo,father,Q24960850,Álvaro Araújo Noguera
 Colombia,Q524949,Iván Cepeda Castro,father,Q6752503,Manuel Cepeda Vargas
@@ -8121,6 +8123,7 @@ Malaysia,Q57675,Najib Razak,spouse,Q7448553,Tengku Puteri Zainah
 Malaysia,Q5772615,Hishammuddin Hussein,mother,Q7635204,Suhailah Mohamed Noah
 Malaysia,Q6084858,Ismail Sabri Yaakob,child,Q12479777,Dafi Sabri
 Malaysia,Q6084858,Ismail Sabri Yaakob,spouse,Q108172035,Muhaini Zainal Abidin
+Malaysia,Q6127705,Jamaluddin Jarjis,child,Q91940201,Nur Anis Jamaluddin
 Malaysia,Q654886,Salahuddin of Selangor,child,Q3542702,Sharafuddin of Selangor
 Malaysia,Q654886,Salahuddin of Selangor,child,Q7699811,Tengku Sulaiman Shah
 Malaysia,Q654886,Salahuddin of Selangor,father,Q888240,Hisamuddin Alam Shah of Selangor
@@ -12382,7 +12385,7 @@ Uganda,Q393388,Aggrey Awori,spouse,Q2416628,Thelma Awori
 Uganda,Q4935806,Bobi Wine,spouse,Q62076449,Barbie Itungo Kyagulanyi
 Uganda,Q57274,Yoweri Museveni,child,Q6933076,Muhoozi Kainerugaba
 Uganda,Q57274,Yoweri Museveni,spouse,Q6153522,Janet Museveni
-Ukraine,Q102340260,Vitalii Kim,spouse,Q111377173,Yuliya Vitalivna Kim
+Ukraine,Q102340260,Vitalii Kim,spouse,Q111377173,Yuliia Kim
 Ukraine,Q11285342,Andrii Derkach,child,Q28500663,Tatyana Andreevna Terekhova
 Ukraine,Q11285342,Andrii Derkach,father,Q4158965,Leonid Derkach
 Ukraine,Q1151367,Yuriy Mykhalchyshyn,father,Q373570,Adrian Mikhalchishin
@@ -18166,6 +18169,7 @@ United States,Q1281084,Alan Grayson,spouse,Q20758232,Dena Grayson
 United States,Q1282411,Ed Markey,spouse,Q18386616,Susan Blumenthal
 United States,Q1282477,Ed Royce,spouse,Q55356765,Marie Royce
 United States,Q1287554,John Danforth,sibling,Q1643693,William Henry Danforth
+United States,Q1288295,Jim Nicholson,sibling,Q6262441,John W. Nicholson
 United States,Q1289901,"Harold Ford, Jr.",father,Q1585826,"Harold Ford, Sr."
 United States,Q1290476,John Podesta,sibling,Q7823193,Tony Podesta
 United States,Q130024,Johnny Isakson,spouse,Q110200187,Νταϊάν Ντέιβισον
@@ -18665,6 +18669,7 @@ United States,Q359888,Tim Kaine,spouse,Q4768453,Anne Holton
 United States,Q361450,Haley Barbour,spouse,Q6773363,Marsha Barbour
 United States,Q363055,Arlen Specter,child,Q20685505,Shanin Specter
 United States,Q3646340,Bud Shuster,child,Q862455,Bill Shuster
+United States,Q36847838,Matt Regier,father,Q6384936,Keith Regier
 United States,Q371031,Jon Kyl,father,Q1700428,John Henry Kyl
 United States,Q374693,Charlie Crist,spouse,Q5044674,Carole Crist
 United States,Q380441,Scooter Libby,spouse,Q5664131,Harriet Grant
@@ -19018,6 +19023,7 @@ United States,Q6386365,Kellyanne Conway,spouse,Q28964312,George T. Conway III
 United States,Q63879,Chris Christie,father,Q20177152,Bill Christie
 United States,Q63879,Chris Christie,spouse,Q20176598,Mary Pat Christie
 United States,Q639207,Jim Gibbons,spouse,Q5242449,Dawn Gibbons
+United States,Q64011226,Rhonda Knudsen,child,Q4823159,Austin Knudsen
 United States,Q640835,Jamie Raskin,father,Q6758404,Marcus Raskin
 United States,Q64166191,Winston Healy,spouse,Q12764049,Christina Grof
 United States,Q6490243,Larry Echo Hawk,sibling,Q6231112,John EchoHawk

@@ -94,7 +94,7 @@ lithuania,20,154,303,396
 luhansk,5,11,0,11
 luxembourg,23,60,142,176
 malawi,35,77,196,243
-malaysia,38,84,377,415
+malaysia,38,93,377,423
 maldives,23,41,6,41
 malta,23,50,75,96
 marshall-islands,12,19,0,19
@@ -161,10 +161,10 @@ turkey,25,173,775,905
 turks-and-caicos,12,28,7,30
 tuvalu,12,49,26,51
 uganda,9,34,14,47
-ukraine,33,310,2048,2242
+ukraine,33,323,2048,2250
 united-arab-emirates,13,18,0,18
 united-kingdom,51,1113,2683,3387
-united-states,88,1145,5452,6453
+united-states,88,1146,5545,6547
 uruguay,21,70,94,135
 uzbekistan,34,42,0,42
 vanuatu,16,36,2,36
@@ -172,4 +172,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,898,1004
-TOTAL,4395,22244,83121,98741
+TOTAL,4395,22267,83214,98851
