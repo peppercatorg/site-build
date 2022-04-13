@@ -44,6 +44,7 @@ cyprus,24,121,183,273
 czechia,26,240,1425,1527
 denmark,29,134,601,633
 djibouti,29,33,1,34
+donetsk,2,6,13,19
 ecuador,6,39,33,67
 egypt,39,101,9,110
 el-salvador,21,37,12,47
@@ -118,7 +119,7 @@ nigeria,51,520,1612,2042
 niue,5,8,21,24
 north-macedonia,26,99,4,100
 northern-ireland,13,72,302,312
-norway,26,648,1575,1963
+norway,26,649,1575,1963
 pakistan,47,167,1475,1582
 panama,17,89,3,91
 paraguay,24,33,16,45
@@ -172,4 +173,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,898,1004
-TOTAL,4395,22267,83214,98851
+TOTAL,4397,22274,83226,98869
