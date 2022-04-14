@@ -1087,6 +1087,7 @@ Brazil,Q10304982,Jair Bolsonaro,father,Q106815816,Percy Geraldo Bolsonaro
 Brazil,Q10304982,Jair Bolsonaro,spouse,Q57911283,Michelle Bolsonaro
 Brazil,Q10304982,Jair Bolsonaro,spouse,Q57951356,Rogéria Nantes Nunes Braga
 Brazil,Q10304982,Jair Bolsonaro,spouse,Q57951438,Ana Cristina Siqueira Valle
+Brazil,Q10309548,José Gregori,sibling,Q16940748,Maria Teresa Gregori
 Brazil,Q10309629,José Ivo Sartori,spouse,Q10325889,Maria Helena Sartori
 Brazil,Q10311264,João Carlos Bacelar Batista,relative,Q10307400,Joaquim Rui Paulilo Bacelar
 Brazil,Q10311264,João Carlos Bacelar Batista,relative,Q18276137,João Carlos Bacelar Filho
@@ -1906,6 +1907,7 @@ Colombia,Q6844834,Miguel Urrutia Montoya,father,Q5483552,Francisco José Urrutia
 Colombia,Q7145571,Patricia Eugenia Cárdenas Santa María,sibling,Q6793599,Mauricio Cárdenas Santa María
 Colombia,Q7145571,Patricia Eugenia Cárdenas Santa María,spouse,Q7322804,Ricardo Sala Gaitán
 Colombia,Q7282248,Rafael Pardo Rueda,spouse,Q21698034,Diana Calderón
+Colombia,Q9025120,Luis Guillermo Vélez,child,Q26255077,Luis Guillermo Vélez Cabrera
 Colombia,Q955397,Emma Claudia Castellanos,spouse,Q5202526,César Castellanos
 Colombia,Q981871,Samuel Moreno Rojas,mother,Q6782003,María Eugenia Rojas Correa
 Colombia,Q989831,Enrique Peñalosa,sibling,Q61947420,Gil Peñalosa
@@ -7513,6 +7515,8 @@ Japan,Q20039675,Yayoi Kimura,father,Q4885997,Ben Kimura
 Japan,Q2025444,Hayao Kawai,child,Q11553706,Toshio Kawai
 Japan,Q2025444,Hayao Kawai,child,Q11553728,Mikio Kawai
 Japan,Q2025444,Hayao Kawai,sibling,Q6148568,Masao Kawai
+Japan,Q212373,Naoki Tanaka,spouse,Q465217,Makiko Tanaka
+Japan,Q212373,Naoki Tanaka,stepparent,Q297644,Kakuei Tanaka
 Japan,Q21655823,Takuma Miyaji,father,Q6381394,Kazuaki Miyaji
 Japan,Q217096,Naruhito,child,Q743509,"Aiko, Princess Toshi"
 Japan,Q217096,Naruhito,father,Q37979,Akihito
@@ -10289,7 +10293,7 @@ Russia,Q108807795,Nurbagand Nurbagandov,child,Q26959934,Magomed Nurbagandov
 Russia,Q108886260,Angelika Egorovna Glazkova,spouse,Q55122121,Nikolai Platoshkin
 Russia,Q108897335,Aleksey Govyrin,spouse,Q231590,Irina Slutskaya
 Russia,Q108899086,Alla Polyakova,sibling,Q4074398,Mikhail Babich
-Russia,Q111383871,,father,Q4070368,Vitaly Artyukhov
+Russia,Q111383871,Vadim Artyukhov,father,Q4070368,Vitaly Artyukhov
 Russia,Q1192630,Vyacheslav Shtyrov,father,Q15868908,Anatoliĭ Shtyrov
 Russia,Q133318,Marat Safin,mother,Q7296273,Rauza Islanova
 Russia,Q133318,Marat Safin,sibling,Q1029664,Dinara Safina
@@ -18540,6 +18544,7 @@ United States,Q27996060,Stephen Miller,relative,Q56152062,David S. Glosser
 United States,Q27996060,Stephen Miller,relative,Q66090507,Mark Louis Glosser
 United States,Q27996060,Stephen Miller,spouse,Q78337779,Katie Miller
 United States,Q28018207,David Friedman,spouse,Q99548616,Tammy Deborah Sand
+United States,Q28317003,Patrick Neville,father,Q7804041,Tim Neville
 United States,Q2832449,Alejandro García Padilla,spouse,Q8022673,Wilma Pastrana
 United States,Q285102,Jay Rockefeller,child,Q6318065,Justin Rockefeller
 United States,Q285102,Jay Rockefeller,father,Q1699735,John D. Rockefeller III
