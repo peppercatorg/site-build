@@ -15,6 +15,7 @@ Colombia,Q187413,Álvaro Uribe Vélez,spouse,Q6550181,Lina María Moreno Mejía
 Colombia,Q1981295,Francisco Santos Calderón,father,Q5689201,Hernando Santos Castillo
 Colombia,Q2117543,Jorge Iván Ospina,father,Q2918567,Iván Marino Ospina
 Colombia,Q2117543,Jorge Iván Ospina,sibling,Q6007046,Mauricio Ospina
+Colombia,Q26255077,Luis Guillermo Vélez Cabrera,father,Q9025120,Luis Guillermo Vélez
 Colombia,Q274594,Carolina Barco,father,Q540192,Virgilio Barco Vargas
 Colombia,Q274594,Carolina Barco,mother,Q5044844,Carolina Isakson Proctor
 Colombia,Q274594,Carolina Barco,sibling,Q7933849,Virgilio Barco Isakson
@@ -23,12 +24,12 @@ Colombia,Q315975,Andrés Pastrana Arango,spouse,Q3342698,Nohra Puyana Bickenbach
 Colombia,Q326405,Horacio Serpa,child,Q57842191,Horacio José Serpa
 Colombia,Q380026,Antanas Mockus,mother,Q6042937,Nijolė Šivickas
 Colombia,Q435021,Noemí Sanín,father,Q5925356,Jaime Sanín Echeverri
-Colombia,Q4714502,Alejandro Charr,father,Q5506888,Fuad Char
-Colombia,Q4714502,Alejandro Charr,sibling,Q4801717,Arturo Char
+Colombia,Q4714502,Alejandro Char,father,Q5506888,Fuad Char
+Colombia,Q4714502,Alejandro Char,sibling,Q4801717,Arturo Char
 Colombia,Q4750458,Ana Milena Muñoz Gómez,child,Q7521450,Simón Gaviria Muñoz
 Colombia,Q4750458,Ana Milena Muñoz Gómez,spouse,Q332020,César Gaviria
 Colombia,Q4801717,Arturo Char,father,Q5506888,Fuad Char
-Colombia,Q4801717,Arturo Char,sibling,Q4714502,Alejandro Charr
+Colombia,Q4801717,Arturo Char,sibling,Q4714502,Alejandro Char
 Colombia,Q4968512,Luis Alfredo Ramos,child,Q17462492,Alfredo Ramos Maya
 Colombia,Q508580,María Consuelo Araújo,father,Q24960850,Álvaro Araújo Noguera
 Colombia,Q524949,Iván Cepeda Castro,father,Q6752503,Manuel Cepeda Vargas

@@ -10,6 +10,7 @@ Netherlands,Q110401312,Gunay Uslu,sibling,Q14642576,Meral Uslu
 Netherlands,Q110401312,Gunay Uslu,sibling,Q65220144,Atılay Uslu
 Netherlands,Q110699193,Ingrid Mortiers,spouse,Q105393591,Peter Hofstede
 Netherlands,Q110699411,Dorienke de Grave-Verkerk,spouse,Q2320629,Frank de Grave
+Netherlands,Q12013388,Eric Smaling,father,Q2018805,Eelke de Jong
 Netherlands,Q1279554,Eberhard van der Laan,father,Q53252478,Edzard van der Laan
 Netherlands,Q1279554,Eberhard van der Laan,spouse,Q110845941,Femke van der Laan
 Netherlands,Q133386,Jan Peter Balkenende,father,Q13418237,Jan Pieter Balkenende
@@ -56,6 +57,7 @@ Netherlands,Q1976542,Schelto Patijn,sibling,Q3488527,Michiel Patijn
 Netherlands,Q1976542,Schelto Patijn,sibling,Q4304599,Jack Patijn
 Netherlands,Q1992436,Willem Witteveen,father,Q1692109,Johan Witteveen
 Netherlands,Q1994265,Pieter Duisenberg,father,Q159844,Wim Duisenberg
+Netherlands,Q1994667,Wolter Lemstra,sibling,Q2633774,Piet Lemstra
 Netherlands,Q20017729,Ruud Hessing,sibling,Q2741937,Rob Hessing
 Netherlands,Q2003429,Pieter Jan Biesheuvel,relative,Q471204,Barend Biesheuvel
 Netherlands,Q2003429,Pieter Jan Biesheuvel,spouse,Q27868273,Jacqueline Biesheuvel-Vermeijden
@@ -74,11 +76,14 @@ Netherlands,Q2227862,Edward Asscher,relative,Q325313,Abraham Asscher
 Netherlands,Q2227862,Edward Asscher,relative,Q466868,Lodewijk Asscher
 Netherlands,Q2227862,Edward Asscher,sibling,Q68149705,Bram Asscher
 Netherlands,Q2236661,Wouter Gortzak,father,Q13724415,Henk Gortzak
+Netherlands,Q2257749,Koos Schouwenaar,father,Q27651886,Arie Jan Schouwenaar
+Netherlands,Q2257749,Koos Schouwenaar,mother,Q2366729,Jo Schouwenaar-Franssen
 Netherlands,Q2304865,Johan Stekelenburg,sibling,Q4747636,Jan Stekelenburg
 Netherlands,Q2320629,Frank de Grave,spouse,Q110699411,Dorienke de Grave-Verkerk
 Netherlands,Q2330840,Paul Blokhuis,father,Q107591603,Bert Blokhuis
 Netherlands,Q2330840,Paul Blokhuis,sibling,Q2704337,Leo Blokhuis
 Netherlands,Q2348473,Ton Elias,father,Q105743223,Ton Elias
+Netherlands,Q2350164,Agaath Witteman,spouse,Q1909357,Hans Croiset
 Netherlands,Q2360160,Nanneke Quik-Schuijt,father,Q2274843,Wim Schuijt
 Netherlands,Q2421032,Thijs Wöltgens,sibling,Q38000554,Marian Jager-Wöltgens
 Netherlands,Q2439485,Nirmala Rambocus,sibling,Q1870732,Surendre Rambocus
@@ -138,6 +143,7 @@ Netherlands,Q377266,Sybrand van Haersma Buma,father,Q2607341,Bernard van Haersma
 Netherlands,Q382598,Kathleen Ferrier,father,Q333129,Johan Ferrier
 Netherlands,Q382598,Kathleen Ferrier,sibling,Q2708085,Joan Ferrier
 Netherlands,Q382598,Kathleen Ferrier,sibling,Q443374,Cynthia McLeod
+Netherlands,Q4282422,Wim Passtoors,sibling,Q14631971,Hélène Passtoors
 Netherlands,Q434816,Ank Bijleveld,sibling,Q62517923,Bea Schouten
 Netherlands,Q4462875,Thierry Baudet,father,Q79851675,Marcel Baudet
 Netherlands,Q458066,Khadija Arib,child,Q69964882,Sabra Dahhan
@@ -152,6 +158,7 @@ Netherlands,Q5165280,Hanke Bruins Slot,father,Q2093954,Harm Bruins Slot
 Netherlands,Q518659,Léon de Jong,partner,Q467982,Fleur Agema
 Netherlands,Q554127,Wouter Bos,sibling,Q2279433,Arnoud Bos
 Netherlands,Q607189,Ed van Thijn,child,Q97397508,Carla van Thijn
+Netherlands,Q607189,Ed van Thijn,partner,Q2406653,Hedy d'Ancona
 Netherlands,Q607189,Ed van Thijn,spouse,Q2673879,Eveline Herfkens
 Netherlands,Q64590182,Johan Dessing,sibling,Q1973940,Floortje Dessing
 Netherlands,Q65055093,Gala Veldhoen,father,Q1862725,Aat Veldhoen

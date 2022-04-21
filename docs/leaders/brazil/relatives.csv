@@ -29,6 +29,11 @@ Brazil,Q10326004,Maria Lúcia Amary,spouse,Q10359328,Renato Fauvel Amary
 Brazil,Q10329753,Miguel Corrêa,spouse,Q76669387,Letícia Santiago
 Brazil,Q10334305,Márcio França,child,Q20045670,Caio França
 Brazil,Q10334305,Márcio França,spouse,Q56349549,Lúcia França
+Brazil,Q10336120,Nelson Trad,child,Q10336123,Nelson Trad Filho
+Brazil,Q10336120,Nelson Trad,child,Q26692175,Marquinhos Trad
+Brazil,Q10336120,Nelson Trad,child,Q59204973,Fábio Trad
+Brazil,Q10336123,Nelson Trad Filho,father,Q10336120,Nelson Trad
+Brazil,Q10336123,Nelson Trad Filho,sibling,Q26692175,Marquinhos Trad
 Brazil,Q10336446,Neudo Ribeiro Campos,spouse,Q18486154,Suely Campos
 Brazil,Q10336590,Newton Cardoso,child,Q23883203,Newton Cardoso Jr
 Brazil,Q10340805,Omar Aziz,spouse,Q60437178,Nejmi Aziz
@@ -162,6 +167,8 @@ Brazil,Q48884453,Gervásio Agripino Maia,father,Q10289284,Gervásio Maia
 Brazil,Q5119489,Cid Gomes,father,Q56347811,José Euclides Ferreira Gomes Júnior
 Brazil,Q5119489,Cid Gomes,sibling,Q10304453,Ivo Gomes
 Brazil,Q5119489,Cid Gomes,sibling,Q744798,Ciro Gomes
+Brazil,Q51882113,Edna Macedo,relative,Q6756538,Marcelo Crivella
+Brazil,Q51882113,Edna Macedo,sibling,Q980714,Edir Macedo
 Brazil,Q56346750,Angelo Coronel,child,Q59205397,Diego Coronel
 Brazil,Q56347746,Paulo Roberto Nunes Guedes,sibling,Q75237177,Elizabeth Guedes
 Brazil,Q571064,Antônio Carlos Magalhães,child,Q12734620,Luís Eduardo Magalhães
@@ -173,6 +180,7 @@ Brazil,Q59203425,Sidney Leite,child,Q105398481,Júnior Leite
 Brazil,Q59205397,Diego Coronel,father,Q56346750,Angelo Coronel
 Brazil,Q59221373,Pedro Brazao,sibling,Q10268034,Domingos Brazão
 Brazil,Q59221373,Pedro Brazao,sibling,Q58997373,Chiquinho Brazão
+Brazil,Q59226522,Lidio Lopes,spouse,Q107721723,Adriane Lopes
 Brazil,Q59246168,Pastor Cleiton Collins,spouse,Q25440841,Daize Michele de Aguiar Gonçalves
 Brazil,Q59247072,Franciane Bayer,sibling,Q20045969,Liziane Bayer da Costa
 Brazil,Q59247652,Jessé Lopes,child,Q98927515,Davi Lopes

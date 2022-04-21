@@ -1,4 +1,5 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Czechia,Olomouc Region Assembly member,Vítězslav Vavroušek,Q11992708,2000,2004,male,1956-02-04,,,
 Czechia,Olomouc Region Assembly member,Alexander Černý,Q10771346,2000-11-12,2020-10-03,male,1953-05-21,,,
 Czechia,Olomouc Region Assembly member,Ivan Kosatík,Q12021947,2000-11-12,,male,1957-10-13,,,
 Czechia,Olomouc Region Assembly member,Ivo Vykydal,Q12022133,2000-11-12,2004-01,male,1964-10-01,2020-09-27,,Ivo Vykydal
@@ -10,7 +11,7 @@ Czechia,Olomouc Region Assembly member,Jaroslav Faltýnek,Q15124034,2000-11-12,2
 Czechia,Olomouc Region Assembly member,Jan Březina,Q710830,2000-11-12,2008-11-06,male,1954-04-14,,Jan Březina.jpg,Jan Březina
 Czechia,Olomouc Region Assembly member,Jitka Chalánková,Q12024945,2004-11-06,2014-06-13,female,1957-03-23,,Jitka Chalánková in 2019.tif,Jitka Chalánková
 Czechia,Olomouc Region Assembly member,Jiří Krátký,Q12025307,2004-11-06,2008-11-06,male,1945-02-14,,"Jiří Krátký, debata Respekt.jpg",
-Czechia,Olomouc Region Assembly member,Josef Nekl,Q12026421,2004-11-06,2016-10-13,male,1953-05-28,2021-03-29,,Josef Nekl
+Czechia,Olomouc Region Assembly member,Josef Nekl,Q12026421,2004-11-06,2016-10-13,male,1953-05-28,2021-03-29,,
 Czechia,Olomouc Region Assembly member,Karel Korytář,Q12028328,2004-11-06,2008-11-06,male,1949-10-09,,,
 Czechia,Olomouc Region Assembly member,Martin Major,Q15905791,2004-11-06,2008-11-06,male,1979-09-26,,,
 Czechia,Olomouc Region Assembly member,Dalibor Horák,Q22162608,2004-11-06,2012-10-18,male,1965-06-04,,,
@@ -42,6 +43,7 @@ Czechia,Olomouc Region Assembly member,Ladislav Okleštěk,Q15208393,2016-10-08,
 Czechia,Olomouc Region Assembly member,Radim Sršeň,Q16219214,2016-10-08,,male,1980-05-01,,Radim Sršeň at the 146th Plenary Session of the European Committee of the Regions (cropped).jpg,
 Czechia,Olomouc Region Assembly member,Dalibor Horák,Q22162608,2016-10-08,,male,1965-06-04,,,
 Czechia,Olomouc Region Assembly member,Oto Košta,Q25916968,2016-10-08,2020-10-03,male,1956-12-14,,Kosta oto.jpg,
+Czechia,Olomouc Region Assembly member,Stanislav Kaláb,Q36526810,2016-10-08,2020-10-08,male,1951-05-09,,,
 Czechia,Olomouc Region Assembly member,Adam Kalous,Q42575375,2016-10-08,2020-10-03,male,1979-10-06,,Poslanec Adam Kalous.jpg,
 Czechia,Olomouc Region Assembly member,Petr Vrána,Q42586533,2016-10-08,,male,1975-01-04,,,
 Czechia,Olomouc Region Assembly member,Pavel Jelínek,Q44163755,2016-10-08,,male,1962-10-31,,,
@@ -143,6 +145,7 @@ Czechia,Pardubice Region Assembly member,Ivo Toman,Q12022126,2004-11-06,2012-10-
 Czechia,Pardubice Region Assembly member,Jaroslav Deml,Q12023766,2004-11-06,2008-11-06,male,1955-09-05,,,
 Czechia,Pardubice Region Assembly member,Jaroslav Martinů,Q12023934,2004-11-06,2008-10-18,male,1959-04-18,,,
 Czechia,Pardubice Region Assembly member,Jaroslav Zedník,Q14789522,2004-11-06,2016-10-13,male,1962-03-27,,,
+Czechia,Pardubice Region Assembly member,Petr Fiala,Q104123076,2008,2012,male,1968-11-24,,,
 Czechia,Pardubice Region Assembly member,Jiří Brýdl,Q12025061,2008,2012,male,1945-03-18,,,
 Czechia,Pardubice Region Assembly member,Štěpánka Fraňková,Q10498553,2008-10-18,2016-10-13,female,1965-06-30,,Fraňková Štěpánka.jpg,
 Czechia,Pardubice Region Assembly member,Martin Netolický,Q12035801,2008-10-18,,male,1982-09-22,,Hejtman Martin Netolický.jpg,Martin Netolický
@@ -158,6 +161,7 @@ Czechia,Pardubice Region Assembly member,Marek Výborný,Q30184731,2012-10-13,20
 Czechia,Pardubice Region Assembly member,Zdeněk Štengl,Q8503623,2012-10-13,2016-10-13,male,1965-09-05,,,
 Czechia,Pardubice Region Assembly member,David Šimek,Q11774431,2012-11-07,,male,1977-03-21,,David simek 122021.jpg,
 Czechia,Pardubice Region Assembly member,Ladislav Effenberk,Q14789431,2012-12-11,2016-10-13,male,1955-10-21,,,
+Czechia,Pardubice Region Assembly member,Petr Fiala,Q104123076,2016,2012,male,1968-11-24,,,
 Czechia,Pardubice Region Assembly member,Jan Chvojka,Q12022462,2016-10-08,2020-10-03,male,1980-12-17,,Jan chvojka.jpg,Jan Chvojka
 Czechia,Pardubice Region Assembly member,Jan Řehounek,Q21538080,2016-10-08,2020-10-03,male,1974-10-27,,,
 Czechia,Pardubice Region Assembly member,Michal Kortyš,Q21992961,2016-10-08,,male,1962-06-28,,Michal Kortyš in 2019.jpg,
@@ -255,6 +259,7 @@ Czechia,Plzeň Region Assembly Member,Jan Volný,Q15208361,2016-10-08,2020-10-03
 Czechia,Plzeň Region Assembly Member,Josef Bernard,Q22074671,2016-10-08,,male,1965-05-30,,CoR Members portraits - Josef BERNARD (cropped).jpg,
 Czechia,Plzeň Region Assembly Member,Bohuslav Ebermann,Q717790,2016-10-08,2020-10-08,male,1948-09-19,,,Bohuslav Ebermann
 Czechia,Plzeň Region Assembly Member,Ivana Mádlová,Q95399573,2016-10-08,2016,female,1966-03-31,,,
+Czechia,Plzeň Region Assembly Member,Šárka Chvalová,Q95241311,2016-12-15,,female,1965-04-19,,,
 Czechia,Plzeň Region Assembly Member,Marie Pošarová,Q108872647,2020-10-03,,female,1980-01-05,,,Marie Pošarová
 Czechia,Plzeň Region Assembly Member,Rudolf Špoták,Q110917994,2020-10-03,,male,1983-09-15,,,
 Czechia,Plzeň Region Assembly Member,Marek Ženíšek,Q12035327,2020-10-03,,male,1978-11-26,,,Marek Ženíšek
@@ -1413,7 +1418,7 @@ Czechia,Member of the Chamber of Deputies,Jiří Zemánek,Q12025622,2010-05-29,2
 Czechia,Member of the Chamber of Deputies,Jiří Štětina,Q12025680,2010-05-29,2013-08-28,male,1941-08-09,,Jiří Štětina.jpg,
 Czechia,Member of the Chamber of Deputies,Jiří Šulc,Q12025683,2010-05-29,2013-08-28,male,1958,,,
 Czechia,Member of the Chamber of Deputies,Josef Cogan,Q12025941,2010-05-29,2013-08-28,male,1973-08-26,,,
-Czechia,Member of the Chamber of Deputies,Josef Nekl,Q12026421,2010-05-29,2013-08-28,male,1953-05-28,2021-03-29,,Josef Nekl
+Czechia,Member of the Chamber of Deputies,Josef Nekl,Q12026421,2010-05-29,2013-08-28,male,1953-05-28,2021-03-29,,
 Czechia,Member of the Chamber of Deputies,Josef Novotný,Q12026431,2010-05-29,2013-08-28,male,1952-12-14,,Novotny josef 2015.jpg,
 Czechia,Member of the Chamber of Deputies,Josef Novotný,Q12026433,2010-05-29,2013-08-28,male,1952-02-25,,Josef Novotný.jpg,
 Czechia,Member of the Chamber of Deputies,Josef Smýkal,Q12026611,2010-05-29,2013-08-28,male,1954-11-07,,,
@@ -1580,7 +1585,7 @@ Czechia,Member of the Chamber of Deputies,Jiří Zimola,Q12025621,2013-10-26,201
 Czechia,Member of the Chamber of Deputies,Jiří Zemánek,Q12025622,2013-10-26,2017-10-26,male,1965-01-03,,,
 Czechia,Member of the Chamber of Deputies,Jiří Zlatuška,Q12025624,2013-10-26,2017-10-26,male,1957-09-15,,J Zlatuška 2015.JPG,Jiří Zlatuška
 Czechia,Member of the Chamber of Deputies,Jiří Štětina,Q12025680,2013-10-26,2017-10-26,male,1941-08-09,,Jiří Štětina.jpg,
-Czechia,Member of the Chamber of Deputies,Josef Nekl,Q12026421,2013-10-26,2017-10-26,male,1953-05-28,2021-03-29,,Josef Nekl
+Czechia,Member of the Chamber of Deputies,Josef Nekl,Q12026421,2013-10-26,2017-10-26,male,1953-05-28,2021-03-29,,
 Czechia,Member of the Chamber of Deputies,Josef Novotný,Q12026431,2013-10-26,2017-10-26,male,1952-12-14,,Novotny josef 2015.jpg,
 Czechia,Member of the Chamber of Deputies,Josef Šenfeld,Q12026843,2013-10-26,2017-10-26,male,1961-11-13,,,
 Czechia,Member of the Chamber of Deputies,Karel Rais,Q12028490,2013-10-26,2017-10-26,male,1949-10-14,,52 rektor VUT v Brně.jpg,
@@ -1707,7 +1712,7 @@ Czechia,Member of the Chamber of Deputies,Jana Hnyková,Q15249640,2013-10-26,201
 Czechia,Member of the Chamber of Deputies,Karel Fiedler,Q15249661,2013-10-26,2017-10-26,male,1961-12-31,,Karel-fiedler.jpg,
 Czechia,Member of the Chamber of Deputies,Martin Lank,Q15249792,2013-10-26,2017-10-26,male,1976-08-10,,,
 Czechia,Member of the Chamber of Deputies,Petr Adam,Q15249893,2013-10-26,2017-10-26,male,1982-08-12,,,
-Czechia,Member of the Chamber of Deputies,Jaroslav Holík,Q15249906,2013-10-26,2017-10-26,male,1953-06-29,,,
+Czechia,Member of the Chamber of Deputies,Jaroslav Holík,Q15249906,2013-10-26,2017-10-26,male,1953-06-29,,,Jaroslav Holík (politician)
 Czechia,Member of the Chamber of Deputies,Olga Havlová,Q15269225,2013-10-26,2017-10-26,female,1953-07-25,,,
 Czechia,Member of the Chamber of Deputies,Augustin Karel Andrle Sylor,Q15269228,2013-10-26,2017-10-26,male,1946-10-25,2021-04-15,Augustin Karel Andrle Sylor.jpg,
 Czechia,Member of the Chamber of Deputies,Milan Šarapatka,Q15273671,2013-10-26,2017-10-26,male,1955-12-05,,,
@@ -1815,7 +1820,7 @@ Czechia,Member of the Chamber of Deputies,Pavel Plzák,Q15220296,2017-10-21,2021
 Czechia,Member of the Chamber of Deputies,Roman Kubíček,Q15220317,2017-10-21,2021-10-26,male,1963-05-06,,Kubicek2014.jpg,
 Czechia,Member of the Chamber of Deputies,Hana Aulická Jírovcová,Q15230084,2017-10-21,2021-10-26,female,1981-04-07,,,
 Czechia,Member of the Chamber of Deputies,Zdeněk Ondráček,Q15230132,2017-10-21,2021-10-21,male,1969-07-28,,,
-Czechia,Member of the Chamber of Deputies,Jaroslav Holík,Q15249906,2017-10-21,2021-10-26,male,1953-06-29,,,
+Czechia,Member of the Chamber of Deputies,Jaroslav Holík,Q15249906,2017-10-21,2021-10-26,male,1953-06-29,,,Jaroslav Holík (politician)
 Czechia,Member of the Chamber of Deputies,Josef Kott,Q15290778,2017-10-21,2021-10-26,male,1970-11-15,,,
 Czechia,Member of the Chamber of Deputies,Jiří Valenta,Q15735123,2017-10-21,2021-10-26,male,1965-12-28,,,
 Czechia,Member of the Chamber of Deputies,Jan Skopeček,Q15987373,2017-10-21,2021-10-26,male,1980-10-21,,Skopecek (cropped).jpg,Jan Skopeček (politician)
@@ -1918,7 +1923,7 @@ Czechia,Member of the Chamber of Deputies,Pavel Růžička,Q42972927,2017-10-21,
 Czechia,Member of the Chamber of Deputies,Jan Richter,Q43124179,2017-10-21,2021-10-26,male,1967-11-28,,,
 Czechia,Member of the Chamber of Deputies,Robert Králíček,Q43124262,2017-10-21,2021-10-26,male,1977-02-11,,,
 Czechia,Member of the Chamber of Deputies,Jan Schiller,Q43126619,2017-10-21,2020-12-31,male,1972-04-06,,,
-Czechia,Member of the Chamber of Deputies,Věra Procházková,Q43127312,2017-10-21,2021-10-26,female,1954-04-03,,,
+Czechia,Member of the Chamber of Deputies,Věra Procházková,Q43127312,2017-10-21,2021-10-21,female,1954-04-03,,,
 Czechia,Member of the Chamber of Deputies,Jaroslav Kytýr,Q43127518,2017-10-21,2021-10-26,male,1963-03-24,,,
 Czechia,Member of the Chamber of Deputies,Marcela Melková,Q43176271,2017-10-21,2021-10-21,female,1971-01-24,,,
 Czechia,Member of the Chamber of Deputies,Přemysl Mališ,Q43305091,2017-10-21,2021-10-21,male,1980-01-28,,,
@@ -2184,6 +2189,7 @@ Czechia,South Bohemian Region Assembly member,Ivana Stráská,Q15640318,2000-11-
 Czechia,South Bohemian Region Assembly member,Juraj Thoma,Q4992646,2000-11-12,2004-11-12,male,1969-02-19,,Juraj Thoma.jpg,
 Czechia,South Bohemian Region Assembly member,Miroslav Tetter,Q8312023,2000-11-12,2008-11-06,male,1938-04-03,2021-08-11,Miroslav Tetter BJF 2010.jpg,Miroslav Tetter
 Czechia,South Bohemian Region Assembly member,Pavel Pavel,Q920340,2000-11-12,2008-11-06,male,1957-03-11,,"Ing. Pavel Pavel, 20. kvetna 2020, Praha.jpg",Pavel Pavel
+Czechia,South Bohemian Region Assembly member,Jan Váňa,Q109562595,2004,,male,1956-03-03,,,
 Czechia,South Bohemian Region Assembly member,Jiří Zimola,Q12025621,2004-11-06,2020-10-08,male,1971-03-28,,Jiří Zimola.jpg,Jiří Zimola
 Czechia,South Bohemian Region Assembly member,Jindřich Bláha,Q24877317,2004-11-06,2008-11-06,male,1959-09-28,,,
 Czechia,South Bohemian Region Assembly member,Václav Král,Q108168316,2008-10-18,2012-10-13,male,1980-03-25,,,
@@ -2197,6 +2203,7 @@ Czechia,South Bohemian Region Assembly member,Stanislav Mrvka,Q30083663,2012-10-
 Czechia,South Bohemian Region Assembly member,Jaroslav Zvěřina,Q3490143,2012-10-13,,male,1942-12-18,,Portrait of Jaroslav Zvěrina at 2017 sexuality conference.jpg,Jaroslav Zvěřina
 Czechia,South Bohemian Region Assembly member,Jaromír Talíř,Q8311967,2012-10-13,2020-10-08,male,1950-08-09,,,
 Czechia,South Bohemian Region Assembly member,Pavel Pavel,Q920340,2012-10-13,2020-10-08,male,1957-03-11,,"Ing. Pavel Pavel, 20. kvetna 2020, Praha.jpg",Pavel Pavel
+Czechia,South Bohemian Region Assembly member,Andrea Nádravská,Q104124252,2016,2020,male,1969-04-25,,,
 Czechia,South Bohemian Region Assembly member,Jan Bauer,Q12022400,2016-10-08,,male,1969-04-27,,,
 Czechia,South Bohemian Region Assembly member,Pavel Eybert,Q12044042,2016-10-08,2020-10-08,male,1949-09-20,,Pavel Eybert.jpg,
 Czechia,South Bohemian Region Assembly member,Jan Bartošek,Q13561396,2016-10-08,,male,1971-11-10,,Jan Bartošek 2015.JPG,Jan Bartošek
@@ -2387,28 +2394,41 @@ Czechia,Vysočina Region Assembly Member,Miloš Vystrčil,Q12037619,2004-12-07,2
 Czechia,Vysočina Region Assembly Member,Jiří Běhounek,Q12025070,2008-11-14,,male,1952-05-13,,Jiří Běhounek 2013.jpg,
 Czechia,Karlovy Vary Region Assembly member,Jan Horník,Q12022572,2000-11-12,,male,1954-03-19,,Jan Horník 2018.jpg,
 Czechia,Karlovy Vary Region Assembly member,Josef Pavel,Q12026479,2000-11-12,2012-10-18,male,1952-10-01,,JosefPavel.jpg,
+Czechia,Karlovy Vary Region Assembly member,Ján Pobežal,Q12027453,2000-11-12,2004-11-12,male,1948-07-07,,,
+Czechia,Karlovy Vary Region Assembly member,Lubomír Suk,Q12034106,2000-11-12,2004-11-12,male,1960-09-06,,,
+Czechia,Karlovy Vary Region Assembly member,Miloš Patera,Q12037584,2000-11-12,2004-11-12,male,1962-01-26,,,
 Czechia,Karlovy Vary Region Assembly member,Pavel Vanoušek,Q12044290,2000-11-12,2008-11-06,male,1947-05-22,,,
 Czechia,Karlovy Vary Region Assembly member,Oľga Haláková,Q14806492,2000-11-12,2008-10-18,female,1948-07-09,,,
 Czechia,Karlovy Vary Region Assembly member,Jaroslav Borka,Q15230195,2000-11-12,2020-10-03,male,1952-10-18,,,
 Czechia,Karlovy Vary Region Assembly member,Karel Jakobec,Q22082895,2000-11-12,,male,1964-03-05,,,
+Czechia,Karlovy Vary Region Assembly member,Jaroslav Fiala,Q12023786,2004-11-06,2008-11-06,male,1956-02-29,,,
+Czechia,Karlovy Vary Region Assembly member,Zdeněk Berka,Q10857487,2008-10-18,2012-10-18,male,1951-01-03,,Zdenek Berka in 2012.JPG,
 Czechia,Karlovy Vary Region Assembly member,Miroslav Plevný,Q11862967,2008-10-18,2016-10-08,male,1965-10-12,,,
 Czechia,Karlovy Vary Region Assembly member,Jan Bureš,Q12022439,2008-10-18,2012-10-13,male,1974-03-31,,,
 Czechia,Karlovy Vary Region Assembly member,Jan Hadrava,Q12022539,2008-10-18,2009,male,1955-01-30,,,
 Czechia,Karlovy Vary Region Assembly member,Josef Novotný,Q12026431,2008-10-18,2016-10-13,male,1952-12-14,,Novotny josef 2015.jpg,
 Czechia,Karlovy Vary Region Assembly member,Martin Havel,Q19602389,2008-10-18,,male,1966-03-21,,,
+Czechia,Karlovy Vary Region Assembly member,Eva Valjentová,Q25952465,2008-10-18,2020-10-03,female,1964-08-10,,,
 Czechia,Karlovy Vary Region Assembly member,Jiří Klsák,Q95481437,2012,,male,1954-02-24,,Karlovy Vary Jiří Klsák (01).jpg,
 Czechia,Karlovy Vary Region Assembly member,Jan Svoboda,Q12023147,2012-10-13,2016-10-13,male,1956-12-27,,,
+Czechia,Karlovy Vary Region Assembly member,Petr Zahradníček,Q12045092,2012-10-13,,male,1964-03-07,,,
+Czechia,Karlovy Vary Region Assembly member,Markéta Wernerová,Q15124119,2012-10-13,2020-10-03,female,1983-08-02,,,
+Czechia,Karlovy Vary Region Assembly member,Petr Kulhánek,Q15124175,2012-10-13,,male,1971-04-14,,,
 Czechia,Karlovy Vary Region Assembly member,Pavel Čekan,Q23144494,2012-10-13,,male,1961-07-20,,,
 Czechia,Karlovy Vary Region Assembly member,Jana Mračková Vildumetzová,Q23649185,2012-10-13,2014-12-09,female,1973-05-08,,Vildumetzova 2015.jpg,
+Czechia,Karlovy Vary Region Assembly member,Jiří Brdlík,Q25106972,2012-10-13,,male,1957-09-11,,,
 Czechia,Karlovy Vary Region Assembly member,Miroslav Balatka,Q55014701,2012-10-13,2016-10-13,male,1970-07-13,,Miroslav Balatka in 2019.jpg,
 Czechia,Karlovy Vary Region Assembly member,Patrik Pizinger,Q109134916,2016,,male,,,,
 Czechia,Karlovy Vary Region Assembly member,Petr Třešňák,Q24350967,2016,2018-09,male,1983-01-04,,Petr Třešňák 9 April 2021.jpg,
 Czechia,Karlovy Vary Region Assembly member,Jan Bureš,Q12022439,2016-10-08,,male,1974-03-31,,,
+Czechia,Karlovy Vary Region Assembly member,Pavel Hojda,Q12044071,2016-10-08,2020-10-03,male,1952-11-02,,,
 Czechia,Karlovy Vary Region Assembly member,Oľga Haláková,Q14806492,2016-10-08,,female,1948-07-09,,,
 Czechia,Karlovy Vary Region Assembly member,Zdeněk Soukup,Q15208382,2016-10-08,2020-05-19,male,1952-12-06,2021-04-07,,
 Czechia,Karlovy Vary Region Assembly member,Roman Procházka,Q15208447,2016-10-08,2018-01-24,male,1968-11-23,,,
 Czechia,Karlovy Vary Region Assembly member,Jana Mračková Vildumetzová,Q23649185,2016-10-08,,female,1973-05-08,,Vildumetzova 2015.jpg,
 Czechia,Karlovy Vary Region Assembly member,Karla Maříková,Q33191643,2016-10-08,,female,1981-03-19,,,Karla Maříková
+Czechia,Karlovy Vary Region Assembly member,Josef Váňa,Q3507616,2016-10-08,,male,1952-10-20,,Josef vana.jpg,Josef Váňa
+Czechia,Karlovy Vary Region Assembly member,Věra Procházková,Q43127312,2016-10-08,2020-10-03,female,1954-04-03,,,
 Czechia,Karlovy Vary Region Assembly member,Jan Picka,Q56441166,2016-10-08,2020-10-03,male,1966-03-31,,,
 Czechia,Karlovy Vary Region Assembly member,Renata Oulehlová,Q57077273,2016-10-08,,female,1968-03-31,,Renata Oulehlová.jpg,
 Czechia,Karlovy Vary Region Assembly member,Petr Kubis,Q73396392,2016-10-08,,male,1968-11-28,,,

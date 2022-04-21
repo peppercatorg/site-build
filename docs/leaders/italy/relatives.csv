@@ -9,6 +9,7 @@ Italy,Q1060314,Raffaele Fitto,father,Q3946056,Salvatore Fitto
 Italy,Q1071031,Paolo Gentiloni,relative,Q4013441,Ottorino Gentiloni
 Italy,Q1071082,Barbara Pollastrini,spouse,Q3932705,Renato Mannheimer
 Italy,Q1071082,Barbara Pollastrini,spouse,Q58036409,Pietro Modiano
+Italy,Q109570358,Andrea Gentile,father,Q3619638,Antonio Gentile
 Italy,Q1098169,Claudio Scajola,father,Q105711966,Ferdinando Scajola
 Italy,Q1098169,Claudio Scajola,mother,Q105715694,Maria Vittoria Truini
 Italy,Q1098169,Claudio Scajola,relative,Q105715849,Ferdinando Truini
@@ -63,6 +64,7 @@ Italy,Q1459321,Vittorio Cecchi Gori,partner,Q293117,Maria Grazia Buccella
 Italy,Q1459321,Vittorio Cecchi Gori,spouse,Q3937247,Rita Rusić
 Italy,Q15142811,Maria Burani Procaccini,child,Q64585327,Nicola Procaccini
 Italy,Q15143059,Maria Elena Boschi,partner,Q1117917,Giulio Berruti
+Italy,Q15143059,Maria Elena Boschi,partner,Q3615550,Andrea Bruno Savelli
 Italy,Q151608,Claudio Abbado,child,Q3701853,Daniele Abbado
 Italy,Q151608,Claudio Abbado,father,Q1850160,Michelangelo Abbado
 Italy,Q151608,Claudio Abbado,sibling,Q1641210,Marcello Abbado
@@ -159,6 +161,8 @@ Italy,Q356351,Gianni Agnelli,sibling,Q967846,Umberto Agnelli
 Italy,Q356351,Gianni Agnelli,spouse,Q3290404,Marella Agnelli
 Italy,Q3613897,Amedeo Matacena,partner,Q3609664,Alessandra Canale
 Italy,Q3616756,Angela Filipponio Tatarella,spouse,Q2847139,Giuseppe Tatarella
+Italy,Q3619638,Antonio Gentile,child,Q109570358,Andrea Gentile
+Italy,Q3619638,Antonio Gentile,sibling,Q111660900,Pino Gentile
 Italy,Q3658857,Carla Mazzuca Poggiolini,father,Q3293502,Mario Mazzuca
 Italy,Q3658857,Carla Mazzuca Poggiolini,spouse,Q3702196,Danilo Poggiolini
 Italy,Q3667497,Chiara Moroni,father,Q3956193,Sergio Moroni
@@ -301,7 +305,7 @@ Italy,Q68586055,Camillo D'Alessandro,sibling,Q21264577,Roberta D'Alessandro
 Italy,Q687662,Stefano Caldoro,father,Q17453227,Antonio Caldoro
 Italy,Q706525,Mario Tronti,relative,Q978509,Renato Zero
 Italy,Q707862,Santo Versace,sibling,Q229437,Donatella Versace
-Italy,Q707862,Santo Versace,sibling,Q264490,Gianni arturo Versace
+Italy,Q707862,Santo Versace,sibling,Q264490,Gianni Versace
 Italy,Q75585900,Michele Figurelli,child,Q75587819,Luna Figurelli
 Italy,Q75585900,Michele Figurelli,child,Q75587821,Emiliano Figurelli
 Italy,Q75585900,Michele Figurelli,child,Q75587822,Lucrezio Figurelli

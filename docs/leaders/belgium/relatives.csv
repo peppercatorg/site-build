@@ -21,7 +21,7 @@ Belgium,Q155004,Philippe I of Belgium,father,Q3911,Albert II of Belgium
 Belgium,Q155004,Philippe I of Belgium,godparent,Q12973,Leopold III of Belgium
 Belgium,Q155004,Philippe I of Belgium,godparent,Q2796565,Luisa Gazelli dei conti di Rossana
 Belgium,Q155004,Philippe I of Belgium,mother,Q31129,Queen Paola of Belgium
-Belgium,Q155004,Philippe I of Belgium,sibling,Q170194,"Princess Astrid of Belgium, Archduchess of Austria-Este"
+Belgium,Q155004,Philippe I of Belgium,sibling,Q170194,"Princess Astrid, Archduchess of Austria-Este"
 Belgium,Q155004,Philippe I of Belgium,sibling,Q432537,Princess Delphine of Belgium
 Belgium,Q155004,Philippe I of Belgium,sibling,Q700152,Prince Laurent of Belgium
 Belgium,Q155004,Philippe I of Belgium,spouse,Q94334,Queen Mathilde of Belgium
@@ -74,7 +74,7 @@ Belgium,Q3527372,Thérèse Snoy,father,Q3164697,Jean Charles Snoy et d'Oppuers
 Belgium,Q3527372,Thérèse Snoy,sibling,Q15873049,Bernard Snoy
 Belgium,Q381218,Karel De Gucht,child,Q2363798,Jean-Jacques De Gucht
 Belgium,Q3911,Albert II of Belgium,child,Q155004,Philippe I of Belgium
-Belgium,Q3911,Albert II of Belgium,child,Q170194,"Princess Astrid of Belgium, Archduchess of Austria-Este"
+Belgium,Q3911,Albert II of Belgium,child,Q170194,"Princess Astrid, Archduchess of Austria-Este"
 Belgium,Q3911,Albert II of Belgium,child,Q432537,Princess Delphine of Belgium
 Belgium,Q3911,Albert II of Belgium,child,Q700152,Prince Laurent of Belgium
 Belgium,Q3911,Albert II of Belgium,father,Q12973,Leopold III of Belgium
@@ -84,7 +84,7 @@ Belgium,Q3911,Albert II of Belgium,sibling,Q12976,Baudouin I of Belgium
 Belgium,Q3911,Albert II of Belgium,sibling,Q160984,Princess Joséphine-Charlotte of Belgium
 Belgium,Q3911,Albert II of Belgium,sibling,Q2525208,Prince Alexandre of Belgium
 Belgium,Q3911,Albert II of Belgium,sibling,Q3150926,Ingeborg Verdun
-Belgium,Q3911,Albert II of Belgium,sibling,Q371203,Princess Marie-Esméralda of Belgium
+Belgium,Q3911,Albert II of Belgium,sibling,Q371203,"Princess Marie-Esméralda, Lady Moncada"
 Belgium,Q3911,Albert II of Belgium,sibling,Q642899,Princess Marie-Christine of Belgium
 Belgium,Q3911,Albert II of Belgium,spouse,Q31129,Queen Paola of Belgium
 Belgium,Q4343491,Jan Briers,father,Q3419074,Jan Briers
@@ -101,6 +101,7 @@ Belgium,Q476596,Alexander De Croo,father,Q1351926,Herman De Croo
 Belgium,Q5109850,Christian Leysen,father,Q2411177,André Leysen
 Belgium,Q5109850,Christian Leysen,sibling,Q3525355,Thomas Leysen
 Belgium,Q57078071,Sarah Schlitz,relative,Q2220634,Henri Schlitz
+Belgium,Q586083,Antoine Duquesne,spouse,Q1861021,Anne-Marie Duquesne-Bourguignont
 Belgium,Q64210693,Jos D'Haese,father,Q67083896,Lebuïn D’Haese
 Belgium,Q64210693,Jos D'Haese,mother,Q2604859,Mie Branders
 Belgium,Q64222331,Dieter Van Besien,sibling,Q1810966,Wouter Van Besien

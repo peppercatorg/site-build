@@ -1,7 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Italy,member of the Senate,Giulio Andreotti,Q50005,1991-06-19,2013-05-06,male,1919-01-14,2013-05-06,Giulio Andreotti.jpg,Giulio Andreotti
 Italy,member of the Senate,Enrico Pelella,Q58881846,1992-04-23,2001-05-29,male,1942-10-30,2010-09-15,Enrico Pelella datisenato.jpg,
-Italy,member of the Senate,Anna Maria Bucciarelli,Q58911918,1992-04-23,2001-05-29,female,1949-04-18,,,
+Italy,member of the Senate,Anna Maria Bucciarelli,Q58911918,1992-04-23,2001-05-29,female,1949-04-18,,Anna Maria Bucciarelli Senato.jpg,
 Italy,member of the Senate,Elia Manara,Q59361063,1992-04-23,2001-05-29,male,1929-02-11,,,
 Italy,member of the Senate,Luciano Lorenzi,Q58464373,1992-10-29,2001-05-29,male,1949-10-16,,,
 Italy,member of the Senate,Giuseppe Brienza,Q3770170,1994,2000,male,1938-12-20,2018-05-28,Brienza (cropped).jpg,
@@ -45,7 +45,7 @@ Italy,member of the Senate,Valentino Martelli,Q16620198,1996-05-09,2001-05-29,ma
 Italy,member of the Senate,Vito Cusimano,Q16738741,1996-05-09,2001-05-29,male,1927-05-12,2014-04-27,,
 Italy,member of the Senate,Adolfo Manis,Q17285100,1996-05-09,2001-05-29,male,1945-01-01,,,
 Italy,member of the Senate,Alberto Robol,Q17352128,1996-05-09,2001-05-29,male,1945-05-18,,,
-Italy,member of the Senate,Luigi Biscardi,Q17453218,1996-05-09,2001-05-29,male,1928-09-13,2019-06-02,,Luigi Biscardi
+Italy,member of the Senate,Luigi Biscardi,Q17453218,1996-05-09,2001-05-29,male,1928-09-13,2019-06-02,Luigi Biscardi senato.jpg,Luigi Biscardi
 Italy,member of the Senate,Antonella Bruno Ganeri,Q17453224,1996-05-09,2001-05-29,female,1938-11-03,,,
 Italy,member of the Senate,Valerio Mignone,Q17453277,1996-05-09,2001-05-29,male,1938-11-19,,,
 Italy,member of the Senate,Fausto Giovanelli,Q17630333,1996-05-09,2001-05-29,male,1951-01-25,,,
@@ -54,7 +54,7 @@ Italy,member of the Senate,Angelo Staniscia,Q18201804,1996-05-09,2001-05-29,male
 Italy,member of the Senate,Felice Carlo Besostri,Q18222763,1996-05-09,2001-05-29,male,1944-04-23,,In toga.png,
 Italy,member of the Senate,Massimo Bonavita,Q18575575,1996-05-09,2001-05-29,male,1949-01-26,2016-07-02,Massimo Bonavita XIV.jpg,
 Italy,member of the Senate,Massimo Veltri,Q18575577,1996-05-09,2001-05-29,male,1947-11-09,,Massimo Veltri Senato.jpg,
-Italy,member of the Senate,Antonio Conte,Q18621047,1996-05-09,2001-05-29,male,1944-08-29,,,
+Italy,member of the Senate,Antonio Conte,Q18621047,1996-05-09,2001-05-29,male,1944-08-29,,Antonio Conte XIII.jpg,
 Italy,member of the Senate,Piergiorgio Bergonzi,Q18811785,1996-05-09,2001-05-29,male,1947-06-01,,,
 Italy,member of the Senate,Giuseppe Lo Curzio,Q18812085,1996-05-09,2001-05-29,male,1934-11-19,,,
 Italy,member of the Senate,Rocco Vito Loreto,Q18812091,1996-05-09,2001-05-29,male,1943-09-20,,,
@@ -89,7 +89,7 @@ Italy,member of the Senate,Maurizio Pieroni,Q23691602,1996-05-09,2001-05-29,male
 Italy,member of the Senate,Vincenzo Ruggero Manca,Q23951992,1996-05-09,2001-05-29,male,1934-06-07,,,
 Italy,member of the Senate,Ettore Bucciero,Q24015703,1996-05-09,2001-05-29,male,1938-02-19,,,
 Italy,member of the Senate,Giuseppe Turini,Q24065956,1996-05-09,2001-05-29,male,1927-03-10,2018-02-21,Giuseppe Turini datisenato.jpg,Giuseppe Turini
-Italy,member of the Senate,Franca D'Alessandro Prisco,Q24247682,1996-05-09,2001-05-29,female,1931-07-04,,,
+Italy,member of the Senate,Franca D'Alessandro Prisco,Q24247682,1996-05-09,2001-05-29,female,1931-07-04,,Franca D'Alessandro Senato.jpg,
 Italy,member of the Senate,Silvano Micele,Q25158696,1996-05-09,2001-05-29,male,1936-12-23,,,
 Italy,member of the Senate,Luigi Follieri,Q26805762,1996-05-09,2001-05-29,male,1943-09-15,,,
 Italy,member of the Senate,Antonino Monteleone,Q26972405,1996-05-09,2001-05-29,male,1939-03-14,,Antonino Monteleone.jpg,
@@ -127,7 +127,7 @@ Italy,member of the Senate,Cesare Marini,Q3665468,1996-05-09,2001-05-29,male,193
 Italy,member of the Senate,Claudio Petruccioli,Q3680181,1996-05-09,2001-05-29,male,1941-03-22,,Claudio Petruccioli foto Bolognini 2008.JPG,Claudio Petruccioli
 Italy,member of the Senate,Concetto Scivoletto,Q3686193,1996-05-09,2001-05-29,male,1945-02-22,,Concetto Scivoletto Senato.jpg,
 Italy,member of the Senate,Cosimo Ventucci,Q3695135,1996-05-09,2001-05-29,male,1938-02-11,,Cosimo Ventucci daticamera 2008.jpg,
-Italy,member of the Senate,Domenico Barrile,Q3712902,1996-05-09,2001-05-29,male,1949-07-18,,,
+Italy,member of the Senate,Domenico Barrile,Q3712902,1996-05-09,2001-05-29,male,1949-07-18,,Domenico Barrile XIII.jpg,
 Italy,member of the Senate,Domenico Contestabile,Q3712979,1996-05-09,2001-05-29,male,1937-08-11,,,
 Italy,member of the Senate,Domenico Fisichella,Q3713032,1996-05-09,2001-05-29,male,1935-09-15,,Domenico Fisichella 1994.jpg,Domenico Fisichella
 Italy,member of the Senate,Donato Manfroi,Q3713771,1996-05-09,2001-05-29,male,1940-10-27,,,
@@ -261,7 +261,7 @@ Italy,member of the Senate,Luciano Lorenzi,Q58464373,1996-05-09,2001-05-29,male,
 Italy,member of the Senate,Adriano Colla,Q58593318,1996-05-09,2001-05-29,male,1942-08-31,2002-03-28,,
 Italy,member of the Senate,Eugenio Mario Donise,Q58877776,1996-05-09,2001-05-29,male,1941-03-01,,,
 Italy,member of the Senate,Enrico Pelella,Q58881846,1996-05-09,2001-05-29,male,1942-10-30,2010-09-15,Enrico Pelella datisenato.jpg,
-Italy,member of the Senate,Anna Maria Bucciarelli,Q58911918,1996-05-09,2001-05-29,female,1949-04-18,,,
+Italy,member of the Senate,Anna Maria Bucciarelli,Q58911918,1996-05-09,2001-05-29,female,1949-04-18,,Anna Maria Bucciarelli Senato.jpg,
 Italy,member of the Senate,Elia Manara,Q59361063,1996-05-09,2001-05-29,male,1929-02-11,,,
 Italy,member of the Senate,Giovanni Ferrante,Q60617583,1996-05-09,2001-05-29,male,1940-10-13,2012-07-17,Giovanni Ferrante datisenato.jpg,
 Italy,member of the Senate,Doriano Di Benedetto,Q60841163,1996-05-09,2001-05-29,male,1945-09-15,,,
@@ -274,8 +274,8 @@ Italy,member of the Senate,Enrico Rizzi,Q7000640,1996-05-09,2001-05-29,male,1930
 Italy,member of the Senate,Anna Maria Bernasconi,Q72717267,1996-05-09,2001-05-29,female,1945-01-04,,Anna Maria Bernasconi X.jpg,
 Italy,member of the Senate,Michele Figurelli,Q75585900,1996-05-09,2001-05-29,male,1941-10-24,,,
 Italy,member of the Senate,Sergio Gambini,Q81208800,1996-05-09,2001-05-29,male,1952-08-01,,,
-Italy,member of the Senate,Bruno Cazzaro,Q81738016,1996-05-09,2001-05-29,male,1950-09-26,,,
-Italy,member of the Senate,Raffaele Bertoni,Q83643513,1996-05-09,2001-05-29,male,1927-07-18,2010-03-16,,
+Italy,member of the Senate,Bruno Cazzaro,Q81738016,1996-05-09,2001-05-29,male,1950-09-26,,Bruno Cazzaro XIV.jpg,
+Italy,member of the Senate,Raffaele Bertoni,Q83643513,1996-05-09,2001-05-29,male,1927-07-18,2010-03-16,Raffaele Bertoni senato.jpg,
 Italy,member of the Senate,Giuseppe Camo,Q84259164,1996-05-09,2001-05-29,male,1943-08-04,,,
 Italy,member of the Senate,Maria Antonietta Sartori,Q84603409,1996-05-09,2001-05-29,female,1947-10-09,,Maria Antonietta Sartori XII.jpg,
 Italy,member of the Senate,Giuseppe Tognon,Q87400786,1996-05-09,2001-05-29,male,1956-08-09,,,
@@ -1872,7 +1872,7 @@ Italy,member of the Senate,Saverio De Bonis,Q62914343,2018-03-23,,male,1964-11-1
 Italy,member of the Senate,Patty L'Abbate,Q63226137,2018-03-23,,female,1966-05-02,,Patty l'abbate foto profilo.jpg,
 Italy,member of the Senate,Mario Turco,Q63651710,2018-03-23,,male,1968-06-14,,Mario Turco.jpg,
 Italy,member of the Senate,Agnese Gallicchio,Q63974693,2018-03-23,,female,1965-08-16,,Agnese Gallicchio 2018b.jpg,
-Italy,member of the Senate,Anna Carmela Minuto,Q65012997,2018-03-23,,female,1969-01-28,,Anna Carmela Minuto.jpg,Anna Carmela Minuto
+Italy,member of the Senate,Anna Carmela Minuto,Q65012997,2018-03-23,2021-12-02,female,1969-01-28,,Anna Carmela Minuto.jpg,Anna Carmela Minuto
 Italy,member of the Senate,Angela Piarulli,Q65126424,2018-03-23,,female,1968-08-03,,Angela Pierulli.jpg,
 Italy,member of the Senate,Marco Pellegrini,Q65127460,2018-03-23,,male,1964-07-30,,Marco Pellegrini.jpg,
 Italy,member of the Senate,Barbara Guidolin,Q65499828,2018-03-23,,female,1975-09-21,,Barbara Guidolin.jpg,
@@ -2893,7 +2893,7 @@ Italy,member of the Chamber of Deputies,Cesare Ercole,Q79798709,2001-05-22,2006-
 Italy,member of the Chamber of Deputies,Luigi Borrelli,Q79884018,2001-05-22,2006-04-27,male,1949-07-03,,,
 Italy,member of the Chamber of Deputies,Giuseppe Petrella,Q80321805,2001-05-22,2006-04-27,male,1950-05-14,,,
 Italy,member of the Chamber of Deputies,Arnaldo Mariotti,Q80704856,2001-05-22,2006-04-27,male,1947-02-08,,Arnaldo Mariotti daticamera.jpg,
-Italy,member of the Chamber of Deputies,Bruno Cazzaro,Q81738016,2001-05-22,2006-04-27,male,1950-09-26,,,
+Italy,member of the Chamber of Deputies,Bruno Cazzaro,Q81738016,2001-05-22,2006-04-27,male,1950-09-26,,Bruno Cazzaro XIV.jpg,
 Italy,member of the Chamber of Deputies,Sergio Iannuccilli,Q84316314,2001-05-22,2006-04-27,male,1944-08-31,,,
 Italy,member of the Chamber of Deputies,Marco Rizzo,Q946023,2001-05-22,2004-07-19,male,1959-10-12,,Marco Rizzo 2.jpg,Marco Rizzo
 Italy,member of the Chamber of Deputies,Raffaele Costa,Q1055575,2001-05-23,2006-04-27,male,1936-09-08,,Raffaele Costa 1992.jpg,Raffaele Costa

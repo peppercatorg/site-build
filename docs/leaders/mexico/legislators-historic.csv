@@ -2,7 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Mexico,Member of the Chamber of Deputies of Mexico,Jesús González Reyes,Q5930182,1997,2000,male,1961-03-10,,"Jesus Gonzalez Reyes ,Noviembre,2013.png",
 Mexico,Member of the Chamber of Deputies of Mexico,Sergio Salazar Salazar,Q102408924,1997-09-01,2000-08-31,male,1948-11-23,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Enrique Ku Herrera,Q106206045,1997-09-01,2000-08-31,,,,,
-Mexico,Member of the Chamber of Deputies of Mexico,María de la Luz Núñez Ramos,Q106672111,1997-09-01,2000-08-31,,,,,
+Mexico,Member of the Chamber of Deputies of Mexico,María de la Luz Núñez Ramos,Q106672111,1997-09-01,2000-08-31,female,1948-02-19,,,
 Mexico,Member of the Chamber of Deputies of Mexico,José Armando Jasso Silva,Q109760958,1997-09-01,2000-08-31,male,1960-10-30,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Maximiano Barboza Llamas,Q111517108,1997-09-01,2000-08-31,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Francisco Javier Santillán Oceguera,Q111518771,1997-09-01,2000-08-31,,,,,
@@ -894,6 +894,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,Santiago Guerrero Gutiérrez,
 Mexico,Member of the Chamber of Deputies of Mexico,Miguel Gutiérrez Hernández,Q19880659,2000-09-01,2003-08-31,male,1963-09-28,,,Miguel Gutiérrez Hernández
 Mexico,Member of the Chamber of Deputies of Mexico,Miguel Ángel Gutiérrez Machado,Q19880661,2000-09-01,2003-08-31,male,1960-03-26,2020-12-29,,Miguel Ángel Gutiérrez Machado
 Mexico,Member of the Chamber of Deputies of Mexico,Mauro Huerta Díaz,Q19892733,2000-09-01,2003-08-31,male,1967-08-23,,,Mauro Huerta Díaz
+Mexico,Member of the Chamber of Deputies of Mexico,Nohelia Linares González,Q19895788,2000-09-01,2003-08-31,female,1968-05-07,,,Nohelia Linares González
 Mexico,Member of the Chamber of Deputies of Mexico,Julio César Lizárraga López,Q19895888,2000-09-01,2003-08-31,male,1972-10-19,,,Julio César Lizárraga López
 Mexico,Member of the Chamber of Deputies of Mexico,Héctor Méndez Alarcón,Q19896169,2000-09-01,2003-08-31,male,1959-09-11,,,Héctor Méndez Alarcón
 Mexico,Member of the Chamber of Deputies of Mexico,Alfredo Hernández Raigosa,Q19958074,2000-09-01,2003-08-31,male,1963-01-12,,,
@@ -1921,7 +1922,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,Emilio Gamboa Patrón,Q230405
 Mexico,Member of the Chamber of Deputies of Mexico,Ruth Zavaleta,Q2342482,2006-09-01,2009-08-31,female,1966-08-27,,,Ruth Zavaleta
 Mexico,Member of the Chamber of Deputies of Mexico,José Murat Casab,Q2431153,2006-09-01,2009-08-31,male,1952-10-18,,,José Murat Casab
 Mexico,Member of the Chamber of Deputies of Mexico,Layda Elena Sansores,Q2566657,2006-09-01,2009-08-31,female,1964-08-07,,Layda Sansores 1 (cropped).jpg,Layda Elena Sansores
-Mexico,Member of the Chamber of Deputies of Mexico,Lilia Merodio Reza,Q2746219,2006-09-01,2009-08-31,female,1978-09-19,,Lilia Merodio Reza.png,Lilia Merodio Reza
+Mexico,Member of the Chamber of Deputies of Mexico,Lilia Merodio Reza,Q2746219,2006-09-01,2009-08-31,female,1978-09-19,,Lilia Merodio Reza.jpg,Lilia Merodio Reza
 Mexico,Member of the Chamber of Deputies of Mexico,Andrés Bermúdez Viramontes,Q2849000,2006-09-01,2009-08-31,male,1950-07-02,2009-02-05,,Andrés Bermúdez Viramontes
 Mexico,Member of the Chamber of Deputies of Mexico,David Maldonado González,Q2889341,2006-09-01,2009-08-31,male,1967-07-01,,,David Maldonado González
 Mexico,Member of the Chamber of Deputies of Mexico,Efraín Morales Sánchez,Q2890018,2006-09-01,2009-08-31,male,1953-06-27,,,Efraín Morales Sánchez
@@ -4142,7 +4143,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,Ana Lucía Riojas Martínez,Q
 Mexico,Member of the Chamber of Deputies of Mexico,Norma Azucena Rodríguez Zamora,Q56290283,2018-09-01,2021-08-31,female,1986-02-07,,Diputada Azucena Rodríguez.jpg,Norma Azucena Rodríguez Zamora
 Mexico,Member of the Chamber of Deputies of Mexico,Humberto Pedrero Moreno,Q56485744,2018-09-01,2021-08-31,male,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Ernesto Dalesio,Q5654719,2018-09-01,2021-08-31,male,1977-03-06,,Ernesto D'Alessio (Vargas Contreras).jpg,Ernesto D'Alessio
-Mexico,Member of the Chamber of Deputies of Mexico,Pablo Guillermo Angulo Briceño,Q56567014,2018-09-01,2021-08-31,male,1990-08-01,,Pablo-diputado.jpg,
+Mexico,Member of the Chamber of Deputies of Mexico,Pablo Guillermo Angulo Briceño,Q56567014,2018-09-01,2021-08-31,male,1990-08-01,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Adriana Paulina Teissier Zavala,Q56611256,2018-09-01,2021-08-31,female,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Aleida Alavez Ruiz,Q5664630,2018-09-01,2021-08-31,female,1974-01-10,,Aleida Alavez.jpg,Aleida Alavez Ruiz
 Mexico,Member of the Chamber of Deputies of Mexico,Alfonso Ramírez Cuéllar,Q5667123,2018-09-01,2021-08-31,male,1959-06-14,,Alfonso Ramírez Cuéllar (cropped).jpg,Alfonso Ramírez Cuéllar
@@ -4379,7 +4380,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,Carlos Alberto Valenzuela Gon
 Mexico,Member of the Chamber of Deputies of Mexico,Carlos Augusto Pérez Hernández,Q111516892,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Carlos Humberto Quintana Martínez,Q111516893,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Carlos López Guadarrama,Q111516894,2021-09-01,,,,,,
-Mexico,Member of the Chamber of Deputies of Mexico,Carlos Miguel Aysa Damas,Q111516895,2021-09-01,,,,,,
+Mexico,Member of the Chamber of Deputies of Mexico,Carlos Miguel Aysa Damas,Q111516895,2021-09-01,,male,1996-07-07,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Carlos Noriega Romero,Q111516896,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Carlos Ortiz Tejeda,Q111516897,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Carolina Beauregard Martínez,Q111516898,2021-09-01,,,,,,
@@ -4552,7 +4553,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,María Elena Pérez-Jaén Zer
 Mexico,Member of the Chamber of Deputies of Mexico,María Eugenia Hernández Pérez,Q111517090,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,María Guadalupe Román Ávila,Q111517091,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,María Isabel Alfaro Morales,Q111517092,2021-09-01,,,,,,
-Mexico,Member of the Chamber of Deputies of Mexico,María Josefina Gamboa Torales,Q111517093,2021-09-01,,,,,,
+Mexico,Member of the Chamber of Deputies of Mexico,María Josefina Gamboa Torales,Q111517093,2021-09-01,,female,1977-06-18,,,
 Mexico,Member of the Chamber of Deputies of Mexico,María Leticia Chávez Pérez,Q111517095,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,María Macarena Chávez Flores,Q111517096,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,María Magdalena Esquivel Nava,Q111517097,2021-09-01,,,,,,
@@ -4602,7 +4603,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,Rebeca Valle Hernández,Q1115
 Mexico,Member of the Chamber of Deputies of Mexico,René Galindo Bustamante,Q111517143,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Riult Rivera Gutiérrez,Q111517144,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Roberto Carlos López García,Q111517145,2021-09-01,,,,,,
-Mexico,Member of the Chamber of Deputies of Mexico,Rocío Alexis Gamiño García,Q111517146,2021-09-01,,,,,,
+Mexico,Member of the Chamber of Deputies of Mexico,Rocío Alexis Gamiño García,Q111517146,2021-09-01,,female,1988-06-16,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Rocío Natali Barrera Puc,Q111517147,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Rodrigo Fuentes Ávila,Q111517148,2021-09-01,,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Rodrigo Samperio Chaparro,Q111517149,2021-09-01,,,,,,
@@ -4725,7 +4726,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,Eufrosina Cruz,Q5406856,2021-
 Mexico,Member of the Chamber of Deputies of Mexico,Celeste Sánchez-Romero,Q54255629,2021-09-01,2022-02-21,female,1990-02-08,2022-02-21,,Celeste Sánchez Romero
 Mexico,Member of the Chamber of Deputies of Mexico,Ildefonso Guajardo Villarreal,Q5574393,2021-09-01,,male,1957-04-19,,Idelfonso-Guajardo.jpg,Ildefonso Guajardo Villarreal
 Mexico,Member of the Chamber of Deputies of Mexico,Elías Lixa Abimerhi,Q55984136,2021-09-01,,male,1987,,,
-Mexico,Member of the Chamber of Deputies of Mexico,Pablo Guillermo Angulo Briceño,Q56567014,2021-09-01,,male,1990-08-01,,Pablo-diputado.jpg,
+Mexico,Member of the Chamber of Deputies of Mexico,Pablo Guillermo Angulo Briceño,Q56567014,2021-09-01,,male,1990-08-01,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Aleida Alavez Ruiz,Q5664630,2021-09-01,,female,1974-01-10,,Aleida Alavez.jpg,Aleida Alavez Ruiz
 Mexico,Member of the Chamber of Deputies of Mexico,Alejandro Moreno Cárdenas,Q5665275,2021-09-01,,male,1975-04-25,,"Reunión con el Gobernador Electo del Estado de Campeche, Alejandro Moreno Cárdenas.jpg",Alejandro Moreno Cárdenas
 Mexico,Member of the Chamber of Deputies of Mexico,Carolina Viggiano,Q5669529,2021-09-01,,female,1968-07-06,,ACVATwitter.jpg,Carolina Viggiano

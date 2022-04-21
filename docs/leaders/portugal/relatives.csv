@@ -1,5 +1,6 @@
 catalog,id,name,relationship,relative,relativename
 Portugal,Q10321318,Luís Braga da Cruz,sibling,Q10324025,Manuel Braga da Cruz
+Portugal,Q10321558,Luís Menezes,father,Q6706787,Luís Filipe Menezes
 Portugal,Q10346718,Paulo Mota Pinto,father,Q388965,Carlos Mota Pinto
 Portugal,Q104771012,Fátima Ramos,sibling,Q48856511,Jaime Ramos
 Portugal,Q105810842,Vítor Cabrita Neto,sibling,Q10307287,Joaquim Manuel Cabrita Neto
@@ -11,7 +12,7 @@ Portugal,Q111435569,Pedro Adão e Silva,relative,Q21290097,Armando Adão e Silva
 Portugal,Q1340708,João Soares,father,Q156781,Mário Soares
 Portugal,Q1340708,João Soares,mother,Q75062,Maria Barroso
 Portugal,Q156780,Jorge Sampaio,spouse,Q82322,Maria José Ritta
-Portugal,Q1709692,José Vieira da Silva,child,Q28973799,Mariana Vieira da Silva
+Portugal,Q1709692,José António Vieira da Silva,child,Q28973799,Mariana Vieira da Silva
 Portugal,Q17124888,Natália Carrascalão Antunes,father,Q26791923,Manuel Viegas Carrascalão
 Portugal,Q17496474,Mariana Mortágua,father,Q97303328,Camilo Mortágua
 Portugal,Q19409554,Isabel Moreira,father,Q4685594,Adriano Moreira
@@ -22,7 +23,7 @@ Portugal,Q2571494,Carlos César,child,Q85872071,Francisco Vale César
 Portugal,Q260092,Inês de Medeiros,father,Q611486,António Victorino de Almeida
 Portugal,Q260092,Inês de Medeiros,sibling,Q235115,Maria de Medeiros
 Portugal,Q260092,Inês de Medeiros,sibling,Q9616397,Anne Victorino de Almeida
-Portugal,Q28973799,Mariana Vieira da Silva,father,Q1709692,José Vieira da Silva
+Portugal,Q28973799,Mariana Vieira da Silva,father,Q1709692,José António Vieira da Silva
 Portugal,Q30934986,Clara Marques Mendes,father,Q4777584,António Marques Mendes
 Portugal,Q30934986,Clara Marques Mendes,sibling,Q550243,Luís Marques Mendes
 Portugal,Q311440,António Guterres,father,Q27134799,Virgílio Dias Guterres

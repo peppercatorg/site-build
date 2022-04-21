@@ -1,4 +1,5 @@
 catalog,id,name,relationship,relative,relativename
+United Kingdom,Q104783350,"David Wolfson, Baron Wolfson of Tredegar",spouse,Q111600492,Louise Wolfson
 United Kingdom,Q104898,Norman Foster,father,Q75949379,Robert Foster
 United Kingdom,Q104898,Norman Foster,mother,Q75989998,Lillian Smith
 United Kingdom,Q104898,Norman Foster,spouse,Q3393424,Elena Ochoa
@@ -1746,7 +1747,7 @@ United Kingdom,Q2159125,"Robert Walker, Baron Walker of Gestingthorpe",child,Q76
 United Kingdom,Q2159125,"Robert Walker, Baron Walker of Gestingthorpe",child,Q76373505,Henrietta Solveig Walker
 United Kingdom,Q2159125,"Robert Walker, Baron Walker of Gestingthorpe",father,Q75717351,Ronald Robert Antony Walker
 United Kingdom,Q2159125,"Robert Walker, Baron Walker of Gestingthorpe",mother,Q75880448,Mary Helen Welsh
-United Kingdom,Q2159125,"Robert Walker, Baron Walker of Gestingthorpe",spouse,Q76373501,Suzanne Diana Leggi
+United Kingdom,Q2159125,"Robert Walker, Baron Walker of Gestingthorpe",spouse,Q76373501,Suzanne Diana Walker
 United Kingdom,Q2159130,"Robert Walpole, 10th Baron Walpole",child,Q4726144,Alice Walpole
 United Kingdom,Q2159130,"Robert Walpole, 10th Baron Walpole",child,Q76207457,"Jonathan Walpole, 11th Baron Walpole"
 United Kingdom,Q2159130,"Robert Walpole, 10th Baron Walpole",child,Q76207458,Benedict Thomas Orford Walpole
@@ -3777,7 +3778,7 @@ United Kingdom,Q336921,"Mary Warnock, Baroness Warnock",child,Q76154462,Grizell 
 United Kingdom,Q336921,"Mary Warnock, Baroness Warnock",child,Q76154463,James Marcus Alexander Warnock
 United Kingdom,Q336921,"Mary Warnock, Baroness Warnock",father,Q75383902,Archibald Edward Wilson
 United Kingdom,Q336921,"Mary Warnock, Baroness Warnock",mother,Q76269963,Ethel Mary Schuster
-United Kingdom,Q336921,"Mary Warnock, Baroness Warnock",sibling,Q4470039,Archibald Duncan Wilson
+United Kingdom,Q336921,"Mary Warnock, Baroness Warnock",sibling,Q4470039,Duncan Wilson
 United Kingdom,Q336921,"Mary Warnock, Baroness Warnock",spouse,Q5534962,Geoffrey Warnock
 United Kingdom,Q336960,"David Hannay, Baron Hannay of Chiswick",child,Q76008012,Richard Hannay
 United Kingdom,Q336960,"David Hannay, Baron Hannay of Chiswick",child,Q76008032,Alexander Charles Hannay

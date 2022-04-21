@@ -58,6 +58,7 @@ Norway,Q15109978,Tor André Johnsen,spouse,Q15077918,Svetlana K Johnsen
 Norway,Q15113558,Kristin Vinje,spouse,Q7923755,Vetle Vinje
 Norway,Q15113600,Stefan Heggelund,spouse,Q464941,Hadia Tajik
 Norway,Q15116081,Sivert Bjørnstad,father,Q11980231,Karl-Ove Bjørnstad
+Norway,Q15195484,Mette Nord,sibling,Q11967744,Erik Nord
 Norway,Q15205583,Sigbjørn Aanes,spouse,Q15464245,Maria Hoff Aanes
 Norway,Q15260774,Anne Grethe Erlandsen,father,Q5109575,Christian Erlandsen
 Norway,Q15299167,Julie Brodtkorb,spouse,Q17113709,Tore Aksel Voldberg
@@ -359,6 +360,7 @@ Norway,Q6832867,Michael Momyr,mother,Q59759292,Jorunn Johansen
 Norway,Q6978578,Tore Schei,father,Q4585386,Andreas Schei
 Norway,Q6978578,Tore Schei,spouse,Q57265607,Kristine Schei
 Norway,Q6981465,Trond Helleland,spouse,Q6514654,Linda Hofstad Helleland
+Norway,Q706467,Bjørn Tore Godal,child,Q3436815,Anne Marit Godal
 Norway,Q706467,Bjørn Tore Godal,spouse,Q463724,Sissel Rønbeck
 Norway,Q706467,Bjørn Tore Godal,spouse,Q5000239,Gro Balas
 Norway,Q7077391,Odd Holten,child,Q6513663,Line Henriette Hjemdal
