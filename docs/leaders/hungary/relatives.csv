@@ -26,6 +26,7 @@ Hungary,Q1161847,Bálint Magyar,father,Q1161848,Bálint Magyar
 Hungary,Q1161847,Bálint Magyar,mother,Q1288162,Olga Siklós
 Hungary,Q1161847,Bálint Magyar,sibling,Q1567160,Fruzsina Magyar
 Hungary,Q1161847,Bálint Magyar,spouse,Q1037247,Róza Hodosán
+Hungary,Q1176768,József Michl,child,Q47506870,Júlia MIchl
 Hungary,Q1218911,Előd Novák,spouse,Q639328,Dóra Dúró
 Hungary,Q1226805,Ágnes Osztolykán,spouse,Q61070472,Balog János
 Hungary,Q1233411,Imre Pesti,child,Q66684946,Máté Pesti
@@ -50,7 +51,9 @@ Hungary,Q1460530,Dávid Vitézy,father,Q1460528,László Vitézy
 Hungary,Q1460530,Dávid Vitézy,mother,Q220714,Ágnes Hankiss
 Hungary,Q155684,Gyula Horn,relative,Q1034477,Szófia Havas
 Hungary,Q15838619,Judit Csehák,spouse,Q854023,László Békesi
+Hungary,Q16194310,Tamás Sáringer-Kenyeres,father,Q1636403,Gyula Sáringer
 Hungary,Q16201211,Miklós Seszták,father,Q51881019,László Seszták
+Hungary,Q1636403,Gyula Sáringer,child,Q16194310,Tamás Sáringer-Kenyeres
 Hungary,Q16511994,József Tóbiás,spouse,Q1252076,Tímea Rába
 Hungary,Q184810,Pál Schmitt,spouse,Q241086,Katalin Makray
 Hungary,Q191337,Ferenc Gyurcsány,spouse,Q716486,Klára Dobrev
@@ -89,6 +92,7 @@ Hungary,Q51880477,Balázs Csákabonyi,father,Q12350974,Kálmán Csákabonyi
 Hungary,Q51880501,László Csúcs,spouse,Q56390160,Lászlóné Csúcs
 Hungary,Q51880597,Loránt ifj. Hegedűs,father,Q12814570,Lóránt Hegedűs
 Hungary,Q51880597,Loránt ifj. Hegedűs,spouse,Q31092223,Lorántné Hegedűs
+Hungary,Q51880793,Éva Mikes,spouse,Q51881116,Zoltán Trombitás
 Hungary,Q51880808,Péter Mádai,sibling,Q12348549,György Máday
 Hungary,Q51881004,István Sándor,child,Q20436874,István Sándor
 Hungary,Q51881081,János Schiffer,father,Q17361771,Pál Schiffer

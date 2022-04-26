@@ -1,6 +1,8 @@
 catalog,id,name,relationship,relative,relativename
 Iran,Q16052285,Mohammad Mirmohammadi,father,Q17994214,Seyed Abolfazl Mirmohammadi
 Iran,Q16053240,Abdul-Nasser Hemmati,spouse,Q107230125,Sepideh Shabestari
+Iran,Q180795,Mohammad Khatami,child,Q102253847,Leila Khatami
+Iran,Q180795,Mohammad Khatami,child,Q81315396,Emad Khatami
 Iran,Q180795,Mohammad Khatami,father,Q7378679,Ruhollah Khatami
 Iran,Q180795,Mohammad Khatami,sibling,Q1942631,Mohammad-Reza Khatami
 Iran,Q180795,Mohammad Khatami,spouse,Q16048429,Zohreh Sadeghi

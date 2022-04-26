@@ -91,7 +91,7 @@ European Union,Q12927,Marine Le Pen,child,Q67446608,Louis Chauffroy
 European Union,Q12927,Marine Le Pen,father,Q7177,Jean-Marie Le Pen
 European Union,Q12927,Marine Le Pen,mother,Q15730863,Pierrette Lalanne
 European Union,Q12927,Marine Le Pen,partner,Q3261014,Louis Aliot
-European Union,Q12927,Marine Le Pen,relative,Q292458,Marion Maréchal-Le Pen
+European Union,Q12927,Marine Le Pen,relative,Q292458,Marion Maréchal
 European Union,Q12927,Marine Le Pen,sibling,Q15730860,Yann Le Pen
 European Union,Q12927,Marine Le Pen,sibling,Q3291581,Marie-Caroline Le Pen
 European Union,Q12927,Marine Le Pen,spouse,Q42416205,Éric Iorio
@@ -522,7 +522,7 @@ European Union,Q3495796,Árpád Duka-Zólyomi,spouse,Q101242352,Ágnes Sidó
 European Union,Q3497810,Steeve Briois,mother,Q63106738,Marie-Christine Duriez
 European Union,Q3497810,Steeve Briois,partner,Q19606880,Bruno Bilde
 European Union,Q3497810,Steeve Briois,relative,Q3288925,Marcel Duriez
-European Union,Q3497921,Luis Herrero-Tejedor Algar,father,Q8961328,Fernando Herrero Tejedor
+European Union,Q3497921,Luis Herrero,father,Q8961328,Fernando Herrero Tejedor
 European Union,Q3499031,Lone Dybkjær,spouse,Q311063,Poul Nyrup Rasmussen
 European Union,Q3503797,Theresa Zabell,sibling,Q21061879,Simon Zabell
 European Union,Q3505707,Koldo Gorostiaga Atxalandabaso,child,Q102350464,Hur Gorostiaga
@@ -635,6 +635,7 @@ European Union,Q4740163,Carles Puigdemont,father,Q50925913,Xavier Puigdemont Oli
 European Union,Q4740163,Carles Puigdemont,mother,Q50925996,Núria Casamajó
 European Union,Q4740163,Carles Puigdemont,sibling,Q64733623,Montserrat Puigdemont i Casamajó
 European Union,Q4740163,Carles Puigdemont,spouse,Q21998656,Marcela Topor
+European Union,Q47485256,André Rougé,spouse,Q111685345,Florence Goulet
 European Union,Q47602,Massimo D'Alema,father,Q3770384,Giuseppe D'Alema
 European Union,Q47651,Marco Pannella,sibling,Q107421422,Liliana Pannella
 European Union,Q4769784,Annunziata Rees-Mogg,father,Q194896,William Rees-Mogg
@@ -789,8 +790,8 @@ European Union,Q63532607,Damian Boeselager,mother,Q75380186,Huberta Thiel
 European Union,Q63532607,Damian Boeselager,relative,Q2639773,Albrecht Freiherr von Boeselager
 European Union,Q63975557,Jérémy Decerle,father,Q63978674,Daniel Decerle
 European Union,Q64034615,Isabel Wiseler-Santos Lima,spouse,Q2978289,Claude Wiseler
-European Union,Q64171693,Vincenzo Sofo,partner,Q292458,Marion Maréchal-Le Pen
-European Union,Q64171693,Vincenzo Sofo,spouse,Q292458,Marion Maréchal-Le Pen
+European Union,Q64171693,Vincenzo Sofo,partner,Q292458,Marion Maréchal
+European Union,Q64171693,Vincenzo Sofo,spouse,Q292458,Marion Maréchal
 European Union,Q644688,Inese Šlesere,spouse,Q406265,Ainārs Šlesers
 European Union,Q645267,Tamás Deutsch,child,Q16234495,Bence Deutsch
 European Union,Q645267,Tamás Deutsch,relative,Q1006570,Lajos Für

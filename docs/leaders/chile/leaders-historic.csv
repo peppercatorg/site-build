@@ -1,10 +1,10 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Chile,President,Eduardo Frei Ruiz-Tagle,Q326,1994-03-11,2000-03-11,male,1942-06-24,,Eduardo Frei Chiledebate.jpg,Eduardo Frei Ruiz-Tagle
 Chile,President,Ricardo Lagos,Q331,2000-03-11,2006-03-11,male,1938-03-02,,Ricardo Lagos despedida (cropped).jpg,Ricardo Lagos
-Chile,President,Michelle Bachelet,Q320,2006-03-11,2010-03-11,female,1951-09-29,,Portrait Michelle Bachelet.jpg,Michelle Bachelet
-Chile,President,Sebastián Piñera,Q306,2010-03-11,2014-03-11,male,1949-12-01,,Retrato Oficial Presidente Piñera 2018.jpg,Sebastián Piñera
-Chile,President,Michelle Bachelet,Q320,2014-03-11,2018-03-11,female,1951-09-29,,Portrait Michelle Bachelet.jpg,Michelle Bachelet
-Chile,President,Sebastián Piñera,Q306,2018-03-11,2022-03-11,male,1949-12-01,,Retrato Oficial Presidente Piñera 2018.jpg,Sebastián Piñera
+Chile,President,Michelle Bachelet,Q320,2006-03-11,2010-03-11,female,1951-09-29,,Conmemoración Día de la Mujer en Lo Prado (40695175351) (cropped).jpg,Michelle Bachelet
+Chile,President,Sebastián Piñera,Q306,2010-03-11,2014-03-11,male,1949-12-01,,Fallo de la Corte Internacional de Justicia de La Haya sobre la demanda de Bolivia (22) - cropped.jpg,Sebastián Piñera
+Chile,President,Michelle Bachelet,Q320,2014-03-11,2018-03-11,female,1951-09-29,,Conmemoración Día de la Mujer en Lo Prado (40695175351) (cropped).jpg,Michelle Bachelet
+Chile,President,Sebastián Piñera,Q306,2018-03-11,2022-03-11,male,1949-12-01,,Fallo de la Corte Internacional de Justicia de La Haya sobre la demanda de Bolivia (22) - cropped.jpg,Sebastián Piñera
 Chile,President,Gabriel Boric,Q16297876,2022-03-11,,male,1986-02-11,,Retrato Oficial Presidente Boric Font.jpg,Gabriel Boric
 Chile,Minister of Agriculture,Jaime Campos,Q3160564,2000-03-11,2006-03-11,male,1953-02-16,,"Jaime Campos, Ministro de Justicia (2016).png",Jaime Campos
 Chile,Minister of Agriculture,Marigen Hornkohl,Q5998231,2008-01-08,2010-03-11,female,1953-09-25,,Hornkohl M.JPG,Marigen Hornkohl
@@ -51,14 +51,14 @@ Chile,Minister of Education,Raúl Figueroa,Q50820982,2020-02-28,2022-03-11,male,
 Chile,Minister of Education,Marco Antonio Ávila,Q110636393,2022-03-11,,male,1977-08-30,,Ministro Marco Antonio Ávila.jpg,Marco Antonio Ávila
 Chile,Minister of Energy,Susana Jiménez Schuster,Q64596365,2018-03-11,2019-07-13,female,1969,,SUSANA JIMENEZ.jpg,Susana Jiménez Schuster
 Chile,Minister of Energy,Juan Carlos Jobet,Q16584439,2019-06-13,2022-03-11,male,1975-10-14,,JUAN CARLOS JOBET.jpg,Juan Carlos Jobet
-Chile,Minister of Energy,Claudio Huepe Minoletti,Q110640779,2022-03-11,,male,1966-08-07,,Claudio Huepe 2022.png,Claudio Huepe Minoletti
+Chile,Minister of Energy,Claudio Huepe Minoletti,Q110640779,2022-03-11,,male,1966-08-07,,,Claudio Huepe Minoletti
 Chile,Minister of the Environment,María Ignacia Benítez,Q18242,2010-10-01,2014-03-11,female,1958-08-01,2019-02-28,Maria Ignacia Benitez.jpg,María Ignacia Benítez
 Chile,Minister of the Environment,Pablo Badenier,Q16297573,2014-03-11,2017-03-20,male,1973-12-06,,"Pablo Badenier, ministro de medio ambiente.jpg",Pablo Badenier
 Chile,Minister of the Environment,Marcelo Mena,Q44010940,2017-03-20,2018-03-11,male,1975-03-29,,Marcelo Mena.jpg,Marcelo Mena
 Chile,Minister of the Environment,Marcela Cubillos,Q5995504,2018-03-11,2018-08-09,female,1967-02-02,,MARCELA CUBILLOS.jpg,Marcela Cubillos
 Chile,Minister of the Environment,Carolina Schmidt,Q734056,2018-08-09,2021-11-22,female,1967-09-09,,Carolina Schmidt Zaldívar.png,Carolina Schmidt
 Chile,Minister of the Environment,Javier Naranjo Solano,Q88987534,2021-11-22,2022-03-11,male,1983-06-10,,Subsecretario Medio Ambiente Javier Naranjo 2020.jpg,Javier Naranjo Solano
-Chile,Minister of the Environment,Maisa Rojas,Q47538727,2022-03-11,,female,1972-08-10,,Maisa.png 328x342 q85 crop subsampling-2.png,Maisa Rojas
+Chile,Minister of the Environment,Maisa Rojas,Q47538727,2022-03-11,,female,1972-08-10,,"Maisa Rojas, 2022.png",Maisa Rojas
 Chile,Minister of Finance,Manuel Marfán,Q5669247,1999-12-03,2000-03-11,male,1952-12-26,,Marfan.jpg,Manuel Marfán
 Chile,Minister of Finance,Nicolás Eyzaguirre,Q3341179,2000-03-11,2006-03-11,male,1953-01-03,,"Nicolás Eyzaguirre Guzmán, ministro de educación.jpg",Nicolás Eyzaguirre
 Chile,Minister of Finance,Andrés Velasco,Q2849041,2006-03-11,2010-03-11,male,1960-08-30,,Andrés Velasco Brañes (2014).jpg,Andrés Velasco
@@ -69,7 +69,7 @@ Chile,Minister of Finance,Nicolás Eyzaguirre,Q3341179,2017-08-31,2018-03-11,mal
 Chile,Minister of Finance,Felipe Larraín Bascuñán,Q5858275,2018-03-11,2019-10-28,male,1958-02-14,,Felipe Larrain Bascunan.jpg,Felipe Larraín Bascuñán
 Chile,Minister of Finance,Ignacio Briones,Q72749842,2019-10-28,2021-01-26,male,1972-12-12,,IGNACIO BRIONES ROJAS.jpg,Ignacio Briones
 Chile,Minister of Finance,Rodrigo Cerda Norambuena,Q102217865,2021-01-26,2022-03-11,male,1973-02-13,,RODRIGO CERDA NORAMBUENA MINISTRO DE HACIENDA (2021).jpg,Rodrigo Cerda
-Chile,Minister of Finance,Mario Marcel,Q5998841,2022-03-11,,male,1959-10-22,,Mario Marcel 2022.jpg,Mario Marcel
+Chile,Minister of Finance,Mario Marcel,Q5998841,2022-03-11,,male,1959-10-22,,,Mario Marcel
 Chile,Minister of Foreign Affairs,Juan Gabriel Valdés,Q3810840,1999-06-22,2000-03-11,male,1947-06-02,,Juan Gabriel Valdes(2).jpg,Juan Gabriel Valdés
 Chile,Minister of Foreign Affairs,Soledad Alvear,Q434756,2000-03-11,2004-10-01,female,1950-09-17,,SolAlvear.jpg,Soledad Alvear
 Chile,Minister of Foreign Affairs,Ignacio Walker,Q1657292,2004-10-01,2006-03-11,male,1956-01-07,,IgnacioWalker.jpg,Ignacio Walker
@@ -81,9 +81,9 @@ Chile,Minister of Foreign Affairs,Roberto Ampuero,Q922795,2018-03-11,2019-06-13,
 Chile,Minister of Foreign Affairs,Teodoro Ribera,Q501752,2019-06-13,2020-07-28,male,1958-05-25,,TEODORO RIBERA.jpg,Teodoro Ribera
 Chile,Minister of Foreign Affairs,Andrés Allamand,Q4760139,2020-07-28,2022-02-06,male,1956-02-07,,"Andrés Allamand, 2020.jpg",Andrés Allamand
 Chile,Minister of Foreign Affairs,Carolina Valdivia Torres,Q78097168,2022-02-06,2022-03-11,female,1978-03-07,,Subsecretaria RR.EE. Carolina Valdivia Torres.jpg,Carolina Valdivia
-Chile,Minister of Foreign Affairs,Antonia Urrejola,Q75836988,2022-03-11,,female,1968-11-13,,Antonia Urrejola 2022.jpg,Antonia Urrejola
+Chile,Minister of Foreign Affairs,Antonia Urrejola,Q75836988,2022-03-11,,female,1968-11-13,,,Antonia Urrejola
 Chile,Minister of Health,Álex Figueroa,Q5642050,1996-08-07,2000-03-11,male,1961-09-20,2018-12-25,Afigueroam.jpg,Álex Figueroa
-Chile,Minister of Health,Michelle Bachelet,Q320,2000-03-11,2002-01-07,female,1951-09-29,,Portrait Michelle Bachelet.jpg,Michelle Bachelet
+Chile,Minister of Health,Michelle Bachelet,Q320,2000-03-11,2002-01-07,female,1951-09-29,,Conmemoración Día de la Mujer en Lo Prado (40695175351) (cropped).jpg,Michelle Bachelet
 Chile,Minister of Health,Osvaldo Artaza,Q6054195,2002-01-07,2003-03-03,male,1955-06-05,,Osvaldo Artaza.jpg,Osvaldo Artaza
 Chile,Minister of Health,Pedro García Aspillaga,Q3374049,2003-03-03,2006-03-11,male,1960-10-07,,Pedro García (4274959428) (cropped).jpg,Pedro García Aspillaga
 Chile,Minister of Health,María Soledad Barría,Q3296472,2006-03-11,2008-10-28,female,1953-10-27,,Doctora soledad barria.jpg,María Soledad Barría
@@ -95,7 +95,7 @@ Chile,Minister of Health,Emilio Santelices,Q60032521,2018-03-11,2019-06-13,male,
 Chile,Minister of Health,Jaime Mañalich,Q3486821,2019-06-13,2020-06-13,male,1954-06-07,,JAIME MAÑALICH 2019.png,Jaime Mañalich
 Chile,Minister of Health,Enrique Paris,Q96254224,2020-06-13,2022-03-11,male,1948-09-03,,Ministro de Salud Enrique Paris (2020).jpg,Enrique Paris
 Chile,Minister of Health,María Begoña Yarza,Q110639253,2022-03-11,,female,1964-02-20,,Ministra María Begoña Yarza.jpg,María Begoña Yarza
-Chile,Minister of Housing and Urbanism,Sergio Henríquez,Q6125473,1997-07-24,2000-03-11,male,1955-03-25,,,
+Chile,Minister of Housing and Urbanism,Sergio Henríquez,Q6125473,1997-07-24,2000-03-11,male,1955-03-25,,,Sergio Henríquez
 Chile,Minister of Housing and Urbanism,Claudio Orrego,Q5772063,2000-03-11,2000-12-29,male,1966-12-20,,Claudio Orrego sobre fondo negro (Headshot).jpg,Claudio Orrego
 Chile,Minister of Housing and Urbanism,Jaime Ravinet,Q3160579,2000-12-29,2004-09-29,male,1946-10-17,,Jaime Ravinet.jpg,Jaime Ravinet
 Chile,Minister of Housing and Urbanism,Patricia Poblete,Q6066562,2006-03-11,2010-03-11,female,1946-06-06,2022-03-31,Patricia Poblete 2010.jpg,Patricia Poblete
@@ -131,7 +131,7 @@ Chile,Minister of Labour,Alejandra Krauss,Q4714452,2016-11-18,2018-03-11,female,
 Chile,Minister of Labour,Nicolás Monckeberg,Q7030399,2018-03-11,2019-10-28,male,1973-07-31,,Nicolás Monckeberg Díaz.jpg,Nicolás Monckeberg
 Chile,Minister of Labour,María José Zaldivar,Q72753586,2019-10-28,2021-04-07,female,1975-09-16,,MARIA JOSE ZALDIVAR LARRAIN.jpg,María José Zaldívar
 Chile,Minister of Labour,Patricio Melero,Q6066731,2021-04-07,2022-03-11,male,1956-06-19,,Patricio Melero Abaroa (2018).jpg,Patricio Melero
-Chile,Minister of Labour,Jeannette Jara,Q110103620,2022-03-11,,female,1974-04-23,,Jeannette roman 2022.png,Jeannette Jara
+Chile,Minister of Labour,Jeannette Jara,Q110103620,2022-03-11,,female,1974-04-23,,,Jeannette Jara
 Chile,Minister of Mining,Baldo Prokurica,Q4850447,2018-03-11,2020-12-18,male,1958-07-02,,BALDO PROKURICA.jpg,Baldo Prokurica
 Chile,Minister of Mining,Juan Carlos Jobet,Q16584439,2020-12-18,2022-03-11,male,1975-10-14,,JUAN CARLOS JOBET.jpg,Juan Carlos Jobet
 Chile,Minister of Mining,Marcela Hernando,Q5995515,2022-03-11,,female,1960-02-12,,Ministra Marcela Hernando.jpg,Marcela Hernando
@@ -142,7 +142,7 @@ Chile,Minister of National Assets,Julio Isamit,Q72724393,2019-10-28,2022-03-11,m
 Chile,Minister of National Assets,Javiera Toro Cáceres,Q103838952,2022-03-11,,female,1987-10-10,,Ministra Javiera Toro.jpg,Javiera Toro Cáceres
 Chile,Minister of National Defence,Edmundo Pérez Yoma,Q1630086,1999-06-22,2000-03-11,male,1939-01-10,,EPerezYoma.jpg,Edmundo Pérez Yoma
 Chile,Minister of National Defence,Mario Fernández Baeza,Q3293426,2000-03-11,2002-01-07,male,1947-11-22,,Mario Fernández (33749963761) (cropped).jpg,Mario Fernández Baeza
-Chile,Minister of National Defence,Michelle Bachelet,Q320,2002-01-07,2004-09-29,female,1951-09-29,,Portrait Michelle Bachelet.jpg,Michelle Bachelet
+Chile,Minister of National Defence,Michelle Bachelet,Q320,2002-01-07,2004-09-29,female,1951-09-29,,Conmemoración Día de la Mujer en Lo Prado (40695175351) (cropped).jpg,Michelle Bachelet
 Chile,Minister of National Defence,Jaime Ravinet,Q3160579,2004-09-29,2006-03-11,male,1946-10-17,,Jaime Ravinet.jpg,Jaime Ravinet
 Chile,Minister of National Defence,Vivianne Blanlot,Q1648987,2006-03-11,2007-03-26,female,1956-10-22,,Vivianne Blanlot.jpeg,Vivianne Blanlot
 Chile,Minister of National Defence,José Goñi,Q3186309,2007-03-27,2009-03-12,male,1948-02-28,,Jose Goni 080408-N-2855B-062 0ZK4F.jpg,José Goñi
@@ -155,7 +155,7 @@ Chile,Minister of National Defence,José Antonio Gómez Urrutia,Q3810389,2015-05
 Chile,Minister of National Defence,Alberto Espina,Q5663007,2018-03-11,2020-07-28,male,1956-11-04,,ALBERTO ESPINA.jpg,Alberto Espina
 Chile,Minister of National Defence,Mario Desbordes,Q5998614,2020-07-28,2020-12-18,male,1968-10-15,,MARIO DESBORDES JIMENEZ.jpg,Mario Desbordes
 Chile,Minister of National Defence,Baldo Prokurica,Q4850447,2020-12-18,2022-03-11,male,1958-07-02,,BALDO PROKURICA.jpg,Baldo Prokurica
-Chile,Minister of National Defence,Maya Fernández,Q5818156,2022-03-11,,female,1971-09-27,,Maya Fernández 2022.jpg,Maya Fernández
+Chile,Minister of National Defence,Maya Fernández,Q5818156,2022-03-11,,female,1971-09-27,,Maya Alejandra Fernández Allende (2018).jpg,Maya Fernández
 Chile,Minister of Planning,Yasna Provoste,Q3571936,2005-02-10,2006-03-11,female,1969-12-16,,Yasna Provoste Campillay.jpg,Yasna Provoste
 Chile,Minister of Planning,Clarisa Hardy,Q5771213,2006-03-11,2008-01-08,female,1945-12-15,,"30.08.2011 Seminario Internacional “Protección social, inclusión y equidad” (6099943487).jpg",Clarisa Hardy
 Chile,Minister of Planning,Paula Quintana,Q955615,2008-01-08,2010-03-11,female,1965-06-26,,Paula Quintana por Valparaíso.jpg,Paula Quintana
@@ -173,7 +173,7 @@ Chile,Minister of Public Works,Jaime Estévez,Q5399541,2005-01-03,2006-03-11,mal
 Chile,Minister of Public Works,Alberto Undurraga,Q5663638,2014-03-11,2018-03-11,male,1969-06-17,,Alberto Undurraga Vicuña.jpg,Alberto Undurraga
 Chile,Minister of Public Works,Juan Andrés Fontaine Talavera,Q9015138,2018-03-11,2019-06-13,male,1954-05-21,,Juan Andres Fontaine.jpg,Juan Andrés Fontaine
 Chile,Minister of Public Works,Alfredo Moreno,Q58293,2019-06-13,2022-03-11,male,1956-08-04,,Alfredo Moreno.jpg,Alfredo Moreno Charme
-Chile,Minister of Public Works,Juan Carlos García Pérez de Arce,Q110664149,2022-03-11,,male,1971-01-03,,Juan Carlos Garcia 2022.png,Juan Carlos García Pérez de Arce
+Chile,Minister of Public Works,Juan Carlos García Pérez de Arce,Q110664149,2022-03-11,,male,1971-01-03,,,Juan Carlos García Pérez de Arce
 Chile,"Minister of Science, Technology, Knowledge and Innovation",Andrés Couve,Q59821999,2018-12-17,2022-03-11,male,1968-10-23,,ANDRES COUVE.png,
 Chile,"Minister of Science, Technology, Knowledge and Innovation",Flavio Salazar,Q88222842,2022-03-11,,male,1965-10-07,,,Flavio Salazar
 Chile,Minister of Social Development and Family,Alfredo Moreno,Q58293,2019-04-02,2019-06-13,male,1956-08-04,,Alfredo Moreno.jpg,Alfredo Moreno Charme
@@ -191,8 +191,8 @@ Chile,Minister of Sport,Natalia Riffo,Q16302038,2014-03-11,2016-11-18,female,197
 Chile,Minister of Sport,Pablo Squella,Q5813279,2016-11-18,2018-03-11,male,1963-08-14,,Pablo Squella oficial.jpg,Pablo Squella
 Chile,Minister of Sport,Pauline Kantor,Q56167729,2018-03-11,2019-10-28,female,1964-04-10,,PAULINE KANTOR.jpg,Pauline Kantor
 Chile,Minister of Sport,Cecilia Pérez,Q5640564,2019-10-28,2022-03-11,female,1974-09-23,,CECILIA PEREZ.jpg,Cecilia Pérez
-Chile,Minister of Sport,Alexandra Benado,Q110636091,2022-03-11,,female,1976-05-11,,,Alexandra Benado
-Chile,Minister of Transport and Telecommunications,Claudio Hohmann,Q5771974,1996-09-28,2000-03-11,male,1954-06-03,,,
+Chile,Minister of Sport,Alexandra Benado,Q110636091,2022-03-11,,female,1976-05-11,,"Ministra del Deporte, Alexandra Benado Vergara (2022).jpg",Alexandra Benado
+Chile,Minister of Transport and Telecommunications,Claudio Hohmann,Q5771974,1996-09-28,2000-03-11,male,1954-06-03,,,Claudio Hohmann
 Chile,Minister of Transport and Telecommunications,Carlos Cruz Lorenzen,Q5750097,2000-03-11,2002-01-07,male,1951-10-13,,,Carlos Cruz Lorenzen
 Chile,Minister of Transport and Telecommunications,Javier Etcheberry,Q5927727,2002-01-07,2005-01-03,male,1947-03-14,,Ministro Javier Etcheberry (2004).gif,Javier Etcheberry
 Chile,Minister of Transport and Telecommunications,Jaime Estévez,Q5399541,2005-01-03,2006-03-11,male,1946-09-27,,Jaime Estévez Valencia.jpg,Jaime Estévez
@@ -251,7 +251,7 @@ Chile,President of the Chamber of Deputies,Carlos Montes Cisternas,Q5751049,1999
 Chile,President of the Chamber of Deputies,María Isabel Allende,Q451359,2003-03-18,2004-03-16,female,1945-01-18,,Isabel Allende Bussi .jpg,Isabel Allende (politician)
 Chile,President of the Chamber of Deputies,Francisco Encina,Q5865610,2008,2009,male,1943-12-18,,José Francisco Encina Moriamez.jpg,Francisco Encina
 Chile,President of the Chamber of Deputies,Juan Bustos,Q11686373,2008-03-13,2008-08-07,male,1935-12-08,2008-08-07,Juan José Bustos Ramírez.jpg,Juan Bustos (politician)
-Chile,President of the Chamber of Deputies,Maya Fernández,Q5818156,2018-03-11,2019-03,female,1971-09-27,,Maya Fernández 2022.jpg,Maya Fernández
+Chile,President of the Chamber of Deputies,Maya Fernández,Q5818156,2018-03-11,2019-03,female,1971-09-27,,Maya Alejandra Fernández Allende (2018).jpg,Maya Fernández
 Chile,President of the Chamber of Deputies,Iván Flores,Q18719731,2019-03-19,2020-04-07,male,1955-06-15,,Iván Flores García.jpg,Iván Flores
 Chile,President of the Chamber of Deputies,Diego Paulsen,Q17478200,2020-04-07,2022-03-11,male,1987-08-01,,Diego Alfredo Paulsen Kehr.jpg,Diego Paulsen
 Chile,President of the Chamber of Deputies,Raúl Soto,Q57601220,2022-03-11,,male,1987-11-20,,Raúl Humberto Soto Mardones (2018).jpg,Raúl Soto
@@ -275,11 +275,11 @@ Chile,President of the Senate,Adriana Muñoz,Q5658359,2020-03-17,2021-03-17,fema
 Chile,President of the Senate,Yasna Provoste,Q3571936,2021-03-17,2021-08-25,female,1969-12-16,,Yasna Provoste Campillay.jpg,Yasna Provoste
 Chile,President of the Senate,Ximena Rincón,Q6169262,2021-08-25,2022-03-11,female,1968-07-05,,Ximena Rincón González.jpg,Ximena Rincón
 Chile,President of the Senate,Álvaro Elizalde,Q16298964,2022-03-11,,male,1969-10-15,,"Álvaro Elizalde, Ministro Segegob.jpg",Álvaro Elizalde
-Chile,President of the Central Bank,Carlos Massad,Q5750927,1996-09-16,2003-05-01,male,1932-08-29,,Carlos Massad Abud.jpg,
+Chile,President of the Central Bank,Carlos Massad,Q5750927,1996-09-16,2003-05-01,male,1932-08-29,,Carlos Massad Abud.jpg,Carlos Massad
 Chile,President of the Central Bank,Vittorio Corbo,Q9094553,2003-05-01,2007-12-06,male,1943-03-22,,Vittoriocorbo.jpg,Vittorio Corbo
 Chile,President of the Central Bank,José De Gregorio,Q9014921,2007-12-07,2011-12-07,male,1959-08-17,2020-07-24,Josedegrego.JPG,José De Gregorio
 Chile,President of the Central Bank,Rodrigo Vergara,Q3380860,2011-12-10,2016-12-10,male,1962-06-05,,Rodrigo Vergara Montes (27189940723).jpg,
-Chile,President of the Central Bank,Mario Marcel,Q5998841,2016-12-11,2022-01-27,male,1959-10-22,,Mario Marcel 2022.jpg,Mario Marcel
+Chile,President of the Central Bank,Mario Marcel,Q5998841,2016-12-11,2022-01-27,male,1959-10-22,,,Mario Marcel
 Chile,President of the Central Bank,Rosanna Costa,Q6112329,2022-02-03,,female,1957-12-06,,Rosanna Costa (32059708224).jpg,Rosanna Costa
 Chile,Head of the Joint Chiefs of Defence,Javier Iturriaga del Campo,Q74246258,2020-11-13,2022-03-09,male,1965-10-26,,General de División Javier Iturriaga del Campo (2020).jpg,Javier Iturriaga del Campo
 Chile,Head of the Joint Chiefs of Defence,Guillermo Paiva Hernández,Q111198940,2022-03-09,,male,,,,
@@ -310,6 +310,7 @@ Chile,Undersecretary of Education,Fernando Rojas Ochagavía,Q16302134,2010-03-11
 Chile,Undersecretary of Education,Valentina Quiroga,Q16645221,2014-03-11,2018-03-11,female,1982-02-03,,"Subsecretaria de Educación, Valentina Quiroga. (15481004065).jpg",
 Chile,Undersecretary of Education,Raúl Figueroa,Q50820982,2018-03-11,2020-02-28,male,1975-03-21,,Raul Figueroa Ministro de Educación 2020.jpg,Raúl Figueroa
 Chile,Undersecretary of Education,Jorge Poblete Aedo,Q87651993,2020-03-09,,male,1975,,SUBSECRETARIO JORGE POBLETE AEDO 2020.jpg,
+Chile,Undersecretary of Education,Nicolás Cataldo,Q111202990,2022-03-11,,male,1984-06-22,,Nicolás Cataldo Astorga (2022).jpg,
 Chile,Governor of the Antofagasta Region,Ricardo Díaz Cortés,Q107302823,2021-07-14,,male,,,,
 Chile,Governor of the Araucanía Region,Luciano Rivas,Q107303067,2021-07-14,,male,,,Gore-LucianoRivas.jpg,
 Chile,Governor of the Atacama Region,Miguel Vargas Correa,Q18630583,2021-07-14,,male,1967-04-21,,Miguel Vargas - Intendente Región de Atacama.jpg,
@@ -336,10 +337,15 @@ Chile,Intendant of the Region of O'Higgins,Juan Manuel Masferrer Vidal,Q51048721
 Chile,Intendant of Ñuble,Martín Arrau,Q66622366,2018-09-06,2020-11-20,male,1979-03-06,,Martín Arrau.jpg,Martín Arrau
 Chile,Intendant of Ñuble,Cristóbal Jardua,Q104167711,2020-11-20,,male,1986-07-29,,Intendente Ñuble Cristóbal Jardúa Campos (2020).jpg,
 Chile,intendant of Arica and Parinacota,María Loreto Letelier Salsilli,Q56479520,2018-03-11,,female,,,,
+Chile,intendant of Atacama,Armando Arancibia,Q23071124,2000-03-11,2001-12-26,male,1941-01-06,2016-02-24,Armando Arancibia Calderón.jpg,
 Chile,intendant of Atacama,Yasna Provoste,Q3571936,2001-12-26,2004-09-30,female,1969-12-16,,Yasna Provoste Campillay.jpg,Yasna Provoste
+Chile,intendant of Atacama,Viviana Ireland,Q5638292,2007-01-22,2010-03-11,female,1962-01-15,,,
+Chile,intendant of Atacama,Ximena Matas,Q6169261,2010-03-11,2012-05-31,female,1964-08-26,,Mina San José -Piñera con mensaje de mineros atrapados(2).jpg,
+Chile,intendant of Atacama,Rafael Prohens,Q6097826,2012-06-01,2014-03-11,male,1955-06-12,,Intendente Rafael Prohens Espinosa.jpg,
 Chile,intendant of Atacama,Miguel Vargas Correa,Q18630583,2014-03-11,2017-07-21,male,1967-04-21,,Miguel Vargas - Intendente Región de Atacama.jpg,
-Chile,intendant of Atacama,Patricio Urquieta García,Q62842578,2018-03-11,,male,,,,
-Chile,intendant of Atacama,Francisco Sánchez Barrera,Q56551619,2018-07-12,,male,1958-12-22,,Francisco Sánchez Barrera.png,
+Chile,intendant of Atacama,Alexandra Núñez Sorich,Q102419623,2017-07-21,2018-03-11,female,,,,
+Chile,intendant of Atacama,Patricio Urquieta García,Q62842578,2018-03-11,2021-07-14,male,,,Patricio Urquieta García.jpg,
+Chile,intendant of Atacama,Francisco Sánchez Barrera,Q56551619,2018-07-12,2019-02-20,male,1958-12-22,,Francisco Sánchez Barrera.png,
 Chile,intendant of Aysen General Carlos Ibáñez del Campo,Geoconda Navarrete,Q56737271,2018-03-11,2021-01-11,female,1969-09-08,,IntendentaGeocondaNavarreteArratia.png,Geoconda Navarrete
 Chile,intendant of Coquimbo,Renán Fuentealba Moena,Q6105631,1990-03-11,2001-12-26,male,1917-04-19,2021-10-01,Tulio Renán Fuentealba Moena.jpg,Renán Fuentealba Moena
 Chile,intendant of Coquimbo,Juan Manuel Fuenzalida,Q16300668,2013-08-13,2014-03-11,male,1973-07-01,,Juan Manuel Fuenzalida Cobo.jpg,
@@ -356,7 +362,7 @@ Chile,intendant of La Araucania,Luis Mayol,Q5983930,2018-03-11,2018-11-20,male,1
 Chile,intendant of La Araucania,Jorge Atton,Q59100065,2018-11-21,,male,1954-01-09,,Jorge Atton.jpg,
 Chile,intendant of Los Ríos,Iván Flores,Q18719731,2007-10-02,2009-10-26,male,1955-06-15,,Iván Flores García.jpg,Iván Flores
 Chile,intendant of Maule,Alexis Sepúlveda,Q50960371,2006-03-11,2008-04-16,male,1969-12-29,,Alexis Sepúlveda Soto.jpg,
-Chile,intendant of Maule,Rodrigo Galilea,Q50947907,2010-03-11,2014-03-11,male,1966-11-03,,Intendente Rodrigo Galilea Vial.jpg,
+Chile,intendant of Maule,Rodrigo Galilea,Q50947907,2010-03-11,2014-03-11,male,1966-11-03,,Intendente Rodrigo Galilea Vial.jpg,Rodrigo Galilea
 Chile,intendant of Maule,Pablo Milad Abusleme,Q56025862,2018-03-11,,male,1964-02-15,,Pablo Milad.jpg,Pablo Milad
 Chile,intendant of Tarapaca,Luz Ebensperger,Q16298935,2010-03-11,2014-03-11,female,1964-03-08,,Luz Eliana Ebensperger Orrego.jpg,Luz Ebensperger
 Chile,intendant of Tarapaca,Miguel Ángel Quezada,Q62841980,2018-03-11,,male,1969-10-16,,Intendente-Miguel-Ángel-Quezada.jpg,

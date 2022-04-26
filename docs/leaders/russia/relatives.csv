@@ -1,5 +1,5 @@
 catalog,id,name,relationship,relative,relativename
-Russia,Q101077271,,father,Q70250998,Viktor Kondratov
+Russia,Q101077271,Ruslan Viktorovich Kondratov,father,Q70250998,Viktor Kondratov
 Russia,Q102435754,,father,Q3820134,Vladimir Govorov
 Russia,Q103813305,Konstantin Sevenard,father,Q15081060,Yury Sevenard
 Russia,Q105105146,Marina Rogachyova,father,Q1143350,Yegor Stroyev
@@ -249,12 +249,12 @@ Russia,Q60389401,Alexander Yakubovsky,father,Q4537160,Vladimir Yakubovsky
 Russia,Q6097047,Ivan Musatov,father,Q14920892,Mikhail Musatov
 Russia,Q612244,Yury Chaika,child,Q105078108,Igor Chaika
 Russia,Q612244,Yury Chaika,child,Q21617046,Artem Chaika
-Russia,Q70250998,Viktor Kondratov,child,Q101077271,"Кондратов, Руслан Викторович"
+Russia,Q70250998,Viktor Kondratov,child,Q101077271,Ruslan Viktorovich Kondratov
 Russia,Q737463,Dmitry Rogozin,child,Q16692250,Alexey Rogozin
 Russia,Q737463,Dmitry Rogozin,father,Q4395590,Oleg Rogozin
 Russia,Q74746,Elvira Nabiullina,spouse,Q4245427,Yaroslav Kuzminov
 Russia,Q7747,Vladimir Putin,child,Q19364345,Katerina Tikhonova
-Russia,Q7747,Vladimir Putin,child,Q19816371,Maria Vorontsova
+Russia,Q7747,Vladimir Putin,child,Q19816371,Maria Vorontsova (Vassen)
 Russia,Q7747,Vladimir Putin,father,Q19300851,Vladimir Spiridonovich Putin
 Russia,Q7747,Vladimir Putin,mother,Q19300864,Maria Ivanovna Shelomova
 Russia,Q7747,Vladimir Putin,relative,Q15087614,Roman Putin

@@ -33,7 +33,7 @@ France,Q12927,Marine Le Pen,child,Q67446608,Louis Chauffroy
 France,Q12927,Marine Le Pen,father,Q7177,Jean-Marie Le Pen
 France,Q12927,Marine Le Pen,mother,Q15730863,Pierrette Lalanne
 France,Q12927,Marine Le Pen,partner,Q3261014,Louis Aliot
-France,Q12927,Marine Le Pen,relative,Q292458,Marion Maréchal-Le Pen
+France,Q12927,Marine Le Pen,relative,Q292458,Marion Maréchal
 France,Q12927,Marine Le Pen,sibling,Q15730860,Yann Le Pen
 France,Q12927,Marine Le Pen,sibling,Q3291581,Marie-Caroline Le Pen
 France,Q12927,Marine Le Pen,spouse,Q42416205,Éric Iorio
@@ -227,14 +227,14 @@ France,Q2910923,Boris Francis Nicolas Boillon,spouse,Q47474305,Anne Boillon
 France,Q291385,Delphine Batho,father,Q20723781,John Batho
 France,Q291385,Delphine Batho,mother,Q2976964,Claude Batho
 France,Q29210910,Benjamin Griveaux,spouse,Q52063231,Julia Minkowski
-France,Q292458,Marion Maréchal-Le Pen,father,Q3471180,Samuel Maréchal
-France,Q292458,Marion Maréchal-Le Pen,mother,Q15730860,Yann Le Pen
-France,Q292458,Marion Maréchal-Le Pen,partner,Q64171693,Vincenzo Sofo
-France,Q292458,Marion Maréchal-Le Pen,relative,Q12927,Marine Le Pen
-France,Q292458,Marion Maréchal-Le Pen,relative,Q15730863,Pierrette Lalanne
-France,Q292458,Marion Maréchal-Le Pen,relative,Q3291581,Marie-Caroline Le Pen
-France,Q292458,Marion Maréchal-Le Pen,relative,Q7177,Jean-Marie Le Pen
-France,Q292458,Marion Maréchal-Le Pen,spouse,Q64171693,Vincenzo Sofo
+France,Q292458,Marion Maréchal,father,Q3471180,Samuel Maréchal
+France,Q292458,Marion Maréchal,mother,Q15730860,Yann Le Pen
+France,Q292458,Marion Maréchal,partner,Q64171693,Vincenzo Sofo
+France,Q292458,Marion Maréchal,relative,Q12927,Marine Le Pen
+France,Q292458,Marion Maréchal,relative,Q15730863,Pierrette Lalanne
+France,Q292458,Marion Maréchal,relative,Q3291581,Marie-Caroline Le Pen
+France,Q292458,Marion Maréchal,relative,Q7177,Jean-Marie Le Pen
+France,Q292458,Marion Maréchal,spouse,Q64171693,Vincenzo Sofo
 France,Q2925398,Brigitte Barèges,father,Q60716680,Jean-Paul Taurines
 France,Q2926718,Bruno Cuche,father,Q55338779,Jean Cuche
 France,Q2926718,Bruno Cuche,mother,Q55338789,Michèle Hogard
@@ -289,6 +289,7 @@ France,Q30388733,Fabien Roussel,father,Q110946411,Daniel Roussel
 France,Q30417849,Jean-René Cazeneuve,child,Q105678668,Marguerite Cazeneuve
 France,Q30417849,Jean-René Cazeneuve,child,Q87116010,Pierre Cazeneuve
 France,Q30450097,Marguerite Deprez-Audebert,father,Q3271581,Léonce Deprez
+France,Q30506159,Audrey Dufeu-Schubert,spouse,Q87734443,Philippe Moreau
 France,Q3052577,Emmanuel Beth,father,Q108167666,Ennemond Beth
 France,Q3052577,Emmanuel Beth,sibling,Q51711812,Frédéric Beth
 France,Q30526465,Bruno Fuchs,father,Q3168496,Jean-Paul Fuchs
@@ -475,7 +476,7 @@ France,Q3431340,Richard Yung,spouse,Q98437224,Aude Yung
 France,Q3435767,Robert Lion,father,Q67512573,Pierre Lion
 France,Q3435767,Robert Lion,mother,Q47250571,Daisy Lion-Goldschmidt
 France,Q3435767,Robert Lion,sibling,Q67511827,Antoine Lion
-France,Q3438661,Roger Auque,child,Q292458,Marion Maréchal-Le Pen
+France,Q3438661,Roger Auque,child,Q292458,Marion Maréchal
 France,Q3479546,Serge Telle,spouse,Q3119520,Guilaine Chenu
 France,Q3490954,Sophie Joissains,father,Q2829934,Alain Joissains
 France,Q3490954,Sophie Joissains,mother,Q3296342,Maryse Joissains-Masini
@@ -513,6 +514,7 @@ France,Q38206639,Florence Portelli,father,Q3142662,Hugues Portelli
 France,Q385437,Dominique Strauss-Kahn,sibling,Q33211390,Marc-Olivier Strauss-Kahn
 France,Q385437,Dominique Strauss-Kahn,spouse,Q291731,Anne Sinclair
 France,Q40655898,Jordan Bardella,partner,Q109855685,Nolwenn Olivier
+France,Q40655898,Jordan Bardella,spouse,Q49169204,Kelly Betesh
 France,Q40915163,Jean-Louis Lagourgue,relative,Q3385733,Pierre Lagourgue
 France,Q41694483,Jean-Pierre Maugendre,father,Q110571283,Pierre Maugendre
 France,Q41736705,Pascal Gannat,child,Q109707873,Jean-Eudes Gannat
