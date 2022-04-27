@@ -84,6 +84,7 @@ Pakistan,Q314774,Salmaan Taseer,mother,Q23012863,Bilqees Taseer
 Pakistan,Q314774,Salmaan Taseer,spouse,Q23012872,Aamna Taseer
 Pakistan,Q314787,Tariq Ali,father,Q6798491,Mazhar Ali Khan
 Pakistan,Q314787,Tariq Ali,mother,Q19800538,Tahira Mazhar Ali
+Pakistan,Q3155254,Ishaq Dar,spouse,Q337984,Marvi Memon
 Pakistan,Q316987,Faryal Talpur,sibling,Q57373,Asif Ali Zardari
 Pakistan,Q31704762,Sardar Hussain,relative,Q72889092,Muhammad Karim Babak
 Pakistan,Q31704762,Sardar Hussain,sibling,Q73516279,Shamim Shahid
@@ -135,6 +136,8 @@ Pakistan,Q57585035,Liaquat Khan,sibling,Q13579848,Pervez Khattak
 Pakistan,Q57811,Raja Pervaiz Ashraf,spouse,Q56153243,Nusrat Parvaiz Ashraf
 Pakistan,Q58203414,Hamid Ul Haq,father,Q7409411,Sami ul Haq
 Pakistan,Q58203414,Hamid Ul Haq,relative,Q92061595,Anwar-ul-Haq Haqqani
+Pakistan,Q5949527,Hussain Haroon,mother,Q106410430,Parveen Haroon
+Pakistan,Q5949527,Hussain Haroon,sibling,Q65277830,Hameed Haroon
 Pakistan,Q6001594,Muhammad Ilyas,father,Q7559596,Maulana Manzoor Ahmad Chinioti
 Pakistan,Q6304918,Jugnu Mohsin,child,Q20744696,Mira Sethi
 Pakistan,Q6304918,Jugnu Mohsin,child,Q20979380,Ali Sethi
@@ -146,7 +149,7 @@ Pakistan,Q6792420,Atta ur Rehman,relative,Q55761296,Asad Mehmood
 Pakistan,Q6792420,Atta ur Rehman,sibling,Q3067725,Fazal-ur-Rehman
 Pakistan,Q6792420,Atta ur Rehman,sibling,Q42722724,Latuf Ur Rehman
 Pakistan,Q6792420,Atta ur Rehman,sibling,Q97707758,Zia ur Rehman
-Pakistan,Q6958182,Nafisa Shah,father,Q3412401,Syed Qaim Ali Shah
+Pakistan,Q6958182,Nafisa Shah,father,Q3412401,Qaim Ali Shah
 Pakistan,Q6959916,Najam Sethi,child,Q20744696,Mira Sethi
 Pakistan,Q6959916,Najam Sethi,child,Q20979380,Ali Sethi
 Pakistan,Q6959916,Najam Sethi,spouse,Q6304918,Jugnu Mohsin

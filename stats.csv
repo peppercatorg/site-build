@@ -18,7 +18,7 @@ bahamas,28,61,5,61
 bangladesh,34,104,407,469
 barbados,31,38,2,38
 belarus,49,277,581,844
-belgium,27,116,508,579
+belgium,26,116,508,579
 belize,24,37,41,66
 benin,3,20,4,22
 bermuda,15,32,47,66
@@ -120,7 +120,7 @@ niue,5,8,21,24
 north-macedonia,26,99,4,100
 northern-ireland,13,72,302,312
 norway,26,649,1575,1963
-pakistan,47,167,1475,1582
+pakistan,49,239,1475,1621
 panama,17,89,3,91
 paraguay,24,33,16,45
 peru,24,358,309,633
@@ -173,4 +173,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,898,1004
-TOTAL,4401,22440,83502,99268
+TOTAL,4402,22512,83502,99307
