@@ -1,5 +1,7 @@
 catalog,id,name,relationship,relative,relativename
 Spain,Q1032587,Ernest Maragall i Mira,father,Q19256882,Jordi Maragall i Noble
+Spain,Q1032587,Ernest Maragall i Mira,sibling,Q111754364,Jordi Maragall i Mira
+Spain,Q1032587,Ernest Maragall i Mira,sibling,Q111754386,Àngels Maragall i Mira
 Spain,Q1032587,Ernest Maragall i Mira,sibling,Q355265,Pasqual Maragall i Mira
 Spain,Q1032587,Ernest Maragall i Mira,sibling,Q60828861,Pau Malvido
 Spain,Q1040591,Miriam Blasco,spouse,Q6120203,Nicola Fairbrother
@@ -357,6 +359,8 @@ Spain,Q3470333,Salvador Servià i Costa,sibling,Q512682,José Maria Servià
 Spain,Q355265,Pasqual Maragall i Mira,child,Q86496750,Cristina Maragall i Garrigosa
 Spain,Q355265,Pasqual Maragall i Mira,father,Q19256882,Jordi Maragall i Noble
 Spain,Q355265,Pasqual Maragall i Mira,sibling,Q1032587,Ernest Maragall i Mira
+Spain,Q355265,Pasqual Maragall i Mira,sibling,Q111754364,Jordi Maragall i Mira
+Spain,Q355265,Pasqual Maragall i Mira,sibling,Q111754386,Àngels Maragall i Mira
 Spain,Q355265,Pasqual Maragall i Mira,sibling,Q60828861,Pau Malvido
 Spain,Q355265,Pasqual Maragall i Mira,spouse,Q22337903,Diana Garrigosa
 Spain,Q3571535,Chesús Bernal Bernal,child,Q62216077,Chaime Bernal Bandrés

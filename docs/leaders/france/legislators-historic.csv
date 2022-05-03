@@ -1,6 +1,5 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 France,Member of the Regional Council of French Guiana,Christiane Taubira,Q268675,2010,2012,female,1952-02-02,,ChristianeTaubira.jpg,Christiane Taubira
-France,member of the Senate of France,Jacques Habert,Q3159073,1969-03-21,2012-08-06,male,1919-09-26,2012-08-06,,
 France,member of the Senate of France,Jean-Pierre Fourcade,Q1685206,1977-09-25,2011-09-30,male,1929-10-18,,Jean-Pierre Fourcade.jpg,Jean-Pierre Fourcade
 France,member of the Senate of France,Hélène Luc,Q3144808,1977-09-25,2007-09-18,female,1932-03-13,,Hélène Luc.jpg,
 France,member of the Senate of France,Marcel Henry,Q3289029,1977-09-25,2004-09-30,male,1926-10-30,2021-08-30,,Marcel Henry
@@ -228,6 +227,7 @@ France,member of the Senate of France,Stéphane Piednoir,Q41246286,2017,,male,19
 France,member of the Senate of France,Bernard Jomier,Q41369983,2017,,male,1963-10-09,,BernardJomier.jpg,Bernard Jomier
 France,member of the Senate of France,André Vallini,Q2848745,2017-06-18,2017-09-24,male,1956-07-15,,André Vallini.jpg,André Vallini
 France,member of the Senate of France,Jean-Marc Todeschini,Q3167502,2017-06-18,,male,1952-03-12,,Jean-Marc Todeschini par Claude Truong-Ngoc février 2015.jpg,Jean-Marc Todeschini
+France,member of the Senate of France,Hélène Lipietz,Q3144806,2017-08-07,2017-10-01,female,1958-05-07,,,Hélène Lipietz
 France,member of the Senate of France,Anne-Marie Bertrand,Q41068005,2017-09-23,,female,1942-11-27,,Anne-Marie Bertrand.jpg,
 France,member of the Senate of France,Nadia Sollogoub,Q41374046,2017-09-23,,female,1961-11-09,,,
 France,member of the Senate of France,André Vallini,Q2848745,2017-09-24,,male,1956-07-15,,André Vallini.jpg,André Vallini
@@ -247,6 +247,7 @@ France,member of the Senate of France,Jean-Luc Fichet,Q3167146,2017-09-25,,male,
 France,member of the Senate of France,Hugues Saury,Q19958574,2017-10-01,,male,1958-11-12,,,
 France,member of the Senate of France,Arnaud Bazin,Q2863048,2017-10-01,,male,1959-01-10,,,
 France,member of the Senate of France,Bernard Bonne,Q2897564,2017-10-01,,male,1948-09-18,,,
+France,member of the Senate of France,Marie-Thérèse Bruguière,Q3292256,2017-10-01,,female,1942-10-26,,,Marie-Thérèse Bruguière
 France,member of the Senate of France,Michèle Vullien,Q33342289,2017-10-01,,female,1944-01-18,,,
 France,member of the Senate of France,Marta de Cidrac,Q40912640,2017-10-01,,female,1964-06-13,,"Marta de Cidrac, Sénatrice des Yvelines.jpg",
 France,member of the Senate of France,Guillaume Gontard,Q40914766,2017-10-01,,male,1971-03-11,,"Guillaume Gontard, Sénateur de l'Isère.jpg",
@@ -269,6 +270,7 @@ France,member of the Senate of France,Catherine Fournier,Q40950154,2017-10-02,20
 France,member of the Senate of France,Nadège Lefebvre,Q40954397,2017-10-02,2017-11-25,female,1960-10-25,,,
 France,member of the Senate of France,Olivier Jacquin,Q41250063,2017-10-02,,male,1964-05-08,,Olivier Jacquin.jpg,
 France,member of the Senate of France,Rémi Féraud,Q3456022,2017-10-19,,male,1971-08-24,,Rémi Féraud.jpg,
+France,member of the Senate of France,Jean-Paul Prince,Q41791083,2017-11-03,,male,1944-07-08,,,
 France,member of the Senate of France,Céline Brulin,Q54578290,2018-06-01,,female,1970-03-04,,,
 France,member of the Senate of France,Cathy Apourceau-Poly,Q55343699,2018-07-01,,female,1965-04-18,,,Cathy Apourceau-Poly
 France,member of the Senate of France,Damien Regnard,Q55804927,2018-07-28,,male,1966-02-24,,,
@@ -423,7 +425,7 @@ France,member of the French National Assembly,Roger Meï,Q3439279,1996-10-20,200
 France,member of the French National Assembly,Éric Besson,Q2379348,1997,2007,male,1958-04-02,,Eric Besson medaille FDevouard IMG 1014-b.jpg,Éric Besson
 France,member of the French National Assembly,Albert Facon,Q2831165,1997,2012,male,1943-11-11,,,Albert Facon
 France,member of the French National Assembly,André Aschieri,Q2847166,1997,2002,male,1937-03-08,2021-12-05,André Aschieri 2012 (2).jpg,André Aschieri
-France,member of the French National Assembly,Bernard Pons,Q2898459,1997,2002,male,1926-07-18,,"7.7.69. Mme et M. Pompidou. Messe, mairie et bain de foule à Cajarc (Lot) (1969) - 53Fi5586 (Bernard Pons).jpg",Bernard Pons
+France,member of the French National Assembly,Bernard Pons,Q2898459,1997,2002,male,1926-07-18,2022-04-27,"7.7.69. Mme et M. Pompidou. Messe, mairie et bain de foule à Cajarc (Lot) (1969) - 53Fi5586 (Bernard Pons).jpg",Bernard Pons
 France,member of the French National Assembly,Béatrice Marre,Q2929462,1997,2002,female,1952-04-02,,Béatrice Marre (cropped).jpg,
 France,member of the French National Assembly,Germain Gengenwin,Q3104115,1997,2002,male,1936-05-08,,,
 France,member of the French National Assembly,Guy Hascoët,Q3121831,1997,2000,male,1960-02-29,,GuyHascoetKemper.JPG,Guy Hascoët
@@ -2952,7 +2954,7 @@ France,member of the French National Assembly,Fabrice Brun,Q30339239,2017-06-21,
 France,member of the French National Assembly,Damien Adam,Q30339241,2017-06-21,,male,1989-06-28,,Damien Adam 02.jpg,Damien Adam
 France,member of the French National Assembly,Aude Amadou,Q30339242,2017-06-21,,female,1980-02-29,,4L3A3399.jpg,Aude Amadou
 France,member of the French National Assembly,Patrice Anato,Q30339245,2017-06-21,,male,1976-03-14,,Patrice Anato (2019).jpg,Patrice Anato
-France,member of the French National Assembly,Cendra Motin,Q30339246,2017-06-21,,female,1975-01-29,,Photo de profil du 27 mai 2021.jpg,Cendra Motin
+France,member of the French National Assembly,Cendra Motin,Q30339246,2017-06-21,,female,1975-01-29,,,Cendra Motin
 France,member of the French National Assembly,Bénédicte Taurine,Q30339248,2017-06-21,,female,1976-06-18,,Benedicte Taurine palais Bourbon 18972.jpg,Bénédicte Taurine
 France,member of the French National Assembly,Jacques Marilossian,Q30339250,2017-06-21,,male,1958-07-26,,Jacques Marilossian.jpg,Jacques Marilossian
 France,member of the French National Assembly,Frédérique Meunier,Q30339260,2017-06-21,,female,1960-12-08,,,Frédérique Meunier
@@ -3453,7 +3455,7 @@ France,member of the French National Assembly,Anne-Laure Blin,Q99627308,2020-09-
 France,member of the French National Assembly,Gérard Leseul,Q99627615,2020-09-28,,male,1960-08-15,,Gerard Leseul - Portrait.jpg,Gérard Leseul
 France,member of the French National Assembly,Karine Lebon,Q99670641,2020-09-28,,female,1985-06-09,,Mme Karine Lebon.jpg,Karine Lebon
 France,member of the French National Assembly,Grégory Labille,Q65586948,2020-10-08,,male,1968-07-10,,,Grégory Labille
-France,member of the French National Assembly,Muriel Roques-Étienne,Q99676887,2020-10-08,,female,1979-03-05,,,
+France,member of the French National Assembly,Muriel Roques-Étienne,Q99676887,2020-10-08,,female,1979-03-05,,,Muriel Roques-Étienne
 France,member of the French National Assembly,Maud Gatel,Q71567030,2021-01-14,,female,1979-04-06,,,Maud Gatel
 France,member of the French National Assembly,Luc Lamirault,Q63765672,2021-01-22,,male,1962-05-12,,,Luc Lamirault
 France,member of the French National Assembly,Myriane Houplain,Q97165502,2021-04-22,,female,1946-06-05,,,Myriane Houplain
@@ -3464,10 +3466,10 @@ France,member of the French National Assembly,Sophie Metadier,Q65592981,2021-06-
 France,member of the French National Assembly,Catherine Daufès-Roux,Q87324505,2021-06-28,,female,1963-04-24,,,Catherine Daufès-Roux
 France,member of the French National Assembly,Christophe Leclercq,Q107127761,2021-07-07,,male,1967-02-26,,,Christophe Leclercq
 France,member of the French National Assembly,Bernadette Beauvais,Q98233678,2021-07-28,2021-08-25,female,1949-06-18,,,Bernadette Beauvais
-France,member of the French National Assembly,Christelle Petex-Levet,Q63764754,2021-08-01,,female,1980-09-02,,,
+France,member of the French National Assembly,Christelle Petex-Levet,Q63764754,2021-08-01,,female,1980-09-02,,,Christelle Petex-Levet
 France,member of the French National Assembly,Sébastien David,Q98251488,2021-08-01,,male,1976-06-27,,,Sébastien David
 France,member of the French National Assembly,Carine Sinaï-Bossou,Q108037752,2021-08-02,2021-08-02,female,1973-02-15,,,
-France,member of the French National Assembly,Stéphane Vojetta,Q108823633,2021-10-06,,male,1974-07-19,,,Stephane Vojetta
+France,member of the French National Assembly,Stéphane Vojetta,Q108823633,2021-10-06,,male,1974-07-19,,,Stéphane Vojetta
 France,member of the French National Assembly,Emmanuel Blairy,Q110464124,2022-01-07,,male,1986-03-14,,,Emmanuel Blairy
 France,member of the French National Assembly,Jacques Rey,Q65598002,2022-01-30,,male,1942-10-17,,,
 France,member of the French National Assembly,Nathalie Élimas,Q30511578,2022-04-06,,female,1973-06-05,,NathalieAvyElimas.jpg,Nathalie Élimas
@@ -3867,7 +3869,7 @@ France,Member of the Regional Council of Île-de-France,Christine Quillery,Q6353
 France,Member of the Regional Council of Île-de-France,Jean-Michel Ruiz,Q63537182,2015-12-13,,male,1964-07-03,,,
 France,Member of the Regional Council of Île-de-France,Catherine Lime-Biffe,Q63537183,2015-12-13,,female,1977-01-28,,,
 France,Member of the Regional Council of Île-de-France,Nicolas Tardy-Joubert,Q63537184,2015-12-13,,male,1957-09-26,,,
-France,Member of the Regional Council of Île-de-France,Anne-Louise Mesadieu,Q63537185,2015-12-13,,female,1976-01-12,,,
+France,Member of the Regional Council of Île-de-France,Anne-Louise Mesadieu,Q63537185,2015-12-13,,female,1976-01-12,,Anne-Louise Mesadieu - 2022 (cropped).jpg,
 France,Member of the Regional Council of Île-de-France,Jérémy Redler,Q63537188,2015-12-13,,male,1981-11-07,,,
 France,Member of the Regional Council of Île-de-France,Mustapha Saadi,Q63537189,2015-12-13,,male,1954-10-01,,,
 France,Member of the Regional Council of Île-de-France,Béatrice Troussard,Q63537190,2015-12-13,,female,1969-01-21,,,

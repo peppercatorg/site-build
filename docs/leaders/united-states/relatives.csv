@@ -869,6 +869,7 @@ United States,Q570173,Paul Gillmor,spouse,Q6369659,Karen Gillmor
 United States,Q578102,Bob Graham,child,Q16195097,Gwen Graham
 United States,Q578102,Bob Graham,father,Q5393708,Ernest R. Graham
 United States,Q578102,Bob Graham,mother,Q91876934,Hilda Elizabeth Simmons
+United States,Q578102,Bob Graham,sibling,Q1605571,Phil Graham
 United States,Q578102,Bob Graham,spouse,Q4681891,Adele Khoury Graham
 United States,Q58324313,Lizzie Pannill Fletcher,sibling,Q6376324,Katherine Center
 United States,Q58399761,Xochitl Torres Small,spouse,Q58008405,Nathan Small
@@ -1058,7 +1059,7 @@ United States,Q7693450,Ted Lieu,spouse,Q35541871,Betty Lieu
 United States,Q7787733,Thomas Bolling Robertson,mother,Q100230936,Ann Mary Cleveland Robertson
 United States,Q7791445,"Thomas Kean, Jr.",father,Q436412,Thomas Kean
 United States,Q7792929,Thomas P. Giblin,father,Q22959237,John J. Giblin
-United States,Q7799280,"Thurgood Marshall, Jr.",father,Q312348,Thurgood Marshell
+United States,Q7799280,"Thurgood Marshall, Jr.",father,Q312348,Thurgood Marshall
 United States,Q7799280,"Thurgood Marshall, Jr.",mother,Q52274563,Cecilia Suyat Marshall
 United States,Q7799280,"Thurgood Marshall, Jr.",sibling,Q16732037,John W. Marshall
 United States,Q7800620,Tick Segerblom,father,Q105830456,Cliff Segerblom

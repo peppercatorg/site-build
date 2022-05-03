@@ -27,6 +27,7 @@ United Kingdom,Q10648,Gordon Brown,father,Q108840908,Rev. John Ebenezer Brown
 United Kingdom,Q10648,Gordon Brown,mother,Q108840909,Bunty Souter
 United Kingdom,Q10648,Gordon Brown,sibling,Q4756445,Andrew Brown
 United Kingdom,Q10648,Gordon Brown,spouse,Q2986943,Sarah Brown
+United Kingdom,Q10652,Alex Salmond,mother,Q97971330,Mary Stewart Salmond
 United Kingdom,Q1065805,"Charles Powell, Baron Powell of Bayswater",child,Q76241215,Hugh Powell
 United Kingdom,Q1065805,"Charles Powell, Baron Powell of Bayswater",child,Q76241217,Nicholas Powell
 United Kingdom,Q1065805,"Charles Powell, Baron Powell of Bayswater",father,Q6234154,John Frederick Powell
@@ -51,7 +52,7 @@ United Kingdom,Q10862163,"Michael Howard, 21st Earl of Suffolk",child,Q64009951,
 United Kingdom,Q10862163,"Michael Howard, 21st Earl of Suffolk",child,Q75301790,Lady Lucinda Howard
 United Kingdom,Q10862163,"Michael Howard, 21st Earl of Suffolk",child,Q76329864,Lady Katherine Howard
 United Kingdom,Q10862163,"Michael Howard, 21st Earl of Suffolk",child,Q76329865,Lady Philippa Howard
-United Kingdom,Q10862163,"Michael Howard, 21st Earl of Suffolk",child,Q76359315,Lady Natasha Howard
+United Kingdom,Q10862163,"Michael Howard, 21st Earl of Suffolk",child,Q76359315,Lady Natasha Quick
 United Kingdom,Q10862163,"Michael Howard, 21st Earl of Suffolk",father,Q5079164,"Charles Howard, 20th Earl of Suffolk"
 United Kingdom,Q10862163,"Michael Howard, 21st Earl of Suffolk",mother,Q75301768,Mimi Forde-Pigott
 United Kingdom,Q10862163,"Michael Howard, 21st Earl of Suffolk",spouse,Q64009917,"Anita Stanhope, Countess of Harrington"
@@ -3345,7 +3346,6 @@ United Kingdom,Q335830,"Elizabeth Butler-Sloss, Baroness Butler-Sloss",spouse,Q7
 United Kingdom,Q335835,Bhikhu Parekh,child,Q29653530,Anant B. Parekh
 United Kingdom,Q335835,Bhikhu Parekh,child,Q76229263,Raj Parekh
 United Kingdom,Q335835,Bhikhu Parekh,child,Q76229266,Nitin Parekh
-United Kingdom,Q335835,Bhikhu Parekh,child,Q76229268,Anant Parekh
 United Kingdom,Q335835,Bhikhu Parekh,father,Q76229271,Chhotalal Parekh
 United Kingdom,Q335835,Bhikhu Parekh,mother,Q76229272,Gajaraben Parekh
 United Kingdom,Q335835,Bhikhu Parekh,spouse,Q76229260,Pramila Dalal
@@ -4766,6 +4766,8 @@ United Kingdom,Q6833339,Michael Pakenham,sibling,Q75335578,Patrick Pakenham
 United Kingdom,Q6833339,Michael Pakenham,sibling,Q75335580,Kevin Pakenham
 United Kingdom,Q6833339,Michael Pakenham,sibling,Q75335586,Lady Catherine Pakenham
 United Kingdom,Q6833339,Michael Pakenham,spouse,Q75415387,Meta Landreth Doak
+United Kingdom,Q6837165,Michelle Mone,spouse,Q111751436,Michael Mone
+United Kingdom,Q6837165,Michelle Mone,spouse,Q28810360,Doug Barrowman
 United Kingdom,Q688913,Margaret Hodge,spouse,Q5723091,Henry Hodge
 United Kingdom,Q689348,Adam Holloway,father,Q7358350,Roger Holloway
 United Kingdom,Q689421,Kelvin Hopkins,child,Q76448943,Rachel Hopkins
@@ -4853,8 +4855,8 @@ United Kingdom,Q7176544,"Peter Rawlinson, Baron Rawlinson of Ewell",father,Q7595
 United Kingdom,Q7176544,"Peter Rawlinson, Baron Rawlinson of Ewell",mother,Q75952483,Alisa Grayson
 United Kingdom,Q7176544,"Peter Rawlinson, Baron Rawlinson of Ewell",spouse,Q75952492,Haidee Kavanagh
 United Kingdom,Q7176544,"Peter Rawlinson, Baron Rawlinson of Ewell",spouse,Q75952562,Elaine Dominguez
+United Kingdom,Q7176922,Peter Shore,child,Q74802299,Cris Shore
 United Kingdom,Q7176922,Peter Shore,child,Q75604939,unknown son Shore
-United Kingdom,Q7176922,Peter Shore,child,Q75604987,Crispin Nicholas Shore
 United Kingdom,Q7176922,Peter Shore,child,Q75604989,Thomasina Shore
 United Kingdom,Q7176922,Peter Shore,child,Q75604991,Tacy Susan Shore
 United Kingdom,Q7176922,Peter Shore,spouse,Q75604985,Elizabeth Catherine Wrong

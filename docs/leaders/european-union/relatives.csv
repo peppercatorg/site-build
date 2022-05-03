@@ -1,6 +1,8 @@
 catalog,id,name,relationship,relative,relativename
 European Union,Q1028887,Camiel Eurlings,father,Q2438491,Martin Eurlings
 European Union,Q1032587,Ernest Maragall i Mira,father,Q19256882,Jordi Maragall i Noble
+European Union,Q1032587,Ernest Maragall i Mira,sibling,Q111754364,Jordi Maragall i Mira
+European Union,Q1032587,Ernest Maragall i Mira,sibling,Q111754386,Àngels Maragall i Mira
 European Union,Q1032587,Ernest Maragall i Mira,sibling,Q355265,Pasqual Maragall i Mira
 European Union,Q1032587,Ernest Maragall i Mira,sibling,Q60828861,Pau Malvido
 European Union,Q1055202,Lapo Pistelli,father,Q3876321,Nicola Pistelli
@@ -75,6 +77,7 @@ European Union,Q1220,Giorgio Napolitano,spouse,Q18785847,Clio Bittoni
 European Union,Q12327679,Morten Helveg Petersen,father,Q425708,Niels Helveg Petersen
 European Union,Q12327679,Morten Helveg Petersen,mother,Q18040591,Hanne Elisabeth Aarup
 European Union,Q12327679,Morten Helveg Petersen,sibling,Q12332907,Rasmus Helveg Petersen
+European Union,Q1235376,Rolandas Pavilionis,child,Q12681001,Žygimantas Pavilionis
 European Union,Q12379326,Yana Toom,mother,Q17447164,Margarita Tšernogorova
 European Union,Q1238159,Dominique Baudis,father,Q3383897,Pierre Baudis
 European Union,Q12467437,Carlo Calenda,father,Q65127229,Fabio Calenda
@@ -216,6 +219,7 @@ European Union,Q1683061,Janusz Korwin-Mikke,child,Q107750726,Korynna Korwin-Mikk
 European Union,Q1683061,Janusz Korwin-Mikke,spouse,Q107564268,Dominika Korwin-Mikke
 European Union,Q1683072,Janusz Onyszkiewicz,child,Q98893417,Danuta Onyszkiewicz
 European Union,Q1683072,Janusz Onyszkiewicz,spouse,Q11727481,Joanna Onyszkiewicz
+European Union,Q1683072,Janusz Onyszkiewicz,spouse,Q20028541,Alison Chadwick-Onyszkiewicz
 European Union,Q1685833,Jean Spautz,child,Q6755887,Marc Spautz
 European Union,Q1687317,Jens Okking,child,Q61978516,Silja Okking
 European Union,Q16945605,Lynn Boylan,spouse,Q5381749,Eoin Ó Broin
@@ -944,3 +948,4 @@ European Union,Q971234,Gianni Pittella,sibling,Q15829777,Marcello Pittella
 European Union,Q976712,Flavio Tosi,partner,Q15401878,Patrizia Bisinella
 European Union,Q980319,Per Gahrton,spouse,Q19756499,Ulla Lemberg
 European Union,Q981486,Patrick Le Hyaric,child,Q40435441,Steven Le Hyaric
+European Union,Q981866,Pat the Cope Gallagher,relative,Q7123388,Paddy Gallagher

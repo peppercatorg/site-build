@@ -1,6 +1,6 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Peru,President,Alberto Fujimori,Q133040,1990-07-28,2000-11-21,male,1938-07-28,,Al Fujimori.jpg,Alberto Fujimori
-Peru,President,Valentín Paniagua,Q81638,2000-11-22,2001-07-28,male,1936-09-23,2006-10-16,,Valentín Paniagua
+Peru,President,Valentín Paniagua,Q81638,2000-11-22,2001-07-28,male,1936-09-23,2006-10-16,Valentín Paniagua (cropped).png,Valentín Paniagua
 Peru,President,Alejandro Toledo,Q207426,2001-07-28,2006-07-28,male,1946-03-28,,Alejandro Toledo 2015 (cropped).jpg,Alejandro Toledo
 Peru,President,Alan García,Q167211,2006-07-28,2011-07-28,male,1949-05-23,2019-04-17,Alan García presidente del Perú.jpg,Alan García
 Peru,President,Ollanta Humala,Q57254,2011-07-28,2016-07-28,male,1962-06-27,,Ollanta Humala Tasso.jpg,Ollanta Humala
@@ -194,7 +194,7 @@ Peru,Minister of Foreign Affairs,Víctor Ricardo Luna Mendoza,Q25911760,2016-07-
 Peru,Minister of Foreign Affairs,Lucía Cayetana Aljovín Gazzani,Q25918164,2018-01-09,2018-04-02,female,1966-09-06,,Cayetana Aljovín.jpg,Cayetana Aljovín
 Peru,Minister of Foreign Affairs,Néstor Popolizio,Q51296839,2018-04-02,2019-09-30,male,1955,,Canciller Ricardo Luna toma juramento a Viceministro Embajador Néstor Popolizio cropped.jpg,
 Peru,Minister of Foreign Affairs,Gustavo Meza-Cuadra,Q69676332,2019-10-03,2020-07-15,male,1959-03-17,,Gustavo Meza-Cuadra.jpg,
-Peru,Minister of Foreign Affairs,Mario López Chávarri,Q97184378,2020-07-15,2020-11-10,male,,,,
+Peru,Minister of Foreign Affairs,Mario López Chávarri,Q97184378,2020-07-15,2020-11-10,male,,,Mario-Juvenal-López-Chávarry.jpg,
 Peru,Minister of Foreign Affairs,Franca Deza,Q101542328,2020-11-12,2020-11-17,female,,,,
 Peru,Minister of Foreign Affairs,Elizabeth Astete Rodríguez,Q102104807,2020-11-18,2021-02-14,female,1952-03-30,,Esther Astete 02 (cropped).jpg,Elizabeth Astete
 Peru,Minister of Foreign Affairs,Allan Wagner,Q533296,2021-02-15,2021-07-29,male,1942-02-07,,Allan Wagner Tizon 070809-N-7088A-322 0X1WL.jpg,Allan Wagner Tizón
@@ -424,7 +424,7 @@ Peru,Minister of the Presidency,Juan Incháustegui,Q20016275,2000-11-22,2001-01-
 Peru,President of Congress,Máximo San roman,Q3331996,1995-07-26,2000-07-26,male,1946-04-14,,Máximo San Román.png,Máximo San Román
 Peru,President of Congress,Martha Hildebrandt,Q3773141,1999-07-27,2000-11-13,female,1925-01-13,,Martha Hildebrandt 4.jpg,Martha Hildebrandt
 Peru,President of Congress,Luz Salgado,Q5985016,2000-11-13,2000-11-16,female,1949-07-03,,Luz Salgado.jpg,Luz Salgado
-Peru,President of Congress,Valentín Paniagua,Q81638,2000-11-16,2000-11-22,male,1936-09-23,2006-10-16,,Valentín Paniagua
+Peru,President of Congress,Valentín Paniagua,Q81638,2000-11-16,2000-11-22,male,1936-09-23,2006-10-16,Valentín Paniagua (cropped).png,Valentín Paniagua
 Peru,President of Congress,Antero Flores Aráoz,Q4771421,2004-07-26,2005-07-26,male,1942-02-28,,Ántero Flores-Aráoz Esparza.jpg,Ántero Flores Aráoz
 Peru,President of Congress,Luis Alva Castro,Q3266597,2011,2011-07-26,male,1942,,Luis Alva Castro 070809-N-8704K-125 0X1WO.jpg,Luis Alva Castro
 Peru,President of Congress,Luz Salgado,Q5985016,2016-07-28,2017-07-26,female,1949-07-03,,Luz Salgado.jpg,Luz Salgado
