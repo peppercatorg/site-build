@@ -11,7 +11,7 @@ argentina,55,216,911,1049
 armenia,19,95,320,390
 artsakh,5,23,0,23
 aruba,13,23,3,23
-australia,73,531,1781,1948
+australia,73,531,1782,1949
 austria,24,158,761,860
 azerbaijan,41,64,146,206
 bahamas,28,61,5,61
@@ -27,7 +27,7 @@ bolivia,22,48,8,51
 bosnia-herzegovina,20,81,23,83
 botswana,25,38,4,41
 brazil,60,246,1722,1892
-british-virgin-islands,9,21,0,21
+british-virgin-islands,9,22,0,22
 brunei,5,7,4,11
 bulgaria,27,162,102,240
 burundi,6,33,0,33
@@ -108,7 +108,7 @@ mongolia,22,63,4,66
 montenegro,26,77,24,92
 montserrat,4,7,0,7
 morocco,29,59,426,474
-mozambique,26,179,10,186
+mozambique,26,209,10,216
 namibia,29,46,3,48
 nauru,13,23,4,26
 nepal,29,51,356,401
@@ -123,8 +123,8 @@ norway,26,649,1575,1963
 pakistan,49,240,1475,1621
 panama,17,89,3,91
 paraguay,24,33,16,45
-peru,24,358,309,633
-philippines,35,258,662,851
+peru,24,359,309,633
+philippines,35,262,662,855
 poland,28,234,538,719
 portugal,23,104,477,551
 qatar,23,31,0,31
@@ -146,7 +146,7 @@ solomon-islands,28,42,67,83
 somalia,32,76,2,76
 south-africa,42,130,712,776
 south-korea,35,214,976,1132
-spain,31,523,3914,4290
+spain,31,523,3918,4294
 sri-lanka,33,58,258,276
 st-kitts-and-nevis,15,20,11,21
 sweden,29,324,1297,1512
@@ -165,7 +165,7 @@ uganda,9,34,14,47
 ukraine,33,350,2048,2272
 united-arab-emirates,13,18,0,18
 united-kingdom,51,1114,2683,3388
-united-states,88,1147,5612,6615
+united-states,88,1154,5612,6622
 uruguay,21,71,94,136
 uzbekistan,34,42,0,42
 vanuatu,16,36,2,36
@@ -173,4 +173,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,898,1004
-TOTAL,4418,22771,83555,99591
+TOTAL,4418,22814,83560,99638

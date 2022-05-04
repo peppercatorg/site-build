@@ -4151,6 +4151,7 @@ France,Q2897761,Bernard Debré,sibling,Q713235,Jean-Louis Debré
 France,Q2897988,Bernard Grasset,father,Q50889487,Marius Grasset
 France,Q2898459,Bernard Pons,child,Q33150562,Frédérique Pons
 France,Q2898459,Bernard Pons,child,Q48341784,Isabelle Secrétan
+France,Q2898459,Bernard Pons,father,Q111817197,Claude Pons
 France,Q2898602,Bernard Seillier,child,Q16534262,Bruno Seillier
 France,Q2898602,Bernard Seillier,spouse,Q17420895,Françoise Seillier
 France,Q2899658,Bertrand Ract-Madoux,child,Q47639967,Ferréol Ract-Madoux
@@ -4250,6 +4251,7 @@ France,Q3084135,François Bujon de l'Estang,child,Q62178731,Anne-Lorraine Bujon 
 France,Q3084310,François Cornut-Gentille,relative,Q2897714,Bernard Cornut-Gentille
 France,Q3084390,François Delapierre,spouse,Q42420251,Charlotte Girard
 France,Q3085538,François Perrot,child,Q30343102,Patrice Perrot
+France,Q3086255,François de Mazières,father,Q56106645,Philippe de Mazières
 France,Q3090356,Frédérique Bredin,father,Q1230574,Jean-Denis Bredin
 France,Q3090390,Frédérique Massat,father,Q3426608,René Massat
 France,Q3105581,Gilbert Annette,relative,Q3056510,Ericka Bareigts
@@ -8722,11 +8724,14 @@ Netherlands,Q4787767,Ard van der Steur,father,Q2232889,Ab van der Steur
 Netherlands,Q5165280,Hanke Bruins Slot,father,Q2093954,Harm Bruins Slot
 Netherlands,Q518659,Léon de Jong,partner,Q467982,Fleur Agema
 Netherlands,Q554127,Wouter Bos,sibling,Q2279433,Arnoud Bos
+Netherlands,Q607189,Ed van Thijn,child,Q111820627,Marion van Thijn
 Netherlands,Q607189,Ed van Thijn,child,Q97397508,Carla van Thijn
 Netherlands,Q607189,Ed van Thijn,partner,Q2406653,Hedy d'Ancona
+Netherlands,Q607189,Ed van Thijn,spouse,Q111820517,Odette Taminiau
 Netherlands,Q607189,Ed van Thijn,spouse,Q2673879,Eveline Herfkens
 Netherlands,Q64590182,Johan Dessing,sibling,Q1973940,Floortje Dessing
 Netherlands,Q65055093,Gala Veldhoen,father,Q1862725,Aat Veldhoen
+Netherlands,Q65055093,Gala Veldhoen,spouse,Q2318560,Henny Vrienten
 Netherlands,Q704888,Geert Reuten,child,Q2244639,Rosa Reuten
 Netherlands,Q704888,Geert Reuten,relative,Q106518433,Thijs Reuten
 Netherlands,Q704888,Geert Reuten,relative,Q467729,Thekla Reuten
@@ -9926,6 +9931,9 @@ Philippines,Q6081353,Isko Moreno,spouse,Q110278671,Diana Lynn Ditan
 Philippines,Q6282903,Joseph Emilio Abaya,father,Q12969523,Plaridel Abaya
 Philippines,Q6282903,Joseph Emilio Abaya,mother,Q107287635,Consuelo Bautista Aguinaldo
 Philippines,Q6282903,Joseph Emilio Abaya,sibling,Q57067691,Francis Gerald A. Abaya
+Philippines,Q64853235,Jose Manuel Romualdez,father,Q15869681,Alberto Romualdez sr.
+Philippines,Q64853235,Jose Manuel Romualdez,sibling,Q15869679,Alberto Romualdez
+Philippines,Q64853235,Jose Manuel Romualdez,sibling,Q20641404,Johnny Romualdez
 Philippines,Q6487031,Lani Cayetano,spouse,Q471883,Alan Peter Cayetano
 Philippines,Q65932997,Ryan Luis Singson,father,Q2399446,Chavit Singson
 Philippines,Q65932997,Ryan Luis Singson,sibling,Q7365285,Ronald Singson
@@ -10496,7 +10504,7 @@ Russia,Q3479763,Sergey Pugachyov,spouse,Q4720766,Alexandra Tolstoy
 Russia,Q363846,Boris Nemtsov,child,Q4317038,Zhanna Nemtsova
 Russia,Q363846,Boris Nemtsov,partner,Q59777710,Anna Durytska
 Russia,Q363846,Boris Nemtsov,relative,Q4530004,Igor Eidman
-Russia,Q363846,Boris Nemtsov,spouse,Q108667711,Raisa Akhmetovna Nemtsova
+Russia,Q363846,Boris Nemtsov,spouse,Q108667711,Raisa Nemtsova
 Russia,Q3658303,Alexander Grushko,father,Q4150962,Viktor Grushko
 Russia,Q370787,Alexander Lebedev,child,Q2889271,Evgeny Lebedev
 Russia,Q370787,Alexander Lebedev,father,Q107097779,Евгений Николаевич Лебедев
@@ -10613,7 +10621,7 @@ Russia,Q56310238,Rauf Arashukov,father,Q104410592,Raul Arashukov
 Russia,Q56708540,Vladimir Sipyagin,father,Q62570577,Владимир Яковлевич Сипягин
 Russia,Q57735,Alexander Zhukov,child,Q75492617,Pyotr Zhukov
 Russia,Q57735,Alexander Zhukov,father,Q4181368,Dmitri Zhukov
-Russia,Q58217,Sergey Lavrov,child,Q17287802,Ekaterina Lavrova
+Russia,Q58217,Sergey Lavrov,child,Q17287802,Ekaterina Vinokurova
 Russia,Q58217,Sergey Lavrov,spouse,Q17287782,Maria Lavrova
 Russia,Q589645,Anton Siluanov,father,Q61875753,Герман Михайлович Силуанов
 Russia,Q60220292,Aleksey Krasnoshtanov,child,Q108684903,Anton Krasnoshtanov
@@ -18202,6 +18210,7 @@ United States,Q105981951,Pat Outman,father,Q7331626,Rick Outman
 United States,Q106089241,Julia Letlow,spouse,Q103928233,Luke Letlow
 United States,Q106823831,Malika Sanders-Fortier,father,Q5727985,Henry Sanders
 United States,Q107178183,Michael Dvorak,child,Q7384032,Ryan Dvorak
+United States,Q1077819,Chris Van Hollen,father,Q15993599,Christopher Van Hollen
 United States,Q1077819,Chris Van Hollen,mother,Q104036929,Edith Eliza Farnsworth
 United States,Q10853588,Kamala Harris,father,Q60894135,Donald J. Harris
 United States,Q10853588,Kamala Harris,mother,Q60844968,Shyamala Gopalan
@@ -18789,6 +18798,7 @@ United States,Q36847838,Matt Regier,father,Q6384936,Keith Regier
 United States,Q371031,Jon Kyl,father,Q1700428,John Henry Kyl
 United States,Q374693,Charlie Crist,spouse,Q5044674,Carole Crist
 United States,Q380441,Scooter Libby,spouse,Q5664131,Harriet Grant
+United States,Q380900,Chuck Schumer,relative,Q4749380,Amy Schumer
 United States,Q380900,Chuck Schumer,spouse,Q6070286,Iris Weinshall
 United States,Q381157,Orrin Hatch,father,Q100755743,Jesse Hatch
 United States,Q381880,Sherrod Brown,spouse,Q5161928,Connie Schultz
@@ -19052,7 +19062,7 @@ United States,Q5648303,Hank Coe,father,Q5723482,Henry Huttleston Rogers Coe
 United States,Q56600071,Wanda Vázquez Garced,spouse,Q88679157,Jorge Díaz Reverón
 United States,Q570173,Paul Gillmor,spouse,Q6369659,Karen Gillmor
 United States,Q578102,Bob Graham,child,Q16195097,Gwen Graham
-United States,Q578102,Bob Graham,father,Q5393708,Ernest R. Graham
+United States,Q578102,Bob Graham,father,Q5393708,Ernest R Graham
 United States,Q578102,Bob Graham,mother,Q91876934,Hilda Elizabeth Simmons
 United States,Q578102,Bob Graham,sibling,Q1605571,Phil Graham
 United States,Q578102,Bob Graham,spouse,Q4681891,Adele Khoury Graham
@@ -19204,6 +19214,7 @@ United States,Q7320554,Rhine McLin,father,Q5006564,C. J. McLin
 United States,Q7331626,Rick Outman,child,Q105981951,Pat Outman
 United States,Q7332181,Ricardo Rosselló,father,Q1147285,Pedro Rosselló
 United States,Q7332181,Ricardo Rosselló,spouse,Q30238575,Beatriz Areizaga
+United States,Q7341743,"Robert B. Pirie, Jr.",father,Q7341742,Robert B. Pirie
 United States,Q7351940,Roberto Vigoreaux,father,Q6701194,Luis Vigoreaux
 United States,Q7351940,Roberto Vigoreaux,sibling,Q16150757,Luisito Vigoreaux
 United States,Q7356240,Rod J. Rosenstein,sibling,Q88978852,Nancy E. Messonnier

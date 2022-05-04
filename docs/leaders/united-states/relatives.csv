@@ -17,6 +17,7 @@ United States,Q105981951,Pat Outman,father,Q7331626,Rick Outman
 United States,Q106089241,Julia Letlow,spouse,Q103928233,Luke Letlow
 United States,Q106823831,Malika Sanders-Fortier,father,Q5727985,Henry Sanders
 United States,Q107178183,Michael Dvorak,child,Q7384032,Ryan Dvorak
+United States,Q1077819,Chris Van Hollen,father,Q15993599,Christopher Van Hollen
 United States,Q1077819,Chris Van Hollen,mother,Q104036929,Edith Eliza Farnsworth
 United States,Q10853588,Kamala Harris,father,Q60894135,Donald J. Harris
 United States,Q10853588,Kamala Harris,mother,Q60844968,Shyamala Gopalan
@@ -604,6 +605,7 @@ United States,Q36847838,Matt Regier,father,Q6384936,Keith Regier
 United States,Q371031,Jon Kyl,father,Q1700428,John Henry Kyl
 United States,Q374693,Charlie Crist,spouse,Q5044674,Carole Crist
 United States,Q380441,Scooter Libby,spouse,Q5664131,Harriet Grant
+United States,Q380900,Chuck Schumer,relative,Q4749380,Amy Schumer
 United States,Q380900,Chuck Schumer,spouse,Q6070286,Iris Weinshall
 United States,Q381157,Orrin Hatch,father,Q100755743,Jesse Hatch
 United States,Q381880,Sherrod Brown,spouse,Q5161928,Connie Schultz
@@ -867,7 +869,7 @@ United States,Q5648303,Hank Coe,father,Q5723482,Henry Huttleston Rogers Coe
 United States,Q56600071,Wanda Vázquez Garced,spouse,Q88679157,Jorge Díaz Reverón
 United States,Q570173,Paul Gillmor,spouse,Q6369659,Karen Gillmor
 United States,Q578102,Bob Graham,child,Q16195097,Gwen Graham
-United States,Q578102,Bob Graham,father,Q5393708,Ernest R. Graham
+United States,Q578102,Bob Graham,father,Q5393708,Ernest R Graham
 United States,Q578102,Bob Graham,mother,Q91876934,Hilda Elizabeth Simmons
 United States,Q578102,Bob Graham,sibling,Q1605571,Phil Graham
 United States,Q578102,Bob Graham,spouse,Q4681891,Adele Khoury Graham
@@ -1019,6 +1021,7 @@ United States,Q7320554,Rhine McLin,father,Q5006564,C. J. McLin
 United States,Q7331626,Rick Outman,child,Q105981951,Pat Outman
 United States,Q7332181,Ricardo Rosselló,father,Q1147285,Pedro Rosselló
 United States,Q7332181,Ricardo Rosselló,spouse,Q30238575,Beatriz Areizaga
+United States,Q7341743,"Robert B. Pirie, Jr.",father,Q7341742,Robert B. Pirie
 United States,Q7351940,Roberto Vigoreaux,father,Q6701194,Luis Vigoreaux
 United States,Q7351940,Roberto Vigoreaux,sibling,Q16150757,Luisito Vigoreaux
 United States,Q7356240,Rod J. Rosenstein,sibling,Q88978852,Nancy E. Messonnier
