@@ -2,6 +2,9 @@ catalog,id,name,relationship,relative,relativename
 Mozambique,Q19613993,Ivone Soares,relative,Q383419,Afonso Dhlakama
 Mozambique,Q20014463,Vitória Diogo,sibling,Q236020,Luísa Diogo
 Mozambique,Q236020,Luísa Diogo,sibling,Q20014463,Vitória Diogo
+Mozambique,Q239105,Graça Machel,child,Q102430251,Josina Z. Machel
+Mozambique,Q239105,Graça Machel,spouse,Q219918,Samora Moisés Machel
+Mozambique,Q239105,Graça Machel,spouse,Q8023,Nelson Mandela
 Mozambique,Q27220074,Nyeleti Mondlane,father,Q443434,Eduardo Chivambo Mondlane
 Mozambique,Q27220074,Nyeleti Mondlane,mother,Q6153514,Janet Mondlane
 Mozambique,Q51280032,Marcelina Chissano,spouse,Q208355,Joaquim Chissano
