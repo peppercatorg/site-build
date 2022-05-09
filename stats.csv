@@ -59,7 +59,7 @@ france,48,600,3933,4443
 gabon,8,34,3,35
 gambia,25,63,2,64
 georgia,19,174,28,191
-germany,35,651,3657,4185
+germany,35,651,3659,4187
 ghana,16,119,779,834
 gibraltar,12,37,40,66
 greece,27,168,514,592
@@ -67,7 +67,7 @@ greenland,12,33,2,34
 guatemala,20,67,5,69
 honduras,10,31,4,35
 hong-kong,17,79,112,184
-hungary,23,209,925,1077
+hungary,23,209,952,1103
 iceland,17,79,198,222
 india,104,481,2863,3183
 indonesia,45,125,1353,1458
@@ -107,12 +107,12 @@ monaco,10,35,53,83
 mongolia,22,63,4,66
 montenegro,26,77,24,92
 montserrat,4,7,0,7
-morocco,29,59,426,474
+morocco,29,60,426,474
 mozambique,26,270,870,1100
 namibia,29,46,3,48
 nauru,13,23,4,26
 nepal,29,51,356,401
-netherlands,37,247,1106,1203
+netherlands,37,248,1126,1224
 new-zealand,30,139,228,309
 niger,32,56,7,58
 nigeria,51,522,1615,2046
@@ -120,7 +120,7 @@ niue,5,8,21,24
 north-macedonia,26,99,4,100
 northern-ireland,13,72,302,312
 norway,26,649,1575,1963
-pakistan,49,240,1475,1621
+pakistan,49,240,1476,1622
 panama,17,89,3,91
 paraguay,24,33,16,45
 peru,24,359,309,633
@@ -145,8 +145,8 @@ slovenia,23,111,170,253
 solomon-islands,28,42,67,83
 somalia,32,76,2,76
 south-africa,42,130,712,776
-south-korea,35,214,976,1132
-spain,31,523,3918,4294
+south-korea,35,218,976,1136
+spain,31,523,3922,4298
 sri-lanka,33,58,258,276
 st-kitts-and-nevis,15,20,11,21
 sweden,29,324,1297,1512
@@ -164,8 +164,8 @@ tuvalu,12,49,26,51
 uganda,9,34,14,47
 ukraine,33,350,2048,2272
 united-arab-emirates,13,18,0,18
-united-kingdom,51,1114,2683,3388
-united-states,88,1154,5612,6622
+united-kingdom,51,1115,2683,3389
+united-states,88,1154,5614,6624
 uruguay,21,71,94,136
 uzbekistan,34,42,0,42
 vanuatu,16,36,2,36
@@ -173,4 +173,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,898,1004
-TOTAL,4418,22875,84420,100522
+TOTAL,4418,22881,84475,100581

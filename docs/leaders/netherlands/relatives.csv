@@ -35,7 +35,7 @@ Netherlands,Q154952,Willem-Alexander of the Netherlands,godparent,Q102139,Margre
 Netherlands,Q154952,Willem-Alexander of the Netherlands,godparent,Q109939775,Renée Smith-Röell
 Netherlands,Q154952,Willem-Alexander of the Netherlands,godparent,Q2099997,Baroness Gösta von dem Bussche-Haddenhausen
 Netherlands,Q154952,Willem-Alexander of the Netherlands,godparent,Q380970,Jelle Zijlstra
-Netherlands,Q154952,Willem-Alexander of the Netherlands,godparent,Q57304,Prince Bernhard of the Netherlands
+Netherlands,Q154952,Willem-Alexander of the Netherlands,godparent,Q57304,"Prince Bernhard, Prince Consort of the Netherlands"
 Netherlands,Q154952,Willem-Alexander of the Netherlands,godparent,Q88905,Ferdinand von Bismarck
 Netherlands,Q154952,Willem-Alexander of the Netherlands,mother,Q29574,Beatrix of the Netherlands
 Netherlands,Q154952,Willem-Alexander of the Netherlands,sibling,Q352981,Prince Friso of the Netherlands
@@ -55,6 +55,7 @@ Netherlands,Q1976542,Schelto Patijn,father,Q2180097,Conny Patijn
 Netherlands,Q1976542,Schelto Patijn,mother,Q20196999,Sara van Citters
 Netherlands,Q1976542,Schelto Patijn,sibling,Q3488527,Michiel Patijn
 Netherlands,Q1976542,Schelto Patijn,sibling,Q4304599,Jack Patijn
+Netherlands,Q19801965,Fré le Poole,father,Q21547828,Jaap le Poole
 Netherlands,Q1992436,Willem Witteveen,father,Q1692109,Johan Witteveen
 Netherlands,Q1994265,Pieter Duisenberg,father,Q159844,Wim Duisenberg
 Netherlands,Q1994667,Wolter Lemstra,sibling,Q2633774,Piet Lemstra
@@ -102,6 +103,7 @@ Netherlands,Q2776715,Kajsa Ollongren,mother,Q19318341,Gunvor Ulla Marie Ollongre
 Netherlands,Q2776715,Kajsa Ollongren,spouse,Q42344215,Irene van den Brekel
 Netherlands,Q2800973,Judith Belinfante,father,Q54860642,Guus Belinfante
 Netherlands,Q2851980,Pia Dijkstra,spouse,Q3059448,Gerlach Cerfontaine
+Netherlands,Q28549638,Anne Kuik,spouse,Q101627136,Paul de Rook
 Netherlands,Q288283,Femke Halsema,partner,Q26916277,Robert Oey
 Netherlands,Q28860873,Antje Diertens,spouse,Q28839256,Philip Wagner
 Netherlands,Q28860996,Sophie Hermans,father,Q1966582,Loek Hermans
@@ -116,7 +118,7 @@ Netherlands,Q288771,Hans van Mierlo,spouse,Q469283,Connie Palmen
 Netherlands,Q29574,Beatrix of the Netherlands,child,Q154952,Willem-Alexander of the Netherlands
 Netherlands,Q29574,Beatrix of the Netherlands,child,Q352981,Prince Friso of the Netherlands
 Netherlands,Q29574,Beatrix of the Netherlands,child,Q355254,Prince Constantijn of the Netherlands
-Netherlands,Q29574,Beatrix of the Netherlands,father,Q57304,Prince Bernhard of the Netherlands
+Netherlands,Q29574,Beatrix of the Netherlands,father,Q57304,"Prince Bernhard, Prince Consort of the Netherlands"
 Netherlands,Q29574,Beatrix of the Netherlands,godparent,Q12973,Leopold III of Belgium
 Netherlands,Q29574,Beatrix of the Netherlands,godparent,Q13383097,Allene Tew
 Netherlands,Q29574,Beatrix of the Netherlands,godparent,Q2012990,Princess Elisabeth of Waldeck and Pyrmont
