@@ -2157,6 +2157,7 @@ Czechia,Q161671,Jiří Paroubek,spouse,Q12045150,Petra Paroubková
 Czechia,Q161671,Jiří Paroubek,spouse,Q95152778,Zuzana Paroubková
 Czechia,Q165114,Marek Benda,father,Q2427640,Václav Benda
 Czechia,Q165114,Marek Benda,mother,Q50493867,Kamila Bendová
+Czechia,Q17138368,František Kinský,child,Q111919098,Kristian Kinský
 Czechia,Q17138368,František Kinský,father,Q12026214,Josef Kinský
 Czechia,Q17138368,František Kinský,sibling,Q15712630,Antonín Kinský
 Czechia,Q17277123,Roman Prymula,child,Q96064732,Karolína Prymulová
@@ -2279,7 +2280,7 @@ Czechia,Q6695637,Luboš Dobrovský,child,Q21012415,Jan Dobrovský
 Czechia,Q6776343,Martin Palouš,father,Q12048562,Radim Palouš
 Czechia,Q6776343,Martin Palouš,sibling,Q26804596,Jan Palouš
 Czechia,Q6835577,Michael Žantovský,mother,Q18006515,Hana Žantovská
-Czechia,Q685676,Petr Pithart,relative,Q84466271,Anežka Pithartová
+Czechia,Q685676,Petr Pithart,child,Q111939106,David Pithart
 Czechia,Q696669,Cyril Svoboda,relative,Q12018532,Gustav Heidler
 Czechia,Q696669,Cyril Svoboda,sibling,Q95463992,Josef Svoboda
 Czechia,Q696669,Cyril Svoboda,spouse,Q105121421,Věnceslava Svobodová
@@ -6057,7 +6058,7 @@ India,Q4948854,Botsa Jhansi Lakshmi,spouse,Q4948855,Botsa Satyanarayana
 India,Q4967969,Brij Bhushan Sharan Singh,spouse,Q15940996,Ketki Devi Singh
 India,Q5071486,Chandresh Kumari,father,Q15998242,Hanwant Singh
 India,Q5071486,Chandresh Kumari,mother,Q6437450,Krishna Kumari
-India,Q5071486,Chandresh Kumari,sibling,Q5517518,Gaj Singh
+India,Q5071486,Chandresh Kumari,sibling,Q5517518,Gaj Singh II of Jodhpur
 India,Q5091883,Hemananda Biswal,child,Q62377809,Sunita Biswal
 India,Q5091883,Hemananda Biswal,child,Q62605267,Amita Biswal
 India,Q5162596,Conrad Sangma,father,Q2741772,P. A. Sangma
@@ -8261,6 +8262,7 @@ Mexico,Q108570379,María Teresa Gómez-Mont Urueta,father,Q5858217,Felipe Gómez
 Mexico,Q108570379,María Teresa Gómez-Mont Urueta,relative,Q6028542,Ines Gomez Mont
 Mexico,Q108570379,María Teresa Gómez-Mont Urueta,sibling,Q109827422,Miguel Gómez-Mont Urueta
 Mexico,Q108570379,María Teresa Gómez-Mont Urueta,sibling,Q3069480,Fernando Gómez Mont
+Mexico,Q109012187,Lía Limón García,father,Q6014595,Miguel Limón Rojas
 Mexico,Q111146264,Mariana Nassar Piñeyro,mother,Q18352154,Irma Piñeyro Arias
 Mexico,Q111516895,Carlos Miguel Aysa Damas,father,Q64597075,Carlos Miguel Aysa González
 Mexico,Q1396586,Marcelo Ebrard,spouse,Q5997353,Mariagna Prats
@@ -8269,6 +8271,7 @@ Mexico,Q1399260,Jorge Castañeda Gutman,father,Q466285,Jorge Castañeda y Álvar
 Mexico,Q1399260,Jorge Castañeda Gutman,spouse,Q6018186,Miriam Morales
 Mexico,Q16186420,Angélica De la Peña Gómez,spouse,Q2913673,Jesús Ortega Martínez
 Mexico,Q16186821,Loretta Ortíz Ahlf,spouse,Q5937371,José Agustín Ortiz Pinchetti
+Mexico,Q16195540,Adriana Fuentes Téllez,sibling,Q4762662,Angelica Fuentes
 Mexico,Q16221662,Regina Vázquez Saut,father,Q2782897,Cirilo Vázquez Lagunes
 Mexico,Q16221662,Regina Vázquez Saut,sibling,Q19519386,Fabiola Vázquez Saut
 Mexico,Q16221666,Ricardo Villarreal García,sibling,Q5680996,Luis Alberto Villarreal
@@ -9024,6 +9027,7 @@ Norway,Q15078687,Kårstein Eidem Løvaas,mother,Q15613929,Velaug Eidem Løvaas
 Norway,Q15078687,Kårstein Eidem Løvaas,sibling,Q11976946,Ildri Eidem Løvaas
 Norway,Q15109978,Tor André Johnsen,spouse,Q15077918,Svetlana K Johnsen
 Norway,Q15113558,Kristin Vinje,spouse,Q7923755,Vetle Vinje
+Norway,Q15113600,Stefan Heggelund,spouse,Q111946857,Jorunn Hallaråker Heggelund
 Norway,Q15113600,Stefan Heggelund,spouse,Q464941,Hadia Tajik
 Norway,Q15116081,Sivert Bjørnstad,father,Q11980231,Karl-Ove Bjørnstad
 Norway,Q15195484,Mette Nord,sibling,Q11967744,Erik Nord
@@ -12205,6 +12209,7 @@ Sweden,Q5969883,Johan Lönnroth,father,Q3352137,Erik Lönnroth
 Sweden,Q5969883,Johan Lönnroth,mother,Q29468335,Ebba Lönnroth
 Sweden,Q5969883,Johan Lönnroth,sibling,Q57167627,Louise Lönnroth
 Sweden,Q5969883,Johan Lönnroth,sibling,Q5969887,Lars Lönnroth
+Sweden,Q5969883,Johan Lönnroth,spouse,Q111948994,Gudrun Lönnroth
 Sweden,Q5996912,Johan Munck,father,Q5996879,Thomas Munck af Rosenschöld
 Sweden,Q6016840,Patrik Norinder,father,Q16650031,Carl-Robert Norinder
 Sweden,Q6043655,Peter Persson,spouse,Q4972552,Margareta Persson
@@ -12312,6 +12317,7 @@ Switzerland,Q71800029,Vincent Maitre,father,Q677887,Jean-Philippe Maitre
 Switzerland,Q73883,Christian Wasserfallen,father,Q1794227,Kurt Wasserfallen
 Switzerland,Q74144,Alexander Tschäppät,father,Q120748,Reynold Tschäppät
 Switzerland,Q758134,Attilio Bignasca,sibling,Q690192,Giuliano Bignasca
+Switzerland,Q805606,Balthasar Glättli,sibling,Q1735097,Kaspar Singer
 Switzerland,Q805606,Balthasar Glättli,spouse,Q20192072,Min Li Marti
 Switzerland,Q870066,Peter Spuhler,spouse,Q21012582,Daniela Spuhler-Hoffmann
 Switzerland,Q916004,Brigitta Gadient,father,Q1509730,Ulrich Gadient
@@ -15247,6 +15253,7 @@ United Kingdom,Q300334,Frank Doran,spouse,Q479115,Joan Ruddock
 United Kingdom,Q30163628,Danielle Rowley,father,Q16191157,Alex Rowley
 United Kingdom,Q30172941,Emma Dent Coad,father,Q5077400,Charles Enrique Dent
 United Kingdom,Q30172941,Emma Dent Coad,spouse,Q75874410,"Sir Hadley Gregory D'Oyly, 15th Bt."
+United Kingdom,Q30173119,Preet Gill,father,Q5211060,Daljit Singh Shergill
 United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",child,Q75356236,"Sebastian Seymour, Lord Seymour"
 United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",child,Q75356237,Lord Charles Seymour
 United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",child,Q75356239,Lady Sophia Seymour
@@ -18300,6 +18307,8 @@ United States,Q120260,Martin O'Malley,mother,Q20155398,Barbara  O'Malley
 United States,Q120260,Martin O'Malley,spouse,Q6377526,Katie O'Malley
 United States,Q1208992,Diane Sands,spouse,Q22004141,Ann Mary Dussault
 United States,Q1209677,Dick Gephardt,child,Q2964908,Chrissy Gephardt
+United States,Q1240103,Donaldus Milford Payne,child,Q1240224,"Donald Payne, Jr."
+United States,Q1240224,"Donald Payne, Jr.",father,Q1240103,Donaldus Milford Payne
 United States,Q1263846,Elliott Abrams,spouse,Q15993411,Rachel Abrams
 United States,Q1280288,Joe Scarborough,spouse,Q449013,Mika Brzezinski
 United States,Q1281084,Alan Grayson,spouse,Q20758232,Dena Grayson
@@ -18637,6 +18646,7 @@ United States,Q259514,Valerie Jarrett,father,Q15451707,James E. Bowman
 United States,Q259514,Valerie Jarrett,mother,Q4859352,Barbara T. Bowman
 United States,Q259514,Valerie Jarrett,relative,Q64826793,Robert Rochon Taylor
 United States,Q260042,Phil Murphy,spouse,Q42948064,Tammy Murphy
+United States,Q261003,Kay Hagan,mother,Q111958754,Jeanette Chiles
 United States,Q2613704,Phil Gramm,spouse,Q7982694,Wendy Lee Gramm
 United States,Q263322,Elaine Chao,father,Q18659626,James S.C. Chao
 United States,Q263322,Elaine Chao,mother,Q24702487,Ruth Mulan Chu Chao

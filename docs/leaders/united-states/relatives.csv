@@ -94,6 +94,8 @@ United States,Q120260,Martin O'Malley,mother,Q20155398,Barbara  O'Malley
 United States,Q120260,Martin O'Malley,spouse,Q6377526,Katie O'Malley
 United States,Q1208992,Diane Sands,spouse,Q22004141,Ann Mary Dussault
 United States,Q1209677,Dick Gephardt,child,Q2964908,Chrissy Gephardt
+United States,Q1240103,Donaldus Milford Payne,child,Q1240224,"Donald Payne, Jr."
+United States,Q1240224,"Donald Payne, Jr.",father,Q1240103,Donaldus Milford Payne
 United States,Q1263846,Elliott Abrams,spouse,Q15993411,Rachel Abrams
 United States,Q1280288,Joe Scarborough,spouse,Q449013,Mika Brzezinski
 United States,Q1281084,Alan Grayson,spouse,Q20758232,Dena Grayson
@@ -431,6 +433,7 @@ United States,Q259514,Valerie Jarrett,father,Q15451707,James E. Bowman
 United States,Q259514,Valerie Jarrett,mother,Q4859352,Barbara T. Bowman
 United States,Q259514,Valerie Jarrett,relative,Q64826793,Robert Rochon Taylor
 United States,Q260042,Phil Murphy,spouse,Q42948064,Tammy Murphy
+United States,Q261003,Kay Hagan,mother,Q111958754,Jeanette Chiles
 United States,Q2613704,Phil Gramm,spouse,Q7982694,Wendy Lee Gramm
 United States,Q263322,Elaine Chao,father,Q18659626,James S.C. Chao
 United States,Q263322,Elaine Chao,mother,Q24702487,Ruth Mulan Chu Chao
