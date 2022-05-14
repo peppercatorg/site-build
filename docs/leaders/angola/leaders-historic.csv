@@ -7,9 +7,9 @@ Angola,Vice President,Bornito de Sousa,Q16336949,2017-09-26,,male,1953-07-23,,"B
 Angola,Prime Minister,Fernando José de França Dias Van-Dúnem,Q264090,1996-06-03,2002-12-05,male,1934,,"Presentation of the credentials of the Heads of Mission of Angola to Roy Jenkins, President of the CEC 2 (cropped).jpg",Fernando José de França Dias Van-Dúnem
 Angola,Prime Minister,Fernando da Piedade Dias dos Santos,Q310815,2002-12-06,2008-09-30,male,1950-03-05,,Fernando da Piedade Dias dos Santos (cropped).jpg,Fernando da Piedade Dias dos Santos
 Angola,Prime Minister,Paulo Kassoma,Q373591,2008-09-30,2010-02-05,male,1951-06-06,,"Paulo Kassoma, 2011 (cropped).jpg",Paulo Kassoma
-Angola,Minister of Agriculture,Marcos Alexandre Nhunga,Q111954411,2016-08-28,2017-09-26,,,,,
+Angola,Minister of Agriculture,Marcos Alexandre Nhunga,Q111954411,2016-08-28,2017-09-26,,1960-11-13,,,
 Angola,Minister of Agriculture and Fisheries,António Francisco de Assis,Q109984874,2020-04-06,,male,1956-09-23,,,
-Angola,Minister of Agriculture and Forestry,Marcos Alexandre Nhunga,Q111954411,2017-09-26,2019-07-24,,,,,
+Angola,Minister of Agriculture and Forestry,Marcos Alexandre Nhunga,Q111954411,2017-09-26,2019-07-24,,1960-11-13,,,
 Angola,Minister of Agriculture and Forestry,António Francisco de Assis,Q109984874,2019-07-24,2020-01-17,male,1956-09-23,,,
 Angola,Minister of Agriculture and Rural Development,Gilberto Buta Lutukuta,Q111954381,1999-01-29,2008-10-03,,,,,
 Angola,Minister of Agriculture and Rural Development,Afonso Pedro Canga,Q4689381,2008-10-03,2010-02-06,male,1959-02-10,,Afonso Pedro Canga.jpg,Afonso Pedro Canga
@@ -55,7 +55,7 @@ Angola,Minister of Finance,José Pedro de Morais,Q3186515,2002-12,2008-10,male,1
 Angola,Minister of Finance,Eduardo Leopoldo Severin de Morais,Q111916354,2008-10,2010-02,male,,,,
 Angola,Minister of Finance,Carlos Alberto Lopes,Q111916352,2010-02,2013-05,male,,,,
 Angola,Minister of Finance,Armando Manuel,Q16190785,2013-05-09,2016-09-05,male,1972-03-24,,Armando Manuel at Chatham House 2016.jpg,Armando Manuel
-Angola,Minister of Finance,Archer Mangueira,Q60918484,2016-09-05,2019-10-08,male,1962,,,
+Angola,Minister of Finance,Archer Mangueira,Q60918484,2016-09-05,2019-10-08,male,1962-09-26,,,
 Angola,Minister of Finance,Vera Daves,Q96441964,2019-10-08,,female,1983-05-18,,Vera Daves Tvlivre Angola.jpg,Vera Daves
 Angola,Minister of Fishing,Salomao Luheto Xirimbimbi,Q105491350,2002-12-05,2010-02-06,male,,,,
 Angola,Minister of Fishing,Victoria Francisco Lopes de Barros Neto,Q111954426,2012-09-26,2017-09-26,,,,,
@@ -136,14 +136,14 @@ Angola,Minister of Urban Affairs and Construction,Fernando Alberto de Lemos Soar
 Angola,Minister of Urban Affairs and Environment,Virgílio Ferreira de Fontes Pereira,Q111517202,2002-12-05,2004-10-23,male,1959-08-30,,,
 Angola,Minister of Urban Affairs and Environment,Diekumpuna Sita Jose,Q111954376,2004-10-23,2008-10-03,,,,,
 Angola,Minister of Urban Affairs and Housing,José dos Santos da Silva Ferreira,Q111954399,2010-02-06,2010-11-20,,,,,
-Angola,Minister of Urban Planning and Housing,Ana Paula de Carvalho,Q111954367,2017-09-26,2020-01-17,,,,,
+Angola,Minister of Urban Planning and Housing,Ana Paula de Carvalho,Q111954367,2017-09-26,2020-01-17,,1971-06-21,,,
 Angola,Minister of Urbanism and Housing,José António da Conceição e Silva,Q111954393,2012-09-26,2016-03-07,,,,,
 Angola,Minister of Urbanism and Housing,Branca Manuel da Costa Neto do Espírito Santo,Q111954373,2016-03-07,2017-09-26,,,,,
 Angola,Minister of War Veterans,Pedro Jose van Dunem,Q111954417,1997-04-09,2010-02-06,,,,,
 Angola,Minister of War Veterans,João Ernesto dos Santos,Q109984869,2017-09-26,2020-01-17,male,1954-01-15,,,
 Angola,Minister of Women's Affairs,Cândida Celeste da Silva,Q51883210,1999-01-29,2008-10-03,female,,,,
 Angola,Minister of Youth and Sports,Jose Marcos Barrica,Q111954390,1999-01-29,2008-10-03,,,,,
-Angola,Minister of Youth and Sports,Goncalves Manuel Muandumba,Q111954382,2008-10-03,2017-09-26,,,,,
+Angola,Minister of Youth and Sports,Goncalves Manuel Muandumba,Q111954382,2008-10-03,2017-09-26,,1957-03-06,,,
 Angola,Minister of Youth and Sports,Ana Paula Sacramento Neto,Q109984875,2017-09-27,,female,1962-06-20,,,
 Angola,President of the National Assembly,Roberto Francisco de Almeida,Q61960012,1996,2008,male,1941-02-05,,,Roberto Francisco de Almeida
 Angola,President of the National Assembly,Fernando da Piedade Dias dos Santos,Q310815,2008-09-30,2010,male,1950-03-05,,Fernando da Piedade Dias dos Santos (cropped).jpg,Fernando da Piedade Dias dos Santos
@@ -157,5 +157,127 @@ Angola,Chief of General Staff,Agostinho Fernandes Nelumb,Q111937234,2003,2006,ma
 Angola,Chief of General Staff,Francisco Pereira Furtado,Q111937240,2006,2010,male,,,,
 Angola,Chief of General Staff,Geraldo Nunda,Q105452385,2010-10-06,2018-04-23,male,1952,,,Geraldo Nunda
 Angola,Chief of General Staff,António Egídio de Sousa Santos,Q109984935,2018-04-23,,male,,,,
+Angola,Governor of Bengo Province,Isalino Samuel Mendes,Q97482147,1994,2004,male,,,,
+Angola,Governor of Bengo Province,Jorge Inocêncio Dombolo,Q97482111,2004,2009,male,,,,
+Angola,Governor of Bengo Province,João Bernardo de Miranda,Q3187284,2009,2018,male,1953-07-18,,João Bernardo de Miranda.jpg,João Bernardo de Miranda
+Angola,Governor of Bengo Province,Mara Baptista Quiosa,Q97482106,2018,,female,1980-06-13,,,
+Angola,Governor of Benguela Province,Dumilde das Chagas Rangel,Q111994368,1995,2009,male,,,,
+Angola,Governor of Benguela Province,Armando da Cruz Neto,Q111937228,2009,2013,male,,,,
+Angola,Governor of Benguela Province,Isaac Francisco Maria dos Anjos,Q105491321,2013,2017,,,,,
+Angola,Governor of Benguela Province,Rui Luís Falcão Pinto de Andrade,Q111975111,2017,2021,male,,,,
+Angola,Governor of Benguela Province,Luís da Fonseca Nunes,Q111994516,2021,,male,1959-09,,,
+Angola,Governor of Bié Province,Luís Paulino dos Santos,Q111994387,1987,2002,male,,,,
+Angola,Governor of Bié Province,José Amaro Tati,Q111994389,2002,2008,male,,,,
+Angola,Governor of Bié Province,Cândida Celeste da Silva,Q51883210,2008,2009,female,,,,
+Angola,Governor of Bié Province,Álvaro Manuel de Boavida Neto,Q111975113,2009,2017,male,,,,
+Angola,Governor of Bié Province,Pereira Alfredo,Q111974360,2018,,male,1978-10-22,,,
+Angola,Governor of Cabinda Province,José Amaro Tati,Q111994389,1995,2002,male,,,,
+Angola,Governor of Cabinda Province,Anibal Lopes Rocha,Q59102914,2002,2009,male,1948-07-12,,,José Aníbal Lopes Rocha
+Angola,Governor of Cabinda Province,Mawete João Baptista,Q6794396,2009,2012,male,1968-03-20,,,Mawete João Baptista
+Angola,Governor of Cabinda Province,Aldina da Lomba,Q51883162,2012,2017,female,1964-05-12,,,Aldina Matilde Barros da Lomba
+Angola,Governor of Cabinda Province,Marcos Alexandre Nhunga,Q111954411,2019,,,1960-11-13,,,
+Angola,Governor of Cuando Cubango Province,Jorge Fernando Biwango,Q111994425,1999,2002,male,,,,
+Angola,Governor of Cuando Cubango Province,João Baptista Chindandi,Q111994428,2003,2008,male,,,,
+Angola,Governor of Cuando Cubango Province,Eusébio de Brito Teixeira,Q111975100,2008,2012,male,,,,
+Angola,Governor of Cuando Cubango Province,Francisco Lopes Higino Carneiro,Q5483447,2012,2016,male,1955-07-08,,,Higino Carneiro
+Angola,Governor of Cuando Cubango Province,Pedro Mutindi,Q11082410,2017,2019,male,1954-06-30,,Pedro Mutindi.jpg,Pedro Mutindi
+Angola,Governor of Cuando Cubango Province,Julio Bessa,Q105491332,2019,2021,male,,,,
+Angola,Governor of Cuando Cubango Province,José Martins,Q111994437,2021,,male,1978-12-13,,,
+Angola,Governor of Cuanza Norte Province,Manuel Pedro Pacavira,Q6752791,1991,2004,male,1939,2016-09-12,,Manuel Pedro Pacavira
+Angola,Governor of Cuanza Norte Province,Henrique André Júnior,Q111974274,2004,2016,male,,,,
+Angola,Governor of Cuanza Norte Province,José Maria Ferraz dos Santos,Q111975103,2016,2019,male,,,,
+Angola,Governor of Cuanza Norte Province,Adriano Mendes de Carvalho,Q111994450,2019,,male,1959-09-16,,,
+Angola,Governor of Cuanza Sul Province,Francisco Lopes Higino Carneiro,Q5483447,1999,2002,male,1955-07-08,,,Higino Carneiro
+Angola,Governor of Cuanza Sul Province,Serafim Maria Do Prado,Q111974370,2002,2012,male,,,,
+Angola,Governor of Cuanza Sul Province,Eusébio de Brito Teixeira,Q111975100,2012,2019,male,,,,
+Angola,Governor of Cuanza Sul Province,Job Pedro Castelo Capapinha,Q111974283,2019,,male,1962-05-09,,,
+Angola,Governor of Cunene Province,Pedro Mutindi,Q11082410,1983,2008,male,1954-06-30,,Pedro Mutindi.jpg,Pedro Mutindi
+Angola,Governor of Cunene Province,António Didalelwa,Q111994493,2008,2016,male,,,,
+Angola,Governor of Cunene Province,Kundy Paihama,Q6444389,2016,2018,male,1944-12-09,2020-07-24,,Kundi Paihama
+Angola,Governor of Cunene Province,Vígilio da Ressureição Bernardo Adriano Tyova,Q111974383,2018,2020,male,,,,
+Angola,Governor of Cunene Province,Gerdina Ulipamue Didalelwa,Q111974733,2020-02-01,,female,1961-08-10,,,
+Angola,Governor of Huambo Province,Paulo Kassoma,Q373591,1997,2008,male,1951-06-06,,"Paulo Kassoma, 2011 (cropped).jpg",Paulo Kassoma
+Angola,Governor of Huambo Province,Albino Malungo,Q111994504,2008,2009,male,,,,
+Angola,Governor of Huambo Province,Fernando Faustino Muteka,Q3069456,2009,2014,male,1944-01,,,Fernando Faustino Muteka
+Angola,Governor of Huambo Province,Kundy Paihama,Q6444389,2014,2016,male,1944-12-09,2020-07-24,,Kundi Paihama
+Angola,Governor of Huambo Province,Joao Baptista Kussumua,Q111954385,2016,2018,,,,,
+Angola,Governor of Huambo Province,Joana Lina,Q16337620,2018,2020,female,,,,
+Angola,Governor of Huambo Province,Lotti Nolika,Q111994790,2020,,female,1960-03-22,,,
+Angola,Governor of Huíla Province,Francisco José Ramos da Cruz,Q111974728,1999,2008,male,,,,
+Angola,Governor of Huíla Province,Isaac Francisco Maria dos Anjos,Q105491321,2008,2012,,,,,
+Angola,Governor of Huíla Province,João Marcelino Tyipinge,Q111975104,2012,2018,male,,,,
+Angola,Governor of Huíla Province,Luís da Fonseca Nunes,Q111994516,2018,2021,male,1959-09,,,
+Angola,Governor of Huíla Province,Nuno Bernabé Mahapi Dala,Q111994858,2021,,male,1975-02-20,,,
+Angola,Governor of Luanda Province,Anibal Lopes Rocha,Q59102914,1997,2002,male,1948-07-12,,,José Aníbal Lopes Rocha
+Angola,Governor of Luanda Province,Simão Mateus Paulo,Q111994543,2002,2004,male,,,,
+Angola,Governor of Luanda Province,Job Pedro Castelo Capapinha,Q111974283,2004,2008,male,1962-05-09,,,
+Angola,Governor of Luanda Province,Francisca de Fátima Do Espírito Santo Carvalho,Q111974725,2008,2010,female,,,,
+Angola,Governor of Luanda Province,José Maria Ferraz dos Santos,Q111975103,2010,2011,male,,,,
+Angola,Governor of Luanda Province,Bento Joaquim Sebastião Francisco Bento,Q16497857,2012,2014,male,1958,,,
+Angola,Governor of Luanda Province,Graciano Francisco Domingos,Q111994548,2015,2016,male,,,,
+Angola,Governor of Luanda Province,Francisco Lopes Higino Carneiro,Q5483447,2016,2017,male,1955-07-08,,,Higino Carneiro
+Angola,Governor of Luanda Province,Adriano Mendes de Carvalho,Q111994450,2017,2019,male,1959-09-16,,,
+Angola,Governor of Luanda Province,Sérgio Luther Rescova Joaquim,Q111974374,2019,2020,male,,,,
+Angola,Governor of Luanda Province,Joana Lina Ramos Baptista Cândido,Q111974278,2020,2021,female,,,,
+Angola,Governor of Luanda Province,Ana Paula de Carvalho,Q111954367,2021,,,1971-06-21,,,
+Angola,Governor of Lunda Norte Province,Manuel Francisco Gomes Maiato,Q111994559,1997,2008,male,,,,
+Angola,Governor of Lunda Norte Province,Ernesto Muangala,Q97496861,2008,,male,1961-07-31,,,
+Angola,Governor of Lunda Sul Province,Francisco Sozinho Chihuissa,Q111994573,1999,2002,male,,,,
+Angola,Governor of Lunda Sul Province,Miji Muachissengue,Q111994574,2002,2008,male,,,,
+Angola,Governor of Lunda Sul Province,Cândida Maria Guilherme Narciso,Q111974248,2008,2017,female,,,,
+Angola,Governor of Lunda Sul Province,Ernesto Fernando Kiteculo,Q111994576,2017,2018,male,,,,
+Angola,Governor of Lunda Sul Province,Daniel Félix Neto,Q97496874,2018,,male,1979-06-11,,,
+Angola,Governor of Malanje Province,Flavio Joao Fernandes,Q105491317,1993,2002,,,,,
+Angola,Governor of Malanje Province,Cristóvão Domingos Francisco da Cunha,Q111994587,2002,2008,male,,,,
+Angola,Governor of Malanje Province,Norberto Fernandes dos Santos,Q111994591,2012,,male,1948-02-15,,,
+Angola,Governor of Moxico Province,João Ernesto dos Santos,Q109984869,1992,2017,male,1954-01-15,,,
+Angola,Governor of Moxico Province,Goncalves Manuel Muandumba,Q111954382,2017,,,1957-03-06,,,
+Angola,Governor of Namibe Province,Salomão José Luheto Xirimbimbi,Q111974366,1999,2002,male,,,,
+Angola,Governor of Namibe Province,Álvaro Manuel de Boavida Neto,Q111975113,2002,2009,male,,,,
+Angola,Governor of Namibe Province,Cândida Celeste da Silva,Q51883210,2009,2012,female,,,,
+Angola,Governor of Namibe Province,Isaac Francisco Maria dos Anjos,Q105491321,2012,2013,,,,,
+Angola,Governor of Namibe Province,Rui Luís Falcão Pinto de Andrade,Q111975111,2013,2017,male,,,,
+Angola,Governor of Namibe Province,Carlos da Rocha Cruz,Q111974700,2017,2019,male,,,,
+Angola,Governor of Namibe Province,Archer Mangueira,Q60918484,2019,,male,1962-09-26,,,
+Angola,Governor of Uíge Province,Cordeiro Ernesto Nzakundomba,Q111994633,1999,2002,male,,,,
+Angola,Governor of Uíge Province,Lázaro Xixima,Q111994629,2002,2004,male,,,,
+Angola,Governor of Uíge Province,António Bento Kangulo,Q111994638,2004,2008,male,,,,
+Angola,Governor of Uíge Province,Mawete João Baptista,Q6794396,2008,2009,male,1968-03-20,,,Mawete João Baptista
+Angola,Governor of Uíge Province,Paulo Pombolo,Q111974356,2009,2017,male,,,,
+Angola,Governor of Uíge Province,Mpinda Simao,Q111954415,2017,2020,,,,,
+Angola,Governor of Uíge Province,Sérgio Luther Rescova Joaquim,Q111974374,2020,2020,male,,,,
+Angola,Governor of Uíge Province,José Carvalho da Rocha,Q18276312,2020,,male,1964-03-30,,"José Carvalho da Rocha, 7 October 2015.jpg",
+Angola,Governor of Zaire Province,Ludy Kissassunda,Q111994655,1995,2004,male,,,,
+Angola,Governor of Zaire Province,Pedro Sebastião,Q111994658,2004,2012,male,,,,
+Angola,Governor of Zaire Province,José Joanes André,Q111994660,2012,2018,male,,,,
+Angola,Governor of Zaire Province,Pedro Makita Armando Júlia,Q111974359,2018,,male,1958-12-12,,,
+Angola,ambassador to Azerbaijan,Joaquim Augusto de Lemos,Q20559814,2013-11,,male,,,Joaquim Augusto de Lemos.jpg,
+Angola,ambassador to Belarus,Joaquim Augusto de Lemos,Q20559814,2013-04,,male,,,Joaquim Augusto de Lemos.jpg,
+Angola,ambassador to Belgium,Armando Mateus Cadete,Q111993703,2001-01-23,,male,,,,
+Angola,ambassador to Canada,Miguel Maria N'Zau Puna,Q6844661,2000-09,2008,male,,,,Miguel Maria N'Zau Puna
+Angola,ambassador to Chad,António Luvualu de Carvalho,Q111993752,2021-08,,male,,,,
+Angola,ambassador to Egypt,Hendrick Vaal Neto,Q5713736,2006-01-27,2011-09-12,male,1944-11-22,,,Hendrick Vaal Neto
+Angola,ambassador to France,Ambrósio Lukoki,Q4741928,2002,2006,male,1940-12-07,2018-10-01,,Ambrósio Lukoki
+Angola,ambassador to France,Victor Manuel Rita da Fonseca Lima,Q23304145,2008-08,2009-01,male,1953,,,
+Angola,ambassador to France,Miguel da Costa,Q111993727,2009-01,,male,,,,
+Angola,ambassador to Gabon,Emilio Jose de Carvalho Guerra,Q111993636,2001-01-23,,male,,,,
+Angola,ambassador to Guinea-Bissau,Brito Sozinho,Q4971495,2006,2011,male,,,Brito Sozinho.jpg,Brito Sozinho
+Angola,ambassador to India,Ana Maria Teles Carreira,Q4750416,2001-01-23,,female,,,,Ana Maria Teles Carreira
+Angola,ambassador to Israel,Jose João Manuel,Q6279399,2001-01-23,,male,,,,José João Manuel
+Angola,ambassador to Japan,Victor Manuel Rita da Fonseca Lima,Q23304145,2001-01-23,2006,male,1953,,,
+Angola,ambassador to Mozambique,Brito Sozinho,Q4971495,2014,,male,,,Brito Sozinho.jpg,Brito Sozinho
+Angola,ambassador to Nigeria,Brito Sozinho,Q4971495,1987,2000,male,,,Brito Sozinho.jpg,Brito Sozinho
+Angola,ambassador to the Russian Federation,Joaquim Augusto de Lemos,Q20559814,2011-11,,male,,,Joaquim Augusto de Lemos.jpg,
+Angola,ambassador to Spain,Victor Manuel Rita da Fonseca Lima,Q23304145,2009-01,2009-09,male,1953,,,
+Angola,ambassador to Sweden,Leovigildo Da Costa Silva,Q111993666,2001-01-23,,male,,,,
+Angola,ambassador to Sweden,Brito Sozinho,Q4971495,2011,2014,male,,,Brito Sozinho.jpg,Brito Sozinho
+Angola,ambassador to Tanzania,Brito Sozinho,Q4971495,2000,2006,male,,,Brito Sozinho.jpg,Brito Sozinho
+Angola,ambassador to Tanzania,Ambrósio Lukoki,Q4741928,2006,2018,male,1940-12-07,2018-10-01,,Ambrósio Lukoki
+Angola,ambassador to Turkmenistan,Joaquim Augusto de Lemos,Q20559814,2012-07,,male,,,Joaquim Augusto de Lemos.jpg,
+Angola,ambassador to Ukraine,Joaquim Augusto de Lemos,Q20559814,2012-07,,male,,,Joaquim Augusto de Lemos.jpg,
+Angola,ambassador to the United Kingdom,Ana Maria Teles Carreira,Q4750416,2005-11,,female,,,,Ana Maria Teles Carreira
+Angola,ambassador to the United Kingdom,Rui Jorge C. Mangueira,Q111993766,2018-03,2019-10,male,,,,
+Angola,ambassador to the United States of America,Josefina Perpetua Pitra Diakidi,Q111993630,2001-01-23,,female,,,,
+Angola,ambassador to Zimbabwe,Joaquim Augusto de Lemos,Q20559814,2001-01-23,,male,,,Joaquim Augusto de Lemos.jpg,
 Angola,Permanent Representative to the United Nations,Daniel António Rosa,Q111781929,2006,2011,male,,,,
 Angola,Permanent Representative to the United Nations,Maria de Jesus dos Reis Ferreira,Q60868951,2018,,female,,,2011 Maria de Jesus dos Reis Ferreira (6172420884) (cropped).jpg,Maria de Jesus dos Reis Ferreira

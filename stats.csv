@@ -4,7 +4,7 @@ aland,9,23,2,23
 albania,22,67,133,173
 algeria,39,84,10,91
 andorra,16,43,20,51
-angola,26,137,369,479
+angola,26,212,369,528
 anguilla,5,8,7,14
 antigua-and-barbuda,16,28,1,28
 argentina,55,216,911,1049
@@ -12,7 +12,7 @@ armenia,19,95,320,390
 artsakh,5,23,0,23
 aruba,13,23,3,23
 australia,73,531,1782,1949
-austria,24,158,761,860
+austria,25,160,761,862
 azerbaijan,41,64,146,206
 bahamas,28,61,5,61
 bangladesh,34,104,407,469
@@ -39,7 +39,7 @@ chile,31,278,390,610
 china,37,173,5399,5511
 colombia,24,214,45,246
 congo-kinshasa,5,24,16,39
-croatia,23,98,158,239
+croatia,23,101,158,242
 cyprus,24,121,183,273
 czechia,26,248,1436,1546
 denmark,29,136,601,633
@@ -124,9 +124,9 @@ pakistan,49,240,1476,1622
 panama,17,89,3,91
 paraguay,24,33,16,45
 peru,24,359,309,633
-philippines,35,262,662,855
+philippines,35,265,662,858
 poland,28,234,538,719
-portugal,23,104,477,551
+portugal,23,106,478,554
 qatar,23,31,0,31
 romania,30,420,1147,1347
 russia,40,370,2198,2509
@@ -173,4 +173,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,898,1004
-TOTAL,4418,22997,84825,101014
+TOTAL,4419,23082,84826,101074
