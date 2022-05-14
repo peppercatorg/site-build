@@ -563,7 +563,6 @@ European Union,Q39314,Romana Jordan Cizelj,spouse,Q91242349,Leon Cizelj
 European Union,Q39659,Jacques Santer,child,Q7147587,Patrick Santer
 European Union,Q39659,Jacques Santer,spouse,Q40786114,Danièle Binot
 European Union,Q40655898,Jordan Bardella,partner,Q109855685,Nolwenn Olivier
-European Union,Q40655898,Jordan Bardella,spouse,Q49169204,Kelly Betesh
 European Union,Q41395,José Luis Rodríguez Zapatero,spouse,Q107142558,Sonsoles Espinosa Díaz
 European Union,Q432093,Nadezhda Neynski,spouse,Q100741328,Svetlin Neynski
 European Union,Q432093,Nadezhda Neynski,spouse,Q107010807,Камен Михайлов
@@ -718,6 +717,8 @@ European Union,Q571803,Maciej Giertych,child,Q55937,Roman Giertych
 European Union,Q57279,Traian Băsescu,child,Q271266,Elena Băsescu
 European Union,Q57279,Traian Băsescu,spouse,Q18684617,Maria Băsescu
 European Union,Q57289,Toomas Hendrik Ilves,child,Q110776776,Luukas Ilves
+European Union,Q57289,Toomas Hendrik Ilves,father,Q30609359,Endel Ilves
+European Union,Q57289,Toomas Hendrik Ilves,sibling,Q4756116,Andres Ilves
 European Union,Q57289,Toomas Hendrik Ilves,spouse,Q15995302,Merry Bullock
 European Union,Q57289,Toomas Hendrik Ilves,spouse,Q21862825,Ieva Ilves
 European Union,Q57289,Toomas Hendrik Ilves,spouse,Q299339,Evelin Ilves
