@@ -3,7 +3,7 @@ country,slug,repo,source
 Albania,albania,albania-cabinet,https://kryeministria.al/
 Algeria,algeria,algeria-cabinet,http://www.premier-ministre.gov.dz/
 Andorra,andorra,andorra-cabinet,https://www.govern.ad/
-Angola,angola,angola-ministers,https://governo.gov.ao/
+Angola,angola,angola,https://governo.gov.ao/
 Anguilla,anguilla,anguilla-cabinet,http://www.gov.ai/
 Antigua and Barbuda,antigua-and-barbuda,antigua-barbuda-ministers,https://ab.gov.ag/
 Argentina,argentina,argentina-ministers,https://mapadelestado.jefatura.gob.ar/
@@ -55,7 +55,7 @@ Gibraltar,gibraltar,gibraltar-cabinet,https://www.gibraltar.gov.gi/
 Greece,greece,greece-cabinet,https://government.gov.gr/
 Greenland,greenland,greenland-cabinet,https://naalakkersuisut.gl/
 Guatemala,guatemala,guatemala-ministers,
-Hong Kong,hong-kong,hong-kong-ministers,https://www.ceo.gov.hk/
+Hong Kong,hong-kong,hong-kong,https://www.ceo.gov.hk/
 Hungary,hungary,hungary-cabinet,https://kormany.hu/
 Iceland,iceland,iceland-cabinet,https://www.government.is/
 India,india,india-ministers,https://www.india.gov.in/
@@ -95,7 +95,7 @@ Mongolia,mongolia,mongolia-ministers,
 Montenegro,montenegro,montenegro-cabinet,https://www.gov.me/
 Montserrat,montserrat,montserrat-ministers,https://www.gov.ms/
 Morocco,morocco,morocco-ministers,https://www.maroc.ma/
-Mozambique,mozambique,mozambique-ministers,https://www.portaldogoverno.gov.mz/
+Mozambique,mozambique,mozambique,https://www.portaldogoverno.gov.mz/
 Namibia,namibia,namibia-ministers,https://opm.gov.na/
 Nauru,nauru,nauru-ministers,http://naurugov.nr/
 Nepal,nepal,nepal-ministers,https://www.opmcm.gov.np/
