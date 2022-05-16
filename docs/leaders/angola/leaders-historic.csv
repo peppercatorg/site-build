@@ -29,8 +29,8 @@ Angola,Minister of Defence,Cândido Pereira dos Santos Van-Duném,Q111954374,201
 Angola,Minister of Defence,João Lourenço,Q28650390,2014-04-22,2017-09-26,male,1954-03-05,,2018-07-04 President João Lourenço-0555.jpg,João Lourenço
 Angola,Minister of Defence,Salviano de Jesus Sequeira,Q111954424,2017-09-26,2020-01-17,,,,,
 Angola,Minister of Defence,João Ernesto dos Santos,Q109984869,2020-04-06,,male,1954-01-15,,,
-Angola,Minister of Economic and Social Development,Manuel Nunes Junior,Q111954409,2017-09-26,2020-01-17,,,,,
-Angola,Minister of Economy,Manuel Nunes Junior,Q111954409,2008-10-03,2010-09-27,,,,,
+Angola,Minister of Economic and Social Development,Manuel Nunes Junior,Q111954409,2017-09-26,2020-01-17,male,1961-12-06,,,
+Angola,Minister of Economy,Manuel Nunes Junior,Q111954409,2008-10-03,2010-09-27,male,1961-12-06,,,
 Angola,Minister of Economy,Abraão Gourgel,Q17064757,2010-09-27,2017-09-26,male,1961-11-11,,Abrahão Pio dos Santos Gourgel.jpg,Abraão Gourgel
 Angola,Minister of Economy and Planning,Pedro Luís da Fonseca,Q51120777,2017-09-26,2019-07-24,male,1957-11-17,,Pedro Luís da Fonseca.png,Pedro Luís da Fonseca
 Angola,Minister of Economy and Planning,Manuel Neto da Costa,Q23892778,2019-07-24,2020-01-17,male,,,,
@@ -123,7 +123,7 @@ Angola,Minister of Telecommunications and Information Technologies,Manuel Homem,
 Angola,Minister of Territorial Administration,Fernando Faustino Muteka,Q3069456,1997-04-09,2004-10-23,male,1944-01,,,Fernando Faustino Muteka
 Angola,Minister of Territorial Administration,Bornito de Sousa,Q16336949,2010-02-06,2017-09-26,male,1953-07-23,,"Bornito de Sousa, 2017 (cropped).jpg",Bornito de Sousa
 Angola,Minister of Territorial Administration,Marcy Cláudio Lopes,Q109984867,2020-04-06,,male,1981-12-06,,,
-Angola,Minister of Territory and State Reform,Adao Francisco Correia de Almeida,Q111954166,2017-09-26,2020-01-17,,,,,
+Angola,Minister of Territory and State Reform,Adao Francisco Correia de Almeida,Q111954166,2017-09-26,2020-01-17,male,1979-05-13,,,
 Angola,Minister of Trade,Joaquim Ekuma Muafumua,Q111954387,2004-10-23,2008-10-03,,,,,
 Angola,Minister of Trade,Maria Valente,Q51883409,2008-10-03,2010-02-06,female,1959-08-31,,,
 Angola,Minister of Trade,Rosa Pedro Pacavira de Matos,Q111954423,2012-09-26,2016-03-07,,,,,
@@ -157,6 +157,27 @@ Angola,Chief of General Staff,Agostinho Fernandes Nelumb,Q111937234,2003,2006,ma
 Angola,Chief of General Staff,Francisco Pereira Furtado,Q111937240,2006,2010,male,,,,
 Angola,Chief of General Staff,Geraldo Nunda,Q105452385,2010-10-06,2018-04-23,male,1952,,,Geraldo Nunda
 Angola,Chief of General Staff,António Egídio de Sousa Santos,Q109984935,2018-04-23,,male,,,,
+Angola,Attorney General,Domingos Culolo,Q5290422,1993,2002,male,1941,,,Domingos Culolo
+Angola,Attorney General,Augusto da Costa Carneiro,Q112038654,2002,2007,male,,,,
+Angola,Attorney General,João Maria de Sousa,Q6298252,2007,2017,male,1951,,,João Maria de Sousa
+Angola,Attorney General,Hélder Fernando Pitta Grós,Q112038655,2017,,male,,,,
+Angola,Vice-President of the National Assembly,Almerindo Jaka Jamba,Q4733786,2002,2004,male,1949-03-21,2018-04-01,,Almerindo Jaka Jamba
+Angola,Chief of Staff of the President,Adao Francisco Correia de Almeida,Q111954166,2020,,male,1979-05-13,,,
+Angola,Director of the Office of the President,Edeltrudes Costa,Q100454932,2017-09-27,,male,,,,
+Angola,Minister of State for Economic Coordination,Manuel Nunes Junior,Q111954409,2017-09-30,,male,1961-12-06,,,
+Angola,Minister of State for Social Affairs,Carolina Cerqueira,Q5044792,2019,,female,1956-10-20,,,Carolina Cerqueira
+Angola,Head of Security Affairs,Francisco Pereira Furtado,Q111937240,2021-05,,male,,,,
+Angola,Inspector General of the State Administration,Sebastião Domingos Gunza,Q112040242,2017-09-27,,male,,,,
+Angola,Secretary General of the President,Félix de Jesus Cala,Q112040244,2017-09-27,,,,,,
+Angola,Secretary for Diplomatic Affairs and International Cooperation,Victor Manuel Rita da Fonseca Lima,Q23304145,2017-09-27,,male,1953,,,
+Angola,Secretary for Economic Affairs,Victor Hugo Guilherme,Q112040283,2017-09-27,,male,1959-03-24,,,
+Angola,Secretary for Institutional Communication and Press Affairs,Luís Fernando,Q112040294,2017-09-27,,male,1961-10-01,,,
+Angola,Secretary for Judicial and Legal Affairs,Francisco João de Carvalho Neto,Q112040285,2017-09-27,,male,,,,
+Angola,Secretary for Political and Parliamentary Affairs,Fernando Bartolomeu Cativa,Q111974267,2017-09-27,,male,1978-04-09,,,
+Angola,Secretary for the Productive Sector,Isaac Francisco Maria dos Anjos,Q105491321,2017-10,,,,,,
+Angola,Secretary for Social Affairs,Maria de Fátima Republicano de Lima Viegas,Q112040291,2017-09-27,,female,,,,
+Angola,Secretary for State Reform,Pedro Fiete Correia Raimundo,Q112040288,2017-09-27,,male,1986-03-31,,,
+Angola,Director of the Cabinet Office,Edson Ulisses de Carvalho Alves Barreto,Q112040296,2017-09-27,,male,,,,
 Angola,Governor of Bengo Province,Isalino Samuel Mendes,Q97482147,1994,2004,male,,,,
 Angola,Governor of Bengo Province,Jorge Inocêncio Dombolo,Q97482111,2004,2009,male,,,,
 Angola,Governor of Bengo Province,João Bernardo de Miranda,Q3187284,2009,2018,male,1953-07-18,,João Bernardo de Miranda.jpg,João Bernardo de Miranda
@@ -248,36 +269,70 @@ Angola,Governor of Uíge Province,Mpinda Simao,Q111954415,2017,2020,,,,,
 Angola,Governor of Uíge Province,Sérgio Luther Rescova Joaquim,Q111974374,2020,2020,male,,,,
 Angola,Governor of Uíge Province,José Carvalho da Rocha,Q18276312,2020,,male,1964-03-30,,"José Carvalho da Rocha, 7 October 2015.jpg",
 Angola,Governor of Zaire Province,Ludy Kissassunda,Q111994655,1995,2004,male,,,,
-Angola,Governor of Zaire Province,Pedro Sebastião,Q111994658,2004,2012,male,,,,
+Angola,Governor of Zaire Province,Pedro Sebastiao,Q105491346,2004,2012,male,,,,
 Angola,Governor of Zaire Province,José Joanes André,Q111994660,2012,2018,male,,,,
 Angola,Governor of Zaire Province,Pedro Makita Armando Júlia,Q111974359,2018,,male,1958-12-12,,,
+Angola,ambassador to Austria,Teodolinda Rosa Rodrigues Coelho,Q100268168,2018,,female,1959-08-02,,2020 Teodolinda Rosa Rodrigues Coelho (01119701) (50368677702) (cropped).jpg,Teodolinda Rosa Rodrigues Coelho
 Angola,ambassador to Azerbaijan,Joaquim Augusto de Lemos,Q20559814,2013-11,,male,,,Joaquim Augusto de Lemos.jpg,
 Angola,ambassador to Belarus,Joaquim Augusto de Lemos,Q20559814,2013-04,,male,,,Joaquim Augusto de Lemos.jpg,
 Angola,ambassador to Belgium,Armando Mateus Cadete,Q111993703,2001-01-23,,male,,,,
+Angola,ambassador to Belgium,Maria Elizabeth Simbrão de Carvalho,Q93920282,2009-04,2018-02,female,,,,Maria Elizabeth Simbrão de Carvalho
+Angola,ambassador to Belgium,Georges Rebelo Chicoti,Q1457599,2018,2020-03,male,1955-06-16,,Angolan Foreign Minister (6909347265) cropped.jpg,Georges Rebelo Chikoti
+Angola,ambassador to Botswana,Pedro Fernando Mavunza,Q7159569,2007,,male,1934-08-24,,,Pedro Fernando Mavunza
+Angola,ambassador to Brazil,Alberto Correia Neto,Q94970990,2000,2006,male,1949-07-08,,,
+Angola,ambassador to Brazil,Florêncio Mariano de Almeida,Q112038476,2018-12,,male,,,,
 Angola,ambassador to Canada,Miguel Maria N'Zau Puna,Q6844661,2000-09,2008,male,,,,Miguel Maria N'Zau Puna
 Angola,ambassador to Chad,António Luvualu de Carvalho,Q111993752,2021-08,,male,,,,
+Angola,ambassador to China,Manuel Bernardo de Sousa,Q59180833,1993,2002,male,1931-08-01,2013-06-20,,Manuel Bernardo de Sousa
+Angola,ambassador to China,João Manuel Bernardo,Q6298234,2002,2011,male,,,,João Manuel Bernardo
+Angola,ambassador to China,João Garcia Bires,Q112038625,2011-12,,male,1944-02-27,,,
+Angola,ambassador to Cuba,João Manuel Bernardo,Q6298234,1996,2002,male,,,,João Manuel Bernardo
 Angola,ambassador to Egypt,Hendrick Vaal Neto,Q5713736,2006-01-27,2011-09-12,male,1944-11-22,,,Hendrick Vaal Neto
+Angola,ambassador to Egypt,Nelson Manuel Cosme,Q112032211,2019-07-15,,male,,,,
+Angola,ambassador to France,Assunção dos Anjos,Q58306,2000,2002,male,1946-02-13,,Assuncao dos Anjos.jpg,Assunção dos Anjos
 Angola,ambassador to France,Ambrósio Lukoki,Q4741928,2002,2006,male,1940-12-07,2018-10-01,,Ambrósio Lukoki
 Angola,ambassador to France,Victor Manuel Rita da Fonseca Lima,Q23304145,2008-08,2009-01,male,1953,,,
 Angola,ambassador to France,Miguel da Costa,Q111993727,2009-01,,male,,,,
 Angola,ambassador to Gabon,Emilio Jose de Carvalho Guerra,Q111993636,2001-01-23,,male,,,,
+Angola,ambassador to Gabon,Lizeth Nawanga Satumbo Pena,Q112032225,2019-07-15,,female,,,,
+Angola,ambassador to Germany,Alberto Correia Neto,Q94970990,2011,,male,1949-07-08,,,
 Angola,ambassador to Guinea-Bissau,Brito Sozinho,Q4971495,2006,2011,male,,,Brito Sozinho.jpg,Brito Sozinho
+Angola,ambassador to Hungary,José Filipe,Q112032218,2019-07-15,,male,,,,
 Angola,ambassador to India,Ana Maria Teles Carreira,Q4750416,2001-01-23,,female,,,,Ana Maria Teles Carreira
 Angola,ambassador to Israel,Jose João Manuel,Q6279399,2001-01-23,,male,,,,José João Manuel
+Angola,ambassador to Italy,Manuel Pedro Pacavira,Q6752791,2005,2011,male,1939,2016-09-12,,Manuel Pedro Pacavira
+Angola,ambassador to Ivory Coast,Gilberto Buta Lutucuta,Q5561350,2007-12,,male,,,,Gilberto Buta Lutucuta
 Angola,ambassador to Japan,Victor Manuel Rita da Fonseca Lima,Q23304145,2001-01-23,2006,male,1953,,,
 Angola,ambassador to Mozambique,Brito Sozinho,Q4971495,2014,,male,,,Brito Sozinho.jpg,Brito Sozinho
 Angola,ambassador to Nigeria,Brito Sozinho,Q4971495,1987,2000,male,,,Brito Sozinho.jpg,Brito Sozinho
+Angola,ambassador to Poland,Domingos Culolo,Q5290422,2011,2019,male,1941,,,Domingos Culolo
+Angola,ambassador to Poland,Feliciano António Dos Santos,Q112038592,2020-01,,male,,,,
+Angola,ambassador to the Russian Federation,Samuel Tito Armando,Q7412785,2006,2009,male,1957,2009-08-06,Vladimir Putin with Samuel Tito Armando.jpg,Samuel Tito Armando
 Angola,ambassador to the Russian Federation,Joaquim Augusto de Lemos,Q20559814,2011-11,,male,,,Joaquim Augusto de Lemos.jpg,
+Angola,ambassador to Singapore,Elísio de Figueiredo,Q5368683,2002,2006,male,,,,Elísio de Figueiredo
+Angola,ambassador to Slovakia,Domingos Culolo,Q5290422,2002,2006,male,1941,,,Domingos Culolo
+Angola,ambassador to South Africa,Miguel Neto,Q6844700,2005,2011,male,,,,Miguel Neto
+Angola,ambassador to South Africa,Josefina Pitra Diakité,Q6280350,2011-06-07,2017-10,female,,,Josefina Pitra Diakite.jpg,Josefina Pitra Diakité
 Angola,ambassador to Spain,Victor Manuel Rita da Fonseca Lima,Q23304145,2009-01,2009-09,male,1953,,,
+Angola,ambassador to Sweden,Josefina Pitra Diakité,Q6280350,1993,2000,female,,,Josefina Pitra Diakite.jpg,Josefina Pitra Diakité
 Angola,ambassador to Sweden,Leovigildo Da Costa Silva,Q111993666,2001-01-23,,male,,,,
+Angola,ambassador to Sweden,Domingos Culolo,Q5290422,2006,2011,male,1941,,,Domingos Culolo
 Angola,ambassador to Sweden,Brito Sozinho,Q4971495,2011,2014,male,,,Brito Sozinho.jpg,Brito Sozinho
 Angola,ambassador to Tanzania,Brito Sozinho,Q4971495,2000,2006,male,,,Brito Sozinho.jpg,Brito Sozinho
 Angola,ambassador to Tanzania,Ambrósio Lukoki,Q4741928,2006,2018,male,1940-12-07,2018-10-01,,Ambrósio Lukoki
 Angola,ambassador to Turkmenistan,Joaquim Augusto de Lemos,Q20559814,2012-07,,male,,,Joaquim Augusto de Lemos.jpg,
 Angola,ambassador to Ukraine,Joaquim Augusto de Lemos,Q20559814,2012-07,,male,,,Joaquim Augusto de Lemos.jpg,
 Angola,ambassador to the United Kingdom,Ana Maria Teles Carreira,Q4750416,2005-11,,female,,,,Ana Maria Teles Carreira
+Angola,ambassador to the United Kingdom,Miguel Neto,Q6844700,2012,,male,,,,Miguel Neto
 Angola,ambassador to the United Kingdom,Rui Jorge C. Mangueira,Q111993766,2018-03,2019-10,male,,,,
 Angola,ambassador to the United States of America,Josefina Perpetua Pitra Diakidi,Q111993630,2001-01-23,,female,,,,
+Angola,ambassador to the United States of America,Josefina Pitra Diakité,Q6280350,2001-03-23,2011-09-01,female,,,Josefina Pitra Diakite.jpg,Josefina Pitra Diakité
+Angola,ambassador to the United States of America,Alberto do Carmo Bento Ribeiro,Q18237182,2011-09,,male,1941-12-21,,,
+Angola,ambassador to the United States of America,Joaquim do Espirito Santo,Q107343336,2016,,male,1959,,,Joaquim do Espirito Santo
+Angola,ambassador to Vietnam,João Manuel Bernardo,Q6298234,2011,,male,,,,João Manuel Bernardo
 Angola,ambassador to Zimbabwe,Joaquim Augusto de Lemos,Q20559814,2001-01-23,,male,,,Joaquim Augusto de Lemos.jpg,
+Angola,Permanent Representative to the United Nations,José Patrício,Q6293678,2000,2001,male,,,,José Patrício
+Angola,Permanent Representative to the United Nations,Ismael Martins,Q5526551,2001-05,,male,1940-01-12,,,Ismael Martins
 Angola,Permanent Representative to the United Nations,Daniel António Rosa,Q111781929,2006,2011,male,,,,
 Angola,Permanent Representative to the United Nations,Maria de Jesus dos Reis Ferreira,Q60868951,2018,,female,,,2011 Maria de Jesus dos Reis Ferreira (6172420884) (cropped).jpg,Maria de Jesus dos Reis Ferreira
+Angola,Permanent Representative to the United Nations,Margarida Rosa da Silva Izata,Q67365647,2018-05,,female,1958-07-10,,Margarida Rosa da Silva Izata - 48438.jpg,Margarida Rosa da Silva Izata
