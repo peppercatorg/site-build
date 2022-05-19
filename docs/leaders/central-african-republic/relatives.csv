@@ -1,4 +1,12 @@
 catalog,id,name,relationship,relative,relativename
 Central African Republic,Q106103476,Anatole Koué,relative,Q310883,André Kolingba
+Central African Republic,Q112074280,Cyriaque Samba Panza,spouse,Q15633683,Catherine Samba-Panza
+Central African Republic,Q15633683,Catherine Samba-Panza,spouse,Q112074280,Cyriaque Samba Panza
 Central African Republic,Q15713200,Desire Kolingba,father,Q310883,André Kolingba
+Central African Republic,Q3165388,Jean-Francis Bozizé,father,Q57452,François Bozizé
 Central African Republic,Q57452,François Bozizé,child,Q3165388,Jean-Francis Bozizé
+Central African Republic,Q6170003,Jean-Serge Bokassa,father,Q162708,Jean-Bedel Bokassa
+Central African Republic,Q6170003,Jean-Serge Bokassa,relative,Q3164550,Jean-Barthélémy Bokassa
+Central African Republic,Q6170003,Jean-Serge Bokassa,relative,Q4154488,Catherine Denguiadé
+Central African Republic,Q6170003,Jean-Serge Bokassa,sibling,Q20965823,Georges Bokassa
+Central African Republic,Q6170003,Jean-Serge Bokassa,sibling,Q3359807,Jean-Bédel Bokassa Jr.
