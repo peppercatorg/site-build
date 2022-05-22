@@ -47,6 +47,15 @@ UAE,Q167846,Zayed bin Sultan Al Nahyan,sibling,Q2661904,Shakhbut bin Sultan Al N
 UAE,Q167846,Zayed bin Sultan Al Nahyan,spouse,Q16730773,Mouza bint Suhail Al Khaili
 UAE,Q167846,Zayed bin Sultan Al Nahyan,spouse,Q4120127,Fatima bint Mubarak Al Ketbi
 UAE,Q167846,Zayed bin Sultan Al Nahyan,spouse,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan
+UAE,Q1951896,Mohammed bin Zayed Al Nahyan,child,Q47499755,Khalid bin Mohammed bin Zayed Al Nahyan
+UAE,Q1951896,Mohammed bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
+UAE,Q1951896,Mohammed bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
+UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
+UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
+UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q556607,Mansour bin Zayed Al Nahyan
+UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
+UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q58301,Abdullah bin Zayed Al Nahyan
+UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
 UAE,Q215477,Maktoum bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Maktoum
 UAE,Q215477,Maktoum bin Rashid Al Maktoum,sibling,Q57655,Mohammed bin Rashid Al Maktoum
 UAE,Q215477,Maktoum bin Rashid Al Maktoum,sibling,Q712839,Hamdan bin Rashid Al Maktoum
@@ -82,6 +91,7 @@ UAE,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q2257104,Hind bint Maktoum bin 
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q272117,Princess Haya bint Al Hussein
 UAE,Q58301,Abdullah bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
 UAE,Q58301,Abdullah bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
+UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
 UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
 UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1951896,Mohammed bin Zayed Al Nahyan
 UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q556607,Mansour bin Zayed Al Nahyan
@@ -93,6 +103,7 @@ UAE,Q712839,Hamdan bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Mak
 UAE,Q712839,Hamdan bin Rashid Al Maktoum,sibling,Q57655,Mohammed bin Rashid Al Maktoum
 UAE,Q7400024,Saif bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
 UAE,Q7400024,Saif bin Zayed Al Nahyan,mother,Q16730773,Mouza bint Suhail Al Khaili
+UAE,Q7400024,Saif bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
 UAE,Q7400024,Saif bin Zayed Al Nahyan,sibling,Q2073929,Ahmed bin Zayed Al Nahyan
 UAE,Q7400024,Saif bin Zayed Al Nahyan,sibling,Q5644454,Hamed bin Zayed Al Nahyan
 UAE,Q754778,Sultan bin Mohamed Al-Qasimi,child,Q19601168,Bodour bint Sultan bin Muhammad Al Qasimi
