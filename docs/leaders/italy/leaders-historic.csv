@@ -1,7 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Italy,President,Carlo Azeglio Ciampi,Q1224,1999-05-18,2006-05-15,male,1920-12-09,2016-09-16,Ciampi ritratto.jpg,Carlo Azeglio Ciampi
 Italy,President,Giorgio Napolitano,Q1220,2006-05-15,2015-01-14,male,1925-06-29,,Presidente Napolitano.jpg,Giorgio Napolitano
-Italy,President,Sergio Mattarella,Q3956186,2015-02-03,,male,1941-07-23,,Presidente Mattarella.jpg,Sergio Mattarella
+Italy,President,Sergio Mattarella,Q3956186,2015-02-03,,male,1941-07-23,,Sergio Mattarella Presidente della Repubblica Italiana.jpg,Sergio Mattarella
 Italy,Prime Minister,Massimo D'Alema,Q47602,1999-12-22,2000-04-25,male,1949-04-20,,Massimo D'Alema ONU.jpg,Massimo D'Alema
 Italy,Prime Minister,Giuliano Amato,Q202209,2000-04-25,2001-06-11,male,1938-05-13,,Giuliano Amato - Festival Economia 2013.JPG,Giuliano Amato
 Italy,Prime Minister,Silvio Berlusconi,Q11860,2001-06-11,2005-04-23,male,1936-09-29,,Berlusconi incaricato premier 2008 - 2.jpg,Silvio Berlusconi
@@ -51,8 +51,8 @@ Italy,Minister of Cultural Heritage and Activities and Tourism,Dario Franceschin
 Italy,Minister of Cultural Heritage and Activities and Tourism,Alberto Bonisoli,Q54589931,2018-06-01,2019-09-05,male,1961-12-26,,Alberto Bonisoli at Castel SantAngelo (cropped).jpg,Alberto Bonisoli
 Italy,Minister of Cultural Heritage and Activities and Tourism,Dario Franceschini,Q388442,2019-09-05,2021-02-13,male,1958-10-19,,Dario Franceschini 2014.jpg,Dario Franceschini
 Italy,Minister of Cultural Heritage and Activities and Tourism,Dario Franceschini,Q388442,2021-02-13,,male,1958-10-19,,Dario Franceschini 2014.jpg,Dario Franceschini
-Italy,Minister of Defence,Sergio Mattarella,Q3956186,1999-12-22,2000-04-26,male,1941-07-23,,Presidente Mattarella.jpg,Sergio Mattarella
-Italy,Minister of Defence,Sergio Mattarella,Q3956186,2000-04-26,2001-06-11,male,1941-07-23,,Presidente Mattarella.jpg,Sergio Mattarella
+Italy,Minister of Defence,Sergio Mattarella,Q3956186,1999-12-22,2000-04-26,male,1941-07-23,,Sergio Mattarella Presidente della Repubblica Italiana.jpg,Sergio Mattarella
+Italy,Minister of Defence,Sergio Mattarella,Q3956186,2000-04-26,2001-06-11,male,1941-07-23,,Sergio Mattarella Presidente della Repubblica Italiana.jpg,Sergio Mattarella
 Italy,Minister of Defence,Antonio Martino,Q603390,2001-06-11,2005-04-23,male,1942-12-22,2022-03-05,Antonio Martino daticamera 2008.jpg,Antonio Martino
 Italy,Minister of Defence,Antonio Martino,Q603390,2005-04-23,2006-05-17,male,1942-12-22,2022-03-05,Antonio Martino daticamera 2008.jpg,Antonio Martino
 Italy,Minister of Defence,Arturo Parisi,Q715394,2006-05-17,2008-05-08,male,1940-09-13,,Arturo Parisi.jpg,Arturo Parisi
@@ -433,6 +433,7 @@ Italy,president of Trentino-South Tyrol,Arno Kompatscher,Q15074414,2017,,male,19
 Italy,president of Tuscany,Vannino Chiti,Q3554631,1992-01-11,2000-05-18,male,1947-12-26,,Vannino Chiti datisenato 2013.jpg,Vannino Chiti
 Italy,president of Tuscany,Claudio Martini,Q2978542,2000-05-18,2010-04-16,male,1951-01-10,,Claudio Martini datisenato 2013.jpg,Claudio Martini
 Italy,president of Tuscany,Enrico Rossi,Q1238359,2010-04-16,,male,1958-08-25,,Enrico Rossi.JPG,Enrico Rossi (politician)
+Italy,president of Umbria,Catiuscia Marini,Q1215567,2010-03-30,2019-05-28,female,1967-09-25,,Catiuscia Marini (cropped).jpg,Catiuscia Marini
 Italy,president of Umbria,Donatella Tesei,Q51027227,2019-11-11,,female,1958-06-17,,Donatella Tesei datisenato 2018.jpg,Donatella Tesei
 Italy,president of Veneto,Giancarlo Galan,Q730966,1995-04-23,2010-04-21,male,1956-09-10,,Giancarlo Galan daticamera.jpg,Giancarlo Galan
 Italy,president of Veneto,Luca Zaia,Q508338,2010-04-13,,male,1968-03-27,,Zaia.jpg,Luca Zaia

@@ -209,6 +209,8 @@ Spain,Q20908919,María Martín Revuelta,father,Q5698942,Antonio Martín Beaumont
 Spain,Q20963357,Jordi-Miquel Sendra i Vellvè,father,Q11928927,Josep Sendra i Navarro
 Spain,Q20978992,Alexis Frederic Marí Malonda,spouse,Q19320457,Carolina Punset
 Spain,Q21001076,Agustín Almodóbar Barceló,mother,Q11955794,Ángela María Barceló Martorell
+Spain,Q21001160,Elena Cebrián Calvo,relative,Q20006344,Rafael Cebrián Gimeno
+Spain,Q21001160,Elena Cebrián Calvo,spouse,Q27908151,Andreu Escrivà i Garcia
 Spain,Q21001393,Ferran Pedret i Santos,father,Q14623515,Jordi Pedret
 Spain,Q21001393,Ferran Pedret i Santos,mother,Q17036785,Lídia Santos i Arnau
 Spain,Q21001431,Georgina Rieradevall i Tarrés,sibling,Q21001432,Maria Rieradevall i Tarrés
@@ -312,6 +314,7 @@ Spain,Q3054705,Enrique Múgica,child,Q20165610,Daniel Múgica
 Spain,Q3054705,Enrique Múgica,sibling,Q8961365,Fernando Múgica
 Spain,Q3054705,Enrique Múgica,spouse,Q55767692,Tina Díaz
 Spain,Q3055462,Josep-Lluís Carod-Rovira,sibling,Q106956184,Apel·les Carod-Rovira
+Spain,Q3055462,Josep-Lluís Carod-Rovira,spouse,Q112073490,Teresa Comas
 Spain,Q3081437,Ignacio González González,relative,Q69541596,Pilar Cavero Mestre
 Spain,Q3081437,Ignacio González González,relative,Q69545566,Carmen Cavero Mestre
 Spain,Q3081437,Ignacio González González,sibling,Q36695544,Isabel Gema González González
@@ -451,6 +454,7 @@ Spain,Q4755077,Andrea Fabra Fernández,father,Q975901,Carlos Fabra
 Spain,Q4755077,Andrea Fabra Fernández,spouse,Q3815062,Juan José Güemes
 Spain,Q4779594,Ada Colau,partner,Q63395766,Adrià Alemany
 Spain,Q48033764,Enrique Ruiz Escudero,father,Q2840856,Carlos Ruiz Soto
+Spain,Q4889803,José Ramón García Antón,spouse,Q629815,Luisa Pastor Lillo
 Spain,Q4891621,Javier Madrazo Lavín,sibling,Q12261127,Julia Madrazo
 Spain,Q4891637,Isidre Molas i Batllori,father,Q19291177,Isidre Molas i Font
 Spain,Q4891637,Isidre Molas i Batllori,sibling,Q9012158,Joaquim Molas

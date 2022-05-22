@@ -139,6 +139,7 @@ Japan,Q2506910,Tatsuo Fukuda,father,Q101137,Yasuo Fukuda
 Japan,Q2506910,Tatsuo Fukuda,mother,Q73281,Kiyoko Fukuda
 Japan,Q250828,Yasuhiro Nakasone,child,Q937682,Hirofumi Nakasone
 Japan,Q250828,Yasuhiro Nakasone,father,Q11365117,Matsugorō Nakasone
+Japan,Q250828,Yasuhiro Nakasone,spouse,Q108110742,Tsutako Nakasone
 Japan,Q259722,Yuichiro Hata,father,Q315720,Tsutomu Hata
 Japan,Q261703,Yuriko Koike,father,Q47012448,Yujiro Koike
 Japan,Q261703,Yuriko Koike,mother,Q47012450,Emiko Koike
@@ -272,6 +273,7 @@ Japan,Q57647,Yoshihiko Noda,spouse,Q11645943,Hitomi Noda
 Japan,Q5986305,Ichiro Tsukada,spouse,Q11523118,Shiho Murayama
 Japan,Q6144667,Koreshige Anami,father,Q485453,Korechika Anami
 Japan,Q6144756,Hajime Ogawa,father,Q67498570,Ippei Ogawa
+Japan,Q614476,Tatsuya Ito,sibling,Q3482144,Shin Ito
 Japan,Q6203078,Jiro Aichi,father,Q6381623,Kazuo Aichi
 Japan,Q6378155,Katsunobu Kato,spouse,Q95683819,加藤周子
 Japan,Q6381645,Kazuo Kitagawa,father,Q11401146,Yoshikazu Kitagawa
@@ -317,6 +319,7 @@ Japan,Q9034256,Taichi Sakaiya,spouse,Q27151151,Chikako Ikeguchi
 Japan,Q926370,Motoo Hayashi,father,Q11532915,Taikan Hayashi
 Japan,Q937682,Hirofumi Nakasone,child,Q41770661,Yasutaka Nakasone
 Japan,Q937682,Hirofumi Nakasone,father,Q250828,Yasuhiro Nakasone
+Japan,Q937682,Hirofumi Nakasone,mother,Q108110742,Tsutako Nakasone
 Japan,Q967214,Takeo Nishioka,child,Q41771028,Hideko Nishioka
 Japan,Q992930,Nobuteru Ishihara,father,Q38849,Shintarō Ishihara
 Japan,Q992930,Nobuteru Ishihara,mother,Q11585241,Noriko Ishihara

@@ -178,6 +178,10 @@ Philippines,Q3135561,Grace Poe,sibling,Q3358903,Lovi Poe
 Philippines,Q3183552,Manuel Ortega,child,Q17371074,Francisco Ortega III
 Philippines,Q3303072,Herminia Roman,child,Q24250858,Geraldine Roman
 Philippines,Q3303072,Herminia Roman,spouse,Q15614280,Antonino P. Roman
+Philippines,Q3550636,Strike Revilla,father,Q7289865,"Ramon Revilla, Sr."
+Philippines,Q3550636,Strike Revilla,sibling,Q112077146,Rowena Bautista-Mendiola
+Philippines,Q3550636,Strike Revilla,sibling,Q112077167,Princess Revilla
+Philippines,Q3550636,Strike Revilla,sibling,Q919045,Bong Revilla
 Philippines,Q3720363,Rene Cayetano,child,Q19960435,Lino Cayetano
 Philippines,Q3720363,Rene Cayetano,child,Q442998,Pia Cayetano
 Philippines,Q3720363,Rene Cayetano,child,Q471883,Alan Peter Cayetano
@@ -247,6 +251,8 @@ Philippines,Q59514714,Rodolfo T. Albano III,spouse,Q12968454,Mylene Garcia-Alban
 Philippines,Q59515565,Isagani S. Amatong,sibling,Q104767262,Ernesto Amatong
 Philippines,Q59515565,Isagani S. Amatong,sibling,Q4596779,Prospero Amatong
 Philippines,Q59515565,Isagani S. Amatong,sibling,Q96065694,Jacobo Amatong
+Philippines,Q5969936,Lani Mercado,child,Q112077127,Ram Revilla
+Philippines,Q5969936,Lani Mercado,child,Q16231907,Jolo Revilla
 Philippines,Q5969936,Lani Mercado,spouse,Q919045,Bong Revilla
 Philippines,Q6081353,Isko Moreno,child,Q97255259,Joaquin Domagoso
 Philippines,Q6081353,Isko Moreno,mother,Q12970142,Rosario Moreno
@@ -316,6 +322,8 @@ Philippines,Q716649,Jesse Robredo,spouse,Q6761357,Leni Robredo
 Philippines,Q7240707,"Presbitero Velasco, Jr.",child,Q6678907,Lord Allan Jay Velasco
 Philippines,Q7240707,"Presbitero Velasco, Jr.",child,Q66809893,Tricia Nicole Velasco-Catera
 Philippines,Q7240707,"Presbitero Velasco, Jr.",spouse,Q66905332,Lorna Velasco
+Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q112077146,Rowena Bautista-Mendiola
+Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q112077167,Princess Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q3550636,Strike Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q7288569,Ram Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q919045,Bong Revilla
@@ -328,8 +336,11 @@ Philippines,Q7363244,Rommel Amatong,father,Q4596779,Prospero Amatong
 Philippines,Q7365285,Ronald Singson,father,Q2399446,Chavit Singson
 Philippines,Q7365285,Ronald Singson,sibling,Q65932997,Ryan Luis Singson
 Philippines,Q7701087,"Teodoro Locsin, Jr.",father,Q16015004,"Teodoro Locsín, Sr."
+Philippines,Q919045,Bong Revilla,child,Q112077127,Ram Revilla
 Philippines,Q919045,Bong Revilla,child,Q16231907,Jolo Revilla
 Philippines,Q919045,Bong Revilla,father,Q7289865,"Ramon Revilla, Sr."
+Philippines,Q919045,Bong Revilla,sibling,Q112077167,Princess Revilla
+Philippines,Q919045,Bong Revilla,sibling,Q3550636,Strike Revilla
 Philippines,Q919045,Bong Revilla,spouse,Q5969936,Lani Mercado
 Philippines,Q96105894,Weslie Gatchalian,sibling,Q2606208,Sherwin Gatchalian
 Philippines,Q96105894,Weslie Gatchalian,sibling,Q7319383,Rexlon Gatchalian

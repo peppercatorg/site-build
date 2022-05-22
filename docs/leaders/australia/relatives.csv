@@ -12,6 +12,7 @@ Australia,Q109860630,Greg Mirabella,spouse,Q7563039,Sophie Mirabella
 Australia,Q111305122,Ashton Hurn,relative,Q21598212,Brian Hurn
 Australia,Q111305122,Ashton Hurn,sibling,Q7488892,Shannon Hurn
 Australia,Q111513180,Jana Stewart,relative,Q77492799,Alice Kelly
+Australia,Q112078635,Dean Harriss,father,Q7151160,Paul Harriss
 Australia,Q1239291,Alexander Downer,child,Q56159193,Georgina Downer
 Australia,Q1239291,Alexander Downer,father,Q4714124,Alick Downer
 Australia,Q1239291,Alexander Downer,mother,Q6779338,Mary Downer
@@ -276,6 +277,7 @@ Australia,Q6968504,Natasha Stott Despoja,spouse,Q19879108,Ian Smith
 Australia,Q6988239,Neil Andrew,relative,Q90334712,Nicola Centofanti
 Australia,Q7027920,Nick Sherry,father,Q7298103,Ray Sherry
 Australia,Q7146371,Pat Dodson,sibling,Q6838143,Mick Dodson
+Australia,Q7151160,Paul Harriss,child,Q112078635,Dean Harriss
 Australia,Q7164452,Penny Wright,spouse,Q16193290,Mark Parnell
 Australia,Q7172455,Peter Abetz,sibling,Q964840,Eric Abetz
 Australia,Q7174695,Peter Hodgman,father,Q4909450,Bill Hodgman

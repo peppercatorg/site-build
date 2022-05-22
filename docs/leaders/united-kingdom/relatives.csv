@@ -1307,10 +1307,10 @@ United Kingdom,Q18753676,Philip Parham,sibling,Q385013,Coky Giedroyc
 United Kingdom,Q18753676,Philip Parham,sibling,Q6810704,Mel Giedroyc
 United Kingdom,Q18753676,Philip Parham,spouse,Q76335866,Anna Catherine Giedroyc
 United Kingdom,Q187562,"Ruth Deech, Baroness Deech",spouse,Q76335180,John Stewart Deech
-United Kingdom,Q1878797,"Lynda, Baroness Chalker of Wallasey",father,Q75561778,Sidney Henry James Bates
-United Kingdom,Q1878797,"Lynda, Baroness Chalker of Wallasey",mother,Q75561781,Marjorie Kathleen Randell
-United Kingdom,Q1878797,"Lynda, Baroness Chalker of Wallasey",spouse,Q75561777,Eric Robert Chalker
-United Kingdom,Q1878797,"Lynda, Baroness Chalker of Wallasey",spouse,Q75561783,Clive Landa
+United Kingdom,Q1878797,"Lynda Chalker, Baroness Chalker of Wallasey",father,Q75561778,Sidney Henry James Bates
+United Kingdom,Q1878797,"Lynda Chalker, Baroness Chalker of Wallasey",mother,Q75561781,Marjorie Kathleen Randell
+United Kingdom,Q1878797,"Lynda Chalker, Baroness Chalker of Wallasey",spouse,Q75561777,Eric Robert Chalker
+United Kingdom,Q1878797,"Lynda Chalker, Baroness Chalker of Wallasey",spouse,Q75561783,Clive Landa
 United Kingdom,Q1878814,"Lyndon Harrison, Baron Harrison",child,Q76068633,Adam Harrison
 United Kingdom,Q1878814,"Lyndon Harrison, Baron Harrison",child,Q76068636,Sara Harrison
 United Kingdom,Q1878814,"Lyndon Harrison, Baron Harrison",father,Q76068638,Charles William Harrison
@@ -2142,13 +2142,13 @@ United Kingdom,Q259736,James Arbuthnot,child,Q75411084,Alice Tempest Wemyss Arbu
 United Kingdom,Q259736,James Arbuthnot,father,Q7527560,"Sir John Arbuthnot, 1st Baronet"
 United Kingdom,Q259736,James Arbuthnot,mother,Q75411073,Margaret Jean Duff
 United Kingdom,Q259736,James Arbuthnot,spouse,Q75411077,Emma Arbuthnot
-United Kingdom,Q259836,Sir George Young,child,Q75338393,George Horatio Young
-United Kingdom,Q259836,Sir George Young,child,Q75338394,Hugo Patrick Young
-United Kingdom,Q259836,Sir George Young,child,Q75338396,Sophia Angelica Young
-United Kingdom,Q259836,Sir George Young,child,Q75338397,Camilla Mary Young
-United Kingdom,Q259836,Sir George Young,father,Q21618589,"Sir George Peregrine Young, 5th Bt"
-United Kingdom,Q259836,Sir George Young,mother,Q75448944,Elisabeth Knatchbull-Hugessen
-United Kingdom,Q259836,Sir George Young,spouse,Q75338390,Aurelia Nemon
+United Kingdom,Q259836,George Young,child,Q75338393,George Horatio Young
+United Kingdom,Q259836,George Young,child,Q75338394,Hugo Patrick Young
+United Kingdom,Q259836,George Young,child,Q75338396,Sophia Angelica Young
+United Kingdom,Q259836,George Young,child,Q75338397,Camilla Mary Young
+United Kingdom,Q259836,George Young,father,Q21618589,"Sir George Peregrine Young, 5th Bt"
+United Kingdom,Q259836,George Young,mother,Q75448944,Elisabeth Knatchbull-Hugessen
+United Kingdom,Q259836,George Young,spouse,Q75338390,Aurelia Nemon
 United Kingdom,Q259961,Tim Yeo,child,Q6274861,Jonathan Yeo
 United Kingdom,Q260272,"Julia Neuberger, Baroness Neuberger",spouse,Q18161557,Anthony Neuberger
 United Kingdom,Q260464,Ed Balls,father,Q6828394,Michael Balls
@@ -4725,7 +4725,7 @@ United Kingdom,Q678371,Sue Ryder,child,Q75604848,Elizabeth Diana Cheshire
 United Kingdom,Q678371,Sue Ryder,father,Q75604849,Charles Ryder
 United Kingdom,Q678371,Sue Ryder,mother,Q949355,Mabel
 United Kingdom,Q678371,Sue Ryder,spouse,Q3486701,Leonard Cheshire
-United Kingdom,Q6790810,Matthew Kirk,father,Q7175874,Peter Michael Kirk
+United Kingdom,Q6790810,Matthew Kirk,father,Q7175874,Peter Kirk
 United Kingdom,Q6795163,Max Rayne,child,Q76003663,Nicholas Rayne
 United Kingdom,Q6795163,Max Rayne,child,Q76003664,Alexander Rayne
 United Kingdom,Q6795163,Max Rayne,child,Q76003665,Natasha Rayne
