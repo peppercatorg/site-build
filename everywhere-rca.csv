@@ -9409,7 +9409,7 @@ Pakistan,Q13579848,Pervez Khattak,sibling,Q57585035,Liaquat Khan
 Pakistan,Q1521977,Ghulam Noor Rabbani Khar,child,Q254122,Hina Rabbani Khar
 Pakistan,Q1521977,Ghulam Noor Rabbani Khar,sibling,Q1955551,Ghulam Mustafa Khar
 Pakistan,Q15240778,Raheel Sharif,sibling,Q3694413,Shabbir Sharif
-Pakistan,Q1543422,Makhdoom Shah Mahmood Hussain Qureshi,father,Q6799374,Sajjad Alshtait
+Pakistan,Q1543422,Makhdoom Shah Mahmood Hussain Qureshi,father,Q6799374,Sajjad Hussain Qureshi
 Pakistan,Q155164,Imran Khan,child,Q75540680,Sulaiman Isa Khan
 Pakistan,Q155164,Imran Khan,child,Q75540682,Kasim Khan
 Pakistan,Q155164,Imran Khan,father,Q56772613,Ikramullah Khan Niazi
@@ -9440,7 +9440,7 @@ Pakistan,Q19517950,Nafeesa Inayatullah Khan Khattak,relative,Q13579848,Pervez Kh
 Pakistan,Q19517992,Tahira Aurangzeb,child,Q16442103,Maryam Aurangzaib
 Pakistan,Q19662586,Syed Shibli Faraz,father,Q379507,Ahmad Faraz
 Pakistan,Q20819559,Hasnain Ali Mirza,father,Q228805,Zulfiqar Mirza
-Pakistan,Q20819559,Hasnain Ali Mirza,mother,Q2371076,Dr. Fahmida Mirza
+Pakistan,Q20819559,Hasnain Ali Mirza,mother,Q2371076,Fahmida Mirza
 Pakistan,Q2096387,Shehbaz Sharif,child,Q5646510,Muhammad Hamza Shahbaz Sharif
 Pakistan,Q2096387,Shehbaz Sharif,father,Q1951867,Muhammad Sharif
 Pakistan,Q2096387,Shehbaz Sharif,sibling,Q134068,Nawaz Sharif
@@ -9448,10 +9448,10 @@ Pakistan,Q2096387,Shehbaz Sharif,spouse,Q2400398,Tehmina Durrani
 Pakistan,Q21229212,Jahangir Khanzada,father,Q20824189,Shuja Khanzada
 Pakistan,Q2164946,Makhdoom Ahmed Mehmood,child,Q18815877,Syed Mustafa Mahmud
 Pakistan,Q22278582,Khalid Mehmood Soomro,child,Q58440573,Maulana Rashid Mahmood Soomro
-Pakistan,Q2371076,Dr. Fahmida Mirza,child,Q20819559,Hasnain Ali Mirza
-Pakistan,Q2371076,Dr. Fahmida Mirza,father,Q7267272,Qazi Abdul Majeed Abid
-Pakistan,Q2371076,Dr. Fahmida Mirza,sibling,Q6381086,Kazi Asad Abid
-Pakistan,Q2371076,Dr. Fahmida Mirza,spouse,Q228805,Zulfiqar Mirza
+Pakistan,Q2371076,Fahmida Mirza,child,Q20819559,Hasnain Ali Mirza
+Pakistan,Q2371076,Fahmida Mirza,father,Q7267272,Qazi Abdul Majeed Abid
+Pakistan,Q2371076,Fahmida Mirza,sibling,Q6381086,Kazi Asad Abid
+Pakistan,Q2371076,Fahmida Mirza,spouse,Q228805,Zulfiqar Mirza
 Pakistan,Q244338,Bilawal Bhutto Zardari,father,Q57373,Asif Ali Zardari
 Pakistan,Q244338,Bilawal Bhutto Zardari,mother,Q34413,Benazir Bhutto
 Pakistan,Q244338,Bilawal Bhutto Zardari,sibling,Q104381933,Aseefa Bhutto Zardari
