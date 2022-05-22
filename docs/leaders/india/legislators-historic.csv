@@ -522,7 +522,7 @@ India,Member of the 13th Lok Sabha,A. Venkatesh Naik,Q4648486,1999-10-10,2004-02
 India,Member of the 13th Lok Sabha,Mamata Banerjee,Q465041,1999-10-10,2004-02-06,female,1955-01-05,,"Ms. Mamata Banerjee, in Kolkata on July 17, 2018 (cropped).JPG",Mamata Banerjee
 India,Member of the 13th Lok Sabha,Abdul Rashid Shaheen,Q4665672,1999-10-10,2004-02-06,male,1945-08-03,,,Abdul Rashid Shaheen
 India,Member of the 13th Lok Sabha,Adhi Sankar,Q4682526,1999-10-10,2004-02-06,male,1957-03-07,,,Adhi Sankar
-India,Member of the 13th Lok Sabha,Lal Krishna Advani,Q468324,1999-10-10,2004-02-06,male,1927-11-08,,LKAdvani1.jpg,L. K. Advani
+India,Member of the 13th Lok Sabha,Lal Krishna Advani,Q468324,1999-10-10,2004-02-06,male,1927-11-08,,Lkadvani.jpg,L. K. Advani
 India,Member of the 13th Lok Sabha,Aelay Narendra,Q4687691,1999-10-10,2004-02-06,male,1946-08-21,2014-04-09,Aelay Narendra.jpg,Aelay Narendra
 India,Member of the 13th Lok Sabha,Ajay Singh Chautala,Q4699661,1999-10-10,2004-02-06,male,1961-03-13,,,Ajay Singh Chautala
 India,Member of the 13th Lok Sabha,Ajit Singh,Q4699805,1999-10-10,2004-02-06,male,1939-02-12,2021-05-06,Ajit Singh at press conference.jpg,Ajit Singh (politician)
@@ -1126,7 +1126,7 @@ India,Member of the 15th Lok Sabha,Abdul Rahman,Q4665623,2009-05-22,2014-05-18,m
 India,Member of the 15th Lok Sabha,Meira Kumar,Q467201,2009-05-22,2014-05-18,female,1945-03-31,,Meira Kumar.jpg,Meira Kumar
 India,Member of the 15th Lok Sabha,Adagur H. Vishwanath,Q4678385,2009-05-22,2014-05-18,male,1949-12-15,,Adagur H. Vishwanath (4).jpg,Adagur H. Vishwanath
 India,Member of the 15th Lok Sabha,Adhi Sankar,Q4682526,2009-05-22,2014-05-18,male,1957-03-07,,,Adhi Sankar
-India,Member of the 15th Lok Sabha,Lal Krishna Advani,Q468324,2009-05-22,2014-05-18,male,1927-11-08,,LKAdvani1.jpg,L. K. Advani
+India,Member of the 15th Lok Sabha,Lal Krishna Advani,Q468324,2009-05-22,2014-05-18,male,1927-11-08,,Lkadvani.jpg,L. K. Advani
 India,Member of the 15th Lok Sabha,Ahir Vikrambhai Arjanbhai Madam,Q4695128,2009-05-22,2014-05-18,male,1958-03-23,,,Vikrambhai Arjanbhai Madam
 India,Member of the 15th Lok Sabha,Ajit Singh,Q4699805,2009-05-22,2014-05-18,male,1939-02-12,2021-05-06,Ajit Singh at press conference.jpg,Ajit Singh (politician)
 India,Member of the 15th Lok Sabha,Amarnath Pradhan,Q4740317,2009-05-22,2014-05-18,male,1958-05-11,,Amarnath Pradhan.JPG,Amarnath Pradhan
@@ -1471,6 +1471,8 @@ India,Member of Rajya Sabha,Arun Jaitley,Q3629480,2018-04-03,2019-08-24,male,195
 India,Member of Rajya Sabha,Prakash Javadekar,Q7238178,2018-04-03,,male,1951-01-30,,"Shri Prakash Javadekar, Minister of State for Information and Broadcasting (Independent Charge), Environment, Forest and Climate Change (Independent Charge) and Parliamentary Affairs(cropped).jpg",Prakash Javadekar
 India,Member of Rajya Sabha,Raghunath Mohapatra,Q3751683,2018-07-14,2021-05-09,male,1943-03-23,2021-05-09,Raghunath Mohapatra.JPG,Raghunath Mohapatra
 India,Member of Rajya Sabha,Abhay Bhardwaj,Q89552274,2020-07-22,2020-12-01,male,1954-04-02,2020-12-01,Abhay Bharadwaj.jpg,Abhay Bharadwaj
+India,Member of Rajya Sabha,Manik Saha,Q111341502,2022-04-03,2022-05-14,male,,,,Manik Saha
+India,Member of Rajya Sabha,Sandeep Pathak,Q83417874,2022-04-10,,male,,,,Sandeep Pathak
 India,Member of the Gujarat Legislative Assembly,Vajubhai Vala,Q2150026,1985-07,2002-02,male,1938-01-23,,Vajubhai Vala.jpg,Vajubhai Vala
 India,Member of the Gujarat Legislative Assembly,Mangubhai C. Patel,Q17517188,1998,2017,male,1944,,Mangubhai C. Patel (cropped).jpg,Mangubhai C. Patel
 India,Member of the Gujarat Legislative Assembly,Sheila Dikshit,Q464900,1998-12-03,2008-12-03,female,1938-03-31,2019-07-20,"The Chairperson, National Advisory Council, Smt. Sonia Gandhi and the Chief Minister of Delhi, Smt. Sheila Dikshit after casting their votes in Delhi Assembly Election, at Nirman Bhavan polling booth, in New Delhi (cropped).jpg",Sheila Dikshit
@@ -2025,11 +2027,12 @@ India,Member of the Odisha Legislative Assembly,Prashanta Nanda,Q2107874,2009,20
 India,Member of the Tamil Nadu Legislative Assembly,S. Jennifer Chandran,Q7387563,1996,2001,female,,2019-08-06,,S. Jennifer Chandran
 India,Member of the Tamil Nadu Legislative Assembly,H. Raja,Q20676864,2001,2006,male,1957-05,,H Raja.png,H. Raja
 India,Member of the Tamil Nadu Legislative Assembly,K. V. Muralidharan,Q63213836,2001,2019,male,,2019,,K. V. Muralidharan
-India,Member of the Tamil Nadu Legislative Assembly,G. V. Markandayan,Q5512519,2011,2016,male,1977,,Markandayan GVM.jpg,G. V. Markandayan
+India,Member of the Tamil Nadu Legislative Assembly,G. V. Markandayan,Q5512519,2011,2016,male,1977,,,G. V. Markandayan
 India,Member of the Tamil Nadu Legislative Assembly,K. Palaniswami,Q6323772,2011-05-23,,male,1954-03-02,,K. Palaniswami.jpg,Edappadi K. Palaniswami
 India,Member of the Tripura Legislative Assembly,Nagendra Jamatia,Q80300249,1998,2008,male,1948,2019-01-21,,Nagendra Jamatia
 India,Member of the Tripura Legislative Assembly,Daniel Jamatia,Q96459689,2008,2018,male,1963-10-18,,,Daniel Jamatia
 India,Member of the Tripura Legislative Assembly,Pravat Chowdhury,Q92140142,2014,,male,1976-12-28,,,Pravat Chowdhury
+India,Member of the Tripura Legislative Assembly,Biplab Kumar Deb,Q47463042,2018-03-03,,male,1971-11-29,,Biplab Kumar Deb CM Tripura.png,Biplab Kumar Deb
 India,Member of the 16th Lok Sabha,Varun Gandhi,Q2728775,2012,2019-05-24,male,1980-03-13,,Feroze Varun Gandhi 003.jpg,Varun Gandhi
 India,Member of the 16th Lok Sabha,Moon Moon Sen,Q1609586,2014,2019,female,1948-03-28,,Moon moon sen.jpg,Moon Moon Sen
 India,Member of the 16th Lok Sabha,Prasun Banerjee,Q16186580,2014,2019,male,1955-04-06,,,Prasun Banerjee
@@ -2418,7 +2421,7 @@ India,Member of the 16th Lok Sabha,H. D. Deve Gowda,Q377870,2014-05-26,2019-05-2
 India,Member of the 16th Lok Sabha,Prem Das Rai,Q45977,2014-05-26,2019-05-24,male,1954-07-31,,Prem Das Rai.jpg,Prem Das Rai
 India,Member of the 16th Lok Sabha,A. Sampath,Q4648386,2014-05-26,2019-05-24,male,1962-07-22,,A. Sampath 03.jpg,Anirudhan Sampath
 India,Member of the 16th Lok Sabha,Yogi Adityanath,Q4683097,2014-05-26,2017-09-21,male,1972-06-05,,Yogi Adityanath.jpg,Yogi Adityanath
-India,Member of the 16th Lok Sabha,Lal Krishna Advani,Q468324,2014-05-26,2019-05-24,male,1927-11-08,,LKAdvani1.jpg,L. K. Advani
+India,Member of the 16th Lok Sabha,Lal Krishna Advani,Q468324,2014-05-26,2019-05-24,male,1927-11-08,,Lkadvani.jpg,L. K. Advani
 India,Member of the 16th Lok Sabha,Anandrao Vithoba Adsul,Q4751376,2014-05-26,2019-05-24,male,1947-06-01,,,Anandrao Vithoba Adsul
 India,Member of the 16th Lok Sabha,Anant Geete,Q4751428,2014-05-26,2019-05-24,male,1951-06-02,,Anant Geete in April 2017.jpg,Anant Geete
 India,Member of the 16th Lok Sabha,Ananth Kumar Hegde,Q4751466,2014-05-26,2019-05-24,male,1968-05-20,,Anant Kumar Hegde.jpg,Anantkumar Hegde
@@ -3025,7 +3028,7 @@ India,Member of the 17th Lok Sabha,M.V.V. Satyanarayana,Q64011499,2019-05-30,,ma
 India,Member of the 17th Lok Sabha,Indra Hang Subba,Q64011509,2019-05-30,,male,,,,Indra Hang Subba
 India,Member of the 17th Lok Sabha,T.R.V.S. Ramesh,Q64011513,2019-05-30,,male,1970-11-09,,,T. R. V. S. Ramesh
 India,Member of the 17th Lok Sabha,Anurag Sharma,Q64019562,2019-05-30,,male,,,,Anurag Sharma (politician)
-India,Member of the 17th Lok Sabha,S. Senthilkumar,Q64055572,2019-05-30,,male,1977-06-22,,,S. Senthilkumar (Dharmapuri)
+India,Member of the 17th Lok Sabha,S. Senthilkumar,Q64055572,2019-05-30,,male,1977-06-22,,DNV Senthilkumar S.jpg,S. Senthilkumar (Dharmapuri)
 India,Member of the 17th Lok Sabha,G. Selvam,Q64060339,2019-05-30,,male,1974-06-18,,,G. Selvam
 India,Member of the 17th Lok Sabha,A.K.P. Chinraj,Q64078968,2019-05-30,,male,1965,,,A. K. P. Chinraj
 India,Member of the 17th Lok Sabha,Chandrasen Jadon,Q64120918,2019-05-30,,male,,,,Chandrasen Jadon
@@ -3137,7 +3140,7 @@ India,Member of the 17th Lok Sabha,Shivkumar Chanabasappa Udasi,Q7499405,2019-05
 India,Member of the 17th Lok Sabha,Shobha Karandlaje,Q7499789,2019-05-30,,female,1966-10-23,,Shobha karandlaje 2014-05-17 07-02.jpeg,Shobha Karandlaje
 India,Member of the 17th Lok Sabha,Shripad Yasso Naik,Q7504173,2019-05-30,,male,1952-10-04,,Shripad Yasso Naik - Kolkata 2014-10-12 7755.JPG,Shripad Naik
 India,Member of the 17th Lok Sabha,Smriti Irani,Q7546539,2019-05-30,,female,1976-03-23,,"The Union Minister for Textiles and Information & Broadcasting, Smt. Smriti Irani interacting with the media regarding the cabinet approval for the Integrated Scheme for Development of Silk Industry, in New Delhi (1).jpg",Smriti Irani
-India,Member of the 17th Lok Sabha,Su Thirunavukkarasar,Q7630318,2019-05-30,,male,1949-05-07,,Su. Thirunavukkarasar in 2012.jpg,Su. Thirunavukkarasar
+India,Member of the 17th Lok Sabha,Su. Thirunavukkarasar,Q7630318,2019-05-30,,male,1949-05-07,,Thirunavukarasar.jpg,Su. Thirunavukkarasar
 India,Member of the 17th Lok Sabha,Sudarshan Bhagat,Q7633454,2019-05-30,,male,1969-10-20,,Sudarshan Bhagat oath as Minister.jpg,Sudarshan Bhagat
 India,Member of the 17th Lok Sabha,Sukhbir Singh Badal,Q7635786,2019-05-30,,male,1962-07-09,,Sukhbir Singh Badal Official portrait 2019.jpg,Sukhbir Singh Badal
 India,Member of the 17th Lok Sabha,Sunil Tatkare,Q7640353,2019-05-30,,male,1955-07-10,,During a program in shrivardhan 2014-03-17 01-10.jpg,Sunil Tatkare
