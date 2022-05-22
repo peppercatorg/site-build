@@ -250,7 +250,7 @@ France,member of the Senate of France,Hugues Saury,Q19958574,2017-10-01,,male,19
 France,member of the Senate of France,Arnaud Bazin,Q2863048,2017-10-01,,male,1959-01-10,,,
 France,member of the Senate of France,Bernard Bonne,Q2897564,2017-10-01,,male,1948-09-18,,,
 France,member of the Senate of France,Marie-Thérèse Bruguière,Q3292256,2017-10-01,,female,1942-10-26,,,Marie-Thérèse Bruguière
-France,member of the Senate of France,Michèle Vullien,Q33342289,2017-10-01,,female,1944-01-18,,,
+France,member of the Senate of France,Michèle Vullien,Q33342289,2017-10-01,2020-10-01,female,1944-01-18,,,
 France,member of the Senate of France,Marta de Cidrac,Q40912640,2017-10-01,,female,1964-06-13,,"Marta de Cidrac, Sénatrice des Yvelines.jpg",
 France,member of the Senate of France,Guillaume Gontard,Q40914766,2017-10-01,,male,1971-03-11,,"Guillaume Gontard, Sénateur de l'Isère.jpg",Guillaume Gontard
 France,member of the Senate of France,Fabien Gay,Q41099326,2017-10-01,,male,1984-01-13,,Fabien Gay sénateur communiste.png,Fabien Gay
@@ -335,6 +335,7 @@ France,Member of the Regional Council,Édouard Philippe,Q3579995,2004-03-29,2008
 France,Member of the Regional Council,Alain Rapon,Q54258632,2004-03-29,2010-03-14,male,1950-11-10,2015-12-25,,
 France,Member of the Regional Council,Justine Benin,Q30342954,2010-03-21,2015-12-13,female,1975-03-12,,Justine Bénin.jpg,Justine Benin
 France,Member of the Regional Council,Gérald Darmanin,Q3123610,2010-03-26,2014-03-30,male,1982-10-11,,Photo portrait de Gérald DARMANIN.jpg,Gérald Darmanin
+France,Member of the Regional Council,Jean Castex,Q3171170,2010-03-26,2015-04-22,male,1965-06-25,,Portrait Jean Castex (cropped).jpg,Jean Castex
 France,Member of the Regional Council,Nikos Chardalias,Q64347125,2014-09-01,2019-08-31,male,1968,,,
 France,Member of the Regional Council,Rena Dourou,Q16062059,2019-09-01,,female,1974-10-07,,Rena Dourou May 2015.jpg,Rena Dourou
 France,Member of the Regional Council,Iacopo Melio,Q105271741,2020-09-20,,male,1992-04-28,,,Iacopo Melio
@@ -398,7 +399,6 @@ France,Member of the Regional Council of Réunion,Olivier Hoarau,Q63607760,2018-
 France,member of the Senate of France,Anne-Lise Dufour-Tonini,Q2850811,2017-07-04,2017-10-01,female,1970-03-02,,Denain - Anne-Lise Dufour-Tonini présentant son projet de centre aquatique le 1er septembre 2018.JPG,
 France,member of the Senate of France,Michel Dagbert,Q19628756,2017-10-01,,male,1962-01-28,,"Barlin - Quatre jours de Dunkerque, étape 3, 8 mai 2015, départ (C21).JPG",Michel Dagbert
 France,member of the French National Assembly,François Antoine Nicolas Jersé,Q29288523,1790-01-21,,male,1755-07-06,,,
-France,member of the French National Assembly,Dominique Frelaut,Q3035166,1973,2002,male,1927-09-02,2018-07-09,,Dominique Frelaut
 France,member of the French National Assembly,Michel Sainte-Marie,Q3310806,1973,2012,male,1938-08-18,2019-02-27,Michel Sainte-Marie.jpg,Michel Sainte-Marie
 France,member of the French National Assembly,Bernard Derosier,Q2897781,1978-04-03,2012-06-19,male,1939-11-10,,Aubry Caudron stade 2010-09-27.jpg,Bernard Derosier
 France,member of the French National Assembly,Georges Hage,Q3102849,1981-07-02,2007-06-19,male,1921-09-11,2015-01-21,,
@@ -911,6 +911,7 @@ France,member of the French National Assembly,Michel Bourgeois,Q16798440,2001-04
 France,member of the French National Assembly,Didier Arnal,Q3026900,2001-08-11,2002-06-18,male,1961-09-08,,Didier Arnal.jpg,
 France,member of the French National Assembly,Jean-Pierre Pujol,Q3169674,2001-09-25,2002-06-18,male,1941-06-30,2017-11-08,,Jean-Pierre Pujol
 France,member of the French National Assembly,Marcelle Ramonet,Q3289572,2001-11-20,2002-06-18,female,1949-06-22,,,
+France,member of the French National Assembly,Dominique Frelaut,Q3035166,2001-11-24,2002-06-18,male,1927-09-02,2018-07-09,,Dominique Frelaut
 France,member of the French National Assembly,Michel Delebarre,Q129774,2002,2011,male,1946-04-27,2022-04-09,Delebarre 4JDD 2010.jpg,Michel Delebarre
 France,member of the French National Assembly,Patrick Roy,Q2057943,2002,2011,male,1957-08-30,2011-05-03,Patrick Roy - 2010.jpg,Patrick Roy (politician)
 France,member of the French National Assembly,Richard Mallié,Q2150162,2002,2012,male,1948-10-26,,Richard Mallié.jpg,Richard Mallié
@@ -3028,7 +3029,7 @@ France,member of the French National Assembly,Hélène Zannier,Q30343030,2017-06
 France,member of the French National Assembly,Natalia Pouzyreff,Q30343070,2017-06-21,,female,1961-02-18,,Photo Natalia wikipédia.jpg,Natalia Pouzyreff
 France,member of the French National Assembly,Joachim Son-Forget,Q30343074,2017-06-21,,male,1983-04-15,,Joachim Son-Forget 16312 (cropped).jpg,Joachim Son-Forget
 France,member of the French National Assembly,Josy Poueyto,Q30343078,2017-06-21,,female,1954-01-13,,Josy Poueyto.jpg,Josy Poueyto
-France,member of the French National Assembly,Sandrine Josso,Q30343090,2017-06-21,,female,1975-09-19,,Sandrine Josso.jpg,Sandrine Josso
+France,member of the French National Assembly,Sandrine Josso,Q30343090,2017-06-21,,female,1975-09-19,,,Sandrine Josso
 France,member of the French National Assembly,Patrice Perrot,Q30343102,2017-06-21,,male,1964-02-24,,,Patrice Perrot
 France,member of the French National Assembly,Stanislas Guerini,Q30343112,2017-06-21,,male,1982-05-14,,Stanislas guerini AN 16475.JPG,Stanislas Guerini
 France,member of the French National Assembly,Mathilde Panot,Q30343128,2017-06-21,,female,1989-01-15,,Mathilde Panot en 2017.jpg,Mathilde Panot
@@ -3624,6 +3625,8 @@ France,Member of the Regional Council of Provence-Alpes-Côte d'Azur,Andree Alzi
 France,Member of the Regional Council of Provence-Alpes-Côte d'Azur,Jean-Paul David,Q21745530,2017-08-16,,male,1960-05-07,,,
 France,Member of the Regional Council of Provence-Alpes-Côte d'Azur,Brigitte Virzi-Gonzalez,Q63371072,2018-08-31,,female,1957-09-21,,,
 France,Member of the Regional Council of Provence-Alpes-Côte d'Azur,Nathalie Chevillard,Q63409917,2018-09-04,,female,1971-06-14,,,
+France,Member of the Regional Council of Provence-Alpes-Côte d'Azur,Sabrina Agresti-Roubache,Q112079050,2021-07-02,,female,1977,,,
+France,Member of the Regional Council of Provence-Alpes-Côte d'Azur,Thierry Mariani,Q63655,2021-07-02,,male,1958-08-08,,Thierry.Mariani.jpg,Thierry Mariani
 France,Member of the Regional Council of Île-de-France,Roland Prédiéri,Q3440227,1983,2020-11-30,male,1927-01-20,2020-11-30,,
 France,Member of the Regional Council of Île-de-France,Pierre Gosnat,Q3385274,1986,2004,male,1948-08-20,2015-01-25,,Pierre Gosnat
 France,Member of the Regional Council of Île-de-France,Manuel Valls,Q10287,1986-03-21,2002-06-20,male,1962-08-13,,"Dinar Cambra amb Manuel Valls, candidat a l'alcaldia de Barcelona.jpg",Manuel Valls
@@ -3896,7 +3899,7 @@ France,Member of the Regional Council of Île-de-France,Michel Fouchault,Q635370
 France,Member of the Regional Council of Île-de-France,Florent Hubert,Q63537114,2017-11-16,,male,1977-12-29,,,
 France,Member of the Regional Council of Île-de-France,Jack-Yves Bohbot,Q42297535,2018-09,,male,1956-04-18,,,
 France,Member of the Regional Council of Île-de-France,Philippe Ballard,Q108662224,2021,,male,1960-11-24,,,
-France,Member of the Regional Council of Île-de-France,Caroline Parmentier,Q110934545,2021,,female,,,,
+France,Member of the Regional Council of Île-de-France,Caroline Parmentier,Q110934545,2021,,female,1965-12-16,,,
 France,Member of the Regional Council of Île-de-France,Sandrine Dos Santos,Q100319997,2021-07-02,,female,1972-09-24,,,
 France,Member of the Regional Council of Pays de la Loire,Loïc Le Masne de Chermont,Q76621588,1977,2004,male,,,,
 France,Member of the Regional Council of Pays de la Loire,Yannick Vaugrenard,Q3571817,1986-03-16,,male,1950-06-25,,Yannick Vaugrenard.jpg,Yannick Vaugrenard
@@ -4872,7 +4875,6 @@ France,Member of the Regional Council of Languedoc-Roussillon,François Delacroi
 France,Member of the Regional Council of Languedoc-Roussillon,Jean-François Pardigon,Q86982619,2010,2015,male,,,,
 France,Member of the Regional Council of Languedoc-Roussillon,Mahfoud Benali,Q88521023,2010,2015,male,,,,
 France,Member of the Regional Council of Languedoc-Roussillon,Christian Bouillé,Q88528004,2010,2015,male,1938-02-04,2019-07-06,,
-France,Member of the Regional Council of Languedoc-Roussillon,Jean Castex,Q3171170,2010-03-26,2015-04-22,male,1965-06-25,,Portrait Jean Castex (cropped).jpg,Jean Castex
 France,Member of the Regional Council of Languedoc-Roussillon,Sophie Pantel,Q19958474,2012,,female,1971-07-27,,Sophie PANTEL 2 (ok).jpg,
 France,Member of the Regional Council of Midi-Pyrénées,Alain Beneteau,Q107383615,1986,2010,male,,,,
 France,Member of the Regional Council of Midi-Pyrénées,Bernard Antony,Q2897452,1986-03-16,2004-03-28,male,1944-11-28,,Bernard Antony (cropped).png,Bernard Antony

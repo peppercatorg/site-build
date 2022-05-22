@@ -102,6 +102,12 @@ France,Q19606880,Bruno Bilde,partner,Q3497810,Steeve Briois
 France,Q1967563,Charles-Ange Ginésy,father,Q2959215,Charles Ginésy
 France,Q1967590,Françoise Dumas,father,Q61959204,Gérard Dumas
 France,Q19956565,Pascal Martin,father,Q2848256,André Martin
+France,Q20020731,Élisabeth Borne,child,Q112042990,Nathan Allix
+France,Q20020731,Élisabeth Borne,father,Q112042957,Joseph Borne
+France,Q20020731,Élisabeth Borne,mother,Q112055997,Marguerite Lescène
+France,Q20020731,Élisabeth Borne,relative,Q112042938,Marcel Lescène
+France,Q20020731,Élisabeth Borne,relative,Q112056723,Zélig Bornstein
+France,Q20020731,Élisabeth Borne,spouse,Q48221305,Olivier Allix
 France,Q2020016,Jean-Paul Alduy,child,Q28937717,Cécile Alduy
 France,Q20556667,Cécile Pozzo di Borgo,father,Q52178334,Jean Mouton-Brady
 France,Q206327,Bernard Kouchner,child,Q104661508,Camille Kouchner
@@ -189,6 +195,7 @@ France,Q27876654,Frédérique Gerbaud,father,Q1922541,François Gerbaud
 France,Q28061777,Fabien Penone,spouse,Q60861380,Niagalé Bagayoko-Penone
 France,Q2815137,Christophe Borgel,spouse,Q28782627,Anne Hommel
 France,Q2829584,Alain Bocquet,sibling,Q3590999,Éric Bocquet
+France,Q2829670,Alain Clary,spouse,Q112055987,Liliane Bonfils-Clary
 France,Q2829670,Alain Clary,spouse,Q60243145,Maryse Clary
 France,Q2830013,Alain Le Vern,child,Q20882460,Marie Le Vern
 France,Q2830085,Alain Marleix,child,Q3351188,Olivier Marleix
@@ -421,6 +428,8 @@ France,Q3309956,Michel Inchauspé,father,Q3262280,Louis Inchauspé
 France,Q33103571,Cédric O,sibling,Q30068067,Delphine O
 France,Q33104128,Marine de Carné,spouse,Q3288193,Marc Le Fur
 France,Q33104478,Harold Huwart,father,Q3084884,François Huwart
+France,Q33104697,Amélie Oudéa-Castéra,father,Q99736100,Richard Castéra
+France,Q33104697,Amélie Oudéa-Castéra,spouse,Q984266,Frederic Oudéa
 France,Q33105695,François Pinte,father,Q3592334,Étienne Pinte
 France,Q33109969,Romain Nadal,mother,Q63759157,Marie-Françoise Matouk
 France,Q33113534,Jean-Christophe Peaucelle,spouse,Q42414936,Véronique Peaucelle-Delelis
@@ -454,6 +463,8 @@ France,Q3351289,Olivier Poivre d'Arvor,spouse,Q33110821,Olga Kubelková Poivre d
 France,Q336046,Robert Badinter,father,Q3484199,Simon Badinter
 France,Q336046,Robert Badinter,spouse,Q274309,Élisabeth Badinter
 France,Q336046,Robert Badinter,spouse,Q449309,Anne Vernon
+France,Q3362697,Pap Ndiaye,sibling,Q237106,Marie NDiaye
+France,Q3362697,Pap Ndiaye,spouse,Q46998104,Jeanne Lazarus
 France,Q3368901,Patrice Calmejane,father,Q3434718,Robert Calméjane
 France,Q3369515,Patrick Herr,father,Q3084847,François Herr
 France,Q3369520,Patrick Hoguet,father,Q2400794,Michel Hoguet
@@ -676,6 +687,7 @@ France,Q984375,Laurent Wauquiez,mother,Q47495173,Éliane Wauquiez-Motte
 France,Q984375,Laurent Wauquiez,spouse,Q47495141,Charlotte Wauquiez
 France,Q98630485,Myriam Cau,sibling,Q95184582,Marie Cau
 France,Q99188665,Nicolas de Bouillane de Lacoste,father,Q1559474,Jean-Noël de Bouillane de Lacoste
+France,Q99193104,Charlotte Caubel,spouse,Q2833474,Alexandre Bompard
 France,Q993184,Bruno Delaye,father,Q2131237,Raoul Delaye
 France,Q993472,Bruno Le Maire,father,Q27490943,Maurice Le Maire
 France,Q993472,Bruno Le Maire,mother,Q27490917,Viviane Fradin de Belâbre

@@ -56,7 +56,7 @@ european-union,31,120,2820,2902
 faroes,9,26,8,31
 fiji,14,29,3,29
 finland,27,187,433,525
-france,47,602,3935,4447
+france,35,614,3936,4455
 gabon,8,34,3,35
 gambia,25,63,2,64
 georgia,19,174,28,191
@@ -70,7 +70,7 @@ honduras,10,31,4,35
 hong-kong,17,79,221,291
 hungary,23,209,953,1104
 iceland,17,79,198,222
-india,104,481,2864,3184
+india,104,482,2867,3186
 indonesia,45,133,1353,1466
 iran,39,116,320,419
 iraq,29,144,15,157
@@ -142,7 +142,7 @@ serbia,30,101,44,141
 seychelles,18,28,0,28
 singapore,25,64,229,260
 slovakia,21,74,16,85
-slovenia,23,111,170,253
+slovenia,23,121,170,260
 solomon-islands,28,42,67,83
 somalia,32,76,2,76
 south-africa,42,130,712,776
@@ -164,7 +164,7 @@ turks-and-caicos,12,28,7,30
 tuvalu,12,49,26,51
 uganda,9,34,14,47
 ukraine,33,350,2048,2272
-united-arab-emirates,13,18,0,18
+united-arab-emirates,13,19,0,19
 united-kingdom,51,1115,2683,3389
 united-states,88,1154,5669,6679
 uruguay,21,71,94,136
@@ -174,4 +174,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,898,1004
-TOTAL,4455,23557,85108,101797
+TOTAL,4443,23581,85112,101812
