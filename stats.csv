@@ -68,7 +68,7 @@ greenland,12,33,2,34
 guatemala,20,67,5,69
 honduras,10,31,4,35
 hong-kong,17,79,221,291
-hungary,23,209,953,1104
+hungary,24,211,964,1116
 iceland,17,79,198,222
 india,104,482,2867,3186
 indonesia,45,133,1354,1467
@@ -88,7 +88,7 @@ kiribati,16,24,40,54
 kosovo,23,40,4,42
 kuwait,19,50,3,52
 kyrgyzstan,26,89,11,95
-latvia,20,95,418,445
+latvia,19,95,418,445
 lesotho,33,40,0,40
 liberia,24,58,4,60
 liechtenstein,9,19,32,45
@@ -124,7 +124,7 @@ norway,26,649,1575,1963
 pakistan,51,246,1477,1626
 panama,17,89,3,91
 paraguay,24,33,16,45
-peru,24,359,309,633
+peru,24,364,309,638
 philippines,35,266,662,859
 poland,28,235,539,720
 portugal,23,106,478,554
@@ -146,7 +146,7 @@ slovenia,23,121,170,260
 solomon-islands,28,42,69,85
 somalia,32,76,2,76
 south-africa,42,130,712,776
-south-korea,35,218,976,1136
+south-korea,33,233,976,1147
 spain,30,570,3924,4312
 sri-lanka,33,58,258,276
 st-kitts-and-nevis,15,20,11,21
@@ -174,4 +174,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,898,1004
-TOTAL,4444,23668,85274,102003
+TOTAL,4442,23690,85285,102031
