@@ -1,0 +1,8 @@
+catalog,id,name,relationship,relative,relativename
+Equatorial Guinea,Q45147779,Constancia Mangue,child,Q477201,Teodoro Nguema
+Equatorial Guinea,Q45147779,Constancia Mangue,spouse,Q57385,Teodoro Obiang
+Equatorial Guinea,Q477201,Teodoro Nguema,father,Q57385,Teodoro Obiang
+Equatorial Guinea,Q477201,Teodoro Nguema,mother,Q45147779,Constancia Mangue
+Equatorial Guinea,Q57385,Teodoro Obiang,child,Q45042829,Gabriel Mbega
+Equatorial Guinea,Q57385,Teodoro Obiang,child,Q477201,Teodoro Nguema
+Equatorial Guinea,Q57385,Teodoro Obiang,spouse,Q45147779,Constancia Mangue
