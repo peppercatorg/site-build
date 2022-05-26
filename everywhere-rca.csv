@@ -1858,6 +1858,7 @@ China,Q698688,Li Xiaopeng,father,Q18301,Li Peng
 China,Q698688,Li Xiaopeng,mother,Q11094424,Zhu Lin
 China,Q698688,Li Xiaopeng,sibling,Q709111,Li Xiaolin
 China,Q698688,Li Xiaopeng,sibling,Q8986270,Li Xiaoyong
+China,Q698688,Li Xiaopeng,spouse,Q112109893,Tang Wen
 China,Q702356,Cao Jianming,spouse,Q9065121,Wang Xiaoya
 China,Q708802,Li Yuanchao,father,Q8335383,Li Gancheng
 China,Q708802,Li Yuanchao,mother,Q8289010,Lü Jiying
@@ -4133,6 +4134,7 @@ France,Q2396093,Colette Giudicelli,spouse,Q3165004,Jean-Claude Guibal
 France,Q2396260,Franck Borotra,child,Q2975013,Claire Borotra
 France,Q2396260,Franck Borotra,sibling,Q3026943,Didier Borotra
 France,Q2414678,Annie Genevard,mother,Q3154666,Irène Tharin
+France,Q2483192,Yvan Lachaud,spouse,Q112125217,Mireille Lachaud
 France,Q25301468,Charles Fries,sibling,Q33102045,Fabrice Fries
 France,Q257752,Frédéric Mitterrand,father,Q1973016,Robert Mitterrand
 France,Q257752,Frédéric Mitterrand,mother,Q49264995,Édith Cahier
@@ -4290,6 +4292,7 @@ France,Q3074013,Florence Parly,mother,Q37990488,Jeanne-Marie Parly
 France,Q3074013,Florence Parly,spouse,Q2388925,Martin Vial
 France,Q3074223,Florian Philippot,father,Q43649900,Daniel Philippot
 France,Q3074223,Florian Philippot,sibling,Q27334939,Damien Philippot
+France,Q3079081,Émile Zuccarelli,father,Q3175142,Jean Zuccarelli
 France,Q3083699,François-Xavier Deniau,father,Q2597807,Xavier Deniau
 France,Q3084135,François Bujon de l'Estang,child,Q62178731,Anne-Lorraine Bujon de l'Estang
 France,Q3084310,François Cornut-Gentille,relative,Q2897714,Bernard Cornut-Gentille
@@ -4398,6 +4401,10 @@ France,Q33103571,Cédric O,sibling,Q30068067,Delphine O
 France,Q33104128,Marine de Carné,spouse,Q3288193,Marc Le Fur
 France,Q33104478,Harold Huwart,father,Q3084884,François Huwart
 France,Q33104697,Amélie Oudéa-Castéra,father,Q99736100,Richard Castéra
+France,Q33104697,Amélie Oudéa-Castéra,mother,Q99736096,Dominique Castéra
+France,Q33104697,Amélie Oudéa-Castéra,relative,Q112115156,Jean-François Duhamel
+France,Q33104697,Amélie Oudéa-Castéra,relative,Q2829769,Alain Duhamel
+France,Q33104697,Amélie Oudéa-Castéra,relative,Q3368925,Patrice Duhamel
 France,Q33104697,Amélie Oudéa-Castéra,spouse,Q984266,Frederic Oudéa
 France,Q33105695,François Pinte,father,Q3592334,Étienne Pinte
 France,Q33109969,Romain Nadal,mother,Q63759157,Marie-Françoise Matouk
@@ -6660,6 +6667,7 @@ Indonesia,Q4273018,Anang Hermansyah,child,Q13097978,Aurel Hermansyah
 Indonesia,Q4273018,Anang Hermansyah,spouse,Q4210071,Ashanty
 Indonesia,Q4273018,Anang Hermansyah,spouse,Q4917827,Krisdayanti
 Indonesia,Q4694586,Agum Gumelar,child,Q106977528,Zeke Khaseli
+Indonesia,Q4694586,Agum Gumelar,spouse,Q12494918,Linda Amalia Sari
 Indonesia,Q4904525,Biem Benyamin,father,Q818410,Benyamin Sueb
 Indonesia,Q4917827,Krisdayanti,child,Q106348293,Azriel Akbar Hermansyah
 Indonesia,Q4917827,Krisdayanti,child,Q106361229,Kellen Alexander Lemos
@@ -7232,6 +7240,9 @@ Italy,Q1220,Giorgio Napolitano,spouse,Q18785847,Clio Bittoni
 Italy,Q122345,Ombretta Colli,child,Q3701047,Dalia Gaberščik
 Italy,Q122345,Ombretta Colli,spouse,Q1010602,Giorgio Gaber
 Italy,Q1224,Carlo Azeglio Ciampi,spouse,Q3080523,Franca Pilla
+Italy,Q1225624,Gianni Letta,child,Q16559055,Giampaolo Letta
+Italy,Q1225624,Gianni Letta,sibling,Q17285072,Cesare Letta
+Italy,Q1225624,Gianni Letta,sibling,Q28922825,Giorgio Letta
 Italy,Q1228,Oscar Luigi Scalfaro,child,Q97461162,Marianna Scalfaro
 Italy,Q1228,Oscar Luigi Scalfaro,spouse,Q108701087,Maria Inzitari
 Italy,Q1230,Francesco Cossiga,child,Q767345,Giuseppe Cossiga
@@ -8512,7 +8523,7 @@ Monaco,Q3910,"Albert II, Prince of Monaco",child,Q18616043,"Jacques, Hereditary 
 Monaco,Q3910,"Albert II, Prince of Monaco",child,Q18616095,"Princess Gabriella, Countess of Carladès"
 Monaco,Q3910,"Albert II, Prince of Monaco",child,Q2701854,Alexandre Grimaldi-Coste
 Monaco,Q3910,"Albert II, Prince of Monaco",child,Q2738333,Jazmin Grace Grimaldi
-Monaco,Q3910,"Albert II, Prince of Monaco",father,Q185025,"Rainier III, Prince of Monaco"
+Monaco,Q3910,"Albert II, Prince of Monaco",father,Q185025,"Rainier III, Prince of Mónaco"
 Monaco,Q3910,"Albert II, Prince of Monaco",godparent,Q160001,Victoria Eugenie of Battenberg
 Monaco,Q3910,"Albert II, Prince of Monaco",mother,Q3925,Grace Kelly
 Monaco,Q3910,"Albert II, Prince of Monaco",partner,Q3220363,Nicole Coste
@@ -8998,6 +9009,7 @@ Northern Ireland,Q116719,Diane Dodds,spouse,Q300243,Nigel Dodds
 Northern Ireland,Q16105286,P. J. Bradley,child,Q24083702,Sinéad Bradley
 Northern Ireland,Q16114174,Francie Brolly,child,Q6208799,Joe Brolly
 Northern Ireland,Q16114174,Francie Brolly,spouse,Q4768185,Anne Brolly
+Northern Ireland,Q17306227,Nichola Mallon,spouse,Q112114538,Brendan Scott
 Northern Ireland,Q192556,David Trimble,father,Q75532217,William Trimble
 Northern Ireland,Q192556,David Trimble,mother,Q75532220,Ivy Trimble
 Northern Ireland,Q192556,David Trimble,spouse,Q75532218,Daphne Orr
@@ -10189,6 +10201,8 @@ Poland,Q21157896,Adrian Zandberg,partner,Q20278674,Barbara Nowacka
 Poland,Q21209286,Małgorzata Wassermann,father,Q168190,Zbigniew Wassermann
 Poland,Q21282015,Małgorzata Chmiel,father,Q16334745,Józef Chmiel
 Poland,Q21282022,Antoni Duda,sibling,Q20021230,Jan Tadeusz Duda
+Poland,Q21282120,Łukasz Schreiber,father,Q5612548,Grzegorz Schreiber
+Poland,Q21282120,Łukasz Schreiber,spouse,Q112122178,Marianna Schreiber
 Poland,Q215342,Maria Kaczyńska,child,Q30317108,Marta Kaczyńska
 Poland,Q215342,Maria Kaczyńska,spouse,Q2757,Lech Kaczyński
 Poland,Q24051609,Anna Maria Anders,father,Q165544,Władysław Anders
@@ -11342,6 +11356,9 @@ Solomon Islands,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mothe
 Solomon Islands,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 Solomon Islands,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
 Somalia,Q215585,Abdullahi Yusuf Ahmed,spouse,Q5684152,Hawa Abdi Samatar
+Somalia,Q319153,Hassan Sheikh Mohamud,spouse,Q112114542,Sahro Xasan
+Somalia,Q319153,Hassan Sheikh Mohamud,spouse,Q112114543,Qamar Ali
+Somalia,Q558575,Mohamed Abdullahi Farmajo,spouse,Q112114540,Saynab Abdi Moallim
 Somalia,Q57899,Omar Abdirashid Ali Sharmarke,father,Q308215,Abdirashid Ali Shermarke
 South Africa,Q101547,Thabo Mbeki,father,Q1396109,Govan Mbeki
 South Africa,Q101547,Thabo Mbeki,mother,Q4963108,Epainette Mbeki
@@ -19413,6 +19430,7 @@ United States,Q7799280,"Thurgood Marshall, Jr.",sibling,Q16732037,John W. Marsha
 United States,Q7800620,Tick Segerblom,father,Q105830456,Cliff Segerblom
 United States,Q7800620,Tick Segerblom,mother,Q5531443,Gene Segerblom
 United States,Q780398,Bob Wise,spouse,Q7416569,Sandra Casber Wise
+United States,Q7817389,Tom Riner,spouse,Q111718103,Claudia Riner
 United States,Q7821917,Antony Blinken,father,Q84323643,Donald M. Blinken
 United States,Q7821917,Antony Blinken,spouse,Q5415533,Evan Ryan
 United States,Q7821917,Antony Blinken,stepparent,Q2729586,Samuel Pisar
