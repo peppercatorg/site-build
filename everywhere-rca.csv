@@ -5070,6 +5070,7 @@ Germany,Q86294,Jens Spahn,spouse,Q72569533,Daniel Funke
 Germany,Q865385,Birgitta Maria Siefker-Eberle,spouse,Q2128070,Rainer Eberle
 Germany,Q88087,Ole Schröder,spouse,Q60848,Kristina Schröder
 Germany,Q8863,Klaus Wowereit,partner,Q88919704,Jörn Kubicki
+Germany,Q920705,Britta Ernst,spouse,Q61053,Olaf Scholz
 Germany,Q95574,Johanna Wanka,spouse,Q1515368,Gert Wanka
 Germany,Q96735,Sabine Bätzing-Lichtenthäler,relative,Q1503851,Georg Bätzing
 Germany,Q96820,Johannes Kahrs,father,Q1511746,Wolfgang Kahrs
@@ -5418,6 +5419,7 @@ Hungary,Q102200,Árpád Göncz,spouse,Q78644064,Mária Zsuzsanna Göntér
 Hungary,Q1028913,Péter Gusztos,spouse,Q1120374,Patrícia Kovács
 Hungary,Q1029282,István Gyenesei,child,Q1029280,Leila Gyenesei
 Hungary,Q1029555,Endre Gyimesi,sibling,Q1029568,László Lajos Gyimesi
+Hungary,Q1030490,Kálmán Györgyi,father,Q25478203,Géza Györgyi
 Hungary,Q1032352,Péter Hack,father,Q22975583,Frigyes Hack
 Hungary,Q1034477,Szófia Havas,relative,Q155684,Gyula Horn
 Hungary,Q1055159,Gábor Horn,father,Q106620791,Miklós Horn
@@ -5546,6 +5548,7 @@ Hungary,Q679451,Péter Bárándy,father,Q853494,György Bárándy
 Hungary,Q721791,István Csurka,father,Q874851,Péter Csurka
 Hungary,Q721791,István Csurka,sibling,Q874849,László Csurka
 Hungary,Q731042,József Szájer,spouse,Q1033495,Tünde Handó
+Hungary,Q750646,János Lázár,spouse,Q112136325,Lázárné Megyeri Zita
 Hungary,Q768978,József Torgyán,spouse,Q871046,Mária Cseh
 Hungary,Q7794132,Zsuzsanna Szelényi,spouse,Q1105023,Ferenc Karvalits
 Hungary,Q839873,Mátyás Eörsi,father,Q12348439,Gyula Eörsi
@@ -6630,6 +6633,7 @@ Indonesia,Q3701615,Basuki Tjahaja Purnama,child,Q105675358,Nicholas Purnama
 Indonesia,Q3701615,Basuki Tjahaja Purnama,child,Q105675363,Daud Albeenner Purnama
 Indonesia,Q3701615,Basuki Tjahaja Purnama,child,Q105675367,Nathania Purnama
 Indonesia,Q3701615,Basuki Tjahaja Purnama,child,Q105675381,Yosafat Abimanyu Purnama
+Indonesia,Q3701615,Basuki Tjahaja Purnama,sibling,Q105657736,Harry Tjahaja Purnama
 Indonesia,Q3701615,Basuki Tjahaja Purnama,sibling,Q16170320,Basuri Tjahaja Purnama
 Indonesia,Q3701615,Basuki Tjahaja Purnama,sibling,Q61118833,Fifi Lety Indra
 Indonesia,Q3701615,Basuki Tjahaja Purnama,spouse,Q105657662,Puput Nastiti Devi
@@ -9066,6 +9070,7 @@ Norway,Q1082481,Per-Kristian Foss,spouse,Q4998925,Jan Erik Knarbakk
 Norway,Q108641249,Per Vidar Kjølmoen,mother,Q11980215,Karin Kjølmoen
 Norway,Q11030048,Bjarne Store-Jakobsen,child,Q22957911,Elle-Máijá Tailfeathers
 Norway,Q110944991,Athar Ali Tajik,sibling,Q464941,Hadia Tajik
+Norway,Q112133781,Kristine Joy Nordenson Kallset,spouse,Q11048638,Kjell-Erik Kallset
 Norway,Q1157167,Dag Jostein Fjærvoll,father,Q5001767,Edmund Fjærvoll
 Norway,Q11957757,Amund Drønen Ringdal,spouse,Q22003431,Gunn Cecilie Ringdal
 Norway,Q11958268,Anne Karin Olli,sibling,Q3358648,Egil Olli
@@ -12468,6 +12473,7 @@ Timor-Leste,Q11665,José Ramos-Horta,spouse,Q483054,Ana Pessoa Pinto
 Timor-Leste,Q44443794,Cidália Lopes Nobre Mouzinho Guterres,spouse,Q897790,Francisco Guterres
 Timor-Leste,Q483054,Ana Pessoa Pinto,spouse,Q11665,José Ramos-Horta
 Timor-Leste,Q727119,Estanislau da Silva,spouse,Q64606137,Filomena de Almeida
+Timor-Leste,Q897790,Francisco Guterres,spouse,Q44443794,Cidália Lopes Nobre Mouzinho Guterres
 Tonga,Q208497,Tupou VI of Tonga,child,Q13382727,Princess Lātūfuipeka Tukuʻaho
 Tonga,Q208497,Tupou VI of Tonga,child,Q14947549,Prince Ata
 Tonga,Q208497,Tupou VI of Tonga,child,Q1583552,Tupoutoʻa ʻUlukalala
@@ -12716,7 +12722,7 @@ Ukraine,Q1859524,Viktor Medvedchuk,spouse,Q4283159,Oksana Marchenko
 Ukraine,Q18596002,Stepan Barna,sibling,Q18342757,Oleh Barna
 Ukraine,Q186691,Oleh Blokhin,child,Q1274170,Ireesha
 Ukraine,Q186691,Oleh Blokhin,father,Q12082967,Vladimir Blokhin
-Ukraine,Q186691,Oleh Blokhin,mother,Q12076721,Catherine Adamenko
+Ukraine,Q186691,Oleh Blokhin,mother,Q12076721,Kateryna Adamenko
 Ukraine,Q186691,Oleh Blokhin,spouse,Q4159080,Irina Deriugina
 Ukraine,Q189732,Leonid Kravchuk,child,Q12114092,Oleksandr Kravchuk
 Ukraine,Q189732,Leonid Kravchuk,spouse,Q4237389,Antonina Kravchuk
@@ -19224,6 +19230,7 @@ United States,Q5591303,Grace Meng,father,Q6200841,Jimmy Meng
 United States,Q5591303,Grace Meng,sibling,Q111307919,Andy Meng
 United States,Q5591303,Grace Meng,spouse,Q111285541,Wayne Kye
 United States,Q560447,Herb Kohl,child,Q32533777,Dan Kohl
+United States,Q561284,Cedric Richmond,spouse,Q112132457,Raquel Greenup
 United States,Q5648303,Hank Coe,father,Q5723482,Henry Huttleston Rogers Coe
 United States,Q56600071,Wanda Vázquez Garced,spouse,Q88679157,Jorge Díaz Reverón
 United States,Q570173,Paul Gillmor,spouse,Q6369659,Karen Gillmor
