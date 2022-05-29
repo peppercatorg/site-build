@@ -2599,13 +2599,19 @@ Egypt,Q4631,Mohamed Morsi,child,Q67157867,Abdullah Morsi
 Egypt,Q4631,Mohamed Morsi,spouse,Q3080090,Naglaa Mahmoud
 Egypt,Q4696067,Ahmed Zaki Badreldin,father,Q8065083,Zaki Badr
 El Salvador,Q61022687,"Félix Ulloa, Jr.",father,Q2880716,Félix Antonio Ulloa
+Equatorial Guinea,Q112162550,Cándido Nsue Okomo,sibling,Q45147779,Constancia Mangue
+Equatorial Guinea,Q45042829,Gabriel Mbega,father,Q57385,Teodoro Obiang
 Equatorial Guinea,Q45147779,Constancia Mangue,child,Q477201,Teodoro Nguema
+Equatorial Guinea,Q45147779,Constancia Mangue,sibling,Q112162550,Cándido Nsue Okomo
 Equatorial Guinea,Q45147779,Constancia Mangue,spouse,Q57385,Teodoro Obiang
+Equatorial Guinea,Q45320454,Filiberto Ntutumu Nguema,father,Q211936,Francisco Macías Nguema
 Equatorial Guinea,Q477201,Teodoro Nguema,father,Q57385,Teodoro Obiang
 Equatorial Guinea,Q477201,Teodoro Nguema,mother,Q45147779,Constancia Mangue
+Equatorial Guinea,Q57385,Teodoro Obiang,child,Q103916276,Ruslan Obiang Nsue
 Equatorial Guinea,Q57385,Teodoro Obiang,child,Q45042829,Gabriel Mbega
 Equatorial Guinea,Q57385,Teodoro Obiang,child,Q477201,Teodoro Nguema
 Equatorial Guinea,Q57385,Teodoro Obiang,spouse,Q45147779,Constancia Mangue
+Equatorial Guinea,Q63731266,Antonio Mba Nguema,relative,Q57385,Teodoro Obiang
 Eritrea,Q364905,Mahmoud Ahmed Sherifo,spouse,Q4810633,Aster Fissehatsion
 Eritrea,Q57348,Isaias Afwerki,spouse,Q111353633,Arsema Mehari
 Estonia,Q107033991,Jonatan Vseviov,father,Q17447293,David Vseviov

@@ -1,7 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Equatorial Guinea,President,Teodoro Obiang,Q57385,1979-08-03,,male,1942-06-05,,"Teodoro Obiang detail, 1650FRP051.jpg",Teodoro Obiang Nguema Mbasogo
-Equatorial Guinea,Vice President,Teodoro Nguema,Q477201,2012-05-21,,male,1968-06-25,,,Teodoro Nguema Obiang Mangue
-Equatorial Guinea,Vice President,Ignacio Milam Tang,Q57898,2012-05-21,2016-06-22,male,1940-06-20,,,Ignacio Milam Tang
+Equatorial Guinea,Vice-President,Teodoro Nguema,Q477201,2012-05-21,,male,1968-06-25,,,Teodoro Nguema Obiang Mangue
+Equatorial Guinea,Vice-President,Ignacio Milam Tang,Q57898,2012-05-21,2016-06-22,male,1940-06-20,,,Ignacio Milam Tang
 Equatorial Guinea,Prime Minister,Ángel Serafín Seriche Dougan,Q251902,1996-04-11,2001-03-04,male,1946,,,Ángel Serafín Seriche Dougan
 Equatorial Guinea,Prime Minister,Cándido Muatetema Rivas,Q1149802,2001-03-04,2004-06-14,male,1960-02-20,2014-06-16,,Cándido Muatetema Rivas
 Equatorial Guinea,Prime Minister,Miguel Abia Biteo Boricó,Q1353126,2004-06-14,2006-08-14,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
@@ -9,8 +9,203 @@ Equatorial Guinea,Prime Minister,Ricardo Mangue Obama Nfubea,Q602837,2006-08-14,
 Equatorial Guinea,Prime Minister,Ignacio Milam Tang,Q57898,2008-07-08,2012-05-21,male,1940-06-20,,,Ignacio Milam Tang
 Equatorial Guinea,Prime Minister,Vicente Ehate Tomi,Q2201806,2012-05-21,2016-06-22,male,1968,,,Vicente Ehate Tomi
 Equatorial Guinea,Prime Minister,Francisco Pascual Obama Asue,Q24761111,2016-06-22,,male,1949-04-21,,,Francisco Pascual Obama Asue
-Equatorial Guinea,Minister of Foreign Affairs,Santiago Nchama,Q17198388,1999,2003,male,1949,2020-07-08,,Santiago Nsobeya
+Equatorial Guinea,Vice-Prime Minister,Demetrio Elo Ndong Nsefumu,Q112128517,1999-07-22,2001-02-26,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Miguel Oyono Ndongo Mifumu,Q112163005,1999-07-22,2001-02-26,,,,,
+Equatorial Guinea,Vice-Prime Minister,Ignacio Milam Tang,Q57898,2001-02-26,2001-03-09,male,1940-06-20,,,Ignacio Milam Tang
+Equatorial Guinea,Vice-Prime Minister,Ignacio Milam Tang,Q57898,2001-03-09,2003-02-11,male,1940-06-20,,,Ignacio Milam Tang
+Equatorial Guinea,Vice-Prime Minister,Demetrio Elo Ndong Nsefumu,Q112128517,2003-02-11,2004-06-15,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Jeremias Ondo Ngomo,Q112162989,2003-02-11,2004-06-15,,,,,
+Equatorial Guinea,Vice-Prime Minister,Marcelino Oyono Ntutumu,Q112128490,2004-06-15,2006-08-22,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Ricardo Mangue Obama Nfubea,Q602837,2004-06-15,2006-08-22,male,1961,,Ricardo Mangue Obama Nfubea.jpg,Ricardo Mangue Obama Nfubea
+Equatorial Guinea,Vice-Prime Minister,Demetrio Elo Ndong Nsefumu,Q112128517,2006-08-22,2011-02-19,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Aniceto Ebiaka Muete,Q112162960,2006-08-22,2008-07-15,,,,,
+Equatorial Guinea,Vice-Prime Minister,Salomón Nguema Owono,Q112128523,2008-07-15,2011-01-28,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Aniceto Ebiaka Muete,Q112162960,2008-07-15,2012-05-22,,,,,
+Equatorial Guinea,Vice-Prime Minister,Salomón Nguema Owono,Q112128523,2011-01-28,2012-05-22,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Demetrio Elo Ndong Nsefumu,Q112128517,2011-02-19,2012-05-22,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Alfonso Nsue Mokuy,Q112128551,2012-05-22,2015-04-15,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Clemente Engonga Nguema Andeme,Q112162972,2012-05-22,2019-04-10,,,,,
+Equatorial Guinea,Vice-Prime Minister,Lucas Nguema Esono Mbang,Q112133254,2013-09-04,2015-04-15,,,,,
+Equatorial Guinea,Vice-Prime Minister,Alfonso Nsue Mokuy,Q112128551,2015-04-15,2019-12-31,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Francisco Pascual Obama Asue,Q24761111,2015-04-15,2016-06-24,male,1949-04-21,,,Francisco Pascual Obama Asue
+Equatorial Guinea,Vice-Prime Minister,Angel Masie Mibuy,Q112128540,2016-06-24,2019-12-31,male,,,,
+Equatorial Guinea,Vice-Prime Minister,Teodoro Nguema,Q477201,2016-06-24,2019-12-31,male,1968-06-25,,,Teodoro Nguema Obiang Mangue
+Equatorial Guinea,Minister of Administrative Coordination,Antonio Martin Ndong Ntutumu,Q112162962,2004-06-15,2006-08-22,,,,,
+Equatorial Guinea,Minister of Administrative Coordination,Fortunato Ofa Mbo Nchama,Q112128545,2006-08-22,2008-07-15,male,,,,
+Equatorial Guinea,Minister of Administrative Coordination,Vicente Ehate Tomi,Q2201806,2008-07-15,2010-01-12,male,1968,,,Vicente Ehate Tomi
+Equatorial Guinea,Minister of Administrative Coordination,Mauricio Bokung Asumu,Q112128491,2010-01-12,2011-01-28,male,,,,
+Equatorial Guinea,Minister of Administrative Coordination,Vicente Ehate Tomi,Q2201806,2011-01-28,2012-05-22,male,1968,,,Vicente Ehate Tomi
+Equatorial Guinea,Minister of Agriculture,Gregorio Boho Camo,Q112162987,2001-03-09,2003-02-11,,,,,
+Equatorial Guinea,Minister of Agriculture,Francisco Pascual Obama Asue,Q24761111,2003-02-11,2004-06-15,male,1949-04-21,,,Francisco Pascual Obama Asue
+Equatorial Guinea,Minister of Agriculture,Teodoro Nguema,Q477201,2004-06-15,2012-05-22,male,1968-06-25,,,Teodoro Nguema Obiang Mangue
+Equatorial Guinea,Minister of Agriculture,Miguel Oyono Ndongo Mifumu,Q112163005,2012-05-22,2013-09-04,,,,,
+Equatorial Guinea,Minister of Agriculture,Alfredo Mitogo Mitogo,Q112133375,2013-09-04,2015-04-15,male,,,,
+Equatorial Guinea,Minister of Agriculture,Francisco Mba Olo Bahamonde,Q112128550,2015-04-15,2019-12-31,male,,,,
+Equatorial Guinea,Minister of Agriculture,Víctor Grange Meile,Q112163021,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Agriculture,Nicolás Houtonji Acapo,Q112163009,2018-02-06,2019-12-31,,,,,
+Equatorial Guinea,Minister of Budget,Marcelino Owono Edu,Q29122413,2003-02-11,2004-06-15,male,1963,,,
+Equatorial Guinea,Minister of Civil Aviation,Fausto Abeso Fuma,Q5438322,2016-06-24,2018-02-06,male,,,Vladimir Putin with Fausto Abeso Fuma.jpg,Fausto Abeso Fuma
+Equatorial Guinea,Minister of Civil Aviation,Leandro Miko Angue,Q112162996,2018-02-06,2019-12-31,,,,,
+Equatorial Guinea,Minister of Civil Cabinet,Braulio Ncogo Abegue,Q112162969,2008-07-15,2016-06-24,,,,,
+Equatorial Guinea,Minister of Civil Service and Administrative Reform,Fernando Mbale Mba,Q112162983,1998-01-23,2001-03-09,,,,,
+Equatorial Guinea,Minister of Civil Service and Administrative Reform,Vicente Ehate Tomi,Q2201806,2006-08-22,2008-07-15,male,1968,,,Vicente Ehate Tomi
+Equatorial Guinea,Minister of Control and Prevention of HIV - AIDS and Sexually Transmitted Diseases,Tomas Mecheba Fernandez Galllea,Q112133279,2013-09-04,2016-06-24,male,,,,
+Equatorial Guinea,Minister of Culture,Guillermina Mekuy,Q24685671,2016-06-24,2018-02-06,female,1982-06-25,,Guillermina Mekuy.jpg,
+Equatorial Guinea,Minister of Culture,Rufino Ndong Esono Nchama,Q112163013,2018-02-06,2019-12-31,,,,,
+Equatorial Guinea,Minister of Defence,Teodoro Obiang,Q57385,1993-12-22,2004-06-15,male,1942-06-05,,"Teodoro Obiang detail, 1650FRP051.jpg",Teodoro Obiang Nguema Mbasogo
+Equatorial Guinea,Minister of Defence,Antonio Mba Nguema,Q63731266,2004-06-15,2016-06-24,male,1952-11-17,2019-05-05,,
+Equatorial Guinea,Minister of Defence,Vicente Eya Olomo,Q112163019,2016-06-24,2017-05-30,,,,,
+Equatorial Guinea,Minister of Defence,Alejandro Bacale Ncogo,Q112162957,2018-02-06,2019-12-31,,,,,
+Equatorial Guinea,Minister of Economy,Miguel Abia Biteo Boricó,Q1353126,1999-07-22,2001-03-09,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
+Equatorial Guinea,Minister of Economy,Baltasar Engonga Edjo,Q112162967,2001-03-09,2004-06-15,,,,,
+Equatorial Guinea,Minister of Economy,Jaime Ela Ndong,Q112128530,2004-06-15,2008-07-15,male,,,,
+Equatorial Guinea,Minister of Economy,Pedro Ondo Nguema Okomo,Q112133267,2008-07-15,2011-01-28,,,,,
+Equatorial Guinea,Minister of Economy,Francisca Tatchoup Belope,Q112133405,2011-01-28,2012-05-22,,,,,
+Equatorial Guinea,Minister of Economy,Celestino Bonifacio Bakale Obiang,Q112162971,2012-05-22,2013-09-04,,,,,
+Equatorial Guinea,Minister of Economy,Conrado Okenve Ndoho,Q112133387,2013-09-04,2015-04-15,,,,,
+Equatorial Guinea,Minister of Economy,Eucario Bakale Angüe,Q112133244,2015-04-15,2018-02-06,,,,,
+Equatorial Guinea,Minister of Education,Santiago Ngua Nfumu Eyang,Q112128487,1998-01-23,2001-03-09,male,,,,
+Equatorial Guinea,Minister of Education,Antonio Fernando Nve Ngu,Q112128529,2001-03-09,2003-02-11,male,,,,
+Equatorial Guinea,Minister of Education,Antonio Fernando Nve Ngu,Q112128529,2003-02-11,2004-06-15,male,,,,
+Equatorial Guinea,Minister of Education,Cristóbal Meñana Ela,Q112128524,2004-06-15,2008-07-15,male,,,,
+Equatorial Guinea,Minister of Education,Anselmo Ondo Eseno,Q112162961,2008-07-15,2010-01-12,,,,,
+Equatorial Guinea,Minister of Education,Filiberto Ntutumu Nguema,Q45320454,2010-01-12,2011-01-28,male,,,,
+Equatorial Guinea,Minister of Education,Joaquín Mbana Nchama,Q112162990,2011-01-28,2012-05-22,,,,,
+Equatorial Guinea,Minister of Education,Maria del Carmen Ekoro,Q112162998,2012-05-22,2013-09-04,,,,,
+Equatorial Guinea,Minister of Education,Jesus Engonga Ndong Eyono,Q112133418,2015-04-15,2018-02-06,,,,,
+Equatorial Guinea,Minister of Education,Jesus Engonga Ndong Eyono,Q112133418,2018-02-06,2019-04-10,,,,,
+Equatorial Guinea,Minister of Education,Clemente Engonga Nguema Andeme,Q112162972,2019-04-10,2019-12-31,,,,,
+Equatorial Guinea,Minister of External Security,Juan Antonio Bibang Nchuchuma,Q112133252,2018-02-06,2019-12-31,,,,,
+Equatorial Guinea,Minister of Finance,Marcelino Owono Edu,Q29122413,2004-06-15,2008-07-15,male,1963,,,
+Equatorial Guinea,Minister of Finance,Estanislao Don Malavo,Q112162980,2008-07-15,2010-01-12,,,,,
+Equatorial Guinea,Minister of Finance,Melchor Esono Edjo,Q112133263,2010-01-12,2012-05-22,,,,,
+Equatorial Guinea,Minister of Finance,Marcelino Owono Edu,Q29122413,2012-05-22,2015-04-15,male,1963,,,
+Equatorial Guinea,Minister of Finance,Miguel Engonga Obiang Eyang,Q112163003,2015-04-15,2018-02-06,,,,,
+Equatorial Guinea,Minister of Finance,Lucas Abaga Nchama,Q17711819,2018-02-06,2019-04-10,male,1961-03-04,,,
+Equatorial Guinea,Minister of Finance,César Augusto Mba Abogo,Q112162976,2019-04-10,2019-12-31,,,,,
+Equatorial Guinea,Minister of Fishing,Fortunato Ofa Mbo Nchama,Q112128545,2003-02-11,2006-08-22,male,,,,
+Equatorial Guinea,Minister of Fishing,Vicente Rodriguez Siosa,Q112133280,2006-08-22,2008-07-15,male,,,,
+Equatorial Guinea,Minister of Fishing,Anastasio Asumu Mum Muñoz,Q112133227,2008-07-15,2012-05-22,male,,,,
+Equatorial Guinea,Minister of Fishing,Crescencio Tamarite Castano,Q112162975,2012-05-22,2015-04-15,,,,,
+Equatorial Guinea,Minister of Fishing,Estanislao Don Malavo,Q112162980,2015-04-15,2016-06-24,,,,,
+Equatorial Guinea,Minister of Fishing,Estanislao Don Malavo,Q112162980,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Fishing,Adoracion Salas Chonco,Q112133372,2018-02-06,2019-12-31,female,,,,
+Equatorial Guinea,Minister of Foreign Affairs,Santiago Nchama,Q17198388,1999-07-22,2001-03-09,male,1949,2020-07-08,,Santiago Nsobeya
+Equatorial Guinea,Minister of Foreign Affairs,Santiago Nchama,Q17198388,2001-03-09,2003-02-11,male,1949,2020-07-08,,Santiago Nsobeya
+Equatorial Guinea,Minister of Foreign Affairs,Pastor Micha Ondó Bile,Q58151,2003-02-11,2012-05-22,male,1952,,,Pastor Micha Ondó Bile
+Equatorial Guinea,Minister of Foreign Affairs,Agapito Mba Mokuy,Q24574730,2012-05-22,2018-02-06,male,1965-03-10,,Agapito Mba Mokuy.png,
+Equatorial Guinea,Minister of Foreign Affairs,Simeón Oyono Esono,Q55098190,2018-02-06,2019-12-31,male,1967-02-18,,Simeón Oyono Esono Angué.jpg,
+Equatorial Guinea,Minister of Forests,Teodoro Nguema,Q477201,1999-07-22,2003-02-11,male,1968-06-25,,,Teodoro Nguema Obiang Mangue
+Equatorial Guinea,Minister of Forests,Francisco Mba Olo Bahamonde,Q112128550,2016-06-24,2018-02-06,male,,,,
+Equatorial Guinea,Minister of Health,Juan Antonio Ntutumu,Q112162993,1999-07-22,2001-03-09,,,,,
+Equatorial Guinea,Minister of Health,Marcelino Nguema Onguene,Q55104853,2001-03-09,2003-02-11,male,,,,
+Equatorial Guinea,Minister of Health,Justino Obama Nve,Q112162995,2003-02-11,2006-08-22,,,,,
+Equatorial Guinea,Minister of Health,Antonio Martin Ndong Ntutumu,Q112162962,2006-08-22,2008-07-15,,,,,
+Equatorial Guinea,Minister of Health,Francisco Pascual Obama Asue,Q24761111,2008-07-15,2011-01-28,male,1949-04-21,,,Francisco Pascual Obama Asue
+Equatorial Guinea,Minister of Health,Tomas Mecheba Fernandez Galllea,Q112133279,2012-05-22,2013-09-04,male,,,,
+Equatorial Guinea,Minister of Health,Diosdado Vicente Nsue Milan,Q112162978,2013-09-04,2016-06-24,,,,,
+Equatorial Guinea,Minister of Health,Salomón Nguema Owono,Q112128523,2016-06-24,2019-12-31,male,,,,
+Equatorial Guinea,Minister of Industry,Constantino Ekong Zue,Q112162973,1999-07-22,2003-02-11,,,,,
+Equatorial Guinea,Minister of Industry,Carmelo Modu Acusé Bindang,Q112162970,2003-02-11,2004-06-15,,,,,
+Equatorial Guinea,Minister of Industry,Eugenio Edu Ndong,Q112162981,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Industry,Miguel Ekua Ondo,Q112163002,2018-02-06,2019-12-31,,,,,
+Equatorial Guinea,Minister of Information,Lucas Nguema Esono Mbang,Q112133254,1999-07-22,2003-02-11,,,,,
+Equatorial Guinea,Minister of Information,Augustin Nse Nfumu,Q112162966,2003-02-11,2004-06-15,,,,,
+Equatorial Guinea,Minister of Information,Alfonso Nsue Mokuy,Q112128551,2004-06-15,2006-08-22,male,,,,
 Equatorial Guinea,Minister of Information,Santiago Nchama,Q17198388,2006,2008,male,1949,2020-07-08,,Santiago Nsobeya
+Equatorial Guinea,Minister of Information,Jeronimo Osa Osa Ecoro,Q3177434,2008-07-15,2012-05-22,male,1963-11,,,
+Equatorial Guinea,Minister of Information,Augustin Nse Nfumu,Q112162966,2012-05-22,2013-09-04,,,,,
+Equatorial Guinea,Minister of Information,Teobaldo Nchaso Matomba,Q112163017,2013-09-04,2015-04-15,,,,,
+Equatorial Guinea,Minister of Information,Eugenio Nse Obiang,Q112133750,2015-04-15,2019-12-31,male,,,,
+Equatorial Guinea,Minister of Infrastructure and Forests,Teodoro Nguema,Q477201,2003-02-11,2004-06-15,male,1968-06-25,,,Teodoro Nguema Obiang Mangue
+Equatorial Guinea,Minister of Interior,Clemente Engonga Nguema Andeme,Q112162972,2001-03-09,2012-05-22,,,,,
+Equatorial Guinea,Minister of Interior,Faustino Ndong Esono Eyang,Q112162982,2019-04-10,2019-12-31,,,,,
+Equatorial Guinea,Minister of Justice,Ruben Mye Nsue,Q112163012,1998-01-23,2004-06-15,,,,,
+Equatorial Guinea,Minister of Justice,Angel Masie Mibuy,Q112128540,2004-06-15,2006-08-22,male,,,,
+Equatorial Guinea,Minister of Justice,Mauricio Bokung Asumu,Q112128491,2006-08-22,2008-07-15,male,,,,
+Equatorial Guinea,Minister of Justice,Salvador Ondo Nkumu,Q112163016,2008-07-15,2011-01-28,,,,,
+Equatorial Guinea,Minister of Justice,Francisco Javier Ngomo Mbengono,Q112162986,2011-01-28,2013-09-04,,,,,
+Equatorial Guinea,Minister of Justice,Evangelina Oyo Ebule,Q42907516,2013-09-04,2018-02-06,female,,,,Evangelina Oyo Ebule
+Equatorial Guinea,Minister of Justice,Salvador Ondo Nkumu,Q112163016,2018-02-06,2020-01-17,,,,,
+Equatorial Guinea,Minister of Labour,Ricardo Mangue Obama Nfubea,Q602837,1999-07-22,2003-02-11,male,1961,,Ricardo Mangue Obama Nfubea.jpg,Ricardo Mangue Obama Nfubea
+Equatorial Guinea,Minister of Labour,Miguel Eyanga Jobe Malango,Q112163004,2003-02-11,2004-06-15,,,,,
+Equatorial Guinea,Minister of Labour,Enrique Mercader Costa,Q112133587,2004-06-15,2006-06-15,male,,,,
+Equatorial Guinea,Minister of Labour,Demetrio Elo Ndong Nsefumu,Q112128517,2006-06-15,2006-08-22,male,,,,
+Equatorial Guinea,Minister of Labour,Evangelina Oyo Ebule,Q42907516,2006-08-22,2008-07-15,female,,,,Evangelina Oyo Ebule
+Equatorial Guinea,Minister of Labour,Mauricio Bokung Asumu,Q112128491,2008-07-15,2010-01-12,male,,,,
+Equatorial Guinea,Minister of Labour,Estanislao Don Malavo,Q112162980,2010-01-12,2012-05-22,,,,,
+Equatorial Guinea,Minister of Labour,Miguel Abia Biteo Boricó,Q1353126,2012-05-22,2012-12-06,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
+Equatorial Guinea,Minister of Labour,Heriberto Mico Mbengono,Q112162988,2013-01-30,2016-06-24,,,,,
+Equatorial Guinea,Minister of Labour,Ángel Borico Moisés,Q112163023,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Labour,Celestino Bonifacio Bakale Obiang,Q112162971,2018-02-06,2019-12-31,,,,,
+Equatorial Guinea,Minister of Mines,Cristóbal Meñana Ela,Q112128524,1999-07-22,2004-06-15,male,,,,
+Equatorial Guinea,Minister of Mines,Atanasio Ela Ntugu Nsa,Q112128507,2004-06-15,2008-07-15,male,,,,
+Equatorial Guinea,Minister of Mines,Marcelino Owono Edu,Q29122413,2008-07-15,2012-05-22,male,1963,,,
+Equatorial Guinea,Minister of Mines,Gabriel Mbega,Q45042829,2012-05-22,2016-06-24,male,1972,,,Gabriel Mbaga Obiang Lima
+Equatorial Guinea,Minister of Mines,Gabriel Mbega,Q45042829,2016-06-24,2019-12-31,male,1972,,,Gabriel Mbaga Obiang Lima
+Equatorial Guinea,Minister of Missions,Alejandro Evuna Owono Asangono,Q112162958,1989-11-25,2019-12-31,,,,,
+Equatorial Guinea,Minister of National Security,Manuel Nguema Mba,Q112162997,2004-06-15,2009-02-24,,,,,
+Equatorial Guinea,Minister of National Security,Nicolas Obama Nchama,Q112163007,2009-02-24,2019-12-31,,,,,
+Equatorial Guinea,Minister of Parliament Relations,Antonio Fernando Nve Ngu,Q112128529,1999-07-22,2001-03-09,male,,,,
+Equatorial Guinea,Minister of Parliament Relations,Miguel Abia Biteo Boricó,Q1353126,2001-03-09,2004-06-15,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
+Equatorial Guinea,Minister of Planning,Fortunato Ofa Mbo Nchama,Q112128545,1999-07-22,2003-02-11,male,,,,
+Equatorial Guinea,Minister of Planning,Antonio Nve Nseng,Q112162963,2003-02-11,2004-06-15,,,,,
+Equatorial Guinea,Minister of Planning,Carmelo Modu Acusé Bindang,Q112162970,2004-06-15,2006-08-22,,,,,
+Equatorial Guinea,Minister of Planning,José Ela Oyana,Q112162991,2006-08-22,2012-05-22,,,,,
+Equatorial Guinea,Minister of Planning,Conrado Okenve Ndoho,Q112133387,2012-05-22,2013-09-04,,,,,
+Equatorial Guinea,Minister of Political and Administrative Affairs,Carmelo Modu Acusé Bindang,Q112162970,2006-08-22,2008-07-15,,,,,
+Equatorial Guinea,Minister of Presidential Security,Antonio Mba Nguema,Q63731266,2016-06-24,2019-12-31,male,1952-11-17,2019-05-05,,
+Equatorial Guinea,Minister of Promotion of Small and Medium Businesses,Hermes Ela Mifumu,Q112133412,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Public Administration and Administrative Reform,Faustino Ndong Esono Eyang,Q112162982,2016-06-24,2019-04-10,,,,,
+Equatorial Guinea,Minister of Public Administration and Administrative Reform,Eucario Bakale Angüe,Q112133244,2019-04-10,2019-12-31,,,,,
+Equatorial Guinea,Minister of Public Service and Administrative Planning,Salvador Mangue Avingono,Q112163015,2008-07-15,2010-01-12,,,,,
+Equatorial Guinea,Minister of Public Service and Administrative Planning,Tomas Esono Ava,Q112163018,2010-01-12,2012-05-22,,,,,
+Equatorial Guinea,Minister of Public Service and Administrative Planning,Purificacion Buari Lasaqueros,Q112163010,2012-05-22,2016-06-24,,,,,
+Equatorial Guinea,Minister of Public Works,Florentino Nkogo Ndong,Q112162985,1999-07-22,2003-02-11,,,,,
+Equatorial Guinea,Minister of Public Works,Ricardo Mangue Obama Nfubea,Q602837,2003-02-11,2004-06-15,male,1961,,Ricardo Mangue Obama Nfubea.jpg,Ricardo Mangue Obama Nfubea
+Equatorial Guinea,Minister of Public Works,Pedro Ondo Nguema Okomo,Q112133267,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Public Works,Diosdado Nsue Medja,Q112162977,2018-02-06,2019-12-31,,,,,
+Equatorial Guinea,Minister of Regional Integration,Baltasar Engonga Edjo,Q112162967,2006-02-14,2019-12-31,,,,,
+Equatorial Guinea,Minister of Relations with Parliament and Legal Affairs of the Government,Angel Masie Mibuy,Q112128540,2006-08-22,2016-06-24,male,,,,
+Equatorial Guinea,Minister of Social Affairs,Eulalia Envo Bela,Q112133557,2006-08-22,2012-05-22,female,,,,
+Equatorial Guinea,Minister of Social Affairs,Maria Leonor Epam Biribe,Q112133717,2012-05-22,2013-09-04,female,,,,
+Equatorial Guinea,Minister of Social Affairs,Maria del Carmen Ekoro,Q112162998,2013-09-04,2015-04-15,,,,,
+Equatorial Guinea,Minister of Social Affairs,Consuelo Ondo Nsang,Q112133389,2015-04-15,2018-02-06,female,,,,
+Equatorial Guinea,Minister of Social Affairs,María Consuelo Nguema Oyana,Q112162999,2018-02-06,2019-12-31,,,,,
+Equatorial Guinea,Minister of Telecommunications and New Technologies,Maximiliano Meko Aveme,Q112163001,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Tourism,Tomas Mecheba Fernandez Galllea,Q112133279,2016-06-24,2018-02-06,male,,,,
+Equatorial Guinea,Minister of Town Planning,Reginaldo Asue Mangue,Q112163011,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Trade,Celestino Bonifacio Bakale Obiang,Q112162971,2013-09-04,2015-04-15,,,,,
+Equatorial Guinea,Minister of Trade,Alfredo Mitogo Mitogo,Q112133375,2015-04-15,2016-06-24,male,,,,
+Equatorial Guinea,Minister of Trade,Antonio Pedro Olivera Boropu,Q112162965,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Trade,Pastor Micha Ondó Bile,Q58151,2018-02-06,2019-12-31,male,1952,,,Pastor Micha Ondó Bile
+Equatorial Guinea,Minister of Transport,Marcelino Oyono Ntutumu,Q112128490,1998-01-23,2004-06-15,male,,,,
+Equatorial Guinea,Minister of Transport,Demetrio Elo Ndong Nsefumu,Q112128517,2004-06-15,2006-06-15,male,,,,
+Equatorial Guinea,Minister of Transport,Enrique Mercader Costa,Q112133587,2006-06-15,2010-01-12,male,,,,
+Equatorial Guinea,Minister of Transport,Vicente Ehate Tomi,Q2201806,2010-01-12,2011-01-28,male,1968,,,Vicente Ehate Tomi
+Equatorial Guinea,Minister of Transport,Mauricio Bokung Asumu,Q112128491,2011-01-28,2012-05-22,male,,,,
+Equatorial Guinea,Minister of Transport,Francisco Mba Olo Bahamonde,Q112128550,2012-05-22,2015-04-15,male,,,,
+Equatorial Guinea,Minister of Transport,Celestino Bonifacio Bakale Obiang,Q112162971,2015-04-15,2016-06-24,,,,,
+Equatorial Guinea,Minister of Transport,Celestino Bonifacio Bakale Obiang,Q112162971,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Transport,Eucario Bakale Angüe,Q112133244,2018-02-06,2019-04-10,,,,,
+Equatorial Guinea,Minister of Transport,Rufino Owono Engonga,Q112163014,2019-04-10,2019-12-31,,,,,
+Equatorial Guinea,Minister of Urban Planning and Infrastructure,Aniceto Ebiaka Muete,Q112162960,2004-06-15,2006-08-22,,,,,
+Equatorial Guinea,Minister of Urban Planning and Infrastructure,Fidel Nsue Micha,Q112162984,2006-08-22,2008-07-15,,,,,
+Equatorial Guinea,Minister of Urban Planning and Infrastructure,Marcelino Oyono Ntutumu,Q112128490,2008-07-15,2011-02-19,male,,,,
+Equatorial Guinea,Minister of Urban Planning and Infrastructure,Juan Nko Mbula,Q112162994,2012-05-22,2016-06-24,,,,,
+Equatorial Guinea,Minister of Women,Teresa Efua Asangono,Q100786539,1999-07-22,2004-06-15,female,,,,Teresa Efua Asangono
+Equatorial Guinea,Minister of Women,Jesusa Obono Engono,Q112128467,2004-06-15,2006-08-22,female,,,,
+Equatorial Guinea,Minister of Youth and Sports,Vidal Djoni Becoba,Q112163020,1999-07-22,2001-03-09,,,,,
+Equatorial Guinea,Minister of Youth and Sports,Juan Antonio Ntutumu,Q112162993,2001-03-09,2003-02-11,,,,,
+Equatorial Guinea,Minister of Youth and Sports,Lucas Nguema Esono Mbang,Q112133254,2003-02-11,2004-06-15,,,,,
+Equatorial Guinea,Minister of Youth and Sports,Francisco Pascual Obama Asue,Q24761111,2012-05-22,2015-04-15,male,1949-04-21,,,Francisco Pascual Obama Asue
+Equatorial Guinea,Minister of Youth and Sports,Andrés Jorge Mbomio Nsem Abu,Q112162959,2015-04-15,2017-06-13,,,,,
+Equatorial Guinea,Minister of Youth and Sports,Cándido Nsue Okomo,Q112162550,2017-06-13,2018-02-06,male,,,,
+Equatorial Guinea,Minister at the Presidency,Alfonso Nsue Mokuy,Q112128551,2006-08-22,2008-07-15,male,,,,
+Equatorial Guinea,Minister without Portfolio,Ignacio Milam Tang,Q57898,2003-02-11,2004-06-15,male,1940-06-20,,,Ignacio Milam Tang
+Equatorial Guinea,Minister without Portfolio,Tomas Esono Ava,Q112163018,2012-05-22,2013-09-04,,,,,
+Equatorial Guinea,Minister without Portfolio,Faustino Ndong Esono Eyang,Q112162982,2013-09-04,2016-06-24,,,,,
+Equatorial Guinea,Minister without Portfolio,Baltasar Esono Oworo Nfono,Q112162968,2016-06-24,2019-12-31,,,,,
 Equatorial Guinea,First Lady,Constancia Mangue,Q45147779,1979-08-03,,female,1951-08-20,,Constancia Mangue (cropped).jpg,Constancia Mangue
 Equatorial Guinea,ambassador to Spain,Ignacio Milam Tang,Q57898,2006-01-10,2008-07,male,1940-06-20,,,Ignacio Milam Tang
 Equatorial Guinea,ambassador to Spain,Purificación Angue Ondo,Q28532112,2013-09-24,,female,1946,,,Purificación Angue Ondo
