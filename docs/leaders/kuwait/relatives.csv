@@ -1,9 +1,12 @@
 catalog,id,name,relationship,relative,relativename
 Kuwait,Q104175576,Thamer Ali Sabah Al-Salem Al-Sabah,father,Q12228117,علي صباح السالم الصباح
+Kuwait,Q109257335,Fahed Ahmad Al-Amir,sibling,Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah
 Kuwait,Q12223432,Abdullah Al-Nibari,spouse,Q111310130,Feryal Al-Furaih
 Kuwait,Q12247753,Nasser Sabah Al-Ahmad Al-Sabah,father,Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah
 Kuwait,Q12247753,Nasser Sabah Al-Ahmad Al-Sabah,mother,Q99766947,Fatouh Salman Al-Sabah
 Kuwait,Q12247753,Nasser Sabah Al-Ahmad Al-Sabah,spouse,Q12208366,حصه صباح السالم الصباح
+Kuwait,Q16934197,Mohammad Al Khalid Al Sabah,sibling,Q12219691,Sabah Al-Khalid Al-Sabah
+Kuwait,Q16934197,Mohammad Al Khalid Al Sabah,sibling,Q16159745,Ahmad Al Khalid Al Sabah
 Kuwait,Q20684349,Mohammed Khaled Al-Khadher,sibling,Q12212948,Rashed Khaled Al-Khadher
 Kuwait,Q217194,Jaber al-Ahmad al-Sabah,father,Q400907,Ahmad Al-Jaber Al-Sabah
 Kuwait,Q217194,Jaber al-Ahmad al-Sabah,mother,Q12200350,بيبي السالم الصباح
