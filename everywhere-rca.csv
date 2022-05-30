@@ -1342,10 +1342,12 @@ Bulgaria,Q12281406,Igor Damyanov,father,Q12293738,Simeon Damyanov
 Bulgaria,Q12285342,Lyuben Dilov Jr.,father,Q907201,Lyuben Dilov
 Bulgaria,Q12290597,Petar Stoyanovich,mother,Q12272048,Ani Bakalova
 Bulgaria,Q12290597,Petar Stoyanovich,sibling,Q105825638,Димитър Стоянович
+Bulgaria,Q1509254,"Georgi Pirinski, Jr.",father,Q3407706,Georgi Pirinski Sr.
 Bulgaria,Q18518477,Petar Moskov,mother,Q12279865,Emma Moskova
 Bulgaria,Q18757290,Hristo Ivanov,mother,Q98148050,Maria Boykikeva
 Bulgaria,Q202117,Sergei Stanishev,father,Q12278614,Dimitar Stanishev
 Bulgaria,Q2064558,Vezhdi Rashidov,mother,Q12282309,Kadriye Latifova
+Bulgaria,Q2080774,Angel Marin,spouse,Q106823315,Stanka Marina
 Bulgaria,Q26257557,Rumen Radev,spouse,Q38222457,Desislava Radeva
 Bulgaria,Q295212,Rosen Plevneliev,spouse,Q17278804,Yuliyana Plevnelieva
 Bulgaria,Q30317864,Emil Karanikolov,father,Q25478136,Любен Караниколов
@@ -1945,6 +1947,7 @@ Colombia,Q57311,Juan Manuel Santos,sibling,Q5833784,Enrique Santos Calderón
 Colombia,Q57311,Juan Manuel Santos,spouse,Q9029971,María Clemencia Rodríguez Múnera
 Colombia,Q5750450,Carlos García Orjuela,child,Q17625094,Pierre García
 Colombia,Q5759860,Cecilia Álvarez-Correa Glen,spouse,Q5562912,Gina Parody
+Colombia,Q6047437,Néstor Cianuro Humberto Martínez,father,Q20829852,Humberto Martínez Salcedo
 Colombia,Q6292038,José David Name,father,Q6293541,José Name Terán
 Colombia,Q6299134,Juan Camilo Restrepo Salazar,spouse,Q29263404,Maria Teresa Herrán
 Colombia,Q6793599,Mauricio Cárdenas Santa María,sibling,Q7145571,Patricia Eugenia Cárdenas Santa María
@@ -3822,6 +3825,8 @@ Faroe Islands,Q657419,Karsten Hansen,father,Q37344323,Fríðrikur Hansen
 Faroe Islands,Q67080693,Uni Rasmussen,sibling,Q17106701,Joen Magnus Rasmussen
 Faroe Islands,Q754857,Annika Olsen,father,Q11979618,Jákup Olsen
 Fiji,Q109012733,Wiliame Katonivere,sibling,Q4699115,Aisea Katonivere
+Fiji,Q373605,Epeli Nailatikau,father,Q5342195,Edward Cakobau
+Fiji,Q373605,Epeli Nailatikau,spouse,Q6426284,Koila Nailatikau
 Fiji,Q469507,Kamisese Mara,child,Q4812982,Ateca Ganilau
 Fiji,Q469507,Kamisese Mara,child,Q75901430,Adi Litia Cakobau Mara
 Fiji,Q469507,Kamisese Mara,child,Q75921847,Adi Koila Mara
@@ -10128,6 +10133,7 @@ Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q3550636,Strike Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q7288569,Ram Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q919045,Bong Revilla
 Philippines,Q7351859,Roberto Puno,father,Q15634561,Ricardo C. Puno
+Philippines,Q7351859,Roberto Puno,relative,Q112153161,Norberto P. Romualdez
 Philippines,Q7351859,Roberto Puno,sibling,Q5295761,Dong Puno
 Philippines,Q7351859,Roberto Puno,sibling,Q983326,Ronaldo Puno
 Philippines,Q7363071,Romeo Acop,spouse,Q66776948,Resurreccion Acop
@@ -10160,6 +10166,7 @@ Philippines,Q983324,Bongbong Marcos,sibling,Q2208719,Imee Marcos
 Philippines,Q983324,Bongbong Marcos,sibling,Q6069124,Irene Marcos-Araneta
 Philippines,Q983324,Bongbong Marcos,spouse,Q35283279,Liza Marcos
 Philippines,Q983326,Ronaldo Puno,father,Q15634561,Ricardo C. Puno
+Philippines,Q983326,Ronaldo Puno,relative,Q112153161,Norberto P. Romualdez
 Philippines,Q983326,Ronaldo Puno,sibling,Q5295761,Dong Puno
 Philippines,Q983326,Ronaldo Puno,sibling,Q7351859,Roberto Puno
 Philippines,Q984265,Kiko Pangilinan,spouse,Q466942,Sharon Cuneta
@@ -11550,6 +11557,7 @@ Spain,Q116812,Oriol Junqueras,sibling,Q108185246,Roger Junqueras i Vies
 Spain,Q116812,Oriol Junqueras,spouse,Q58226735,Neus Bramona
 Spain,Q11685275,Jone Berriozabal Bóveda,father,Q93381169,Román Berriozabal Azpitarte
 Spain,Q11685445,Joseba Álvarez,father,Q1019186,Txillardegi
+Spain,Q11689876,Luis Planas,relative,Q9013237,Josep Maria Planes i Martí
 Spain,Q11690740,Manuela de Madre,spouse,Q11905846,Antoni Fogué i Moya
 Spain,Q11692643,Miguel Buen,sibling,Q11922959,Francisco Buen Lacambra
 Spain,Q11703587,Santiago Abascal Conde,father,Q33523898,Santiago Abascal Escuza
@@ -11641,7 +11649,7 @@ Spain,Q16189675,Antoni Comín i Oliveres,father,Q1748144,Alfonso Carlos Comín
 Spain,Q16189675,Antoni Comín i Oliveres,sibling,Q63352548,Betona Comín i Oliveres
 Spain,Q16297359,Cayetana Álvarez de Toledo,spouse,Q73230875,Joaquín Güell Ampuero
 Spain,Q16570401,Gabriel Ferrán de Alfaro,child,Q60745792,Gabriel Ferrán Carrión
-Spain,Q16651619,Álvaro Lapuerta,father,Q84710774,José María de Lapuerta y de Las Pozas
+Spain,Q16651619,Álvaro Lapuerta,father,Q84710774,José María de Lapuerta y de las Pozas
 Spain,Q17032438,Marina Llansana i Rosich,partner,Q20101853,Oriol Soler i Castanys
 Spain,Q17033177,Marta Pascal i Capdevila,spouse,Q55702016,Joaquim Bohils
 Spain,Q17036721,Josep Rull i Andreu,partner,Q59343390,Meritxell Lluís i Vall
@@ -11712,7 +11720,7 @@ Spain,Q2065232,Raül Romeva,spouse,Q55714607,Diana Riba Giner
 Spain,Q20758196,Mireia Boya Busquet,mother,Q11935469,Maria Pilar Busquet i Medan
 Spain,Q20758196,Mireia Boya Busquet,sibling,Q19300753,Jusèp Boya i Busquet
 Spain,Q2083681,Esperanza Aguirre,child,Q5444889,Fernando Ramírez de Haro
-Spain,Q2083681,Esperanza Aguirre,relative,Q440610,Ouka Lele
+Spain,Q2083681,Esperanza Aguirre,relative,Q440610,Ouka Leele
 Spain,Q2083681,Esperanza Aguirre,relative,Q5940069,José Gil de Biedma
 Spain,Q2083681,Esperanza Aguirre,relative,Q8240605,Baldomero Vega de Seoane y Andrea Pérez
 Spain,Q2083681,Esperanza Aguirre,relative,Q978013,Jaime Gil de Biedma
@@ -12039,7 +12047,10 @@ Spain,Q5866146,Francisco Javier Elorza,child,Q5866149,Francisco Javier Elorza y 
 Spain,Q5873315,Gabriel Elorriaga Pisarik,father,Q3395509,Gabriel Elorriaga Fernández
 Spain,Q5873315,Gabriel Elorriaga Pisarik,sibling,Q5724133,Beatriz Elorriaga Pisarik
 Spain,Q5889949,Gustavo de Arístegui,father,Q6069435,Pedro Manuel de Arístegui y Petit
-Spain,Q5934104,Jone Goirizelaia Ordorika,sibling,Q12260048,Iñaki Goirizelaia
+Spain,Q5934104,Jone Goirizelaia,child,Q112153323,Ibon Altuna
+Spain,Q5934104,Jone Goirizelaia,mother,Q112153324,Pilar Ordorika
+Spain,Q5934104,Jone Goirizelaia,relative,Q2425000,Ruper Ordorika
+Spain,Q5934104,Jone Goirizelaia,sibling,Q12260048,Iñaki Goirizelaia
 Spain,Q5944571,José Pedro Sebastían de Erice,father,Q20018184,José Sebastián de Erice y O'Shea
 Spain,Q5947313,Juan Antonio Gómez-Angulo,child,Q55741773,Paula Gómez-Angulo Amorós
 Spain,Q59609771,Rocío Monasterio,relative,Q16299033,Carlos Espinosa de los Monteros y Bernaldo de Quirós
@@ -12673,6 +12684,7 @@ Ukraine,Q12097290,Valentyna Hoshovska,spouse,Q44055152,Гошовський Се
 Ukraine,Q12101453,Dmytro Dobkin,sibling,Q4163369,Mikhail Dobkin
 Ukraine,Q12101641,Stanislav Dovhyi,child,Q12101639,Oles Dovgiy
 Ukraine,Q12101641,Stanislav Dovhyi,father,Q12101638,Oleksіï Dovguiï
+Ukraine,Q12101989,Tetiana Donets,mother,Q12101990,Natalia Donets
 Ukraine,Q12101990,Natalia Donets,child,Q12101989,Tetiana Donets
 Ukraine,Q12107778,Hryhorii Kaletnik,child,Q4209317,Kalietnik Ihor
 Ukraine,Q12109175,Vladimir Katsuba,child,Q17371849,Oleskandr Katsuba
@@ -12907,6 +12919,9 @@ UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q7400024,Saif bin Zayed Al Nahy
 UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q7636761,Sultan bin Zayed bin Sultan Al Nahyan
 UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
 UAE,Q1059948,Khalifa bin Zayed Al Nahyan,spouse,Q10781516,Shamsa bint Suhail Al Mazrouei
+UAE,Q10781516,Shamsa bint Suhail Al Mazrouei,child,Q16196176,Sultan bin Khalifa Al Nahyan
+UAE,Q10781516,Shamsa bint Suhail Al Mazrouei,child,Q16733119,Mohammed bin Khalifa Al Nahyan
+UAE,Q10781516,Shamsa bint Suhail Al Mazrouei,spouse,Q1059948,Khalifa bin Zayed Al Nahyan
 UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,father,Q57655,Mohammed bin Rashid Al Maktoum
 UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,mother,Q2257104,Hind bint Maktoum bin Juma Al-Maktoum
 UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q17403156,Majid bin Mohammed bin Rashid Al Maktoum
@@ -12958,6 +12973,13 @@ UAE,Q2984620,Humaid bin Rashid Al Nuaimi,child,Q22279440,Sheikh Rashid bin Humai
 UAE,Q2984620,Humaid bin Rashid Al Nuaimi,father,Q7294894,Rashid Bin Humaid Al Nuaimi
 UAE,Q2984620,Humaid bin Rashid Al Nuaimi,relative,Q1371101,Hamad bin Mohammed Al Sharqi
 UAE,Q2984620,Humaid bin Rashid Al Nuaimi,sibling,Q18702978,Fatima Bint Rashid Al Nuaimi
+UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
+UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q1951896,Mohammed bin Zayed Al Nahyan
+UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q556607,Mansour bin Zayed Al Nahyan
+UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
+UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q58301,Abdullah bin Zayed Al Nahyan
+UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q85804913,Tahnoun bin Zayed Al Nahyan
+UAE,Q4120127,Fatima bint Mubarak Al Ketbi,spouse,Q167846,Zayed bin Sultan Al Nahyan
 UAE,Q556607,Mansour bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
 UAE,Q556607,Mansour bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
 UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
@@ -12967,6 +12989,8 @@ UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sul
 UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q58301,Abdullah bin Zayed Al Nahyan
 UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
 UAE,Q556607,Mansour bin Zayed Al Nahyan,spouse,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
+UAE,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan,child,Q1059948,Khalifa bin Zayed Al Nahyan
+UAE,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan,spouse,Q167846,Zayed bin Sultan Al Nahyan
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q17403156,Majid bin Mohammed bin Rashid Al Maktoum
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q3379198,Maitha bint Mohammed bin Rashid Al Maktoum
@@ -19363,6 +19387,7 @@ United States,Q69319,John Kasich,spouse,Q20185706,Mary Lee Griffith
 United States,Q6962863,Nancy Munoz,spouse,Q5387150,Eric Munoz
 United States,Q6968251,Natalie Tennant,spouse,Q5388905,Erik Wells
 United States,Q7030302,Nicolle Wallace,spouse,Q6770199,Mark Wallace
+United States,Q7030302,Nicolle Wallace,spouse,Q6834083,Michael S. Schmidt
 United States,Q705472,Jim Gilmore,father,Q20177383,"James Stuart Gilmore, Jr."
 United States,Q705472,Jim Gilmore,spouse,Q20177004,Roxane Gatling Gilmore
 United States,Q705961,Jim Doyle,father,Q14589955,James Edward Doyle

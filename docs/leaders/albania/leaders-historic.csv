@@ -2,7 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Albania,President,Rexhep Meidani,Q294250,1997-07-24,2002-07-24,male,1944-08-17,,Rexhep Meidani.jpg,Rexhep Meidani
 Albania,President,Alfred Moisiu,Q190889,2002-07-24,2007-07-24,male,1929-12-01,,AlfredMoisiu.png,Alfred Moisiu
 Albania,President,Bamir Topi,Q57300,2007-07-24,2012-07-24,male,1957-04-24,,Bamir Topi 2.jpg,Bamir Topi
-Albania,President,Bujar Nishani,Q57526,2012-07-24,2017-07-24,male,1966-09-29,,Bujar Nishani at meeting with Michael Spindelegger.jpg,Bujar Nishani
+Albania,President,Bujar Nishani,Q57526,2012-07-24,2017-07-24,male,1966-09-29,2022-05-28,Bujar Nishani (portret).jpg,Bujar Nishani
 Albania,President,Ilir Meta,Q727132,2017-07-24,,male,1969-03-24,,Ilir Meta (portret).jpg,Ilir Meta
 Albania,Prime Minister,Ilir Meta,Q727132,1999-10-29,2002-02-22,male,1969-03-24,,Ilir Meta (portret).jpg,Ilir Meta
 Albania,Prime Minister,Pandeli Majko,Q381214,2002-02-22,2002-07-25,male,1967-11-15,,Defense.gov News Photo 050202-D-2987S-008.jpg,Pandeli Majko
@@ -49,8 +49,8 @@ Albania,Minister of Health and Social Protection,Ilir Beqja,Q16735644,2013-09-15
 Albania,Minister of Health and Social Protection,Ogerta Manastirliu,Q31669464,2017-03-13,,female,1978-12-31,,Ogerta Manastirliu (portret).jpg,Ogerta Manastirliu
 Albania,Minister of Infrastructure and Energy,Belinda Balluku,Q70480584,2019-01-17,,female,1973-10-09,,Belinda Balluku (cropped).jpg,Belinda Balluku
 Albania,Minister of Infrastructure and Energy,Belinda Balluku,Q70480584,2019-01-17,2021-09-17,female,1973-10-09,,Belinda Balluku (cropped).jpg,Belinda Balluku
-Albania,Minister of Internal Affairs,Bujar Nishani,Q57526,2007-03-20,2009-09-17,male,1966-09-29,,Bujar Nishani at meeting with Michael Spindelegger.jpg,Bujar Nishani
-Albania,Minister of Internal Affairs,Bujar Nishani,Q57526,2011-04-21,2012-06-12,male,1966-09-29,,Bujar Nishani at meeting with Michael Spindelegger.jpg,Bujar Nishani
+Albania,Minister of Internal Affairs,Bujar Nishani,Q57526,2007-03-20,2009-09-17,male,1966-09-29,2022-05-28,Bujar Nishani (portret).jpg,Bujar Nishani
+Albania,Minister of Internal Affairs,Bujar Nishani,Q57526,2011-04-21,2012-06-12,male,1966-09-29,2022-05-28,Bujar Nishani (portret).jpg,Bujar Nishani
 Albania,Minister of Internal Affairs,Flamur Noka,Q5457338,2012-07-03,2013-09-15,male,1971-03-03,,,Flamur Noka
 Albania,Minister of Internal Affairs,Fatmir Xhafaj,Q16354928,2017-03-19,2017-05-24,male,1959-05-17,,,Fatmir Xhafaj
 Albania,Minister of Internal Affairs,Dritan Demiraj,Q61079768,2017-05-24,2017-09-22,male,1969-05-24,,,
@@ -58,7 +58,7 @@ Albania,Minister of Internal Affairs,Fatmir Xhafaj,Q16354928,2017-09-22,2018-11-
 Albania,Minister of Internal Affairs,Sander Lleshi,Q84323692,2018-11-23,2020-12-10,male,1963-01-25,,,Sandër Lleshaj
 Albania,Minister of Internal Affairs,Bledi Çuçi,Q16350979,2020-12-17,,male,1970-11-14,,Bledar Çuçi (portret).jpg,Bledar Çuçi
 Albania,Minister of Internal Affairs,Bledi Çuçi,Q16350979,2020-12-17,2021-09-17,male,1970-11-14,,Bledar Çuçi (portret).jpg,Bledar Çuçi
-Albania,Minister of Justice,Bujar Nishani,Q57526,2009-09-17,2011-04-25,male,1966-09-29,,Bujar Nishani at meeting with Michael Spindelegger.jpg,Bujar Nishani
+Albania,Minister of Justice,Bujar Nishani,Q57526,2009-09-17,2011-04-25,male,1966-09-29,2022-05-28,Bujar Nishani (portret).jpg,Bujar Nishani
 Albania,Minister of Justice,Eduard Halimi,Q5340403,2011-07-21,2013-09-11,male,1972-12-08,,,Eduard Halimi
 Albania,Minister of Justice,Etilda Gjonaj,Q41448850,2017-09-13,2021-09-18,female,1981-05-06,,"Etilda Gjonaj, U.S. Ambassador Yuri Kim and Jorida Tabaku (cropped).jpg",Etilda Gjonaj
 Albania,Minister of Justice,Ulsi Manja,Q31970269,2021-09-18,,male,,,Ulsi Manja (portret).jpg,Ulsi Manja

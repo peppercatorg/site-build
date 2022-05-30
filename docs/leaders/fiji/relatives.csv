@@ -1,5 +1,7 @@
 catalog,id,name,relationship,relative,relativename
 Fiji,Q109012733,Wiliame Katonivere,sibling,Q4699115,Aisea Katonivere
+Fiji,Q373605,Epeli Nailatikau,father,Q5342195,Edward Cakobau
+Fiji,Q373605,Epeli Nailatikau,spouse,Q6426284,Koila Nailatikau
 Fiji,Q469507,Kamisese Mara,child,Q4812982,Ateca Ganilau
 Fiji,Q469507,Kamisese Mara,child,Q75901430,Adi Litia Cakobau Mara
 Fiji,Q469507,Kamisese Mara,child,Q75921847,Adi Koila Mara

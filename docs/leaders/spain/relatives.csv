@@ -26,6 +26,7 @@ Spain,Q116812,Oriol Junqueras,sibling,Q108185246,Roger Junqueras i Vies
 Spain,Q116812,Oriol Junqueras,spouse,Q58226735,Neus Bramona
 Spain,Q11685275,Jone Berriozabal Bóveda,father,Q93381169,Román Berriozabal Azpitarte
 Spain,Q11685445,Joseba Álvarez,father,Q1019186,Txillardegi
+Spain,Q11689876,Luis Planas,relative,Q9013237,Josep Maria Planes i Martí
 Spain,Q11690740,Manuela de Madre,spouse,Q11905846,Antoni Fogué i Moya
 Spain,Q11692643,Miguel Buen,sibling,Q11922959,Francisco Buen Lacambra
 Spain,Q11703587,Santiago Abascal Conde,father,Q33523898,Santiago Abascal Escuza
@@ -117,7 +118,7 @@ Spain,Q16189675,Antoni Comín i Oliveres,father,Q1748144,Alfonso Carlos Comín
 Spain,Q16189675,Antoni Comín i Oliveres,sibling,Q63352548,Betona Comín i Oliveres
 Spain,Q16297359,Cayetana Álvarez de Toledo,spouse,Q73230875,Joaquín Güell Ampuero
 Spain,Q16570401,Gabriel Ferrán de Alfaro,child,Q60745792,Gabriel Ferrán Carrión
-Spain,Q16651619,Álvaro Lapuerta,father,Q84710774,José María de Lapuerta y de Las Pozas
+Spain,Q16651619,Álvaro Lapuerta,father,Q84710774,José María de Lapuerta y de las Pozas
 Spain,Q17032438,Marina Llansana i Rosich,partner,Q20101853,Oriol Soler i Castanys
 Spain,Q17033177,Marta Pascal i Capdevila,spouse,Q55702016,Joaquim Bohils
 Spain,Q17036721,Josep Rull i Andreu,partner,Q59343390,Meritxell Lluís i Vall
@@ -188,7 +189,7 @@ Spain,Q2065232,Raül Romeva,spouse,Q55714607,Diana Riba Giner
 Spain,Q20758196,Mireia Boya Busquet,mother,Q11935469,Maria Pilar Busquet i Medan
 Spain,Q20758196,Mireia Boya Busquet,sibling,Q19300753,Jusèp Boya i Busquet
 Spain,Q2083681,Esperanza Aguirre,child,Q5444889,Fernando Ramírez de Haro
-Spain,Q2083681,Esperanza Aguirre,relative,Q440610,Ouka Lele
+Spain,Q2083681,Esperanza Aguirre,relative,Q440610,Ouka Leele
 Spain,Q2083681,Esperanza Aguirre,relative,Q5940069,José Gil de Biedma
 Spain,Q2083681,Esperanza Aguirre,relative,Q8240605,Baldomero Vega de Seoane y Andrea Pérez
 Spain,Q2083681,Esperanza Aguirre,relative,Q978013,Jaime Gil de Biedma
@@ -515,7 +516,10 @@ Spain,Q5866146,Francisco Javier Elorza,child,Q5866149,Francisco Javier Elorza y 
 Spain,Q5873315,Gabriel Elorriaga Pisarik,father,Q3395509,Gabriel Elorriaga Fernández
 Spain,Q5873315,Gabriel Elorriaga Pisarik,sibling,Q5724133,Beatriz Elorriaga Pisarik
 Spain,Q5889949,Gustavo de Arístegui,father,Q6069435,Pedro Manuel de Arístegui y Petit
-Spain,Q5934104,Jone Goirizelaia Ordorika,sibling,Q12260048,Iñaki Goirizelaia
+Spain,Q5934104,Jone Goirizelaia,child,Q112153323,Ibon Altuna
+Spain,Q5934104,Jone Goirizelaia,mother,Q112153324,Pilar Ordorika
+Spain,Q5934104,Jone Goirizelaia,relative,Q2425000,Ruper Ordorika
+Spain,Q5934104,Jone Goirizelaia,sibling,Q12260048,Iñaki Goirizelaia
 Spain,Q5944571,José Pedro Sebastían de Erice,father,Q20018184,José Sebastián de Erice y O'Shea
 Spain,Q5947313,Juan Antonio Gómez-Angulo,child,Q55741773,Paula Gómez-Angulo Amorós
 Spain,Q59609771,Rocío Monasterio,relative,Q16299033,Carlos Espinosa de los Monteros y Bernaldo de Quirós
