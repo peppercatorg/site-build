@@ -16,7 +16,7 @@ United States,Secretary of Agriculture,Charles F. Conner,Q2967584,2007-09-20,200
 United States,Secretary of Agriculture,Ed Schafer,Q887102,2008-01-28,2009-01-20,male,1946-08-08,,Ed Schafer -- February 2008.jpg,Ed Schafer
 United States,Secretary of Agriculture,Tom Vilsack,Q353826,2009-01-21,2017-01-13,male,1950-12-13,,20210427-OSEC-TEW-001 Agriculture Secretary Tom Vilsack (51148817903).jpg,Tom Vilsack
 United States,Secretary of Agriculture,Michael Scuse,Q28317075,2017-01-13,2017-01-20,male,1954,,Michael T. Scuse official portrait.JPG,Michael Scuse
-United States,Secretary of Agriculture,Mike Young (agriculture official),Q30274534,2017-01-20,2017-04-25,male,,,Michael Young 20170216-DM-RBN-7992 (32557392300).jpg,Mike Young (agriculture official)
+United States,Secretary of Agriculture,Mike Young,Q30274534,2017-01-20,2017-04-25,male,,,Michael Young 20170216-DM-RBN-7992 (32557392300).jpg,Mike Young (agriculture official)
 United States,Secretary of Agriculture,Sonny Perdue,Q525362,2017-04-25,2021-01-20,male,1946-12-20,,Sonny Perdue at rally.jpg,Sonny Perdue
 United States,Secretary of Agriculture,Tom Vilsack,Q353826,2021-02-24,,male,1950-12-13,,20210427-OSEC-TEW-001 Agriculture Secretary Tom Vilsack (51148817903).jpg,Tom Vilsack
 United States,Secretary of Commerce,William M. Daley,Q1370400,1997-01-30,2000-07-19,male,1948-08-09,,William M. Daley official portrait.jpg,William M. Daley
@@ -317,7 +317,7 @@ United States,Ambassador to the United Nations,Rosemary DiCarlo,Q15429937,2013-0
 United States,Ambassador to the United Nations,Samantha J. Power,Q454970,2013-08-05,2017-01-20,female,1970-09-21,,Samantha Power official portrait.jpg,Samantha Power
 United States,Ambassador to the United Nations,Michele J. Sison,Q6836763,2017-01-20,2017-01-27,female,1959-05-27,,Michele Sison official photo.jpg,Michele J. Sison
 United States,Ambassador to the United Nations,Nikki Haley,Q11668,2017-01-27,2018-12-31,female,1972-01-20,,Nikki Haley by Gage Skidmore 4.jpg,Nikki Haley
-United States,Ambassador to the United Nations,Jonathan Cohen (diplomat),Q55615279,2019-01-01,2019-09-12,male,,,Jonathan R. Cohen official photo.jpg,Jonathan Cohen (diplomat)
+United States,Ambassador to the United Nations,Jonathan Cohen,Q55615279,2019-01-01,2019-09-12,male,,,Jonathan R. Cohen official photo.jpg,Jonathan Cohen (diplomat)
 United States,Ambassador to the United Nations,Kelly Craft,Q28871485,2019-09-12,2021-01-20,female,1962-02-24,,Kelly Knight Craft.jpg,Kelly Craft
 United States,Ambassador to the United Nations,"Richard M. Mills, Jr.",Q21932292,2021-01-20,2021-02-25,male,1959-02-23,,Richard Mills 2015.jpg,Richard M. Mills Jr.
 United States,Ambassador to the United Nations,Linda Thomas-Greenfield,Q19920980,2021-02-25,,female,1952-11-22,,Linda-Thomas-Greenfield-v1-8x10-1.jpg,Linda Thomas-Greenfield
@@ -732,11 +732,16 @@ United States,Special Assistant to the President,"Christopher Lawrence ""Bong"" 
 United States,Special Assistant to the President,Marc Lotter,Q84000033,2017-01,2017-10,male,1970,,"Marc Lotter, Regional Media Day.png",Marc Lotter
 United States,Special Assistant to the President,Mariam Masha,Q79202129,2022,,female,,,,Mariam Masha
 United States,White House Cabinet Secretary,"Thurgood Marshall, Jr.",Q7799280,1997-02-07,2001-01-20,male,1956-08-12,,Thurgood Marshall Jr Head Shot.jpg,Thurgood Marshall Jr.
+United States,White House Cabinet Secretary,Albert Hawkins III,Q112191016,2001-01-20,2003-01,male,,,,
 United States,White House Cabinet Secretary,Brian D. Montgomery,Q4963500,2003-01,2005-02-24,male,1956-08-02,,MontgomeryBrian.jpg,Brian D. Montgomery
+United States,White House Cabinet Secretary,Heidi Smith,Q112191018,2005,2006,female,,,,
+United States,White House Cabinet Secretary,Neal Burnham,Q112191019,2006,2006,male,,,,
+United States,White House Cabinet Secretary,Ross Kyle,Q112191023,2006-08-09,2009-01-20,male,,,,
 United States,White House Cabinet Secretary,Chris Lu,Q5107284,2009-01-20,2013-01-25,male,1966-06-12,,"Christopher P. Lu, U.S. Ambassador.jpg",Chris Lu
 United States,White House Cabinet Secretary,Danielle C. Gray,Q13562426,2013-01-25,2014-01-13,female,,,Danielle Gray.jpg,Danielle C. Gray
 United States,White House Cabinet Secretary,Broderick D. Johnson,Q21064122,2014-01-13,2017-01-20,male,,,,Broderick D. Johnson
 United States,White House Cabinet Secretary,Bill McGinley,Q28794097,2017-01-20,2019-07-19,male,,,,Bill McGinley
+United States,White House Cabinet Secretary,Matthew J. Flynn,Q112191025,2019-07-19,2019-09-24,male,,,,
 United States,White House Cabinet Secretary,Kristan King Nevins,Q92349440,2019-09-24,2021-01-20,female,,,,Kristan King Nevins
 United States,White House Cabinet Secretary,Evan Ryan,Q5415533,2021-01-20,,female,1971,,"Evan Ryan, 2016 (cropped).jpg",Evan Ryan
 United States,Deputy Secretary of Agriculture,Richard Rominger,Q62567719,1993-05-12,2001-01-20,male,1927-07-01,2020-12-21,Rominger Official USDA Portrait.jpg,Richard Rominger
@@ -745,7 +750,7 @@ United States,Deputy Secretary of Agriculture,Charles F. Conner,Q2967584,2005-05
 United States,Deputy Secretary of Agriculture,Kathleen Merrigan,Q6376845,2009-04-08,2013-03-14,female,1959-10-06,,Kathleen Merrigan official portrait.jpg,Kathleen Merrigan
 United States,Deputy Secretary of Agriculture,Krysta Harden,Q29920096,2013-07-23,2016-02-29,female,,,Krysta Harden Official Portrait.jpg,Krysta Harden
 United States,Deputy Secretary of Agriculture,Michael Scuse,Q28317075,2016-03-01,2017-01-20,male,1954,,Michael T. Scuse official portrait.JPG,Michael Scuse
-United States,Deputy Secretary of Agriculture,Mike Young (agriculture official),Q30274534,2017-01-20,2017-10-10,male,,,Michael Young 20170216-DM-RBN-7992 (32557392300).jpg,Mike Young (agriculture official)
+United States,Deputy Secretary of Agriculture,Mike Young,Q30274534,2017-01-20,2017-10-10,male,,,Michael Young 20170216-DM-RBN-7992 (32557392300).jpg,Mike Young (agriculture official)
 United States,Deputy Secretary of Agriculture,Stephen Censky,Q34414080,2017-10-11,2020-11-08,male,1961,,Steve Censky official photo.jpg,Stephen Censky
 United States,Deputy Secretary of Agriculture,Jewel H. Bronaugh,Q104887666,2021-05-17,,female,,,"Jewel Bronaugh, USDA Deputy Secretary.jpg",Jewel H. Bronaugh
 United States,Deputy Secretary of Commerce,Robert L. Mallett,Q61806064,1997-05-14,2001-01-20,male,1957-04-01,,MallettRobert.jpg,Robert L. Mallett
@@ -876,7 +881,7 @@ United States,Deputy Secretary of Transportation,Steven G. Bradbury,Q15485936,20
 United States,Deputy Secretary of Transportation,Polly Trottenberg,Q16886196,2021-04-14,,female,1964-03-16,,NYCDOT Commissioner Trottenberg portrait.jpg,Polly Trottenberg
 United States,Deputy Secretary of the Treasury,Stuart E. Eizenstat,Q7626497,1999-07-16,2001-01-20,male,1943-01-15,,2018-us-nationalbookfestival-stuart-eizenstat.jpg,Stuart E. Eizenstat
 United States,Deputy Secretary of the Treasury,Kenneth W. Dam,Q1246923,2001-01-20,2004-07-13,male,1932-08-10,,Kenneth Dam.jpg,Kenneth W. Dam
-United States,Deputy Secretary of the Treasury,Samuel Bodman,Q1276376,2004,2005,male,1938-11-26,2018-09-07,Samuel Bodman.jpg,Samuel Bodman
+United States,Deputy Secretary of the Treasury,Samuel Bodman,Q1276376,2004-08,2005-01-31,male,1938-11-26,2018-09-07,Samuel Bodman.jpg,Samuel Bodman
 United States,Deputy Secretary of the Treasury,Robert M. Kimmitt,Q822657,2005-08-16,2009-01-20,male,1947-12-19,,"Robert Kimmitt, official Treasury photo.jpg",Robert M. Kimmitt
 United States,Deputy Secretary of the Treasury,Neal S. Wolin,Q1302611,2009-05-18,2013-08-31,male,1961-12-09,,Neal S. Wolin official portrait.jpg,Neal S. Wolin
 United States,Deputy Secretary of the Treasury,Mary J. Miller,Q6779847,2013-08-31,2014-03-19,female,1955-07-19,,Mary John Miller.jpg,Mary J. Miller
@@ -895,7 +900,7 @@ United States,Deputy Secretary of Veterans Affairs,Scott Blackburn,Q110834239,20
 United States,Deputy Secretary of Veterans Affairs,Thomas G. Bowman,Q34675180,2017-08-10,2018-06-15,male,1946-11-01,,Thomas G. Bowman official photo.jpg,Thomas G. Bowman
 United States,Deputy Secretary of Veterans Affairs,James Byrne,Q39073524,2018-08-28,2019-09-16,male,1965-01-25,,James Byrne official photo.jpg,James Byrne (lawyer)
 United States,Deputy Secretary of Veterans Affairs,James Byrne,Q39073524,2019-09-16,2020-02-03,male,1965-01-25,,James Byrne official photo.jpg,James Byrne (lawyer)
-United States,Deputy Secretary of Veterans Affairs,Pamela J. Powers,Q95691304,2020-04-02,,female,,,Pamela.powers.jpg,Pamela J. Powers
+United States,Deputy Secretary of Veterans Affairs,Pamela J. Powers,Q95691304,2020-04-02,2021-01-20,female,,,Pamela.powers.jpg,Pamela J. Powers
 United States,Deputy Secretary of Veterans Affairs,Carolyn M. Clancy,Q90680635,2021-01-20,2021-07-19,female,,,"Carolyn Clancy, MD.jpg",
 United States,Deputy Secretary of Veterans Affairs,Donald Remy,Q106605481,2021-07-19,,male,1967-02-08,,Donald-Remy-VA.jpg,Donald Remy
 United States,Deputy National Security Advisor,James Franklin Jeffrey,Q382314,2007,2008,male,1946-02-08,,James F Jeffrey.jpg,James Franklin Jeffrey
@@ -975,7 +980,7 @@ United States,Deputy Attorney General,Gary Grindler,Q67222738,2010-02-05,2010-12
 United States,Deputy Attorney General,James M. Cole,Q1475276,2010-12-29,2015-01-08,male,1952-05-02,,James M Cole.jpg,James M. Cole
 United States,Deputy Attorney General,Sally Yates,Q21062855,2015-01-10,2017-01-30,female,1960-08-20,,Sally Q. Yates.jpg,Sally Yates
 United States,Deputy Attorney General,Dana Boente,Q17989631,2017-02-09,2017-04-25,male,1954-02-07,,Dana Boente.jpg,Dana Boente
-United States,Deputy Attorney General,Rod J. Rosenstein,Q7356240,2017-04-26,,male,1965-01-13,,Rod Rosenstein US Attorney.jpg,Rod Rosenstein
+United States,Deputy Attorney General,Rod J. Rosenstein,Q7356240,2017-04-26,2019-05-11,male,1965-01-13,,Rod Rosenstein US Attorney.jpg,Rod Rosenstein
 United States,Deputy Attorney General,Ed O'Callaghan,Q5335234,2019-05-13,2019-05-22,male,1969,,Ed O'Callaghan official portrait.jpg,Ed O'Callaghan
 United States,Deputy Attorney General,Jeffrey A. Rosen,Q28968002,2019-05-22,2020-12-23,male,1958,,Jeffrey A. Rosen.jpg,Jeffrey A. Rosen
 United States,Deputy Attorney General,Richard Donoghue,Q97573914,2020-12-24,2021-01-20,male,,,,Richard Donoghue
@@ -1260,7 +1265,7 @@ United States,ambassador to Serbia,Christopher R. Hill,Q494953,2021-10-14,,male,
 United States,ambassador to Seychelles,David Dale Reimer,Q40608229,2018-02-06,,male,,,David Reimer official photo.jpg,David Dale Reimer
 United States,ambassador to Singapore,David Adelman,Q13220995,2010-04-29,2013-09-04,male,1964-05-24,,U.S. Ambassador to Singapore David Adelman official photo.jpg,David I. Adelman
 United States,ambassador to Singapore,Jonathan E. Kaplan,Q107707874,2021-12-06,,male,,,"Jonathan Kaplan, Ambassador to Singapore.jpg",Jonathan E. Kaplan
-United States,ambassador to Slovakia,Bridget Brink,Q66973646,2019-08-20,,female,,,Bridget A. Brink official photo.jpg,Bridget A. Brink
+United States,ambassador to Slovakia,Bridget Brink,Q66973646,2019-08-20,2022-05-18,female,,,"Bridget A. Brink, U.S. Ambassador.jpg",Bridget A. Brink
 United States,ambassador to Slovenia,Johnny Young,Q15453080,2001-10-24,2004-09-17,male,1940-06-02,2021-07-24,"Johnny Young, US Ambassador to Slovenia 2002.jpg",Johnny Young (diplomat)
 United States,ambassador to Slovenia,Thomas Bolling Robertson,Q7787733,2004,2007,male,1950,,Thomas B Robertson.jpg,Thomas Bolling Robertson
 United States,ambassador to South Africa,Lana Marks,Q6482848,2020-01-28,,female,1953-11-18,,Lana J. Marks official photo.jpg,Lana Marks
@@ -1288,7 +1293,7 @@ United States,ambassador to Ukraine,Joseph Pennington,Q65201082,2019-05-20,2019-
 United States,ambassador to Ukraine,Kristina Kvien,Q65200438,2019-05-28,2019-06-18,female,1965-01-15,,"Kristina Kvien, June 2019.jpg",Kristina Kvien
 United States,ambassador to Ukraine,"William B. Taylor, Jr.",Q8004870,2019-06-18,2020-01-01,male,1947-09-14,,"William B. Taylor, Jr. (cropped).jpg",William B. Taylor Jr.
 United States,ambassador to Ukraine,Kristina Kvien,Q65200438,2020-01-01,2022-05-18,female,1965-01-15,,"Kristina Kvien, June 2019.jpg",Kristina Kvien
-United States,ambassador to Ukraine,Bridget Brink,Q66973646,2022-05-18,,female,,,Bridget A. Brink official photo.jpg,Bridget A. Brink
+United States,ambassador to Ukraine,Bridget Brink,Q66973646,2022-05-30,,female,,,"Bridget A. Brink, U.S. Ambassador.jpg",Bridget A. Brink
 United States,ambassador to the United Arab Emirates,Michele J. Sison,Q6836763,2005-02-07,2008-01-19,female,1959-05-27,,Michele Sison official photo.jpg,Michele J. Sison
 United States,ambassador to the United Kingdom,William Stamps Farish III,Q3568965,2001,2004,male,1939-03-17,,Ambassador Farish.jpg,William Stamps Farish III
 United States,ambassador to the United Kingdom,Louis Susman,Q3263147,2009-07-10,2013-04-03,male,1938-11-19,,Louis Susman US State Dept photo.jpg,Louis Susman

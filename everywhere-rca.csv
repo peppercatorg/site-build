@@ -1342,6 +1342,7 @@ Bulgaria,Q12281406,Igor Damyanov,father,Q12293738,Simeon Damyanov
 Bulgaria,Q12285342,Lyuben Dilov Jr.,father,Q907201,Lyuben Dilov
 Bulgaria,Q12290597,Petar Stoyanovich,mother,Q12272048,Ani Bakalova
 Bulgaria,Q12290597,Petar Stoyanovich,sibling,Q105825638,Димитър Стоянович
+Bulgaria,Q1371792,Solomon Passy,father,Q2901020,Isaac Passy
 Bulgaria,Q1509254,"Georgi Pirinski, Jr.",father,Q3407706,Georgi Pirinski Sr.
 Bulgaria,Q18518477,Petar Moskov,mother,Q12279865,Emma Moskova
 Bulgaria,Q18757290,Hristo Ivanov,mother,Q98148050,Maria Boykikeva
@@ -2603,7 +2604,11 @@ Egypt,Q4631,Mohamed Morsi,spouse,Q3080090,Naglaa Mahmoud
 Egypt,Q4696067,Ahmed Zaki Badreldin,father,Q8065083,Zaki Badr
 El Salvador,Q61022687,"Félix Ulloa, Jr.",father,Q2880716,Félix Antonio Ulloa
 Equatorial Guinea,Q103916282,Victoriano Bibang Nsue Okomo,sibling,Q45147779,Constancia Mangue
+Equatorial Guinea,Q104702792,Mari-Cruz Evuna Andeme,father,Q112162958,Alejandro Evuna Owono Asangono
+Equatorial Guinea,Q104702792,Mari-Cruz Evuna Andeme,sibling,Q112195300,Miguel Ntutumu Evuna Andeme
 Equatorial Guinea,Q112162550,Cándido Nsue Okomo,sibling,Q45147779,Constancia Mangue
+Equatorial Guinea,Q112162958,Alejandro Evuna Owono Asangono,child,Q104702792,Mari-Cruz Evuna Andeme
+Equatorial Guinea,Q112195300,Miguel Ntutumu Evuna Andeme,sibling,Q104702792,Mari-Cruz Evuna Andeme
 Equatorial Guinea,Q45042829,Gabriel Mbega,father,Q57385,Teodoro Obiang
 Equatorial Guinea,Q45147779,Constancia Mangue,child,Q477201,Teodoro Nguema
 Equatorial Guinea,Q45147779,Constancia Mangue,sibling,Q112162550,Cándido Nsue Okomo
@@ -2864,6 +2869,7 @@ Estonia,Q788525,Paul-Eerik Rummo,spouse,Q2524110,Viiu Härm
 Estonia,Q955751,Liia Hänni,child,Q50698410,Kristjan Hänni
 Estonia,Q955751,Liia Hänni,father,Q50375877,Friedrich Juulik
 Estonia,Q955751,Liia Hänni,mother,Q50375878,Alma Juulik
+Estonia,Q97577979,James E. Baker,partner,Q97577998,John R. Hawkins
 Ethiopia,Q161184,Meles Zenawi,spouse,Q4832330,Azeb Mesfin
 Ethiopia,Q356741,Negasso Gidada,spouse,Q7308428,Regina Abelt
 European Union,Q1028887,Camiel Eurlings,father,Q2438491,Martin Eurlings
@@ -6371,6 +6377,7 @@ India,Q7199798,Piyush Goyal,father,Q7917878,Ved Prakash Goyal
 India,Q72192354,Prince Raj,father,Q7288447,Ram Chandra Paswan
 India,Q7228700,Poonam Mahajan Rao,father,Q7238271,Pramod Mahajan
 India,Q7228700,Poonam Mahajan Rao,sibling,Q7283602,Rahul Mahajan
+India,Q7237411,Pradeep Kumar Majhi,father,Q96572437,Bhagaban Majhi
 India,Q7238178,Prakash Javadekar,spouse,Q17306076,Prachee Prakash Javadekar
 India,Q7238453,Prasanna Acharya,father,Q20829520,Krutartha Acharya
 India,Q7238453,Prasanna Acharya,relative,Q61510000,Debesh Acharya
@@ -6485,6 +6492,7 @@ India,Q9488,Sachin,child,Q22327435,Sara Tendulkar
 India,Q9488,Sachin,child,Q22327439,Arjun Tendulkar
 India,Q9488,Sachin,father,Q24906003,Ramesh Tendulkar
 India,Q9488,Sachin,spouse,Q22327426,Anjali Tendulkar
+India,Q96572437,Bhagaban Majhi,child,Q7237411,Pradeep Kumar Majhi
 India,Q98108920,Shyamal Chakraborty,child,Q7901910,Ushasie Chakraborty
 India,Q982813,Sharad Pawar,child,Q7645148,Supriya Sule
 India,Q982813,Sharad Pawar,sibling,Q64128367,Anantrao Pawar
@@ -7359,6 +7367,7 @@ Italy,Q294460,Mario Draghi,child,Q105315400,Federica Draghi
 Italy,Q294460,Mario Draghi,child,Q107604158,Giacomo Draghi
 Italy,Q294460,Mario Draghi,sibling,Q105283563,Andreina Draghi
 Italy,Q3080973,Francesco Giro,sibling,Q3293449,Mario Giro
+Italy,Q312058,Emilio Colombo,sibling,Q112184698,Pasquale Colombo
 Italy,Q319547,Walter Veltroni,father,Q4015575,Vittorio Veltroni
 Italy,Q319547,Walter Veltroni,mother,Q15310642,Ivanka Kotnik
 Italy,Q319547,Walter Veltroni,relative,Q3678133,Ciril Kotnik
@@ -7740,6 +7749,7 @@ Japan,Q315565,Kiichi Miyazawa,relative,Q6144756,Hajime Ogawa
 Japan,Q315565,Kiichi Miyazawa,relative,Q63102003,Christopher J. LaFleur
 Japan,Q315565,Kiichi Miyazawa,relative,Q67498570,Ippei Ogawa
 Japan,Q315565,Kiichi Miyazawa,sibling,Q1247829,Hiroshi Miyazawa
+Japan,Q315565,Kiichi Miyazawa,spouse,Q106994537,Yōko Miyazawa
 Japan,Q315579,Toshiki Kaifu,child,Q11559328,Masaki Kaifu
 Japan,Q315579,Toshiki Kaifu,relative,Q202164,Makoto Kobayashi
 Japan,Q315579,Toshiki Kaifu,relative,Q27920921,Kaifu Kōzō
@@ -7962,6 +7972,7 @@ Kenya,Q195725,William Ruto,spouse,Q21064137,Rachel Ruto
 Kenya,Q196070,Uhuru Kenyatta,father,Q173563,Jomo Kenyatta
 Kenya,Q196070,Uhuru Kenyatta,mother,Q1984253,Ngina Kenyatta
 Kenya,Q196070,Uhuru Kenyatta,sibling,Q5360612,Margaret Kenyatta
+Kenya,Q196070,Uhuru Kenyatta,sibling,Q78870853,Muhoho Kenyatta
 Kenya,Q196070,Uhuru Kenyatta,spouse,Q16866530,Margaret Gakuo Kenyatta
 Kenya,Q2013243,Oburu Odinga,father,Q645228,Jaramogi Oginga Odinga
 Kenya,Q20657447,Patrick Ngugi Njoroge,sibling,Q573680,Anthony Muheria
@@ -8831,10 +8842,12 @@ Netherlands,Q3488527,Michiel Patijn,sibling,Q1976542,Schelto Patijn
 Netherlands,Q3488527,Michiel Patijn,sibling,Q4304599,Jack Patijn
 Netherlands,Q377266,Sybrand van Haersma Buma,father,Q2607341,Bernard van Haersma Buma
 Netherlands,Q382598,Kathleen Ferrier,father,Q333129,Johan Ferrier
+Netherlands,Q382598,Kathleen Ferrier,partner,Q442061,Boris Dittrich
 Netherlands,Q382598,Kathleen Ferrier,sibling,Q2708085,Joan Ferrier
 Netherlands,Q382598,Kathleen Ferrier,sibling,Q443374,Cynthia McLeod
 Netherlands,Q4282422,Wim Passtoors,sibling,Q14631971,Hélène Passtoors
 Netherlands,Q434816,Ank Bijleveld,sibling,Q62517923,Bea Schouten
+Netherlands,Q442061,Boris Dittrich,partner,Q382598,Kathleen Ferrier
 Netherlands,Q4462875,Thierry Baudet,father,Q79851675,Marcel Baudet
 Netherlands,Q458066,Khadija Arib,child,Q69964882,Sabra Dahhan
 Netherlands,Q458066,Khadija Arib,child,Q69973701,Ghassan Dahhan
@@ -8997,6 +9010,7 @@ Nigeria,Q5529326,Gbemisola Ruqayyah Saraki,sibling,Q97483734,Olushola Bukola Sar
 Nigeria,Q5529329,Gbenga Aluko,child,Q10905,Eniola Aluko
 Nigeria,Q5529329,Gbenga Aluko,child,Q572260,Sone Aluko
 Nigeria,Q5529329,Gbenga Aluko,father,Q51911401,Sam Aluko
+Nigeria,Q5576947,Godswill Akpabio,spouse,Q112170883,Ekaette Unoma Akpabio
 Nigeria,Q5607086,Gregory Ngaji,child,Q111199628,Jude Ngaji
 Nigeria,Q57380,Goodluck Jonathan,spouse,Q7144934,Patience Jonathan
 Nigeria,Q6080812,Isiaka Adetunji Adeleke,father,Q55808166,Raji Ayoola Adeleke
@@ -10510,15 +10524,6 @@ Romania,Q57692,Victor Ponta,spouse,Q274779,Daciana Sârbu
 Romania,Q6272196,Ion Caramitru,spouse,Q104155644,Micaela Caracaș
 Romania,Q646453,Dan Voiculescu,child,Q31180472,Camelia Voiculescu
 Romania,Q6498808,Laura Codruța Kövesi,spouse,Q27044362,Eduárd Kövesi
-Romania,Q663875,Margareta of Romania,father,Q930013,Michael I of Romania
-Romania,Q663875,Margareta of Romania,godparent,Q259752,Princess Margaret of Denmark
-Romania,Q663875,Margareta of Romania,godparent,Q80976,"Prince Philip, Duke of Edinburgh"
-Romania,Q663875,Margareta of Romania,mother,Q563765,Queen Anne of Romania
-Romania,Q663875,Margareta of Romania,sibling,Q1212263,Princess Maria of Romania
-Romania,Q663875,Margareta of Romania,sibling,Q1468375,Princess Sophie of Romania
-Romania,Q663875,Margareta of Romania,sibling,Q2423576,Princess Elena of Romania
-Romania,Q663875,Margareta of Romania,sibling,Q6658829,Princess Irina of Romania
-Romania,Q663875,Margareta of Romania,spouse,Q3029911,"Prince Radu, Prince of Romania"
 Romania,Q6659788,Nicolae-Liviu Dragnea,spouse,Q64168111,Bombonica Dragnea
 Romania,Q671955,Ludovic Orban,sibling,Q463274,Leonard Orban
 Romania,Q6845299,Mihnea Motoc,spouse,Q6095446,Iulia Motoc
@@ -11957,6 +11962,11 @@ Spain,Q467829,Alberto Ruiz-Gallardón,relative,Q5851133,Víctor Ruiz Albéniz
 Spain,Q467829,Alberto Ruiz-Gallardón,relative,Q9014846,José Utrera Molina
 Spain,Q4684282,Adolfo Suárez Illana,father,Q214367,Adolfo Suárez
 Spain,Q4684282,Adolfo Suárez Illana,mother,Q47421733,Amparo Illana
+Spain,Q4684282,Adolfo Suárez Illana,relative,Q112185016,Alejandra Romero Suárez
+Spain,Q4684282,Adolfo Suárez Illana,sibling,Q112184945,María Amparo Suárez Illana
+Spain,Q4684282,Adolfo Suárez Illana,sibling,Q112185095,Laura Suárez Illana
+Spain,Q4684282,Adolfo Suárez Illana,sibling,Q112185265,Francisco Javier Suárez Illana
+Spain,Q4684282,Adolfo Suárez Illana,sibling,Q6132346,Sonsoles Suárez
 Spain,Q470732,José Antonio Labordeta,child,Q28530693,Paula Labordeta de Grandes
 Spain,Q470732,José Antonio Labordeta,child,Q6298789,Ana Labordeta de Grandes
 Spain,Q470732,José Antonio Labordeta,child,Q8076937,Ángela Labordeta de Grandes
@@ -14991,13 +15001,13 @@ United Kingdom,Q24082,Patrick Jenkin,child,Q75997827,Nicola Mary Jenkin
 United Kingdom,Q24082,Patrick Jenkin,child,Q75997829,Flora Margaret Jenkin
 United Kingdom,Q24082,Patrick Jenkin,father,Q76039793,Charles Oswald Frewen Jenkin
 United Kingdom,Q24082,Patrick Jenkin,spouse,Q75997821,Alison Monica Graham
-United Kingdom,Q24165,Hélène Hayman,child,Q76091318,Ben Hayman
-United Kingdom,Q24165,Hélène Hayman,child,Q76091321,Joseph Hayman
-United Kingdom,Q24165,Hélène Hayman,child,Q76091322,Jacob Hayman
-United Kingdom,Q24165,Hélène Hayman,child,Q76091323,David Hayman
-United Kingdom,Q24165,Hélène Hayman,father,Q76091313,Maurice Middleweek
-United Kingdom,Q24165,Hélène Hayman,mother,Q76091314,Maude Woolfe
-United Kingdom,Q24165,Hélène Hayman,spouse,Q76091316,Martin Hayman
+United Kingdom,Q24165,Helene Hayman,child,Q76091318,Ben Hayman
+United Kingdom,Q24165,Helene Hayman,child,Q76091321,Joseph Hayman
+United Kingdom,Q24165,Helene Hayman,child,Q76091322,Jacob Hayman
+United Kingdom,Q24165,Helene Hayman,child,Q76091323,David Hayman
+United Kingdom,Q24165,Helene Hayman,father,Q76091313,Maurice Middleweek
+United Kingdom,Q24165,Helene Hayman,mother,Q76091314,Maude Woolfe
+United Kingdom,Q24165,Helene Hayman,spouse,Q76091316,Martin Hayman
 United Kingdom,Q2422094,"Thomas Ashton, 4th Baron Ashton of Hyde",child,Q75273969,Harriet Emily Ashton
 United Kingdom,Q2422094,"Thomas Ashton, 4th Baron Ashton of Hyde",child,Q75273971,Isobel Louise Ashton
 United Kingdom,Q2422094,"Thomas Ashton, 4th Baron Ashton of Hyde",child,Q75273974,Flora Juliet Ashton
