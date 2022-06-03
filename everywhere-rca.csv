@@ -1963,11 +1963,13 @@ Colombia,Q989831,Enrique Peñalosa,sibling,Q61947420,Gil Peñalosa
 Congo-Kinshasa,Q104600997,Guy Loando Mboyo,father,Q104601569,Mboyo Loando Pierre
 Congo-Kinshasa,Q104600997,Guy Loando Mboyo,mother,Q104601534,Bompongo Mpetshi Marie
 Congo-Kinshasa,Q104600997,Guy Loando Mboyo,spouse,Q104601341,Déborah Linda Loando
+Congo-Kinshasa,Q104889315,Wivine Mumba Matipa,spouse,Q106936395,Simon Tuma-Waku Bawanganiwo
+Congo-Kinshasa,Q106884074,Jean-Pierre Lihau,father,Q3289160,Marcel Lihau
 Congo-Kinshasa,Q106914680,Juliette Mbambu Mughole,father,Q110994233,Paluku Malambo
 Congo-Kinshasa,Q106914680,Juliette Mbambu Mughole,mother,Q110994244,Kavira Kyabusiku
 Congo-Kinshasa,Q106914680,Juliette Mbambu Mughole,relative,Q110994233,Paluku Malambo
 Congo-Kinshasa,Q106914680,Juliette Mbambu Mughole,relative,Q110994244,Kavira Kyabusiku
-Congo-Kinshasa,Q107368856,Gael Bussa,father,Q106647261,Jean-Lucien Bussa Tongba
+Congo-Kinshasa,Q107368856,Gael Bussa,father,Q106647261,
 Congo-Kinshasa,Q107368856,Gael Bussa,mother,Q107369212,Petronelle Mambetuku Kimpioka
 Congo-Kinshasa,Q107368856,Gael Bussa,spouse,Q107369189,Alicia Salawa
 Congo-Kinshasa,Q135547,Laurent-Désiré Kabila,child,Q19629165,Zoé Kabila
@@ -1977,8 +1979,16 @@ Congo-Kinshasa,Q135547,Laurent-Désiré Kabila,child,Q57416,Joseph Kabila
 Congo-Kinshasa,Q18611995,Franck Mwe di Malila,father,Q18746076,Édouard Mwe di Malila Apenela
 Congo-Kinshasa,Q29032770,Félix Tshisekedi,father,Q168629,Étienne Tshisekedi
 Congo-Kinshasa,Q29032770,Félix Tshisekedi,spouse,Q61855144,Denise Nyakeru Tshisekedi
+Congo-Kinshasa,Q3091442,Nzanga Mobutu,father,Q164535,Mobutu Sese Seko
+Congo-Kinshasa,Q3091442,Nzanga Mobutu,mother,Q27865687,Bobi Ladawa Mobutu
+Congo-Kinshasa,Q3091442,Nzanga Mobutu,sibling,Q6429274,Kongulu Mobutu
 Congo-Kinshasa,Q316942,Antoine Gizenga,child,Q25387204,Lugi Gizenga
+Congo-Kinshasa,Q3176296,Jeannot Bemba Saolona,child,Q379148,Jean-Pierre Bemba
+Congo-Kinshasa,Q3196526,Kikaya Bin Karubi,child,Q374967,Gary Kikaya
 Congo-Kinshasa,Q379148,Jean-Pierre Bemba,father,Q3176296,Jeannot Bemba Saolona
+Congo-Kinshasa,Q56515694,Jean-Lucien Bussa,child,Q107368856,Gael Bussa
+Congo-Kinshasa,Q56515694,Jean-Lucien Bussa,relative,Q107369189,Alicia Salawa
+Congo-Kinshasa,Q56515694,Jean-Lucien Bussa,spouse,Q107369212,Petronelle Mambetuku Kimpioka
 Congo-Kinshasa,Q57416,Joseph Kabila,father,Q135547,Laurent-Désiré Kabila
 Congo-Kinshasa,Q57416,Joseph Kabila,relative,Q109651236,Francis Selemani
 Congo-Kinshasa,Q57416,Joseph Kabila,sibling,Q109673209,Gloria Mteyu
@@ -1986,6 +1996,8 @@ Congo-Kinshasa,Q57416,Joseph Kabila,sibling,Q19629165,Zoé Kabila
 Congo-Kinshasa,Q57416,Joseph Kabila,sibling,Q2828106,Aimée Kabila Mulengela
 Congo-Kinshasa,Q57416,Joseph Kabila,sibling,Q3163304,Jaynet Kabila
 Congo-Kinshasa,Q57416,Joseph Kabila,spouse,Q509657,Olive Lembe di Sita
+Congo-Kinshasa,Q62066858,Nicolas Kazadi,father,Q64861315,Jacques Kazadi
+Congo-Kinshasa,Q97464659,Augustin Kibassa,father,Q5506698,Frédéric Kibassa Maliba
 Croatia,Q11685764,Andrej Plenković,father,Q85965242,Mario Plenković
 Croatia,Q11685764,Andrej Plenković,spouse,Q35829705,Ana Maslać
 Croatia,Q3176299,Kolinda Grabar-Kitarović,child,Q110208348,Katarina Kitarović
