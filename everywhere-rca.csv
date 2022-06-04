@@ -2143,6 +2143,7 @@ Czechia,Q12042541,Olga Sehnalová,child,Q11797891,Olga Sehnalová
 Czechia,Q12042545,Olga Sommerová,child,Q12022307,Jakub Sommer
 Czechia,Q12042545,Olga Sommerová,child,Q12042553,Olga Malířová Špátová
 Czechia,Q12042545,Olga Sommerová,spouse,Q708909,Vladimír Sommer
+Czechia,Q12042549,Olga Zubová,spouse,Q95398918,Vladimír Zubov
 Czechia,Q12044139,Pavel Kováčik,father,Q70202813,Viliam Kováčik
 Czechia,Q12044139,Pavel Kováčik,mother,Q70202816,Marie Kováčiková
 Czechia,Q12044794,Petr Arenberger,father,Q106812171,Miloslav Arenberger
@@ -2228,6 +2229,7 @@ Czechia,Q280578,Michal Lobkowicz,child,Q75806070,Christoph Prinz von Lobkowicz
 Czechia,Q280578,Michal Lobkowicz,father,Q11775037,František Lobkowicz
 Czechia,Q280578,Michal Lobkowicz,mother,Q75377317,Hanna Novak
 Czechia,Q280578,Michal Lobkowicz,spouse,Q75377321,Lucie Navratilova
+Czechia,Q28116553,Josef Šedlbauer,spouse,Q112208041,Anna Kšírová
 Czechia,Q28767783,Ondřej Kolář,father,Q7178537,Petr Kolář
 Czechia,Q287879,Přemysl Sobotka,spouse,Q105103019,Radmila Sobotková
 Czechia,Q29021057,Věslav Michalik,spouse,Q109674931,Hana Michaliková
@@ -2881,7 +2883,6 @@ Estonia,Q788525,Paul-Eerik Rummo,spouse,Q2524110,Viiu Härm
 Estonia,Q955751,Liia Hänni,child,Q50698410,Kristjan Hänni
 Estonia,Q955751,Liia Hänni,father,Q50375877,Friedrich Juulik
 Estonia,Q955751,Liia Hänni,mother,Q50375878,Alma Juulik
-Estonia,Q97577979,James E. Baker,partner,Q97577998,John R. Hawkins
 Ethiopia,Q161184,Meles Zenawi,spouse,Q4832330,Azeb Mesfin
 Ethiopia,Q356741,Negasso Gidada,spouse,Q7308428,Regina Abelt
 European Union,Q1028887,Camiel Eurlings,father,Q2438491,Martin Eurlings
@@ -5698,7 +5699,7 @@ India,Q15992996,Mukesh Gadhvi,father,Q16902854,B.K. Gadhvi
 India,Q15993397,Amar Roy Pradhan,child,Q24572489,Arghya Roy Pradhan
 India,Q1609586,Moon Moon Sen,child,Q46018,Raima Sen
 India,Q1609586,Moon Moon Sen,child,Q748926,Riya Sen
-India,Q1609586,Moon Moon Sen,mother,Q467343,Rama Dasgupta
+India,Q1609586,Moon Moon Sen,mother,Q467343,Roma Dasgupta
 India,Q16105255,Hukmdev Narayan Yadav,child,Q64141260,Ashok Kumar Yadav
 India,Q16106092,Shyama Singh,mother,Q24566023,Madhuri Singh
 India,Q16106092,Shyama Singh,sibling,Q15127434,Nand Kishore Singh
@@ -6997,6 +6998,8 @@ Ireland,Q380182,Albert Reynolds,child,Q26702996,Leonie Reynolds
 Ireland,Q381658,Denis Naughten,father,Q1822671,Liam Naughten
 Ireland,Q436181,Síle de Valera,father,Q65512591,Terry de Valera
 Ireland,Q436181,Síle de Valera,mother,Q75887676,Phyllis Blake
+Ireland,Q436181,Síle de Valera,relative,Q273274,Éamon Ó Cuív
+Ireland,Q436181,Síle de Valera,relative,Q3778028,Vivion de Valera
 Ireland,Q444705,Mary Coughlan,father,Q5052026,Cathal Coughlan
 Ireland,Q4864133,Barry Cowen,father,Q4893027,Bernard Cowen
 Ireland,Q4864133,Barry Cowen,sibling,Q185272,Brian Cowen
@@ -8790,6 +8793,8 @@ Netherlands,Q2227862,Edward Asscher,sibling,Q68149705,Bram Asscher
 Netherlands,Q2236661,Wouter Gortzak,father,Q13724415,Henk Gortzak
 Netherlands,Q2257749,Koos Schouwenaar,father,Q27651886,Arie Jan Schouwenaar
 Netherlands,Q2257749,Koos Schouwenaar,mother,Q2366729,Jo Schouwenaar-Franssen
+Netherlands,Q2281383,Pia Lokin-Sassen,mother,Q1338427,Maan Sassen
+Netherlands,Q2281383,Pia Lokin-Sassen,spouse,Q5556150,J.H.A. Lokin
 Netherlands,Q2304865,Johan Stekelenburg,sibling,Q4747636,Jan Stekelenburg
 Netherlands,Q2320629,Frank de Grave,spouse,Q110699411,Dorienke de Grave-Verkerk
 Netherlands,Q2330840,Paul Blokhuis,father,Q107591603,Bert Blokhuis
@@ -10371,6 +10376,7 @@ Poland,Q946,Donald Tusk,father,Q17278182,Donald Tusk
 Poland,Q946,Donald Tusk,mother,Q17278183,Ewa Tusk
 Poland,Q946,Donald Tusk,relative,Q11731545,Józef Tusk
 Poland,Q946,Donald Tusk,spouse,Q17278133,Małgorzata Tusk
+Portugal,Q10295257,Nuno da Câmara Pereira,sibling,Q97168965,Gonçalo da Câmara Pereira
 Portugal,Q10321318,Luís Braga da Cruz,sibling,Q10324025,Manuel Braga da Cruz
 Portugal,Q10321558,Luís Menezes,father,Q6706787,Luís Filipe Menezes
 Portugal,Q10346718,Paulo Mota Pinto,father,Q388965,Carlos Mota Pinto
@@ -11908,6 +11914,8 @@ Spain,Q3397723,Francisco Cacharro Pardo,child,Q12388907,Francisco Cacharro Gosen
 Spain,Q339847,Marina Geli i Fàbrega,child,Q5749367,Carla Nieto
 Spain,Q3412142,Pío García-Escudero,father,Q65966672,Felipe García-Escudero y Torroba
 Spain,Q3412142,Pío García-Escudero,relative,Q6093879,Pío García-Escudero y Fernández de Urrutia
+Spain,Q3470333,Salvador Servià i Costa,child,Q934221,Oriol Servià
+Spain,Q3470333,Salvador Servià i Costa,relative,Q5449336,Fina Román
 Spain,Q3470333,Salvador Servià i Costa,sibling,Q512682,José Maria Servià
 Spain,Q355265,Pasqual Maragall i Mira,child,Q86496750,Cristina Maragall i Garrigosa
 Spain,Q355265,Pasqual Maragall i Mira,father,Q19256882,Jordi Maragall i Noble
