@@ -19,6 +19,7 @@ Algeria,Q3193179,Karim Djoudi,father,Q3138943,Hocine Djoudi
 Algeria,Q3193218,Karim Tabbou,spouse,Q83484711,Zahra Tabbou
 Algeria,Q57308,Abdelaziz Bouteflika,sibling,Q3474786,Said Bouteflika
 Algeria,Q57308,Abdelaziz Bouteflika,spouse,Q108646380,Amal Triki
+Algeria,Q57613,Ahmed Ouyahia,sibling,Q112220806,Laïfa Ouyahia
 Andorra,Q157,François Hollande,child,Q16783695,Julien Hollande
 Andorra,Q157,François Hollande,child,Q16783697,Flora Hollande
 Andorra,Q157,François Hollande,child,Q16783700,Thomas Hollande
@@ -1094,8 +1095,8 @@ Brazil,Q10304453,Ivo Gomes,father,Q56347811,José Euclides Ferreira Gomes Júnio
 Brazil,Q10304453,Ivo Gomes,sibling,Q5119489,Cid Gomes
 Brazil,Q10304453,Ivo Gomes,sibling,Q744798,Ciro Gomes
 Brazil,Q10304982,Jair Bolsonaro,child,Q10283057,Flávio Bolsonaro
+Brazil,Q10304982,Jair Bolsonaro,child,Q112250889,Renan Bolsonaro
 Brazil,Q10304982,Jair Bolsonaro,child,Q18246320,Eduardo Bolsonaro
-Brazil,Q10304982,Jair Bolsonaro,child,Q58428162,Renan Bolsonaro
 Brazil,Q10304982,Jair Bolsonaro,child,Q58428214,Laura Bolsonaro
 Brazil,Q10304982,Jair Bolsonaro,child,Q9696914,Carlos Bolsonaro
 Brazil,Q10304982,Jair Bolsonaro,father,Q106815816,Percy Geraldo Bolsonaro
@@ -1995,6 +1996,7 @@ Congo-Kinshasa,Q3176296,Jeannot Bemba Saolona,child,Q379148,Jean-Pierre Bemba
 Congo-Kinshasa,Q3196526,Kikaya Bin Karubi,child,Q374967,Gary Kikaya
 Congo-Kinshasa,Q379148,Jean-Pierre Bemba,father,Q3176296,Jeannot Bemba Saolona
 Congo-Kinshasa,Q509657,Olive Lembe di Sita,spouse,Q57416,Joseph Kabila
+Congo-Kinshasa,Q56291812,Kpama Baramoto Kata,relative,Q164535,Mobutu Sese Seko
 Congo-Kinshasa,Q56515694,Jean-Lucien Bussa,child,Q107368856,Gael Bussa
 Congo-Kinshasa,Q56515694,Jean-Lucien Bussa,relative,Q107369189,Alicia Salawa
 Congo-Kinshasa,Q56515694,Jean-Lucien Bussa,spouse,Q107369212,Petronelle Mambetuku Kimpioka
@@ -2007,6 +2009,7 @@ Congo-Kinshasa,Q57416,Joseph Kabila,sibling,Q3163304,Jaynet Kabila
 Congo-Kinshasa,Q57416,Joseph Kabila,spouse,Q509657,Olive Lembe di Sita
 Congo-Kinshasa,Q61855144,Denise Nyakeru Tshisekedi,spouse,Q29032770,Félix Tshisekedi
 Congo-Kinshasa,Q62066858,Nicolas Kazadi,father,Q64861315,Jacques Kazadi
+Congo-Kinshasa,Q82364291,Jean-Marie Peti Peti,father,Q2848425,André Peti peti
 Congo-Kinshasa,Q96988286,Nathalie Bul'an'sung Sanata,sibling,Q16669165,Patrick Bologna
 Congo-Kinshasa,Q97464659,Augustin Kibassa,father,Q5506698,Frédéric Kibassa Maliba
 Croatia,Q11685764,Andrej Plenković,father,Q85965242,Mario Plenković
@@ -2929,6 +2932,7 @@ European Union,Q11043106,Joan Vallvé i Ribera,sibling,Q20005654,Maria Àngels V
 European Union,Q1118884,Jean-Maurice Dehousse,child,Q3424865,Renaud Dehousse
 European Union,Q1118884,Jean-Maurice Dehousse,father,Q545041,Fernand Dehousse
 European Union,Q1118884,Jean-Maurice Dehousse,mother,Q459383,Rita Lejeune
+European Union,Q112130382,Max Orville,father,Q3570754,Xavier Orville
 European Union,Q114667,Sarah Wiener,father,Q45363,Oswald Wiener
 European Union,Q114667,Sarah Wiener,mother,Q1515014,Lore Heuermann
 European Union,Q114667,Sarah Wiener,spouse,Q104741,Peter Lohmeyer
@@ -3510,6 +3514,7 @@ European Union,Q456901,Sirpa Pietikäinen,spouse,Q65245304,Tapio Määttä
 European Union,Q458095,Miet Smet,father,Q1917034,Albert Smet
 European Union,Q458095,Miet Smet,spouse,Q313809,Wilfried Martens
 European Union,Q459327,Carmen Romero López,spouse,Q156799,Felipe González
+European Union,Q4597444,Miroslav Mikolášik,child,Q112269696,Marcel Mikolášik
 European Union,Q460539,Cecilia Wikström,spouse,Q6340136,Jan-Erik Wikström
 European Union,Q460589,Vilja Toomast,spouse,Q355241,Edgar Savisaar
 European Union,Q460589,Vilja Toomast,spouse,Q7676162,Taimo Toomast
@@ -4171,6 +4176,7 @@ France,Q2379348,Éric Besson,child,Q2861194,Ariane Fornia
 France,Q2379348,Éric Besson,spouse,Q3507288,Sylvie Brunel
 France,Q23868608,Fabrice Delloye,child,Q3332875,Mélanie Delloye-Betancourt
 France,Q23868608,Fabrice Delloye,spouse,Q152472,Ingrid Betancourt
+France,Q2388603,Nicolas Bays,partner,Q33230494,Agnès Pannier-Runacher
 France,Q2388603,Nicolas Bays,spouse,Q29570183,Aurore Bergé
 France,Q2388603,Nicolas Bays,spouse,Q33230494,Agnès Pannier-Runacher
 France,Q2396093,Colette Giudicelli,spouse,Q3165004,Jean-Claude Guibal
@@ -4452,6 +4458,7 @@ France,Q33104697,Amélie Oudéa-Castéra,spouse,Q984266,Frederic Oudéa
 France,Q33105695,François Pinte,father,Q3592334,Étienne Pinte
 France,Q33109969,Romain Nadal,mother,Q63759157,Marie-Françoise Matouk
 France,Q33113534,Jean-Christophe Peaucelle,spouse,Q42414936,Véronique Peaucelle-Delelis
+France,Q33122330,Christophe Lecourtier,father,Q100243112,Philippe Lecourtier
 France,Q33140156,Bertrand Dutheil de La Rochère,child,Q41338402,Amélie de La Rochère
 France,Q33140156,Bertrand Dutheil de La Rochère,sibling,Q29641388,Christian Dutheil de La Rochère
 France,Q33142338,Emmanuelle Wargon,father,Q3241949,Lionel Stoléru
@@ -4461,7 +4468,7 @@ France,Q33170148,Patrick Hénault,father,Q75883369,Pierre Henault
 France,Q33170148,Patrick Hénault,mother,Q75883371,Leontine-Marguerite-Raymonde D'Arcy
 France,Q33170148,Patrick Hénault,spouse,Q47525059,Anne Hénault
 France,Q33186421,Florence Mangin,spouse,Q111183014,Pino Adriano
-France,Q33230494,Agnès Pannier-Runacher,spouse,Q2388603,Nicolas Bays
+France,Q33230494,Agnès Pannier-Runacher,partner,Q2388603,Nicolas Bays
 France,Q33230494,Agnès Pannier-Runacher,spouse,Q48929742,Marc Pannier
 France,Q33245821,Laurent Dejoie,father,Q3264791,Luc Dejoie
 France,Q3328120,Muriel Marland-Militello,spouse,Q3380317,Philippe Marland
@@ -4736,7 +4743,7 @@ Georgia,Q113733,Archduchess Gabriela of Austria,sibling,Q112096,Georg of Austria
 Georgia,Q113733,Archduchess Gabriela of Austria,sibling,Q3434236,"Archduchess Andrea, Countess of Neipperg"
 Georgia,Q113733,Archduchess Gabriela of Austria,sibling,Q3504210,Archduchess Michaela of Austria
 Georgia,Q113733,Archduchess Gabriela of Austria,sibling,Q4919368,"Archduchess Monika, Duchess of Santángelo"
-Georgia,Q113733,Archduchess Gabriela of Austria,sibling,Q77555,Archduchess Walburga of Austria
+Georgia,Q113733,Archduchess Gabriela of Austria,sibling,Q77555,Walburga Habsburg Douglas
 Georgia,Q113733,Archduchess Gabriela of Austria,sibling,Q78515,Karl von Habsburg
 Georgia,Q113733,Archduchess Gabriela of Austria,spouse,Q75294737,Christian Meister
 Georgia,Q1178707,David Usupashvili,spouse,Q16370108,Tina Khidasheli
@@ -4888,10 +4895,16 @@ Germany,Q1928239,Michael Koch,sibling,Q1084303,Christof Koch
 Germany,Q1991468,Nikolaus Graf Lambsdorff,father,Q60153,Otto Graf Lambsdorff
 Germany,Q2018007,Olaf Lehne,sibling,Q78218,Klaus-Heiner Lehne
 Germany,Q2063431,Paul Freiherr von Maltzahn,child,Q110722136,Nadia von Maltzahn
+Germany,Q2087072,Philipp Murmann,relative,Q15431287,Dieter Murmann
+Germany,Q2087072,Philipp Murmann,relative,Q1745474,Klaus Murmann
+Germany,Q2087072,Philipp Murmann,relative,Q1745474,Klaus Murmann
+Germany,Q2087072,Philipp Murmann,relative,Q2477399,Ulrike Murmann
+Germany,Q2087072,Philipp Murmann,relative,Q27230524,Sven Murmann
 Germany,Q2120880,Stephan Weil,spouse,Q2166883,Rosemarie Kerkow-Weil
 Germany,Q2128070,Rainer Eberle,spouse,Q85933,Anna Lührmann
 Germany,Q2128070,Rainer Eberle,spouse,Q865385,Birgitta Maria Siefker-Eberle
 Germany,Q2141410,Reinhold Hiller,spouse,Q1490366,Gabriele Hiller-Ohm
+Germany,Q2141429,Reinhold Jost,spouse,Q1265844,Dunja
 Germany,Q2143413,Renate Holznagel,child,Q15842048,Reiner Holznagel
 Germany,Q214517,Nikolaus Meyer-Landrut,relative,Q215078,Andreas Meyer-Landrut
 Germany,Q214517,Nikolaus Meyer-Landrut,relative,Q7013,Lena Meyer-Landrut
@@ -5331,7 +5344,6 @@ Greenland,Q45759985,Ole Lynge,father,Q51835359,Hans Lynge
 Greenland,Q45759985,Ole Lynge,sibling,Q4570569,Aqqaluk Lynge
 Greenland,Q468034,Lars-Emil Johansen,mother,Q11242423,Elisabeth Johansen
 Guatemala,Q17995110,Jimmy Morales,spouse,Q21400269,Patricia Marroquín
-Guatemala,Q17995110,Jimmy Morales,spouse,Q47507488,Patricia Marroquín
 Guatemala,Q182441,Alfonso Portillo,spouse,Q47825878,Evelyn Morataya
 Guatemala,Q182441,Alfonso Portillo,spouse,Q6003776,María Eugenia González
 Guatemala,Q1846075,Zury Ríos,father,Q467077,Efraín Ríos Montt
@@ -9965,6 +9977,7 @@ Philippines,Q212733,Joseph Estrada,sibling,Q5539032,George Estregan
 Philippines,Q212733,Joseph Estrada,spouse,Q2483874,Loi Estrada
 Philippines,Q2133872,Juan Edgardo Angara,father,Q1284303,Edgardo Angara
 Philippines,Q2139066,Sergio Osmeña III,father,Q2515056,"Sergio Osmeña, Jr."
+Philippines,Q2163117,"Rolando Andaya, Jr.",spouse,Q66776955,Marissa Andaya
 Philippines,Q2176997,"Hilario Davide, Jr.",child,Q16195494,Hilario Davide III
 Philippines,Q2184714,Raul Roco,sibling,Q25663425,Cho Roco
 Philippines,Q2184714,Raul Roco,spouse,Q5169098,Sonia Roco
@@ -10125,6 +10138,7 @@ Philippines,Q66776949,Gil A. Acosta,father,Q59513321,Gil P. Acosta
 Philippines,Q66776953,Antonio Albano,father,Q12970075,Rodolfo B. Albano
 Philippines,Q66776953,Antonio Albano,sibling,Q59514714,Rodolfo T. Albano III
 Philippines,Q66776954,Samantha Louise Vargas Alfonso,mother,Q66827054,Baby Aline Vargas-Alfonso
+Philippines,Q66776955,Marissa Andaya,spouse,Q2163117,"Rolando Andaya, Jr."
 Philippines,Q66776958,Ma. Lourdes Arroyo,sibling,Q46340,Jose Miguel Arroyo
 Philippines,Q66776958,Ma. Lourdes Arroyo,sibling,Q5991683,Iggy Arroyo
 Philippines,Q66776964,Angelo Marcos Barba,mother,Q104027096,Fortuna Marcos-Barba
@@ -10175,6 +10189,7 @@ Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q112077167,Princess Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q3550636,Strike Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q7288569,Ram Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q919045,Bong Revilla
+Philippines,Q7296195,Raul del Mar,child,Q104101020,Raoul del Mar
 Philippines,Q7351859,Roberto Puno,father,Q15634561,Ricardo C. Puno
 Philippines,Q7351859,Roberto Puno,relative,Q112153161,Norberto P. Romualdez
 Philippines,Q7351859,Roberto Puno,sibling,Q5295761,Dong Puno
@@ -10622,6 +10637,7 @@ Russia,Q1964825,Nikolai Burlyayev,spouse,Q510170,Natalya Varley
 Russia,Q1964825,Nikolai Burlyayev,spouse,Q754131,Natalya Bondarchuk
 Russia,Q1973544,Leonid Nevzlin,child,Q27247995,Irina Nevzlin
 Russia,Q1975794,Valentin Yumashev,child,Q4158957,Polina Deripaska
+Russia,Q1975794,Valentin Yumashev,spouse,Q112225586,Irina Vedeneyeva
 Russia,Q1975794,Valentin Yumashev,spouse,Q453170,Tatyana Yumasheva
 Russia,Q1978432,Anatoly Wasserman,father,Q21663972,Alexander Vasserman
 Russia,Q1978790,Alexander Nevzorov,spouse,Q1967995,Aleksandra Yakovleva
@@ -11374,6 +11390,7 @@ Slovakia,Q26273268,Zuzana Čaputová,spouse,Q81829381,Ivan Čaputa
 Slovakia,Q27990509,Mária Krasnohorská,child,Q110490821,Juraj Krasnohorský
 Slovakia,Q28037993,Martina Kisková,spouse,Q12762303,Andrej Kiska
 Slovakia,Q3488404,Silvia Gašparovičová,spouse,Q57295,Ivan Gašparovič
+Slovakia,Q4597444,Miroslav Mikolášik,child,Q112269696,Marcel Mikolášik
 Slovakia,Q467905,Miroslav Lajčák,spouse,Q12767847,Jarmila Lajčáková-Hargašová
 Slovakia,Q56254928,Irena Schusterová,spouse,Q163813,Rudolf Schuster
 Slovakia,Q57295,Ivan Gašparovič,spouse,Q3488404,Silvia Gašparovičová
@@ -12304,7 +12321,7 @@ Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q4938768,Countess Maria Bernad
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q52878,Gustaf VI Adolf of Sweden
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q52890,Gustaf V of Sweden
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q72834,"Friedrich Josias, Prince of Saxe-Coburg and Gotha"
-Sweden,Q45068,Carl XVI Gustaf of Sweden,mother,Q57626,Princess Sibylla of Saxe-Coburg and Gotha
+Sweden,Q45068,Carl XVI Gustaf of Sweden,mother,Q57626,"Princess Sibylla, Duchess of Västerbotten"
 Sweden,Q45068,Carl XVI Gustaf of Sweden,relative,Q102139,Margrethe II of Denmark
 Sweden,Q45068,Carl XVI Gustaf of Sweden,sibling,Q2024169,"Princess Désirée, Baroness Silfverschiöld"
 Sweden,Q45068,Carl XVI Gustaf of Sweden,sibling,Q2266804,"Princess Margaretha, Mrs. Ambler"
@@ -12418,16 +12435,16 @@ Sweden,Q701382,Björn von der Esch,spouse,Q111031903,Signe von der Esch
 Sweden,Q724410,Gabriel Romanus,father,Q95922548,Ragnar Romanus
 Sweden,Q724410,Gabriel Romanus,mother,Q50680702,Vera Starck-Romanus
 Sweden,Q772089,Hillevi Engström,sibling,Q4955214,Karin Hübinette
-Sweden,Q77555,Archduchess Walburga of Austria,child,Q75294741,Count Moritz Douglas
-Sweden,Q77555,Archduchess Walburga of Austria,father,Q76343,Otto von Habsburg
-Sweden,Q77555,Archduchess Walburga of Austria,mother,Q77335,"Regina, Crown Princess of Austria"
-Sweden,Q77555,Archduchess Walburga of Austria,sibling,Q112096,Georg of Austria
-Sweden,Q77555,Archduchess Walburga of Austria,sibling,Q113733,Archduchess Gabriela of Austria
-Sweden,Q77555,Archduchess Walburga of Austria,sibling,Q3434236,"Archduchess Andrea, Countess of Neipperg"
-Sweden,Q77555,Archduchess Walburga of Austria,sibling,Q3504210,Archduchess Michaela of Austria
-Sweden,Q77555,Archduchess Walburga of Austria,sibling,Q4919368,"Archduchess Monika, Duchess of Santángelo"
-Sweden,Q77555,Archduchess Walburga of Austria,sibling,Q78515,Karl von Habsburg
-Sweden,Q77555,Archduchess Walburga of Austria,spouse,Q18941199,Count Archibald Douglas
+Sweden,Q77555,Walburga Habsburg Douglas,child,Q75294741,Count Moritz Douglas
+Sweden,Q77555,Walburga Habsburg Douglas,father,Q76343,Otto von Habsburg
+Sweden,Q77555,Walburga Habsburg Douglas,mother,Q77335,"Regina, Crown Princess of Austria"
+Sweden,Q77555,Walburga Habsburg Douglas,sibling,Q112096,Georg of Austria
+Sweden,Q77555,Walburga Habsburg Douglas,sibling,Q113733,Archduchess Gabriela of Austria
+Sweden,Q77555,Walburga Habsburg Douglas,sibling,Q3434236,"Archduchess Andrea, Countess of Neipperg"
+Sweden,Q77555,Walburga Habsburg Douglas,sibling,Q3504210,Archduchess Michaela of Austria
+Sweden,Q77555,Walburga Habsburg Douglas,sibling,Q4919368,"Archduchess Monika, Duchess of Santángelo"
+Sweden,Q77555,Walburga Habsburg Douglas,sibling,Q78515,Karl von Habsburg
+Sweden,Q77555,Walburga Habsburg Douglas,spouse,Q18941199,Count Archibald Douglas
 Sweden,Q879773,Björn von Sydow,mother,Q4981674,Tullia von Sydow
 Sweden,Q887398,Bo Holmberg,spouse,Q208591,Anna Lindh
 Sweden,Q897282,Kristina Axén Olin,spouse,Q6024863,Mats Olin
@@ -12820,7 +12837,7 @@ Ukraine,Q24025631,Dmytro Kuleba,father,Q12115638,Кулеба Іван Дмит�
 Ukraine,Q24025631,Dmytro Kuleba,spouse,Q104963350,Kuleba Evgeniya Anatolyevna
 Ukraine,Q2622781,Svyatoslav Vakarchuk,father,Q2442984,Ivan Vakarchuk
 Ukraine,Q2632284,Ivan Drach,child,Q97188895,Драч Мар'яна Іванівна
-Ukraine,Q2690181,Mustafa Nayyem,sibling,Q109338008,Масі Найєм
+Ukraine,Q2690181,Mustafa Nayyem,sibling,Q109338008,Masi Nayyem
 Ukraine,Q2690188,Oleksandr Vilkul,father,Q12093205,Yurii Vilkul
 Ukraine,Q2855765,Andriy Pavlovskyi,father,Q4341772,Mykhailo Pavlovskyi
 Ukraine,Q28860885,Roman Hryshchuk,spouse,Q87488031,Hanna Hres
@@ -13077,6 +13094,7 @@ United Kingdom,Q104898,Norman Foster,father,Q75949379,Robert Foster
 United Kingdom,Q104898,Norman Foster,mother,Q75989998,Lillian Smith
 United Kingdom,Q104898,Norman Foster,spouse,Q3393424,Elena Ochoa
 United Kingdom,Q104898,Norman Foster,spouse,Q3567241,Wendy Cheesman
+United Kingdom,Q1055918,Lembit Öpik,father,Q17361947,Uuno Öpik
 United Kingdom,Q1055918,Lembit Öpik,partner,Q7533474,Siân Lloyd
 United Kingdom,Q1055918,Lembit Öpik,relative,Q318126,Ernst Öpik
 United Kingdom,Q105667,Catherine Ashton,father,Q75413412,Harold Ashton
@@ -17084,6 +17102,8 @@ United Kingdom,Q391562,Zac Goldsmith,spouse,Q23418698,Alice Rothschild
 United Kingdom,Q391562,Zac Goldsmith,spouse,Q7492840,Sheherazade Goldsmith
 United Kingdom,Q3915820,Richard Balfe,child,Q76303179,Richard Geoffrey Clement Balfe
 United Kingdom,Q3915820,Richard Balfe,spouse,Q76303172,Susan Jane Honeyford
+United Kingdom,Q391792,Helen Grant,child,Q112206973,Benjamin Grant
+United Kingdom,Q391792,Helen Grant,father,Q112230473,Julius A. Okuboye
 United Kingdom,Q392149,Andrew Griffiths,spouse,Q76364163,Kate Griffiths
 United Kingdom,Q392174,Ben Gummer,child,Q76265335,Wilfred Gabriel Selwyn Gummer
 United Kingdom,Q392174,Ben Gummer,child,Q76326095,Aubrey Valentine Hamilton Gummer
@@ -18354,7 +18374,7 @@ United Kingdom,Q954374,"Edward Haughey, Baron Ballyedmond",child,Q76260666,James
 United Kingdom,Q954374,"Edward Haughey, Baron Ballyedmond",father,Q76260661,Edward Haughey
 United Kingdom,Q954374,"Edward Haughey, Baron Ballyedmond",spouse,Q19958040,"Mary Haughey, Lady Ballyedmond"
 United Kingdom,Q954374,"Edward Haughey, Baron Ballyedmond",spouse,Q76260663,Mary Gordon Young
-United Kingdom,Q9545,Tony Blair,child,Q75508707,Euan Blair
+United Kingdom,Q9545,Tony Blair,child,Q58376195,Euan Blair
 United Kingdom,Q9545,Tony Blair,child,Q75508709,Nicholas Blair
 United Kingdom,Q9545,Tony Blair,child,Q75508711,Kathryn Blair
 United Kingdom,Q9545,Tony Blair,child,Q75508713,Leo George Blair

@@ -4,6 +4,7 @@ United Kingdom,Q104898,Norman Foster,father,Q75949379,Robert Foster
 United Kingdom,Q104898,Norman Foster,mother,Q75989998,Lillian Smith
 United Kingdom,Q104898,Norman Foster,spouse,Q3393424,Elena Ochoa
 United Kingdom,Q104898,Norman Foster,spouse,Q3567241,Wendy Cheesman
+United Kingdom,Q1055918,Lembit Öpik,father,Q17361947,Uuno Öpik
 United Kingdom,Q1055918,Lembit Öpik,partner,Q7533474,Siân Lloyd
 United Kingdom,Q1055918,Lembit Öpik,relative,Q318126,Ernst Öpik
 United Kingdom,Q105667,Catherine Ashton,father,Q75413412,Harold Ashton
@@ -4011,6 +4012,8 @@ United Kingdom,Q391562,Zac Goldsmith,spouse,Q23418698,Alice Rothschild
 United Kingdom,Q391562,Zac Goldsmith,spouse,Q7492840,Sheherazade Goldsmith
 United Kingdom,Q3915820,Richard Balfe,child,Q76303179,Richard Geoffrey Clement Balfe
 United Kingdom,Q3915820,Richard Balfe,spouse,Q76303172,Susan Jane Honeyford
+United Kingdom,Q391792,Helen Grant,child,Q112206973,Benjamin Grant
+United Kingdom,Q391792,Helen Grant,father,Q112230473,Julius A. Okuboye
 United Kingdom,Q392149,Andrew Griffiths,spouse,Q76364163,Kate Griffiths
 United Kingdom,Q392174,Ben Gummer,child,Q76265335,Wilfred Gabriel Selwyn Gummer
 United Kingdom,Q392174,Ben Gummer,child,Q76326095,Aubrey Valentine Hamilton Gummer
@@ -5281,7 +5284,7 @@ United Kingdom,Q954374,"Edward Haughey, Baron Ballyedmond",child,Q76260666,James
 United Kingdom,Q954374,"Edward Haughey, Baron Ballyedmond",father,Q76260661,Edward Haughey
 United Kingdom,Q954374,"Edward Haughey, Baron Ballyedmond",spouse,Q19958040,"Mary Haughey, Lady Ballyedmond"
 United Kingdom,Q954374,"Edward Haughey, Baron Ballyedmond",spouse,Q76260663,Mary Gordon Young
-United Kingdom,Q9545,Tony Blair,child,Q75508707,Euan Blair
+United Kingdom,Q9545,Tony Blair,child,Q58376195,Euan Blair
 United Kingdom,Q9545,Tony Blair,child,Q75508709,Nicholas Blair
 United Kingdom,Q9545,Tony Blair,child,Q75508711,Kathryn Blair
 United Kingdom,Q9545,Tony Blair,child,Q75508713,Leo George Blair
