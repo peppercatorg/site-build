@@ -30,6 +30,7 @@ Andorra,Q157,François Hollande,partner,Q230539,Valérie Trierweiler
 Andorra,Q157,François Hollande,partner,Q435925,Julie Gayet
 Andorra,Q157,François Hollande,partner,Q81923,Ségolène Royal
 Andorra,Q157,François Hollande,sibling,Q16354873,Philippe Hollande
+Andorra,Q157,François Hollande,spouse,Q435925,Julie Gayet
 Andorra,Q21001195,Xavier Espot Zamora,father,Q2597802,Xavier Espot Miró
 Andorra,Q2105,Jacques Chirac,child,Q15529521,Laurence Chirac
 Andorra,Q2105,Jacques Chirac,child,Q2977194,Claude Chirac
@@ -1565,6 +1566,7 @@ Canada,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Canada,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 Canada,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
 Canada,Q98098468,Andrew Furey,father,Q5539530,George Furey
+Canada,Q983119,Irwin Cotler,relative,Q96357579,Michal Wunsch
 Central African Republic,Q106103476,Anatole Koué,relative,Q310883,André Kolingba
 Central African Republic,Q107369201,Ange Maxime Kazagui,father,Q107368676,Jean-Claude Kazagui
 Central African Republic,Q112074280,Cyriaque Samba Panza,spouse,Q15633683,Catherine Samba-Panza
@@ -1951,7 +1953,7 @@ Colombia,Q57311,Juan Manuel Santos,sibling,Q5833784,Enrique Santos Calderón
 Colombia,Q57311,Juan Manuel Santos,spouse,Q9029971,María Clemencia Rodríguez Múnera
 Colombia,Q5750450,Carlos García Orjuela,child,Q17625094,Pierre García
 Colombia,Q5759860,Cecilia Álvarez-Correa Glen,spouse,Q5562912,Gina Parody
-Colombia,Q6047437,Néstor Cianuro Humberto Martínez,father,Q20829852,Humberto Martínez Salcedo
+Colombia,Q6047437,Néstor Humberto Martínez,father,Q20829852,Humberto Martínez Salcedo
 Colombia,Q6292038,José David Name,father,Q6293541,José Name Terán
 Colombia,Q6299134,Juan Camilo Restrepo Salazar,spouse,Q29263404,Maria Teresa Herrán
 Colombia,Q6793599,Mauricio Cárdenas Santa María,sibling,Q7145571,Patricia Eugenia Cárdenas Santa María
@@ -3504,6 +3506,7 @@ European Union,Q441784,Mario de Marco,father,Q167724,Guido de Marco
 European Union,Q441791,Yannick Jadot,partner,Q3155030,Isabelle Saporta
 European Union,Q441791,Yannick Jadot,sibling,Q33101288,Thierry Jadot
 European Union,Q443141,Carmen Fraga Estévez,father,Q276043,Manuel Fraga Iribarne
+European Union,Q443141,Carmen Fraga Estévez,mother,Q12385386,Carmen Estévez
 European Union,Q443141,Carmen Fraga Estévez,relative,Q110867589,Manuel Fraga Pedroche
 European Union,Q443141,Carmen Fraga Estévez,relative,Q5411740,José María Robles Fraga
 European Union,Q443342,Marcin Libicki,child,Q432097,Jan Filip Libicki
@@ -4111,6 +4114,7 @@ France,Q157,François Hollande,partner,Q230539,Valérie Trierweiler
 France,Q157,François Hollande,partner,Q435925,Julie Gayet
 France,Q157,François Hollande,partner,Q81923,Ségolène Royal
 France,Q157,François Hollande,sibling,Q16354873,Philippe Hollande
+France,Q157,François Hollande,spouse,Q435925,Julie Gayet
 France,Q16007948,Éric Piolle,father,Q55088760,Xavier Piolle
 France,Q16007948,Éric Piolle,mother,Q55089006,Marie-Geneviève Ayçaguer
 France,Q1617291,"Pierre Durand, Jr.",father,Q3384876,Pierre Durand
@@ -7279,6 +7283,7 @@ Israel,Q93181,Ehud Olmert,father,Q2907977,Mordechai Olmert
 Israel,Q93181,Ehud Olmert,sibling,Q17572759,Irmi Olmert
 Israel,Q93181,Ehud Olmert,sibling,Q6724809,Yossef Olmert
 Israel,Q93181,Ehud Olmert,spouse,Q450654,Aliza Olmert
+Israel,Q96357579,Michal Wunsch,stepparent,Q983119,Irwin Cotler
 Israel,Q966349,Gideon Sa'ar,child,Q106521592,Alona Sa'ar
 Israel,Q966349,Gideon Sa'ar,spouse,Q6940611,Geula Even-Sa'ar
 Israel,Q981881,Moshe Ya'alon,relative,Q18120783,Simha Goldin
@@ -8043,8 +8048,8 @@ Kenya,Q48472394,Stephen Sang,spouse,Q111261583,Sheila Sang
 Kenya,Q5407838,Eugene Wamalwa,sibling,Q593552,Michael Kijana Wamalwa
 Kenya,Q5407838,Eugene Wamalwa,spouse,Q111261587,Lucy Musundi
 Kenya,Q57291,Mwai Kibaki,spouse,Q6698396,Lucy Kibaki
-Kenya,Q57657,Raila Odinga,father,Q645228,Jaramogi Oginga Odinga
-Kenya,Q57657,Raila Odinga,spouse,Q5360754,Ida Odinga
+Kenya,Q57657,Raila A Odinga,father,Q645228,Jaramogi Oginga Odinga
+Kenya,Q57657,Raila A Odinga,spouse,Q5360754,Ida Odinga
 Kenya,Q593552,Michael Kijana Wamalwa,sibling,Q5407838,Eugene Wamalwa
 Kenya,Q6249843,John Munyes,spouse,Q111261589,Maryanne Munyes
 Kenya,Q6250396,John Ngata Kariuki,sibling,Q85648304,James Kanyotu
@@ -10126,6 +10131,7 @@ Philippines,Q59513321,Gil P. Acosta,child,Q66776949,Gil A. Acosta
 Philippines,Q59514714,Rodolfo T. Albano III,father,Q12970075,Rodolfo B. Albano
 Philippines,Q59514714,Rodolfo T. Albano III,sibling,Q66776953,Antonio Albano
 Philippines,Q59514714,Rodolfo T. Albano III,spouse,Q12968454,Mylene Garcia-Albano
+Philippines,Q59515565,Isagani S. Amatong,child,Q112225750,Ian Amatong
 Philippines,Q59515565,Isagani S. Amatong,sibling,Q104767262,Ernesto Amatong
 Philippines,Q59515565,Isagani S. Amatong,sibling,Q4596779,Prospero Amatong
 Philippines,Q59515565,Isagani S. Amatong,sibling,Q96065694,Jacobo Amatong
@@ -11869,6 +11875,7 @@ Spain,Q276043,Manuel Fraga Iribarne,relative,Q110867589,Manuel Fraga Pedroche
 Spain,Q276043,Manuel Fraga Iribarne,relative,Q2939445,Carlos Robles Piquer
 Spain,Q276043,Manuel Fraga Iribarne,relative,Q5411740,José María Robles Fraga
 Spain,Q276043,Manuel Fraga Iribarne,sibling,Q60231675,Marcelo Fraga Iribarne
+Spain,Q276043,Manuel Fraga Iribarne,spouse,Q12385386,Carmen Estévez
 Spain,Q27681455,Álvaro Nadal,sibling,Q49163828,Alberto Nadal Belda
 Spain,Q27756128,María del Carmen Álvarez-Arenas Cisneros,father,Q5872514,Félix Álvarez-Arenas y Pacheco
 Spain,Q27756341,Sonia Ferrer Tesoro,mother,Q111222486,Martirio Tesoro Amate
@@ -16336,7 +16343,7 @@ United Kingdom,Q335465,Robert Runcie,mother,Q75604746,Anne Benson
 United Kingdom,Q335465,Robert Runcie,spouse,Q7367252,Rosalind Runcie
 United Kingdom,Q335507,David Puttnam,child,Q76244123,Alexander David Puttnam
 United Kingdom,Q335507,David Puttnam,child,Q76244124,Deborah Jane Puttnam
-United Kingdom,Q335507,David Puttnam,father,Q76244129,Leonard Arthur Puttnam
+United Kingdom,Q335507,David Puttnam,father,Q64868069,Len Puttnam
 United Kingdom,Q335507,David Puttnam,mother,Q76244130,Marie Beatrix Goldman
 United Kingdom,Q335507,David Puttnam,spouse,Q76244121,Patricia Mary Jones
 United Kingdom,Q335517,"Charles Guthrie, Baron Guthrie of Craigiebank",father,Q76024655,Ronald Dalgleish Guthrie
@@ -18770,6 +18777,11 @@ United States,Q2036942,Ted Cruz,mother,Q20155390,Eleanor Wilson Cruz
 United States,Q2036942,Ted Cruz,spouse,Q20165784,Heidi Cruz
 United States,Q203966,Paul Ryan,spouse,Q27831047,Janna Little
 United States,Q2059832,Paul Gosar,sibling,Q47718480,Pete Gosar
+United States,Q20645208,Kin W. Moy,child,Q112300501,Amanda Moy
+United States,Q20645208,Kin W. Moy,child,Q112300526,Andrew Moy
+United States,Q20645208,Kin W. Moy,child,Q112300558,Claire Moy
+United States,Q20645208,Kin W. Moy,child,Q112300580,奧莉維亞·梅
+United States,Q20645208,Kin W. Moy,spouse,Q111511783,Kathy Chen
 United States,Q20684288,Jim Justice,father,Q106044570,James Conley Justice Sr.
 United States,Q207,George W. Bush,child,Q153481,Jenna Bush Hager
 United States,Q207,George W. Bush,child,Q153730,Barbara Bush
