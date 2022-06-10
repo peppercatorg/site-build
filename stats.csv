@@ -39,6 +39,7 @@ chad,7,24,155,179
 chile,31,278,391,611
 china,37,174,5400,5513
 colombia,24,230,45,262
+congo-brazzaville,4,12,14,23
 congo-kinshasa,60,493,1402,1774
 croatia,23,101,158,242
 cyprus,24,121,183,273
@@ -148,9 +149,11 @@ solomon-islands,28,42,69,85
 somalia,32,76,2,76
 south-africa,42,130,712,776
 south-korea,33,235,982,1153
+south-sudan,7,10,0,10
 spain,30,570,3928,4316
 sri-lanka,33,58,258,276
 st-kitts-and-nevis,15,20,11,21
+sudan,2,21,0,21
 sweden,29,324,1297,1512
 switzerland,12,83,645,683
 tajikistan,27,38,0,38
@@ -175,4 +178,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,897,1003
-TOTAL,4569,24841,87198,104813
+TOTAL,4582,24883,87212,104866

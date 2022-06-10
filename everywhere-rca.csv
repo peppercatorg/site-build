@@ -1963,6 +1963,12 @@ Colombia,Q9025120,Luis Guillermo Vélez,child,Q26255077,Luis Guillermo Vélez Ca
 Colombia,Q955397,Emma Claudia Castellanos,spouse,Q5202526,César Castellanos
 Colombia,Q981871,Samuel Moreno Rojas,mother,Q6782003,María Eugenia Rojas Correa
 Colombia,Q989831,Enrique Peñalosa,sibling,Q61947420,Gil Peñalosa
+Congo-Brazzaville,Q3121597,Guy Brice Parfait Kolélas,father,Q767085,Bernard Kolélas
+Congo-Brazzaville,Q3121597,Guy Brice Parfait Kolélas,sibling,Q5409443,Euloge Landry Kolélas
+Congo-Brazzaville,Q5493295,François Ibovi,sibling,Q16730014,Jean-Claude Ibovi
+Congo-Brazzaville,Q57418,Denis Sassou-Nguesso,child,Q273791,Edith Lucie Bongo
+Congo-Brazzaville,Q57418,Denis Sassou-Nguesso,child,Q3022596,Denis-Christel Sassou Nguesso
+Congo-Brazzaville,Q57418,Denis Sassou-Nguesso,spouse,Q58491100,Antoinette Sassou Nguesso
 Congo-Kinshasa,Q104600997,Guy Loando Mboyo,father,Q104601569,Mboyo Loando Pierre
 Congo-Kinshasa,Q104600997,Guy Loando Mboyo,mother,Q104601534,Bompongo Mpetshi Marie
 Congo-Kinshasa,Q104600997,Guy Loando Mboyo,spouse,Q104601341,Déborah Linda Loando
@@ -11582,6 +11588,10 @@ South Korea,Q625487,Lee Sang-deuk,sibling,Q14342,Lee Myung-bak
 South Korea,Q6956410,Na Kyung-won,spouse,Q6408844,Kim Jae-ho
 South Korea,Q93752810,Suh Bum-soo,sibling,Q16083277,Suh Byung-soo
 South Korea,Q97199071,Dong-hoon Han,child,Q111990408,Alex Eugene Han
+South Sudan,Q3379134,Rebecca Nyandeng De Mabior,child,Q61993413,Akuol de Mabior
+South Sudan,Q3379134,Rebecca Nyandeng De Mabior,spouse,Q167444,John Garang
+South Sudan,Q444994,Riek Machar,spouse,Q4762750,Angelina Teny
+South Sudan,Q57315,Salva Kiir Mayardit,spouse,Q64895993,Mary Ayen Mayardit
 Spain,Q1032587,Ernest Maragall i Mira,father,Q19256882,Jordi Maragall i Noble
 Spain,Q1032587,Ernest Maragall i Mira,sibling,Q111754364,Jordi Maragall i Mira
 Spain,Q1032587,Ernest Maragall i Mira,sibling,Q111754386,Àngels Maragall i Mira
@@ -12249,6 +12259,9 @@ Saint Kitts and Nevis,Q9682,Elizabeth II,father,Q280856,George VI
 Saint Kitts and Nevis,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Saint Kitts and Nevis,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 Saint Kitts and Nevis,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
+Sudan,Q167444,John Garang,child,Q61993413,Akuol de Mabior
+Sudan,Q167444,John Garang,spouse,Q3379134,Rebecca Nyandeng De Mabior
+Sudan,Q57315,Salva Kiir Mayardit,spouse,Q64895993,Mary Ayen Mayardit
 Sweden,Q108281858,Charlotte von Essen,spouse,Q39160642,Ulrik von Essen
 Sweden,Q1232072,Jan O. Karlsson,child,Q5901962,Peder Karlsson
 Sweden,Q1232072,Jan O. Karlsson,father,Q5901426,Hans Karlsson
