@@ -1,7 +1,18 @@
 catalog,id,name,relationship,relative,relativename
+Congo-Brazzaville,Q26237842,Ingrid Ebouka-Babackas,father,Q26221001,Édouard Ebouka-Babackas
+Congo-Brazzaville,Q26254130,Arlette Soudan-Nonault,father,Q6169940,Jean-Pierre Nonault
+Congo-Brazzaville,Q26254130,Arlette Soudan-Nonault,spouse,Q27431367,François Soudan
+Congo-Brazzaville,Q26689539,Jean-Marc Thystère-Tchicaya,father,Q3169789,Jean-Pierre Thystère Tchicaya
 Congo-Brazzaville,Q3121597,Guy Brice Parfait Kolélas,father,Q767085,Bernard Kolélas
 Congo-Brazzaville,Q3121597,Guy Brice Parfait Kolélas,sibling,Q5409443,Euloge Landry Kolélas
+Congo-Brazzaville,Q3386379,Pierre Moussa,child,Q20817355,Fatima Beyina-Moussa
+Congo-Brazzaville,Q4686987,Adélaïde Moundélé-Ngollo,spouse,Q48245918,Benoît Moundélé-Ngollo
+Congo-Brazzaville,Q4686987,Adélaïde Moundélé-Ngollo,spouse,Q964762,Ange Diawara
+Congo-Brazzaville,Q5082018,Charles Richard Mondjo,father,Q106957372,Nicolas Mondjo
+Congo-Brazzaville,Q5409443,Euloge Landry Kolélas,father,Q767085,Bernard Kolélas
+Congo-Brazzaville,Q5409443,Euloge Landry Kolélas,sibling,Q3121597,Guy Brice Parfait Kolélas
 Congo-Brazzaville,Q5493295,François Ibovi,sibling,Q16730014,Jean-Claude Ibovi
 Congo-Brazzaville,Q57418,Denis Sassou-Nguesso,child,Q273791,Edith Lucie Bongo
 Congo-Brazzaville,Q57418,Denis Sassou-Nguesso,child,Q3022596,Denis-Christel Sassou Nguesso
 Congo-Brazzaville,Q57418,Denis Sassou-Nguesso,spouse,Q58491100,Antoinette Sassou Nguesso
+Congo-Brazzaville,Q6169352,Jean-Jacques Bouya,relative,Q57418,Denis Sassou-Nguesso
