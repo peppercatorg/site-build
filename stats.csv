@@ -131,7 +131,7 @@ philippines,35,267,664,862
 poland,28,235,539,720
 portugal,23,106,481,557
 qatar,23,31,0,31
-romania,30,420,1147,1347
+romania,30,422,1147,1348
 russia,40,393,2198,2525
 rwanda,29,55,0,55
 saint-lucia,18,37,42,52
@@ -149,7 +149,7 @@ solomon-islands,28,42,69,85
 somalia,32,76,2,76
 south-africa,42,130,712,776
 south-korea,33,235,983,1154
-south-sudan,7,10,0,10
+south-sudan,7,10,167,173
 spain,30,570,3928,4316
 sri-lanka,33,58,258,276
 st-kitts-and-nevis,15,20,11,21
@@ -178,4 +178,4 @@ vietnam,10,30,6,34
 wales,15,46,160,162
 zambia,31,80,184,222
 zimbabwe,26,199,897,1003
-TOTAL,4606,25199,87219,105174
+TOTAL,4606,25201,87386,105337
