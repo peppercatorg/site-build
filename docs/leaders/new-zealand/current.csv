@@ -1,5 +1,5 @@
 catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
-New Zealand,Monarch,Elizabeth II,Q9682,1952-02-06,female,1926-04-21,,Elizabeth II opens Welsh Parliament in 2021 I (cropped).jpg,Elizabeth II
+New Zealand,Monarch,Elizabeth II,Q9682,1952-02-06,female,1926-04-21,,Queen Elizabeth II of New Zealand (cropped).jpg,Elizabeth II
 New Zealand,Governor-General,Cindy Kiro,Q17180701,2021-10-21,female,1958,,Cindy Kiro 2021 (cropped).jpg,Cindy Kiro
 New Zealand,Prime Minister,Jacinda Ardern,Q3606816,2017-10-26,female,1980-07-26,,Jacinda Ardern Japan 2022.jpg,Jacinda Ardern
 New Zealand,Deputy Prime Minister,Grant Robertson,Q1543207,2020-11-06,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
@@ -7,41 +7,40 @@ New Zealand,Minister for ACC,Carmel Sepuloni,Q5043325,2020-07-22,female,1977,,"C
 New Zealand,Minister of Agriculture,Damien O'Connor,Q5212493,2017-10-26,male,1958-01-16,,Damien O'Connor (crop).jpg,Damien O'Connor
 New Zealand,"Minister for Arts, Culture and Heritage",Carmel Sepuloni,Q5043325,2020-11-06,female,1977,,"Carmel Sepuloni, 2018.jpg",Carmel Sepuloni
 New Zealand,Minister for Biosecurity,Damien O'Connor,Q5212493,2017-10-26,male,1958-01-16,,Damien O'Connor (crop).jpg,Damien O'Connor
-New Zealand,"Minister of Broadcasting, Communications and Digital Media",Kris Faafoi,Q6437165,2018-09-07,male,1976-06-23,,Hon Kris Faafoi.jpg,Kris Faafoi
-New Zealand,Minister for Building and Construction,Poto Williams,Q17016818,2020-11-06,female,1962-01-07,,Hon Poto Williams.jpg,Poto Williams
-New Zealand,Minister for COVID-19 Response,Chris Hipkins,Q5106890,2020-11-06,male,1978-09-05,,Chris Hipkins 2.jpg,Chris Hipkins
+New Zealand,"Minister of Broadcasting, Communications and Digital Media",Willie Jackson,Q8021596,2022-06-14,male,1961,,Willie Jackson.jpg,Willie Jackson (politician)
+New Zealand,Minister for Building and Construction,Megan Woods,Q6808764,2022-06-14,female,1973-11-04,,Hon Dr Megan Woods.jpg,Megan Woods
+New Zealand,Minister for COVID-19 Response,Ayesha Verrall,Q91250224,2022-06-14,female,1979,,Dr Ayesha Verrall - Labour List Candidate.jpg,Ayesha Verrall
 New Zealand,Minister for Children,Kelvin Davis,Q6386648,2020-11-06,male,1967-03-02,,"Kelvin Davis, Labour party MP (cropped).jpg",Kelvin Davis (politician)
 New Zealand,Minister of Commerce and Consumer Affairs,David Clark,Q3561074,2020-11-06,male,1973-01-05,,David Clark (New Zealand politician).jpg,David Clark (New Zealand politician)
-New Zealand,Minister of Conservation,Kiri Allan,Q41498745,2020-11-06,female,1984,,Kiritapu Allan 2017.jpg,Kiri Allan
+New Zealand,Minister for the Community and Voluntary Sector,Priyanca Radhakrishnan,Q41498722,2022-06-14,female,1979,,Priyanca Radhakrishnan crop.jpg,Priyanca Radhakrishnan
+New Zealand,Minister of Conservation,Poto Williams,Q17016818,2022-06-14,female,1962-01-07,,Hon Poto Williams.jpg,Poto Williams
 New Zealand,Minister of Corrections,Kelvin Davis,Q6386648,2017-10-26,male,1967-03-02,,"Kelvin Davis, Labour party MP (cropped).jpg",Kelvin Davis (politician)
 New Zealand,Minister of Defence,Peeni Henare,Q18098260,2020-11-06,male,1980,,Minister of Defence Hon Peeni Henare (cropped).jpg,Peeni Henare
 New Zealand,Minister for the Digital Economy and Communications,David Clark,Q3561074,2020-11-06,male,1973-01-05,,David Clark (New Zealand politician).jpg,David Clark (New Zealand politician)
-New Zealand,Minister for Disability Issues,Carmel Sepuloni,Q5043325,2020-11-06,female,1977,,"Carmel Sepuloni, 2018.jpg",Carmel Sepuloni
+New Zealand,Minister for Disability Issues,Poto Williams,Q17016818,2022-06-14,female,1962-01-07,,Hon Poto Williams.jpg,Poto Williams
+New Zealand,"Minister for Diversity, Inclusion and Ethnic Communities",Priyanca Radhakrishnan,Q41498722,2022-06-14,female,1979,,Priyanca Radhakrishnan crop.jpg,Priyanca Radhakrishnan
 New Zealand,Minister for Economic and Regional Development,Stuart Nash,Q7626890,2020-11-06,male,1967-08,,Stuart Nash.jpg,Stuart Nash
 New Zealand,Minister of Education,Chris Hipkins,Q5106890,2017-10-26,male,1978-09-05,,Chris Hipkins 2.jpg,Chris Hipkins
-New Zealand,Minister for Emergency Management,Kiri Allan,Q41498745,2020-11-06,female,1984,,Kiritapu Allan 2017.jpg,Kiri Allan
 New Zealand,Minister of Energy and Resources,Megan Woods,Q6808764,2017-10-26,female,1973-11-04,,Hon Dr Megan Woods.jpg,Megan Woods
 New Zealand,Minister for the Environment,David Parker,Q15196319,2017-10-26,male,1960,,David Parker mp cropped.jpg,David Parker (New Zealand politician)
 New Zealand,Minister of Finance,Grant Robertson,Q1543207,2017-10-26,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
 New Zealand,Minister of Fisheries,David Parker,Q15196319,2020-11-06,male,1960,,David Parker mp cropped.jpg,David Parker (New Zealand politician)
-New Zealand,Minister for Food Safety,Ayesha Verrall,Q91250224,2020-11-06,female,1979,,Dr Ayesha Verrall - Labour List Candidate.jpg,Ayesha Verrall
 New Zealand,Minister of Foreign Affairs,Nanaia Mahuta,Q3798833,2020-11-06,female,1970-08-21,,Nanaia Mahuta.jpg,Nanaia Mahuta
 New Zealand,Minister of Forestry,Stuart Nash,Q7626890,2020-11-06,male,1967-08,,Stuart Nash.jpg,Stuart Nash
 New Zealand,Minister of Health,Andrew Little,Q3561087,2020-11-06,male,1965-05-07,,Andrew-little 5.jpg,Andrew Little (New Zealand politician)
 New Zealand,Minister for Housing,Megan Woods,Q6808764,2019-06-27,female,1973-11-04,,Hon Dr Megan Woods.jpg,Megan Woods
-New Zealand,Minister of Immigration,Kris Faafoi,Q6437165,2020-07-22,male,1976-06-23,,Hon Kris Faafoi.jpg,Kris Faafoi
+New Zealand,Minister of Immigration,Michael Wood,Q27950864,2022-06-14,male,1980-05-10,,Michael Wood (New Zealand Politician).jpg,Michael Wood (New Zealand politician)
 New Zealand,Minister of Infrastructure,Grant Robertson,Q1543207,2020-11-06,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
 New Zealand,Minister of Internal Affairs,Jan Tinetti,Q41498735,2020-11-06,female,1968,,Jan Tinetti.jpg,Jan Tinetti
-New Zealand,Minister of Justice,Kris Faafoi,Q6437165,2020-11-06,male,1976-06-23,,Hon Kris Faafoi.jpg,Kris Faafoi
+New Zealand,Minister of Justice,Kiri Allan,Q41498745,2022-06-14,female,1984,,Kiritapu Allan 2017.jpg,Kiri Allan
 New Zealand,Minister for Land Information,Damien O'Connor,Q5212493,2020-11-06,male,1958-01-16,,Damien O'Connor (crop).jpg,Damien O'Connor
 New Zealand,Minister of Local Government,Nanaia Mahuta,Q3798833,2020-11-06,female,1970-08-21,,Nanaia Mahuta.jpg,Nanaia Mahuta
 New Zealand,Minister for Māori Crown Relations: Te Arawhiti,Kelvin Davis,Q6386648,2017-10-26,male,1967-03-02,,"Kelvin Davis, Labour party MP (cropped).jpg",Kelvin Davis (politician)
 New Zealand,Minister for Māori Development,Willie Jackson,Q8021596,2020-11-06,male,1961,,Willie Jackson.jpg,Willie Jackson (politician)
 New Zealand,Minister of National Security and Intelligence,Jacinda Ardern,Q3606816,2017-10-26,female,1980-07-26,,Jacinda Ardern Japan 2022.jpg,Jacinda Ardern
-New Zealand,Minister of Police,Poto Williams,Q17016818,2020-11-06,female,1962-01-07,,Hon Poto Williams.jpg,Poto Williams
+New Zealand,Minister of Police,Chris Hipkins,Q5106890,2022-06-14,male,1978-09-05,,Chris Hipkins 2.jpg,Chris Hipkins
 New Zealand,Minister for the Public Service,Chris Hipkins,Q5106890,2017-10-26,male,1978-09-05,,Chris Hipkins 2.jpg,Chris Hipkins
-New Zealand,Minister of Racing,Grant Robertson,Q1543207,2020-11-06,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
-New Zealand,"Minister for Research, Science and Innovation",Megan Woods,Q6808764,2017-10-26,female,1973-11-04,,Hon Dr Megan Woods.jpg,Megan Woods
+New Zealand,"Minister for Research, Science and Innovation",Ayesha Verrall,Q91250224,2022-06-14,female,1979,,Dr Ayesha Verrall - Labour List Candidate.jpg,Ayesha Verrall
 New Zealand,Minister of Revenue,David Parker,Q15196319,2020-11-06,male,1960,,David Parker mp cropped.jpg,David Parker (New Zealand politician)
 New Zealand,Minister for Rural Communities,Damien O'Connor,Q5212493,2017-10-26,male,1958-01-16,,Damien O'Connor (crop).jpg,Damien O'Connor
 New Zealand,Minister for Seniors,Ayesha Verrall,Q91250224,2020-11-06,female,1979,,Dr Ayesha Verrall - Labour List Candidate.jpg,Ayesha Verrall
@@ -57,6 +56,7 @@ New Zealand,Minister for Treaty of Waitangi Negotiations,Andrew Little,Q3561087,
 New Zealand,Minister for Whānau Ora,Peeni Henare,Q18098260,2017-10-26,male,1980,,Minister of Defence Hon Peeni Henare (cropped).jpg,Peeni Henare
 New Zealand,Minister for Women,Jan Tinetti,Q41498735,2020-11-06,female,1968,,Jan Tinetti.jpg,Jan Tinetti
 New Zealand,Minister for Workplace Relations and Safety,Michael Wood,Q27950864,2020-11-06,male,1980-05-10,,Michael Wood (New Zealand Politician).jpg,Michael Wood (New Zealand politician)
+New Zealand,Minister for Youth,Priyanca Radhakrishnan,Q41498722,2022-06-14,female,1979,,Priyanca Radhakrishnan crop.jpg,Priyanca Radhakrishnan
 New Zealand,Minister Responsible for the GCSB,Andrew Little,Q3561087,2017-10-26,male,1965-05-07,,Andrew-little 5.jpg,Andrew Little (New Zealand politician)
 New Zealand,Minister Responsible for the NZSIS,Andrew Little,Q3561087,2017-10-26,male,1965-05-07,,Andrew-little 5.jpg,Andrew Little (New Zealand politician)
 New Zealand,Speaker of the House of Representatives,Trevor Mallard,Q7839303,2017-11-07,male,1954-06-17,,Trevor Mallard 2.jpg,Trevor Mallard
