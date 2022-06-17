@@ -1,6 +1,9 @@
 catalog,id,name,relationship,relative,relativename
 Morocco,Q108699304,Nabila Rmili,spouse,Q96758923,Taoufik Kamil
 Morocco,Q1393978,Mohamed El Ouafa,relative,Q2837662,Allal al-Fassi
+Morocco,Q14125712,Omar Zniber,relative,Q2822073,Abu Bakr Zniber
+Morocco,Q14125712,Omar Zniber,relative,Q3318885,Mohammed Zniber
+Morocco,Q16194963,Fadel Benyaich,sibling,Q54834223,Karima Benyaich
 Morocco,Q1638114,Aziz Akhannouch,relative,Q2821247,Abderrahmane Benabdelali
 Morocco,Q1638114,Aziz Akhannouch,spouse,Q19818452,Salwa Idrissi Akhannouch
 Morocco,Q20851300,Fouad El Omari,sibling,Q21706309,Ilyas El Omari
@@ -11,6 +14,7 @@ Morocco,Q2585447,Taieb Fassi Fihri,child,Q2923549,Brahim Fassi Fihri
 Morocco,Q2585447,Taieb Fassi Fihri,father,Q3318517,Mohamed El Habib Fassi-Fihri
 Morocco,Q2585447,Taieb Fassi Fihri,relative,Q3571915,Yasmina Baddou
 Morocco,Q2585447,Taieb Fassi Fihri,sibling,Q2836210,Ali Fassi-Fihri
+Morocco,Q27734183,Ali Oumlil,spouse,Q87330656,Zhour Alaoui Mdaghri
 Morocco,Q27962429,Faouzi Chaâbi,father,Q3314458,Miloud Chaabi
 Morocco,Q27962429,Faouzi Chaâbi,sibling,Q2866705,Asma Chaabi
 Morocco,Q2821052,Hamid Chabat,child,Q96758967,Noufal Chabat
@@ -43,6 +47,7 @@ Morocco,Q50364860,Souad Zaidi,sibling,Q96758654,Said Zaidi
 Morocco,Q50366932,Touria Skalli,sibling,Q3345301,Nouzha Skalli
 Morocco,Q50366932,Touria Skalli,sibling,Q96756982,Badia Skalli
 Morocco,Q537610,Mohand Laenser,child,Q96758892,Hassan Laenser
+Morocco,Q54834223,Karima Benyaich,sibling,Q16194963,Fadel Benyaich
 Morocco,Q562410,Nizar Baraka,relative,Q2821198,Abdelouahed El Fassi
 Morocco,Q562410,Nizar Baraka,relative,Q2837662,Allal al-Fassi
 Morocco,Q562410,Nizar Baraka,relative,Q305956,Abbas El Fassi
@@ -57,6 +62,15 @@ Morocco,Q57553,Mohammed VI,sibling,Q1996204,Hasna of Morocco
 Morocco,Q57553,Mohammed VI,sibling,Q2517919,Asma of Morocco
 Morocco,Q57553,Mohammed VI,sibling,Q276850,Princess Lalla Meryem of Morocco
 Morocco,Q57553,Mohammed VI,spouse,Q238691,Princess Lalla Salma of Morocco
+Morocco,Q7244665,Lalla Joumala Alaoui,father,Q1537667,Moulay Ali Alaoui
+Morocco,Q7244665,Lalla Joumala Alaoui,mother,Q6480459,Lalla Fatima Zohra
+Morocco,Q7244665,Lalla Joumala Alaoui,relative,Q193874,Mohammed V of Morocco
+Morocco,Q7244665,Lalla Joumala Alaoui,relative,Q276937,Yusef of Morocco
+Morocco,Q7244665,Lalla Joumala Alaoui,relative,Q57553,Mohammed VI
+Morocco,Q7244665,Lalla Joumala Alaoui,relative,Q69103,Hassan II
+Morocco,Q7244665,Lalla Joumala Alaoui,relative,Q7244666,Princess Lalla Malika of Morocco
+Morocco,Q7244665,Lalla Joumala Alaoui,sibling,Q17152955,Moulay Youssef Alaoui
+Morocco,Q7244665,Lalla Joumala Alaoui,sibling,Q17152956,Moulay Abdallah ben Ali Alaoui
 Morocco,Q85202287,Ahmed Zaidi,child,Q50364860,Souad Zaidi
 Morocco,Q85202287,Ahmed Zaidi,child,Q96758654,Said Zaidi
 Morocco,Q96756982,Badia Skalli,sibling,Q3345301,Nouzha Skalli

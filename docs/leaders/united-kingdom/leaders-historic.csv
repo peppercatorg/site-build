@@ -1,5 +1,5 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-United Kingdom,monarch,Elizabeth II,Q9682,1952-02-06,,female,1926-04-21,,Elizabeth II opens Welsh Parliament in 2021 I (cropped).jpg,Elizabeth II
+United Kingdom,monarch,Elizabeth II,Q9682,1952-02-06,,female,1926-04-21,,Queen Elizabeth II of New Zealand (cropped).jpg,Elizabeth II
 United Kingdom,Prime Minister,Tony Blair,Q9545,1997-05-02,2007-06-27,male,1953-05-06,,Tony Blair 2010 (cropped).jpg,Tony Blair
 United Kingdom,Prime Minister,Gordon Brown,Q10648,2007-06-27,2010-05-11,male,1951-02-20,,Gordon Brown (2008).jpg,Gordon Brown
 United Kingdom,Prime Minister,David Cameron,Q192,2010-05-11,2016-07-13,male,1966-10-09,,David Cameron official.jpg,David Cameron
@@ -843,7 +843,7 @@ United Kingdom,Parliamentary Under-Secretary of State for Apprenticeships and Sk
 United Kingdom,"Parliamentary Under-Secretary of State for Arts, Heritage and Tourism",Margaret Hodge,Q688913,2007-06-27,2008-10-03,female,1944-09-08,,Official portrait of Dame Margaret Hodge crop 2.jpg,Margaret Hodge
 United Kingdom,"Parliamentary Under-Secretary of State for Arts, Heritage and Tourism",Margaret Hodge,Q688913,2009-09-22,2010-05-11,female,1944-09-08,,Official portrait of Dame Margaret Hodge crop 2.jpg,Margaret Hodge
 United Kingdom,"Parliamentary Under-Secretary of State for Arts, Heritage and Tourism",John Penrose,Q575513,2010-05-13,2012-09-04,male,1964-06-22,,Official portrait of John Penrose crop 2.jpg,John Penrose
-United Kingdom,"Parliamentary Under-Secretary of State for Arts, Heritage and Tourism",Tracey Crouch,Q291557,2015-05-12,2017-06-15,female,1975-07-24,,Official portrait of Tracey Crouch crop 2.jpg,Tracey Crouch
+United Kingdom,"Parliamentary Under-Secretary of State for Arts, Heritage and Tourism",Tracey Crouch,Q291557,2015-05-12,2017-06-15,female,1975-07-24,,Official portrait of Tracey Crouch crop 2 2022.jpg,Tracey Crouch
 United Kingdom,"Parliamentary Under-Secretary of State for Arts, Heritage and Tourism",John Glen,Q391465,2017-06-14,2018-01-09,male,1974-04-01,,Official portrait of John Glen crop 2.jpg,John Glen (politician)
 United Kingdom,"Parliamentary Under-Secretary of State for Arts, Heritage and Tourism",Michael Ellis,Q303085,2018-01-09,2019-05-23,male,1967-10-13,,Official portrait of Michael Ellis crop 2.jpg,Michael Ellis (British politician)
 United Kingdom,"Parliamentary Under-Secretary of State for Arts, Heritage and Tourism",Rebecca Pow,Q20647855,2019-05-23,2019-09-10,female,1960-10-10,,Official portrait of Rebecca Pow crop 2.jpg,Rebecca Pow
@@ -938,7 +938,7 @@ United Kingdom,Parliamentary Under-Secretary of State for Scotland,Ian Duncan,Q1
 United Kingdom,Parliamentary Under-Secretary of State for Scotland,Robin Walker,Q263076,2019-07-26,2019-12-16,male,1978-04-12,,Official portrait of Mr Robin Walker crop 2.jpg,Robin Walker
 United Kingdom,Parliamentary Under-Secretary of State for Scotland,Douglas Ross,Q24039769,2019-12-17,2020-05-26,male,1983-01-27,,Official portrait of Douglas Ross MP crop 2.jpg,Douglas Ross (Scottish politician)
 United Kingdom,Parliamentary Under-Secretary of State for Scotland,David Duguid,Q30176559,2020-06-02,2021-09-16,male,1970-10-08,,Official portrait of David Duguid crop 2.jpg,David Duguid (politician)
-United Kingdom,Parliamentary Under-Secretary of State for Scotland,Malcolm Offord,Q107280370,2021-09-30,,male,1964,,Official portrait of Lord Offord of Garvel crop 3.jpg,Malcolm Offord
+United Kingdom,Parliamentary Under-Secretary of State for Scotland,Malcolm Offord,Q107280370,2021-09-30,,male,1964,,"Official portrait of Lord Offord of Garvel, 2021.jpg",Malcolm Offord
 United Kingdom,Parliamentary Under-Secretary of State for Transport,Tom Harris,Q478319,2006-09-07,2008-10-04,male,1964-02-20,,Tomharris 2.jpg,Tom Harris (British politician)
 United Kingdom,Parliamentary Under-Secretary of State for Transport,Jim Fitzpatrick,Q306169,2007-06-28,2009-06-08,male,1952-04-04,,Official portrait of Jim Fitzpatrick crop 2.jpg,Jim Fitzpatrick (politician)
 United Kingdom,Parliamentary Under-Secretary of State for Transport,Chris Mole,Q5107475,2009-06-09,2010-05-06,male,1958-03-16,,Chris Mole.jpg,Chris Mole
@@ -961,7 +961,7 @@ United Kingdom,Parliamentary Under-Secretary of State,Shahid Malik,Q5973251,2007
 United Kingdom,Parliamentary Under-Secretary of State,Shahid Malik,Q5973251,2009-06-09,2010-05-11,male,1967-11-24,,Shahid Malik.jpg,Shahid Malik
 United Kingdom,Parliamentary Under-Secretary of State,"Michael Bates, Baron Bates",Q1926893,2014,2015,male,1961-05-26,,"Official portrait of Lord Bates crop 2, 2019.jpg","Michael Bates, Baron Bates"
 United Kingdom,"Under-Secretary of State for Culture, Media and Sport",Kim Howells,Q736160,2001-06-11,2003-06-13,male,1946-11-27,,Kim Howells 2.jpg,Kim Howells
-United Kingdom,"Under-Secretary of State for Culture, Media and Sport",Tracey Crouch,Q291557,2017-06-15,2018-11-01,female,1975-07-24,,Official portrait of Tracey Crouch crop 2.jpg,Tracey Crouch
+United Kingdom,"Under-Secretary of State for Culture, Media and Sport",Tracey Crouch,Q291557,2017-06-15,2018-11-01,female,1975-07-24,,Official portrait of Tracey Crouch crop 2 2022.jpg,Tracey Crouch
 United Kingdom,Under-Secretary of State for Foreign Affairs,Chris Bryant,Q266146,2009-06-09,2010-05-11,male,1962-01-11,,Official portrait of Chris Bryant crop 2.jpg,Chris Bryant
 United Kingdom,Downing Street Chief of Staff,Jonathan Powell,Q3183438,1997-05-02,2007-06-27,male,1956-08-14,,Jonathan Powell and Paul Rios.jpg,Jonathan Powell (Labour adviser)
 United Kingdom,Downing Street Chief of Staff,Tom Scholar,Q7817491,2007-06-27,2008-01-23,male,1968-12-17,,,Tom Scholar
@@ -972,7 +972,7 @@ United Kingdom,Downing Street Chief of Staff,Nick Timothy,Q25999600,2016-07-14,2
 United Kingdom,Downing Street Chief of Staff,Fiona Hill,Q25999601,2016-07-14,2017-06-09,female,1973,,,Fiona Hill (British political adviser)
 United Kingdom,Downing Street Chief of Staff,Gavin Barwell,Q260651,2017-06-10,2019-07-24,male,1972-01-23,,Official portrait of Lord Barwell crop 2.jpg,Gavin Barwell
 United Kingdom,Downing Street Chief of Staff,Dominic Cummings,Q24572712,2019-07-24,2020-11-13,male,1971-11-25,,Dominic Cummings speaking to a parliamentary committee 1.png,Dominic Cummings
-United Kingdom,Downing Street Chief of Staff,Edward Lister,Q65930945,2020-11-13,2021-01-01,male,1949-10-25,,Edward Lister.jpg,"Edward Lister, Baron Udny-Lister"
+United Kingdom,Downing Street Chief of Staff,Edward Lister,Q65930945,2020-11-13,2021-01-01,male,1949-10-25,,"Official portrait of Lord Udny-Lister crop 2, 2021.jpg","Edward Lister, Baron Udny-Lister"
 United Kingdom,Downing Street Chief of Staff,Dan Rosenfield,Q102354401,2021-01-01,2022-02-03,male,1977,,Dan Rosenfield.jpg,Dan Rosenfield
 United Kingdom,Downing Street Chief of Staff,Stephen Barclay,Q260546,2022-02-05,,male,1972-05-03,,Official portrait of Rt Hon Steve Barclay MP crop 2.jpg,Steve Barclay (politician)
 United Kingdom,ambassador to Afghanistan,Stephen Evans,Q7609156,2001,2002,male,1950-06-29,,,Stephen Evans (diplomat)
@@ -1256,7 +1256,7 @@ United Kingdom,ambassador to Georgia,Justin McKenzie Smith,Q57832507,2016,,male,
 United Kingdom,ambassador to Germany,Paul Lever,Q16873052,1997,2000,male,1944-03,,,Paul Lever
 United Kingdom,ambassador to Germany,Peter Torry,Q1475094,2003,2007,male,1948-08-02,,,Peter Torry
 United Kingdom,ambassador to Germany,Michael Arthur,Q1926821,2007,2010,male,1950-08-28,,"British High Commissioner Sir Michael Arthur calls on the Union Home Minister Shri Shivraj Patil in New Delhi on June 9, 2004.jpg",Michael Anthony Arthur
-United Kingdom,ambassador to Germany,Simon McDonald,Q16873055,2010,2015,male,1961-03-09,,Germany- Simon McDonald (8484625313).jpg,"Simon McDonald, Baron McDonald of Salford"
+United Kingdom,ambassador to Germany,Simon McDonald,Q16873055,2010,2015,male,1961-03-09,,Official portrait of Lord McDonald of Salford crop 2.jpg,"Simon McDonald, Baron McDonald of Salford"
 United Kingdom,ambassador to Germany,Sebastian Wood,Q4128233,2015,,male,1961-04-06,,Sebastian Wood.jpg,Sebastian Wood
 United Kingdom,ambassador to Greece,David Madden,Q57832814,1999,2004,male,1946,,,
 United Kingdom,ambassador to Greece,Simon Gass,Q2287503,2004,2009,male,1956-11-02,,Simon Gass.jpg,Simon Gass
@@ -1345,10 +1345,11 @@ United Kingdom,ambassador to Ireland,Dominick Chilcott,Q1237678,2012,2016,male,1
 United Kingdom,ambassador to Ireland,Robin Barnett,Q15090723,2016,,male,1958-03-08,,Poland- Robin Barnett (8434544455).jpg,Robin Barnett
 United Kingdom,ambassador to Israel,Francis Cornish,Q4456452,1998,2001,male,1942-05-18,,,Francis Cornish (diplomat)
 United Kingdom,ambassador to Israel,Sherard Cowper-Coles,Q30941606,2001,2003,male,1955-01-08,,,Sherard Cowper-Coles
-United Kingdom,ambassador to Israel,Simon McDonald,Q16873055,2003,2006,male,1961-03-09,,Germany- Simon McDonald (8484625313).jpg,"Simon McDonald, Baron McDonald of Salford"
+United Kingdom,ambassador to Israel,Simon McDonald,Q16873055,2003,2006,male,1961-03-09,,Official portrait of Lord McDonald of Salford crop 2.jpg,"Simon McDonald, Baron McDonald of Salford"
 United Kingdom,ambassador to Israel,Tom Phillips,Q18331387,2006,2010,male,1950-06-21,,,Tom Phillips (diplomat)
 United Kingdom,ambassador to Israel,Matthew Gould,Q6790583,2010,2015,male,1971-08-20,,Matthew Gould.jpg,Matthew Gould
-United Kingdom,ambassador to Israel,David Quarrey,Q20726322,2015,,male,1966-01-06,,,David Quarrey
+United Kingdom,ambassador to Israel,David Quarrey,Q20726322,2015,2019,male,1966-01-06,,,David Quarrey
+United Kingdom,ambassador to Israel,Neil Wigan,Q17071495,2019-06-13,,male,1970-09-17,,Neil Wigan.jpg,Neil Wigan
 United Kingdom,ambassador to Italy,Thomas Richardson,Q57892525,1996,2000,male,1941-02-06,,,
 United Kingdom,ambassador to Italy,John Shepherd,Q57895176,2000,2003,male,1943,,,John Shepherd (diplomat)
 United Kingdom,ambassador to Italy,Ivor Roberts,Q948544,2003,2006,male,1946-09-24,,Ivor Roberts 2011.jpg,Ivor Roberts (diplomat)
@@ -1930,7 +1931,7 @@ United Kingdom,Exchequer Secretary to the Treasury,Simon Clarke,Q30228118,2019-0
 United Kingdom,Exchequer Secretary to the Treasury,Kemi Badenoch,Q21592171,2020-02-13,2021-09-16,female,1980-01,,Official portrait of Mrs Kemi Badenoch crop 2.jpg,Kemi Badenoch
 United Kingdom,Exchequer Secretary to the Treasury,Helen Whately,Q20747098,2021-09-16,,female,1976-06-23,,Official portrait of Helen Whately crop 2.jpg,Helen Whately
 United Kingdom,Permanent Secretary to the Treasury,Andrew Turnbull,Q508131,1998,2002,male,1945-01-21,,Official portrait of Lord Turnbull crop 2.jpg,"Andrew Turnbull, Baron Turnbull"
-United Kingdom,Permanent Secretary to the Treasury,"Gus O'Donnell, Baron O'Donnell",Q1555325,2002,2005,male,1952-10-01,,Gus-bio-small.jpg,Gus O'Donnell
+United Kingdom,Permanent Secretary to the Treasury,"Gus O'Donnell, Baron O'Donnell",Q1555325,2002,2005,male,1952-10-01,,"Official portrait of Lord O'Donnell crop 2, 2021.jpg",Gus O'Donnell
 United Kingdom,Permanent Secretary to the Treasury,Nicholas Macpherson,Q7025819,2005-08-02,2016,male,1959-07-14,,"Sir Nicholas Macpherson on December 9, 2014.jpg",Nick Macpherson
 United Kingdom,Permanent Secretary to the Treasury,Tom Scholar,Q7817491,2016-04,,male,1968-12-17,,,Tom Scholar
 United Kingdom,Principal Private Secretary to the Prime Minister,Jeremy Heywood,Q6181472,1999-06-04,2003-07-10,male,1961-12-31,2018-11-04,"Sir Jeremy Heywood, Cabinet Secretary, January 2015.jpg",Jeremy Heywood
@@ -1950,12 +1951,13 @@ United Kingdom,Parliamentary Secretary for Cabinet Office,Jeremy Quin,Q19946187,
 United Kingdom,Parliamentary Secretary for Cabinet Office,Julia Lopez,Q30174734,2020-02-14,2021-09-15,female,1984-06-04,,Official portrait of Julia Dockerill crop 2.jpg,Julia Lopez (politician)
 United Kingdom,Cabinet Secretary,"Richard Wilson, Baron Wilson of Dinton",Q1310059,1998,2002,male,1942-10-11,,Official portrait of Lord Wilson of Dinton.jpg,"Richard Wilson, Baron Wilson of Dinton"
 United Kingdom,Cabinet Secretary,Andrew Turnbull,Q508131,2002-09-01,2005-09-01,male,1945-01-21,,Official portrait of Lord Turnbull crop 2.jpg,"Andrew Turnbull, Baron Turnbull"
-United Kingdom,Cabinet Secretary,"Gus O'Donnell, Baron O'Donnell",Q1555325,2005-09-01,2011-12-31,male,1952-10-01,,Gus-bio-small.jpg,Gus O'Donnell
+United Kingdom,Cabinet Secretary,"Gus O'Donnell, Baron O'Donnell",Q1555325,2005-09-01,2011-12-31,male,1952-10-01,,"Official portrait of Lord O'Donnell crop 2, 2021.jpg",Gus O'Donnell
 United Kingdom,Cabinet Secretary,Jeremy Heywood,Q6181472,2012-01-01,2018-10-24,male,1961-12-31,2018-11-04,"Sir Jeremy Heywood, Cabinet Secretary, January 2015.jpg",Jeremy Heywood
 United Kingdom,Cabinet Secretary,Mark Sedwill,Q6769664,2018-10-24,2020-08,male,1964-10-21,,Mark Sedwill.jpg,Mark Sedwill
 United Kingdom,Cabinet Secretary,Simon Case,Q22087294,2020-09-01,,male,1978-12,,Simon Case (cropped).jpg,Simon Case
 United Kingdom,National Security Advisor,Kim Darroch,Q6408545,2012,2015,male,1954-04-30,,Sir Kim Darroch.png,Kim Darroch
 United Kingdom,National Security Advisor,Mark Sedwill,Q6769664,2017-04-13,,male,1964-10-21,,Mark Sedwill.jpg,Mark Sedwill
+United Kingdom,National Security Advisor,David Quarrey,Q20726322,2020-09-17,2021-03-23,male,1966-01-06,,,David Quarrey
 United Kingdom,Head of the Home Civil Service,"Bob Kerslake, Baron Kerslake",Q4933017,2012-01-01,2014-09,male,1955-02-28,,Sir Bob Kerslake 2012.jpg,Bob Kerslake
 United Kingdom,Head of the Home Civil Service,Jeremy Heywood,Q6181472,2014-09,2018-10-24,male,1961-12-31,2018-11-04,"Sir Jeremy Heywood, Cabinet Secretary, January 2015.jpg",Jeremy Heywood
 United Kingdom,Director of the Number 10 Policy Unit,Dan Corry,Q5213297,2007,2008,male,,,,Dan Corry

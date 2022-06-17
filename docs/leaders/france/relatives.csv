@@ -529,6 +529,7 @@ France,Q3591105,Éric Dupond-Moretti,spouse,Q111353630,Hélène Dupond-Moretti
 France,Q3591191,Éric Jalton,father,Q3089918,Frédéric Jalton
 France,Q3591330,Éric Raoult,spouse,Q24574415,Béatrice Abollivier
 France,Q3592334,Étienne Pinte,child,Q33105695,François Pinte
+France,Q360961,Natan Sharansky,father,Q85868871,Boris Shcharansky
 France,Q360961,Natan Sharansky,mother,Q97155837,Ida Milgrom
 France,Q360961,Natan Sharansky,spouse,Q23304251,Avital Sharansky
 France,Q362223,Jacques Bompard,spouse,Q3291701,Marie-Claude Bompard
@@ -564,6 +565,7 @@ France,Q455023,Valérie Pécresse,spouse,Q27755465,Jérôme Pécresse
 France,Q455040,Jacques Barrot,child,Q30339198,Jean-Noël Barrot
 France,Q455040,Jacques Barrot,father,Q3345763,Noël Barrot
 France,Q46405548,Alain Catta,father,Q56190500,Jacques Catta
+France,Q46489779,Gilles Pennelle,sibling,Q63313449,Guillaume Pennelle
 France,Q467781,Jean-Louis Borloo,spouse,Q258139,Béatrice Schönberg
 France,Q46998362,Thomas Laval,spouse,Q49169204,Kelly Betesh
 France,Q47001311,Mélanie Disdier,father,Q70757416,Jacques Disdier
@@ -631,6 +633,7 @@ France,Q63106738,Marie-Christine Duriez,child,Q3497810,Steeve Briois
 France,Q63106738,Marie-Christine Duriez,sibling,Q3288925,Marcel Duriez
 France,Q63263,Jean-Pierre Raffarin,father,Q3174208,Jean Raffarin
 France,Q63263,Jean-Pierre Raffarin,spouse,Q48992694,Anne-Marie Raffarin
+France,Q63313449,Guillaume Pennelle,sibling,Q46489779,Gilles Pennelle
 France,Q63349000,Jean-Romée Charbonneau,father,Q3132686,Henry Charbonneau
 France,Q63371158,Philippe Tabarot,sibling,Q2254052,Michèle Tabarot
 France,Q63455920,Emmanuelle Bouchaud,partner,Q117340,François de Rugy
