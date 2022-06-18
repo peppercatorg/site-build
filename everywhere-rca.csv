@@ -995,6 +995,7 @@ Belgium,Q67656469,Nicolas Janssen,father,Q5217673,Daniel Janssen
 Belgium,Q677342,Armand De Decker,father,Q3264786,Luc De Decker
 Belgium,Q678494,Olivier Maingain,child,Q17350755,Fabian Maingain
 Belgium,Q704126,Benoît Lutgen,father,Q2187430,Guy Lutgen
+Belgium,Q745188,Marleen Vanderpoorten,father,Q13725231,Herman Vanderpoorten
 Belgium,Q772642,Michel Daerden,child,Q1471482,Frédéric Daerden
 Belgium,Q781578,Lieve Maes,father,Q1807181,Bob Maes
 Belgium,Q928374,Louis Tobback,child,Q960356,Bruno Tobback
@@ -1232,6 +1233,10 @@ Brazil,Q40722,Dilma Rousseff,mother,Q17277987,Dilma Jane da Silva
 Brazil,Q40722,Dilma Rousseff,sibling,Q17277990,Igor Rousseff
 Brazil,Q40722,Dilma Rousseff,spouse,Q17277971,Cláudio Linhares
 Brazil,Q40722,Dilma Rousseff,spouse,Q17277973,Carlos Araújo
+Brazil,Q4199383,Marisa Letícia Lula da Silva,child,Q10286880,Fábio Luís Lula da Silva
+Brazil,Q4199383,Marisa Letícia Lula da Silva,child,Q10325423,Marcos Claudio Lula da Silva
+Brazil,Q4199383,Marisa Letícia Lula da Silva,spouse,Q17278007,Marcos Cláudio da Silva
+Brazil,Q4199383,Marisa Letícia Lula da Silva,spouse,Q37181,Luiz Inácio Lula da Silva
 Brazil,Q42306338,Manoel Uchôa Rodrigues,child,Q103878394,Alkendi Uchôa
 Brazil,Q42306338,Manoel Uchôa Rodrigues,child,Q103879105,Schinda Uchôa
 Brazil,Q42306338,Manoel Uchôa Rodrigues,child,Q103888144,Eddyna Uchôa
@@ -1269,6 +1274,8 @@ Brazil,Q571064,Antônio Carlos Magalhães,child,Q12734620,Luís Eduardo Magalhã
 Brazil,Q571064,Antônio Carlos Magalhães,child,Q9621228,Antônio Carlos Magalhães Júnior
 Brazil,Q571064,Antônio Carlos Magalhães,father,Q10285062,Francisco Peixoto de Magalhães Neto
 Brazil,Q57274835,Wilson José Witzel,spouse,Q96064248,Helena Witzel
+Brazil,Q57911283,Michelle Bolsonaro,child,Q58428214,Laura Bolsonaro
+Brazil,Q57911283,Michelle Bolsonaro,spouse,Q10304982,Jair Bolsonaro
 Brazil,Q58053056,Ibaneis Rocha,spouse,Q112035445,Mayara Noronha Rocha
 Brazil,Q58997373,Chiquinho Brazão,sibling,Q59221373,Pedro Brazao
 Brazil,Q59203425,Sidney Leite,child,Q105398481,Júnior Leite
@@ -7658,6 +7665,7 @@ Italy,Q956652,Renato Ruggiero,child,Q3934610,Riccardo Ruggiero
 Italy,Q958889,Pietro Ichino,sibling,Q3615787,Andrea Ichino
 Italy,Q971234,Gianni Pittella,father,Q16550409,Domenico Pittella
 Italy,Q971234,Gianni Pittella,sibling,Q15829777,Marcello Pittella
+Italy,Q99528831,Lucia Matergi,spouse,Q112613607,Nino Muzzi
 Jamaica,Q109147,Patrick Allen,spouse,Q111362298,Patricia Beckford
 Jamaica,Q1167006,Daryl Vaz,father,Q74483125,Douglas Vaz
 Jamaica,Q1167006,Daryl Vaz,spouse,Q74600954,Ann-Marie Vaz
@@ -10828,6 +10836,7 @@ Russia,Q4260940,Dmitry Livanov,father,Q17146233,Viktor Livanov
 Russia,Q4264140,Vasily Likhachyov,relative,Q4264150,Pyotr Likhachyov
 Russia,Q4276043,"Maria Maksakova, Jr.",mother,Q4276040,Lyudmila Maksakova
 Russia,Q4276043,"Maria Maksakova, Jr.",spouse,Q19817635,Denis Voronenkov
+Russia,Q4279841,Georgiy Mamedov,child,Q62713727,Sergey Mamedov
 Russia,Q4279841,Georgiy Mamedov,father,Q4279880,Enver Mamedov
 Russia,Q4281196,Vitaly Margelov,child,Q2060455,Mikhail Margelov
 Russia,Q4281196,Vitaly Margelov,father,Q677432,Vasily Margelov
@@ -12215,6 +12224,8 @@ Spain,Q5989303,Idoia Zenarrutzabeitia Beldarrain,relative,Q46625035,Danel Zenarr
 Spain,Q5993220,Manuel Gómez-Acebo Rodríguez-Spiteri,father,Q1891536,Manuel Gómez-Acebo y de Igartua
 Spain,Q5993248,Manuel Hernández y Ruigómez,father,Q60719169,Mario Hernández Sánchez-Barba
 Spain,Q5997280,María González Veracruz,father,Q6097375,Rafael González Tovar
+Spain,Q6004897,María de las Mercedes Rico Carabias,mother,Q5936628,Josefina Carabias
+Spain,Q6004897,María de las Mercedes Rico Carabias,sibling,Q2939628,Carmen Rico Godoy
 Spain,Q6014302,Miguel Fuertes Suárez,mother,Q19949910,Eloína Suárez Suárez
 Spain,Q6055866,Pablo Casado Blanco,spouse,Q55705945,Isabel Torres Orts
 Spain,Q6070218,Pedro Sánchez,child,Q54670255,Carlota Sánchez Gómez
@@ -16334,23 +16345,23 @@ United Kingdom,Q335189,Colin Renfrew,father,Q76312384,Archibald Renfrew
 United Kingdom,Q335189,Colin Renfrew,mother,Q76312385,Helena Douglas Savage
 United Kingdom,Q335189,Colin Renfrew,spouse,Q76312386,Jane Margaret Ewbank
 United Kingdom,Q335213,Martin Rees,spouse,Q5045106,Caroline Humphrey
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",child,Q1040807,Lady Sarah Chatto
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",child,Q1091237,"David Armstrong-Jones, 2nd Earl of Snowdon"
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",child,Q75256504,Jasper Cable-Alexander
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",child,Q75383227,Lady Frances Armstrong-Jones
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",father,Q7364647,Ronald Armstrong-Jones
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",mother,Q16012729,"Anne Parsons, Countess of Rosse"
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",partner,Q6766345,Marjorie Wallace
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",partner,Q75271757,Melanie Cable-Alexander
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",sibling,Q4961065,"Brendan Parsons, 7th Earl of Rosse"
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",sibling,Q75239130,"Susan Vesey, Viscountess de Vesci"
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",sibling,Q75250430,Martin Parsons
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",sibling,Q75417067,Peregrine Armstrong-Jones
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",spouse,Q153815,"Princess Margaret, Countess of Snowdon"
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",spouse,Q75383803,Lucy Davies
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",stepparent,Q6833382,"Michael Parsons, 6th Earl of Rosse"
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",stepparent,Q75239131,Carol Akhurst
-United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdo",stepparent,Q75239132,Jenifer Unite
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",child,Q1040807,Lady Sarah Chatto
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",child,Q1091237,"David Armstrong-Jones, 2nd Earl of Snowdon"
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",child,Q75256504,Jasper Cable-Alexander
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",child,Q75383227,Lady Frances Armstrong-Jones
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",father,Q7364647,Ronald Armstrong-Jones
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",mother,Q16012729,"Anne Parsons, Countess of Rosse"
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",partner,Q6766345,Marjorie Wallace
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",partner,Q75271757,Melanie Cable-Alexander
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",sibling,Q4961065,"Brendan Parsons, 7th Earl of Rosse"
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",sibling,Q75239130,"Susan Vesey, Viscountess de Vesci"
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",sibling,Q75250430,Martin Parsons
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",sibling,Q75417067,Peregrine Armstrong-Jones
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",spouse,Q153815,"Princess Margaret, Countess of Snowdon"
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",spouse,Q75383803,Lucy Davies
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",stepparent,Q6833382,"Michael Parsons, 6th Earl of Rosse"
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",stepparent,Q75239131,Carol Akhurst
+United Kingdom,Q335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",stepparent,Q75239132,Jenifer Unite
 United Kingdom,Q335331,Robert Skidelsky,child,Q76337438,Edward Skidelsky
 United Kingdom,Q335331,Robert Skidelsky,child,Q76337439,William Skidelsky
 United Kingdom,Q335331,Robert Skidelsky,child,Q76337440,Juliet Skidelsky
@@ -17159,12 +17170,12 @@ United Kingdom,Q390192,Nicholas Soames,sibling,Q3052477,Emma Soames
 United Kingdom,Q390192,Nicholas Soames,sibling,Q3453283,Rupert Soames
 United Kingdom,Q390192,Nicholas Soames,spouse,Q75386081,Catherine Weatherall
 United Kingdom,Q390192,Nicholas Soames,spouse,Q75386086,Serena Smith
-United Kingdom,Q390317,Sir Robert Smith,child,Q76171356,Helen Rosemary Smith
-United Kingdom,Q390317,Sir Robert Smith,child,Q76171359,Kirsty Diana Smith
-United Kingdom,Q390317,Sir Robert Smith,child,Q76171360,Elizabeth Smith
-United Kingdom,Q390317,Sir Robert Smith,father,Q76171436,"Sir William Gordon Smith of Crowmallie, 2nd Bt."
-United Kingdom,Q390317,Sir Robert Smith,mother,Q76309250,Diana May Violet Peel Goodchild
-United Kingdom,Q390317,Sir Robert Smith,spouse,Q76171355,Fiona Anne Cormack
+United Kingdom,Q390317,Robert Smith,child,Q76171356,Helen Rosemary Smith
+United Kingdom,Q390317,Robert Smith,child,Q76171359,Kirsty Diana Smith
+United Kingdom,Q390317,Robert Smith,child,Q76171360,Elizabeth Smith
+United Kingdom,Q390317,Robert Smith,father,Q76171436,"Sir William Gordon Smith of Crowmallie, 2nd Bt."
+United Kingdom,Q390317,Robert Smith,mother,Q76309250,Diana May Violet Peel Goodchild
+United Kingdom,Q390317,Robert Smith,spouse,Q76171355,Fiona Anne Cormack
 United Kingdom,Q390690,Owen Smith,father,Q26848960,Dai Smith
 United Kingdom,Q39073329,Peter Wilson,father,Q167028,David Wilson
 United Kingdom,Q39073329,Peter Wilson,mother,Q76328112,Natasha Helen Mary Alexander
@@ -19790,7 +19801,7 @@ Uzbekistan,Q57808,Shavkat Mirziyoyev,child,Q96471602,Saida Mirziyoyeva
 Uzbekistan,Q57808,Shavkat Mirziyoyev,spouse,Q43803431,Ziroatkhon Hoshimova
 Vanuatu,Q469851,Ham Lini,sibling,Q6917128,Motarilavoa Hilda Lini
 Vanuatu,Q469851,Ham Lini,sibling,Q724686,Walter Lini
-Vietnam,Q10800073,Nguyen Xuan Phuc,spouse,Q99297852,Tran Thi Nguyet Thu
+Vietnam,Q10800073,Nguyễn Xuân Phúc,spouse,Q99297852,Tran Thi Nguyet Thu
 Vietnam,Q10806892,Phạm Bình Minh,father,Q10799024,Nguyen Co Thach
 Vietnam,Q10806940,Phạm Minh Chính,relative,Q10807041,Phạm Trí Thức
 Vietnam,Q10807041,Phạm Trí Thức,relative,Q10806940,Phạm Minh Chính

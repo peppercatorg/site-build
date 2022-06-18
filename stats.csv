@@ -18,7 +18,7 @@ bahamas,28,62,5,62
 bangladesh,34,104,407,469
 barbados,31,38,2,38
 belarus,48,283,583,851
-belgium,26,116,515,583
+belgium,26,120,515,586
 belize,24,37,41,66
 benin,4,21,4,23
 bermuda,16,34,47,67
@@ -26,7 +26,7 @@ bhutan,17,37,77,99
 bolivia,22,49,8,52
 bosnia-herzegovina,20,82,23,84
 botswana,25,38,5,41
-brazil,60,247,1722,1893
+brazil,60,252,1856,2029
 british-virgin-islands,9,25,0,25
 brunei,5,7,4,11
 bulgaria,27,169,103,247
@@ -62,7 +62,7 @@ france,36,631,3942,4478
 gabon,8,34,3,35
 gambia,24,64,2,65
 georgia,19,174,28,191
-germany,35,654,3684,4215
+germany,35,654,3687,4218
 ghana,16,121,779,835
 gibraltar,12,37,40,66
 greece,27,168,520,598
@@ -129,7 +129,7 @@ paraguay,24,34,16,46
 peru,24,369,309,643
 philippines,35,267,664,862
 poland,27,235,543,723
-portugal,23,108,481,558
+portugal,23,109,481,558
 qatar,23,31,0,31
 romania,30,422,1147,1348
 russia,40,393,2198,2525
@@ -170,7 +170,7 @@ uganda,9,34,15,48
 ukraine,33,351,2048,2273
 united-arab-emirates,14,24,0,24
 united-kingdom,51,1116,2683,3390
-united-states,88,1177,5677,6710
+united-states,88,1177,5678,6711
 uruguay,21,72,94,137
 uzbekistan,34,42,0,42
 vanuatu,16,36,2,36
@@ -178,4 +178,4 @@ vietnam,11,31,6,35
 wales,15,46,160,162
 zambia,31,81,184,223
 zimbabwe,26,199,897,1003
-TOTAL,4612,25304,87828,105848
+TOTAL,4612,25314,87966,105991
