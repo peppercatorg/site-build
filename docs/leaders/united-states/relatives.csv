@@ -110,6 +110,13 @@ United States,Q1288295,Jim Nicholson,sibling,Q6262441,John W. Nicholson
 United States,Q1289901,"Harold Ford, Jr.",father,Q1585826,"Harold Ford, Sr."
 United States,Q1290476,John Podesta,sibling,Q7823193,Tony Podesta
 United States,Q130024,Johnny Isakson,spouse,Q110200187,Νταϊάν Ντέιβισον
+United States,Q13133,Michelle Obama,child,Q15070044,Malia Obama
+United States,Q13133,Michelle Obama,child,Q15070048,Sasha Obama
+United States,Q13133,Michelle Obama,father,Q15982139,Fraser Robinson III
+United States,Q13133,Michelle Obama,mother,Q6761976,Marian Shields Robinson
+United States,Q13133,Michelle Obama,relative,Q2895259,Capers Funnye
+United States,Q13133,Michelle Obama,sibling,Q2073960,Craig Robinson
+United States,Q13133,Michelle Obama,spouse,Q76,Barack Obama
 United States,Q1326874,Lincoln Diaz-Balart,father,Q2126946,Rafael Díaz-Balart
 United States,Q1326874,Lincoln Diaz-Balart,sibling,Q767270,Mario Díaz-Balart
 United States,Q1326874,Lincoln Diaz-Balart,sibling,Q9013810,José Díaz-Balart
@@ -161,6 +168,11 @@ United States,Q14593411,John B. Emerson,child,Q266109,Jacqueline Emerson
 United States,Q14593411,John B. Emerson,spouse,Q104907762,Kimberly Marteau Emerson
 United States,Q150851,Colin Powell,spouse,Q4733589,Alma Powell
 United States,Q151891,Rod Blagojevich,spouse,Q7145474,Patricia Blagojevich
+United States,Q152019,Laura Bush,child,Q153481,Jenna Bush Hager
+United States,Q152019,Laura Bush,child,Q153730,Barbara Bush
+United States,Q152019,Laura Bush,father,Q18844162,Harold Welch
+United States,Q152019,Laura Bush,mother,Q18844164,Jenna Welch
+United States,Q152019,Laura Bush,spouse,Q207,George W. Bush
 United States,Q152451,Jerry Brown,father,Q724121,Pat Brown
 United States,Q152451,Jerry Brown,mother,Q4894292,Bernice Layne Brown
 United States,Q152451,Jerry Brown,spouse,Q16192730,Anne Gust Brown
@@ -212,6 +224,7 @@ United States,Q16240798,Michael Brady,sibling,Q95886226,Robert F. Brady Jr.
 United States,Q1667920,Russ Carnahan,mother,Q448619,Jean Carnahan
 United States,Q1667920,Russ Carnahan,relative,Q279153,A. S. J. Carnahan
 United States,Q166928,Chris Cannon,sibling,Q6280774,Joseph A. Cannon
+United States,Q16728774,Neil Eggleston,spouse,Q16734365,Penda Hair
 United States,Q16729797,Curtis Hertel Jr.,father,Q5195759,Curtis Hertel
 United States,Q16730829,Rusty Kidd,father,Q96026796,Culver Kidd Jr.
 United States,Q16730829,Rusty Kidd,sibling,Q515981,Tillie K. Fowler
@@ -397,6 +410,13 @@ United States,Q230733,Dianne Feinstein,spouse,Q7324532,Richard C. Blum
 United States,Q233905,Linda McMahon,child,Q842633,Stephanie McMahon
 United States,Q233905,Linda McMahon,child,Q861110,Shane McMahon
 United States,Q233905,Linda McMahon,spouse,Q44430,Vince McMahon
+United States,Q235349,Jill Biden,child,Q97588420,Ashley Biden
+United States,Q235349,Jill Biden,father,Q110716051,Donald Carl Jacobs
+United States,Q235349,Jill Biden,mother,Q110716054,Bonny Jean Godfrey
+United States,Q235349,Jill Biden,relative,Q5944264,Hunter Biden
+United States,Q235349,Jill Biden,relative,Q813332,Beau Biden
+United States,Q235349,Jill Biden,spouse,Q100502650,Bill Stevenson
+United States,Q235349,Jill Biden,spouse,Q6279,Joe Biden
 United States,Q2355703,Fiona Ma,father,Q47300661,William Ma
 United States,Q236421,Janet Reno,sibling,Q67200642,Maggy Hurchalla
 United States,Q237560,Barbara Boxer,child,Q110064220,Nicole Boxer
@@ -503,6 +523,7 @@ United States,Q28861402,Tom Begich,father,Q1619015,Nick Begich
 United States,Q28871485,Kelly Craft,spouse,Q6209275,Joe Craft
 United States,Q2903280,Bill Lipinski,child,Q518424,Dan Lipinski
 United States,Q291143,Linda Sánchez,sibling,Q469094,Loretta Sanchez
+United States,Q292988,Madeleine Bordallo,spouse,Q521420,Ricardo Bordallo
 United States,Q293365,Penny Pritzker,father,Q16093011,Donald Pritzker
 United States,Q293365,Penny Pritzker,mother,Q106967837,Susan Ann Pritzker
 United States,Q293365,Penny Pritzker,sibling,Q6103950,J.B. Pritzker
@@ -648,6 +669,12 @@ United States,Q43144,Sarah Palin,child,Q22575647,Piper Palin
 United States,Q43144,Sarah Palin,father,Q84580270,Charles Richard 'Chuck' Heath
 United States,Q43144,Sarah Palin,mother,Q96209317,Sarah 'Sally' Sheeran
 United States,Q43144,Sarah Palin,spouse,Q1265214,Todd Palin
+United States,Q432473,Melania Trump,child,Q23000814,Barron Trump
+United States,Q432473,Melania Trump,father,Q23000811,Viktor Knavs
+United States,Q432473,Melania Trump,mother,Q23823122,Amalija Knavs
+United States,Q432473,Melania Trump,sibling,Q64214435,Ines Knauss
+United States,Q432473,Melania Trump,sibling,Q71516297,Denis Cigelnjak
+United States,Q432473,Melania Trump,spouse,Q22686,Donald Trump
 United States,Q434121,Jack Kingston,mother,Q104036256,Martha Ann Heddens
 United States,Q434706,Elizabeth Warren,child,Q22673677,Amelia Warren Tyagi
 United States,Q434706,Elizabeth Warren,child,Q22673686,Alexander Warren
@@ -726,6 +753,8 @@ United States,Q464810,John Warner,spouse,Q21879434,Catherine Conover
 United States,Q464810,John Warner,spouse,Q21879434,Catherine Conover
 United States,Q464810,John Warner,spouse,Q21879436,Jeanne Vander Myde
 United States,Q464810,John Warner,spouse,Q34851,Elizabeth Taylor
+United States,Q465477,Anne-Marie Slaughter,relative,Q5345345,Edward Slaughter
+United States,Q465477,Anne-Marie Slaughter,spouse,Q506379,Andrew Moravcsik
 United States,Q467861,Kathleen Kennedy Townsend,child,Q75326813,Meaghan Anne Kennedy Townsend
 United States,Q467861,Kathleen Kennedy Townsend,child,Q75326815,Maeve Kennedy McKean
 United States,Q467861,Kathleen Kennedy Townsend,child,Q75326817,Rose Katherine Kennedy Townsend

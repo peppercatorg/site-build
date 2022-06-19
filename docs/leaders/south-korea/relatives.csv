@@ -1,7 +1,10 @@
 catalog,id,name,relationship,relative,relativename
 South Korea,Q107443498,Choi Jae-hyung,father,Q16092163,Yohann Tschoi
+South Korea,Q107805133,Kim Keon-hee,spouse,Q16090635,Yoon Suk-yeol
 South Korea,Q10855915,Kim Han-gil,spouse,Q16177000,Lee Min-ah
 South Korea,Q10855915,Kim Han-gil,spouse,Q623856,Choi Myung-gil
+South Korea,Q11267083,Lee Hui-ho,child,Q12589320,Kim Hong-gul
+South Korea,Q11267083,Lee Hui-ho,spouse,Q45785,Kim Dae-jung
 South Korea,Q11464859,Yoon Mee-hyang,spouse,Q56256518,Kim Sam-seok
 South Korea,Q12587534,Kim Boo-kyum,child,Q12610323,윤세인
 South Korea,Q12587534,Kim Boo-kyum,relative,Q11266353,Lee Young-hoon
@@ -71,6 +74,9 @@ South Korea,Q24000620,Park Kyung-mee,spouse,Q42326418,Heejoon Myung
 South Korea,Q24000773,Chang Jung-sook,father,Q12614608,장영순
 South Korea,Q24856148,Oh Se-jung,spouse,Q61716898,홍난실
 South Korea,Q2947463,In Jae-keun,spouse,Q485574,Kim Geun-tae
+South Korea,Q29881198,Kim Jung-sook,child,Q74499817,Moon Joon Yong
+South Korea,Q29881198,Kim Jung-sook,child,Q74500749,Moon Da-hye
+South Korea,Q29881198,Kim Jung-sook,spouse,Q21001,Moon Jae-in
 South Korea,Q31178499,Oh Yeong-hwan,spouse,Q578141,Jain Kim
 South Korea,Q356675,Han Seung-soo,child,Q56833518,Han Sang-jun
 South Korea,Q356675,Han Seung-soo,spouse,Q56833272,Hong So-ja
@@ -80,6 +86,9 @@ South Korea,Q45785,Kim Dae-jung,child,Q12589333,Kim Hong-il
 South Korea,Q45785,Kim Dae-jung,father,Q57312654,Kim Won Sik
 South Korea,Q45785,Kim Dae-jung,spouse,Q11267083,Lee Hui-ho
 South Korea,Q45785,Kim Dae-jung,spouse,Q12618516,Cha Yong-ae
+South Korea,Q482738,Kwon Yang-sook,father,Q16168020,권오석
+South Korea,Q482738,Kwon Yang-sook,mother,Q16181683,박덕남
+South Korea,Q482738,Kwon Yang-sook,spouse,Q14345,Roh Moo-hyun
 South Korea,Q485574,Kim Geun-tae,spouse,Q2947463,In Jae-keun
 South Korea,Q490114,Chung Mong-joon,child,Q55734052,Chung Kisun
 South Korea,Q490114,Chung Mong-joon,father,Q468467,Jeong Ju-yung
@@ -93,6 +102,8 @@ South Korea,Q496509,Lee Hoi-chang,father,Q16091306,I Hong-gyu
 South Korea,Q496509,Lee Hoi-chang,mother,Q56804778,Kim Sa-sun
 South Korea,Q496509,Lee Hoi-chang,sibling,Q21074800,Hoesung Lee
 South Korea,Q496509,Lee Hoi-chang,spouse,Q56804591,Han In-ok
+South Korea,Q496572,Kim Yoon-ok,child,Q56806003,I Su-yeon
+South Korea,Q496572,Kim Yoon-ok,spouse,Q14342,Lee Myung-bak
 South Korea,Q55728795,Roh Tae-ak,sibling,Q31178702,노태강
 South Korea,Q5894111,Hong Jung-wook,father,Q6961101,Namkoong Won
 South Korea,Q5894111,Hong Jung-wook,spouse,Q56434662,손정희

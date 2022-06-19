@@ -1209,6 +1209,9 @@ Brazil,Q244997,José Sarney,child,Q3050853,Roseana Sarney
 Brazil,Q244997,José Sarney,child,Q9074685,Sarney Filho
 Brazil,Q244997,José Sarney,spouse,Q10326653,Marly Sarney
 Brazil,Q25440287,Júnior Marreca,child,Q60784870,Júnior Marreca Filho
+Brazil,Q26692175,Marquinhos Trad,father,Q10336120,Nelson Trad
+Brazil,Q26692175,Marquinhos Trad,sibling,Q10336123,Nelson Trad Filho
+Brazil,Q26692175,Marquinhos Trad,spouse,Q107716862,Tatiana Trad
 Brazil,Q2738543,Esperidião Amin,child,Q19710163,João Amin
 Brazil,Q2738543,Esperidião Amin,spouse,Q10396106,Ângela Amin
 Brazil,Q2875339,Aécio Neves,father,Q9641851,Aécio Ferreira da Cunha
@@ -4948,7 +4951,6 @@ Germany,Q2018007,Olaf Lehne,sibling,Q78218,Klaus-Heiner Lehne
 Germany,Q2063431,Paul Freiherr von Maltzahn,child,Q110722136,Nadia von Maltzahn
 Germany,Q2087072,Philipp Murmann,relative,Q15431287,Dieter Murmann
 Germany,Q2087072,Philipp Murmann,relative,Q1745474,Klaus Murmann
-Germany,Q2087072,Philipp Murmann,relative,Q1745474,Klaus Murmann
 Germany,Q2087072,Philipp Murmann,relative,Q2477399,Ulrike Murmann
 Germany,Q2087072,Philipp Murmann,relative,Q27230524,Sven Murmann
 Germany,Q2120880,Stephan Weil,spouse,Q2166883,Rosemarie Kerkow-Weil
@@ -6674,6 +6676,7 @@ Indonesia,Q16167068,Andika Hazrumy,father,Q15620237,Hikmat Tomet
 Indonesia,Q16167068,Andika Hazrumy,sibling,Q85988757,Andiara Aprilia Hikmat
 Indonesia,Q16167068,Andika Hazrumy,spouse,Q85988433,Adde Rosi Khoerunnisa
 Indonesia,Q16178444,Selina Gita,sibling,Q109448985,Yopi Muthalib
+Indonesia,Q16182199,Idham Samawi,father,Q16181426,HM. Samawi
 Indonesia,Q16182937,Indah Kurnia,child,Q12523653,Verlita Evelyn
 Indonesia,Q16187552,Inggrid Kansil,spouse,Q12518358,Syarifuddin Hasan
 Indonesia,Q16188358,Lukman Hakim Saifudin,father,Q14404735,Saifuddin Zuhri
@@ -6686,7 +6689,7 @@ Indonesia,Q17410820,Nabiel Al Musawa,sibling,Q15229052,Habib Munzir Al-Musawa
 Indonesia,Q17410841,Achmad Dimyati Natakusumah,child,Q109449644,Rizka Amalia R Natakusumah
 Indonesia,Q17410841,Achmad Dimyati Natakusumah,child,Q93388029,Rizki Aulia Rahman Natakusumah
 Indonesia,Q17410841,Achmad Dimyati Natakusumah,spouse,Q25469477,Irna Narulita
-Indonesia,Q17411611,Tubagus Haerul Jaman,father,Q25469489,Tubagus Chasan Sochib
+Indonesia,Q17411611,Tubagus Haerul Jaman,father,Q25469489,Chasan Sochib
 Indonesia,Q17411611,Tubagus Haerul Jaman,mother,Q94159823,Ratu Rapiah Suhaemi
 Indonesia,Q17411648,Wahidin Halim,sibling,Q183581,Hassan Wirajuda
 Indonesia,Q18098280,Charles Honoris,child,Q106828528,Rafael Rakaputra Honoris
@@ -7553,9 +7556,9 @@ Italy,Q3848875,Mario Occhiuto,sibling,Q3939013,Roberto Occhiuto
 Italy,Q3849206,Mario Valducci,spouse,Q21196712,Annalisa Bruchi
 Italy,Q3852400,Maura Cossutta,father,Q678252,Armando Cossutta
 Italy,Q3856623,Michele Gesualdi,sibling,Q3750036,Francesco Gesualdi
-Italy,Q3870121,Nando Dalla Chiesa,father,Q723595,Carlo Alberto Dalla Chiesa
-Italy,Q3870121,Nando Dalla Chiesa,sibling,Q3961150,Simona Dalla Chiesa
-Italy,Q3870121,Nando Dalla Chiesa,sibling,Q629237,Rita Dalla Chiesa
+Italy,Q3870121,Nando dalla Chiesa,father,Q723595,Carlo Alberto Dalla Chiesa
+Italy,Q3870121,Nando dalla Chiesa,sibling,Q3961150,Simona Dalla Chiesa
+Italy,Q3870121,Nando dalla Chiesa,sibling,Q629237,Rita Dalla Chiesa
 Italy,Q3879474,Nunzia De Girolamo,spouse,Q3749638,Francesco Boccia
 Italy,Q388442,Dario Franceschini,father,Q3765462,Giorgio Franceschini
 Italy,Q389134,Gabriella Carlucci,sibling,Q273073,Milly Carlucci
@@ -8939,7 +8942,7 @@ Netherlands,Q29574,Beatrix of the Netherlands,godparent,Q12973,Leopold III of Be
 Netherlands,Q29574,Beatrix of the Netherlands,godparent,Q13383097,Allene Tew
 Netherlands,Q29574,Beatrix of the Netherlands,godparent,Q2012990,Princess Elisabeth of Waldeck and Pyrmont
 Netherlands,Q29574,Beatrix of the Netherlands,godparent,Q235521,"Princess Alice, Countess of Athlone"
-Netherlands,Q29574,Beatrix of the Netherlands,godparent,Q60697,Duke Adolf Friedrich of Mecklenburg
+Netherlands,Q29574,Beatrix of the Netherlands,godparent,Q60697,Duke Adolf Friedrich of Mecklenburg-Schwerin
 Netherlands,Q29574,Beatrix of the Netherlands,mother,Q154946,Juliana of the Netherlands
 Netherlands,Q29574,Beatrix of the Netherlands,relative,Q156390,"Victoria, Crown Princess of Sweden"
 Netherlands,Q29574,Beatrix of the Netherlands,sibling,Q263623,Princess Irene of the Netherlands
@@ -10675,6 +10678,7 @@ Russia,Q106734231,Larisa Ponomaryova,child,Q4371978,Ilya Ponomarev
 Russia,Q106734231,Larisa Ponomaryova,spouse,Q70248527,"Пономарёв, Владимир Николаевич"
 Russia,Q108040998,Andrey Artyukhov,child,Q55105854,Dmitry Artyukhov
 Russia,Q108684903,Anton Krasnoshtanov,father,Q60220292,Aleksey Krasnoshtanov
+Russia,Q108685717,Andrey Trifonov,sibling,Q112625085,Sergey Trifonov
 Russia,Q108691440,Roza Chemeris,mother,Q28497365,Elmira Glubokovskaya
 Russia,Q108691440,Roza Chemeris,stepparent,Q28497366,Mikhail Gloubokovsky
 Russia,Q108807795,Nurbagand Nurbagandov,child,Q26959934,Magomed Nurbagandov
@@ -11576,8 +11580,11 @@ South Africa,Q6795248,Max Sisulu,sibling,Q8075652,Zwelakhe Sisulu
 South Africa,Q770995,Pieter Mulder,father,Q426404,Connie Mulder
 South Africa,Q8066134,Zanele kaMagwaza-Msibi,child,Q52149458,Gugu Gumede
 South Korea,Q107443498,Choi Jae-hyung,father,Q16092163,Yohann Tschoi
+South Korea,Q107805133,Kim Keon-hee,spouse,Q16090635,Yoon Suk-yeol
 South Korea,Q10855915,Kim Han-gil,spouse,Q16177000,Lee Min-ah
 South Korea,Q10855915,Kim Han-gil,spouse,Q623856,Choi Myung-gil
+South Korea,Q11267083,Lee Hui-ho,child,Q12589320,Kim Hong-gul
+South Korea,Q11267083,Lee Hui-ho,spouse,Q45785,Kim Dae-jung
 South Korea,Q11464859,Yoon Mee-hyang,spouse,Q56256518,Kim Sam-seok
 South Korea,Q12587534,Kim Boo-kyum,child,Q12610323,윤세인
 South Korea,Q12587534,Kim Boo-kyum,relative,Q11266353,Lee Young-hoon
@@ -11647,6 +11654,9 @@ South Korea,Q24000620,Park Kyung-mee,spouse,Q42326418,Heejoon Myung
 South Korea,Q24000773,Chang Jung-sook,father,Q12614608,장영순
 South Korea,Q24856148,Oh Se-jung,spouse,Q61716898,홍난실
 South Korea,Q2947463,In Jae-keun,spouse,Q485574,Kim Geun-tae
+South Korea,Q29881198,Kim Jung-sook,child,Q74499817,Moon Joon Yong
+South Korea,Q29881198,Kim Jung-sook,child,Q74500749,Moon Da-hye
+South Korea,Q29881198,Kim Jung-sook,spouse,Q21001,Moon Jae-in
 South Korea,Q31178499,Oh Yeong-hwan,spouse,Q578141,Jain Kim
 South Korea,Q356675,Han Seung-soo,child,Q56833518,Han Sang-jun
 South Korea,Q356675,Han Seung-soo,spouse,Q56833272,Hong So-ja
@@ -11656,6 +11666,9 @@ South Korea,Q45785,Kim Dae-jung,child,Q12589333,Kim Hong-il
 South Korea,Q45785,Kim Dae-jung,father,Q57312654,Kim Won Sik
 South Korea,Q45785,Kim Dae-jung,spouse,Q11267083,Lee Hui-ho
 South Korea,Q45785,Kim Dae-jung,spouse,Q12618516,Cha Yong-ae
+South Korea,Q482738,Kwon Yang-sook,father,Q16168020,권오석
+South Korea,Q482738,Kwon Yang-sook,mother,Q16181683,박덕남
+South Korea,Q482738,Kwon Yang-sook,spouse,Q14345,Roh Moo-hyun
 South Korea,Q485574,Kim Geun-tae,spouse,Q2947463,In Jae-keun
 South Korea,Q490114,Chung Mong-joon,child,Q55734052,Chung Kisun
 South Korea,Q490114,Chung Mong-joon,father,Q468467,Jeong Ju-yung
@@ -11669,6 +11682,8 @@ South Korea,Q496509,Lee Hoi-chang,father,Q16091306,I Hong-gyu
 South Korea,Q496509,Lee Hoi-chang,mother,Q56804778,Kim Sa-sun
 South Korea,Q496509,Lee Hoi-chang,sibling,Q21074800,Hoesung Lee
 South Korea,Q496509,Lee Hoi-chang,spouse,Q56804591,Han In-ok
+South Korea,Q496572,Kim Yoon-ok,child,Q56806003,I Su-yeon
+South Korea,Q496572,Kim Yoon-ok,spouse,Q14342,Lee Myung-bak
 South Korea,Q55728795,Roh Tae-ak,sibling,Q31178702,노태강
 South Korea,Q5894111,Hong Jung-wook,father,Q6961101,Namkoong Won
 South Korea,Q5894111,Hong Jung-wook,spouse,Q56434662,손정희
@@ -18682,6 +18697,13 @@ United States,Q1288295,Jim Nicholson,sibling,Q6262441,John W. Nicholson
 United States,Q1289901,"Harold Ford, Jr.",father,Q1585826,"Harold Ford, Sr."
 United States,Q1290476,John Podesta,sibling,Q7823193,Tony Podesta
 United States,Q130024,Johnny Isakson,spouse,Q110200187,Νταϊάν Ντέιβισον
+United States,Q13133,Michelle Obama,child,Q15070044,Malia Obama
+United States,Q13133,Michelle Obama,child,Q15070048,Sasha Obama
+United States,Q13133,Michelle Obama,father,Q15982139,Fraser Robinson III
+United States,Q13133,Michelle Obama,mother,Q6761976,Marian Shields Robinson
+United States,Q13133,Michelle Obama,relative,Q2895259,Capers Funnye
+United States,Q13133,Michelle Obama,sibling,Q2073960,Craig Robinson
+United States,Q13133,Michelle Obama,spouse,Q76,Barack Obama
 United States,Q1326874,Lincoln Diaz-Balart,father,Q2126946,Rafael Díaz-Balart
 United States,Q1326874,Lincoln Diaz-Balart,sibling,Q767270,Mario Díaz-Balart
 United States,Q1326874,Lincoln Diaz-Balart,sibling,Q9013810,José Díaz-Balart
@@ -18733,6 +18755,11 @@ United States,Q14593411,John B. Emerson,child,Q266109,Jacqueline Emerson
 United States,Q14593411,John B. Emerson,spouse,Q104907762,Kimberly Marteau Emerson
 United States,Q150851,Colin Powell,spouse,Q4733589,Alma Powell
 United States,Q151891,Rod Blagojevich,spouse,Q7145474,Patricia Blagojevich
+United States,Q152019,Laura Bush,child,Q153481,Jenna Bush Hager
+United States,Q152019,Laura Bush,child,Q153730,Barbara Bush
+United States,Q152019,Laura Bush,father,Q18844162,Harold Welch
+United States,Q152019,Laura Bush,mother,Q18844164,Jenna Welch
+United States,Q152019,Laura Bush,spouse,Q207,George W. Bush
 United States,Q152451,Jerry Brown,father,Q724121,Pat Brown
 United States,Q152451,Jerry Brown,mother,Q4894292,Bernice Layne Brown
 United States,Q152451,Jerry Brown,spouse,Q16192730,Anne Gust Brown
@@ -18784,6 +18811,7 @@ United States,Q16240798,Michael Brady,sibling,Q95886226,Robert F. Brady Jr.
 United States,Q1667920,Russ Carnahan,mother,Q448619,Jean Carnahan
 United States,Q1667920,Russ Carnahan,relative,Q279153,A. S. J. Carnahan
 United States,Q166928,Chris Cannon,sibling,Q6280774,Joseph A. Cannon
+United States,Q16728774,Neil Eggleston,spouse,Q16734365,Penda Hair
 United States,Q16729797,Curtis Hertel Jr.,father,Q5195759,Curtis Hertel
 United States,Q16730829,Rusty Kidd,father,Q96026796,Culver Kidd Jr.
 United States,Q16730829,Rusty Kidd,sibling,Q515981,Tillie K. Fowler
@@ -18969,6 +18997,13 @@ United States,Q230733,Dianne Feinstein,spouse,Q7324532,Richard C. Blum
 United States,Q233905,Linda McMahon,child,Q842633,Stephanie McMahon
 United States,Q233905,Linda McMahon,child,Q861110,Shane McMahon
 United States,Q233905,Linda McMahon,spouse,Q44430,Vince McMahon
+United States,Q235349,Jill Biden,child,Q97588420,Ashley Biden
+United States,Q235349,Jill Biden,father,Q110716051,Donald Carl Jacobs
+United States,Q235349,Jill Biden,mother,Q110716054,Bonny Jean Godfrey
+United States,Q235349,Jill Biden,relative,Q5944264,Hunter Biden
+United States,Q235349,Jill Biden,relative,Q813332,Beau Biden
+United States,Q235349,Jill Biden,spouse,Q100502650,Bill Stevenson
+United States,Q235349,Jill Biden,spouse,Q6279,Joe Biden
 United States,Q2355703,Fiona Ma,father,Q47300661,William Ma
 United States,Q236421,Janet Reno,sibling,Q67200642,Maggy Hurchalla
 United States,Q237560,Barbara Boxer,child,Q110064220,Nicole Boxer
@@ -19075,6 +19110,7 @@ United States,Q28861402,Tom Begich,father,Q1619015,Nick Begich
 United States,Q28871485,Kelly Craft,spouse,Q6209275,Joe Craft
 United States,Q2903280,Bill Lipinski,child,Q518424,Dan Lipinski
 United States,Q291143,Linda Sánchez,sibling,Q469094,Loretta Sanchez
+United States,Q292988,Madeleine Bordallo,spouse,Q521420,Ricardo Bordallo
 United States,Q293365,Penny Pritzker,father,Q16093011,Donald Pritzker
 United States,Q293365,Penny Pritzker,mother,Q106967837,Susan Ann Pritzker
 United States,Q293365,Penny Pritzker,sibling,Q6103950,J.B. Pritzker
@@ -19220,6 +19256,12 @@ United States,Q43144,Sarah Palin,child,Q22575647,Piper Palin
 United States,Q43144,Sarah Palin,father,Q84580270,Charles Richard 'Chuck' Heath
 United States,Q43144,Sarah Palin,mother,Q96209317,Sarah 'Sally' Sheeran
 United States,Q43144,Sarah Palin,spouse,Q1265214,Todd Palin
+United States,Q432473,Melania Trump,child,Q23000814,Barron Trump
+United States,Q432473,Melania Trump,father,Q23000811,Viktor Knavs
+United States,Q432473,Melania Trump,mother,Q23823122,Amalija Knavs
+United States,Q432473,Melania Trump,sibling,Q64214435,Ines Knauss
+United States,Q432473,Melania Trump,sibling,Q71516297,Denis Cigelnjak
+United States,Q432473,Melania Trump,spouse,Q22686,Donald Trump
 United States,Q434121,Jack Kingston,mother,Q104036256,Martha Ann Heddens
 United States,Q434706,Elizabeth Warren,child,Q22673677,Amelia Warren Tyagi
 United States,Q434706,Elizabeth Warren,child,Q22673686,Alexander Warren
@@ -19298,6 +19340,8 @@ United States,Q464810,John Warner,spouse,Q21879434,Catherine Conover
 United States,Q464810,John Warner,spouse,Q21879434,Catherine Conover
 United States,Q464810,John Warner,spouse,Q21879436,Jeanne Vander Myde
 United States,Q464810,John Warner,spouse,Q34851,Elizabeth Taylor
+United States,Q465477,Anne-Marie Slaughter,relative,Q5345345,Edward Slaughter
+United States,Q465477,Anne-Marie Slaughter,spouse,Q506379,Andrew Moravcsik
 United States,Q467861,Kathleen Kennedy Townsend,child,Q75326813,Meaghan Anne Kennedy Townsend
 United States,Q467861,Kathleen Kennedy Townsend,child,Q75326815,Maeve Kennedy McKean
 United States,Q467861,Kathleen Kennedy Townsend,child,Q75326817,Rose Katherine Kennedy Townsend
