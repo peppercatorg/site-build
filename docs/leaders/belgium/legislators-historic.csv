@@ -49,6 +49,7 @@ Belgium,member of the Flemish Parliament,Daniëlle Vanwesenbeeck,Q28530505,2017-
 Belgium,member of the Flemish Parliament,Chris Steenwegen,Q65088441,2019,,male,1958-01-16,,Chris Steenwegen Studio Vlaams Parlement.png,
 Belgium,member of the Flemish Parliament,Ben Weyts,Q2271035,2019-05-26,2019-10-02,male,1970-11-12,,Informal Meeting of EU Tourism Ministers Handshake (40238420081) (cropped).jpg,Ben Weyts
 Belgium,member of the Flemish Parliament,Els Ampe,Q2723306,2019-05-26,,female,1979-01-18,,Els Ampe.jpg,
+Belgium,member of the Flemish Parliament,Stephanie D'Hose,Q62518481,2019-05-26,,female,1981-06-01,,Stephanie D'Hose 2019.jpg,Stephanie D'Hose
 Belgium,member of the Flemish Parliament,Ann De Martelaer,Q21993861,2019-06-18,,female,1959-11-20,,Ann De Martelaer.jpg,
 Belgium,member of the Flemish Parliament,Mieke Schauvliege,Q61742363,2019-06-18,,female,1972-08-01,,Mieke Schauvliege 3.jpg,
 Belgium,member of the Flemish Parliament,Rita Moors,Q101444565,2020-09,,female,1967-07-03,,,
@@ -576,7 +577,6 @@ Belgium,Senator of Belgium,Philippe Dodrimont,Q3379741,2019-05,,male,1964-06-01,
 Belgium,Senator of Belgium,Yves Buysse,Q3573534,2019-05,,male,1968-09-03,,,Yves Buysse
 Belgium,Senator of Belgium,Philippe Courard,Q468118,2019-05,,male,1966-09-02,,Philippe Courard.jpg,
 Belgium,Senator of Belgium,Sabine Laruelle,Q508073,2019-05,,female,1965-06-02,,Sabine Laruelle 2011.jpg,Sabine Laruelle
-Belgium,Senator of Belgium,Stephanie D'Hose,Q62518481,2019-05,,female,1981-06-01,,Stephanie D'Hose 2019.jpg,Stephanie D'Hose
 Belgium,Senator of Belgium,Philippe Muyters,Q639006,2019-05,,male,1961-12-06,,Philippe-muyters.jpg,Philippe Muyters
 Belgium,Senator of Belgium,Jos D'Haese,Q64210693,2019-05,,male,1992-08-24,,"Jos D'Haese, Back to the Climate 2021 (2).jpg",
 Belgium,Senator of Belgium,Allessia Claes,Q64222344,2019-05,,female,1981-11-19,,,Allessia Claes
@@ -590,13 +590,12 @@ Belgium,Senator of Belgium,Fatima Ahallouch,Q64667391,2019-05,,female,1981-10-16
 Belgium,Senator of Belgium,Farida Tahar,Q64667396,2019-05,,female,1977-11,,,
 Belgium,Senator of Belgium,John Pitseys,Q64667403,2019-05,,male,1979-01-23,,,
 Belgium,Senator of Belgium,Klaas Slootmans,Q64706422,2019-05,,male,1983,,Klaas Slootmans - 2019.jpg,Klaas Slootmans
-Belgium,Senator of Belgium,Adeline Blancquaert,Q64706424,2019-05,,female,,,Adeline Blancquaert - 2019.jpg,Adeline Blancquaert
+Belgium,Senator of Belgium,Adeline Blancquaert,Q64706424,2019-05,,female,1996-05-24,,Adeline Blancquaert - 2019.jpg,Adeline Blancquaert
 Belgium,Senator of Belgium,Chris Steenwegen,Q65088441,2019-05,,male,1958-01-16,,Chris Steenwegen Studio Vlaams Parlement.png,
-Belgium,Senator of Belgium,Jules Eerdekens,Q65178148,2019-05,,male,,,,
+Belgium,Senator of Belgium,Jules Eerdekens,Q65178148,2019-05,,male,1977-11-19,,,
 Belgium,Senator of Belgium,Ayse Yigit,Q65282609,2019-05,,female,1972-10,,,
-Belgium,Senator of Belgium,France Masai,Q65283657,2019-05,,female,,,,
-Belgium,Senator of Belgium,Fourat Ben Chikha,Q65283737,2019-05,,male,,,Fourat Ben Chikha.jpg,
-Belgium,Senator of Belgium,Bob De Brabandere,Q65284044,2019-05,,male,,,,Bob De Brabandere
+Belgium,Senator of Belgium,France Masai,Q65283657,2019-05,,female,1981-11-21,,,
+Belgium,Senator of Belgium,Bob De Brabandere,Q65284044,2019-05,,male,1987-08-31,,,Bob De Brabandere
 Belgium,Senator of Belgium,Nadia Sminate,Q678436,2019-05,,female,1981-12-29,,Nadia sminate-1517993058.JPG,Nadia Sminate
 Belgium,Senator of Belgium,Els Ampe,Q2723306,2019-07-04,,female,1979-01-18,,Els Ampe.jpg,
 Belgium,Senator of Belgium,Soetkin Hoessen,Q65686051,2019-09,,female,1985-03,,,
@@ -707,9 +706,13 @@ Belgium,member of the Parliament of Wallonia,Laurent Léonard,Q67656421,2019-09-
 Belgium,member of the Parliament of Wallonia,Nicolas Janssen,Q67656469,2019-09-16,,male,1974-11-18,,,
 Belgium,member of the Parliament of Wallonia,Charles Gardier,Q17355270,2019-09-18,,male,1965-09-22,,Charles Gardier.jpg,
 Belgium,member of the Parliament of Wallonia,Laurent Agache,Q68073735,2019-09-18,,male,,,,
-Belgium,co-opted senator,Filip Anthuenis,Q2532599,2007,2009,male,1965-11-28,,,Filip Anthuenis
-Belgium,co-opted senator,Peter Van Rompuy,Q3140213,2010-06-29,2012-12-18,male,1980-03-05,,Peter Van Rompuy - 2019.jpg,Peter Van Rompuy
-Belgium,co-opted senator,Benjamin Dalle,Q16069420,2019-01,2019-05,male,1982-08-30,,Foto Benjamin Dalle.jpg,
+Belgium,Senator by Right,Philippe I of Belgium,Q155004,1994,2013,male,1960-04-15,,Philippe of Belgium in 2019.jpg,Philippe of Belgium
+Belgium,Senator by Right,"Princess Astrid, Archduchess of Austria-Este",Q170194,1996,2013,female,1962-06-05,,Princess Astrid at the World Investment Forum 2018 (cropped).jpg,Princess Astrid of Belgium
+Belgium,Senator by Right,Prince Laurent of Belgium,Q700152,2000,2013,male,1963-10-19,,Prince Laurent of Belgium (2015 F).jpg,Prince Laurent of Belgium
+Belgium,Co-opted Senator,Filip Anthuenis,Q2532599,2007,2009,male,1965-11-28,,,Filip Anthuenis
+Belgium,Co-opted Senator,Peter Van Rompuy,Q3140213,2010-06-29,2012-12-18,male,1980-03-05,,Peter Van Rompuy - 2019.jpg,Peter Van Rompuy
+Belgium,Co-opted Senator,Benjamin Dalle,Q16069420,2019-01,2019-05,male,1982-08-30,,Foto Benjamin Dalle.jpg,
+Belgium,Co-opted Senator,Fourat Ben Chikha,Q65283737,2019-07-12,,male,1980-11-25,,Fourat Ben Chikha.jpg,
 Belgium,member of the Parliament of the French Community,Christophe Collignon,Q2966163,2004,,male,1969-07-21,,CHRISTOPHE-COLLIGNON1.jpg,Christophe Collignon
 Belgium,member of the Parliament of the French Community,Matthieu Daele,Q3299878,2009-06-30,,male,1981-02-05,,Matthieu Daele.jpg,
 Belgium,member of the Parliament of the French Community,Paul Magnette,Q1341556,2014-06-17,2014-07-22,male,1971-06-28,,Paul Magnette.jpg,Paul Magnette

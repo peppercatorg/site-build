@@ -132,6 +132,7 @@ Denmark,Q28528045,Orla Østerby,sibling,Q12314845,H.C. Østerby
 Denmark,Q28759772,Peter Seier Christensen,sibling,Q12323908,Lars Seier Christensen
 Denmark,Q299352,Lene Espersen,sibling,Q12301858,Anne Sofie Espersen
 Denmark,Q3042869,Karen Ellemann,father,Q698080,Uffe Ellemann-Jensen
+Denmark,Q3042869,Karen Ellemann,mother,Q112630995,Hanne Ellemann-Jensen
 Denmark,Q3042869,Karen Ellemann,sibling,Q12318947,Jakob Ellemann-Jensen
 Denmark,Q3082669,Ulla Tørnæs,father,Q12324045,Laurits Tørnæs
 Denmark,Q3107100,Mimi Jakobsen,father,Q12310227,Erhard Jakobsen
@@ -205,6 +206,7 @@ Denmark,Q697184,Per Stig Møller,mother,Q4968766,Lis Møller
 Denmark,Q698080,Uffe Ellemann-Jensen,child,Q12318947,Jakob Ellemann-Jensen
 Denmark,Q698080,Uffe Ellemann-Jensen,child,Q3042869,Karen Ellemann
 Denmark,Q698080,Uffe Ellemann-Jensen,father,Q12319432,Jens Peter Jensen
+Denmark,Q698080,Uffe Ellemann-Jensen,spouse,Q112630995,Hanne Ellemann-Jensen
 Denmark,Q698080,Uffe Ellemann-Jensen,spouse,Q12301035,Alice Vestergaard
 Denmark,Q707403,Flemming Hansen,child,Q64427892,Niels Flemming Hansen
 Denmark,Q7659016,Mike Legarth,father,Q12319258,Jens Christian Legarth

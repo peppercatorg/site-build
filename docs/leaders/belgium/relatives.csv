@@ -29,6 +29,17 @@ Belgium,Q155004,Philippe I of Belgium,spouse,Q94334,Queen Mathilde of Belgium
 Belgium,Q15993,Bart Somers,father,Q2034973,Joos Somers
 Belgium,Q1663490,Alain Mathot,father,Q1557552,Guy Mathot
 Belgium,Q1684787,Jean-Claude Van Cauwenberghe,father,Q1900804,André Van Cauwenberghe
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2057996,"Princess Luisa Maria of Belgium, Archduchess of Austria-Este"
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2071496,"Prince Amedeo, Hereditary Archduke of Austria-Este"
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2361842,Princess Laetitia Maria of Belgium
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2720169,"Prince Joachim of Belgium, Archduke of Austria-Este"
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q970268,"Princess Maria Laura of Belgium, Archduchess of Austria-Este"
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",father,Q3911,Albert II of Belgium
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",mother,Q31129,Queen Paola of Belgium
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q155004,Philippe I of Belgium
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q432537,Princess Delphine of Belgium
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q700152,Prince Laurent of Belgium
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",spouse,Q379479,"Prince Lorenz, Archduke of Austria-Este"
 Belgium,Q17149643,Valerie Van Peel,sibling,Q1922743,Michael Van Peel
 Belgium,Q17350983,Barbara d'Ursel de Lobkowicz,child,Q64160557,Ariane de Lobkowicz-d'Ursel
 Belgium,Q17350983,Barbara d'Ursel de Lobkowicz,spouse,Q3502142,Stéphane de Lobkowicz
@@ -53,6 +64,7 @@ Belgium,Q2249806,Ilse Uyttersprot,father,Q42403397,Raymond Uyttersprot
 Belgium,Q2399955,Lodewijk De Witte,sibling,Q2987524,Jozef De Witte
 Belgium,Q2415346,Peter Vanvelthoven,father,Q2788396,Louis Vanvelthoven
 Belgium,Q2532599,Filip Anthuenis,father,Q2361248,Georges Anthuenis
+Belgium,Q2742987,Jo Brouns,father,Q1027476,Hubert Brouns
 Belgium,Q2744376,Kurt De Loor,father,Q15876265,Herman De Loor
 Belgium,Q2746986,Bert Anciaux,father,Q2342905,Vic Anciaux
 Belgium,Q2746986,Bert Anciaux,sibling,Q4404246,Koen Anciaux
@@ -93,6 +105,7 @@ Belgium,Q4343491,Jan Briers,father,Q3419074,Jan Briers
 Belgium,Q448224,Laurette Onkelinx,father,Q3098799,Gaston Onkelinx
 Belgium,Q448224,Laurette Onkelinx,sibling,Q2830141,Alain Onkelinx
 Belgium,Q448224,Laurette Onkelinx,spouse,Q691421,Marc Uyttendaele
+Belgium,Q448454,Freya Van den Bossche,father,Q1110978,Luc Van den Bossche
 Belgium,Q451040,Eric Van Rompuy,father,Q59544808,Vic Van Rompuy
 Belgium,Q451040,Eric Van Rompuy,sibling,Q1266784,Tine Van Rompuy
 Belgium,Q451040,Eric Van Rompuy,sibling,Q12983,Herman Van Rompuy
@@ -114,6 +127,15 @@ Belgium,Q67656421,Laurent Léonard,father,Q3167740,Jean-Marie Léonard
 Belgium,Q67656469,Nicolas Janssen,father,Q5217673,Daniel Janssen
 Belgium,Q677342,Armand De Decker,father,Q3264786,Luc De Decker
 Belgium,Q678494,Olivier Maingain,child,Q17350755,Fabian Maingain
+Belgium,Q700152,Prince Laurent of Belgium,child,Q2051575,Princess Louise of Belgium
+Belgium,Q700152,Prince Laurent of Belgium,child,Q2103696,Prince Aymeric of Belgium
+Belgium,Q700152,Prince Laurent of Belgium,child,Q3356294,Prince Nicolas of Belgium
+Belgium,Q700152,Prince Laurent of Belgium,father,Q3911,Albert II of Belgium
+Belgium,Q700152,Prince Laurent of Belgium,mother,Q31129,Queen Paola of Belgium
+Belgium,Q700152,Prince Laurent of Belgium,sibling,Q155004,Philippe I of Belgium
+Belgium,Q700152,Prince Laurent of Belgium,sibling,Q170194,"Princess Astrid, Archduchess of Austria-Este"
+Belgium,Q700152,Prince Laurent of Belgium,sibling,Q432537,Princess Delphine of Belgium
+Belgium,Q700152,Prince Laurent of Belgium,spouse,Q272191,Princess Claire of Belgium
 Belgium,Q704126,Benoît Lutgen,father,Q2187430,Guy Lutgen
 Belgium,Q745188,Marleen Vanderpoorten,father,Q13725231,Herman Vanderpoorten
 Belgium,Q772642,Michel Daerden,child,Q1471482,Frédéric Daerden
