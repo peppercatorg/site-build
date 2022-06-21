@@ -2012,6 +2012,7 @@ Congo-Brazzaville,Q3022596,Denis-Christel Sassou Nguesso,father,Q57418,Denis Sas
 Congo-Brazzaville,Q3022596,Denis-Christel Sassou Nguesso,sibling,Q273791,Edith Lucie Bongo
 Congo-Brazzaville,Q3121597,Guy Brice Parfait Kolélas,father,Q767085,Bernard Kolélas
 Congo-Brazzaville,Q3121597,Guy Brice Parfait Kolélas,sibling,Q5409443,Euloge Landry Kolélas
+Congo-Brazzaville,Q3169789,Jean-Pierre Thystère Tchicaya,child,Q26689539,Jean-Marc Thystère-Tchicaya
 Congo-Brazzaville,Q3386379,Pierre Moussa,child,Q20817355,Fatima Beyina-Moussa
 Congo-Brazzaville,Q4686987,Adélaïde Moundélé-Ngollo,spouse,Q48245918,Benoît Moundélé-Ngollo
 Congo-Brazzaville,Q4686987,Adélaïde Moundélé-Ngollo,spouse,Q964762,Ange Diawara
@@ -2024,6 +2025,8 @@ Congo-Brazzaville,Q57418,Denis Sassou-Nguesso,child,Q3022596,Denis-Christel Sass
 Congo-Brazzaville,Q57418,Denis Sassou-Nguesso,spouse,Q58491100,Antoinette Sassou Nguesso
 Congo-Brazzaville,Q6169352,Jean-Jacques Bouya,relative,Q57418,Denis Sassou-Nguesso
 Congo-Brazzaville,Q6169940,Jean-Pierre Nonault,child,Q26254130,Arlette Soudan-Nonault
+Congo-Brazzaville,Q767085,Bernard Kolélas,child,Q3121597,Guy Brice Parfait Kolélas
+Congo-Brazzaville,Q767085,Bernard Kolélas,child,Q5409443,Euloge Landry Kolélas
 Congo-Kinshasa,Q104600997,Guy Loando Mboyo,father,Q104601569,Mboyo Loando Pierre
 Congo-Kinshasa,Q104600997,Guy Loando Mboyo,mother,Q104601534,Bompongo Mpetshi Marie
 Congo-Kinshasa,Q104600997,Guy Loando Mboyo,spouse,Q104601341,Déborah Linda Loando
