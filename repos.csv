@@ -42,6 +42,7 @@ Denmark,denmark,denmark-cabinet,https://www.thedanishparliament.dk/
 Djibouti,djibouti,djibouti-ministers,https://www.presidence.dj/
 Egypt,egypt,egypt-ministers,https://www.sis.gov.eg/
 El Salvador,el-salvador,el-salvador-ministers,
+Equatorial Guinea,equatorial-guinea,equatorial-guinea,
 Eritrea,eritrea,eritrea-ministers,
 Estonia,estonia,estonia-cabinet,https://www.valitsus.ee
 Ethiopia,ethiopia,ethiopia-ministers,https://www.ethiopia.gov.et/
@@ -137,6 +138,7 @@ South Africa,south-africa,south-africa-cabinet,https://www.parliament.gov.za/
 South Korea,south-korea,south-korea-ministers,https://www.korea.net/
 Spain,spain,spain-ministers,https://www.lamoncloa.gob.es/
 Sri Lanka,sri-lanka,sri-lanka-cabinet,http://www.cabinetoffice.gov.lk/
+Sudan,sudan,sudan,
 Sweden,sweden,sweden-cabinet,https://www.regeringen.se/
 Switzerland,switzerland,swiss-federal-council,https://www.admin.ch/
 Tajikistan,tajikistan,tajikistan-ministers,http://prezident.tj/
@@ -166,7 +168,6 @@ Burundi,burundi,burundi-ministers,
 Chad,chad,chad-ministers,
 Donetsk,donetsk,donetsk,
 Ecuador,ecuador,ecuador-ministers,
-Equatorial Guinea,equatorial-guinea,equatorial-guinea,
 Gabon,gabon,gabon-ministers,
 Ghana,ghana,ghana-ministers,
 Honduras,honduras,honduras-ministers,
@@ -174,7 +175,6 @@ Luhansk,luhansk,luhansk-ministers,
 Niger,niger,niger-ministers,
 Saudi Arabia,saudi-arabia,saudi-ministers,
 South Sudan,south-sudan,south-sudan,
-Sudan,sudan,sudan,
 Uganda,uganda,uganda-ministers,
 UAE,united-arab-emirates,uae-ministers,
 Vietnam,vietnam,vietnam,
