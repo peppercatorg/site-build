@@ -1,7 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Italy,member of the Senate,Giulio Andreotti,Q50005,1991-06-19,2013-05-06,male,1919-01-14,2013-05-06,Giulio Andreotti.jpg,Giulio Andreotti
 Italy,member of the Senate,Enrico Pelella,Q58881846,1992-04-23,2001-05-29,male,1942-10-30,2010-09-15,Enrico Pelella datisenato.jpg,
-Italy,member of the Senate,Anna Maria Bucciarelli,Q58911918,1992-04-23,2001-05-29,female,1949-04-18,,Anna Maria Bucciarelli Senato.jpg,
+Italy,member of the Senate,Anna Maria Bucciarelli,Q58911918,1992-04-23,2001-05-29,female,1949-04-18,,Anna Maria Bucciarelli Senato.jpg,Anna Maria Bucciarelli
 Italy,member of the Senate,Elia Manara,Q59361063,1992-04-23,2001-05-29,male,1929-02-11,,,
 Italy,member of the Senate,Luciano Lorenzi,Q58464373,1992-10-29,2001-05-29,male,1949-10-16,,,
 Italy,member of the Senate,Giuseppe Brienza,Q3770170,1994,2000,male,1938-12-20,2018-05-28,Brienza (cropped).jpg,
@@ -264,7 +264,7 @@ Italy,member of the Senate,Luciano Lorenzi,Q58464373,1996-05-09,2001-05-29,male,
 Italy,member of the Senate,Adriano Colla,Q58593318,1996-05-09,2001-05-29,male,1942-08-31,2002-03-28,,
 Italy,member of the Senate,Eugenio Mario Donise,Q58877776,1996-05-09,2001-05-29,male,1941-03-01,,,
 Italy,member of the Senate,Enrico Pelella,Q58881846,1996-05-09,2001-05-29,male,1942-10-30,2010-09-15,Enrico Pelella datisenato.jpg,
-Italy,member of the Senate,Anna Maria Bucciarelli,Q58911918,1996-05-09,2001-05-29,female,1949-04-18,,Anna Maria Bucciarelli Senato.jpg,
+Italy,member of the Senate,Anna Maria Bucciarelli,Q58911918,1996-05-09,2001-05-29,female,1949-04-18,,Anna Maria Bucciarelli Senato.jpg,Anna Maria Bucciarelli
 Italy,member of the Senate,Elia Manara,Q59361063,1996-05-09,2001-05-29,male,1929-02-11,,,
 Italy,member of the Senate,Giovanni Ferrante,Q60617583,1996-05-09,2001-05-29,male,1940-10-13,2012-07-17,Giovanni Ferrante datisenato.jpg,
 Italy,member of the Senate,Doriano Di Benedetto,Q60841163,1996-05-09,2001-05-29,male,1945-09-15,,,
@@ -297,6 +297,7 @@ Italy,member of the Senate,Arturo Mario Zambrino,Q18630677,2000-06-20,2001-05-29
 Italy,member of the Senate,Cosimo Izzo,Q3695121,2001,2013,male,1943-05-05,,Cosimo Izzo.jpg,
 Italy,member of the Senate,Giorgio Tonini,Q3765788,2001-05-14,2006-04-27,male,1959-01-05,,Giorgio Tonini.jpg,Giorgio Tonini
 Italy,member of the Senate,Lucio Malan,Q3838894,2001-05-14,2006-04-27,male,1960-07-30,,Lucio-Malan.png,Lucio Malan
+Italy,member of the Senate,Antonio Agogliati,Q112684407,2001-05-16,2006-04-27,male,1956-12-02,,Antonio Agogliati Senato.jpg,
 Italy,member of the Senate,Antonio Azzollini,Q3619202,2001-05-17,2006-04-27,male,1953-05-30,,Antonio Azzollini datisenato 2013.jpg,
 Italy,member of the Senate,Antonio Gentile,Q3619638,2001-05-17,2006-04-27,male,1950-04-08,,Antonio Gentile datisenato 2013.jpg,
 Italy,member of the Senate,Sergio Zavoli,Q3956341,2001-05-17,2006-04-27,male,1923-09-21,2020-08-04,Sergio Zavoli.jpg,Sergio Zavoli
@@ -313,6 +314,7 @@ Italy,member of the Senate,Renato Schifani,Q47589,2001-05-21,2006-04-27,male,195
 Italy,member of the Senate,Rossana Boldi,Q3941594,2001-05-22,2006-04-27,female,1953-04-05,,Rossana Boldi daticamera 2018.jpg,
 Italy,member of the Senate,Alberto Balboni,Q1122768,2001-05-23,2006-04-27,male,1959-06-19,,Alberto Balboni datisenato 2018.jpg,
 Italy,member of the Senate,Laura Bianconi,Q3827735,2001-05-23,2006-04-27,female,1960-05-28,,Laura Bianconi datisenato 2013.jpg,
+Italy,member of the Senate,Filadelfio Basile,Q24286983,2001-05-25,2006-04-27,male,1957-01-05,2010-12-10,Filadelfio Basile Senato.jpg,
 Italy,member of the Senate,Giuseppe Ruvolo,Q3771374,2001-05-26,2006-04-27,male,1951-05-03,,Giuseppe Ruvolo datisenato 2013.jpg,
 Italy,member of the Senate,Giacomo Archiutti,Q105403414,2001-05-30,2006-04-27,male,1941-07-25,,,
 Italy,member of the Senate,Donato Tommaso Veraldi,Q1073202,2001-05-30,2006-04-27,male,1941-01-12,,Donato Veraldi XIV legislatura.jpg,Donato Tommaso Veraldi
@@ -464,7 +466,7 @@ Italy,member of the Senate,Lanfranco Turci,Q3826862,2001-05-30,2006-04-27,male,1
 Italy,member of the Senate,Learco Saporito,Q3829277,2001-05-30,2006-04-27,male,1936-10-17,2016-04-30,Learco Saporito datisenato 2006.jpg,
 Italy,member of the Senate,Leopoldo Di Girolamo,Q3830689,2001-05-30,2006-04-27,male,1951-08-11,,Leopoldo Di Girolamo.jpg,Leopoldo Di Girolamo
 Italy,member of the Senate,Lino Jannuzzi,Q3833075,2001-05-30,2006-04-27,male,1928-02-20,,Lino Jannuzzi 2.jpg,Lino Jannuzzi
-Italy,member of the Senate,Livio Togni,Q3835643,2001-05-30,2006-04-27,male,1950-11-12,,,
+Italy,member of the Senate,Livio Togni,Q3835643,2001-05-30,2006-04-27,male,1950-11-12,,Livio Togni Senato.jpg,
 Italy,member of the Senate,Lodovico Pace,Q3836377,2001-05-30,2006-04-27,male,1949-04-25,,Lodovico Pace datisenato 2001.jpg,
 Italy,member of the Senate,Lorenzo Piccioni,Q3837044,2001-05-30,2006-04-27,male,1954-04-07,,,
 Italy,member of the Senate,Luciano Guerzoni,Q3838610,2001-05-30,2006-04-27,male,1935-07-28,2017-08-10,Luciano Guerzoni datisenato.jpg,Luciano Guerzoni (born 1935)
@@ -473,7 +475,7 @@ Italy,member of the Senate,Lucio Zappacosta,Q3838964,2001-05-30,2006-04-27,male,
 Italy,member of the Senate,Luigi Bobbio,Q3839350,2001-05-30,2006-04-27,male,1957-01-10,,Luigi Bobbio.jpg,
 Italy,member of the Senate,Luigi Caruso,Q3839455,2001-05-30,2006-04-27,male,1953-02-05,,,
 Italy,member of the Senate,Luigi Grillo,Q3839729,2001-05-30,2006-04-27,male,1943-04-18,,Luigi Grillo (XI).jpg,
-Italy,member of the Senate,Luigi Malabarba,Q3839809,2001-05-30,2006-04-27,male,1951-12-08,,,
+Italy,member of the Senate,Luigi Malabarba,Q3839809,2001-05-30,2006-04-27,male,1951-12-08,,Luigi Malabarba XIV.jpg,
 Italy,member of the Senate,Luigi Scotti,Q3840146,2001-05-30,2006-04-27,male,1936-01-19,2008-12-06,Luigi Scotti XIV.jpg,
 Italy,member of the Senate,Luigi Viviani,Q3840253,2001-05-30,2006-04-27,male,1937-10-22,,,Luigi Viviani
 Italy,member of the Senate,Marcello Basso,Q3845534,2001-05-30,2006-04-27,male,1952-09-15,,Marcello Basso senato.jpg,
@@ -806,7 +808,7 @@ Italy,member of the Senate,Lucio Stanca,Q3838943,2006-04-28,2008-04-28,male,1941
 Italy,member of the Senate,Luigi Bobba,Q3839347,2006-04-28,2008-04-28,male,1955-05-29,,Luigi Bobba daticamera.jpg,
 Italy,member of the Senate,Luigi Grillo,Q3839729,2006-04-28,2008-04-28,male,1943-04-18,,Luigi Grillo (XI).jpg,
 Italy,member of the Senate,Luigi Lusi,Q3839801,2006-04-28,2008-04-28,male,1961-11-25,,,Luigi Lusi
-Italy,member of the Senate,Luigi Malabarba,Q3839809,2006-04-28,2006-10-11,male,1951-12-08,,,
+Italy,member of the Senate,Luigi Malabarba,Q3839809,2006-04-28,2006-10-11,male,1951-12-08,,Luigi Malabarba XIV.jpg,
 Italy,member of the Senate,Luigi Pallaro,Q3839969,2006-04-28,2008-04-28,male,1926-06-27,2020-03-23,Luigi Pallaro.jpg,
 Italy,member of the Senate,Luigi Ramponi,Q3840070,2006-04-28,2008-04-28,male,1930-05-30,2017-05-05,Ramponi XVI.jpg,
 Italy,member of the Senate,Luigi Scotti,Q3840146,2006-04-28,2008-04-28,male,1936-01-19,2008-12-06,Luigi Scotti XIV.jpg,
@@ -1640,7 +1642,7 @@ Italy,member of the Senate,Rosellina Sbrana,Q55281563,2018-03-09,,female,1962-11
 Italy,member of the Senate,Giuseppe Pisani,Q55281696,2018-03-09,,male,1952-01-26,,Giuseppe Pisani datisenato 2018.jpg,
 Italy,member of the Senate,Francesco Mollame,Q55282109,2018-03-09,,male,1961-10-19,,Francesco Mollame datisenato 2018.jpg,
 Italy,member of the Senate,Mauro Coltorti,Q55471675,2018-03-09,,male,1954-12-12,,Mauro Coltorti datisenato 2018.jpg,
-Italy,member of the Senate,Maria Virginia Tiraboschi,Q58011453,2018-03-09,,female,1965-07-05,,Maria Virginia Tiraboschi datisenato 2013.jpg,
+Italy,member of the Senate,Maria Virginia Tiraboschi,Q58011453,2018-03-09,,female,1965-07-05,,Maria Virginia Tiraboschi datisenato 2013.jpg,Maria Virginia Tiraboschi
 Italy,member of the Senate,Albert Lanièce,Q6403175,2018-03-09,,male,1966-02-17,,Albert Laniece consultazioni Quirinale 2018.JPG,
 Italy,member of the Senate,Gaetano Nastri,Q7000506,2018-03-09,,male,1968-03-18,,Gaetano Nastri datisenato 2018.jpg,
 Italy,member of the Senate,Vittoria Bogo Deledda,Q87896486,2018-03-09,2020-03-17,female,1967-01-01,2020-03-17,Vittoria Francesca Maria Bogo Deledda datisenato 2018.jpg,Vittoria Bogo Deledda
@@ -2015,8 +2017,8 @@ Italy,member of the Chamber of Deputies,Gian Franco Schietroma,Q3762642,1996-04-
 Italy,member of the Chamber of Deputies,Gianfranco Conte,Q3763051,1996-04-26,2001-05-29,male,1952-12-19,,,
 Italy,member of the Chamber of Deputies,Giovanni De Murtas,Q3767110,1996-04-26,2000-04-01,male,1957-08-07,2000-04-01,De Murtas.JPG,
 Italy,member of the Chamber of Deputies,Giovanni Di Stasi,Q3767139,1996-04-26,2000-05-24,male,1950-04-27,,Giovanni Di Stasi daticamera 2006.jpg,
-Italy,member of the Chamber of Deputies,Giuseppe Aleffi,Q3769931,1996-04-26,2001-05-29,male,1939-08-13,,,
-Italy,member of the Chamber of Deputies,Giuseppe Amato,Q3769954,1996-04-26,2001-05-29,male,1941-10-31,,,
+Italy,member of the Chamber of Deputies,Giuseppe Aleffi,Q3769931,1996-04-26,2001-05-29,male,1939-08-13,,Giuseppe Aleffi XIII.jpg,
+Italy,member of the Chamber of Deputies,Giuseppe Amato,Q3769954,1996-04-26,2001-05-29,male,1941-10-31,,Giuseppe Amato XIV.jpg,
 Italy,member of the Chamber of Deputies,Giuseppe Detomas,Q3770460,1996-04-26,2001-05-29,male,1962-07-16,,Giuseppe Detomas.jpg,
 Italy,member of the Chamber of Deputies,Giuseppe Giulietti,Q3770696,1996-04-26,2001-05-29,male,1953-10-19,,Giuseppe Giulietti.jpg,Giuseppe Giulietti (politician)
 Italy,member of the Chamber of Deputies,Giuseppe Lumia,Q3770841,1996-04-26,2001-05-29,male,1960-06-28,,GiuseppeLumia RiberaSocialForum190211 4.jpg,Giuseppe Lumia
@@ -2045,7 +2047,7 @@ Italy,member of the Chamber of Deputies,Stefano Losurdo,Q3972562,1996-04-26,2001
 Italy,member of the Chamber of Deputies,Valerio Calzolaio,Q4007863,1996-04-26,2001-05-29,male,1956-10-08,,Valerio Calzolaio.jpg,
 Italy,member of the Chamber of Deputies,Vincenzo Fragalà,Q4013277,1996-04-26,2001-05-29,male,1948-08-03,2010-02-26,Enzo Fragalà XIV legislatura.jpg,
 Italy,member of the Chamber of Deputies,Vincenzo Zaccheo,Q4013586,1996-04-26,2001-05-29,male,1947-05-10,,Vincenzo Zaccheo.jpg,Vincenzo Zaccheo
-Italy,member of the Chamber of Deputies,Vittorio Tarditi,Q4015560,1996-04-26,2001-05-29,male,1939-07-11,,,
+Italy,member of the Chamber of Deputies,Vittorio Tarditi,Q4015560,1996-04-26,2001-05-29,male,1939-07-11,,Vittorio Tarditi XIII.jpg,
 Italy,member of the Chamber of Deputies,Vittorio Voglino,Q4015578,1996-04-26,2001-05-29,male,1945-02-18,,Vittorio Voglino dati camera.jpg,
 Italy,member of the Chamber of Deputies,Sergio Soave,Q50359695,1996-04-26,2001-05-29,male,1946-05-11,,Sergio Soave 1946.jpg,
 Italy,member of the Chamber of Deputies,Giacomo De Ghislanzoni Cardoli,Q50772494,1996-04-26,2001-05-29,male,1946-07-31,,,
@@ -2075,11 +2077,11 @@ Italy,member of the Chamber of Deputies,Claudio Scajola,Q1098169,1996-04-27,2001
 Italy,member of the Chamber of Deputies,Ugo Boghetta,Q17279890,1996-04-27,2001-05-29,male,1957-07-27,,Ugo Boghetta daticamera 1996.jpg,
 Italy,member of the Chamber of Deputies,Roberto Guerzoni,Q17375630,1996-04-27,2001-05-29,male,1954-05-09,,,
 Italy,member of the Chamber of Deputies,Salvatore Giacalone,Q19727835,1996-04-27,2001-05-29,male,1996-03-20,,,
-Italy,member of the Chamber of Deputies,Salvatore Biasco,Q21832775,1996-04-27,2001-05-29,male,1939-12-31,,,
+Italy,member of the Chamber of Deputies,Salvatore Biasco,Q21832775,1996-04-27,2001-05-29,male,1939-12-31,,Salvatore Biasco XIII.jpg,
 Italy,member of the Chamber of Deputies,Lino De Benetti,Q23691599,1996-04-27,2001-05-29,male,1939-01-29,,Lino De Benetti XIII legislatura.jpg,
 Italy,member of the Chamber of Deputies,Adriano Vignali,Q23834749,1996-04-27,2001-05-29,male,1941-08-03,,Adriano Vignali daticamera XIII.jpg,
 Italy,member of the Chamber of Deputies,Valter Bielli,Q26509642,1996-04-27,2001-05-29,male,1949-05-20,,Valter Bielli daticamera.jpg,
-Italy,member of the Chamber of Deputies,Paola Manzini,Q27078230,1996-04-27,2001-05-29,female,1955-04-03,2009-01-22,,
+Italy,member of the Chamber of Deputies,Paola Manzini,Q27078230,1996-04-27,2001-05-29,female,1955-04-03,2009-01-22,Paola Manzini XIV.jpg,
 Italy,member of the Chamber of Deputies,Roberto Di Rosa,Q28965095,1996-04-27,2001-05-29,male,1939-07-01,2010-05-14,Roberto Di Rosa.jpg,
 Italy,member of the Chamber of Deputies,Maura Camoirano,Q28966642,1996-04-27,2001-05-29,female,1950-04-18,2020-01-27,Maura Camoirano.jpg,
 Italy,member of the Chamber of Deputies,Giovanna Grignaffini,Q28966650,1996-04-27,2001-05-29,female,1949-08-20,,Giovanna Grignaffini.jpg,
@@ -2166,7 +2168,7 @@ Italy,member of the Chamber of Deputies,Angelo Santori,Q16526775,1996-04-29,2001
 Italy,member of the Chamber of Deputies,Giuseppe Palumbo,Q16560945,1996-04-29,2001-05-29,male,1940-10-26,,,
 Italy,member of the Chamber of Deputies,Guido Dussin,Q16562369,1996-04-29,2001-05-29,male,1959-04-28,,,
 Italy,member of the Chamber of Deputies,Ennio Parrelli,Q17399510,1996-04-29,2001-05-29,male,1924-11-12,2009-08-03,,
-Italy,member of the Chamber of Deputies,Paolo Becchetti,Q17453214,1996-04-29,2001-05-29,male,1941-02-01,2016-04-23,,
+Italy,member of the Chamber of Deputies,Paolo Becchetti,Q17453214,1996-04-29,2001-05-29,male,1941-02-01,2016-04-23,Paolo Becchetti XIII.jpg,
 Italy,member of the Chamber of Deputies,Andrea Guarino,Q17453257,1996-04-29,2001-05-29,male,1953-12-20,,Andrea Guarino XIII.jpg,
 Italy,member of the Chamber of Deputies,Demetrio Errigo,Q17628716,1996-04-29,2001-05-29,male,1943-11-22,,,
 Italy,member of the Chamber of Deputies,Luigi Saraceni,Q18224570,1996-04-29,2001-05-29,male,1937-08-08,,,
@@ -2222,7 +2224,7 @@ Italy,member of the Chamber of Deputies,Giorgio Pasetto,Q3765656,1996-04-29,2001
 Italy,member of the Chamber of Deputies,Giuseppe Covre,Q3770370,1996-04-29,2001-05-29,male,1950-04-03,2020-03-24,Giuseppe Covre.jpg,Giuseppe Covre
 Italy,member of the Chamber of Deputies,Giuseppe Soriero,Q3771468,1996-04-29,2001-05-29,male,1950-07-24,,MATERA foto G. SORIERO 5-6-2017.jpg,
 Italy,member of the Chamber of Deputies,Ilario Floresta,Q3796329,1996-04-29,2001-05-29,male,1941-02-02,,,
-Italy,member of the Chamber of Deputies,Luciano Dussin,Q3838571,1996-04-29,2001-05-29,male,1959-03-28,,,
+Italy,member of the Chamber of Deputies,Luciano Dussin,Q3838571,1996-04-29,2001-05-29,male,1959-03-28,,Luciano Dussin XIV.jpg,
 Italy,member of the Chamber of Deputies,Luigi Nocera,Q3839942,1996-04-29,2001-05-29,male,1955-02-14,,Luigi Nocera daticamera XIII.jpg,
 Italy,member of the Chamber of Deputies,Luisa De Biasio Calimani,Q3840445,1996-04-29,2001-05-29,female,1939-03-30,,,
 Italy,member of the Chamber of Deputies,Marcella Lucidi,Q3845503,1996-04-29,2001-05-29,female,1963-12-17,,Marcella Lucidi.jpg,
@@ -2235,7 +2237,7 @@ Italy,member of the Chamber of Deputies,Massimo Scalia,Q3851462,1996-04-29,2001-
 Italy,member of the Chamber of Deputies,Mauro Cutrufo,Q3852806,1996-04-29,2001-05-29,male,1956-09-09,,Mauro Cutrufo.jpg,
 Italy,member of the Chamber of Deputies,Nicola Bono,Q3876133,1996-04-29,2001-05-29,male,1952-10-09,,Nicola Bono.jpg,
 Italy,member of the Chamber of Deputies,Nuccio Carrara,Q3879198,1996-04-29,2001-05-29,male,1950-09-02,,,
-Italy,member of the Chamber of Deputies,Paolo Bampo,Q3893735,1996-04-29,2001-05-29,male,1955-04-23,,,
+Italy,member of the Chamber of Deputies,Paolo Bampo,Q3893735,1996-04-29,2001-05-29,male,1955-04-23,,Paolo Bampo XIII.jpg,
 Italy,member of the Chamber of Deputies,Paolo Cento,Q3893889,1996-04-29,2001-05-29,male,1962-07-10,,Paolo Cento.jpg,Paolo Cento
 Italy,member of the Chamber of Deputies,Paolo Palma,Q3894326,1996-04-29,2001-05-29,male,1952-05-30,,,
 Italy,member of the Chamber of Deputies,Pieralfonso Fratta Pasini,Q3902973,1996-04-29,2001-05-29,male,1959-02-02,,,
@@ -2265,7 +2267,7 @@ Italy,member of the Chamber of Deputies,Luciano Caveri,Q684295,1996-04-29,2001-0
 Italy,member of the Chamber of Deputies,Piero Ruzzante,Q7191922,1996-04-29,2001-05-29,male,1963-06-11,,,Piero Ruzzante
 Italy,member of the Chamber of Deputies,Francesco Storace,Q731150,1996-04-29,2000-05-30,male,1959-01-25,,Francesco Storace.jpg,Francesco Storace
 Italy,member of the Chamber of Deputies,Armando Veneto,Q761792,1996-04-29,2001-05-29,male,1935-11-14,,Armando Veneto.jpg,Armando Veneto
-Italy,member of the Chamber of Deputies,Luigino Vascon,Q81738028,1996-04-29,2001-05-29,male,1956-10-13,,,
+Italy,member of the Chamber of Deputies,Luigino Vascon,Q81738028,1996-04-29,2001-05-29,male,1956-10-13,2022-06-19,,Luigino Vascon
 Italy,member of the Chamber of Deputies,Andrea Gissi,Q110796924,1996-05-01,2001-05-29,male,1942-03-04,,,
 Italy,member of the Chamber of Deputies,Fedele Pampo,Q110801111,1996-05-01,2001-05-29,male,1938-11-06,,,
 Italy,member of the Chamber of Deputies,Michele Ricci,Q110813641,1996-05-01,2001-05-29,male,1939-01-16,,,
@@ -2378,7 +2380,7 @@ Italy,member of the Chamber of Deputies,Antonio Di Bisceglie,Q17600727,1996-05-0
 Italy,member of the Chamber of Deputies,Edo Rossi,Q17629266,1996-05-06,2001-05-29,male,1951-04-02,,,
 Italy,member of the Chamber of Deputies,Marida Bolognesi,Q17636199,1996-05-06,2001-05-29,female,1952-09-18,,Marida Bolognesi daticamera.jpg,
 Italy,member of the Chamber of Deputies,Maurizio Balocchi,Q1825240,1996-05-06,2001-05-29,male,1942-11-24,2010-02-15,Maurizio Balocchi daticamera 2008.jpg,
-Italy,member of the Chamber of Deputies,Paolo Armaroli,Q18811751,1996-05-06,2001-05-29,male,1940-10-17,,,
+Italy,member of the Chamber of Deputies,Paolo Armaroli,Q18811751,1996-05-06,2001-05-29,male,1940-10-17,,Paolo Armaroli XIII.jpg,
 Italy,member of the Chamber of Deputies,Gabriella Pistone,Q19727863,1996-05-06,2001-05-29,female,1951-07-29,,,
 Italy,member of the Chamber of Deputies,Giovanni Meloni,Q20081330,1996-05-06,2001-05-29,male,1942-03-15,,,
 Italy,member of the Chamber of Deputies,Luca Antonio Cangemi,Q20204266,1996-05-06,2001-05-29,male,1966-06-13,,Luca Cangemi.jpg,
@@ -2461,7 +2463,7 @@ Italy,member of the Chamber of Deputies,Pasquale Giuliano,Q3897059,1996-05-07,20
 Italy,member of the Chamber of Deputies,Giovanni Pilo,Q56706784,1996-05-07,2001-05-29,male,1954-09-03,,,
 Italy,member of the Chamber of Deputies,Franco Chiusoli,Q66372426,1996-05-07,2001-05-29,male,1946-10-05,,Franco Chiusoli daticamera XIII.jpg,
 Italy,member of the Chamber of Deputies,Francesca Izzo,Q91463718,1996-05-07,2001-05-29,female,1948-07-10,,,
-Italy,member of the Chamber of Deputies,Argia Valeria Albanese,Q101439107,1996-05-09,2001-05-29,female,1960-08-05,,,
+Italy,member of the Chamber of Deputies,Argia Valeria Albanese,Q101439107,1996-05-09,2001-05-29,female,1960-08-05,,Argia Valeria Albanese XIII.jpg,
 Italy,member of the Chamber of Deputies,Francesco Formenti,Q106097487,1996-05-09,2001-05-29,male,1947-01-09,2021-03-13,,
 Italy,member of the Chamber of Deputies,Vincenzo Cerulli Irelli,Q106641227,1996-05-09,2001-05-29,male,1947-03-28,,Vincenzo Cerulli Irelli (1947).jpg,
 Italy,member of the Chamber of Deputies,Giuseppe Alveti,Q107428531,1996-05-09,2001-05-29,male,1948-07-15,,Giuseppe Alveti XIII legislatura.jpg,
@@ -2513,7 +2515,7 @@ Italy,member of the Chamber of Deputies,Mauro Guerra,Q3852840,1996-05-09,2001-05
 Italy,member of the Chamber of Deputies,Paolo Scarpa Bonazza Buora,Q3894457,1996-05-09,2001-05-29,male,1957-10-01,,Paolo Scarpa Bonazza Buora.jpg,
 Italy,member of the Chamber of Deputies,Salvatore Cardinale,Q3946001,1996-05-09,2001-05-29,male,1948-06-20,,Salvatore Cardinale (XV).jpg,Salvatore Cardinale
 Italy,member of the Chamber of Deputies,Walter De Cesaris,Q4017901,1996-05-09,2001-05-29,male,1953-09-25,,,
-Italy,member of the Chamber of Deputies,Alessandro Bergamo,Q55833304,1996-05-09,2001-05-29,male,1951-01-06,,,
+Italy,member of the Chamber of Deputies,Alessandro Bergamo,Q55833304,1996-05-09,2001-05-29,male,1951-01-06,,Alessandro Bergamo XIII.jpg,
 Italy,member of the Chamber of Deputies,Marcello Dell'Utri,Q558815,1996-05-09,2001-05-29,male,1941-09-11,,Marcello Dell'Utri 1.jpg,Marcello Dell'Utri
 Italy,member of the Chamber of Deputies,Osvaldo Scrivani,Q58336439,1996-05-09,2001-05-29,male,1946-03-31,,,
 Italy,member of the Chamber of Deputies,Roberto Villetti,Q586973,1996-05-09,2001-05-29,male,1944-08-24,2019-09-14,,Roberto Villetti
@@ -2579,7 +2581,7 @@ Italy,member of the Chamber of Deputies,Raffaello De Brasi,Q16594302,2001-05-18,
 Italy,member of the Chamber of Deputies,Rosella Ottone,Q16598731,2001-05-18,2006-04-27,female,1948-03-04,2011-11-14,,
 Italy,member of the Chamber of Deputies,Roberto Guerzoni,Q17375630,2001-05-18,2006-04-27,male,1954-05-09,,,
 Italy,member of the Chamber of Deputies,Valter Bielli,Q26509642,2001-05-18,2006-04-27,male,1949-05-20,,Valter Bielli daticamera.jpg,
-Italy,member of the Chamber of Deputies,Paola Manzini,Q27078230,2001-05-18,2006-04-27,female,1955-04-03,2009-01-22,,
+Italy,member of the Chamber of Deputies,Paola Manzini,Q27078230,2001-05-18,2006-04-27,female,1955-04-03,2009-01-22,Paola Manzini XIV.jpg,
 Italy,member of the Chamber of Deputies,Giovanna Grignaffini,Q28966650,2001-05-18,2006-04-27,female,1949-08-20,,Giovanna Grignaffini.jpg,
 Italy,member of the Chamber of Deputies,Katia Bellillo,Q3194123,2001-05-18,2006-04-27,female,1951-02-17,,KatiaBellillo.jpg,Katia Bellillo
 Italy,member of the Chamber of Deputies,Alfiero Grandi,Q3611084,2001-05-18,2006-04-27,male,1944-07-24,,Alfiero Grandi.jpg,
@@ -2628,7 +2630,7 @@ Italy,member of the Chamber of Deputies,Filippo Mancuso,Q3745246,2001-05-19,2006
 Italy,member of the Chamber of Deputies,Filippo Misuraca,Q3745275,2001-05-19,2006-04-27,male,1951-03-25,,,
 Italy,member of the Chamber of Deputies,Gaspare Giudice,Q3758655,2001-05-19,2006-04-27,male,1943-03-04,2009-04-28,,
 Italy,member of the Chamber of Deputies,Gian Franco Anedda,Q3762638,2001-05-19,2006-04-27,male,1930-08-28,2020-07-17,Gian Franco Anedda.jpg,Gian Franco Anedda
-Italy,member of the Chamber of Deputies,Giuseppe Amato,Q3769954,2001-05-19,2006-04-27,male,1941-10-31,,,
+Italy,member of the Chamber of Deputies,Giuseppe Amato,Q3769954,2001-05-19,2006-04-27,male,1941-10-31,,Giuseppe Amato XIV.jpg,
 Italy,member of the Chamber of Deputies,Giuseppe Fallica,Q3770513,2001-05-19,2006-04-27,male,1952-02-07,,,
 Italy,member of the Chamber of Deputies,Giuseppe Marinello,Q3770934,2001-05-19,2006-04-27,male,1958-11-20,,Giuseppe Marinello datisenato 2013.jpg,
 Italy,member of the Chamber of Deputies,Giuseppe Scalia,Q3771419,2001-05-19,2006-04-27,male,1962-05-06,,,
@@ -2807,7 +2809,7 @@ Italy,member of the Chamber of Deputies,Giovanni Didonè,Q80013530,2001-05-21,20
 Italy,member of the Chamber of Deputies,Giuseppe Geraci,Q80321782,2001-05-21,2006-04-27,male,1948-08-29,,,
 Italy,member of the Chamber of Deputies,Francesco Maione,Q80358731,2001-05-21,2006-04-27,male,1963-12-18,,,
 Italy,member of the Chamber of Deputies,Italico Perlini,Q81158392,2001-05-21,2006-04-27,male,1943-08-14,,,
-Italy,member of the Chamber of Deputies,Luigino Vascon,Q81738028,2001-05-21,2006-04-27,male,1956-10-13,,,
+Italy,member of the Chamber of Deputies,Luigino Vascon,Q81738028,2001-05-21,2006-04-27,male,1956-10-13,2022-06-19,,Luigino Vascon
 Italy,member of the Chamber of Deputies,Giuseppe Gallo,Q81738920,2001-05-21,2006-04-27,male,1950-06-12,,,
 Italy,member of the Chamber of Deputies,Giuseppe Camo,Q84259164,2001-05-21,2006-04-27,male,1943-08-04,,,
 Italy,member of the Chamber of Deputies,Angelo Bottino,Q84259677,2001-05-21,2006-04-27,male,1948-08-25,,,
@@ -2856,7 +2858,7 @@ Italy,member of the Chamber of Deputies,Giuseppe Gambale,Q3770628,2001-05-22,200
 Italy,member of the Chamber of Deputies,Gustavo Selva,Q3779986,2001-05-22,2006-04-27,male,1926-08-10,2015-03-16,GUSTAVOSELVA1.jpg,Gustavo Selva
 Italy,member of the Chamber of Deputies,Laura Pennacchi,Q3827827,2001-05-22,2006-04-27,female,1948-07-09,,Laura Pennacchi.jpg,
 Italy,member of the Chamber of Deputies,Luana Zanella,Q3837950,2001-05-22,2006-04-27,female,1950-10-04,,,
-Italy,member of the Chamber of Deputies,Luciano Dussin,Q3838571,2001-05-22,2006-04-27,male,1959-03-28,,,
+Italy,member of the Chamber of Deputies,Luciano Dussin,Q3838571,2001-05-22,2006-04-27,male,1959-03-28,,Luciano Dussin XIV.jpg,
 Italy,member of the Chamber of Deputies,Luigi D'Agrò,Q3839544,2001-05-22,2006-04-27,male,1948-04-13,,,
 Italy,member of the Chamber of Deputies,Luigi Ramponi,Q3840070,2001-05-22,2006-04-27,male,1930-05-30,2017-05-05,Ramponi XVI.jpg,
 Italy,member of the Chamber of Deputies,Marcello Taglialatela,Q3845695,2001-05-22,2006-04-27,male,1955-11-29,,Marcello Taglialatela daticamera.jpg,
@@ -2951,7 +2953,7 @@ Italy,member of the Chamber of Deputies,Teodoro Buontempo,Q3983873,2001-05-23,20
 Italy,member of the Chamber of Deputies,Teresio Delfino,Q3984328,2001-05-23,2006-04-27,male,1949-08-04,,Teresio Delfino.jpg,
 Italy,member of the Chamber of Deputies,Valter Zanetta,Q4008361,2001-05-23,2006-04-27,male,1951-04-11,,,
 Italy,member of the Chamber of Deputies,Vittorio Messa,Q4015443,2001-05-23,2006-04-27,male,1951-10-21,,,
-Italy,member of the Chamber of Deputies,Vittorio Tarditi,Q4015560,2001-05-23,2006-04-27,male,1939-07-11,,,
+Italy,member of the Chamber of Deputies,Vittorio Tarditi,Q4015560,2001-05-23,2006-04-27,male,1939-07-11,,Vittorio Tarditi XIII.jpg,
 Italy,member of the Chamber of Deputies,Walter Tocci,Q4018027,2001-05-23,2006-04-27,male,1952-09-26,,Walter Tocci datisenato 2013.jpg,
 Italy,member of the Chamber of Deputies,Mario Baccini,Q431003,2001-05-23,2006-04-27,male,1957-12-14,,Mario Baccini deputato.jpg,Mario Baccini
 Italy,member of the Chamber of Deputies,Livia Turco,Q446016,2001-05-23,2006-04-27,female,1955-02-13,,Livia Turco 2013.jpg,Livia Turco
@@ -4289,7 +4291,7 @@ Italy,member of the Chamber of Deputies,Lanfranco Tenaglia,Q3826859,2008-04-23,2
 Italy,member of the Chamber of Deputies,Laura Froner,Q3827772,2008-04-23,2013-03-14,female,1960-11-30,,,
 Italy,member of the Chamber of Deputies,Lella Golfo,Q3830086,2008-04-23,2013-03-14,female,1941-05-18,,,
 Italy,member of the Chamber of Deputies,Letizia De Torre,Q3831056,2008-04-23,2013-03-14,female,1954-08-18,,,
-Italy,member of the Chamber of Deputies,Luciano Dussin,Q3838571,2008-04-23,2011-12-14,male,1959-03-28,,,
+Italy,member of the Chamber of Deputies,Luciano Dussin,Q3838571,2008-04-23,2011-12-14,male,1959-03-28,,Luciano Dussin XIV.jpg,
 Italy,member of the Chamber of Deputies,Luigi Lazzari,Q3839770,2008-04-23,2013-03-14,male,1949-08-26,,,
 Italy,member of the Chamber of Deputies,Luigi Vitali,Q3840248,2008-04-23,2013-03-14,male,1955-01-02,,Luigi Vitali datisenato 2018.jpg,
 Italy,member of the Chamber of Deputies,Marco Causi,Q3845998,2008-04-23,2013-03-14,male,1956-10-15,,Marco Causi daticamera.jpg,
@@ -5977,7 +5979,7 @@ Italy,member of the Sicilian Regional Assembly,Francesco Musotto,Q547449,2008-05
 Italy,member of the Sicilian Regional Assembly,Raffaele Lombardo,Q559513,2008-05-22,2012-05-09,male,1950-10-29,,Raffaelelombardo.jpg,Raffaele Lombardo
 Italy,member of the Sicilian Regional Assembly,Rosario Crocetta,Q923794,2012-05-12,2017-09-19,male,1951-02-08,,Rosario Crocetta2012.jpg,Rosario Crocetta
 Italy,member of the Sicilian Regional Assembly,Nello Musumeci,Q2002390,2012-10-28,2017-09-19,male,1955-01-21,,Nello Musumeci stampa estera.jpg,Nello Musumeci
-Italy,member of the Sicilian Regional Assembly,Roberto Lagalla,Q111307351,2017,,male,1955-04-16,,,Roberto Lagalla
+Italy,member of the Sicilian Regional Assembly,Roberto Lagalla,Q111307351,2017-12-15,,male,1955-04-16,,,Roberto Lagalla
 Italy,member of the Regional Council of Tuscany,Enzo Brogi,Q107975862,2005-04-27,2010-03-30,male,1952-05-24,,,
 Italy,member of the Regional Council of Tuscany,Alessia Ballini,Q107095459,2010-04-16,2011-02-02,female,1969-06-11,2011-02-02,,
 Italy,member of the Regional Council of Tuscany,Enzo Brogi,Q107975862,2010-04-16,2015-06-17,male,1952-05-24,,,
@@ -6079,7 +6081,7 @@ Italy,Senator for life,Carlo Bo,Q1041908,1984-07-18,2001-07-21,male,1911-01-25,2
 Italy,Senator for life,Norberto Bobbio,Q332693,1984-07-18,2004-01-09,male,1909-10-18,2004-01-09,Norberto bobbio.jpg,Norberto Bobbio
 Italy,Senator for life,Paolo Emilio Taviani,Q1379277,1991-06-01,2001-06-18,male,1912-11-06,2001-06-18,Taviani Paolo Emilio 820629 Rome.jpg,Paolo Emilio Taviani
 Italy,Senator for life,Francesco De Martino,Q1379919,1991-06-01,2002-11-18,male,1907-05-31,2002-11-18,Francesco De Martino 1995 - Augusto De Luca photographer.jpg,Francesco De Martino
-Italy,Senator for life,Gianni Agnelli,Q356351,1991-06-01,2003-01-24,male,1921-03-12,2003-01-24,Gianni Agnelli 01.jpg,Gianni Agnelli
+Italy,Senator for life,Gianni Agnelli,Q356351,1991-06-01,2003-01-24,male,1921-03-12,2003-01-24,Giovanni Agnelli portrait.jpg,Gianni Agnelli
 Italy,Senator for life,Giulio Andreotti,Q50005,1991-06-01,2013-05-06,male,1919-01-14,2013-05-06,Giulio Andreotti.jpg,Giulio Andreotti
 Italy,Senator for life,Francesco Cossiga,Q1230,1992-04-28,2010-08-17,male,1928-07-26,2010-08-17,Cossiga Francesco.jpg,Francesco Cossiga
 Italy,Senator for life,Oscar Luigi Scalfaro,Q1228,1999-05-15,2012-01-29,male,1918-09-09,2012-01-29,Oscar Luigi Scalfaro portrait.jpg,Oscar Luigi Scalfaro

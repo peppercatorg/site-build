@@ -5,7 +5,7 @@ Russia,Q103813305,Konstantin Sevenard,father,Q15081060,Yury Sevenard
 Russia,Q105105146,Marina Rogachyova,father,Q1143350,Yegor Stroyev
 Russia,Q106274168,Andrey Anikeev,relative,Q4066230,Grigory Anikeyev
 Russia,Q106734231,Larisa Ponomaryova,child,Q4371978,Ilya Ponomarev
-Russia,Q106734231,Larisa Ponomaryova,spouse,Q70248527,"Пономарёв, Владимир Николаевич"
+Russia,Q106734231,Larisa Ponomaryova,spouse,Q70248527,Владимир Николаевич Пономарёв
 Russia,Q108040998,Andrey Artyukhov,child,Q55105854,Dmitry Artyukhov
 Russia,Q108684903,Anton Krasnoshtanov,father,Q60220292,Aleksey Krasnoshtanov
 Russia,Q108685717,Andrey Trifonov,sibling,Q112625085,Sergey Trifonov
@@ -187,7 +187,8 @@ Russia,Q43231501,Anna Kuvychko,spouse,Q57913764,Роланд Тамазович 
 Russia,Q4364960,Aleksandr Pleshakov,father,Q4364962,Pyotr Pleshakov
 Russia,Q4364960,Aleksandr Pleshakov,mother,Q4066788,Tatiana Anodina
 Russia,Q4364960,Aleksandr Pleshakov,spouse,Q4364964,Olga Pleshakova
-Russia,Q4371978,Ilya Ponomarev,father,Q70248527,"Пономарёв, Владимир Николаевич"
+Russia,Q4371978,Ilya Ponomarev,father,Q70248527,Владимир Николаевич Пономарёв
+Russia,Q4371978,Ilya Ponomarev,mother,Q106734231,Larisa Ponomaryova
 Russia,Q4375286,Alexander Pochinok,spouse,Q21154097,Natalya Pochinok
 Russia,Q4391661,Yevgeny Revenko,spouse,Q4263452,Elizaveta Listova
 Russia,Q4395840,,child,Q54492812,Inna Svyatenko
