@@ -1,4 +1,6 @@
 catalog,id,name,relationship,relative,relativename
+South Sudan,Q104687952,Abuk Payiti Ayik,spouse,Q11995405,Peter Adwok Nyaba
+South Sudan,Q11995405,Peter Adwok Nyaba,spouse,Q104687952,Abuk Payiti Ayik
 South Sudan,Q167444,John Garang,child,Q61993413,Akuol de Mabior
 South Sudan,Q167444,John Garang,spouse,Q3379134,Rebecca Nyandeng De Mabior
 South Sudan,Q3379134,Rebecca Nyandeng De Mabior,child,Q61993413,Akuol de Mabior

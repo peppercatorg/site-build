@@ -1,4 +1,6 @@
 catalog,id,name,relationship,relative,relativename
+Sudan,Q104687952,Abuk Payiti Ayik,spouse,Q11995405,Peter Adwok Nyaba
+Sudan,Q11995405,Peter Adwok Nyaba,spouse,Q104687952,Abuk Payiti Ayik
 Sudan,Q167444,John Garang,child,Q61993413,Akuol de Mabior
 Sudan,Q167444,John Garang,spouse,Q3379134,Rebecca Nyandeng De Mabior
 Sudan,Q20635399,Gibril Ibrahim,sibling,Q943027,Khalil Ibrahim
