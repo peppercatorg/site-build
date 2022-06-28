@@ -172,6 +172,9 @@ Japan,Q315579,Toshiki Kaifu,child,Q11559328,Masaki Kaifu
 Japan,Q315579,Toshiki Kaifu,relative,Q202164,Makoto Kobayashi
 Japan,Q315579,Toshiki Kaifu,relative,Q27920921,Kaifu Kōzō
 Japan,Q315579,Toshiki Kaifu,relative,Q9306955,Norio Kaifu
+Japan,Q315720,Tsutomu Hata,child,Q259722,Yuichiro Hata
+Japan,Q315720,Tsutomu Hata,child,Q41805280,Jirō Hata
+Japan,Q315720,Tsutomu Hata,father,Q11610314,Bushirō Hata
 Japan,Q3251843,Tsuneharu Takeda,father,Q850920,Prince Tsuneyoshi Takeda
 Japan,Q3251843,Tsuneharu Takeda,mother,Q15103558,Princess Tsuneyoshi Mitsuko
 Japan,Q3251843,Tsuneharu Takeda,sibling,Q11599337,Prince Takeda Tsunetada
@@ -304,6 +307,8 @@ Japan,Q7678527,Taku Etō,father,Q7677143,Takami Eto
 Japan,Q7678536,Taku Ōtsuka,spouse,Q7680979,Tamayo Marukawa
 Japan,Q7678543,Taku Yamamoto,spouse,Q1705028,Sanae Takaichi
 Japan,Q7680979,Tamayo Marukawa,spouse,Q7678536,Taku Ōtsuka
+Japan,Q7706881,Tetsuma Esaki,father,Q5632437,Masumi Esaki
+Japan,Q7706881,Tetsuma Esaki,sibling,Q8054513,Yoichiro Esaki
 Japan,Q777936,Kunio Hatoyama,child,Q17219387,Jirō Hatoyama
 Japan,Q777936,Kunio Hatoyama,child,Q2394829,Tarō Hatoyama
 Japan,Q777936,Kunio Hatoyama,father,Q1155062,Iichirō Hatoyama

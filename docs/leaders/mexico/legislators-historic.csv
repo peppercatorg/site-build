@@ -72,7 +72,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,César Lonche Castellanos,Q11
 Mexico,Member of the Chamber of Deputies of Mexico,Daría Divina Cruz Guillén,Q111523450,1997-09-01,2000-08-31,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,David Dávila Domínguez,Q111523451,1997-09-01,2000-08-31,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,David Miguel Noyola Martínez,Q111523452,1997-09-01,2000-08-31,,,,,
-Mexico,Member of the Chamber of Deputies of Mexico,David Ricardo Cervantes Peredo,Q111523453,1997-09-01,2000-08-31,,,,,
+Mexico,Member of the Chamber of Deputies of Mexico,David Ricardo Cervantes Peredo,Q111523453,1997-09-01,2000-08-31,male,1959-11-08,2022-06-18,,David Cervantes Peredo
 Mexico,Member of the Chamber of Deputies of Mexico,Domingo Yorio Saqui,Q111523454,1997-09-01,2000-08-31,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Edgar Martín Ramírez Pech,Q111523455,1997-09-01,2000-08-31,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Eduardo Guadalupe Bernal Martínez,Q111523456,1997-09-01,2000-08-31,,,,,
@@ -1122,7 +1122,6 @@ Mexico,Member of the Chamber of Deputies of Mexico,María Guadalupe Morales Rubi
 Mexico,Member of the Chamber of Deputies of Mexico,María Guadalupe Suárez Ponce,Q111522038,2003-09-01,2006-08-30,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,María Viola Corella Manzanilla,Q111522039,2003-09-01,2006-08-30,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,María de la Luz Arias Staines,Q111522040,2003-09-01,2006-08-30,,,,,
-Mexico,Member of the Chamber of Deputies of Mexico,María del Carmen Escudero Fraire,Q111522041,2003-09-01,2006-08-30,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,María del Consuelo Rodríguez de Alba,Q111522042,2003-09-01,2006-08-30,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Modesta Vázquez Vázquez,Q111522043,2003-09-01,2006-08-30,,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Myriam Arabian Couttolenc,Q111522044,2003-09-01,2006-08-30,,,,,
@@ -1354,6 +1353,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,Rodrigo Iván Cortés Jiméne
 Mexico,Member of the Chamber of Deputies of Mexico,Tomás Cruz Martínez,Q17465858,2003-09-01,2006-08-30,male,1959-12-21,,,Tomás Cruz Martínez
 Mexico,Member of the Chamber of Deputies of Mexico,Felipe de Jesús Díaz González,Q17465913,2003-09-01,2006-08-30,male,1965-02-09,,,Felipe de Jesús Díaz González
 Mexico,Member of the Chamber of Deputies of Mexico,Homero Díaz Rodríguez,Q17489596,2003-09-01,2006-08-30,male,1959-04-02,,,Homero Díaz Rodríguez
+Mexico,Member of the Chamber of Deputies of Mexico,María del Carmen Escudero,Q18098152,2003-09-01,2006-08-30,female,1969-07-25,,,María del Carmen Escudero
 Mexico,Member of the Chamber of Deputies of Mexico,Luis Eduardo Espinosa Pérez,Q18098156,2003-09-01,2006-08-30,male,1956-06-27,,,Luis Eduardo Espinosa Pérez
 Mexico,Member of the Chamber of Deputies of Mexico,José García Ortíz,Q18131856,2003-09-01,2006-08-30,male,1949-03-24,2012-06-26,,José García Ortiz
 Mexico,Member of the Chamber of Deputies of Mexico,Rafael Galindo Jaime,Q18151345,2003-09-01,2006-08-30,male,1952-12-18,,,Rafael Galindo Jaime
@@ -2610,7 +2610,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,Sergio Tolento Hernández,Q61
 Mexico,Member of the Chamber of Deputies of Mexico,Sofía Castro Ríos,Q6131243,2009-09-01,2012-08-31,female,1970-09-18,,Sofía castro ríos en el congreso de la unión .jpg,Sofía Castro Ríos
 Mexico,Member of the Chamber of Deputies of Mexico,Sofío Ramírez Hernández,Q6131288,2009-09-01,2012-08-31,male,1967-06-27,,Sofío Ramírez-06 de septiembre 2012.jpg,Sofío Ramírez Hernández
 Mexico,Member of the Chamber of Deputies of Mexico,Sonia Mendoza Díaz,Q6132227,2009-09-01,2012-08-31,female,1969-02-22,,Sonia Mendoza Díaz Oficial.jpg,Sonia Mendoza Díaz
-Mexico,Member of the Chamber of Deputies of Mexico,Vidal Llerenas,Q6161703,2009-09-01,2012-08-31,male,1972-02-02,,,Vidal Llerenas Morales
+Mexico,Member of the Chamber of Deputies of Mexico,Vidal Llerenas,Q6161703,2009-09-01,2012-08-31,male,1972-02-02,,Vidal Llerenas Morales.jpg,Vidal Llerenas Morales
 Mexico,Member of the Chamber of Deputies of Mexico,Víctor Hugo Círigo Vázquez,Q6165532,2009-09-01,2012-08-31,male,1953-04-08,,,Víctor Hugo Círigo Vázquez
 Mexico,Member of the Chamber of Deputies of Mexico,Víctor Manuel Castro Cosío,Q6165612,2009-09-01,2012-08-31,male,1955-06-14,,Senador Victor Manuel Castro Cosio (cropped).jpg,Víctor Manuel Castro Cosío
 Mexico,Member of the Chamber of Deputies of Mexico,Óscar González Yáñez,Q6174808,2009-09-01,2012-08-31,male,1964-10-06,,ÓSCAR GONZÁLEZ YÁÑEZ.jpg,Óscar González Yáñez
@@ -3704,7 +3704,7 @@ Mexico,Member of the Chamber of Deputies of Mexico,Raúl Domínguez Rex,Q6101149
 Mexico,Member of the Chamber of Deputies of Mexico,Jackie Nava,Q6116565,2015-09-01,2018-08-31,female,1980-04-11,,Jackie Nava 2018.jpg,Jackie Nava
 Mexico,Member of the Chamber of Deputies of Mexico,Tristán Canales,Q6152903,2015-09-01,2018-08-31,male,,,,
 Mexico,Member of the Chamber of Deputies of Mexico,Ulises Ramírez Núñez,Q6155299,2015-09-01,2018-08-31,male,1967-10-02,,Ulises ramirez wikipedia01.jpg,Ulises Ramírez Núñez
-Mexico,Member of the Chamber of Deputies of Mexico,Vidal Llerenas,Q6161703,2015-09-01,2018-08-31,male,1972-02-02,,,Vidal Llerenas Morales
+Mexico,Member of the Chamber of Deputies of Mexico,Vidal Llerenas,Q6161703,2015-09-01,2018-08-31,male,1972-02-02,,Vidal Llerenas Morales.jpg,Vidal Llerenas Morales
 Mexico,Member of the Chamber of Deputies of Mexico,Alejandro Armenta Mier,Q61654623,2015-09-01,2018-08-31,male,1969,,Alejandro Armenta Mier (cropped).jpg,
 Mexico,Member of the Chamber of Deputies of Mexico,Sasil de León Villard,Q62088154,2015-09-01,2018-08-31,female,,,Senadora Sasil de León Villard en el pleno.jpg,
 Mexico,Member of the Chamber of Deputies of Mexico,Jorge Ramos Hernández,Q6278536,2015-09-01,2018-08-31,male,1968-07-11,,,Jorge Ramos Hernández

@@ -41,6 +41,9 @@ Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q432537,P
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q700152,Prince Laurent of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",spouse,Q379479,"Prince Lorenz, Archduke of Austria-Este"
 Belgium,Q17149643,Valerie Van Peel,sibling,Q1922743,Michael Van Peel
+Belgium,Q17350697,Pierre Kompany,child,Q201381,Vincent Kompany
+Belgium,Q17350697,Pierre Kompany,child,Q2995528,François Kompany
+Belgium,Q17350697,Pierre Kompany,child,Q65099847,Christel
 Belgium,Q17350983,Barbara d'Ursel de Lobkowicz,child,Q64160557,Ariane de Lobkowicz-d'Ursel
 Belgium,Q17350983,Barbara d'Ursel de Lobkowicz,spouse,Q3502142,Stéphane de Lobkowicz
 Belgium,Q17428172,Édouard Poullet,sibling,Q107029440,Edmond Poullet
@@ -117,9 +120,12 @@ Belgium,Q5109850,Christian Leysen,father,Q2411177,André Leysen
 Belgium,Q5109850,Christian Leysen,sibling,Q3525355,Thomas Leysen
 Belgium,Q57078071,Sarah Schlitz,relative,Q2220634,Henri Schlitz
 Belgium,Q586083,Antoine Duquesne,spouse,Q1861021,Anne-Marie Duquesne-Bourguignont
+Belgium,Q64160557,Ariane de Lobkowicz-d'Ursel,father,Q3502142,Stéphane de Lobkowicz
+Belgium,Q64160557,Ariane de Lobkowicz-d'Ursel,mother,Q17350983,Barbara d'Ursel de Lobkowicz
 Belgium,Q64210693,Jos D'Haese,father,Q67083896,Lebuïn D’Haese
 Belgium,Q64210693,Jos D'Haese,mother,Q2604859,Mie Branders
 Belgium,Q64222331,Dieter Van Besien,sibling,Q1810966,Wouter Van Besien
+Belgium,Q64234393,Alexia Bertrand,father,Q6695730,Luc Bertrand
 Belgium,Q64667390,Thierry Witsel,child,Q151838,Axel Witsel
 Belgium,Q64686783,Jonathan de Patoul,father,Q3479580,Serge de Patoul
 Belgium,Q64686920,Sofie Merckx,father,Q2172830,Kris Merckx
@@ -137,6 +143,7 @@ Belgium,Q700152,Prince Laurent of Belgium,sibling,Q170194,"Princess Astrid, Arch
 Belgium,Q700152,Prince Laurent of Belgium,sibling,Q432537,Princess Delphine of Belgium
 Belgium,Q700152,Prince Laurent of Belgium,spouse,Q272191,Princess Claire of Belgium
 Belgium,Q704126,Benoît Lutgen,father,Q2187430,Guy Lutgen
+Belgium,Q728900,Roland Duchâtelet,spouse,Q24255487,Marieke Höfte
 Belgium,Q745188,Marleen Vanderpoorten,father,Q13725231,Herman Vanderpoorten
 Belgium,Q772642,Michel Daerden,child,Q1471482,Frédéric Daerden
 Belgium,Q781578,Lieve Maes,father,Q1807181,Bob Maes

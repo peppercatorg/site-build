@@ -878,7 +878,11 @@ Belarus,Q89180535,,sibling,Q89134312,"Пилипец, Иван Иванович"
 Belarus,Q9150624,,child,Q105044508,Anatoly Glaz
 Belarus,Q9373952,Viktar Kuchynski,spouse,Q63928493,Iya Malkina
 Belarus,Q96435835,Ivan Tertel,sibling,Q106329531,Jury Tertel
+Belarus,Q99004968,Andrei Schwed,child,Q112675272,Kiryl Shwed
+Belarus,Q99004968,Andrei Schwed,father,Q112675470,Ivan Schwed
+Belarus,Q99004968,Andrei Schwed,mother,Q112675639,Zinaida Schwed
 Belarus,Q99004968,Andrei Schwed,sibling,Q105976775,Angela Rayemskaya
+Belarus,Q99004968,Andrei Schwed,sibling,Q112675237,Aleh Schwed
 Belgium,Q12498,Stefaan De Clerck,father,Q1985246,Albert De Clerck
 Belgium,Q1283280,Albert Liénard,child,Q2929895,Bénédicte Liénard
 Belgium,Q12978,Guy Verhofstadt,sibling,Q1998566,Dirk Verhofstadt
@@ -921,6 +925,9 @@ Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q432537,P
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q700152,Prince Laurent of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",spouse,Q379479,"Prince Lorenz, Archduke of Austria-Este"
 Belgium,Q17149643,Valerie Van Peel,sibling,Q1922743,Michael Van Peel
+Belgium,Q17350697,Pierre Kompany,child,Q201381,Vincent Kompany
+Belgium,Q17350697,Pierre Kompany,child,Q2995528,François Kompany
+Belgium,Q17350697,Pierre Kompany,child,Q65099847,Christel
 Belgium,Q17350983,Barbara d'Ursel de Lobkowicz,child,Q64160557,Ariane de Lobkowicz-d'Ursel
 Belgium,Q17350983,Barbara d'Ursel de Lobkowicz,spouse,Q3502142,Stéphane de Lobkowicz
 Belgium,Q17428172,Édouard Poullet,sibling,Q107029440,Edmond Poullet
@@ -997,9 +1004,12 @@ Belgium,Q5109850,Christian Leysen,father,Q2411177,André Leysen
 Belgium,Q5109850,Christian Leysen,sibling,Q3525355,Thomas Leysen
 Belgium,Q57078071,Sarah Schlitz,relative,Q2220634,Henri Schlitz
 Belgium,Q586083,Antoine Duquesne,spouse,Q1861021,Anne-Marie Duquesne-Bourguignont
+Belgium,Q64160557,Ariane de Lobkowicz-d'Ursel,father,Q3502142,Stéphane de Lobkowicz
+Belgium,Q64160557,Ariane de Lobkowicz-d'Ursel,mother,Q17350983,Barbara d'Ursel de Lobkowicz
 Belgium,Q64210693,Jos D'Haese,father,Q67083896,Lebuïn D’Haese
 Belgium,Q64210693,Jos D'Haese,mother,Q2604859,Mie Branders
 Belgium,Q64222331,Dieter Van Besien,sibling,Q1810966,Wouter Van Besien
+Belgium,Q64234393,Alexia Bertrand,father,Q6695730,Luc Bertrand
 Belgium,Q64667390,Thierry Witsel,child,Q151838,Axel Witsel
 Belgium,Q64686783,Jonathan de Patoul,father,Q3479580,Serge de Patoul
 Belgium,Q64686920,Sofie Merckx,father,Q2172830,Kris Merckx
@@ -1017,6 +1027,7 @@ Belgium,Q700152,Prince Laurent of Belgium,sibling,Q170194,"Princess Astrid, Arch
 Belgium,Q700152,Prince Laurent of Belgium,sibling,Q432537,Princess Delphine of Belgium
 Belgium,Q700152,Prince Laurent of Belgium,spouse,Q272191,Princess Claire of Belgium
 Belgium,Q704126,Benoît Lutgen,father,Q2187430,Guy Lutgen
+Belgium,Q728900,Roland Duchâtelet,spouse,Q24255487,Marieke Höfte
 Belgium,Q745188,Marleen Vanderpoorten,father,Q13725231,Herman Vanderpoorten
 Belgium,Q772642,Michel Daerden,child,Q1471482,Frédéric Daerden
 Belgium,Q781578,Lieve Maes,father,Q1807181,Bob Maes
@@ -1945,6 +1956,7 @@ China,Q9331844,Su Hui,father,Q15950043,Cai Xiao
 China,Q9351762,Deng Zhonghan,spouse,Q7682067,Tan Jing
 China,Q9372313,Ian Fok,father,Q3236818,Henry Fok
 China,Q9372313,Ian Fok,sibling,Q7807201,Timothy Fok
+Colombia,Q106907432,María Ximena Lombana Villalba,sibling,Q112665475,Jaime Lombana
 Colombia,Q152472,Ingrid Betancourt,child,Q3332875,Mélanie Delloye-Betancourt
 Colombia,Q152472,Ingrid Betancourt,father,Q620757,Gabriel Betancourt Mejía
 Colombia,Q152472,Ingrid Betancourt,mother,Q2729105,Yolanda Pulecio
@@ -4120,7 +4132,7 @@ France,Q1103356,Sylvie Andrieux,spouse,Q3168350,Jean-Paul Bacquet
 France,Q111685345,Florence Goulet,father,Q3014108,Daniel Goulet
 France,Q111685345,Florence Goulet,spouse,Q47485256,André Rougé
 France,Q112641269,Caroline Colombier,relative,Q6120507,Jacques Colombier
-France,Q112652488,Antoine Villedieu,relative,Q65596463,Bernard Piquard
+France,Q112652488,Antoine Villedieu,relative,Q112746329,Jean Rota
 France,Q112652500,Julie Delpech,mother,Q30344388,Pascale Fontenel-Personne
 France,Q117340,François de Rugy,partner,Q63455920,Emmanuelle Bouchaud
 France,Q11984595,Nicole Belloubet,spouse,Q53869141,Pierre-Laurent Frier
@@ -6665,6 +6677,8 @@ Indonesia,Q12477379,Budi Gunawan,child,Q96987994,Mochamad Herviano
 Indonesia,Q12482544,Epyardi Asda,child,Q96989450,Athari Gauthi Ardi
 Indonesia,Q12482713,Fahira Fahmi Idris,father,Q5429568,Fahmi Idris
 Indonesia,Q12482713,Fahira Fahmi Idris,sibling,Q16176665,Fahrina Fahmi Idris
+Indonesia,Q12483474,Ganjar Pranowo,child,Q112743606,Muhammad Zinedine Alam Ganjar
+Indonesia,Q12483474,Ganjar Pranowo,spouse,Q112743580,Siti Atikoh Supriyanti
 Indonesia,Q12485056,Haeny Relawati Rini Widyastuti,child,Q104830804,Aditya Halindra Faridzky
 Indonesia,Q12485056,Haeny Relawati Rini Widyastuti,child,Q106037105,Aulia Hany Mustikasari
 Indonesia,Q12485056,Haeny Relawati Rini Widyastuti,child,Q106037119,Adelia Hanindya Nastiti
@@ -6677,6 +6691,7 @@ Indonesia,Q12497177,Ma'ruf Amin,spouse,Q85995222,Wury Estu Handayani
 Indonesia,Q12499368,Muhammad Lutfi,father,Q56391300,Firdaus Wadjdi
 Indonesia,Q12499835,Nafsiah Mboi,sibling,Q12482565,Erna Witoelar
 Indonesia,Q12499835,Nafsiah Mboi,spouse,Q12475663,Ben Mboi
+Indonesia,Q12501020,Nurdin Tampubolon,child,Q112739152,Randy Monthonaro Tampubolon
 Indonesia,Q12501020,Nurdin Tampubolon,child,Q96987974,Sondang Tiar Debora Tampubolon
 Indonesia,Q12501035,Nurul Arifin,spouse,Q97363554,Mayong Suryo Laksono
 Indonesia,Q12506342,Pramono Anung,child,Q107564265,Hanindhito Himawan Pramana
@@ -7905,6 +7920,9 @@ Japan,Q315579,Toshiki Kaifu,child,Q11559328,Masaki Kaifu
 Japan,Q315579,Toshiki Kaifu,relative,Q202164,Makoto Kobayashi
 Japan,Q315579,Toshiki Kaifu,relative,Q27920921,Kaifu Kōzō
 Japan,Q315579,Toshiki Kaifu,relative,Q9306955,Norio Kaifu
+Japan,Q315720,Tsutomu Hata,child,Q259722,Yuichiro Hata
+Japan,Q315720,Tsutomu Hata,child,Q41805280,Jirō Hata
+Japan,Q315720,Tsutomu Hata,father,Q11610314,Bushirō Hata
 Japan,Q3251843,Tsuneharu Takeda,father,Q850920,Prince Tsuneyoshi Takeda
 Japan,Q3251843,Tsuneharu Takeda,mother,Q15103558,Princess Tsuneyoshi Mitsuko
 Japan,Q3251843,Tsuneharu Takeda,sibling,Q11599337,Prince Takeda Tsunetada
@@ -8037,6 +8055,8 @@ Japan,Q7678527,Taku Etō,father,Q7677143,Takami Eto
 Japan,Q7678536,Taku Ōtsuka,spouse,Q7680979,Tamayo Marukawa
 Japan,Q7678543,Taku Yamamoto,spouse,Q1705028,Sanae Takaichi
 Japan,Q7680979,Tamayo Marukawa,spouse,Q7678536,Taku Ōtsuka
+Japan,Q7706881,Tetsuma Esaki,father,Q5632437,Masumi Esaki
+Japan,Q7706881,Tetsuma Esaki,sibling,Q8054513,Yoichiro Esaki
 Japan,Q777936,Kunio Hatoyama,child,Q17219387,Jirō Hatoyama
 Japan,Q777936,Kunio Hatoyama,child,Q2394829,Tarō Hatoyama
 Japan,Q777936,Kunio Hatoyama,father,Q1155062,Iichirō Hatoyama
@@ -9167,7 +9187,7 @@ Nigeria,Q30673985,Ned Nwoko,spouse,Q26216128,Regina Daniels
 Nigeria,Q32946601,Ademola Adeleke,father,Q55808166,Raji Ayoola Adeleke
 Nigeria,Q3510695,Diezani Alison-Madueke,spouse,Q4732798,Allison Madueke
 Nigeria,Q3510785,Nenadi Usman,spouse,Q111077585,Sa’ad Usman
-Nigeria,Q3510872,Bola Ahmed Tinubu Frances,spouse,Q7088857,Oluremi Tinubu
+Nigeria,Q3510872,Bola Ahmed Tinubu,spouse,Q7088857,Oluremi Tinubu
 Nigeria,Q361567,Muhammadu Buhari,child,Q107037830,Zahra Buhari
 Nigeria,Q361567,Muhammadu Buhari,child,Q107037859,Fatima Buhari
 Nigeria,Q361567,Muhammadu Buhari,child,Q107037889,Halima Buhari Sheriff
@@ -9195,7 +9215,7 @@ Nigeria,Q6301957,Jibril Aminu,child,Q66846662,Aminu Bello
 Nigeria,Q6380660,Kayode Fayemi,spouse,Q17305590,Bisi Adeleye-Fayemi
 Nigeria,Q6386808,Kema Chikwe,child,Q6958125,Naeto C
 Nigeria,Q6399043,Khairat Abdulrazaq-Gwadabe,spouse,Q6503563,Lawan Gwadabe
-Nigeria,Q7088857,Oluremi Tinubu,spouse,Q3510872,Bola Ahmed Tinubu Frances
+Nigeria,Q7088857,Oluremi Tinubu,spouse,Q3510872,Bola Ahmed Tinubu
 Nigeria,Q7088869,Olusola Adeyeye,spouse,Q51858251,Mojisola Adeyeye
 Nigeria,Q7144934,Patience Jonathan,spouse,Q57380,Goodluck Jonathan
 Nigeria,Q7370548,Rotimi Amaechi,spouse,Q16148792,Judith Amaechi
@@ -10746,6 +10766,7 @@ Russia,Q111956526,Yriy Zaytsev,child,Q177232,son
 Russia,Q1192630,Vyacheslav Shtyrov,father,Q15868908,Anatoliĭ Shtyrov
 Russia,Q133318,Marat Safin,mother,Q7296273,Rauza Islanova
 Russia,Q133318,Marat Safin,sibling,Q1029664,Dinara Safina
+Russia,Q1344473,Vladimir Kolokoltsev,child,Q112674281,Alexander Kolokoltsev
 Russia,Q1346607,Mikhail Gutseriyev,sibling,Q110893340,"Гуцериев, Хамзат Сафарбекович"
 Russia,Q1346607,Mikhail Gutseriyev,sibling,Q4153081,Sait-Salam Gutseriyev
 Russia,Q1377159,Stanislav Govorukhin,child,Q4140923,Sergey Govorukhin
@@ -11712,6 +11733,7 @@ South Korea,Q24000602,Kim Hyun-kwon,spouse,Q58476377,임미애
 South Korea,Q24000620,Park Kyung-mee,spouse,Q42326418,Heejoon Myung
 South Korea,Q24000773,Chang Jung-sook,father,Q12614608,장영순
 South Korea,Q24856148,Oh Se-jung,spouse,Q61716898,홍난실
+South Korea,Q29341335,Jong Ho Lee,child,Q112737161,Dongjin Lee
 South Korea,Q2947463,In Jae-keun,spouse,Q485574,Kim Geun-tae
 South Korea,Q29881198,Kim Jung-sook,child,Q74499817,Moon Joon Yong
 South Korea,Q29881198,Kim Jung-sook,child,Q74500749,Moon Da-hye
@@ -11870,6 +11892,7 @@ Spain,Q15731273,Santi Vila i Vicente,spouse,Q107864054,Rafael Vertamatti
 Spain,Q15731273,Santi Vila i Vicente,spouse,Q107864107,Javier Luque Reglero
 Spain,Q15743807,Irene Rigau Oliver,spouse,Q106043618,Joan Puigbert
 Spain,Q15743807,Irene Rigau Oliver,spouse,Q11946749,Salvador Carrera i Comes
+Spain,Q16163359,Elisenda Albertí i Casas,father,Q66744397,Santiago Albertí i Gubern
 Spain,Q16169026,Pere Aragonès i Garcia,relative,Q54817712,Josep Aragonès i Montsant
 Spain,Q16169026,Pere Aragonès i Garcia,spouse,Q64217685,Janina Juli Pujol
 Spain,Q16179626,Laura Borràs i Castanyer,child,Q54444011,Marta Botet i Borràs
@@ -11897,7 +11920,7 @@ Spain,Q17280089,Teresa Rodríguez,partner,Q20087369,José María González Santo
 Spain,Q17297290,Antoni Marí Calbet,sibling,Q11905101,Alonso Marí Calbet
 Spain,Q187568,Willy Meyer Pleite,child,Q82318256,Amanda Meyer
 Spain,Q187568,Willy Meyer Pleite,spouse,Q104093162,Julia Hidalgo de Argüeso
-Spain,Q191045,Felipe VI of Spain,child,Q214369,"Leonor, Princess of Asturias"
+Spain,Q191045,Felipe VI of Spain,child,Q214369,"Leonor, Princess of Asturias and the wife of Ahmad Ayman"
 Spain,Q191045,Felipe VI of Spain,child,Q847010,Infanta Sofía of Spain
 Spain,Q191045,Felipe VI of Spain,father,Q19943,Juan Carlos I of Spain
 Spain,Q191045,Felipe VI of Spain,godparent,Q160001,Victoria Eugenie of Battenberg
@@ -12657,6 +12680,7 @@ Switzerland,Q115520,Moritz Leuenberger,sibling,Q95341261,Dieter Leuenberger
 Switzerland,Q115520,Moritz Leuenberger,spouse,Q118441,Gret Loewensberg
 Switzerland,Q115841,Samuel Schmid,sibling,Q595834,Peter Schmid
 Switzerland,Q115891,Christophe Darbellay,relative,Q1340658,Vital Darbellay
+Switzerland,Q116392,Christian Lüscher,relative,Q120639,Peter Tschopp
 Switzerland,Q116424,Jacqueline Fehr,spouse,Q1911396,Maurice Pedergnana
 Switzerland,Q116886,Ulrich Giezendanner,child,Q61196213,Benjamin Giezendanner
 Switzerland,Q118310,Marina Carobbio Guscetti,father,Q120924,Werner Carobbio
@@ -12984,8 +13008,8 @@ Ukraine,Q16172176,Oleksiy Honcharenko,father,Q4235602,Oleksiy Kostusyev
 Ukraine,Q16701826,Anna Kovalenko,spouse,Q19618525,Ruslan Khomchak
 Ukraine,Q16703319,Taras Kremin,father,Q12114572,Dmytro Kremin
 Ukraine,Q16713197,Borys Prykhodko,father,Q16713201,Viktor Prikhodko
-Ukraine,Q16723363,Ahtem Chiygoz,relative,Q16723365,Чийгоз Рустем Зейтуллайович
-Ukraine,Q16723363,Ahtem Chiygoz,spouse,Q61994816,Elmira Ablyalimova
+Ukraine,Q16723363,Ahtem Çiygoz,relative,Q16723365,Чийгоз Рустем Зейтуллайович
+Ukraine,Q16723363,Ahtem Çiygoz,spouse,Q61994816,Elmira Ablyalimova
 Ukraine,Q16976525,Maryna Poroshenko,child,Q18346653,Oleksiy Poroshenko
 Ukraine,Q16976525,Maryna Poroshenko,father,Q102036408,Анатолий Михайлович Переведенцев
 Ukraine,Q16976525,Maryna Poroshenko,mother,Q102036344,Людмила Николаевна Переведенцева
@@ -13117,7 +13141,7 @@ Ukraine,Q458282,Yuriy Lutsenko,spouse,Q15071392,Iryna Lutsenko
 Ukraine,Q47107801,Dmytro Dubilet,father,Q20066943,Aleksandr Dubilet
 Ukraine,Q471730,Arseniy Yatsenyuk,father,Q16724282,Petro Ivanovytch Iatseniouk
 Ukraine,Q471730,Arseniy Yatsenyuk,mother,Q16724281,Maria Hrygorivna Iatseniouk
-Ukraine,Q471730,Arseniy Yatsenyuk,spouse,Q61465208,Терезия Викторовна Яценюк
+Ukraine,Q471730,Arseniy Yatsenyuk,spouse,Q61465208,Theresa Yatsenyuk
 Ukraine,Q48283,Yulia Tymoshenko,child,Q3560127,Yevhenia Tymoshenko
 Ukraine,Q48283,Yulia Tymoshenko,father,Q17278109,Volodymyr Hrihyan
 Ukraine,Q48283,Yulia Tymoshenko,mother,Q17278107,Lyudmila Telehina
@@ -13165,7 +13189,7 @@ Ukraine,Q922349,Vadim Gutzeit,spouse,Q15065687,Oksana Huttsayt
 Ukraine,Q97273389,Roman Leshchenko,spouse,Q111368023,Alla Leshchenko
 Ukraine,Q982749,Valeriy Khoroshkovskyi,mother,Q16722272,Хорошковська Ольга Назарівна
 Ukraine,Q983874,Oleh Tiahnybok,father,Q12163139,Тягнибок Ярослав Васильович
-UAE,Q105539926,,father,Q1746137,Nahyan bin Mubarak Al Nahyan
+UAE,Q105539926,Shakhboot Nahyan Al Nahyan,father,Q1746137,Nahyan bin Mubarak Al Nahyan
 UAE,Q1059948,Khalifa bin Zayed Al Nahyan,child,Q16196176,Sultan bin Khalifa Al Nahyan
 UAE,Q1059948,Khalifa bin Zayed Al Nahyan,child,Q16733119,Mohammed bin Khalifa Al Nahyan
 UAE,Q1059948,Khalifa bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
