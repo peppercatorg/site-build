@@ -124,7 +124,7 @@ Sudan,Minister of Culture,Faisal Saleh,Q5431080,2019-09-08,2021-02-09,male,,,Fai
 Sudan,Minister of Culture,Hamza Baloul,Q112674340,2021-02-09,,,,,,
 Sudan,Minister of Defence,Abdulrahman Sir el Khatim,Q112325559,1999-03-06,2000-07-10,,,,,
 Sudan,Minister of Defence,Bakri Hassan Saleh,Q15700032,2000-07-10,2005-09-21,male,1949,,,Bakri Hassan Saleh
-Sudan,Minister of Defence,Abdel Rahmi Mohamed Hussein,Q112325545,2005-09-21,2015-06-07,,,,,
+Sudan,Minister of Defence,Abdel Rahim Mohammed Hussein,Q307796,2005-09-21,2015-06-07,male,,,عبد الرحيم محمد حسين.jpg,Abdel Rahim Mohammed Hussein
 Sudan,Minister of Defence,Mustafa Osman al Obeid,Q112325747,2015-06-07,2015-08-23,,,,,
 Sudan,Minister of Defence,Mohamed Ahmed bin Awaf,Q112325727,2015-08-23,2019-02-23,,,,,
 Sudan,Minister of Defence,Mohamed Ahmed bin Awaf,Q112325727,2019-02-23,2019-04-11,,,,,
@@ -242,9 +242,10 @@ Sudan,Minister of Information,Abdalla Ali Masar,Q112325539,2011-12-27,2012-04-30
 Sudan,Minister of Information,Ahmed Bilal Osman,Q4695771,2012-04-30,2012-07-09,male,,,,Ahmed Bilal Osman
 Sudan,Minister of Information,Ahmed Bilal Osman,Q4695771,2013-12-08,2018-09-09,male,,,,Ahmed Bilal Osman
 Sudan,Minister of Information,Bushara Aru,Q112325618,2018-09-09,2019-04-11,,,,,
-Sudan,Minister of Interior,Abdel Rahmi Mohamed Hussein,Q112325545,1998-03-09,2000-07-10,,,,,
+Sudan,Minister of Interior,Abdel Rahim Mohammed Hussein,Q307796,1998-03-09,2000-07-10,male,,,عبد الرحيم محمد حسين.jpg,Abdel Rahim Mohammed Hussein
 Sudan,Minister of Interior,el Hadi Abdallah,Q112325808,2000-07-10,2001-02-23,,,,,
-Sudan,Minister of Interior,Abdel Rahmi Mohamed Hussein,Q112325545,2001-02-23,2005-09-21,,,,,
+Sudan,Minister of Interior,Abdel Rahim Mohammed Hussein,Q307796,2001-02-23,2005-09-21,male,,,عبد الرحيم محمد حسين.jpg,Abdel Rahim Mohammed Hussein
+Sudan,Minister of Interior,Ahmed Haroun,Q400652,2003-04,2005-09,male,1964-01-01,,,Ahmed Haroun
 Sudan,Minister of Interior,El Zubair Bashir Taha,Q112325623,2005-09-21,2008-02-13,,,,,
 Sudan,Minister of Interior,Ibrahim Mahmoud Hamad,Q5984644,2008-02-13,2013-12-08,male,1956,,,Ibrahim Mahmoud Hamad
 Sudan,Minister of Interior,Abdel Wahid Yousif Ibrahim,Q112325547,2013-12-08,2014-06-25,,,,,
@@ -312,7 +313,7 @@ Sudan,Minister of Petroleum and Gas,Abdul-Rahman Osman Abdul-Rahman,Q112325557,2
 Sudan,Minister of Petroleum and Gas,Azhari Abd-al-Qadir Abdalla,Q112325595,2018-05-14,2019-03-13,,,,,
 Sudan,Minister of Petroleum and Gas,Ishaq Adam Bashir,Q112325659,2019-03-13,2019-04-11,,,,,
 Sudan,Minister of Presidential Affairs,Bakri Hassan Saleh,Q15700032,1998-03-09,2000-07-10,male,1949,,,Bakri Hassan Saleh
-Sudan,Minister of Presidential Affairs,Abdel Rahmi Mohamed Hussein,Q112325545,2000-07-10,2001-02-23,,,,,
+Sudan,Minister of Presidential Affairs,Abdel Rahim Mohammed Hussein,Q307796,2000-07-10,2001-02-23,male,,,عبد الرحيم محمد حسين.jpg,Abdel Rahim Mohammed Hussein
 Sudan,Minister of Presidential Affairs,Salah Muhammad Muhammad Salih,Q112325761,2001-02-23,2005-09-21,,,,,
 Sudan,Minister of Presidential Affairs,Nafi Ali Nafi,Q112325748,2005-09-21,2010-06-16,,,,,
 Sudan,Minister of Presidential Affairs,Bakri Hassan Saleh,Q15700032,2005-09-21,2013-12-08,male,1949,,,Bakri Hassan Saleh
@@ -542,7 +543,7 @@ Sudan,Governor of Blue Nile,Hassan Hamadayn Suleiman,Q112797921,2004,2005,,,,,
 Sudan,Governor of Blue Nile,Abdel Rahman Mohamed Abu Madien,Q112797919,2005-09,2007-07,,,,,
 Sudan,Governor of Blue Nile,Malik Agar,Q6743558,2007-07,2011-09-20,male,,,Malik Agar governor 2009-08-19.jpg,Malik Agar
 Sudan,Governor of Blue Nile,Yahya Mohamed Khair,Q112797924,2011-09,2013-04,,,,,
-Sudan,Governor of Blue Nile,Hussein Yassin Hamad,Q112797922,2013-04-01,2018-05,,,,,
+Sudan,Governor of Blue Nile,Hussein Yassin Hamad,Q112797922,2015-06-07,2018-05,,,,,
 Sudan,Governor of Blue Nile,Khalid Hussein Mohamed Omer,Q112797923,2018-05-14,2019-02,,,,,
 Sudan,Governor of Blue Nile,Yahya Mohamed Khair,Q112797924,2019-02-24,2019-04,,,,,
 Sudan,Governor of Blue Nile,Ahmed Abdul-Rahim Shukratall,Q112797818,2019-04,2020,male,,,,
@@ -554,27 +555,72 @@ Sudan,Governor of Central Darfur,Shartai Jaafar Abdel Hakam,Q7490488,2015-06-08,
 Sudan,Governor of Central Darfur,Mohamed Ahmed Jadal-Sid,Q112800416,2018-05-15,2019-02-24,male,,,,
 Sudan,Governor of Central Darfur,Khalid Nural-Dayem,Q112800623,2019-02-24,2020-07-27,male,,,,
 Sudan,Governor of Central Darfur,Adeeb Abdul Rahman Yousif,Q112765527,2020-07-27,,,,,,
-Sudan,Governor of East Darfur,Abdul-Hamid Musa Kasha,Q22948908,2013-04,2013-12,male,,,Abdel-hamid Musa kasha.jpeg,Abdul-Hamid Musa Kasha
+Sudan,Governor of East Darfur,Abdul-Hamid Musa Kasha,Q22948908,2013-03-31,2013-12,male,,,Abdel-hamid Musa kasha.jpeg,Abdul-Hamid Musa Kasha
 Sudan,Governor of East Darfur,Anas Omar Mohamed Fadl-Mula,Q112800705,2015-06-08,2019-02-24,,,,,
-Sudan,Governor of East Darfur,Sulaiman Mokhtar Haj al-Makki,Q112800768,2019-02-24,2020-07-28,male,,,,
+Sudan,Governor of East Darfur,Sulaiman Mokhtar Haj al-Makki,Q112800768,2019-02-24,2019-03-13,male,,,,
+Sudan,Governor of East Darfur,Anas Omer Wali,Q112811621,2019-03-13,2020-07,male,,,,
 Sudan,Governor of East Darfur,Abdul-Hamid Musa Kasha,Q22948908,2020,,male,,,Abdel-hamid Musa kasha.jpeg,Abdul-Hamid Musa Kasha
 Sudan,Governor of East Darfur,Mohamed Essa Elio,Q112800780,2020-07-28,2020,male,,,,
+Sudan,Governor of Gezira,Mohamed Tahir Ayala,Q48728938,2015-06-07,2019-02,male,1950,,محمد طاهر ايلا.jpg,Mohamed Tahir Ayala
+Sudan,Governor of Gezira,Ali Mohamed Salim,Q112811674,2019-02-22,2019-04,,,,,
 Sudan,Governor of Gezira,Abdullah Ahmed Ali Idris,Q112765542,2020-07-27,,,,,,
-Sudan,Governor of Kassala,Fateh al-Rahman al-Amin,Q112765548,2020,,,,,,
+Sudan,Governor of Kassala,Ibrahim Mahmoud Hamad,Q5984644,2006,2008,male,1956,,,Ibrahim Mahmoud Hamad
+Sudan,Governor of Kassala,Adam Gima’a,Q112808844,2015-06-07,2019-02-22,,,,,
+Sudan,Governor of Kassala,Mohamed Ali Gireinat,Q112811689,2019-02-22,2019-04,,,,,
+Sudan,Governor of Kassala,Salih Muhammad Salih Ammar Hamid,Q112809467,2020-07-28,2020-10,,,,,
+Sudan,Governor of Kassala,Fateh al-Rahman al-Amin,Q112765548,2020-10,,,,,,
+Sudan,Governor of Khartoum,Abdel Rahim Mohammed Hussein,Q307796,2015-06-08,2019-02,male,,,عبد الرحيم محمد حسين.jpg,Abdel Rahim Mohammed Hussein
+Sudan,Governor of Khartoum,Hashim Osman Al-Hussein,Q112811666,2019-02-22,2019-04-16,,,,,
+Sudan,Governor of Khartoum,Mortadha Abdullah Warraq,Q112811873,2019-04-16,2019-06-18,male,,,,
+Sudan,Governor of Khartoum,Ahmed Abdoun Hamad,Q112811890,2019-06-18,2020-04,male,,,,
 Sudan,Governor of Khartoum,Ayman Khaled Nimer,Q112765980,2020-07-27,,,,,,
+Sudan,Governor of North Darfur,Osman Kebir,Q2161477,2003,2015-06-07,male,,,,Osman Kebir
+Sudan,Governor of North Darfur,Abdel-Wahid Youssef,Q112809102,2015-06-07,2018-05,,,,,
+Sudan,Governor of North Darfur,Ibrahim Ali Samuoh,Q112811550,2018-05-15,2019-02,,,,,
+Sudan,Governor of North Darfur,Al-naem  Khater Mourasl,Q112811784,2019-02-22,2019-04,,,,,
+Sudan,Governor of North Darfur,Mohammed Hassan Arabi,Q112797494,2020-07-28,2021-06,male,,,,
 Sudan,Governor of North Darfur,Nimir Mohammed Abdel Rahman,Q112765979,2021-06-21,,,,,,
+Sudan,Governor of North Kordofan,Ahmed Haroun,Q400652,2013-07-14,2019-02-23,male,1964-01-01,,,Ahmed Haroun
+Sudan,Governor of North Kordofan,Al-Mardi Sidig Al-Mardi,Q112811763,2019-02-22,2019-04,,,,,
 Sudan,Governor of North Kordofan,Khaled Mustafa Adam Othman,Q112765978,2020-07-27,,,,,,
+Sudan,Governor of Northern State,Ali al-Awad,Q112808895,2015-06-07,2018-05,,,,,
+Sudan,Governor of Northern State,Yasser Yusuf Ibrahim,Q112811543,2018-05-15,2019-02,,,,,
+Sudan,Governor of Northern State,Hashim Abdal Mutalib Ahmed,Q112811779,2019-02-22,2019-04,,,,,
 Sudan,Governor of Northern State,Amal Muhammad Izz Al-Din Othman,Q112765976,2020-07-27,,,,,,
-Sudan,Governor of Al Qadarif,Sulaiman Ali Muhammad Musa,Q112765975,2020-07-27,,,,,,
+Sudan,Governor of Al Qadarif,Mirghani Saleh,Q112808840,2015-06-07,2018-12,,,,,
+Sudan,Governor of Al Qadarif,Moubarak Mohamed Shimmat,Q112811803,2019-02-22,2019-04,,,,,
+Sudan,Governor of Al Qadarif,Sulaiman Ali Muhammad Musa,Q112765975,2020-07-27,2021-08-18,,,,,
+Sudan,Governor of Red Sea,Ali Hamid,Q112808766,2015-06-07,2019-02,,,,,
+Sudan,Governor of Red Sea,Moustapha Mohamed Nour,Q112811769,2019-02-22,2019-04,,,,,
 Sudan,Governor of Red Sea,Abdullah Chingray Ohaj,Q112765974,2020-07-27,,,,,,
+Sudan,Governor of River Nile,Mohammed Hamid al-Ballah,Q112808878,2015-06-07,2019-02,,,,,
+Sudan,Governor of River Nile,Al-Tayeib Al-Mousbah,Q112811686,2019-02-22,2019-04,,,,,
 Sudan,Governor of River Nile,Amna Ahmed Mohamed Ahmed al-Makki,Q112765973,2020-07-27,,,,,,
+Sudan,Governor of Sennar,Abdelkarim Musa Abdelkarim,Q112811524,2018-05-15,2019-02,,,,,
+Sudan,Governor of Sennar,Issa Abdallah Idriss,Q112811773,2019-02-22,2019-04,,,,,
 Sudan,Governor of Sennar,Al-Mahi Muhammad Suleiman al-Mahi,Q112765964,2020-07-27,,,,,,
-Sudan,Governor of South Darfur,Salah Ali Al-Ghali,Q7403428,2001,,male,,,,Salah Ali Al-Ghali
+Sudan,Governor of South Darfur,Salah Ali Al-Ghali,Q7403428,2001,2003,male,,,,Salah Ali Al-Ghali
 Sudan,Governor of South Darfur,Abdul-Hamid Musa Kasha,Q22948908,2010-04,2012-01,male,,,Abdel-hamid Musa kasha.jpeg,Abdul-Hamid Musa Kasha
+Sudan,Governor of South Darfur,Adam al-Faki,Q112809127,2015-06-07,2018-05,,,,,
+Sudan,Governor of South Darfur,Ahmed Ibrahim Ali,Q112811565,2018-05-15,2019-02,,,,,
+Sudan,Governor of South Darfur,Ahmed Ali Abou shanab,Q112811786,2019-02-22,2019-04,,,,,
 Sudan,Governor of South Darfur,Musa Mahdi Ishaq,Q112765963,2020-07-27,,,,,,
+Sudan,Governor of South Kordofan,Ahmed Haroun,Q400652,2009-05,2013-07-12,male,1964-01-01,,,Ahmed Haroun
+Sudan,Governor of South Kordofan,Essa Adam Abakar,Q112809022,2015-06-07,2018-05-15,,,,,
+Sudan,Governor of South Kordofan,Ibrahim Ali Mufadal,Q112812626,2018-05-15,2019-02,male,,,,
+Sudan,Governor of South Kordofan,Mohamed Menti Angar,Q112811787,2019-02-22,2019-04,,,,,
 Sudan,Governor of South Kordofan,Hamed al-Bashir Ibrahim,Q112765984,2020-07-27,,,,,,
+Sudan,Governor of West Darfur,Khalil Abdallah,Q112809144,2015-06-07,2018-05,,,,,
+Sudan,Governor of West Darfur,Hussein Yassin Hamad,Q112797922,2018-05-15,2019-02,,,,,
+Sudan,Governor of West Darfur,Al-Mahaleb Hassan Ahmed,Q112811807,2019-02-22,2019-04,,,,,
+Sudan,Governor of West Darfur,Muhammad Abdullah Al-Doma,Q112809596,2020-07-28,2021-06,,,,,
 Sudan,Governor of West Darfur,Khamis Abakar,Q112765982,2021-06-21,,,,,,
+Sudan,Governor of West Kordofan,Abu al-Qasim al-Amin,Q112809084,2015-06-07,2019-02,,,,,
+Sudan,Governor of West Kordofan,Doukhry Al-zaman Omar Mohamed,Q112811791,2019-02-22,2019-04,,,,,
 Sudan,Governor of West Kordofan,Hammad Abdul Rahman Salih,Q112765981,2020-07-27,,,,,,
+Sudan,Governor of White Nile,Abdul-Hamid Musa Kasha,Q22948908,2015-06-07,2018-05,male,,,Abdel-hamid Musa kasha.jpeg,Abdul-Hamid Musa Kasha
+Sudan,Governor of White Nile,Abulgasim Al-Amin Baraka,Q112811515,2018-05-15,2019-02,,,,,
+Sudan,Governor of White Nile,Ahmed Khamis Bakhit,Q112811771,2019-02-22,2019-04,,,,,
 Sudan,Governor of White Nile,Ismail Fath al-Rahman Hamed Warraq,Q112765985,2020-07-27,,,,,,
 Sudan,ambassador to Ireland,Abdullah Hamad Al-Azraq,Q91937793,2016,,male,1955-01-01,,,
 Sudan,ambassador to the United Kingdom,Hasan Abdin,Q91933442,2000,2006,male,1939-01-01,,,
