@@ -8,8 +8,8 @@ Spain,Vice President of the Generalitat Valenciana,José Joaquín Ripoll Serrano
 Spain,Vice President of the Generalitat Valenciana,José Víctor Campos Guinot,Q5547775,2004-08-27,2007-06-29,male,1960-01-15,,,
 Spain,Vice President of the Generalitat Valenciana,Paula Sánchez de León Guardiola,Q3372570,2011-06-22,2011-12-30,female,1965-06-05,,Paula Sanchez de Leon.jpg,
 Spain,Vice President of the Generalitat Valenciana,José Císcar,Q633105,2012-01-02,2015-06-30,male,1961-04-13,,JCiscar.jpg,
-Spain,Vice President of the Generalitat Valenciana,Mónica Oltra,Q3067773,2015-06-30,2022-06-21,female,1969-12-20,,Mónica Oltra posando tras un grafiti en 2019.jpg,Mónica Oltra
-Spain,Minister for Equality and Inclusive Policies,Mónica Oltra,Q3067773,2015-06-30,2022-06-21,female,1969-12-20,,Mónica Oltra posando tras un grafiti en 2019.jpg,Mónica Oltra
+Spain,Vice President of the Generalitat Valenciana,Mónica Oltra,Q3067773,2015-06-30,2022-06-29,female,1969-12-20,,Mónica Oltra posando tras un grafiti en 2019.jpg,Mónica Oltra
+Spain,Minister for Equality and Inclusive Policies,Mónica Oltra,Q3067773,2015-06-30,2022-06-29,female,1969-12-20,,Mónica Oltra posando tras un grafiti en 2019.jpg,Mónica Oltra
 Spain,"Minister for Participation, Transparency, Cooperation and Democratic Quality",Manuel Francisco Alcaraz Ramos,Q426679,2015-06-29,2019-06-17,male,1958,,Manuel Alcaraz.jpg,
 Spain,"Minister for Participation, Transparency, Cooperation and Democratic Quality",Rosa Pérez Garijo,Q52517739,2019-06-17,,female,1972,,Rosa-perez.png,
 Spain,"Minister of Agriculture, Environment, Climate Change and Rural Development",Elena Cebrián Calvo,Q21001160,2015-06-29,2019-06-17,female,1970-10-29,,Elena Cebrian.jpg,
@@ -495,7 +495,7 @@ Spain,ambassador to Cuba,Ángel Martín Peccis,Q107324756,2020,,male,,,,
 Spain,ambassador to Cyprus,Mariano García Muñoz,Q104761737,1998,2000,male,1939-03-09,2020-12-17,Mariano GM.jpg,
 Spain,ambassador to Cyprus,Ignacio García-Valdecasas Fernández,Q107088811,2002,2004,male,,,,
 Spain,ambassador to Cyprus,Juan José Urtasun,Q5950538,2007,2011,male,1947-01-20,,,
-Spain,ambassador to Cyprus,Ana María Salomón Pérez,Q5673962,2011,2014,female,1961-10-12,,,
+Spain,ambassador to Cyprus,Ana María Salomón Pérez,Q5673962,2011,2014,female,1961-10-12,,"Ana María Salomón Pérez, September 2021 (GPODBG 1446) (cropped).jpg",
 Spain,ambassador to Cyprus,Ángel Lossada Torres-Quevedo,Q107325135,2014,2018,male,,,,
 Spain,ambassador to Cyprus,Álvaro Castillo Aguilar,Q6172749,2018,,male,1966-07-20,,,
 Spain,ambassador to Denmark,José Luis Pardos,Q5941578,1996,2001,male,1934-06-11,,JLPardossmall.jpg,
@@ -786,7 +786,7 @@ Spain,ambassador to Pakistan,Gonzalo M. Quintero Saravia,Q5883092,2008-12-22,201
 Spain,ambassador to Pakistan,Rafael Mendívil Peydro,Q6097662,2009,2010,male,1948-06-12,,Rafael Mendívil Peydro.jpg,
 Spain,ambassador to Pakistan,Javier Carbajosa Sánchez,Q107341930,2012,2015,male,1960,,,
 Spain,ambassador to Pakistan,Manuel Durán Giménez-Rico,Q108784512,2018,,male,1962-12-31,,,
-Spain,ambassador to Palau,Delfí Colomé i Pujol,Q11916801,1997,2000,male,1946-04-14,2008-04-12,,
+Spain,ambassador to Palau,Delfí Colomé i Pujol,Q11916801,1997,2000,male,1946,2008,,
 Spain,ambassador to Palau,Ignacio Sagaz Temprano,Q5481122,2003,2007,male,1946-02-24,,H.E.Mr.Ignacio Sagaz Temprano เอกอัครราชทูตราชอาณาจักร - Flickr - Abhisit Vejjajiva.jpg,
 Spain,ambassador to Palau,Luis Arias Romero,Q5982819,2007,2011,male,1949-12-30,,,
 Spain,ambassador to Palau,Jorge Domecq,Q5841353,2011,2014,male,1960-11-28,,Jorge Domecq 2016 (cropped).jpg,Jorge Domecq
@@ -817,7 +817,7 @@ Spain,ambassador to Peru,Francisco Javier Sandomingo,Q611531,2008,2011,male,1954
 Spain,ambassador to Peru,Juan Carlos Sánchez Alonso,Q5948612,2012-01-10,2015,male,1961-06-17,,(Juan Carlos Sánchez Alonso) Presentación EuroCámaras Perú 20-01-2015 (15753707574) (cropped).jpg,
 Spain,ambassador to Peru,Ernesto de Zulueta Habsburgo-Lorena,Q56607914,2015,2020,male,1961-07-07,,,
 Spain,ambassador to Peru,Alejandro Alvargonzález,Q8194013,2020,,male,1959-07-11,,,
-Spain,ambassador to Philippines,Delfí Colomé i Pujol,Q11916801,1996,2000,male,1946-04-14,2008-04-12,,
+Spain,ambassador to Philippines,Delfí Colomé i Pujol,Q11916801,1996,2000,male,1946,2008,,
 Spain,ambassador to Philippines,Ignacio Sagaz Temprano,Q5481122,2003,2007,male,1946-02-24,,H.E.Mr.Ignacio Sagaz Temprano เอกอัครราชทูตราชอาณาจักร - Flickr - Abhisit Vejjajiva.jpg,
 Spain,ambassador to Philippines,Luis Arias Romero,Q5982819,2007,2011,male,1949-12-30,,,
 Spain,ambassador to Philippines,Jorge Domecq,Q5841353,2011,2014,male,1960-11-28,,Jorge Domecq 2016 (cropped).jpg,Jorge Domecq
@@ -892,7 +892,7 @@ Spain,ambassador to South Africa,Miguel Ángel Carriedo Mompín,Q110886763,1996,
 Spain,ambassador to South Africa,Ramón Gil-Casares,Q7290492,2005,2008,male,1953-10-26,,Ramón Gil-Casares CSIS 2013 (cropped).jpeg,Ramón Gil-Casares
 Spain,ambassador to South Africa,Pablo Benavides,Q5651222,2008,2012,male,1949-07-06,,,
 Spain,ambassador to South Africa,Juan Ignacio Sell,Q5950035,2012,2017,male,1963-02-14,,,
-Spain,ambassador to South Korea,Delfí Colomé i Pujol,Q11916801,2005,2008,male,1946-04-14,2008-04-12,,
+Spain,ambassador to South Korea,Delfí Colomé i Pujol,Q11916801,2005,2008,male,1946,2008,,
 Spain,ambassador to South Korea,Juan Bautista Leña Casas,Q5947758,2008,2010,male,1940-10-16,,,
 Spain,ambassador to South Korea,Luis Arias Romero,Q5982819,2011,2014,male,1949-12-30,,,
 Spain,ambassador to South Korea,Gonzalo Ortíz Díez-Tortosa,Q42755488,2014,2018,male,1948-11-08,,,

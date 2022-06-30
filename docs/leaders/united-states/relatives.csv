@@ -194,6 +194,9 @@ United States,Q158813,Mike Huckabee,father,Q20177225,Dorsey Wiles Huckabee
 United States,Q158813,Mike Huckabee,mother,Q99911610,Mae Huckabee
 United States,Q158813,Mike Huckabee,spouse,Q6153404,Janet Huckabee
 United States,Q15972549,Bruce Rauner,spouse,Q20710108,Diana Rauner
+United States,Q15992945,"Elton Engstrom, Jr.",child,Q5053473,Cathy Muñoz
+United States,Q15992945,"Elton Engstrom, Jr.",father,Q28822870,Elton Engstrom Sr.
+United States,Q15992945,"Elton Engstrom, Jr.",mother,Q28813093,Thelma Engstrom
 United States,Q15993009,Hugh Gillis,sibling,Q17037420,"Jim L. Gillis, Jr."
 United States,Q160157,Joe Lieberman,spouse,Q5637601,Hadassah Lieberman
 United States,Q160181,Tim Pawlenty,spouse,Q13560980,Mary Pawlenty
@@ -476,6 +479,7 @@ United States,Q26436159,Ilhan Omar,father,Q96370232,Nur Omar Mohamed
 United States,Q265791,Ileana Ros-Lehtinen,spouse,Q5268414,Dexter Lehtinen
 United States,Q267740,Stephanie Herseth Sandlin,father,Q27063777,Lars Herseth
 United States,Q267740,Stephanie Herseth Sandlin,spouse,Q1118577,Max Sandlin
+United States,Q267902,James Mattis,spouse,Q112796078,Christina Lomasney
 United States,Q2685,Arnold Schwarzenegger,child,Q23800185,Joseph Baena
 United States,Q2685,Arnold Schwarzenegger,child,Q28109921,Christina Schwarzenegger
 United States,Q2685,Arnold Schwarzenegger,child,Q28109928,Christopher Schwarzenegger
@@ -527,6 +531,7 @@ United States,Q292988,Madeleine Bordallo,spouse,Q521420,Ricardo Bordallo
 United States,Q293365,Penny Pritzker,father,Q16093011,Donald Pritzker
 United States,Q293365,Penny Pritzker,mother,Q106967837,Susan Ann Pritzker
 United States,Q293365,Penny Pritzker,sibling,Q6103950,J.B. Pritzker
+United States,Q29345947,Jan Faiks,spouse,Q30122261,Lloyd Jones
 United States,Q295492,Bobby Jindal,father,Q20160834,Amar Jindal
 United States,Q295492,Bobby Jindal,spouse,Q20176827,Supriya Jindal
 United States,Q2960128,Charles Rivkin,child,Q79050987,Lily Rivkin
@@ -543,6 +548,7 @@ United States,Q3002054,Craig Roberts Stapleton,child,Q7962321,Walker Stapleton
 United States,Q3002054,Craig Roberts Stapleton,father,Q99372629,"Benjamin Franklin Stapleton, Jr."
 United States,Q3002054,Craig Roberts Stapleton,spouse,Q99372505,Dorothy Walker
 United States,Q30121703,Richard Ojeda,spouse,Q62096369,Kelly Ojeda
+United States,Q30122261,Lloyd Jones,spouse,Q29345947,Jan Faiks
 United States,Q30148517,Christopher A. Wray,spouse,Q106272410,Helen Wray
 United States,Q3036086,Don Beyer,spouse,Q6808633,Megan Beyer
 United States,Q3048622,Edward M. Kennedy Jr.,father,Q134549,Ted Kennedy
@@ -613,6 +619,8 @@ United States,Q350378,Gary Locke,spouse,Q30944221,Mona Lee Locke
 United States,Q3518911,Terry McAuliffe,spouse,Q45120525,Dorothy McAuliffe
 United States,Q352123,Gary Johnson,father,Q20202251,Earl W. Johnson
 United States,Q352123,Gary Johnson,spouse,Q20202250,Dee Johnson
+United States,Q352422,Mike Gravel,father,Q97104572,Alphonse Gravel
+United States,Q352422,Mike Gravel,mother,Q97104586,Marie Bourassa
 United States,Q353826,Tom Vilsack,spouse,Q5110713,Christie Vilsack
 United States,Q355522,Mitch McConnell,father,Q107323253,Addison Mitchell McConnell
 United States,Q355522,Mitch McConnell,mother,Q107323256,Julia McConnell
@@ -822,6 +830,7 @@ United States,Q505236,Fred Upton,father,Q24050570,Stephen Edward Upton
 United States,Q505236,Fred Upton,mother,Q96203329,Elizabeth Brooks Vial
 United States,Q505236,Fred Upton,sibling,Q24050623,Jeff Upton
 United States,Q5052604,Catherine Cortez Masto,spouse,Q93876373,Paul Masto
+United States,Q5053473,Cathy Muñoz,father,Q15992945,"Elton Engstrom, Jr."
 United States,Q50612,Susan Rice,father,Q1338730,Emmett J. Rice
 United States,Q50612,Susan Rice,mother,Q29261542,Lois Rice
 United States,Q5076629,Charlie Baker,father,Q5076633,Charles D. Baker
@@ -847,6 +856,7 @@ United States,Q5232769,David D. Cortese,father,Q5290574,Dominic L. Cortese
 United States,Q5242449,Dawn Gibbons,spouse,Q639207,Jim Gibbons
 United States,Q5248232,Deborah Dingell,spouse,Q600393,"John Dingell, Jr."
 United States,Q525362,Sonny Perdue,relative,Q17402717,David Perdue
+United States,Q5258380,Dennis Egan,father,Q878916,William Allen Egan
 United States,Q5271471,Diane Grendell,spouse,Q7803572,Tim Grendell
 United States,Q527493,Duncan L. Hunter,child,Q540521,Duncan D. Hunter
 United States,Q527553,George Allen,father,Q5536190,George Allen
@@ -1183,6 +1193,7 @@ United States,Q935734,Jared Polis,spouse,Q96318776,Marlon Reis
 United States,Q93659115,Jane Kidd,father,Q885578,Ernest Vandiver
 United States,Q93659115,Jane Kidd,relative,Q718415,Richard Russell
 United States,Q939760,Benigno Fitial,spouse,Q6290747,Josie Fitial
+United States,Q943107,Lowell Thomas Jr.,father,Q2499689,Lowell Thomas
 United States,Q946591,Jim Matheson,father,Q889109,Scott M. Matheson
 United States,Q946591,Jim Matheson,sibling,Q7436779,"Scott Matheson, Jr."
 United States,Q94851188,Alexis Hansen,spouse,Q6066080,Ira Hansen
