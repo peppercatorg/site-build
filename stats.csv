@@ -88,7 +88,7 @@ kazakhstan,32,109,53,157
 kenya,30,254,1027,1206
 kiribati,16,24,40,54
 kosovo,23,40,4,42
-kuwait,21,62,3,64
+kuwait,21,63,3,65
 kyrgyzstan,26,91,11,97
 latvia,20,97,418,446
 lesotho,41,48,0,48
@@ -169,7 +169,7 @@ tuvalu,12,49,26,51
 uganda,10,35,15,48
 ukraine,33,351,2048,2273
 united-arab-emirates,15,25,0,25
-united-kingdom,50,1117,2686,3394
+united-kingdom,50,1250,2686,3527
 united-states,88,1192,6139,7182
 uruguay,21,72,94,137
 uzbekistan,34,42,0,42
@@ -178,4 +178,4 @@ vietnam,12,32,6,36
 wales,15,46,160,162
 zambia,31,84,184,224
 zimbabwe,26,199,897,1003
-TOTAL,4696,26021,90082,108635
+TOTAL,4696,26152,90082,108766
