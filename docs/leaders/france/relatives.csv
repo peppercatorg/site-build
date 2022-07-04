@@ -22,6 +22,8 @@ France,Q1103356,Sylvie Andrieux,father,Q2853592,Antoine Andrieux
 France,Q1103356,Sylvie Andrieux,spouse,Q3168350,Jean-Paul Bacquet
 France,Q111685345,Florence Goulet,father,Q3014108,Daniel Goulet
 France,Q111685345,Florence Goulet,spouse,Q47485256,André Rougé
+France,Q112639136,Alexandra Masson,mother,Q4846183,Hélène Masson-Maret
+France,Q112641269,Caroline Colombier,mother,Q70233808,Brigitte du Tanney
 France,Q112641269,Caroline Colombier,relative,Q6120507,Jacques Colombier
 France,Q112652488,Antoine Villedieu,relative,Q112746329,Jean Rota
 France,Q112652500,Julie Delpech,mother,Q30344388,Pascale Fontenel-Personne
@@ -140,7 +142,7 @@ France,Q2124,Valéry Giscard d'Estaing,mother,Q16354844,May Bardoux
 France,Q2124,Valéry Giscard d'Estaing,sibling,Q3351066,Olivier Giscard d'Estaing
 France,Q2124,Valéry Giscard d'Estaing,sibling,Q68829937,Sylvie Giscard d'Estaing
 France,Q2124,Valéry Giscard d'Estaing,spouse,Q467628,Anne-Aymone Giscard d'Estaing
-France,Q21294609,Sébastien Chenu,spouse,Q56556893,Emmanuel Taché de La Pagerie
+France,Q21294609,Sébastien Chenu,spouse,Q56556893,Emmanuel Taché
 France,Q21294806,Michel Reveyrand-de Menthon,father,Q315029,François de Menthon
 France,Q21294806,Michel Reveyrand-de Menthon,spouse,Q270094,Marisol Touraine
 France,Q215569,Alain Juppé,spouse,Q3154954,Isabelle Juppé
@@ -309,6 +311,8 @@ France,Q30343102,Patrice Perrot,father,Q3085538,François Perrot
 France,Q30344388,Pascale Fontenel-Personne,child,Q112652500,Julie Delpech
 France,Q30346873,Paula Forteza,father,Q111034260,Jorge Forteza
 France,Q3035166,Dominique Frelaut,father,Q3172152,Jean Frélaut
+France,Q3035420,Dominique Raimbourg,father,Q2750,Bourvil
+France,Q3035420,Dominique Raimbourg,sibling,Q3380591,Philippe Raimbourg
 France,Q30388733,Fabien Roussel,father,Q110946411,Daniel Roussel
 France,Q30417849,Jean-René Cazeneuve,child,Q105678668,Marguerite Cazeneuve
 France,Q30417849,Jean-René Cazeneuve,child,Q87116010,Pierre Cazeneuve
@@ -607,7 +611,7 @@ France,Q559040,Jean-Yves Le Drian,sibling,Q3292640,Marie Le Drian
 France,Q559040,Jean-Yves Le Drian,spouse,Q50491448,Maria Vadillo
 France,Q560682,Hubert Védrine,father,Q3175081,Jean Védrine
 France,Q560944,François Lamy,sibling,Q33102560,Philippe Lamy
-France,Q56556893,Emmanuel Taché de La Pagerie,spouse,Q21294609,Sébastien Chenu
+France,Q56556893,Emmanuel Taché,spouse,Q21294609,Sébastien Chenu
 France,Q574342,Georges Frêche,child,Q85632476,Julie Frêche
 France,Q574342,Georges Frêche,child,Q98962044,Agnès Frêche
 France,Q574342,Georges Frêche,spouse,Q98961137,Claudine Frêche
@@ -697,6 +701,9 @@ France,Q87324505,Catherine Daufès-Roux,father,Q94806292,Roger Roux
 France,Q895873,Pierre Méhaignerie,father,Q2834594,Alexis Méhaignerie
 France,Q92076483,Michel Mudry,father,Q2871330,Auguste Mudry
 France,Q937175,Marc Dolez,father,Q19630245,Carlos Dolez
+France,Q938263,Axel Poniatowski,father,Q3310623,Michel Poniatowski
+France,Q938263,Axel Poniatowski,sibling,Q3215951,Ladislas Poniatowski
+France,Q938263,Axel Poniatowski,spouse,Q98246755,Anne Poniatowski
 France,Q945181,Patrick Balkany,spouse,Q3154865,Isabelle Balkany
 France,Q956428,Jean-François Lamour,spouse,Q8441585,Isabelle Spennato
 France,Q960474,Marc-Philippe Daubresse,spouse,Q57202579,Brigitte Astruc-Daubresse
