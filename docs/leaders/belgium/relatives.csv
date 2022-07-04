@@ -46,7 +46,6 @@ Belgium,Q17350697,Pierre Kompany,child,Q2995528,François Kompany
 Belgium,Q17350697,Pierre Kompany,child,Q65099847,Christel
 Belgium,Q17350983,Barbara d'Ursel de Lobkowicz,child,Q64160557,Ariane de Lobkowicz-d'Ursel
 Belgium,Q17350983,Barbara d'Ursel de Lobkowicz,spouse,Q3502142,Stéphane de Lobkowicz
-Belgium,Q17428172,Édouard Poullet,sibling,Q107029440,Edmond Poullet
 Belgium,Q17497048,Hélène Ryckmans,father,Q17834839,André Ryckmans
 Belgium,Q17497048,Hélène Ryckmans,mother,Q17835099,Geneviève Ryckmans-Corin
 Belgium,Q17497092,Julien Uyttendaele,father,Q691421,Marc Uyttendaele
@@ -113,6 +112,8 @@ Belgium,Q451040,Eric Van Rompuy,father,Q59544808,Vic Van Rompuy
 Belgium,Q451040,Eric Van Rompuy,sibling,Q1266784,Tine Van Rompuy
 Belgium,Q451040,Eric Van Rompuy,sibling,Q12983,Herman Van Rompuy
 Belgium,Q451040,Eric Van Rompuy,sibling,Q62090714,Anita Van Rompuy
+Belgium,Q458095,Miet Smet,father,Q1917034,Albert Smet
+Belgium,Q458095,Miet Smet,spouse,Q313809,Wilfried Martens
 Belgium,Q469352,Louis Michel,child,Q2218957,Mathieu Michel
 Belgium,Q469352,Louis Michel,child,Q950958,Charles Michel
 Belgium,Q476596,Alexander De Croo,father,Q1351926,Herman De Croo
@@ -151,4 +152,5 @@ Belgium,Q928374,Louis Tobback,child,Q960356,Bruno Tobback
 Belgium,Q950958,Charles Michel,father,Q469352,Louis Michel
 Belgium,Q950958,Charles Michel,partner,Q30058638,Amélie Derbaudrenghien
 Belgium,Q950958,Charles Michel,sibling,Q2218957,Mathieu Michel
+Belgium,Q960356,Bruno Tobback,father,Q928374,Louis Tobback
 Belgium,Q964403,Daniel Ducarme,child,Q3022653,Denis Ducarme

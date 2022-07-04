@@ -51,7 +51,7 @@ South Sudan,Minister of Cabinet Affairs,Martin Elia Lomuro,Q112685857,2020-02-22
 South Sudan,Minister of Commerce,Barnaba Marial Benjamin,Q4861322,2011,2011,male,,,Barnaba Marial Benjamin.jpg,Barnaba Marial Benjamin
 South Sudan,Minister of Commerce,Stephen Dhieu Dau,Q2344633,2011-07-10,2011-08-26,male,,,,Stephen Dhieu Dau
 South Sudan,Minister of Commerce,Garang Diing Akoung,Q5521927,2011-08-26,2015-02-23,male,1963,,,Garang Diing Akuong
-South Sudan,Minister of Commerce,Joseph Bangasi Bakosoro,Q112686060,2015,2015,,,,,
+South Sudan,Minister of Commerce,Joseph Bakosoro,Q6281290,2015,2015,male,,,,Joseph Bakosoro
 South Sudan,Minister of Commerce,Beatrice Wani-Noah,Q90955928,2015,2016,female,1959-07-28,,Beatrice Wani-Noah (cropped).jpg,Beatrice Wani-Noah
 South Sudan,Minister of Commerce,Akec Khoc Aciew Khoc,Q112686062,2015-02-23,2015-02-23,,,,,
 South Sudan,Minister of Commerce,Barnaba Marial Benjamin,Q4861322,2015-02-23,2015-02-27,male,,,Barnaba Marial Benjamin.jpg,Barnaba Marial Benjamin
@@ -93,7 +93,7 @@ South Sudan,Minister of Environment,Josephine Napwon Cosmos,Q112525664,2020-02-2
 South Sudan,Minister of Federal Affairs,Richard K. Mulla,Q112525875,2016-04-29,2020-03,,,,,
 South Sudan,Minister of Federal Affairs,Lasuba L. Wango,Q112707240,2020-02-22,,,,,,
 South Sudan,Minister of Finance,David Deng Athorbie,Q5232921,2011-07,2011-08,male,,,,David Deng Athorbei
-South Sudan,Minister of Finance,Kosti Manibe Ngai,Q112686444,2011-08-26,2013,male,,,,
+South Sudan,Minister of Finance,Kosti Manibe,Q112325675,2011-08-26,2013,male,,,,
 South Sudan,Minister of Finance,Marial Awou,Q112686445,2013,2013,male,,,,
 South Sudan,Minister of Finance,Aggrey Tisa Sabuni,Q112686446,2013-07-31,2016-04-28,,,,,
 South Sudan,Minister of Finance,Aggrey Tisa Sabuni,Q112686446,2013-10,2015-01-12,,,,,
@@ -224,7 +224,7 @@ South Sudan,Minister of Presidential Affairs,Emmanuel Lowilla,Q112712509,2011-08
 South Sudan,Minister of Presidential Affairs,Mayiik Ayii Deng,Q48975135,2016-04-29,2020-06-02,male,1971-12-20,,Mayiik Ayii Deng.jpg,Mayiik Ayii Deng
 South Sudan,Minister of Presidential Affairs,Nhial Deng Nhial,Q4893553,2020-06-02,2021-04-11,male,1952-01-01,,Nhial Deng Nhial (cropped).jpg,Nhial Deng Nhial
 South Sudan,Minister of Presidential Affairs,Barnaba Marial Benjamin,Q4861322,2021-05,,male,,,Barnaba Marial Benjamin.jpg,Barnaba Marial Benjamin
-South Sudan,Minister of Public Service,Joseph Bangasi Bakosoro,Q112686060,2020-02-22,,,,,,
+South Sudan,Minister of Public Service,Joseph Bakosoro,Q6281290,2020-02-22,,male,,,,Joseph Bakosoro
 South Sudan,Minister of Roads and Bridges,Gier Chuang Aluong,Q112525634,2011-08-26,2013-07-23,male,,,,
 South Sudan,Minister of Roads and Bridges,Rebecca Joshua Okwaci,Q42659471,2016-04-29,2020-03,female,1960,,,Rebecca Joshua Okwaci
 South Sudan,Minister of Roads and Bridges,Gier Chuang Aluong,Q112525634,2018,2020,male,,,,
@@ -322,6 +322,7 @@ South Sudan,Governor of the Bank of South Sudan,Dier Tong Ngor,Q112789505,2018-0
 South Sudan,Governor of the Bank of South Sudan,Gamal Abdalla Wani,Q112789507,2020-01,2020-11,male,,,,
 South Sudan,Governor of the Bank of South Sudan,Dier Tong Ngor,Q112789505,2020-11,2022-01,male,,,,
 South Sudan,Governor of the Bank of South Sudan,Moses Makur Deng,Q112789508,2022-01,,male,,,,
+South Sudan,Governor of Central Equatoria,Clement Wani Konga,Q5131430,2005-07,2011-07,male,,,,Clement Wani Konga
 South Sudan,Governor of Central Equatoria,Emmanuel Adil Anthony,Q96776905,2020-06-29,,male,,,,Emmanuel Adil Anthony
 South Sudan,Governor of Eastern Equatoria,Abdullah Amiri,Q112684403,1997-12,2000-01,male,,,,
 South Sudan,Governor of Eastern Equatoria,Abdullah Allajabo,Q112684405,2000-01,2001-02,male,,,,
@@ -333,21 +334,26 @@ South Sudan,Governor of Eastern Equatoria,Louis Lobong Lojore,Q16202255,2010-05-
 South Sudan,Governor of Eastern Equatoria,JJ Okot,Q112684409,2011-07-09,2019-07-09,male,,,,
 South Sudan,Governor of Eastern Equatoria,Louis Lobong Lojore,Q16202255,2019-07,2020-05,male,1962,,,Louis Lobong Lojore
 South Sudan,Governor of Eastern Equatoria,Louis Lobong Lojore,Q16202255,2020-06,,male,1962,,,Louis Lobong Lojore
+South Sudan,Governor of Jonglei,Kuol Manyang Juuk,Q6445240,2007,2011,male,,,,Kuol Manyang Juuk
 South Sudan,Governor of Jonglei,Denay Jock Chagor,Q97413828,2020-07-15,,male,1975,,,Denay Jock Chagor
 South Sudan,Governor of Lakes,Makur Kulang,Q112684186,2020,2021-06-08,male,,,,
 South Sudan,Governor of Lakes,Rin Tueny Mabor,Q112684182,2021-06-08,,male,,,,
 South Sudan,Governor of Lol State,Rizik Zackaria Hassan,Q7339103,2015-12-24,,male,1997-02-12,,,Rezik Zechariah Hassan
+South Sudan,Governor of Northern Bahr el Ghazal,Paul Malong Awan,Q7152176,2008,2011,male,1962,,Paul Malong Awan.png,Paul Malong Awan
 South Sudan,Governor of Northern Bahr el Ghazal,Kuel Aguer Kuel,Q112686376,2014-05,2015-04-14,male,,,,
 South Sudan,Governor of Northern Bahr el Ghazal,Salva Chol Ayat,Q112684078,2015-04,2020-06,,,,,
 South Sudan,Governor of Northern Bahr el Ghazal,Tong Akeen Ngor,Q105604868,2020-06-19,,male,1965,,,Tong Akeen Ngor
 South Sudan,Governor of Tonj State,Akec Tong Aleu,Q22276732,2015-12-24,2018-02,male,,,,Akec Tong Aleu
 South Sudan,Governor of Tonj State,Anthony Madut,Q111201917,2018-02,2019-01-21,male,1941,2019-08-25,,
 South Sudan,Governor of Tonj State,Mathew Mathiang Magordit,Q112789642,2019-01-21,2020-02-22,male,,,,
+South Sudan,Governor of Unity,Taban Deng Gai,Q7672883,2005-09-30,2011-07-09,male,1959,,Taban Deng Gai.png,Taban Deng Gai
 South Sudan,Governor of Unity,Joseph Monytuil,Q22278446,2020-06-30,,male,,,,Joseph Monytuil
+South Sudan,Governor of Upper Nile,Simon Kon,Q112810412,2010-04,2011-07,,,,,
 South Sudan,Governor of Upper Nile,Budhok Ayang Kur,Q112684906,2021-01-29,,male,,,,
 South Sudan,Governor of Warrap,Nyandeng Malek Deliech,Q7070866,2010-05-25,2015-08,female,1964,,,Nyandeng Malek Deliech
 South Sudan,Governor of Warrap,Bona Panek,Q22277112,2020,2021-01-28,male,,,,Bona Panek
 South Sudan,Governor of Warrap,Aleu Ayieny Aleu,Q112525561,2021-01-28,,male,,,,
+South Sudan,Governor of Western Bahr el Ghazal,Rizig Zakaria,Q112810402,2010-04,2011-07,,,,,
 South Sudan,Governor of Western Bahr el Ghazal,Sarah Cleto Hassan,Q105223028,2020-06-30,,female,,,,Sarah Cleto Hassan
 South Sudan,Governor of Western Equatoria,Patrick Zamoi,Q112684547,2005,2005,male,,,,
 South Sudan,Governor of Western Equatoria,Samuel Abu-John Kabbashi,Q112684555,2005,2008,male,,,,
