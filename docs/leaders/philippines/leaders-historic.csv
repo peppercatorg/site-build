@@ -2,7 +2,8 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Philippines,President,Joseph Estrada,Q212733,1998-06-30,2001-01-20,male,1937-04-19,,President Joseph Erap Ejercito Estrada poses with Senate President Andres Zaldiver of Chile.jpg,Joseph Estrada
 Philippines,President,Gloria Macapagal Arroyo,Q123665,2001-01-20,2010-06-30,female,1947-04-05,,Gloria Macapagal Arroyo WEF 2009-crop.jpg,Gloria Macapagal Arroyo
 Philippines,President,Benigno Aquino III,Q1464,2010-06-30,2016-06-30,male,1960-02-08,2021-06-24,President Benigno S. Aquino III.jpg,Benigno Aquino III
-Philippines,President,Rodrigo Duterte,Q457786,2016-06-30,,male,1945-03-28,,President Rodrigo Duterte.jpg,Rodrigo Duterte
+Philippines,President,Rodrigo Duterte,Q457786,2016-06-30,2022-06-30,male,1945-03-28,,President Rodrigo Duterte.jpg,Rodrigo Duterte
+Philippines,President,Bongbong Marcos,Q983324,2022-06-30,,male,1957-09-13,,Ferdinand Marcos Jr. Inauguration RTVM (Enhanced).png,Bongbong Marcos
 Philippines,Vice President,Gloria Macapagal Arroyo,Q123665,1998-06-30,2001-01-20,female,1947-04-05,,Gloria Macapagal Arroyo WEF 2009-crop.jpg,Gloria Macapagal Arroyo
 Philippines,Vice President,Teofisto Guingona Jr.,Q983317,2001-02-07,2004-06-30,male,1928-07-04,,Vp guingona.jpg,Teofisto Guingona Jr.
 Philippines,Vice President,Noli de Castro,Q338324,2004-06-30,2010-06-30,male,1949-07-06,,Vp Noli De Castro.jpg,Noli de Castro
@@ -236,7 +237,7 @@ Philippines,Governor of Dinagat Islands,Kaka Bag-ao,Q6349093,2019-06-30,,female,
 Philippines,Governor of Eastern Samar,Ben Evardone,Q17371063,2019-06-30,,male,,,HoR Official Portrait of Ben Evardone.jpg,
 Philippines,Governor of Guimaras,Samuel Gumarin,Q66310311,2013-06-30,,male,,,,Samuel Gumarin
 Philippines,Governor of Ifugao,Jerry Dalipog,Q66305504,2019-06-30,,male,1964-02-20,,,Jerry Dalipog
-Philippines,Governor of Ilocos Norte,Bongbong Marcos,Q983324,1998-06-30,2007-06-30,male,1957-09-13,,Bongbong Marcos.jpg,Bongbong Marcos
+Philippines,Governor of Ilocos Norte,Bongbong Marcos,Q983324,1998-06-30,2007-06-30,male,1957-09-13,,Ferdinand Marcos Jr. Inauguration RTVM (Enhanced).png,Bongbong Marcos
 Philippines,Governor of Ilocos Norte,Michael Marcos Keon,Q2330049,2007-06-30,2010-06-30,male,1954-09-22,,Laoag City Mayor Michael Marcos Keon.jpg,Michael Marcos Keon
 Philippines,Governor of Ilocos Norte,Matthew Manotoc,Q66372258,2019-06-30,,male,1988-12-09,,Matthew Marcos Manotoc - 2019 (cropped).jpg,Matthew Manotoc
 Philippines,Governor of Ilocos Sur,Chavit Singson,Q2399446,1998-06-30,2001-06-30,male,1941-06-21,,Chavit Singson Miss Universe 2016.jpg,Chavit Singson
@@ -262,7 +263,7 @@ Philippines,Governor of Maguindanao,Bai Mariam Mangudadatu,Q66493824,2019-06-30,
 Philippines,Governor of Marinduque,"Presbitero Velasco, Jr.",Q7240707,2019-06-30,,male,1948-08-08,,Velasco in robes.jpg,Presbitero Velasco Jr.
 Philippines,Governor of Masbate,Antonio Kho,Q17371122,2016-06-30,,male,,,Masbate Governor Antonio Kho (cropped).jpg,
 Philippines,Governor of Misamis Occidental,Philip Tan,Q66363099,2019-06-30,,male,,,,Philip Tan (politician)
-Philippines,Governor of Misamis Oriental,Yevgeny Emano,Q66391776,2013-06-30,,male,1975-01-30,,,Yevgeny Emano
+Philippines,Governor of Misamis Oriental,Yevgeny Emano,Q66391776,2013-06-30,2022-06-30,male,1975-01-30,,,Yevgeny Emano
 Philippines,Governor of Mountain Province,Bonifacio C. Lacwasan,Q67508965,2019-06-30,,,,,,
 Philippines,Governor of Negros Occidental,"Alfredo G. Marañon, Jr.",Q12961339,2010-06-30,2019-06-30,male,1935-12-21,2020-10-01,Alfredo Marañon 2014.jpg,Alfredo Marañon
 Philippines,Governor of Negros Occidental,Eugenio Jose Lacson,Q28673565,2019-06-30,,male,1959-12-21,,Governor Bong Lacson Negros 2019.png,Eugenio Jose Lacson
@@ -275,7 +276,7 @@ Philippines,Governor of Nueva Ecija,Aurelio Umali,Q17371328,2019-06-30,,male,196
 Philippines,Governor of Nueva Vizcaya,Carlos M. Padilla,Q12962521,2016-06-30,,male,1944-09-19,,Carlos Padilla LPP.jpg,Carlos Padilla (politician)
 Philippines,Governor of Occidental Mindoro,Eduardo Gadiano,Q66187272,2019-06-30,,male,,,Eduardo Gadiano LPP.jpg,Eduardo Gadiano
 Philippines,Governor of Oriental Mindoro,Humerlito Dolor,Q65925036,2019-06-30,,male,1976-11-27,,Vice-Governor Humerlito Atienza Dolor Official Portrait.jpg,Humerlito Dolor
-Philippines,Governor of Palawan,Jose Alvarez,Q66013249,2013-06-30,,male,1944-06-29,,DBP Jose CH Alvarez (cropped).jpg,Jose Alvarez (Filipino politician)
+Philippines,Governor of Palawan,Jose Alvarez,Q66013249,2013-06-30,2022-06-30,male,1944-06-29,,DBP Jose CH Alvarez (cropped).jpg,Jose Alvarez (Filipino politician)
 Philippines,Governor of Pampanga,Dennis Pineda,Q65967168,2019-06-30,,male,1974-05-06,,Governor Dennis Pineda (cropped).jpg,Dennis Pineda (politician)
 Philippines,Governor of Pangasinan,Amado Espino III,Q65936017,2016-06-30,,male,1977,,Amado Espino III LPP.jpg,Amado Espino III
 Philippines,Governor of Quezon,Danilo Suarez,Q17371295,2019-06-30,,male,1942-12-20,,HoR Official Portrait - Danilo Suarez.jpg,Danilo Suarez
@@ -300,9 +301,9 @@ Philippines,Governor of Zambales,Hermogenes Ebdane,Q983319,2010-06-30,2016-06-30
 Philippines,Governor of Zambales,Hermogenes Ebdane,Q983319,2019-06-30,,male,1948-12-30,,Hermogenes Ebdane 2007 (cropped) 02.jpg,Hermogenes Ebdane
 Philippines,Governor of Zamboanga Sibugay,Wilter Palma,Q66088075,2013-06-30,2016-06-30,male,,,Zamboanga Sibugay Governor Wilter Yap Palma.jpg,Wilter Palma
 Philippines,Governor of Zamboanga Sibugay,Wilter Palma,Q66088075,2016-06-30,2019-06-30,male,,,Zamboanga Sibugay Governor Wilter Yap Palma.jpg,Wilter Palma
-Philippines,Governor of Zamboanga Sibugay,Wilter Palma,Q66088075,2019-06-30,,male,,,Zamboanga Sibugay Governor Wilter Yap Palma.jpg,Wilter Palma
+Philippines,Governor of Zamboanga Sibugay,Wilter Palma,Q66088075,2019-06-30,2022-06-30,male,,,Zamboanga Sibugay Governor Wilter Yap Palma.jpg,Wilter Palma
 Philippines,Governor of Zamboanga del Norte,Isagani S. Amatong,Q59515565,1998,2004,male,1940-10-19,,,Isagani Amatong
-Philippines,Governor of Zamboanga del Norte,Roberto Uy,Q66311190,2013-06-30,,male,1951-12-28,,Roberto Uy on Galing Pook (cropped).jpg,Roberto Uy
+Philippines,Governor of Zamboanga del Norte,Roberto Uy,Q66311190,2013-06-30,2022-06-30,male,1951-12-28,,Roberto Uy on Galing Pook (cropped).jpg,Roberto Uy
 Philippines,Governor of Zamboanga del Sur,Victor Yu,Q7926469,2019-06-30,,male,,,HoR Official Portrait of Victor Yu.jpg,Victor Yu
 Philippines,ambassador to the Holy See,Mercedes Arrastia-Tuason,Q14917727,2009-10-02,,female,1930-02-27,,,Mercedes Arrastia-Tuason
 Philippines,ambassador to Lebanon,Bernardita Catalla,Q89251950,2017,2020-04-02,female,1958-02-18,2020-04-02,Ambassador Bernardita Catalla (cropped).jpg,Bernardita Catalla
