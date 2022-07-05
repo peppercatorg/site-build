@@ -2,8 +2,9 @@
 
 TMPFILE=$(mktemp)
 
+# For each country specified (or all, if none specified), generate the latest counts
 pushd docs/leaders
-for d in *; do
+for d in $1*; do
   pushd -q $d
   leaders=$(qsv select personID current.csv | qsv dedup | qsv search Q | qsv count)
   histlead=$(qsv select personID leaders-historic.csv | qsv dedup | qsv search Q | qsv count)
@@ -14,8 +15,11 @@ for d in *; do
 done 2>/dev/null | tee $TMPFILE
 popd
 
-qsv rename -n "country,leaders,historic,legislators,unique" $TMPFILE | tee stats.csv
+# Append the latest counts to the end of the existing ones, and then take the latest of each
+qsv rename -n "country,leaders,historic,legislators,unique" $TMPFILE | sponge $TMPFILE
+qsv cat rows stats.csv $TMPFILE | qsv search -s country -v TOTAL | qsv dedup -s country | sponge stats.csv
 
+# Recalculate the unique totals across everywhere
 leaders=$(qsv cat rows **/current.csv | qsv select personID | qsv dedup | qsv search Q | qsv count)
 histlead=$(qsv cat rows **/leaders-historic.csv | qsv select personID | qsv dedup | qsv search Q | qsv count)
 histleg=$(qsv cat rows **/legislators-historic.csv | qsv select personID | qsv dedup | qsv search Q | qsv count)
