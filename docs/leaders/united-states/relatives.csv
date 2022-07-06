@@ -32,6 +32,7 @@ United States,Q10853588,Kamala Harris,relative,Q98382417,Cole Emhoff
 United States,Q10853588,Kamala Harris,relative,Q98382515,Ella Emhoff
 United States,Q10853588,Kamala Harris,sibling,Q16729668,Maya Harris
 United States,Q10853588,Kamala Harris,spouse,Q65029113,Doug Emhoff
+United States,Q110996801,George Silides,spouse,Q29982574,Kathryn Poland
 United States,Q11100,Deval Patrick,spouse,Q110903410,Diane B. Patrick
 United States,Q111022376,Patrice McClammy,father,Q20707703,Thad McClammy
 United States,Q111156646,Mary Ann Middaugh,spouse,Q111156151,James Mick Middaugh
@@ -61,6 +62,7 @@ United States,Q1124,Bill Clinton,spouse,Q6294,Hillary Clinton
 United States,Q1124,Bill Clinton,stepparent,Q4112506,"Roger Clinton, Sr."
 United States,Q1124,Bill Clinton,stepparent,Q4112619,Jeff Dwire
 United States,Q1124,Bill Clinton,stepparent,Q75762966,Richard Kelley
+United States,Q112800312,Bill Poland,spouse,Q29982574,Kathryn Poland
 United States,Q1147285,Pedro Rosselló,child,Q7332181,Ricardo Rosselló
 United States,Q1160178,Daniel Brewster,father,Q102395348,"Capt. Daniel Baugh Brewster, Sr."
 United States,Q11607,"Jon Huntsman, Jr.",child,Q4664468,Abby Huntsman
@@ -544,6 +546,8 @@ United States,Q298443,Rahm Emanuel,sibling,Q2861138,Ari Emanuel
 United States,Q298443,Rahm Emanuel,sibling,Q5423140,Ezekiel Emanuel
 United States,Q29863844,Amy Coney Barrett,spouse,Q100146500,Jesse M. Barrett
 United States,Q29913307,Matthew Pottinger,father,Q6258855,John Stanley Pottinger
+United States,Q29982574,Kathryn Poland,spouse,Q110996801,George Silides
+United States,Q29982574,Kathryn Poland,spouse,Q112800312,Bill Poland
 United States,Q3002054,Craig Roberts Stapleton,child,Q7962321,Walker Stapleton
 United States,Q3002054,Craig Roberts Stapleton,father,Q99372629,"Benjamin Franklin Stapleton, Jr."
 United States,Q3002054,Craig Roberts Stapleton,spouse,Q99372505,Dorothy Walker

@@ -2585,6 +2585,7 @@ Denmark,Q3435893,Birte Weiss,spouse,Q6234817,Ove Weiss
 Denmark,Q3499031,Lone Dybkjær,spouse,Q311063,Poul Nyrup Rasmussen
 Denmark,Q3547975,Ulrik Federspiel,father,Q701926,Per Federspiel
 Denmark,Q3560841,Carl Holst,father,Q12331577,Peter Holst
+Denmark,Q362151,Joachim B. Olsen,spouse,Q12321336,Karen Westergaard
 Denmark,Q381139,Jonathan Motzfeldt,spouse,Q55087277,Margit Motzfeldt
 Denmark,Q425708,Niels Helveg Petersen,child,Q12327679,Morten Helveg Petersen
 Denmark,Q425708,Niels Helveg Petersen,child,Q12332907,Rasmus Helveg Petersen
@@ -5249,6 +5250,8 @@ Germany,Q86294,Jens Spahn,spouse,Q72569533,Daniel Funke
 Germany,Q865385,Birgitta Maria Siefker-Eberle,spouse,Q2128070,Rainer Eberle
 Germany,Q88087,Ole Schröder,spouse,Q60848,Kristina Schröder
 Germany,Q8863,Klaus Wowereit,partner,Q88919704,Jörn Kubicki
+Germany,Q893758,Boris Pistorius,mother,Q2501794,Ursula Pistorius
+Germany,Q893758,Boris Pistorius,partner,Q72617,Doris Schröder-Köpf
 Germany,Q920705,Britta Ernst,spouse,Q61053,Olaf Scholz
 Germany,Q95574,Johanna Wanka,spouse,Q1515368,Gert Wanka
 Germany,Q96735,Sabine Bätzing-Lichtenthäler,relative,Q1503851,Georg Bätzing
@@ -10450,6 +10453,7 @@ Poland,Q1683061,Janusz Korwin-Mikke,spouse,Q107564268,Dominika Korwin-Mikke
 Poland,Q174491,Robert Biedroń,partner,Q28123976,Krzysztof Śmiszek
 Poland,Q19267935,Hanna Gill-Piątek,spouse,Q9359612,Tomasz Piątek
 Poland,Q19268209,Jerzy Snopek,spouse,Q111726907,Márta Gedeon
+Poland,Q19268672,Maciej Gdula,father,Q9152065,Andrzej Gdula
 Poland,Q19991536,Agata Kornhauser-Duda,child,Q28371905,Kinga Duda
 Poland,Q19991536,Agata Kornhauser-Duda,father,Q6307323,Julian Kornhauser
 Poland,Q19991536,Agata Kornhauser-Duda,sibling,Q20029414,Jakub Kornhauser
@@ -10481,7 +10485,7 @@ Poland,Q2757,Lech Kaczyński,father,Q328667,Rajmund Kaczyński
 Poland,Q2757,Lech Kaczyński,godparent,Q7599192,Stanisław Miedza-Tomaszewski
 Poland,Q2757,Lech Kaczyński,godparent,Q9391893,Zofia Woźnicka
 Poland,Q2757,Lech Kaczyński,mother,Q3266318,Jadwiga Kaczyńska
-Poland,Q2757,Lech Kaczyński,sibling,Q55917,Jarosław Kaczyński
+Poland,Q2757,Lech Kaczyński,sibling,Q55917,Zosia Kaczyński
 Poland,Q2757,Lech Kaczyński,spouse,Q215342,Maria Kaczyńska
 Poland,Q28123976,Krzysztof Śmiszek,partner,Q174491,Robert Biedroń
 Poland,Q288532,Krystyna Bochenek,spouse,Q9151601,Andrzej Bochenek
@@ -10527,9 +10531,9 @@ Poland,Q55758,Aleksander Kwaśniewski,spouse,Q55756,Jolanta Kwaśniewska
 Poland,Q55910,Jerzy Buzek,child,Q390870,Agata Buzek
 Poland,Q55910,Jerzy Buzek,spouse,Q11763400,Ludgarda Buzek
 Poland,Q55915,Włodzimierz Cimoszewicz,child,Q9281496,Tomasz Cimoszewicz
-Poland,Q55917,Jarosław Kaczyński,father,Q328667,Rajmund Kaczyński
-Poland,Q55917,Jarosław Kaczyński,mother,Q3266318,Jadwiga Kaczyńska
-Poland,Q55917,Jarosław Kaczyński,sibling,Q2757,Lech Kaczyński
+Poland,Q55917,Zosia Kaczyński,father,Q328667,Rajmund Kaczyński
+Poland,Q55917,Zosia Kaczyński,mother,Q3266318,Jadwiga Kaczyńska
+Poland,Q55917,Zosia Kaczyński,sibling,Q2757,Lech Kaczyński
 Poland,Q55922,Tadeusz Mazowiecki,child,Q64580822,Michał Mazowiecki
 Poland,Q55922,Tadeusz Mazowiecki,child,Q9376684,Wojciech Mazowiecki
 Poland,Q55924,Józef Oleksy,sibling,Q65190635,Wacław Oleksy
@@ -10876,6 +10880,7 @@ Russia,Q28497366,Mikhail Gloubokovsky,spouse,Q28497365,Elmira Glubokovskaya
 Russia,Q28526218,Artyom Turov,father,Q3920850,Viktor Turov
 Russia,Q297006,Akhmad Kadyrov,child,Q217115,Ramzan Kadyrov
 Russia,Q297006,Akhmad Kadyrov,spouse,Q21887442,Aymani Kadyrova
+Russia,Q3050754,Eleonora Mitrofanova,sibling,Q4296811,Aleksey Mitrofanov
 Russia,Q311019,Boris Berezovsky,child,Q15064471,Elizaveta Borisovna Berezovskaïa
 Russia,Q313452,Buvaisar Saitiev,sibling,Q348977,Adam Saitiev
 Russia,Q313915,Sergey Kiriyenko,child,Q5680808,Vladimir Kiriyenko
@@ -10946,6 +10951,7 @@ Russia,Q4281196,Vitaly Margelov,sibling,Q4281193,Aleksandr Margelov
 Russia,Q4281196,Vitaly Margelov,sibling,Q4281195,Anatoly Margelov
 Russia,Q4284542,Mikhail Matveyev,father,Q4284547,Nikolay Matveyev
 Russia,Q4292925,Yelena Mizulina,child,Q106839254,Ekaterina Mizulina
+Russia,Q4296811,Aleksey Mitrofanov,sibling,Q3050754,Eleonora Mitrofanova
 Russia,Q4298520,Mikhail Mishustin,father,Q82905670,Vladimir Mishustin
 Russia,Q4298520,Mikhail Mishustin,mother,Q83161648,Luiza Mishustina
 Russia,Q4298520,Mikhail Mishustin,spouse,Q82751268,Vladlena Mishustina
@@ -11025,6 +11031,7 @@ Russia,Q60389401,Alexander Yakubovsky,father,Q4537160,Vladimir Yakubovsky
 Russia,Q6097047,Ivan Musatov,father,Q14920892,Mikhail Musatov
 Russia,Q612244,Yury Chaika,child,Q105078108,Igor Chaika
 Russia,Q612244,Yury Chaika,child,Q21617046,Artem Chaika
+Russia,Q65768417,Anastasia Udalcova,spouse,Q713923,Sergei Udaltsov
 Russia,Q70250998,Viktor Kondratov,child,Q101077271,Ruslan Viktorovich Kondratov
 Russia,Q737463,Dmitry Rogozin,child,Q16692250,Alexey Rogozin
 Russia,Q737463,Dmitry Rogozin,father,Q4395590,Oleg Rogozin
@@ -18023,6 +18030,11 @@ United Kingdom,Q654846,"Michael Chan, Baron Chan",child,Q75562276,Ruth Cheng Bin
 United Kingdom,Q654846,"Michael Chan, Baron Chan",father,Q75562263,Michael Chieu Kim Chan
 United Kingdom,Q654846,"Michael Chan, Baron Chan",mother,Q75562265,Rosie Chan
 United Kingdom,Q654846,"Michael Chan, Baron Chan",spouse,Q75562269,Irene Wei-Len Chee
+United Kingdom,Q655406,"Robert Carswell, Baron Carswell",child,Q75592908,Catherine Carswell
+United Kingdom,Q655406,"Robert Carswell, Baron Carswell",child,Q75592910,Patricia Carswell
+United Kingdom,Q655406,"Robert Carswell, Baron Carswell",father,Q75592902,Alan Edward Carswell
+United Kingdom,Q655406,"Robert Carswell, Baron Carswell",mother,Q75592903,Nance Eileen Corlett
+United Kingdom,Q655406,"Robert Carswell, Baron Carswell",spouse,Q75592905,"Romayne, Lady Carswell"
 United Kingdom,Q660250,"Joan Hanham, Baroness Hanham",child,Q76334569,James Hanham
 United Kingdom,Q660250,"Joan Hanham, Baroness Hanham",child,Q76334570,Emma Hanham
 United Kingdom,Q660250,"Joan Hanham, Baroness Hanham",father,Q76027110,Alfred Spark
@@ -18746,6 +18758,7 @@ United States,Q10853588,Kamala Harris,relative,Q98382417,Cole Emhoff
 United States,Q10853588,Kamala Harris,relative,Q98382515,Ella Emhoff
 United States,Q10853588,Kamala Harris,sibling,Q16729668,Maya Harris
 United States,Q10853588,Kamala Harris,spouse,Q65029113,Doug Emhoff
+United States,Q110996801,George Silides,spouse,Q29982574,Kathryn Poland
 United States,Q11100,Deval Patrick,spouse,Q110903410,Diane B. Patrick
 United States,Q111022376,Patrice McClammy,father,Q20707703,Thad McClammy
 United States,Q111156646,Mary Ann Middaugh,spouse,Q111156151,James Mick Middaugh
@@ -18775,6 +18788,7 @@ United States,Q1124,Bill Clinton,spouse,Q6294,Hillary Clinton
 United States,Q1124,Bill Clinton,stepparent,Q4112506,"Roger Clinton, Sr."
 United States,Q1124,Bill Clinton,stepparent,Q4112619,Jeff Dwire
 United States,Q1124,Bill Clinton,stepparent,Q75762966,Richard Kelley
+United States,Q112800312,Bill Poland,spouse,Q29982574,Kathryn Poland
 United States,Q1147285,Pedro Rosselló,child,Q7332181,Ricardo Rosselló
 United States,Q1160178,Daniel Brewster,father,Q102395348,"Capt. Daniel Baugh Brewster, Sr."
 United States,Q11607,"Jon Huntsman, Jr.",child,Q4664468,Abby Huntsman
@@ -19258,6 +19272,8 @@ United States,Q298443,Rahm Emanuel,sibling,Q2861138,Ari Emanuel
 United States,Q298443,Rahm Emanuel,sibling,Q5423140,Ezekiel Emanuel
 United States,Q29863844,Amy Coney Barrett,spouse,Q100146500,Jesse M. Barrett
 United States,Q29913307,Matthew Pottinger,father,Q6258855,John Stanley Pottinger
+United States,Q29982574,Kathryn Poland,spouse,Q110996801,George Silides
+United States,Q29982574,Kathryn Poland,spouse,Q112800312,Bill Poland
 United States,Q3002054,Craig Roberts Stapleton,child,Q7962321,Walker Stapleton
 United States,Q3002054,Craig Roberts Stapleton,father,Q99372629,"Benjamin Franklin Stapleton, Jr."
 United States,Q3002054,Craig Roberts Stapleton,spouse,Q99372505,Dorothy Walker
