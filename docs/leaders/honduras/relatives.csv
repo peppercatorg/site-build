@@ -6,17 +6,23 @@ Honduras,Q110787063,José Manuel Zelaya Rosales,relative,Q191060,Manuel Zelaya
 Honduras,Q110787306,Carlos Zelaya,child,Q110787063,José Manuel Zelaya Rosales
 Honduras,Q110787306,Carlos Zelaya,relative,Q8044708,Xiomara Castro
 Honduras,Q110787596,Héctor Zelaya Castro,mother,Q8044708,Xiomara Castro
+Honduras,Q15427651,Rosa Elena Bonilla,spouse,Q4737,Porfirio Lobo Sosa
+Honduras,Q16300525,Ana García Carías,spouse,Q5951723,Juan Orlando Hernández
 Honduras,Q191060,Manuel Zelaya,child,Q110651912,Xiomara Zelaya
 Honduras,Q191060,Manuel Zelaya,spouse,Q8044708,Xiomara Castro
 Honduras,Q299442,Roberto Micheletti,spouse,Q7525339,Siomara Girón
 Honduras,Q441393,Ricardo Maduro,spouse,Q4694502,Aguas Santas Ocaña Navarro
+Honduras,Q4694502,Aguas Santas Ocaña Navarro,spouse,Q441393,Ricardo Maduro
 Honduras,Q4737,Porfirio Lobo Sosa,spouse,Q15427651,Rosa Elena Bonilla
+Honduras,Q5392028,Mary Flake de Flores,child,Q6003184,Mary Elizabeth Flores
+Honduras,Q5392028,Mary Flake de Flores,spouse,Q654177,Carlos Roberto Flores
 Honduras,Q5951723,Juan Orlando Hernández,sibling,Q26991369,Hilda Hernández
 Honduras,Q5951723,Juan Orlando Hernández,sibling,Q59194112,Juan Antonio Hernández
 Honduras,Q5951723,Juan Orlando Hernández,spouse,Q16300525,Ana García Carías
 Honduras,Q654177,Carlos Roberto Flores,child,Q6003184,Mary Elizabeth Flores
 Honduras,Q654177,Carlos Roberto Flores,father,Q20015092,Óscar Armando Flores
 Honduras,Q654177,Carlos Roberto Flores,spouse,Q5392028,Mary Flake de Flores
+Honduras,Q7525339,Siomara Girón,spouse,Q299442,Roberto Micheletti
 Honduras,Q8044708,Xiomara Castro,child,Q110651912,Xiomara Zelaya
 Honduras,Q8044708,Xiomara Castro,child,Q110787596,Héctor Zelaya Castro
 Honduras,Q8044708,Xiomara Castro,spouse,Q191060,Manuel Zelaya
