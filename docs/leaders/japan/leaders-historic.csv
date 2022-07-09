@@ -8,15 +8,15 @@ Japan,Prime Minister,Yoshirō Mori,Q233499,2000-07-04,2001-04-26,male,1937-07-14
 Japan,Prime Minister,Jun'ichirō Koizumi,Q130852,2001-04-26,2003-11-19,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
 Japan,Prime Minister,Jun'ichirō Koizumi,Q130852,2003-11-19,2005-09-21,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
 Japan,Prime Minister,Jun'ichirō Koizumi,Q130852,2005-09-21,2006-09-26,male,1942-01-08,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
-Japan,Prime Minister,Shinzō Abe,Q132345,2006-09-26,2007-09-25,male,1954-09-21,,Shinzō Abe Official.jpg,Shinzo Abe
+Japan,Prime Minister,Shinzō Abe,Q132345,2006-09-26,2007-09-25,male,1954-09-21,2022-07-08,Shinzō Abe Official.jpg,Shinzo Abe
 Japan,Prime Minister,Yasuo Fukuda,Q101137,2007-09-26,2008-09-24,male,1936-07-16,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
 Japan,Prime Minister,Tarō Asō,Q132596,2008-09-24,2009-09-16,male,1940-09-20,,Aso Taro.jpg,Tarō Asō
 Japan,Prime Minister,Yukio Hatoyama,Q131077,2009-09-16,2010-06-08,male,1947-02-11,,Yukio Hatoyama 20090916.jpg,Yukio Hatoyama
 Japan,Prime Minister,Naoto Kan,Q47846,2010-06-08,2011-09-02,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
 Japan,Prime Minister,Yoshihiko Noda,Q57647,2011-09-02,2012-12-26,male,1957-05-20,,Yoshihiko Noda 20110902.jpg,Yoshihiko Noda
-Japan,Prime Minister,Shinzō Abe,Q132345,2012-12-26,2014-12-24,male,1954-09-21,,Shinzō Abe Official.jpg,Shinzo Abe
-Japan,Prime Minister,Shinzō Abe,Q132345,2014-12-24,2017-11-01,male,1954-09-21,,Shinzō Abe Official.jpg,Shinzo Abe
-Japan,Prime Minister,Shinzō Abe,Q132345,2017-11-01,2020-09-16,male,1954-09-21,,Shinzō Abe Official.jpg,Shinzo Abe
+Japan,Prime Minister,Shinzō Abe,Q132345,2012-12-26,2014-12-24,male,1954-09-21,2022-07-08,Shinzō Abe Official.jpg,Shinzo Abe
+Japan,Prime Minister,Shinzō Abe,Q132345,2014-12-24,2017-11-01,male,1954-09-21,2022-07-08,Shinzō Abe Official.jpg,Shinzo Abe
+Japan,Prime Minister,Shinzō Abe,Q132345,2017-11-01,2020-09-16,male,1954-09-21,2022-07-08,Shinzō Abe Official.jpg,Shinzo Abe
 Japan,Prime Minister,Yoshihide Suga,Q122465,2020-09-16,2021-10-04,male,1948-12-06,,Yoshihide Suga 20200916.jpg,Yoshihide Suga
 Japan,Prime Minister,Fumio Kishida,Q359480,2021-10-04,,male,1957-07-29,,Fumio Kishida 20211004.jpg,Fumio Kishida
 Japan,Deputy Prime Minister,Naoto Kan,Q47846,2009-09-16,2010-06-08,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
@@ -150,7 +150,7 @@ Japan,Minister for Internal Affairs and Communications,Hiroya Masuda,Q738197,200
 Japan,Minister for Internal Affairs and Communications,Kunio Hatoyama,Q777936,2008-09-24,2009-06-12,male,1948-09-13,2016-06-21,Kunio Hatoyama 200809.jpg,Kunio Hatoyama
 Japan,Minister for Internal Affairs and Communications,Tsutomu Satō,Q1133360,2009-06-12,2009-09-16,male,1952-06-20,,Tsutomu Satō.jpg,Tsutomu Sato (politician)
 Japan,Minister for Internal Affairs and Communications,Kazuhiro Haraguchi,Q548239,2009-09-16,2010-09-17,male,1959-07-02,,Kazuhiro Haraguchi.jpg,Kazuhiro Haraguchi
-Japan,Minister for Internal Affairs and Communications,Yoshihiro Katayama,Q967196,2010-09-17,2011-09-02,male,1951-07-29,,Yoshihiro Katayama-20060719a.jpg,Yoshihiro Katayama
+Japan,Minister for Internal Affairs and Communications,Yoshihiro Katayama,Q967196,2010-09-17,2011-09-02,male,1951-07-29,,Yoshihiro Katayama.jpg,Yoshihiro Katayama
 Japan,Minister for Internal Affairs and Communications,Tatsuo Kawabata,Q1131518,2011-09-02,2012-10-01,male,1945-01-24,,Tatsuo Kawabata cropped 1 Tatsuo Kawabata and David Warren 20120606.jpg,Tatsuo Kawabata
 Japan,Minister for Internal Affairs and Communications,Shinji Tarutoko,Q462308,2012-10-01,2012-12-26,male,1959-08-06,,Shinji Tarutoko Minshu IMG 5451 20130707.JPG,Shinji Tarutoko
 Japan,Minister for Internal Affairs and Communications,Yoshitaka Shindō,Q529792,2012-12-26,2014-09-03,male,1958-01-20,,Yoshitaka Shindō.jpg,Yoshitaka Shindō
@@ -314,7 +314,7 @@ Japan,Chairperson of the National Public Safety Commission,Satoshi Ninoyu,Q74264
 Japan,Chief Cabinet Secretary,Hidenao Nakagawa,Q906180,2000-07-04,2000-10-27,male,1944-02-02,,Hidenao Nakagawa (cropped).jpg,Hidenao Nakagawa
 Japan,Chief Cabinet Secretary,Yasuo Fukuda,Q101137,2000-10-27,2004-05-07,male,1936-07-16,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
 Japan,Chief Cabinet Secretary,Hiroyuki Hosoda,Q1133192,2004-05-07,2005-10-31,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
-Japan,Chief Cabinet Secretary,Shinzō Abe,Q132345,2005-10-31,2006-09-26,male,1954-09-21,,Shinzō Abe Official.jpg,Shinzo Abe
+Japan,Chief Cabinet Secretary,Shinzō Abe,Q132345,2005-10-31,2006-09-26,male,1954-09-21,2022-07-08,Shinzō Abe Official.jpg,Shinzo Abe
 Japan,Chief Cabinet Secretary,Yasuhisa Shiozaki,Q360395,2006-09-26,2007-08-27,male,1950-11-07,,Shiozaki Yasuhisa 1-1.jpg,Yasuhisa Shiozaki
 Japan,Chief Cabinet Secretary,Nobutaka Machimura,Q697258,2007-09-26,2008-09-02,male,1944-10-17,2015-06-01,Machimura Nobutaka 2015.jpg,Nobutaka Machimura
 Japan,Chief Cabinet Secretary,Yoshito Sengoku,Q965723,2010-06-08,2011-01-14,male,1946-01-15,2018-10-11,Yoshito Sengoku - World Economic Forum Annual Meeting Davos 2010.jpg,Yoshito Sengoku

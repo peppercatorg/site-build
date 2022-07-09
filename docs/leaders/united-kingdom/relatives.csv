@@ -938,7 +938,6 @@ United Kingdom,Q1691253,Jock Stirrup,father,Q76249811,William Hamilton Stirrup
 United Kingdom,Q1691253,Jock Stirrup,mother,Q76249812,Jacqueline Brenda Coulson
 United Kingdom,Q1691253,Jock Stirrup,spouse,Q76249813,Mary Alexandra Elliott
 United Kingdom,Q16929538,Michael Aron,spouse,Q56867536,Rachel Aron
-United Kingdom,Q1699125,John Osborne,child,Q21063908,Shirley Osborne
 United Kingdom,Q1699145,"John Anderson, 3rd Viscount Waverley",child,Q76209987,Forbes Alastair Rupert Waverley
 United Kingdom,Q1699145,"John Anderson, 3rd Viscount Waverley",father,Q26037270,"David Anderson, 2nd Viscount Waverley"
 United Kingdom,Q1699145,"John Anderson, 3rd Viscount Waverley",mother,Q76210004,Lorna Myrtle Ann Ledgerwood
@@ -1670,7 +1669,6 @@ United Kingdom,Q2086349,"Philip Moore, Baron Moore of Wolvercote",father,Q762403
 United Kingdom,Q2086349,"Philip Moore, Baron Moore of Wolvercote",mother,Q76272664,Alice Mona Bath
 United Kingdom,Q2086349,"Philip Moore, Baron Moore of Wolvercote",spouse,Q76240382,Joan Ursula Greenop
 United Kingdom,Q2100977,"Pola Uddin, Baroness Uddin",spouse,Q76370808,Komar Uddin
-United Kingdom,Q21063908,Shirley Osborne,father,Q1699125,John Osborne
 United Kingdom,Q211894,"Brenda Dean, Baroness Dean of Thornton-le-Fylde",father,Q75820991,Hugh Dean
 United Kingdom,Q211894,"Brenda Dean, Baroness Dean of Thornton-le-Fylde",mother,Q75820995,Lillian Dean
 United Kingdom,Q211894,"Brenda Dean, Baroness Dean of Thornton-le-Fylde",spouse,Q75820997,Keith Desmond McDowall
@@ -2335,7 +2333,6 @@ United Kingdom,Q286484,"David Rowe-Beddoe, Baron Rowe-Beddoe",father,Q75532082,S
 United Kingdom,Q286484,"David Rowe-Beddoe, Baron Rowe-Beddoe",mother,Q75532083,Dolan Evans
 United Kingdom,Q286484,"David Rowe-Beddoe, Baron Rowe-Beddoe",spouse,Q75532084,Malinda Collison
 United Kingdom,Q286484,"David Rowe-Beddoe, Baron Rowe-Beddoe",spouse,Q75532087,Madeleine Harrison
-United Kingdom,Q28709152,Andrew Fahie,spouse,Q112579441,Sheila Elaine Forbes-Fahie
 United Kingdom,Q2883936,"Barbara Castle, Baroness Castle of Blackburn",father,Q75600006,Frank Betts
 United Kingdom,Q2883936,"Barbara Castle, Baroness Castle of Blackburn",mother,Q75600008,Annie Rebecca Farrand
 United Kingdom,Q2883936,"Barbara Castle, Baroness Castle of Blackburn",spouse,Q15807372,Edward Castle
@@ -2526,8 +2523,6 @@ United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",child,Q7
 United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",father,Q21647684,"Anthony William Gilbey, 11th Baron Vaux of Harrowden"
 United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",mother,Q75344717,Beverley Anne Walton
 United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",spouse,Q76112346,Elizabeth Frances Worsley
-United Kingdom,Q3314428,Michael Misick,sibling,Q7972058,Washington Misick
-United Kingdom,Q3314428,Michael Misick,spouse,Q724868,LisaRaye McCoy-Misick
 United Kingdom,Q332314,Michael Heseltine,child,Q4767677,Annabel Heseltine
 United Kingdom,Q332314,Michael Heseltine,child,Q75970937,Rupert Heseltine
 United Kingdom,Q332314,Michael Heseltine,child,Q75970946,Alexandra Victoria Dibdin Heseltine
@@ -5150,7 +5145,6 @@ United Kingdom,Q7965822,Walter Perry,father,Q76229615,Fletcher Smith Perry
 United Kingdom,Q7965822,Walter Perry,mother,Q76229616,Flora M. Macdonald
 United Kingdom,Q7965822,Walter Perry,spouse,Q76229588,Anne Elizabeth Grant
 United Kingdom,Q7965822,Walter Perry,spouse,Q76229607,Catherine Hilda Crawley
-United Kingdom,Q7972058,Washington Misick,sibling,Q3314428,Michael Misick
 United Kingdom,Q8006825,"William Clark, Baron Clark of Kempston",child,Q75583460,Richard Anthony Clark
 United Kingdom,Q8006825,"William Clark, Baron Clark of Kempston",child,Q75583477,David William Francis Clark
 United Kingdom,Q8006825,"William Clark, Baron Clark of Kempston",child,Q75583486,Charles Edward Hugh Clark
