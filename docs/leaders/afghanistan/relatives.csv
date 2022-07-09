@@ -1,0 +1,17 @@
+catalog,id,name,relationship,relative,relativename
+Afghanistan,Q172388,Ashraf Ghani,child,Q1896600,Mariam Ghani
+Afghanistan,Q172388,Ashraf Ghani,spouse,Q18198028,Rula Ghani
+Afghanistan,Q18198028,Rula Ghani,child,Q1896600,Mariam Ghani
+Afghanistan,Q18198028,Rula Ghani,spouse,Q172388,Ashraf Ghani
+Afghanistan,Q188667,Burhanuddin Rabbani,child,Q7403481,Salahuddin Rabbani
+Afghanistan,Q188667,Burhanuddin Rabbani,relative,Q218863,Ahmad Zia Massoud
+Afghanistan,Q193968,Mohammed Omar,child,Q24572400,Mohammad Yaqoob
+Afghanistan,Q193968,Mohammed Omar,sibling,Q108067769,Abdul Manan Omari
+Afghanistan,Q43944,Hamid Karzai,father,Q4665255,Abdul Ahad Karzai
+Afghanistan,Q43944,Hamid Karzai,sibling,Q14972445,Qayum Karzai
+Afghanistan,Q43944,Hamid Karzai,sibling,Q400858,Ahmed Wali Karzai
+Afghanistan,Q43944,Hamid Karzai,sibling,Q6734481,Mahmud Karzai
+Afghanistan,Q43944,Hamid Karzai,spouse,Q8068465,Zeenat Karzai
+Afghanistan,Q7403481,Salahuddin Rabbani,father,Q188667,Burhanuddin Rabbani
+Afghanistan,Q8068465,Zeenat Karzai,spouse,Q43944,Hamid Karzai
+Afghanistan,Q971952,Ghulam Haider Hamidi,child,Q108107510,Rangina Hamidi
