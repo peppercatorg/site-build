@@ -89,7 +89,7 @@ Estonia,Q1453245,Mart Helme,relative,Q12362142,Enn Auksmann
 Estonia,Q1453245,Mart Helme,sibling,Q16407924,Rein Helme
 Estonia,Q1453245,Mart Helme,sibling,Q60686547,Reet Auksmann
 Estonia,Q1453245,Mart Helme,spouse,Q16405654,Sirje Helme
-Estonia,Q1453245,Mart Helme,spouse,Q26695944,Helle-Monika Helme
+Estonia,Q1453245,Mart Helme,spouse,Q26695944,Helle-Moonika Helme
 Estonia,Q153149,Lennart Meri,child,Q12369879,Mart Meri
 Estonia,Q153149,Lennart Meri,father,Q1505386,Georg Meri
 Estonia,Q153149,Lennart Meri,sibling,Q16403508,Hindrek Meri
@@ -179,6 +179,7 @@ Estonia,Q253515,Jaak Aaviksoo,mother,Q50375013,Laine Aaviksoo
 Estonia,Q2621730,Jüri Ratas,father,Q12373774,Rein Ratas
 Estonia,Q2621730,Jüri Ratas,mother,Q12377841,Urve Ratas
 Estonia,Q2621730,Jüri Ratas,spouse,Q111530599,Karin Ratas
+Estonia,Q26695944,Helle-Moonika Helme,spouse,Q1453245,Mart Helme
 Estonia,Q272240,Siiri Oviir,child,Q21009735,Liisa Oviir
 Estonia,Q272240,Siiri Oviir,spouse,Q1577141,Mihkel Oviir
 Estonia,Q27430407,Raimond Kaljulaid,sibling,Q12366816,Kersti Kaljulaid
@@ -223,7 +224,6 @@ Estonia,Q463099,Andres Tarand,spouse,Q12369753,Mari Tarand
 Estonia,Q4756115,Andres Herkel,mother,Q50375767,Alide-Johanna Herkel
 Estonia,Q509232,Maret Maripuu,spouse,Q5993313,Igor Gräzin
 Estonia,Q535290,Marianne Mikko,spouse,Q16407596,Peter Andrekson
-Estonia,Q53998188,Helle-Moonika Helme,spouse,Q1453245,Mart Helme
 Estonia,Q544472,Maimu Berg,child,Q544426,Julia Laffranque
 Estonia,Q544472,Maimu Berg,father,Q50375304,Helmut Seping
 Estonia,Q544472,Maimu Berg,mother,Q50375305,Elviine Seping

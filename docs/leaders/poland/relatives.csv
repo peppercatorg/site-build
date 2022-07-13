@@ -70,7 +70,7 @@ Poland,Q2757,Lech Kaczyński,father,Q328667,Rajmund Kaczyński
 Poland,Q2757,Lech Kaczyński,godparent,Q7599192,Stanisław Miedza-Tomaszewski
 Poland,Q2757,Lech Kaczyński,godparent,Q9391893,Zofia Woźnicka
 Poland,Q2757,Lech Kaczyński,mother,Q3266318,Jadwiga Kaczyńska
-Poland,Q2757,Lech Kaczyński,sibling,Q55917,Zosia Kaczyński
+Poland,Q2757,Lech Kaczyński,sibling,Q55917,Jarosław Kaczyński
 Poland,Q2757,Lech Kaczyński,spouse,Q215342,Maria Kaczyńska
 Poland,Q28123976,Krzysztof Śmiszek,partner,Q174491,Robert Biedroń
 Poland,Q288532,Krystyna Bochenek,spouse,Q9151601,Andrzej Bochenek
@@ -116,9 +116,9 @@ Poland,Q55758,Aleksander Kwaśniewski,spouse,Q55756,Jolanta Kwaśniewska
 Poland,Q55910,Jerzy Buzek,child,Q390870,Agata Buzek
 Poland,Q55910,Jerzy Buzek,spouse,Q11763400,Ludgarda Buzek
 Poland,Q55915,Włodzimierz Cimoszewicz,child,Q9281496,Tomasz Cimoszewicz
-Poland,Q55917,Zosia Kaczyński,father,Q328667,Rajmund Kaczyński
-Poland,Q55917,Zosia Kaczyński,mother,Q3266318,Jadwiga Kaczyńska
-Poland,Q55917,Zosia Kaczyński,sibling,Q2757,Lech Kaczyński
+Poland,Q55917,Jarosław Kaczyński,father,Q328667,Rajmund Kaczyński
+Poland,Q55917,Jarosław Kaczyński,mother,Q3266318,Jadwiga Kaczyńska
+Poland,Q55917,Jarosław Kaczyński,sibling,Q2757,Lech Kaczyński
 Poland,Q55922,Tadeusz Mazowiecki,child,Q64580822,Michał Mazowiecki
 Poland,Q55922,Tadeusz Mazowiecki,child,Q9376684,Wojciech Mazowiecki
 Poland,Q55924,Józef Oleksy,sibling,Q65190635,Wacław Oleksy

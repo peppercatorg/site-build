@@ -16,7 +16,7 @@ Greece,Q12885954,Fofi Gennimata,father,Q3561313,Georgios Gennimatas
 Greece,Q12885954,Fofi Gennimata,mother,Q109321688,Kakia Vergou
 Greece,Q12885954,Fofi Gennimata,spouse,Q109342991,Andreas Tsounis
 Greece,Q14928588,Kostas Bakoyannis,father,Q2040292,Pavlos Bakoyannis
-Greece,Q14928588,Kostas Bakoyannis,mother,Q464862,Ntora Bakoyannis
+Greece,Q14928588,Kostas Bakoyannis,mother,Q464862,Dora Bakoyannis
 Greece,Q14928588,Kostas Bakoyannis,sibling,Q100136474,Alexia Bakoyannis
 Greece,Q14928588,Kostas Bakoyannis,spouse,Q38362332,Sia Kosioni
 Greece,Q151917,Giorgos Papandreou,father,Q219256,Andreas Papandreou
@@ -77,7 +77,7 @@ Greece,Q30348632,Anastase Avéroff,sibling,Q23636352,Georges Averoff
 Greece,Q3051927,Eleni Zaroulia,spouse,Q703598,Nikos Michaloliakos
 Greece,Q30523513,Georgios Kyritsis,spouse,Q12872388,Elena Akrita
 Greece,Q312013,Konstantinos Mitsotakis,child,Q23887886,Alexandra Mitsotakis
-Greece,Q312013,Konstantinos Mitsotakis,child,Q464862,Ntora Bakoyannis
+Greece,Q312013,Konstantinos Mitsotakis,child,Q464862,Dora Bakoyannis
 Greece,Q312013,Konstantinos Mitsotakis,child,Q552751,Kyriakos Mitsotakis
 Greece,Q312013,Konstantinos Mitsotakis,child,Q65130680,Katerina Mitsotakis
 Greece,Q312013,Konstantinos Mitsotakis,father,Q14928422,Kyriakos Κ. Mitsotakis
@@ -90,15 +90,15 @@ Greece,Q40688,Yanis Varoufakis,spouse,Q2297038,Danae Stratou
 Greece,Q444093,Athanasios Plevris,father,Q669418,Konstantinos Plevris
 Greece,Q462542,Theodoros Pangalos,father,Q16504364,Georgios Pangalos
 Greece,Q462542,Theodoros Pangalos,spouse,Q16510486,Christina Christofaki
-Greece,Q464862,Ntora Bakoyannis,child,Q100136474,Alexia Bakoyannis
-Greece,Q464862,Ntora Bakoyannis,child,Q14928588,Kostas Bakoyannis
-Greece,Q464862,Ntora Bakoyannis,father,Q312013,Konstantinos Mitsotakis
-Greece,Q464862,Ntora Bakoyannis,mother,Q12880739,Marika Mitsotakis
-Greece,Q464862,Ntora Bakoyannis,sibling,Q23887886,Alexandra Mitsotakis
-Greece,Q464862,Ntora Bakoyannis,sibling,Q552751,Kyriakos Mitsotakis
-Greece,Q464862,Ntora Bakoyannis,sibling,Q65130680,Katerina Mitsotakis
-Greece,Q464862,Ntora Bakoyannis,spouse,Q18534428,Isidoros Kouvelos
-Greece,Q464862,Ntora Bakoyannis,spouse,Q2040292,Pavlos Bakoyannis
+Greece,Q464862,Dora Bakoyannis,child,Q100136474,Alexia Bakoyannis
+Greece,Q464862,Dora Bakoyannis,child,Q14928588,Kostas Bakoyannis
+Greece,Q464862,Dora Bakoyannis,father,Q312013,Konstantinos Mitsotakis
+Greece,Q464862,Dora Bakoyannis,mother,Q12880739,Marika Mitsotakis
+Greece,Q464862,Dora Bakoyannis,sibling,Q23887886,Alexandra Mitsotakis
+Greece,Q464862,Dora Bakoyannis,sibling,Q552751,Kyriakos Mitsotakis
+Greece,Q464862,Dora Bakoyannis,sibling,Q65130680,Katerina Mitsotakis
+Greece,Q464862,Dora Bakoyannis,spouse,Q18534428,Isidoros Kouvelos
+Greece,Q464862,Dora Bakoyannis,spouse,Q2040292,Pavlos Bakoyannis
 Greece,Q468064,Louka Katseli,father,Q12882490,Pélos Katséli
 Greece,Q468064,Louka Katseli,mother,Q12873274,Aleka Katseli
 Greece,Q468064,Louka Katseli,sibling,Q18154342,Nora Katseli
@@ -117,7 +117,7 @@ Greece,Q552751,Kyriakos Mitsotakis,father,Q312013,Konstantinos Mitsotakis
 Greece,Q552751,Kyriakos Mitsotakis,mother,Q12880739,Marika Mitsotakis
 Greece,Q552751,Kyriakos Mitsotakis,relative,Q65495263,Grigoris Dimitriadis
 Greece,Q552751,Kyriakos Mitsotakis,sibling,Q23887886,Alexandra Mitsotakis
-Greece,Q552751,Kyriakos Mitsotakis,sibling,Q464862,Ntora Bakoyannis
+Greece,Q552751,Kyriakos Mitsotakis,sibling,Q464862,Dora Bakoyannis
 Greece,Q552751,Kyriakos Mitsotakis,sibling,Q65130680,Katerina Mitsotakis
 Greece,Q552751,Kyriakos Mitsotakis,spouse,Q64211928,Mareva Grabowski
 Greece,Q57806,Antonis Samaras,father,Q21004372,Konstantinos Samaras

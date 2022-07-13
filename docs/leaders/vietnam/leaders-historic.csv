@@ -1,7 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Vietnam,President,Trần Đức Lương,Q139324,1997-09-24,2006-06-27,male,1937-05-05,,"Tran Duc Luong, Nov 17, 2004.jpg",Trần Đức Lương
 Vietnam,President,Nguyễn Minh Triết,Q57400,2006-06-27,2011-07-25,male,1942-10-08,,Nguyen Minh Triet 2010.jpg,Nguyễn Minh Triết
-Vietnam,President,Trương Tấn Sang,Q57407,2011-07-25,2016-07-25,male,1949-01-21,,,Trương Tấn Sang
+Vietnam,President,Trương Tấn Sang,Q57407,2011-07-25,2016-07-25,male,1949-01-21,,Mr. Truong Tan Sang.jpg,Trương Tấn Sang
 Vietnam,President,Trần Đại Quang,Q7833292,2016-04-02,2018-09-21,male,1956-10-12,2018-09-21,Mr. Tran Dai Quang.jpg,Trần Đại Quang
 Vietnam,President,Đặng Thị Ngọc Thịnh,Q10841571,2018-09-21,2018-10-23,female,1959-12-25,,Mrs. Dang Thi Ngoc Thinh.jpg,Đặng Thị Ngọc Thịnh
 Vietnam,President,Nguyen Phu Trong,Q318458,2018-10-23,2021-04-05,male,1944-04-14,,Nguyen Phu Trong 2.jpg,Nguyễn Phú Trọng
@@ -51,7 +51,7 @@ Vietnam,Minister of Construction,Trịnh Đình Dũng,Q10829899,2011-08-03,2016-
 Vietnam,Minister of Construction,Phạm Hồng Hà,Q10806918,2016-04-09,2021-04-07,,1958-01-20,,,
 Vietnam,Minister of Construction,Nguyễn Thanh Nghị,Q10799491,2021-04-08,,male,1976-08-12,,,
 Vietnam,Minister of Defence,Pham Van Tra,Q1320534,1997-12-29,2006-06-28,male,1935-08-19,,031110-D-9880W-005.jpg,Phạm Văn Trà
-Vietnam,Minister of Defence,Phung Quang Thanh,Q485476,2006-06-27,2016-04-08,male,1949-02-02,2021-09-11,,Phùng Quang Thanh
+Vietnam,Minister of Defence,Phung Quang Thanh,Q485476,2006-06-27,2016-04-08,male,1949-02-02,2021-09-11,Mr. Phung Quang Thanh.jpg,Phùng Quang Thanh
 Vietnam,Minister of Defence,Ngô Xuân Lịch,Q10800424,2016-04-09,2021-04-07,male,1954-04-20,,Mr. Ngo Xuan Lich.jpg,Ngô Xuân Lịch
 Vietnam,Minister of Defence,Phan Văn Giang,Q20026119,2021-04-08,,male,1960,,Mr. Phan Van Giang.jpg,Phan Văn Giang
 Vietnam,Minister of Education,Nguyễn Minh Hiển,Q10799276,1997-09-29,2006-06-28,,1948-02-01,,Nguyen Minh Hien.jpg,
@@ -122,7 +122,7 @@ Vietnam,Governor of the State Bank,Nguyễn Văn Bình,Q10799870,2011-08,2016-04
 Vietnam,Governor of the State Bank,Lê Minh Hưng,Q24254499,2016-04-09,2020-11-11,male,1970-12-11,,Mr. Nguyen Xuan Phuc.jpg,Lê Minh Hưng
 Vietnam,Governor of the State Bank,Nguyễn Thị Hồng,Q25417879,2020-11-12,,female,1968,,Nguyen Thi Hong 20180702.jpg,Nguyễn Thị Hồng (economist)
 Vietnam,Chief of General Staff,Lê Văn Dũng,Q10787909,1998,2001,male,1945-01-25,,LêVănDũng2010.jpg,
-Vietnam,Chief of General Staff,Phung Quang Thanh,Q485476,2001,2006-08-31,male,1949-02-02,2021-09-11,,Phùng Quang Thanh
+Vietnam,Chief of General Staff,Phung Quang Thanh,Q485476,2001,2006-08-31,male,1949-02-02,2021-09-11,Mr. Phung Quang Thanh.jpg,Phùng Quang Thanh
 Vietnam,Chief of General Staff,Nguyễn Khắc Nghiên,Q10799232,2006-08-31,2010-12-22,,1951-01-23,2010,,
 Vietnam,Chief of General Staff,Đỗ Bá Tỵ,Q10842107,2010-12-22,2016-05-17,male,1954-12-01,,,Đỗ Bá Tỵ
 Vietnam,Chief of General Staff,Phan Văn Giang,Q20026119,2016-05-17,2021-05-31,male,1960,,Mr. Phan Van Giang.jpg,Phan Văn Giang
