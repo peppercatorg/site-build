@@ -1,6 +1,6 @@
 country,leaders,historic,legislators,unique
 abkhazia,7,75,2,76
-afghanistan,6,68,7,72
+afghanistan,6,70,7,74
 aland,9,23,2,23
 albania,21,70,133,174
 algeria,40,99,10,105
@@ -18,8 +18,8 @@ azerbaijan,41,64,146,206
 bahamas,28,62,5,62
 bangladesh,34,105,407,470
 barbados,31,38,2,38
-belarus,48,284,583,852
-belgium,26,153,602,688
+belarus,48,285,583,853
+belgium,26,153,603,689
 belize,24,37,41,66
 benin,4,21,5,24
 bermuda,16,34,48,68
@@ -113,10 +113,10 @@ montenegro,26,77,24,92
 montserrat,6,23,0,23
 morocco,29,92,426,501
 mozambique,26,270,870,1100
-namibia,28,50,3,52
+namibia,29,51,3,53
 nauru,13,23,4,26
 nepal,29,60,356,410
-netherlands,37,248,1130,1228
+netherlands,37,248,1131,1229
 new-zealand,30,141,232,313
 niger,32,56,7,58
 nigeria,46,524,1614,2047
@@ -128,7 +128,7 @@ pakistan,53,248,1479,1628
 panama,17,89,3,91
 paraguay,24,34,17,47
 peru,24,369,309,643
-philippines,35,268,669,864
+philippines,35,270,670,867
 poland,29,239,556,734
 portugal,23,110,485,563
 qatar,23,32,0,32
@@ -159,7 +159,7 @@ sweden,29,324,1299,1514
 switzerland,12,85,649,689
 tajikistan,27,38,0,38
 tanzania,27,68,400,428
-thailand,9,72,11,80
+thailand,9,73,12,82
 timor-leste,24,54,1,55
 tonga,13,50,41,60
 transnistria,18,47,1,47
@@ -180,4 +180,4 @@ vietnam,25,107,7,111
 wales,15,46,160,162
 zambia,31,84,184,224
 zimbabwe,26,199,897,1003
-TOTAL,4740,26526,90187,109189
+TOTAL,4741,26533,90191,109200

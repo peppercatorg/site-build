@@ -10176,6 +10176,8 @@ Philippines,Q14917727,Mercedes Arrastia-Tuason,relative,Q437710,Isabel Preysler
 Philippines,Q14917727,Mercedes Arrastia-Tuason,sibling,Q107214956,Beatriz Arrastia y Reinares
 Philippines,Q14917727,Mercedes Arrastia-Tuason,sibling,Q194762,Neile Adams
 Philippines,Q1612706,Richard Gordon,spouse,Q12966218,Katherine Gordon
+Philippines,Q16149872,Arjo Atayde,mother,Q12971471,Sylvia Sanchez
+Philippines,Q16149872,Arjo Atayde,sibling,Q21620782,Ria Atayde
 Philippines,Q16186727,Ramon Jimenez Jr.,father,Q7289878,Ramon T. Jimenez
 Philippines,Q16186727,Ramon Jimenez Jr.,spouse,Q4664470,Abby Jimenez
 Philippines,Q16195494,Hilario Davide III,father,Q2176997,"Hilario Davide, Jr."
@@ -12903,6 +12905,7 @@ Thailand,Q3342244,Nitya Pibulsonggram,father,Q152777,Plaek Phibunsongkhram
 Thailand,Q3342244,Nitya Pibulsonggram,mother,Q13020322,La-iat Phibunsongkhram
 Thailand,Q437575,Sukhumbhand Paribatra,father,Q6581543,Sukhumabhinanda
 Thailand,Q4925793,Kraisak Choonhavan,father,Q701841,Chatchai Chunhawan
+Thailand,Q529433,Chaovarat Chanweerakul,child,Q16139757,Anutin Charnvirakul
 Thailand,Q548733,Vajiralongkorn,child,Q13013914,Chakriwat Vivacharawongse
 Thailand,Q548733,Vajiralongkorn,child,Q13013920,Juthavachara Vivacharawongse
 Thailand,Q548733,Vajiralongkorn,child,Q13013925,Vacharaesorn Vivacharawongse
@@ -19621,7 +19624,6 @@ United States,Q4496,Mitt Romney,father,Q520275,George W. Romney
 United States,Q4496,Mitt Romney,mother,Q3247018,Lenore Romney
 United States,Q4496,Mitt Romney,sibling,Q2732835,G. Scott Romney
 United States,Q4496,Mitt Romney,spouse,Q1100946,Ann Romney
-United States,Q453868,John Negroponte,father,Q15623520,Dimitri Negroponte
 United States,Q453868,John Negroponte,father,Q15623520,Dimitri Negroponte
 United States,Q453868,John Negroponte,mother,Q109946736,Catherine Coumantaros
 United States,Q453868,John Negroponte,sibling,Q92601,Nicholas Negroponte
