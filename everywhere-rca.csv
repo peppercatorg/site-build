@@ -4452,6 +4452,7 @@ France,Q30334244,Laurence Maillart-Méhaignerie,relative,Q895873,Pierre Méhaign
 France,Q30335340,Danièle Obono,father,Q98828566,Martin Edzodzomo-Ela
 France,Q30338651,Jacques Maire,father,Q2411194,Edmond Maire
 France,Q30339198,Jean-Noël Barrot,father,Q455040,Jacques Barrot
+France,Q30339198,Jean-Noël Barrot,sibling,Q113031150,Hélène Barrot
 France,Q30339275,Yolaine de Courson,sibling,Q3142352,Hughes de Courson
 France,Q30339350,Gabriel Attal,father,Q3573456,Yves Attal
 France,Q30339350,Gabriel Attal,partner,Q48321355,Stéphane Séjourné
@@ -4460,6 +4461,7 @@ France,Q30342777,Florence Lasserre-David,father,Q3166328,Jean-Jacques Lasserre
 France,Q30343102,Patrice Perrot,father,Q3085538,François Perrot
 France,Q30344388,Pascale Fontenel-Personne,child,Q112652500,Julie Delpech
 France,Q30346873,Paula Forteza,father,Q111034260,Jorge Forteza
+France,Q30349408,Olivia Grégoire,spouse,Q112892650,Philippe Aubry
 France,Q3035166,Dominique Frelaut,father,Q3172152,Jean Frélaut
 France,Q3035420,Dominique Raimbourg,father,Q2750,Bourvil
 France,Q3035420,Dominique Raimbourg,sibling,Q3380591,Philippe Raimbourg
@@ -4695,7 +4697,7 @@ France,Q3591105,Éric Dupond-Moretti,spouse,Q111353630,Hélène Dupond-Moretti
 France,Q3591191,Éric Jalton,father,Q3089918,Frédéric Jalton
 France,Q3591330,Éric Raoult,spouse,Q24574415,Béatrice Abollivier
 France,Q3592334,Étienne Pinte,child,Q33105695,François Pinte
-France,Q360961,Natan Sharansky,father,Q85868871,Boris Shcharansky
+France,Q360961,Natan Sharansky,father,Q55103590,Boris Shcharansky
 France,Q360961,Natan Sharansky,mother,Q97155837,Ida Milgrom
 France,Q360961,Natan Sharansky,spouse,Q23304251,Avital Sharansky
 France,Q362223,Jacques Bompard,spouse,Q3291701,Marie-Claude Bompard
@@ -4760,6 +4762,7 @@ France,Q559040,Jean-Yves Le Drian,sibling,Q27116891,Thérèse Thiéry
 France,Q559040,Jean-Yves Le Drian,sibling,Q3292640,Marie Le Drian
 France,Q559040,Jean-Yves Le Drian,spouse,Q50491448,Maria Vadillo
 France,Q560682,Hubert Védrine,father,Q3175081,Jean Védrine
+France,Q560682,Hubert Védrine,relative,Q3081350,Francis Chigot
 France,Q560944,François Lamy,sibling,Q33102560,Philippe Lamy
 France,Q56556893,Emmanuel Taché,spouse,Q21294609,Sébastien Chenu
 France,Q574342,Georges Frêche,child,Q85632476,Julie Frêche
