@@ -20,7 +20,6 @@ Israel,Knesset member,Tamar Gozansky,Q2890070,1990-07-04,2003-02-17,female,1940-
 Israel,Knesset member,Limor Livnat,Q522242,1992-04-14,2015-03-31,female,1950-09-22,,Limor Livnat 2014 1.jpg,Limor Livnat
 Israel,Knesset member,Taleb el-Sana,Q2890855,1992-07-13,2013-02-05,male,1960-12-25,,Taleb al Sana2009.JPG,Taleb el-Sana
 Israel,Knesset member,Yossi Katz,Q2904313,1992-07-13,2003-02-17,male,1949-08-19,,,Yossi Katz
-Israel,Knesset member,Eli Goldschmidt,Q2907550,1992-07-13,2001-02-15,male,1953-10-17,,,Eli Goldschmidt
 Israel,Knesset member,Eliezer Sandberg,Q2910007,1992-07-13,2006-04-17,male,1962-02-21,,Eliezer Sandberg 2017.jpg,Eliezer Sandberg
 Israel,Knesset member,Shaul Yahalom,Q2916597,1992-07-13,2006-04-17,male,1947-09-27,,"Shaul Yahalom, 1996 Dan Hadani Archive.jpg",Shaul Yahalom
 Israel,Knesset member,Avraham Hirschson,Q547800,1992-07-13,2009-02-24,male,1941-02-11,2022-03-07,,Avraham Hirschson
@@ -82,6 +81,7 @@ Israel,Knesset member,Rahamim Malul,Q2907004,1999-06-07,2003-02-17,male,1946-04-
 Israel,Knesset member,Alexander Tzinker,Q2907063,1999-06-07,2003-02-17,male,1953-01-02,,,Alexander Tzinker
 Israel,Knesset member,Eli Suissa,Q2907072,1999-06-07,2003-02-17,male,1956,,Eli Suissa.jpg,Eli Suissa
 Israel,Knesset member,Hussniya Jabara,Q2907520,1999-06-07,2003-02-17,female,1958-04-11,,Hussniya Jabara.jpg,Hussniya Jabara
+Israel,Knesset member,Eli Goldschmidt,Q2907550,1999-06-07,2001-02-15,male,1953-10-17,,,Eli Goldschmidt
 Israel,Knesset member,Avi Yehezkel,Q2908301,1999-06-07,2001-05-15,male,1958-06-10,,,Avi Yehezkel
 Israel,Knesset member,Yitzhak Gagula,Q2908328,1999-06-07,2003-02-17,male,1964-01-01,,,Yitzhak Gagula
 Israel,Knesset member,Weizman Shiry,Q2908339,1999-06-07,2001-05-15,male,1956-02-05,,,Weizman Shiry
@@ -919,7 +919,7 @@ Israel,Knesset member,Ya'akov Tessler,Q61359772,2019-04-30,2019-07-10,male,1973-
 Israel,Knesset member,Mtanes Shehadeh,Q61685599,2019-04-30,2019-06-02,male,1972-05-25,,חברי הכנסת מהרשימה המשותפת בזמן הגשת הרשימות לבחירות לכנסת ה 22 (cropped).jpg,Mtanes Shehadeh
 Israel,Knesset member,Ofer Cassif,Q61718702,2019-04-30,2019-07-10,male,1964-12-25,,Ofer Cassif.png,Ofer Cassif
 Israel,Knesset member,Omer Yankelevich,Q61913859,2019-04-30,2019-10-03,female,1978-05-25,,Omer Yankelevitch.jpg,Omer Yankelevich
-Israel,Knesset member,Gadi Yevarkan,Q62062074,2019-04-30,2019-10-03,male,1981-01-01,,Gadi Yevarkan.jpg,Gadi Yevarkan
+Israel,Knesset member,Gadi Yevarkan,Q62062074,2019-04-30,2019-10-03,male,1985-06-01,,Gadi Yevarkan.jpg,Gadi Yevarkan
 Israel,Knesset member,Mansour Abbas,Q62394296,2019-04-30,2019-06-02,male,1974-04-22,,מנסור עבאס2.jpg,Mansour Abbas
 Israel,Knesset member,Fateen Mulla,Q63087383,2019-04-30,2019-10-03,male,1960-06-15,,,Fateen Mulla
 Israel,Knesset member,Michal Shir,Q63092488,2019-04-30,2019-10-03,female,1979-11-18,,מיכל שיר.jpg,Michal Shir
@@ -1060,7 +1060,7 @@ Israel,Knesset member,Ya'akov Tessler,Q61359772,2019-10-03,2019-12-30,male,1973-
 Israel,Knesset member,Mtanes Shehadeh,Q61685599,2019-10-03,2019-12-30,male,1972-05-25,,חברי הכנסת מהרשימה המשותפת בזמן הגשת הרשימות לבחירות לכנסת ה 22 (cropped).jpg,Mtanes Shehadeh
 Israel,Knesset member,Ofer Cassif,Q61718702,2019-10-03,2019-12-30,male,1964-12-25,,Ofer Cassif.png,Ofer Cassif
 Israel,Knesset member,Omer Yankelevich,Q61913859,2019-10-03,2020-03-16,female,1978-05-25,,Omer Yankelevitch.jpg,Omer Yankelevich
-Israel,Knesset member,Gadi Yevarkan,Q62062074,2019-10-03,2020-01-19,male,1981-01-01,,Gadi Yevarkan.jpg,Gadi Yevarkan
+Israel,Knesset member,Gadi Yevarkan,Q62062074,2019-10-03,2020-01-19,male,1985-06-01,,Gadi Yevarkan.jpg,Gadi Yevarkan
 Israel,Knesset member,Mansour Abbas,Q62394296,2019-10-03,2019-12-30,male,1974-04-22,,מנסור עבאס2.jpg,Mansour Abbas
 Israel,Knesset member,Michal Shir,Q63092488,2019-10-03,2020-03-16,female,1979-11-18,,מיכל שיר.jpg,Michal Shir
 Israel,Knesset member,Ofir Katz,Q63107922,2019-10-03,2020-03-16,male,1980-05-19,,,Ofir Katz
@@ -1206,7 +1206,7 @@ Israel,Knesset member,Ya'akov Tessler,Q61359772,2020-03-16,2020-12-28,male,1973-
 Israel,Knesset member,Mtanes Shehadeh,Q61685599,2020-03-16,2021-04-06,male,1972-05-25,,חברי הכנסת מהרשימה המשותפת בזמן הגשת הרשימות לבחירות לכנסת ה 22 (cropped).jpg,Mtanes Shehadeh
 Israel,Knesset member,Ofer Cassif,Q61718702,2020-03-16,2021-04-06,male,1964-12-25,,Ofer Cassif.png,Ofer Cassif
 Israel,Knesset member,Omer Yankelevich,Q61913859,2020-03-16,2021-04-06,female,1978-05-25,,Omer Yankelevitch.jpg,Omer Yankelevich
-Israel,Knesset member,Gadi Yevarkan,Q62062074,2020-03-16,2021-04-06,male,1981-01-01,,Gadi Yevarkan.jpg,Gadi Yevarkan
+Israel,Knesset member,Gadi Yevarkan,Q62062074,2020-03-16,2021-04-06,male,1985-06-01,,Gadi Yevarkan.jpg,Gadi Yevarkan
 Israel,Knesset member,Mansour Abbas,Q62394296,2020-03-16,2021-01-28,male,1974-04-22,,מנסור עבאס2.jpg,Mansour Abbas
 Israel,Knesset member,Fateen Mulla,Q63087383,2020-03-16,2021-04-06,male,1960-06-15,,,Fateen Mulla
 Israel,Knesset member,Michal Shir,Q63092488,2020-03-16,2020-12-24,female,1979-11-18,,מיכל שיר.jpg,Michal Shir
@@ -1325,6 +1325,7 @@ Israel,Knesset member,Ron Katz,Q106226063,2021-04-06,,male,1985-10-04,,,Ron Katz
 Israel,Knesset member,Michal Woldiger,Q106226075,2021-04-06,,female,1969-01-06,,Michal Waldiger.jpg,Michal Waldiger
 Israel,Knesset member,Nira Shpak,Q106226078,2021-04-06,,female,1966-07-20,,,Nira Shpak
 Israel,Knesset member,Haim Biton,Q106427258,2021-04-06,,male,1978-01-17,,חיים ביטון.jpg,Haim Biton
+Israel,Knesset member,Yomtob Kalfon,Q107287675,2021-04-06,,male,1986-06-16,,יום טוב כלפון.jpg,Yomtob Kalfon
 Israel,Knesset member,Ayman Odeh,Q12181439,2021-04-06,,male,1975-01-01,,Ayman Odeh 2021.png,Ayman Odeh
 Israel,Knesset member,Itamar Ben Gvir,Q12403861,2021-04-06,2022-07-03,male,1976-05-06,,Itamar Ben Gvir 1.jpg,Itamar Ben-Gvir
 Israel,Knesset member,Aida Touma-Sliman,Q12410181,2021-04-06,,female,1964-07-16,,Aida Touma-Suleiman 2021.png,Aida Touma-Suleiman
@@ -1403,7 +1404,7 @@ Israel,Knesset member,Idan Roll,Q59519064,2021-04-06,2021-07-09,male,1984-04-27,
 Israel,Knesset member,Ibtisam Mara'ana,Q5984911,2021-04-06,,female,1975-10-14,,Ibtisam Maraana MK 2022.jpg,Ibtisam Mara'ana
 Israel,Knesset member,Matan Kahana,Q60951122,2021-04-06,2021-06-15,male,1972-07-29,,MatanK-DSC 0053a.jpg,Matan Kahana
 Israel,Knesset member,Ofer Cassif,Q61718702,2021-04-06,,male,1964-12-25,,Ofer Cassif.png,Ofer Cassif
-Israel,Knesset member,Gadi Yevarkan,Q62062074,2021-04-06,,male,1981-01-01,,Gadi Yevarkan.jpg,Gadi Yevarkan
+Israel,Knesset member,Gadi Yevarkan,Q62062074,2021-04-06,,male,1985-06-01,,Gadi Yevarkan.jpg,Gadi Yevarkan
 Israel,Knesset member,Mansour Abbas,Q62394296,2021-04-06,,male,1974-04-22,,מנסור עבאס2.jpg,Mansour Abbas
 Israel,Knesset member,Fateen Mulla,Q63087383,2021-04-06,,male,1960-06-15,,,Fateen Mulla
 Israel,Knesset member,Ofir Katz,Q63107922,2021-04-06,,male,1980-05-19,,,Ofir Katz
@@ -1464,7 +1465,7 @@ Israel,Knesset member,Sharon Roffe Ofir,Q107972390,2021-08-05,2022-02-24,female,
 Israel,Knesset member,Iman Khatib-Yasin,Q87125690,2021-08-25,,female,1964-10-23,,Iman Khatib Yassin.jpg,Iman Khatib-Yasin
 Israel,Knesset member,Yosef Taieb,Q96754353,2022-01-25,,male,1981-02-15,,,Yosef Taieb
 Israel,Knesset member,Eli Avidar,Q5360165,2022-02-24,,male,1964-12-03,,Eli AvidarA.jpg,Eli Avidar
-Israel,Knesset member,Amichai Chikli,Q105581659,2022-04-25,,male,1981-09-12,,עמיחי שיקלי צילום ראובן קפוצ׳ינסקי.jpg,Amichai Chikli
+Israel,Knesset member,Amichai Chikli,Q105581659,2022-04-25,2022-07-14,male,1981-09-12,,עמיחי שיקלי צילום ראובן קפוצ׳ינסקי.jpg,Amichai Chikli
 Israel,Knesset member,Matan Kahana,Q60951122,2022-05-15,,male,1972-07-29,,MatanK-DSC 0053a.jpg,Matan Kahana
 Israel,Knesset member,Ya'akov Tessler,Q61359772,2022-06-03,,male,1973-06-26,,Jacob Tessler.jpg,Ya'akov Tessler
 Israel,Knesset member,Itamar Ben Gvir,Q12403861,2022-07-03,,male,1976-05-06,,Itamar Ben Gvir 1.jpg,Itamar Ben-Gvir

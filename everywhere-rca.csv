@@ -5005,6 +5005,7 @@ Germany,Q15606894,Yasmin Fahimi,partner,Q1929633,Michael Vassiliadis
 Germany,Q15647562,Yvonne Magwas,partner,Q107021,Marco Wanderwitz
 Germany,Q1577200,Hans-Henning Horstmann,sibling,Q807479,Barbara Ischinger
 Germany,Q15813082,Saskia Esken,spouse,Q77602571,Roland Esken
+Germany,Q1581695,Hans Peter Lindlar,father,Q1483298,Willi Lindlar
 Germany,Q15834076,Tessa Ganserer,spouse,Q1662209,Ines Eichmüller
 Germany,Q1583863,Hansjörg Haber,spouse,Q1337596,Emily Haber
 Germany,Q1584781,Harald Terpe,father,Q1444302,Frank Terpe
@@ -5029,6 +5030,7 @@ Germany,Q1691068,Jochen Dieckmann,child,Q105890,Christoph Dieckmann
 Germany,Q1691068,Jochen Dieckmann,child,Q110146,Markus Dieckmann
 Germany,Q1691068,Jochen Dieckmann,spouse,Q99317,Bärbel Dieckmann
 Germany,Q16939523,Henning von Wistinghausen,father,Q18237476,Rudolf Eduard Michael von Wistinghausen
+Germany,Q1706220,Josefine Paul,partner,Q23059468,Katja Meier
 Germany,Q1710769,Konstantin von Notz,father,Q28309617,Friedhelm von Notz
 Germany,Q1710769,Konstantin von Notz,sibling,Q18920665,Börries von Notz
 Germany,Q17117405,Marcus Pretzell,spouse,Q7477615,Frauke Petry
@@ -5368,6 +5370,7 @@ Greece,Q1226051,Dimitris Reppas,relative,Q1392087,Panagiotis Poulitsas
 Greece,Q12877311,Evangelos Yannopoulos,spouse,Q26933726,Ντιντή Γιαννοπούλου
 Greece,Q12877513,Zoi Konstantopoulou,father,Q3347276,Nikos Konstantopoulos
 Greece,Q12879717,Konstantinos Tsoukalas,father,Q12872072,Ange Tsoukalas
+Greece,Q12879717,Konstantinos Tsoukalas,spouse,Q113041921,Φωτεινή Τσαλίκογλου
 Greece,Q12879717,Konstantinos Tsoukalas,spouse,Q19851070,Alexandra Konstantinidi
 Greece,Q12881047,Miltiades Varvitsiotis,father,Q1428443,Ioannis Varvitsiotis
 Greece,Q12881764,Nikos Alivizatos,father,Q12879618,Konstantinos Alivizatos
@@ -5642,6 +5645,7 @@ Hong Kong,Q8958593,Kenneth Fok,spouse,Q270693,Guo Jingjing
 Hong Kong,Q8970908,Henry Wu,father,Q16260170,Woo Hon Fai
 Hong Kong,Q9026378,Duncan Chiu,father,Q15906240,Deacon Chiu
 Hong Kong,Q9026378,Duncan Chiu,mother,Q22773853,邱裘錦蘭
+Hong Kong,Q9051824,John Lee,spouse,Q111693471,Janet Lam
 Hong Kong,Q9183028,Kennedy Wong,sibling,Q8968267,Ada Ying-Kay Wong
 Hungary,Q102200,Árpád Göncz,child,Q266208,Kinga Göncz
 Hungary,Q102200,Árpád Göncz,father,Q23612923,Lajos Göncz
@@ -7377,7 +7381,7 @@ Israel,Q3014683,Daniel Shek,spouse,Q30526568,Emilie Moatti
 Israel,Q30526568,Emilie Moatti,spouse,Q3014683,Daniel Shek
 Israel,Q30526568,Emilie Moatti,spouse,Q99336010,Charles Zrihen
 Israel,Q3593286,Omer Bar-Lev,father,Q467150,Haim Bar-Lev
-Israel,Q360961,Natan Sharansky,father,Q85868871,Boris Shcharansky
+Israel,Q360961,Natan Sharansky,father,Q55103590,Boris Shcharansky
 Israel,Q360961,Natan Sharansky,mother,Q97155837,Ida Milgrom
 Israel,Q360961,Natan Sharansky,spouse,Q23304251,Avital Sharansky
 Israel,Q3663054,Ofer Shelah,father,Q7058939,חזי שלח
@@ -7840,6 +7844,7 @@ Japan,Q11467778,Shiori Yamao,partner,Q39315566,Rintaro Kuramochi
 Japan,Q11467778,Shiori Yamao,spouse,Q38896351,Yasuo Yamao
 Japan,Q11467981,Tsutomu Yamazaki,child,Q38278358,Yuiko Yamazaki
 Japan,Q11467981,Tsutomu Yamazaki,father,Q11468180,Tatsuo Yamazaki
+Japan,Q11467981,Tsutomu Yamazaki,relative,Q11468042,Iwao Yamazaki
 Japan,Q11472782,Kazumasa Okajima,father,Q11472788,Masayuki Okajima
 Japan,Q11500493,Jūrō Saitō,father,Q11500588,Noboru Saitō
 Japan,Q11518790,Tarō Kimura,father,Q11518804,Morio Kimura
@@ -12390,6 +12395,7 @@ Spain,Q559942,Bakartxo Tejeria Otermin,relative,Q2651847,Ramón Labayen Sansinen
 Spain,Q559942,Bakartxo Tejeria Otermin,spouse,Q70201171,Joanes Labayen
 Spain,Q560037,Toni Strubell i Trueta,child,Q57655088,Xabi Strubell
 Spain,Q560037,Toni Strubell i Trueta,sibling,Q11936975,Miquel Strubell i Trueta
+Spain,Q56434273,Pedro Calvo-Sotelo Ibáñez-Martín,father,Q273129,Leopoldo Calvo-Sotelo
 Spain,Q5661421,Aitor Esteban,spouse,Q30251849,Itxaso Atutxa
 Spain,Q5666820,Alfonso Fernando Fernández Mañueco,father,Q5995798,Marcelo Fernández Nieto
 Spain,Q5684112,Concepción Dancausa,father,Q24287696,Fernando Dancausa de Miguel
@@ -12906,7 +12912,19 @@ Thailand,Q298079,Surayud Chulanont,father,Q4517894,Phayom Chulanont
 Thailand,Q298088,Somchai Wongsawat,spouse,Q13025714,Yaowapa Wongsawat
 Thailand,Q3342244,Nitya Pibulsonggram,father,Q152777,Plaek Phibunsongkhram
 Thailand,Q3342244,Nitya Pibulsonggram,mother,Q13020322,La-iat Phibunsongkhram
+Thailand,Q43371145,Surapong Jayanama,sibling,Q4804091,Asda Jayanama
 Thailand,Q437575,Sukhumbhand Paribatra,father,Q6581543,Sukhumabhinanda
+Thailand,Q448071,Bajrakitiyabha,father,Q548733,Vajiralongkorn
+Thailand,Q448071,Bajrakitiyabha,mother,Q2057143,Soamsawali
+Thailand,Q448071,Bajrakitiyabha,relative,Q13013914,Chakriwat Vivacharawongse
+Thailand,Q448071,Bajrakitiyabha,relative,Q13013920,Juthavachara Vivacharawongse
+Thailand,Q448071,Bajrakitiyabha,relative,Q13013925,Vacharaesorn Vivacharawongse
+Thailand,Q448071,Bajrakitiyabha,relative,Q16138656,Vatcharawee Vivacharawongse
+Thailand,Q448071,Bajrakitiyabha,relative,Q4272881,Prince Dipangkorn Rasmijoti of Thailand
+Thailand,Q448071,Bajrakitiyabha,relative,Q448031,Sirivannavari
+Thailand,Q448071,Bajrakitiyabha,stepparent,Q16140394,Sujarinee Vivacharawongse
+Thailand,Q448071,Bajrakitiyabha,stepparent,Q18744506,Suthida
+Thailand,Q448071,Bajrakitiyabha,stepparent,Q2276823,Srirasmi Suwadee
 Thailand,Q4925793,Kraisak Choonhavan,father,Q701841,Chatchai Chunhawan
 Thailand,Q529433,Chaovarat Chanweerakul,child,Q16139757,Anutin Charnvirakul
 Thailand,Q548733,Vajiralongkorn,child,Q13013914,Chakriwat Vivacharawongse
@@ -13097,6 +13115,7 @@ Turkey,Q6052158,Berat Albayrak,relative,Q65220006,Serhat Albayrak
 Turkey,Q6052158,Berat Albayrak,sibling,Q65220006,Serhat Albayrak
 Turkey,Q6052158,Berat Albayrak,spouse,Q61073623,Esra Erdoğan
 Turkey,Q6061291,Ayşe Gülsün Bilgehan,father,Q3277055,Metin Toker
+Turkey,Q6067727,Şaban Dişli,sibling,Q113084387,Mehmet Dişli
 Turkey,Q6077556,Fikri Sağlar,relative,Q17468336,Süleyman Fikri Mutlu
 Turkey,Q6077556,Fikri Sağlar,relative,Q21526105,Gerçek Sağlar
 Turkey,Q6098459,Süleyman Soylu,father,Q106977159,Hasan Soylu
