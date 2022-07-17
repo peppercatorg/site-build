@@ -5843,6 +5843,7 @@ India,Q1058,Narendra Modi,father,Q66606210,Damodardas Mulchand Modi
 India,Q1058,Narendra Modi,mother,Q105529920,Heeraben Modi
 India,Q1058,Narendra Modi,spouse,Q16947607,Jashodaben Narendrabhai Modi
 India,Q106811781,Deepti Kiran Maheshwari,mother,Q6414812,Kiran Maheshwari
+India,Q111343881,Ganieve Kaur Majithia,spouse,Q16215906,Bikram Singh Majithia
 India,Q1190856,Naveen Patnaik,father,Q3526595,Biju Patnaik
 India,Q1190856,Naveen Patnaik,relative,Q7562067,Sonny Mehta
 India,Q1190856,Naveen Patnaik,sibling,Q23879683,Geeta Mehta
@@ -5939,6 +5940,9 @@ India,Q16215749,Milind Murli Deora,mother,Q56257180,Hema Deora
 India,Q16215749,Milind Murli Deora,relative,Q16258427,Manmohan Shetty
 India,Q16215749,Milind Murli Deora,sibling,Q66123816,Mukul Deora
 India,Q16215749,Milind Murli Deora,spouse,Q66123424,Pooja Shetty
+India,Q16215906,Bikram Singh Majithia,father,Q16660440,Satyajit Singh Majithia
+India,Q16215906,Bikram Singh Majithia,sibling,Q16154549,Harsimrat Kaur Badal
+India,Q16215906,Bikram Singh Majithia,spouse,Q111343881,Ganieve Kaur Majithia
 India,Q16217685,P. C. Vishnunath,spouse,Q24263611,Kanaka Ha Ma
 India,Q16221537,Nilesh Narayan Rane,father,Q3631470,Narayan Rane
 India,Q16221537,Nilesh Narayan Rane,sibling,Q10960360,Nitesh Narayan Rane
@@ -6353,7 +6357,10 @@ India,Q47854,Pratibha Patil,child,Q18164373,Raosaheb Shekhawat
 India,Q47854,Pratibha Patil,spouse,Q5267565,Devisingh Ransingh Shekhawat
 India,Q4790607,Arijit Pasayat,father,Q41791591,Biswanath Pasayat
 India,Q4791555,Arjun Charan Sethi,child,Q62672197,Abhimanyu Sethi
+India,Q4832168,Azam Khan,child,Q113119407,Adeeb Azam Khan
 India,Q4832168,Azam Khan,child,Q28529861,Abdullah Azam Khan
+India,Q4832168,Azam Khan,relative,Q113119417,Sidra Adeeb Azam Khan
+India,Q4832168,Azam Khan,spouse,Q21104304,Tazeen Fatma
 India,Q4843231,Baijayant Panda,father,Q17147403,Bansidhar Panda
 India,Q4843231,Baijayant Panda,mother,Q30273361,Ila Panda
 India,Q4843231,Baijayant Panda,spouse,Q47513709,Jagi Mangat Panda
@@ -20296,6 +20303,7 @@ Zimbabwe,Q10707,Robert Mugabe,spouse,Q453364,Grace Mugabe
 Zimbabwe,Q10707,Robert Mugabe,spouse,Q465908,Sally Mugabe
 Zimbabwe,Q107491736,Peter Haritatos,child,Q94973458,Vangelis Haritatos
 Zimbabwe,Q111281765,Tongai Muzenda,father,Q2287723,Simon Muzenda
+Zimbabwe,Q111281765,Tongai Muzenda,mother,Q112842631,Maud Muzenda
 Zimbabwe,Q111281765,Tongai Muzenda,sibling,Q111283594,Tsitsi Veronica Muzenda
 Zimbabwe,Q111281765,Tongai Muzenda,sibling,Q111995670,Ignatius Dewa Muzenda
 Zimbabwe,Q111283594,Tsitsi Veronica Muzenda,father,Q2287723,Simon Muzenda
