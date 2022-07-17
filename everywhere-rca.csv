@@ -13137,11 +13137,14 @@ Tuvalu,Q9682,Elizabeth II,father,Q280856,George VI
 Tuvalu,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Tuvalu,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 Tuvalu,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
+Uganda,Q105951053,Sarah Mateke Nyirabashitsi,father,Q19893338,Philemon Mateke
 Uganda,Q393388,Aggrey Awori,sibling,Q4358037,Moody Awori
 Uganda,Q393388,Aggrey Awori,spouse,Q2416628,Thelma Awori
 Uganda,Q4935806,Bobi Wine,spouse,Q62076449,Barbie Itungo Kyagulanyi
 Uganda,Q57274,Yoweri Museveni,child,Q6933076,Muhoozi Kainerugaba
 Uganda,Q57274,Yoweri Museveni,spouse,Q6153522,Janet Museveni
+Uganda,Q6153522,Janet Museveni,child,Q6933076,Muhoozi Kainerugaba
+Uganda,Q6153522,Janet Museveni,spouse,Q57274,Yoweri Museveni
 Ukraine,Q102340260,Vitalii Kim,spouse,Q111377173,Yuliia Kim
 Ukraine,Q11285342,Andrii Derkach,child,Q28500663,Tatyana Andreevna Terekhova
 Ukraine,Q11285342,Andrii Derkach,father,Q4158965,Leonid Derkach
