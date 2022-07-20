@@ -1,6 +1,6 @@
 catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
 Panama,President,Laurentino Cortizo,Q28122455,2019-07-01,male,1953-01-30,,Laurentino Cortizo (cropped).jpg,Laurentino Cortizo
-Panama,Vice President,José Gabriel Carrizo,Q63633749,2019-07-01,male,1983,,José Gabriel Carrizo.jpg,Jose Gabriel Carrizo
+Panama,Vice President,José Gabriel Carrizo,Q63633749,2019-07-01,male,1983,,,Jose Gabriel Carrizo
 Panama,Minister of Agricultural Development,Augusto Valderrama,Q110628764,2019-07-01,,,,,
 Panama,Minister for Canal Affairs,Arístides Royo,Q665630,2019-07-01,male,1940-08-14,,Aristides Royo (6713987733) (cropped).jpg,Aristides Royo
 Panama,Minister of Commerce and Industries,Ramón Martínez de la Guardia,Q110628731,2019-07-01,,,,,
@@ -12,7 +12,7 @@ Panama,Minister of Government,Janaina Tewaney,Q96182040,2020-02-06,female,1984-0
 Panama,Minister of Health,Luis Francisco Sucre,Q95807201,2020-06-01,male,1967-10-25,,"Luis Francisco Sucre, Minister of Health of Panama (cropped).jpg",
 Panama,Minister of Housing and Land Management,Rogelio Paredes,Q110628751,2020-06-24,male,1957-08-17,,,
 Panama,Minister of Labour,Doris Zapata,Q110628727,2019-07-01,female,1972-08-02,,,
-Panama,Minister of the Presidency,José Gabriel Carrizo,Q63633749,2019-07-01,male,1983,,José Gabriel Carrizo.jpg,Jose Gabriel Carrizo
+Panama,Minister of the Presidency,José Gabriel Carrizo,Q63633749,2019-07-01,male,1983,,,Jose Gabriel Carrizo
 Panama,Minister of Public Security,Juan Pino,Q110628794,2020-02-05,male,,,,
 Panama,Minister of Public Works,Rafael Sabonge,Q100351071,2019-07-01,male,1978-10-09,,Ministro en consejo gabinete.jpg,
 Panama,Minister of Social Development,María Inés Castillo,Q110628773,2020-06-24,female,,,,

@@ -19,9 +19,9 @@ Afghanistan,Minister of Foreign Affairs,Amir Khan Muttaqi,Q60499905,2021-09-07,m
 Afghanistan,Minister of Higher Education,Abdul Baqi Haqqani,Q108321646,2021-08-29,male,1961,,,Abdul Baqi Haqqani
 Afghanistan,Minister of Housing and Urban Development,Rokhan Wolasmal,Q47544884,2018-06-18,male,,,,
 Afghanistan,Minister of the Interior,Sirajuddin Haqqani,Q2246940,2021-09-07,male,1970,,Sirajuddin Haqqani.png,Sirajuddin Haqqani
-Åland,Lantråd,Veronica Thörnroos,Q4982779,2019-11-25,female,1962-07-16,,Veronica Thörnroos.jpg,Veronica Thörnroos
+Åland,Lantråd,Veronica Thörnroos,Q4982779,2019-11-25,female,1962-07-16,,,Veronica Thörnroos
 Åland,Vice lantråd,Harry Jansson,Q2160820,2019-12-10,male,1959-10-04,,Harry Jansson BSPC 19 Mariehamn aland (cropped).jpg,
-Åland,Minister of Development,Alfons Röblom,Q6086545,2019-12-10,male,1983-08-03,,Alfon Röblom.jpg,
+Åland,Minister of Development,Alfons Röblom,Q6086545,2019-12-10,male,1983-08-03,,,
 Åland,Minister of Education and Culture,Annika Hambrudd,Q85686346,2019-12-10,female,1972,,,
 Åland,Minister of Finance,Roger Höglund,Q107724895,2019-12-10,male,1964-06-22,,,
 Åland,Minister for Industry and Trade,Fredrik Karlström,Q3371504,2019-12-10,male,1973-05-18,,"Fredrik Karlstrom, alands delegation till Nordiska radet, talar vid sessionen i Stockholm 2009.jpg",
@@ -405,7 +405,6 @@ Azerbaijan,Chairman of the Food Safety Agency,Goshgar Tahmazli,Q55200630,2017-12
 Azerbaijan,Chairman of the State Committee for Work with Religious Associations,Mubariz Gurbanli,Q12842413,2014-07-21,male,1954-01-07,,"DQİDK sədri Mübariz Qurbanlının ""Amerikanın Səsi""nə müsahibəsi - 2.jpg",Mubariz Gurbanli
 Azerbaijan,Chairman of the State Committee on Diaspora Affairs,Fuad Muradov,Q5506881,2018-04-23,male,1979-07-22,,Fuad Muradov.jpg,Fuad Muradov
 Azerbaijan,Chairman of the State Committee on Refugee and IDP Affairs,Rovshan Rzayev,Q19715508,2018-04-21,male,1962-01-20,,Rovshan Rzayev.jpg,
-Azerbaijan,Chairman of the State Customs Committee,Safar Mehdiyev,Q16374557,2018-04-23,male,1973-03-17,,Ilham Aliyev chaired meeting of Cabinet of Ministers dedicated to results of socioeconomic development of 2018 and objectives for future 10.jpg,Safar Mehdiyev
 Azerbaijan,Chairman of the State Statistics Committee,Tahir Budaqov,Q16374811,2015-08-13,male,1965-01-01,,Budagov Tahir.jpg,
 Azerbaijan,Chairman of the State Tourism Agency,Fuad Naghiyev,Q55202229,2018-04-23,male,1975-07-22,,,Fuad Naghiyev
 Azerbaijan,Chairman of the State Urban Planning and Architecture Committee,Anar Guliyev,Q81409395,2020-01-08,male,1977,,Anar Quliyev 2.jpg,
@@ -580,6 +579,7 @@ Belgium,Deputy Prime Minister,Frank Vandenbroucke,Q186931,2020-10-01,male,1955-1
 Belgium,Deputy Prime Minister,Vincent Van Peteghem,Q27826608,2020-10-01,male,1980-10-28,,"Vincent Van Peteghem at EPP Summit, 15 October 2020 (50488768457) (cropped).jpg",Vincent Van Peteghem
 Belgium,Deputy Prime Minister,Georges Gilkinet,Q3102773,2020-10-01,male,1971-01-25,,Georges Gilkinet.jpg,Georges Gilkinet
 Belgium,Deputy Prime Minister,Vincent Van Quickenborne,Q549887,2020-10-01,male,1973-08-01,,Vincent Van Quickenborne - Annual Meeting of the New Champions Dalian 2009.jpg,Vincent Van Quickenborne
+Belgium,Deputy Prime Minister,David Clarinval,Q3017667,2022-07-15,male,1976-01-10,,David-clarinval.jpg,David Clarinval
 Belgium,Minister of Defence,Ludivine Dedonder,Q65271469,2020-10-01,female,1977-03-17,,Ludivine Dedonder.jpg,Ludivine Dedonder
 Belgium,Minister of Development Cooperation,Meryame Kitir,Q2757876,2020-10-01,female,1980-04-20,,Meryame Kitir.jpg,Meryame Kitir
 Belgium,Minister of Energy,Tinne Van der Straeten,Q2613060,2020-10-01,female,1978-04-01,,Tinne van der straeten-1573744677.jpeg,Tinne Van der Straeten
@@ -846,7 +846,7 @@ Bulgaria,Minister of Foreign Affairs,Teodora Genchovska,Q110089977,2021-12-13,fe
 Bulgaria,Minister of Health,Asena Serbezova,Q110153983,2021-12-13,female,1973-03-30,,,Assena Serbezova
 Bulgaria,Minister of Innovation and Growth,Daniel Lorer,Q108866960,2021-12-13,male,1976-05-28,,Daniel Lorer.jpg,
 Bulgaria,Minister of Interior,Boyko Rashkov,Q28599818,2021-12-13,male,1954-09-28,,,Boiko Rashkov
-Bulgaria,Minister of Justice,Nadezhda Yordanova,Q110153990,2021-12-13,female,,,,
+Bulgaria,Minister of Justice,Nadezhda Yordanova,Q110153990,2021-12-13,female,1973-03-06,,,Nadezhda Yordanova
 Bulgaria,Minister of Labour and Social Policies,Georgi Gyokov,Q17409292,2021-12-13,male,1961-12-13,,,
 Bulgaria,Minister of Regional Development and Public Works,Grozdan Karadjov,Q110071439,2021-12-13,male,1966-12-14,,Grozdan Karadjov.jpg,Grozdan Karadzhov
 Bulgaria,Minister of Sports,Radostin Vasilev,Q110153996,2021-12-13,male,1985-01-01,,Радостин Василев.jpg,
@@ -1434,7 +1434,7 @@ Egypt,Minister of the Environment,Yasmine Fouad,Q60564408,2018-06-14,female,,,ي
 Egypt,Minister of Finance,Mohamed Maait,Q55392139,2018-06-14,male,1962-08-31,,محمد معيط - جريدة الفجر 2019.png,
 Egypt,Minister of Foreign Affairs,Sameh Shoukry,Q7409268,2014-06-17,male,1952-10-20,,Sameh Shoukry Senate of Poland 2015.JPG,Sameh Shoukry
 Egypt,Minister of Health,Hala Mustafa Zaid,Q60564405,2018-06-14,female,1967-12-31,,Hala Zayed.png,
-Egypt,Minister of Higher Education and Scientific Research,Khaled Abdel Ghaffar,Q47161155,2017-02-16,male,1962-11-24,,خالد عبد الغفار.png,Khaled Abdel Ghaffar
+Egypt,Minister of Higher Education and Scientific Research,Khaled Abdel Ghaffar,Q47161155,2017-02-16,male,1962-11-24,,خالد عاطف عبد الغفار.png,Khaled Abdel Ghaffar
 Egypt,Minister of Housing,Assem el Gazzar,Q62625128,2019-02-13,male,1967,,عاصم الجزار.png,
 Egypt,Minister of Immigration and Expatriates Affairs,Nabila Makram,Q22929983,2015-09-09,female,1969-08-13,,نبيلة مكرم.png,
 Egypt,Minister of Industry and Foreign Trade,Neveen Gameea,Q110559111,2019-12-22,,,,,
@@ -1744,7 +1744,7 @@ France,Minister of Labour,Olivier Dussopt,Q2020823,2022-05-16,male,1978-08-16,,O
 France,Minister of National Education,Pap Ndiaye,Q3362697,2022-05-20,male,1965-10-25,,Pap Ndiaye.jpg,Pap Ndiaye
 France,Minister for Overseas France,Jean-François Carenco,Q19944965,2022-07-04,male,1952-07-07,,Jean-François Carenco 2 (20730280934) (cropped).jpg,
 France,Minister of the Sea,Hervé Berville,Q30223120,2022-07-04,male,1990-01-15,,Hervé Berville (cropped).jpg,Hervé Berville
-France,Minister for Solidarity and Health,François Braun,Q112289951,2022-07-04,male,1962,,,François Braun
+France,Minister for Solidarity and Health,François Braun,Q112289951,2022-07-04,male,1962,,François Braun.jpg,François Braun
 France,Minister of Sport,Amélie Oudéa-Castéra,Q33104697,2022-05-20,female,1978-04-09,,Amélie Oudéa-Castéra 2017 (crop).jpg,Amélie Oudéa-Castéra
 France,Minister of State for Disabled People,Jean-Christophe Combe,Q101229059,2022-07-04,male,1981-09-14,,,Jean-Christophe Combe
 France,"Minister Delegate for Gender Equality, Diversity and Equal Opportunities",Isabelle Rome,Q56715795,2022-05-20,female,1963-04-29,,Isabelle Rome - 2018.jpg,Isabelle Lonvis-Rome
@@ -1945,7 +1945,7 @@ Guatemala,Chief of Defence Staff,Walfre Omar Carranza España,Q110184238,2020-12
 Honduras,President,Xiomara Castro,Q8044708,2022-01-27,female,1959-09-30,,Xiomara Castro 2022 (cropped).jpg,Xiomara Castro
 Honduras,Secretary of Agriculture,Laura Suazo,Q110787218,2022-01-27,,,,,
 Honduras,Secretary of Art and Culture,Anarella Vélez,Q112916742,2022-01-27,female,,,,
-Honduras,Secretary of Defence,José Manuel Zelaya Rosales,Q110787063,2022-01-27,male,,,,
+Honduras,Secretary of Defence,José Manuel Zelaya,Q110787063,2022-01-27,male,,,,
 Honduras,Secretary of Education,Daniel Esponda,Q110787162,2022-01-27,,,,,
 Honduras,Secretary of Finance,Rixi Moncada,Q76760763,2022-01-27,female,1965,,,
 Honduras,Secretary of Foreign Affairs,Eduardo Enrique Reina,Q110786692,2022-01-27,,,,,
@@ -1959,15 +1959,15 @@ Hong Kong,Secretary for the Civil Service,Ingrid Yeung,Q97300997,2022-07-01,fema
 Hong Kong,Secretary for Commerce and Economic Development,Algernon Yau,Q112658126,2022-07-01,male,,,,
 Hong Kong,Secretary for Constitutional and Mainland Affairs,Erick Tsang,Q30825347,2020-04-22,male,1963-09-01,,20200422 HK Government Reshuffle 曾國衛.png,Erick Tsang
 Hong Kong,"Secretary for Culture, Sports and Tourism",Kevin Yeung,Q9299188,2022-07-01,male,1963-01-26,,Kelvin Yeung Yun-hung.png,Kevin Yeung
-Hong Kong,Secretary for Development,Bernadette Linn,Q97301037,2022-07-01,,,,,
+Hong Kong,Secretary for Development,Bernadette Linn,Q97301037,2022-07-01,female,,,,
 Hong Kong,Secretary for Education,Christine Choi,Q22099203,2022-07-01,female,1966,,,
 Hong Kong,Secretary for the Environment and Ecology,Tse Chin-wan,Q15888642,2022-07-01,male,1957-10-15,,,
 Hong Kong,Secretary for Finance,Paul Chan Mo-po,Q7149777,2017-01-16,male,1955-03-18,,Paul Chan Mo Po.jpg,Paul Chan Mo-po
 Hong Kong,Secretary for Financial Services and the Treasury,Christopher Hui,Q91408367,2020-04-22,male,1976,,Christopher Hui 20201223 (cropped).png,Christopher Hui
-Hong Kong,Secretary for Food and Health,Lo Chung Mau,Q15922367,2022-07-01,male,1961,,香港大學副校長任命事件2.jpg,Lo Chung-mau
+Hong Kong,Secretary for Health,Lo Chung Mau,Q15922367,2022-07-01,male,1961,,香港大學副校長任命事件2.jpg,Lo Chung-mau
 Hong Kong,Secretary for Home and Youth Affairs,Alice Mak,Q4725987,2022-07-01,female,1970-11-01,,Alice Mak Mei-kuen.png,Alice Mak (politician)
 Hong Kong,Secretary for Housing,Winnie Ho,Q112644506,2022-07-01,female,,,,
-Hong Kong,Secretary for Innovation and Technology,Dong Sun,Q30122220,2022-07-01,male,1967,,,Dong Sun
+Hong Kong,"Secretary for Innovation, Technology and Industry",Dong Sun,Q30122220,2022-07-01,male,1967,,,Dong Sun
 Hong Kong,Secretary for Justice,Paul Lam,Q67935929,2022-07-01,male,,,Paul Lam 2022 (cropped).jpg,Paul Lam
 Hong Kong,Secretary for Labour and Welfare,Chris Sun,Q112645023,2022-07-01,male,,,,
 Hong Kong,Secretary for Security,Tang Ping-keung,Q48914413,2021-06-25,male,1965-07-04,,Tang Ping-keung 20191122.png,Chris Tang
@@ -2317,7 +2317,7 @@ Israel,Prime Minister,Yair Lapid,Q1396120,2022-07-01,male,1963-11-05,,Yair Lapid
 Israel,Alternate Prime Minister,Naftali Bennett,Q39318,2022-07-01,male,1972-03-25,,Naftali Bennett official portrait.jpg,Naftali Bennett
 Israel,Deputy Prime Minister,Benny Gantz,Q557436,2021-06-13,male,1959-06-09,,Benny Gantz 2019 (cropped).jpg,Benny Gantz
 Israel,Minister of Agriculture and Rural Development,Oded Forer,Q20898016,2021-06-13,male,1977-05-30,,"ח""כ עודד פורר.jpg",Oded Forer
-Israel,Minister of Immigration and Absorption,Pnina Tamano-Shata,Q3663047,2021-06-13,female,1981-01-01,,פנינה תמנו שטה.jpg,Pnina Tamano-Shata
+Israel,Minister of Immigration and Absorption,Pnina Tamano-Shata,Q3663047,2021-06-13,female,1981-11-01,,פנינה תמנו שטה.jpg,Pnina Tamano-Shata
 Israel,Minister of Communications,Yoaz Hendel,Q8054214,2021-06-13,male,1975-05-22,,Yoaz Hendel (28285751636) (cropped).jpg,Yoaz Hendel
 Israel,Minister of Community Affairs,Naftali Bennett,Q39318,2021-06-13,male,1972-03-25,,Naftali Bennett official portrait.jpg,Naftali Bennett
 Israel,Minister for Community Strengthening and Advancement,Omer Bar-Lev,Q3593286,2021-06-13,male,1953-10-02,,עומר בר לב.JPG,Omer Bar-Lev
@@ -3354,7 +3354,7 @@ Nepal,Minister of Federal Affairs and General Administration,Rajendra Prasad Shr
 Nepal,Minister of Finance,Sher Bahadur Deuba,Q470903,2022-07-06,male,1946-06-13,,"Prime Minister of Nepal, Shri Sher Bahadur Deuba, in Glasgow, Scotland on November 02, 2021 (1).jpg",Sher Bahadur Deuba
 Nepal,Minister of Foreign Affairs,Narayan Khadka,Q13181537,2021-09-22,male,1949-03-20,,,Narayan Khadka
 Nepal,Minister of Forests and Environment,Pradip Yadav,Q112912916,2022-07-04,male,,,,
-Nepal,Minister of Health and Population,Bhawani Prasad Khapung,Q60544995,2022-06-05,male,,,,Bhawani Prasad Khapung
+Nepal,Minister of Health and Population,Bhawani Prasad Khapung,Q60544995,2022-06-05,male,1961-10-05,,,Bhawani Prasad Khapung
 Nepal,Minister of Home Affairs,Bal Krishna Khand,Q13183947,2021-07-13,male,,,,Bal Krishna Khand
 Nepal,"Minister of Industry, Commerce and Supplies",Dilendra Prasad Badu,Q5276755,2022-04-07,male,1954-01-09,,,Dilendra Prasad Badu
 Nepal,"Minister of Labor, Employment and Social Security",Sher Bahadur Kunwor,Q7494613,2022-06-05,male,,,,Sher Bahadur Kunwor
@@ -3689,7 +3689,7 @@ Pakistan,Prime Minister of Azad Kashmir,Tanveer Ilyas,Q111494888,2022-04-18,male
 Pakistan,President of Azad Kashmir,Sultan Mehmood Chaudhry,Q7636704,2021-08-25,male,,,,Sultan Mehmood Chaudhry
 Pakistan,Mayor of Islamabad,Pir Adil Gilani,Q109752656,2020-01-04,male,,,,
 Panama,President,Laurentino Cortizo,Q28122455,2019-07-01,male,1953-01-30,,Laurentino Cortizo (cropped).jpg,Laurentino Cortizo
-Panama,Vice President,José Gabriel Carrizo,Q63633749,2019-07-01,male,1983,,José Gabriel Carrizo.jpg,Jose Gabriel Carrizo
+Panama,Vice President,José Gabriel Carrizo,Q63633749,2019-07-01,male,1983,,,Jose Gabriel Carrizo
 Panama,Minister of Agricultural Development,Augusto Valderrama,Q110628764,2019-07-01,,,,,
 Panama,Minister for Canal Affairs,Arístides Royo,Q665630,2019-07-01,male,1940-08-14,,Aristides Royo (6713987733) (cropped).jpg,Aristides Royo
 Panama,Minister of Commerce and Industries,Ramón Martínez de la Guardia,Q110628731,2019-07-01,,,,,
@@ -3701,7 +3701,7 @@ Panama,Minister of Government,Janaina Tewaney,Q96182040,2020-02-06,female,1984-0
 Panama,Minister of Health,Luis Francisco Sucre,Q95807201,2020-06-01,male,1967-10-25,,"Luis Francisco Sucre, Minister of Health of Panama (cropped).jpg",
 Panama,Minister of Housing and Land Management,Rogelio Paredes,Q110628751,2020-06-24,male,1957-08-17,,,
 Panama,Minister of Labour,Doris Zapata,Q110628727,2019-07-01,female,1972-08-02,,,
-Panama,Minister of the Presidency,José Gabriel Carrizo,Q63633749,2019-07-01,male,1983,,José Gabriel Carrizo.jpg,Jose Gabriel Carrizo
+Panama,Minister of the Presidency,José Gabriel Carrizo,Q63633749,2019-07-01,male,1983,,,Jose Gabriel Carrizo
 Panama,Minister of Public Security,Juan Pino,Q110628794,2020-02-05,male,,,,
 Panama,Minister of Public Works,Rafael Sabonge,Q100351071,2019-07-01,male,1978-10-09,,Ministro en consejo gabinete.jpg,
 Panama,Minister of Social Development,María Inés Castillo,Q110628773,2020-06-24,female,,,,
@@ -4395,7 +4395,7 @@ South Sudan,Minister of Education,Awut Deng Acuil,Q12748065,2020-03-12,female,19
 South Sudan,Minister of Electricity and Dams,Peter Marcello Nasir,Q112707245,2020-02-22,,,,,
 South Sudan,Minister of Environment,Josephine Napwon Cosmos,Q112525664,2020-02-22,female,,,,
 South Sudan,Minister of Federal Affairs,Lasuba L. Wango,Q112707240,2020-02-22,,,,,
-South Sudan,Minister of Finance,Agak Achuil Lual,Q112686449,2021-11-12,male,,,,
+South Sudan,Minister of Finance,Agak Achuil Lual,Q112686449,2021-11-12,male,,,,Agak Achuil Lual
 South Sudan,Minister of Foreign Affairs,Mayiik Ayii Deng,Q48975135,2021-09-09,male,1971-12-20,,Mayiik Ayii Deng.jpg,Mayiik Ayii Deng
 South Sudan,"Minister of Gender, Social Welfare and Religious Affairs",Ayaa Benjamin Warille,Q112707226,2020-02-22,,,,,
 South Sudan,Minister of Health,Yolanda Wel Deng,Q112710955,2022-03-23,female,,,,
@@ -4652,6 +4652,7 @@ Tanzania,Chief of Defence Force,Venance Salvatory Mabeyo,Q59725943,2017-02-06,ma
 Thailand,King,Vajiralongkorn,Q548733,2016-10-13,male,1952-07-28,,King Rama X official (crop).png,Vajiralongkorn
 Thailand,Prime Minister,Prayut Chan-o-cha,Q2108126,2014-08-24,male,1954-03-21,,Prayuth 2018 cropped.jpg,Prayut Chan-o-cha
 Thailand,Deputy Prime Minister,Prawit Wongsuwan,Q15724737,2014-08-30,male,1945-08-11,,Prawit Wongsuwon in Washington - 2018 (39846762430) (cropped).jpg,Prawit Wongsuwan
+Thailand,Deputy Prime Minister,Don Pramudwinai,Q20558348,2020-08-12,male,1950-01-25,,Don Pramudwinai in 2017.jpg,Don Pramudwinai
 Thailand,Minister of Defence,Prayut Chan-o-cha,Q2108126,2019-07-10,male,1954-03-21,,Prayuth 2018 cropped.jpg,Prayut Chan-o-cha
 Thailand,Minister of Finance,Arkom Termpittayapaisith,Q20564852,2020-10-01,male,1956-09-25,,Arkhom Termpittayapaisith in London - 2017 (37884414075) (cropped).jpg,Arkhom Termpittayapaisith
 Thailand,Minister of Foreign Affairs,Don Pramudwinai,Q20558348,2015-08-19,male,1950-01-25,,Don Pramudwinai in 2017.jpg,Don Pramudwinai
@@ -5155,14 +5156,14 @@ Uzbekistan,Prime Minister,Abdulla Nigmatovich Aripov,Q28002959,2016-12-14,male,1
 Uzbekistan,First Deputy Prime Minister,Achilbay Ramatov,Q29349797,2016-12-20,male,1962-08-21,,,
 Uzbekistan,Deputy Prime Minister,Aziz Abdukhakimov,Q24009847,2018-05-28,male,1974-11-06,,Aziz Abduhakimov Министр.jpg,Aziz Abduhakimov
 Uzbekistan,Deputy Prime Minister,Jamshid Anvarovich Kuchkarov,Q106165258,2020-01-24,male,1964-10-19,,Jamshid Kuchkarov.jpg,
-Uzbekistan,Deputy Prime Minister,Sardor Umurzakov,Q84718692,2020-03-10,male,1977-11-23,,Sardor Umurzakov 15.03.2021 (cropped).jpg,
 Uzbekistan,Deputy Prime Minister,Shuhrat Gʻaniyev,Q79312593,2020-09-25,male,1968-09-11,,,
-Uzbekistan,Minister of Agriculture,Jamshid Khodjayev,Q106574535,2019-01-28,male,1979,,Jamshid Khodjaev.jpg,
+Uzbekistan,Deputy Prime Minister,Zulaykho Makhkamova,Q113144572,2022-03-01,female,,,,
+Uzbekistan,Deputy Prime Minister,Jamshid Khodjayev,Q106574535,2022-07-16,male,1979,,Jamshid Khodjaev.jpg,
 Uzbekistan,Minister of Construction,Batir Zakirov,Q24009743,2019,male,1963-07-28,,Batir Zakirov.jpg,
 Uzbekistan,Minister of Culture,Ozodbek Nazarbekov,Q4312092,2020-01-22,male,1974-05-07,,"Ozodbek Nazarbekov, Otabek Mahkamov, and Ulugʻbek Rahmatullayev (9.30.2012).JPG",
 Uzbekistan,Minister of Defence,Bakhodir Kurbanov,Q63283334,2019-02-11,male,1972,,Baku session of CMD CIS 03 (cropped).jpg,Bakhodir Kurbanov (general)
 Uzbekistan,Minister of Economic Development and Poverty Reduction,Jamshid Anvarovich Kuchkarov,Q106165258,2020-02-24,male,1964-10-19,,Jamshid Kuchkarov.jpg,
-Uzbekistan,Minister of Emergency Situations,Tursinkhon Khudayberganov,Q24009818,2018-05-12,male,1951-05-20,,,
+Uzbekistan,Minister of Emergency Situations,Abdulla Kuldashev,Q113144119,2022-03-01,male,,,,
 Uzbekistan,Minister of Employment and Labour Relations,Nozim Khusanov,Q106498315,2019-09-12,male,1976,,,
 Uzbekistan,Minister of Energy,Alisher Sultanov,Q28855136,2019-02-01,male,1967-11-29,,Alisher Sultanov.jpg,
 Uzbekistan,Minister of Finance,Timur Amindzhanovich Ishmetov,Q106171645,2020-02-20,male,1979-11-10,,Timur Amindzhanovich Ishmetov.jpg,
@@ -5172,16 +5173,18 @@ Uzbekistan,Minister of Housing,Sherzod Hidoyatov,Q106606953,2021-01-14,male,1980
 Uzbekistan,Minister of Information Technology and Communication,Sherzod Shermatov,Q72563597,2021-11-17,male,1977-04-07,,Sherzod Shermatov.jpg,
 Uzbekistan,Minister of Innovative Development,Ibrokhim Yulchievich Abdurakhmonov,Q106361482,2017-11-29,male,1975-02-19,,Ibrohim Yulchievich Abdurakhmonov.jpg,
 Uzbekistan,Minister of Internal Affairs,Poʻlat Bobojonov,Q38905192,2017-09-04,male,1961-01-01,,Пулат Бобожонов.jpg,
-Uzbekistan,Minister of Investments and Foreign Trade,Sardor Umurzakov,Q84718692,2019-01-28,male,1977-11-23,,Sardor Umurzakov 15.03.2021 (cropped).jpg,
+Uzbekistan,Minister of Investments and Foreign Trade,Jamshid Khodjayev,Q106574535,2022-07-16,male,1979,,Jamshid Khodjaev.jpg,
 Uzbekistan,Minister of Justice,Ruslanbek Davletov,Q106530287,2017-08-14,male,1980,,Ruslanbek Davletov.jpg,
-Uzbekistan,Minister of Mahalla and Family,Rakhmat Mamatov,Q106570383,2020-02,male,1967,,,
+Uzbekistan,Minister of Mahalla and Family,Tursinkhan Khudaibergenov,Q113144124,2022-03-01,male,,,,
 Uzbekistan,Minister of Pre-School Education,Agrippina Vasilievna Shin,Q60330941,2017-10-19,female,1958-12-29,,Agreppina Shin.jpg,Agrippina Shin
 Uzbekistan,Minister of Public Health,Behzod Musaev,Q106511584,2021-11-11,male,1973,,,
 Uzbekistan,Minister of Public Education,Bakhtiyor Saidov,Q109656595,2020-11-17,male,1981-04-22,,Saidov Bakhtiyor Odilovich.jpg,
+Uzbekistan,Minister of Sport,Adham Ikromov,Q28665708,2022-02-18,male,1968-12-21,,Адхам Икрамов.jpg,
 Uzbekistan,Minister of Tourism and Sport,Aziz Abdukhakimov,Q24009847,2021-02-10,male,1974-11-06,,Aziz Abduhakimov Министр.jpg,Aziz Abduhakimov
 Uzbekistan,Minister of Transport,Ilhom Mahkamov,Q106592837,2021-02-22,male,1979-06-12,,Ilkhom Makhkamov.jpg,
 Uzbekistan,Minister of Water Resources,Shavkat Khamraev,Q106606931,2018-02-12,male,1964-08-13,,,
 Uzbekistan,Chair of the Council of Ministers,Kakhraman Sariev,Q106612393,2016-10-14,male,1980,,,
+Uzbekistan,Head of the Office of the President,Sardor Umurzakov,Q84718692,2022-07-16,male,1977-11-23,,Sardor Umurzakov 15.03.2021 (cropped).jpg,
 Uzbekistan,Prosecutor General,Nigmatilla Yuldashev,Q20533811,2019-06-20,male,1962-11-05,,Nigmatilla Yuldashev.jpg,Nigmatilla Yuldashev
 Uzbekistan,Chair of the Senate,Tanzila Narbaeva,Q64765261,2019-06-21,female,1956-07-24,,Tanzila Narbaeva.jpg,Tanzila Norbaeva
 Uzbekistan,Speaker of the Legislative Chamber,Nurdinjon Ismoilov,Q30729355,2015-01-12,male,1959-01-20,,Nuridjon Ismoilov (2019-09-01).jpg,
@@ -5209,10 +5212,10 @@ Vietnam,Vice President,Võ Thị Ánh Xuân,Q24957799,2021-04-06,female,1970-01-
 Vietnam,Prime Minister,Phạm Minh Chính,Q10806940,2021-04-05,male,1958-12-10,,Mr. Pham Minh Chinh.jpg,Phạm Minh Chính
 Vietnam,Deputy Prime Minister,Vũ Đức Đam,Q10833975,2013-11-13,male,1963-02-03,,Mr. Vu Duc Dam.jpg,Vũ Đức Đam
 Vietnam,Deputy Prime Minister,Lê Minh Khái,Q24957821,2021-04-08,male,1964,,Mr. Le Minh Khai.jpg,Lê Minh Khái
-Vietnam,Deputy Prime Minister,Lê Văn Thành,Q49054321,2021-04-08,,1962-10-20,,Dmitry Chernyshenko and Le Van Thanh (2021-12-01) 02 (cropped).jpg,
+Vietnam,Deputy Prime Minister,Lê Văn Thành,Q49054321,2021-04-08,male,1962-10-20,,Dmitry Chernyshenko and Le Van Thanh (2021-12-01) 02 (cropped).jpg,
 Vietnam,Deputy Prime Minister,Phạm Bình Minh,Q10806892,2021-09-06,male,1959-03-26,,Mr. Pham Binh Minh.jpg,Phạm Bình Minh
 Vietnam,Head of the Government Office,Trần Văn Sơn,Q25418498,2021-04-08,male,1961,,,
-Vietnam,Minister of Agriculture,Lê Minh Hoan,Q16157439,2021-04-08,,1961,,,
+Vietnam,Minister of Agriculture,Lê Minh Hoan,Q16157439,2021-04-08,male,1961,,,
 Vietnam,Minister of Construction,Nguyễn Thanh Nghị,Q10799491,2021-04-08,male,1976-08-12,,,
 Vietnam,Minister of Defence,Phan Văn Giang,Q20026119,2021-04-08,male,1960,,Mr. Phan Van Giang.jpg,Phan Văn Giang
 Vietnam,Minister of Education,Nguyễn Kim Sơn,Q30923376,2021-04-08,male,1966-11-18,,,
@@ -5220,7 +5223,7 @@ Vietnam,Minister of Environment and Natural Resources,Trần Hồng Hà,Q1082932
 Vietnam,Minister of Finance,Hồ Đức Phớc,Q16157242,2021-04-08,male,1963,,,Hồ Đức Phớc
 Vietnam,Minister of Foreign Affairs,Bùi Thanh Sơn,Q30921853,2021-04-08,male,1962,,,Bùi Thanh Sơn
 Vietnam,Minister of Health,Đào Hồng Lan,Q49081097,2022-07-15,female,1971,,,
-Vietnam,Minister of Internal Affairs,Phạm Thị Thanh Trà,Q24958645,2021-04-08,,1964-01-21,,,
+Vietnam,Minister of Internal Affairs,Phạm Thị Thanh Trà,Q24958645,2021-04-08,female,1964-01-21,,,
 Vietnam,Minister of Justice,Lê Thành Long,Q24958947,2016-04-08,male,1963,,Bộ trưởng Lê Thành Long.jpg,
 Vietnam,Minister of Planning and Investment,Nguyễn Chí Dũng,Q10799005,2016-04-09,male,1960-08-05,,Mr. Nguyen Chi Dung.jpg,
 Vietnam,Minister of Public Security,Tô Lâm,Q10831196,2016-04-09,male,1957-07-10,,Mr. To Lam.jpg,Tô Lâm
