@@ -11790,8 +11790,8 @@ South Korea,Q11267083,Lee Hui-ho,spouse,Q45785,Kim Dae-jung
 South Korea,Q11464859,Yoon Mee-hyang,spouse,Q56256518,Kim Sam-seok
 South Korea,Q12587534,Kim Boo-kyum,child,Q12610323,윤세인
 South Korea,Q12587534,Kim Boo-kyum,relative,Q11266353,Lee Young-hoon
-South Korea,Q12587695,,father,Q108391826,김상영
-South Korea,Q12587695,,sibling,Q12588950,Robert Chaegon Kim
+South Korea,Q12587695,김성곤 (1952년),father,Q108391826,김상영
+South Korea,Q12587695,김성곤 (1952년),sibling,Q12588950,Robert Chaegon Kim
 South Korea,Q12588667,Kim Jong-seok,father,Q12587796,김세배
 South Korea,Q12589320,Kim Hong-gul,father,Q45785,Kim Dae-jung
 South Korea,Q12589320,Kim Hong-gul,mother,Q11267083,Lee Hui-ho
@@ -11800,7 +11800,7 @@ South Korea,Q12589329,Kim Hong-eop,mother,Q12618516,Cha Yong-ae
 South Korea,Q12589333,Kim Hong-il,father,Q45785,Kim Dae-jung
 South Korea,Q12589333,Kim Hong-il,mother,Q12618516,Cha Yong-ae
 South Korea,Q12610444,Yun Ju-keyng,relative,Q491240,Yoon Bong-Gil
-South Korea,Q12610901,,spouse,Q12619482,Choi Kyu-Sung
+South Korea,Q12610901,이경숙,spouse,Q12619482,Choi Kyu-Sung
 South Korea,Q12611423,Lee Mi-gyeong,father,Q12611345,Lee Maeng-hui
 South Korea,Q12611423,Lee Mi-gyeong,sibling,Q16091081,Lee Jae-hyeon
 South Korea,Q12612132,Lee Wan-koo,spouse,Q109564635,Λι Μπέικ-γεόν
@@ -11809,7 +11809,7 @@ South Korea,Q12614683,Chang Je-won,child,Q55728779,Noel
 South Korea,Q12614683,Chang Je-won,father,Q19940963,Chang Sŏng-man
 South Korea,Q12615206,Jeon Soon-ok,mother,Q16178678,So-sŏn Yi
 South Korea,Q12615206,Jeon Soon-ok,sibling,Q482694,Jeon Tae-il
-South Korea,Q12616175,,father,Q12615521,Chung Dae-chul
+South Korea,Q12616175,정호준,father,Q12615521,Chung Dae-chul
 South Korea,Q12616590,Cho Kuk,child,Q107617686,Cho Min
 South Korea,Q12616590,Cho Kuk,spouse,Q72291512,Chung Kyung-shim
 South Korea,Q12617992,Ji Sang-wook,father,Q59299044,지성한
@@ -11832,8 +11832,8 @@ South Korea,Q16080217,Kim Moo-sung,father,Q12588209,김용주
 South Korea,Q16080266,Kim Seon-mi,spouse,Q12604838,Shim Kyu-seop
 South Korea,Q16080285,Kim Se-yeon,father,Q16180037,김진재
 South Korea,Q16080301,Kim Yang,father,Q16929680,Kim Shin
-South Korea,Q16081058,,spouse,Q47004960,민유숙
-South Korea,Q16081942,,spouse,Q23994986,석동현
+South Korea,Q16081058,문병호,spouse,Q47004960,민유숙
+South Korea,Q16081942,박영아,spouse,Q23994986,석동현
 South Korea,Q16083277,Suh Byung-soo,sibling,Q93752810,Suh Bum-soo
 South Korea,Q16090431,Yu Seong-yeop,sibling,Q97198138,유재길
 South Korea,Q16090573,Yoo Il-ho,father,Q3700561,Yu Chi-song
