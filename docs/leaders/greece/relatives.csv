@@ -7,7 +7,6 @@ Greece,Q12877311,Evangelos Yannopoulos,spouse,Q26933726,Ντιντή Γιανν�
 Greece,Q12877513,Zoi Konstantopoulou,father,Q3347276,Nikos Konstantopoulos
 Greece,Q12879717,Konstantinos Tsoukalas,father,Q12872072,Ange Tsoukalas
 Greece,Q12879717,Konstantinos Tsoukalas,spouse,Q113041921,Φωτεινή Τσαλίκογλου
-Greece,Q12879717,Konstantinos Tsoukalas,spouse,Q19851070,Alexandra Konstantinidi
 Greece,Q12881047,Miltiades Varvitsiotis,father,Q1428443,Ioannis Varvitsiotis
 Greece,Q12881764,Nikos Alivizatos,father,Q12879618,Konstantinos Alivizatos
 Greece,Q12881764,Nikos Alivizatos,mother,Q16766183,Lili Theotoka
@@ -63,14 +62,6 @@ Greece,Q27882530,Georgios Ch. Kartalis,child,Q19204802,Antonios Kartalis
 Greece,Q27882530,Georgios Ch. Kartalis,child,Q27882549,Konstantinos Kartalis
 Greece,Q27882530,Georgios Ch. Kartalis,sibling,Q30243193,Ioannis Kartalis
 Greece,Q27882530,Georgios Ch. Kartalis,sibling,Q30243206,Αριστείδης Καρτάλης
-Greece,Q29883265,,sibling,Q29883270,Δημήτριος Κατσίνας
-Greece,Q29883270,,sibling,Q29883265,Γεώργιος Κατσίνας
-Greece,Q29892566,,father,Q12876056,Dimítrios Chatzískos
-Greece,Q29892566,,sibling,Q22812361,Nikolaos Chatziskos
-Greece,Q29892566,,sibling,Q29892581,Κωνσταντίνος Χατζίσκος
-Greece,Q29892581,,father,Q12876056,Dimítrios Chatzískos
-Greece,Q29892581,,sibling,Q22812361,Nikolaos Chatziskos
-Greece,Q29892581,,sibling,Q29892566,Ιωάννης Χατζίσκος
 Greece,Q30242650,Aryirios Philippides,child,Q30243020,Georgios Filippidis
 Greece,Q30348632,Anastase Avéroff,child,Q43968709,Michel Avéroff
 Greece,Q30348632,Anastase Avéroff,child,Q562162,Evangelos Averoff
@@ -88,6 +79,7 @@ Greece,Q3347276,Nikos Konstantopoulos,child,Q12877513,Zoi Konstantopoulou
 Greece,Q3577025,Anna Benaki-Psarouda,spouse,Q6554744,Linos Benakis
 Greece,Q382096,Georgios Voulgarakis,child,Q61650367,Παυλίνα Βουλγαράκη
 Greece,Q40688,Yanis Varoufakis,spouse,Q2297038,Danae Stratou
+Greece,Q44056603,Kostas Katsikis,father,Q16327679,Θεόδωρος Κατσίκης
 Greece,Q444093,Athanasios Plevris,father,Q669418,Konstantinos Plevris
 Greece,Q462542,Theodoros Pangalos,father,Q16504364,Georgios Pangalos
 Greece,Q462542,Theodoros Pangalos,spouse,Q16510486,Christina Christofaki
@@ -107,7 +99,6 @@ Greece,Q468064,Louka Katseli,spouse,Q701060,Gerasimos Arsenis
 Greece,Q4684534,Adonis Georgiades,spouse,Q16211010,Eugenia Manolidou
 Greece,Q526202,Tasos Giannitsis,child,Q106929737,Constantine Giannitsis
 Greece,Q535120,Fani Palli-Petralia,spouse,Q108328820,Nikos Pallis
-Greece,Q53599171,,father,Q16327679,Θεόδωρος Κατσίκης
 Greece,Q536323,Olga Kefalogianni,spouse,Q30085577,Minos Matsas
 Greece,Q5367305,Elpida Tsouri,father,Q94579024,Stefanos Tsouris
 Greece,Q5415838,Evangelos Basiakos,father,Q20127721,Aristídis Bassiákos
@@ -141,5 +132,4 @@ Greece,Q7786625,Thodoris Dritsas,spouse,Q24702508,Tasia Christodoulopoulou
 Greece,Q7916956,Vassilis Kikilias,spouse,Q25345997,Jenny Balatsinou
 Greece,Q7943966,Viron Polydoras,sibling,Q105191732,Αντώνιος Πολύδωρας
 Greece,Q85557267,Katerina Monogyiou,sibling,Q110553795,Tzortzis
-Greece,Q92708134,,relative,Q12878324,Ioannis Drosopoulos
 Greece,Q929413,Giorgos Papakonstantinou,relative,Q983656,Michalis Papakonstantinou

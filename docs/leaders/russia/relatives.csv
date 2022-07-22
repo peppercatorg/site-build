@@ -1,6 +1,6 @@
 catalog,id,name,relationship,relative,relativename
 Russia,Q101077271,Ruslan Viktorovich Kondratov,father,Q70250998,Viktor Kondratov
-Russia,Q102435754,,father,Q3820134,Vladimir Govorov
+Russia,Q102435754,"Говоров, Леонид Владимирович",father,Q3820134,Vladimir Govorov
 Russia,Q103813305,Konstantin Sevenard,father,Q15081060,Yury Sevenard
 Russia,Q105105146,Marina Rogachyova,father,Q1143350,Yegor Stroyev
 Russia,Q106274168,Andrey Anikeev,relative,Q4066230,Grigory Anikeyev
@@ -196,7 +196,7 @@ Russia,Q4371978,Ilya Ponomarev,father,Q70248527,Vladimir Ponomaryov
 Russia,Q4371978,Ilya Ponomarev,mother,Q106734231,Larisa Ponomaryova
 Russia,Q4375286,Alexander Pochinok,spouse,Q21154097,Natalya Pochinok
 Russia,Q4391661,Yevgeny Revenko,spouse,Q4263452,Elizaveta Listova
-Russia,Q4395840,,child,Q54492812,Inna Svyatenko
+Russia,Q4395840,"Родионов, Юрий Николаевич",child,Q54492812,Inna Svyatenko
 Russia,Q44371,Valentina Tereshkova,child,Q110415240,Elena Tereshkova
 Russia,Q44371,Valentina Tereshkova,spouse,Q312474,Andriyan Nikolayev
 Russia,Q44371,Valentina Tereshkova,spouse,Q47161323,Yuliy Shaposhnikov

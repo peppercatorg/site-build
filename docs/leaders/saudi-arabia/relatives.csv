@@ -111,7 +111,7 @@ Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q7395569,Saad bin Abdulaziz
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q7445959,Seeta bint Abdulaziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q981846,Muqrin bin Abdul-Aziz Al Saud
-Saudi Arabia,Q35369443,,father,Q7395569,Saad bin Abdulaziz
+Saudi Arabia,Q35369443,عبد العزيز بن سعد بن عبد العزيز آل سعود,father,Q7395569,Saad bin Abdulaziz
 Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q28197146,Saud Bin Salman bin Abdulaziz al Saud
 Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud
@@ -292,7 +292,7 @@ Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,mother,Q2795275,Haifa 
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,sibling,Q104520507,Faisal bin Bandar bin Sultan Al Saud
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,sibling,Q7306919,Reema Bint Bandar Al Saud
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,spouse,Q75331065,Lucy Caroline Cuthbert
-Saudi Arabia,Q6871574,,father,Q6967643,Nasser bin Abdulaziz
+Saudi Arabia,Q6871574,منصور الثاني بن ناصر بن عبد العزيز آل سعود,father,Q6967643,Nasser bin Abdulaziz
 Saudi Arabia,Q6892571,Mohammad bin Salman,father,Q367825,Salman of Saudi Arabia
 Saudi Arabia,Q6892571,Mohammad bin Salman,mother,Q30512408,Fahdah bint Falah bin Sultan
 Saudi Arabia,Q6892571,Mohammad bin Salman,relative,Q151509,Ibn Saud
@@ -319,5 +319,5 @@ Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q293679,Al-
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q4665226,Abdul-Aziz bin Talal bin Abdul-Aziz Al Saud
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q6399403,Khaled bin Talal bin Abdul Aziz Al Saud
 Saudi Arabia,Q87436373,Abdullah bin Khalid bin Sultan Al Saud,father,Q742051,Khalid bin Sultan
-Saudi Arabia,Q97120155,,father,Q42331334,يحيى المعلمي
-Saudi Arabia,Q97120155,,sibling,Q20415155,Abdallah Yahya Al-Mouallimi
+Saudi Arabia,Q97120155,آمال المعلمي,father,Q42331334,يحيى المعلمي
+Saudi Arabia,Q97120155,آمال المعلمي,sibling,Q20415155,Abdallah Yahya Al-Mouallimi

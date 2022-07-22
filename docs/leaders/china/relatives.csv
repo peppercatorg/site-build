@@ -8,7 +8,7 @@ China,Q1069897,Cheng Siwei,sibling,Q15240320,Cheng Youshu
 China,Q1069897,Cheng Siwei,sibling,Q15908154,Cheng Zhifan
 China,Q1069897,Cheng Siwei,sibling,Q16075610,Cheng Jialing
 China,Q1069897,Cheng Siwei,sibling,Q47520139,Lucie Cheng
-China,Q11067710,,mother,Q22812876,张稻香
+China,Q11067710,张金涛,mother,Q22812876,张稻香
 China,Q12117497,Raymond Wu,father,Q28411516,邬志豪
 China,Q12117497,Raymond Wu,sibling,Q15925031,鄔顯庭
 China,Q1226358,Ding Shisun,spouse,Q15912854,桂琳琳
@@ -51,9 +51,9 @@ China,Q16628,Wen Jiabao,child,Q15914799,Wen Ruchun
 China,Q16628,Wen Jiabao,child,Q3380941,Wen Yunsong
 China,Q16628,Wen Jiabao,spouse,Q4122281,Zhang Peili
 China,Q16906311,Bai Tian,father,Q7217871,Bai Dongcai
-China,Q16907286,,child,Q16907309,赵超
-China,Q16907286,,child,Q63993844,赵涛
-China,Q16907309,,sibling,Q63993844,赵涛
+China,Q16907286,赵步长,child,Q16907309,赵超
+China,Q16907286,赵步长,child,Q63993844,赵涛
+China,Q16907309,赵超,sibling,Q63993844,赵涛
 China,Q16907822,Chen Weilan,father,Q557233,Chen Yun
 China,Q16907822,Chen Weilan,mother,Q8289904,Yu Ruomu
 China,Q16907822,Chen Weilan,sibling,Q82260,Chen Yuan
@@ -90,7 +90,7 @@ China,Q365898,Wang Hongju,child,Q45411700,Wang Dalin
 China,Q365898,Wang Hongju,father,Q45411704,Wang Duanli
 China,Q4892988,Bernard Charnwut Chan,father,Q7352315,Robin Chan
 China,Q4892988,Bernard Charnwut Chan,sibling,Q7610653,Stephen Tan
-China,Q51103804,,father,Q10919280,Wu Yiling
+China,Q51103804,吴相君,father,Q10919280,Wu Yiling
 China,Q5434051,Fanny Law,sibling,Q5721095,Henry Fan
 China,Q6137125,Chen Saijuan,spouse,Q688508,Chen Zhu
 China,Q6498786,Laura Cha,spouse,Q11108994,Victor Cha Mou-Zing
