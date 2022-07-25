@@ -2,7 +2,8 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Sri Lanka,President,Chandrika Kumaratunga,Q207432,1994-11-12,2005-11-19,female,1945-06-29,,Chandrika Kumaratunga.jpg,Chandrika Kumaratunga
 Sri Lanka,President,Mahinda Rajapaksa,Q57338,2005-11-19,2015-01-09,male,1945-11-18,,Mahinda Rajapaksa 1.jpg,Mahinda Rajapaksa
 Sri Lanka,President,Maithripala Sirisena,Q6737124,2015-01-09,2019-11-18,male,1951-09-03,,Maithripala Sirisena (cropped).jpg,Maithripala Sirisena
-Sri Lanka,President,Gotabaya Rajapaksa,Q1538702,2019-11-18,,male,1949-06-20,,Gotabaya Rajapaksa November 2019 crop.jpg,Gotabaya Rajapaksa
+Sri Lanka,President,Gotabaya Rajapaksa,Q1538702,2019-11-18,2022-07-14,male,1949-06-20,,Gotabaya Rajapaksa November 2019 crop.jpg,Gotabaya Rajapaksa
+Sri Lanka,President,Ranil Wickremesinghe,Q983402,2022-07-15,,male,1949-03-24,,"Prime Minister of the Democratic Socialist Republic of Sri Lanka, Mr. Ranil Wickremesinghe, at Hyderabad House, in New Delhi on November 23, 2017.jpg",Ranil Wickremesinghe
 Sri Lanka,Prime Minister,Sirimavo Bandaranaike,Q194291,1994-11-14,2000-08-10,female,1916-04-17,2000-10-10,Sirimavo Ratwatte Dias Bandaranayaka (1916-2000) (Hon.Sirimavo Bandaranaike with Hon.Lalith Athulathmudali Crop).jpg,Sirimavo Bandaranaike
 Sri Lanka,Prime Minister,Ratnasiri Wickremanayake,Q314009,2000-08-10,2001-12-09,male,1933-05-05,2016-12-27,Ratnasiri Wickremanayake1.jpg,Ratnasiri Wickremanayake
 Sri Lanka,Prime Minister,Ranil Wickremesinghe,Q983402,2001-12-09,2004-04-06,male,1949-03-24,,"Prime Minister of the Democratic Socialist Republic of Sri Lanka, Mr. Ranil Wickremesinghe, at Hyderabad House, in New Delhi on November 23, 2017.jpg",Ranil Wickremesinghe
@@ -13,6 +14,7 @@ Sri Lanka,Prime Minister,Ranil Wickremesinghe,Q983402,2015-01-09,2018-10-26,male
 Sri Lanka,Prime Minister,Mahinda Rajapaksa,Q57338,2018-10-26,2018-11-14,male,1945-11-18,,Mahinda Rajapaksa 1.jpg,Mahinda Rajapaksa
 Sri Lanka,Prime Minister,Ranil Wickremesinghe,Q983402,2018-12-16,2019-11-21,male,1949-03-24,,"Prime Minister of the Democratic Socialist Republic of Sri Lanka, Mr. Ranil Wickremesinghe, at Hyderabad House, in New Delhi on November 23, 2017.jpg",Ranil Wickremesinghe
 Sri Lanka,Prime Minister,Mahinda Rajapaksa,Q57338,2019-11-21,2022-05-09,male,1945-11-18,,Mahinda Rajapaksa 1.jpg,Mahinda Rajapaksa
+Sri Lanka,Prime Minister,Dinesh Gunawardena,Q5278077,2022-07-22,,male,1949-03-02,,Dinesh Gunawardena.jpg,Dinesh Gunawardena
 Sri Lanka,Minister of Agriculture,D. M. Jayaratne,Q559898,1994-08-19,2001-12-12,male,1931-06-07,2019-11-19,Nimal Korale PM- cropped.jpg,D. M. Jayaratne
 Sri Lanka,Minister of Agriculture,S. B. Dissanayake,Q7387372,2001-12-12,2004-04-10,male,1951-09-18,,,S. B. Dissanayake
 Sri Lanka,Minister of Agriculture,Douglas Devananda,Q3536605,2004-04-10,2005-07-27,male,1957-11-10,,Douglas Devananda 2014.jpg,Douglas Devananda
@@ -33,7 +35,7 @@ Sri Lanka,Minister of Defence,Tilak Marapana,Q17011652,2001-12-12,2003-11-04,mal
 Sri Lanka,Minister of Defence,Chandrika Kumaratunga,Q207432,2003-11-04,2005-11-19,female,1945-06-29,,Chandrika Kumaratunga.jpg,Chandrika Kumaratunga
 Sri Lanka,Minister of Defence,Mahinda Rajapaksa,Q57338,2005-11-19,2015-01-08,male,1945-11-18,,Mahinda Rajapaksa 1.jpg,Mahinda Rajapaksa
 Sri Lanka,Minister of Defence,Maithripala Sirisena,Q6737124,2015-01-12,2019-11-18,male,1951-09-03,,Maithripala Sirisena (cropped).jpg,Maithripala Sirisena
-Sri Lanka,Minister of Defence,Gotabaya Rajapaksa,Q1538702,2020-11-26,2022-04-03,male,1949-06-20,,Gotabaya Rajapaksa November 2019 crop.jpg,Gotabaya Rajapaksa
+Sri Lanka,Minister of Defence,Gotabaya Rajapaksa,Q1538702,2019-11-28,2022-07-14,male,1949-06-20,,Gotabaya Rajapaksa November 2019 crop.jpg,Gotabaya Rajapaksa
 Sri Lanka,Minister of Development Co-ordination and Monitoring,Namal Rajapaksa,Q1848979,2021-08-16,2022-05-12,male,1986-04-10,,Lakshman Namal Rajapaksa.jpg,Namal Rajapaksa
 Sri Lanka,Minister of Economic Policies & Plan Implementation,Mahinda Rajapaksa,Q57338,2020-08-12,2022-05-12,male,1945-11-18,,Mahinda Rajapaksa 1.jpg,Mahinda Rajapaksa
 Sri Lanka,Minister of Education,Sarath Amunugama,Q7423315,2001,2001,male,1939-07-10,,Dr.Sarath Amunugama.jpg,Sarath Amunugama (politician)
@@ -68,7 +70,8 @@ Sri Lanka,Minister of Foreign Affairs,Ravi Karunanayake,Q7296640,2017-05-22,2017
 Sri Lanka,Minister of Foreign Affairs,Vasantha Senanayake,Q7971337,2017-08-10,2017-08-15,male,1973-06-28,,Wasantha Senanayake.jpg,Vasantha Senanayake
 Sri Lanka,Minister of Foreign Affairs,Tilak Marapana,Q17011652,2017-08-15,2019-11-22,male,,,Secretary Pompeo Meets With Sri Lankan Foreign Minister Marapana (47862759611) (cropped).jpg,Tilak Marapana
 Sri Lanka,Minister of Foreign Affairs,Dinesh Gunawardena,Q5278077,2019-11-24,2021-08-16,male,1949-03-02,,Dinesh Gunawardena.jpg,Dinesh Gunawardena
-Sri Lanka,Minister of Foreign Affairs,G. L. Peiris,Q5512329,2021-08-16,,male,1946-08-13,,G. L. Peiris portrait.jpg,G. L. Peiris
+Sri Lanka,Minister of Foreign Affairs,G. L. Peiris,Q5512329,2021-08-16,2022-07-22,male,1946-08-13,,G. L. Peiris portrait.jpg,G. L. Peiris
+Sri Lanka,Minister of Foreign Affairs,Ali Sabry,Q98293656,2022-07-22,,male,1970-05-01,,,Ali Sabry (Sri Lankan politician)
 Sri Lanka,Minister of Health,Nimal Siripala de Silva,Q3529279,2001-09-14,2005,male,1944-09-06,,Nimal Siripala de Silva.jpg,Nimal Siripala de Silva
 Sri Lanka,Minister of Health,Pavithra Devi Wanniarachchi,Q7155896,2020-08-12,2021-08-16,female,1964-11-10,,,Pavithra Wanniarachchi
 Sri Lanka,Minister of Health,Keheliya Rambukwella,Q6383477,2021-08-16,2022-04-03,male,1954-09-21,,,Keheliya Rambukwella
@@ -105,7 +108,7 @@ Sri Lanka,Minister of Plantation,Ramesh Pathirana,Q7289433,2022-05-12,,male,1969
 Sri Lanka,Minister of Ports & Shipping,Johnston Fernando,Q6268633,2019-11-22,2020-08-12,male,1964-12-05,,,Johnston Fernando
 Sri Lanka,Minister of Ports & Shipping,Rohitha Abeygunawardena,Q7359782,2020-08-12,2022-04-18,male,1966-09-21,,,Rohitha Abeygunawardena
 Sri Lanka,Minister of Ports & Shipping,Pramitha Tennakoon,Q98168894,2022-04-18,2022-05-09,male,1978-09-11,,,Pramitha Tennakoon
-Sri Lanka,Minister of Ports & Shipping,Nimal Siripala de Silva,Q3529279,2022-05-20,,male,1944-09-06,,Nimal Siripala de Silva.jpg,Nimal Siripala de Silva
+Sri Lanka,Minister of Ports & Shipping,Nimal Siripala de Silva,Q3529279,2022-05-20,2022-07-06,male,1944-09-06,,Nimal Siripala de Silva.jpg,Nimal Siripala de Silva
 Sri Lanka,Minister of Power,Karu Jayasuriya,Q369958,2001-12-12,2004-04-10,male,1940-09-29,,Karu Jayasuriya.jpg,Karu Jayasuriya
 Sri Lanka,Minister of Power,Dullas Alahapperuma,Q5313444,2020-08-12,2021-08-16,male,1959-05-14,,Dullas Alahapperuma GloCha-Klagenfurt-2014 9799-2.jpg,Dullas Alahapperuma
 Sri Lanka,Minister of Power,Gamini Lokuge,Q5520215,2021-08-16,2022-04-03,male,1948-05-08,,,Gamini Lokuge
@@ -115,13 +118,14 @@ Sri Lanka,Minister of Public Security,Prasanna Ranatunga,Q7238464,2022-04-18,202
 Sri Lanka,Minister of Public Security,Tiran Alles,Q7809097,2022-05-20,,male,1925,,,Tiran Alles
 Sri Lanka,"Minister of Public Services, Provincial Councils & Local Government",Janaka Bandara Tennakoon,Q16185625,2020-08-12,2022-04-03,male,1953-04-13,,,Janaka Bandara Tennakoon
 Sri Lanka,Minister of Sports,Harin Fernando,Q16217323,2018-12-20,2019-11-17,male,1978-10-28,,Harin Fernando.jpg,Harin Fernando
-Sri Lanka,Minister of Technology,Gotabaya Rajapaksa,Q1538702,2020-11-26,2022-05-12,male,1949-06-20,,Gotabaya Rajapaksa November 2019 crop.jpg,Gotabaya Rajapaksa
+Sri Lanka,Minister of Technology,Gotabaya Rajapaksa,Q1538702,2020-11-26,2022-07-14,male,1949-06-20,,Gotabaya Rajapaksa November 2019 crop.jpg,Gotabaya Rajapaksa
 Sri Lanka,Minister of Tourism,Prasanna Ranatunga,Q7238464,2020-08-12,2022-05-09,male,,,,Prasanna Ranatunga
 Sri Lanka,Minister of Tourism,Harin Fernando,Q16217323,2022-05-20,,male,1978-10-28,,Harin Fernando.jpg,Harin Fernando
 Sri Lanka,Minister of Trade,Bandula Gunawardane,Q11057149,2020-08-12,2022-04-18,male,1953-03-15,,,Bandula Gunawardane
 Sri Lanka,Minister of Trade,Asanka Shehan Semasinghe,Q16146121,2022-04-18,2022-05-09,male,1976,,,Asanka Shehan Semasinghe
 Sri Lanka,Minister of Trade,Nalin Fernando,Q98686658,2022-05-12,,male,1973-05-08,,,Nalin Fernando
 Sri Lanka,Minister of Transport,Tilak Marapana,Q17011652,2002,2004-04,male,,,Secretary Pompeo Meets With Sri Lankan Foreign Minister Marapana (47862759611) (cropped).jpg,Tilak Marapana
+Sri Lanka,Minister of Transport,Dullas Alahapperuma,Q5313444,2007-01-28,2010-04-23,male,1959-05-14,,Dullas Alahapperuma GloCha-Klagenfurt-2014 9799-2.jpg,Dullas Alahapperuma
 Sri Lanka,Minister of Transport,Nimal Siripala de Silva,Q3529279,2015-09-04,2018-12-15,male,1944-09-06,,Nimal Siripala de Silva.jpg,Nimal Siripala de Silva
 Sri Lanka,Minister of Transport,Gamini Lokuge,Q5520215,2020-08-12,2021-08-16,male,1948-05-08,,,Gamini Lokuge
 Sri Lanka,Minister of Transport,Pavithra Devi Wanniarachchi,Q7155896,2021-07-22,2022-05-12,female,1964-11-10,,,Pavithra Wanniarachchi
@@ -140,7 +144,15 @@ Sri Lanka,Minister of Youth and Sports,Namal Rajapaksa,Q1848979,2020-08-12,2022-
 Sri Lanka,Minister of Youth and Sports,Amith Thenuka Vidanagamage,Q16145819,2022-04-18,2022-05-09,male,1973,,,Amith Thenuka Vidanagamage
 Sri Lanka,Minister of Youth and Sports,Roshan Ranasinghe,Q19605011,2022-05-12,,male,1975-10-25,,,Roshan Ranasinghe
 Sri Lanka,Chief Justice,Jayantha Jayasuriya,Q60788733,2019-04-29,,male,,,,Jayantha Jayasuriya
+Sri Lanka,Attorney General,K. C. Kamalasabayson,Q16017805,1999,2007,male,1949-04-08,2007-08-12,,K. C. Kamalasabayson
+Sri Lanka,Attorney General,C. R. De Silva,Q5006779,2007,2008,male,,2013-11-07,,C. R. De Silva
+Sri Lanka,Attorney General,Mohan Peiris,Q6893568,2008,2011,male,,,Mohan Peiris.jpg,Mohan Peiris
+Sri Lanka,Attorney General,Eva Wansundera,Q16728872,2011,2012,female,1954-01,,,Eva Wanasundera
+Sri Lanka,Attorney General,Palitha Fernando,Q7127626,2012-07-17,2014-10-23,male,,,,Palitha Fernando
+Sri Lanka,Attorney General,Y. J. W. Wijayatilake,Q17041467,2014-10-23,2016-01-10,male,,,,Yuwanjana Wijayatilake
+Sri Lanka,Attorney General,Suhada Gamalath,Q7635189,2016-01-10,2016-02-11,male,,,,Suhada Gamlath
 Sri Lanka,Attorney General,Jayantha Jayasuriya,Q60788733,2016-01-11,2019-04-29,male,,,,Jayantha Jayasuriya
+Sri Lanka,Attorney General,Dappula de Livera,Q64011220,2019-04-29,2021-05-25,male,,,,Dappula de Livera
 Sri Lanka,Attorney General,Sanjay Rajaratnam,Q106920046,2021-05-26,,male,,,,Sanjay Rajaratnam
 Sri Lanka,Chief Whip,Richard Pathirana,Q16018242,1994-08-25,2000-10-10,male,1938-02-24,2008-07-03,,Richard Pathirana
 Sri Lanka,Chief Whip,Reggie Ranatunga,Q7308290,2000-11-01,2001-10-10,male,1937-04-22,2008-05-31,,Reggie Ranatunga
@@ -152,16 +164,21 @@ Sri Lanka,Chief Whip,Johnston Fernando,Q6268633,2020-01-03,2022-04-18,male,1964-
 Sri Lanka,Chief Whip,Prasanna Ranatunga,Q7238464,2022-04-18,,male,,,,Prasanna Ranatunga
 Sri Lanka,Chief of the Defence Staff,Sarath Fonseka,Q1395772,2009-07-15,2009-11-30,male,1950-12-18,,Sarath Fonseka at Ananda.jpg,Sarath Fonseka
 Sri Lanka,Chief of the Defence Staff,Shavendra Silva,Q16195805,2020-01-01,,male,1964-06-22,,,Shavendra Silva
+Sri Lanka,Governor of the Central Bank,A. S. Jayawardene,Q4648363,1995-11-15,2004-06-30,male,1936-08-03,2018-05-29,,A. S. Jayawardena
+Sri Lanka,Governor of the Central Bank,Sunil Mendis,Q7640326,2004-07-01,2006-06-30,male,,,,Sunil Mendis
 Sri Lanka,Governor of the Central Bank,Ajith Nivard Cabraal,Q4699821,2006-07-01,2015-01-09,male,1954-12-14,,Ajith Nivard Cabraal.jpg,Ajith Nivard Cabraal
+Sri Lanka,Governor of the Central Bank,Arjuna Mahendran,Q19646234,2015-01-26,2016-06-30,male,1959-07-16,,,Arjuna Mahendran
+Sri Lanka,Governor of the Central Bank,Indrajit Coomaraswamy,Q6026889,2016-07-02,2019-12-20,male,1950-04-03,,,Indrajit Coomaraswamy
 Sri Lanka,Governor of the Central Bank,W. D. Lakshman,Q19874990,2019-12-24,2021-09-14,male,1941,,,W. D. Lakshman
-Sri Lanka,Governor of the Central Bank,Ajith Nivard Cabraal,Q4699821,2021-09-15,,male,1954-12-14,,Ajith Nivard Cabraal.jpg,Ajith Nivard Cabraal
+Sri Lanka,Governor of the Central Bank,Ajith Nivard Cabraal,Q4699821,2021-09-15,2022-04-04,male,1954-12-14,,Ajith Nivard Cabraal.jpg,Ajith Nivard Cabraal
+Sri Lanka,Governor of the Central Bank,Nandalal Weerasinghe,Q111493511,2022-04-08,,male,,,,Nandalal Weerasinghe
 Sri Lanka,Speaker of the Parliament,Anura Bandaranaike,Q612582,2000-10-18,2001-10-10,male,1949-02-15,2008-03-16,Anura Bandaranaike portrait.jpg,Anura Bandaranaike
 Sri Lanka,Speaker of the Parliament,Chamal Rajapaksa,Q3529190,2010-04-22,2015-06-26,male,1942-10-30,,Chamal Rajapaksa.jpg,Chamal Rajapaksa
 Sri Lanka,Speaker of the Parliament,Karu Jayasuriya,Q369958,2015-09-01,2020-03-03,male,1940-09-29,,Karu Jayasuriya.jpg,Karu Jayasuriya
 Sri Lanka,Speaker of the Parliament,Mahinda Yapa Abeywardena,Q6734031,2020-08-20,,male,1945-10-10,,Mahinda Yapa Abeywardena.JPG,Mahinda Yapa Abeywardena
 Sri Lanka,Mayor of Colombo,Rosy Senanayake,Q7370151,2018-03-19,,female,1958-01-05,,Rosy Senanayake.jpg,Rosy Senanayake
 Sri Lanka,First Lady,Shiranthi Rajapaksa,Q7498270,2005-11-19,2015-01-09,female,1953-11-24,,Mrs. Shiranthi Rajapaksa.jpg,
-Sri Lanka,First Lady,Ioma Rajapaksa,Q110644109,2019-11-18,,female,,,,Ioma Rajapaksa
+Sri Lanka,First Lady,Ioma Rajapaksa,Q110644109,2019-11-18,2022-07-14,female,,,,Ioma Rajapaksa
 Sri Lanka,Leader of the House,Maithripala Sirisena,Q6737124,2004-05-03,2005-08-09,male,1951-09-03,,Maithripala Sirisena (cropped).jpg,Maithripala Sirisena
 Sri Lanka,Leader of the Opposition,Ratnasiri Wickremanayake,Q314009,2001-12-18,2002-01-31,male,1933-05-05,2016-12-27,Ratnasiri Wickremanayake1.jpg,Ratnasiri Wickremanayake
 Sri Lanka,Leader of the Opposition,Mahinda Rajapaksa,Q57338,2002-02-06,2004-04-02,male,1945-11-18,,Mahinda Rajapaksa 1.jpg,Mahinda Rajapaksa
