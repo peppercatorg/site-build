@@ -1,5 +1,7 @@
 catalog,id,name,relationship,relative,relativename
 Philippines,Q111182546,Maria Luisa Romualdo,spouse,Q12965596,Jurdin Jesus Romualdo
+Philippines,Q112317708,Nina Ynares,mother,Q65974925,Rebecca Ynares
+Philippines,Q112317708,Nina Ynares,sibling,Q97273715,Casimiro Ynares III
 Philippines,Q11845136,Lucy Torres-Gomez,spouse,Q6108639,Richard Gomez
 Philippines,Q123665,Gloria Macapagal Arroyo,child,Q1858359,Mikey Arroyo
 Philippines,Q123665,Gloria Macapagal Arroyo,child,Q5279602,Diosdado Macapagal–Arroyo
@@ -122,7 +124,7 @@ Philippines,Q212733,Joseph Estrada,mother,Q5994011,Mary Ejercito
 Philippines,Q212733,Joseph Estrada,sibling,Q5539032,George Estregan
 Philippines,Q212733,Joseph Estrada,spouse,Q2483874,Loi Estrada
 Philippines,Q2133872,Juan Edgardo Angara,father,Q1284303,Edgardo Angara
-Philippines,Q2139066,Sergio Osmeña III,father,Q2515056,"Sergio Osmeña, Jr."
+Philippines,Q2139066,Sergio Osmeña III,father,Q2515056,Sergio Osmeña II
 Philippines,Q2163117,"Rolando Andaya, Jr.",spouse,Q66776955,Marissa Andaya
 Philippines,Q2176997,"Hilario Davide, Jr.",child,Q16195494,Hilario Davide III
 Philippines,Q2184714,Raul Roco,sibling,Q25663425,Cho Roco
@@ -241,6 +243,7 @@ Philippines,Q5279602,Diosdado Macapagal–Arroyo,mother,Q123665,Gloria Macapagal
 Philippines,Q5279602,Diosdado Macapagal–Arroyo,sibling,Q1858359,Mikey Arroyo
 Philippines,Q5335744,Edcel Lagman,sibling,Q107426232,Hermón Lagman
 Philippines,Q5335744,Edcel Lagman,sibling,Q5448378,Filemon Lagman
+Philippines,Q5396218,Erwin Tulfo,sibling,Q7289886,Ramon Tulfo
 Philippines,Q555481,Francisco Tatad,relative,Q7487138,Shalani Soledad
 Philippines,Q555499,Ralph Recto,child,Q3546728,Luis Manzano
 Philippines,Q555499,Ralph Recto,spouse,Q2197580,Vilma Santos
@@ -265,6 +268,8 @@ Philippines,Q5969936,Lani Mercado,spouse,Q919045,Bong Revilla
 Philippines,Q6081353,Isko Moreno,child,Q97255259,Joaquin Domagoso
 Philippines,Q6081353,Isko Moreno,mother,Q12970142,Rosario Moreno
 Philippines,Q6081353,Isko Moreno,spouse,Q110278671,Diana Lynn Ditan
+Philippines,Q6182172,Jericho Petilla,sibling,Q66049041,Leopoldo Dominico Petilla
+Philippines,Q6184443,Jerry Singson,sibling,Q2399446,Chavit Singson
 Philippines,Q6282903,Joseph Emilio Abaya,father,Q12969523,Plaridel Abaya
 Philippines,Q6282903,Joseph Emilio Abaya,mother,Q107287635,Consuelo Bautista Aguinaldo
 Philippines,Q6282903,Joseph Emilio Abaya,sibling,Q57067691,Francis Gerald A. Abaya
@@ -275,6 +280,9 @@ Philippines,Q6487031,Lani Cayetano,spouse,Q471883,Alan Peter Cayetano
 Philippines,Q65932997,Ryan Luis Singson,father,Q2399446,Chavit Singson
 Philippines,Q65932997,Ryan Luis Singson,sibling,Q7365285,Ronald Singson
 Philippines,Q65936017,Amado Espino III,father,Q452102,"Amado Espino, Jr."
+Philippines,Q65974925,Rebecca Ynares,child,Q112317708,Nina Ynares
+Philippines,Q65974925,Rebecca Ynares,child,Q97273715,Casimiro Ynares III
+Philippines,Q66049041,Leopoldo Dominico Petilla,sibling,Q6182172,Jericho Petilla
 Philippines,Q66372258,Matthew Manotoc,father,Q7819657,Tommy Manotoc
 Philippines,Q66372258,Matthew Manotoc,mother,Q2208719,Imee Marcos
 Philippines,Q66372258,Matthew Manotoc,relative,Q1463,Ferdinand Marcos
@@ -375,5 +383,6 @@ Philippines,Q983326,Ronaldo Puno,relative,Q112153161,Norberto P. Romualdez
 Philippines,Q983326,Ronaldo Puno,sibling,Q5295761,Dong Puno
 Philippines,Q983326,Ronaldo Puno,sibling,Q7351859,Roberto Puno
 Philippines,Q984265,Kiko Pangilinan,spouse,Q466942,Sharon Cuneta
+Philippines,Q98746000,Maria Rosario Vergeire,sibling,Q107436773,María Filomena Singh
 Philippines,Q99644529,Faustino G. Dy III,father,Q4859261,Faustino Dy
 Philippines,Q99644529,Faustino G. Dy III,relative,Q15992762,Benjamin Dy
