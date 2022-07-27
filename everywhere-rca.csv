@@ -906,7 +906,7 @@ Belarus,Q669664,Aliaksandr Bahdanovich,sibling,Q2418578,Andrei Bahdanovich
 Belarus,Q70254763,Oleg Gaidukevich,father,Q2630570,Sergei Gaidukevich
 Belarus,Q89134312,"Пилипец, Иван Иванович",sibling,Q89180535,"Пилипец, Виктор Иванович"
 Belarus,Q89180535,"Пилипец, Виктор Иванович",sibling,Q89134312,"Пилипец, Иван Иванович"
-Belarus,Q9150624,Anatol Hłaz,child,Q105044508,Anatoly Glaz
+Belarus,Q9150624,Anatol Glaz,child,Q105044508,Anatoly Glaz
 Belarus,Q9373952,Viktar Kuchynski,spouse,Q63928493,Iya Malkina
 Belarus,Q96435835,Ivan Tertel,sibling,Q106329531,Jury Tertel
 Belarus,Q99004968,Andrei Schwed,child,Q112675272,Kiryl Shwed
@@ -1186,6 +1186,8 @@ Brazil,Q10311413,João Doria,father,Q10311426,João Dória
 Brazil,Q10311413,João Doria,spouse,Q18241910,Bia Doria
 Brazil,Q10317356,Leonardo Picciani,father,Q10308208,Jorge Picciani
 Brazil,Q10320255,Luciana Genro,father,Q3515818,Tarso Genro
+Brazil,Q10324996,Marcela Temer,child,Q84003063,Michelzinho
+Brazil,Q10324996,Marcela Temer,spouse,Q463533,Michel Temer
 Brazil,Q10326004,Maria Lúcia Amary,spouse,Q10359328,Renato Fauvel Amary
 Brazil,Q10329753,Miguel Corrêa,spouse,Q76669387,Letícia Santiago
 Brazil,Q10334305,Márcio França,child,Q20045670,Caio França
@@ -1276,6 +1278,7 @@ Brazil,Q244997,José Sarney,child,Q3050853,Roseana Sarney
 Brazil,Q244997,José Sarney,child,Q9074685,Sarney Filho
 Brazil,Q244997,José Sarney,spouse,Q10326653,Marly Sarney
 Brazil,Q25440287,Júnior Marreca,child,Q60784870,Júnior Marreca Filho
+Brazil,Q264341,Ruth Cardoso,spouse,Q230578,Fernando Henrique Cardoso
 Brazil,Q26692175,Marquinhos Trad,father,Q10336120,Nelson Trad
 Brazil,Q26692175,Marquinhos Trad,sibling,Q10336123,Nelson Trad Filho
 Brazil,Q26692175,Marquinhos Trad,spouse,Q107716862,Tatiana Trad
@@ -1727,6 +1730,7 @@ Chile,Q2600525,Andrés Zaldívar,sibling,Q5663680,Alberto Zaldívar
 Chile,Q2600525,Andrés Zaldívar,sibling,Q930844,Adolfo Zaldívar
 Chile,Q26764059,Loreto Carvajal,partner,Q5873569,Gabriel Silber
 Chile,Q27975168,Fernando Atria,spouse,Q110726712,Ximena Fuentes
+Chile,Q28480029,Damaris Abarca,partner,Q108259975,Matías Orellana
 Chile,Q2849041,Andrés Velasco,father,Q5850607,Eugenio Velasco Letelier
 Chile,Q2849041,Andrés Velasco,spouse,Q5784855,Consuelo Saavedra
 Chile,Q306,Sebastián Piñera,father,Q4121315,José Piñera Carvallo
@@ -4243,6 +4247,7 @@ France,Q157,François Hollande,spouse,Q435925,Julie Gayet
 France,Q16007948,Éric Piolle,father,Q55088760,Xavier Piolle
 France,Q16007948,Éric Piolle,mother,Q55089006,Marie-Geneviève Ayçaguer
 France,Q1617291,"Pierre Durand, Jr.",father,Q3384876,Pierre Durand
+France,Q1650517,Michel Duclos,spouse,Q3154938,Isabelle Hausser
 France,Q16637124,François Kalfon,spouse,Q28782627,Anne Hommel
 France,Q1685859,Jean Tiberi,spouse,Q3570838,Xavière Tiberi
 France,Q17174898,Dominique Bilde,child,Q19606880,Bruno Bilde
@@ -4329,6 +4334,7 @@ France,Q2396093,Colette Giudicelli,spouse,Q3165004,Jean-Claude Guibal
 France,Q2396260,Franck Borotra,child,Q2975013,Claire Borotra
 France,Q2396260,Franck Borotra,sibling,Q3026943,Didier Borotra
 France,Q2414678,Annie Genevard,mother,Q3154666,Irène Tharin
+France,Q24304126,Loïc Hennekinne,child,Q91231498,Alexandre Hennekinne
 France,Q2483192,Yvan Lachaud,spouse,Q112125217,Mireille Lachaud
 France,Q25301468,Charles Fries,sibling,Q33102045,Fabrice Fries
 France,Q257752,Frédéric Mitterrand,father,Q1973016,Robert Mitterrand
@@ -4613,6 +4619,7 @@ France,Q33104697,Amélie Oudéa-Castéra,relative,Q3368925,Patrice Duhamel
 France,Q33104697,Amélie Oudéa-Castéra,spouse,Q984266,Frederic Oudéa
 France,Q33105695,François Pinte,father,Q3592334,Étienne Pinte
 France,Q33106414,Astrid Panosyan,spouse,Q19358326,Laurent Bouvet
+France,Q33109885,Christophe Farnaud,spouse,Q30302558,Hélène Farnaud-Defromont
 France,Q33109969,Romain Nadal,mother,Q63759157,Marie-Françoise Matouk
 France,Q33113534,Jean-Christophe Peaucelle,spouse,Q42414936,Véronique Peaucelle-Delelis
 France,Q33122330,Christophe Lecourtier,father,Q100243112,Philippe Lecourtier
@@ -5401,8 +5408,6 @@ Greece,Q15894261,Simos Kedikoglou,father,Q16328542,Vasilis Kedikoglou
 Greece,Q15894261,Simos Kedikoglou,sibling,Q16329220,Giorgos Kedikoglou
 Greece,Q16061917,Yiannis Vouros,spouse,Q59135799,Anna Adrianou
 Greece,Q16187335,Spiros Taliadouros,father,Q18546109,Athanasios Taliadouros
-Greece,Q165319,Leonidas Kyrkos,child,Q17121823,Miltos Kyrkos
-Greece,Q165319,Leonidas Kyrkos,father,Q12881108,Michael Kyrkos
 Greece,Q17401770,Gabriel Sakellaridis,spouse,Q104536411,Ράνια Τζίμα
 Greece,Q1789532,Kriton Arsenis,mother,Q12880688,Maria Arseni
 Greece,Q18641022,Elena Kountoura,father,Q18668784,Alexandros Kountouras
@@ -5424,18 +5429,6 @@ Greece,Q20995447,Níki Keraméos,relative,Q16168343,Konstantinos Kerameus
 Greece,Q20995533,Anna Vayena,spouse,Q16061980,Loukianos Kilaidonis
 Greece,Q21031023,Emmanouíl Syndychákis,father,Q14489284,Δανήλος Συντιχάκης
 Greece,Q24702508,Tasia Christodoulopoulou,spouse,Q7786625,Thodoris Dritsas
-Greece,Q252657,Georgios Rallis,child,Q26720202,Zaira Papaligouras
-Greece,Q252657,Georgios Rallis,father,Q707184,Ioannis Rallis
-Greece,Q252657,Georgios Rallis,mother,Q26720193,Zaera Theotokis-Ralli
-Greece,Q252657,Georgios Rallis,spouse,Q26720229,Lena Rallis
-Greece,Q27882530,Georgios Ch. Kartalis,child,Q19204802,Antonios Kartalis
-Greece,Q27882530,Georgios Ch. Kartalis,child,Q27882549,Konstantinos Kartalis
-Greece,Q27882530,Georgios Ch. Kartalis,sibling,Q30243193,Ioannis Kartalis
-Greece,Q27882530,Georgios Ch. Kartalis,sibling,Q30243206,Αριστείδης Καρτάλης
-Greece,Q30242650,Aryirios Philippides,child,Q30243020,Georgios Filippidis
-Greece,Q30348632,Anastase Avéroff,child,Q43968709,Michel Avéroff
-Greece,Q30348632,Anastase Avéroff,child,Q562162,Evangelos Averoff
-Greece,Q30348632,Anastase Avéroff,sibling,Q23636352,Georges Averoff
 Greece,Q3051927,Eleni Zaroulia,spouse,Q703598,Nikos Michaloliakos
 Greece,Q30523513,Georgios Kyritsis,spouse,Q12872388,Elena Akrita
 Greece,Q312013,Konstantinos Mitsotakis,child,Q23887886,Alexandra Mitsotakis
@@ -5488,12 +5481,6 @@ Greece,Q57806,Antonis Samaras,sibling,Q21004377,Alexandros Samaras
 Greece,Q58091,Stavros Dimas,child,Q20995398,Christos Dimas
 Greece,Q63389127,Kyriaki Malama,sibling,Q7555416,Sokratis Malamas
 Greece,Q6433534,Kostas Zouraris,father,Q47402249,Γιώργος Ζουράρις
-Greece,Q66371257,Harilaos Provelengios,father,Q66615155,Ioannis Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q12874005,Aristomenis Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q16741387,Kiriaki Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q66615172,Georgios Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q66615216,Konstantinos I. Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q66615315,Ioulia Provelengios
 Greece,Q701060,Gerasimos Arsenis,sibling,Q14920323,Kitty Arseni
 Greece,Q701060,Gerasimos Arsenis,spouse,Q468064,Louka Katseli
 Greece,Q703598,Nikos Michaloliakos,spouse,Q3051927,Eleni Zaroulia
@@ -7975,10 +7962,12 @@ Japan,Q250828,Yasuhiro Nakasone,child,Q937682,Hirofumi Nakasone
 Japan,Q250828,Yasuhiro Nakasone,father,Q11365117,Matsugorō Nakasone
 Japan,Q250828,Yasuhiro Nakasone,spouse,Q108110742,Tsutako Nakasone
 Japan,Q259722,Yuichiro Hata,father,Q315720,Tsutomu Hata
+Japan,Q259722,Yuichiro Hata,sibling,Q41805280,Jirō Hata
 Japan,Q261703,Yuriko Koike,father,Q47012448,Yujiro Koike
 Japan,Q261703,Yuriko Koike,mother,Q47012450,Emiko Koike
 Japan,Q3041876,Ryuhei Kawada,mother,Q11479005,Etsuko Kawada
 Japan,Q3041876,Ryuhei Kawada,spouse,Q11427993,Mika Tsutsumi
+Japan,Q311589,Ken Akamatsu,spouse,Q8916646,Kanon Akamatsu
 Japan,Q313339,Keizō Obuchi,child,Q11462678,Akiko Obuchi
 Japan,Q313339,Keizō Obuchi,child,Q455848,Yūko Obuchi
 Japan,Q313339,Keizō Obuchi,father,Q11462670,Mitsuhei Obuchi
@@ -8747,6 +8736,9 @@ Mexico,Q5751617,Carlos Rojas Gutiérrez,spouse,Q18378698,Mónica Fernández Balb
 Mexico,Q5771792,Claudia Ruiz Massieu,father,Q597425,José Francisco Ruiz Massieu
 Mexico,Q5771800,Claudia Sheinbaum,spouse,Q5750619,Carlos Imaz Gispert
 Mexico,Q5818964,Eduardo Andrade Sánchez,sibling,Q6125313,Sergio Andrade
+Mexico,Q58365077,Roberta Lajous,sibling,Q113189686,Luz Lajous Vargas
+Mexico,Q58365077,Roberta Lajous,sibling,Q20064542,Adrián Lajous Vargas
+Mexico,Q58365077,Roberta Lajous,sibling,Q5664690,Alejandra Lajous
 Mexico,Q5860132,Fernando Reina Iglesias,spouse,Q3544491,Galilea Francisca Montijo
 Mexico,Q58660742,Ernesto Nemer Álvarez,spouse,Q20801621,Carolina Monroy del Mazo
 Mexico,Q5873772,Gabriela Ruiz del Rincón,relative,Q2267931,Manuel Clouthier
@@ -9929,6 +9921,7 @@ Pakistan,Q6792420,Atta ur Rehman,relative,Q55761296,Asad Mehmood
 Pakistan,Q6792420,Atta ur Rehman,sibling,Q3067725,Fazal-ur-Rehman
 Pakistan,Q6792420,Atta ur Rehman,sibling,Q42722724,Latuf Ur Rehman
 Pakistan,Q6792420,Atta ur Rehman,sibling,Q97707758,Zia ur Rehman
+Pakistan,Q6907814,Moonis Elahi,father,Q2961554,Parvez Elahi
 Pakistan,Q6958182,Nafisa Shah,father,Q3412401,Syed Qaim Ali Shah
 Pakistan,Q6959916,Najam Sethi,child,Q20744696,Mira Sethi
 Pakistan,Q6959916,Najam Sethi,child,Q20979380,Ali Sethi
@@ -10681,6 +10674,7 @@ Poland,Q946,Donald Tusk,child,Q17278150,Katarzyna Tusk
 Poland,Q946,Donald Tusk,father,Q17278182,Donald Tusk
 Poland,Q946,Donald Tusk,mother,Q17278183,Ewa Tusk
 Poland,Q946,Donald Tusk,relative,Q11731545,Józef Tusk
+Poland,Q946,Donald Tusk,relative,Q9179919,Bronisław Tusk
 Poland,Q946,Donald Tusk,spouse,Q17278133,Małgorzata Tusk
 Portugal,Q10295257,Nuno da Câmara Pereira,sibling,Q97168965,Gonçalo da Câmara Pereira
 Portugal,Q10321318,Luís Braga da Cruz,sibling,Q10324025,Manuel Braga da Cruz
@@ -11240,7 +11234,7 @@ Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q7445959,Seeta bint Abdu
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q981846,Muqrin bin Abdul-Aziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,spouse,Q4704128,Al Jawhara bint Ibrahim Al Ibrahim
-Saudi Arabia,Q20415155,Abdallah Yahya Al-Mouallimi,sibling,Q97120155,آمال المعلمي
+Saudi Arabia,Q20415155,Abdallah Yahya Al-Mouallimi,sibling,Q97120155,Amal al-Moallimi
 Saudi Arabia,Q28923620,Abdullah Salah Al Uthaymeen,sibling,Q1398150,Muhammad ibn al Uthaymeen
 Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,father,Q367825,Salman of Saudi Arabia
 Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,mother,Q30512408,Fahdah bint Falah bin Sultan
@@ -11295,7 +11289,7 @@ Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q7395569,Saad bin Abdulaziz
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q7445959,Seeta bint Abdulaziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q981846,Muqrin bin Abdul-Aziz Al Saud
-Saudi Arabia,Q35369443,عبد العزيز بن سعد بن عبد العزيز آل سعود,father,Q7395569,Saad bin Abdulaziz
+Saudi Arabia,Q35369443,Abdulaziz bin Saad bin Abdulaziz,father,Q7395569,Saad bin Abdulaziz
 Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q28197146,Saud Bin Salman bin Abdulaziz al Saud
 Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud
@@ -11476,7 +11470,7 @@ Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,mother,Q2795275,Haifa 
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,sibling,Q104520507,Faisal bin Bandar bin Sultan Al Saud
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,sibling,Q7306919,Reema Bint Bandar Al Saud
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,spouse,Q75331065,Lucy Caroline Cuthbert
-Saudi Arabia,Q6871574,منصور الثاني بن ناصر بن عبد العزيز آل سعود,father,Q6967643,Nasser bin Abdulaziz
+Saudi Arabia,Q6871574,Mansour bin Nasser bin Abdul Aziz,father,Q6967643,Nasser bin Abdulaziz
 Saudi Arabia,Q6892571,Mohammad bin Salman,father,Q367825,Salman of Saudi Arabia
 Saudi Arabia,Q6892571,Mohammad bin Salman,mother,Q30512408,Fahdah bint Falah bin Sultan
 Saudi Arabia,Q6892571,Mohammad bin Salman,relative,Q151509,Ibn Saud
@@ -11503,8 +11497,8 @@ Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q293679,Al-
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q4665226,Abdul-Aziz bin Talal bin Abdul-Aziz Al Saud
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q6399403,Khaled bin Talal bin Abdul Aziz Al Saud
 Saudi Arabia,Q87436373,Abdullah bin Khalid bin Sultan Al Saud,father,Q742051,Khalid bin Sultan
-Saudi Arabia,Q97120155,آمال المعلمي,father,Q42331334,يحيى المعلمي
-Saudi Arabia,Q97120155,آمال المعلمي,sibling,Q20415155,Abdallah Yahya Al-Mouallimi
+Saudi Arabia,Q97120155,Amal al-Moallimi,father,Q42331334,يحيى المعلمي
+Saudi Arabia,Q97120155,Amal al-Moallimi,sibling,Q20415155,Abdallah Yahya Al-Mouallimi
 Scotland,Q10652,Alex Salmond,mother,Q97971330,Mary Stewart Salmond
 Scotland,Q1097337,Claudia Beamish,father,Q7851527,"Tufton Beamish, Baron Chelwood"
 Scotland,Q1097337,Claudia Beamish,mother,Q75648943,Janet McMillan Stevenson
@@ -11788,8 +11782,8 @@ South Korea,Q11267083,Lee Hui-ho,spouse,Q45785,Kim Dae-jung
 South Korea,Q11464859,Yoon Mee-hyang,spouse,Q56256518,Kim Sam-seok
 South Korea,Q12587534,Kim Boo-kyum,child,Q12610323,윤세인
 South Korea,Q12587534,Kim Boo-kyum,relative,Q11266353,Lee Young-hoon
-South Korea,Q12587695,김성곤 (1952년),father,Q108391826,김상영
-South Korea,Q12587695,김성곤 (1952년),sibling,Q12588950,Robert Chaegon Kim
+South Korea,Q12587695,Kim Seong-gon,father,Q108391826,김상영
+South Korea,Q12587695,Kim Seong-gon,sibling,Q12588950,Robert Chaegon Kim
 South Korea,Q12588667,Kim Jong-seok,father,Q12587796,김세배
 South Korea,Q12589320,Kim Hong-gul,father,Q45785,Kim Dae-jung
 South Korea,Q12589320,Kim Hong-gul,mother,Q11267083,Lee Hui-ho
@@ -13136,6 +13130,7 @@ Turkey,Q6052158,Berat Albayrak,relative,Q65220006,Serhat Albayrak
 Turkey,Q6052158,Berat Albayrak,sibling,Q65220006,Serhat Albayrak
 Turkey,Q6052158,Berat Albayrak,spouse,Q61073623,Esra Erdoğan
 Turkey,Q6061291,Ayşe Gülsün Bilgehan,father,Q3277055,Metin Toker
+Turkey,Q6061291,Ayşe Gülsün Bilgehan,mother,Q6021707,Özden Toker
 Turkey,Q6067727,Şaban Dişli,sibling,Q113084387,Mehmet Dişli
 Turkey,Q6077556,Fikri Sağlar,relative,Q17468336,Süleyman Fikri Mutlu
 Turkey,Q6077556,Fikri Sağlar,relative,Q21526105,Gerçek Sağlar
@@ -13274,7 +13269,7 @@ Ukraine,Q225357,Hryhoriy Surkis,father,Q106567777,Михаил Давидови�
 Ukraine,Q225357,Hryhoriy Surkis,sibling,Q1132935,Ihor Surkis
 Ukraine,Q2313952,Kateryna Yushchenko,spouse,Q1459699,Viktor Yushchenko
 Ukraine,Q24025631,Dmytro Kuleba,father,Q12115638,Кулеба Іван Дмитрович
-Ukraine,Q24025631,Dmytro Kuleba,spouse,Q104963350,Kuleba Evgeniya Anatolyevna
+Ukraine,Q24025631,Dmytro Kuleba,spouse,Q104963350,Yevheniia Kuleba
 Ukraine,Q2622781,Svyatoslav Vakarchuk,father,Q2442984,Ivan Vakarchuk
 Ukraine,Q2632284,Ivan Drach,child,Q97188895,Драч Мар'яна Іванівна
 Ukraine,Q2690181,Mustafa Nayyem,sibling,Q109338008,Masi Nayyem
@@ -13340,7 +13335,7 @@ Ukraine,Q4492496,Anatolii Franchuk,child,Q4492498,Igor Franchuk
 Ukraine,Q4492498,Igor Franchuk,father,Q4492496,Anatolii Franchuk
 Ukraine,Q4492498,Igor Franchuk,spouse,Q4363085,Olena Pinchuk
 Ukraine,Q4494624,Viktor Khazan,child,Q45088,Pavlo Khazan
-Ukraine,Q4524964,Volodymyr Shkidchenko,father,Q4524963,Pyotr Shkidchenko
+Ukraine,Q4524964,Volodymyr Shkidchenko,father,Q4524963,Petro Shkidchenko
 Ukraine,Q4527973,Ihor Shurma,child,Q22813963,Rostyslav Shurma
 Ukraine,Q4528122,Yurii Shukhevych,father,Q463766,Roman Shukhevych
 Ukraine,Q4528881,Artem Shcherban,father,Q4528883,Volodymyr Shcherban
@@ -13430,7 +13425,6 @@ UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q3379198,Maitha
 UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q556586,Hamdan bin Mohammed Al Maktoum
 UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
 UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q7294934,Rashid bin Mohammed Al Maktoum
-UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q7462442,Shaikha bint Mohammed bin Rashed Al Maktoum
 UAE,Q1368398,Saud bin Saqr al Qasimi,father,Q1380993,Saqr bin Mohammad al-Qassimi
 UAE,Q1371101,Hamad bin Mohammed Al Sharqi,child,Q6893466,Mohammed bin Hamad bin Mohammed Al Sharqi
 UAE,Q1371101,Hamad bin Mohammed Al Sharqi,mother,Q18702978,Fatima Bint Rashid Al Nuaimi
@@ -14727,6 +14721,8 @@ United Kingdom,Q1764746,"Oliver Eden, 8th Baron Henley",child,Q75350560,Elizabet
 United Kingdom,Q1764746,"Oliver Eden, 8th Baron Henley",father,Q6830075,"Michael Eden, 7th Baron Henley"
 United Kingdom,Q1764746,"Oliver Eden, 8th Baron Henley",mother,Q75341863,Nancy Mary Walton
 United Kingdom,Q1764746,"Oliver Eden, 8th Baron Henley",spouse,Q75341872,Caroline Patricia Sharp
+United Kingdom,Q177104,"Francis Hare, 6th Earl of Listowel",father,Q8010872,"William Hare, 5th Earl of Listowel"
+United Kingdom,Q177104,"Francis Hare, 6th Earl of Listowel",mother,Q75293435,Pamela Day
 United Kingdom,Q177370,"Peter Goldsmith, Baron Goldsmith",child,Q76016804,Jamie Goldsmith
 United Kingdom,Q177370,"Peter Goldsmith, Baron Goldsmith",child,Q76016807,Jonathan Goldsmith
 United Kingdom,Q177370,"Peter Goldsmith, Baron Goldsmith",child,Q76016808,Benjamin Goldsmith
@@ -20043,6 +20039,7 @@ United States,Q7331626,Rick Outman,child,Q105981951,Pat Outman
 United States,Q7332181,Ricardo Rosselló,father,Q1147285,Pedro Rosselló
 United States,Q7332181,Ricardo Rosselló,spouse,Q30238575,Beatriz Areizaga
 United States,Q7341743,"Robert B. Pirie, Jr.",father,Q7341742,Robert B. Pirie
+United States,Q7341941,Robert Bauer,spouse,Q2020636,Anita Dunn
 United States,Q7351940,Roberto Vigoreaux,father,Q6701194,Luis Vigoreaux
 United States,Q7351940,Roberto Vigoreaux,sibling,Q16150757,Luisito Vigoreaux
 United States,Q7356240,Rod J. Rosenstein,sibling,Q88978852,Nancy E. Messonnier

@@ -31,8 +31,6 @@ Greece,Q15894261,Simos Kedikoglou,father,Q16328542,Vasilis Kedikoglou
 Greece,Q15894261,Simos Kedikoglou,sibling,Q16329220,Giorgos Kedikoglou
 Greece,Q16061917,Yiannis Vouros,spouse,Q59135799,Anna Adrianou
 Greece,Q16187335,Spiros Taliadouros,father,Q18546109,Athanasios Taliadouros
-Greece,Q165319,Leonidas Kyrkos,child,Q17121823,Miltos Kyrkos
-Greece,Q165319,Leonidas Kyrkos,father,Q12881108,Michael Kyrkos
 Greece,Q17401770,Gabriel Sakellaridis,spouse,Q104536411,Ράνια Τζίμα
 Greece,Q1789532,Kriton Arsenis,mother,Q12880688,Maria Arseni
 Greece,Q18641022,Elena Kountoura,father,Q18668784,Alexandros Kountouras
@@ -54,18 +52,6 @@ Greece,Q20995447,Níki Keraméos,relative,Q16168343,Konstantinos Kerameus
 Greece,Q20995533,Anna Vayena,spouse,Q16061980,Loukianos Kilaidonis
 Greece,Q21031023,Emmanouíl Syndychákis,father,Q14489284,Δανήλος Συντιχάκης
 Greece,Q24702508,Tasia Christodoulopoulou,spouse,Q7786625,Thodoris Dritsas
-Greece,Q252657,Georgios Rallis,child,Q26720202,Zaira Papaligouras
-Greece,Q252657,Georgios Rallis,father,Q707184,Ioannis Rallis
-Greece,Q252657,Georgios Rallis,mother,Q26720193,Zaera Theotokis-Ralli
-Greece,Q252657,Georgios Rallis,spouse,Q26720229,Lena Rallis
-Greece,Q27882530,Georgios Ch. Kartalis,child,Q19204802,Antonios Kartalis
-Greece,Q27882530,Georgios Ch. Kartalis,child,Q27882549,Konstantinos Kartalis
-Greece,Q27882530,Georgios Ch. Kartalis,sibling,Q30243193,Ioannis Kartalis
-Greece,Q27882530,Georgios Ch. Kartalis,sibling,Q30243206,Αριστείδης Καρτάλης
-Greece,Q30242650,Aryirios Philippides,child,Q30243020,Georgios Filippidis
-Greece,Q30348632,Anastase Avéroff,child,Q43968709,Michel Avéroff
-Greece,Q30348632,Anastase Avéroff,child,Q562162,Evangelos Averoff
-Greece,Q30348632,Anastase Avéroff,sibling,Q23636352,Georges Averoff
 Greece,Q3051927,Eleni Zaroulia,spouse,Q703598,Nikos Michaloliakos
 Greece,Q30523513,Georgios Kyritsis,spouse,Q12872388,Elena Akrita
 Greece,Q312013,Konstantinos Mitsotakis,child,Q23887886,Alexandra Mitsotakis
@@ -118,12 +104,6 @@ Greece,Q57806,Antonis Samaras,sibling,Q21004377,Alexandros Samaras
 Greece,Q58091,Stavros Dimas,child,Q20995398,Christos Dimas
 Greece,Q63389127,Kyriaki Malama,sibling,Q7555416,Sokratis Malamas
 Greece,Q6433534,Kostas Zouraris,father,Q47402249,Γιώργος Ζουράρις
-Greece,Q66371257,Harilaos Provelengios,father,Q66615155,Ioannis Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q12874005,Aristomenis Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q16741387,Kiriaki Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q66615172,Georgios Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q66615216,Konstantinos I. Provelengios
-Greece,Q66371257,Harilaos Provelengios,sibling,Q66615315,Ioulia Provelengios
 Greece,Q701060,Gerasimos Arsenis,sibling,Q14920323,Kitty Arseni
 Greece,Q701060,Gerasimos Arsenis,spouse,Q468064,Louka Katseli
 Greece,Q703598,Nikos Michaloliakos,spouse,Q3051927,Eleni Zaroulia

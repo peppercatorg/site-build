@@ -1,9 +1,11 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Singapore,Member of the Parliament of Singapore,Lee Boon Yang,Q6513114,1988,2011-04-18,male,1947-10-01,,,Lee Boon Yang
 Singapore,Member of the Parliament of Singapore,Goh Chok Tong,Q313300,1988-08-17,2016-01-15,male,1941-05-20,,GohChokTong-WashingtonDC-20010614.jpg,Goh Chok Tong
 Singapore,Member of the Parliament of Singapore,Lee Hsien Loong,Q57643,1991-08-31,,male,1952-02-10,,Lee Hsien-Loong - World Economic Forum Annual Meeting 2012 cropped.jpg,Lee Hsien Loong
 Singapore,Member of the Parliament of Singapore,J. B. Jeyaretnam,Q2077565,1997-01-02,2001-11-03,male,1926-01-05,2008-09-30,JoshuaBenjaminJeyaretnam-Singapore-20051107.jpg,J. B. Jeyaretnam
 Singapore,Member of the Parliament of Singapore,Balaji Sadasivan,Q4849852,2001-10-25,2010-09-27,male,1955-07-11,2010-09-27,"Balaji Sadasivan at the World Economic Forum on East Asia, Ho Chi Minh City, Vietnam - 20100606.jpg",Balaji Sadasivan
 Singapore,Member of the Parliament of Singapore,Halimah Yacob,Q5642345,2001-11-03,2015-08-24,female,1954-08-23,,"Republic of Singapore President Halimah Yacob witnesses the program proper during her visit to the Philippine Eagle Center in Davao City on September 11, 2019 (cropped).jpg",Halimah Yacob
+Singapore,Member of the Parliament of Singapore,Michael Palmer,Q6833355,2006-05-06,2011-04-18,male,1968-07-14,,,Michael Palmer (politician)
 Singapore,Member of the Parliament of Singapore,Chiam See Tong,Q1071599,2006-11-02,2011-04-19,male,1935-03-12,,ChiamSeeTong-SDARally-20060502.jpg,Chiam See Tong
 Singapore,Member of the Parliament of Singapore,Cham Hui Fong,Q110897674,2006-11-02,2011-04-19,female,,,,
 Singapore,Member of the Parliament of Singapore,Edwin Khew,Q110897676,2006-11-02,2011-04-19,male,,,,
@@ -65,7 +67,6 @@ Singapore,Member of the Parliament of Singapore,Jessica Tan,Q6187512,2006-11-02,
 Singapore,Member of the Parliament of Singapore,K. Shanmugam,Q6324008,2006-11-02,2011-04-19,male,1959-03-26,,K Shanmugam crop.jpg,K. Shanmugam
 Singapore,Member of the Parliament of Singapore,Koo Tsai Kee,Q6430492,2006-11-02,2011-04-19,male,1954-11-29,,,Koo Tsai Kee
 Singapore,Member of the Parliament of Singapore,Lam Pin Min,Q6480680,2006-11-02,2011-04-19,male,1969-09-01,,,Lam Pin Min
-Singapore,Member of the Parliament of Singapore,Lee Boon Yang,Q6513114,2006-11-02,2011-04-19,male,1947-10-01,,,Lee Boon Yang
 Singapore,Member of the Parliament of Singapore,Lim Biow Chuan,Q6548656,2006-11-02,2011-04-19,male,1963-05-22,,Lim Biow Chuan.jpg,Lim Biow Chuan
 Singapore,Member of the Parliament of Singapore,Lim Boon Heng,Q6548659,2006-11-02,2011-04-19,male,1947-11-18,,LimBoonHeng-Singapore-20071018.jpg,Lim Boon Heng
 Singapore,Member of the Parliament of Singapore,Lim Hng Kiang,Q6548691,2006-11-02,2011-04-19,male,1954-04-09,,Minister Lim Hng Kiang.jpg,Lim Hng Kiang
@@ -73,7 +74,6 @@ Singapore,Member of the Parliament of Singapore,Lim Swee Say,Q6548759,2006-11-02
 Singapore,Member of the Parliament of Singapore,Mah Bow Tan,Q6732618,2006-11-02,2011-04-19,male,1948-09-12,,Mah Bow Tan at the World Economic Forum Global Redesign Summit 2010.jpg,Mah Bow Tan
 Singapore,Member of the Parliament of Singapore,Maliki Osman,Q6743667,2006-11-02,2011-04-19,male,1965-07-19,,Maliki Osman July 2018 (43440550432) (cropped).jpg,Maliki Osman
 Singapore,Member of the Parliament of Singapore,Matthias Yao,Q6791625,2006-11-02,2011-04-19,male,1956-01-12,,,Matthias Yao
-Singapore,Member of the Parliament of Singapore,Michael Palmer,Q6833355,2006-11-02,2011-04-19,male,1968-07-14,,,Michael Palmer (politician)
 Singapore,Member of the Parliament of Singapore,Ong Chit Chung,Q7093791,2006-11-02,2011-04-19,male,1949-01-28,2008-07-14,,Ong Chit Chung
 Singapore,Member of the Parliament of Singapore,Low Thia Khiang,Q713940,2006-11-02,2011-04-19,male,1956-09-05,,Low Thia Khiang 2011.JPG,Low Thia Khiang
 Singapore,Member of the Parliament of Singapore,Sylvia Lim,Q713945,2006-11-02,2011-04-19,female,1965-03-28,,"Sylvia Lim at a Workers' Party general election rally, Bedok Stadium, Singapore - 20110430 (cropped).jpg",Sylvia Lim
@@ -103,6 +103,8 @@ Singapore,Member of the Parliament of Singapore,Kalyani K. Mehta,Q97819028,2006-
 Singapore,Member of the Parliament of Singapore,Audrey Wong,Q97819772,2006-11-02,2011-04-19,,,,,
 Singapore,Member of the Parliament of Singapore,Tharman Shanmugaratnam,Q983752,2006-11-02,2011-04-19,male,1957-01-22,,"Tharman Shanmugaratnam at the official opening of Yuan Ching Secondary School's new building, Singapore - 20100716 (cropped).jpg",Tharman Shanmugaratnam
 Singapore,Member of the Parliament of Singapore,Ahmad bin Mohamed Magad,Q98399971,2006-11-02,2011-04-19,male,1952-12-22,,,Ahmad Mohamed Magad
+Singapore,Member of the Parliament of Singapore,Yaw Shin Leong,Q16216181,2011-05-07,2012-02-14,male,1976-06-02,,Yaw Shin Leong 2011.JPG,Yaw Shin Leong
+Singapore,Member of the Parliament of Singapore,Michael Palmer,Q6833355,2011-05-07,2012-12-12,male,1968-07-14,,,Michael Palmer (politician)
 Singapore,Member of the Parliament of Singapore,Randolph G. K. Tan,Q103067242,2011-10-10,2015-08-25,male,,,,
 Singapore,Member of the Parliament of Singapore,K. Karthikeyan,Q110897619,2011-10-10,2015-08-25,male,,,,
 Singapore,Member of the Parliament of Singapore,Laurence Lien Tsung Chern,Q110897621,2011-10-10,2015-08-25,male,,,,
@@ -112,7 +114,7 @@ Singapore,Member of the Parliament of Singapore,Nicholas Fang Kuo Wei,Q110897628
 Singapore,Member of the Parliament of Singapore,Ramasamy Dhinakaran,Q110897630,2011-10-10,2015-08-25,male,,,,
 Singapore,Member of the Parliament of Singapore,Rita Soh Siow Lan,Q110897638,2011-10-10,2015-08-25,female,,,,
 Singapore,Member of the Parliament of Singapore,Tan Su Shan,Q110897639,2011-10-10,2015-08-25,female,,,,
-Singapore,Member of the Parliament of Singapore,Lee Kuan Yew,Q131248,2011-10-10,2015-08-25,male,1923-09-16,2015-03-23,Lee Kuan Yew.jpg,Lee Kuan Yew
+Singapore,Member of the Parliament of Singapore,Lee Kuan Yew,Q131248,2011-10-10,2015-03-23,male,1923-09-16,2015-03-23,Lee Kuan Yew.jpg,Lee Kuan Yew
 Singapore,Member of the Parliament of Singapore,Lee Bee Wah,Q14950534,2011-10-10,2015-08-25,female,1960-10-06,,Lee Bee Wah Nomination Day GE 2011.jpg,Lee Bee Wah
 Singapore,Member of the Parliament of Singapore,Cedric Foo,Q15082672,2011-10-10,2015-08-25,male,1960-07-16,,,Cedric Foo
 Singapore,Member of the Parliament of Singapore,Gan Thiam Poh,Q15122247,2011-10-10,2015-08-25,male,1963-10-23,,Gan Thiam Poh.jpg,Gan Thiam Poh
@@ -131,7 +133,6 @@ Singapore,Member of the Parliament of Singapore,Low Yen Ling,Q16214961,2011-10-1
 Singapore,Member of the Parliament of Singapore,Zaqy Mohamad,Q16215002,2011-10-10,2015-08-25,male,1974-09-15,,,Zaqy Mohamad
 Singapore,Member of the Parliament of Singapore,Muhamad Faisal Manap,Q16215442,2011-10-10,2015-08-25,male,1975-06-06,,Faisal Manap 3 (cropped).jpg,Muhamad Faisal Manap
 Singapore,Member of the Parliament of Singapore,Desmond Lee,Q16215886,2011-10-10,2015-08-25,male,1976-07-15,,"Desmond Lee at Bukit Brown Cemetery, Singapore - 20171118.jpg",Desmond Lee (Singaporean politician)
-Singapore,Member of the Parliament of Singapore,Yaw Shin Leong,Q16216181,2011-10-10,2015-08-25,male,1976-06-02,,Yaw Shin Leong 2011.JPG,Yaw Shin Leong
 Singapore,Member of the Parliament of Singapore,Alex Yam,Q16221695,2011-10-10,2015-08-25,male,1981-06-20,,Alex Yam.jpg,Alex Yam
 Singapore,Member of the Parliament of Singapore,Janice Koh,Q16730956,2011-10-10,2015-08-25,female,1969-04-26,,Janice Koh at the Singapore Premiere of Crazy Rich Asians.jpg,Janice Koh
 Singapore,Member of the Parliament of Singapore,Muhammad Faishal Ibrahim,Q16926847,2011-10-10,2015-08-25,male,1968-06-16,,,Muhammad Faishal Ibrahim
@@ -157,6 +158,7 @@ Singapore,Member of the Parliament of Singapore,Chan Chun Sing,Q5070296,2011-10-
 Singapore,Member of the Parliament of Singapore,Charles Chong,Q5076232,2011-10-10,2015-08-25,male,1953-06-24,,,Charles Chong
 Singapore,Member of the Parliament of Singapore,Christopher de Souza,Q5113490,2011-10-10,2015-08-25,male,1976-01-21,,Chris de Souza.JPG,Christopher de Souza
 Singapore,Member of the Parliament of Singapore,Denise Phua,Q5257739,2011-10-10,2015-08-25,female,1959-12-09,,Denise Phua.jpg,Denise Phua
+Singapore,Member of the Parliament of Singapore,Edwin Tong,Q5346875,2011-10-10,2015-08-25,male,1969-08-12,,,Edwin Tong
 Singapore,Member of the Parliament of Singapore,Eugene Tan,Q5407786,2011-10-10,2015-08-25,male,1970-02-18,,"Eugene Tan at the Mochtar Riady Auditorium, Singapore Management University - 20151111-02 (cropped).jpg",Eugene Tan
 Singapore,Member of the Parliament of Singapore,Foo Mee Har,Q5465241,2011-10-10,2015-08-25,female,1966-01-10,,Foo Mee Har.jpg,Foo Mee Har
 Singapore,Member of the Parliament of Singapore,Gan Kim Yong,Q5520446,2011-10-10,2015-08-25,male,1952-12-08,,Gan Kim Yong at a PCF graduation ceremony - 20081113 (cropped).jpg,Gan Kim Yong
@@ -177,13 +179,11 @@ Singapore,Member of the Parliament of Singapore,Jessica Tan,Q6187512,2011-10-10,
 Singapore,Member of the Parliament of Singapore,K. Shanmugam,Q6324008,2011-10-10,2015-08-25,male,1959-03-26,,K Shanmugam crop.jpg,K. Shanmugam
 Singapore,Member of the Parliament of Singapore,Lam Pin Min,Q6480680,2011-10-10,2015-08-25,male,1969-09-01,,,Lam Pin Min
 Singapore,Member of the Parliament of Singapore,Lawrence Wong,Q6504758,2011-10-10,2015-08-25,male,1972-12-18,,Lawrence Wong.jpg,Lawrence Wong
-Singapore,Member of the Parliament of Singapore,Lee Boon Yang,Q6513114,2011-10-10,2015-08-25,male,1947-10-01,,,Lee Boon Yang
 Singapore,Member of the Parliament of Singapore,Lim Biow Chuan,Q6548656,2011-10-10,2015-08-25,male,1963-05-22,,Lim Biow Chuan.jpg,Lim Biow Chuan
 Singapore,Member of the Parliament of Singapore,Lim Hng Kiang,Q6548691,2011-10-10,2015-08-25,male,1954-04-09,,Minister Lim Hng Kiang.jpg,Lim Hng Kiang
 Singapore,Member of the Parliament of Singapore,Lim Swee Say,Q6548759,2011-10-10,2015-08-25,male,1954-07-13,,Lim Swee Say at the PAP Community Foundation 25th Anniversary Carnival - 20110402 (cropped).jpg,Lim Swee Say
 Singapore,Member of the Parliament of Singapore,Mah Bow Tan,Q6732618,2011-10-10,2015-08-25,male,1948-09-12,,Mah Bow Tan at the World Economic Forum Global Redesign Summit 2010.jpg,Mah Bow Tan
 Singapore,Member of the Parliament of Singapore,Maliki Osman,Q6743667,2011-10-10,2015-08-25,male,1965-07-19,,Maliki Osman July 2018 (43440550432) (cropped).jpg,Maliki Osman
-Singapore,Member of the Parliament of Singapore,Michael Palmer,Q6833355,2011-10-10,2015-08-25,male,1968-07-14,,,Michael Palmer (politician)
 Singapore,Member of the Parliament of Singapore,Low Thia Khiang,Q713940,2011-10-10,2015-08-25,male,1956-09-05,,Low Thia Khiang 2011.JPG,Low Thia Khiang
 Singapore,Member of the Parliament of Singapore,Sylvia Lim,Q713945,2011-10-10,2015-08-25,female,1965-03-28,,"Sylvia Lim at a Workers' Party general election rally, Bedok Stadium, Singapore - 20110430 (cropped).jpg",Sylvia Lim
 Singapore,Member of the Parliament of Singapore,Pritam Singh,Q7245929,2011-10-10,2015-08-25,male,1976-08-02,,Pritam Singh Singapore 4 (cropped).jpg,Pritam Singh (Singaporean politician)
@@ -208,6 +208,8 @@ Singapore,Member of the Parliament of Singapore,Benedict Tan,Q96741373,2011-10-1
 Singapore,Member of the Parliament of Singapore,Hawazi Daipi,Q97818379,2011-10-10,2015-08-25,,,,,
 Singapore,Member of the Parliament of Singapore,Teo Siong Seng,Q97818864,2011-10-10,2015-08-25,male,1954,,,
 Singapore,Member of the Parliament of Singapore,Tharman Shanmugaratnam,Q983752,2011-10-10,2015-08-25,male,1957-01-22,,"Tharman Shanmugaratnam at the official opening of Yuan Ching Secondary School's new building, Singapore - 20100716 (cropped).jpg",Tharman Shanmugaratnam
+Singapore,Member of the Parliament of Singapore,Png Eng Huat,Q7206019,2012-05-26,2015-08-25,male,1961-12-09,,"Png Eng Huat at a Workers' Party general election rally, Bedok Stadium, Singapore - 20110430.jpg",Png Eng Huat
+Singapore,Member of the Parliament of Singapore,Lee Li Lian,Q3786667,2013-01-26,2015-08-25,female,1978-07-19,,,Lee Li Lian
 Singapore,Member of the Parliament of Singapore,Darryl David,Q20979710,2015-09-11,2020-06-23,male,1970-10-19,,Darryl David.jpg,Darryl David
 Singapore,Member of the Parliament of Singapore,Melvin Yong,Q23416672,2015-09-11,2020-06-23,male,1972-02-19,,Portrait photo of Melvin Yong.jpg,Melvin Yong
 Singapore,Member of the Parliament of Singapore,Halimah Yacob,Q5642345,2015-09-11,2017-08-07,female,1954-08-23,,"Republic of Singapore President Halimah Yacob witnesses the program proper during her visit to the Philippine Eagle Center in Davao City on September 11, 2019 (cropped).jpg",Halimah Yacob
