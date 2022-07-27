@@ -1,0 +1,24 @@
+catalog,id,name,relationship,relative,relativename
+Myanmar,Q12149,Thein Sein,child,Q106714561,Yin Thuza Thein
+Myanmar,Q12149,Thein Sein,spouse,Q23270808,Khin Khin Win
+Myanmar,Q202553,Than Shwe,child,Q106308597,Kyi Kyi Shwe
+Myanmar,Q202553,Than Shwe,child,Q106308672,Thandar Shwe
+Myanmar,Q202553,Than Shwe,child,Q106309118,Kyaing San Shwe
+Myanmar,Q202553,Than Shwe,child,Q106309268,Tun Naing Shwe
+Myanmar,Q202553,Than Shwe,spouse,Q28069498,Kyaing Kyaing
+Myanmar,Q23020990,Htin Kyaw,father,Q6862607,Min Thu Wun
+Myanmar,Q23020990,Htin Kyaw,spouse,Q23055315,Su Su Lwin
+Myanmar,Q3462649,Min Aung Hlaing,child,Q105299477,Aung Pyae Sone
+Myanmar,Q3462649,Min Aung Hlaing,child,Q105373554,Khin Thiri Thet Mon
+Myanmar,Q3462649,Min Aung Hlaing,spouse,Q106308747,Kyu Kyu Hla
+Myanmar,Q36740,Aung San Suu Kyi,child,Q19712158,Dannian Kim Arundel Aris
+Myanmar,Q36740,Aung San Suu Kyi,child,Q4203876,Alexander Aris
+Myanmar,Q36740,Aung San Suu Kyi,father,Q194161,Aung San
+Myanmar,Q36740,Aung San Suu Kyi,mother,Q16012101,Khin Kyi
+Myanmar,Q36740,Aung San Suu Kyi,sibling,Q4821906,Aung San Oo
+Myanmar,Q36740,Aung San Suu Kyi,spouse,Q983928,Michael Aris
+Myanmar,Q454491,Win Aung,child,Q20685761,Thaung Su Nyein
+Myanmar,Q51095882,Cho Cho,spouse,Q8023642,Win Myint
+Myanmar,Q8023642,Win Myint,spouse,Q51095882,Cho Cho
+Myanmar,Q981482,Shwe Mann,child,Q20675922,Aung Thet Mann
+Myanmar,Q981482,Shwe Mann,child,Q20684696,Toe Naing Mann
