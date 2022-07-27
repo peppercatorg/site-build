@@ -802,7 +802,7 @@ Azerbaijan,Q4134808,Kamaladdin Heydarov,father,Q16367961,Fəttah Heydərov
 Azerbaijan,Q4167611,Ziyad Aliabbas oglu Samadzade,child,Q16364871,Aygun Samedzade
 Azerbaijan,Q4670613,Abulfaz Garayev,father,Q12842459,Mursal Garayev
 Azerbaijan,Q5018584,Sabir Rustamkhanli,spouse,Q16375290,Tənzilə Rüstəmxanlı
-Azerbaijan,Q57371,Ilham Aliyev,child,Q106103307,Hejdar Aliyev
+Azerbaijan,Q57371,Ilham Aliyev,child,Q106103307,Heydar Aliyev
 Azerbaijan,Q57371,Ilham Aliyev,child,Q23683242,Arzu Aliyeva
 Azerbaijan,Q57371,Ilham Aliyev,child,Q298532,Leyla Aliyeva
 Azerbaijan,Q57371,Ilham Aliyev,father,Q157451,Heydar Aliyev
@@ -3959,6 +3959,7 @@ European Union,Q946,Donald Tusk,child,Q17278150,Katarzyna Tusk
 European Union,Q946,Donald Tusk,father,Q17278182,Donald Tusk
 European Union,Q946,Donald Tusk,mother,Q17278183,Ewa Tusk
 European Union,Q946,Donald Tusk,relative,Q11731545,Józef Tusk
+European Union,Q946,Donald Tusk,relative,Q9179919,Bronisław Tusk
 European Union,Q946,Donald Tusk,spouse,Q17278133,Małgorzata Tusk
 European Union,Q949046,Nils Torvalds,child,Q11906740,Sara Torvalds
 European Union,Q949046,Nils Torvalds,child,Q11909468,Leo Torvalds
@@ -5314,6 +5315,7 @@ Germany,Q96820,Johannes Kahrs,father,Q1511746,Wolfgang Kahrs
 Germany,Q96820,Johannes Kahrs,mother,Q917423,Bringfriede Kahrs
 Germany,Q96967,Marieluise Beck,spouse,Q106200,Ralf Fücks
 Germany,Q97097761,Benjamin Limbach,mother,Q72551,Jutta Limbach
+Germany,Q97311,Konrad Schily,child,Q108733806,Ophelia Nick
 Germany,Q97311,Konrad Schily,sibling,Q60788,Otto Schily
 Germany,Q97332,Barbara Hendricks,spouse,Q42430709,Valérie Vauzanges
 Germany,Q97351,Barbara Rütting,partner,Q23831074,Lutz Hochstraate
@@ -6445,6 +6447,8 @@ India,Q61488811,Pritiranjan Gharai,spouse,Q29317087,Jhillik Bhattacharya
 India,Q61488819,Puspendra Singh Deo,father,Q61717530,Chandrabhanu Singh Deo
 India,Q61488819,Puspendra Singh Deo,mother,Q61575150,Roshni Singh Deo
 India,Q61488912,Siddharth Sekhar Singh,father,Q61650243,Bibhuti Bhusan Singh Mardaraj
+India,Q61488921,Sipra Mallick,father,Q61715895,Prahlad Mallik
+India,Q61488921,Sipra Mallick,sibling,Q113251555,Supriya Mallick
 India,Q61488924,Subal Sahu,spouse,Q61510170,Rita Sahu
 India,Q61509984,Bedabyasa Nayak,father,Q61556078,Niladri Nayak
 India,Q61509992,Bibhuti Bhusan Harichandan,sibling,Q61556023,Biswabhusan Harichandan
@@ -8034,6 +8038,7 @@ Japan,Q38849,Shintarō Ishihara,spouse,Q11585241,Noriko Ishihara
 Japan,Q389617,Yōichi Masuzoe,spouse,Q7426488,Satsuki Katayama
 Japan,Q405085,Takeo Hiranuma,child,Q41805276,Shōjirō Hiranuma
 Japan,Q405085,Takeo Hiranuma,father,Q11483193,Kyōshirō Hiranuma
+Japan,Q41770230,Shunsuke Itō,father,Q6433619,Kosuke Ito
 Japan,Q41770594,Jirō Kimura,father,Q11518804,Morio Kimura
 Japan,Q41770594,Jirō Kimura,relative,Q48764999,木村文男
 Japan,Q41770594,Jirō Kimura,sibling,Q11518790,Tarō Kimura
@@ -11764,6 +11769,7 @@ South Africa,Q16746680,Mmamoloko Kubayi,spouse,Q111338042,Joel Sihle Ngubane
 South Africa,Q239062,Winnie Madikizela-Mandela,child,Q16103937,Zenani Mandela-Dlamini
 South Africa,Q239062,Winnie Madikizela-Mandela,child,Q204369,Zindzi Mandela
 South Africa,Q239062,Winnie Madikizela-Mandela,spouse,Q8023,Nelson Mandela
+South Africa,Q26923725,Chris Hattingh,child,Q6301581,Juanita Terblanche
 South Africa,Q28011968,Obed Bapela,spouse,Q50357896,Constance Bapela
 South Africa,Q28861576,Barbara Masekela,sibling,Q246594,Hugh Masekela
 South Africa,Q3241428,Lindiwe Sisulu,father,Q440490,Walter Max Ulyate Sisulu
@@ -19171,6 +19177,7 @@ United States,Q15993009,Hugh Gillis,sibling,Q17037420,"Jim L. Gillis, Jr."
 United States,Q160157,Joe Lieberman,spouse,Q5637601,Hadassah Lieberman
 United States,Q160181,Tim Pawlenty,spouse,Q13560980,Mary Pawlenty
 United States,Q160582,Michele Bachmann,spouse,Q21552248,Marcus Bachmann
+United States,Q160717,Tom Lantos,child,Q6377978,Katrina Swett
 United States,Q160717,Tom Lantos,relative,Q1274294,Richard Swett
 United States,Q16104615,Robert Bloxom,child,Q16199598,"Robert Bloxom, Jr."
 United States,Q16146870,Steve Bannon,spouse,Q28587005,Cathleen Houff
@@ -19192,6 +19199,7 @@ United States,Q16197260,Donna Soucy,mother,Q72102494,Lillian Soucy
 United States,Q16204936,Rufus Gifford,father,Q5079649,Charles K. Gifford
 United States,Q16215583,Chris Sununu,father,Q887489,John H. Sununu
 United States,Q16215583,Chris Sununu,sibling,Q1699908,John E. Sununu
+United States,Q16221257,Lee Zeldin,relative,Q47507410,Isaiah Zeldin
 United States,Q16221742,Matt Gaetz,father,Q5292650,Don Gaetz
 United States,Q16240798,Michael Brady,sibling,Q95886226,Robert F. Brady Jr.
 United States,Q1667920,Russ Carnahan,mother,Q448619,Jean Carnahan
