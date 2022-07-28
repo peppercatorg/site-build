@@ -64,6 +64,7 @@ Hong Kong,Q7184580,Philip Wong,father,Q11176019,Wong Ker-lee
 Hong Kong,Q7184580,Philip Wong,spouse,Q9298156,Leung Fung Yee
 Hong Kong,Q7245609,Priscilla Leung,spouse,Q8464458,Wang Guiguo
 Hong Kong,Q7422535,Sarah Liao,spouse,Q12117369,Gordon Siu
+Hong Kong,Q7807201,Timothy Fok,child,Q111693435,Eric Fok
 Hong Kong,Q7807201,Timothy Fok,child,Q8958593,Kenneth Fok
 Hong Kong,Q7807201,Timothy Fok,father,Q3236818,Henry Fok
 Hong Kong,Q7807201,Timothy Fok,sibling,Q9372313,Ian Fok
@@ -77,6 +78,7 @@ Hong Kong,Q835316,Antony Leung,spouse,Q234415,Fu Mingxia
 Hong Kong,Q8421813,Howard Young,child,Q9186395,Jeremy Young Chit-on
 Hong Kong,Q8958593,Kenneth Fok,father,Q7807201,Timothy Fok
 Hong Kong,Q8958593,Kenneth Fok,mother,Q6668898,Loletta Chu
+Hong Kong,Q8958593,Kenneth Fok,sibling,Q111693435,Eric Fok
 Hong Kong,Q8958593,Kenneth Fok,spouse,Q270693,Guo Jingjing
 Hong Kong,Q8970908,Henry Wu,father,Q16260170,Woo Hon Fai
 Hong Kong,Q9026378,Duncan Chiu,father,Q15906240,Deacon Chiu

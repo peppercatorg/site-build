@@ -800,6 +800,7 @@ Azerbaijan,Q4130889,Isa Habibbayli,child,Q20565379,Ərəstü Həbibbəyli
 Azerbaijan,Q4134808,Kamaladdin Heydarov,child,Q12846361,Tale Heydarov
 Azerbaijan,Q4134808,Kamaladdin Heydarov,father,Q16367961,Fəttah Heydərov
 Azerbaijan,Q4167611,Ziyad Aliabbas oglu Samadzade,child,Q16364871,Aygun Samedzade
+Azerbaijan,Q4281251,Misir Mardanov,father,Q99211544,Jumayil Mardanov
 Azerbaijan,Q4670613,Abulfaz Garayev,father,Q12842459,Mursal Garayev
 Azerbaijan,Q5018584,Sabir Rustamkhanli,spouse,Q16375290,Tənzilə Rüstəmxanlı
 Azerbaijan,Q57371,Ilham Aliyev,child,Q106103307,Heydar Aliyev
@@ -5613,6 +5614,7 @@ Hong Kong,Q7184580,Philip Wong,father,Q11176019,Wong Ker-lee
 Hong Kong,Q7184580,Philip Wong,spouse,Q9298156,Leung Fung Yee
 Hong Kong,Q7245609,Priscilla Leung,spouse,Q8464458,Wang Guiguo
 Hong Kong,Q7422535,Sarah Liao,spouse,Q12117369,Gordon Siu
+Hong Kong,Q7807201,Timothy Fok,child,Q111693435,Eric Fok
 Hong Kong,Q7807201,Timothy Fok,child,Q8958593,Kenneth Fok
 Hong Kong,Q7807201,Timothy Fok,father,Q3236818,Henry Fok
 Hong Kong,Q7807201,Timothy Fok,sibling,Q9372313,Ian Fok
@@ -5626,6 +5628,7 @@ Hong Kong,Q835316,Antony Leung,spouse,Q234415,Fu Mingxia
 Hong Kong,Q8421813,Howard Young,child,Q9186395,Jeremy Young Chit-on
 Hong Kong,Q8958593,Kenneth Fok,father,Q7807201,Timothy Fok
 Hong Kong,Q8958593,Kenneth Fok,mother,Q6668898,Loletta Chu
+Hong Kong,Q8958593,Kenneth Fok,sibling,Q111693435,Eric Fok
 Hong Kong,Q8958593,Kenneth Fok,spouse,Q270693,Guo Jingjing
 Hong Kong,Q8970908,Henry Wu,father,Q16260170,Woo Hon Fai
 Hong Kong,Q9026378,Duncan Chiu,father,Q15906240,Deacon Chiu
@@ -10255,6 +10258,7 @@ Philippines,Q2084711,Teresa Aquino-Oreta,child,Q27057691,Antolin A. Oreta III
 Philippines,Q2084711,Teresa Aquino-Oreta,father,Q817304,"Benigno Aquino, Sr."
 Philippines,Q2084711,Teresa Aquino-Oreta,sibling,Q222805,Benigno Aquino Jr.
 Philippines,Q2084711,Teresa Aquino-Oreta,sibling,Q2368262,Agapito Aquino
+Philippines,Q2108334,Risa Hontiveros,sibling,Q2109875,Pia Hontiveros
 Philippines,Q212733,Joseph Estrada,child,Q109453557,Jake Ejercito
 Philippines,Q212733,Joseph Estrada,child,Q12950817,Joseph Victor Ejercito
 Philippines,Q212733,Joseph Estrada,child,Q471874,Jinggoy Estrada
@@ -10971,9 +10975,9 @@ Russia,Q2072843,Vasyl Dzharty,child,Q14491528,Джарти Вікторія Ва
 Russia,Q20812953,Maria Zakharova,spouse,Q110997152,Andrei Makarov
 Russia,Q2107072,Lyudmila Narusova,child,Q287099,Kseniya Sobchak
 Russia,Q2107072,Lyudmila Narusova,spouse,Q334294,Anatoly Sobchak
-Russia,Q217115,Ramzan Kadyrov,father,Q297006,Akhmad Kadyrov
-Russia,Q217115,Ramzan Kadyrov,mother,Q21887442,Aymani Kadyrova
-Russia,Q217115,Ramzan Kadyrov,relative,Q4207417,Khalid Kadyrov
+Russia,Q217115,Ramazan Kadyrov,father,Q297006,Akhmad Kadyrov
+Russia,Q217115,Ramazan Kadyrov,mother,Q21887442,Aymani Kadyrova
+Russia,Q217115,Ramazan Kadyrov,relative,Q4207417,Khalid Kadyrov
 Russia,Q233812,Irina Rodnina,child,Q4738675,Alyona Minkovski
 Russia,Q233812,Irina Rodnina,spouse,Q956655,Alexander Gennadiyevich Zaitsev
 Russia,Q23530,Dmitry Medvedev,spouse,Q234259,Svetlana Medvedeva
@@ -10993,7 +10997,7 @@ Russia,Q28497365,Elmira Glubokovskaya,child,Q108691440,Roza Chemeris
 Russia,Q28497365,Elmira Glubokovskaya,spouse,Q28497366,Mikhail Gloubokovsky
 Russia,Q28497366,Mikhail Gloubokovsky,spouse,Q28497365,Elmira Glubokovskaya
 Russia,Q28526218,Artyom Turov,father,Q3920850,Viktor Turov
-Russia,Q297006,Akhmad Kadyrov,child,Q217115,Ramzan Kadyrov
+Russia,Q297006,Akhmad Kadyrov,child,Q217115,Ramazan Kadyrov
 Russia,Q297006,Akhmad Kadyrov,spouse,Q21887442,Aymani Kadyrova
 Russia,Q3050754,Eleonora Mitrofanova,sibling,Q4296811,Aleksey Mitrofanov
 Russia,Q311019,Boris Berezovsky,child,Q15064471,Elizaveta Borisovna Berezovskaïa
