@@ -59,7 +59,7 @@ China,Minister of Culture,Luo Shugang,Q8294099,2018-03-19,2020-08-11,male,1955-0
 China,Minister of Culture,Hu Heping,Q8292447,2020-08-11,,male,1962-10,,Hu Heping.jpg,Hu Heping
 China,Minister of Ecology and Environment,Li Ganjie,Q16076530,2018-03,2020-04,male,1964,,Li Ganjie.jpg,Li Ganjie
 China,Minister of Ecology and Environment,Huang Runqiu,Q11177950,2020-04-29,,male,1963,,,Huang Runqiu
-China,Minister of Education,Chen Baosheng,Q8291811,2016-07,2021-08,male,1956-05,,,Chen Baosheng
+China,Minister of Education,Chen Baosheng,Q8291811,2016-07,2021-08,male,1956-05,,Chen Baosheng 2019.jpg,Chen Baosheng
 China,Minister of Education,Huai Jinpeng,Q9142144,2021-08-20,,male,1962,,Han Zheng (2018-09-18) 01.jpg,Huai Jinpeng
 China,Minister of Emergency Management,Wang Yupu,Q8292093,2018-03-19,2020-12-08,male,1956-10,2020-12-08,,Wang Yupu
 China,Minister of Emergency Management,Huang Ming,Q9462347,2021-04-29,,male,1957-10,,,Huang Ming (politician)
@@ -73,7 +73,8 @@ China,Minister of Housing and Urban-Rural Development,Ni Hong,Q97175537,2022-06-
 China,Minister of Human Resources and Social Security,Zhang Jinan,Q15935318,2018-03,2022-06-25,male,1957-02,,,Zhang Jinan
 China,Minister of Human Resources and Social Security,Zhou Zuyi,Q19849368,2022-06-25,,male,1965-01,,,Zhou Zuyi
 China,Minister of Industry and Information Technology,Miao Wei,Q8292013,2010-12,2020-08-11,male,1955-05,,Miao Wei.jpg,Miao Wei
-China,Minister of Industry and Information Technology,Xiao Yaqing,Q8292346,2020-08-11,,male,1959-09,,,Xiao Yaqing
+China,Minister of Industry and Information Technology,Xiao Yaqing,Q8292346,2020-08-11,2022-07-28,male,1959-09,,,Xiao Yaqing
+China,Minister of Industry and Information Technology,Jin Zhuanglong,Q8291855,2022-07-29,,male,1964-03,,,Jin Zhuanglong
 China,Minister of Justice,Gao Changli,Q3369803,1998-03,2000-11,male,1937,,,Gao Changli
 China,Minister of Justice,Zhang Fusen,Q7927915,2000-12,2005-07,male,1940-03,,,Zhang Fusen
 China,Minister of Justice,Wu Aiying,Q702258,2005-07-01,2017-02-24,female,1951,,Wu Aiying 2016-10-31 (cropped).jpg,Wu Aiying
@@ -200,19 +201,32 @@ China,Governor of Shaanxi,Lou Qinjian,Q4505112,2012-12,2016-04,male,1956-12,,,Lo
 China,Governor of Shaanxi,Hu Heping,Q8292447,2016-04-01,2018-01-04,male,1962-10,,Hu Heping.jpg,Hu Heping
 China,Governor of Shaanxi,Liu Guozhong,Q8989779,2018-01-04,2020-08-02,male,1962,,,Liu Guozhong
 China,Governor of Shaanxi,Zhao Yide,Q9095293,2020-08,,male,1965,,,Zhao Yide
-China,mayor of Beijing,Liu Qi,Q699246,1999,2003,male,1942-11-03,,Liu Qi Beijing.jpg,"Liu Qi (politician, born 1942)"
-China,mayor of Beijing,Meng Xuenong,Q1138806,2003-01,2003-04,male,1949-08-08,,,Meng Xuenong
-China,mayor of Beijing,Wang Qishan,Q18113,2004-04,2007-11,male,1948-07-19,,Wang Qishan in May 2018.jpg,Wang Qishan
-China,mayor of Beijing,Guo Jinlong,Q1368232,2007,2012,male,1947-07,,Guo Jinlong.jpg,Guo Jinlong
-China,mayor of Beijing,Wang Anshun,Q711077,2012-07,2016-10-31,male,1957-12-01,,Wang Anshun.jpg,Wang Anshun
+China,mayor of Beijing,Liu Qi,Q699246,1999-02-06,2003-01-19,male,1942-11-03,,Liu Qi Beijing.jpg,"Liu Qi (politician, born 1942)"
+China,mayor of Beijing,Meng Xuenong,Q1138806,2003-01-19,2003-04-20,male,1949-08-08,,,Meng Xuenong
+China,mayor of Beijing,Wang Qishan,Q18113,2003-04-20,2007-11-30,male,1948-07-19,,Wang Qishan in May 2018.jpg,Wang Qishan
+China,mayor of Beijing,Guo Jinlong,Q1368232,2007-11-30,2012-07-25,male,1947-07,,Guo Jinlong.jpg,Guo Jinlong
+China,mayor of Beijing,Wang Anshun,Q711077,2012-07-25,2016-10-31,male,1957-12-01,,Wang Anshun.jpg,Wang Anshun
 China,mayor of Beijing,Cai Qi,Q3370201,2016-10-31,2017-05-27,male,1955-12-05,,Cai Qi.jpg,Cai Qi
 China,mayor of Beijing,Chen Jining,Q9364514,2017-05-27,,male,1964-02-04,,Chen Jining 2019.png,Chen Jining
+China,mayor of Chongqing,Bao Shuding,Q10901550,1999-06,2002-10,male,1939,,,Bao Xuding
+China,mayor of Chongqing,Wang Hongju,Q365898,2002-10,2009-11,male,1945-10,,,Wang Hongju
+China,mayor of Chongqing,Huang Qifan,Q3377444,2009-11,2016-12,male,1952-05,,Voa chinese Huang+Qifan 20120309 300.jpg,Huang Qifan
+China,mayor of Chongqing,Zhang Guoqing,Q8292210,2016-12,2017-12,male,1964-08,,Zhang Guoqing.jpg,Zhang Guoqing
+China,mayor of Chongqing,Tang Liangzhi,Q20984170,2018-01,2021-12,male,1960,,,Tang Liangzhi
+China,mayor of Chongqing,Hu Henghua,Q8970937,2021-12,,male,1963-06,,,Hu Henghua
 China,mayor of Shanghai,Xu Kuangdi,Q45147,1995-02,2001-12,male,1937-12-11,,Xu Kuangdi (Horasis Global China Business Meeting 2010).jpg,Xu Kuangdi
 China,mayor of Shanghai,Chen Liangyu,Q715087,2001-12-07,2003-02-20,male,1946-10-24,,,Chen Liangyu
 China,mayor of Shanghai,Han Zheng,Q48405,2003-02-20,2012-12-26,male,1954-04,,"Cristina Fernández junto a Han Zheng, el alcalde de Shanghai (cropped).jpg",Han Zheng
 China,mayor of Shanghai,Yang Xiong,Q2117887,2013-02-01,2017-01-17,male,1953-11,2021-04-12,Yang Xiong (29056693522) (cropped).jpg,Yang Xiong (politician)
 China,mayor of Shanghai,Ying Yong,Q9134379,2017-01-20,2020-02-13,male,1957-11,,Ying Yong.jpg,Ying Yong
 China,mayor of Shanghai,Gong Zheng,Q8964883,2020-03-23,,male,1960-03,,龚正.jpg,Gong Zheng
+China,mayor of Tianjin,Li Shenglin,Q3831493,1998-05,2002-12-31,male,1946-11-13,,,Li Shenglin
+China,mayor of Tianjin,Dai Xianglong,Q834484,2002-12-31,2007-12-27,male,1944-10-01,,Dai Xianglong - Annual Meeting of the New Champions 2012.jpg,Dai Xianglong
+China,mayor of Tianjin,Huang Xingguo,Q5925757,2007-12-27,2016-09-14,male,1954-10,,Huang Xingguo 2010.jpg,Huang Xingguo
+China,mayor of Tianjin,Wang Dongfeng,Q15936001,2016-09-14,2017-10-28,male,1958-02,,Wang Dongfeng.jpg,Wang Dongfeng
+China,mayor of Tianjin,Zhang Guoqing,Q8292210,2018-01-02,2020-09-03,male,1964-08,,Zhang Guoqing.jpg,Zhang Guoqing
+China,mayor of Tianjin,Liao Guoxun,Q8993288,2020-09-03,2022-04-27,male,1963-02-09,2022-04-27,,Liao Guoxun
+China,mayor of Tianjin,Zhang Gong,Q16905025,2022-05-31,,male,1961-08,,,Zhang Gong (politician)
 China,mayor of Guangzhou,Wan Qingliang,Q7967019,2010-04-16,2011-12-20,male,1964-02,,,Wan Qingliang
 China,mayor of Guangzhou,Chen Jianhua,Q4984503,2012-01,2016-01,male,1956,,Chen Jianhua.jpg,Chen Jianhua
 China,mayor of Guangzhou,Wen Guohui,Q19825704,2016-01,,male,1963-10,,,Wen Guohui
