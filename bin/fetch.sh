@@ -25,17 +25,21 @@ csv="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html
 csv21="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/holders21.csv"
 csvmp="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/legislators.csv"
 rca="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/family.csv"
-html="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/index.html"
+bio="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/bio.csv"
 
 echo $name
 mkdir -p $dir
+
+curl -L -o $dir/bio.csv $bio
 
 curl -L -o $TMPFILE $csv
 qsv search -s repo ^$repo repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
-  qsv select 10,1-9 |
+  qsv join personID - id $dir/bio.csv |
+  qsv select catalog,position,person,personID,start,gender,dob,dod,image,enwiki |
+  qsv rename catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki |
   qsv fill catalog |
   ifne tee $dir/current.csv
 
@@ -46,7 +50,9 @@ qsv search -s repo ^$repo repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
-  qsv select 11,1-10 |
+  qsv join personID - id $dir/bio.csv |
+  qsv select catalog,position,person,personID,start,end,gender,dob,dod,image,enwiki |
+  qsv rename catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki |
   qsv fill catalog |
   ifne tee $dir/leaders-historic.csv
 
@@ -55,7 +61,9 @@ qsv search -s repo ^$repo repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
-  qsv select 11,1-10 |
+  qsv join personID - id $dir/bio.csv |
+  qsv select catalog,position,person,personID,start,end,gender,dob,dod,image,enwiki |
+  qsv rename catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki |
   qsv fill catalog |
   ifne tee $dir/legislators-historic.csv
 
