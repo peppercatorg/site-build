@@ -1,15 +1,15 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Iceland,Member of the 2021– Parliament of Iceland,Diljá Mist Einarsdóttir,Q106713472,2021-09-25,,female,,,,
 Iceland,Member of the 2021– Parliament of Iceland,Þórarinn Ingi Pétursson,Q108510678,2021-09-25,,male,1972-08-22,,,
-Iceland,Member of the 2021– Parliament of Iceland,Ingibjörg Ólöf Isaksen,Q108856310,2021-09-25,,,,,,
-Iceland,Member of the 2021– Parliament of Iceland,Guðbrandur Einarsson,Q108856352,2021-09-25,,,,,,
+Iceland,Member of the 2021– Parliament of Iceland,Ingibjörg Ólöf Isaksen,Q108856310,2021-09-25,,female,1977-02-14,,,
+Iceland,Member of the 2021– Parliament of Iceland,Guðbrandur Einarsson,Q108856352,2021-09-25,,male,,,,
 Iceland,Member of the 2021– Parliament of Iceland,Guðrún Hafsteinsdóttir,Q108856353,2021-09-25,,female,1970-02-09,,,
-Iceland,Member of the 2021– Parliament of Iceland,Eyjólfur Ármannsson,Q108856354,2021-09-25,,,,,,
-Iceland,Member of the 2021– Parliament of Iceland,Ásthildur Lóa Þórsdóttir,Q108856355,2021-09-25,,,,,,
-Iceland,Member of the 2021– Parliament of Iceland,Kristrún Mjöll Frostadóttir,Q108856371,2021-09-25,,,,,,
-Iceland,Member of the 2021– Parliament of Iceland,Hildur Sverrisdóttir,Q108881942,2021-09-25,,,,,,
-Iceland,Member of the 2021– Parliament of Iceland,Orri Páll Jóhannsson,Q108881944,2021-09-25,,,,,,
-Iceland,Member of the 2021– Parliament of Iceland,Jóhann Páll Jóhannsson,Q108881945,2021-09-25,,,,,,
+Iceland,Member of the 2021– Parliament of Iceland,Eyjólfur Ármannsson,Q108856354,2021-09-25,,male,,,,
+Iceland,Member of the 2021– Parliament of Iceland,Ásthildur Lóa Þórsdóttir,Q108856355,2021-09-25,,female,,,,
+Iceland,Member of the 2021– Parliament of Iceland,Kristrún Mjöll Frostadóttir,Q108856371,2021-09-25,,female,,,,
+Iceland,Member of the 2021– Parliament of Iceland,Hildur Sverrisdóttir,Q108881942,2021-09-25,,female,,,,
+Iceland,Member of the 2021– Parliament of Iceland,Orri Páll Jóhannsson,Q108881944,2021-09-25,,male,,,,
+Iceland,Member of the 2021– Parliament of Iceland,Jóhann Páll Jóhannsson,Q108881945,2021-09-25,,male,,,,
 Iceland,Member of the 2021– Parliament of Iceland,Arndís Anna K. Gunnarsdóttir,Q108881946,2021-09-25,,female,1982-02-03,,,
 Iceland,Member of the 2021– Parliament of Iceland,Ágúst Bjarni Garðarsson,Q108881947,2021-09-25,,,,,,
 Iceland,Member of the 2021– Parliament of Iceland,Gísli Rafn Ólafsson,Q108881948,2021-09-25,,,,,,
@@ -29,6 +29,7 @@ Iceland,Member of the 2021– Parliament of Iceland,Sigmar Guðmundsson,Q1583881
 Iceland,Member of the 2021– Parliament of Iceland,Líneik Anna Sævarsdóttir,Q16421281,2021-09-25,,female,1964-11-03,,Líneik Anna Sævarsdóttir (30213158190).jpg,Líneik Anna Sævarsdóttir
 Iceland,Member of the 2021– Parliament of Iceland,Stefán Vagn Stefánsson,Q16427250,2021-09-25,,male,1972-01-17,,,
 Iceland,Member of the 2021– Parliament of Iceland,Tómas A. Tómasson,Q16429256,2021-09-25,,male,1949,,,Tómas A. Tómasson
+Iceland,Member of the 2021– Parliament of Iceland,Vilhjálmur Árnason,Q16430083,2021-09-25,,male,1983-10-29,,,
 Iceland,Member of the 2021– Parliament of Iceland,Jón Gunnarsson,Q1715048,2021-09-25,,male,1956-09-21,,,Jón Gunnarsson
 Iceland,Member of the 2021– Parliament of Iceland,Sigurður Ingi Jóhannsson,Q201075,2021-09-25,,male,1962-04-20,,Sigurður Ingi Jóhannsson (cropped).jpg,Sigurður Ingi Jóhannsson
 Iceland,Member of the 2021– Parliament of Iceland,Lilja Dögg Alfreðsdóttir,Q23753778,2021-09-25,,female,1973-10-04,,Lilja Dögg Alfreðsdóttir.jpg,Lilja Dögg Alfreðsdóttir
@@ -57,7 +58,6 @@ Iceland,Member of the 2021– Parliament of Iceland,Bergþór Ólason,Q55768528,
 Iceland,Member of the 2021– Parliament of Iceland,Birgir Þórarinsson,Q55768548,2021-09-25,,male,1965-06-23,,,
 Iceland,Member of the 2021– Parliament of Iceland,Helga Vala Helgadóttir,Q59399730,2021-09-25,,female,1972-03-14,,,Helga Vala Helgadóttir
 Iceland,Member of the 2021– Parliament of Iceland,Jakob Frímann Magnússon,Q6125262,2021-09-25,,male,1953-05-04,,,Jakob Frímann Magnússon
-Iceland,Member of the 2021– Parliament of Iceland,Vilhjálmur Árnason,Q7930191,2021-09-25,,male,1953,,,Vilhjálmur Árnason
 Iceland,Member of the 2021– Parliament of Iceland,Guðmundur Ingi Kristinsson,Q85970033,2021-09-25,,male,1955-07-14,,,
 Iceland,Member of the 2021– Parliament of Iceland,Birgir Ármannsson,Q865180,2021-09-25,,male,1968-06-12,,"Birgir Armannsson, radsformann for Vestnordisk Rad.jpg",Birgir Ármannsson
 Iceland,Member of the 2021– Parliament of Iceland,Bjarni Benediktsson,Q879376,2021-09-25,,male,1970-01-26,,Bjarni Benediktsson vid Nordiska Radets session i Stockholm.jpg,Bjarni Benediktsson (born 1970)
@@ -110,7 +110,7 @@ Iceland,Member of the 2016-2017 Parliament of Iceland,Njáll Trausti Friðbertss
 Iceland,Member of the 2016-2017 Parliament of Iceland,Kolbeinn Óttarsson Proppé,Q31749113,2016-10-29,2017-10-27,male,1972-12-19,,,Kolbeinn Óttarsson Proppé
 Iceland,Member of the 2016-2017 Parliament of Iceland,Hanna Katrín Friðriksson,Q31749114,2016-10-29,2017-10-27,female,1964-08-04,,,
 Iceland,Member of the 2016-2017 Parliament of Iceland,Gunnar Hrafn Jónsson,Q31749116,2016-10-29,2017-10-27,male,1981-06-13,,,
-Iceland,Member of the 2016-2017 Parliament of Iceland,Teitur Björn Einarsson,Q31749117,2016-10-29,2017-10-27,,1980,,,
+Iceland,Member of the 2016-2017 Parliament of Iceland,Teitur Björn Einarsson,Q31749117,2016-10-29,2017-10-27,male,1980,,,
 Iceland,Member of the 2016-2017 Parliament of Iceland,Halldóra Mogensen,Q31749120,2016-10-29,2017-10-27,female,1979-07-11,,,Halldóra Mogensen
 Iceland,Member of the 2016-2017 Parliament of Iceland,Jóna Sólveig Elínardóttir,Q31749121,2016-10-29,2017-10-27,female,1985,,,
 Iceland,Member of the 2016-2017 Parliament of Iceland,Guðjón S. Brjánsson,Q31749122,2016-10-29,2017-10-27,male,1955-03-22,,,
@@ -154,7 +154,7 @@ Iceland,Member of the 2013-2016 Parliament of Iceland,Haraldur Einarsson,Q161034
 Iceland,Member of the 2013-2016 Parliament of Iceland,Jóhanna María Sigmundsdóttir,Q16334491,2013-04-27,2016-10-29,female,1991-06-28,,,Jóhanna María Sigmundsdóttir
 Iceland,Member of the 2013-2016 Parliament of Iceland,Óttarr Proppé,Q16420871,2013-04-27,2016-10-29,male,1968-11-07,,"Óttarr Proppé, ESC2014 Meet & Greet (crop).jpg",Óttarr Proppé
 Iceland,Member of the 2013-2016 Parliament of Iceland,Líneik Anna Sævarsdóttir,Q16421281,2013-04-27,2016-10-29,female,1964-11-03,,Líneik Anna Sævarsdóttir (30213158190).jpg,Líneik Anna Sævarsdóttir
-Iceland,Member of the 2013-2016 Parliament of Iceland,Þorsteinn Sæmundsson,Q16421780,2013-04-27,2016-10-29,male,1935,,,Þorsteinn Sæmundsson
+Iceland,Member of the 2013-2016 Parliament of Iceland,Þorsteinn B. Sæmundsson,Q16421718,2013-04-27,2016-10-29,male,1953-11-14,,,
 Iceland,Member of the 2013-2016 Parliament of Iceland,Páll Jóhann Pálsson,Q16423821,2013-04-27,2016-10-29,male,1957-11-25,,,
 Iceland,Member of the 2013-2016 Parliament of Iceland,Páll Valur Björnsson,Q16423843,2013-04-27,2016-10-29,male,1962-07-09,,,
 Iceland,Member of the 2013-2016 Parliament of Iceland,Sigrún Magnúsdóttir,Q16425503,2013-04-27,2016-10-29,female,1944-06-15,,,Sigrún Magnúsdóttir
@@ -353,7 +353,7 @@ Iceland,Member of the 2017–2021 Parliament of Iceland,Bjarkey Gunnarsdóttir,Q
 Iceland,Member of the 2017–2021 Parliament of Iceland,Brynjar Þór Níelsson,Q15630813,2017-12-14,2021-09,male,1960-09-01,,"Brynjar Níelsson, 2014-04-06.jpg",Brynjar Níelsson
 Iceland,Member of the 2017–2021 Parliament of Iceland,Haraldur Benediktsson,Q15730617,2017-12-14,2021-09,male,1966-01-23,,,
 Iceland,Member of the 2017–2021 Parliament of Iceland,Líneik Anna Sævarsdóttir,Q16421281,2017-12-14,2021-09,female,1964-11-03,,Líneik Anna Sævarsdóttir (30213158190).jpg,Líneik Anna Sævarsdóttir
-Iceland,Member of the 2017–2021 Parliament of Iceland,Þorsteinn Sæmundsson,Q16421780,2017-12-14,2021-09,male,1935,,,Þorsteinn Sæmundsson
+Iceland,Member of the 2017–2021 Parliament of Iceland,Þorsteinn B. Sæmundsson,Q16421718,2017-12-14,2021-09,male,1953-11-14,,,
 Iceland,Member of the 2017–2021 Parliament of Iceland,Silja Dögg Gunnarsdóttir,Q16425990,2017-12-14,2021-09,female,1973-12-15,,Silja Dögg.jpg,Silja Dögg Gunnarsdóttir
 Iceland,Member of the 2017–2021 Parliament of Iceland,Vilhjálmur Árnason,Q16430083,2017-12-14,2021-09,male,1983-10-29,,,
 Iceland,Member of the 2017–2021 Parliament of Iceland,Jón Gunnarsson,Q1715048,2017-12-14,2021-09,male,1956-09-21,,,Jón Gunnarsson

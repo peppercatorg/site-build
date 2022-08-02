@@ -8,6 +8,8 @@ India,Q1058,Narendra Modi,mother,Q105529920,Heeraben Modi
 India,Q1058,Narendra Modi,spouse,Q16947607,Jashodaben Narendrabhai Modi
 India,Q106811781,Deepti Kiran Maheshwari,mother,Q6414812,Kiran Maheshwari
 India,Q111343881,Ganieve Kaur Majithia,spouse,Q16215906,Bikram Singh Majithia
+India,Q113336473,Chhatrapal Singh,father,Q113337793,Ramlal Singh
+India,Q113336473,Chhatrapal Singh,spouse,Q113337635,Ranjana Singh
 India,Q1190856,Naveen Patnaik,father,Q3526595,Biju Patnaik
 India,Q1190856,Naveen Patnaik,relative,Q7562067,Sonny Mehta
 India,Q1190856,Naveen Patnaik,sibling,Q23879683,Geeta Mehta
@@ -276,6 +278,7 @@ India,Q27990470,Manmath Nath Das,sibling,Q3635724,Manoj Das
 India,Q28227517,Pashupati Kumar Paras,relative,Q16728004,Chirag Paswan
 India,Q28227517,Pashupati Kumar Paras,sibling,Q6036905,Ram Vilas Paswan
 India,Q28227517,Pashupati Kumar Paras,sibling,Q7288447,Ram Chandra Paswan
+India,Q28823465,Mukesh Choudhary,father,Q113335757,Kripal Singh
 India,Q29452463,Pradeep Maharathy,child,Q108800467,Rudra Pratap Maharathy
 India,Q29452463,Pradeep Maharathy,child,Q99927321,Pallavi Maharathi
 India,Q29452463,Pradeep Maharathy,relative,Q99926894,Ardhedu Sahu
@@ -625,7 +628,6 @@ India,Q61488762,Prafulla Majhi,relative,Q61556036,Gajadhar Majhi
 India,Q61488768,Prafulla Chandra Ghadai,child,Q61488811,Pritiranjan Gharai
 India,Q61488795,Pravat Ranjan Biswal,child,Q62556399,Souvic Biswal
 India,Q61488811,Pritiranjan Gharai,father,Q61488768,Prafulla Chandra Ghadai
-India,Q61488811,Pritiranjan Gharai,spouse,Q29317087,Jhillik Bhattacharya
 India,Q61488819,Puspendra Singh Deo,father,Q61717530,Chandrabhanu Singh Deo
 India,Q61488819,Puspendra Singh Deo,mother,Q61575150,Roshni Singh Deo
 India,Q61488912,Siddharth Sekhar Singh,father,Q61650243,Bibhuti Bhusan Singh Mardaraj

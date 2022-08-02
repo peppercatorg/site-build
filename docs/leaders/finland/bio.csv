@@ -1,0 +1,534 @@
+id,name,gender,dob,dobp,dod,dodp,image,enwiki
+Q100605132,Risto Hiekkataipale,male,1951-01-24,11,,,,
+Q102048379,Taisto Tolvanen,male,,,,,,
+Q1038599,Carl Haglund,male,1979-03-29,11,,,Carl Haglund.jpg,Carl Haglund
+Q105068,Mari Kiviniemi,female,1968-09-27,11,,,"Mari Kiviniemi on November 2, 2010.jpg",Mari Kiviniemi
+Q105492532,Maimo Henriksson,female,1961,9,,,,
+Q107389894,Juha Ottman,male,,,,,,
+Q107400683,Vesa Vasara,male,,,,,,
+Q107406460,Kristiina Kuvaja-Xanthopoulos,female,,,,,,
+Q109585960,Kirsikka Lehto-Asikainen,female,1970,9,,,,
+Q11291967,Jouko Jääskeläinen,male,1952-03-18,11,,,Jouko Jääskeläinen.JPG,Jouko Jääskeläinen
+Q1168762,Ville Itälä,male,1959-05-10,11,,,Villeitala.jpg,Ville Itälä
+Q11728909,Juha Korkeaoja,male,1950-01-11,11,,,,Juha Korkeaoja
+Q11850070,Aila Paloniemi,female,1956-01-28,11,,,Aila Paloniemi.jpg,Aila Paloniemi
+Q11850151,Aino-Kaisa Pekonen,female,1979-01-24,11,,,Aino-Kaisa Pekonen vuonna 2019.jpg,Aino-Kaisa Pekonen
+Q11850649,Alec Aalto,male,1942-09-24,11,2018-12-24,11,,Alec Aalto
+Q11851775,Annika Lapintie,female,1955-03-18,11,,,Annika Lapintie Lahti (cropped).jpg,
+Q11851928,Antero Vartia,male,1980-08-22,11,,,Antero Vartia.JPG,Antero Vartia
+Q11852109,Antti Kaikkonen,male,1974-02-14,11,,,Kaikkonen 2015 (cropped).jpg,Antti Kaikkonen
+Q11852135,Antti Kurvinen,male,1986-07-14,11,,,Antti Kurvinen 2021 (cropped).jpg,Antti Kurvinen
+Q11852155,Antti Lindtman,male,1982-08-11,11,,,Antti Lindtman.jpg,Antti Lindtman
+Q11852223,Antti Rantakangas,male,1964-02-28,11,2019-11-22,11,,Antti Rantakangas
+Q11852228,Antti Rinne,male,1962-11-03,11,,,Antti Rinne.jpg,Antti Rinne
+Q11852329,Anu Urpalainen,female,1966-09-27,11,,,,
+Q11852471,Ari Jalonen,male,1974-12-05,11,,,Ari Jalonen.jpg,
+Q11852524,Ari Torniainen,male,1956-03-15,11,,,,Ari Torniainen
+Q11852563,Arja Juvonen,female,1967-12-08,11,,,Arja Juvonen.jpg,Arja Juvonen
+Q11852844,Arto Satonen,male,1966-10-20,11,,,Arto satonen2 (cropped).jpg,Arto Satonen
+Q11856787,Eero Reijonen,male,1947-09-10,11,,,,
+Q11856811,Eero Suutari,male,1956-12-27,11,,,Eero Suutari fra Samlingspartiet (Saml) i Finland.jpg,Eero Suutari
+Q11856861,Eeva-Johanna Eloranta,female,1966-03-04,11,,,Eeva-Johanna Eloranta.jpg,Eeva-Johanna Eloranta
+Q11856872,Eeva-Maria Maijala,female,1967-12-23,11,,,Eva Maria Maijala vid Nordiska Radets session 2011 i Kopenhamn.jpg,
+Q11857612,Elsi Katainen,female,1966-12-17,11,,,,Elsi Katainen
+Q11858319,Erkki Kanerva,male,1944-01-02,11,2013-12-31,11,,
+Q11858673,Esko Helle,male,1938-05-28,11,2014-01-03,11,,
+Q11858705,Esko Kurvinen,male,1952-10-06,11,,,Esko Kurvinen.jpg,
+Q11861329,Hanna Markkula-Kivisilta,female,1965-02-10,11,,,Hanna Markkula-Kivisilta 4 2020.jpg,
+Q11861334,Hanna Mäntylä,female,1974-09-19,11,,,Hanna Mäntylä.JPG,Hanna Mäntylä
+Q11861387,Hannu Hoskonen,male,1957-08-23,11,,,Hannu Hoskonen 2020.jpg,Hannu Hoskonen
+Q11861660,Harry Wallin,male,1953-05-23,11,,,,
+Q11861811,Heikki Autto,male,1984-08-23,11,,,Autto-heikki-01.jpg,Heikki Autto
+Q11864567,Ilkka Taipale,male,1942-11-29,11,,,Ilkka Taipale 2006.jpg,Ilkka Taipale
+Q11865158,Ismo Soukola,male,1960-09-08,11,,,Ismo Soukola.jpg,
+Q11865456,Jaakko Blomberg,male,1942-04-26,11,,,,Jaakko Blomberg
+Q11865486,Jaakko Kalela,male,1944-01-24,11,,,Jaakko Kalela.IMGP5966.JPG,Jaakko Kalela
+Q11865586,Jaana Laitinen-Pesola,female,1958-09-06,11,,,Jaana Laitinen-Pesola.jpg,Jaana Laitinen-Pesola
+Q11865870,Jan Store,male,1948-04-01,11,,,,Jan Store
+Q11866066,Jari Leppä,male,1959-06-24,11,,,Jari Leppä 3 2020.jpg,Jari Leppä
+Q11866071,Jari Lindström,male,1965-06-28,11,,,Jari Lindström.jpg,Jari Lindström
+Q11866170,Jarmo Lindberg,male,1959-06-10,11,,,Jarmo Lindberg.jpg,Jarmo Lindberg
+Q11866673,Johanna Ojala-Niemelä,female,1974-10-01,11,,,Johanna Ojala-Niemelä 2.jpg,Johanna Ojala-Niemelä
+Q11866905,Joona Räsänen,male,1987-02-24,11,,,Joona Räsänen.jpg,
+Q11867451,Juhana Vartiainen,male,1958-05-28,11,,,Juhana Vartiainen.jpg,Juhana Vartiainen
+Q11867727,Jukka Kärnä,male,1955-11-14,11,,,,
+Q11868890,Kai Mykkänen,male,1979-07-31,11,,,Ulkomaankauppa- ja kehitysministeri Kai Mykkänen - 37101247681.jpg,Kai Mykkänen
+Q11870004,Kari Tolvanen,male,1961-07-24,11,,,Kari Tolvanen 2015.jpg,Kari Tolvanen
+Q11870505,Kauko Juhantalo,male,1942-04-28,11,2020-04-26,11,Kauko Juhantalo.jpg,Kauko Juhantalo
+Q11870525,Kauko Tuupainen,male,1940-05-08,11,,,Kauko Tuupainen.jpg,Kauko Tuupainen
+Q11873020,Krista Mikkonen,female,1972-11-15,11,,,Krista Mikkonen (cropped).jpg,Krista Mikkonen
+Q11873046,Kristiina Salonen,female,1977-06-07,11,,,Kristiina Salonen.jpg,Kristiina Salonen
+Q11874800,Lasse Männistö,male,1982-03-16,11,,,Lasse Männistö 2011.jpg,Lasse Männistö
+Q11875001,Laura Räty,female,1977-09-14,11,,,Laura Räty tammikuussa 2015.jpg,Laura Räty
+Q11875206,Lea Mäkipää,female,1947-05-06,11,,,Lea Mäkipää.jpg,Lea Mäkipää
+Q11875227,Leena Harkimo,female,1963-03-28,11,,,Leena Harkimo 2009 (cropped).jpg,Leena Harkimo
+Q11875437,Lenita Toivakka,female,1961-09-28,11,,,Lenita Toivakka-26.jpg,Lenita Toivakka
+Q11879931,Lyly Rajala,male,1951-04-21,11,,,Lyly Rajala.jpg,
+Q11880551,Maija Perho,female,1948-05-29,11,,,Maija Perho.jpg,Maija Perho
+Q11880880,Maria Kaisa Aula,female,1962-03-27,11,,,,
+Q11880985,Marja Tiura,female,1969-08-20,11,,,Marja tiura.jpg,Marja Tiura
+Q11881045,Markku Eestilä,male,1956-07-23,11,,,,Markku Eestilä
+Q11881079,Markku Mäntymaa,male,1954-04-17,11,2015-05-09,11,,
+Q11881081,Markku Pakkanen,male,1960-01-31,11,,,,
+Q11881126,Marko Kilpi,male,1969-05-19,11,,,Marko Kilpi I9272 C.JPG,Marko Kilpi
+Q11881193,Markus Mustajärvi,male,1963-02-24,11,,,Markus Mustajärvi.jpg,Markus Mustajärvi
+Q11881667,Matti Pennanen,male,1951-11-23,11,,,,
+Q11881696,Matti Saarinen,male,1947-06-16,11,2021-07-12,11,"Matti Saarinen, kansanedustaja.jpg",Matti Saarinen
+Q11881731,Matti Vanhala,male,1946-01-31,11,2004-09-29,11,,Matti Vanhala
+Q11882167,Merja Kuusisto,female,1954-12-04,11,,,,Merja Kuusisto
+Q11882565,Mika Kari,male,1967-08-19,11,,,,Mika Kari
+Q11882793,Mikko Savola,male,1981-11-29,11,,,Mikko Savola.jpg,Mikko Savola
+Q11882923,Minna Sirnö,female,1966-05-14,11,,,Minnasirno.jpg,Minna Sirnö
+Q11882983,Mirja Ryynänen,female,1944-11-11,11,,,,
+Q11882986,Mirja Vehkaperä,female,1976-04-06,11,,,,Mirja Vehkaperä
+Q11884029,Nasima Razmyar,female,1984-09-13,11,,,Nasima Razmyar Mediatori 2017 15.jpg,Nasima Razmyar
+Q11884366,Niilo Keränen,male,1950-05-19,11,,,,
+Q11885259,Olavi Ala-Nissilä,male,1949-08-02,11,,,Olavi ala-nissilä.jpg,Olavi Ala-Nissilä
+Q11885402,Olli-Poika Parviainen,male,1980-09-20,11,,,Olli-Poika Parviainen 2015.jpg,
+Q11885447,Olli Nepponen,male,1940-09-22,11,,,,
+Q11885903,Osmo Kokko,male,1954-11-17,11,,,,
+Q11886157,Outi Mäkelä,female,1974-08-16,11,,,Outi Mäkelä.jpg,
+Q11887019,Pauliina Viitamies,female,1969-03-11,11,,,Pauliina Viitamies 1.jpg,
+Q11887508,Pertti Hemmilä,male,1955-08-24,11,,,Pertti Hemmilä.jpg,
+Q11887549,Pertti Salovaara,male,1970-10-19,11,,,Pertti Salovaara.jpg,
+Q11887897,Pia Kauma,female,1966-10-20,11,,,"Pia Kauma - June 2014, Baku (cropped).jpg",Pia Kauma
+Q11887901,Pia Viitanen,female,1967-04-07,11,,,Pia Viitanen 21-4-2010.jpg,Pia Viitanen
+Q11888151,Pilvi Torsti,female,1976-01-06,11,,,Pilvi Torsti 2011 - O495.jpg,
+Q11889361,Päivi Kairamo-Hella,female,1964-04-10,11,,,UNCTAD SG MEETING DSC7869 (6460747673).jpg,Päivi Kairamo
+Q11889370,Päivi Lipponen,female,1967-06-25,11,,,Päivi Lipponen.jpg,
+Q11889812,Raimo Tammilehto,male,1943-02-05,11,,,,
+Q11890401,Reijo Hongisto,male,1962-04-16,11,,,Reijo Hongisto.jpg,Reijo Hongisto
+Q11890889,Risto Kalliorinne,male,1971-10-11,11,,,Risto Kalliorinne.jpg,Risto Kalliorinne
+Q11890975,Ritva Koukku-Ronde,female,1956-04-15,11,,,Ritva Koukku-Ronde in FFM.jpg,Ritva Koukku-Ronde
+Q11891805,Saara Karhu,female,1957-11-06,11,,,Saara Karhu.jpg,
+Q11892271,Sampsa Kataja,male,1972-04-03,11,,,Sampsa Kataja.jpg,
+Q11892381,Sanna Lauslahti,female,1966-04-07,11,,,"Sanna Lauslahti, Tuulikki Ukkola, Anne-Mari Virolainen.jpg",
+Q11892592,Satu Haapanen,female,1969-03-03,11,,,Satu Haapanen fra Grona forbundet (grona) i Finland.jpg,
+Q11893562,Simon Elo,male,1986-07-08,11,,,Simon Elo 145.jpg,Simon Elo
+Q11894673,Sulo Aittoniemi,male,1936-07-11,11,2016-06-16,11,,Sulo Aittoniemi
+Q11896934,Terhi Koulumies,female,1971-04-04,11,,,,Terhi Koulumies
+Q11897676,Timo Korhonen,male,1959-09-23,11,,,,
+Q11897991,Tom Packalén,male,1969-10-05,11,,,Tom Packalén 2015.JPG,Tom Packalén
+Q11898453,Tuija Nurmi,female,1958-03-19,11,,,,
+Q11898869,Tuula Haatainen,female,1960-02-11,11,,,Tuula Haatainen Feb 2020 (cropped).jpg,Tuula Haatainen
+Q11898875,Tuula Peltonen,female,1962-09-04,11,,,Tuula Peltonen.jpg,
+Q11898995,Tytti Tuppurainen,female,1976-02-18,11,,,2019 Tytti Tuppurainen (48137854342) (cropped).jpg,Tytti Tuppurainen
+Q11901588,Ville Vähämäki,male,1979-03-30,11,,,Ville Vähämäki.jpg,Ville Vähämäki
+Q11902424,Wille Rydman,male,1986-01-02,11,,,Wille Rydman 2014.jpg,Wille Rydman
+Q12117194,Лаура Рейніля,female,1950,9,,,,
+Q12121573,Мартті Ісоаро,male,,,,,,
+Q12163204,Тімо Юхані Репо,male,1945,9,,,,
+Q123130,Marko Asell,male,1970-05-08,11,,,,Marko Asell
+Q12358812,Aleksi Härkönen,male,1952,9,,,,
+Q12371726,Outi Ojala,female,1946-06-28,11,2017-05-16,11,"Outi Ojala (vanst) Finland, under Nordiska radets session i Kopenhamn 2006.jpg",Outi Ojala
+Q1284472,Silvia Modig,female,1976-07-08,11,,,Silvia Modig (49237019308) (cropped).jpg,Silvia Modig
+Q133361,Tanja Karpela,female,1970-08-22,11,,,Tanja Karpela 2009.jpg,Tanja Karpela
+Q1335319,Martti Korhonen,male,1953-02-27,11,,,Martti Korhonen.JPG,Martti Korhonen
+Q13532,Merikukka Forsius,female,1972-08-12,11,,,,Merikukka Forsius
+Q13569881,Jaakko Laajava,male,1947-06-23,11,,,Laajava.jpg,Jaakko Laajava
+Q1359004,Jyri Häkämies,male,1961-08-30,11,,,Jyri Häkämies.jpg,Jyri Häkämies
+Q13628790,Suna Kymäläinen,female,1976-09-15,11,,,Finlands Socialdemokratiska Parti (Sd).jpg,Suna Kymäläinen
+Q13639538,Johanna Jurva,female,1977-05-16,11,,,Johanna Jurva.jpg,Johanna Jurva
+Q15281152,Maria Ohisalo,female,1985-03-08,11,,,Maria Ohisalo portrait 2019.jpg,Maria Ohisalo
+Q1576649,Hannu Takkula,male,1963-11-20,11,,,Hannu Takkula.jpg,Hannu Takkula
+Q16158033,Touko Aalto,male,1984-04-01,11,,,Touko Aalto.jpg,Touko Aalto
+Q16164255,Jouni Backman,male,1959-03-30,11,,,Jouni Backman.jpg,
+Q16298585,Timo Harakka,male,1962-12-31,11,,,Hallituksen tiedotustilaisuus valmiuslain käyttöönotosta ja rajavalvonnasta 17.3.2020 (49669027028) (cropped).jpg,Timo Harakka
+Q16298785,Timo Heinonen,male,1975-02-15,11,,,,Timo Heinonen
+Q16298885,Kalevi Hemilä,male,1952-09-21,11,,,,
+Q16298985,Rakel Hiltunen,female,1940-07-02,11,,,Rakel Hiltunen.jpg,Rakel Hiltunen
+Q16299227,Antti Häkkänen,male,1985-01-16,11,,,Hakkanen+Antti+10.jpg,Antti Häkkänen
+Q16299288,Anna-Kaisa Ikonen,female,1977-04-04,11,,,Anna-Kaisa Ikonen 2019.jpg,Anna-Kaisa Ikonen
+Q16299674,Emma Kari,female,1983-05-15,11,,,Emma Kari.jpg,Emma Kari
+Q16299784,Inkeri Kerola,female,1957-03-18,11,,,,
+Q16299819,Pentti Kettunen,male,1942-02-25,11,,,Pentti Kettunen.jpg,
+Q16299877,Kimmo Kivelä,male,1961-10-05,11,,,Kimmo Kivelä.jpg,
+Q16299896,Timo Kivinen,male,1959-12-08,11,,,Timo Kivinen 2020 (cropped).jpg,Timo Kivinen
+Q16299982,Katri Komi,female,1968-05-11,11,,,,
+Q16300004,Jukka Kopra,male,1967-02-11,11,,,Jukka Kopra.jpg,Jukka Kopra
+Q16300064,Susanna Koski,female,1985-03-22,11,,,Susanna Koski.jpg,Susanna Koski
+Q16300128,Risto Kuisma,male,1947-01-01,11,,,Risto Kuisma vid Nordiska Radets session i Reykjavik. 2010-11-04.jpg,
+Q16980286,Anne Berner,female,1964-01-16,11,,,Anne Berner.jpg,Anne Berner
+Q16980516,Katja Hänninen,female,1980-01-26,11,,,,Katja Hänninen
+Q16984784,Mika Lintilä,male,1966-04-15,11,,,Mika-Lintilä-3.jpg,Mika Lintilä
+Q16984994,Maria Lohela,female,1978-06-11,11,,,Maria Lohela 2015.jpg,Maria Lohela
+Q16985005,Markus Lohi,male,1972-06-16,11,,,Markus Lohi 2020.jpg,Markus Lohi
+Q16986436,Sanna Marin,female,1985-11-16,11,,,Prime Minister of Finland Sanna Marin 2019 (cropped).jpg,Sanna Marin
+Q16988670,Jari Myllykoski,male,1959-06-27,11,,,Jari Myllykoski lokakuussa 2019.jpg,Jari Myllykoski
+Q16989307,Merja Mäkisalo-Ropponen,female,1958-04-20,11,,,Merja Mäkisalo-Ropponen.jpg,Merja Mäkisalo-Ropponen
+Q16989345,Kari Nenonen,male,1953-09-24,11,,,Kari Nenonen.JPG,
+Q16989423,Matti Nissinen,male,1956,9,,,Matti Nissinen.jpg,
+Q16989525,Pekka Oinonen,male,1944-01-23,11,,,,Pekka Oinonen
+Q16989598,Heli Paasio,female,1972-11-24,11,,,Helipaasio5.jpg,Heli Paasio
+Q16989600,Sirpa Paatero,female,1964-09-09,11,,,Sirpa Paatero-16.jpg,Sirpa Paatero
+Q16989814,Kirsi Piha,female,1967-10-14,11,,,KirsiPihaCropped.jpg,Kirsi Piha
+Q16989951,Mikko Puumalainen,male,1961-03-22,11,,,Mikko Puumalainen (cropped).jpg,
+Q16990056,Maija Rask,female,1951-01-28,11,,,,Maija Rask
+Q16990095,Pekka Ravi,male,1949-11-26,11,,,,
+Q16990187,Markku Rossi,male,1956-03-05,11,,,,Markku Rossi
+Q16990373,Janne Sankelo,male,1967-01-01,11,,,Janne Sankelo fra Samlingspartiet (Saml).jpg,Janne Sankelo
+Q16990389,Hanna Sarkkinen,female,1988-04-18,11,,,Hanna Sarkkinen.jpg,Hanna Sarkkinen
+Q16990565,Juhani Sjöblom,male,1949-09-04,11,,,Juhani Sjöblom.jpg,
+Q16990575,Riikka Slunga-Poutsalo,female,1971-04-23,11,,,Riikka Slunga-Poutsalo.JPG,Riikka Slunga-Poutsalo
+Q16990633,Marjatta Stenius-Kaukonen,female,1947-07-19,11,,,,
+Q16990759,Hanna Tainio,female,1960-09-20,11,,,,
+Q16990780,Mari-Leena Talvitie,female,1980-06-11,11,,,Mari-Leena Talvitie puhumassa.png,Mari-Leena Talvitie
+Q16990896,Martti Tiuri,male,1925-11-13,11,2016-03-25,11,Marttitiuri2010.jpg,
+Q16990924,Maria Tolppanen,female,1952-11-24,11,,,"Maria Tolppanen, Sannfinlandarna Finland.jpg",Maria Tolppanen
+Q16990945,Pertti Torstila,male,1946-02-13,11,,,Pertti Torstila.jpg,Pertti Torstila
+Q16991016,Ano Turtiainen,male,1967-08-25,11,,,Ano Turtiainen 2020 (cropped).tif,Ano Turtiainen
+Q16991064,Tuulikki Ukkola,female,1943-11-28,11,2019-05-28,11,Tuulikki Ukkola.jpg,Tuulikki Ukkola
+Q16991103,Raija Vahasalo,female,1961-03-10,11,,,RaijaVahasalo.jpg,
+Q16991148,Jukka Valtasaari,male,1940,9,,,Jukka Valtasaari.jpg,
+Q16999977,Mika Raatikainen,male,1961-11-07,11,,,Mikaraatikainenhelsinki-2019-02-12.jpg,Mika Raatikainen
+Q1711532,Juha Sipilä,male,1961-04-25,11,,,"Juha Sipila in Stockholm, Sweden on April 17, 2018 (cropped).JPG",Juha Sipilä
+Q17382244,Elina Valtonen,female,1981-10-23,11,,,Elinalepomäki.jpg,Elina Valtonen
+Q17382989,Mikael Palola,male,1976-01-13,11,,,MikaelNetti.jpg,
+Q17384292,Ville Tavio,male,1984-06-25,11,,,Ville Tavio Helsinki 2015.jpg,Ville Tavio
+Q182043,Matti Vanhanen,male,1955-11-04,11,,,2020-03-02 Matti Vanhanen.jpg,Matti Vanhanen
+Q1854955,Mauri Pekkarinen,male,1947-10-06,11,,,Naringsminister Mauri Pekkarinen Finland.jpg,Mauri Pekkarinen
+Q18632341,Minna Arve,female,1974,9,,,Minna Arve.JPG,Minna Arve
+Q18632676,Veronika Honkasalo,female,1975-07-07,11,,,Veronika Honkasalo.jpg,Veronika Honkasalo
+Q18632892,Atte Kaleva,male,1979-01-10,11,,,Atte Kaleva-351.jpg,
+Q18633181,Mikko Kärnä,male,1980-12-08,11,,,Mikko Kärnä.jpg,Mikko Kärnä
+Q18633498,Ozan Yanar,male,1987-05-03,11,,,Ozan Yanar.jpg,Ozan Yanar
+Q18633801,Sebastian Tynkkynen,male,1989-03-08,11,,,Sebastian Tynkkynen.jpg,Sebastian Tynkkynen
+Q18706421,Mai Kivelä,female,1982-12-20,11,,,MaiKivela (cropped).jpg,Mai Kivelä
+Q194058,Erkki Liikanen,male,1950-09-19,11,,,"Erkki Liikanen at Bank of Finland seminar, 2016 01.jpg",Erkki Liikanen
+Q19827925,Mats Löfström,male,1983-10-27,11,,,Mats Löfström 2020.jpg,Mats Löfström
+Q19842585,Veera Ruoho,female,1969-08-04,11,,,,Veera Ruoho
+Q20251257,Anders Adlercreutz,male,1970-04-26,11,,,Anders Adlercreutz 2020.jpg,Anders Adlercreutz
+Q20251436,Tiina Elovaara,female,1986-12-11,11,,,,Tiina Elovaara
+Q20251571,Pertti Hakanen,male,1969-04-08,11,,,,
+Q20251577,Hanna Halmeenpää,female,1976-03-07,11,,,Hanna Halmeenpää.JPG,Hanna Halmeenpää
+Q20251661,Laura Huhtasaari,female,1979-03-30,11,,,Laura Huhtasaari.jpg,Laura Huhtasaari
+Q20251745,Marisanna Jarva,female,1981-08-11,11,,,,
+Q20252143,Pia Lohikoski,female,1977-09-05,11,,,Pia Lohikoski.jpg,Pia Lohikoski
+Q20252282,Leena Meri,female,1968-04-12,11,,,Leena Meri.jpeg,Leena Meri
+Q20252447,Ilmari Nurminen,male,1991-02-24,11,,,Hallituspuolueiden yhteinen ilmastokokous 3.2.2020 Ilmastopolitiikka ja työllisyys - työryhmä (49483415706) (cropped).jpg,Ilmari Nurminen
+Q20252561,Ulla Parviainen,female,1962-04-11,11,,,,
+Q20252907,Sami Savio,male,1975-09-23,11,,,Samisaviohelsinki-2017-11-16.jpg,Sami Savio
+Q20253029,Joakim Strand,male,1982-08-02,11,,,,Joakim Strand
+Q20253109,Martti Talja,male,1951-07-29,11,,,Martti Talja.jpg,Martti Talja
+Q20253375,Eerikki Viljanen,male,1975-04-21,11,,,,Eerikki Viljanen
+Q20253945,Kari Kulmala,male,1965-04-21,11,,,,
+Q20253947,Katri Kulmuni,female,1987-09-04,11,,,Katri Kulmuni.jpg,Katri Kulmuni
+Q20253954,Antero Laukkanen,male,1958-05-30,11,,,,Antero Laukkanen
+Q20254037,Rami Lehto,male,1973-03-15,11,,,Ramilehtohelsinki-2019-01-10.jpg,Rami Lehto
+Q20254067,Juha Pylväs,male,1971-03-24,11,,,Kansanedustajajuhapylväs.jpg,Juha Pylväs
+Q20254151,Pekka Orpana,male,,,,,,
+Q20254160,Satu Taavitsainen,female,1977-01-06,11,,,,
+Q20254165,Sari Tanus,female,1964-02-22,11,,,,Sari Tanus
+Q20254214,Sari Raassina,female,1963-04-19,11,,,,Sari Raassina
+Q20254232,Jari Ronkainen,male,1972-05-28,11,,,Jarironkainenhki-2019-01-30.jpg,Jari Ronkainen
+Q20254262,Matti Semi,male,1957-01-26,11,,,Matti Semi.jpg,Matti Semi
+Q20254868,Jouni Ovaska,male,1986-09-09,11,,,Ovaska 5884.jpg,Jouni Ovaska
+Q20255240,Jani Mäkelä,male,1976-10-21,11,,,Janimakelahelsinki-2019-02-06 (cropped).jpg,Jani Mäkelä
+Q20255727,Saara-Sofia Sirén,female,1986-07-10,11,,,,Saara-Sofia Sirén
+Q20257511,Petri Honkonen,male,1987-07-29,11,,,Petri Honkonen (52036481427) (cropped).jpg,Petri Honkonen
+Q2028304,Oras Tynkkynen,male,1977-09-25,11,,,Oras Tynkkynen on climate change.jpg,Oras Tynkkynen
+Q20560096,Christer Michelsson,male,1957-03-27,11,,,,
+Q205698,Suvi-Anne Siimes,female,1963-06-01,11,,,Suvi-Anne Siimes.jpg,Suvi-Anne Siimes
+Q21683679,Juha Virtanen,male,,,,,,
+Q2270153,Gunnar Jansson,male,1944-06-25,11,,,Gunnarjansson.jpg,
+Q22919212,Mikko Hautala,male,1972-05-10,11,,,Mikko Hautala.jpg,
+Q229517,Anneli Jäätteenmäki,female,1955-02-11,11,,,Jäätteenmäki Anneli 2014-02-06 1.jpg,Anneli Jäätteenmäki
+Q23040773,Tuomas Pöysti,male,1970-05-02,11,,,Hallituksen neuvottelut Säätytalossa 3.5.2020 (49849289856).jpg,
+Q23040843,Unto Turunen,male,1932,9,,,,Unto Turunen
+Q2332874,Krista Kiuru,female,1974-08-05,11,,,Hallituksen infotilaisuus koronavirustilanteesta 19.3.2020 (49675829667) (cropped).jpg,Krista Kiuru
+Q233299,Jaana Pelkonen,female,1977-01-27,11,,,Jaana Pelkonen (cropped).jpg,Jaana Pelkonen
+Q2334883,Maria Guzenina-Richardson,female,1969-01-12,11,,,Maria Guzenina-Richardson A4.jpg,Maria Guzenina
+Q2360756,Eero Heinäluoma,male,1955-07-04,11,,,Eero Heinäluoma 2009-05-24.jpg,Eero Heinäluoma
+Q2361522,Benjamin Bassin,male,1944-01-18,11,2018-03-27,11,,Benjamin Bassin
+Q2366466,Ville Niinistö,male,1976-07-30,11,,,Ville Niinistö 2009.jpg,Ville Niinistö
+Q23908004,Hussein al-Taee,male,1983-05-19,11,,,Hussein al-Taee.jpg,Hussein al-Taee
+Q241376,Jutta Urpilainen,female,1975-08-04,11,,,Jutta Urpilainen (cropped).jpg,Jutta Urpilainen
+Q241412,Marjo Matikainen-Kallström,female,1965-02-03,11,,,Marjomatikainenkalström.jpg,Marjo Matikainen-Kallström
+Q241563,Sari Essayah,female,1967-02-21,11,,,Sari Essayah cropped.jpg,Sari Essayah
+Q2434917,Timo P. Nieminen,male,1944-01-20,11,,,Timo p nieminen.jpg,
+Q2475123,Jussi Pajunen,male,1954-09-05,11,,,Jussi Pajunen.jpg,Jussi Pajunen
+Q24827441,Juho Kautto,male,1971-07-23,11,,,,Juho Kautto
+Q25369895,Veronica Rehn-Kivi,female,1956-02-10,11,,,,Veronica Rehn-Kivi
+Q25462004,Janne Heikkinen,male,1990-05-16,11,,,Janne Heikkinen.jpg,Janne Heikkinen (politician)
+Q256001,Heidi Hautala,female,1955-11-14,11,,,Heidi Hautala A4.jpg,Heidi Hautala
+Q2565423,Tarja Filatov,female,1963-08-09,11,,,Tarja Filatov.jpg,Tarja Filatov
+Q260391,Anni Sinnemäki,female,1973-07-20,11,,,Anni Sinnemäki 2014.JPG,Anni Sinnemäki
+Q2605274,Jan-Erik Enestam,male,1947-03-12,11,,,Enestam.jpg,Jan-Erik Enestam
+Q2613311,Jukka Gustafsson,male,1947-01-02,11,,,Jukka Gustafsson A4.jpg,Jukka Gustafsson
+Q2614054,Jari Koskinen,male,1960-06-11,11,,,Jari Koskinen.jpg,Jari Koskinen
+Q2615997,Ari Puheloinen,male,1951-12-26,11,,,Ari puheloinen.jpg,Ari Puheloinen
+Q264823,Satu Hassi,female,1951-06-03,11,,,"Satu Hassi, Finland-MIP-Europaparlament-by-Leila-Paul-1.jpg",Satu Hassi
+Q26922041,Garth Castrén,male,1939,9,,,,Garth Castrén
+Q2850448,Anna-Maja Henriksson,female,1964-01-07,11,,,Anna-Maja Henriksson-12 (cropped).jpg,Anna-Maja Henriksson
+Q2851141,Anne Holmlund,female,1964-04-18,11,,,Anne Holmlund.jpg,Anne Holmlund
+Q2868553,Astrid Thors,female,1957-11-06,11,,,Astridthors2.jpg,Astrid Thors
+Q28720770,Päivi Laajala,female,1961-05-21,11,,,,
+Q28778236,Mia Laiho,female,1969-10-28,11,,,MiaLaiho.jpg,Mia Laiho
+Q28778269,Inka Hopsu,female,1976-09-25,11,,,Inka Hopsu.jpg,Inka Hopsu
+Q28778270,Saara Hyrkkö,female,1987-08-26,11,,,,Saara Hyrkkö
+Q28778835,Mari Holopainen,female,1981-01-31,11,,,Mari Holopainen.jpg,Mari Holopainen
+Q28779980,Jari Koskela,male,1956-03-11,11,,,Jarikoskelahelsinki-2019-11-29.jpg,Jari Koskela
+Q28780113,Juha Mäenpää,male,1971-10-25,11,,,,Juha Mäenpää
+Q28780301,Jussi Wihonen,male,1963-02-20,11,,,,Jussi Wihonen
+Q28780350,Seppo Eskelinen,male,1960-07-04,11,,,,Seppo Eskelinen
+Q28781173,Riitta Mäkinen,female,1979-08-02,11,,,,Riitta Mäkinen
+Q28782542,Jouni Kotiaho,male,1958-02-23,11,,,Jounikotiahohelsinki-2020-03-12.jpg,Jouni Kotiaho
+Q28782557,Piritta Rantanen,female,1979-07-19,11,,,,Piritta Rantanen
+Q28783680,Minna Reijonen,female,1972-10-13,11,,,,Minna Reijonen
+Q28783890,Tuomas Kettunen,male,1988-01-09,11,,,,Tuomas Kettunen
+Q28783917,Sanna Antikainen,female,1988-10-03,11,,,,Sanna Antikainen
+Q28783932,Hanna Huttunen,female,1969-04-14,11,,,Hanna Huttunen 2020.jpg,Hanna Huttunen
+Q28784210,Veijo Niemi,male,1954-06-04,11,,,Veijoniemihelsinki-2019-12-17.jpg,Veijo Niemi
+Q28784346,Hanna Holopainen,female,1976-10-08,11,,,,Hanna Holopainen
+Q28784757,Pihla Keto-Huovinen,female,1974-09-19,11,,,,Pihla Keto-Huovinen
+Q28784989,Sandra Bergqvist,female,1980-04-14,11,,,2018-11-15 Sandra Bergqvist Q9A0340.jpg,Sandra Bergqvist
+Q28785259,Vilhelm Junnila,male,1982-03-06,11,,,Vilhelm Junnila vaalikuva 2019.jpg,Vilhelm Junnila
+Q28785451,Ville Valkonen,male,1988,9,,,,
+Q28785851,Petri Huru,male,1966-09-19,11,,,Petri Huru 2020.jpg,Petri Huru
+Q28786659,Jenni Pitko,female,1986-08-15,11,,,,Jenni Pitko
+Q28786885,Matias Marttinen,male,1990-06-25,11,,,,Matias Marttinen
+Q28787067,Mikko Lundén,male,1979-11-14,11,,,Mikko Lunden.jpg,Mikko Lundén
+Q28787666,Pasi Kivisaari,male,1971-10-23,11,,,Pasi Kivisaari 2020.jpg,Pasi Kivisaari
+Q28787667,Hanna-Leena Mattila,female,1968-09-01,11,,,Hanna-Leena Mattila.jpg,Hanna-Leena Mattila
+Q28787888,Matti Torvinen,male,1957-01-30,11,,,,Matti Torvinen
+Q28788123,Heikki Vestman,male,1985-04-08,11,,,Heikki Vestman.jpg,Heikki Vestman
+Q28788780,Ruut Sjöblom,female,1976-08-24,11,,,,Ruut Sjöblom
+Q28788882,Johannes Yrttiaho,male,1980-01-22,11,,,Johannes Yrttiaho 2020.jpg,Johannes Yrttiaho
+Q28789460,Matias Mäkynen,male,1990-09-01,11,,,Matias Mäkynen.jpg,Matias Mäkynen
+Q28789489,Jukka Mäkynen,male,1961-04-27,11,,,,Jukka Mäkynen
+Q28789847,Kaisa Juuso,female,1960-09-23,11,,,,Kaisa Juuso
+Q28791337,Tiina Elo,female,1971-01-21,11,,,Tiina Elo.jpg,Tiina Elo
+Q28791511,Niina Malm,female,1982-05-03,11,,,,Niina Malm
+Q28791592,Kim Berg,male,1974-07-09,11,,,Kim Berg 2020.jpg,Kim Berg
+Q28791668,Jenna Simula,female,1989-09-13,11,,,,Jenna Simula
+Q29024,Esko Aho,male,1954-05-20,11,,,Esko Aho-crop.jpg,Esko Aho
+Q29110,Paavo Lipponen,male,1941-04-23,11,,,Paavo Lipponen 2004.jpg,Paavo Lipponen
+Q29207,Sauli Niinistö,male,1948-08-24,11,,,Sauli Niinistö at the Enthronement of Naruhito (1).jpg,Sauli Niinistö
+Q29213,Tarja Halonen,female,1943-12-24,11,,,Tarja Halonen 1c389 8827-2.jpg,Tarja Halonen
+Q29230,Martti Ahtisaari,male,1937-06-23,11,,,Martti Ahtisaari 2012-04-16.jpg,Martti Ahtisaari
+Q293122,Eva Biaudet,female,1961-02-27,11,,,Eva Biaudet.jpg,Eva Biaudet
+Q29418984,Pekka Aittakumpu,male,1981-06-30,11,,,,Pekka Aittakumpu
+Q29419251,Kirsti Narinen,female,1960,9,,,Kirsti Narinen 2017.jpg,Kirsti Narinen
+Q29419256,Hanna Lehtinen,female,1958-05-09,11,,,,Hanna Lehtinen
+Q29419261,Arja Makkonen,female,1958,9,,,Arja Makkonen.jpg,Arja Makkonen
+Q29419266,Kirsti Kauppi,female,1957,9,,,Finnish Ambassador Kauppi 2018 (42718145204) (cropped).jpg,Kirsti Kauppi
+Q29419272,Nina Vaskunlahti,female,,,,,Nina Vaskunlahti 2020.jpg,Nina Vaskunlahti
+Q29419275,Tuula Yrjölä,female,1962-05-14,11,,,"Tuula Yrjölä, Director of the OSCE Conflict Prevention Centre, First Committee Meeting, Vienna, 21 February 2020.jpg",Tuula Yrjölä
+Q29419365,Satu Suikkari-Kleven,female,,,,,,
+Q29419368,Maria Serenius,female,,,,,Maria Serenius in 2012.jpg,Maria Serenius
+Q29419381,Kirsti Eskelinen,female,,,,,,Kirsti Eskelinen
+Q294411,Olli Rehn,male,1962-03-31,11,,,Olli Rehn by Moritz Kosinsky 2.jpg,Olli Rehn
+Q2977831,Ben Zyskowicz,male,1954-05-24,11,,,Ben Zyskowicz20110226.jpg,Ben Zyskowicz
+Q297829,Tuija Brax,female,1965-01-06,11,,,Tuijabrax.jpg,Tuija Brax
+Q2983767,Henna Virkkunen,female,1972-06-04,11,,,Henna Virkkunen.jpg,Henna Virkkunen
+Q2983780,Paula Risikko,female,1960-06-04,11,,,Paula Risikko vid Nordiska Radets session 2011 i Kopenhamn.jpg,Paula Risikko
+Q29892746,Eveliina Heinäluoma,female,1988-02-27,11,,,,Eveliina Heinäluoma
+Q29892752,Atte Harjanne,male,1984-07-13,11,,,,Atte Harjanne
+Q29892780,Noora Koponen,female,1983-07-12,11,,,Noora koponen kuva.jpg,Noora Koponen
+Q29892910,Riikka Purra,female,1977-06-13,11,,,Riikkapurra.jpg,Riikka Purra
+Q29893053,Johan Kvarnström,male,1986-03-27,11,,,,Johan Kvarnström
+Q29893152,Sofia Virta,female,1990-06-21,11,,,Sofia Virta 2.jpg,Sofia Virta
+Q29893620,Hilkka Kemppi,female,1988-05-19,11,,,Hilkka Kemppi.jpg,Hilkka Kemppi
+Q29893708,Mirka Soinikoski,female,1975-12-16,11,,,Mirka Soinikoski 2019.jpg,Mirka Soinikoski
+Q29894038,Iiris Suomela,female,1994-05-01,11,,,Iiris Suomela 2020.jpg,Iiris Suomela
+Q29894042,Veikko Vallin,male,1962-05-15,11,,,Veikkovallinhelsinki-2019-12-17.jpg,Veikko Vallin
+Q29894222,Paula Werning,female,1976-04-25,11,,,,Paula Werning
+Q29894910,Mauri Peltokangas,male,1966-02-11,11,,,MauriPeltokangas.jpg,Mauri Peltokangas
+Q29895101,Anders Norrback,male,1963-09-14,11,,,,Anders Norrback
+Q29895294,Joonas Könttä,male,1989-12-13,11,,,,Joonas Könttä
+Q29895299,Bella Forsgrén,female,1992-02-10,11,,,Bella kevät2019.jpg,Bella Forsgrén
+Q29895819,Mikko Kinnunen,male,1967-07-16,11,,,,Mikko Kinnunen
+Q29895825,Hannu Hälinen,male,,,,,,
+Q29897677,Sakari Puisto,male,1976-12-19,11,,,Sakari Puisto 022.jpg,Sakari Puisto
+Q29897704,Sheikki Laakso,male,1968-09-23,11,,,,Sheikki Laakso
+Q29904874,Jari Kinnunen,male,1960,9,,,,
+Q29957553,Suldaan Said Ahmed,male,1993,9,,,,Suldaan Said Ahmed
+Q29957554,Mari Rantanen,female,1976-03-29,11,,,,Mari Rantanen
+Q30174161,Tarja Laitiainen,female,,,,,,Tarja Laitiainen
+Q30174192,Terhi Hakala,female,,,,,"The Ambassador-Designate of Finland, Ms. Terhi Hakala presented her credentials to the President, Smt. Pratibha Devisingh Patil, at Rashtrapati Bhavan, in New Delhi on September 24, 2009.jpg",Terhi Hakala
+Q3040284,Jussi Halla-aho,male,1971-04-27,11,,,Jussi Halla-aho 2018.jpg,Jussi Halla-aho
+Q3071916,Suvi Lindén,female,1962-04-19,11,,,Suvi Lindén.jpg,Suvi Lindén
+Q3098641,Seppo Kääriäinen,male,1948-03-29,11,,,Seppo Kääriäinen with Donald Rumsfeld (cropped) - Seppo Kääriäinen.jpg,Seppo Kääriäinen
+Q3099873,Jacob Söderman,male,1938-03-19,11,,,Jacob Söderman.jpg,Jacob Söderman
+Q3116526,Kike Elomaa,female,1955-07-16,11,,,Kike Elomaa Vihreillä Niityillä.jpg,Ritva Elomaa
+Q317485,Pekka Haavisto,male,1958-03-23,11,,,Ulkoministeri Pekka Haaviston ja puolutstusministeri Antti Kaikkosen info 15.5.2022 (52075045954).jpg,Pekka Haavisto
+Q3180769,Paula Lehtomäki,female,1972-11-29,11,,,Paula lehtomaki b6dn202 1778.jpg,Paula Lehtomäki
+Q3190637,Jyrki Yrttiaho,male,1952-05-04,11,2021-02-17,11,Jyrki Yrttiaho.jpg,Jyrki Yrttiaho
+Q3192165,Kalervo Kummola,male,1945-11-21,11,,,Kalervo Kummola.jpg,Kalervo Kummola
+Q32219,Jan Vapaavuori,male,1965-04-03,11,,,Jan Vapaavuori pormestari.jpg,Jan Vapaavuori
+Q3228984,Leena Luhtanen,female,1941-02-12,11,,,Leena Luhtanen.jpg,Leena Luhtanen
+Q3240696,Liisa Hyssälä,female,1948-12-18,11,,,Liisa Hyssälä.JPG,Liisa Hyssälä
+Q326512,Pertti Salolainen,male,1940-10-19,11,,,Pertti Salolainen.jpg,Pertti Salolainen
+Q3267077,Jani Toivola,male,1977-11-27,11,,,Jani Toivola 2015.jpg,Jani Toivola
+Q3357738,Gustav Hägglund,male,1938-09-06,11,,,Gustav Hägglund.jpg,Gustav Hägglund
+Q3360062,Kimmo Sasi,male,1952-02-21,11,,,Kimmo Sasi (Saml) Finland (3).jpg,Kimmo Sasi
+Q346017,Toimi Kankaanniemi,male,1950-02-26,11,,,Toimi Kankaanniemi 2014.jpg,Toimi Kankaanniemi
+Q3485303,Sirpa Asko-Seljavaara,female,1939-10-12,11,,,Asko-Seljavaara.JPG,Sirpa Asko-Seljavaara
+Q3497402,Ulla-Maj Wideroos,female,1951-10-22,11,,,Wideroos.jpg,Ulla-Maj Wideroos
+Q3542205,Tuomo Puumala,male,1982-04-03,11,,,Tuomo Puumala 2015.JPG,Tuomo Puumala
+Q355463,Timo Soini,male,1962-05-30,11,,,Timo Soini.jpg,Timo Soini
+Q3735466,Juhani Kaskeala,male,1946-07-26,11,,,Juhani Kaskeala toimintakertomus.jpg,Juhani Kaskeala
+Q3735621,Outi Alanko-Kahiluoto,female,1966-06-14,11,,,Alanko-kahiluoto (cropped).jpg,Outi Alanko-Kahiluoto
+Q3735752,Eva-Riitta Siitonen,female,1940-05-31,11,,,Eva-Riitta Siitonen Tampere.jpg,Eva-Riitta Siitonen
+Q3736022,Veltto Virtanen,male,1951-05-18,11,,,Veltto Virtanen 2010.jpg,Veltto Virtanen
+Q3781266,Johannes Koskinen,male,1954-12-10,11,,,Johannes Koskinen 2.2020 (cropped).jpg,Johannes Koskinen
+Q3809554,Markus Lyra,male,1945-08-03,11,,,,Markus Lyra
+Q4012912,Ville Kaunisto,male,1982-03-19,11,,,Ville Kaunisto3.jpg,Ville Kaunisto
+Q4067636,Matti Anttonen,male,1957-11-27,11,,,Vuoden alumni Matti Anttonen.jpg,Matti Anttonen
+Q4204128,Tytti Isohookana-Asunmaa,female,1947-09-24,11,,,,Tytti Isohookana-Asunmaa
+Q433545,Pauli Kiuru,male,1962-12-08,11,,,Pauli Kiuru.jpg,Pauli Kiuru
+Q4349014,Anu Vehviläinen,female,1963-09-09,11,,,Anu Vehviläinen 2010 (cropped).jpg,Anu Vehviläinen
+Q4353146,Teuvo Hakkarainen,male,1960-04-12,11,,,Teuvo Hakkarainen.jpg,Teuvo Hakkarainen
+Q4357123,Elisabeth Nauclér,female,1952-03-07,11,,,,Elisabeth Nauclér
+Q4357345,Pentti Oinonen,male,1952-06-11,11,,,,Pentti Oinonen
+Q4357930,Sofia Vikman,female,1983-05-12,11,,,Sofia vikman.jpg,Sofia Vikman
+Q4357986,Heli Järvinen,female,1963-05-31,11,,,Heli Järvinen.jpg,Heli Järvinen
+Q4358308,Martti Mölsä,male,1952-04-02,11,,,Martti Mölsä.jpg,Martti Mölsä
+Q438744,Riitta Uosukainen,female,1942-06-18,11,,,Riitta Uosukainen.jpg,Riitta Uosukainen
+Q438819,Päivi Räsänen,female,1959-12-19,11,,,Päivi Räsänen 2015.jpg,Päivi Räsänen
+Q444761,Tarja Cronberg,female,1943-06-29,11,,,Tarja Cronberg Finnish MEP 2014.jpg,Tarja Cronberg
+Q4497150,Harry Helenius,male,1946-06-22,11,2019-03-14,11,,Harry Helenius
+Q458219,Riitta Myller,female,1956-07-12,11,,,,Riitta Myller
+Q460600,Liisa Jaakonsaari,female,1945-09-02,11,,,Liisa Jaakonsaari - Wiki Loves Parliament - 2014 - P1760851.jpg,Liisa Jaakonsaari
+Q460676,Merja Kyllönen,female,1977-01-25,11,,,Merja Kyllönen.jpg,Merja Kyllönen
+Q4609356,Simo Rundgren,male,1953-06-28,11,,,Simo Rundgren.jpg,Simo Rundgren
+Q4768564,Anne Louhelainen,female,1965-01-08,11,,,,Anne Louhelainen
+Q4770759,Anssi Joutsenlahti,male,1943-09-17,11,,,Anssi Joutsenlahti.jpg,Anssi Joutsenlahti
+Q4826119,Mikko lähteenmäki,male,1951-05-01,11,,,Mikkoalatalo12.JPG,Mikko Alatalo
+Q4935864,Li Andersson,female,1987-05-13,11,,,Li-Andersson-2 13AUG2019 (cropped).jpg,Li Andersson
+Q4947758,Maarit Feldt-Ranta,female,1968-04-26,11,2019-11-27,11,Maarit Feldt-Ranta.jpg,Maarit Feldt-Ranta
+Q4949953,Christina Gestrin,female,1967-01-12,11,,,Christina Gestrin ordforande for BSPC vid deras mote i Mariehamn pa aland.jpg,Christina Gestrin
+Q4959500,Anna Kontula,female,1977-03-30,11,,,Anna Kontula (cropped).jpg,Anna Kontula
+Q4959572,Laila Koskela,female,1949-03-03,11,,,,
+Q4968788,Sinikka Laisaari,female,1947-03-06,11,,,Sinikka Mönkäre.jpg,Sinikka Mönkäre
+Q4970578,Mikaela Nylander,female,1970-03-27,11,,,Joulurauhan julistus Porvoo 2014 09.JPG,
+Q4981024,Anneli Kiljunen,female,1957-09-17,11,,,,Anneli Kiljunen
+Q4984722,Anne-Mari Virolainen,female,1965-12-05,11,,,Anne-Mari Virolainen.jpg,Anne-Mari Virolainen
+Q503143,Alexander Stubb,male,1968-04-01,11,,,"Alexander Stubb Oct, 2014.jpg",Alexander Stubb
+Q50792192,Erik Lundberg,male,,,,,,
+Q52611,Lasse Virén,male,1949-07-22,11,,,Lasse Virén c1974.jpg,Lasse Virén
+Q530093,Susanna Haapoja,female,1966-11-13,11,2009-05-30,11,,Susanna Haapoja
+Q5347129,Eero Lehti,male,1944-08-23,11,,,Eero Lehti.jpg,Eero Lehti
+Q536371,Tommy Tabermann,male,1947-12-03,11,2010-07-01,11,Tommy Tabermann (sd) Finland.jpg,Tommy Tabermann
+Q5389693,Erkki Virtanen,male,1952-08-15,11,,,,Erkki Virtanen
+Q5391948,Lauri Lyly,male,1953-02-20,11,,,Lauri Lyly.jpg,Lauri Lyly
+Q5395927,Reijo Kallio,male,1951-02-08,11,,,,
+Q5399496,Vesa-Matti Saarakkala,male,1984-03-24,11,,,Vesa-Matti Saarakkala.jpg,Vesa-Matti Saarakkala
+Q5405332,Sari Palm,female,1966-05-17,11,,,,Sari Palm
+Q5406165,Sanni Grahn-Laasonen,female,1983-05-04,11,,,Opetusministeri Sanni Grahn-Laasonen - 37011781032 (cropped).jpg,Sanni Grahn-Laasonen
+Q5406257,Juho Eerola,male,1975-02-24,11,,,Juho Eerola.jpg,Juho Eerola
+Q5406346,Terhi Peltokorpi,female,1975-06-25,11,,,,Terhi Peltokorpi
+Q5406632,Jarmo Viinanen,male,1959-02-23,11,,,,Jarmo Viinanen
+Q5407283,Pekka Puska,male,1945-12-18,11,,,Pekka Puska.JPG,Pekka Puska
+Q5409164,Matti Kauppila,male,1945-08-23,11,,,Matti Kauppila.jpg,
+Q5410024,Olli Immonen,male,1986-02-18,11,,,Olli Immonen.jpg,Olli Immonen
+Q5411779,Kalle Jokinen,male,1961-08-07,11,,,Kalle Jokinen Hennan avajaisissa 2017-12-10.jpg,Kalle Jokinen
+Q5413089,Harry Harkimo,male,1953-11-02,11,,,Hjallis Harkimo.jpg,Hjallis Harkimo
+Q5413287,Katja Taimela,female,1974-11-23,11,,,Katjataimela1.JPG,Katja Taimela
+Q5413438,Eila Tiainen,female,1945-12-24,11,,,,
+Q5413481,Miapetra Kumpula-Natri,female,1972-05-19,11,,,Miapetra Kumpula-Natri cropped.jpg,Miapetra Kumpula-Natri
+Q546665,Susanna Huovinen,female,1972-06-10,11,,,Susanna Huovinen Finland BSPC 19 Mariehamn aland 2010 (cropped).jpg,Susanna Huovinen
+Q5481733,Jukka Vihriälä,male,1945-12-01,11,,,,Jukka Vihriälä
+Q5485318,Ville Skinnari,male,1974-02-21,11,,,Ville Skinnari.jpg,Ville Skinnari
+Q5486312,Jussi Saramo,male,1979-07-09,11,,,Jussi Saramo keväällä 2020.jpg,Jussi Saramo
+Q5487046,Tapani Mäkinen,male,1965-03-19,11,,,Tapani Mäkinen.jpg,
+Q5487785,Heikki Talvitie,male,1939-09-05,11,,,Heikki Talvitie.JPG,Heikki Talvitie
+Q5488102,Raimo Piirainen,male,1952-12-22,11,,,,Raimo Piirainen
+Q5489994,Hannakaisa Heikkinen,female,1974-04-07,11,,,,Hannakaisa Heikkinen
+Q55393934,Eija Nivala,female,1967-02-27,11,,,,Eija Nivala
+Q5579704,Thomas Blomqvist,male,1965-01-15,11,,,Thomas Blomqvist.jpg,Thomas Blomqvist
+Q560930,Paavo Väyrynen,male,1946-09-02,11,,,Paavo Väyrynen 2009.jpg,Paavo Väyrynen
+Q5648706,Hanna Kosonen,female,1976-02-27,11,,,Hanna Kosonen 18.3.2020 (cropped).jpg,Hanna Kosonen
+Q57166525,Roberto Tanzi-Albi,male,,,,,,
+Q57166549,Aapo Pölhö,male,,,,,,
+Q57166562,Hannes Mäntyvaara,male,,,,,,
+Q57167358,Glen Lindholm,male,,,,,,
+Q57167360,Asko Numminen,male,,,,,,
+Q57638,Jyrki Katainen,male,1971-10-14,11,,,Jyrki Katainen in 2019 (cropped).jpg,Jyrki Katainen
+Q5780049,Lars Erik Gästgivars,male,1946-05-28,11,,,,
+Q58121,Erkki Tuomioja,male,1946-07-01,11,,,Erkki Tuomioja 2007.jpg,Erkki Tuomioja
+Q5880671,Harri Jaskari,male,1964-03-26,11,,,Harri Jaskari.jpg,
+Q5899369,Ilkka Kantola,male,1957-03-17,11,,,Ilkka Kantola.jpg,Ilkka Kantola
+Q5903411,Jyrki Kasvi,male,1964-01-06,11,2021-11-16,11,Jyrki Kasvi.jpg,Jyrki Kasvi
+Q591312,Jouko Skinnari,male,1946-08-12,11,2016-04-21,11,"Jouko Skinnari in EU-conference in Paris, July 2008.jpg",
+Q596737,Lauri Ihalainen,male,1947-05-14,11,,,Lauri Ihalainen 2.jpg,Lauri Ihalainen
+Q6020029,Mats Nylund,male,1964-08-01,11,,,Mats-199x300.jpg,Mats Nylund
+Q6029546,Petteri Orpo,male,1969-11-03,11,,,"Petteri Orpo at EPP Summit, Brussels, June 2016 (27923961326) (cropped).jpg",Petteri Orpo
+Q60424188,Björn Ekblom,male,1938,9,2013-03-25,11,,
+Q6050630,Arto Pirttilahti,male,1963-04-04,11,,,Arto Pirttilahti 2020.jpg,Arto Pirttilahti
+Q6069855,Irina Krohn,female,1962-07-10,11,,,Irina Kaarina Krohn - Finnish Heritage Agency (1147740).jpg,Irina Krohn
+Q60901562,Pasi Patokallio,male,1949,9,,,,Pasi Patokallio
+Q60901584,Vesa Lehtonen,male,,,,,,
+Q60901609,Charles Murto,male,,,,,,
+Q60901631,Risto Piipponen,,,,,,,
+Q60901655,Ilkka Ristimäki,male,,,,,,
+Q60901673,Veijo Sampovaara,male,,,,,,
+Q609682,Antti Kalliomäki,male,1947-01-08,11,,,Antti Kalliomaki (cropped).jpg,Antti Kalliomäki
+Q61053034,Timo Kantola,male,,,,,,
+Q6109574,Jaakko Jonkka,male,1953-02-12,11,2022-01-04,11,JaakkoJonkka.jpg,Jaakko Jonkka
+Q6109579,Jaakko Laakso,male,1948-05-20,11,,,Jaakko Laakso Sanomatalo Mediatori 2017 03.jpg,Jaakko Laakso
+Q61102460,Ari Koponen,male,1982-05-05,11,,,,Ari Koponen
+Q6136096,James Hirvisaari,male,1960-07-02,11,,,Jameshirvisaari.jpg,James Hirvisaari
+Q6216388,Johanna Karimäki,female,1973-03-20,11,,,Johanna Karimäki.jpg,Johanna Karimäki
+Q6216432,Johanna Sumuvuori,female,1976-11-08,11,,,Sumuvuori.jpg,Nanna Sumuvuori
+Q6304972,Sari Sarkomaa,female,1965-09-24,11,,,Sari Sarkomaa.jpg,Sari Sarkomaa
+Q6304985,Timo Kalli,male,1947-02-22,11,,,Timo Kalli.jpg,Timo Kalli
+Q6305233,Kimmo Kiljunen,male,1951-06-13,11,,,Kimmokiljunen3.jpg,Kimmo Kiljunen
+Q6305500,Jukka Mikkola,male,1943-07-03,11,2018-03-23,11,Jukka Mikkola.jpg,Jukka Mikkola
+Q6305504,Jukka Mäkelä,male,1960-07-07,11,,,Kaupunginjohtaja Jukka Makela Wikipedia.jpg,Jukka Mäkelä
+Q63093572,Kimmo Hakonen,male,1961,9,,,,
+Q63093968,Aki Lindén,male,1952-04-19,11,,,Aki Linden 2022 (cropped).jpg,Aki Lindén
+Q6315653,Jussi Niinistö,male,1970-10-27,11,,,Jussi Niinistö.jpg,Jussi Niinistö
+Q63163413,Eeva Kalli,female,1981-01-10,11,,,,Eeva Kalli
+Q63164219,Lulu Ranne,female,1971-07-12,11,,,,Lulu Ranne
+Q63164357,Mikko Ollikainen,male,1977-11-24,11,,,Mikko Ollikainen 2020.jpg,Mikko Ollikainen
+Q63164433,Heidi Viljanen,female,1980-08-18,11,,,,Heidi Viljanen
+Q6348813,Kaj Turunen,male,1960-12-27,11,,,Kaj Turunen.jpg,Kaj Turunen
+Q6370431,Kari Uotila,male,1955-01-04,11,,,,Kari Uotila
+Q648323,Tony Halme,male,1963-01-06,11,2010-01-08,11,Tony halme rmj.JPG,Tony Halme
+Q64977813,Päivi Maarit Laine,female,1964-04-14,11,,,Президент України Володимир Зеленський та посол Фінляндії Пяйві Лайне.jpg,
+Q6501387,Lauri Heikkilä,male,1957-06-24,11,,,Lauri Heikkilä.jpg,Lauri Heikkilä
+Q6516357,Leena Rauhala,female,1942-02-28,11,,,,Leena Rauhala
+Q657282,Paavo Arhinmäki,male,1976-12-13,11,,,Ordforande for Finska delegationen Paavo Arhinmaki vid Nordiska Radets session i Stockholm2.jpg,Paavo Arhinmäki
+Q6776521,Martin Saarikangas,male,1937-01-24,11,,,Martin Saarikangas.jpg,Martin Saarikangas
+Q6791698,Matti Kuusimäki,male,1943-05-03,11,,,Kuusimaki.jpg,Matti Kuusimäki
+Q6845542,Mika Niikko,male,1967-01-20,11,,,Mika Niikko.jpg,Mika Niikko
+Q6845608,Mikael Jungner,male,1965-04-20,11,,,Mikael Jungner.jpg,Mikael Jungner
+Q7044113,Anne Kalmari,female,1968-04-20,11,,,Edusk. ulkona.JPG,Anne Kalmari
+Q7045446,Annika Saarikko,female,1983-11-10,11,,,Annika Saarikko 2020 (cropped).jpg,Annika Saarikko
+Q7121505,Paavo Nikula,male,1942-08-15,11,,,Paavo nikula.jpeg,Paavo Nikula
+Q7161088,Pekka Lintu,male,1947,9,,,,Pekka Lintu
+Q7177967,Peter Östman,male,1961-12-16,11,,,Peter Östman.jpg,Peter Östman
+Q718650,Ilkka Kanerva,male,1948-01-28,11,2022-04-14,11,Kanerva.jpg,Ilkka Kanerva
+Q7192744,Pietari Jääskeläinen,male,1947-06-20,11,,,Pietari Jääskeläinen.jpg,Pietari Jääskeläinen
+Q7198031,Pirkka-Pekka Petelius,male,1953-05-31,11,,,Pirkka-Pekka Petelius.jpg,Pirkka-Pekka Petelius
+Q7198035,Pirkko Mattila,female,1964-04-02,11,,,Pirkko Mattila.jpg,Pirkko Mattila
+Q7198040,Pirkko Ruohonen-Lerner,female,1957-02-06,11,,,Pirkko Ruohonen-Lerner.jpg,Pirkko Ruohonen-Lerner
+Q7276180,Esko Kiviranta,male,1950-09-02,11,,,Eskokiviranta1.JPG,Esko Kiviranta
+Q7284384,Raimo Vistbacka,male,1945-10-19,11,,,Raimo Vistbacka.JPG,Raimo Vistbacka
+Q7310134,Reijo Tossavainen,male,1948-11-13,11,,,Reijo Tossavainen.jpg,Reijo Tossavainen
+Q736216,Jari Vilén,male,1964-04-17,11,,,Jari Vilén.jpg,Jari Vilén
+Q7367093,Rosa Meriläinen,female,1975-12-31,11,,,Rosamerilainen.jpg,Rosa Meriläinen
+Q7424043,Sari Multala,female,1978-07-05,11,,,Sari Multala.jpg,Sari Multala
+Q7427366,Sauli Ahvenjärvi,male,1957-08-18,11,,,Sauli Ahvenjärvi.jpg,Sauli Ahvenjärvi
+Q744204,Juha Väätäinen,male,1941-07-12,11,,,Juha Väätäinen.jpg,Juha Väätäinen
+Q765588,Tapani Tölli,male,1951-06-13,11,,,Tapani Tölli.jpg,Tapani Tölli
+Q771900,Matti Ahde,male,1945-12-23,11,2019-12-20,11,Matti Ahde.jpg,Matti Ahde
+Q777316,Sirkka-Liisa Anttila,female,1943-12-20,11,,,Sirkka-Liisa Anttila.jpg,Sirkka-Liisa Anttila
+Q779418,Juha Rehula,male,1963-06-03,11,,,Juha Rehula.jpg,Juha Rehula
+Q782439,Sampo Terho,male,1977-09-20,11,,,Sampoterhoeurovaaliväittely2014sanomataloDSCN3350.JPG,Sampo Terho
+Q7857087,Tuula Väätäinen,female,1955-10-02,11,,,,Tuula Väätäinen
+Q7897739,Unto Valpas,male,1944-10-04,11,2016-09-13,11,,Unto Valpas
+Q7918643,Veijo Puhjo,male,1948-06-26,11,2019-12-09,11,Veijo Puhjo.jpg,Veijo Puhjo
+Q88895028,Anne Sipiläinen,female,1961-10-01,11,,,"Anne Sipiläinen, Under Secretary of State, Finland addresses the gathering (10841629673).jpg",
+Q9023263,Lasse Hautala,male,1963-01-22,11,,,Lasse Hautala Seinäjoki (cropped).jpg,Lasse Hautala
+Q920124,Juha Mieto,male,1949-11-20,11,,,Juhamieto11.JPG,Juha Mieto
+Q921096,Sinuhe Wallinheimo,male,1972-03-09,11,,,Sinuhe Wallinheimo fra Samlingspartiet (Saml) i Finland.jpg,Sinuhe Wallinheimo
+Q9368463,Vesa Himanen,male,1950-01-11,11,,,,
+Q958047,Osmo Soininvaara,male,1951-09-02,11,,,Osmo Soininvaara.jpg,Osmo Soininvaara
+Q964549,Kimmo Tiilikainen,male,1966-08-17,11,,,Kimmo Tiilikainen.jpg,Kimmo Tiilikainen
+Q971525,Kari Rajamäki,male,1948-10-15,11,,,Kari Rajamäki.jpg,Kari Rajamäki
+Q97595072,Antti Helanterä,male,1971,9,,,Antti Khelanterya.jpg,
+Q982339,Jörn Donner,male,1933-02-05,11,2020-01-30,11,Jörn Donner 02.JPG,Jörn Donner
+Q983641,Claes Andersson,male,1937-05-30,11,2019-07-24,11,Claes Andersson (vanst) Finland.jpg,Claes Andersson
+Q983658,Stefan Wallin,male,1967-06-01,11,,,Stefan Wallin at the Pentagon May 10 2012 crop.jpg,Stefan Wallin
