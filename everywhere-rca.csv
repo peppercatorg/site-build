@@ -2777,6 +2777,9 @@ Equatorial Guinea,Q4793115,Armengol Ondo Nguema,sibling,Q57385,Teodoro Obiang
 Equatorial Guinea,Q57385,Teodoro Obiang,child,Q103916276,Ruslan Obiang Nsue
 Equatorial Guinea,Q57385,Teodoro Obiang,child,Q45042829,Gabriel Mbega
 Equatorial Guinea,Q57385,Teodoro Obiang,child,Q477201,Teodoro Nguema
+Equatorial Guinea,Q57385,Teodoro Obiang,spouse,Q113375862,María Verminia Buckanan García
+Equatorial Guinea,Q57385,Teodoro Obiang,spouse,Q113375871,Shaw
+Equatorial Guinea,Q57385,Teodoro Obiang,spouse,Q113375879,Elema
 Equatorial Guinea,Q57385,Teodoro Obiang,spouse,Q45147779,Constancia Mangue
 Equatorial Guinea,Q63731266,Antonio Mba Nguema,relative,Q57385,Teodoro Obiang
 Eritrea,Q364905,Mahmoud Ahmed Sherifo,spouse,Q4810633,Aster Fissehatsion
@@ -5835,7 +5838,6 @@ India,Q1058,Narendra Modi,mother,Q105529920,Heeraben Modi
 India,Q1058,Narendra Modi,spouse,Q16947607,Jashodaben Narendrabhai Modi
 India,Q106811781,Deepti Kiran Maheshwari,mother,Q6414812,Kiran Maheshwari
 India,Q111343881,Ganieve Kaur Majithia,spouse,Q16215906,Bikram Singh Majithia
-India,Q113336473,Chhatrapal Singh,father,Q113337793,Ramlal Singh
 India,Q113336473,Chhatrapal Singh,spouse,Q113337635,Ranjana Singh
 India,Q1190856,Naveen Patnaik,father,Q3526595,Biju Patnaik
 India,Q1190856,Naveen Patnaik,relative,Q7562067,Sonny Mehta
@@ -8574,6 +8576,7 @@ Malaysia,Q460568,Sirajuddin of Perlis,spouse,Q4207386,Tengku Fauziah
 Malaysia,Q468579,Wan Azizah Wan Ismail,child,Q7070314,Nurul Izzah Anwar
 Malaysia,Q468579,Wan Azizah Wan Ismail,spouse,Q299574,Anwar Ibrahim
 Malaysia,Q5244614,Muhammad V of Kelantan,father,Q31543,Ismail Petra of Kelantan
+Malaysia,Q5244614,Muhammad V of Kelantan,spouse,Q113379920,Nur Diana Petra Abdullah
 Malaysia,Q5244614,Muhammad V of Kelantan,spouse,Q60463595,Oksana Voevodina
 Malaysia,Q5575520,Gobind Singh Deo,father,Q6373289,Karpal Singh
 Malaysia,Q5575520,Gobind Singh Deo,sibling,Q12688350,Jagdeep Singh Deo
@@ -8688,7 +8691,7 @@ Mexico,Q19521973,Miguel Torruco Marqués,child,Q105854208,María Elena Torruco
 Mexico,Q19953819,Zoé Robledo Aburto,father,Q5819636,Eduardo Robledo Rincón
 Mexico,Q19958074,Alfredo Hernández Raigosa,spouse,Q20014580,Dione Anguiano Flores
 Mexico,Q2055969,Alfredo del Mazo González,child,Q19519065,Alejandro del Mazo
-Mexico,Q2055969,Alfredo del Mazo González,child,Q5668133,Enrique Vargas Del Villar PAN
+Mexico,Q2055969,Alfredo del Mazo González,child,Q5668133,Alfredo del Mazo Maza
 Mexico,Q2055969,Alfredo del Mazo González,father,Q5668137,Alfredo del Mazo Vélez
 Mexico,Q20801621,Carolina Monroy del Mazo,spouse,Q58660742,Ernesto Nemer Álvarez
 Mexico,Q21600497,Luis Enrique  Miranda Nava,father,Q98337465,Luis Miranda Cardoso
@@ -8741,9 +8744,9 @@ Mexico,Q55386771,Graciela Márquez Colín,spouse,Q26440421,Gerardo Esquivel Hern
 Mexico,Q5551789,Lilia Aragón,child,Q4068416,Alejandro Aragón
 Mexico,Q5658088,Adolfo Orive Bellinger,father,Q5658085,Adolfo Orive Alba
 Mexico,Q5658653,Adán Augusto López Hernández,sibling,Q6112307,Rosalinda López Hernández
-Mexico,Q5668133,Enrique Vargas Del Villar PAN,father,Q2055969,Alfredo del Mazo González
-Mexico,Q5668133,Enrique Vargas Del Villar PAN,relative,Q296741,Enrique Peña Nieto
-Mexico,Q5668133,Enrique Vargas Del Villar PAN,spouse,Q111535891,Fernanda Castillo Cuevas
+Mexico,Q5668133,Alfredo del Mazo Maza,father,Q2055969,Alfredo del Mazo González
+Mexico,Q5668133,Alfredo del Mazo Maza,relative,Q296741,Enrique Peña Nieto
+Mexico,Q5668133,Alfredo del Mazo Maza,spouse,Q111535891,Fernanda Castillo Cuevas
 Mexico,Q56753914,Ismael García Cabeza de Vaca,sibling,Q16300539,Francisco García Cabeza de Vaca
 Mexico,Q5680996,Luis Alberto Villarreal,sibling,Q16221666,Ricardo Villarreal García
 Mexico,Q5699236,Antonio Ortega Martínez,sibling,Q2913673,Jesús Ortega Martínez
@@ -12770,6 +12773,7 @@ Sweden,Q52920,Fredrik Reinfeldt,child,Q17288096,Erik Reinfeldt
 Sweden,Q52920,Fredrik Reinfeldt,child,Q17288116,Ebba Reinfeldt
 Sweden,Q52920,Fredrik Reinfeldt,father,Q17288025,Bruno Reinfeldt
 Sweden,Q52920,Fredrik Reinfeldt,mother,Q17287999,Birgitta Reinfeldt
+Sweden,Q52920,Fredrik Reinfeldt,partner,Q16157346,Roberta Alenius
 Sweden,Q52920,Fredrik Reinfeldt,spouse,Q716685,Filippa Reinfeldt
 Sweden,Q52922,Carl Bildt,father,Q56097155,Daniel Bildt
 Sweden,Q52922,Carl Bildt,mother,Q97009476,Rut Kerstin Maria Andersson-Alwå

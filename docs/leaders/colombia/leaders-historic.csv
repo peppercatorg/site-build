@@ -2,7 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Colombia,President,Andrés Pastrana Arango,Q315975,1998-08-07,2002-08-07,male,1954-08-17,,"Andrés Pastrana, 2009.jpg",Andrés Pastrana Arango
 Colombia,President,Álvaro Uribe Vélez,Q187413,2002-08-07,2010-08-07,male,1952-07-04,,Álvaro Uribe (cropped).jpg,Álvaro Uribe
 Colombia,President,Juan Manuel Santos,Q57311,2010-08-07,2018-08-07,male,1951-08-10,,Juan Manuel Santos and Lula (cropped).jpg,Juan Manuel Santos
-Colombia,President,Iván Duque,Q17478000,2018-08-07,,male,1976-08-01,,Secretary Pompeo Delivers a Press Statement with Colombian President Duque (50369491081) (cropped) (cropped).jpg,Iván Duque
+Colombia,President,Iván Duque,Q17478000,2018-08-07,,male,1976-08-01,,,Iván Duque
 Colombia,Vice President,Gustavo Bell,Q5621353,1998-08-07,2002-08-07,male,1957-02-01,,5to ciclo de negociaciones de paz entre el ENL y el Gobierno de Colombia (27087674078) (cropped).jpg,Gustavo Bell
 Colombia,Vice President,Francisco Santos Calderón,Q1981295,2002-08-07,2010-08-07,male,1961-08-14,,Franciscosantoscalderon.png,Francisco Santos Calderón
 Colombia,Vice President,Angelino Garzón,Q465923,2010-08-07,2014-08-07,male,1956-10-29,,Vicepresident of Colombia Angelino Garzón.JPG,Angelino Garzón
@@ -66,7 +66,7 @@ Colombia,Minister of Education,María Victoria Angulo González,Q55813992,2018-0
 Colombia,Minister of the Environment,Juan Mayr,Q1085046,1998-08-07,2002-08-07,male,1952-05-27,,"Juan Mayr Maldonado, 2013 (cropped).jpg",Juan Mayr
 Colombia,Minister of the Environment,Cecilia Rodríguez González-Rubio,Q112151128,2002-08-07,2003-10-28,female,,,,
 Colombia,Minister of the Environment,Sandra Suárez,Q6119998,2003-10-28,2007-08-07,female,,,,Sandra Suárez
-Colombia,Minister of the Environment,Juan Lozano Ramírez,Q542014,2007-08-07,2008-05-23,male,1964-03-19,,,Juan Lozano Ramírez
+Colombia,Minister of the Environment,Juan Lozano Ramírez,Q542014,2007-08-07,2008-05-23,male,1964-03-19,,Juan Lozano.jpg,Juan Lozano Ramírez
 Colombia,Minister of the Environment,Carlos Costa Posada,Q5750095,2008-05-23,2010-08-07,male,,,,
 Colombia,Minister of the Environment,Beatriz Elena Uribe Botero,Q4877255,2010-08-07,2012-09-27,female,,,Beatriz Uribe Botero.jpg,Beatriz Elena Uribe Botero
 Colombia,Minister of the Environment,Frank Pearl González,Q5846512,2011-09-27,2012-09-21,male,1962,,Poseción Frank Pearl.JPG,Frank Pearl González
@@ -163,7 +163,7 @@ Colombia,Minister of Mining and Energy,Tomás González Estrada,Q17987573,2014-0
 Colombia,Minister of Mining and Energy,María Lorena Gutiérrez,Q20823407,2016-03-07,2016-04-19,female,1968-09,,María Lorena Gutiérrez in Bogota - 2018 (40513567872) (cropped).jpg,
 Colombia,Minister of Mining and Energy,Germán Arce,Q23941095,2016-04-20,2018-08-07,male,1972-04,,Germán Arce.png,
 Colombia,Minister of Mining and Energy,María Fernanda Suárez,Q55813236,2018-08-07,2020-06-25,female,1974,,,
-Colombia,Minister of Mining and Energy,Diego Mesa Puyo,Q96674931,2020-07-01,,male,1982,,,
+Colombia,Minister of Mining and Energy,Diego Mesa Puyo,Q96674931,2020-07-01,,male,1982,,Diego Mesa Puyo.jpg,
 Colombia,"Minister of Science, Technology, and Innovation",Tito José Crissien,Q16640522,2021-06-04,,male,1975-11-22,,,
 Colombia,Minister of Sport,Ernesto Lucena Barrero,Q73824457,2019-09-16,2021-07-14,male,1978,,Ernesto Lucena.jpg,
 Colombia,Minister of Sport,Guillermo Herrera Castaño,Q107447180,2021-07-14,,male,,,"Guillermo Herrera, mindeporte Colombia 2022.jpg",
