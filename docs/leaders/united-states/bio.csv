@@ -29,7 +29,7 @@ Q101196632,Jake Auchincloss,male,1988-01-29,11,,,"Jake Auchincloss, 117th Congre
 Q101196971,Blake Moore,male,1980-06-22,11,,,Blake Moore 117th U.S Congress.jpg,Blake Moore
 Q101197341,Diana Harshbarger,female,1960-01-01,11,,,Diana Harshbarger 117th U.S Congress.jpg,Diana Harshbarger
 Q101198561,Scott Franklin,male,1964-08-23,11,,,"Scott Franklin, 117th Congress portrait.jpg",Scott Franklin (politician)
-Q101229393,Kristen Juras,female,1955-10-16,11,,,Kristen Juras 2021.jpg,Kristen Juras
+Q101229393,Kristen Juras,female,1955-10-16,11,,,,Kristen Juras
 Q101243033,Fady Qaddoura,male,1980-09-26,11,,,,Fady Qaddoura
 Q101243404,John I. Kane,male,1960-11-12,11,,,,John I. Kane
 Q101243560,Harold Pope Jr.,male,,,,,,Harold Pope Jr.
@@ -1128,7 +1128,7 @@ Q112466575,Adelheid Herrmann,female,,,,,,Adelheid Herrmann
 Q112466577,Earl Hillstrand,male,,,,,,
 Q112466578,Vernon Hurlbert,,,,,,,
 Q112466580,Ivan Ivan,male,1945-08-17,11,,,,
-Q112466582,George Jacko,,,,,,,
+Q112466582,George Jacko,male,,,,,,
 Q112466588,Jeannette James,,,,,,,
 Q112466589,Gilbert Jarvela,,,,,,,
 Q112466590,Joseph Josephson,,,,,,,
@@ -1773,7 +1773,7 @@ Q16151633,David Bradley,male,1952-11-13,11,2022-02-19,11,State Senator David Bra
 Q16151954,Carrie Ruud,female,1952-02-22,11,,,"Minnesota State Senator Carrie Ruud, 2018.jpg",Carrie Ruud
 Q16164110,Bob Ballinger,male,1974-01-31,11,,,,Bob Ballinger
 Q1617137,Tom Feeney,male,1958-05-21,11,,,"Congressman Tom Feeney, official color photo.jpg",Tom Feeney
-Q16185293,Frank Chopp,male,1953-05-13,11,,,,Frank Chopp
+Q16185293,Frank Chopp,male,1953-05-13,11,,,Frank Chopp.jpg,Frank Chopp
 Q16185294,Mike Cierpiot,male,1953-01-14,11,,,,Mike Cierpiot
 Q16185327,John Ellison,male,1953,9,,,,John Ellison (politician)
 Q16185343,Barbara Fleischauer,female,1953-09-01,11,,,,Barbara Fleischauer
@@ -2444,7 +2444,7 @@ Q18630746,Paul Bettencourt,male,1958-10-20,11,,,,Paul Bettencourt
 Q18630748,DeWayne Burns,male,1972-06-22,11,,,,DeWayne Burns
 Q18630753,Andrew Murr,male,1977-04-23,11,,,,Andrew Murr
 Q18630788,Dustin Burrows,male,1978-11-14,11,,,Dustin Burrows.jpg,Dustin Burrows
-Q18630862,Will Metcalf,male,1984-06-06,11,,,,
+Q18630862,Will Metcalf,male,1984-06-06,11,,,,Will Metcalf
 Q18630864,Morgan Meyer,male,1974-08-08,11,,,,Morgan Meyer
 Q18630880,Dennis Paul,male,1961,9,,,,Dennis Paul
 Q18630886,Dade Phelan,male,1975-09-18,11,,,,Dade Phelan
@@ -3494,7 +3494,7 @@ Q312845,Daniel Inouye,male,1924-09-07,11,2012-12-17,11,"Daniel Inouye, official 
 Q3132849,Henry Hyde,male,1924-04-18,11,2007-11-29,11,Ac.hhyde.jpg,Henry Hyde
 Q31375,Joseph D. Early,male,1933-01-31,11,2012-11-09,11,JosephDEarly.jpg,Joseph D. Early
 Q314459,Harry Reid,male,1939-12-02,11,2021-12-28,11,Harry Reid official portrait 2009.jpg,Harry Reid
-Q3157413,Jackie Walorski,female,1963-08-17,11,,,"Jackie Walorski, official portrait, 113th Congress.jpg",Jackie Walorski
+Q3157413,Jackie Walorski,female,1963-08-17,11,2022-08-03,11,"Jackie Walorski, official portrait, 113th Congress.jpg",Jackie Walorski
 Q3160901,James Allen Williamson,male,1951-05-27,11,,,,James Allen Williamson
 Q3161915,Janet A. Sanderson,female,1955,9,,,Janet A. Sanderson.jpg,Janet A. Sanderson
 Q3162841,Doug Collins,male,1966-08-16,11,,,"Doug Collins, Official portrait, 113th Congress.jpg",Doug Collins (politician)
@@ -4039,7 +4039,7 @@ Q4718026,Alex X. Mooney,male,1971-06-05,11,,,Alex X. Mooney (2008).jpg,Alex Moon
 Q47211524,Yvonne Lopez,female,1957-07-28,11,,,,Yvonne Lopez
 Q47216,Condoleezza Rice,female,1954-11-14,11,,,Condoleezza Rice.jpg,Condoleezza Rice
 Q472199,Jerry Lewis,male,1934-10-21,11,2021-07-15,11,"Jerry Lewis, official portrait, 111th Congress.jpg",Jerry Lewis (California politician)
-Q472241,Kevin Brady,male,1955-04-11,11,,,Kevinbrady.jpeg,Kevin Brady
+Q472241,Kevin Brady,male,1955-04-11,11,,,"Kevin Brady, official Congressional photo portrait.jpg",Kevin Brady
 Q472254,Richard Shelby,male,1934-05-06,11,,,"Richard Shelby, official portrait, 112th Congress.jpg",Richard Shelby
 Q47230362,Carol A. Murphy,female,1962-11-26,11,,,Assemblywoman Carol Murphy.png,Carol A. Murphy
 Q4723052,"Alfred Lawson, Jr.",male,1948-09-21,11,,,Al Lawson 115th Congress photo.jpg,Al Lawson
@@ -5908,7 +5908,7 @@ Q6551585,Linda Garrou,female,1943-01-17,11,2022,9,,Linda Garrou
 Q6551650,Linda Holmes,female,1959-03-16,11,,,Linda Holmes.png,Linda Holmes
 Q6551781,Linda M. Lopez,female,1964-03-13,11,,,,Linda M. Lopez
 Q6551834,Linda Menard,female,1943-12-21,11,,,,Linda Menard
-Q6551906,Linda R. Greenstein,female,1950-06-07,11,,,,Linda R. Greenstein
+Q6551906,Linda R. Greenstein,female,1950-06-07,11,,,Linda R. Greenstein.jpg,Linda R. Greenstein
 Q65548468,Eddie Melton,male,,8,,,,Eddie Melton
 Q65548488,Haraz Ghanbari,male,,,,,Haraz Ghanbari Oval Office.jpg,Haraz Ghanbari
 Q65548575,Phil Fortunato,male,,,,,PhilFortunato.png,Phil Fortunato
@@ -6214,7 +6214,7 @@ Q7172794,Peter Berkowitz,male,1959,9,,,,Peter Berkowitz
 Q7173106,Pete Buttigieg,male,1982-01-19,11,,,Pete Buttigieg official photo.jpg,Pete Buttigieg
 Q7173416,Peter Courtney,male,1943-06-18,11,,,Peter Courtney.jpg,Peter Courtney
 Q7173774,Peter Durant,male,,,,,Peter J. Durant.jpg,Peter Durant
-Q7174061,Peter Franchot,male,1947-11-25,11,,,,Peter Franchot
+Q7174061,Peter Franchot,male,1947-11-25,11,,,1franchot9.jpg,Peter Franchot
 Q7174848,Peter J. Barnes III,male,1956-04-26,11,2021-02-22,11,,Peter J. Barnes III
 Q7176731,Peter S. Brunstetter,male,1956-02-28,11,,,Peter Brunstetter.jpg,Peter S. Brunstetter
 Q718127,Luis Gutiérrez,male,1953-12-10,11,,,Luis Gutiérrez official photo.jpg,Luis Gutiérrez
@@ -6896,8 +6896,8 @@ Q88693641,Vikki Goodwin,female,1967-05-18,11,,,Town hall discussion with Vikki G
 Q887102,Ed Schafer,male,1946-08-08,11,,,Ed Schafer -- February 2008.jpg,Ed Schafer
 Q887111,Rick Snyder,male,1958-08-19,11,,,RickSnyder.jpg,Rick Snyder
 Q887327,George Ryan,male,1934-02-24,11,,,2007 Governor George Ryan crop4.JPG,George Ryan
-Q887553,Kirk Fordice,male,1934-02-10,11,2004-09-07,11,,Kirk Fordice
-Q887751,Bob Allen,male,1958-09-30,11,,,,Bob Allen (Florida politician)
+Q887553,Kirk Fordice,male,1934-02-10,11,2004-09-07,11,Kirk Fordice at podium cropped.jpg,Kirk Fordice
+Q887751,Bob Allen,male,1958-09-30,11,,,Bob Allen.jpg,Bob Allen (Florida politician)
 Q887793,Bob Beauprez,male,1948-09-22,11,,,Rep Bob Beauprez.jpg,Bob Beauprez
 Q887841,Bob Casey Jr.,male,1960-04-13,11,,,"Bob Casey, official Senate photo portrait, c2008.jpg",Bob Casey Jr.
 Q887852,Bob Clement,male,1943-09-23,11,,,BobClement.jpg,Bob Clement
@@ -7048,6 +7048,7 @@ Q96054905,Teresa Leger Fernandez,female,1959-07-01,11,,,Teresa Leger Fernandez 1
 Q96061928,Jeremie Dufault,male,1978,9,,,,Jeremie Dufault
 Q96065060,Regina Bayer,female,,,,,,Regina Bayer
 Q96065500,Melissa Hardy,female,1969,9,,,,Melissa Hardy
+Q96065881,Krystle Matthews,female,,,,,,Krystle Matthews
 Q96065958,Evan Worrell,male,1979-09-26,11,,,,Evan Worrell
 Q96077897,Frank J. Mrvan,male,1969-04-16,11,,,Frank Mrvan 117th U.S Congress.jpg,Frank J. Mrvan
 Q96084868,Jessica de la Cruz,female,1981-07-20,11,,,,Jessica de la Cruz

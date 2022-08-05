@@ -3516,6 +3516,7 @@ European Union,Q327537,"Alexander Macmillan, 2nd Earl of Stockton",spouse,Q75309
 European Union,Q32777,Vladimír Špidla,father,Q11986007,Václav Špidla
 European Union,Q32777,Vladimír Špidla,spouse,Q11898836,Viktorie Špidlová
 European Union,Q327879,Luigi Berlinguer,sibling,Q3956028,Sergio Berlinguer
+European Union,Q3281,Marit Paulsen,child,Q4968133,Stina Morian
 European Union,Q3291630,Marie-Christine Arnautu,spouse,Q50384487,Philippe Chevrier
 European Union,Q3291817,Marie-France Stirbois,spouse,Q3169770,Jean-Pierre Stirbois
 European Union,Q3295836,Camilo Nogueira Román,child,Q53383734,Alba Nogueira
@@ -13844,7 +13845,6 @@ United Kingdom,Q1208851,"Diana Maddock, Baroness Maddock",child,Q76060744,Anna C
 United Kingdom,Q1208851,"Diana Maddock, Baroness Maddock",father,Q76262917,Reginald Derbyshire
 United Kingdom,Q1208851,"Diana Maddock, Baroness Maddock",mother,Q76262918,Margaret Evans
 United Kingdom,Q1208851,"Diana Maddock, Baroness Maddock",spouse,Q260960,Alan Beith
-United Kingdom,Q1208851,"Diana Maddock, Baroness Maddock",spouse,Q260960,Alan Beith
 United Kingdom,Q1208851,"Diana Maddock, Baroness Maddock",spouse,Q76060599,Robert Frank Maddock
 United Kingdom,Q1209038,"Dianne Hayter, Baroness Hayter of Kentish Town",father,Q75969760,Alec Bristow Hayter
 United Kingdom,Q1209038,"Dianne Hayter, Baroness Hayter of Kentish Town",mother,Q75969762,Nancy Evans
@@ -15761,7 +15761,6 @@ United Kingdom,Q260464,Ed Balls,father,Q6828394,Michael Balls
 United Kingdom,Q260464,Ed Balls,spouse,Q291057,Yvette Cooper
 United Kingdom,Q260546,Stephen Barclay,spouse,Q110833921,Karen Barclay
 United Kingdom,Q260960,Alan Beith,spouse,Q1208851,"Diana Maddock, Baroness Maddock"
-United Kingdom,Q260960,Alan Beith,spouse,Q1208851,"Diana Maddock, Baroness Maddock"
 United Kingdom,Q260960,Alan Beith,spouse,Q76254975,Barbara Ward
 United Kingdom,Q261001,Shaun Woodward,child,Q23770514,Ella Mills
 United Kingdom,Q261001,Shaun Woodward,child,Q75545261,Thomas Rory George Woodward
@@ -15998,6 +15997,7 @@ United Kingdom,Q2982596,Colin Cowdrey,father,Q75600110,Ernest Cowdrey
 United Kingdom,Q2982596,Colin Cowdrey,mother,Q75600111,Kathleen Mary Taylor
 United Kingdom,Q2982596,Colin Cowdrey,spouse,Q2653172,"Anne Cowdrey, 14th Lady Herries of Terregles"
 United Kingdom,Q2982596,Colin Cowdrey,spouse,Q75600013,Penelope Chiesman
+United Kingdom,Q300004,Philip Davies,spouse,Q584062,Esther McVey
 United Kingdom,Q300107,Caroline Dinenage,father,Q5494995,Fred Dinenage
 United Kingdom,Q300107,Caroline Dinenage,spouse,Q750161,Mark Lancaster
 United Kingdom,Q300142,Jonathan Djanogly,father,Q20685703,Harry Djanogly
@@ -16414,6 +16414,7 @@ United Kingdom,Q333533,Jeremy Hunt,child,Q76375134,Eleanor Hunt
 United Kingdom,Q333533,Jeremy Hunt,father,Q7025584,Nicholas Hunt
 United Kingdom,Q333533,Jeremy Hunt,mother,Q76305684,Meriel Eve Givan
 United Kingdom,Q333533,Jeremy Hunt,spouse,Q55437767,Lucia Guo
+United Kingdom,Q333550,Clare Short,relative,Q329744,Martin Short
 United Kingdom,Q333550,Clare Short,spouse,Q4717400,Alex Lyon
 United Kingdom,Q333554,"Stanley Clinton Davis, Baron Clinton-Davis",child,Q75586576,Henry Davis
 United Kingdom,Q333554,"Stanley Clinton Davis, Baron Clinton-Davis",child,Q75586578,Joanna Davis
@@ -18169,6 +18170,7 @@ United Kingdom,Q58282,William Hague,spouse,Q22997454,Ffion Hague
 United Kingdom,Q583783,Louise Mensch,sibling,Q7802897,Tilly Bagshawe
 United Kingdom,Q583783,Louise Mensch,spouse,Q7175850,Peter Mensch
 United Kingdom,Q583993,Michael Meacher,spouse,Q1943636,Molly Meacher
+United Kingdom,Q584062,Esther McVey,spouse,Q300004,Philip Davies
 United Kingdom,Q58652056,David Anderson,father,Q5386021,Eric Anderson
 United Kingdom,Q5931275,"Hugh Jenkins, Baron Jenkins of Putney",father,Q75721109,Joseph Walter Jenkins
 United Kingdom,Q5931275,"Hugh Jenkins, Baron Jenkins of Putney",mother,Q75721771,Florence Emily Gater
