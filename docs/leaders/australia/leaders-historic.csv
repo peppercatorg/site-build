@@ -123,7 +123,7 @@ Australia,Minister for Aboriginal Affairs and Reconciliation,Jay Weatherill,Q144
 Australia,Minister for Aboriginal Affairs and Reconciliation,Grace Portolesi,Q5591343,2010-03-25,2011-10-21,female,1968-06-26,,,Grace Portolesi
 Australia,Minister for Aboriginal Affairs and Reconciliation,Paul Caica,Q7149675,2011-10-21,2013-01-21,male,1957,,,Paul Caica
 Australia,Minister for Aboriginal Affairs and Reconciliation,Ian Hunter,Q1383644,2013-01-21,2015-02-03,male,1960-09-23,,Ian Hunter MLC.jpg,Ian Hunter (politician)
-Australia,Minister for Aboriginal Affairs and Reconciliation,Kyam Maher,Q6450701,2015-02-03,2018-03-18,male,,,,Kyam Maher
+Australia,Minister for Aboriginal Affairs and Reconciliation,Kyam Maher,Q6450701,2015-02-03,2018-03-18,male,,,Kyam Maher SA Government.jpg,Kyam Maher
 Australia,Minister for Aboriginal Affairs and Reconciliation,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
 Australia,Minister for Ageing,Jennifer Rankine,Q6178728,2008-07-24,2011-10-21,female,1953-09-22,,Jennifer Rankine.jpg,Jennifer Rankine
 Australia,Minister for Ageing,Zoe Bettison,Q8073256,2014-03-26,2018-03-18,female,,,,Zoe Bettison
@@ -135,8 +135,8 @@ Australia,"Minister for Agriculture, Food and Fisheries",Gail Gago,Q5517076,2011
 Australia,"Minister for Agriculture, Food and Fisheries",Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
 Australia,Minister for Automotive Transformation,Tom Koutsantonis,Q7816502,2013-01-21,2014-03-26,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
 Australia,Minister for Automotive Transformation,Susan Close,Q7647681,2014-05-27,2015-02-03,female,1967-11-12,,Susan Close 2012.jpg,Susan Close
-Australia,Minister for Automotive Transformation,Kyam Maher,Q6450701,2015-02-03,2016-01-18,male,,,,Kyam Maher
-Australia,Minister for Automotive Transformation,Kyam Maher,Q6450701,2016-01-19,2018-03-18,male,,,,Kyam Maher
+Australia,Minister for Automotive Transformation,Kyam Maher,Q6450701,2015-02-03,2016-01-18,male,,,Kyam Maher SA Government.jpg,Kyam Maher
+Australia,Minister for Automotive Transformation,Kyam Maher,Q6450701,2016-01-19,2018-03-18,male,,,Kyam Maher SA Government.jpg,Kyam Maher
 Australia,Minister for Automotive Transformation,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
 Australia,Minister for the Arts,Diana Laidlaw,Q5271209,1993-12-14,2002-03-05,female,1951-09-02,,Diana Laidlaw.jpg,Diana Laidlaw
 Australia,Minister for the Arts,Mike Rann,Q3108729,2002-03-05,2011-10-21,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
@@ -196,7 +196,7 @@ Australia,Minister for Emergency Services,Tony Piccolo,Q7823174,2014-03-26,2016-
 Australia,Minister for Emergency Services,Chris Picton,Q16734515,2017-09-18,2018-03-18,male,1983-01-13,,,Chris Picton
 Australia,Minister for Emergency Services,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
 Australia,Minister for Employment,Mark Brindal,Q6766854,1998-10-08,2000-02-14,male,1948-05-12,,,Mark Brindal
-Australia,Minister for Employment,Kyam Maher,Q6450701,2016-01-19,2018-03-18,male,,,,Kyam Maher
+Australia,Minister for Employment,Kyam Maher,Q6450701,2016-01-19,2018-03-18,male,,,Kyam Maher SA Government.jpg,Kyam Maher
 Australia,Minister for Employment,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
 Australia,"Minister for Employment, Higher Education and Skills",Tom Kenyon,Q7816444,2011-10-21,2013-01-21,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
 Australia,"Minister for Employment, Higher Education and Skills",Grace Portolesi,Q5591343,2013-01-21,2014-03-14,female,1968-06-26,,,Grace Portolesi
@@ -273,7 +273,7 @@ Australia,Minister for Local Government,Rory McEwen,Q7366915,2002-12-04,2004-03-
 Australia,Minister for Local Government,Geoff Brock,Q5534059,2014-03-26,2018-03-18,male,1950,,,Geoff Brock
 Australia,Minister for Local Government,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
 Australia,Minister for Manufacturing and Innovation,Susan Close,Q7647681,2014-05-27,2015-02-03,female,1967-11-12,,Susan Close 2012.jpg,Susan Close
-Australia,Minister for Manufacturing and Innovation,Kyam Maher,Q6450701,2015-02-03,2016-01-18,male,,,,Kyam Maher
+Australia,Minister for Manufacturing and Innovation,Kyam Maher,Q6450701,2015-02-03,2016-01-18,male,,,Kyam Maher SA Government.jpg,Kyam Maher
 Australia,Minister for Manufacturing and Innovation,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
 Australia,"Minister for Manufacturing, Innovation and Trade",Tom Koutsantonis,Q7816502,2011-10-21,2013-01-21,male,1971-08-23,,Tom Koutsantonis.jpg,Tom Koutsantonis
 Australia,"Minister for Manufacturing, Innovation and Trade",Tom Kenyon,Q7816444,2013-01-21,2014-03-26,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
@@ -351,7 +351,7 @@ Australia,Minister for Science and Information Economy,Paul Caica,Q7149675,2007-
 Australia,Minister for Science and Information Economy,Tom Kenyon,Q7816444,2011-10-21,2013-01-21,male,1972-02-26,,Tom Kenyon in Port Augusta (2015).jpg,Tom Kenyon
 Australia,Minister for Science and Information Economy,Grace Portolesi,Q5591343,2013-01-21,2014-03-14,female,1968-06-26,,,Grace Portolesi
 Australia,Minister for Science and Information Economy,Gail Gago,Q5517076,2014-03-26,2016-01-19,female,1957-07-04,,,Gail Gago
-Australia,Minister for Science and Information Economy,Kyam Maher,Q6450701,2016-01-19,2018-03-18,male,,,,Kyam Maher
+Australia,Minister for Science and Information Economy,Kyam Maher,Q6450701,2016-01-19,2018-03-18,male,,,Kyam Maher SA Government.jpg,Kyam Maher
 Australia,Minister for Science and Information Economy,Steven Marshall,Q7615025,2018-03-19,2018-03-21,male,1968-01-21,,PremierMarshall2018.jpg,Steven Marshall
 Australia,Minister for Small Business,Rory McEwen,Q7366915,2003-05-13,2004-03-05,male,1948-09-24,,,Rory McEwen (politician)
 Australia,Minister for Small Business,Paul Holloway,Q7151348,2004-03-05,2004-07-23,male,1949-08-20,,,Paul Holloway
@@ -478,7 +478,7 @@ Australia,Attorney-General,Paul Holloway,Q7151348,2003-06-30,2003-08-23,male,194
 Australia,Attorney-General,Michael Atkinson,Q6828295,2003-08-29,2010-03-25,male,1958-06-17,,Michael Atkinson Australia Senate of Poland.JPG,Michael Atkinson (politician)
 Australia,Attorney-General,John Rau,Q16193316,2010-03-25,2018-03-18,male,1959-03-20,,John Rau.jpg,John Rau
 Australia,Attorney-General,Vickie Chapman,Q7925455,2018-03-19,2022-03-21,female,1957-06-21,,Chapman2018.jpg,Vickie Chapman
-Australia,Attorney-General,Kyam Maher,Q6450701,2022-03-24,,male,,,,Kyam Maher
+Australia,Attorney-General,Kyam Maher,Q6450701,2022-03-24,,male,,,Kyam Maher SA Government.jpg,Kyam Maher
 Australia,Solicitor-General,Bradley Selway,Q4955029,1995,2002-11,male,1955-01-09,2005-04-10,,Bradley Selway
 Australia,Solicitor-General,Chris Kourakis,Q16888490,2003,2008-08-21,male,1958-06-17,,,Chris Kourakis
 Australia,Solicitor-General,Martin Hinton,Q52225971,2008-08,2016,male,,,,Martin Hinton (judge)
@@ -596,7 +596,7 @@ Australia,Minister for Agriculture and Northern Australia,Tony Burke,Q1449483,20
 Australia,Minister for Agriculture and Northern Australia,Joel Fitzgibbon,Q3180236,2013-07-02,2013-09-18,male,1962-01-16,,JoelFitz.JPG,Joel Fitzgibbon
 Australia,Minister for Agriculture and Northern Australia,David Littleproud,Q25756209,2017-12-20,2022-05-23,male,1976-09-04,,David Littleproud July 2018.jpg,David Littleproud
 Australia,Minister for Agriculture and Northern Australia,Bridget McKenzie,Q4966734,2019-05-29,2020-02-02,female,1969-12-27,,Bridget McKenzie 2014-02.jpg,Bridget McKenzie
-Australia,Minister for Agriculture and Northern Australia,Murray Watt,Q6939517,2022-05-23,,male,1973-01-20,,,Murray Watt
+Australia,Minister for Agriculture and Northern Australia,Murray Watt,Q6939517,2022-05-23,,male,1973-01-20,,Murray Watt 2022.png,Murray Watt
 Australia,Minister for the Arts,Simon Crean,Q1400580,2010-09-14,2013-03-21,male,1949-02-26,,Simon Crean (1).jpg,Simon Crean
 Australia,Minister for the Arts,Tony Burke,Q1449483,2013-03-25,2013-09-18,male,1969-11-04,,Tony Burke Portrait 2008.jpg,Tony Burke
 Australia,Minister for the Arts,George Brandis,Q5537216,2013-09-18,2015-09-21,male,1957-06-22,,George Brandis DFAT 2017 1.jpg,George Brandis
@@ -661,7 +661,7 @@ Australia,Minister for Education,Simon Birmingham,Q7518284,2015-09-21,2018-08-28
 Australia,Minister for Education,Alan Tudge,Q4707935,2020-12-22,2022-05-23,male,1971-02-24,,Alan Tudge 2018 (cropped).jpg,Alan Tudge
 Australia,Minister for Education,Jason Clare,Q6162219,2022-05-23,,male,1972-03-22,,"Jason Clare, Beenleigh PCYC, August 2013 (cropped).jpg",Jason Clare
 Australia,Minister for Emergency Management and National Recovery and Resilience,Bridget McKenzie,Q4966734,2021-06-21,2022-05-23,female,1969-12-27,,Bridget McKenzie 2014-02.jpg,Bridget McKenzie
-Australia,Minister for Emergency Management and National Recovery and Resilience,Murray Watt,Q6939517,2022-05-23,,male,1973-01-20,,,Murray Watt
+Australia,Minister for Emergency Management and National Recovery and Resilience,Murray Watt,Q6939517,2022-05-23,,male,1973-01-20,,Murray Watt 2022.png,Murray Watt
 Australia,Minister for Employment Services,Tony Abbott,Q348577,1998-10-21,2001-01-30,male,1957-11-04,,Tony Abbott - 2010.jpg,Tony Abbott
 Australia,Minister for Employment and Workplace Relations,Peter Reith,Q7176566,1998-10-21,2001-01-30,male,1950-07-15,,Peter Reith cropped.jpg,Peter Reith
 Australia,Minister for Employment and Workplace Relations,Tony Abbott,Q348577,2001-01-30,2003-10-07,male,1957-11-04,,Tony Abbott - 2010.jpg,Tony Abbott
@@ -762,7 +762,7 @@ Australia,Minister for Industry and Innovation,Ian Macfarlane,Q5982149,2013-09-1
 Australia,Minister for Industry and Innovation,Christopher Pyne,Q978276,2015-09-21,2016-07-19,male,1967-08-13,,Christopher Pyne Policy Exchange 1 (cropped).jpg,Christopher Pyne
 Australia,Minister for Industry and Innovation,Greg Hunt,Q5605742,2016-07-19,2017-01-24,male,1965-11-18,,Greg Hunt.jpg,Greg Hunt
 Australia,Minister for Industry and Innovation,Christian Porter,Q5110039,2021-03-30,2021-09-19,male,1970-07-11,,Christian Porter.jpg,Christian Porter
-Australia,Minister for Industry and Innovation,Ed Husic,Q5334974,2022-05-23,,male,1970-02-03,,,Ed Husic
+Australia,Minister for Industry and Innovation,Ed Husic,Q5334974,2022-05-23,,male,1970-02-03,,Women of the Year1.jpg.thumb.1280.1280 (Husic cropped).jpg,Ed Husic
 Australia,Minister for Infrastructure and Transport,John Anderson,Q3180912,1998-10-21,2005-07-06,male,1956-11-14,,John Anderson at Newstead (cropped).jpg,John Anderson (Australian politician)
 Australia,Minister for Infrastructure and Transport,Warren Truss,Q591604,2005-07-06,2006-08-10,male,1948-10-08,,Warren Truss at a National Party candidate campaign launch.jpg,Warren Truss
 Australia,Minister for Infrastructure and Transport,Anthony Albanese,Q335697,2007-12-03,2013-09-18,male,1963-03-02,,Anthony Albanese portrait.jpg,Anthony Albanese
@@ -922,7 +922,7 @@ Australia,Assistant Minister to the Attorney-General,Amanda Stoker,Q50808634,202
 Australia,Assistant Minister to the Deputy Prime Minister,Kevin Hogan,Q16195119,2020-02-06,2022-05-23,male,1963-08-11,,Kevin Hogan (cropped).jpg,Kevin Hogan (politician)
 Australia,"Assistant Minister to the Minister for Industry, Energy and Emissions Reduction",Tim Wilson,Q16205919,2016-07-02,2022-05-23,male,1980-03-12,,Tim Wilson 2014.jpg,Tim Wilson (Australian politician)
 Australia,Assistant Minister to the Minister for the Public Service,Ben Morton,Q25352543,2021-06-21,2021-10-08,male,1981-06-29,,Ben Morton.jpg,Ben Morton (politician)
-Australia,Assistant Minister to the Prime Minister,Patrick Gorman,Q55807656,2022-05-23,,male,1984-12-12,,,Patrick Gorman (politician)
+Australia,Assistant Minister to the Prime Minister,Patrick Gorman,Q55807656,2022-05-23,,male,1984-12-12,,Patrick Gorman PMC 2022.jpg,Patrick Gorman (politician)
 Australia,Assistant Minister to the Prime Minister and Cabinet,Ben Morton,Q25352543,2021-06-21,2022-05-23,male,1981-06-29,,Ben Morton.jpg,Ben Morton (politician)
 Australia,Assistant Minister to the Prime Minister for Mental Health and Suicide Prevention,David Coleman,Q16214788,2020-12-22,2022-05-23,male,1974-03-05,,David Coleman.jpg,David Coleman (Australian politician)
 Australia,President of the Senate,Margaret Reid,Q6759831,1996-08-20,2002-08-19,female,1935-05-28,,Margaret Reid 2021-11-28.jpg,Margaret Reid (politician)
@@ -941,7 +941,7 @@ Australia,Speaker of the House of Representatives,Anna Burke,Q4766888,2012-10-09
 Australia,Speaker of the House of Representatives,Bronwyn Bishop,Q4974135,2013-11-12,2015-08-02,female,1942-10-19,,Bronwyn Bishop - Flickr - Eva Rinaldi Celebrity and Live Music Photographer (1).jpg,Bronwyn Bishop
 Australia,Speaker of the House of Representatives,Tony Smith,Q16197257,2015-08-10,2021-11-23,male,1967-03-13,,Tony Smith March 2017 cropped.jpg,Tony Smith (Victorian politician)
 Australia,Speaker of the House of Representatives,Andrew Wallace,Q25756194,2021-11-23,2022-04-11,male,1968-04-23,,Andrew Wallace.png,Andrew Wallace
-Australia,Speaker of the House of Representatives,Milton Dick,Q20983429,2022-07-26,,male,1972-07-21,,,Milton Dick
+Australia,Speaker of the House of Representatives,Milton Dick,Q20983429,2022-07-26,,male,1972-07-21,,Milton Dick Inala Police Look to the Stars (cropped).jpg,Milton Dick
 Australia,Leader of the House,Tony Abbott,Q348577,2001-11-26,2007-12-03,male,1957-11-04,,Tony Abbott - 2010.jpg,Tony Abbott
 Australia,Leader of the House,Anthony Albanese,Q335697,2007-12-03,2013-09-18,male,1963-03-02,,Anthony Albanese portrait.jpg,Anthony Albanese
 Australia,Leader of the House,Christopher Pyne,Q978276,2013-09-18,2019-05-26,male,1967-08-13,,Christopher Pyne Policy Exchange 1 (cropped).jpg,Christopher Pyne
@@ -1136,9 +1136,16 @@ Australia,Vice-President of the Senate,Sue Lines,Q16185446,2016-09-30,2022-07-26
 Australia,Vice-President of the Senate,Andrew McLachlan,Q16732352,2022-07-26,,male,1966-01-14,,McLachlan Profile.jpg,Andrew McLachlan
 Australia,ambassador to Albania,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
 Australia,ambassador to China,David Irvine,Q5235368,2000,2003,male,1947-01-10,2022-03-30,David Irvine DGS ASIO.jpg,David Irvine (diplomat)
+Australia,ambassador to France,Penelope Wensley,Q434284,2005,2008,female,1946-10-18,,Penny Wensley (1).jpg,Penelope Wensley
+Australia,ambassador to France,David Ritchie,Q18609072,2008,2011,male,,,David Ritchie (4).jpg,David Ritchie (diplomat)
+Australia,ambassador to France,Ric Wells,Q17198879,2012,2014,male,1955-10-20,,Ric Wells (1).jpg,Ric Wells
+Australia,ambassador to France,Stephen Brady,Q7608762,2014-09-28,2017-10-16,male,1959-06-11,,Stephen Brady (official portrait April 2014).jpg,Stephen Brady
+Australia,ambassador to France,Brendan Berne,Q46351014,2017-07-21,2020-10-01,male,,,Brendan Berne (1).jpg,Brendan Berne
+Australia,ambassador to France,Gillian Bird,Q17303605,2020-11,,female,,,Gillian Bird.jpg,Gillian Bird
 Australia,ambassador to the Holy See,Bob Halverson,Q4932666,1999,2003,male,1937-10-22,2016-02-09,,Bob Halverson
 Australia,ambassador to the Holy See,John McCarthy,Q6247457,2012-11,2016,male,1947-10-20,,"John McCarthy, QC.jpg",John A. McCarthy
 Australia,ambassador to Ireland,Bob Halverson,Q4932666,1999,2003,male,1937-10-22,2016-02-09,,Bob Halverson
+Australia,Ambassador to Italy,David Ritchie,Q18609072,2010,2013,male,,,David Ritchie (4).jpg,David Ritchie (diplomat)
 Australia,Ambassador to Italy,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
 Australia,Ambassador to Libya,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
 Australia,ambassador to San Marino,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
@@ -1148,6 +1155,7 @@ Australia,ambassador to the United States of America,Michael Thawley,Q16963813,2
 Australia,ambassador to the United States of America,Dennis Richardson,Q5258898,2005-06-20,2010-02,male,1947-05-14,,Dennis J Richardson (2).jpg,Dennis Richardson (diplomat)
 Australia,ambassador to the United States of America,Kim Beazley,Q304561,2010-02-17,2016-01-22,male,1948-12-14,,Kim Beazley crop.jpg,Kim Beazley
 Australia,ambassador to the United States of America,Joe Hockey,Q6210353,2016-01-29,,male,1965-08-02,,Joe Hockey portrait 2.jpg,Joe Hockey
+Australia,Permanent Representative to the United Nations,Gillian Bird,Q17303605,2015-02,2019-10-17,female,,,Gillian Bird.jpg,Gillian Bird
 Australia,Permanent Representative to the United Nations,Mitch Fifield,Q6880868,2019-10-17,,male,1967-01-16,,Mitch Fifield DFAT.jpg,Mitch Fifield
 Australia,Lord Mayor of Adelaide,Jane Lomax-Smith,Q6152492,1997,2000,female,1950-06-19,,,Jane Lomax-Smith
 Australia,Lord Mayor of Adelaide,Alfred Huang,Q53232106,2000,2003,male,,,,

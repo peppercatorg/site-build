@@ -1,5 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q105709059,Jelena Pavičić Vukičević,female,1975-09-02,11,,,Jelena Pavičić Vukičević.png,Jelena Pavičić Vukičević
+Q106703553,Ivana Kekin,female,,,,,,
 Q10853815,Mirando Mrsić,male,1959-10-14,11,,,M mrsic.jpg,Mirando Mrsić
 Q109943666,Mato Crkvenac,male,1945-02-20,11,,,,
 Q109944448,Kristian Turkalj,male,,,,,,
@@ -8,11 +9,82 @@ Q111194379,Ivan Paladina,male,1983-06-12,11,,,,Ivan Paladina
 Q111893514,Anja Šimpraga,female,1987-07-23,11,,,,
 Q111893601,Davor Filipović,male,1984-06-10,11,,,,
 Q111893657,Marin Piletić,male,1983-01-12,11,,,,
+Q11215968,Urša Raukar,female,1960-05-18,11,,,ZagrebJeNAŠ!2017 MimaDanijelaTomislavUrsa zaKulturu 6562-682×1024 (cropped for Ursa).jpg,Urša Raukar-Gamulin
 Q112961494,Marko Primorac,male,1984-10-25,11,,,,
+Q113453272,Anamarija Blažević,,,,,,,
+Q113453273,Andreja Marić,,,,,,,
+Q113453274,Anita Pocrnić-Radošević,,,,,,,
+Q113453275,Ankica Zmaić,,,,,,,
+Q113453276,Ante Deur,,,,,,,
+Q113453277,Ante Kujundžić,,,,,,,
+Q113453278,Barbara Antolić Vupora,,,,,,,
+Q113453279,Boška Ban Vlahek,,,,,,,
+Q113453280,Damir Bakić,,,,,,,
+Q113453281,Damir Habijan,,,,,,,
+Q113453282,Daniel Spajić,,,,,,,
+Q113453283,Dario Zurovec,,,,,,,
+Q113453284,Darko Klasić,,,,,,,
+Q113453285,Darko Sobota,,,,,,,
+Q113453286,Davor Dretar,,,,,,,
+Q113453287,Emil Daus,,,,,,,
+Q113453288,Erik Fabijanić,,,,,,,
+Q113453289,Goran Ivanović,,,,,,,
+Q113453290,Hrvoje Šimić,,,,,,,
+Q113453291,Irena Šimunić,,,,,,,
+Q113453292,Ivan Budalić,,,,,,,
+Q113453293,Ivan Radić,,,,,,,
+Q113453294,Ivana Posavec Krivec,,,,,,,
+Q113453295,Josip Begonja,,,,,,,
+Q113453296,Josip Šarić,,,,,,,
+Q113453297,Jure Brkan,,,,,,,
+Q113453298,Katarina Nemet,,,,,,,
+Q113453299,Katica Glamuzina,,,,,,,
+Q113453301,Krešimir Ačkar,,,,,,,
+Q113453302,Krunoslav Katičić,,,,,,,
+Q113453303,Ljubomir Kolarek,,,,,,,
+Q113453304,Luka Brčić,,,,,,,
+Q113453305,Magdalena Komes,,,,,,,
+Q113453306,Maja Grba-Bujević,,,,,,,
+Q113453307,Majda Burić,,,,,,,
+Q113453308,Marin Lerotić,,,,,,,
+Q113453309,Marin Mandarić,,,,,,,
+Q113453310,Marin Miletić,,,,,,,
+Q113453311,Marina Opačak Bilić,,,,,,,
+Q113453312,Marko Milanović Litre,,,,,,,
+Q113453313,Martina Vlašić Iljkić,,,,,,,
+Q113453314,Matko Kuzmanić,,,,,,,
+Q113453315,Milan Vrkljan,,,,,,,
+Q113453316,Mirela Ahmetović,,,,,,,
+Q113453317,Miroslav Škoro,,,,,,,
+Q113453318,Mišel Jakšić,,,,,,,
+Q113453319,Nadica Dreven Budinski,,,,,,,
+Q113453320,Natalija Martinčević,,,,,,,
+Q113453321,Nevenko Barbarić,,,,,,,
+Q113453322,Nikola Mažar,,,,,,,
+Q113453323,Nikolina Baradić,,,,,,,
+Q113453324,Nikša Vukas,,,,,,,
+Q113453325,Rade Šimičević,,,,,,,
+Q113453326,Radoje Vidović,,,,,,,
+Q113453327,Renata Sabljar-Dračevac,,,,,,,
+Q113453328,Romana Nikolić,,,,,,,
+Q113453329,Ružica Vukovac,,,,,,,
+Q113453330,Sanja Radolović,,,,,,,
+Q113453331,Sanja Udović,,,,,,,
+Q113453332,Siniša Jenkač,,,,,,,
+Q113453333,Stephen Nikola Bartulica,,,,,,,
+Q113453334,Stipan Šašlin,,,,,,,
+Q113453335,Stipo Mlinarić,,,,,,,
+Q113453336,Tomislav Okroša,,,,,,,
+Q113453337,Vesna Vučemilović,,,,,,,
+Q113453338,Vinko Grgić,,,,,,,
+Q113453339,Zvane Brumnić,,,,,,,
+Q113453340,Zvonimir Troskot,,,,,,,
+Q113453341,Željko Pavić,,,,,,,
+Q113453489,Vesna Nađ,female,,,,,,
 Q11685764,Andrej Plenković,male,1970-04-08,11,,,BSF 2021 Andrej Plenković (cropped).jpg,Andrej Plenković
 Q1253879,Vlasta Pavić,female,1957-05-24,11,,,,Vlasta Pavić
 Q1261965,Mirela Holy,female,1971-12-15,11,,,M holy.jpg,Mirela Holy
-Q12627022,Ante Sanader,male,1960-05-17,11,,,,
+Q12627022,Croatian politician,male,1960-05-17,11,,,,
 Q12628147,Boris Miletić,male,1975-09-02,11,,,Boris Miletić.JPG,Boris Miletić
 Q12628155,Boris Vujčić,male,1964-06-02,11,,,Boris Vujčić.jpg,Boris Vujčić
 Q12628161,Borislav Škegro,male,1955,9,,,,
@@ -24,7 +96,9 @@ Q12631623,Goran Dodig,male,1947-05-26,11,,,,
 Q12631651,Gordan Maras,male,1974-06-13,11,,,G maras.jpg,Gordan Maras
 Q12636268,Marijan Mlinarić,male,1943-02-13,11,2007-09-04,11,,
 Q12638272,Neven Ljubičić,male,1963-05-01,11,,,,Neven Ljubičić
-Q12640934,Radovan Fuchs,male,1953-09-05,11,,,,Radovan Fuchs
+Q12640934,Radovan Fuchs,male,1953-09-05,11,,,Radovan Fuchs 2022.jpg,Radovan Fuchs
+Q12644663,Vili Matula,male,1962-03-05,11,,,,Vili Matula
+Q12646310,Željko Sačić,male,,,,,,
 Q1265518,Ana Lovrin,female,1953-12-02,11,,,,Ana Lovrin
 Q1271876,Ivan Grubišić,male,1936-06-20,11,2017-03-19,11,Grubisic ivan.jpg,Ivan Grubišić
 Q12752142,Ivan Pernar,male,1985-10-14,11,,,Ivan Pernar at eviction in 2017 (cropped).jpg,"Ivan Pernar (politician, born 1985)"
@@ -35,11 +109,14 @@ Q1287389,Zlatko Tomčić,male,1945-07-10,11,,,Zlatko Tomcic.jpg,Zlatko Tomčić
 Q1288809,Berislav Rončević,male,1960-06-23,11,,,Berislav Rončević.jpg,Berislav Rončević
 Q12956737,Davor Ivo Stier,male,1972-01-06,11,,,Davor Ivo Stier February 2017 (32903349825).jpg,Davor Ivo Stier
 Q12958427,Mihael Zmajlović,male,1978-01-19,11,,,Zmajlovic.jpg,Mihael Zmajlović
+Q12960651,Zdravka Bušić,female,1950-09-06,11,,,Zdravka Bušić (cropped).jpg,Zdravka Bušić
 Q1337804,Gordan Jandroković,male,1967-08-02,11,,,Gordan Jandroković 25-06-09.jpg,Gordan Jandroković
 Q1393117,Ivo Banac,male,1947-03-01,11,2020-06-30,11,,Ivo Banac
 Q146496,Stjepan Mesić,male,1934-12-24,11,,,Mesic May 06.jpg,Stjepan Mesić
 Q1564326,Andro Vlahušić,male,1960-05-17,11,,,,Andro Vlahušić
+Q16109264,Nino Raspudić,male,1975,9,,,"Nino Raspudić and Iko Skoko in Mostar, 2014 (cropped on Nino Raspudić).jpg",Nino Raspudić
 Q16111501,Anka Mrak Taritaš,female,1959-11-24,11,,,Anka Mrak Taritaš (cropped).jpg,Anka Mrak-Taritaš
+Q16113716,Karolina Vidović-Krišto,female,1975,9,,,Karolina-Vidovic-Kristo1.JPG,
 Q16114858,Božo Petrov,male,1979-10-16,11,,,PetrovBožo.png,Božo Petrov
 Q16115028,Ingrid Antičević-Marinović,female,1957-10-04,11,,,Ingrid Antičević Marinović.jpg,Ingrid Antičević-Marinović
 Q16115922,Krešo Beljak,male,1971-08-22,11,,,Krešo Beljak.jpg,Krešo Beljak
@@ -74,6 +151,7 @@ Q2501717,Željka Antunović,female,1955-09-15,11,,,20 obljetnica osnivanja OS RH
 Q25497953,Boris Lalovac,male,1976-11-16,11,,,Boris Lalovac.jpg,Boris Lalovac
 Q25499604,Pavo Barišić,male,1959-09-09,11,,,Barisicpavo.jpg,Pavo Barišić
 Q2590916,Milorad Pupovac,male,1955-11-05,11,,,Pupovac.jpg,Milorad Pupovac
+Q2607883,Damir Bajs,male,1964-10-07,11,,,Damir Bajs 25-06-09.jpg,Damir Bajs
 Q2617559,Tonino Picula,male,1961-08-31,11,,,Tonino picula.jpg,Tonino Picula
 Q2618680,Ranko Ostojić,male,1962-10-03,11,,,R ostojic.jpg,Ranko Ostojić
 Q2619574,Davor Božinović,male,1961-12-27,11,,,20 obljetnica osnivanja OS RH Davor Bozinovic 26052011 2.jpg,Davor Božinović
@@ -86,20 +164,25 @@ Q266812,Ivan Šuker,male,1957-11-12,11,,,Ivan Šuker.jpg,Ivan Šuker
 Q2704430,Ivan Aralica,male,1930-09-10,11,,,Aralica.jpg,Ivan Aralica
 Q27468700,Nina Obuljen Koržinek,female,1970-05-27,11,,,Nina Obuljen Korzinek.jpg,Nina Obuljen Koržinek
 Q27537240,Tomislav Ćorić,male,1979-11-17,11,,,Tomislav Ćorić (cropped).jpg,Tomislav Ćorić
+Q27537243,Nada Murganić,female,1958-01-14,11,,,,Nada Murganić
 Q27537248,Ivan Kovačić,male,1974-04-25,11,,,,Ivan Kovačić
 Q28962281,Bruna Esih,female,1975-05-20,11,,,,Bruna Esih
 Q2986845,Milanka Opačić,female,1968-04-17,11,,,M opacic.jpg,Milanka Opačić
 Q30111243,Marija Pejčinović Burić,female,1963-04-09,11,,,2020-10-20 Marija Pejčinović Burić.jpg,Marija Pejčinović Burić
+Q30231738,Predrag Štromar,male,1969-01-13,11,,,Ministar Stromar.jpg,Predrag Štromar
 Q30231742,Blaženka Divjak,female,1967-01-01,11,,,Blaženka Divjak (36017330981).jpg,Blaženka Divjak
+Q30231743,Marko Pavić,male,1979-06-18,11,,,,
 Q3109021,Ivan Jakovčić,male,1957-11-15,11,,,16 obljetnica vojnoredarstvene operacije Oluja 04082011 Ivan Jakovcic 863.jpg,Ivan Jakovčić
 Q31200370,Nikola Grmoja,male,1981-07-28,11,,,,
 Q315467,Ivica Račan,male,1944-02-24,11,2007-04-29,11,Ivica Račan facingleft.jpg,Ivica Račan
 Q3176299,Kolinda Grabar-Kitarović,female,1968-04-29,11,,,Kolinda Grabar-Kitarovićile (34771463620).jpg,Kolinda Grabar-Kitarović
+Q31763154,Andro Krstulović Opara,male,1967-05-22,11,,,,Andro Krstulović Opara
 Q3335768,Nansi Ivanišević,female,1957-06-11,11,,,,
 Q342153,Đurđa Adlešič,female,1960-04-18,11,,,Đurđa Adlešič 25-06-09.jpg,Đurđa Adlešič
 Q3441723,Jozo Radoš,male,1956-11-03,11,,,Jozo Rados Svecanost podizanja NATOve zastave Zagreb 13.jpg,Jozo Radoš
 Q3443168,Neven Mimica,male,1953-10-12,11,,,N mimica.jpg,Neven Mimica
 Q3446032,Željko Jovanović,male,1965-11-26,11,,,Z jovanovic.jpg,Željko Jovanović (politician)
+Q3449649,Ante Prkačin,male,1953-11-14,11,,,,Ante Prkačin
 Q3501349,Martina Dalić,female,1967-11-12,11,,,,Martina Dalić
 Q3508970,Zdenko Škrabalo,male,1929-08-04,11,2014-01-12,11,,Zdenko Škrabalo
 Q3513267,Pavao Miljavac,male,1953-04-03,11,,,Pavao Miljavac.jpg,Pavao Miljavac
@@ -212,15 +295,21 @@ Q5223754,Darko Milinović,male,1963-04-25,11,,,Darko Milinović 25-06-09.jpg,Dar
 Q5242086,Davor Bernardić,male,1980-01-05,11,,,Davor Bernardić.png,Davor Bernardić
 Q5242091,Davor Domazet-Lošo,male,1948,9,,,Davor Domazet-Lošo (cropped).jpg,Davor Domazet-Lošo
 Q54810256,Darko Horvat,male,1970-09-28,11,,,DarkoHorvat final.jpg,Darko Horvat (politician)
+Q55081305,Mato Franković,male,1982-02-23,11,,,Mato Franković.jpg,Mato Franković
 Q56220,Ivo Sanader,male,1953-06-08,11,,,Svecanost podizanja NATOve zastave Zagreb 67.jpg,Ivo Sanader
+Q56409787,Croatian politician,female,1974,9,,,,
 Q571574,Ante Kotromanović,male,1968-05-08,11,,,A kotromanovic.jpg,Ante Kotromanović
 Q57258,Ivo Josipović,male,1957-08-28,11,,,16 obljetnica vojnoredarstvene operacije Oluja Ivo Josipovic 04082011 c 876.jpg,Ivo Josipović
 Q57611,Jadranka Kosor,female,1953-07-01,11,,,Jadranka Kosor 2009 crop.jpg,Jadranka Kosor
 Q57687,Zoran Milanović,male,1966-10-30,11,,,Zoran Milanović at Palazzo del Quirinale 2021 (16) (cropped).jpg,Zoran Milanović
 Q58191,Vesna Pusić,female,1953-03-25,11,,,20 obljetnica osnivanja OS RH Vesna Pusic 26052011 2.jpg,Vesna Pusić
+Q60602608,Dalija Orešković,female,1977-06-18,11,,,Dalija Oreskovic.jpg,Dalija Orešković
 Q61062167,Ivan Penić,male,1954-11-12,11,,,,
+Q61062198,Marija Selak Raspudić,female,1982-03-14,11,,,,
+Q61062829,Croatian politician,,,,,,,
 Q62990563,Romana Jerković,female,1964-11-28,11,,,Romana Jerković EU službeno.jpg,Romana Jerković
 Q6314835,Juraj Njavro,male,1938-07-02,11,2008-09-15,11,,Juraj Njavro
+Q65133065,Marijana Puljak,female,1971-08-19,11,,,,
 Q65704442,Ivan Malenica,male,1985-07-21,11,,,,Ivan Malenica (politician)
 Q65922295,Josip Aladrović,male,1985-03-10,11,,,,
 Q65922777,Marija Vučković,female,1974-07-03,11,,,,Marija Vučković
@@ -232,15 +321,21 @@ Q7104130,Orsat Miljenić,male,1968-09-15,11,,,O miljanic.jpg,Orsat Miljenić
 Q7286273,Rajko Ostojić,male,1962-01-19,11,,,Rajko Ostojic.jpg,Rajko Ostojić
 Q73003534,Ana Stavljenić-Rukavina,female,,,,,,
 Q7539437,Slavko Linić,male,1949-09-19,11,,,S linic.jpg,Slavko Linić
+Q7714848,Davorko Vidović,male,1956,9,,,,
 Q8075577,Zvonimir Šeparović,male,1928-09-14,11,2022-01-30,11,,Zvonimir Šeparović
 Q83985420,Nikolina Brnjac,female,1978-07-11,11,,,EU budget debate ahead of crucial summit - with Nikolina Brnjac (Council) (49524883806).jpg,Nikolina Brnjac
-Q86458127,Vili Beroš,male,1964-12-13,11,,,,Vili Beroš
+Q85966598,Croatian politician,,,,,,,
+Q86458127,Vili Beroš,male,1964-12-13,11,,,Vili Beroš.png,Vili Beroš
 Q898543,Branimir Glavaš,male,1956-09-23,11,,,,Branimir Glavaš
 Q898723,Branko Vukelić,male,1958-03-09,11,2013-05-03,11,Svecanost podizanja NATOve zastave Zagreb 63.jpg,Branko Vukelić
 Q928356,Miroslav Tuđman,male,1946-05-25,11,2021-01-31,11,Miroslav Tuđman.jpg,Miroslav Tuđman
 Q933740,Tomislav Karamarko,male,1959-05-25,11,,,Tomislav Karamarko 2009.JPG,Tomislav Karamarko
 Q96250350,Tomislav Tomašević,male,1982-01-13,11,,,Mozemo! 20202 sedmorka u Saboru RH.jpg,Tomislav Tomašević
 Q96951771,Ivica Tomić,male,1941-03-13,11,,,,
+Q97066172,Croatian politician,,1981-09-11,11,,,,
 Q971354,Ivan Šimonović,male,1959-05-02,11,,,Ivan Šimonović (cropped).jpg,Ivan Šimonović
+Q97236508,Ivan Penava,,,,,,,
 Q97654605,Nataša Tramišak,female,1982-05-06,11,,,,Nataša Tramišak
 Q97671314,Boris Milošević,male,1974-11-05,11,,,Boris Milošević2.png,Boris Milošević
+Q982428,Marijana Petir,female,1975-10-04,11,,,,Marijana Petir
+Q98373856,Sandra Benčić,female,1978-01-28,11,,,,

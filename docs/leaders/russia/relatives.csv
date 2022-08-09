@@ -125,6 +125,7 @@ Russia,Q32024,Sergey Shoygu,father,Q17287361,Kuzhuget Shoygu
 Russia,Q32024,Sergey Shoygu,mother,Q17287363,Aleksandra Shoygu
 Russia,Q32024,Sergey Shoygu,sibling,Q4525925,Larisa Flamenbaum
 Russia,Q32024,Sergey Shoygu,spouse,Q17287325,Irina Shoygu
+Russia,Q3400285,Dmitry Pevtsov,father,Q20742134,"Певцов, Анатолий Иванович"
 Russia,Q3400285,Dmitry Pevtsov,spouse,Q4168456,Olga Drozdova
 Russia,Q3479763,Sergey Pugachyov,child,Q2833979,Alexandre Pougatchev
 Russia,Q3479763,Sergey Pugachyov,partner,Q4720766,Alexandra Tolstoy
@@ -189,12 +190,15 @@ Russia,Q4298520,Mikhail Mishustin,spouse,Q82751268,Vladlena Mishustina
 Russia,Q4309028,Zelimkhan Mutsoyev,sibling,Q17142371,Amirkhan Mori
 Russia,Q4317737,Andrey Nesterenko,father,Q4317736,"Нестеренко, Алексей Ефремович"
 Russia,Q43231501,Anna Kuvychko,spouse,Q57913764,Роланд Тамазович Херианов
+Russia,Q4362189,Maksim Peshkov,father,Q2042833,Aleksandr Grave
+Russia,Q4362189,Maksim Peshkov,mother,Q4362197,Darya Peshkova
 Russia,Q4364960,Aleksandr Pleshakov,father,Q4364962,Pyotr Pleshakov
 Russia,Q4364960,Aleksandr Pleshakov,mother,Q4066788,Tatiana Anodina
 Russia,Q4364960,Aleksandr Pleshakov,spouse,Q4364964,Olga Pleshakova
 Russia,Q4371978,Ilya Ponomarev,father,Q70248527,Vladimir Ponomaryov
 Russia,Q4371978,Ilya Ponomarev,mother,Q106734231,Larisa Ponomaryova
 Russia,Q4375286,Alexander Pochinok,spouse,Q21154097,Natalya Pochinok
+Russia,Q4391144,Vladimir Rakhmanin,father,Q4391139,Oleg Rakhmanin
 Russia,Q4391661,Yevgeny Revenko,spouse,Q4263452,Elizaveta Listova
 Russia,Q4395840,"Родионов, Юрий Николаевич",child,Q54492812,Inna Svyatenko
 Russia,Q44371,Valentina Tereshkova,child,Q110415240,Elena Tereshkova
@@ -263,6 +267,7 @@ Russia,Q6097047,Ivan Musatov,father,Q14920892,Mikhail Musatov
 Russia,Q612244,Yury Chaika,child,Q105078108,Igor Chaika
 Russia,Q612244,Yury Chaika,child,Q21617046,Artem Chaika
 Russia,Q65768417,Anastasia Udalcova,spouse,Q713923,Sergei Udaltsov
+Russia,Q690673,Vladimir Chkhikvadze,father,Q4518453,Viktor Chkhikvadze
 Russia,Q70250998,Viktor Kondratov,child,Q101077271,Ruslan Viktorovich Kondratov
 Russia,Q737463,Dmitry Rogozin,child,Q16692250,Alexey Rogozin
 Russia,Q737463,Dmitry Rogozin,father,Q4395590,Oleg Rogozin

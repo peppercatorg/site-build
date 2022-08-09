@@ -1,5 +1,5 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-South Korea,Member of National Assembly of South Korea,Kim Hyŏng-o,Q87652783,1992-05-30,2012-05-29,male,1947-11-30,,,Kim Hyong-o
+South Korea,Member of National Assembly of South Korea,Kim Hyŏng-o,Q87652783,1992-05-30,2012-05-29,male,1947-11-30,,Kim Hyong-o 2010.jpg,Kim Hyong-o
 South Korea,Member of National Assembly of South Korea,Jin-Cheol Im,Q19940927,1996-05,2000-05,female,1941-10-10,,,
 South Korea,Member of National Assembly of South Korea,Chung Sye-kyun,Q11270093,1996-05-30,2000-05-29,male,1950-11-05,,Chung Sye-kyun.jpg,Chung Sye-kyun
 South Korea,Member of National Assembly of South Korea,Choo Mi-ae,Q11274387,1996-05-30,2000-05-29,female,1958-10-23,,Choo Mi-ae ministerial portrait.png,Choo Mi-ae
@@ -50,7 +50,7 @@ South Korea,Member of National Assembly of South Korea,Hong Moon-jong,Q12625372,
 South Korea,Member of National Assembly of South Korea,Rhyu Si-min,Q488339,2003-04-25,2004-05-29,male,1959-07-28,,160824 Rhyu Si-min.png,Rhyu Si-min
 South Korea,Member of National Assembly of South Korea,Kang Chang-il,Q10855142,2004-05-30,2008-05-29,male,1952-01-28,,Kang Chang-il in 2020.jpg,Kang Chang-il
 South Korea,Member of National Assembly of South Korea,김원웅,Q10855863,2004-05-30,2008-05-29,male,1944,,,
-South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2004-05-30,2008-05-29,male,1947-05-04,,,Kim Jin-pyo (politician)
+South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2004-05-30,2008-05-29,male,1947-05-04,,Kim Jin-pyo 2022-07.jpg,Kim Jin-pyo (politician)
 South Korea,Member of National Assembly of South Korea,Kim Han-gil,Q10855915,2004-05-30,2008-05-29,male,1953-09-17,,Kim Han-Gil (cropped).jpg,Kim Han-gil
 South Korea,Member of National Assembly of South Korea,Park Se-il,Q11243258,2004-05-30,2005-03-25,male,1948-05-12,2017-01-13,,
 South Korea,Member of National Assembly of South Korea,Sim Sang-jung,Q11255427,2004-05-30,2008-02-14,female,1959-02-20,,Sim Sang-jung taking a commemorative photo with the Speaker of the National Assembly.jpg,Sim Sang-jung
@@ -355,7 +355,7 @@ South Korea,Member of National Assembly of South Korea,Go Huiseon,Q12584521,2007
 South Korea,Member of National Assembly of South Korea,Kim Hong-eop,Q12589329,2007-04-26,2008-05-29,male,1950-07-29,,,
 South Korea,Member of National Assembly of South Korea,Shim Dae-pyeong,Q624445,2007-04-26,2008-05-29,male,1941-04-07,,,
 South Korea,Member of National Assembly of South Korea,Kang Chang-il,Q10855142,2008-05-30,2012-05-29,male,1952-01-28,,Kang Chang-il in 2020.jpg,Kang Chang-il
-South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2008-05-30,2012-05-29,male,1947-05-04,,,Kim Jin-pyo (politician)
+South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2008-05-30,2012-05-29,male,1947-05-04,,Kim Jin-pyo 2022-07.jpg,Kim Jin-pyo (politician)
 South Korea,Member of National Assembly of South Korea,Won Hye-young,Q11263813,2008-05-30,2012-05-29,male,1951-09-27,,,
 South Korea,Member of National Assembly of South Korea,Lee Kwang-jae,Q11265419,2008-05-30,2010-04-28,male,1965-02-28,,,Lee Kwang-jae (politician)
 South Korea,Member of National Assembly of South Korea,Lee In-je,Q11266541,2008-05-30,2012-05-29,male,1948-12-11,,2006년 11월 9일 국회의원 이인제 (cropped).jpg,Lee In-je
@@ -678,7 +678,7 @@ South Korea,Member of National Assembly of South Korea,Kim Tae-ho,Q128284,2011-0
 South Korea,Member of National Assembly of South Korea,Sohn Hak-kyu,Q624531,2011-04-28,2012-05-29,male,1947-11-22,,Sohn Hak-kyu taking a commemorative photo at the National Assembly.jpg,Sohn Hak-kyu
 South Korea,Member of National Assembly of South Korea,Kyŏng-sik Sŏn,Q12601645,2012-01-26,2012-04-27,male,1949-02-10,2012-04-27,,
 South Korea,Member of National Assembly of South Korea,Kang Chang-il,Q10855142,2012-05-30,2016-05-29,male,1952-01-28,,Kang Chang-il in 2020.jpg,Kang Chang-il
-South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2012-05-30,2014-05-15,male,1947-05-04,,,Kim Jin-pyo (politician)
+South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2012-05-30,2014-05-15,male,1947-05-04,,Kim Jin-pyo 2022-07.jpg,Kim Jin-pyo (politician)
 South Korea,Member of National Assembly of South Korea,Kim Han-gil,Q10855915,2012-05-30,2016-05-29,male,1953-09-17,,Kim Han-Gil (cropped).jpg,Kim Han-gil
 South Korea,Member of National Assembly of South Korea,Sim Sang-jung,Q11255427,2012-05-30,2016-05-29,female,1959-02-20,,Sim Sang-jung taking a commemorative photo with the Speaker of the National Assembly.jpg,Sim Sang-jung
 South Korea,Member of National Assembly of South Korea,Won Hye-young,Q11263813,2012-05-30,2016-05-29,male,1951-09-27,,,
@@ -1010,7 +1010,7 @@ South Korea,Member of National Assembly of South Korea,장정은,Q21060120,2015-
 South Korea,Member of National Assembly of South Korea,신문식,Q22974289,2015-08-24,2016-05-29,male,1955-03-28,,,
 South Korea,Member of National Assembly of South Korea,정윤숙,Q24856460,2016-01-22,2016-05-29,female,1956,,,
 South Korea,Member of National Assembly of South Korea,Kang Chang-il,Q10855142,2016-05-30,2020-05-29,male,1952-01-28,,Kang Chang-il in 2020.jpg,Kang Chang-il
-South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2016-05-30,2020-05-29,male,1947-05-04,,,Kim Jin-pyo (politician)
+South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2016-05-30,2020-05-29,male,1947-05-04,,Kim Jin-pyo 2022-07.jpg,Kim Jin-pyo (politician)
 South Korea,Member of National Assembly of South Korea,Sim Sang-jung,Q11255427,2016-05-30,2020-05-29,female,1959-02-20,,Sim Sang-jung taking a commemorative photo with the Speaker of the National Assembly.jpg,Sim Sang-jung
 South Korea,Member of National Assembly of South Korea,Won Hye-young,Q11263813,2016-05-30,2020-05-29,male,1951-09-27,,,
 South Korea,Member of National Assembly of South Korea,Chung Sye-kyun,Q11270093,2016-05-30,2020-05-29,male,1950-11-05,,Chung Sye-kyun.jpg,Chung Sye-kyun
@@ -1329,7 +1329,7 @@ South Korea,Member of National Assembly of South Korea,Yeo Yeong-gug,Q28700301,2
 South Korea,Member of National Assembly of South Korea,Jeong Jeom-sig,Q62690074,2019-04-04,2020-05-29,male,1965-07-15,,,Jeong Jeom-sig
 South Korea,Member of National Assembly of South Korea,Jung Eun-hye,Q12615902,2019-10-11,2020-05-29,female,1983-09-08,,,
 South Korea,Member of National Assembly of South Korea,허윤정,Q85414433,2020-01-30,2020-05-29,female,1969-03-09,,,
-South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2020-05-30,,male,1947-05-04,,,Kim Jin-pyo (politician)
+South Korea,Member of National Assembly of South Korea,Kim Jin-pyo,Q10855898,2020-05-30,,male,1947-05-04,,Kim Jin-pyo 2022-07.jpg,Kim Jin-pyo (politician)
 South Korea,Member of National Assembly of South Korea,Sim Sang-jung,Q11255427,2020-05-30,,female,1959-02-20,,Sim Sang-jung taking a commemorative photo with the Speaker of the National Assembly.jpg,Sim Sang-jung
 South Korea,Member of National Assembly of South Korea,Lee Kwang-jae,Q11265419,2020-05-30,2022-04-29,male,1965-02-28,,,Lee Kwang-jae (politician)
 South Korea,Member of National Assembly of South Korea,Yoon Mee-hyang,Q11464859,2020-05-30,,female,1964,,Yoonmeehyang2020.png,Yoon Mee-hyang

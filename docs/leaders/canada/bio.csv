@@ -1,7 +1,7 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q1000502,Bud Olson,male,1925-10-06,11,2002-02-14,11,,Bud Olson
 Q100937829,Ya'ara Saks,female,1973,9,,,,Ya'ara Saks
-Q104551133,Richard Ames,male,,,,,,Richard Ames (politician)
+Q104551133,Richard Ames,male,,,,,Richard Ames (2).jpg,Richard Ames (politician)
 Q105038341,Eric Mallet,male,,,,,,Eric Mallet
 Q105490025,Tako van Popta,male,1953,9,,,,Tako van Popta
 Q1063889,Charles Caccia,male,1930-04-28,11,2008-05-03,11,,Charles Caccia
@@ -9,7 +9,7 @@ Q107278146,Mahmud Jamal,male,1967,9,,,,Mahmud Jamal
 Q108312609,John White,male,,,,,,John White (Nova Scotia politician)
 Q108619058,Bonita Zarrillo,female,,,,,,Bonita Zarrillo
 Q108619065,Mike Morrice,male,1984,9,,,Mike Morrice.jpg,Mike Morrice
-Q108619068,Melissa Lantsman,female,1984,9,,,,Melissa Lantsman
+Q108619068,Melissa Lantsman,female,1984,9,,,MelissaLantsman2022.jpg,Melissa Lantsman
 Q108619069,Lori Idlout,female,,,,,,Lori Idlout
 Q108619080,Michelle Ferreri,female,,,,,,Michelle Ferreri
 Q108628440,Blake Desjarlais,two-spirt,1993-12-29,11,,,,Blake Desjarlais
@@ -223,9 +223,9 @@ Q17513253,David Yurdiga,male,1964-03-26,11,,,,David Yurdiga
 Q17631083,Jocelyne Roy-Vienneau,female,1956,9,2019-08-02,11,Jocelyne Roy-Vienneau.jpg,Jocelyne Roy-Vienneau
 Q178944,Greg Selinger,male,1951-02-16,11,,,Greg Selinger 2010.jpg,Greg Selinger
 Q18149585,Benoît Bourque,male,,7,,,,Benoît Bourque
-Q18149828,Jeff Carr,male,,,,,,Jeff Carr (Canadian politician)
+Q18149828,Jeff Carr,male,,,,,Jeff Carr (2).jpg,Jeff Carr (Canadian politician)
 Q18149930,Chuck Chiasson,male,,,,,,Chuck Chiasson
-Q18150265,Gary Crossman,male,1955-03-10,11,,,,Gary Crossman
+Q18150265,Gary Crossman,male,1955-03-10,11,,,Gary Crossman.jpg,Gary Crossman
 Q18164931,Daniel Guitard,male,1959-10-01,11,,,,Daniel Guitard
 Q18164963,Lisa Harris,female,,7,,,Lisa Harris - Highland Games Festival Festival (35852929270) (cropped).jpg,Lisa Harris (politician)
 Q18164964,Andrew Harvey,male,,7,,,,Andrew Harvey (politician)
@@ -235,11 +235,11 @@ Q18165811,Francine Landry,female,1958-06-14,11,,,,Francine Landry
 Q18165829,Monique LeBlanc,female,,7,,,,Monique LeBlanc
 Q18167865,Michael Connolly,male,1994-03-03,11,,,Michael Connolly 2015.jpg,Michael Connolly (Canadian politician)
 Q18167937,Gilles LePage,male,1966,9,,,,Gilles LePage
-Q18167984,Bill Oliver,male,,,,,,Bill Oliver (politician)
+Q18167984,Bill Oliver,male,,,,,Bill Oliver.jpg,Bill Oliver (politician)
 Q18168015,Cathy Rogers,female,,,,,,Cathy Rogers (politician)
 Q18168022,Wilfred Roussel,male,,,,,,Wilfred Roussel
 Q18168023,Serge Rousselle,male,,,,,,Serge Rousselle
-Q18168079,Ernie Steeves,male,1961-02-12,11,,,,Ernie Steeves
+Q18168079,Ernie Steeves,male,1961-02-12,11,,,Ernie Steeves.jpg,Ernie Steeves
 Q18344762,Mike Ellis,male,1973-01-09,11,,,Mike Ellis UCP.jpg,Mike Ellis (Canadian politician)
 Q18378327,Muriel Baillie,female,1935-07-04,11,2018-09-22,11,,Muriel Baillie
 Q18378925,Brian Bowman,male,1971-08-18,11,,,Winnipeg Mayor Brian Bowman - 2017 (37017567232) (cropped).jpg,Brian Bowman (politician)
@@ -251,6 +251,7 @@ Q1849355,Mike Scott,male,1958-12-14,11,,,The Waterboys - Festival du Bout du Mon
 Q1849885,Randy White,male,1953-01-15,11,,,Randy White signs autographs Jan 2014.jpg,Randy White (American football)
 Q18685856,Jim Eglinski,male,1948-12-15,11,,,,Jim Eglinski
 Q18705159,Derek Fildebrandt,male,1985-10-18,11,,,"Derek Fildebrandt, MLA.jpg",Derek Fildebrandt
+Q18720188,Pat Perkins,female,1953-09-03,11,,,,Pat Perkins
 Q18720209,Scott Reid,male,,,,,"Scott Reid near where he grew up in Jeffries, Newfoundland and Labrador. July 2018.jpg",Scott Reid (Newfoundland and Labrador politician)
 Q1873388,Lucien Bouchard,male,1938-12-22,11,,,Lucien Bouchard 2009.png,Lucien Bouchard
 Q1892814,Thomas Mulcair,male,1954-10-24,11,,,Mulcair-CatherinePinas-NB (cropped 2).jpg,Tom Mulcair
@@ -260,7 +261,7 @@ Q19428856,Jane Philpott,female,1960-11-23,11,,,Jane Philpott (cropped).jpg,Jane 
 Q19428900,Jody Wilson-Raybould,female,1971-03-23,11,,,Jody Wilson-Raybould (cropped).jpg,Jody Wilson-Raybould
 Q19605003,Sylvain Rochon,male,1961-05-24,11,,,,Sylvain Rochon
 Q19629790,Michel Charbonneau,male,1948-09-23,11,,,,Michel Charbonneau
-Q1964656,Kate White,female,1977-04-03,11,,,,Kate White (politician)
+Q1964656,Kate White,female,1977-04-03,11,,,Kate White 2021.jpg,Kate White (politician)
 Q1965024,Patti McLeod,female,,,,,,Patti McLeod
 Q1965881,Wade Istchenko,male,,,,,,Wade Istchenko
 Q19825046,Wade MacLauchlan,male,1954-12-10,11,,,Wade MacLauchlan in DC (cropped).jpg,Wade MacLauchlan
@@ -378,7 +379,7 @@ Q21286025,Monique Pauzé,female,1950,9,,,,Monique Pauzé
 Q21296174,Alain Rayes,male,1971-12-11,11,,,Alain Rayes in Louis-Hébert (48129080461) (cropped).jpg,Alain Rayes
 Q21335996,Catherine McKenna,female,1971-08-05,11,,,Catherine McKenna Crop.jpg,Catherine McKenna
 Q21336060,Celina Caesar-Chavannes,female,1974-06-24,11,,,Celina Caesar-Chavannes.jpg,Celina Caesar-Chavannes
-Q21336098,Diane Lebouthillier,female,1959-02-05,11,,,,Diane Lebouthillier
+Q21336098,Diane Lebouthillier,female,1959-02-05,11,,,Diane Lebouthillier.jpg,Diane Lebouthillier
 Q21336208,Marco Mendicino,male,1973-07-28,11,,,,Marco Mendicino
 Q21336246,Harjit Sajjan,male,1970-09-06,11,,,Harjit Sajjan February 2016.jpg,Harjit Sajjan
 Q21356553,Marie-Claude Bibeau,female,1970-03,10,,,Marie-Claude Bibeau in Ukraine - 2018 (MUS0016) (cropped).jpg,Marie-Claude Bibeau
@@ -479,7 +480,7 @@ Q22278589,Kamal Khera,female,1989-02-04,11,,,Kamal Khaira 1.jpg,Kamal Khera
 Q22278594,Fayçal El-Khoury,male,1962-08-10,11,,,,Fayçal El-Khoury
 Q22278635,Robert Kitchen,male,1957,9,,,MPKitchen.jpg,Robert Kitchen
 Q22278649,Tom Kmiec,male,1981-07-31,11,,,,Tom Kmiec
-Q22278827,Paul Lefebvre,male,1974,9,,,,Paul Lefebvre (Canadian politician)
+Q22278827,Paul Lefebvre,male,1974,9,,,Paul MP Sudbury.jpg,Paul Lefebvre (Canadian politician)
 Q22278836,Denis Lemieux,male,1964,9,,,,Denis Lemieux
 Q22278851,Michael Levitt,male,1970-05-09,11,,,,Michael Levitt (politician)
 Q22278896,Lloyd Longfield,male,1956-10-08,11,,,,Lloyd Longfield
@@ -539,8 +540,8 @@ Q2386693,Hélène Alarie,female,1941-06-06,11,,,,Hélène Alarie
 Q23881382,Tina Beaudry-Mellor,female,,,,,,Tina Beaudry-Mellor
 Q23881385,Joe Hargrave,male,,,,,,Joe Hargrave
 Q23881387,Eric Olauson,male,,,,,,Eric Olauson
-Q23881390,Carla Beck,female,,,,,,Carla Beck
-Q23881392,Nicole Sarauer,female,,,,,,Nicole Sarauer
+Q23881390,Carla Beck,female,,,,,Carla Beck 2.jpg,Carla Beck
+Q23881392,Nicole Sarauer,female,,,,,Nicole Sarauer.jpg,Nicole Sarauer
 Q23881394,Nicole Rancourt,female,,,,,,Nicole Rancourt
 Q23881397,Bronwyn Eyre,female,1971-03-13,11,,,,Bronwyn Eyre
 Q23881399,Steven Bonk,male,,,,,,Steven Bonk
@@ -724,7 +725,7 @@ Q2962817,Cheryl Lavoie,female,1946,9,,,,Cheryl Lavoie
 Q2964888,Chris Warkentin,male,1978-11-20,11,,,Chris Warkentin MP 2014.jpg,Chris Warkentin
 Q2965228,Christian Dubé,male,1956-10-03,11,,,Christian Dubé 2.jpg,Christian Dubé (politician)
 Q2965514,Christian Ouellet,male,1934-04-22,11,2021-12-21,11,,Christian Ouellet
-Q2965525,Christian Paradis,male,1974-01-01,11,,,,Christian Paradis
+Q2965525,Christian Paradis,male,1974-01-01,11,,,Christian Paradis - Plan d’action économique.jpg,Christian Paradis
 Q2965637,Christian Simard,male,1954-12-22,11,,,,Christian Simard
 Q2965764,Christiane Gagnon,female,1948-04-16,11,,,Christiane Gagnon 2011-04-01.jpg,Christiane Gagnon
 Q2965998,Christine St-Pierre,female,1953-06-10,11,,,Christine St-Pierre01.JPG,Christine St-Pierre
@@ -768,7 +769,7 @@ Q29904508,Mitzi Dean,female,,,,,Mitzi Dean 2 (33418412612).jpg,Mitzi Dean
 Q29913577,Ellis Ross,male,,,,,Ellis Ross in Vancouver in March 2021.jpg,Ellis Ross
 Q29913639,Peter Milobar,male,1970-02-13,11,,,Pmilobar.jpg,Peter Milobar
 Q299594,Geraldine Van Bibber,female,1951-07-03,11,,,,Geraldine Van Bibber
-Q29964108,Bernadette Smith,female,,,,,,Bernadette Smith
+Q29964108,Bernadette Smith,female,,,,,Bernadette Smith.jpg,Bernadette Smith
 Q2997504,Corneliu Chisu,male,1949-02-13,11,,,Corneliu-chisu.jpg,Corneliu Chisu
 Q299785,Leona Aglukkaq,female,1967-06-28,11,,,Minister Leona Aglukkaq.jpg,Leona Aglukkaq
 Q299936,Lois Hole,female,1929-01-30,11,2005-01-06,11,,Lois Hole
@@ -776,9 +777,9 @@ Q30069902,Ronna-Rae Leonard,female,,,,,Ronna-Rae Leonard.jpg,Ronna-Rae Leonard
 Q30094708,Rafah DiCostanzo,female,1962-05-02,11,,,Rafah DiCostanzo.jpg,Rafah DiCostanzo
 Q30094960,Kim Masland,female,,,,,"Kim Masland, MLA, Queens-Shelburne.jpg",Kim Masland
 Q30095405,Elizabeth Smith-McCrossin,female,1969-07-07,11,,,,Elizabeth Smith-McCrossin
-Q30096861,Claudia Chender,female,,,,,,Claudia Chender
+Q30096861,Claudia Chender,female,,,,,Claudia Chender 2021.jpg,Claudia Chender
 Q30096963,Tammy Martin,female,,,,,,Tammy Martin
-Q30096966,Susan Leblanc,female,,,,,,Susan Leblanc
+Q30096966,Susan Leblanc,female,,,,,Susan Leblanc.jpg,Susan Leblanc
 Q30122700,Anne Kang,female,1977,9,,,Anne Kang.jpg,Anne Kang
 Q30122728,Ian Paton,male,,,,,,Ian Paton (politician)
 Q30122737,Dan Davies,male,,,,,MLA Dan Davies - Peace River North.jpg,Dan Davies (politician)
@@ -841,7 +842,7 @@ Q3035960,Dona Cadman,female,1950-07-09,11,,,,Dona Cadman
 Q3036064,Donald Martel,male,1964-08-07,11,,,DonaldetJB (cropped).jpg,Donald Martel
 Q3036768,Donna Harpauer,female,,7,,,,Donna Harpauer
 Q3037187,Dorothy Shephard,female,,7,,,Dorothy Shephard (2021) (cropped).jpg,Dorothy Shephard
-Q3038389,Doyle Vermette,male,,7,,,,Doyle Vermette
+Q3038389,Doyle Vermette,male,,7,,,Doyle Vermette.jpg,Doyle Vermette
 Q3046379,Earl Dreeshen,male,1953-07-09,11,,,Earl Dreeshen (cropped).jpg,Earl Dreeshen
 Q3047163,Ed Doherty,male,1949-05-22,11,,,Ed Doherty.jpg,Ed Doherty (politician)
 Q3047171,Ed Fast,male,1955-06-18,11,,,Ed Fast visits University of the Fraser Valley.jpg,Ed Fast
@@ -886,7 +887,7 @@ Q3102696,Georges Farrah,male,1957-08-23,11,,,,Georges Farrah
 Q3103893,Gerald Keddy,male,1953-02-15,11,,,,Gerald Keddy
 Q3104104,Germain Chevarie,male,1952-09-10,11,,,,Germain Chevarie
 Q3104325,Gerry Byrne,male,1966-09-27,11,,,Gerry Byrne - Canadian MP.jpg,Gerry Byrne (politician)
-Q3104348,Gerry Ritz,male,1951-08-19,11,,,,Gerry Ritz
+Q3104348,Gerry Ritz,male,1951-08-19,11,,,Gerry Ritz 2013-04-09.jpg,Gerry Ritz
 Q3104353,Gerry Sklavounos,male,1974-12-16,11,,,Gerry Sklavounos Official.jpg,Gerry Sklavounos
 Q3104870,Ghislain Bolduc,male,1952-07-18,11,,,,Ghislain Bolduc
 Q3104875,Ghislain Fournier,male,1938-08-26,11,,,,Ghislain Fournier
@@ -899,7 +900,7 @@ Q3106095,Gilles Bernier,male,1934-07-15,11,,,,Gilles Bernier (Quebec politician)
 Q3106424,Gilles Ouimet,male,1962-06-12,11,,,,Gilles Ouimet
 Q3106731,Ginette Grandmont,female,,,,,,Ginette Grandmont
 Q3108688,Glen Pearson,male,1950-12-26,11,,,,Glen Pearson
-Q3108698,Glen Savoie,male,1971,9,,,,Glen Savoie
+Q3108698,Glen Savoie,male,1971,9,,,Glen Savoie.jpg,Glen Savoie
 Q3110844,Gord Brown,male,1960-08-31,11,2018-05-02,11,Gord Brown in Brockville - 2018 (38943055435) (cropped).jpg,Gord Brown
 Q3110930,Gordon Thiessen,male,1938-08-14,11,,,,Gordon Thiessen
 Q3116246,Greg Kerr,male,1947-10-08,11,,,,Greg Kerr
@@ -920,7 +921,7 @@ Q3129348,Hedy Fry,female,1941-08-06,11,,,Special Representative on Gender Issues
 Q3133384,Herb Dhaliwal,male,1952-12-12,11,,,"Herb Dhaliwal in New Delhi on June 16, 2004 (cropped).jpg",Herb Dhaliwal
 Q3138868,Hoang Mai,male,1973-06-14,11,,,,Hoang Mai (politician)
 Q3141563,Howard Hampton,male,1952-05-17,11,,,Howard Hampton small.png,Howard Hampton
-Q3142247,Ted Flemming,male,1954-06,10,,,,Ted Flemming (politician)
+Q3142247,Ted Flemming,male,1954-06,10,,,Ted Flemming.jpg,Ted Flemming (politician)
 Q3142310,Hugh Segal,male,1950-10-13,11,,,Hugh Segal (cropped).jpg,Hugh Segal
 Q3144572,Hédard Albert,male,1944,9,,,,Hédard Albert
 Q3144797,Hélène Laverdière,female,1955-04-13,11,,,,Hélène Laverdière
@@ -1154,7 +1155,7 @@ Q3368525,Pat Carney,female,1935-05-26,11,,,Pat Carney.jpg,Pat Carney
 Q3368533,Patricia Davidson,female,1946-06-30,11,,,,Patricia Davidson (Canadian politician)
 Q3368534,Pat Duncan,female,1960-04-08,11,,,,Pat Duncan
 Q3368557,Pat Martin,male,1955-12-13,11,,,Pat Martin.jpg,Pat Martin
-Q3368566,Pat Murphy,male,,7,,,,Pat Murphy (Canadian politician)
+Q3368566,Pat Murphy,male,,7,,,Replace this image male.svg,Pat Murphy (Canadian politician)
 Q3369531,Patrick Huot,male,1975-04-09,11,,,,Patrick Huot
 Q3369936,Patrick Brown,male,1978-05-26,11,,,Patrick Brown in Brampton - 2019.png,Patrick Brown (politician)
 Q3370776,Paul Bégin,male,1943-05-15,11,,,Paul Bégin.jpg,Paul Bégin
@@ -1200,7 +1201,7 @@ Q3387961,Piers McDonald,male,1955-08-04,11,,,,Piers McDonald
 Q3417573,Rahim Jaffer,male,1971-12-15,11,,,,Rahim Jaffer
 Q3418804,Randall Garrison,male,1951-08-27,11,,,Randall Garrison.jpg,Randall Garrison
 Q3418886,Randy Kamp,male,1953-08-30,11,,,"Randy Kamp, Torch Relay (2).jpg",Randy Kamp
-Q3420476,Raymond Bonin,male,1942-11-20,11,,,,Raymond Bonin
+Q3420476,Raymond Bonin,male,1942-11-20,11,,,RaymondMP.jpg,Raymond Bonin
 Q3420645,Raymond Bachand,male,1947-10-22,11,,,Raymond Bachand.jpg,Raymond Bachand
 Q3420751,Raymond Chan,male,1951-10-25,11,,,,Raymond Chan
 Q3420759,Raymond Chrétien,male,1942-05-20,11,,,Raymond Chrétien (cropped).jpg,Raymond Chrétien
@@ -1253,7 +1254,7 @@ Q3441197,Romeo Saganash,male,1961-10-28,11,,,Romeo-Saganash-2012-NDP-Leadership-
 Q3441372,Ron Cannan,male,1961-05-08,11,,,,Ron Cannan
 Q3441480,Rona Ambrose,female,1969-03-15,11,,,RonaAmbrose EdmontonLRTOpening 25April2009.jpg,Rona Ambrose
 Q3442268,Rosane Doré Lefebvre,female,1984-10-21,11,,,Rosane Doré Lefebvre 2012.jpg,Rosane Doré Lefebvre
-Q3442799,Ross Wetmore,male,1953-04-03,11,,,,Ross Wetmore
+Q3442799,Ross Wetmore,male,1953-04-03,11,,,Ross Wetmore.jpg,Ross Wetmore
 Q344404,Ray Henault,male,1949-04-26,11,,,Ray Henault 071010-D-7203T-004.jpg,Ray Henault
 Q3445749,Roy Boudreau,male,1946-10-24,11,,,,Roy Boudreau
 Q3445764,Roy Cullen,male,1944-12-31,11,,,,Roy Cullen
@@ -1285,7 +1286,6 @@ Q3490640,Sonny Gallant,male,,7,,,,Sonny Gallant
 Q349836,Scott Brison,male,1967-05-10,11,,,Scott Brison.jpg,Scott Brison
 Q3498613,Stephen McNeil,male,1964-11-10,11,,,20170607-OSEC-LSC-086 (35161791315) (cropped).jpg,Stephen McNeil
 Q3498625,Stephen Owen,male,1948-09-08,11,,,,Stephen Owen (politician)
-Q3498684,Stephen Woodworth,male,1967,9,,,,
 Q3499223,Steven Fletcher,male,1972-06-17,11,,,,Steven Fletcher (politician)
 Q3499230,Steven Guilbeault,male,1970-06-09,11,,,Steven Guilbeault 2014-04-12 B.jpg,Steven Guilbeault
 Q3499252,Steven Myers,male,,7,,,,Steven Myers (politician)
@@ -1435,7 +1435,7 @@ Q4899396,Beverley Busson,female,1951-08-23,11,,,,Bev Busson
 Q4908168,Bill Blair,male,1954,9,,,Bill Blair - 2012 (cropped).jpg,Bill Blair (politician)
 Q4909150,Bill Gilmour,male,1942-12-29,11,,,,Bill Gilmour (politician)
 Q4923968,Blaine Pedersen,male,,7,,,,Blaine Pedersen
-Q4931915,Bob Bratina,male,1944,9,,,BobBratinaMayoral.png,Bob Bratina
+Q4931915,Bob Bratina,male,1944,9,,,Bob Bratina on Canada Day 2017 (36658511686) (cropped).jpg,Bob Bratina
 Q4932195,Bob D'Eith,male,1964-09-24,11,,,Bob D'Eith.jpeg,Bob D'Eith
 Q4932252,Bob Dechert,male,1958-05-18,11,,,"Dechert, Bob cropped (8242151078).jpg",Bob Dechert
 Q4934050,Bob Speller,male,1956-02-29,11,2021-12-16,11,,Bob Speller
@@ -1485,6 +1485,7 @@ Q5175052,Costas Menegakis,male,1959-01-12,11,,,Costas Menegakis in Richmond Hill
 Q517540,Lawrence Cannon,male,1947-12-06,11,,,"Lawrence Cannon on March 29, 2010.jpg",Lawrence Cannon
 Q517717,Chris Charlton,female,1963-07-04,11,,,Chris Charlton.jpg,Chris Charlton
 Q518024,Alexandre Cloutier,male,1977-09-01,11,,,Alexandre Cloutier-1.jpg,Alexandre Cloutier
+Q5181431,Craig Scott,male,1962-03-14,11,,,Craig Scott photo by Djuradj Vujcic.jpg,Craig Scott (politician)
 Q5210498,Dale Johnston,male,1941-11-14,11,,,,Dale Johnston
 Q5213646,Dan Harris,male,1979-08-03,11,,,Dan Harris NDP MP.jpg,Dan Harris (politician)
 Q5214525,Dan Vandal,male,1960-04-18,11,,,Dan Vandal.jpg,Dan Vandal
@@ -1557,7 +1558,7 @@ Q55081040,Amy Fee,female,1982,9,,,"Amy Fee, PCPO MPP for Kitchener South-Hespele
 Q55081063,Peter Bethlenfalvy,male,,,,,Peter Bethlenfalvy.jpg,Peter Bethlenfalvy
 Q55122163,George Chahal,male,1975,9,,,,George Chahal
 Q55122176,Jyoti Gondek,female,1969,9,,,Jyoti Gondek (cropped).jpg,Jyoti Gondek
-Q55127770,Marty Morantz,male,1962-04-07,11,,,,Marty Morantz
+Q55127770,Marty Morantz,male,1962-04-07,11,,,Morantz ASC Seniors Games.jpg,Marty Morantz
 Q5521814,Gar Knutson,male,1956-05-04,11,,,,Gar Knutson
 Q55236788,Raymond Sung Joon Cho,male,,,,,,
 Q5524793,Gary Burrill,male,1955,9,,,Gary Burrill.jpg,Gary Burrill
@@ -1591,11 +1592,12 @@ Q5620158,Gurmant Grewal,male,1957-12-21,11,,,,Gurmant Grewal
 Q5667094,Harry Bains,male,,,,,Harry Bains (33192048610).jpg,Harry Bains
 Q56744315,Isabelle Thériault,female,,7,,,,Isabelle Thériault
 Q56744330,Megan Mitton,female,1986-05-02,11,,,Megan Mitton.jpg,Megan Mitton
-Q56744334,Michelle Conroy,female,,,,,,Michelle Conroy
+Q56744334,Michelle Conroy,female,,,,,Michelle Conroy (2).jpg,Michelle Conroy
 Q56749848,Kevin Arseneau,male,1985-08-25,11,,,Arseneau Kevin lg.jpg,Kevin Arseneau
-Q56749889,Robert Gauvin,male,1968,9,,,,Robert Gauvin
-Q56749931,Andrea Anderson-Mason,female,,,,,,Andrea Anderson-Mason
-Q56751774,Mary Wilson,female,,,,,,Mary Wilson (politician)
+Q56749889,Robert Gauvin,male,1968,9,,,Robert Gauvin cropped.jpg,Robert Gauvin
+Q56749931,Andrea Anderson-Mason,female,,,,,Andrea Anderson Mason.jpg,Andrea Anderson-Mason
+Q56751774,Mary Wilson,female,,,,,Mary Wilson (2).jpg,Mary Wilson (politician)
+Q56753896,Rick DeSaulniers,male,,,,,,Rick DeSaulniers
 Q56755277,Marty Klyne,male,1957-03-06,11,,,,Marty Klyne
 Q56809099,Keith Chiasson,male,,,,,,Keith Chiasson
 Q56809125,Robert McKee,male,,,,,,Rob McKee
@@ -1687,7 +1689,7 @@ Q6020483,Lorne Nystrom,male,1946-04-26,11,,,Lorne Nystrom (2012).jpg,Lorne Nystr
 Q60393401,Nancy Guillemette,female,1969,9,,,,Nancy Guillemette
 Q604334,Maurice Baril,male,1943-09-22,11,,,Maurice Baril.JPG,Maurice Baril
 Q6072433,Nelson Riis,male,1942-01-10,11,,,,Nelson Riis
-Q60734149,Mike Holland,male,,,,,,Mike Holland (politician)
+Q60734149,Mike Holland,male,,,,,Mike Holland.jpg,Mike Holland (politician)
 Q60734152,Jacques LeBlanc,male,,,,,,Jacques LeBlanc (politician)
 Q60734223,François Jacques,male,1970-03-27,11,,,,François Jacques (politician)
 Q6078198,Isabelle Charest,female,1971-01-03,11,,,,Isabelle Charest
@@ -1729,7 +1731,7 @@ Q6254663,John Reynolds,male,1942-01-19,11,,,Johnreynolds2006winter.JPG,John Reyn
 Q6256033,John Rustad,male,1963,9,,,John Rustad 2016.jpg,John Rustad
 Q6259429,John Streicker,male,1962-10-27,11,,,JohnStreicker.jpg,John Streicker
 Q62596100,Alain Hausser,male,,,,,Alain Hausser.jpg,
-Q62609137,Daniel Allain,male,,,,,,Daniel Allain
+Q62609137,Daniel Allain,male,,,,,Daniel Allain Consulate.jpg,Daniel Allain
 Q6263681,John Weston,male,1958-04-19,11,,,John WestonBC.png,John Weston (Canadian politician)
 Q6265083,John Yakabuski,male,1957-06-14,11,,,John Yakabuski.jpg,John Yakabuski
 Q6265091,John Yap,male,1959-10-28,11,,,John Yap.jpg,John Yap
@@ -1797,7 +1799,7 @@ Q6722293,Mac Harb,male,1953-11-10,11,,,,Mac Harb
 Q67222936,Brenda Murphy,female,1959,9,,,Brenda Murphy throne speech (cropped).jpg,Brenda Murphy
 Q67329779,Danielle Adams,female,1983-09-24,11,2021-12-09,11,,Danielle Adams (politician)
 Q67442310,Anita Anand,female,1967,9,,,Anita Anand (cropped).jpg,Anita Anand
-Q6755491,Marc Dalton,male,1960-06-03,11,,,Marc Dalton (14774493676) (cropped).jpg,Marc Dalton
+Q6755491,Marc Dalton,male,1960-06-03,11,,,Marc Dalton (14774493676) (cropped2).jpg,Marc Dalton
 Q6755582,Marc Godbout,male,1951-06-08,11,,,Mark Godbout.JPG,Marc Godbout
 Q6757065,Marci Ien,female,1969-07-29,11,,,,Marci Ien
 Q6767386,Mark Docherty,male,,,,,,Mark Docherty (politician)
@@ -1867,9 +1869,9 @@ Q717744,Ed Broadbent,male,1936-03-21,11,,,Ed Broadbent.jpg,Ed Broadbent
 Q717926,Philip S. Lee,male,1944-05-05,11,,,Manitoba-lieutenant-governor-philip-lee7.jpg,Philip S. Lee
 Q7182163,Phil McColeman,male,1954-03-15,11,,,Phil McColeman.jpg,Phil McColeman
 Q7184176,Philip Owen,male,1933-03-12,11,2021-09-30,11,Philip Owen.jpg,Philip Owen
-Q71894607,Richard Bragdon,male,,8,,,,Richard Bragdon
+Q71894607,Richard Bragdon,male,,8,,,Richard Bragdon 1.jpg,Richard Bragdon
 Q71912401,Scott Aitchison,male,,8,,,Scott Aitchison Headshot (cropped).jpg,Scott Aitchison
-Q71920812,Dan Mazier,male,,8,,,,Dan Mazier
+Q71920812,Dan Mazier,male,,8,,,Full Body Transparent Background.png,Dan Mazier
 Q71920836,Gary Vidal,male,1965,9,,,,Gary Vidal
 Q71920855,Heather McPherson,female,1972-05-09,11,,,,Heather McPherson (politician)
 Q71920882,Jeremy Patzer,male,1987,9,,,,Jeremy Patzer
@@ -1897,7 +1899,7 @@ Q71936991,Raquel Dancho,female,1990,9,,,Raquel Dancho 1.jpg,Raquel Dancho
 Q71936994,Taylor Bachrach,male,,,,,Taylor Bachrach.jpg,Taylor Bachrach
 Q71937003,Kenny Chiu,male,1965,9,,,Kenny Chiu (cropped).jpg,Kenny Chiu
 Q71937024,Leah Gazan,female,1971,9,,,NDP MP Leah Gazan.jpg,Leah Gazan
-Q71937029,Brad Redekopp,male,,8,,,,Brad Redekopp
+Q71937029,Brad Redekopp,male,,8,,,Brad Redekopp Headshot 2021.jpg,Brad Redekopp
 Q71937041,Eric Melillo,male,1998-03-27,11,,,"Mellilo, Eric portrait.jpg",Eric Melillo
 Q71937055,Eric Duncan,male,1987-11-10,11,,,,Eric Duncan (politician)
 Q71942357,Lindsay Mathyssen,female,,,,,,Lindsay Mathyssen
@@ -2001,6 +2003,7 @@ Q7597730,Stan Keyes,male,1953-05-17,11,,,,Stan Keyes
 Q7597905,Stan Struthers,male,1959,9,,,,Stan Struthers
 Q7606377,Stefanie Beck,female,,8,,,,Stefanie Beck
 Q7608245,Stephanie Cadieux,female,,,,,Stephanie-cadieux 4007.jpg,Stephanie Cadieux
+Q7610881,Stephen Woodworth,male,1954-01-05,11,,,Stephen Woodworth ~ 2694.jpeg,Stephen Woodworth (politician)
 Q7612215,Steve Clark,male,1960-11-07,11,,,Steve-Clark-politician.jpg,Steve Clark (Canadian politician)
 Q7613233,Steve Mahoney,male,1947-07-18,11,,,,Steve Mahoney
 Q763511,Roch Bolduc,male,1928-09-10,11,,,,Roch Bolduc
@@ -2047,12 +2050,12 @@ Q8041223,Władysław Lizoń,male,1954-06-27,11,,,Władysław Lizoń Senate of Po
 Q8049806,Yasir Naqvi,male,1973-01-25,11,,,Naqvi yasir ottawa.JPG,Yasir Naqvi
 Q8062466,Yvonne Jones,female,1968-03-15,11,,,Yvonne Jones.jpg,Yvonne Jones
 Q8063788,Zach Churchill,male,1984-05-25,11,,,,Zach Churchill
-Q81142481,Chris Lewis,male,1976-06-15,11,,,,Chris Lewis (politician)
+Q81142481,Chris Lewis,male,1976-06-15,11,,,Chris Lewis 2021.jpg,Chris Lewis (politician)
 Q81496,Adam van Koeverden,male,1982-01-29,11,,,Adam van Koeverden.jpg,Adam van Koeverden
 Q818132,Benoît Sauvageau,male,1963-11-22,11,2006-08-28,11,,Benoît Sauvageau
 Q85770627,James Cumming,male,1961-03-07,11,,,James Cumming in Edmonton (48822013668) (cropped).jpg,James Cumming (Canadian politician)
 Q85784352,Matthew Green,male,1980-09-10,11,,,Councillor Matthew Green.jpg,Matthew Green (Canadian politician)
-Q85793092,Philip Lawrence,male,,,,,,Philip Lawrence (politician)
+Q85793092,Philip Lawrence,male,,,,,Philip Lawrence CPC.jpg,Philip Lawrence (politician)
 Q872073,David Kilgour,male,1941-02-18,11,2022-04-05,11,David Kilgour (cropped).jpg,David Kilgour
 Q88720948,Kirsten Hillman,female,,,,,Kirsten Hillman - White House.jpg,Kirsten Hillman
 Q888038,Bob Kilger,male,1944-06-29,11,2021-11-29,11,,Bob Kilger
@@ -2070,7 +2073,7 @@ Q947426,Gérard Asselin,male,1950-04-19,11,2013-02-09,11,,Gérard Asselin
 Q950184,David Coon,male,1956-10-28,11,,,David Coon Cropped.jpg,David Coon
 Q952017,Harold Albrecht,male,1949-10-15,11,,,"Harold Albrecht, MP.jpg",Harold Albrecht
 Q955143,Francis Scarpaleggia,male,1957-06-06,11,,,,Francis Scarpaleggia
-Q956335,Bill Graham,male,1939-03-17,11,,,Bill Graham by Rod Brito.jpg,Bill Graham (Canadian politician)
+Q956335,Bill Graham,male,1939-03-17,11,2022-08-07,11,Bill Graham by Rod Brito.jpg,Bill Graham (Canadian politician)
 Q957119,Ethel Blondin-Andrew,female,1951-03-25,11,,,,Ethel Blondin-Andrew
 Q959778,Preston Manning,male,1942-06-10,11,,,PrestonManning.jpg,Preston Manning
 Q965835,Gerard Kennedy,male,1960-07-24,11,,,Gerard kennedy.jpg,Gerard Kennedy
@@ -2082,12 +2085,12 @@ Q98098468,Andrew Furey,male,1975-07,10,,,Premier Andrew Furey - 2020 (cropped 2)
 Q981186,Judy Foote,female,1952-06-23,11,,,Judy Foote.jpg,Judy Foote
 Q98138005,Karen Hogan,female,,,,,,Karen Hogan
 Q983119,Irwin Cotler,male,1940-05-08,11,,,Irwin Cotler (2017).jpg,Irwin Cotler
-Q99337130,Arlene Dunn,female,,,,,,Arlene Dunn
+Q99337130,Arlene Dunn,female,,,,,Arlene Dunn.jpg,Arlene Dunn
 Q99337131,Tammy Scott-Wallace,female,,,,,Tammyheadshot.jpg,Tammy Scott-Wallace
 Q99337137,René Legacy,male,,,,,,René Legacy
-Q99337138,Kathy Bockus,female,,,,,,Kathy Bockus
-Q99337140,Ryan Cullins,male,,,,,,Ryan Cullins
-Q99337790,Greg Turner,male,,,,,,Greg Turner (politician)
-Q99472134,Jill Green,female,,,,,,Jill Green (politician)
-Q99472210,Margaret Johnson,female,,,,,,Margaret Johnson (politician)
-Q99496241,Bill Hogan,male,,,,,,Bill Hogan
+Q99337138,Kathy Bockus,female,,,,,Kathy Bockus (2).jpg,Kathy Bockus
+Q99337140,Ryan Cullins,male,,,,,Ryan Cullins.jpg,Ryan Cullins
+Q99337790,Greg Turner,male,,,,,Greg Turner (2).jpg,Greg Turner (politician)
+Q99472134,Jill Green,female,,,,,Jill Green.jpg,Jill Green (politician)
+Q99472210,Margaret Johnson,female,,,,,Margaret Johnson.jpg,Margaret Johnson (politician)
+Q99496241,Bill Hogan,male,,,,,Bill Hogan (2).jpg,Bill Hogan

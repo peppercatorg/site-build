@@ -1,4 +1,6 @@
 catalog,id,name,relationship,relative,relativename
+Georgia,Q112110188,Rostom Chkheidze,father,Q7108446,Otar Chkheidze
+Georgia,Q112110188,Rostom Chkheidze,sibling,Q65286022,Nato Chkheidze
 Georgia,Q113733,Archduchess Gabriela of Austria,child,Q75286852,Lioba Meister
 Georgia,Q113733,Archduchess Gabriela of Austria,child,Q75286855,Alene Meister
 Georgia,Q113733,Archduchess Gabriela of Austria,child,Q75294712,Severin Meister
@@ -33,4 +35,6 @@ Georgia,Q43330,Mikheil Saakashvili,spouse,Q467000,Sandra Roelofs
 Georgia,Q4525704,Gela Charkviani,child,Q3652021,Irakli Charkviani
 Georgia,Q57794,Bidzina Ivanishvili,child,Q4390921,Bera Ivanishvili
 Georgia,Q58102,Grigol Vashadze,spouse,Q253952,Nina Ananiashvili
+Georgia,Q65286022,Nato Chkheidze,father,Q7108446,Otar Chkheidze
+Georgia,Q65286022,Nato Chkheidze,sibling,Q112110188,Rostom Chkheidze
 Georgia,Q74667039,Teimuraz Lezhava,father,Q99528632,Aleksandre Lezhava

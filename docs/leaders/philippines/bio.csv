@@ -1,9 +1,9 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100606208,Seth Frederick Jalosjos,male,,,,,Mayor Bullet Jalosjos oath taking - cropped.jpg,Bullet Jalosjos
 Q101243121,Roseller Barinaga,male,,,,,,Roseller Barinaga
-Q101569311,Vicente Danao,male,1967-08-10,11,,,,Vicente Danao
+Q101569311,Vicente Danao,male,1967-08-10,11,,,PNP acting chief Lt. Gen. Vicente Danao Jr. presents the six-year accomplishment report during the Duterte Legacy Summit (54810) (cropped).jpg,Vicente Danao
 Q104183315,Justo Orros,male,,,,,,
-Q104839501,Romeo Jalosjos Jr.,male,1971-11-04,11,,,,Romeo Jalosjos Jr.
+Q104839501,Romeo Jalosjos Jr.,male,1971-11-04,11,,,HoR Official Portrait Romeo Jalosjos Jr.jpg,Romeo Jalosjos Jr.
 Q1056659,Cesar Purisima,male,,7,,,Cesar V Purisima (cropped).jpg,Cesar Purisima
 Q107490901,Noe A. Wong,male,,,,,,
 Q108550713,Jose Faustino Jr.,male,1965-11-12,11,,,,Jose Faustino Jr.
@@ -34,10 +34,10 @@ Q111182546,Maria Luisa Romualdo,female,,,,,,
 Q111487342,Jose Anselmo I. Cadiz,male,,,,,,
 Q111487345,Carlos N. Ortega,male,,,,,,
 Q111487349,Ricardo P. Galvez,male,,,,,,
-Q111577115,Helen Tan,female,1971-10-01,11,,,Rep. Angelina Tan (18th Congress).jpg,Angelina Tan
+Q111577115,Helen Tan,female,1971-10-01,11,,,Gov. Helen Tan.jpg,Angelina Tan
 Q111976585,Ricardo C. Marquez,male,,,,,,
 Q111976615,Willy C. Gaa,male,,,,,,
-Q112056327,Leonardo Espina,,1952,9,,,,Leonardo Espina
+Q112056327,Leonardo Espina,male,1952,9,,,,Leonardo Espina
 Q112079900,Avelino Razon,,1952-09-27,11,,,,Avelino Razon
 Q112156876,Bienvenido Laguesma,male,1950,9,,,,Bienvenido Laguesma
 Q112225750,Ian Amatong,male,,,,,,Ian Amatong
@@ -100,7 +100,7 @@ Q12962114,Bernadette Herrera-Dy,female,,,,,,
 Q12962515,Carlito Marquez,male,1942-07-21,11,,,Marquez Carlito Samson.png,Carlito Marquez
 Q12962521,Carlos M. Padilla,male,1944-09-19,11,,,Carlos Padilla LPP.jpg,Carlos Padilla (politician)
 Q12962523,Charlie Cojuangco,male,1963-04-14,11,2022-02-22,11,Rep. Carlos O. Cojuangco.jpg,
-Q12962647,Celso Lobregat,male,1948-03-20,11,,,,Celso Lobregat
+Q12962647,Celso Lobregat,male,1948-03-20,11,,,Celso Lobregat 2006.jpg,Celso Lobregat
 Q12962665,Cesar Sarmiento,male,,,,,,
 Q12962852,Christopher Co,male,,,,,,
 Q12962885,Cinchona Cruz-Gonzales,,,,,,,
@@ -138,7 +138,7 @@ Q12967208,Leonardo Montemayor,male,,,,,,
 Q12967211,Leopoldo Bataoil,male,,,,,,
 Q12967276,Linabelle Ruth Villarica,female,,,,,,
 Q12967675,Manuel Agyao,male,,7,,,,
-Q12967692,Abigail Binay,female,1975-12-12,11,,,Abby Binay July 2016.jpg,Abigail Binay
+Q12967692,Abigail Binay,female,1975-12-12,11,,,Abby Binay July 2016.jpg,Abigail Binay-Campos
 Q12967700,Marc Douglas Cagas IV,male,1976-04-24,11,,,,Marc Douglas Cagas IV
 Q12967758,Maria Zenaida Angping,female,,,,,,
 Q12967801,Mark Llandro Mendoza,male,,,,,,
@@ -210,7 +210,7 @@ Q16735147,Regina Ongsiako Reyes,female,1964-07-03,11,2022,9,Reyes-r.jpg,Regina R
 Q16886227,Sitti Djalia Turabin,female,1976-11-26,11,,,,Sitti Djalia Turabin
 Q16935127,Mikee Romero,male,1971-03-21,11,,,Rep. Mikee Romero (18th Congress PH).jpg,Mikee Romero
 Q1704119,Jose Rene Almendras,male,,7,,,Jose Rene D. Almendras - World Economic Forum on East Asia 2010 crop.jpg,Jose Rene Almendras
-Q1706872,Joseph Ace Durano,male,1970-04-03,11,,,,Ace Durano
+Q1706872,Joseph Ace Durano,male,1970-04-03,11,,,Ace-durano-de877ef6-08db-46ea-b12c-8f31bf115ae-resize-750.webp,Ace Durano
 Q1731251,Norberto Gonzales,male,1947-04-17,11,,,NorbertoGonzales.jpg,Norberto Gonzales
 Q17370900,Alfredo Abelardo Benitez,male,,,,,,
 Q17370907,Thelma Almario,female,,,,,,
@@ -284,7 +284,7 @@ Q20675880,Eduardo Año,male,1960,9,,,"LTGEN EDUARDO AÑO, AFP.jpg",Eduardo Año
 Q2084711,Teresa Aquino-Oreta,female,1944-06-28,11,2020-05-14,11,Teresa Aquino-Oreta - 2008 (cropped).jpg,Tessie Aquino-Oreta
 Q21063568,Henry Ong,male,1949-11-23,11,2018-09-29,11,,Henry Ong
 Q2108334,Risa Hontiveros,female,1966-02-24,11,,,Risa hontiveros.JPG,Risa Hontiveros
-Q21208908,Romulo Peña Jr.,male,1969-08-05,11,,,,Kid Peña
+Q21208908,Romulo Peña Jr.,male,1969-08-05,11,,,HoR Official Portrait Romulo Peña Jr.jpg,Kid Peña
 Q212733,Joseph Estrada,male,1937-04-19,11,,,President Joseph Erap Ejercito Estrada poses with Senate President Andres Zaldiver of Chile.jpg,Joseph Estrada
 Q2133872,Juan Edgardo Angara,male,1972-07-15,11,,,Sen. Sonny Angara.jpg,Sonny Angara
 Q2139066,Sergio Osmeña III,male,1943-12-13,11,,,Sergio Osmeña III at the Senate.JPG,Serge Osmeña
@@ -306,7 +306,7 @@ Q2337910,Artemio Panganiban,male,1936-12-07,11,,,Former CJ Artemio Panganiban at
 Q2348352,Deogracias Savellano,male,1959-11-25,11,,,,Deogracias Victor Savellano
 Q23772290,Alfredo Benjamin Caguioa,male,1959-09-30,11,,,Caguioa 2018.jpg,Alfredo Benjamin Caguioa
 Q23874335,Frederick Abueg,male,,7,,,,
-Q23874834,Susan A. Yap-Sulit,female,1965,9,,,Gov Susan Yap.jpg,Susan Yap
+Q23874834,Susan A. Yap-Sulit,female,1965,9,,,Gov Susan Yap.jpg,Susan Yap (politician)
 Q2399446,Chavit Singson,male,1941-06-21,11,,,Chavit Singson Miss Universe 2016.jpg,Chavit Singson
 Q2403374,Robert Jaworski,male,1946-03-08,11,,,Robert Jaworski 2021 stamp of the Philippines.jpg,Robert Jaworski
 Q241545,"Aquilino Pimentel, Jr.",male,1933-12-11,11,2019-10-20,11,Nene Pimentel cropped.jpg,Aquilino Pimentel Jr.
@@ -354,7 +354,7 @@ Q26702670,Zenaida Monsada,female,,,,,,Zenaida Monsada
 Q26702676,Emmanuel Caparas,male,,,,,Newly-appointed Justice Secretary Emmanuel L. Caparas during the flag ceremony.jpg,Emmanuel Caparas
 Q2683983,Abdusakur Tan,male,1950-07-13,11,,,,Abdusakur Mahail Tan
 Q2691827,Eddie Villanueva,male,1946-10-06,11,,,Eddie Villanueva Official Portrait - 18th Congress.jpg,Eddie Villanueva
-Q26923890,Christopher de Venecia,male,1986-10-27,11,,,,Christopher de Venecia
+Q26923890,Christopher de Venecia,male,1986-10-27,11,,,Rep. Christopher de Venecia (18th Congress).jpg,Christopher de Venecia
 Q27107735,Rafael Yabut,male,1953-04-26,11,,,Rafael Yabut 2007 (cropped).jpg,Rafael Yabut
 Q2720262,Gwendolyn Garcia,female,1955-10-12,11,,,Gwen1 20011 Haarry Wad.jpg,Gwendolyn Garcia
 Q28112802,Wendel Avisado,male,1953,9,,,Budget Acting Secretary Wendel Avisado - 2019 (cropped).jpg,Wendel Avisado
@@ -424,7 +424,7 @@ Q4888484,Benjamin Diokno,male,1948-03-31,11,,,Benjamin Diokno.jpg,Benjamin Diokn
 Q4889930,Benny Abante,male,1951-07-15,11,,,"Rep. Bienvenido Abante, Jr. (18th Congress PH).jpg",Benny Abante
 Q491455,Juanito Victor C. Remulla,male,1967-10-24,11,,,Governor Remulla LPP Official Portrait.jpg,Jonvic Remulla
 Q4926376,Bobby Pacquiao,male,1980-12-12,11,,,Rep. Alberto Pacquiao (18th Congress PH).jpg,Bobby Pacquiao
-Q5127082,Clarita Carlos,female,,,,,,Clarita Carlos
+Q5127082,Clarita Carlos,female,,,,,Clarita Carlos - 2022 (cropped).jpg,Clarita Carlos
 Q5149156,"Pedro Acharon, Jr.",male,1958-02-08,11,,,,
 Q5169661,Corazon Nunez-Malanyaon,female,1949-08-22,11,,,Benigno S. Aquino III greets Corazon Malanyaon (cropped).jpg,Corazon Nuñez Malanyaon
 Q517387,Blas Ople,male,1927-02-03,11,2003-12-14,11,Blas Ople.jpg,Blas Ople
@@ -447,7 +447,7 @@ Q5367306,"Elpidio Barzaga, Jr.",male,1950-03-25,11,,,HoR Official Portrait Elpid
 Q5373635,Emmylou Taliño-Mendoza,female,1972-02-25,11,,,,Emmylou Taliño-Mendoza
 Q5379779,Enrique Ona,male,1939-06-04,11,,,,Enrique Ona
 Q53871378,Bernadette Romulo-Puyat,female,1971,9,,,Bernadette Fatima Tecson Romulo-Puyat (2019).jpg,Bernadette Romulo-Puyat
-Q5396218,Erwin Tulfo,male,1972-08-10,11,,,,Erwin Tulfo
+Q5396218,Erwin Tulfo,male,1972-08-10,11,,,DSWD Sec. Erwin Tulfo - August 2022.jpg,Erwin Tulfo
 Q5398896,Esperanza Cabral,female,,,,,Dr. Esperanza Cabral.png,Esperanza Cabral
 Q54098007,Ricardo Belmonte,male,1965,9,,,,Ricardo Belmonte
 Q5441063,Federico Sandoval II,male,1963-05-04,11,,,,Ricky Sandoval
@@ -468,8 +468,8 @@ Q561797,Manny Villar,male,1949-12-13,11,,,Manny Villar T'nalak Festival 2009.jpg
 Q5618246,Heherson Alvarez,male,1939-10-16,11,2020-04-20,11,Heherson Alvarez.jpg,Heherson Alvarez
 Q5637924,Hadjiman S. Hataman-Salliman,male,,,,,,Hadjiman Hataman Salliman
 Q56703266,Ciriaco Calalang,male,1951,9,2018-09-23,11,,Ciriaco Calalang
-Q568929,Ansaruddin Alonto Adiong,male,,7,,,,Ansaruddin Alonto Adiong
-Q57067691,Francis Gerald A. Abaya,male,1975-09-15,11,,,,Francis Gerald Abaya
+Q568929,Ansaruddin Alonto Adiong,male,,7,,,HoR Official Portrait Ansaruddin Alonto Adiong.jpg,Ansaruddin Alonto Adiong
+Q57067691,Francis Gerald A. Abaya,male,1975-09-15,11,,,Rep. Francis Gerald Abaya Official Portrait (18th Congress).jpg,Francis Gerald Abaya
 Q57127946,Paul P. Hernandez,male,,,,,,
 Q5741535,Hermilando Mandanas,male,1944-03-25,11,,,Gov Hermilando Mandanas.jpg,Hermilando Mandanas
 Q5741968,Hermogenes Esperon Jr.,male,1952-02-09,11,,,Ph10-050417 cado-3.jpg,Hermogenes Esperon
@@ -486,7 +486,7 @@ Q59514896,Gary C. Alejano,,,,,,,
 Q59515093,Joel Mayo Z. Almario,male,,,,,,
 Q59515160,Marlyn B. Alonte,,,,,,,
 Q59515481,Franz Alvarez,male,,,,,,
-Q59515565,Isagani S. Amatong,male,1940-10-19,11,,,,Isagani Amatong
+Q59515565,Isagani S. Amatong,male,1940-10-19,11,,,Isagani Amatong - 18th Congress.jpg,Isagani Amatong
 Q59515680,Magnolia C. Antonino,,,,,,,
 Q59515741,Michelle M. Antonio,female,,,,,,
 Q59515826,Milagros Aquino-Magsaysay,,,,,,,
@@ -537,7 +537,7 @@ Q66187272,Eduardo Gadiano,male,,,,,Eduardo Gadiano LPP.jpg,Eduardo Gadiano
 Q66216290,Steve Solon,male,,,,,LPP Official Portrait of STEVE C. SOLON.jpg,Steve Solon
 Q66221363,Menardo Guevarra,male,1954-05-23,11,,,Menardo Guevarra 2018.jpg,Menardo Guevarra
 Q66258804,Alexander Pimentel,male,,,,,Alexander Pimentel (cropped).jpg,Alexander Pimentel
-Q66305316,Melchor Diclas,male,,,,,,Melchor Diclas
+Q66305316,Melchor Diclas,male,,,,,Governor Diclas of Benguet (cropped).jpg,Melchor Diclas
 Q66305325,Eleonor Bulut Begtang,female,,,,,Eleonor Bulut-Begtang Governor.jpg,Eleonor Bulut Begtang
 Q66305504,Jerry Dalipog,male,1964-02-20,11,,,,Jerry Dalipog
 Q66309319,John Castriciones,male,1962-01-08,11,,,John Castriciones 2018 (cropped).jpg,John Castriciones
@@ -547,8 +547,8 @@ Q66311190,Roberto Uy,male,1951-12-28,11,,,Roberto Uy on Galing Pook (cropped).jp
 Q66363099,Philip Tan,male,,,,,,Philip Tan (politician)
 Q66372258,Matthew Manotoc,male,1988-12-09,11,,,Matthew Marcos Manotoc - 2019 (cropped).jpg,Matthew Manotoc
 Q66382965,Claude Bautista,male,,,,,,Claude Bautista
-Q66382966,Edwin Jubahib,male,,,,,,Edwin Jubahib
-Q66391776,Yevgeny Emano,male,1975-01-30,11,,,,Yevgeny Emano
+Q66382966,Edwin Jubahib,male,,,,,Kuya Gov.jpg,Edwin Jubahib
+Q66391776,Yevgeny Emano,male,1975-01-30,11,,,Governor Emano LPP Official Portrait.jpg,Yevgeny Emano
 Q66417352,Reynaldo Tamayo Jr.,male,,,,,,Reynaldo Tamayo Jr.
 Q66436585,Santiago Cane Jr.,male,,,,,"Agusan del Sur Governor Santiago Cane, Jr.jpg",Santiago Cane Jr.
 Q66459222,Dale Corvera,male,,,,,AGUSAN DEL NORTE GOVERNOR DALE CORVERA.jpg,Dale Corvera
@@ -580,7 +580,7 @@ Q66776973,Emmanuel Billones,,,,,,,
 Q66776974,Braeden John Biron,,,,,,,
 Q66776975,Lianda Bolilia,,,,,,,
 Q66776976,Juan Pablo Bondoc,male,,,,,,
-Q66776979,Arlene Brosas,female,,,,,,Arlene Brosas
+Q66776979,Arlene Brosas,female,,,,,Arlene Brosas - 18th Congress.jpg,Arlene Brosas
 Q66776980,Jorge Antonio Bustos,male,,,,,,
 Q66776981,Argel Joseph Cabatbat,,,,,,,
 Q66776982,Manuel Cabochan III,,,,,,,
@@ -660,7 +660,7 @@ Q66777060,Ruth Mariano-Hernandez,,1973-05-15,11,,,,Ruth Mariano-Hernandez
 Q66777061,Mario Vittorio Mariño,,,,,,,
 Q66777062,Eric Martinez,,,,,,,
 Q66777063,Rashidin Matba,male,,,,,,
-Q66777064,Francisco Jose Matugas II,male,1969-03-18,11,,,,Francisco Jose Matugas II
+Q66777064,Francisco Jose Matugas II,male,1969-03-18,11,,,HoR Official Portrait (18th Congress) - Francisco Jose Matugas II.jpg,Francisco Jose Matugas II
 Q66777065,Romeo Momo Sr.,,,,,,,
 Q66777066,Maricel Natividad-Nagaño,,,,,,,
 Q66777067,Ma. Lucille Nava,,,,,,,
@@ -670,10 +670,10 @@ Q66777070,Henry Oaminal,male,,,,,,
 Q66777071,Eric Olivarez,,,,,,,
 Q66777072,Ronnie Ong,,,,,,,
 Q66777073,Pablo Ortega,,,,,,,
-Q66777074,Emmarie Ouano-Dizon,female,1970-04-01,11,,,,Emmarie Ouano-Dizon
+Q66777074,Emmarie Ouano-Dizon,female,1970-04-01,11,,,HoR Official Portrait Emmarie Ouano-Dizon.jpg,Emmarie Ouano-Dizon
 Q66777075,Rogelio Pacquiao,male,1982-06-17,11,,,Rep. Ruel Pacquiao.jpg,
 Q66777076,Jose Gay Padiernos,,,,,,,
-Q66777077,Joseph Stephen Paduano,male,1965-01-22,11,,,,Joseph Stephen Paduano
+Q66777077,Joseph Stephen Paduano,male,1965-01-22,11,,,HoR Official Portrait Joseph Stephen Paduano.jpg,Joseph Stephen Paduano
 Q66777078,Wilter Palma II,male,1982-08-04,11,,,,Wilter Palma II
 Q66777079,Gavini Pancho,,,,,,,
 Q66777080,Marisol Panotes,,,,2022-04-29,11,Marisol Panotes (House of Representatives profile picture).jpg,
@@ -691,11 +691,11 @@ Q66777092,Rogelio Neil Roque,,,,,,,
 Q66777093,Joselito Sacdalan,,,,,,,
 Q66777094,Manuel Sagarbarria,male,,,,,,
 Q66777095,Princess Rihan Sakaluran,,,,,,,
-Q66777096,Janice Salimbangon,female,,,,,,Janice Salimbangon
+Q66777096,Janice Salimbangon,female,,,,,HoR Official Portrait Janice Salimbangon.jpg,Janice Salimbangon
 Q66777097,Ron Salo,,,,,,,
 Q66777098,Hector Sanchez,,,,,,,
 Q66777099,Amihilda Sangcopan,,,,,,,
-Q66777100,Edgar Mary Sarmiento,male,1959,9,,,,Edgar Mary Sarmiento
+Q66777100,Edgar Mary Sarmiento,male,1959,9,,,HoR Official Portrait Edgar Mary Sarmiento.jpg,Edgar Mary Sarmiento
 Q66777101,Irene Gay Saulog,female,,,,,,
 Q66777102,Frederick Siao,,,,,,,
 Q66777103,Jose Singson Jr.,,,,,,,
@@ -836,7 +836,7 @@ Q66905329,Irwin Tieng,,,,,,,
 Q66905331,Mary Elizabeth Ty-Delgado,female,,,,,,
 Q66905332,Lorna Velasco,female,,,,,,
 Q6701032,Luis Raymond Villafuerte,male,1968-06-03,11,,,HoR Official Portrait Luis Raymund Villafuerte Jr.jpg,Luis Raymund Villafuerte
-Q6701198,Luis Villafuerte,male,1935-08-29,11,2021-09-08,11,,Luis Villafuerte
+Q6701198,Luis Villafuerte,male,1935-08-29,11,2021-09-08,11,LRV Photo.png,Luis Villafuerte
 Q6701308,Luisa Lloren Cuaresma,female,1955-01-18,11,,,HoR Official Portrait Luisa Lloren Cuaresma.jpg,Luisa Lloren Cuaresma
 Q6706718,Luzviminda Ilagan,female,,,,,Luzviminda Ilagan - 2018 (cropped).jpg,Luzviminda Ilagan
 Q6732490,Magtanggol Gunigundo I,male,1964-12-11,11,,,,Magtanggol Gunigundo I
@@ -866,7 +866,7 @@ Q716656,Alfredo Lim,male,1929-12-21,11,2020-08-08,11,Alfredo Lim at Mendiola.jpg
 Q7168139,"Perfecto R. Yasay, Jr.",male,1947-01-27,11,2020-06-12,11,Philippines Foreign Secretary Yasay Addresses Reporters at a News Conference (28502880421) (cropped).jpg,Perfecto Yasay Jr.
 Q7240707,"Presbitero Velasco, Jr.",male,1948-08-08,11,,,Velasco in robes.jpg,Presbitero Velasco Jr.
 Q7250910,"Prospero Pichay, Jr.",male,1950-06-20,11,,,Rep. Prospero Pichay Jr. (18th Congress PH).jpg,Prospero Pichay Jr.
-Q7253238,Pryde Henry Teves,male,1972-12-18,11,,,,Pryde Henry Teves
+Q7253238,Pryde Henry Teves,male,1972-12-18,11,,,Henry Pryde Teves.jpg,Pryde Henry Teves
 Q7282346,Rafael V. Mariano,male,1956-10-24,11,,,Department of Agrarian Reform Secretary Rafael 'Ka Paeng' Mariano during a press briefing in Malacañan.jpg,Rafael V. Mariano
 Q7289824,Ramon Durano VI,male,1969-02-07,11,,,"Ramon ""RED"" H- Durano VI 2013-07-20 10-15.jpg",Ramon Durano VI
 Q7289865,"Ramon Revilla, Sr.",male,1927-03-08,11,2020-06-26,11,,Ramon Revilla Sr.
@@ -878,13 +878,13 @@ Q7351859,Roberto Puno,male,1962-03-27,11,,,Roberto Puno Official Portrait - 18th
 Q7357578,Roel Degamo,male,1966-04-29,11,,,Roel Degamo (cropped).jpg,Roel Degamo
 Q7360593,Rolando Uy,male,1954-07-05,11,,,Rolando Uy (18th Congress).jpg,Rolando Uy
 Q7363071,Romeo Acop,male,1947-03-11,11,,,Romeo Acop.jpg,Romeo Acop
-Q7363162,Miro Quimbo,male,1969-12-12,11,,,,Miro Quimbo
+Q7363162,Miro Quimbo,male,1969-12-12,11,,,Rep. Miro Quimbo (17th Congress).jpg,Miro Quimbo
 Q7363244,Rommel Amatong,male,1961-10-05,11,,,,Rommel Amatong
 Q7365285,Ronald Singson,male,1968-11-18,11,,,,Ronald Singson
 Q7367260,Rosalinda Baldoz,female,,,,,Rosalinda Baldoz Oct 2013.jpg,Rosalinda Baldoz
 Q7368268,Rosemarie Arenas,female,1938-08-08,11,,,HoR Official Portrait Rose Marie Arenas.jpg,Rose Marie Arenas
 Q7376381,Ruby Sahali,female,,,,,,Ruby Sahali
-Q7377943,Ruffy Biazon,male,1969-03-20,11,,,,Ruffy Biazon
+Q7377943,Ruffy Biazon,male,1969-03-20,11,,,Biazon-congressphoto.jpg,Ruffy Biazon
 Q7378093,Rufus Rodriguez,male,1953-09-13,11,,,PATAFA chair Rufus Rodriguez (cropped).jpg,Rufus Rodriguez
 Q7405267,Sally Ponce Enrile,female,1958-07-16,11,,,,Sally Ponce Enrile
 Q7454176,Sergio Apostol,male,1935-01-17,11,,,,Sergio Apostol
@@ -903,8 +903,8 @@ Q7931810,Vincent Garcia,male,1967-07-19,11,,,,Vincent Garcia
 Q7932040,Vincent S. Perez,male,1958-05-26,11,,,,Vincent S. Perez
 Q7933866,Virgilio de los Reyes,male,,7,,,,Virgilio de los Reyes
 Q8007583,William Dar,male,1953-04-10,11,,,Agriculture Secretary William Dar - November 2019 (cropped).jpg,William Dar
-Q80191945,Maria Esperanza Christina Frasco,female,1981-12-25,11,,,,Christina Frasco
-Q81052462,Felimon Santos Jr.,male,1964-01-05,11,,,,Felimon Santos Jr.
+Q80191945,Maria Esperanza Christina Frasco,female,1981-12-25,11,,,DOT Sec. Christina Frasco - 2022 (cropped).jpg,Christina Frasco
+Q81052462,Felimon Santos Jr.,male,1964-01-05,11,,,General Felimon T. Santos Jr.jpg,Felimon Santos Jr.
 Q81815059,Eduardo del Rosario,male,1956-11-22,11,,,DHSUD Sec Del Rosario.jpg,Eduardo del Rosario
 Q83129525,Archie Gamboa,male,1964-09-02,11,,,PNP OIC Archie Gamboa 2019 SEA Games opening (cropped).jpg,Archie Gamboa
 Q89251950,Bernardita Catalla,female,1958-02-18,11,2020-04-02,11,Ambassador Bernardita Catalla (cropped).jpg,Bernardita Catalla
@@ -916,7 +916,7 @@ Q96105621,Macnell Lusotan,,,,,,,
 Q96105806,Shirlyn Bañas-Nograles,,,,,,,
 Q96105894,Weslie Gatchalian,male,,,,,,
 Q96203756,Gabrielle Calizo - Quimpo,female,,,,,Gabrielle V. Calizo.jpg,Gabrielle Calizo-Quimpo
-Q96644205,Gilbert I. Gapay,male,1960-04-22,11,,,,Gilbert Gapay
+Q96644205,Gilbert I. Gapay,male,1960-04-22,11,,,GEN Gilbert I. Gapay.jpg,Gilbert Gapay
 Q970501,Panfilo Lacson,male,1948-06-01,11,,,Panfilo Lacson (cropped).jpg,Panfilo Lacson
 Q975565,Gregorio Honasan,male,1948-03-14,11,,,Gringo Honasan.jpg,Gregorio Honasan
 Q975592,Próspero Nograles,male,1947-10-30,11,2019-05-04,11,Speakernograles.jpg,Prospero Nograles
@@ -932,5 +932,5 @@ Q98397276,Guillermo Eleazar,male,1965-11-13,11,,,PDG Guillermo Eleazar.jpg,Guill
 Q984265,Kiko Pangilinan,male,1963-08-24,11,,,Senkikopangilinan.jpg,Francis Pangilinan
 Q984659,Orlando S. Mercado,male,1946-06-26,11,,,Defense Secretary Orly Mercado.jpg,Orly Mercado (politician)
 Q98746000,Maria Rosario Vergeire,female,,,,,Health Assistant Secretary Maria Rosario S. Vergeire - Diplomatic Briefing n-Cov 4.jpg,Maria Rosario Vergeire
-Q99156322,Camilo Cascolan,male,1964-11-10,11,,,,Camilo Cascolan
+Q99156322,Camilo Cascolan,male,1964-11-10,11,,,PDG Camilo Cascolan.jpg,Camilo Cascolan
 Q99644529,Faustino G. Dy III,male,,,,,,

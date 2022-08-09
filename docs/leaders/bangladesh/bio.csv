@@ -37,7 +37,7 @@ Q16730545,A.K.M. Shahjahan Kamal,male,1950-02-10,11,,,,A.K.M. Shahjahan Kamal
 Q16732958,Muhammad Hasan Mahmud,male,1963-06-05,11,,,Hasan Mahmud.jpg,Hasan Mahmud (politician)
 Q18759051,Surendra Kumar Sinha,male,1951-02-02,11,,,Surendra Kumar Sinha.jpg,Surendra Kumar Sinha
 Q18988788,Mujibul Haque Mujib,male,1947-05-31,11,,,Mujibul Haque Mujib.jpg,Mujibul Haque Mujib
-Q19517669,Mirza Azam,male,1962-09-13,11,,,,Mirza Azam
+Q19517669,Mirza Azam,male,1962-09-13,11,,,Mirza Azom MP.jpg,Mirza Azam
 Q19892715,Shajahan Khan,male,1952-01-01,11,,,Shajahan Khan.jpg,Shajahan Khan
 Q20202812,Salahuddin Ahmed (governor),male,,,,,,Salahuddin Ahmed (economist)
 Q20265428,Abu Belal Muhammad Shafiul Huq,male,1958-06,10,,,"General Belal Haque, Dhaka, 2017.jpg",Belal Shafiul Huq
@@ -53,11 +53,11 @@ Q20824325,Mahmudul Amin Choudhury,male,1937-06-18,11,2019-12-22,11,,Mahmudul Ami
 Q20824341,Md. Muzammel Hossain,male,1948-01-17,11,,,,Md. Muzammel Hossain
 Q20824342,Md. Tafazzul Islam,male,1943-02-08,11,,,,Md. Tafazzul Islam
 Q20824343,Md. Ruhul Amin,male,1941,9,,,,Md. Ruhul Amin
-Q20824345,Ali Ashraf,male,1947,9,2021,9,,Ali Ashraf
+Q20824345,Ali Ashraf,male,1947,9,2021,9,Ashraf1480266335.png,Ali Ashraf
 Q20824356,Mohammad Fajlul Karim,male,1943-09-30,11,,,,Mohammad Fazlul Karim
 Q20824696,J. R. Mudassir Husain,male,1940-01-01,11,,,Mudassir Husain.jpg,J. R. Mudassir Husain
 Q2093148,Latifur Rahman,male,1936-03-01,11,2017-06-06,11,,Latifur Rahman
-Q20983389,Mustafa Lutfullah,male,1961-12-15,11,,,,Mustafa Lutfullah
+Q20983389,Mustafa Lutfullah,male,1961-12-15,11,,,Mustafa.lutfullah.mp.jpg,Mustafa Lutfullah
 Q21063243,Tipu Sultan,male,1967-01-05,11,,,,Tipu Sultan (politician)
 Q21063547,Golam Maula Rony,male,1967,9,,,,Golam Maula Rony
 Q21872307,Nahim Razzaq MP,male,1981-02-07,11,,,Nahim Razzak (cropped).jpg,Nahim Razzaq
@@ -107,7 +107,7 @@ Q27063242,Shamsul Hoque Tuku,male,1948-05-31,11,,,Shamsul Hoque Tuku in 2012.jpg
 Q27063289,Jahangir Kabir Nanak,male,1954-01-14,11,,,Jahangir Kabir Nanak.jpg,Jahangir Kabir Nanak
 Q27063625,Muhammad Afsarul Ameen,male,1952-01-01,11,,,,Muhammad Afsarul Ameen
 Q27063647,Monnujan Sufian,female,1953-01-01,11,,,Begum Monnuzan Sufian khulna-3.jpg,Monnujan Sufian
-Q27063649,Dipankar Talukdar,male,1952,9,,,,Dipankar Talukdar
+Q27063649,Dipankar Talukdar,male,1952,9,,,"Dipankar Talukdar at Sangrai Festival, Apr 15, 2013 (9513065757) (cropped).jpg",Dipankar Talukdar
 Q27627669,Aziz Ahmed,male,1961-01-01,11,,,"Chief of Army Staff, Bangladesh Army, General Aziz Ahmed.JPG",Aziz Ahmed (general)
 Q27628122,Aurangzeb Chowdhury,male,1959-09-28,11,,,"130921-N-YU572-054 Capt. Fred Kacher, deputy commander, Destroyer Squadron (DESRON) 7, shakes hands with Rear Adm. Aurangzeb Chowdury (cropped).jpg",Aurangzeb Chowdhury
 Q27662532,Abul Hasanat Abdullah,male,1944-12-10,11,,,,Abul Hasanat Abdullah
@@ -208,7 +208,7 @@ Q50591929,Hasan Foez Siddique,male,1956-01-01,11,,,Hasan Foez Siddique 2022.jpg,
 Q50660601,AKM Jahangir Hossain,male,1954,9,2020-12-24,11,,AKM Jahangir Hossain
 Q50809326,Hasan Imam Khan,male,1973,9,,,মোহাম্মদ হাছান ইমাম খাঁন (সোহেল হাজারী).jpg,Hasan Imam Khan
 Q50821010,Kazi Firoz Rashid,male,1947-02-02,11,,,,Kazi Firoz Rashid
-Q50822655,Mahbubul Alam Hanif,male,1959-01-02,11,,,,Mahbubul Alam Hanif
+Q50822655,Mahbubul Alam Hanif,male,1959-01-02,11,,,Mahbubul Alam Hanif pic 1.jpg,Mahbubul Alam Hanif
 Q50824713,Anupam Shahjahan Joy,male,,,,,,Anupam Shahjahan Joy
 Q51016448,M. A. Maleque,male,1953-06-01,11,,,,M. A. Maleque
 Q51098179,Kazi Abdul Wadud Dara,male,1962-10-21,11,,,,Kazi Abdul Wadud Dara
@@ -240,7 +240,7 @@ Q52314155,Mohd. Salim Uddin Tarafder,male,1968-10-01,11,,,,Salim Uddin Tarafder
 Q52314638,Md. Abdul Maleque,male,1947-01-15,11,,,,Md. Abdul Maleque
 Q52315000,Md. Israfil Alam,male,1966-03-13,11,2020-07-27,11,,Israfil Alam
 Q52315739,Omor Faruk Chowdhury,male,1960-01-02,11,,,,Omor Faruk Chowdhury
-Q52322917,Md. Ayeen Uddin,male,1976-12-10,11,,,,Md. Ayeen Uddin
+Q52322917,Md. Ayeen Uddin,male,1976-12-10,11,,,মোঃ আয়েন উদ্দিন.jpg,Md. Ayeen Uddin
 Q52323331,Enamul Haque,male,1969-10-21,11,,,,Enamul Haque (engineer)
 Q52324777,Md. Abul Kalam,male,1956-07-25,11,,,,Md. Abul Kalam
 Q52325305,Md. Shafiqul Islam Shimul,male,1976-07-03,11,,,,Shafiqul Islam Shimul
@@ -313,7 +313,7 @@ Q55694362,Roksana Yasmin Suty,female,1959,9,,,,Roksana Yasmin Suty
 Q55694363,Sanjida Khanam,female,,,,,,Sanjida Khanam
 Q55694381,Shaimum Sarwar Kamal,male,,,,,,Shaimum Sarwar Kamal
 Q55694382,Md. Nazrul Islam Chowdhury,male,1952,9,,,,Md. Nazrul Islam Chowdhury
-Q55694383,Abu Reza Muhammad Nezamuddin,male,1968-08-15,11,,,,Abu Reza Muhammad Nezamuddin
+Q55694383,Abu Reza Muhammad Nezamuddin,male,1968-08-15,11,,,Abu reza nadwi.jpg,Abu Reza Muhammad Nezamuddin
 Q55694385,Shamsul Haque Chowdhury,male,1957-07-20,11,,,,Shamsul Haque Chowdhury
 Q55694389,Moin Uddin Khan Badal,male,1952-02-21,11,2019-11-07,11,,Moin Uddin Khan Badal
 Q55694390,Ziauddin Ahmed Bablu,male,1954-12-31,11,2021-10-02,11,Ziauddin Ahmed Bablu.jpg,Ziauddin Ahmed Bablu
@@ -399,7 +399,7 @@ Q58303248,Nazim Uddin Ahmed,male,1950,9,,,,Nazim Uddin Ahmed
 Q58304109,Anwarul Abedin Khan,male,,,,,,Anwarul Abedin Khan
 Q58494645,A. K. M. Fazlul Haque,male,1949,9,,,,A. K. M. Fazlul Haque
 Q58494767,Waresat Hussain Belal,male,1958,9,,,,Waresat Hussain Belal
-Q58495018,Fahmi Gulandaz Babel,male,1976,9,,,,Fahmi Gulandaz Babel
+Q58495018,Fahmi Gulandaz Babel,male,1976,9,,,Fahmi Gulandaz Babel.jpg,Fahmi Gulandaz Babel
 Q58756669,Didarul Alam,male,1968,9,,,,Didarul Alam
 Q58756811,Mrinal Kanti Das,male,1959,9,,,,Mrinal Kanti Das
 Q58831591,Ali Azam,male,1972-08-03,11,,,,Ali Azam (Barisal politician)
@@ -430,6 +430,7 @@ Q61112078,Nasimul Alam Chowdhury,male,1967,9,,,,Nasimul Alam Chowdhury
 Q61341512,Chhabi Biswas,male,1951-05-26,11,,,,Chhabi Biswas (politician)
 Q62782978,Golam Mostafa Ahmed,male,1951,9,2017,9,,Golam Mostafa Ahmed
 Q6294470,Jotindra Lal Tripura,male,1947-07-28,11,,,,Jotindra Lal Tripura
+Q62962936,Jafar Alam,male,1957-06-12,11,,,,Jafar Alam
 Q62977987,Akkas Ali,male,,,,,,Akkas Ali
 Q6311615,Zunaid Ahmed Palak,male,1980-05-17,11,,,Zunaid Ahmed Palak - Dhaka 2015-05-30 1474.JPG,Zunaid Ahmed Palak
 Q63348258,Muhammad Serajul Akbar,male,1944,9,2015-03-09,11,,Muhammad Serajul Akbar
@@ -446,7 +447,7 @@ Q6890056,Moeen U Ahmed,male,1953-01-21,11,,,"General Moeen U. Ahmed in New Delhi
 Q6893246,Mohammed Nasim,male,1948-04-02,11,2020-06-13,11,"Mohammed Nasim in New Delhi on April 13, 2016.jpg",Mohammed Nasim
 Q6916893,Mostafizur Rahman Fizar,male,1953-11-29,11,,,,Mostafizur Rahman (politician)
 Q6933034,Muhiuddin Khan Alamgir,male,1942,9,,,Alamgir mohiuddin Khan.jpg,Muhiuddin Khan Alamgir
-Q6943274,Mustafa Kamal,male,1947-06-15,11,,,,Mustafa Kamal (politician)
+Q6943274,Mustafa Kamal,male,1947-06-15,11,,,Ambassador Earl Miller at ORACLE Office Launching Ceremony (50284221518).jpg,Mustafa Kamal (politician)
 Q6959685,Naimur Rahman,male,1974-09-19,11,,,Naimur Rahman Durjoy in Sydney 2015.jpg,Naimur Rahman
 Q71333493,Ali Kadar,male,,,2017-06-30,11,,Ali Kadar
 Q7294828,Rashed Khan Menon,male,1943-05-18,11,,,Rashed Khan Menon (01).jpg,Rashed Khan Menon
@@ -465,7 +466,7 @@ Q7645405,Suranjit Sengupta,male,1945-05-05,11,2017-02-05,11,,Suranjit Sengupta
 Q7812953,Tofail Ahmed,male,1943-10-22,11,,,TofailAhmed2014.jpg,Tofail Ahmed (politician)
 Q8046660,Yafes Osman,male,1946-05-01,11,,,Yeafesh Osman (01113699) (9822714675) (cropped).jpg,Yeafesh Osman
 Q8064679,Zahir Uddin Ahmed,male,1957,9,,,"Vice Admiral Zahir Uddin Ahmed in New Delhi on July 09, 2012.jpg",Zahir Uddin Ahmed
-Q87113463,Serniabat Sadiq Abdullah,male,1979,9,,,,Serniabat Sadiq Abdullah
+Q87113463,Serniabat Sadiq Abdullah,male,1979,9,,,Serniabat sadiq abdullah.jpg,Serniabat Sadiq Abdullah
 Q93723234,Rashida Hamid,female,,,,,,Rashida Hamid
 Q97685559,M Shaheen Iqbal,male,1964,9,,,M Shaheen Iqbal in September 2021 (cropped).jpg,M Shaheen Iqbal
 Q99671213,Nuruzzaman Biswas,male,,,,,,Nuruzzaman Biswas

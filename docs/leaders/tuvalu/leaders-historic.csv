@@ -1,8 +1,8 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Tuvalu,monarch,Elizabeth II,Q9682,1978-10-01,,female,1926-04-21,,Queen Elizabeth II of New Zealand (cropped).jpg,Elizabeth II
 Tuvalu,Governor-General,Tomasi Puapua,Q919316,1998-06-26,2003-09-09,male,1938-09-10,,,Tomasi Puapua
-Tuvalu,Governor-General,Faimalaga Luka,Q164931,2003-09-09,2005-04-15,male,1940,2005-08-19,,Faimalaga Luka
-Tuvalu,Governor-General,Filoimea Telito,Q451540,2005-04-15,2010-03-19,male,1945-03-19,2011-07-11,,Filoimea Telito
+Tuvalu,Governor-General,Faimalaga Luka,Q164931,2003-09-09,2005-04-15,male,1940,2005-08-19,Faimalaga Luka 2003.jpg,Faimalaga Luka
+Tuvalu,Governor-General,Filoimea Telito,Q451540,2005-04-15,2010-03-19,male,1945-03-19,2011-07-11,Filoimea Telito 2006.jpg,Filoimea Telito
 Tuvalu,Governor-General,Kamuta Latasi,Q739504,2010-03-19,2010-04-16,male,1936-09-04,,Rt Hon Sir Kamuta Latasi (cropped).jpg,Kamuta Latasi
 Tuvalu,Governor-General,Sir Iakoba Italeli,Q3147210,2010-04-16,2019-08-22,male,,,Iakoba Italeli May 2015.jpg,Iakoba Italeli
 Tuvalu,Governor-General,Teniku Talesi Honolulu,Q104962757,2019-08-22,2021-01,female,,,,Teniku Talesi
@@ -10,7 +10,7 @@ Tuvalu,Governor-General,Samuelu Teo,Q21062794,2021-01,2021-09-28,male,1957,,Tuva
 Tuvalu,Governor-General,Tofiga Vaevalu Falani,Q108906680,2021-09-29,,male,,,Tofiga Vaevalu Falani 2021.jpg,Tofiga Vaevalu Falani
 Tuvalu,Prime Minister,Ionatana Ionatana,Q961043,1999-04-27,2000-12-08,male,1938-11-05,2000-12-08,Ionatana Ionatana.jpg,Ionatana Ionatana
 Tuvalu,Prime Minister,Lagitupu Tuilimu,Q663723,2000-12-08,2001-02-24,male,,,,Lagitupu Tuilimu
-Tuvalu,Prime Minister,Faimalaga Luka,Q164931,2001-02-24,2001-12-13,male,1940,2005-08-19,,Faimalaga Luka
+Tuvalu,Prime Minister,Faimalaga Luka,Q164931,2001-02-24,2001-12-13,male,1940,2005-08-19,Faimalaga Luka 2003.jpg,Faimalaga Luka
 Tuvalu,Prime Minister,Koloa Talake,Q965221,2001-12-14,2002-08-24,male,1934-06-07,2008-05-26,,Koloa Talake
 Tuvalu,Prime Minister,Saufatu Sopoanga,Q384322,2002-08-24,2004-08-27,male,1952-02-22,2020-12-15,Saufatu Sopoanga 2003 (cropped).jpg,Saufatu Sopoanga
 Tuvalu,Prime Minister,Maatia Toafa,Q287513,2004-08-27,2006-08-14,male,1954-05-01,,Maatia Toafa.jpg,Maatia Toafa
@@ -85,7 +85,7 @@ Tuvalu,Minister of Transport,Nielu Meisake,Q108805785,2019-09-20,,male,,,,
 Tuvalu,Minister of Tourism,Apisai Ielemia,Q316267,2010-12-24,2013-08-01,male,1955-08-19,2018-11-19,Apisai Ielemia cropped.jpg,Apisai Ielemia
 Tuvalu,Minister of Tourism,Taukelina Finikaso,Q7688699,2013-08-05,2019-09-09,male,1959,,,Taukelina Finikaso
 Tuvalu,Minister of Tourism,Nielu Meisake,Q108805785,2019-09-20,,male,,,,
-Tuvalu,Minister for Women,Faimalaga Luka,Q164931,2000-12-08,2001-02-24,male,1940,2005-08-19,,Faimalaga Luka
+Tuvalu,Minister for Women,Faimalaga Luka,Q164931,2000-12-08,2001-02-24,male,1940,2005-08-19,Faimalaga Luka 2003.jpg,Faimalaga Luka
 Tuvalu,Minister for Works and Communications,Teagai Esekia,Q110594681,2000-12-08,2001-02-24,,,,,
 Tuvalu,Minister for Works and Communications,Kokea Malua,Q6426583,2001-12-14,2002-08-02,male,,,,Kokea Malua
 Tuvalu,Minister for Works and Communications,Maatia Toafa,Q287513,2002-08-02,2004-08-27,male,1954-05-01,,Maatia Toafa.jpg,Maatia Toafa
@@ -95,7 +95,7 @@ Tuvalu,Minister for Works and Communications,Vete Sakaio,Q7923554,2010-09-29,201
 Tuvalu,Speaker of Parliament,Tomu Sione,Q923836,1998,2002,male,1941-11-17,2016-04,,Tomu Sione
 Tuvalu,Speaker of Parliament,Saloa Tauia,Q108598616,2002-08,2003-02,male,,2003-02,,Saloa Tauia
 Tuvalu,Speaker of Parliament,Otinielu Tausi,Q7108741,2002-08-02,2006-08-14,male,,,,Otinielu Tausi
-Tuvalu,Speaker of Parliament,Faimalaga Luka,Q164931,2003,2003,male,1940,2005-08-19,,Faimalaga Luka
+Tuvalu,Speaker of Parliament,Faimalaga Luka,Q164931,2003,2003,male,1940,2005-08-19,Faimalaga Luka 2003.jpg,Faimalaga Luka
 Tuvalu,Speaker of Parliament,Kamuta Latasi,Q739504,2006-08-16,2010-09-29,male,1936-09-04,,Rt Hon Sir Kamuta Latasi (cropped).jpg,Kamuta Latasi
 Tuvalu,Speaker of Parliament,Isaia Italeli,Q6078458,2010-09-29,2010-12-24,male,1960,2011-07-20,,Isaia Italeli
 Tuvalu,Speaker of Parliament,Kamuta Latasi,Q739504,2010-12-24,2014-03-04,male,1936-09-04,,Rt Hon Sir Kamuta Latasi (cropped).jpg,Kamuta Latasi

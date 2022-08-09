@@ -1,7 +1,8 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100329199,Muhammed Fatih Toprak,male,1985-07-02,11,,,Muhammed Fatih Toprak.jpg,
+Q1020672,Bülent Arınç,male,1948-05-25,11,,,Bulent Arinc 2014.jpg,Bülent Arınç
 Q104721879,Sera Kadıgil,female,1984-11-29,11,,,Sera Kadıgil.png,Sera Kadıgil
-Q105064547,Ebru Günay,female,1982-01-01,11,,,,Ebru Günay
+Q105064547,Ebru Günay,female,1982-01-01,11,,,Ebru Günay (cropped).png,Ebru Günay
 Q1052749,Celal Doğan,male,1943-08-01,11,,,Celaldoğan.png,
 Q105476969,Musa Piroğlu,male,1968,9,,,,Musa Piroğlu
 Q105773278,Muhammet Balta,male,1966,9,,,,
@@ -311,6 +312,7 @@ Q151729,Süleyman Demirel,male,1924-11-01,11,2015-06-17,11,Suleyman Demirel 1998
 Q1534762,Hüseyin Çelik,male,1959-03-05,11,,,Hüseyin Çelik 2008.jpg,Hüseyin Çelik
 Q15416691,Ayşenur İslam,female,1958-01-16,11,,,Ayşenurislam.png,Ayşenur İslam
 Q15431339,Fikri Işık,male,1965-09-13,11,,,Fikri Işık.jpg,Fikri Işık
+Q15678310,Ali İhsan Su,male,1959-06-25,11,,,,Ali İhsan Su
 Q15731795,Gülay Samancı,female,1977-02-25,11,,,,
 Q15731899,Ayşe Nur Bahçekapılı,female,1954-11-26,11,,,Ayşe Nur Bahçekapılı.jpg,Ayşe Nur Bahçekapılı
 Q15833364,Mahmut Tanal,male,1961-01-01,11,,,Mahmuttanal.png,Mahmut Tanal
@@ -398,6 +400,7 @@ Q205121,Aziz Kocaoğlu,male,1948,9,,,Aziz Kocaoglu edited.jpg,Aziz Kocaoğlu
 Q20630613,Adnan Boynukara,male,1964-02-04,11,,,,Adnan Boynukara
 Q20630670,Candan Yüceer,female,1973-05-04,11,,,Candan Yüceer.jpg,Candan Yüceer
 Q20640548,Dilek Öcalan,female,1987-10-03,11,,,Dilek Öcalan.jpg,Dilek Öcalan
+Q20675844,Ali Fidan,male,1970,9,,,,Ali Fidan
 Q20675924,Sefer Aycan,male,1963-03-16,11,,,,Sefer Aycan
 Q20744474,Burcu Köksal,female,1980-01-01,11,,,Burcu Köksal.jpg,Burcu Köksal
 Q20790440,Eren Erdem,male,1986-08-14,11,,,Eren Erdem Adalet Kurultayı.jpg,Eren Erdem
@@ -426,12 +429,13 @@ Q21526880,Sadir Durmaz,male,1963-07-15,11,,,,
 Q21527259,Uğur Bayraktutan,male,1965-02-25,11,,,,
 Q21527394,Ziver Özdemir,male,1965-04-05,11,,,,
 Q21528341,Öztürk Yılmaz,male,1969-09-19,11,,,Ozturk Yilmaz.jpg,Öztürk Yılmaz
-Q21528377,İmam Taşçıer,male,1959-01-01,11,,,,İmam Taşçıer
+Q21528377,İmam Taşçıer,male,1959-01-01,11,,,Imam Tascıer.jpg,İmam Taşçıer
 Q21528397,İsmet Büyükataman,male,1953-12-22,11,,,,
 Q21528418,Feridun Bahşi,male,1959-01-02,11,,,,
 Q21540262,Ravza Kavakcı Kan,female,1972-03-30,11,,,Ravza Kavakçı Kan.jpg,Ravza Kavakçı Kan
 Q21541504,Bülent Tüfenkci,male,1966-01-01,11,,,Bulenttufenkci2.png,Bülent Tüfenkci
 Q21541529,Sema Ramazanoğlu,female,1959-08-25,11,,,847C2697(1).JPG cropped (Sema Ramazanoglu).png,Sema Ramazanoğlu
+Q21765378,Adnan Yılmaz,male,1954,9,,,Adnan Yılmaz (Vali).jpg,Adnan Yılmaz
 Q21931907,Mehmet Ali Aslan,male,1975,9,,,,Mehmet Ali Aslan
 Q22003071,Ali Haydar Hakverdi,male,1979-01-01,11,,,Ali Haydar Hakverdi (cropped).jpg,Ali Haydar Hakverdi
 Q22003215,Atilla Sertel,male,1956-07-23,11,,,,Atilla Sertel
@@ -510,6 +514,7 @@ Q28952174,Fatma Kaplan Hürriyet,female,1982-03-20,11,,,Fatma Kaplan Hürriyet (
 Q29413594,Mustafa Yeneroğlu,male,1975-07-01,11,,,,
 Q2947184,Cevdet Yılmaz,male,1967-04-01,11,,,Cevdet Yılmaz.jpg,Cevdet Yılmaz
 Q297516,Ömer Çelik,male,1968-06-15,11,,,Informal meeting of ministers for foreign affairs (Gymnich). Arrivals Ömer Çelik (36928367812) (cropped).jpg,Ömer Çelik
+Q297528,Ömer İzgi,male,1940-01-01,11,,,,Ömer İzgi
 Q29937945,Ziya Pir,male,1970,9,,,,Ziya Pir
 Q31188381,Mahmut Celadet Gaydalı,male,1951,9,,,,
 Q31188465,Salih Cora,male,1981,9,,,,
@@ -641,6 +646,7 @@ Q58212536,Rümeysa Kadak,female,1996-05-16,11,,,Rumeysa Kadak TBMM.jpg,Rümeysa 
 Q59313241,Ekrem İmamoğlu,male,1970-06-04,11,,,Ekrem İmamoğlu June 8 2022.jpg,Ekrem İmamoğlu
 Q5998824,Atila Kaya,male,1957-08-15,11,,,,
 Q6008289,İsrafil Kışla,male,1959-03-10,11,,,,
+Q6012881,Fikret Güven,male,,,,,,
 Q6015501,Fatih Şahin,male,1979-03-20,11,,,,Fatih Şahin
 Q6018857,Selim Yağcı,male,1966,9,,,,
 Q6020385,Muharrem Varlı,male,1969-04-22,11,,,,Muharrem Varlı
@@ -655,6 +661,7 @@ Q6025406,Hasan Kemal Gür,male,1950,9,,,,
 Q6026854,Yalçın Akdoğan,male,1969-09-22,11,,,YalçınAkdoğan.jpg,Yalçın Akdoğan
 Q6026914,Tahir Akyürek,male,1959,9,,,,Tahir Akyurek
 Q6027159,Vasip Şahin,male,1964,9,,,Vasip Şahin.jpg,Vasip Şahin
+Q6027476,Halil Nimetoğlu,male,1946,9,2020-03-31,11,,
 Q6027496,Tunç Üğdül,male,1957,9,,,,
 Q6027967,Tekin Bingöl,male,1955-08-01,11,,,Tekin Bingöl.jpg,Tekin Bingöl
 Q6027977,Levent Gök,male,1959-10-24,11,,,Levent Gök (2019-11-27) (cropped).jpg,Levent Gök
@@ -706,12 +713,13 @@ Q6045148,Behiç Çelik,male,1955,9,,,,
 Q6045164,Celal Adan,male,1951-09-10,11,,,,Celal Adan
 Q6045220,Bekir Aksoy,male,1950-09-15,11,,,,
 Q6046409,Nurettin Canikli,male,1960-05-15,11,,,"Deputy Prime Minister Nurettin Canikli, July 22, 2016 (cropped).jpg",Nurettin Canikli
-Q6046649,Barış Atay,male,1981-09-22,11,,,,Barış Atay
+Q6046649,Barış Atay,male,1981-09-22,11,,,005 23zigste Tuerkische Filmtage Schauspiler Barış Atay im Film Wir werden schoene Tage erleben.JPG,Barış Atay
 Q6047566,Erdoğan Toprak,male,1961,9,,,"Erdoğan Toprak, 2019 (cropped).png",Erdoğan Toprak
 Q6049478,Ahmet Tan,male,1949-01-11,11,,,,
 Q6049544,Muzaffer Ecemiş,male,1939,9,,,,
 Q6049982,Zeyid Aslan,male,1965-08-06,11,,,,
 Q6052158,Berat Albayrak,male,1978-01-01,11,,,Berat Albayrak at the EU-Turkey High Level Economic Dialogue.jpg,Berat Albayrak
+Q6052258,Cengiz Bulut,male,1939,9,,,,
 Q6052365,Ahat Andican,male,1950-04-01,11,,,,
 Q6052528,Mehmet Şükrü Erdinç,male,1976-01-04,11,,,,Mehmet Şükrü Erdinç
 Q6053556,İlhan Kesici,male,1948-11-22,11,,,İlhan Kesici.png,İlhan Kesici
@@ -722,6 +730,7 @@ Q6057352,Alev Dedegil,female,1958-02-21,11,,,,
 Q6057405,Ayhan Bilgen,male,1971-01-28,11,,,Ayhan Bilgen.jpg,Ayhan Bilgen
 Q6059392,Ahmet İyimaya,male,1950,9,,,,
 Q6059473,İdris Güllüce,male,1950-02-11,11,,,,İdris Güllüce
+Q6060419,Bülent Kılınç,male,1965,9,,,,
 Q6061075,Özlem Çerçioğlu,female,1968-08-11,11,,,ÖzlemÇerçioğlu.jpg,Özlem Çerçioğlu
 Q6061112,Mustafa Destici,male,1966-02-03,11,,,Mustafa Destici (cropped).jpg,Mustafa Destici
 Q6061291,Ayşe Gülsün Bilgehan,female,1957-02-25,11,,,Gülsün Bilgehan.jpg,Ayşe Gülsün Bilgehan
@@ -815,7 +824,7 @@ Q61357211,İbrahim Özyavuz,male,1963,9,,,,
 Q61357331,Tunç Soyer,male,1959,9,,,"Tunç Soyer in Diyarbakır, March 2022 (cropped).jpg",Tunç Soyer
 Q61996495,Mustafa Canbey,male,1975-05-19,11,,,Mustafa Canbey.jpg,
 Q6444747,Şamil Ayrım,male,1950,9,,,Şamil Ayrım.jpg,Şamil Ayrım
-Q64738140,Ömer Öcalan,male,1987,9,,,,Ömer Öcalan
+Q64738140,Ömer Öcalan,male,1987,9,,,Ömer Öcalan.jpg,Ömer Öcalan
 Q6538025,Leyla Güven,female,1964-05-06,11,,,Leyla Guven (cropped).jpg,Leyla Güven
 Q65498832,Yıldırım Tuğrul Türkeş,,1954-12-01,11,,,,
 Q65499265,Mehmet Kasım Gülpınar,male,1969-09-20,11,,,,
@@ -903,4 +912,4 @@ Q97320407,Abdullah Doğru,male,1965,9,,,,
 Q982389,Sırrı Süreyya Önder,male,1962-07-07,11,,,Sırrı Süreyya Önder.jpg,Sırrı Süreyya Önder
 Q982397,Numan Kurtulmuş,male,1959-03-23,11,,,"Numan Kurtulmuş at Diyarbakır, 2021 (cropped).jpg",Numan Kurtulmuş
 Q99228281,Remziye Tosun,female,1981,9,,,Remziye Tosun.jpg,Remziye Tosun
-Q99628942,Bedia Özgökçe Ertan,female,1975-01-06,11,,,,Bedia Özgökçe Ertan
+Q99628942,Bedia Özgökçe Ertan,female,1975-01-06,11,,,Bedia Özgökçe Ertan.png,Bedia Özgökçe Ertan

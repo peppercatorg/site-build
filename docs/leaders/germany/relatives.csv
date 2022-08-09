@@ -121,6 +121,7 @@ Germany,Q18022406,Konrad Scheringer,father,Q2150515,Richard Scheringer
 Germany,Q18022406,Konrad Scheringer,sibling,Q1696115,Johann Scheringer
 Germany,Q1805208,Manfred Kolbe,father,Q22954595,Hans-Georg Kolbe
 Germany,Q1806261,Lars Klingbeil,spouse,Q108611625,Lena-Sophie Müller
+Germany,Q18629067,Matthias Kollatz,spouse,Q109433,Doris Ahnen
 Germany,Q1898733,Mario Czaja,sibling,Q1294719,Sebastian Czaja
 Germany,Q1904719,Martin Pfaff,spouse,Q106690,Anita Bose Pfaff
 Germany,Q19279839,Franziska Giffey,spouse,Q108701854,Karsten Giffey
@@ -292,6 +293,7 @@ Germany,Q67191622,Elske Hildebrandt,father,Q15432119,Jörg Hildebrandt
 Germany,Q67191622,Elske Hildebrandt,mother,Q77980,Regine Hildebrandt
 Germany,Q692050,Arndt Freytag von Loringhoven,father,Q506457,Bernd Freytag von Loringhoven
 Germany,Q692050,Arndt Freytag von Loringhoven,spouse,Q61719245,Barbara von Ow-Freytag
+Germany,Q692059,Arndt Klocke,partner,Q2371230,Sven Lehmann
 Germany,Q69349,Lothar Späth,spouse,Q2501889,Ursula Späth
 Germany,Q70066,Jochen Borchert,child,Q1675412,Katharina Borchert
 Germany,Q70089,Christoph Bergner,sibling,Q1456996,Frieder W. Bergner
@@ -318,8 +320,10 @@ Germany,Q71763,Alexander Graf Lambsdorff,spouse,Q75323762,Franziska Christiane H
 Germany,Q72873,Gerda Hasselfeldt,father,Q2650401,Alois Rainer
 Germany,Q72873,Gerda Hasselfeldt,sibling,Q15434505,Alois Rainer
 Germany,Q72873,Gerda Hasselfeldt,spouse,Q2591830,Wolfgang Zeitlmann
+Germany,Q73197,Anke Fuchs,child,Q108290855,Thomas Fuchs
 Germany,Q73197,Anke Fuchs,father,Q85910,Paul Nevermann
 Germany,Q73197,Anke Fuchs,sibling,Q1777652,Knut Nevermann
+Germany,Q73197,Anke Fuchs,sibling,Q81097821,Jan Nevermann
 Germany,Q73213,Edzard Schmidt-Jortzig,father,Q37104381,Friedrich Traugott Schmidt
 Germany,Q74268,Bernhard Vogel,father,Q16739593,Hermann Vogel
 Germany,Q74268,Bernhard Vogel,sibling,Q552483,Hans-Jochen Vogel

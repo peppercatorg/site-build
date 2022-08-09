@@ -2,9 +2,9 @@ id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q10290285,Mohammad Mehdi Zahedi,male,1953,9,,,Mohammad Mehdi Zahedi.jpg,Mohammad Mehdi Zahedi
 Q10296812,Mohammad Javad Zarif,male,1960-01-07,11,,,Mohammad javad zarif in 2021.jpg,Mohammad Javad Zarif
 Q104530166,Hossein Rajaei Rizi,male,,,,,حسین رجایی ریزی.jpg,Hossein Rajaei Rizi
-Q104530267,Mojtaba Bakhshipour,male,,,,,,Mojtaba Bakhshipour
+Q104530267,Mojtaba Bakhshipour,male,,,,,مجتبی بخشی‌پور.jpg,Mojtaba Bakhshipour
 Q104889199,gholamreza shariati andarati,,,,,,,
-Q105124375,Alireza Abbasi,male,1947,9,,,,Alireza Abbasi
+Q105124375,Alireza Abbasi,male,1947,9,,,علیرضا عباسی.jpg,Alireza Abbasi
 Q107101911,Mehdi Bagheri,,,,,,مهدی بافری.jpg,
 Q107506657,Hossein Hatami,,,,,,,
 Q107572600,Ebrahim Rezaei,male,,,,,ابراهیم رضایی نماینده دشتستان.png,
@@ -131,7 +131,7 @@ Q25423735,Sowlat Mortazavi,male,1955-05-05,11,,,Seyyed Sowlat Mortazavi (4).jpg,
 Q25424757,Amir Hatami,male,1965,9,,,Amir Hatami portrait.jpg,Amir Hatami
 Q25424933,Heydar Ali Abedi,male,1955,9,,,حیدرعلی عابدی.jpg,
 Q25425165,Qasem Saedi,male,,,,,قاسم ساعدی1.jpg,Qasem Saedi
-Q25425171,Jalil Mokhtar,male,,,,,,Jalil Mokhtar
+Q25425171,Jalil Mokhtar,male,,,,,جلیل مختار.jpg,Jalil Mokhtar
 Q25425181,Jalil Rahimi Jahanabadi,male,,,,,,
 Q25425205,Hajar Chenarani,female,1978,9,,,Hajar Chenarani 1395-04-23.jpg,Hajar Chenarani
 Q25425304,Syed Hamid Reza Kazemi,male,,,,,سید حمیدرضا کاظمی1.jpg,
@@ -158,7 +158,7 @@ Q283201,Ali Akbar Salehi,male,1949-03-24,11,,,Aliakbar salehi in 2021.jpg,Ali Ak
 Q28712587,Mohammad Reza Mansouri,male,1966,9,,,,
 Q28713067,سید ناصر حسینی‌پور,male,,,,,,
 Q28713701,محمدرضا دشتی اردکانی,male,,,,,,
-Q29018332,Mahmoud Nabavian,male,1965,9,,,,Mahmoud Nabavian
+Q29018332,Mahmoud Nabavian,male,1965,9,,,Mahmoud nabavian.jpg,Mahmoud Nabavian
 Q302077,Mohammad-Hassan Malekmadani,male,1955,9,,,محمد حسن ملک مدنی.jpg,Mohammad-Hassan Malekmadani
 Q30323771,Piruz Hanachi,male,1963-06-11,11,,,Pirooz Hanachi (13970217000555636612962242046131 88841) (cropped).jpg,Pirouz Hanachi
 Q315011,Mehdi Karroubi,male,1937-09-26,11,,,Karubi in zanjan.jpg,Mehdi Karroubi
@@ -271,7 +271,7 @@ Q85966905,Abolghassem Delfi,,,,,,Abolqasem Delfi 2019-01-01.jpg,
 Q85966943,احمد راستینه هفشجانی,,,,,,,
 Q85968126,Behrouz Mohebbi Najmabadi,,,,,,,
 Q85971172,رضا حاجی‌پور,,,,,,,
-Q85971496,Zohreh Lajevardi,female,,,,,,Zohreh Lajevardi
+Q85971496,Zohreh Lajevardi,female,,,,,Lajevardi zohreh.jpg,Zohreh Lajevardi
 Q85972102,سید مسعود خاتمی,,,,,,,
 Q85973062,علیرضا شهبازی,,,,,,,
 Q85973082,علیرضا ورناصری,,,,,,,
@@ -312,9 +312,9 @@ Q86495279,Ebrahim Matinian,male,1960,9,,,,Ebrahim Matinian
 Q86495405,Seyyed Lefteh Ahmad Nejad,male,,,,,,Seyyed Lefteh Ahmad Nejad
 Q86495485,Mohammad Tala Mazloumi,male,,,,,,Mohammad Tala Mazloumi
 Q86495535,Abdollah Izadpanah,male,,,,,,Abdollah Izadpanah
-Q86495675,Seyyed Mojtaba Mahfouzi,male,,,,,,Seyyed Mojtaba Mahfouzi
+Q86495675,Seyyed Mojtaba Mahfouzi,male,,,,,سید مجتبی محفوظی.jpg,Seyyed Mojtaba Mahfouzi
 Q86495721,Mojtaba Yousefi,male,1983,9,,,مجتبی یوسفی 1.jpg,Mojtaba Yousefi
-Q86495812,Seyyed Karim Hosseini,male,,,,,,Seyyed Karim Hosseini
+Q86495812,Seyyed Karim Hosseini,male,,,,,سید کریم حسینی در کنار محمد‌باقر قالیباف سید کریم حسینی.jpg,Seyyed Karim Hosseini
 Q86495830,علی جدی,,,,,,,
 Q86495960,امان‌الله حسین‌پور,,,,,,,
 Q86496291,محمد وحیدی,,,,,,,

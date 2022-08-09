@@ -54,6 +54,9 @@ India,Q15725132,Ulaka Rama Chandra,child,Q63079548,Saptagiri Shankar Ulaka
 India,Q15725132,Ulaka Rama Chandra,child,Q63079554,Siba Sankar Ulaka
 India,Q15725132,Ulaka Rama Chandra,spouse,Q63079572,Ratnamani Ulaka
 India,Q15725132,Ulaka Rama Chandra,spouse,Q63079583,Janaki Ulaka
+India,Q15725391,Soumya Ranjan Patnaik,sibling,Q17581452,Amiya Ranjan Patnaik
+India,Q15725391,Soumya Ranjan Patnaik,sibling,Q7039898,Niranjan Patnaik
+India,Q15725391,Soumya Ranjan Patnaik,spouse,Q62672642,Sudatta Patnaik
 India,Q15730377,Krishna Bose,child,Q7424307,Sarmila Bose
 India,Q15730377,Krishna Bose,child,Q7635065,Sugata Bose
 India,Q15730377,Krishna Bose,child,Q7636959,Sumantra Bose
@@ -690,7 +693,12 @@ India,Q6167558,Jayant Chaudhary,father,Q4699805,Ajit Singh
 India,Q6167685,Jayasudha,sibling,Q7631262,Subhashini
 India,Q6167685,Jayasudha,spouse,Q7041301,Nitin Kapoor
 India,Q6191080,Jhina Hikaka,spouse,Q62605376,Kaushalya Hikaka
+India,Q62555393,Bishnubrata Routray,father,Q24228863,Bijayshree Routray
+India,Q62555402,Devi Ranjan Tripathy,father,Q19517706,Pravat Tripathy
+India,Q62556399,Souvic Biswal,father,Q61488795,Pravat Ranjan Biswal
 India,Q62559369,Manjulata Mandal,spouse,Q61510081,Muktikanta Mandal
+India,Q62598192,Sanjeev Mallick,father,Q61652306,Hrudananda Mallick
+India,Q62598192,Sanjeev Mallick,sibling,Q61575099,Manas Ranjan Mallik
 India,Q62662902,Chandrani Murmu,relative,Q47450805,Harihar Soren
 India,Q62773778,Nakul Nath,father,Q1287413,Kamal Nath
 India,Q62773778,Nakul Nath,mother,Q15940986,Alka Nath
@@ -699,6 +707,7 @@ India,Q63079548,Saptagiri Shankar Ulaka,father,Q15725132,Ulaka Rama Chandra
 India,Q63079548,Saptagiri Shankar Ulaka,mother,Q63079572,Ratnamani Ulaka
 India,Q63107416,Prajwal Revanna,father,Q5628154,H. D. Revanna
 India,Q6319418,Jyoti Mirdha,spouse,Q106674512,Shri Narender Gehlaut
+India,Q63220680,Prakash Majhi,sibling,Q7289389,Ramesh Chandra Majhi
 India,Q6323498,K. Kavitha,father,Q33168,K. Chandrashekar Rao
 India,Q6323498,K. Kavitha,sibling,Q25748324,K. T. Rama Rao
 India,Q6323584,K. M. Mani,child,Q6279404,Jose K. Mani
@@ -715,17 +724,21 @@ India,Q6355306,Kamakhya Prasad Singh Deo,spouse,Q63185027,Krishna Devi
 India,Q6365721,Kanwal Sibal,father,Q24578742,Hira Lall Sibal
 India,Q63992931,Shantanu Thakur,father,Q6738494,Manjul Krishna Thakur
 India,Q63993592,B. N. Bache Gowda,child,Q63993621,Sharath Kumar Bachegowda
+India,Q63994063,Manjula Swain,spouse,Q16908996,Ladu Kishore Swain
+India,Q63994641,Sambit Routray,father,Q61488636,Damodara Rout
 India,Q64003223,Chunibala Hansda,child,Q61776706,Birbaha Hansda
 India,Q64003223,Chunibala Hansda,spouse,Q81399828,Naren Hansda
 India,Q64005634,Shardaben Patel,spouse,Q4764691,Anilkumar Patel
 India,Q64141260,Ashok Kumar Yadav,father,Q16105255,Hukmdev Narayan Yadav
 India,Q6437529,Krishnam Raju,sibling,Q23833018,Uppalapati Surya Narayana Raju
+India,Q64424186,C S Raazen Ekka,father,Q61717532,Christopher Ekka
 India,Q6442875,Kuldeep Bishnoi,child,Q106705891,Sia Bishnoi
 India,Q6442875,Kuldeep Bishnoi,child,Q21620882,Chaitanya Bishnoi
 India,Q6442875,Kuldeep Bishnoi,child,Q63860325,Bhavya Bishnoi
 India,Q6442875,Kuldeep Bishnoi,father,Q4900831,Bhajan Lal
 India,Q6442875,Kuldeep Bishnoi,sibling,Q5071011,Chander Mohan
 India,Q6442875,Kuldeep Bishnoi,spouse,Q20090300,Renuka Bishnoi
+India,Q64590480,Lalitendu Bidyadhar Mohapatra,sibling,Q27514472,Lalatendu Bidyadhar Mohapatra
 India,Q64590509,Madan Mohan Dutta,child,Q100284924,Manas Kumar Dutta
 India,Q6479913,Lakshmi Puri,spouse,Q5655835,Hardeep Singh Puri
 India,Q6480368,Lalit Mansingh,father,Q5885192,Mayadhar Mansingh

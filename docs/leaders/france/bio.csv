@@ -68,7 +68,7 @@ Q1096917,Claude Martin,male,1944-09-24,11,,,,
 Q109711972,Sandra Regol,female,1978-04-13,11,,,,
 Q109969696,Clémence Guetté,female,1991-03-15,11,,,Clémence Guetté.jpg,
 Q1103356,Sylvie Andrieux,female,1961-12-15,11,,,,Sylvie Andrieux
-Q110464124,Emmanuel Blairy,male,1986-03-14,11,,,,Emmanuel Blairy
+Q110464124,Emmanuel Blairy,male,1986-03-14,11,,,Emmanuel Blairy.jpg,Emmanuel Blairy
 Q1106890,Édouard Fritch,male,1952-01-04,11,,,Édouard Fritch Marché Papeete.JPG,Édouard Fritch
 Q110765796,Françoise Bourolleau,female,1951-04-20,11,,,,
 Q110801036,Daphné Ract-Madoux,female,1972-05-13,11,,,2022-0205 - Daphne Ract-Madoux.jpg,
@@ -136,7 +136,7 @@ Q112639781,Julien Rancoule,male,1993-07-31,11,,,,Julien Rancoule
 Q112639913,Mélanie Thomin,female,1984-06-04,11,,,,Mélanie Thomin
 Q112639975,Gisèle Lelouis,female,1952-03-10,11,,,,Gisèle Lelouis
 Q112640278,Sébastien Delogu,male,1987-06-08,11,,,,
-Q112640513,Romain Baubry,male,1989-01-28,11,,,,Romain Baubry
+Q112640513,Romain Baubry,male,1989-01-28,11,,,Romain baubry.jpg,Romain Baubry
 Q112640893,Michèle Martinez,female,1968-06-06,11,,,Michèle Martinez en 2022.jpg,Michèle Martinez
 Q112641003,Carlos Martens Bilongo,male,1990-12-31,11,,,,
 Q112641115,Arthur Delaporte,male,1991-10-07,11,,,,Arthur Delaporte
@@ -186,8 +186,8 @@ Q112650830,Andrée Taurinya,female,1963-06-03,11,,,,
 Q112650841,Annick Cousin,female,1973-08-07,11,,,,Annick Cousin
 Q112650871,Anne-Sophie Frigout,female,1991-04-11,11,,,,Anne-Sophie Frigout
 Q112651131,Stéphane Rambaud,male,1960-04-05,11,,,,Stéphane Rambaud
-Q112651173,Sabrina Sebaihi,female,1981-05-10,11,,,,
-Q112651177,Francesca Pasquini,female,1981-12-27,11,,,,
+Q112651173,Sabrina Sebaihi,female,1981-05-10,11,,,,Sabrina Sebaihi
+Q112651177,Francesca Pasquini,female,1981-12-27,11,,,,Francesca Pasquini
 Q112651277,Martine Étienne,female,1956-06-22,11,,,,
 Q112651320,Anne Le Hénanff,female,1969-07-22,11,,,,
 Q112651333,Lysiane Métayer,female,1963-08-07,11,,,Lysiane Métayer.jpg,
@@ -246,13 +246,20 @@ Q112703400,Dominique Boché,,,,,,,
 Q112730739,Servane Hugues,female,1976-06-28,11,,,,
 Q112788869,Raymond de Malherbe,male,,,,,,
 Q112892896,Fanta Berete,female,1975-05-31,11,,,,Fanta Berete
-Q112893812,Christopher Weissberg,male,,,,,,
+Q112893812,Christopher Weissberg,male,1985-11-26,11,,,,
+Q112894322,Philippe Guillemard,male,1975-04-28,11,,,,
+Q112897421,Frédéric Zgainski,male,1972-10-30,11,,,,
+Q112897923,Chantal Bouloux,female,1961-06-23,11,,,,
 Q112899180,Clara Chassaniol,female,1993-07-26,11,,,,
 Q112899220,Mathilde Desjonquères,female,1980-09-06,11,,,,
 Q112958674,Claire Guichard,female,1967-05-30,11,,,,
 Q113015802,Caroline Yadan,female,1968-08-14,11,,,,
 Q113197340,Jacques Pellet,male,1962-11-11,11,,,,
 Q113212567,Laurence Heydel Grillere,female,1968-11-18,11,,,,
+Q113375757,Agnès Carel,,1968-06-09,11,,,,
+Q113376041,Laurent Esquenet-Goxes,,1962-08-23,11,,,,
+Q113376374,Charlotte Goetschy-Bolognese,female,1990-07-21,11,,,,Charlotte Goetschy-Bolognese
+Q113471431,Ambre Louisin,female,,,,,,
 Q113957,Daniel Dubois,male,1952-02-05,11,,,Daniel Dubois mars 2011.JPG,Daniel Dubois (politician)
 Q1160365,Daniel Contenay,male,1937-05-01,11,,,,
 Q1160874,Daniel Goldberg,male,1965-08-24,11,,,DG EHPAD 070206.jpg,Daniel Goldberg (politician)
@@ -944,6 +951,7 @@ Q29641403,Francis Lott,male,,,,,,
 Q29641417,Renaud Vignal,male,1943-04-18,11,2007-03-22,11,,
 Q29641445,André Janier,male,,,,,,
 Q29641562,Georges Serre,male,1952-08-06,11,,,,
+Q29646393,Alexandre Ziegler,male,1969-09-08,11,,,Alexandre Ziegler.jpg,Alexandre Ziegler
 Q2965006,Christian Assaf,male,1972-09-01,11,,,,
 Q2965016,Christian Bader,male,1959-12-12,11,,,Mr Christian Bader.jpg,
 Q2965058,Christian Blanc,male,1942-05-17,11,,,Christian Blanc p1190584.jpg,Christian Blanc
@@ -1414,7 +1422,7 @@ Q3048368,Eduardo Rihan Cypel,male,1975-11-13,11,,,Eduardo Rihan Cypel.jpg,
 Q3048744,Edwige Antier,female,1942-05-15,11,,,,Edwige Antier
 Q30490415,Sophie Mette,female,1959-09-13,11,,,"Sophie Mette, Guidel 2019.png",Sophie Mette
 Q30493489,Bruno Duvergé,male,1957-04-03,11,,,Bruno Duvergé.jpg,Bruno Duvergé
-Q30496487,Pierre Person,male,1989-01-22,11,,,Pierre-Person.jpg,Pierre Person
+Q30496487,Pierre Person,male,1989-01-22,11,,,LOGO BlaBlaCarBIG.png,Pierre Person
 Q30496556,Mickaël Nogal,male,1990-11-26,11,,,Mickaël Nogal (cropped).jpg,Mickaël Nogal
 Q30496891,Christophe Euzet,male,1967-04-02,11,,,Christophe Euzet.jpg,Christophe Euzet
 Q30497082,Guillaume Kasbarian,male,1987-02-28,11,,,Guillaume Kasbarian.jpg,Guillaume Kasbarian
@@ -2023,6 +2031,7 @@ Q3291298,Marianne Dubois,female,1957-12-17,11,,,Marianne Dubois élysée.png,Mar
 Q3291512,Marie-Anne Chapdelaine,female,1962-03-20,11,,,Rennes 17 juin 2012 - MA Chapdelaine.JPG,Marie-Anne Chapdelaine
 Q3291527,Marie-Anne Montchamp,female,1957-11-01,11,,,Marie-Anne Montchamp.jpg,Marie-Anne Montchamp
 Q3291640,Marie-Christine Dalloz,female,1958-01-10,11,,,,Marie-Christine Dalloz
+Q3291717,Marie-Claude Marchand,female,1954-07-22,11,,,,
 Q3291799,Marie-France de Rose,female,1943-04-25,11,,,Marie-France-de-Rose.jpg,
 Q3291808,Marie-Françoise Bechtel,female,1946-03-19,11,,,Marie-Françoise Bechtel.jpg,
 Q3291821,Marie-Françoise Clergeau,female,1948-05-02,11,,,Marie-Françoise Clergeau.jpg,Marie-Françoise Clergeau
@@ -2091,6 +2100,7 @@ Q33101956,Pierre Grand-Dufay,male,1964-01-05,11,,,,
 Q3310197,Michel Liebgott,male,1958-02-15,11,,,,Michel Liebgott
 Q33102066,Brigitte Collet,female,1957-10-11,11,,,,
 Q33102316,Xavier Bonnefont,male,1979-12-09,11,,,,
+Q33102463,Emmanuel Lenain,male,1970-03-27,11,,,Emmanuel Lenain.jpg,Emmanuel Lenain
 Q33102494,François Descoueyte,male,1949-10-23,11,,,,
 Q33102703,Jacques-Henry Heuls,male,1960-07-22,11,,,,Jacques-Henry Heuls
 Q33102901,Daniel Augereau,male,1944-01-07,11,,,,
@@ -2604,6 +2614,7 @@ Q41013841,Dominique Théophile,male,1960-08-04,11,,,Sénateur Théophile.jpg,
 Q41018122,Rachid Temal,male,1973-03-29,11,,,Rachid Temal (cropped).jpg,
 Q41018380,Évelyne Renaud-Garabedian,female,1950-06-18,11,,,,
 Q41050352,Jacqueline Eustache-Brinio,female,1956-09-05,11,,,,
+Q41055355,Christine Lavarde,female,1984-10-16,11,,,,
 Q41059943,Claudine Thomas,female,1961-08-19,11,,,,
 Q41067438,Brigitte Lherbier,female,1956-06-21,11,,,,
 Q41068005,Anne-Marie Bertrand,female,1942-11-27,11,,,Anne-Marie Bertrand.jpg,
@@ -2688,7 +2699,7 @@ Q455023,Valérie Pécresse,female,1967-07-14,11,,,Valérie Pecresse César 2016 
 Q455040,Jacques Barrot,male,1937-02-03,11,2014-12-03,11,Jacques Barrot (cropped).jpg,Jacques Barrot
 Q4556137,Daniel Gibbs,male,1968-01-08,11,,,Daniel Gibbs - 2 mars 2022.jpg,Daniel Gibbs
 Q45946207,Dominique Vérien,female,1965-08-29,11,,,,
-Q46138822,Jean-Philippe Tanguy,male,1986-03-25,11,,,,Jean-Philippe Tanguy
+Q46138822,Jean-Philippe Tanguy,male,1986-03-25,11,,,JeanPhilippe Tanguy.jpg,Jean-Philippe Tanguy
 Q461454,Marie-Noëlle Lienemann,female,1951-07-12,11,,,Mnlrose8dy.jpg,Marie-Noëlle Lienemann
 Q461970,Véronique Mathieu,female,1955-10-28,11,,,Véronique Mathieu-Houillon par Claude Truong-Ngoc janvier 2016.jpg,Véronique Mathieu
 Q46391522,Jean-Pierre Lajaunie,male,,,,,,
@@ -3017,6 +3028,7 @@ Q62077510,Isabelle Périgault,female,1971-09-04,11,,,,
 Q62077701,Philippe Benassaya,male,1964-08-04,11,,,,Philippe Benassaya
 Q62077742,Véronique Côté-Millard,female,1958-03-01,11,,,,
 Q62077758,Ghislaine Senée,female,1969-02-14,11,,,,
+Q62077797,Anne Grignon,female,1977-05-16,11,,,,
 Q62077838,Anne Cabrit,female,1970-06-01,11,,,,
 Q62077875,Toine Bourrat,female,1968-11-28,11,,,,
 Q62077956,Stéphane Beaudet,male,1972-05-25,11,,,SB wiki 1.jpg,
@@ -4435,6 +4447,7 @@ Q63764370,Philippe Fait,male,1969-06-24,11,,,,
 Q63764396,Marina Ferrari,female,1973-10-10,11,,,,
 Q63764562,Brigitte Klinkert,female,1956-07-22,11,,,Brigitte Klinkert en 2021.jpg,Brigitte Klinkert
 Q63764754,Christelle Petex-Levet,female,1980-09-02,11,,,,Christelle Petex-Levet
+Q63764906,Philippe Sorez,male,1961-05-20,11,,,,
 Q63764964,Anne Ventalon,female,1972-01-07,11,,,,
 Q63764974,Roger Vicot,male,1963-06-01,11,,,,
 Q63765024,Jean-Luc Bourgeaux,male,1963-04-10,11,,,Jean-luc-bourgeaux 1-7-2021.png,
@@ -4638,7 +4651,7 @@ Q84856920,Daniel Lioubowny,male,,,,,,
 Q85328250,Camille Galliard-Minier,female,1975-05-26,11,,,,Camille Galliard-Minier
 Q85631796,Max Lévita,male,1937,9,,,,
 Q85632247,François Delacroix,male,,,,,,
-Q86091075,Pierre Vandier,male,1967-10-26,11,,,,Pierre Vandier
+Q86091075,Pierre Vandier,male,1967-10-26,11,,,Pierre Vandier 210915-N-TR763-2083 (cropped).jpg,Pierre Vandier
 Q867150,Fabrice Verdier,male,1968-12-16,11,,,,
 Q868318,Gaby Charroux,male,1942-06-25,11,,,,Gaby Charroux
 Q868322,Jean-Michel Couve,male,1940-01-03,11,,,Jean-Michel Couve.jpg,Jean-Michel Couve

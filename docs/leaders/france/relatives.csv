@@ -544,6 +544,7 @@ France,Q3573330,Yvan Blot,father,Q57235436,Camille Blot
 France,Q3573330,Yvan Blot,spouse,Q32625073,Cendrine Blot
 France,Q3573638,Yves Durand,father,Q2980601,Clément Durand
 France,Q3573907,Yves Pozzo di Borgo,spouse,Q33108864,Marella Moretti-Pozzo di Borgo
+France,Q3574002,Yves Vandewalle,child,Q62077797,Anne Grignon
 France,Q3579995,Édouard Philippe,spouse,Q47522511,Édith Chabre
 France,Q3590999,Éric Bocquet,sibling,Q2829584,Alain Bocquet
 France,Q3591105,Éric Dupond-Moretti,partner,Q261019,Isabelle Boulay
@@ -643,6 +644,7 @@ France,Q6169574,Jean-Marc de Lacoste-Lareymondie,father,Q2830393,Alain de Lacost
 France,Q6169574,Jean-Marc de Lacoste-Lareymondie,mother,Q75568933,Claude de Percin Northumberland
 France,Q61963125,Monique Huon,spouse,Q62520076,Jean Pot
 France,Q62077701,Philippe Benassaya,father,Q99627635,Daniel Benassaya
+France,Q62077797,Anne Grignon,father,Q3574002,Yves Vandewalle
 France,Q62354,Jean-François Copé,father,Q3440008,Roland Copé
 France,Q62388202,Alexandrine Ferrand,spouse,Q16948138,Édouard Ferrand
 France,Q62664113,Marie Hélène de Lacoste Lareymondie,father,Q6169574,Jean-Marc de Lacoste-Lareymondie

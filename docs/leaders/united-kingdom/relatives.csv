@@ -4470,6 +4470,11 @@ United Kingdom,Q5659075,Harmar Nicholls,father,Q75601210,Charles Edward Craddock
 United Kingdom,Q5659075,Harmar Nicholls,mother,Q75601211,Sarah Anne Wesley
 United Kingdom,Q5659075,Harmar Nicholls,spouse,Q75601202,Dorothy Elsie Edwards
 United Kingdom,Q56867536,Rachel Aron,spouse,Q16929538,Michael Aron
+United Kingdom,Q56872431,Richard Lindsay,child,Q75592350,Oscar James Montague Lindsay
+United Kingdom,Q56872431,Richard Lindsay,child,Q75592351,Venetia Clare Lindsay
+United Kingdom,Q56872431,Richard Lindsay,father,Q75333786,Stephen James Lindsay
+United Kingdom,Q56872431,Richard Lindsay,mother,Q75333788,Margaret Ann Powell
+United Kingdom,Q56872431,Richard Lindsay,spouse,Q75592348,Xanthe Clare Lorraine Critchett
 United Kingdom,Q5693856,Heather Hallett,child,Q76312079,Nicholas Marshall Wilkinson
 United Kingdom,Q5693856,Heather Hallett,child,Q76313792,James M. Wilkinson
 United Kingdom,Q5693856,Heather Hallett,spouse,Q76312081,Nigel Vivian Marshall Wilkinson
@@ -4839,6 +4844,7 @@ United Kingdom,Q691299,Nick Hurd,mother,Q75598999,Tatiana Elizabeth Michele Eyre
 United Kingdom,Q691299,Nick Hurd,spouse,Q75340375,Lady Clare Kerr
 United Kingdom,Q691299,Nick Hurd,spouse,Q76151754,Kim Richards
 United Kingdom,Q6936669,Munira Mirza,spouse,Q110821302,Dougie Smith
+United Kingdom,Q694967,John Mann,spouse,Q113459041,Jo White
 United Kingdom,Q695047,Fiona Mactaggart,father,Q75428735,"Sir Ian John Auld Mactaggart, 3rd Bt."
 United Kingdom,Q695047,Fiona Mactaggart,mother,Q75313360,Rosemary Williams
 United Kingdom,Q695061,Denis MacShane,partner,Q6205457,Joan Smith
@@ -5026,11 +5032,6 @@ United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",mother,Q76
 United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",spouse,Q76024015,Masel Elizabeth Carter
 United Kingdom,Q75292880,James Murray,father,Q75265189,Geoffrey Charles Stewart Murray
 United Kingdom,Q75292880,James Murray,mother,Q75292757,C. Lynne Murray
-United Kingdom,Q75333789,Richard Lindsay,child,Q75592350,Oscar James Montague Lindsay
-United Kingdom,Q75333789,Richard Lindsay,child,Q75592351,Venetia Clare Lindsay
-United Kingdom,Q75333789,Richard Lindsay,father,Q75333786,Stephen James Lindsay
-United Kingdom,Q75333789,Richard Lindsay,mother,Q75333788,Margaret Ann Powell
-United Kingdom,Q75333789,Richard Lindsay,spouse,Q75592348,Xanthe Clare Lorraine Critchett
 United Kingdom,Q75410647,Fleur Anderson,child,Q75410651,Rory Ellis Brendan Commee
 United Kingdom,Q75410647,Fleur Anderson,child,Q75410653,Cassie Charlotte Commee
 United Kingdom,Q75410647,Fleur Anderson,child,Q75410655,Ellen Fleur Commee
