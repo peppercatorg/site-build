@@ -10,11 +10,7 @@ United States,Q10390,John McCain,sibling,Q6211184,Joe McCain
 United States,Q10390,John McCain,spouse,Q240628,Cindy McCain
 United States,Q10390,John McCain,spouse,Q5044466,Carol McCain
 United States,Q104076331,Katherine Tai,spouse,Q111399240,Robert Riley Skidmore
-United States,Q104188996,Robert Creedon,sibling,Q104214132,Michael Creedon
-United States,Q104188996,Robert Creedon,spouse,Q5549734,Geraldine Creedon
 United States,Q104841799,Mary Cavanagh,father,Q7181765,Phil Cavanagh
-United States,Q105389111,"Joseph A. Langone, III",father,Q23615307,"Joseph A. Langone, Jr."
-United States,Q105389111,"Joseph A. Langone, III",sibling,Q5497471,Frederick C. Langone
 United States,Q105393688,Sarah Fowler,spouse,Q56063613,Isaac Arthur
 United States,Q1059265,Chaka Fattah,spouse,Q7312975,Renee Chenault-Fattah
 United States,Q105981951,Pat Outman,father,Q7331626,Rick Outman
@@ -32,7 +28,6 @@ United States,Q10853588,Kamala Harris,relative,Q98382417,Cole Emhoff
 United States,Q10853588,Kamala Harris,relative,Q98382515,Ella Emhoff
 United States,Q10853588,Kamala Harris,sibling,Q16729668,Maya Harris
 United States,Q10853588,Kamala Harris,spouse,Q65029113,Doug Emhoff
-United States,Q110996801,George Silides,spouse,Q29982574,Kathryn Poland
 United States,Q11100,Deval Patrick,spouse,Q110903410,Diane B. Patrick
 United States,Q111022376,Patrice McClammy,father,Q20707703,Thad McClammy
 United States,Q111156646,Mary Ann Middaugh,spouse,Q111156151,James Mick Middaugh
@@ -62,7 +57,6 @@ United States,Q1124,Bill Clinton,spouse,Q6294,Hillary Clinton
 United States,Q1124,Bill Clinton,stepparent,Q4112506,"Roger Clinton, Sr."
 United States,Q1124,Bill Clinton,stepparent,Q4112619,Jeff Dwire
 United States,Q1124,Bill Clinton,stepparent,Q75762966,Richard Kelley
-United States,Q112800312,Bill Poland,spouse,Q29982574,Kathryn Poland
 United States,Q1147285,Pedro Rosselló,child,Q7332181,Ricardo Rosselló
 United States,Q1160178,Daniel Brewster,father,Q102395348,"Capt. Daniel Baugh Brewster, Sr."
 United States,Q11607,"Jon Huntsman, Jr.",child,Q4664468,Abby Huntsman
@@ -196,9 +190,6 @@ United States,Q158813,Mike Huckabee,father,Q20177225,Dorsey Wiles Huckabee
 United States,Q158813,Mike Huckabee,mother,Q99911610,Mae Huckabee
 United States,Q158813,Mike Huckabee,spouse,Q6153404,Janet Huckabee
 United States,Q15972549,Bruce Rauner,spouse,Q20710108,Diana Rauner
-United States,Q15992945,"Elton Engstrom, Jr.",child,Q5053473,Cathy Muñoz
-United States,Q15992945,"Elton Engstrom, Jr.",father,Q28822870,Elton Engstrom Sr.
-United States,Q15992945,"Elton Engstrom, Jr.",mother,Q28813093,Thelma Engstrom
 United States,Q15993009,Hugh Gillis,sibling,Q17037420,"Jim L. Gillis, Jr."
 United States,Q160157,Joe Lieberman,spouse,Q5637601,Hadassah Lieberman
 United States,Q160181,Tim Pawlenty,spouse,Q13560980,Mary Pawlenty
@@ -538,7 +529,6 @@ United States,Q292988,Madeleine Bordallo,spouse,Q521420,Ricardo Bordallo
 United States,Q293365,Penny Pritzker,father,Q16093011,Donald Pritzker
 United States,Q293365,Penny Pritzker,mother,Q106967837,Susan Ann Pritzker
 United States,Q293365,Penny Pritzker,sibling,Q6103950,J.B. Pritzker
-United States,Q29345947,Jan Faiks,spouse,Q30122261,Lloyd Jones
 United States,Q295492,Bobby Jindal,father,Q20160834,Amar Jindal
 United States,Q295492,Bobby Jindal,spouse,Q20176827,Supriya Jindal
 United States,Q2960128,Charles Rivkin,child,Q79050987,Lily Rivkin
@@ -551,13 +541,10 @@ United States,Q298443,Rahm Emanuel,sibling,Q2861138,Ari Emanuel
 United States,Q298443,Rahm Emanuel,sibling,Q5423140,Ezekiel Emanuel
 United States,Q29863844,Amy Coney Barrett,spouse,Q100146500,Jesse M. Barrett
 United States,Q29913307,Matthew Pottinger,father,Q6258855,John Stanley Pottinger
-United States,Q29982574,Kathryn Poland,spouse,Q110996801,George Silides
-United States,Q29982574,Kathryn Poland,spouse,Q112800312,Bill Poland
 United States,Q3002054,Craig Roberts Stapleton,child,Q7962321,Walker Stapleton
 United States,Q3002054,Craig Roberts Stapleton,father,Q99372629,"Benjamin Franklin Stapleton, Jr."
 United States,Q3002054,Craig Roberts Stapleton,spouse,Q99372505,Dorothy Walker
 United States,Q30121703,Richard Ojeda,spouse,Q62096369,Kelly Ojeda
-United States,Q30122261,Lloyd Jones,spouse,Q29345947,Jan Faiks
 United States,Q30148517,Christopher A. Wray,spouse,Q106272410,Helen Wray
 United States,Q3036086,Don Beyer,spouse,Q6808633,Megan Beyer
 United States,Q3048622,Edward M. Kennedy Jr.,father,Q134549,Ted Kennedy
@@ -628,8 +615,6 @@ United States,Q350378,Gary Locke,spouse,Q30944221,Mona Lee Locke
 United States,Q3518911,Terry McAuliffe,spouse,Q45120525,Dorothy McAuliffe
 United States,Q352123,Gary Johnson,father,Q20202251,Earl W. Johnson
 United States,Q352123,Gary Johnson,spouse,Q20202250,Dee Johnson
-United States,Q352422,Mike Gravel,father,Q97104572,Alphonse Gravel
-United States,Q352422,Mike Gravel,mother,Q97104586,Marie Bourassa
 United States,Q353826,Tom Vilsack,spouse,Q5110713,Christie Vilsack
 United States,Q355522,Mitch McConnell,father,Q107323253,Addison Mitchell McConnell
 United States,Q355522,Mitch McConnell,mother,Q107323256,Julia McConnell
@@ -953,6 +938,7 @@ United States,Q60617380,Shawnna Bolick,spouse,Q5133923,Clint Bolick
 United States,Q6066080,Ira Hansen,spouse,Q94851188,Alexis Hansen
 United States,Q607069,Gordon H. Smith,father,Q106866655,Milan Smith
 United States,Q607069,Gordon H. Smith,mother,Q106866656,Jessica Smith
+United States,Q60735201,Chris Miller,spouse,Q101204553,Mary Miller
 United States,Q608533,Jay Carney,spouse,Q5125308,Claire Shipman
 United States,Q609189,Jesse Jackson Jr.,father,Q310586,Jesse Jackson
 United States,Q609189,Jesse Jackson Jr.,spouse,Q7416312,Sandi Jackson
@@ -984,11 +970,6 @@ United States,Q618727,Thomas E. Donilon,father,Q106150010,Edward T. Donilon
 United States,Q618727,Thomas E. Donilon,sibling,Q6846591,Mike Donilon
 United States,Q6228998,Zach Wahls,mother,Q16186938,Terry Wahls
 United States,Q623395,Richard Armitage,child,Q77049766,Lee Armitage
-United States,Q6240065,John Howard Lindauer II,child,Q3505591,Susan Lindauer
-United States,Q6240065,John Howard Lindauer II,father,Q56678614,John Howard Lindauer I
-United States,Q6240065,John Howard Lindauer II,mother,Q61831200,Louise Horton Platts
-United States,Q6240065,John Howard Lindauer II,sibling,Q112306890,Ruth Elisabeth Lindauer
-United States,Q6240065,John Howard Lindauer II,sibling,Q55755496,Thayer Crane Lindauer
 United States,Q6247018,John Marty,father,Q6152541,Martin E. Marty
 United States,Q62471051,Jen O'Malley Dillon,relative,Q6789145,Matt O'Malley
 United States,Q6255593,John Roos,spouse,Q52950168,Susan Roos
@@ -1048,7 +1029,6 @@ United States,Q6769099,Mark Obenshain,father,Q7325051,Richard D. Obenshain
 United States,Q6769099,Mark Obenshain,sibling,Q6375701,Kate Obenshain
 United States,Q6780011,Mary Kiffmeyer,spouse,Q7287746,Ralph Kiffmeyer
 United States,Q6793975,"Maury Maverick, Jr.",father,Q1911710,Maury Maverick
-United States,Q6830164,"Michael F. Flaherty, Sr.",child,Q6830166,Michael F. Flaherty
 United States,Q6834757,Michael Flynn,child,Q28167112,Michael G. Flynn
 United States,Q6846591,Mike Donilon,father,Q106150010,Edward T. Donilon
 United States,Q6846591,Mike Donilon,sibling,Q618727,Thomas E. Donilon
@@ -1164,7 +1144,6 @@ United States,Q7931849,Vincent Hughes,spouse,Q457180,Sheryl Lee Ralph
 United States,Q7974690,"Watkins Abbitt, Jr.",father,Q2552662,Watkins Moorman Abbitt
 United States,Q8000233,Wilbur Ross,spouse,Q4898310,Betsy McCaughey
 United States,Q8000233,Wilbur Ross,spouse,Q63286186,Hilary Geary Ross
-United States,Q8014209,William L. Saltonstall,father,Q880369,Leverett Saltonstall
 United States,Q8014849,Bill Bulger,sibling,Q557801,Whitey Bulger
 United States,Q8017213,William R. Haine,spouse,Q107121451,Anna Haine
 United States,Q816459,Ben Carson,child,Q22575806,Rhoeyce Carson
@@ -1211,7 +1190,6 @@ United States,Q935734,Jared Polis,spouse,Q96318776,Marlon Reis
 United States,Q93659115,Jane Kidd,father,Q885578,Ernest Vandiver
 United States,Q93659115,Jane Kidd,relative,Q718415,Richard Russell
 United States,Q939760,Benigno Fitial,spouse,Q6290747,Josie Fitial
-United States,Q943107,Lowell Thomas Jr.,father,Q2499689,Lowell Thomas
 United States,Q946591,Jim Matheson,father,Q889109,Scott M. Matheson
 United States,Q946591,Jim Matheson,sibling,Q7436779,"Scott Matheson, Jr."
 United States,Q94851188,Alexis Hansen,spouse,Q6066080,Ira Hansen
@@ -1239,7 +1217,4 @@ United States,Q981167,Chris Smith,spouse,Q99932030,Marie Smith
 United States,Q981424,Scott Garrett,spouse,Q13562301,Susan Garrett
 United States,Q98380406,Marjorie Taylor Greene,spouse,Q105304956,Perry Greene
 United States,Q984509,John Sarbanes,father,Q1895804,Paul Sarbanes
-United States,Q99391946,Russ Meekins Jr.,child,Q5307236,Drew Meekins
-United States,Q99391946,Russ Meekins Jr.,father,Q99391944,Russ Meekins Sr.
-United States,Q99484885,Susan Sullivan,father,Q99391944,Russ Meekins Sr.
 United States,Q99640581,Sandra Oudkirk,spouse,Q107462961,Scott Oudkirk
