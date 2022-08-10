@@ -33,6 +33,8 @@ Q113301914,Mian Muhammad Azam Cheela,male,,,,,,Mian Muhammad Azam Cheela
 Q113302052,Mehar Muhammad Nawaz,male,,,,,,Mehar Muhammad Nawaz
 Q113317496,Khurram Shahzad Virk,male,,,,,,Khurram Shahzad Virk
 Q113381137,Mian Muhammad Akram Usman,male,,,,,,Mian Muhammad Akram Usman
+Q113458893,Muhammad Gulam Sarwar,male,,,,,,Muhammad Gulam Sarwar
+Q113472380,Sardar Muhammad Saif-ud-Din Khan Khosa,male,,,,,,Sardar Muhammad Saif-ud-Din Khan Khosa
 Q12416545,Usman Khan,male,1947-09-01,11,,,Usman Khan Engr.jpg,Usman Khan Tarakai
 Q12441891,Bilal Yaseen,male,1970-12-14,11,,,,Bilal Yasin
 Q12447362,Muhammad Afzal,male,1974-04-06,11,,,,Afzal Khokhar
@@ -45,7 +47,7 @@ Q12455774,Sardar Talib Hassan Nakai,male,,7,,,,Sardar Talib Hassan Nakai
 Q12455786,Sardar Mansab Ali Dogar,male,1959-03-30,11,,,,Sardar Mansab Ali Dogar
 Q12455788,Muhammad Arshad Khan Leghari,male,1960-01-01,11,,,,Arshad Khan Leghari
 Q12455789,Sardar Muhammad Arfan Dogar,male,1973-12-25,11,,,,Irfan Dogar
-Q12455790,Sardar Muhammad Jaffar Khan Leghari,male,1942-06-23,11,,,,Jaffar Khan Leghari
+Q12455790,Sardar Muhammad Jaffar Khan Leghari,male,1942-06-23,11,,,Emblem of National Assembly of Pakistan.png,Jaffar Khan Leghari
 Q13139153,Khawaja Saad Rafique,male,1962-11-04,11,,,Khawaja Saad Rafqiue (cropped).jpg,Khawaja Saad Rafique
 Q13211926,Moinuddin Haider,male,1942-06-05,11,,,Dr Kazi with the Governor of Sindh.jpg,Moinuddin Haider
 Q13217263,Raja Muhammad Zafar-ul-Haq,male,1935-11-18,11,,,,Raja Zafar-ul-Haq
@@ -55,7 +57,7 @@ Q13527919,Ahmed Ali,male,1979,9,,,,Ahmed Ali Kohzad
 Q13579848,Pervez Khattak,male,1950-01-01,11,,,Pervez Khattak.jpg,Pervez Khattak
 Q1393209,Ameen Faheem,male,1939-08-04,11,2015-11-21,11,Makhdoom Amin Faheem - Horasis Global Arab Business Meeting 2012.jpg,Ameen Faheem
 Q140144,Zafarullah Khan Jamali,male,1944-01-01,11,2020-12-02,11,Zafarullah Khan Jamali (cropped).jpg,Zafarullah Khan Jamali
-Q140547,Zaheerul Islam,male,1956,9,,,,Zaheer-ul-Islam
+Q140547,Zaheerul Islam,male,1956,9,,,Zaheer-Ul-Islam.png,Zaheer-ul-Islam
 Q14257286,Mamnoon Hussain,male,1940-12-23,11,2021-07-14,11,Mamnoon Hussain 2014.jpg,Mamnoon Hussain
 Q15070125,Makhdoom Ali Khan,male,1954-01-09,11,,,,Makhdoom Ali Khan
 Q152052,Yousaf Raza Gillani,male,1952-06-09,11,,,Syed Gillani - World Economic Forum on the Middle East 2008.jpg,Yousaf Raza Gillani
@@ -71,6 +73,7 @@ Q15715800,Ayesha Gulalai Wazir,female,,,,,,Ayesha Gulalai Wazir
 Q15982559,Kulsoom Nawaz,female,1950-03-29,11,2018-09-11,11,Kalsoom Nawaz Sharif - White House - 2013 (cropped).jpg,Kulsoom Nawaz
 Q15982825,Muhammad Javed Ikhlas,male,1955-10-05,11,,,,Muhammad Javed Ikhlas
 Q15983210,Mian Muhammad Aslam Iqbal,male,1969,9,,,,Mian Muhammad Aslam Iqbal
+Q15983260,Hanif Abbasi,male,1966-01-04,11,,,,Hanif Abbasi
 Q15983279,Yasmin Rashid,female,1950-09-21,11,,,Yasmin Rashid (cropped).jpg,Yasmin Rashid
 Q15983303,Mian Mehmood-ur-Rasheed,male,1954-04-21,11,,,Mian Mehmood-ur-Rasheed.JPG,Mehmood-ur-Rasheed
 Q15983315,Waheed Alam Khan,male,1949-04-01,11,,,,Waheed Alam Khan
@@ -228,7 +231,7 @@ Q18815903,Mian Najeeb Ud Din Awaisi,male,,,,,,Najibuddin Awaisi
 Q18815906,Syed Ali Hassan Gilani,male,1974-09-16,11,,,,Syed Ali Hassan Gilani
 Q18815909,Syed Muhammad Saqlain,male,1981-01-01,11,,,,Syed Muhammad Saqlain
 Q18815910,Sardar Ashiq Hussain,male,,,,,,Sardar Ashiq Hussain
-Q18815911,Makhdoomzada Sayed Basit Ahmad,male,1969-05-28,11,,,,Syed Basit Sultan Bukhari
+Q18815911,Makhdoomzada Sayed Basit Ahmad,male,1969-05-28,11,,,Emblem of National Assembly of Pakistan.png,Syed Basit Sultan Bukhari
 Q18815919,Sultan Mehmood,male,1948-01-01,11,,,,Sultan Mehmood
 Q18815931,Muhammad Amjad Farooq Khan Khosa,male,1949-01-01,11,,,,Amjad Farooq Khan
 Q18815939,Saeed Ahmed Khan,male,1951-01-01,11,,,,Saeed Ahmed Khan
@@ -401,7 +404,7 @@ Q21642578,Sabir Hussain,male,1983-03-15,11,,,,Sabir Hussain
 Q2164946,Makhdoom Ahmed Mehmood,male,1961-09-12,11,,,,Makhdoom Ahmed Mehmood
 Q22005802,Mir Ghazanfar Ali Khan,male,1945-12-31,11,,,,Mir Ghazanfar Ali Khan
 Q22007176,Mian Saqib Nisar,male,1954-01-18,11,,,CJP Justice Saqib Nisar (cropped).png,Mian Saqib Nisar
-Q22276745,Muhammad Alamgir Khan,male,,,,,,Alamgir Khan (politician)
+Q22276745,Muhammad Alamgir Khan,male,,,,,Emblem of National Assembly of Pakistan.png,Alamgir Khan (politician)
 Q22277009,Fauzia Behram,female,,,,,,Fozia Behram
 Q22278582,Khalid Mehmood Soomro,male,1959-05-07,11,2014-11-29,11,,Khalid Mehmood Soomro
 Q22279311,Naveed Mukhtar,male,,,,,,Naveed Mukhtar
@@ -542,8 +545,8 @@ Q35525609,Tariq Bajwa,male,,,,,,Tariq Bajwa
 Q35829243,Hamid Yar Hiraj,male,1973,9,,,Hamid Yar Hiraj (cropped).jpg,Hamid Yar Hiraj
 Q35829277,Malik Nauman Ahmad Langrial,male,1968-06-25,11,,,,Nauman Ahmad Langrial
 Q35829359,Sardar Dost Muhammad Mazari,male,,,,,,Dost Muhammad Mazari
-Q35829450,Javed Iqbal,male,,,,,,Javed Iqbal Warraich
-Q35829517,Khawja Sheraz Mehmood,male,1974-08-06,11,,,,Khawaja Sheraz Mehmood
+Q35829450,Javed Iqbal,male,,,,,Emblem of National Assembly of Pakistan.png,Javed Iqbal Warraich
+Q35829517,Khawja Sheraz Mehmood,male,1974-08-06,11,,,Emblem of National Assembly of Pakistan.png,Khawaja Sheraz Mehmood
 Q36489247,Muhammad Jadam Mangrio,male,,,2020-11-25,11,,Muhammad Jadam Mangrio
 Q36489318,Asmat Ullah,male,,,,,,Maulvi Asmatullah
 Q3694886,Ahsan Iqbal Chaudhary,male,1959-03-28,11,,,Ahsan Iqbal.jpg,Ahsan Iqbal
@@ -561,7 +564,7 @@ Q4058315,Sartaj Aziz,male,1929-02-07,11,,,Sartaj Aziz (cropped).jpg,Sartaj Aziz
 Q4111559,Khalid Shameem Wynne,male,1953-08-28,11,2017-12-30,11,Khalid Wynne (close-up).jpg,Khalid Shameem Wynne
 Q4155258,Azim Daudpota,male,1933-09-14,11,2017-04-03,11,,Azim Daudpota
 Q41870717,Fazal Shakoor Khan,male,1976-02-01,11,,,,Fazle Shakoor Khan
-Q42327982,Mushtaq Ahmed Ghani,male,1956-10-30,11,,,,Mushtaq Ahmed Ghani
+Q42327982,Mushtaq Ahmed Ghani,male,1956-10-30,11,,,Mushtaq Ahmed Ghani - Speaker Khyber Pakhtunkhwa Assembly.jpg,Mushtaq Ahmed Ghani
 Q42328085,Arbab Amir Ayub,male,,,,,,Arbab Amir Ayub
 Q42328136,Adeel Ahmad,male,,,,,,
 Q42328675,Mehr Taj Roghani,female,1942-04-14,11,,,,Meher Taj Roghani
@@ -726,6 +729,7 @@ Q47408305,Muhammad Kazim Peerzada,male,1973-12-25,11,,,,Kazim Ali Pirzada
 Q47408308,Muhammad Jahanzaib Khan Khichi,male,1973-01-07,11,,,,Muhammad Jahanzaib Khan Khichi
 Q47408624,Muhammad Nawaz Chohan,male,1953-05-13,11,,,,Muhammad Nawaz Chohan
 Q47408627,Muhammad Naeem Safdar,male,1982-01-26,11,,,,Muhammad Naeem Safdar Ansari
+Q47408795,Munawar Ahmed Gill,male,1956-05-14,11,,,,Munawar Ahmed Gill
 Q47408814,Muhammad Toufeeq Butt,male,1969-11-14,11,,,,Muhammad Taufeeq Butt
 Q47408821,Muhammad Sibtain Khan,male,1958-08-30,11,,,,Sibtain Khan
 Q47408947,Murad Rass,male,1969-06-06,11,,,,Murad Raas
@@ -741,7 +745,7 @@ Q47410213,Muhammad Shoaib Idrees,male,1987-01-01,11,,,,Rana Shoaib Adrees Khan
 Q47410219,Rana Munawar Hussain,male,1972-04-01,11,,,,Rana Munawar Hussain
 Q47410236,Manan Khan,male,1976-10-01,11,,,,Rana Mannan Khan
 Q47410240,Liaqat Ali,male,1959,9,,,,Rana Liaqat Ali
-Q47410562,Aamir Talal Khan,male,1970,9,,,,Sardar Aamir Talal Khan Gopang
+Q47410562,Aamir Talal Khan,male,1970,9,,,Emblem of National Assembly of Pakistan.png,Sardar Aamir Talal Khan Gopang
 Q47410944,Shahab-Ud-Din Khan,male,1968-05-01,11,,,,Sardar Shahab-ud-Din Khan
 Q47410956,Sardar Nasrullah Khan Dreshak,male,1942-06-28,11,,,,Sardar Nasrullah Khan Dreshak
 Q47411281,Shoukat Ali Laleka,male,1961-01-01,11,,,,Shoukat Ali Laleka
@@ -781,7 +785,7 @@ Q47963962,Mehwish Sultana,female,1980-08-30,11,,,,Mehwish Sultana
 Q47964721,Najma Afzal Khan,female,1952-10-01,11,,,Najma Afzal Khan MPA.jpg,Najma Afzal Khan
 Q4803224,Asad Umer,male,1961-09,10,,,Asad Umar.jpg,Asad Umar
 Q4805948,Ashtar Ausaf Ali,male,1956-06-19,11,,,Ashtar Ausaf.jpg,Ashtar Ausaf Ali
-Q4806973,Asim Munir,male,,,,,,Asim Munir (general)
+Q4806973,Asim Munir,male,,,,,Gen.Asim Munir.png,Asim Munir (general)
 Q4807277,Nawab Muhammad Aslam Khan,male,1955-07-05,11,,,,Muhammad Aslam Khan Raisani
 Q4818522,Attique Ahmed Khan,male,1955,9,,,Attique Ahmed Khan (cropped).jpg,Attique Ahmed Khan
 Q48266611,Nausheen Hamid,female,1961-02-19,11,,,Dr. Nausheen Hamid (Office).jpg,Nausheen Hamid
@@ -891,7 +895,7 @@ Q55761176,Chaudhary Farrukh Altaf,male,,,,,,Chaudhry Farrukh Altaf
 Q55761179,Abdul Wasay,male,,,,,,Maulana Abdul Wasay
 Q55761183,Nasir Khan,male,,,,,,Nasir Khan Musazai
 Q55761187,Hussain Elahi,male,,,,,,Chaudhry Hussain Elahi
-Q55761191,Niyaz Ahmed,male,,,,,,Niaz Ahmed Jhakkar
+Q55761191,Niyaz Ahmed,male,,,,,Emblem of National Assembly of Pakistan.png,Niaz Ahmed Jhakkar
 Q55761204,Mian Muhammad Shafiq,male,1956,9,,,,Mian Muhammad Shafiq
 Q55761206,Makhdoom Zain Hussain Qureshi,male,,,,,,Zain Qureshi
 Q55761208,Mehboob Shah,male,,,,,,Mehboob Shah
@@ -908,14 +912,14 @@ Q55761275,Mir Ghulam Ali Talpur,male,,,,,,Mir Ghulam Ali Talpur
 Q55761277,Farrukh Habib,male,,,,,"Habib, Farrukh, cropped.jpg",Farrukh Habib
 Q55761281,Sadaqat Ali Khan,male,,,,,,Sadaqat Ali Abbasi
 Q55761283,Muhammad Farooq Azam Malik,male,,,,,,Muhammad Farooq Azam Malik
-Q55761286,Makhdoom Syed Samil-Ul-Hassan Gillani,male,,,,,,Makhdoom Syed Sami Ul Hassan Gillani
+Q55761286,Makhdoom Syed Samil-Ul-Hassan Gillani,male,,,,,Emblem of National Assembly of Pakistan.png,Makhdoom Syed Sami Ul Hassan Gillani
 Q55761289,Muhammad Fasel Wada,male,1974-10-22,11,,,Faisal Vawda.png,Faisal Vawda
 Q55761296,Asad Mehmood,male,,,,,,Asad Mehmood
 Q55761299,Muhammad Yaqoob Sheikh,male,,,,,,Muhammad Yaqoob Sheikh
 Q55761307,Fawad Ahmed Chaudhry,male,1976-04-07,11,,,Fawad Chaudhry 2018 VOA.jpg,Fawad Chaudhry
 Q55761309,Naveed Dero,male,,,,,,Naveed Dero
 Q55761312,Mahar Irshad Ahmad Khan,male,,,,,,Mehr Irshad Ahmed Sial
-Q55761313,Zahoor Hussain Qureshi,male,,,,,,Zahoor Hussain Qureshi
+Q55761313,Zahoor Hussain Qureshi,male,,,,,Emblem of National Assembly of Pakistan.png,Zahoor Hussain Qureshi
 Q55761317,Fazal Muhammad Khan,male,,,,,,Fazal Muhammad Khan
 Q55761318,Ahmad Raza Maneka,male,,,,,,Ahmad Raza Maneka
 Q55761320,Choudhary Faqir Ahmad,male,,,,,,Choudhry Faqir Ahmad
@@ -931,7 +935,7 @@ Q55761359,Ali Zahid,male,,,,,,Ali Zahid
 Q55761361,Syed Faiz Ul Hassan,male,,,,,,Syed Faizul Hassan Shah
 Q55761363,Zulfiqar Ahmed,male,,,,,,Chaudhary Zulfiqar Bhindar
 Q55761371,Syed Javeed Ali Shah Jiallani,male,1948,9,,,,Syed Javed Ali Shah Jillani
-Q55767447,Ali Wazir,male,,,,,,Ali Wazir
+Q55767447,Ali Wazir,male,,,,,Muhammad Ali Wazir.jpg,Ali Wazir
 Q55767450,Aftab Jehangir,male,,,,,,Aftab Jehangir
 Q55767453,Aurangzeb Khan Khichi,male,,,,,,Aurangzeb Khan Khichi
 Q55767464,Abdul Shakoor Shad,male,,,,,,Abdul Shakoor Shad
@@ -944,15 +948,15 @@ Q55767496,Syed Abrar Ali Shah,male,,,,,,Sayed Abrar Ali Shah
 Q55767498,Rana Mubashir Iqbal,male,,,,,,Rana Mubashir Iqbal
 Q55767503,Rana Iradat Sharif Khan,male,,,,,,Rana Iradat Sharif Khan
 Q55767505,Rai Muhammad Murtaza Iqbal,male,,,,,,Rai Muhammad Murtaza Iqbal
-Q55767507,Syed Mobeen Ahmed,male,,,,,,Syed Mobeen Ahmed
-Q55767508,Mohsin Dawar,male,,,,,,Mohsin Dawar
+Q55767507,Syed Mobeen Ahmed,male,,,,,Emblem of National Assembly of Pakistan.png,Syed Mobeen Ahmed
+Q55767508,Mohsin Dawar,male,,,,,Mohsin Dawar.jpg,Mohsin Dawar
 Q55767509,Sikandar Ali Rahoupoto,male,,,,,,Sikander Ali Rahupoto
 Q55767533,Khalid Ahmed Khan Lund,male,,,,,,Khalid Ahmed Khan Lund
 Q55819245,Imran Ismail,male,1966-01-01,11,,,Sindh governor Imran Ismail.jpg,Imran Ismail
 Q55819263,Afreen Khan,male,,,,,,Afreen Khan
 Q55819267,Muhammad Ameer Sultan,male,,,,,,Muhammad Ameer Sultan
 Q55819272,Ali Pervaiz,male,,,,,,Ali Pervaiz Malik
-Q55819276,Muhammad Shabbir Ali,male,,,,,,Shabbir Ali Qureshi
+Q55819276,Muhammad Shabbir Ali,male,,,,,Mianshabirali.jpg,Shabbir Ali Qureshi
 Q55819278,Syed Amin Haque,male,,,,,Federal Minister for IT and Telecom Syed Amin Ul Haque.jpg,Syed Aminul Haque
 Q55819281,Muhammad Israr Tareen,male,,,,,,Muhammad Israr Tareen
 Q55819283,Syed Mehmood Shah,male,,,,,,Syed Mehmood Shah
@@ -972,7 +976,7 @@ Q55819805,Mufti Ubaid ur Rahman,male,,,,,,Mufti Ubaid ur Rahman
 Q55819809,Babar Saleem Swati,male,,,,,,Babar Saleem Swati
 Q55819820,Nawabzada Farid Salahuddin,male,,,,,,Nawabzada Farid Salahuddin
 Q55819826,Nazir Ahmad Abbasi,male,,,,,,Nazir Ahmed Abbasi
-Q55819831,Arshad Ayub Khan,male,,,,,,Arshad Ayub Khan
+Q55819831,Arshad Ayub Khan,male,,,,,Arshad Ayub Khan.jpg,Arshad Ayub Khan
 Q55819838,Rangez Khan,male,,,,,,Rangez Ahmad
 Q55819843,Malik Shaukat Ali,male,,,,,,Malik Shaukat Ali
 Q55819848,Amir Farzand khan,male,,,,,,Amir Farzand Khan
@@ -1017,7 +1021,7 @@ Q55820070,Choudhary Khush Akhtar Subhani,male,,,,,,Choudhary Khush Akhtar Subhan
 Q55820074,Muhammad Rizwan,male,,,,,,Bao Muhammad Rizwan
 Q55820079,Zeeshan Rafique,male,,,,,,Zeeshan Rafiq
 Q55820087,Chaudhry Naveed Ashraf,male,,,,,,Chaudhry Naveed Ashraf
-Q55820092,Syed Saeed Ul Hassan,male,1961,9,,,,Syed Saeed ul Hassan
+Q55820092,Syed Saeed Ul Hassan,male,1961,9,,,Peer Syed Saeed ul Hassan Shah Official photo.jpg,Syed Saeed ul Hassan
 Q55820098,Bilal Akbar Khan,male,,,,,,Bilal Akbar Khan
 Q55820103,Chaudhry Aadil Bakhsh Chattha,male,,,,,,Chaudhary Aadil Bakhsh Chattha
 Q55820108,Bilal Farooq Tarar,male,,,,,,Bilal Farooq Tarar
@@ -1102,7 +1106,7 @@ Q55825049,Muhammad Raza Hussain Bukhari,male,,,,,,Muhammad Raza Hussain Bukhari
 Q55825051,Khurram Sohail Khan Laghari,male,,,,,,Khurrum Sohail Khan Laghari
 Q55825055,Muhammad Aown Hameed,male,,,,,,Muhammad Aoon Hamid
 Q55825059,Niaz Hussain Khan,male,,,,,,Niaz Hussain Khan
-Q55825066,Muhammad Ashraf Khan Rind,male,,,,,,Muhammad Ashraf Khan Rind
+Q55825066,Muhammad Ashraf Khan Rind,male,,,,,Ashraf Khan Rind.jpg,Muhammad Ashraf Khan Rind
 Q55825073,Malik Ahmad Ali Aulakh,male,,,,,Malik Ahmad Ali Aulakh (cropped).jpg,Malik Ahmad Ali Aulakh
 Q55825075,Muhammad Tahir,male,,,,,,Muhammad Tahir Randhawa
 Q55825080,Syed Rafaqat Ali Gillani,male,,,,,,Syed Rafaqat Ali Gillani
@@ -1235,16 +1239,16 @@ Q56065183,Aysha Rajab Ali,female,,,,,,Ayesha Rajab Ali
 Q56065185,Musarrat Asif Khawaja,female,,,,,,Musarrat Asif Khawaja
 Q56065186,Samina Matloob,female,,,,,,Samina Matloob
 Q56065187,Asma Hadeed,female,,,,,,Asma Hadeed
-Q56065188,Aliya Hamza Malik,female,,,,,,Aliya Hamza Malik
+Q56065188,Aliya Hamza Malik,female,,,,,Emblem of National Assembly of Pakistan.png,Aliya Hamza Malik
 Q56065189,Kanwal Shauzab,female,1982,9,,,,Kanwal Shauzab
 Q56065190,Dr. Seemin Abdul Rehman Bokhari,female,,,,,,Seemin Bokhari
 Q56065191,Sobia Kamal Khan,female,,,,,,Sobia Kamal Khan
-Q56065192,Rubina Jamil,female,,,,,,Rubina Jamil
+Q56065192,Rubina Jamil,female,,,,,Emblem of National Assembly of Pakistan.png,Rubina Jamil
 Q56065194,Maleeka Ali Bokhari,female,,,,,,Maleeka Bokhari
-Q56065201,Rukhsana Naveed,female,,,,,,Rukhsana Naveed
-Q56065214,Tashfeen Safdar,female,,,,,,Tashfeen Safdar
+Q56065201,Rukhsana Naveed,female,,,,,Emblem of National Assembly of Pakistan.png,Rukhsana Naveed
+Q56065214,Tashfeen Safdar,female,,,,,Emblem of National Assembly of Pakistan.png,Tashfeen Safdar
 Q56065218,Wajiha Akram,female,,,,,,Wajiha Akram
-Q56065220,Javairia Zafar,female,,,,,,Javeria Zafar
+Q56065220,Javairia Zafar,female,,,,,Emblem of National Assembly of Pakistan.png,Javeria Zafar
 Q56065222,Farrukh Khan,female,,,,,,Farukh Khan
 Q56065230,Tanzila Umi Habiba,female,,,,,,Tanzeela Qambrani
 Q56065236,Jai Prakash,male,,,,,,Jai Parkash Ukrani
@@ -1303,7 +1307,7 @@ Q56065497,Shamim Ara Panhwar,female,,,,,,Shamim Ara Panhwar
 Q56065499,Shahnaz Naseer Baloch,female,,,,,,Shahnaz Naseer Baloch
 Q56065500,Munawara Bibi Baloch,female,,,,,,Munawara Bibi Baloch
 Q56065501,Shahida Begum,female,,,,,,Shahida Begum
-Q56065510,Hamir Singh,male,1957-03-11,11,,,,Rana Hamir Singh
+Q56065510,Hamir Singh,male,1957-03-11,11,,,Rana Hammir Singh.png,Rana Hamir Singh
 Q56065519,Hina Dastagir,female,,,,,,Hina Dastagir
 Q56065526,Miss Sadia Javed,female,,,,,,Sadia Javed
 Q56065538,Nida Khuhro,female,,,,,,Nida Khuhro
@@ -1358,13 +1362,13 @@ Q56274762,Muhammad Bashir Khan,male,,,,,,Muhammad Bashir Khan
 Q56274765,Muhammad Ibrahim Khan,male,,,,,,Ibrahim Khan (politician)
 Q56274766,Muhammad Afzal Khan,male,,,,,,Mohammad Afzal Khan (politician)
 Q56274768,Tahir Iqbal,male,,,,,,Tahir Iqbal (politician)
-Q56274777,Jamil Ahmed Khan,male,,,,,,Jamil Ahmed Khan (politician)
+Q56274777,Jamil Ahmed Khan,male,,,,,Emblem of National Assembly of Pakistan.png,Jamil Ahmed Khan (politician)
 Q56274838,Kamal Uddin,male,,,,,,Kamal Uddin (politician)
 Q56275239,Muhammad Azam Khan,male,,,,,,Muhammad Azam Khan (politician)
 Q56275240,Humayun Khan,male,,,,,,Humayun Khan (politician)
 Q56275241,Shafi Ullah,male,,,,,,Shafi Ullah
 Q56275242,Bahadar Khan,male,,,,,,Bahadar Khan
-Q56275243,Riaz Khan,male,,,,,,Riaz Khan (politician)
+Q56275243,Riaz Khan,male,,,,,Riaz Khan.jpg,Riaz Khan (politician)
 Q56275244,Liaqat Ali Khan,male,,,,,,Liaqat Ali Khan (Pakistani politician)
 Q56275245,Abdul Ghaffar,male,,,,,,Abdul Ghaffar (politician)
 Q56275246,Taj Muhammad,male,,,,,,Taj Muhammad (politician)

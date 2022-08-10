@@ -1,5 +1,5 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
-Q100454684,Katsuyuki Ichimi,male,1963,9,,,,
+Q100454684,Katsuyuki Ichimi,male,1963,9,,,Katsuyuki Ichimi.jpg,
 Q101137,Yasuo Fukuda,male,1936-07-16,11,,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
 Q102250452,守島正,male,,,,,,
 Q104012817,Takao Shimozuru,male,,,,,,
@@ -63,7 +63,7 @@ Q109602496,Kenji Horii,male,,,,,,
 Q109602497,Ryota Endo,male,,,,,,
 Q109603066,Yuichiro Wada,male,,,,,,
 Q110403406,山田勝彦,male,,,,,,
-Q111097857,Kengo Oishi,,1982-07-08,11,,,,
+Q111097857,Kengo Oishi,male,1982-07-08,11,,,,
 Q11254444,Kōjirō Shiraishi,male,1946-09-08,11,,,,
 Q11266408,Hirofumi Iwakura,male,1950-01-15,11,,,Hirofumi Iwakura.jpg,
 Q1131407,Manabu Horii,male,1972-02-19,11,,,Horii Manabu (2017).png,Manabu Horii
@@ -328,12 +328,12 @@ Q11632989,Masaaki Tanibayashi,male,1946-10-28,11,2019-08-17,11,,
 Q11633044,Hajime Yatagawa,male,1963-01-17,11,,,Kenji Tamura Yoshito Sengoku Masagos Zulkifli Hajime Yatagawa and Yukiko Miyake 201205.jpg,
 Q11633992,Toshirō Toyoda,male,1952-08-21,11,,,IMG Toshiro Toyoda at Kashiwa.jpg,
 Q11634137,Mayuko Toyota,female,1974-10-10,11,,,Mayuko Toyota cropped 1 Mayuko Toyota 201510.jpg,Mayuko Toyota
-Q11637002,Yasushi Adachi,male,1965-10-14,11,,,Yasushi Adachi (cropped).jpg,Yasushi Adachi
+Q11637002,Yasushi Adachi,male,1965-10-14,11,,,Yasushi Adachi 20210915teigen1.jpg,Yasushi Adachi
 Q11637774,Keiichi Koshimizu,male,1962-02-04,11,,,,
 Q11638274,Kiyoto Tsuji,male,1979-09-07,11,,,Kiyoto Tsuji - 2018 (cropped).jpg,Kiyoto Tsuji
 Q11638707,Kondō Shinji,male,1948-02,10,,,,
 Q11638747,Kazuya Kondō,male,1973-12-12,11,,,,
-Q11642258,Takashi Endō,male,1968-06-06,11,,,,
+Q11642258,Takashi Endō,male,1968-06-06,11,,,Takashi Endo 20210915teigen1.jpg,
 Q11643484,Shunichi Tokura,male,1948-06-21,11,,,都倉俊一.jpg,Shunichi Tokura
 Q11644760,Kazuhiko Shigetoku,male,1970-12-21,11,,,Kazuhiko Shigetoku (2014.03.23) 3.jpg,
 Q11645002,Atsushi Nonaka,male,1976-11-17,11,,,Nonaka Atsushi (2017).png,Atsushi Nonaka
@@ -344,7 +344,7 @@ Q11647681,Katsutoshi Kaneda,male,1949-10-04,11,,,Katsutoshi Kaneda.jpg,Katsutosh
 Q11647913,Toshihiro Kanatani,male,1935-05-17,11,,,,
 Q11648868,Norikazu Suzuki,male,1982-01-30,11,,,Norikazu Suzuki 20150907(2).JPG,
 Q11649031,Junji Suzuki,male,1958-04-07,11,,,Junji Suzuki.jpg,Junji Suzuki
-Q11649100,Naomichi Suzuki,male,1981-03-14,11,,,Governor Naomichi Suzuki in 2020.jpg,Naomichi Suzuki
+Q11649100,Naomichi Suzuki,male,1981-03-14,11,,,Naomichi Suzuki official portrait.jpg,Naomichi Suzuki
 Q11649189,Yoshihiro Suzuki,male,1962-11-10,11,,,,
 Q11651021,Sayuri Kamata,female,1965-01-08,11,,,,
 Q11651619,Yasumasa Nagasaka,male,1957-04-10,11,,,Yasumasa Nagasaka.jpg,
@@ -388,7 +388,7 @@ Q128573,Ichirō Matsui,male,1964-01-31,11,,,Ichiro Matsui Ishin IMG 5775 2013071
 Q129149,Katsumasa Suzuki,male,1943-11-14,11,,,Katsumasa Suzuki (2012.10.07) 1.jpg,Katsumasa Suzuki
 Q1303796,Eikei Suzuki,male,1974-08-15,11,,,鈴木英敬.jpg,Eikei Suzuki
 Q130852,Jun'ichirō Koizumi,male,1942-01-08,11,,,Junichiro Koizumi 20010426.jpg,Junichiro Koizumi
-Q130856,Takahiro Yokomichi,male,1941-01-03,11,,,Takahiro Yokomichi Large (cropped).jpg,Takahiro Yokomichi
+Q130856,Takahiro Yokomichi,male,1941-01-03,11,,,Takahiro Yokomichi 2010.jpg,Takahiro Yokomichi
 Q131077,Yukio Hatoyama,male,1947-02-11,11,,,Yukio Hatoyama 20090916.jpg,Yukio Hatoyama
 Q1315762,Takeaki Matsumoto,male,1959-04-25,11,,,Takeaki Matsumoto 2011.jpg,Takeaki Matsumoto
 Q132280,Seiji Maehara,male,1962-04-30,11,,,Maehara Crop.jpg,Seiji Maehara
@@ -453,7 +453,7 @@ Q1689507,Jin Murai,male,1937-03-28,11,,,Jin Murai.jpg,Jin Murai
 Q1689655,Jirō Kawasaki,male,1947-11-15,11,,,Jirō Kawasaki.jpg,Jirō Kawasaki
 Q1704924,Takumi Nemoto,male,1951-03-07,11,,,Takumi Nemoto 2012.jpg,Takumi Nemoto
 Q1704969,Keiji Furuya,male,1952-11-01,11,,,Keiji Furuya cropped 2 Keiji Furuya and Robert R King 20130828 3.jpg,Keiji Furuya
-Q1705028,Sanae Takaichi,female,1961-03-07,11,,,Sanae Takaichi.jpg,Sanae Takaichi
+Q1705028,Sanae Takaichi,female,1961-03-07,11,,,Sanae Takaichi 20100909.jpg,Sanae Takaichi
 Q17128927,Kiyoshi Araki,male,1949,9,,,,
 Q17129791,Sumio Kusaka,male,1953,9,,,,
 Q17130344,Ryōsuke Kōzuki,male,1962-12-26,11,,,Kouzuki Ryousuke (2017).png,
@@ -566,7 +566,7 @@ Q2379697,Hosei Norota,male,1929-10-25,11,2019-05-23,11,Hosei Norota.jpg,Hosei No
 Q2387080,Tadamasa Kodaira,male,1942-03-18,11,,,Tadamasa Kodaira.jpg,Tadamasa Kodaira
 Q2389419,Takeki Manabe,male,1940-04-03,11,,,,Takeki Manabe
 Q23907516,Wada Yoshiaki,male,1971-10-10,11,,,20200918Wada Yoshiaki.jpg,Yoshiaki Wada
-Q2391659,Tamisuke Watanuki,male,1927-04-30,11,,,,Tamisuke Watanuki
+Q2391659,Tamisuke Watanuki,male,1927-04-30,11,,,Tamisuke Watanuki 2009.jpg,Tamisuke Watanuki
 Q2394829,Tarō Hatoyama,male,1974-06-13,11,,,,
 Q23984715,Koike Hiroshi,male,1951-07-03,11,,,,
 Q23984738,Toyohisa Kozuki,male,1956-10-25,11,,,Toyohisa Kozuki.png,
@@ -582,7 +582,7 @@ Q2484652,Wataru Takeshita,male,1946-11-03,11,2021-09-17,11,Wataru Takeshita.jpg,
 Q2506910,Tatsuo Fukuda,male,1967-03-05,11,,,98 fukuda tatsuo.jpg,
 Q250828,Yasuhiro Nakasone,male,1918-05-27,11,2019-11-29,11,Yasuhiro Nakasone 19821127.jpg,Yasuhiro Nakasone
 Q2576940,Yasushi Furukawa,male,1958-07-15,11,,,20200918furukawa yasushi.jpg,Yasushi Furukawa (governor)
-Q2576975,Yoshinori Suematsu,male,1956-12-05,11,,,Yoshinori Suematsu cropped 1 Yoshinori Suematsu 201101.jpg,Yoshinori Suematsu
+Q2576975,Yoshinori Suematsu,male,1956-12-05,11,,,Yoshinori Suematsu 201101.jpg,Yoshinori Suematsu
 Q259722,Yuichiro Hata,male,1967-07-29,11,2020-12-27,11,Yūichirō Hata.jpg,Yuichiro Hata
 Q26043933,Eiji Kidoguchi,male,1963-08-21,11,,,,
 Q260536,Masatoshi Wakabayashi,male,1934-07-04,11,,,Masatoshi Wakabayashi 200708.jpg,Masatoshi Wakabayashi
@@ -610,7 +610,7 @@ Q310126,Tomiichi Murayama,male,1924-03-03,11,,,Tomiichi Murayama 19940630.jpg,To
 Q311589,Ken Akamatsu,male,1968-07-05,11,,,Ken Akamatsu at Japan Expo 20150705 (cropped).jpg,Ken Akamatsu
 Q31298947,Teruyuki Katori,male,1956,9,,,,
 Q313339,Keizō Obuchi,male,1937-06-25,11,2000-05-14,11,Keizo Obuchi cropped 1 Keizo Obuchi 19980730.jpg,Keizō Obuchi
-Q3136350,Hiroshi Hase,male,1961-05-05,11,,,Hase271007.jpg,Hiroshi Hase
+Q3136350,Hiroshi Hase,male,1961-05-05,11,,,Hiroshi Hase Monbukagakudaijin.jpg,Hiroshi Hase
 Q315565,Kiichi Miyazawa,male,1919-10-08,11,2007-06-28,11,Kiichi Miyazawa cropped 1 Kiichi Miyazawa 19911105.jpg,Kiichi Miyazawa
 Q315579,Toshiki Kaifu,male,1931-01-02,11,2022-01-09,11,Toshiki Kaifu 19890810.jpg,Toshiki Kaifu
 Q315720,Tsutomu Hata,male,1935-08-24,11,2017-08-28,11,Tsutomu Hata 19940428.jpg,Tsutomu Hata
@@ -879,7 +879,7 @@ Q60452161,Matsunaga Daisuke,male,,,,,First Minister of Scotland and Japanese Con
 Q60452164,Kuninori Matsuda,male,1959,9,,,,
 Q60452169,Kozo Takeda,male,1960,9,,,,
 Q6078899,Isao Imai,male,1939-12-26,11,,,,Isao Imai (judge)
-Q6088170,Issei Tajima,male,1962-06-15,11,,,,Issei Tajima
+Q6088170,Issei Tajima,male,1962-06-15,11,,,Issei Tajima.jpg,Issei Tajima
 Q6102348,Izumi Yoshida,male,1949-02-26,11,,,Yoshida Izumi.jpg,Izumi Yoshida
 Q61116680,Takashi Kurai,male,1955,9,,,Takashi Kurai 2019-11-12.jpg,Kurai Takashi
 Q6139860,Shirō Asano,male,1948-04-08,11,,,,Shirō Asano (politician)

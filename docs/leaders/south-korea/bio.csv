@@ -23,21 +23,21 @@ Q10855898,Kim Jin-pyo,male,1947-05-04,11,,,Kim Jin-pyo 2022-07.jpg,Kim Jin-pyo (
 Q10855915,Kim Han-gil,male,1953-09-17,11,,,Kim Han-Gil (cropped).jpg,Kim Han-gil
 Q109460622,Yeo Han-koo,male,1969,9,,,,Yeo Han-koo
 Q109628296,Koh Seungbeom,male,,,,,,
-Q111602136,Park Bo-gyun,,,,,,,
+Q111602136,Park Bo-gyun,male,1954,9,,,,Park Bo-gyoon
 Q111621057,Han Hwa-jin,female,1959,9,,,,
 Q111729274,Cho Seung-hwan,,,,,,,
 Q111843537,Park Jeong-ha,male,1966-09-26,11,,,,
 Q112020778,Kim Ju-hyeon,,,,,,,
 Q112020896,Kim Han-kyu,male,1974-07-01,11,,,,
 Q112023162,Kim So-young,male,,,,,,
-Q112023462,Lee Chang-yang,,,,,,,
+Q112023462,Lee Chang-yang,,1962,9,,,,Lee Chang-yang
 Q112023728,Jang Sang-yoon,,1970-04-12,11,,,,
 Q112023750,Lee Sang-min,,1965-11,10,,,,Lee Sang-min (lawyer)
 Q112023777,Lee Jeong-Sik,,,,,,,
 Q112063662,Jang Dong-hyuk,male,1969-06-02,11,,,,
 Q112079346,Rho Yong-ho,male,,,,,,
 Q112083004,Choi Young-hee,female,,,,,,
-Q112131619,Park Soon-ae,female,,,,,,
+Q112131619,Park Soon-ae,female,1965,9,,,Park Soon-ae 2022.jpg,Park Soon-ae
 Q112132653,박정환,male,,,,,,
 Q11243258,Park Se-il,male,1948-05-12,11,2017-01-13,11,,
 Q11255427,Sim Sang-jung,female,1959-02-20,11,,,Sim Sang-jung taking a commemorative photo with the Speaker of the National Assembly.jpg,Sim Sang-jung
@@ -179,7 +179,7 @@ Q12595907,Moon Hee-sang,male,1945-03-03,11,,,Moon Hee-sang in 2019.jpg,Moon Hee-
 Q12596213,Min Byung-doo,male,1958-06-10,11,,,,Min Byung-doo
 Q12596500,Kye-dong Pak,male,1952-12-20,11,,,,
 Q12596508,Park Kwan-yong,male,1938-06-06,11,,,PARKKWANYONG2010.jpg,
-Q12596512,Park Kwang-on,male,1957-03-26,11,,,,Park Kwang-on
+Q12596512,Park Kwang-on,male,1957-03-26,11,,,박광온.png,Park Kwang-on
 Q12596557,박기춘,,1956-05-01,11,,,,
 Q12596586,박대동,,1951-05-13,11,,,,
 Q12596596,박대해,,1943-10-25,11,,,,
@@ -271,7 +271,7 @@ Q12610412,Yun Jae-ok,male,1961-09-10,11,,,,
 Q12610444,Yun Ju-keyng,female,1959-05-03,11,,,,
 Q12610458,윤진식,male,1946-03-04,11,,,,
 Q12610469,Yun Chang-hyun,male,1960-07-28,11,,,,
-Q12610532,Yun Ho-jung,male,1963-03-27,11,,,,Yun Ho-jung
+Q12610532,Yun Ho-jung,male,1963-03-27,11,,,윤호중.jpg,Yun Ho-jung
 Q12610540,Yoon Hu-duk,male,1957-01-09,11,,,,
 Q12610592,Eun Soo-mi,female,1963-12-06,11,,,,Eun Soo-mi
 Q12610835,Lee Kang-kuk,male,1945-09-17,11,,,,
@@ -376,7 +376,7 @@ Q12616036,Chung Jin-sup,male,1952-04-16,11,,,,
 Q12616038,Chung Jin-suk,male,1960-09-04,11,,,"정진석 국회부의장, 교육정상화특위·충청발전특위 발대식 참석 3 (cropped).jpg",Chung Jin-suk (politician)
 Q12616056,정진후 (1957년),,1957-11-06,11,,,,
 Q12616083,Jung Chung-rae,male,1965-04-18,11,,,정청래 벙커1.png,
-Q12616088,Jung Choun-sook,female,1964-01-08,11,,,,Jung Choun-sook
+Q12616088,Jung Choun-sook,female,1964-01-08,11,,,Jungchounsook2020.png,Jung Choun-sook
 Q12616099,정태근,male,1964-01-08,11,,,,
 Q12616118,정하균,male,1958-01-02,11,,,,
 Q12616127,정해걸,male,1939-05-09,11,,,,
@@ -499,7 +499,7 @@ Q16080161,김규현,male,1953-06-13,11,,,,
 Q16080164,김금래,female,1952-08-06,11,,,,
 Q16080166,Kim Ki-sun,male,1952-10-29,11,,,,
 Q16080185,Kim Do-eup,male,1964-07-04,11,,,,
-Q16080198,Kim Dong-yeon,male,1957-01-28,11,,,,Kim Dong-yeon
+Q16080198,Kim Dong-yeon,male,1957-01-28,11,,,Kim Dong-yeon 2018-06.jpg,Kim Dong-yeon
 Q16080202,Kim Dong-cheol,male,1955-06-30,11,,,,
 Q16080213,Kim Myung-yeon,male,1964-02-08,11,,,,
 Q16080217,Kim Moo-sung,male,1951-09-20,11,,,Kim Moo-sung State.jpg,Kim Moo-sung
@@ -517,7 +517,7 @@ Q16080281,김성한,male,1960-11-25,11,,,,
 Q16080285,Kim Se-yeon,male,1972-07-15,11,,,,
 Q16080301,Kim Yang,,1953-02-24,11,,,,
 Q16080314,Kim Young-sik,male,1951-05-02,11,,,,
-Q16080318,Kim Young-joo,female,1955-07-27,11,,,,Kim Young-joo (politician)
+Q16080318,Kim Young-joo,female,1955-07-27,11,,,Kim Young-joo 2022.jpg,Kim Young-joo (politician)
 Q16080328,Kim Yong Gap,male,1936-09-28,11,,,,
 Q16080369,김장실,,1955-08-14,11,,,,
 Q16080371,Kim Jae-kyung,male,1961-10-10,11,,,,
@@ -528,7 +528,7 @@ Q16080404,Kim Jong-dae,male,1966-11-13,11,,,,
 Q16080405,Kim Jong-yul,male,1962-12-25,11,2013-08-12,11,,
 Q16080415,Kim Jong-in,male,1940-07-11,11,,,Kim Jongin's press conference in 2016 (cropped to Kim).jpg,Kim Chong-in
 Q16080532,김창수,male,1955-02-13,11,,,,
-Q16080572,Kim Tae-nyeon,male,1965-03-20,11,,,,Kim Tae-nyeon
+Q16080572,Kim Tae-nyeon,male,1965-03-20,11,,,김태년.png,Kim Tae-nyeon
 Q16080598,Kim Taewon,male,1951-03-19,11,,,,
 Q16080678,Kim Hyun-mee,female,1962-11-29,11,,,Minister Kim Hyun-mee.jpg,Kim Hyun-mee (politician)
 Q16080684,Kim Hyun-sook,female,1966-05-10,11,,,,
@@ -587,7 +587,7 @@ Q16090266,심윤조,male,1954-07-26,11,,,,
 Q16090278,안형환,male,1963-06-07,11,,,,
 Q16090282,양정례,male,1977-05-07,11,,,,
 Q16090325,오영식,male,1967-02-28,11,,,,
-Q16090384,Woo Sang-ho,male,1962-12-12,11,,,,Woo Sang-ho (politician)
+Q16090384,Woo Sang-ho,male,1962-12-12,11,,,"At Namdaemun Market in Jung-gu, Seoul on the morning of 23rd Woo Sang-ho are Taking commemorative photos (3) (cropped).jpg",Woo Sang-ho (politician)
 Q16090388,Woo Won-shik,male,1957-09-18,11,,,,Woo Won-shik
 Q16090411,Yoo Ki-hong,male,1958-06-11,11,,,,
 Q16090429,유선호,male,1953-09-27,11,,,,
@@ -746,7 +746,7 @@ Q16182146,이정선,female,1960-08-15,11,,,,
 Q16182713,임내현,male,1952-12-21,11,2018-09-21,11,,
 Q16182820,전정희,female,1960-10-24,11,,,,
 Q16183555,이화수,,1953-01-05,11,,,,
-Q16187393,Nam In-soon,female,1958-11-05,11,,,,Nam In-soon
+Q16187393,Nam In-soon,female,1958-11-05,11,,,Naminsoon2018.png,Nam In-soon
 Q16189199,주영순,,1946-04-08,11,,,,
 Q16192512,신경림,female,1954-03-22,11,,,,
 Q16219504,김정록,,1951-06-22,11,,,,
@@ -798,7 +798,7 @@ Q19939516,Kim Young-suk,male,1959-02-25,11,,,,
 Q19939855,문무일,male,1961-07-16,11,,,,
 Q19940257,Shin Dong-kun,male,1961-12-22,11,,,,Shin Dong-kun
 Q19940308,심재엽,,1946,9,,,,
-Q19940527,Oh Shin-hwan,male,1971-02-07,11,,,,Oh Shin-hwan
+Q19940527,Oh Shin-hwan,male,1971-02-07,11,,,"Oh Shin-wan, Member of the National Assembly, in press conference.png",Oh Shin-hwan
 Q19940718,유필우,male,1945,9,,,,
 Q19940726,윤건영,male,1952-03-08,11,,,,
 Q19940737,윤영,,1955,9,,,,
@@ -832,7 +832,7 @@ Q22973130,Kim Byoung-gwan,male,1973-01-15,11,,,,
 Q22973861,박승환,male,1957,9,,,,
 Q22974289,신문식,male,1955-03-28,11,,,,
 Q22974407,An Ho-young,male,1965-10-11,11,,,,
-Q22974439,Yang Hyang-ja,female,1967-04-04,11,,,,Yang Hyang-ja
+Q22974439,Yang Hyang-ja,female,1967-04-04,11,,,Yanghyangja.png,Yang Hyang-ja
 Q22974525,Oh Gi-hyoung,male,1966-11-25,11,,,오기형.jpg,
 Q22974711,Lee Soo-hyuck,male,1949-01-04,11,,,,Lee Soo-hyuck
 Q22974878,Jeong Kyeong-doo,male,1960,9,,,Air Force (ROKAF) General Jeong Kyeong-doo 공군대장 정경두 (UNC-CFC-USFK photo 170625-A-HU462-383).jpg,Jeong Kyeong-doo
@@ -892,7 +892,7 @@ Q24000771,Kim Sam-hwa,female,1962-08-01,11,,,,
 Q24000772,Kim Joong-ro,male,1950-10-27,11,,,,
 Q24000773,Chang Jung-sook,female,1952-01-17,11,,,,Chang Jung-sook
 Q24000774,Kim Soon-rye,female,1955-06-27,11,,,,
-Q24000775,Youn So-ha,male,1961-09-10,11,,,,Yun So-ha
+Q24000775,Youn So-ha,male,1961-09-10,11,,,Yun So-ha.png,Yun So-ha
 Q24000776,Chu Hye-seon,female,1971-01-15,11,,,,
 Q24856039,김영덕,,1953,9,,,,
 Q24856119,Lee Sang-eui,male,1951-09-23,11,,,Army (ROKA) General Lee Sang-eui 육군대장 이상의 (육군 제3군 사령관 이취임식 (7438790046)).jpg,Lee Sang-eui
@@ -945,7 +945,7 @@ Q28699512,Jeon Bong-min,male,1972-10-21,11,,,,
 Q28699742,Kang Dae-sik,male,1959-11-02,11,,,,
 Q28699793,Park Seong-min,male,1959-04-19,11,,,,
 Q28699904,Ju Cheol-hyeon,male,1959-03-12,11,,,,
-Q28700301,Yeo Yeong-gug,male,1964,9,,,,Yeo Yeong-gug
+Q28700301,Yeo Yeong-gug,male,1964,9,,,Yeo Yeong-gug in 2021.jpg,Yeo Yeong-gug
 Q29341335,Jong Ho Lee,male,,,,,,Jong Ho Lee
 Q2947463,In Jae-keun,female,1953-11-11,11,,,印在謹.jpg,In Jae-keun
 Q29881198,Kim Jung-sook,female,1954-11-15,11,,,Kim Jung-sook - 2019 (40622605973) (cropped).jpg,Kim Jung-sook
@@ -1006,7 +1006,7 @@ Q482738,Kwon Yang-sook,female,1947-12-23,11,,,Kwon Yang-sook Chopped.jpg,Kwon Ya
 Q482814,Roh Hoe-chan,male,1956-08-31,11,2018-07-23,11,Roh Hoechan at Busan in 2017 - 3.JPG,Roh Hoe-chan
 Q482901,Kwon Young-ghil,male,1941-11-05,11,,,Kwon Young-Ghil.png,Kwon Young-ghil
 Q482950,Jeon Yeo-ok,female,1959-04-09,11,,,,Jeon Yeo-ok
-Q48315800,Park Neung-hoo,male,1956-06-24,11,,,,Park Neung-hoo
+Q48315800,Park Neung-hoo,male,1956-06-24,11,,,"Park Neung-hoo, MInister of Health and Welfare.jpg",Park Neung-hoo
 Q483861,Kim Moon-soo,male,1951-08-27,11,,,Kim Moon Soo crop.jpg,Kim Moon-soo (politician)
 Q484024,Song Young-gil,male,1962-03-21,11,,,"2020 Republic of Korea, Assemblyman, Song Young Gil.jpg",Song Young-gil
 Q4841199,Bae Hyun-jin,female,1983-11-06,11,,,,Bae Hyun-jin
@@ -1041,7 +1041,7 @@ Q50809472,Choi Chun-sik,male,1956-03-14,11,,,,
 Q5103366,Cho Jun-hyuk,male,1960-07-14,11,,,,Cho Jun-hyuk
 Q5103390,Cho Tae-yong,male,1956-08-29,11,,,Cho Tae-yong in 2015.jpg,Cho Tae-yong
 Q5103906,Choi Jae-cheon,male,1963-11-19,11,,,,Choi Jae-cheon
-Q5103931,Choi Kyoung-hwan,male,1955-06-22,11,,,,Choi Kyoung-hwan
+Q5103931,Choi Kyoung-hwan,male,1955-06-22,11,,,Choi Kyoung-hwan 2014.jpg,Choi Kyoung-hwan
 Q54802943,Hwangbo Seung-hee,female,1976-08-05,11,,,,Hwangbo Seung-hee
 Q54982005,이승희,female,1956,9,,,,
 Q55728316,김재형,male,1965,9,,,,
@@ -1049,7 +1049,7 @@ Q55728334,Kim Jung-ho,male,1960,9,,,,
 Q55728442,Tʻae-hong Kim,,1942-09-27,11,2011-10-18,11,,
 Q55728795,Roh Tae-ak,male,1962-11-20,11,,,,
 Q55730831,Seo Sam-seok,male,1959,9,,,,
-Q55731004,Sung Yun-mo,male,1963,9,,,,Sung Yun-mo
+Q55731004,Sung Yun-mo,male,1963,9,,,성윤모 산업통상자원부 장관.jpg,Sung Yun-mo
 Q55731119,Song Kap-seok,male,1966-10-10,11,,,,Song Kap-seok
 Q55731430,Sim Seung-seob,male,1963-01-28,11,,,"Navy (ROKN) Admiral Sim Seung-seob 해군대장 심승섭 (US Navy photo 181011-N-TB148-0110 JEJU ISLAND, Republic of Korea).jpg",Sim Seung-seob
 Q55731872,Eom Tae-young,male,1958,9,,,,
@@ -1135,7 +1135,7 @@ Q8048473,Yang Sung-tae,male,1948-01-26,11,,,,Yang Sung-tae
 Q8053623,Yim Tae-hee,male,1956-12-01,11,,,,Yim Tae-hee
 Q8055228,Yoon Young-kwan,male,1951-01-12,11,,,Yoon Young Kwan.jpg,Yoon Young-kwan
 Q81226575,박삼득,,1956,9,,,,
-Q81226776,Choi Ki-young,male,1955,9,,,,Choi Ki-young
+Q81226776,Choi Ki-young,male,1955,9,,,최기영 과학기술정보통신부 장관.jpg,Choi Ki-young
 Q81227029,Min Byoung-dug,male,1970-12-20,11,,,,
 Q81227137,Moon Jeong-bog,female,1967-01-10,11,,,,Moon Jeong-bog
 Q81227213,Choi Hye-young,female,1979-06-01,11,,,,Choi Hye-young
@@ -1153,7 +1153,7 @@ Q90564816,Kim Nam-kuk,male,1982-10-22,11,,,,Kim Nam-kuk
 Q90819592,Kang Sun-woo,female,1978-06-02,11,,,,Kang Sun-woo
 Q90920394,Lee So-young,female,1985-02-10,11,,,,Lee So-young (lawyer)
 Q90921811,Hong Jung-min,female,1978-11-24,11,,,,Hong Jung-min
-Q91011399,Lee Tahney,male,1978-11-03,11,,,,Lee Tahney
+Q91011399,Lee Tahney,male,1978-11-03,11,,,이탄희 전 판사.png,Lee Tahney
 Q91013702,Kim Woong,male,1970-05-05,11,,,,Kim Woong
 Q92011646,Ryu Ho-jeong,female,1992-08-09,11,,,,Ryu Ho-jeong
 Q93071935,Song Jae-ho,male,1960-12-20,11,,,,
@@ -1231,11 +1231,11 @@ Q93759105,Yoo Sang-bum,male,1966-06-04,11,,,,
 Q93759620,Lee Kyu-min,male,1968-05-10,11,,,,
 Q93878757,Kang Min-kuk,male,1971-03-03,11,,,,
 Q94395542,Jang Kyung-tae,male,1983-10-12,11,,,,Jang Kyung-tae
-Q96483282,Kim Jae-yeon,female,1980-10-30,11,,,,Kim Jae-yeon (politician)
+Q96483282,Kim Jae-yeon,female,1980-10-30,11,,,김재연.jpg,Kim Jae-yeon (politician)
 Q96655749,윤두환,male,1955-03-05,11,,,,
 Q97191454,김유근,,,,,,,
 Q97198407,Lim Hyesook,female,1963,9,,,Lim Hyesook Minister of Science and ICT in June 2021.jpg,Lim Hyesook
-Q97199071,Dong-hoon Han,male,1973,9,,,,Han Dong-hoon
+Q97199071,Dong-hoon Han,male,1973-04-09,11,,,Han Dong-hoon 2022.jpg,Han Dong-hoon
 Q97218826,Koo Man-sub,,1966,9,,,,
 Q97231128,이흥구,male,1963-03-30,11,,,,
 Q98437150,Boo Suk-jong,male,1964,9,,,Boo Suk-jong in 2020.jpg,Boo Suk-jong

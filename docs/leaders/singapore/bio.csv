@@ -1,5 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q103067242,Randolph G. K. Tan,male,,,,,,
+Q105647501,Aaron Beng,male,,,,,Singapore navy Lt. Col. Aaron Beng 140629-N-IU636-171 (cropped).jpg,Aaron Beng
 Q105648475,Lew Chuen Hong,male,,,,,"Radm. Lew Chuen Hong, Chief of Navy, Singapore Armed Forces.jpg",Lew Chuen Hong
 Q1071599,Chiam See Tong,male,1935-03-12,11,,,ChiamSeeTong-SDARally-20060502.jpg,Chiam See Tong
 Q107464954,Tan Yia Swam,female,1980,9,,,,
@@ -41,6 +42,7 @@ Q15131896,Ang Hin Kee,male,1965-10-22,11,,,,Ang Hin Kee
 Q1515536,Joscelin Yeo,female,1979-05-02,11,,,,Joscelin Yeo
 Q1521378,S. Jayakumar,male,1939-08-12,11,,,Jayakumar (1).jpg,S. Jayakumar (Singaporean politician)
 Q15410291,Ng Chee Meng,male,1968-08-08,11,,,"Maj Gen Ng Chee Meng at the Shangri-La Dialogue, Singapore - 20140530.jpg",Ng Chee Meng
+Q15410371,Ng Chee Peng,male,,,,,Ng Chee Peng.jpg,Ng Chee Peng
 Q15798338,Perry Lim,male,,,,,Singapore Army Lieutenant General Perry Lim Cheng Yeow (Flickr id 38876138601).jpg,Perry Lim
 Q16115675,Lim Siong Guan,male,1947,9,,,,Lim Siong Guan
 Q16136702,Lina Loh,female,1949-06-04,11,,,,Lina Loh
@@ -63,6 +65,7 @@ Q16730956,Janice Koh,female,1969-04-26,11,,,Janice Koh at the Singapore Premiere
 Q16926847,Muhammad Faishal Ibrahim,male,1968-06-16,11,,,,Muhammad Faishal Ibrahim
 Q17152083,Peter Ong,male,1961,9,,,,Peter Ong
 Q17152348,Zainal Sapari,male,1965-11-30,11,,,Zainal Sapari Loyang Bus Depot 03.jpg,Zainal Sapari
+Q17496652,Lai Chung Han,male,,,,,"150209-N-DC018-225 Cmdr. Kendall Bridgewater, commanding officer of LCS Crew 104 presents Rear-Admiral Lai Chung Han, Republic of Singapore Chief of Navy, a token gift.jpg",Lai Chung Han
 Q17722375,Masagos Zulkifli,male,1963-04-16,11,,,"Masagos Zulkifli at The Pentagon, USA - 20061017.jpg",Masagos Zulkifli
 Q1812042,Lee Yi Shyan,male,1962-03-09,11,,,,Lee Yi Shyan
 Q18687930,Intan Azura Mokhtar,female,1980-08-23,11,,,,Intan Azura Mokhtar
@@ -97,7 +100,7 @@ Q28415107,Chia Shi-Lu,male,1971-10-13,11,,,,Chia Shi-Lu
 Q29093145,K Thanaletchimi,female,1966,9,,,,K. Thanaletchimi
 Q30084589,Hian-teck Hoon,male,1959,9,,,,
 Q313300,Goh Chok Tong,male,1941-05-20,11,,,GohChokTong-WashingtonDC-20010614.jpg,Goh Chok Tong
-Q33136404,Lucien Wong,male,1953,9,,,,Lucien Wong
+Q33136404,Lucien Wong,male,1953-10-14,11,,,,Lucien Wong
 Q3518218,Teo Chee Hean,male,1954-12-27,11,,,Teo Chee Hean.jpg,Teo Chee Hean
 Q3786667,Lee Li Lian,female,1978-07-19,11,,,,Lee Li Lian
 Q3846565,Chen Show Mao,male,1961-02-06,11,,,"Chen Show Mao at a Workers' Party general election rally, Serangoon Stadium, Singapore - 20110429 (cropped).jpg",Chen Show Mao
@@ -119,26 +122,27 @@ Q5070361,Chan Sek Keong,male,1937-11-05,11,,,1 chan sek keong 2012.jpg,Chan Sek 
 Q5070367,Chan Soo Sen,male,1956-10-01,11,,,,Chan Soo Sen
 Q5072730,Chao Hick Tin,male,1957,9,,,,Chao Hick Tin
 Q5076232,Charles Chong,male,1953-06-24,11,,,,Charles Chong
+Q5094489,Chew Men Leong,male,,,,,"US Navy 090514-N-1488S-067 Commanding Officer of Arleigh Burke-class guided missile destroyer USS Kidd (DDG 100), Cmdr. Chuck Good, participates in a cake cutting ceremony with Chief of Republic of Singapore Navy, Rear Adm. Che.jpg",Chew Men Leong
 Q5113490,Christopher de Souza,male,1976-01-21,11,,,Chris de Souza.JPG,Christopher de Souza
 Q51571528,Mahdev Mohan,male,1979,9,,,,
 Q5200144,Cynthia Phua,female,1958-08-19,11,,,,Cynthia Phua
 Q5257739,Denise Phua,female,1959-12-09,11,,,Denise Phua.jpg,Denise Phua
 Q5264684,Desmond Choo,male,1977,9,,,Desmond Choo.jpg,Desmond Choo
 Q5264753,Desmond Kuek,male,1963-08-28,11,,,Desmond Kuek.jpg,Desmond Kuek
-Q5346875,Edwin Tong,male,1969-08-12,11,,,,Edwin Tong
+Q5346875,Edwin Tong,male,1969-08-12,11,,,Edwin Tong 2019.jpg,Edwin Tong
 Q5407786,Eugene Tan,male,1970-02-18,11,,,"Eugene Tan at the Mochtar Riady Auditorium, Singapore Management University - 20151111-02 (cropped).jpg",Eugene Tan
 Q5409769,Eunice Olsen,female,1977-10-24,11,,,Eunice Olsen MSU2011.jpg,Eunice Olsen
 Q5465241,Foo Mee Har,female,1966-01-10,11,,,Foo Mee Har.jpg,Foo Mee Har
 Q5520446,Gan Kim Yong,male,1952-12-08,11,,,Gan Kim Yong at a PCF graduation ceremony - 20081113 (cropped).jpg,Gan Kim Yong
 Q5549173,Gerald Giam,male,1977-11-22,11,,,"Gerald Giam at a Workers' Party general election rally, Bedok Stadium, Singapore - 20110430-04.jpg",Gerald Giam
 Q55752957,Seah Kian Peng,male,1961,9,,,Seah Kian Peng at International Co-operative Alliance General Assembly 2007 in Singapore.jpg,Seah Kian Peng
-Q55753587,Chong Kee Hiong,male,1966,9,,,,Chong Kee Hiong
+Q55753587,Chong Kee Hiong,male,1966,9,,,Chong Kee Hiong.jpg,Chong Kee Hiong
 Q55753589,Ong Teng Koon,male,,,,,,
 Q55753591,Yee Chia Hsing,,1971,9,,,,
-Q55753594,Lim Wee Kiak,male,1968-12-27,11,,,,Lim Wee Kiak
+Q55753594,Lim Wee Kiak,male,1968-12-27,11,,,Lim Wee Kiak.jpg,Lim Wee Kiak
 Q55767861,Ganesh Rajaram,,,,,,,
 Q55767870,Kuik Shiao-Yin,female,,,,,,
-Q55767889,Dennis Tan Lip Fong,male,1970,9,,,,Dennis Tan
+Q55767889,Dennis Tan Lip Fong,male,1970,9,,,Dennis Tan Lip Fong 3 (cropped).jpg,Dennis Tan
 Q55767907,Azmoon Ahmad,male,1962,9,,,,
 Q55767915,Thomas Chua Kee Seng,male,,,,,,
 Q55767964,Randolph Tan,,,,,,,
@@ -173,7 +177,7 @@ Q6732618,Mah Bow Tan,male,1948-09-12,11,,,Mah Bow Tan at the World Economic Foru
 Q6743667,Maliki Osman,male,1965-07-19,11,,,Maliki Osman July 2018 (43440550432) (cropped).jpg,Maliki Osman
 Q6767053,Mark Chay,male,1982-02-18,11,,,,Mark Chay
 Q6791625,Matthias Yao,male,1956-01-12,11,,,,Matthias Yao
-Q6833355,Michael Palmer,male,1968-07-14,11,,,,Michael Palmer (politician)
+Q6833355,Michael Palmer,male,1968-07-14,11,,,Michael Palmer 2012.jpg,Michael Palmer (politician)
 Q6991880,Neo Kian Hong,male,,,,,Neo Kian Hong.jpg,Neo Kian Hong
 Q7021791,Ng Yat Chung,male,,,,,"Ng Yat Chung detail, 050602-F-0193C-114.jpg",Ng Yat Chung
 Q7093791,Ong Chit Chung,male,1949-01-28,11,2008-07-14,11,,Ong Chit Chung
@@ -218,7 +222,7 @@ Q8052396,Yeo Cheow Tong,male,1947-06-22,11,,,,Yeo Cheow Tong
 Q8053798,Yip Pin Xiu,female,1992-01-10,11,,,2016 Paralympics Parade of Nations Singapore cr.jpg,Yip Pin Xiu
 Q8059869,Yu-Foo Yee Shoon,female,1950-02-17,11,,,,Yu-Foo Yee Shoon
 Q8064862,Zainudin Nordin,male,1963-07-03,11,,,"Zainudin Nordin, President of the Football Association of Singapore, marking StarHub's appointment as official broadcaster and principal sponsor of the LionsXII - 2012.jpg",Zainudin Nordin
-Q90874005,Poh Li San,female,1975,9,,,,Poh Li San
+Q90874005,Poh Li San,female,1975,9,,,Poh Li San.jpg,Poh Li San
 Q92208607,Thambynathan Jasudasen,male,1952-06-20,11,,,,
 Q92614104,Walter Theseira,male,,,,,,
 Q94700905,Edward Lee Kwong Foo,male,1947-03-20,11,,,,Edward Lee Kwong Foo
@@ -227,28 +231,28 @@ Q96741373,Benedict Tan,male,1967-11-21,11,,,,Benedict Tan
 Q96882723,Jamus Lim,male,1976,9,,,Jamus Lim 3 (cropped).jpg,Jamus Lim
 Q97016471,He Ting Ru,female,1983,9,,,He Ting Ru 3 (cropped).jpg,He Ting Ru
 Q97129699,Raeesah Khan,female,1994,9,,,Raeesah Khan 3 (cropped).jpg,Raeesah Khan
-Q97142388,Ng Ling Ling,female,1972,9,,,,Ng Ling Ling
+Q97142388,Ng Ling Ling,female,1972,9,,,Ng Ling Ling.jpg,Ng Ling Ling
 Q97142389,Yip Hon Weng,male,1977,9,,,Yip Hon Weng (MP of Yio Chu Kang SMC).jpg,Yip Hon Weng
 Q97159478,Don Wee,male,1977,9,,,Don Wee 1.jpg,Don Wee
-Q97161114,Zhulkarnain Abdul Rahim,male,1980,9,,,,Zhulkarnain Abdul Rahim
-Q97162298,Louis Chua,male,1987,9,,,,Louis Chua
-Q97286417,Shawn Huang Wei Zhong,male,1982,9,,,,Shawn Huang Wei Zhong
-Q97287308,Nadia Ahmad Samdin,female,1990,9,,,,Nadia Ahmad Samdin
+Q97161114,Zhulkarnain Abdul Rahim,male,1980,9,,,Zhulkarnain Rahim.jpg,Zhulkarnain Abdul Rahim
+Q97162298,Louis Chua,male,1987,9,,,Louis Chua Kheng Wee 1 (cropped).jpg,Louis Chua
+Q97286417,Shawn Huang Wei Zhong,male,1982,9,,,Shawn Huang.jpg,Shawn Huang Wei Zhong
+Q97287308,Nadia Ahmad Samdin,female,1990,9,,,Nadia Samdin.jpg,Nadia Ahmad Samdin
 Q97291727,Xie Yao Quan,male,1985,9,,,MP Xie Yao Quan (cropped).jpg,Xie Yao Quan
 Q97292159,Mariam Jaafar,female,1977,9,,,Mariam Jaafar.jpg,Mariam Jaafar
 Q97293053,Rachel Ong,female,1973,9,,,Rachel Ong.jpg,Rachel Ong
-Q97309507,Mohd Fahmi Aliman,male,1972,9,,,,Mohd Fahmi Aliman
-Q97309513,Wan Rizal Wan Zakariah,male,1978,9,,,,Wan Rizal Wan Zakariah
+Q97309507,Mohd Fahmi Aliman,male,1972,9,,,Mohd Fahmi.jpg,Mohd Fahmi Aliman
+Q97309513,Wan Rizal Wan Zakariah,male,1978,9,,,Wan Rizal.jpg,Wan Rizal Wan Zakariah
 Q97309785,Hany Soh,female,1987-06-24,11,,,Hany Soh.jpg,Hany Soh
 Q97319868,Tan Kiat How,male,1977,9,,,,Tan Kiat How
-Q97328756,Carrie Tan,female,1982-04-11,11,,,,Carrie Tan
-Q97345090,Leong Mun Wai,male,1959,9,,,,Leong Mun Wai
+Q97328756,Carrie Tan,female,1982-04-11,11,,,Carrie Tan (cropped).jpg,Carrie Tan
+Q97345090,Leong Mun Wai,male,1959,9,,,Leong Mun Wai August 2020 (cropped).jpg,Leong Mun Wai
 Q97355848,Eric Chua,male,1979,9,,,,Eric Chua
-Q97359709,Edward Chia,male,1984,9,,,,Edward Chia
+Q97359709,Edward Chia,male,1984,9,,,Edward Chia.jpg,Edward Chia
 Q97360272,Alvin Tan,male,1980-06-30,11,,,,Alvin Tan (politician)
-Q97361989,Mohamed Sharael Taha,male,1981,9,,,,Mohamed Sharael Taha
-Q97361993,Derrick Goh,male,1968,9,,,,Derrick Goh
-Q97707670,Yeo Wan Ling,female,1976,9,,,,Yeo Wan Ling
+Q97361989,Mohamed Sharael Taha,male,1981,9,,,Sharael Taha.jpg,Mohamed Sharael Taha
+Q97361993,Derrick Goh,male,1968,9,,,Derrick Goh.jpg,Derrick Goh
+Q97707670,Yeo Wan Ling,female,1976,9,,,Yeo Wan Ling.jpg,Yeo Wan Ling
 Q97731258,Desmond Tan,male,1970,9,,,,Desmond Tan (politician)
 Q97818379,Hawazi Daipi,,,,,,,
 Q97818664,Loo Choon Yong,,,,,,,

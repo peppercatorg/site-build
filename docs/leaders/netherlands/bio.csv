@@ -1,5 +1,5 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
-Q100779990,Jan Keunen,male,1954-10-02,11,,,,Jan Keunen
+Q100779990,Jan Keunen,male,1954-10-02,11,,,Jan Keunen.jpg,Jan Keunen
 Q101624272,Hubert Mackus,male,1978-01-17,11,,,,
 Q102069083,Lisa van Ginneken,female,1972,9,,,Foto Lisa van Ginneken 4 (credit Frank Diemel).jpg,Lisa van Ginneken
 Q1028887,Camiel Eurlings,male,1973-09-16,11,,,Eurlings Dutch politician kabinet Balkenende IV.jpg,Camiel Eurlings
@@ -794,6 +794,7 @@ Q27646569,Peter Kwint,male,1984-12-19,11,,,Peter Kwint1.jpg,Peter Kwint
 Q27646718,Laura Bromet,female,1970-01-17,11,,,Bromet2019.jpg,Laura Bromet
 Q27660804,Maarten Groothuizen,male,1976-09-14,11,,,Maarten-Groothuizen.jpg,
 Q27660943,Anita Vink,female,1982-02-12,11,,,"Anita Vink, gemeenteraadslid D66 Utrecht (6904113940) (cropped).jpg",
+Q2770742,Gert van den Berg,male,1935-10-15,11,,,Gert-van-den-berg-1314957076.jpg,Gert van den Berg (politician)
 Q2770958,Lucille Werner,female,1967-10-12,11,,,Lucille Werner (10172210215).jpg,Lucille Werner
 Q2776715,Kajsa Ollongren,female,1967-05-28,11,,,220107Kajsa Ollongren44 (cropped).jpg,Kajsa Ollongren
 Q2778215,Philomena Bijlhout,female,1957-11-13,11,,,Philomena Bijlhout 2020.png,Philomena Bijlhout
@@ -883,7 +884,7 @@ Q28861058,Tobias van Gent,male,1967-01-14,11,,,Tobias van Gent.jpg,Tobias van Ge
 Q28861067,Thierry Aartsen,male,1989-12-19,11,,,ThierryAartsen2018.jpg,Thierry Aartsen
 Q28861070,Kelly Regterschot,female,1975-02-22,11,,,Kelly regterschot-1566984357.JPG,Kelly Regterschot
 Q28861073,Bart Smals,male,1970-04-05,11,,,Bart Smals.jpg,Bart Smals
-Q28861078,Martijn Bolkestein,male,1972-03-13,11,,,,Martijn Bolkestein
+Q28861078,Martijn Bolkestein,male,1972-03-13,11,,,"Meindert Fennema, Martijn Bolkestein, and Esther van Rijswijk.png",Martijn Bolkestein
 Q28861081,Mark Snoeren,male,1974-08-25,11,,,,Mark Snoeren
 Q28861095,Jan de Reus,male,1956,9,,,Jan de Reus - VVD - Flevoland PS 2019.jpg,
 Q28861134,Harry Bevers,male,1965-03-05,11,,,,
@@ -1060,6 +1061,7 @@ Q467610,Fatma Koşer Kaya,female,1968-02-20,11,,,Fatma Koser Kaya.jpg,Fatma Koş
 Q467833,Tineke Huizinga,female,1960-02-16,11,,,Huizinga Dutch politician kabinet Balkenende IV.jpg,Tineke Huizinga
 Q467982,Fleur Agema,female,1976-09-16,11,,,Fleur Agema tijdens een bezoek in Spijkenisse.jpg,Fleur Agema
 Q47208581,Boudewijn Revis,male,1974-07-21,11,,,B.Revis.jpg,Boudewijn Revis
+Q47409863,Hasani Ellis,male,1985-08-17,11,,,Hasani Ellis (2018).jpg,
 Q47463588,Guillfred Besaril,male,1974-01-09,11,,,,Guillfred Besaril
 Q4749154,Ino van den Besselaar,male,1948-11-14,11,,,Mr ihc van den besselaar-1515772758.jpg,Ino van den Besselaar
 Q4769431,Annie Schreijer-Pierik,female,1953-02-17,11,,,Schreijer-pierik-jmg-cda.jpg,Annie Schreijer-Pierik
@@ -1164,6 +1166,7 @@ Q67186051,Maarten van Ooijen,male,1990-05-01,11,,,,
 Q67210071,Otto Hermans,male,1950-03-29,11,,,,Otto Hermans
 Q6794520,Max Aardema,male,1963-02-11,11,,,,Max Aardema
 Q6873597,Mirjam Sterk,female,1973-05-23,11,,,Mirjam-Sterk.jpg,Mirjam Sterk
+Q69624560,Silveria Jacobs,female,1968-07-31,11,,,Silveria Jacobs 2020 (cropped).jpg,Silveria Jacobs
 Q704888,Geert Reuten,male,1946-04-16,11,,,RS1195 Portret Geert Reuten.JPG,Geert Reuten
 Q710978,Robbert Dijkgraaf,male,1960-01-24,11,,,"Robbert Dijkgraaf, 2022.jpg",Robbert Dijkgraaf
 Q712105,Hans van den Broek,male,1936-12-11,11,,,Hans van den Broek 1983.jpg,Hans van den Broek

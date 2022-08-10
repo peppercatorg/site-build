@@ -1,4 +1,5 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
+Q104972495,Prabhu Sah,male,1974-10-10,11,,,,Prabhu Sah
 Q106993234,Ram Sahaya Yadav,male,,,,,,Ram Sahaya Yadav
 Q107026781,Rajendra Prasad Shrestha,male,,,,,,Rajendra Prasad Shrestha
 Q107699712,Prabhu Ram Sharma,male,1964-01-05,11,,,,Prabhu Ram Sharma
@@ -254,7 +255,7 @@ Q45087558,Prem Bahadur Giri,male,,,,,,
 Q45087855,Sitaram Bhandari,male,,,,,,
 Q45088179,Prem Bahadur Singh,male,,,,,,
 Q45088242,Vaijnath Chowdhury,male,,,,,,
-Q45088400,Sitaram Mahato,male,,,,,,Sitaram Mahato
+Q45088400,Sitaram Mahato,male,1955-05-19,11,,,,Sitaram Mahato
 Q45088727,Prem Suwal,male,,,,,,
 Q45091935,Shakuntala RajBhandari,female,,,,,,
 Q45092743,Shakti Bahadur Basnet,male,,,,,,
@@ -275,7 +276,7 @@ Q45105662,Ganesh Kumar Kambang,male,,,,,,
 Q45105875,Ganesh Kumar Pahadi,male,,,,,,
 Q45106251,Ganesh Prasad Bimali,male,,,,,,
 Q45106544,Ganesh Man Gurung,male,,,,,,
-Q45107020,Ganesh Singh Thagunna,male,1968-12-07,11,,,,Ganesh Singh Thagunna
+Q45107020,Ganesh Singh Thagunna,male,1968-12-07,11,,,Ganesh-Singh-Thagunna.jpg,Ganesh Singh Thagunna
 Q45107444,Giriraj Mani Pokharel,male,,,,,,
 Q45108106,Gita Wagle,female,,,,,,
 Q45108809,Gopal Dahit,male,,,,,,
