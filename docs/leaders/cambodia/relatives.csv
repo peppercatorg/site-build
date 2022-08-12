@@ -1,0 +1,32 @@
+catalog,id,name,relationship,relative,relativename
+Cambodia,Q160318,Norodom Sihanouk,child,Q29936017,Norodom Naradipo
+Cambodia,Q160318,Norodom Sihanouk,child,Q3488976,Norodom Arunrasmy
+Cambodia,Q160318,Norodom Sihanouk,child,Q381817,Norodom Ranariddh
+Cambodia,Q160318,Norodom Sihanouk,child,Q4923558,Norodom Chakrapong
+Cambodia,Q160318,Norodom Sihanouk,child,Q4925272,Norodom Buppha Devi
+Cambodia,Q160318,Norodom Sihanouk,child,Q56640816,Norodom Kantha Bopha
+Cambodia,Q160318,Norodom Sihanouk,child,Q57319,Norodom Sihamoni
+Cambodia,Q160318,Norodom Sihanouk,child,Q6636185,Norodom Narindrapong
+Cambodia,Q160318,Norodom Sihanouk,child,Q7053178,Norodom Yuvaneath
+Cambodia,Q160318,Norodom Sihanouk,father,Q1779614,Norodom Suramarit
+Cambodia,Q160318,Norodom Sihanouk,mother,Q4926056,Sisowath Kossamak
+Cambodia,Q160318,Norodom Sihanouk,spouse,Q21070371,Phat Kanhol
+Cambodia,Q160318,Norodom Sihanouk,spouse,Q4919438,Norodom Monineath
+Cambodia,Q160318,Norodom Sihanouk,spouse,Q56640824,Sisowath Pongsanmoni
+Cambodia,Q160318,Norodom Sihanouk,spouse,Q64854469,Sisowath Monikessan
+Cambodia,Q160318,Norodom Sihanouk,spouse,Q6641773,Mam Manivan Phanivong
+Cambodia,Q57319,Norodom Sihamoni,father,Q160318,Norodom Sihanouk
+Cambodia,Q57319,Norodom Sihamoni,mother,Q4919438,Norodom Monineath
+Cambodia,Q57319,Norodom Sihamoni,sibling,Q3488976,Norodom Arunrasmy
+Cambodia,Q57319,Norodom Sihamoni,sibling,Q381817,Norodom Ranariddh
+Cambodia,Q57319,Norodom Sihamoni,sibling,Q4923558,Norodom Chakrapong
+Cambodia,Q57319,Norodom Sihamoni,sibling,Q4925272,Norodom Buppha Devi
+Cambodia,Q57319,Norodom Sihamoni,sibling,Q6636185,Norodom Narindrapong
+Cambodia,Q57319,Norodom Sihamoni,sibling,Q7053178,Norodom Yuvaneath
+Cambodia,Q57788,Hun Sen,child,Q104837344,Hun Mana
+Cambodia,Q57788,Hun Sen,child,Q104837405,Hun Mali
+Cambodia,Q57788,Hun Sen,child,Q13024351,Hun Manet
+Cambodia,Q57788,Hun Sen,child,Q16729974,Hun Mani
+Cambodia,Q57788,Hun Sen,child,Q17092084,Hun Manith
+Cambodia,Q57788,Hun Sen,father,Q15993332,Hun Neang
+Cambodia,Q57788,Hun Sen,spouse,Q4997395,Bun Rany
