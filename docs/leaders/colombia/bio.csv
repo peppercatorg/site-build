@@ -1,8 +1,9 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q102007277,Carmenza Jaramillo,female,1948-04-14,11,,,,
+Q10395812,Álvaro Leyva,male,1942-08-29,11,,,Alvaro Leyva.jpg,
 Q104783211,Leonardo Villar Gómez,male,,,,,,
 Q104852316,Felipe Buitrago,male,,,,,,
-Q106515173,Daniel Palacios,male,1982,9,,,Daniel Palacios.jpg,
+Q106515173,Daniel Palacios,male,1982,9,,,SSS1234.jpg,
 Q106625842,Luis Enrique Dussán López,male,,,,,,
 Q106777559,Luisa Fernanda Lafaurie Rivera,female,,,,,,
 Q106907432,María Ximena Lombana Villalba,female,,,,,,
@@ -27,6 +28,14 @@ Q112151245,Jaime Bravo Motta,male,,,,,,
 Q112151448,Luis Carlos Valenzuela Delgado,male,,,,,,
 Q112151449,Carlos Eduardo Caballero Argáez,male,,,,,,
 Q112151494,Gustavo Canal Mora,male,,,,,,
+Q112768671,María Susana Muhamad,female,,,,,Susana Muhamad 4.jpg,
+Q112917761,Diana Carolina Corcho,female,,,,,,
+Q113463507,Irene Vélez Torres,female,,,,,Irene Velez T.jpg,
+Q113463590,Néstor Osuna,male,,,,,,
+Q113463856,Catalina Velasco,female,,,,,,
+Q113468228,Germán Umaña Mendoza,male,,,,,,
+Q113500122,Mery Gutiérrez,,,,,,,
+Q113500219,Mery Janeth Gutiérrez,female,,,,,,
 Q11682271,Guillermo Fernández de Soto,male,1953-09-27,11,,,Fernandez de Soto.jpg,Guillermo Fernández de Soto
 Q12351914,Luis Pérez Gutiérrez,male,1951,9,,,Luis Pérez Gutiérrez (cropped).jpg,
 Q152472,Ingrid Betancourt,female,1961-12-25,11,,,Íngrid Betancourt.jpg,Íngrid Betancourt
@@ -46,6 +55,7 @@ Q16948806,Musa Besaile,male,1970-07-04,11,,,,
 Q17057929,Jesús Santrich,male,1967-07-31,11,2021-05-17,11,Jesús Santrich (2017).jpg,Jesús Santrich
 Q17057931,Victoria Sandino Simanca Herrera,female,1965,9,,,VictoriaSandino.jpg,Victoria Sandino
 Q17276366,Carlos Mauricio Iriarte Barrios,male,1962-09-10,11,,,Carlos Mauricio Iriarte Barrios.jpg,
+Q17364368,José Noé Ríos,male,1961,9,,,,
 Q17364462,Paloma Valencia Laserna,female,1978-01-19,11,,,Paloma Valencia.png,
 Q17477937,María Fernanda Cabal,female,1964-08-08,11,,,Rpte. María Fernanda Cabal.jpg,
 Q17477977,Susana Correa,female,1976-08-12,11,,,Susana Correa Borrero.jpg,
@@ -54,10 +64,11 @@ Q17478056,Juan Diego Gómez,male,1975-11-26,11,,,Juan diego nueva.jpg,
 Q17478114,Mauricio Lizcano,male,1976-08-12,11,,,S. Mauricio Lizcano .jpg,
 Q17478129,Ernesto Macías Tovar,male,1955-06-29,11,,,Ernesto Macias .jpg,
 Q17478258,Wilson Ruiz Orejuela,male,,7,,,,
+Q17620689,Alfonso Prada,male,1964-10-06,11,,,Alfonso Prada.jpg,
 Q17623339,Natalia Abello Vives,female,1967-05-30,11,,,,Natalia Abello Vives
 Q17624238,Carlos Eduardo Correa Escaf,male,1973-04-26,11,,,Carlos Eduardo Correa.jpg,
 Q17633066,Yesid Reyes,male,1958,9,,,Yesid Reyes.jpg,
-Q1789284,Luis Eduardo Garzón,male,1951-02-11,11,,,Luis-Eduardo-Garzon.jpg,Luis Eduardo Garzón
+Q1789284,Luis Eduardo Garzón,male,1951-02-11,11,,,Luis Eduardo Garzon in 2015.jpg,Luis Eduardo Garzón
 Q17987573,Tomás González Estrada,male,1971,9,,,Ministro wikipedia.jpg,Tomás González Estrada
 Q17994523,Gabriel Vallejo,male,,7,,,,
 Q18643822,Edgar Artunduaga,male,1953-10-03,11,2019-06-25,11,Edgar Artunduaga at Todelar Radio 2014.jpg,
@@ -71,10 +82,12 @@ Q20016263,José Alfredo Gnecco,male,1976-04-17,11,,,Jose Alfredo Gnecco.jpg,
 Q20016923,Jaime Buenahora,male,1952-11-24,11,,,,
 Q20017105,León Darío Ramírez,male,1951-12-29,11,,,,
 Q20018309,Sara Piedrahita Lyons,female,1988-12-21,11,,,,
+Q20665758,Iván Velásquez Gómez,male,1955-05-12,11,,,Iván Velásquez.jpg,Iván Velásquez Gómez
 Q20823407,María Lorena Gutiérrez,female,1968-09,10,,,María Lorena Gutiérrez in Bogota - 2018 (40513567872) (cropped).jpg,
 Q20994745,Alicia Arango Olmos,female,1958-10,10,,,Alicia Arango.jpg,Alicia Arango
 Q20994952,Oneida Pinto,female,1969-05-26,11,,,,
 Q2117543,Jorge Iván Ospina,male,1965,9,,,Jorge perfil.jpg,Jorge Iván Ospina
+Q2151208,Patricia Ariza,female,1946-01-27,11,,,Patricia Ariza.jpg,Patricia Ariza
 Q2161317,Rodrigo Rivera Salazar,male,1963-04-20,11,,,Rodrigo Rivera Salazar.jpg,Rodrigo Rivera Salazar
 Q21993603,Camilo Reyes Rodríguez,male,,7,,,Camilo Reyes Rodríguez 01.jpg,Camilo Reyes Rodríguez
 Q2377863,Alberto Carrasquilla Barrera,male,1959-04-24,11,,,Alberto Carrasquilla.jpg,Alberto Carrasquilla Barrera
@@ -89,6 +102,8 @@ Q28163888,David Luna Sánchez,male,1975-02-27,11,,,David Luna.png,David Luna Sá
 Q28221054,Maria Claudia Lacouture,female,1974,9,,,Maria Claudia Lacouture - Presidenta ProColombia.jpg,Maria Claudia Lacouture
 Q2837153,Roberto Junguito Bonnet,male,1943-03-05,11,2020-12-27,11,,Roberto Junguito
 Q28501273,Miguel Ángel Pinto,male,1961-11-14,11,,,MiguelPinto.jpg,
+Q28501573,Francia Márquez Mina,female,1981-12-01,11,,,Francia Marquez (2022).jpg,Francia Márquez
+Q2879824,Cecilia López Montaño,female,1943-04-18,11,,,Cecilia Lopez.jpg,Cecilia López Montaño
 Q28823104,Alberto José Mejía Ferrero,male,1963,9,,,Alberto José Mejía Ferrero.png,Alberto José Mejía Ferrero
 Q28841856,Enrique Gil Botero,male,1953-12-09,11,,,Enrique Gil Botero.png,Enrique Gil Botero
 Q2888626,Daniel Enrique Medina Velandia,male,,7,,,,
@@ -98,6 +113,7 @@ Q2939371,Carlos Holguín Sardi,male,1940-09-16,11,,,,Carlos Holguín Sardi
 Q30062856,Guillermo Rivera Flórez,male,1970-02,10,,,Guillermo Rivera Flórez.png,
 Q3064569,María Emma Mejía Vélez,female,1953-09-27,11,,,MariaEmmaMejiaV.jpg,María Emma Mejía Vélez
 Q3069450,Fernando Carrillo Florez,male,1962-05-13,11,,,"Fernando Carrillo Flórez, Colombian lawyer.jpg",Fernando Carrillo Flórez
+Q3076265,José Antonio Ocampo,male,1952-12-20,11,,,José Antonio Ocampo.jpg,José Antonio Ocampo
 Q315975,Andrés Pastrana Arango,male,1954-08-17,11,,,"Andrés Pastrana, 2009.jpg",Andrés Pastrana Arango
 Q326405,Horacio Serpa,male,1943-01-03,11,2020-10-31,11,Horacio Serpa.jpg,Horacio Serpa
 Q3460483,Sabas Pretelt de la Vega,male,1946-04-11,11,,,Sabitas.jpg,Sabas Pretelt de la Vega
@@ -105,6 +121,7 @@ Q35363170,Jaime Pumarejo,male,1980,9,,,JAIME-PUMAREJOP-ED.jpg,
 Q380026,Antanas Mockus,male,1952-03-25,11,,,Antanas Mockus (3) (cropped).jpg,Antanas Mockus
 Q41572286,Juan Guillermo Zuluaga,male,1970,9,,,Juan Guillermo Zuluaga Cardona.png,
 Q435021,Noemí Sanín,female,1949-06-05,11,,,Noemi Sanin 2010.jpg,Noemí Sanín
+Q448690,María Isabel Urrutia,female,1965-03-25,11,,,Maria Isabel Urrutia.jpg,María Isabel Urrutia
 Q465923,Angelino Garzón,male,1956-10-29,11,,,Vicepresident of Colombia Angelino Garzón.JPG,Angelino Garzón
 Q4714502,Alejandro Char,male,1966-04-16,11,,,Alejandro Char Ch.JPG,Alejandro Char Chaljub
 Q4714549,Alejandro Gaviria,male,1966,9,,,Alejandro Gaviria RT.jpg,Alejandro Gaviria Uribe
@@ -151,7 +168,7 @@ Q55810894,Gloria María Borrero,female,1956,9,,,Gloria María Borrero.png,Gloria
 Q55812744,Andrés Valencia Pinzón,male,1967-11-15,11,,,Ministro Valencia.png,
 Q55813236,María Fernanda Suárez,female,1974,9,,,,
 Q55813470,José Manuel Restrepo Abondano,male,1969,9,,,José Restrepo.png,José Manuel Restrepo Abondano
-Q55813992,María Victoria Angulo González,female,1980-06-20,11,,,Maria Victoria Angulo Gonzalez.jpg,
+Q55813992,María Victoria Angulo González,female,1980-06-20,11,,,Maria Victoria Angulo Gonzalez.jpg,María Victoria Angulo
 Q55814321,Ricardo Lozano Picón,male,1968-12,10,,,Ricardo Lozano.png,
 Q55815245,Jonathan Malagón,male,1984-08-10,11,,,JonathanMalagon-MinistroVivienda.jpg,
 Q55815569,Carmen Vásquez,female,1963,9,,,Carmen Vásquez.jpg,
@@ -190,6 +207,8 @@ Q5830014,Elsa Noguera,female,1973-05-23,11,,,Elsa Noguera en campaña.jpg,Elsa N
 Q5830097,Elvira Cuervo de Jaramillo,female,1941-04,10,,,,
 Q5836985,Ernesto Ramiro Estacio,male,,7,,,,
 Q5846512,Frank Pearl González,male,1962,9,,,Poseción Frank Pearl.JPG,Frank Pearl González
+Q5881263,Gloria Inés Ramírez,female,1956,9,,,Gloria Ines Ramirez Rios.jpg,
+Q5885839,Griselda Janeth Restrepo,female,1964-06-09,11,,,Griselda Restrepo.jpg,
 Q5896204,Hernán Martínez,male,1951,9,,,,
 Q5901597,Honorio Galvis,male,1951,9,,,,
 Q5923513,Iván Moreno Rojas,male,1962,9,,,,
@@ -212,7 +231,7 @@ Q6055880,Pablo Catatumbo Torres Victoria,male,1953-03-19,11,,,Pablo Catatumbo.jp
 Q6099273,Ramiro Valencia Cossio,male,,,,,,
 Q6110723,Rodrigo Lara Restrepo,male,1975-05-12,11,,,Rodrigo Lara Restrepo02 (cropped).jpg,
 Q6110831,Rodrigo Villalba Mosquera,male,1951-09-02,11,,,Rodrigo Villalba Mosquera.jpg,
-Q6112985,Roy Barreras,male,1963-11-27,11,,,Roy Barreras.jpg,Roy Barreras
+Q6112985,Roy Barreras,male,1963-11-27,11,,,RoyBarreras.jpg,Roy Barreras
 Q6114529,Ruth Stella Correa Palacio,female,1959-11-13,11,,,,Ruth Stella Correa Palacio
 Q6119998,Sandra Suárez,female,,7,,,,Sandra Suárez
 Q615734,Sergio Fajardo,male,1956-06-19,11,,,SergioFajardo.jpg,Sergio Fajardo
@@ -228,8 +247,9 @@ Q6299251,Juan Carlos Esguerra Portocarrero,male,1949-03-13,11,,,Juan Carlos Esgu
 Q6299365,Juan Carlos Pinzón Bueno,male,1971-12-22,11,,,Foto Juan Carlos Pinzón.jpg,Juan Carlos Pinzón
 Q63630019,Daniel Quintero,male,1980-07-26,11,,,Daniel Quintero Calle1.jpg,Daniel Quintero
 Q6401121,Camilo Ospina Bernal,male,1959-12-23,11,,,,Camilo Ospina Bernal
+Q64099923,Guillermo Reyes,male,1965,9,,,Guillermo Reyes Gonzalez - Wikipedia.png,
 Q64348215,Jonatan Tamayo Pérez,male,,,,,,
-Q6700569,Luis Fernando Ramírez,male,1959-11-23,11,,,Luisfernandoramirez.png,Luis Fernando Ramírez
+Q6700569,Luis Fernando Ramírez,male,1959-11-23,11,,,Luis F Ramirez.jpg,Luis Fernando Ramírez
 Q6700653,Luis Gilberto Murillo,male,1967,9,,,Luis Gabriel Murillo.jpg,Luis Gilberto Murillo
 Q6700687,Luis Guillermo Plata Páez,male,1967,9,,,Ministro Luis Plata.JPG,Luis Guillermo Plata Páez
 Q6762040,Mariana Garcés Córdoba,female,,,,,Mariana Garcés Córdoba.jpg,Mariana Garcés Córdoba
@@ -243,7 +263,7 @@ Q6793599,Mauricio Cárdenas Santa María,male,1962-06-09,11,,,Mauricio Cárdenas
 Q6844538,Miguel Esteban Peñaloza Barrientos,male,1959,9,,,,Miguel Esteban Peñaloza Barrientos
 Q6844834,Miguel Urrutia Montoya,male,1939-04-20,11,,,,Miguel Urrutia Montoya
 Q6962910,Nancy Patricia Gutiérrez,female,1963-10-16,11,,,Nancy Patricia Gutiérrez Castañeda (sq cropped).jpg,Nancy Patricia Gutiérrez
-Q704022,Gustavo Petro,male,1960-04-19,11,,,03GustavoPetro.jpg,Gustavo Petro
+Q704022,Gustavo Petro,male,1960-04-19,11,,,Gustavo Petro - 52268081756 (cropped).jpg,Gustavo Petro
 Q70874514,Fernando Augusto Sanclemente Alzate,male,1965-02-16,11,,,,
 Q7145571,Patricia Eugenia Cárdenas Santa María,female,1958,9,,,,Patricia Eugenia Cárdenas Santa María
 Q7154723,Paula Marcela Moreno Zapata,female,1978-11-11,11,,,Paula Zapata - MinC Brasil - Colectiva de prensa (15).jpg,Paula Marcela Moreno Zapata

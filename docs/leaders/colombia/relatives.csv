@@ -1,4 +1,6 @@
 catalog,id,name,relationship,relative,relativename
+Colombia,Q10395812,Álvaro Leyva,child,Q5935425,Jorge Leyva
+Colombia,Q10395812,Álvaro Leyva,father,Q17635442,Jorge Leyva Urdaneta
 Colombia,Q106907432,María Ximena Lombana Villalba,sibling,Q112665475,Jaime Lombana
 Colombia,Q152472,Ingrid Betancourt,child,Q3332875,Mélanie Delloye-Betancourt
 Colombia,Q152472,Ingrid Betancourt,father,Q620757,Gabriel Betancourt Mejía
@@ -20,6 +22,7 @@ Colombia,Q26255077,Luis Guillermo Vélez Cabrera,father,Q9025120,Luis Guillermo 
 Colombia,Q274594,Carolina Barco,father,Q540192,Virgilio Barco Vargas
 Colombia,Q274594,Carolina Barco,mother,Q5044844,Carolina Isakson Proctor
 Colombia,Q274594,Carolina Barco,sibling,Q7933849,Virgilio Barco Isakson
+Colombia,Q3076265,José Antonio Ocampo,father,Q27050954,Alfonso Ocampo Londoño
 Colombia,Q315975,Andrés Pastrana Arango,father,Q728833,Misael Pastrana Borrero
 Colombia,Q315975,Andrés Pastrana Arango,spouse,Q3342698,Nohra Puyana Bickenbach
 Colombia,Q326405,Horacio Serpa,child,Q57842191,Horacio José Serpa
