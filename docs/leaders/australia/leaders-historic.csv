@@ -8,7 +8,7 @@ Australia,Deputy Premier,Carmel Tebbutt,Q5043327,2008-09-05,2011-03-26,female,19
 Australia,Deputy Premier,John Barilaro,Q6220673,2016-11-15,2021-10-06,male,1971-11-14,,John Barilaro 2016.jpg,John Barilaro
 Australia,Minister for Aboriginal Affairs,Milton Orkopoulos,Q6861366,2005-08-10,2006-11-08,male,1957-07-22,,,Milton Orkopoulos
 Australia,Minister for the Arts,Don Harwin,Q5292756,2017-01-30,2019-04-02,male,1964-07-05,,,Don Harwin
-Australia,Minister for Counter Terrorism and Corrections,David Elliott,Q5233352,2017-01-30,2019-04-02,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
+Australia,Minister for Corrections,David Elliott,Q5233352,2015-04-02,2019-03-23,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
 Australia,Minister for Counter Terrorism and Corrections,Anthony Roberts,Q4773367,2019-04-02,,male,1970-04-17,,Anthony Roberts 2016.jpg,Anthony Roberts
 Australia,Minister for Energy,Don Harwin,Q5292756,2017-01-30,2019-04-02,male,1964-07-05,,,Don Harwin
 Australia,Minister for Energy,Matt Kean,Q6788883,2020-04-02,,male,1981-09-16,,Matt Kean - CEBIT Australia Day 1 Plenary.jpg,Matt Kean
@@ -24,19 +24,26 @@ Australia,Minister for Justice,Brad Hazzard,Q4953985,2014-04-23,2015-04-02,male,
 Australia,Minister for Mines,Don Harwin,Q5292756,2017-01-30,2019-04-02,male,1964-07-05,,,Don Harwin
 Australia,Minister for Planning,Brad Hazzard,Q4953985,2011-04-03,2014-04-23,male,1951-08-30,,"Bradley Hazzard, Lismore, December 2012 (crop).jpg",Brad Hazzard
 Australia,Minister for Police and Emergency Services,Stuart Ayres,Q7626294,2014-05-06,2015-04-02,male,1980-11-24,,Stuart Ayres 2015.jpg,Stuart Ayres
-Australia,Minister for Police and Emergency Services,David Elliott,Q5233352,2019-04-02,,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
+Australia,Minister for Police and Emergency Services,David Elliott,Q5233352,2015-04-02,2017-01-30,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
+Australia,Minister for Police and Emergency Services,David Elliott,Q5233352,2019-04-02,2021-12-21,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
 Australia,"Minister for the Public Service and Employee Relations, Aboriginal Affairs, and the Arts",Don Harwin,Q5292756,2019-04-02,2020-04-15,male,1964-07-05,,,Don Harwin
 Australia,"Minister for the Public Service and Employee Relations, Aboriginal Affairs, and the Arts",Don Harwin,Q5292756,2020-07-03,2021-12-21,male,1964-07-05,,,Don Harwin
 Australia,"Minister for Science, Innovation and Technology",Alister Henskens,Q19874260,2021-12-21,,male,1963-12-30,,,Alister Henskens
 Australia,Minister for Skills and Training,Alister Henskens,Q19874260,2021-12-21,,male,1963-12-30,,,Alister Henskens
 Australia,Minister for Sport and Recreation,Kevin Greene,Q6396393,2009-12-08,2011-03-28,male,1958-10-18,,,Kevin Greene (politician)
 Australia,Minister for Sport and Recreation,Stuart Ayres,Q7626294,2014-04-23,2022-08-03,male,1980-11-24,,Stuart Ayres 2015.jpg,Stuart Ayres
+Australia,Minister for Sport,Alister Henskens,Q19874260,2022-08-05,,male,1963-12-30,,,Alister Henskens
 Australia,Minister for Trade and Industry,Stuart Ayres,Q7626294,2021-12-21,2022-08-03,male,1980-11-24,,Stuart Ayres 2015.jpg,Stuart Ayres
+Australia,Minister for Trade and Industry,Alister Henskens,Q19874260,2022-08-05,,male,1963-12-30,,,Alister Henskens
 Australia,Minister for Transport,Gladys Berejiklian,Q5566385,2011-04-03,2015-04-02,female,1970-09-22,,Premier Gladys 2019.jpg,Gladys Berejiklian
 Australia,Minister for Transport,Andrew Constance,Q4756662,2015-04-02,2021-10-06,male,1973-10-31,,Minister introduces Sydney's first metro train (37069473950) (cropped).png,Andrew Constance
 Australia,Minister for Transport,Melinda Pavey,Q6812492,2017-01-30,2019-04-02,female,1969,,Melinda Pavey.jpg,Melinda Pavey
+Australia,Minister for Transport,David Elliott,Q5233352,2021-12-21,,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
+Australia,Minsiter for Veterans,David Elliott,Q5233352,2015-04-02,2019-03-23,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
+Australia,Minsiter for Veterans,David Elliott,Q5233352,2021-12-21,,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
 Australia,"Minister for Water, Property and Housing",Melinda Pavey,Q6812492,2019-04-02,2021-10-05,female,1969,,Melinda Pavey.jpg,Melinda Pavey
 Australia,Minister for Western Sydney,Stuart Ayres,Q7626294,2021-12-21,2022-08-03,male,1980-11-24,,Stuart Ayres 2015.jpg,Stuart Ayres
+Australia,Minister for Western Sydney,David Elliott,Q5233352,2022-08-05,,male,1970-06-11,,David Elliott MP 2015.png,David Elliott (politician)
 Australia,Special Minister of State,Don Harwin,Q5292756,2019-04-02,2020-04-15,male,1964-07-05,,,Don Harwin
 Australia,Special Minister of State,Don Harwin,Q5292756,2020-07-03,2021-12-21,male,1964-07-05,,,Don Harwin
 Australia,Vice-President of the Executive Council,Michael Egan,Q6830088,1995-04-03,2005-01-21,male,1948-02-21,,,Michael Egan (Australian politician)
@@ -1142,13 +1149,26 @@ Australia,ambassador to France,Ric Wells,Q17198879,2012,2014,male,1955-10-20,,Ri
 Australia,ambassador to France,Stephen Brady,Q7608762,2014-09-28,2017-10-16,male,1959-06-11,,Stephen Brady (official portrait April 2014).jpg,Stephen Brady
 Australia,ambassador to France,Brendan Berne,Q46351014,2017-07-21,2020-10-01,male,,,Brendan Berne (1).jpg,Brendan Berne
 Australia,ambassador to France,Gillian Bird,Q17303605,2020-11,,female,,,Gillian Bird.jpg,Gillian Bird
+Australia,ambassador to Germany,Paul O'Sullivan,Q2796190,1999,2003,male,1948-02-03,,Paul O'Sullivan (1).jpg,Paul O'Sullivan (diplomat)
+Australia,ambassador to Germany,Pamela J. Fayle,Q2048638,2003,2006,female,1954-10-21,,,Pamela J. Fayle
+Australia,ambassador to Germany,Ian Kemish,Q76671473,2006,2009,male,1961,,,Ian Kemish
+Australia,ambassador to Germany,Peter Tesch,Q11815919,2009,2013,male,1965-12-06,,,
+Australia,ambassador to Germany,David Ritchie,Q18609072,2013,2016,male,,,David Ritchie (4).jpg,David Ritchie (diplomat)
+Australia,ambassador to Germany,Lynette Wood,Q101658070,2016,2020,female,,,Ambassador Lynette Wood 02.jpg,Lynette Wood
 Australia,ambassador to the Holy See,Bob Halverson,Q4932666,1999,2003,male,1937-10-22,2016-02-09,,Bob Halverson
 Australia,ambassador to the Holy See,John McCarthy,Q6247457,2012-11,2016,male,1947-10-20,,"John McCarthy, QC.jpg",John A. McCarthy
+Australia,ambassador to Indonesia,David Ritchie,Q18609072,2003,2005,male,,,David Ritchie (4).jpg,David Ritchie (diplomat)
 Australia,ambassador to Ireland,Bob Halverson,Q4932666,1999,2003,male,1937-10-22,2016-02-09,,Bob Halverson
 Australia,Ambassador to Italy,David Ritchie,Q18609072,2010,2013,male,,,David Ritchie (4).jpg,David Ritchie (diplomat)
 Australia,Ambassador to Italy,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
 Australia,Ambassador to Libya,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
 Australia,ambassador to San Marino,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
+Australia,ambassador to Switzerland,Paul O'Sullivan,Q2796190,1999,2003,male,1948-02-03,,Paul O'Sullivan (1).jpg,Paul O'Sullivan (diplomat)
+Australia,ambassador to Switzerland,Pamela J. Fayle,Q2048638,2003,2006,female,1954-10-21,,,Pamela J. Fayle
+Australia,ambassador to Switzerland,Ian Kemish,Q76671473,2006,2009,male,1961,,,Ian Kemish
+Australia,ambassador to Switzerland,Peter Tesch,Q11815919,2009,2013,male,1965-12-06,,,
+Australia,ambassador to Switzerland,David Ritchie,Q18609072,2013,2016,male,,,David Ritchie (4).jpg,David Ritchie (diplomat)
+Australia,ambassador to Switzerland,Lynette Wood,Q101658070,2016,2020,female,,,Ambassador Lynette Wood 02.jpg,Lynette Wood
 Australia,ambassador to the United Kingdom,Mike Rann,Q3108729,2013-02-01,2014-06-27,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
 Australia,ambassador to the United Kingdom,Alexander Downer,Q1239291,2014-06-27,2018-03-20,male,1951-09-09,,Alexander Downer (1).jpg,Alexander Downer
 Australia,ambassador to the United States of America,Michael Thawley,Q16963813,2000-02-02,2005-06,male,1950-04-16,,Amb Michael Thawley.jpg,Michael Thawley

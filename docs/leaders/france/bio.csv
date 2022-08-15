@@ -113,9 +113,9 @@ Q112635139,Alexandre Portier,male,1990-04-21,11,,,,
 Q112635145,Damien Maudet,male,1996-11-14,11,,,,Damien Maudet
 Q112635154,Florian Chauche,male,1984-01-22,11,,,,
 Q112635222,Sébastien Rome,male,1978-10-12,11,,,,
-Q112635593,Marianne Maximi,female,1985-11-13,11,,,Marianne Maximi.jpg,Marianne Maximi
+Q112635593,Marianne Maximi,female,1985-11-13,11,,,,Marianne Maximi
 Q112635717,Delphine Lingemann,female,1972-11-14,11,,,,
-Q112636212,Hendrik Davi,male,1977-12-21,11,,,,
+Q112636212,Hendrik Davi,male,1977-12-21,11,,,Imagehendrik.png,
 Q112636598,Jordan Guitton,male,1995-01-30,11,,,,Jordan Guitton
 Q112636857,Matthieu Marchio,male,1993-06-08,11,,,,Matthieu Marchio
 Q112637266,Anne Stambach-Terrenoir,female,1980-06-23,11,,,Anne Stambach-Terrenoir.jpg,Anne Stambach-Terrenoir
@@ -195,7 +195,7 @@ Q112651358,Alexandre Loubet,male,1994-07-07,11,,,,Alexandre Loubet
 Q112651418,Charlotte Leduc,female,1980-06-18,11,,,,
 Q112651457,David Guiraud,male,1992-11-18,11,,,,
 Q112651467,Violette Spillebout,female,1972-09-02,11,,,,
-Q112651481,Christine Decodts,female,1966-05-19,11,,,,
+Q112651481,Christine Decodts,female,1966-05-19,11,,,,Christine Decodts
 Q112651488,Pierrick Berteloot,male,1999-01-11,11,,,,Pierrick Berteloot
 Q112651523,Thibaut François,male,1989-12-10,11,,,,Thibaut François
 Q112651528,Félicie Gérard,female,1974-01-28,11,,,,
@@ -342,7 +342,7 @@ Q1558943,Gérard Araud,male,1953-02-20,11,,,Gérard Araud 2011 (cropped).jpg,Gé
 Q156511,Pierre Mauroy,male,1928-07-05,11,2013-06-07,11,Pierre Mauroy 1990.jpg,Pierre Mauroy
 Q15696910,Virginie Rozière,female,1976-06-18,11,,,"2018-07-04 Virginie Roziere, MEP-0447.jpg",Virginie Rozière
 Q157,François Hollande,male,1954-08-12,11,,,Francois Hollande 2015.jpeg,François Hollande
-Q1590383,Étienne Blanc,male,1954-08-29,11,,,Etienneblanc.jpg,Étienne Blanc
+Q1590383,Étienne Blanc,male,1954-08-29,11,,,,Étienne Blanc
 Q15924670,Jean-Pierre Lacroix,male,1960-05-02,11,,,Jean-Pierre Lacroix - 2018 (cropped).jpg,Jean-Pierre Lacroix (diplomat)
 Q15973778,Françoise Boog,female,1960-08-02,11,,,2013-0989-005-SB.jpg,
 Q15989111,Stéphane Ravier,male,1969-08-04,11,,,"Stéphane Ravier, mars 2022 (52104088648).jpg",Stéphane Ravier
@@ -1001,6 +1001,7 @@ Q2978175,Claude Sturni,male,1962-08-25,11,,,,
 Q2978334,Claude de Ganay,male,1953-09-05,11,,,Portrait de Claude de Ganay.jpg,Claude de Ganay
 Q2978384,Claude Évin,male,1949-06-29,11,,,ClaudeEvin.jpg,Claude Évin
 Q2978491,Claudine Ledoux,female,1959-01-10,11,,,Ledoux.jpg,
+Q2978494,Claudine Lepage,female,1949-08-10,11,,,Claudine Lepage.jpg,Claudine Lepage
 Q29791418,Éric Bothorel,male,1966-10-20,11,,,Éric Bothorel.jpg,Éric Bothorel
 Q2980738,Clémentine Autain,female,1973-05-26,11,,,Clementine-Autain.jpg,Clémentine Autain
 Q2982476,Colette Capdevielle,female,1958-10-14,11,,,Colette Capdevielle.png,Colette Capdevielle
@@ -1625,6 +1626,7 @@ Q31192331,François Sénémaud,male,1957-06-12,11,,,,
 Q31192334,Jean-Marie Bruno,male,1958-01-15,11,,,,
 Q31192345,Frédéric Desagneaux,male,1957-07-04,11,,,,
 Q31192373,Jean-Pierre Thébault,male,1961-10-21,11,,,Jean-Pierre Thébault.jpg,
+Q31192374,Pascal Teixeira da Silva,male,1957-10-02,11,,,,
 Q31192493,Emmanuel Bonne,male,1970-08-13,11,,,,Emmanuel Bonne
 Q3119647,Guillaume Bachelay,male,1974-07-13,11,,,Guillaume Bachelay.jpg,
 Q3119753,Guillaume Chevrollier,male,1974-10-27,11,,,Guillaume Chevrollier.JPG,
@@ -4440,6 +4442,7 @@ Q63763665,Laurence Robert-Dehault,female,1964-01-17,11,,,,Laurence Robert-Dehaul
 Q63763869,Lionel Royer-Perreaut,male,1972-11-13,11,,,Lionel Royer-Perreaut.jpg,
 Q63763983,Robert Therry,male,1947-06-27,11,,,,Robert Therry
 Q63763998,Jean-Marc Tellier,male,1969-08-23,11,,,,
+Q63764019,Patrick Boré,male,1956-11-09,11,2021-07-05,11,,Patrick Boré
 Q63764288,Stéphane Delautrette,male,1972-09-20,11,,,,
 Q63764303,Marie-Claude Varaillas,female,1950-12-18,11,,,Marie-Claude Varaillas.jpg,
 Q63764370,Philippe Fait,male,1969-06-24,11,,,,

@@ -2549,6 +2549,8 @@ Congo-Kinshasa,Q107368856,Gael Bussa,father,Q56515694,Jean-Lucien Bussa
 Congo-Kinshasa,Q107368856,Gael Bussa,mother,Q107369212,Petronelle Mambetuku Kimpioka
 Congo-Kinshasa,Q107368856,Gael Bussa,spouse,Q107369189,Alicia Salawa
 Congo-Kinshasa,Q112119627,Jean-Marc Kabund,child,Q113497068,Felly K
+Congo-Kinshasa,Q112119627,Jean-Marc Kabund,father,Q113509979,Cadet Mutamba
+Congo-Kinshasa,Q112119627,Jean-Marc Kabund,spouse,Q113509968,Christine Kasongo Kabund
 Congo-Kinshasa,Q112258069,Sifa Mahanya,spouse,Q135547,Laurent-Désiré Kabila
 Congo-Kinshasa,Q113457489,Celestin Musao,child,Q113457463,Arnold Musao Kalombo
 Congo-Kinshasa,Q113457489,Celestin Musao,spouse,Q113457490,Mamie Lenge
@@ -2692,6 +2694,7 @@ Czechia,Q11775134,Tomáš Czernin,sibling,Q15730985,Děpold Czernin
 Czechia,Q11797891,Olga Sehnalová,mother,Q12042541,Olga Sehnalová
 Czechia,Q11874943,Edvard Outrata,father,Q13420137,Eduard Outrata
 Czechia,Q11878277,Eliška Wagnerová,spouse,Q111699046,Arnošt Wagner
+Czechia,Q11880159,Veronika Vrecionová,partner,Q939484,Alexandr Vondra
 Czechia,Q11926764,Vojtěch Vymětal,sibling,Q12028597,Karel Vymětal
 Czechia,Q11938544,Vratislav Mynář,spouse,Q101197564,Alexandra Mynářová
 Czechia,Q11985196,Eva Syková,spouse,Q12026646,Josef Syka
@@ -3565,6 +3568,7 @@ European Union,Q11869065,Kaja Kallas,mother,Q26695945,Kristi Kallas
 European Union,Q11869065,Kaja Kallas,spouse,Q441874,Taavi Veskimägi
 European Union,Q11869065,Kaja Kallas,spouse,Q61727586,Arvo Hallik
 European Union,Q11869065,Kaja Kallas,spouse,Q65258461,Roomet Leiger
+European Union,Q11880159,Veronika Vrecionová,partner,Q939484,Alexandr Vondra
 European Union,Q11917597,Dolors Montserrat i Montserrat,mother,Q11917599,Dolors Montserrat i Culleré
 European Union,Q12025429,Jiří Payne,sibling,Q21485177,Petr Pazdera Payne
 European Union,Q12036669,Michaela Šojdrová,mother,Q11985171,Eva Nováková
@@ -7570,6 +7574,7 @@ Iran,Q24682,Sadeq Larijani,sibling,Q4841852,Bagher Larijani
 Iran,Q24682,Sadeq Larijani,sibling,Q48763,Mohammad-Javad Larijani
 Iran,Q24682,Sadeq Larijani,stepparent,Q2344792,Hossein Vahid Khorasani
 Iran,Q2655534,Mohammad-Reza Aref,child,Q101209833,Hamid Reza Aref
+Iran,Q283201,Ali Akbar Salehi,relative,Q110834149,Abd al-Hussein al-Salihi
 Iran,Q315011,Mehdi Karroubi,spouse,Q542378,Fatemeh Karroubi
 Iran,Q336363,Ali Larijani,father,Q5678915,Hashem Amoli
 Iran,Q336363,Ali Larijani,sibling,Q24682,Sadeq Larijani
@@ -8442,6 +8447,7 @@ Japan,Q2025444,Hayao Kawai,child,Q11553728,Mikio Kawai
 Japan,Q2025444,Hayao Kawai,sibling,Q6148568,Masao Kawai
 Japan,Q212373,Naoki Tanaka,spouse,Q465217,Makiko Tanaka
 Japan,Q212373,Naoki Tanaka,stepparent,Q297644,Kakuei Tanaka
+Japan,Q21655766,Hashiguchi Kenzō,sibling,Q590021,Kabayama Sukenori
 Japan,Q21655823,Takuma Miyaji,father,Q6381394,Kazuaki Miyaji
 Japan,Q217096,Naruhito,child,Q743509,"Aiko, Princess Toshi"
 Japan,Q217096,Naruhito,father,Q37979,Akihito
@@ -9017,6 +9023,8 @@ Malaysia,Q106554659,Annuar Ayub,relative,Q54614138,Yamani Hafez Musa
 Malaysia,Q106554659,Annuar Ayub,relative,Q551611,Musa Aman
 Malaysia,Q106554732,Lim Hui Ying,father,Q717696,Lim Kit Siang
 Malaysia,Q106554732,Lim Hui Ying,sibling,Q707164,Lim Guan Eng
+Malaysia,Q110119185,Abdul Fatah Haron,relative,Q20457753,Nik Mohamad Abduh Nik Abdul Aziz
+Malaysia,Q110119185,Abdul Fatah Haron,relative,Q4115067,Nik Abdul Aziz Nik Mat
 Malaysia,Q111026260,Wan Abdul Hakim Wan Mokhtar,father,Q12712417,Wan Mokhtar Ahmad
 Malaysia,Q12857568,Ahmad Yaakob,spouse,Q111270224,Siti Zabidah Abdul Hamid
 Malaysia,Q1449940,Khairy Jamaluddin,relative,Q272588,Abdullah Ahmad Badawi
@@ -9264,6 +9272,7 @@ Mexico,Q5860132,Fernando Reina Iglesias,spouse,Q3544491,Galilea Francisca Montij
 Mexico,Q58660742,Ernesto Nemer Álvarez,spouse,Q20801621,Carolina Monroy del Mazo
 Mexico,Q5873772,Gabriela Ruiz del Rincón,relative,Q2267931,Manuel Clouthier
 Mexico,Q5915371,Indira Vizcaíno Silva,father,Q5704984,Arnoldo Vizcaíno
+Mexico,Q5934884,Jorge Doroteo Zapata,child,Q18638076,Georgina Zapata Lucero
 Mexico,Q5937371,José Agustín Ortiz Pinchetti,spouse,Q16186821,Loretta Ortíz Ahlf
 Mexico,Q5944045,Manuel Clouthier Carrillo,father,Q2267931,Manuel Clouthier
 Mexico,Q5944045,Manuel Clouthier Carrillo,sibling,Q6139216,Tatiana Clouthier Carrillo
@@ -9824,6 +9833,7 @@ Nigeria,Q30673985,Ned Nwoko,spouse,Q26216128,Regina Daniels
 Nigeria,Q32946601,Ademola Adeleke,father,Q55808166,Raji Ayoola Adeleke
 Nigeria,Q3510695,Diezani Alison-Madueke,spouse,Q4732798,Allison Madueke
 Nigeria,Q3510785,Nenadi Usman,spouse,Q111077585,Sa’ad Usman
+Nigeria,Q3510872,Bola Ahmed Tinubu,mother,Q19559895,Abibatu Mogaji
 Nigeria,Q3510872,Bola Ahmed Tinubu,spouse,Q7088857,Oluremi Tinubu
 Nigeria,Q361567,Muhammadu Buhari,child,Q107037830,Zahra Buhari
 Nigeria,Q361567,Muhammadu Buhari,child,Q107037859,Fatima Buhari
@@ -11974,6 +11984,7 @@ Saudi Arabia,Q57298,Abdullah of Saudi Arabia,child,Q4682218,Turki bin Abdullah A
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,child,Q5431088,Faisal bin Abdullah
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,child,Q6943650,Mutaib bin Abdullah
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,child,Q76345580,Prince Turki bin Abdullah al-Saud
+Saudi Arabia,Q57298,Abdullah of Saudi Arabia,child,Q99205504,Abeer bint Abdullah
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,father,Q151509,Ibn Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,mother,Q1392056,Fahda bint Asi Al Shuraim
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q12203730,Thamir bin Abdulaziz Al Saud
@@ -12019,6 +12030,9 @@ Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q7395569,Saad bin Abdulaziz
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q7445959,Seeta bint Abdulaziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q981846,Muqrin bin Abdul-Aziz Al Saud
+Saudi Arabia,Q57298,Abdullah of Saudi Arabia,spouse,Q100579253,Hessa bint Trad Al Shaalan
+Saudi Arabia,Q57298,Abdullah of Saudi Arabia,spouse,Q102205480,Aida Fustuq
+Saudi Arabia,Q57298,Abdullah of Saudi Arabia,spouse,Q54967144,Alanoud Al-Fayez
 Saudi Arabia,Q58156,Saud bin Faisal bin Abdulaziz Al Saud,father,Q217167,King Faisal bin Abdulaziz Al Saud
 Saudi Arabia,Q58156,Saud bin Faisal bin Abdulaziz Al Saud,mother,Q4120092,Iffat Al-Thunayan
 Saudi Arabia,Q58156,Saud bin Faisal bin Abdulaziz Al Saud,sibling,Q2795275,Haifa bint Faisal
@@ -14515,8 +14529,8 @@ United Kingdom,Q1351767,"James Borwick, 5th Baron Borwick",child,Q75445589,Alexa
 United Kingdom,Q1351767,"James Borwick, 5th Baron Borwick",father,Q75445575,Robin Sandbach Borwick
 United Kingdom,Q1351767,"James Borwick, 5th Baron Borwick",mother,Q75445576,Patricia Garnett McAlpine
 United Kingdom,Q1351767,"James Borwick, 5th Baron Borwick",spouse,Q7926595,Victoria Borwick
+United Kingdom,Q13522457,"John Butterfield, Baron Butterfield",child,Q6181183,Jeremy Butterfield
 United Kingdom,Q13522457,"John Butterfield, Baron Butterfield",child,Q75529571,Jonathan West Sanders Butterfield
-United Kingdom,Q13522457,"John Butterfield, Baron Butterfield",child,Q75599510,
 United Kingdom,Q13522457,"John Butterfield, Baron Butterfield",child,Q75599513,Toby Michael John Butterfield
 United Kingdom,Q13522457,"John Butterfield, Baron Butterfield",child,Q75599514,Sarah Harriet Ann Butterfield
 United Kingdom,Q13522457,"John Butterfield, Baron Butterfield",father,Q75599522,William Hughes Butterfield
@@ -20563,7 +20577,7 @@ United States,Q6846591,Mike Donilon,father,Q106150010,Edward T. Donilon
 United States,Q6846591,Mike Donilon,sibling,Q618727,Thomas E. Donilon
 United States,Q69319,John Kasich,father,Q20177175,John Kasich
 United States,Q69319,John Kasich,mother,Q22952512,Anne Kasich
-United States,Q69319,John Kasich,spouse,Q20176678,Karen Kasich
+United States,Q69319,John Kasich,spouse,Q20176678,Karen Waldbillig Kasich
 United States,Q69319,John Kasich,spouse,Q20185706,Mary Lee Griffith
 United States,Q6962863,Nancy Munoz,spouse,Q5387150,Eric Munoz
 United States,Q6968251,Natalie Tennant,spouse,Q5388905,Erik Wells

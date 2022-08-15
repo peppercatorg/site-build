@@ -1,5 +1,4 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
-Q101091655,Ευάγγελος Καρακώστας,male,1981-09-14,11,,,,
 Q104144349,Βασίλης Διγαλάκης,male,1963-02-02,11,,,Βασίλης Διγαλάκης new.jpg,
 Q104721797,Eva Mela,female,1956,9,,,,
 Q104883085,Δώρα Αυγέρη,female,1973-02-21,11,,,,
@@ -41,7 +40,7 @@ Q12878360,Ioannis Korantis,male,1948-07-17,11,,,,
 Q12879630,Konstantinos Guioulekas,male,1960-12-21,11,,,Kostas Gioulekas.JPG,
 Q12879717,Konstantinos Tsoukalas,male,1937-08-05,11,,,Konstantinos Tsoukalas.jpg,
 Q12879954,Kostas Tzavaras,male,1955-08-15,11,,,Kostas Tzavaras.png,
-Q12880163,Eleftherios Avgenakis,male,1972-07,10,,,Avgenakis.jpg,
+Q12880163,Eleftherios Avgenakis,male,1972-07-18,11,,,Avgenakis.jpg,
 Q12880309,Lydia Koniordou,female,1953-10-16,11,,,2017-06-07 Documenta 14 Lydia Koniordou by Olaf Kosinsky-12.jpg,
 Q12880714,María Kóllia-Tsarouchá,female,1958-02-21,11,,,MariaKolia.jpg,Maria Kollia-Tsaroucha
 Q12881047,Miltiades Varvitsiotis,male,1969-06-21,11,,,Βαρβιτσιώτης ΝΕΡΙΤ (cropped).jpg,
@@ -62,6 +61,7 @@ Q13260393,Antonis Manitakis,male,1944-05-23,11,,,Antonis Manitakis.png,Antonis M
 Q1348030,Ilias Kasidiaris,male,1980-11-29,11,,,Ilias Kasidiaris a Mar 21016 (cropped).jpg,Ilias Kasidiaris
 Q1348054,Kostis Chatzidakis,male,1965-04-20,11,,,Kostis Hatzidakis.png,Kostis Hatzidakis
 Q13585278,Yannis Theonas,male,1940-10-29,11,2021-09-12,11,,Giannis Theonas
+Q1447979,Gikas Hardouvelis,male,1955-10-08,11,,,Hardouvelis NERIT.jpg,Gikas Hardouvelis
 Q1467594,Panos Kammenos,male,1965-05-12,11,,,Discours de Panos Kammenos (cropped).jpg,Panos Kammenos
 Q14928588,Kostas Bakoyannis,male,1978-03-16,11,,,Οι κ.κ. Κωστής Χατζηδάκης και Κώστας Μπακογιάννης έκαναν τα εγκαίνια του Eco Fest 2020 - YouTube - 18-01-20.png,Kostas Bakoyannis
 Q14943087,Alexandros Méïkopoulos,male,1984-05-14,11,,,Βήμα Βουλής.jpg,
@@ -217,7 +217,7 @@ Q20995432,Evangelía Karakósta,female,1952-04-19,11,,,,
 Q20995433,Anna Karamanli,female,1968-05-10,11,,,Anna Karamanli.jpg,Anna Karamanli
 Q20995434,Kostas Karamanlis,male,1974-12-12,11,,,,"Kostas Karamanlis (politician, born 1974)"
 Q20995435,Apóstolos Karanastásis,male,1958-01-24,11,,,,
-Q20995438,Iríni Kassimáti,female,1978,9,,,,
+Q20995438,Nina Kasimati,female,1978,9,,,,
 Q20995439,Charíssios Kátanas,male,1980-07-05,11,,,,
 Q20995440,Konstantinos Katsafados,male,1979-01-01,11,,,,
 Q20995441,Andreas Katsaniotis,male,1969-11-28,11,,,Andreas Katsaniotis.jpg,Andreas Katsaniotis
@@ -234,7 +234,7 @@ Q20995455,Ilías Kostopanayótou,male,1944,9,,,,
 Q20995458,Panagiota Kozompoli-Amanatidi,female,1985-09-16,11,,,,
 Q20995459,Dimítris Kyriazídis,male,1955,9,,,,
 Q20995460,Aglaia Kyritsi,female,,,,,Aglaia Kyritsi Sept 2015 (cropped).jpg,
-Q20995462,Spiridon Lappas,male,,,,,,
+Q20995462,Spiridon Lappas,male,1951-04-08,11,,,,
 Q20995465,Vassilikí Léva,female,,,,,,
 Q20995470,Chrístos Mandás,male,1957-12-30,11,,,,
 Q20995471,Nikos Maniós,male,1947-04-17,11,,,,
@@ -382,6 +382,7 @@ Q44056040,Nikos Igoumenidis,male,1961-01-05,11,,,,
 Q44056072,Giannis Theofylaktos,male,1974,9,,,,
 Q44056095,Giorgos Tsonkas,male,1956-01-29,11,,,,
 Q44056261,Georgios Pallis,male,1979,9,,,,
+Q44056283,Michalis Tzelepis,male,1961,9,,,,
 Q44056288,Giorgos Lazaridis,male,,,,,,
 Q44056328,Kostas Kontogiorgos,male,1960-01-02,11,,,,
 Q44056382,Nikos Thivaios,male,1958,9,,,,
@@ -427,7 +428,6 @@ Q4791088,Aristotelis Pavlidis,male,1943-10-31,11,,,,Aristotelis Pavlidis
 Q4813213,Thanasis Bouras,male,1947-01-01,11,,,Αντώνης Σαμαράς - Συνεδρίαση Κοινοβουλευτικής Ομάδας 24-07-2012 7732412732.jpg,Athanasios Bouras
 Q4831233,Aichan Kara Giousouf,male,1963-08-12,11,,,,Aichan Kara Giousouf
 Q499341,Andreas Loverdos,male,1956-05-15,11,,,Andreas Loverdos.png,Andreas Loverdos
-Q50548167,Michail Tzelepis,male,,,,,,
 Q5175041,Kostas Douzinas,male,1951,9,,,,Costas Douzinas
 Q51905807,Θάλεια Δραγώνα,female,1952,9,,,,
 Q526202,Tasos Giannitsis,male,1944,9,,,,Tasos Giannitsis
@@ -461,7 +461,6 @@ Q6062034,Ioannis Giagkos,male,1951,9,,,"SACEUR Admiral James Stavridis with Chie
 Q6062066,Yannis Kefalogiannis,male,1933-12-06,11,2012-01-20,11,,Ioannis Kefalogiannis
 Q60630086,Konstantinos Floros,male,1961-06-24,11,,,Konstantinos Floros.jpg,Konstantinos Floros
 Q61885718,Γιάννης Λοβέρδος,male,1959-04-10,11,,,,
-Q62121694,Themis Moumoulidis,male,,,,,,
 Q6251832,Yannis Panaretos,male,1948-02-23,11,,,Giannis Panaretos.jpg,John Panaretos
 Q63034210,Christos Christodoulou,male,1958-03-14,11,,,"Christos Christodoulou visit to Israel, October 2019. IV (cropped).jpg",
 Q63389127,Kyriaki Malama,female,1961-11-02,11,,,,
@@ -484,7 +483,6 @@ Q65273421,Panagiotis (Takis) Theodorikakos,male,1964-12-27,11,,,,
 Q65273468,Χαράλαμπος Μαμουλάκης,male,1976-05-19,11,,,Harris mamoulakis.jpg,
 Q65273477,Christos Tarantilis,male,,,,,Christos tarantilis.jpg,
 Q65498169,Ioannis Bougas,male,1964-10-21,11,,,,
-Q65499546,Nina Kasimati,female,1978,9,,,,
 Q65922077,Γιάννης Μπουρνούς,male,1980,9,,,,
 Q65924249,Γεράσιμος Θωμάς,male,,,,,,
 Q65936156,Liakos Evangelos,male,1989-02-11,11,,,Λιάκος Ευάγγελος.jpg,
