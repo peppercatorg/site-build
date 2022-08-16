@@ -3165,6 +3165,7 @@ Denmark,Q92348929,Birger Riis-Jørgensen,spouse,Q447647,Karin Riis-Jørgensen
 Djibouti,Q10522744,Abdoulkader Kamil Mohamed,sibling,Q3318625,Mohamed Kamil Mohamed
 Djibouti,Q57390,Ismail Omar Guelleh,spouse,Q42723319,Kadra Mahamoud Haid
 Donetsk,Q16729474,Ekaterina Gubareva,spouse,Q15902969,Pavel Gubarev
+Donetsk,Q16902077,Alexander Boroday,father,Q4094487,Youri Borodaï
 Donetsk,Q62714861,Natalya Volkova,father,Q4096696,Mark Brovun
 Ecuador,Q106466352,Alfredo Borrero Vega,child,Q111270262,Juan David Borrero
 Ecuador,Q106466352,Alfredo Borrero Vega,spouse,Q60042896,Lucía Pazmiño Castro
@@ -3659,6 +3660,8 @@ European Union,Q1392390,Jarosław Wałęsa,mother,Q468844,Danuta Wałęsa
 European Union,Q1392860,Raimon Obiols i Germà,father,Q5977532,Josep Obiols i Palau
 European Union,Q1392860,Raimon Obiols i Germà,relative,Q33035647,Clara Ponsatí i Obiols
 European Union,Q1394911,Clemente Mastella,spouse,Q3948159,Sandra Lonardo
+European Union,Q13989269,Pablo Iglesias Turrión,partner,Q108147923,Lilith Verstrynge
+European Union,Q13989269,Pablo Iglesias Turrión,partner,Q21706297,Irene Montero
 European Union,Q1399049,Ignasi Guardans,father,Q11944599,Ramon Guardans i Vallès
 European Union,Q1399049,Ignasi Guardans,mother,Q11925350,Helena Cambó i Mallol
 European Union,Q1399049,Ignasi Guardans,relative,Q379354,Francesc Cambó
@@ -3680,6 +3683,12 @@ European Union,Q14924803,Beatrix von Storch,relative,Q64976,"Nikolaus, Hereditar
 European Union,Q14924803,Beatrix von Storch,spouse,Q23639476,Sven von Storch
 European Union,Q15056,Jean-Luc Dehaene,child,Q2289183,Tom Dehaene
 European Union,Q1509254,"Georgi Pirinski, Jr.",father,Q3407706,Georgi Pirinski Sr.
+European Union,Q154550,Bertie Ahern,child,Q11971868,Georgina Byrne
+European Union,Q154550,Bertie Ahern,child,Q229403,Cecelia Ahern
+European Union,Q154550,Bertie Ahern,partner,Q5058005,Celia Larkin
+European Union,Q154550,Bertie Ahern,sibling,Q1410728,Noel Ahern
+European Union,Q154550,Bertie Ahern,sibling,Q1911246,Maurice Ahern
+European Union,Q154550,Bertie Ahern,spouse,Q112946912,Miriam Ahern
 European Union,Q156469,Siim Kallas,child,Q11869065,Kaja Kallas
 European Union,Q156469,Siim Kallas,father,Q50376314,Udo Kallas
 European Union,Q156469,Siim Kallas,mother,Q50376315,Rita Kallas
@@ -5988,6 +5997,8 @@ Greenland,Q4559599,Josef Motzfeldt,child,Q3321312,Nukâka Coster-Waldau
 Greenland,Q45759985,Ole Lynge,father,Q51835359,Hans Lynge
 Greenland,Q45759985,Ole Lynge,sibling,Q4570569,Aqqaluk Lynge
 Greenland,Q468034,Lars-Emil Johansen,mother,Q11242423,Elisabeth Johansen
+Greenland,Q80448483,Anna Wangenheim,relative,Q15944263,Vittus Qujaukitsoq
+Greenland,Q80448483,Anna Wangenheim,relative,Q80558560,Benedikte Thorsteinsson
 Guatemala,Q17995110,Jimmy Morales,spouse,Q21400269,Patricia Marroquín
 Guatemala,Q182441,Alfonso Portillo,spouse,Q47825878,Evelyn Morataya
 Guatemala,Q182441,Alfonso Portillo,spouse,Q6003776,María Eugenia González
@@ -10825,7 +10836,7 @@ Philippines,Q2208719,Imee Marcos,mother,Q285536,Imelda Marcos
 Philippines,Q2208719,Imee Marcos,sibling,Q6069124,Irene Marcos-Araneta
 Philippines,Q2208719,Imee Marcos,sibling,Q983324,Bongbong Marcos
 Philippines,Q2208719,Imee Marcos,spouse,Q7819657,Tommy Manotoc
-Philippines,Q2330049,Michael Marcos Keon,father,Q16017450,Michael Keon
+Philippines,Q2330049,Michael Marcos Keon,father,Q16017450,Michael James Keon
 Philippines,Q2330049,Michael Marcos Keon,mother,Q104026493,Elizabeth Marcos
 Philippines,Q23874834,Susan A. Yap-Sulit,father,Q1704132,Jose V. Yap
 Philippines,Q2399446,Chavit Singson,child,Q65932997,Ryan Luis Singson
@@ -12075,6 +12086,11 @@ Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q56759639,Bandar bin Salman bi
 Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q7855210,Turki bin Salman Al Saud
 Saudi Arabia,Q6892571,Mohammad bin Salman,spouse,Q57908430,Sara bint Mashhur bin Abdulaziz Al Saud
 Saudi Arabia,Q6893468,Mohammed bin Nawwaf bin Abdulaziz,father,Q6982977,Nawwaf bin Abdulaziz Al Saud
+Saudi Arabia,Q7306919,Reema Bint Bandar Al Saud,father,Q556137,Bandar bin Sultan
+Saudi Arabia,Q7306919,Reema Bint Bandar Al Saud,mother,Q2795275,Haifa bint Faisal
+Saudi Arabia,Q7306919,Reema Bint Bandar Al Saud,sibling,Q104520507,Faisal bin Bandar bin Sultan Al Saud
+Saudi Arabia,Q7306919,Reema Bint Bandar Al Saud,sibling,Q616695,Khalid bin Bandar bin Sultan Al Saud
+Saudi Arabia,Q7306919,Reema Bint Bandar Al Saud,spouse,Q5431095,Faisal bin Turki bin Nasser
 Saudi Arabia,Q7427055,Saud bin Nayef Al Saud,father,Q317832,Nayef bin Abdul-Aziz Al Saud
 Saudi Arabia,Q7427055,Saud bin Nayef Al Saud,sibling,Q455341,Muhammad bin Nayef
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,child,Q20675805,Abdulaziz Bin Turki Bin Talal Al-Saud
@@ -16271,7 +16287,7 @@ United Kingdom,Q24082,Patrick Jenkin,child,Q75997824,Charles Alexander Graham Je
 United Kingdom,Q24082,Patrick Jenkin,child,Q75997827,Nicola Mary Jenkin
 United Kingdom,Q24082,Patrick Jenkin,child,Q75997829,Flora Margaret Jenkin
 United Kingdom,Q24082,Patrick Jenkin,father,Q76039793,Charles Oswald Frewen Jenkin
-United Kingdom,Q24082,Patrick Jenkin,spouse,Q75997821,Alison Monica Graham
+United Kingdom,Q24082,Patrick Jenkin,spouse,Q75997821,Monica Graham
 United Kingdom,Q24165,Helene Hayman,child,Q76091318,Ben Hayman
 United Kingdom,Q24165,Helene Hayman,child,Q76091321,Joseph Hayman
 United Kingdom,Q24165,Helene Hayman,child,Q76091322,Jacob Hayman
@@ -19218,7 +19234,7 @@ United Kingdom,Q723200,"Janet Neel Cohen, Baroness Cohen of Pimlico",spouse,Q756
 United Kingdom,Q727852,Bernard Jenkin,child,Q76039785,Robert Patrick Christison Jenkin
 United Kingdom,Q727852,Bernard Jenkin,child,Q76039786,Peter Andrew Graham Jenkin
 United Kingdom,Q727852,Bernard Jenkin,father,Q24082,Patrick Jenkin
-United Kingdom,Q727852,Bernard Jenkin,mother,Q75997821,Alison Monica Graham
+United Kingdom,Q727852,Bernard Jenkin,mother,Q75997821,Monica Graham
 United Kingdom,Q727852,Bernard Jenkin,spouse,Q565454,"Anne Jenkin, Baroness Jenkin of Kennington"
 United Kingdom,Q728063,Jo Johnson,child,Q76021766,William Johnson
 United Kingdom,Q728063,Jo Johnson,child,Q76125,Horst Fuchs
@@ -20232,6 +20248,7 @@ United States,Q27996060,Stephen Miller,spouse,Q78337779,Katie Miller
 United States,Q28018207,David Friedman,spouse,Q99548616,Tammy Deborah Sand
 United States,Q28317003,Patrick Neville,father,Q7804041,Tim Neville
 United States,Q2832449,Alejandro García Padilla,spouse,Q8022673,Wilma Pastrana
+United States,Q28451004,Lewis Lukens,father,Q23133062,Alan Wood Lukens
 United States,Q285102,Jay Rockefeller,child,Q6318065,Justin Rockefeller
 United States,Q285102,Jay Rockefeller,father,Q1699735,John D. Rockefeller III
 United States,Q285102,Jay Rockefeller,mother,Q4924916,Blanchette Ferry Rockefeller
