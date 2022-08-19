@@ -8,6 +8,8 @@ Mexico,Q108570379,María Teresa Gómez-Mont Urueta,sibling,Q3069480,Fernando Gó
 Mexico,Q109012187,Lía Limón García,father,Q6014595,Miguel Limón Rojas
 Mexico,Q111146264,Mariana Nassar Piñeyro,mother,Q18352154,Irma Piñeyro Arias
 Mexico,Q111516895,Carlos Miguel Aysa Damas,father,Q64597075,Carlos Miguel Aysa González
+Mexico,Q111516918,Eduardo Murat Hinojosa,father,Q2431153,José Murat Casab
+Mexico,Q111516918,Eduardo Murat Hinojosa,sibling,Q18217780,Alejandro Murat Hinojosa
 Mexico,Q1396586,Marcelo Ebrard,spouse,Q5997353,Mariagna Prats
 Mexico,Q1396586,Marcelo Ebrard,spouse,Q9070748,Rosalinda Bueso
 Mexico,Q1399260,Jorge Castañeda Gutman,father,Q466285,Jorge Castañeda y Álvarez de la Rosa
@@ -49,6 +51,7 @@ Mexico,Q2322707,Esteban Moctezuma,father,Q19960453,Pedro Moctezuma Díaz Infante
 Mexico,Q2355497,Manlio Fabio Beltrones Rivera,child,Q46578384,Sylvana Beltrones Sánchez
 Mexico,Q2370402,Margarita Zavala de Calderón,spouse,Q57269,Felipe Calderón
 Mexico,Q23906946,Pablo Amílcar Sandoval,sibling,Q5920394,Irma Eréndira Sandoval
+Mexico,Q2431153,José Murat Casab,child,Q111516918,Eduardo Murat Hinojosa
 Mexico,Q2431153,José Murat Casab,child,Q18217780,Alejandro Murat Hinojosa
 Mexico,Q24961861,Araceli Damián González,spouse,Q5955001,Julio Boltvinik
 Mexico,Q25349690,Héctor Armando Cabada Alvídrez,father,Q20667132,Arnoldo Cabada de la O
