@@ -10395,6 +10395,27 @@ Norway,Q935613,Per Sandberg,spouse,Q17107085,Line Miriam Sandberg
 Norway,Q946481,Ole Henrik Magga,sibling,Q11979307,Josef Halse
 Norway,Q946481,Ole Henrik Magga,spouse,Q3444836,Lajla Mattsson Magga
 Norway,Q981697,Sverre Diesen,partner,Q17105740,Elisabeth Natvig
+Oman,Q104828519,Dhi Yazan bin Haitham,father,Q12250314,Haitham bin Tarik Al Said
+Oman,Q104828519,Dhi Yazan bin Haitham,mother,Q97933143,Ahad bint Abdullah
+Oman,Q104828519,Dhi Yazan bin Haitham,sibling,Q105924906,Bilarab bin Haitham Al-Said
+Oman,Q12250314,Haitham bin Tarik Al Said,child,Q104828519,Dhi Yazan bin Haitham
+Oman,Q12250314,Haitham bin Tarik Al Said,child,Q105924906,Bilarab bin Haitham Al-Said
+Oman,Q12250314,Haitham bin Tarik Al Said,father,Q16126525,Tariq bin Taimur
+Oman,Q12250314,Haitham bin Tarik Al Said,mother,Q81863531,Shawana bint Hammoud bin Ahmed Al Busaidia
+Oman,Q12250314,Haitham bin Tarik Al Said,sibling,Q59660242,Asa'ad bin Tariq bin Taimur al Said
+Oman,Q12250314,Haitham bin Tarik Al Said,sibling,Q81686943,Shihab bin Tariq al-Said
+Oman,Q12250314,Haitham bin Tarik Al Said,sibling,Q81691428,Sayyida Nawal
+Oman,Q12250314,Haitham bin Tarik Al Said,spouse,Q97933143,Ahad bint Abdullah
+Oman,Q57331,Qaboos bin Said Al Said,father,Q879869,Said bin Taimur
+Oman,Q57331,Qaboos bin Said Al Said,mother,Q254361,Mazoon al-Mashani
+Oman,Q57331,Qaboos bin Said Al Said,spouse,Q81691428,Sayyida Nawal
+Oman,Q57331,Qaboos bin Said Al Said,spouse,Q82904705,Sheikha Aisha bint Ahmed Al-Harithiya
+Oman,Q59660242,Asa'ad bin Tariq bin Taimur al Said,child,Q16120011,Taimur bin Assad bin Tariq al-Said
+Oman,Q59660242,Asa'ad bin Tariq bin Taimur al Said,father,Q16126525,Tariq bin Taimur
+Oman,Q59660242,Asa'ad bin Tariq bin Taimur al Said,mother,Q81863531,Shawana bint Hammoud bin Ahmed Al Busaidia
+Oman,Q59660242,Asa'ad bin Tariq bin Taimur al Said,sibling,Q12250314,Haitham bin Tarik Al Said
+Oman,Q59660242,Asa'ad bin Tariq bin Taimur al Said,sibling,Q81686943,Shihab bin Tariq al-Said
+Oman,Q59660242,Asa'ad bin Tariq bin Taimur al Said,sibling,Q81691428,Sayyida Nawal
 Pakistan,Q10970911,Mahmood Khan Achakzai,father,Q4665715,Abdul Samad Khan Achakzai
 Pakistan,Q10970911,Mahmood Khan Achakzai,sibling,Q15983327,Hamid Khan Achakzai
 Pakistan,Q10970911,Mahmood Khan Achakzai,sibling,Q16319320,Muhammad Khan Achakzai
