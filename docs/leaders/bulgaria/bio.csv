@@ -27,6 +27,7 @@ Q110070915,Ivan Ivanov,male,1975-08-13,11,,,,
 Q110071439,Grozdan Karadjov,male,1966-12-14,11,,,Grozdan Karadjov.jpg,Grozdan Karadzhov
 Q110088824,Bozhidar Bozhanov,male,1987-08-19,11,,,Bozhidar-Bozhanov.jpg,
 Q110089977,Teodora Genchovska,female,1971-05-23,11,,,,
+Q110090126,Atanas Atanasov,male,1990-04-03,11,,,,
 Q110153814,Nikolay Sabev,male,1960-09-24,11,,,,Nikolai Subev
 Q110153962,Alexander Nikolov,male,,,,,,
 Q110153983,Asena Serbezova,female,1973-03-30,11,,,,Assena Serbezova
@@ -79,6 +80,7 @@ Q113402908,Yavor Gechev,male,,,,,,
 Q113402927,Rositsa Karamfilova-Blagova,female,,,,,,
 Q113402947,Nikola Stoyanov,male,,,,,,
 Q1166856,Nikolai Tsonev,male,1956-06-09,11,,,,Nikolai Tsonev
+Q11692807,Daniel Valchev,male,1962-08-10,11,,,DValtchev.jpg,
 Q11699668,Georgi Petkanov,male,1947-11-01,11,2015-05-01,11,,
 Q11778487,Mihail Mikov,male,1960-06-16,11,,,MihailMikov3.jpg,Mihail Mikov
 Q11780519,Miglena Tacheva,female,1960-05-24,11,,,,
@@ -94,11 +96,13 @@ Q12273511,Bozhidar Finkov,male,1948-01-30,11,,,,
 Q12273763,Борис Ячев,male,1965-07-02,11,,,,
 Q12273773,Борислав Гуцанов,male,1967-06-17,11,,,Borislav gutsanov.jpg,
 Q12274538,Valeri Dimitrov Tsekov,male,1960-02-24,11,,,,
+Q12275395,Vladimir Atanasov,male,1955-09-21,11,,,,
 Q12275473,Vladimir Penev,male,1958-10-24,11,,,Vladimir-Penev-20101209.jpg,
 Q12277630,Daniel Mitov,male,1977-12-04,11,,,Daniel Mitov (cropped).jpg,Daniel Mitov
 Q12277826,Delyan Peevski,male,1980-07-27,11,,,,Delyan Peevski
 Q12277958,Deyana Kostadinova,female,1971-03-26,11,,,,
 Q12278288,Dimitar Glavchev,male,1963-08-15,11,,,Dimitar glavchev 2019.jpg,
+Q12278318,Dimitar Dimitrov,male,1932-01-30,11,2002-12-22,11,,
 Q12279375,Evgenii Zelev,male,1957-07-22,11,2017-10-20,11,,
 Q12279576,Ekaterina Zakharieva,female,1975-08-08,11,,,Ekaterina Zakharieva - 2017 (36685979910) (cropped).jpg,Ekaterina Zaharieva
 Q12279784,Emanuil Yordanov,male,1960-08-10,11,,,,
@@ -112,12 +116,15 @@ Q12281964,Ицо Хазарта,male,1979-12-19,11,,,TTL Image 123.tif,
 Q12282118,Yordan Bakalov,male,1960-09-01,11,,,,
 Q12282206,Yordan Hristoskov,male,1951-10-20,11,,,,
 Q12282211,Йордан Цонев,male,1956-09-05,11,,,,
+Q12282392,Kalin Christov,male,1971-02-06,11,,,,
 Q12283736,Korneliya Ninova,female,1969-01-16,11,,,KorneliyaNinova.jpg,Korneliya Ninova
 Q12283853,Kostadin Kostadinov,male,1979-04-01,11,,,Костадин Костадинов снимка.jpg,Kostadin Kostadinov (politician)
 Q12285322,Lachezar Ivanov,male,1962-08-13,11,,,,
 Q12285342,Lyuben Dilov Jr.,male,1964-11-19,11,,,Lyuben-Dilov-Jr-20101104.jpg,Lyuben Dilov Jr.
 Q12286760,Milko Kovachev,male,1957-02-22,11,,,,
 Q12286923,Miroslav Sevlievski,male,1965-01-18,11,,,Sevlievski.jpg,
+Q12287473,Muravey Radev,male,1947-05-06,11,,,,Muravey Radev
+Q12288737,Nikolay Miloshev,male,1959-06-04,11,,,,
 Q12288760,Nikolaï Petrov,male,1959-08-29,11,,,Informal meeting of health ministers (iEPSCO). Arrivals Nikolay Petrov (35872064852).jpg,
 Q12289150,Ognyan Gerdzhikov,male,1946-03-19,11,,,Ognyan Gerdzhikov.jpg,Ognyan Gerdzhikov
 Q12290429,Petar Dimitrov,male,1949-01-27,11,,,,
@@ -133,7 +140,7 @@ Q12295230,Stefan Konstantinov,male,1966-01-02,11,,,,
 Q12295434,Stoycho Katsarov,male,1964-06-06,11,,,,
 Q12296211,Теодосий Симеонов,male,1946-08-12,11,,,,
 Q12296596,Todor Tagarev,male,1960-04-18,11,,,,
-Q12296772,Тошко Хаджитодоров,male,1970-05-02,11,,,,
+Q12296772,Toshko Yordanov,male,1970-05-02,11,,,,
 Q12297558,Fidel Beev,male,1961-07-17,11,2021-01-28,11,,
 Q12297977,Hassan Ademov,male,1953-01-24,11,,,,Hassan Ademov
 Q12298809,Tsvetlin Yovchev,male,1964-05-07,11,,,"Tsvetlin Yovchev, November 2013.II (cropped).jpg",Tsvetlin Yovchev
@@ -142,11 +149,13 @@ Q12299694,Yanaki Stoilov,male,1958-09-08,11,,,Yanaki Stoilov - Янаки Сто
 Q1281454,Ivaylo Kalfin,male,1964-05-30,11,,,Ikalfin.jpg,Ivailo Kalfin
 Q132243,Rumen Ovcharov,male,1952-07-05,11,,,Rumen Ovcharov.jpg,Rumen Ovtcharov
 Q1371792,Solomon Passy,male,1956-12-22,11,,,Solomon Isaac Passy.jpg,Solomon Passy
+Q1399063,Simeon Djankov,male,1970-07-13,11,,,Simeon Djankov.jpg,Simeon Dyankov
 Q1509254,"Georgi Pirinski, Jr.",male,1948-09-10,11,,,Georgi Pirinski 2009.jpg,Georgi Pirinski Jr.
 Q1540417,Nikolay Svinarov,male,1958-05-06,11,,,,Nikolay Svinarov
 Q15661630,Zinaida Zlatanova,female,1973-07-24,11,,,Министър Зинаида Златанова зае трето място в своята категория (13213474834).jpg,
 Q15732366,Petar Tchobanov,male,1976-07-20,11,,,,
 Q15732371,Dragomir Stoïnev,male,1976-05-06,11,,,,
+Q15732377,Aneliya Klissarova,female,1961-12-13,11,,,Anelia Klisarova.png,Aneliya Klisarova
 Q15733285,Dimitar Grekov,male,1958-01-22,11,,,,
 Q15733382,Tanya Andreeva,female,1973-07-07,11,,,,
 Q15742374,Mariana Georgieva,female,1961-09-21,11,,,,
@@ -165,11 +174,13 @@ Q1774671,Ivan Iskrov,male,1967-03-26,11,,,"Ivan Iskrov, Governor of the Bulgaria
 Q17811148,Rumyana Kolarova,female,1956-06-10,11,,,,
 Q18518477,Petar Moskov,male,1970-12-17,11,,,Petar Moskov 2013 07(croppedd).jpg,Petar Moskov
 Q18535066,Rumyana Bachvarova,female,1959-03-13,11,,,RumyanaBachvarovaHeadshot.jpg,Rumyana Bachvarova
+Q18608499,Vladislav Goranov,male,1977-04-30,11,,,Vladislav Goranov 2017-11-15 (cropped).jpg,Vladislav Goranov
 Q18639404,Krasen Kralev,male,1967-01-02,11,,,"Krasen Kralev, Minister of Youth and Sports (39102995272).jpg",Krasen Kralev
 Q18745357,Nikolay Nenchev,male,1966-08-11,11,,,,Nikolay Nenchev
 Q18757290,Hristo Ivanov,male,1974-09-13,11,,,Hristo-Ivanov.jpg,Hristo Ivanov (politician)
 Q19206168,Иван Ченчев,male,1976-08-05,11,,,,
 Q19206321,Temenuzhka Petkova,female,1967-01-18,11,,,"Temenuzhka Petkova, Minister of Energy (38424525094).jpg",Temenuzhka Petkova
+Q19206420,Todor Tanev,male,1957-10-30,11,,,,Todor Tanev
 Q19708041,Vassil Schtonov,male,1972-04-25,11,,,,
 Q202117,Sergei Stanishev,male,1966-05-05,11,,,Sergey Stanishev 2009 elections diff crop.jpg,Sergey Stanishev
 Q20500334,Simeon Simeonov,male,1955-01-25,11,,,,
@@ -192,6 +203,7 @@ Q27919610,Andrey Botsev,male,1959-11-26,11,2020-02-27,11,SACEUR visit Bulgaria (
 Q28038967,Emil Eftimov,male,1961-08-16,11,,,,
 Q28055319,Stefan Janev,male,1960-03-01,11,,,Stefan Yanev.jpg,Stefan Yanev
 Q28530167,Nikolina Angelkova,female,1979-11-30,11,,,Nikolina Angelkova - 2017 (38424526564) (cropped).jpg,Nikolina Angelkova
+Q28530170,Roumen Porozhanov,male,1964-08-17,11,,,"Rumen Porodzanov, Minister of Agriculture, Food and Forestry (38424525684).jpg",
 Q28530825,Velizar Shalamanov,male,1961-12-24,11,,,Velizar Shalamanov.jpg,
 Q28533702,Zornitsa Rusinova,female,1969-12-24,11,,,,
 Q28536878,Nikolay Denkov,male,1962-09-03,11,,,,Nikolai Denkov
@@ -214,6 +226,7 @@ Q31191837,Тома Биков,male,1980-10-10,11,,,Toma Bikov.jpg,
 Q31192046,Hristo Bozukov,male,1960-01-14,11,,,,
 Q31192182,Galab Donev,male,1967-02-28,11,,,"Galab Donev full portrait, 2021.jpg",Galab Donev
 Q31192883,Nikolaï Pavlov,male,1975-02-09,11,,,,
+Q3136431,Sergei Ignatov,male,1960-08-06,11,,,Sergei Ignatov.jpg,Sergei Ignatov
 Q3405301,Emilia Maslarova,female,1949-07-03,11,,,Emilia maslarova 270109.jpg,
 Q3406483,Totiou Mladenov,male,1964-06-19,11,,,,
 Q362129,Ivan Kostov,male,1949-12-23,11,,,Ivan Kostov 2013 05(cropped).jpg,Ivan Kostov

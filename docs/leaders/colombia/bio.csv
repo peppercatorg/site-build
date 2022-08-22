@@ -1,6 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q102007277,Carmenza Jaramillo,female,1948-04-14,11,,,,
-Q10395812,Álvaro Leyva,male,1942-08-29,11,,,Alvaro Leyva.jpg,
+Q10395812,Álvaro Leyva,male,1942-08-29,11,,,Alvaro Leyva.jpg,Álvaro Leyva
 Q104783211,Leonardo Villar Gómez,male,,,,,,
 Q104852316,Felipe Buitrago,male,,,,,,
 Q106515173,Daniel Palacios,male,1982,9,,,SSS1234.jpg,
@@ -64,7 +64,7 @@ Q17478056,Juan Diego Gómez,male,1975-11-26,11,,,Juan diego nueva.jpg,
 Q17478114,Mauricio Lizcano,male,1976-08-12,11,,,S. Mauricio Lizcano .jpg,
 Q17478129,Ernesto Macías Tovar,male,1955-06-29,11,,,Ernesto Macias .jpg,
 Q17478258,Wilson Ruiz Orejuela,male,,7,,,,
-Q17620689,Alfonso Prada,male,1964-10-06,11,,,Alfonso Prada.jpg,
+Q17620689,Alfonso Prada,male,1964-10-06,11,,,Alfonso Prada.jpg,Alfonso Prada
 Q17623339,Natalia Abello Vives,female,1967-05-30,11,,,,Natalia Abello Vives
 Q17624238,Carlos Eduardo Correa Escaf,male,1973-04-26,11,,,Carlos Eduardo Correa.jpg,
 Q17633066,Yesid Reyes,male,1958,9,,,Yesid Reyes.jpg,
@@ -193,7 +193,7 @@ Q5750095,Carlos Costa Posada,male,,7,,,,
 Q5750450,Carlos García Orjuela,male,1949-07-05,11,,,Carlos gacia orjeula.jpg,
 Q5750542,Carlos Gustavo Cano,male,1946-09-05,11,,,,
 Q5750672,Carlos Julio González,male,1963-02-27,11,,,,
-Q5759817,Cecilia María Vélez,female,1952,9,,,,Cecilia María Vélez
+Q5759817,Cecilia María Vélez,female,1952,9,,,Cecilia Velez.jpg,Cecilia María Vélez
 Q5759860,Cecilia Álvarez-Correa Glen,female,1953-08-30,11,,,Cecilia Álvarez 2014.jpg,Cecilia Álvarez-Correa Glen
 Q5769005,Cielo González Villa,female,1970-03-12,11,,,Cielo González Villa-cropped.jpg,
 Q5771131,Clara López Obregón,female,1950-04-12,11,,,Clara López Obregón (28010041192) (cropped).jpg,Clara López Obregón
@@ -277,6 +277,7 @@ Q8963948,Germán Vargas Lleras,male,1962-02-19,11,,,GERMANVARGAS.JPG,Germán Var
 Q9015744,Juan Manuel Corzo Román,male,1961-10-03,11,,,Juan Manuel Corzo - Senador Colombia.jpg,Juan Manuel Corzo Román
 Q9025120,Luis Guillermo Vélez,male,1943-06-17,11,2007-02-06,11,,Luis Guillermo Vélez
 Q9028795,Margarita Cabello Blanco,female,1957-02-12,11,,,Margarita Cabello Blanco.jpg,
+Q9055686,Parmenio Cuéllar Bastidas,male,1942,9,,,Parmenio Cuellar.jpg,
 Q954486,María Ángela Holguín,female,1963-11-13,11,,,María Ángela Holguín Cuéllar Senate of Poland 01.JPG,María Ángela Holguín
 Q955397,Emma Claudia Castellanos,female,1960-05-04,11,,,HS Emma Claudia Castellanos.jpg,Claudia Rodríguez de Castellanos
 Q96674931,Diego Mesa Puyo,male,1982,9,,,Diego Mesa Puyo.jpg,

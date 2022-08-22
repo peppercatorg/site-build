@@ -334,7 +334,7 @@ Congo-Kinshasa,Minister of Mines,Eugene Diomi Dongala,Q112221953,2003-07-30,2005
 Congo-Kinshasa,Minister of Mines,Ingele Ifoto,Q112221965,2005-01-03,2006-10-16,,,,,
 Congo-Kinshasa,Minister of Mines,Mathieu Kalele Kabila,Q112221996,2006-10-16,2007-02-05,,,,,
 Congo-Kinshasa,Minister of Mines,Martin Kabwelulu,Q3295482,2007-02-05,2019-01-23,male,1948-04-13,,,Martin Kabwelulu
-Congo-Kinshasa,Minister of Mines,Willy Kitobo Samsoni,Q98923080,2019-08-26,2021-04-26,,,,,
+Congo-Kinshasa,Minister of Mines,Willy Kitobo Samsoni,Q98923080,2019-08-26,2021-04-26,male,,,,
 Congo-Kinshasa,Minister of Mines,Antoinette Nsamba Kalambayi,Q106598422,2021-04-26,,female,,,,
 Congo-Kinshasa,Minister of National Security and Public Order,Jeannot Mwenze Kongolo,Q25694801,2001-04-14,2002-11-17,male,1960,2021-06-28,,Jeannot Mwenze Kongolo
 Congo-Kinshasa,Minister of Oil,Pierre-Victor Mpoyo,Q3383536,1999-03-14,2000-11-20,male,1934-05-13,2015-04-23,,
@@ -700,7 +700,7 @@ Congo-Kinshasa,First Lady,Sifa Mahanya,Q112258069,1997-05-17,2001-01-16,female,,
 Congo-Kinshasa,First Lady,Olive Lembe di Sita,Q509657,2006-06-17,2019-01-24,female,1976-07-29,,Olive Lembe Kabila (cropped).jpg,Olive Lembe di Sita
 Congo-Kinshasa,First Lady,Denise Nyakeru Tshisekedi,Q61855144,2019-01-24,,female,1967-03-09,,Denise Tshisekedi (cropped).jpg,Denise Nyakéru Tshisekedi
 Congo-Kinshasa,Governor of Bas-Uele,Valentin Senga Paysayo,Q98269668,2019-04-10,,male,,,,
-Congo-Kinshasa,Governor of Haut-Katanga,Jacques Kyabula Katwe,Q105954507,2019-04-10,,,1976-03-13,,Jacque kyabula.jpg,
+Congo-Kinshasa,Governor of Haut-Katanga,Jacques Kyabula Katwe,Q105954507,2019-04-10,,male,1976-03-13,,Jacque kyabula.jpg,
 Congo-Kinshasa,Governor of Haut-Lomami,Célestin Mbuyu Kabango,Q3010091,2019-04-10,,male,,,Célestin Mbuyu (4127540001) (cropped).jpg,
 Congo-Kinshasa,Governor of Haut-Uele,Christophe Baseane Nangaa,Q100533120,2019-04-10,,male,,,Christophe Nangaa.jpg,
 Congo-Kinshasa,Governor of Ituri,Luboya Nkashama Johny,Q112276403,2019-04-10,,,,,,
@@ -720,17 +720,18 @@ Congo-Kinshasa,Governor of Lualaba,Richard Muyej,Q7327967,2019-04-10,,male,1954-
 Congo-Kinshasa,Governor of Mai-Ndombe,Paul Mputu Boleilanga,Q112276375,2019-04-10,,,,,,
 Congo-Kinshasa,Governor of Maniema,Idrissa Mangala,Q112276368,2019-04-10,,,,,,
 Congo-Kinshasa,Governor of Mongala,Crispin Ngbundu Malengo,Q109019515,2019-04-10,,male,,,,
-Congo-Kinshasa,Governor of Nord-Kivu,Constant Ndima Kongba,Q106904349,2019-04-10,,male,1963,,"LtGen Ndima Kongba Constant, gouverneur militaire Nord-Kivu.jpg",Constant Ndima Kongba
+Congo-Kinshasa,Governor of Nord-Kivu,Constant Ndima Kongba,Q106904349,2019-04-10,,male,1962,,Constant Ndima Kongba - 2021 (cropped).jpg,Constant Ndima Kongba
+Congo-Kinshasa,Governor of Nord-Kivu,Carly Nzanzu Kasivita,Q109017883,2019-05-30,,male,1975-11-15,,Carly Nzanzu Kasivita - 2019 (cropped).jpg,
 Congo-Kinshasa,Governor of Nord-Ubangi,Izato Nzege Koloke,Q109547295,2019-04-10,,male,1984-07-01,,,
 Congo-Kinshasa,Governor of Nord-Ubangi,Bienvenu Seti,Q112276684,2019-04-10,,,,,,
 Congo-Kinshasa,Governor of Sankuru,Joseph Mukumadi,Q112276359,2019-04-10,,,,,,
 Congo-Kinshasa,Governor of Sud-Kivu,Célestin Cibalonza Byaterana,Q938604,2007-01-27,2008-02-09,male,1964,,,Célestin Cibalonza Byaterana
 Congo-Kinshasa,Governor of Sud-Kivu,Louis Muderhwa,Q3262761,2008-03-21,2010-04-15,male,,,"Governor of South Kivu, Mr. Louis-Léonce Cirimwami Muderhwa, after a meeting at MONUC Bukavu office (cropped).jpg",
 Congo-Kinshasa,Governor of Sud-Kivu,Marcellin Cishambo,Q3289599,2010-07-12,2017-08,male,,,Marcellin Cishambo lors d’une visite à Ziralo (cropped).jpg,
-Congo-Kinshasa,Governor of Sud-Kivu,Théo Ngwabidje Kasi,Q108526392,2019-04-10,,male,1971-03-27,,Théo Ngwabidje.jpg,Théo Ngwabidje Kasi
+Congo-Kinshasa,Governor of Sud-Kivu,Théo Ngwabidje Kasi,Q108526392,2019-04-10,,male,1971-03-27,,Théo Ngwabidje - 2022 (cropped).jpg,Théo Ngwabidje Kasi
 Congo-Kinshasa,Governor of Sud-Ubangi,Jean-Claude Mabenze Gbey Benz,Q112276341,2019-07-10,,,,,,
 Congo-Kinshasa,Governor of Tanganyika,Parfait Nkanku,Q112276304,2019-07-28,,,,,,
-Congo-Kinshasa,Governor of Tshopo,Louis-Marie Wale Lofungola,Q97163685,2019-04-10,,,,,,
+Congo-Kinshasa,Governor of Tshopo,Louis-Marie Wale Lofungola,Q97163685,2019-04-10,,male,,,,
 Congo-Kinshasa,Governor of Tshuapa,Pancrace Boongo,Q112262813,2019-04-10,,male,,,,
 Congo-Kinshasa,Governor of Équateur,Dieudonné Bobo Boloko,Q112276410,2019-04-10,,,,,,
 Congo-Kinshasa,Provincial Governor,Alex Kande Mupompa,Q84265238,2012,2016,male,1950-09-23,,Alexkande.jpg,

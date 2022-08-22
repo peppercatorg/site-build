@@ -25,7 +25,7 @@ Spain,Q11037788,Josep Andreu Domingo,relative,Q4801796,Arturo Sarukhán
 Spain,Q111221481,Fernando de la Serna Inciarte,father,Q5667391,Alfonso de la Serna
 Spain,Q116812,Oriol Junqueras,sibling,Q108185246,Roger Junqueras i Vies
 Spain,Q116812,Oriol Junqueras,spouse,Q58226735,Neus Bramona
-Spain,Q11685275,Jone Berriozabal Bóveda,father,Q93381169,Román Berriozabal Azpitarte
+Spain,Q11685275,Jone Berriozabal Bóveda,father,Q93381169,Román Berriozábal Azpitarte
 Spain,Q11685445,Joseba Álvarez,father,Q1019186,Txillardegi
 Spain,Q11689876,Luis Planas,relative,Q9013237,Josep Maria Planes i Martí
 Spain,Q11690740,Manuela de Madre,spouse,Q11905846,Antoni Fogué i Moya
@@ -35,8 +35,8 @@ Spain,Q11703587,Santiago Abascal Conde,relative,Q63948239,Begoña Conde Álvarez
 Spain,Q11905508,Andreu Crespí Plaza,father,Q16190060,Andreu Crespí i Salom
 Spain,Q11912412,Carles Martí i Jufresa,relative,Q11912413,Carles Martí i Massagué
 Spain,Q11912490,Carme Carretero i Romay,spouse,Q66893985,Ricard Herrero i Suñer
-Spain,Q11917597,Dolors Montserrat i Montserrat,mother,Q11917599,Dolors Montserrat i Culleré
-Spain,Q11917599,Dolors Montserrat i Culleré,child,Q11917597,Dolors Montserrat i Montserrat
+Spain,Q11917597,Dolors Montserrat i Montserrat,mother,Q11917599,Dolors Culleré Montserrat
+Spain,Q11917599,Dolors Culleré Montserrat,child,Q11917597,Dolors Montserrat i Montserrat
 Spain,Q11918871,Elisa Díaz González,father,Q4893195,Luis Díaz Alperi
 Spain,Q11920639,Esperança Marí Mayans,spouse,Q823149,Bernat Joan i Marí
 Spain,Q11921017,Esther López Barceló,spouse,Q5815687,Ignacio Blanco Giner

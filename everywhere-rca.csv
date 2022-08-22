@@ -8,6 +8,9 @@ Afghanistan,Q188667,Burhanuddin Rabbani,child,Q7403481,Salahuddin Rabbani
 Afghanistan,Q188667,Burhanuddin Rabbani,relative,Q218863,Ahmad Zia Massoud
 Afghanistan,Q193968,Mohammed Omar,child,Q24572400,Mohammad Yaqoob
 Afghanistan,Q193968,Mohammed Omar,sibling,Q108067769,Abdul Manan Omari
+Afghanistan,Q200029,Ahmad Shah Massoud,child,Q26689638,Ahmad Massoud
+Afghanistan,Q200029,Ahmad Shah Massoud,sibling,Q218863,Ahmad Zia Massoud
+Afghanistan,Q200029,Ahmad Shah Massoud,sibling,Q4695495,Ahmad Wali Massoud
 Afghanistan,Q218863,Ahmad Zia Massoud,relative,Q26689638,Ahmad Massoud
 Afghanistan,Q218863,Ahmad Zia Massoud,sibling,Q200029,Ahmad Shah Massoud
 Afghanistan,Q218863,Ahmad Zia Massoud,sibling,Q4695495,Ahmad Wali Massoud
@@ -1216,6 +1219,7 @@ Brazil,Q10361159,Ricardo Izar,child,Q10361158,Ricardo Izar Júnior
 Brazil,Q10361241,Ricardo Tripoli,sibling,Q10363451,Roberto Tripoli
 Brazil,Q10363451,Roberto Tripoli,sibling,Q10361241,Ricardo Tripoli
 Brazil,Q10363867,Rodrigo Garcia,spouse,Q111467785,Luciana Garcia
+Brazil,Q10365112,Rubens Otoni,sibling,Q16336752,Antônio Roberto Gomide
 Brazil,Q10371678,Simone Tebet,child,Q110161866,Maria Eduarda Tebet
 Brazil,Q10371678,Simone Tebet,child,Q110161900,Maria Fernanda Tebet Rocha
 Brazil,Q10371678,Simone Tebet,father,Q2130127,Ramez Tebet
@@ -1441,6 +1445,8 @@ Bulgaria,Q1509254,"Georgi Pirinski, Jr.",father,Q3407706,Georgi Pirinski Sr.
 Bulgaria,Q15661630,Zinaida Zlatanova,father,Q97207991,Kamen Velev
 Bulgaria,Q18518477,Petar Moskov,mother,Q12279865,Emma Moskova
 Bulgaria,Q18757290,Hristo Ivanov,mother,Q98148050,Maria Boykikeva
+Bulgaria,Q19206420,Todor Tanev,father,Q12271577,Aleksandar Tanev
+Bulgaria,Q19206420,Todor Tanev,sibling,Q90803256,Borislava Taneva
 Bulgaria,Q202117,Sergei Stanishev,father,Q12278614,Dimitar Stanishev
 Bulgaria,Q2064558,Vezhdi Rashidov,mother,Q12282309,Kadriye Latifova
 Bulgaria,Q2080774,Angel Marin,spouse,Q106823315,Stanka Marina
@@ -1993,7 +1999,7 @@ China,Q15031,Xi Jinping,relative,Q8951054,Deng Jiagui
 China,Q15031,Xi Jinping,relative,Q9295825,Ke Hua
 China,Q15031,Xi Jinping,sibling,Q104837702,Xi Ganping
 China,Q15031,Xi Jinping,sibling,Q104837711,Xi Heping
-China,Q15031,Xi Jinping,sibling,Q104837712,Xi An'an
+China,Q15031,Xi Jinping,sibling,Q104837712,Qi An'an
 China,Q15031,Xi Jinping,sibling,Q104837764,Zhang Yannan
 China,Q15031,Xi Jinping,sibling,Q1441290,Qi Qiaoqiao
 China,Q15031,Xi Jinping,sibling,Q4119708,Xi Yuanping
@@ -2489,7 +2495,7 @@ Colombia,Q4968512,Luis Alfredo Ramos,child,Q17462492,Alfredo Ramos Maya
 Colombia,Q508580,María Consuelo Araújo,father,Q24960850,Álvaro Araújo Noguera
 Colombia,Q524949,Iván Cepeda Castro,father,Q6752503,Manuel Cepeda Vargas
 Colombia,Q524949,Iván Cepeda Castro,mother,Q6170045,Yira Castro
-Colombia,Q5274580,Diego Betancur Álvarez,father,Q345571,Belisario Betancur
+Colombia,Q5274580,Diego Betancur Álvarez,father,Q345571,carlos andrés urrea martínez
 Colombia,Q5274580,Diego Betancur Álvarez,mother,Q7367056,Rosa Helena Álvarez Yepes
 Colombia,Q5412242,Fernando Londoño,father,Q5444785,Fernando Londoño y Londoño
 Colombia,Q5562912,Gina Parody,spouse,Q5759860,Cecilia Álvarez-Correa Glen
@@ -2549,7 +2555,7 @@ Congo-Kinshasa,Q106914680,Juliette Mbambu Mughole,relative,Q110994244,Kavira Kya
 Congo-Kinshasa,Q107368856,Gael Bussa,father,Q56515694,Jean-Lucien Bussa
 Congo-Kinshasa,Q107368856,Gael Bussa,mother,Q107369212,Petronelle Mambetuku Kimpioka
 Congo-Kinshasa,Q107368856,Gael Bussa,spouse,Q107369189,Alicia Salawa
-Congo-Kinshasa,Q112119627,Jean-Marc Kabund,child,Q113497068,
+Congo-Kinshasa,Q112119627,Jean-Marc Kabund,child,Q113568911,Felly K
 Congo-Kinshasa,Q112119627,Jean-Marc Kabund,father,Q113509979,Cadet Mutamba
 Congo-Kinshasa,Q112119627,Jean-Marc Kabund,spouse,Q113509968,Christine Kasongo Kabund
 Congo-Kinshasa,Q112258069,Sifa Mahanya,spouse,Q135547,Laurent-Désiré Kabila
@@ -2598,6 +2604,7 @@ Croatia,Q3176299,Kolinda Grabar-Kitarović,child,Q110208348,Katarina Kitarović
 Croatia,Q3176299,Kolinda Grabar-Kitarović,child,Q110208359,Luka Kitarović
 Croatia,Q3176299,Kolinda Grabar-Kitarović,spouse,Q28363894,Jakov Kitarović
 Croatia,Q511448,Andrija Hebrang,father,Q269981,Andrija Hebrang
+Croatia,Q511448,Andrija Hebrang,mother,Q15875241,Olga Hebrang
 Croatia,Q56220,Ivo Sanader,child,Q12959123,Petra Sanader
 Croatia,Q56220,Ivo Sanader,spouse,Q12637030,Mirjana Sanader
 Croatia,Q57258,Ivo Josipović,child,Q17278699,Lana Josipović
@@ -3058,6 +3065,7 @@ Denmark,Q20200020,Marcus Knuth,father,Q12300542,Adam Wilhelm Knuth
 Denmark,Q20200020,Marcus Knuth,godparent,Q102139,Margrethe II of Denmark
 Denmark,Q20200020,Marcus Knuth,mother,Q4980024,Helle Stangerup
 Denmark,Q20200020,Marcus Knuth,sibling,Q50379775,Christoffer Knuth
+Denmark,Q24293722,Pernille Vermund,partner,Q55284667,Claus Bretton-Meyer
 Denmark,Q24293722,Pernille Vermund,spouse,Q108602009,Johnny Gere
 Denmark,Q24293722,Pernille Vermund,spouse,Q29526589,Lars Tvede
 Denmark,Q257881,Ritt Bjerregaard,spouse,Q176570,Søren Mørch
@@ -3168,6 +3176,7 @@ Donetsk,Q16902077,Alexander Boroday,father,Q4094487,Youri Borodaï
 Donetsk,Q62714861,Natalya Volkova,father,Q4096696,Mark Brovun
 Ecuador,Q106466352,Alfredo Borrero Vega,child,Q111270262,Juan David Borrero
 Ecuador,Q106466352,Alfredo Borrero Vega,spouse,Q60042896,Lucía Pazmiño Castro
+Ecuador,Q108023175,Javier Ponce,child,Q85123533,Gabriela Ponce
 Ecuador,Q16646170,Vicente Taiano,child,Q20882326,Vicente Taiano Basante
 Ecuador,Q1856805,Ricardo Patiño,sibling,Q16301893,Raúl Patiño
 Ecuador,Q19581,Rafael Correa Delgado,father,Q56229058,Rafael Correa Icaza
@@ -3569,7 +3578,7 @@ European Union,Q11869065,Kaja Kallas,spouse,Q441874,Taavi Veskimägi
 European Union,Q11869065,Kaja Kallas,spouse,Q61727586,Arvo Hallik
 European Union,Q11869065,Kaja Kallas,spouse,Q65258461,Roomet Leiger
 European Union,Q11880159,Veronika Vrecionová,partner,Q939484,Alexandr Vondra
-European Union,Q11917597,Dolors Montserrat i Montserrat,mother,Q11917599,Dolors Montserrat i Culleré
+European Union,Q11917597,Dolors Montserrat i Montserrat,mother,Q11917599,Dolors Culleré Montserrat
 European Union,Q12025429,Jiří Payne,sibling,Q21485177,Petr Pazdera Payne
 European Union,Q12036669,Michaela Šojdrová,mother,Q11985171,Eva Nováková
 European Union,Q1220,Giorgio Napolitano,spouse,Q18785847,Clio Bittoni
@@ -4260,6 +4269,7 @@ European Union,Q57806,Antonis Samaras,father,Q21004372,Konstantinos Samaras
 European Union,Q57806,Antonis Samaras,mother,Q21004364,Lena Zannas
 European Union,Q57806,Antonis Samaras,sibling,Q21004377,Alexandros Samaras
 European Union,Q58085,Radosław Sikorski,spouse,Q233479,Anne Applebaum
+European Union,Q58091,Stavros Dimas,child,Q20995398,Christos Dimas
 European Union,Q58095,José García-Margallo y Marfil,father,Q111357012,Manuel García-Margallo y Riaza
 European Union,Q58095,José García-Margallo y Marfil,mother,Q111357067,María de la Esperanza Marfil Calleja
 European Union,Q58095,José García-Margallo y Marfil,relative,Q941478,Juan García y Margallo
@@ -4588,8 +4598,8 @@ Finland,Q3735752,Eva-Riitta Siitonen,spouse,Q1453214,Fredi
 Finland,Q4204128,Tytti Isohookana-Asunmaa,spouse,Q56402367,Martti Asunmaa
 Finland,Q438744,Riitta Uosukainen,spouse,Q110402009,Toivo Uosukainen
 Finland,Q4768564,Anne Louhelainen,father,Q11882807,Mikko Vainio
-Finland,Q4826119,Mikko lähteenmäki,child,Q5491005,Kalle Alatalo
-Finland,Q4826119,Mikko lähteenmäki,relative,Q28056024,Ronja Alatalo
+Finland,Q4826119,Mikko Alatalo,child,Q5491005,Kalle Alatalo
+Finland,Q4826119,Mikko Alatalo,relative,Q28056024,Ronja Alatalo
 Finland,Q4935864,Li Andersson,father,Q16161261,Jan-Erik Andersson
 Finland,Q4935864,Li Andersson,partner,Q47914375,Juha Pursiainen
 Finland,Q4949953,Christina Gestrin,father,Q3864624,Kristian Gestrin
@@ -5834,6 +5844,7 @@ Ghana,Q1933412,Aaron Mike Oquaye,child,Q33069716,Mike Oquaye Jnr
 Ghana,Q23541289,Zanetor Agyeman-Rawlings,father,Q51002,Jerry Rawlings
 Ghana,Q23541289,Zanetor Agyeman-Rawlings,mother,Q6962296,Nana Konadu Agyeman Rawlings
 Ghana,Q23907331,Johanna Odonkor Svanikier,spouse,Q23304634,Thomas Svanikier
+Ghana,Q28677017,Matthew Opoku Prempeh,relative,Q51005,John Kufuor
 Ghana,Q36074435,Martha Ama Akyaa Pobee,spouse,Q58241444,John S. Pobee
 Ghana,Q50678,John Mahama,sibling,Q41251853,Ibrahim Mahama
 Ghana,Q50678,John Mahama,spouse,Q20722948,Lordina Mahama
@@ -5841,6 +5852,7 @@ Ghana,Q51002,Jerry Rawlings,child,Q108737816,Amina Rawlings
 Ghana,Q51002,Jerry Rawlings,child,Q23541289,Zanetor Agyeman-Rawlings
 Ghana,Q51002,Jerry Rawlings,spouse,Q6962296,Nana Konadu Agyeman Rawlings
 Ghana,Q51005,John Kufuor,child,Q23718894,John Addo Kufuor
+Ghana,Q51005,John Kufuor,relative,Q28677017,Matthew Opoku Prempeh
 Ghana,Q51008,John Evans Atta Mills,spouse,Q19957726,Ernestina Naadu Mills
 Ghana,Q5504853,Fritz Baffour,father,Q7273893,Robert Patrick Baffour
 Ghana,Q57915355,Betty Crosby Mensah,father,Q99912770,Krosbi Mensah
@@ -8379,6 +8391,7 @@ Japan,Q11553342,Katsuyuki Kawai,spouse,Q65557037,Anri Kawai
 Japan,Q11556075,Jun Tsushima,father,Q2602573,Yūji Tsushima
 Japan,Q11556075,Jun Tsushima,relative,Q291672,Yūko Tsushima
 Japan,Q11556075,Jun Tsushima,relative,Q317685,Osamu Dazai
+Japan,Q11557935,Takujirō Hamada,spouse,Q11557922,Makiko Hamada
 Japan,Q11565069,Shigeo Takii,sibling,Q11417129,Shunzō Waku
 Japan,Q1156675,Kaoru Yosano,father,Q6143061,Shigeru Yosano
 Japan,Q1156675,Kaoru Yosano,mother,Q11361940,Michiko Yosano
@@ -8542,6 +8555,7 @@ Japan,Q359480,Fumio Kishida,relative,Q1313628,Yoichi Miyazawa
 Japan,Q359480,Fumio Kishida,relative,Q56253133,可部哲生
 Japan,Q359480,Fumio Kishida,relative,Q56253389,井口良二
 Japan,Q359480,Fumio Kishida,spouse,Q108806841,Yuko Kishida
+Japan,Q359926,Shinya Izumi,child,Q112238524,Kōyū Izumi
 Japan,Q37979,Akihito,child,Q217096,Naruhito
 Japan,Q37979,Akihito,child,Q229333,Sayako Kuroda
 Japan,Q37979,Akihito,child,Q311174,"Fumihito, Prince Akishino"
@@ -9228,6 +9242,7 @@ Mexico,Q20801621,Carolina Monroy del Mazo,spouse,Q58660742,Ernesto Nemer Álvare
 Mexico,Q21600497,Luis Enrique  Miranda Nava,father,Q98337465,Luis Miranda Cardoso
 Mexico,Q2171615,Carlos María Abascal Carranza,father,Q2684064,Salvador Abascal Infante
 Mexico,Q22006813,Dionisio Meade y Garcia de Leon,child,Q3186168,José Antonio Meade Kuribreña
+Mexico,Q2300806,Mario Marín Torres,sibling,Q19276738,Julieta Marín Torres
 Mexico,Q2304052,Emilio Gamboa Patrón,child,Q50821016,Pablo Gamboa Miner
 Mexico,Q230586,Laura Esquivel,spouse,Q920072,Alfonso Arau
 Mexico,Q2322707,Esteban Moctezuma,father,Q19960453,Pedro Moctezuma Díaz Infante
@@ -9263,6 +9278,7 @@ Mexico,Q332485,Silvia Pinal,spouse,Q3054680,Enrique Guzmán
 Mexico,Q332485,Silvia Pinal,spouse,Q6153747,Tulio Hernández Gómez
 Mexico,Q332485,Silvia Pinal,spouse,Q7282036,Rafael Banquells
 Mexico,Q332485,Silvia Pinal,spouse,Q978635,Gustavo Alatriste
+Mexico,Q3417250,Rafael Moreno Valle,spouse,Q55357013,Martha Érika Alonso Hidalgo
 Mexico,Q46578384,Sylvana Beltrones Sánchez,father,Q2355497,Manlio Fabio Beltrones Rivera
 Mexico,Q46578384,Sylvana Beltrones Sánchez,spouse,Q26745937,Pablo Escudero Morales
 Mexico,Q51516320,Xavier Nava Palacios,relative,Q2185318,Salvador Nava Martínez
@@ -10477,6 +10493,7 @@ Pakistan,Q55761307,Fawad Ahmed Chaudhry,relative,Q55819412,Chaudhry Shahbaz Huss
 Pakistan,Q55761307,Fawad Ahmed Chaudhry,relative,Q55825513,Chaudhry Iftikhar Hussain
 Pakistan,Q55761307,Fawad Ahmed Chaudhry,relative,Q56275041,Chaudhry Mohammad Awais
 Pakistan,Q55767505,Rai Muhammad Murtaza Iqbal,relative,Q7283666,Rai Hassan Nawaz
+Pakistan,Q55820062,Arif Iqbal,sibling,Q113564281,Rana Tariq Mehmood Harnah
 Pakistan,Q55825094,Usman Buzdar,father,Q56159482,Sardar Fateh Muhammad Buzdar
 Pakistan,Q55825237,Muhammad Moavia,father,Q4832175,Azam Tariq
 Pakistan,Q55956354,Raza Rabbani Khar,sibling,Q254122,Hina Rabbani Khar
@@ -10867,6 +10884,7 @@ Philippines,Q25663425,Cho Roco,sibling,Q2184714,Raul Roco
 Philippines,Q2606208,Sherwin Gatchalian,sibling,Q7319383,Rexlon Gatchalian
 Philippines,Q2606208,Sherwin Gatchalian,sibling,Q96105894,Weslie Gatchalian
 Philippines,Q2648928,Lito Atienza,child,Q6408346,Kim Atienza
+Philippines,Q2718322,Salvador Escudero,child,Q983307,Francis Escudero
 Philippines,Q2720262,Gwendolyn Garcia,sibling,Q23304551,Winston Garcia
 Philippines,Q2720262,Gwendolyn Garcia,sibling,Q7121657,Pablo John Garcia
 Philippines,Q285536,Imelda Marcos,child,Q2208719,Imee Marcos
@@ -11463,6 +11481,8 @@ Russia,Q108807795,Nurbagand Nurbagandov,child,Q26959934,Magomed Nurbagandov
 Russia,Q108886260,Angelika Egorovna Glazkova,spouse,Q55122121,Nikolai Platoshkin
 Russia,Q108897335,Aleksey Govyrin,spouse,Q231590,Irina Slutskaya
 Russia,Q108899086,Alla Polyakova,sibling,Q4074398,Mikhail Babich
+Russia,Q110893340,"Гуцериев, Хамзат Сафарбекович",sibling,Q1346607,Mikhail Gutseriyev
+Russia,Q110893340,"Гуцериев, Хамзат Сафарбекович",sibling,Q4153081,Sait-Salam Gutseriyev
 Russia,Q111383871,Vadim Artyukhov,father,Q4070368,Vitaly Artyukhov
 Russia,Q111956526,Yriy Zaytsev,child,Q177232,son
 Russia,Q1143350,Yegor Stroyev,child,Q105105146,Marina Rogachyova
@@ -11615,6 +11635,7 @@ Russia,Q4180012,Sergey Zhigarev,father,Q4180011,Aleksandr Zhigarev
 Russia,Q4180012,Sergey Zhigarev,mother,Q4468787,Ирина Борисовна Уварова
 Russia,Q4194287,Boris Zubitsky,child,Q4194286,"Зубицкий, Андрей Борисович"
 Russia,Q4194287,Boris Zubitsky,child,Q4194291,"Зубицкий, Евгений Борисович"
+Russia,Q4203649,Eduard Isakov,child,Q113560045,Diana Isakova
 Russia,Q4213035,Sergey Kapkov,partner,Q287099,Kseniya Sobchak
 Russia,Q4213035,Sergey Kapkov,spouse,Q4149679,Yekaterina Grinchevskaya
 Russia,Q4225876,Marina Kovtun,father,Q4226704,Vasily Kozlov
@@ -11932,6 +11953,55 @@ Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q7395569,Saad bin Abdulaziz
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q7445959,Seeta bint Abdulaziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q981846,Muqrin bin Abdul-Aziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,child,Q455341,Muhammad bin Nayef
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,child,Q7427055,Saud bin Nayef Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,father,Q151509,Ibn Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,mother,Q205051,Hassa bint Ahmed Al Sudairi
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q12203730,Thamir bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q12208891,Hamoud bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q12223794,Abdul Muhsin bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q12238128,Majid bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q12242559,Musa'id bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q12243051,Mishari bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q124710,Mutaib bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q183187,Fahd bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q1975943,Muhammad bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q1998925,Turki I bin Abdul-Aziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q208301,Khalid of Saudi Arabia
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q217167,King Faisal bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q244206,Saud of Saudi Arabia
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q2460829,Turki II bin Abdul-Aziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q2602302,Mishaal bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q307463,Abdul-Rahman bin Abdul-Aziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q3133541,Sattam bin Abdul-Aziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q315587,Sultan bin Abdulaziz
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4120307,Badr bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4120312,Fawwaz bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4549135,Mashhur bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4665420,Abdul Ilah bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4702270,Al-Bandari bint Abdul-Aziz Al Sau
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4704127,Al Jawhara bint Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4854440,Bandar bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q5685929,Haya bint Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q57298,Abdullah of Saudi Arabia
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6745575,Mamdoh bin Abdulaziz
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6967643,Nasser bin Abdulaziz
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6982977,Nawwaf bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q712690,Talal bin Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q7395569,Saad bin Abdulaziz
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q7445959,Seeta bint Abdulaziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q981846,Muqrin bin Abdul-Aziz Al Saud
+Saudi Arabia,Q338524,Faisal bin Khalid bin Abdulaziz Al Saud,father,Q208301,Khalid of Saudi Arabia
+Saudi Arabia,Q338524,Faisal bin Khalid bin Abdulaziz Al Saud,mother,Q7531591,Sita bint Fahd Al Damir
+Saudi Arabia,Q338524,Faisal bin Khalid bin Abdulaziz Al Saud,sibling,Q16933359,Moudi bint Khalid Al Saud
 Saudi Arabia,Q35369443,Abdulaziz bin Saad bin Abdulaziz,father,Q7395569,Saad bin Abdulaziz
 Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q28197146,Saud Bin Salman bin Abdulaziz al Saud
@@ -12016,6 +12086,8 @@ Saudi Arabia,Q4165651,Turki bin Faisal Al Saud,sibling,Q58156,Saud bin Faisal bi
 Saudi Arabia,Q4165651,Turki bin Faisal Al Saud,sibling,Q6669035,Lolowah bint Faisal Al Saud
 Saudi Arabia,Q4165651,Turki bin Faisal Al Saud,sibling,Q6799108,Saad bin Faisal bin Al Saud
 Saudi Arabia,Q4165651,Turki bin Faisal Al Saud,sibling,Q6893450,Mohammed bin Faisal Al Saud
+Saudi Arabia,Q455341,Muhammad bin Nayef,father,Q317832,Nayef bin Abdul-Aziz Al Saud
+Saudi Arabia,Q455341,Muhammad bin Nayef,sibling,Q7427055,Saud bin Nayef Al Saud
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,father,Q367825,Salman of Saudi Arabia
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,mother,Q76367273,Sultana bint Turki Al Sudairi
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,sibling,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
@@ -12153,6 +12225,53 @@ Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q6399403,Kh
 Saudi Arabia,Q87436373,Abdullah bin Khalid bin Sultan Al Saud,father,Q742051,Khalid bin Sultan
 Saudi Arabia,Q97120155,Amal al-Moallimi,father,Q42331334,يحيى المعلمي
 Saudi Arabia,Q97120155,Amal al-Moallimi,sibling,Q20415155,Abdallah Yahya Al-Mouallimi
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,child,Q19364800,Mansour bin Muqrin
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,child,Q19757674,Fahd bin Muqrin
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,child,Q7855209,Turki bin Muqrin bin Abdul-Aziz
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,father,Q151509,Ibn Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,mother,Q17001201,Baraka Al Asiri
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q12203730,Thamir bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q12208891,Hamoud bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q12223794,Abdul Muhsin bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q12238128,Majid bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q12242559,Musa'id bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q12243051,Mishari bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q124710,Mutaib bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q183187,Fahd bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q1975943,Muhammad bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q1998925,Turki I bin Abdul-Aziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q208301,Khalid of Saudi Arabia
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q217167,King Faisal bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q244206,Saud of Saudi Arabia
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q2460829,Turki II bin Abdul-Aziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q2602302,Mishaal bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q307463,Abdul-Rahman bin Abdul-Aziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q3133541,Sattam bin Abdul-Aziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q315587,Sultan bin Abdulaziz
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q317832,Nayef bin Abdul-Aziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4120307,Badr bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4120312,Fawwaz bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4549135,Mashhur bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4665420,Abdul Ilah bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4702270,Al-Bandari bint Abdul-Aziz Al Sau
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4704127,Al Jawhara bint Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4854440,Bandar bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q5685929,Haya bint Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q57298,Abdullah of Saudi Arabia
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6745575,Mamdoh bin Abdulaziz
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6967643,Nasser bin Abdulaziz
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6982977,Nawwaf bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q712690,Talal bin Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q7395569,Saad bin Abdulaziz
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q7445959,Seeta bint Abdulaziz Al Saud
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
 Scotland,Q10652,Alex Salmond,mother,Q97971330,Mary Stewart Salmond
 Scotland,Q1097337,Claudia Beamish,father,Q7851527,"Tufton Beamish, Baron Chelwood"
 Scotland,Q1097337,Claudia Beamish,mother,Q75648943,Janet McMillan Stevenson
@@ -12584,7 +12703,7 @@ Spain,Q11037788,Josep Andreu Domingo,relative,Q4801796,Arturo Sarukhán
 Spain,Q111221481,Fernando de la Serna Inciarte,father,Q5667391,Alfonso de la Serna
 Spain,Q116812,Oriol Junqueras,sibling,Q108185246,Roger Junqueras i Vies
 Spain,Q116812,Oriol Junqueras,spouse,Q58226735,Neus Bramona
-Spain,Q11685275,Jone Berriozabal Bóveda,father,Q93381169,Román Berriozabal Azpitarte
+Spain,Q11685275,Jone Berriozabal Bóveda,father,Q93381169,Román Berriozábal Azpitarte
 Spain,Q11685445,Joseba Álvarez,father,Q1019186,Txillardegi
 Spain,Q11689876,Luis Planas,relative,Q9013237,Josep Maria Planes i Martí
 Spain,Q11690740,Manuela de Madre,spouse,Q11905846,Antoni Fogué i Moya
@@ -12594,8 +12713,8 @@ Spain,Q11703587,Santiago Abascal Conde,relative,Q63948239,Begoña Conde Álvarez
 Spain,Q11905508,Andreu Crespí Plaza,father,Q16190060,Andreu Crespí i Salom
 Spain,Q11912412,Carles Martí i Jufresa,relative,Q11912413,Carles Martí i Massagué
 Spain,Q11912490,Carme Carretero i Romay,spouse,Q66893985,Ricard Herrero i Suñer
-Spain,Q11917597,Dolors Montserrat i Montserrat,mother,Q11917599,Dolors Montserrat i Culleré
-Spain,Q11917599,Dolors Montserrat i Culleré,child,Q11917597,Dolors Montserrat i Montserrat
+Spain,Q11917597,Dolors Montserrat i Montserrat,mother,Q11917599,Dolors Culleré Montserrat
+Spain,Q11917599,Dolors Culleré Montserrat,child,Q11917597,Dolors Montserrat i Montserrat
 Spain,Q11918871,Elisa Díaz González,father,Q4893195,Luis Díaz Alperi
 Spain,Q11920639,Esperança Marí Mayans,spouse,Q823149,Bernat Joan i Marí
 Spain,Q11921017,Esther López Barceló,spouse,Q5815687,Ignacio Blanco Giner
@@ -13689,6 +13808,7 @@ Taiwan,Q8350306,Tien Chiu-chin,mother,Q17063214,Tien Meng-shu
 Taiwan,Q8350331,Tsai Chi-fang,child,Q8350388,Tsai Yi-yu
 Taiwan,Q8350388,Tsai Yi-yu,father,Q8350331,Tsai Chi-fang
 Taiwan,Q8350626,Yu Tian,child,Q10886645,Ken Yu
+Taiwan,Q8350626,Yu Tian,child,Q113572990,余苑绮
 Taiwan,Q8350626,Yu Tian,spouse,Q15925971,Lee Ya-ping
 Taiwan,Q85877352,Wu I-ding,father,Q8277455,Wu Kuang-hsun
 Taiwan,Q85880978,Lee De-wei,father,Q8275024,Li Chih-peng
@@ -14160,6 +14280,7 @@ Ukraine,Q4341772,Mykhailo Pavlovskyi,child,Q2855765,Andriy Pavlovskyi
 Ukraine,Q4370711,Volodymyr Polokhalo,spouse,Q4363438,Maryna Pyrozhuk
 Ukraine,Q4371618,Vladimir Polyachenko,child,Q12142057,Yurii Poliachenko
 Ukraine,Q4385171,Viktor Pshonka,child,Q12145775,Artem Pshonka
+Ukraine,Q4392444,Oleksii Reznikov,spouse,Q113551999,Yulia Zoriy
 Ukraine,Q442391,Natalia Korolevska,sibling,Q4233741,Константин Юрьевич Королевский
 Ukraine,Q442391,Natalia Korolevska,spouse,Q19605093,Yuriy Solod
 Ukraine,Q4448244,Kostiantyn Sytnyk,child,Q4309350,Mykola Veresen

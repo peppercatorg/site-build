@@ -1,10 +1,12 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
+Q101003015,Sudarshana Pathirana,male,1965,9,,,,Sudarshana Pathirana
 Q106920046,Sanjay Rajaratnam,male,,,,,,Sanjay Rajaratnam
 Q10969775,Mahindananda Aluthgamage,male,1964-11-21,11,,,,Mahindananda Aluthgamage
 Q10992668,Thilanga Sumathipala,male,1964-05-03,11,,,,Thilanga Sumathipala
 Q11057149,Bandula Gunawardane,male,1953-03-15,11,,,,Bandula Gunawardane
 Q110644109,Ioma Rajapaksa,female,,,,,,Ioma Rajapaksa
 Q111493511,Nandalal Weerasinghe,male,,,,,,Nandalal Weerasinghe
+Q112192834,Vikum Liyanage,male,,,,,,Vikum Liyanage
 Q12975542,Alim Mohamed Hisbulla,male,1963-02-02,11,,,,M. L. A. M. Hizbullah
 Q12975565,M. K. A. D. S. Gunawardana,male,1947-03-06,11,2016-01-19,11,M. K. D. S. Gunawardena.jpg,M. K. A. D. S. Gunawardana
 Q12976795,Gamini Vijith Vijithamuni Soysa,female,1958-11-01,11,,,,Gamini Vijith Vijithamuni Soysa
@@ -14,6 +16,7 @@ Q12984402,Duminda Dissanayake,male,1979-03-28,11,,,Duminda Dissanayake.jpg,Dumin
 Q12986215,Premalal Jayasekara,male,1974-11-16,11,,,,Premalal Jayasekara
 Q12988543,Lasantha Alagiyawanna,male,1967-10-19,11,,,,Lasantha Alagiyawanna
 Q12989537,Siripala Gamalath,male,1952-07-18,11,,,,Siripala Gamalath
+Q13567238,Kapila Jayampathi,male,,,,,Air Force Chief Marshall Kapila Jayampathy and Rear Adm. Dharmendra Wettewa.jpg,Kapila Jayampathy
 Q13642662,Lakshman Kiriella,male,1948-02-02,11,,,Lakshman Kiriella.jpg,Lakshman Kiriella
 Q13644992,Lohan Ratwatte,male,1968-06-22,11,,,,Lohan Ratwatte
 Q13645979,Mahinda Samarasinghe,male,1956-01-30,11,,,,Mahinda Samarasinghe
@@ -45,6 +48,7 @@ Q16213682,Nishantha Muthuhettigamage,male,1971,9,,,,Nishantha Muthuhettigamage
 Q16215852,Kanaka Herath,male,1976,9,,,,Kanaka Herath
 Q16217323,Harin Fernando,male,1978-10-28,11,,,Harin Fernando.jpg,Harin Fernando
 Q16312221,Dharmalingam Siddarthan,male,1948-09-10,11,,,D. Siddarthan.jpg,D. Siddarthan
+Q16728431,Daya Ratnayake,male,,,,,,Daya Ratnayake
 Q16728872,Eva Wansundera,female,1954-01,10,,,,Eva Wanasundera
 Q16875279,Daya Sandagiri,male,1947-09-01,11,,,"US Navy 050221-N-4702D-060 Machinist Mate 1st Class Michael A. Hohn shows the Commander of the Sri Lanka Navy, Vice Adm. D.W.K. Sandagiri, the different equipment a Sailor must monitor while on watch.jpg",Daya Sandagiri
 Q16885711,S. Sivamohan,male,,,,,,S. Sivamohan
@@ -58,6 +62,7 @@ Q1702764,E. Saravanapavan,male,1953-12-15,11,,,E. Saravanapavan.jpg,E. Saravanap
 Q17041467,Y. J. W. Wijayatilake,male,,,,,,Yuwanjana Wijayatilake
 Q17074062,Sarath Chandrasiri Mayadunne,male,,,,,,Sarath Chandrasiri Mayadunne
 Q17489719,Lionel Balagalle,male,,,,,,Lionel Balagalle
+Q18205743,C. S. Weerasooriya,male,1943-12-22,11,,,,Srilal Weerasooriya
 Q1848979,Namal Rajapaksa,male,1986-04-10,11,,,Lakshman Namal Rajapaksa.jpg,Namal Rajapaksa
 Q18888286,K. C. Logeswaran,male,,,,,,K. C. Logeswaran
 Q19010837,Ahamed Nazeer Zainulabdeen,male,,,,,Naseer ahamed.jpg,Ahamed Nazeer Zainulabdeen
@@ -70,6 +75,7 @@ Q19646234,Arjuna Mahendran,male,1959-07-16,11,,,,Arjuna Mahendran
 Q19739174,Sisira Jayakody,male,,,,,,Sisira Jayakody
 Q19874990,W. D. Lakshman,male,1941,9,,,,W. D. Lakshman
 Q19895418,Hirunika Premachandra,female,1987-10-14,11,,,,Hirunika Premachandra
+Q20203199,Sumangala Dias,male,,,,,Sumangala Dias PACAF 1- portrait.jpg,Sumangala Dias
 Q206638,Lakshman Kadirgamar,male,1932-04-12,11,2005-08-12,11,"The Minister for Foreign Affairs, Sri Lanka, Mr. Lakshman Kadirgamar meeting with Union Minister of Commerce and Industry, Shri Kamal Nath in New Delhi on December 7, 2004 (cropped).jpg",Lakshman Kadirgamar
 Q20675802,A. A. Wijethunga,male,1957-11-16,11,,,A A Wijethunga.jpg,A. A. Wijethunga
 Q207432,Chandrika Kumaratunga,female,1945-06-29,11,,,Chandrika Kumaratunga.jpg,Chandrika Kumaratunga
@@ -131,6 +137,7 @@ Q2903801,Bimal Rathnayaka,male,1973-03-28,11,,,,Bimal Rathnayake
 Q3092410,Vinayagamoorthy Muralitharan,male,1966,9,,,,Karuna Amman
 Q314009,Ratnasiri Wickremanayake,male,1933-05-05,11,2016-12-27,11,Ratnasiri Wickremanayake1.jpg,Ratnasiri Wickremanayake
 Q3179975,Basil Rajapaksa,male,1951,9,,,Basil Rajapaksa.JPG,Basil Rajapaksa
+Q32541055,Mahesh Senanayake,male,,,,,,Mahesh Senanayake
 Q3285700,Mangala Samaraweera,male,1956-04-21,11,2021-08-24,11,Mangala Samaraweera.jpg,Mangala Samaraweera
 Q3439757,Rohitha Bogollagama,male,1954-08-06,11,,,Rohitha Bogollagama 070603-D-7203T-011 0W9G0.jpg,Rohitha Bogollagama
 Q3522572,Arjuna Ranatunga,male,1963-12-01,11,,,Arjuna Ranatunga.jpg,Arjuna Ranatunga
@@ -188,6 +195,7 @@ Q5343207,Edward Gunasekara,male,,,,,,Edward Gunasekara
 Q5384869,Eran Wickramaratne,male,,,,,Eran Wickramaratne.jpg,Eran Wickramaratne
 Q5431107,Faiszer Musthapha,male,1969-07-02,11,,,,Faiszer Musthapha
 Q5512329,G. L. Peiris,male,1946-08-13,11,,,G. L. Peiris portrait.jpg,G. L. Peiris
+Q5516795,Gagan Bulathsinghala,male,1961-09-12,11,,,,Gagan Bulathsinghala
 Q5520215,Gamini Lokuge,male,1948-05-08,11,,,,Gamini Lokuge
 Q5528711,Gayantha Karunathilaka,male,1962-08-21,11,,,Gayantha Karunathilaka.jpg,Gayantha Karunathilaka
 Q5529975,Geetha Kumarasinghe,female,1955-07-05,11,,,,Geetha Kumarasinghe
@@ -205,6 +213,7 @@ Q55809454,Seeni Mohamed Ismail,male,1962-02-17,11,,,,
 Q55809473,Mohomed Hafeel Mohomed Salman,male,1958-11-10,11,,,,
 Q559898,D. M. Jayaratne,male,1931-06-07,11,2019-11-19,11,Nimal Korale PM- cropped.jpg,D. M. Jayaratne
 Q5628404,H. M. M. Harees,male,1971-09-06,11,,,H. M. M. Harees.jpg,H. M. M. Harees
+Q5673780,Harsha Abeywickrama,male,,,,,Harsha Abeywickrama.jpg,Harsha Abeywickrama
 Q5673820,Harsha de Silva,male,1964-08-30,11,,,Harsha de Silva (2009).jpg,Harsha de Silva
 Q5710936,Hemakumara Nanayakkara,male,,,,,Hemakumara Nanayakkara.jpg,Hemakumara Nanayakkara
 Q57338,Mahinda Rajapaksa,male,1945-11-18,11,,,Mahinda Rajapaksa 1.jpg,Mahinda Rajapaksa
@@ -213,6 +222,7 @@ Q6024847,Indika Bandaranayake,male,1972-09-07,11,,,,Indika Bandaranayake
 Q6026889,Indrajit Coomaraswamy,male,1950-04-03,11,,,,Indrajit Coomaraswamy
 Q60788733,Jayantha Jayasuriya,male,,,,,,Jayantha Jayasuriya
 Q612582,Anura Bandaranaike,male,1949-02-15,11,2008-03-16,11,Anura Bandaranaike portrait.jpg,Anura Bandaranaike
+Q6167497,Jayalath Weerakkody,male,,,,,,Jayalath Weerakkody
 Q6173129,Jeewan Kumaranatunga,male,1958-11-07,11,,,,Jeewan Kumaranatunga
 Q6218893,John Amaratunga,male,1940-05-21,11,,,John Amaratunga.jpg,John Amaratunga
 Q6257296,John Seneviratne,male,1941-01-15,11,,,,John Seneviratne
@@ -286,6 +296,7 @@ Q7423315,Sarath Amunugama,male,1939-07-10,11,,,Dr.Sarath Amunugama.jpg,Sarath Am
 Q7423322,Sarath N. Silva,male,1946,9,,,,Sarath N. Silva
 Q7448857,Selvam Adaikalanathan,male,1962-06-10,11,,,Selvam Adaikalanathan.jpg,Selvam Adaikalanathan
 Q7459021,Seyed Ali Zahir Moulana,male,1956-06-25,11,,,,Seyed Ali Zahir Moulana
+Q7489046,Shantha Kottegoda,male,1949-11-06,11,,,,Shantha Kottegoda
 Q7498270,Shiranthi Rajapaksa,female,1953-11-24,11,,,Mrs. Shiranthi Rajapaksa.jpg,
 Q7532433,Sivasakthy Ananthan,male,1964-07-29,11,,,,Sivasakthy Ananthan
 Q76044165,Seetha Arambepola,female,1975,9,,,,Seetha Arambepola

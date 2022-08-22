@@ -8,6 +8,9 @@ Afghanistan,Q188667,Burhanuddin Rabbani,child,Q7403481,Salahuddin Rabbani
 Afghanistan,Q188667,Burhanuddin Rabbani,relative,Q218863,Ahmad Zia Massoud
 Afghanistan,Q193968,Mohammed Omar,child,Q24572400,Mohammad Yaqoob
 Afghanistan,Q193968,Mohammed Omar,sibling,Q108067769,Abdul Manan Omari
+Afghanistan,Q200029,Ahmad Shah Massoud,child,Q26689638,Ahmad Massoud
+Afghanistan,Q200029,Ahmad Shah Massoud,sibling,Q218863,Ahmad Zia Massoud
+Afghanistan,Q200029,Ahmad Shah Massoud,sibling,Q4695495,Ahmad Wali Massoud
 Afghanistan,Q218863,Ahmad Zia Massoud,relative,Q26689638,Ahmad Massoud
 Afghanistan,Q218863,Ahmad Zia Massoud,sibling,Q200029,Ahmad Shah Massoud
 Afghanistan,Q218863,Ahmad Zia Massoud,sibling,Q4695495,Ahmad Wali Massoud
