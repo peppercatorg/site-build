@@ -2,7 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Bahrain,monarch,Hamad bin Isa Al Khalifa,Q57352,1999-03-06,,male,1950-01-28,,Hamad bin Isa Al Khalifa April 2016.jpg,Hamad bin Isa Al Khalifa
 Bahrain,Prime Minister,Khalifa bin Salman Al Khalifa,Q57726,1970-01-10,2020-11-11,male,1935-11-24,2020-11-11,Shaikh Khalifa bin Salman Al Khalifa.jpg,Khalifa bin Salman Al Khalifa
 Bahrain,Prime Minister,Salman bin Hamad bin Isa Al Khalifa,Q58140,2020-11-11,,male,1969-10-21,,2021 Crown Prince of Bahrain.jpg,Salman bin Hamad Al Khalifa
-Bahrain,Deputy Prime Minister,Jawad Al-Arrayedh,Q6165879,2006-12-11,,male,1940,,,Jawad Al Arrayed
+Bahrain,Deputy Prime Minister,Jawad Al-Arrayedh,Q6165879,2006-12-11,2022-06-14,male,1940,,,Jawad Al Arrayed
 Bahrain,Deputy Prime Minister,Khalid bin Abdullah Al Khalifa,Q16730783,2010-11,,male,1944,,,Khalid bin Abdullah Al Khalifa
 Bahrain,Minister for Human Rights,Salah Ali,Q20420786,2012-04,2014-12,male,,,,Salah Ali (Bahraini politician)
 Bahrain,Minister of Cabinet Affairs,Mohammed bin Ibrahim Al Mutawa,Q16115995,1993,2005,male,1947-09,,,Mohammed bin Ibrahim Al Mutawa
@@ -26,3 +26,9 @@ Bahrain,Minister of Social Development,Fatima bint Mohammed Al Balooshi,Q4329638
 Bahrain,Minister of Transportation and Communications,Kamal Ahmed,Q6355372,2012-02,,male,,,,Kamal Ahmed (politician)
 Bahrain,Minister of Works,Fahmi al-Jowder,Q5429567,2001,2011,male,1964-04-26,,MOW Minister 6.JPG,Fahmi al-Jowder
 Bahrain,Minister of Works,Essam Khalaf,Q18922847,2010,,male,1956,,Essam bin Abdulla Khalaf.jpg,Essam Khalaf
+Bahrain,ambassador to the Netherlands,Alees Samaan,Q4714362,2014,2015,female,,,Alees Samaan.jpg,Alees Samaan
+Bahrain,ambassador to Ireland,Alees Samaan,Q4714362,2012,2015,female,,,Alees Samaan.jpg,Alees Samaan
+Bahrain,ambassador to the United Kingdom,Khalid bin Ahmed Al Khalifa,Q58171,2001,2005,male,1960-04-24,,Khalid ibn Ahmad Al Khalifah (crop).jpg,Khalid bin Ahmed Al Khalifa
+Bahrain,ambassador to the United Kingdom,Khalifa bin Ali bin Rashid Al-Khalifa,Q22687699,2008,2011,male,,,,
+Bahrain,ambassador to the United Kingdom,Alees Samaan,Q4714362,2011,2015,female,,,Alees Samaan.jpg,Alees Samaan
+Bahrain,ambassador to the United Kingdom,Fawaz bin Mohammed Al Khalifa,Q28510307,2015,,male,1961-01-20,,,Fawaz bin Mohammed Al Khalifa

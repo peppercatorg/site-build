@@ -4495,6 +4495,8 @@ European Union,Q967118,Csaba Molnár,spouse,Q16523140,Kinga Szűcs
 European Union,Q971234,Gianni Pittella,father,Q16550409,Domenico Pittella
 European Union,Q971234,Gianni Pittella,sibling,Q15829777,Marcello Pittella
 European Union,Q976712,Flavio Tosi,partner,Q15401878,Patrizia Bisinella
+European Union,Q980319,Per Gahrton,father,Q5749503,Arnold Gahrton
+European Union,Q980319,Per Gahrton,sibling,Q5749509,Gösta Gahrton
 European Union,Q980319,Per Gahrton,spouse,Q19756499,Ulla Lemberg
 European Union,Q981486,Patrick Le Hyaric,child,Q40435441,Steven Le Hyaric
 European Union,Q981866,Pat the Cope Gallagher,relative,Q7123388,Paddy Gallagher
@@ -9863,6 +9865,11 @@ Nicaragua,Q57402,Daniel Ortega,child,Q107185102,Camila Ortega Murillo
 Nicaragua,Q57402,Daniel Ortega,sibling,Q4337098,Camilo Ortega
 Nicaragua,Q57402,Daniel Ortega,sibling,Q4337101,Humberto Ortega
 Nicaragua,Q57402,Daniel Ortega,spouse,Q3034382,Rosario Murillo
+Niger,Q27824558,Hassana Alidou,sibling,Q16733932,Ousseina Alidou
+Niger,Q31271335,Fatima Djibo Sidikou,spouse,Q6745419,Maman Sambo Sidikou
+Niger,Q57482,Mahamadou Issoufou,spouse,Q19952812,Aïssata Issoufou Mahamadou
+Niger,Q57482,Mahamadou Issoufou,spouse,Q24950782,Lalla Malika Issoufou
+Niger,Q761823,Ibrahim Assane Mayaki,father,Q351662,Adamou Mayaki
 Nigeria,Q104705,Umaru Musa Yar'Adua,father,Q75863533,Musa Yar'Adua
 Nigeria,Q104705,Umaru Musa Yar'Adua,sibling,Q3509379,Shehu Musa Yar'Adua
 Nigeria,Q104705,Umaru Musa Yar'Adua,spouse,Q7853663,Turai Yar'Adua
@@ -13546,6 +13553,7 @@ Sweden,Q4956893,Anna Johansson,father,Q5626631,Göran Johansson
 Sweden,Q4961125,Margareta Gunsdotter,child,Q58002002,Louise Erixon
 Sweden,Q4961658,Britta Lejon,mother,Q1796120,Anna-Greta Leijon
 Sweden,Q4962650,Tanja Linderborg,child,Q1806094,Åsa Linderborg
+Sweden,Q4963034,Gudrun Lindvall,spouse,Q5743490,Carl Frick
 Sweden,Q4964155,Marianne Lundius,spouse,Q5756959,Johan Gernandt
 Sweden,Q496604,Andreas Carlgren,father,Q5602643,Frans Carlgren
 Sweden,Q496604,Andreas Carlgren,spouse,Q16632844,Tomas Harila Carlgren
