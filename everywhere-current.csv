@@ -538,9 +538,9 @@ Belarus,President,Alexander Lukashenko,Q2866,1994-07-20,male,1954-08-30,,Alexand
 Belarus,Prime Minister,Roman Golovchenko,Q27043179,2020-06-04,male,1973-08-10,,Roman Golovchenko (2020-09-03)(portrait).jpg,Roman Golovchenko
 Belarus,First Deputy Prime Minister,Mikalai Snapkou,Q13031552,2020-06-04,male,1969-09-14,,Nikolai Snopkov.jpg,
 Belarus,Deputy Prime Minister,Ihar Pietryšenka,Q4360605,2018-08-18,male,1965-10-19,,Заседание РБЭК в Посольстве РБ в РФ при участии Игоря Петришенко.jpg,
-Belarus,Deputy Prime Minister,Jury Nazaraŭ,Q87058344,2020-03-03,male,1962,,,
 Belarus,Deputy Prime Minister,Anatol Sivak,Q3925052,2020-09-03,male,1962-11-30,,Anatoly Sivak.jpg,
 Belarus,Deputy Prime Minister,Lieanid Zajac,Q13031225,2022-03-21,male,1958-09-30,,,
+Belarus,Deputy Prime Minister,Piotr Parkhomchyk,Q90845282,2022-08-16,male,1957-08-22,,Пётр Пархомчик.jpg,
 Belarus,Minister of Agriculture and Food,Igor Brylo,Q106400321,2022-02-10,male,1972-06-18,,,
 Belarus,Minister of Antimonopoly Regulation and Trade,Alexei Bogdanov,Q110223669,2021-12-21,male,1973-06-27,,,
 Belarus,Minister of Architecture and Construction,Ruslan Parkhamovich,Q96059302,2020-06-04,male,1980-07-18,,,
@@ -556,7 +556,6 @@ Belarus,Minister of Foreign Affairs,Vladimir Makei,Q2026222,2012-08-20,male,1958
 Belarus,Minister of Forestry,Aleksandr Kulik,Q113375966,2022-08-01,male,1967-06-13,,,
 Belarus,minister of Health,Dmitry Pinevich,Q98605721,2020-11-27,male,1967-10-17,,Дмитрий Пиневич.jpg,
 Belarus,Minister of Housing and Communal Services,Andrey Khmel,Q96313371,2020-06-04,male,1983,,Андрей Хмель.jpg,
-Belarus,Minister of Industry,Piotr Parkhomchyk,Q90845282,2020-06-04,male,1957-08-22,,Пётр Пархомчик.jpg,
 Belarus,Minister of Information,Vladimir Pertsov,Q106373017,2021-04-05,male,1974-05-07,,,
 Belarus,Minister of Internal Affairs,Ivan Kubrakou,Q98831330,2020-10-29,male,1975-05-05,,Ivan Kubrakov.jpg,Ivan Kubrakov
 Belarus,Minister of Justice,Siarhei Khamenka,Q98833684,2021-10-18,male,1966-09-21,,,
@@ -568,7 +567,7 @@ Belarus,Minister of Transport and Communications,Aliaksei Auramenka,Q60626586,20
 Belarus,Prosecutor General,Andrei Schwed,Q99004968,2020-09-09,male,1973-04-21,,,
 Belarus,Head of the Presidential Administration,Igor Sergeyenko,Q77455302,2019-12-05,male,1963-01-14,,Ігар Пятровіч Сергеенка.png,
 Belarus,First Deputy Head of the Presidential Administration,Maksim Ryžankoŭ,Q48326359,2016-12-21,male,1972-06-19,,,
-Belarus,Head of Bureau for Presidential Affairs,Valery Ivanow,Q3918889,2021-07-08,male,1955-07-27,,,
+Belarus,Head of Bureau for Presidential Affairs,Jury Nazaraŭ,Q87058344,2022-08-16,male,1962,,,
 Belarus,Chairman of the Investigative Committee,Dzmitry Gara,Q105885805,2021-03-11,male,1970,,,
 Belarus,Chairman of the State Authority for Military Industry,Dmitry Pantus,Q96185843,2020-06-04,male,1982-09-06,,,
 Belarus,Chairman of the State Border Committee,Anatoly Lapo,Q28110629,2016-12-29,male,1963-05-24,,,
@@ -856,7 +855,7 @@ Bulgaria,Minister of Education and Science,Sasho Penov,Q110261788,2022-08-02,mal
 Bulgaria,Minister of Energy,Rosen Hristov,Q113402898,2022-08-02,male,1974,,,
 Bulgaria,Minister of Environment and Water,Rositsa Karamfilova-Blagova,Q113402927,2022-08-02,female,,,,
 Bulgaria,Minister of e-Government,Georgi Todorov,Q106918185,2022-08-02,male,1972-05-06,,,
-Bulgaria,Minister of Finance,Rositsa Velkova-Zheleva,Q113377841,2022-08-02,female,1972,,,
+Bulgaria,Minister of Finance,Rositsa Velkova-Zheleva,Q113377841,2022-08-02,female,1972,,,Rositsa Velkova-Zheleva
 Bulgaria,Minister of Foreign Affairs,Nikolay Milkov,Q56122078,2022-08-02,male,1957-12-10,,Nikolaymilkov.jpg,
 Bulgaria,Minister of Health,Asen Medzhidiev,Q113385246,2022-08-02,male,1968-05-27,,,
 Bulgaria,Minister of Innovation and Growth,Alexander Pulev,Q113402905,2022-08-02,male,,,,
@@ -1088,7 +1087,7 @@ Central African Republic,Minister for the Promotion of SMEs,Mohamed Lawan,Q11208
 Central African Republic,"Minister of Public Works, Equipment and Regional Planning",Guismala Amza,Q112080289,2022-02-07,male,,,,
 Central African Republic,Minister of Territorial Administration,Bruno Yapande,Q112078171,2022-02-07,,,,,
 Central African Republic,Minister of Trade and Industry,Léa Mboua,Q112083237,2022-02-07,female,,,,
-Central African Republic,Minister of Transport and Civil Aviation,Gontran Ndjono-Ahaba,Q112083133,2022-02-07,,,,,
+Central African Republic,Minister of Transport and Civil Aviation,Gontran Ndjono-Ahaba,Q112083133,2022-02-07,male,,,,
 Central African Republic,"Minister of Water, Forests, Hunting and Fishing",Amit Idriss,Q112080314,2022-02-07,male,,,,
 Central African Republic,"Minister for Women, Family, and Children",Marguerite Ramadan,Q112083229,2022-02-07,female,,,,
 Central African Republic,Minister of Youth and Sport,Aristide Briand Reboas,Q112083089,2022-02-07,,,,,
@@ -2578,7 +2577,7 @@ Japan,Governor of Mie Prefecture,Katsuyuki Ichimi,Q100454684,2021-09-14,male,196
 Japan,Governor of Miyagi Prefecture,Yoshihiro Murai,Q377940,2005-11-21,male,1960-08-20,,Miyagi Prefecture Governor Yoshihiro Murai (村井嘉浩 ) at 2011 MOD seminar.jpg,Yoshihiro Murai
 Japan,Governor of Miyazaki Prefecture,Shunji Kōno,Q1804854,2011-01-21,male,1964-09-08,,"Governor Miyazaki Syunji Kouno. In the case of a symposium of the Kojiki, I photographed it at Meiji university.jpg",Shunji Kōno
 Japan,Governor of Nagano Prefecture,Shuichi Abe,Q2280320,2010-08,male,1960-12-21,,ABE Syuichi 2011.jpg,Shuichi Abe
-Japan,Governor of Nagasaki Prefecture,Kengo Oishi,Q111097857,2022-03-02,male,1982-07-08,,,
+Japan,Governor of Nagasaki Prefecture,Kengo Oishi,Q111097857,2022-03-02,male,1982-07-08,,Kengo Oishi 2022.jpg,
 Japan,Governor of Nara Prefecture,Shōgo Arai,Q1247261,2007-05-03,male,1945-01-18,,"Governor Nara sougo Arai. In the case of a symposium of the Kojiki, I photographed it at Meiji university.jpg",Shōgo Arai
 Japan,Governor of Niigata Prefecture,Hideyo Hanazumi,Q54913364,2018-06-10,male,1958-05-22,,新潟県 知事 花角英世.jpg,Hideyo Hanazumi
 Japan,Governor of Ōita Prefecture,Katsusada Hirose,Q1736802,2003-04-28,male,1942-06-25,,20160908大分縣廣瀨勝貞知事.jpg,Katsusada Hirose
@@ -3735,7 +3734,7 @@ Oman,Minister of Commerce and Industry,Ali bin Masoud al Sunaidy,Q59268429,2020-
 Oman,"Minister of Culture, Sports and Youth",Dhi Yazan bin Haitham,Q104828519,2020-08-18,male,1990-08-21,,ذي يزن بن هيثم آل سعيد.png,Theyazin bin Haitham
 Oman,Minister of Defence,Sayyid Badr bin Saud al Busaidi,Q7429365,2004,male,,,Sayyid Badr bin Saud al Busaidi 080405-F-6655M-031 0ZIW3.jpg,Badr bin Saud al Busaidi
 Oman,Minister of Education,Madeeha bint Ahmed bin Nassir al Shibaniyah,Q43287478,2011,female,,,"26-11-2013 Ministra da educação do Sultanato de Omã, Madeeha bint Ahmed al Shivaniyia é recebida pelo vice-presidente Michel Temer - 11067460114.jpg",Madeeha bint Ahmed bin Nassir al Shibaniyah
-Oman,Minister of Finance,Sultan bin Salem bin Saeed al-Habsi,Q108864704,2020-08,,,,,
+Oman,Minister of Finance,Sultan bin Salem bin Saeed al-Habsi,Q108864704,2020-08,male,,,,
 Oman,Minister of Foreign Affairs,Sayyid Badr bin Hamad bin Hamood AlBusaidi,Q98456849,2020-08-18,male,1960-05-30,,UK-Oman Joint Working Group (10154028623) (cropped).jpg,Sayyid Badr Albusaidi
 Oman,Minister of Higher Education,Rawya Saud Al Busaidi,Q7297086,2004-03-08,female,,,,Rawya Saud Al Busaidi
 Oman,Minister of the Interior,Sayyid Hamoud bin Faisal al Busaidi,Q59660255,2018,male,,,,Sayyid Hamoud bin Faisal al Busaidi
@@ -3949,7 +3948,7 @@ Portugal,President,Marcelo Rebelo de Sousa,Q6756617,2016-03-09,male,1948-12-12,,
 Portugal,Prime Minister,António Costa,Q610788,2015-11-26,male,1961-07-17,,António Costa img 6536.jpg,António Costa
 Portugal,Minister of Agriculture,Maria do Céu Antunes,Q72410716,2019-10-26,female,1970-07-10,,,Maria do Céu Antunes
 Portugal,Minister of Culture,Pedro Adão e Silva,Q111435569,2022-03-30,male,1974-05,,Pedro Adão e Silva (Somos Bibliotecas).png,Pedro Adão e Silva
-Portugal,Minister of the Economy,António Costa Silva,Q97170467,2022-03-30,male,1952,,António Costa e Silva (Conferência Visão Estratégica para Portugal - A Internacionalização da Economia Portuguesa e a Ásia).png,António Costa Silva
+Portugal,Minister of the Economy,António Costa Silva,Q97170467,2022-03-30,male,1952-11-23,,António Costa e Silva (Conferência Visão Estratégica para Portugal - A Internacionalização da Economia Portuguesa e a Ásia).png,António Costa Silva
 Portugal,Minister of Education,João Costa,Q108120815,2022-03-30,male,1972-11-04,,"João Marques da Costa, Secretário de Estado Adjunto e da Educação (JAP Friday Talk).png",João Marques da Costa
 Portugal,Minister for the Environment and Climate Action,Duarte Cordeiro,Q111349255,2022-03-30,male,1979-02-23,,,Duarte Cordeiro
 Portugal,Minister for Finance,Fernando Medina,Q20017756,2022-03-30,male,1973-03-10,,Web Summit 2018 - Fernando Medina.jpg,Fernando Medina
@@ -3959,7 +3958,7 @@ Portugal,Minister for Infrastructure and Housing,Pedro Nuno Santos,Q10347660,201
 Portugal,Minister of Internal Administration,José Luís Carneiro,Q74256324,2022-03-30,male,1971-10-04,,José Luís Carneiro.png,José Luís Carneiro
 Portugal,Minister of Justice,Catarina Sarmento e Castro,Q25336913,2022-03-30,female,1970-05-16,,"Catarina Sarmento e Castro, proposta de lei metadados 2022 (cropped).png",Catarina Sarmento e Castro
 Portugal,"Minister of Labour, Solidarity and Social Security",Ana Mendes Godinho,Q52112309,2019-10-26,female,1972-06-29,,Sustainable Growth tourism that benefits everyone (39757095370) (cropped).jpg,Ana Mendes Godinho
-Portugal,Minister of Maritime Affairs,António Costa Silva,Q97170467,2022-03-30,male,1952,,António Costa e Silva (Conferência Visão Estratégica para Portugal - A Internacionalização da Economia Portuguesa e a Ásia).png,António Costa Silva
+Portugal,Minister of Maritime Affairs,António Costa Silva,Q97170467,2022-03-30,male,1952-11-23,,António Costa e Silva (Conferência Visão Estratégica para Portugal - A Internacionalização da Economia Portuguesa e a Ásia).png,António Costa Silva
 Portugal,Minister of National Defence,Helena Carreiras,Q111346739,2022-03-30,female,1965-09-26,,Helena Carreiras - ANPC Incêndios Julho 2022 (cropped).png,Helena Carreiras
 Portugal,Minister of Parliamentary Affairs,Ana Catarina Mendes,Q65498266,2022-03-30,female,1973-01-14,,"Catarina Mendes, Festa de Natal do PS Montalegre de 2015.png",Ana Catarina Mendes
 Portugal,Minister of the Presidency,Mariana Vieira da Silva,Q28973799,2022-03-30,female,1978-05-08,,"Mariana Vieira da Silva (Assim é Portugal), cropped.png",Mariana Vieira da Silva
@@ -4727,6 +4726,7 @@ Taiwan,Secretary General,Lee Meng-yen,Q38876935,2019-01-14,male,1966-12-12,,李�
 Taiwan,Minister of Defence,Chiu Kuo-cheng,Q19825815,2021-02-23,male,1953-04-12,,Army (ROCA) General Chiu Kuo-cheng 陸軍上將邱國正 (03.29 總統主持「中華民國106年向先祖暨忠烈殉職人員致祭」 33328174510 27b5a8e266 o).jpg,Chiu Kuo-cheng
 Taiwan,Minister of Environmental Protection,Wei Kuo-yen,Q15831062,2014-03-03,male,1953-02-05,,台灣環保署長魏國彥.jpg,Wei Kuo-yen
 Taiwan,Minister of Foreign Affairs,Joseph Wu,Q6288088,2018-02-26,male,1954-10-31,,吳釗燮外交部長.jpg,Joseph Wu
+Taiwan,Minister of Justice,Tsai Ching-hsiang,Q55505798,2018-07-16,male,1953-01-15,,"Tsai Ching-hsiang, Minister of Justice.jpg",Tsai Ching-hsiang
 Taiwan,Minister of Transportation and Communications,Wang Kwo-tsai,Q24851744,2021-04-20,male,1959,,20190112王國材jpg.jpg,Wang Kwo-tsai
 Taiwan,President of the Legislative Yuan,Yu Shyi-kun,Q707887,2020-02-01,male,1948-04-25,,立法委員游錫堃.jpg,You Si-kun
 Tajikistan,President,Emomali Rahmon,Q57366,1994-11-19,male,1952-10-05,,Emomali Rahmon (2017-02-27).jpg,Emomali Rahmon
