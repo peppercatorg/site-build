@@ -1,5 +1,5 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
-Q102046961,Anatoliy Hunko,male,1976-03-12,11,,,,
+Q102046961,Anatoliy Hunko,male,1976-03-12,11,,,НДУ 9 Гунько Анатолій Григорович.jpg,
 Q102340260,Vitalii Kim,male,1981-03-13,11,,,Виталий Ким .jpg,Vitaliy Kim
 Q104706501,Viktor Husak,male,1978-06-02,11,,,,
 Q105098172,Vyacheslav Ovechkin,male,1983-06-14,11,,,,Vyacheslav Ovechkin
@@ -7,7 +7,7 @@ Q105302343,Ivan Fedorov,male,1988-08-29,11,,,Empfang für ukrainische Delegation
 Q106363123,Andrey Aksenov,male,1971-02-02,11,,,Andrey Aksenov.jpg,Andriy Aksyonov
 Q106675676,Herman Halushchenko,male,1973-05-01,11,,,Заходи за участю Президента України у 36-ті роковини трагедії на ЧАЕС 32.jpg,Herman Halushchenko
 Q106780124,Yuri Boyko,male,1972-02-28,11,,,Юрій Миколайович Бойко.png,
-Q107884996,Vyacheslav Chaus,male,1977-08-28,11,,,В'ячеслав Анатолійович Чаус.jpg,Vyacheslav Chaus
+Q107884996,Vyacheslav Chaus,male,1977-08-24,11,,,В'ячеслав Анатолійович Чаус.jpg,Vyacheslav Chaus
 Q10857432,Pavlo Klimkin,male,1967-12-25,11,,,Antrittsbesuch ukrainischer Botschafter Pavlo Klimkin im Rathaus von Köln-7273.jpg,Pavlo Klimkin
 Q10862300,Olena Shustik,female,1968-05-30,11,,,,
 Q109297952,Svitlana Onyschuk,female,1984-01-07,11,,,Svitlana Onyschuk.jpg,Svitlana Onyshchuk
@@ -336,7 +336,7 @@ Q12108335,Oleh Kanivets,male,1963-06-03,11,,,Oleh Kanivets.jpg,
 Q12108394,Serhiy Kaplin,male,1979-12-15,11,,,Каплін Сергій Миколайович.jpg,Serhiy Kaplin
 Q12108396,Volodymyr Kapliienko,male,1970-04-06,11,,,,
 Q12108431,Viktor Kapustin,male,1958-04-07,11,,,НДУ 4 Капустін Віктор Володимирович.jpg,
-Q12108517,Yurii Karakai,male,1967-05-20,11,2022-08-18,11,,
+Q12108517,Yurii Karakai,male,1967-05-20,11,,,,
 Q12108596,Oleh Karatumanov,male,1962-10-26,11,,,,
 Q12108761,Mykola Karnaukh,male,1958-12-14,11,,,,
 Q12108832,Oleksandr Karpov,male,1949-12-01,11,,,НДУ 4 Карпов Олександр Миколайович.jpg,
@@ -537,7 +537,7 @@ Q12124173,Anatolii Mokrousov,male,1943-04-14,11,2021-01-09,11,НДУ 4 Мокр�
 Q12124276,Ihor Molotok,male,1967-06-04,11,,,Молоток Ігор Федорович VADIM CHUPRINA.jpg,
 Q12124293,Borys Molchanov,male,1949-05-08,11,,,НДУ 3 Молчанов Борис Якович.jpg,
 Q12124320,Oleksandr Momot,male,1956-06-12,11,,,,
-Q12127790,Stepan Ivakhiv,male,1968-01-24,11,,,,Stepan Ivakhiv
+Q12127790,Stepan Ivakhiv,male,1968-01-24,11,,,НДУ 9 Івахів Степан Петрович.jpg,Stepan Ivakhiv
 Q12128271,Oleksandr Bobkov,male,1960-04-18,11,,,"Oleksandr Bobkov, Ukrainian politician (cropped).jpg",
 Q12129091,Ivan Diiak,male,1929,9,,,НДУ 3 Діяк Іван Васильович.jpg,
 Q12129370,Volodymyr Kafarskyi,male,1949-07-28,11,,,НДУ 4 Кафарський Володимир Іванович.jpg,
@@ -627,7 +627,7 @@ Q12140132,Volodymyr Petrenko,male,1939-08-13,11,,,НДУ 4 Петренко Во
 Q12140133,Dmytro Petrenko,male,1951-05-24,11,,,НДУ 3 Петренко Дмитро Дмитрович.jpg,
 Q12140207,Petrov Viktor Borysovych,male,1947-12-24,11,2018-03-03,11,НДУ 4 Петров Віктор Борисович.jpg,
 Q12140273,Valerii Petrosov,male,1939-11-16,11,2009-04-02,11,,
-Q12140350,Wasyl Petiowka,male,1967-01-30,11,,,,Vasyl Petiovka
+Q12140350,Wasyl Petiowka,male,1967-01-30,11,,,НДУ 9 Петьовка Василь Васильович.jpg,Vasyl Petiovka
 Q12140473,Volodymir Pylypenko,male,1977-07-27,11,,,,
 Q12140481,Viktor Pylypyshyn,male,1961-04-06,11,,,Viktor Pylypyshyn.jpg,
 Q12140489,Ihor Pylypchuk,male,1961-04-23,11,2009-05-02,11,НДУ 3 Пилипчук Ігор Мар'янович.jpg,
@@ -1039,7 +1039,7 @@ Q16710293,Taras Osaulenko,male,1964-02-13,11,,,Taras Osaulenko2.jpg,
 Q16711476,Oleh Petrov,male,1960-08-20,11,,,НДУ 4 Петров Олег Володимирович.jpg,
 Q16711818,Ihor Pober,male,1968-12-17,11,,,Побер Ігор Миколайович - 16037715.jpg,
 Q16713168,Vadym Prystaiko,male,1970-02-20,11,,,Vadym Prystaiko (cropped 3).jpg,Vadym Prystaiko
-Q16713197,Borys Prykhodko,male,1973-01-23,11,,,,
+Q16713197,Borys Prykhodko,male,1973-01-23,11,,,НДУ 9 Приходько Борис Вікторович.jpg,
 Q16713505,Oleksandr Puzanov,male,1977-02-26,11,,,НДУ 9 Пузанов Олександр Геннадійович.jpg,
 Q16714008,Ihor Rainin,male,1973-08-06,11,,,Portret15 20cm copy (1).jpg,Ihor Rainin
 Q16714654,Nataliia Romanova,female,1960-11-18,11,2020-11-05,11,,Nataliia Romanova (politician)
@@ -1149,7 +1149,7 @@ Q19402646,Dmytro Lubinets,male,1981-07-04,11,,,Dmytro Lubinets.JPG,
 Q19521677,Ruslan Demchak,male,1974-07-05,11,,,Демчак Руслан.jpg,Ruslan Demchak
 Q1956597,Mykola Bilokon,male,1955-03-22,11,,,,Mykola Bilokon
 Q1957965,Mykola Tomenko,male,1964-12-11,11,,,Mykola Tomenko in 2009.jpg,Mykola Tomenko
-Q19605093,Yuriy Solod,male,1972-04-27,11,,,,Yuriy Solod
+Q19605093,Yuriy Solod,male,1972-04-27,11,,,НДУ 9 Солод Юрій Васильович.jpg,Yuriy Solod
 Q19618525,Ruslan Khomchak,male,1967-06-05,11,,,"Ruslan Khomchak, 2018, 01.jpg",Ruslan Khomchak
 Q1962996,Kategorie:Olexij Iwtschenko,male,1963-01-02,11,,,Ołeksij Iwczenko (2006).jpg,
 Q19645180,Andriy Levus,male,1982-08-09,11,,,Levus-Andriy-Marianovych-maidan-Kyiv-14026239.jpg,Andriy Maryanovych Levus
@@ -1195,7 +1195,7 @@ Q20066572,Oleksandr Horbunov,male,1969-02-13,11,,,Фото Олександра 
 Q20066576,Andriy Hordeyev,male,1983-06-13,11,,,ГОРДЄЄВ АНДРІЙ АНАТОЛІЙОВИЧ VADIM CHUPRINA ©.jpg,Andrii Gordieiev
 Q20066619,Oleksandr Hranovskyi,male,1979-12-25,11,,,Oleksandr Hranovskyi.jpg,Oleksandr Hranovskyi (politician)
 Q20066676,Vitalii Hudzenko,male,1971-07-15,11,,,,
-Q20066713,Valerii Davydenko,male,1973-03-16,11,2020-05-23,11,,Valeriy Davydenko
+Q20066713,Valerii Davydenko,male,1973-03-16,11,2020-05-23,11,НДУ 9 Давиденко Валерій Миколайович.jpg,Valeriy Davydenko
 Q20066727,Oleksandr Danylyuk,male,1975-07-22,11,,,Олександр Данилюк.jpg,Oleksandr Danylyuk
 Q20066729,Mykola Danilin,male,1959-03-14,11,,,,
 Q20066733,Oleksandr Danchenko,male,1974-11-14,11,,,Samopomich's presentation. Oleksandr Danchenko.JPG,Oleksandr Danchenko
@@ -1215,7 +1215,7 @@ Q20066944,Oleksandr Dubinin,male,1959-05-16,11,,,Dubinin-olexadr-ivanovich.jpg,
 Q20066947,Bohdan Dubnevych,male,1962-05-10,11,,,Дубневич Богдан.jpg,
 Q20067002,Anatolii Yevlakhov,male,1981-04-14,11,,,Evlahov anatoliy.jpg,
 Q20067017,Ostap Ednak,male,1980-10-21,11,,,Ostap Ednak IMG 0250 01.JPG,
-Q20067043,Maksym Yefimov,male,1974-11-01,11,,,,
+Q20067043,Maksym Yefimov,male,1974-11-01,11,,,НДУ 9 Єфімов Максим Вікторович.jpg,
 Q20067083,Oleksandr Zholobetskyi,male,1966-04-24,11,,,Oleksandr Zholobetskyi 2017 Vadim Chuprina.jpg,Oleksandr Zholobetskyi
 Q20067100,Zhurzhiy Andriy,male,1978-03-19,11,,,Андрій Журжій 26-03-2015 DSCN0519.JPG,Andriy Zhurzhiy
 Q20067204,Yana Zinkevych,female,1995-07-02,11,,,"March of Ukraine's Defenders in Kiev, 2019.08.24 - 36crop.jpg",Yana Zinkevych
@@ -1379,7 +1379,7 @@ Q22259675,Andrii Kiselov,male,1981-01-02,11,,,,
 Q22259701,Oleksandr Reveha,male,1966-08-22,11,,,,
 Q225357,Hryhoriy Surkis,male,1949-09-04,11,,,Hryhoriy Surkis.jpg,Hryhoriy Surkis
 Q22669003,Victor Boiko,male,1961-07-06,11,,,Віктор Бойко.jpg,Victor Oleksiyovych Boiko
-Q22828811,Hanna Bondar,female,1975-02-23,11,,,,
+Q22828811,Hanna Bondar,female,1975-02-23,11,,,НДУ 9 Бондар Ганна Вячеславівна.jpg,
 Q22919632,Oleh Nedava,male,1969-10-26,11,,,,
 Q22953373,Maksym Mykytas,male,1980-09-13,11,,,,
 Q23058138,Heorhiy Lohvynskyi,male,1978-08-03,11,,,,Georgii Logvynskyi
@@ -1437,7 +1437,7 @@ Q2752644,Serhiy Pashynskyi,male,1966-10-14,11,,,Serhiy Pashynskyi.jpg,Serhiy Pas
 Q2753096,Roman Zabzalyuk,male,,7,2018-10-09,11,,Roman Zabzaliuk
 Q27910158,Victor Shevchenko,male,1980-12-04,11,,,,
 Q27910160,Vladyslav Danilin,male,1983-03-02,11,,,,
-Q27910161,Iryna Konstankevych,female,1965-06-23,11,,,,Iryna Konstankevych
+Q27910161,Iryna Konstankevych,female,1965-06-23,11,,,НДУ 9 Констанкевич Ірина Мирославівна.jpg,Iryna Konstankevych
 Q28158186,Yuriy Mushka,male,1964-09-08,11,,,"Юрій Мушка, український дипломат.jpg",
 Q28497986,Valerii Yevdokymov,male,1941-07-15,11,,,Valeriy Yevdokymov.jpg,
 Q28500498,Oleksii Savchenko,male,1977-11-19,11,,,,
@@ -1905,7 +1905,7 @@ Q65199830,Serhiy Haidai,male,1975-11-06,11,,,Serhiy Haidai.png,Serhiy Haidai
 Q65200249,Fedir Venislavskyi,male,1969-05-16,11,,,НДУ 9 Веніславський Федір Володимирович.jpg,
 Q65200415,Marian Zablotskyi,male,1985-09-21,11,,,"Mar""yan Zablots'kyy photo 1 1.jpg",
 Q65200615,Andrii Yermak,male,1971-11-21,11,,,Андрій Єрмак під час брифінгу (cropped).jpg,Andrii Yermak
-Q65201067,Andriy Gerus,male,1982-03-18,11,,,"Андрій Герус, 2019, 1 (cropped).jpg",Herus Andriy Mykhailovych
+Q65201067,Andriy Herus,male,1982-03-18,11,,,"Андрій Герус, 2019, 1 (cropped).jpg",Andriy Herus
 Q65201857,Serhii Babak,male,1978-07-31,11,,,НДУ 9 Бабак Сергій Віталійович.jpg,
 Q65206874,Vadym Halaichuk,male,1971-02-14,11,,,НДУ 9 Галайчук Вадим Сергійович.jpg,
 Q65206917,Maksym Marchenko,male,1983-02-10,11,,,Marchenko maksym.jpg,Maksym Marchenko
@@ -1927,7 +1927,7 @@ Q65964374,Mykola Stefanchuk,male,1981-05-04,11,,,Николай Стефанчу
 Q65964432,Roman Lozynskyi,male,1994-01-20,11,,,Роман Лозинський біля ВРУ.jpg,Roman Lozynskyi
 Q65966626,Maksym Pashkovsky,male,1983-03-24,11,,,,Maksym Pashkovskyi
 Q65966632,Anatoliy Drabovsky,male,1958-08-01,11,,,,Anatoliy Drabovskyi
-Q65971317,Maksym Buzhansky,male,1974-11-24,11,,,,Maksym Buzhanskyi
+Q65971317,Maksym Buzhansky,male,1974-11-24,11,,,НДУ 9 Бужанський Максим Аркадійович.jpg,Maksym Buzhanskyi
 Q66087594,Iryna Borzova,female,1982-08-28,11,,,,Iryna Borzova
 Q66094865,Denys Shmyhal,male,1975-10-15,11,,,Денис Шмигаль (08-12-2020) (cropped).jpg,Denys Shmyhal
 Q66124716,Andrii Kholodov,male,1972-08-20,11,,,НДУ 9 Холодов Андрій Іванович.jpg,Andrii Kholodov
@@ -1964,31 +1964,31 @@ Q66809981,Valerii Sterniichuk,male,1981-06-18,11,,,НДУ 9 Стернійчук
 Q66809997,Galyna Mykhailiuk,female,1987-06-14,11,,,Михайлюк Галина.jpg,Galyna Mykhailiuk
 Q66810048,Roman Babii,male,1977-07-06,11,,,НДУ 9 Бабій Роман Вячеславович.jpg,
 Q66810142,Hanna Novosad,female,1990-07-28,11,,,Анна Новосад. 3 декабря 2019 года.jpg,Hanna Novosad
-Q66810153,Vyacheslav Rublyov,male,1979-02-25,11,,,,Viacheslav Rublyov
-Q66813300,Dmytro Kysylevsky,male,1983-04-23,11,,,,Dmytro Kysylevskyi
-Q66813344,Vyacheslav Medyanyk,male,1987-08-03,11,,,,
-Q66813356,Yuriy Mysyahin,male,1974-03-21,11,,,,
+Q66810153,Vyacheslav Rublyov,male,1979-02-25,11,,,НДУ 9 Рубльов Вячеслав Володимирович.jpg,Viacheslav Rublyov
+Q66813300,Dmytro Kysylevsky,male,1983-04-23,11,,,НДУ 9 Кисилевський Дмитро Давидович.jpg,Dmytro Kysylevskyi
+Q66813344,Vyacheslav Medyanyk,male,1987-08-03,11,,,НДУ 9 Медяник В'ячеслав Анатолійович.jpg,
+Q66813356,Yuriy Mysyahin,male,1974-03-21,11,,,НДУ 9 Мисягін Юрій Михайлович.jpg,
 Q66819268,Andriy Zahorodniuk,male,1976-12-05,11,,,Андрій Загороднюк КМУ.jpg,Andrii Zahorodniuk
 Q66819475,Mykyta Poturayev,male,1970-09-04,11,,,НДУ 9 Потураєв Микита Русланович.jpg,
 Q66820047,Sergiy Demchenko,male,1976-03-13,11,,,,
 Q66820244,Hanna Lichman,female,1978-01-31,11,,,,
 Q66820358,Volodymyr Zakharchenko,male,1971-01-27,11,,,Vo;odymyr Zakharchenko.jpg,
-Q66820529,Olena Kryvoruchkina,female,1971-10-18,11,,,,
+Q66820529,Olena Kryvoruchkina,female,1971-10-18,11,,,НДУ 9 Криворучкіна Олена Володимирівна.jpg,
 Q66820731,Dmytro Chorny,male,1989-10-14,11,,,,
-Q66820845,Denys Herman,male,1981-09-08,11,,,,
+Q66820845,Denys Herman,male,1981-09-08,11,,,НДУ 9 Герман Денис Вадимович.jpg,
 Q66823503,Zoryana Skaletska,female,1980-08-09,11,,,Зоряна Скалецька КМУ.jpg,Zoriana Skaletska
-Q66827976,Roman Kaptyelov,male,1980-03-16,11,,,,
-Q66827992,Vladyslav Borodin,male,1971-06-18,11,,,,
-Q66828012,Serhiy Severyn,male,1980-06-20,11,,,,
+Q66827976,Roman Kaptyelov,male,1980-03-16,11,,,НДУ 9 Каптєлов Роман Володимирович.jpg,
+Q66827992,Vladyslav Borodin,male,1971-06-18,11,,,НДУ 9 Бородін Владислав Валерійович.jpg,
+Q66828012,Serhiy Severyn,male,1980-06-20,11,,,НДУ 9 Северин Сергій Сергійович.jpg,
 Q66828091,Oleksandr Trukhin,male,1986-11-10,11,,,Трухин Александр Николаевич.jpg,
-Q66828683,Bohdan Kytsak,male,1992-09-02,11,,,,
-Q66828697,Dmytro Kostiuk,male,1993-06-01,11,,,,
-Q66828702,Tetyana Hryshchenko,female,1979-08-27,11,,,,
-Q66828927,Serhiy Kuzminykh,male,1983-01-17,11,,,,
+Q66828683,Bohdan Kytsak,male,1992-09-02,11,,,НДУ 9 Кицак Богдан Вікторович.jpg,
+Q66828697,Dmytro Kostiuk,male,1993-06-01,11,,,НДУ 9 Костюк Дмитро Сергійович.jpg,
+Q66828702,Tetyana Hryshchenko,female,1979-08-27,11,,,НДУ 9 Грищенко Тетяна Миколаївна.jpg,
+Q66828927,Serhiy Kuzminykh,male,1983-01-17,11,,,НДУ 9 Кузьміних Сергій Володимирович.jpg,
 Q66828998,Yuliya Sokolovska,female,1985,9,,,Yulia Sokolovska - 2019 (cropped).jpg,Yuliya Sokolovska
-Q66829007,Mykhaylo Laba,male,1975-10-29,11,,,,
-Q66829508,Hennadiy Kasay,male,1972-11-28,11,,,,
-Q66829529,Roman Sokha,male,1975-10-18,11,,,,
+Q66829007,Mykhaylo Laba,male,1975-10-29,11,,,НДУ 9 Лаба Михайло Михайлович.jpg,
+Q66829508,Hennadiy Kasay,male,1972-11-28,11,,,НДУ 9 Касай Геннадій Олександрович.jpg,
+Q66829529,Roman Sokha,male,1975-10-18,11,,,НДУ 9 Соха Роман Васильович.jpg,
 Q66829725,Yevheniy Shevchenko,male,1972-05-04,11,,,Шевченко Є. В.jpg,Yevheniy Shevchenko (politician)
 Q66829743,Serhiy Shtepa,male,1990-04-30,11,,,НДУ 9 Штепа Сергій Сергійович.jpg,
 Q66830048,Yulia Yatsyk,female,1979-08-14,11,,,Юлія Яцик народний депутат України 9 скликання.jpg,
@@ -2008,7 +2008,7 @@ Q66891503,Serhiy Bunin,male,1971-05-03,11,,,НДУ 9 Бунін Сергій В�
 Q66891726,Oleksandr Danutsa,male,1980-01-29,11,,,,
 Q66893182,Yuriy Kuzbyt,male,1977-03-29,11,,,,
 Q66895468,Oleh Voronko,male,1974-05-15,11,,,,
-Q66895818,Oleksiy Kuznyetsov,male,1979-12-02,11,,,,
+Q66895818,Oleksiy Kuznyetsov,male,1979-12-02,11,,,,Oleksiy Kuznyetsov (politician)
 Q66896076,Orest Salamakha,male,1991-03-25,11,,,,
 Q66896316,Yuriy Kamelchuk,male,1980-02-12,11,,,Юрій Камельчук (cropped).jpg,
 Q66896514,Oleksandr Pasichny,male,1972-11-03,11,,,,
@@ -2058,29 +2058,29 @@ Q66961451,Ihor Marchuk,male,1969-02-17,11,,,,
 Q66961747,Lyubov Shpak,female,1980-07-19,11,,,,
 Q66962011,Oleh Arsenyuk,male,1986-08-21,11,,,,
 Q66962227,Andriy Strikharsky,male,1981-08-04,11,,,Strikharskyi.jpg,
-Q66962609,Serhiy Nahornyak,male,1982-05-13,11,,,,
-Q66962806,Olena Lys,female,1971-06-15,11,,,,
-Q66963614,Heorhiy Mazurashu,male,1971-04-17,11,,,,Heorhiy Mazurashu
-Q66964053,Valeriy Bozhyk,male,1971-03-27,11,,,,
+Q66962609,Serhiy Nahornyak,male,1982-05-13,11,,,НДУ 9 Нагорняк Сергій Володимирович.jpg,
+Q66962806,Olena Lys,female,1971-06-15,11,,,НДУ 9 Лис Олена Георгіївна.jpg,
+Q66963614,Heorhiy Mazurashu,male,1971-04-17,11,,,НДУ 9 Мазурашу Георгій Георгійович.jpg,Heorhiy Mazurashu
+Q66964053,Valeriy Bozhyk,male,1971-03-27,11,,,НДУ 9 Божик Валерій Іванович.jpg,
 Q66964781,Oleh Seminsky,male,1973-12-20,11,,,Oleg.Seminsky.jpg,
 Q66965279,Anton Polyakov,male,1987-11-11,11,2021-10-08,11,Народный депутат Антон Поляков.jpg,Anton Polyakov
-Q66965694,Maksym Zuyev,male,1982-04-14,11,,,,
+Q66965694,Maksym Zuyev,male,1982-04-14,11,,,НДУ 9 Зуєв Максим Сергійович.jpg,
 Q66967863,Oleksandr Yurchenko,male,1988-07-23,11,2020,9,Олександр Юрченко.jpg,Oleksandr Yurchenko
-Q66967970,Maksym Perebyjnis,male,1974-12-11,11,,,,
-Q66968098,Artem Dubnov,male,1988-08-30,11,,,,
-Q66968338,Serhiy Shvets,male,1976-06-13,11,,,,
+Q66967970,Maksym Perebyjnis,male,1974-12-11,11,,,НДУ 9 Перебийніс Максим Вікторович.jpg,
+Q66968098,Artem Dubnov,male,1988-08-30,11,,,НДУ 9 Дубнов Артем Васильович.jpg,
+Q66968338,Serhiy Shvets,male,1976-06-13,11,,,НДУ 9 Швець Сергій Федорович.jpg,
 Q66969745,Lesya Zaburanna,female,1981-08-22,11,,,Returning of Ukrainian women and children from Syrian refugee camp 12.jpg,
-Q66969925,Mar'yana Bezuhla,female,1988-05-17,11,,,,Maryana Bezuhla
-Q66970177,Dmytro Hurin,male,1982-03-24,11,,,,
-Q66970651,Lyudmyla Buymister,female,1985-11-05,11,,,,
-Q66972269,Musa Magomedov,male,1970-04-07,11,,,,
-Q66972430,Fedir Khrystenko,male,1983-10-11,11,,,,
-Q66972546,Valeriy Hnatenko,male,1967-02-03,11,,,,Valerii Hnatenko
-Q66972674,Ruslan Trebushkin,male,1975-11-27,11,,,,
-Q66972848,Oleksandr Kovalov,male,1967-10-07,11,,,,
-Q66972997,Yevhen Yakovenko,male,1965-06-06,11,,,,
-Q66973148,Serhiy Mahera,male,1956-11-08,11,,,,
-Q66973265,Volodymyr Moroz,male,1967-10-24,11,,,,
+Q66969925,Mar'yana Bezuhla,female,1988-05-17,11,,,НДУ 9 Безугла Мар'яна Володимирівна.jpg,Maryana Bezuhla
+Q66970177,Dmytro Hurin,male,1982-03-24,11,,,НДУ 9 Гурін Дмитро Олександрович.jpg,
+Q66970651,Lyudmyla Buymister,female,1985-11-05,11,,,НДУ 9 Буймістер Людмила Анатоліївна.jpg,
+Q66972269,Musa Magomedov,male,1970-04-07,11,,,НДУ 9 Магомедов Муса Сергоєвич.jpg,
+Q66972430,Fedir Khrystenko,male,1983-10-11,11,,,НДУ 9 Христенко Федір Володимирович.jpg,
+Q66972546,Valeriy Hnatenko,male,1967-02-03,11,,,НДУ 9 Гнатенко Валерій Сергійович.jpg,Valerii Hnatenko
+Q66972674,Ruslan Trebushkin,male,1975-11-27,11,,,НДУ 9 Требушкін Руслан Валерійович.jpg,
+Q66972848,Oleksandr Kovalov,male,1967-10-07,11,,,НДУ 9 Ковальов Олександр Іванович.jpg,
+Q66972997,Yevhen Yakovenko,male,1965-06-06,11,,,НДУ 9 Яковенко Євген Геннадійович.jpg,
+Q66973148,Serhiy Mahera,male,1956-11-08,11,,,НДУ 9 Магера Сергій Васильович.jpg,
+Q66973265,Volodymyr Moroz,male,1967-10-24,11,,,НДУ 9 Мороз Володимир Вікторович.jpg,
 Q66973360,Vladislav Polyak,male,1975-08-10,11,,,"Поляк, Владислав Николаевич.jpg",Vladislav Poliak
 Q66973977,VIktoriya Hryb,female,1968-06-19,11,,,,Viktoriya Hryb
 Q66974505,Oleksandr Sukhov,male,1984-05-20,11,,,,
@@ -2093,7 +2093,7 @@ Q66977532,Ivan Chaikivskyi,male,1972-05-29,11,,,,Ivan Chaikivskyi
 Q669798,Serhiy Ratushniak,male,1961-02-17,11,,,,Serhiy Ratushniak
 Q6699383,Volodymyr Volodymyrovych Tkachenko,male,1964-03-13,11,,,,
 Q67184064,Ruslan Horbenko,male,1979-03-12,11,,,Руслан Горбенко.jpg,
-Q67689461,Ihor Abramovych,male,1984-08-24,11,,,НДУ 9 Абрамович Ігор Олександрович.jpg,Igor Abramovych
+Q67689461,Ihor Abramovych,male,1984-08-24,11,,,Игорь Александрович Абрамович.jpg,Igor Abramovych
 Q67700120,Iryna Allakhverdiieva,female,1978-08-26,11,,,НДУ 9 Аллахвердієва Ірина Валеріївна.jpg,
 Q678352,Roman Zastavnyi,male,1972-05-01,11,,,Роман Заставний - 07080632.jpg,
 Q67843406,Artem Kunaiev,male,1992-04-29,11,,,НДУ 9 Кунаєв Артем Юрійович.jpg,
@@ -2168,7 +2168,7 @@ Q81301375,Taras Tarasenko,male,1980-07-26,11,,,НДУ 9 Тарасенко Та�
 Q81306504,Bohdan Torokhtii,male,1984-06-09,11,,,НДУ 9 Торохтій Богдан Григорович.jpg,
 Q81335571,Olha Sovhyria,female,1980-08-06,11,,,НДУ 9 Совгиря Ольга Володимирівна.jpg,
 Q81460728,Ivan Shynkarenko,male,1986-10-01,11,,,НДУ 9 Шинкаренко Іван Анатолійович.jpg,
-Q81699475,Ostap Shypailo,male,1989-01-07,11,,,НДУ 9 Шипайло Остап Ігорович.jpg,Shypaylo Ostap Ihorovych
+Q81699475,Ostap Shypailo,male,1989-01-07,11,,,НДУ 9 Шипайло Остап Ігорович.jpg,Ostap Shypaylo
 Q81704371,Yurii Zaslavskyi,male,1982-03-06,11,,,НДУ 9 Заславський Юрій Іванович.jpg,
 Q81878297,Andrii Zadorozhnyi,male,1968-05-21,11,,,НДУ 9 Задорожний Андрій Вікторович.jpg,Andriy Viktorovych Zadorozhny
 Q81974255,Olena Vintoniak,female,1979-03-29,11,,,НДУ 9 Вінтоняк Олена Василівна.jpg,

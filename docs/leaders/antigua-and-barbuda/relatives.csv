@@ -1,9 +1,13 @@
 catalog,id,name,relationship,relative,relativename
 Antigua and Barbuda,Q100606338,Maria Bird-Browne,spouse,Q17177542,Gaston Browne
+Antigua and Barbuda,Q17177542,Gaston Browne,child,Q113611330,Prince Gaston Browne
+Antigua and Barbuda,Q17177542,Gaston Browne,child,Q113611331,Gaston Andron Browne
 Antigua and Barbuda,Q17177542,Gaston Browne,spouse,Q100606338,Maria Bird-Browne
 Antigua and Barbuda,Q20171771,Charles Fernandez,spouse,Q111367956,Jill Fernandez
+Antigua and Barbuda,Q20172097,Paul Chet Greene,spouse,Q113611379,Gwendolyn Leonora Greene
 Antigua and Barbuda,Q365451,Lester Bird,father,Q561911,Vere Bird
 Antigua and Barbuda,Q365451,Lester Bird,sibling,Q7921171,"Vere Bird, Jr."
+Antigua and Barbuda,Q431167,James Carlisle,spouse,Q113611332,Nalda Amelia Carlisle
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"

@@ -99,10 +99,14 @@ Angola,Q57313,José Eduardo dos Santos,child,Q10309412,José Filomeno dos Santos
 Angola,Q57313,José Eduardo dos Santos,child,Q456034,Isabel dos Santos
 Angola,Q57313,José Eduardo dos Santos,spouse,Q434534,Ana Paula dos Santos
 Antigua and Barbuda,Q100606338,Maria Bird-Browne,spouse,Q17177542,Gaston Browne
+Antigua and Barbuda,Q17177542,Gaston Browne,child,Q113611330,Prince Gaston Browne
+Antigua and Barbuda,Q17177542,Gaston Browne,child,Q113611331,Gaston Andron Browne
 Antigua and Barbuda,Q17177542,Gaston Browne,spouse,Q100606338,Maria Bird-Browne
 Antigua and Barbuda,Q20171771,Charles Fernandez,spouse,Q111367956,Jill Fernandez
+Antigua and Barbuda,Q20172097,Paul Chet Greene,spouse,Q113611379,Gwendolyn Leonora Greene
 Antigua and Barbuda,Q365451,Lester Bird,father,Q561911,Vere Bird
 Antigua and Barbuda,Q365451,Lester Bird,sibling,Q7921171,"Vere Bird, Jr."
+Antigua and Barbuda,Q431167,James Carlisle,spouse,Q113611332,Nalda Amelia Carlisle
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
@@ -2511,7 +2515,7 @@ Colombia,Q4968512,Luis Alfredo Ramos,child,Q17462492,Alfredo Ramos Maya
 Colombia,Q508580,María Consuelo Araújo,father,Q24960850,Álvaro Araújo Noguera
 Colombia,Q524949,Iván Cepeda Castro,father,Q6752503,Manuel Cepeda Vargas
 Colombia,Q524949,Iván Cepeda Castro,mother,Q6170045,Yira Castro
-Colombia,Q5274580,Diego Betancur Álvarez,father,Q345571,carlos andrés urrea martínez
+Colombia,Q5274580,Diego Betancur Álvarez,father,Q345571,Belisario Betancur
 Colombia,Q5274580,Diego Betancur Álvarez,mother,Q7367056,Rosa Helena Álvarez Yepes
 Colombia,Q5412242,Fernando Londoño,father,Q5444785,Fernando Londoño y Londoño
 Colombia,Q5562912,Gina Parody,spouse,Q5759860,Cecilia Álvarez-Correa Glen
@@ -5288,6 +5292,7 @@ France,Q559040,Jean-Yves Le Drian,mother,Q50368937,Louisette Derrien
 France,Q559040,Jean-Yves Le Drian,sibling,Q27116891,Thérèse Thiéry
 France,Q559040,Jean-Yves Le Drian,sibling,Q3292640,Marie Le Drian
 France,Q559040,Jean-Yves Le Drian,spouse,Q50491448,Maria Vadillo
+France,Q560682,Hubert Védrine,child,Q105958373,Laurent Védrine
 France,Q560682,Hubert Védrine,father,Q3175081,Jean Védrine
 France,Q560682,Hubert Védrine,relative,Q3081350,Francis Chigot
 France,Q560944,François Lamy,sibling,Q33102560,Philippe Lamy
@@ -5615,6 +5620,7 @@ Germany,Q215581,Ulrich Brandenburg,mother,Q19719790,Margret Brandenburg
 Germany,Q215581,Ulrich Brandenburg,sibling,Q19711345,Guido Brandenburg
 Germany,Q22138205,Kai Wargalla,mother,Q1330357,Elisabeth Wargalla
 Germany,Q2283475,Siegfried Kauder,sibling,Q67164,Volker Kauder
+Germany,Q23059468,Katja Meier,partner,Q1706220,Josefine Paul
 Germany,Q23061485,Boris Ruge,father,Q101417,Gerd Ruge
 Germany,Q23061485,Boris Ruge,mother,Q20741262,Fredeke Gräfin von der Schulenburg
 Germany,Q23061485,Boris Ruge,sibling,Q1330232,Elisabeth Ruge
@@ -5859,6 +5865,7 @@ Ghana,Q16218681,Ras Mubarak,relative,Q16733008,Muntaka Mohammed Mubarak
 Ghana,Q16218681,Ras Mubarak,sibling,Q78170633,Mohammed Sadat Abdulai
 Ghana,Q16733008,Muntaka Mohammed Mubarak,relative,Q16218681,Ras Mubarak
 Ghana,Q16733008,Muntaka Mohammed Mubarak,relative,Q78170633,Mohammed Sadat Abdulai
+Ghana,Q18687677,Asiedu Nketia,father,Q47454550,Nketiah
 Ghana,Q1933412,Aaron Mike Oquaye,child,Q33069716,Mike Oquaye Jnr
 Ghana,Q23541289,Zanetor Agyeman-Rawlings,father,Q51002,Jerry Rawlings
 Ghana,Q23541289,Zanetor Agyeman-Rawlings,mother,Q6962296,Nana Konadu Agyeman Rawlings
@@ -6368,6 +6375,7 @@ India,Q1058,Narendra Modi,spouse,Q16947607,Jashodaben Narendrabhai Modi
 India,Q106811781,Deepti Kiran Maheshwari,mother,Q6414812,Kiran Maheshwari
 India,Q111343881,Ganieve Kaur Majithia,spouse,Q16215906,Bikram Singh Majithia
 India,Q113336473,Chhatrapal Singh,spouse,Q113337635,Ranjana Singh
+India,Q113622641,Banwari Lal Sharma,child,Q113622607,Ashok Sharma
 India,Q1190856,Naveen Patnaik,father,Q3526595,Biju Patnaik
 India,Q1190856,Naveen Patnaik,relative,Q7562067,Sonny Mehta
 India,Q1190856,Naveen Patnaik,sibling,Q23879683,Geeta Mehta
@@ -6511,6 +6519,7 @@ India,Q16908996,Ladu Kishore Swain,spouse,Q63994063,Manjula Swain
 India,Q16956874,Geeta Koda,spouse,Q3382907,Madhu Koda
 India,Q17198781,Tamilisai Soundararajan,father,Q6443604,Kumari Ananthan
 India,Q17385578,Anshuman Mohanty,father,Q15724394,Nalinikanta Mohanty
+India,Q17386228,Uday U. Lalit,father,Q18044523,U. R. Lalit
 India,Q1749549,Sumalata,spouse,Q2721714,Ambareesh
 India,Q1766088,Altamas Kabir,father,Q6176455,Jehangir Kabir
 India,Q1766088,Altamas Kabir,relative,Q5939753,Humayun Kabir
@@ -6698,7 +6707,7 @@ India,Q3503625,Rabri Devi,child,Q14317045,Tejashwi Yadav
 India,Q3503625,Rabri Devi,child,Q21516723,Tej Pratap Yadav
 India,Q3503625,Rabri Devi,child,Q22572409,Misa Bharati Devi
 India,Q3503625,Rabri Devi,child,Q25231308,Raj Lakshmi Yadav
-India,Q3503625,Rabri Devi,relative,Q93303139,Chiranjeev Rao
+India,Q3503625,Rabri Devi,relative,Q93303139,G.Chiranjeev Rao
 India,Q3503625,Rabri Devi,sibling,Q7397883,Sadhu Yadav
 India,Q3503625,Rabri Devi,sibling,Q7631238,Subhash Prasad Yadav
 India,Q3503625,Rabri Devi,spouse,Q561812,Lalu Prasad Yadav
@@ -6962,7 +6971,7 @@ India,Q561812,Lalu Prasad Yadav,child,Q22572414,Rohini Devi
 India,Q561812,Lalu Prasad Yadav,child,Q25231308,Raj Lakshmi Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7397883,Sadhu Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7631238,Subhash Prasad Yadav
-India,Q561812,Lalu Prasad Yadav,relative,Q93303139,Chiranjeev Rao
+India,Q561812,Lalu Prasad Yadav,relative,Q93303139,G.Chiranjeev Rao
 India,Q561812,Lalu Prasad Yadav,spouse,Q3503625,Rabri Devi
 India,Q5628624,H. Vasanthakumar,child,Q7929215,Vijay Vasanth
 India,Q5628624,H. Vasanthakumar,sibling,Q6443604,Kumari Ananthan
@@ -7380,6 +7389,7 @@ Indonesia,Q17411611,Tubagus Haerul Jaman,father,Q25469489,Chasan Sochib
 Indonesia,Q17411611,Tubagus Haerul Jaman,mother,Q94159823,Ratu Rapiah Suhaemi
 Indonesia,Q17411648,Wahidin Halim,sibling,Q183581,Hassan Wirajuda
 Indonesia,Q18098280,Charles Honoris,child,Q106828528,Rafael Rakaputra Honoris
+Indonesia,Q18342668,Retno Marsudi,child,Q111472682,Dyota Marsudi
 Indonesia,Q18342668,Retno Marsudi,spouse,Q111367951,Agus Marsudi
 Indonesia,Q183581,Hassan Wirajuda,sibling,Q17411648,Wahidin Halim
 Indonesia,Q18421248,Siti Nurbaya Bakar,child,Q109541105,Ananda Tohpati.N. R
@@ -9612,6 +9622,8 @@ Netherlands,Q1358714,Ernst Hirsch Ballin,child,Q85504870,Marianne Hirsch Ballin
 Netherlands,Q1358714,Ernst Hirsch Ballin,father,Q62023576,E.D. Hirsch Ballin
 Netherlands,Q1366279,Jozias van Aartsen,father,Q1682422,Jan van Aartsen
 Netherlands,Q1375236,Halbe Zijlstra,spouse,Q84517460,Ingrid de Bondt
+Netherlands,Q13895784,Nicoline van den Broek-Laman Trip,father,Q113585441,Rutger Egbert Laman Trip
+Netherlands,Q13895784,Nicoline van den Broek-Laman Trip,mother,Q113585441,Rutger Egbert Laman Trip
 Netherlands,Q1396958,Jan Marijnissen,child,Q1882072,Lilian Marijnissen
 Netherlands,Q1396958,Jan Marijnissen,spouse,Q1961129,Mari-Anne Marijnissen
 Netherlands,Q1397450,Jan Terlouw,child,Q14307621,Sanne Terlouw
@@ -10788,7 +10800,7 @@ Philippines,Q111182546,Maria Luisa Romualdo,spouse,Q12965596,Jurdin Jesus Romual
 Philippines,Q112317708,Nina Ynares,mother,Q65974925,Rebecca Ynares
 Philippines,Q112317708,Nina Ynares,sibling,Q97273715,Casimiro Ynares III
 Philippines,Q112660482,Sandro Marcos,father,Q983324,Bongbong Marcos
-Philippines,Q112660482,Sandro Marcos,mother,Q35283279,Liza Marcos
+Philippines,Q112660482,Sandro Marcos,mother,Q35283279,Louise Araneta Marcos
 Philippines,Q11845136,Lucy Torres-Gomez,spouse,Q6108639,Richard Gomez
 Philippines,Q123665,Gloria Macapagal Arroyo,child,Q1858359,Mikey Arroyo
 Philippines,Q123665,Gloria Macapagal Arroyo,child,Q5279602,Diosdado Macapagal–Arroyo
@@ -11167,7 +11179,7 @@ Philippines,Q983324,Bongbong Marcos,father,Q1463,Ferdinand Marcos
 Philippines,Q983324,Bongbong Marcos,mother,Q285536,Imelda Marcos
 Philippines,Q983324,Bongbong Marcos,sibling,Q2208719,Imee Marcos
 Philippines,Q983324,Bongbong Marcos,sibling,Q6069124,Irene Marcos-Araneta
-Philippines,Q983324,Bongbong Marcos,spouse,Q35283279,Liza Marcos
+Philippines,Q983324,Bongbong Marcos,spouse,Q35283279,Louise Araneta Marcos
 Philippines,Q983326,Ronaldo Puno,father,Q15634561,Ricardo C. Puno
 Philippines,Q983326,Ronaldo Puno,relative,Q112153161,Norberto P. Romualdez
 Philippines,Q983326,Ronaldo Puno,sibling,Q5295761,Dong Puno
@@ -11180,6 +11192,7 @@ Poland,Q1030376,Witold Sitarz,child,Q77259326,Emilia Sitarz
 Poland,Q111574804,Sebastian Kęciek,spouse,Q111726938,Izabela Kęciek
 Poland,Q1166062,Dariusz Rosati,child,Q2789894,Weronika Rosati
 Poland,Q1166062,Dariusz Rosati,spouse,Q11836904,Teresa Rosati
+Poland,Q11715253,Jacek Czaputowicz,spouse,Q113623430,Magdalena Sadowska-Czaputowicz
 Poland,Q11718864,Jan Emeryk Rościszewski,father,Q55771269,Marcin Rościszewski
 Poland,Q11719272,Jan Tombiński,spouse,Q107466227,Agnieszka Tombińska
 Poland,Q11720924,Jarosław Lindenberg,sibling,Q9281948,Grzegorz Lindenberg
@@ -12652,8 +12665,8 @@ South Korea,Q12615206,Jeon Soon-ok,sibling,Q482694,Jeon Tae-il
 South Korea,Q12616175,정호준,father,Q12615521,Chung Dae-chul
 South Korea,Q12616590,Cho Kuk,child,Q107617686,Cho Min
 South Korea,Q12616590,Cho Kuk,spouse,Q72291512,Chung Kyung-shim
-South Korea,Q12617992,Ji Sang-wook,father,Q59299044,지성한
-South Korea,Q12617992,Ji Sang-wook,spouse,Q489874,Shim Eun-ha
+South Korea,Q12617992,Ji Sang-wuk,father,Q59299044,지성한
+South Korea,Q12617992,Ji Sang-wuk,spouse,Q489874,Shim Eun-ha
 South Korea,Q12619482,Choi Kyu-Sung,spouse,Q12610901,이경숙
 South Korea,Q138048,Park Geun-hye,father,Q14356,Park Chung-hee
 South Korea,Q138048,Park Geun-hye,mother,Q390099,Yuk Young-soo
@@ -20794,6 +20807,7 @@ United States,Q48259,Dick Cheney,spouse,Q234992,Lynne Cheney
 United States,Q484005,Alexander Vershbow,father,Q40176783,Arthur Vershbow
 United States,Q4888549,Benjamin F. Kramer,father,Q7509186,Sidney Kramer
 United States,Q4888549,Benjamin F. Kramer,sibling,Q7364585,Rona E. Kramer
+United States,Q4897558,Beth Kerttula,father,Q6166798,Jay Kerttula
 United States,Q4898286,Betsy DeVos,father,Q20685182,Edgar Prince
 United States,Q4898286,Betsy DeVos,sibling,Q749887,Erik Prince
 United States,Q4898286,Betsy DeVos,spouse,Q5272818,Dick DeVos
@@ -21058,6 +21072,7 @@ United States,Q730580,Peter R. Orszag,spouse,Q4902540,Bianna Golodryga
 United States,Q731783,Paul Wellstone,child,Q24054807,Marcia Wellstone Markuson
 United States,Q731783,Paul Wellstone,spouse,Q13562386,Sheila Wellstone
 United States,Q7320554,Rhine McLin,father,Q5006564,C. J. McLin
+United States,Q7328603,Richard Ravitch,spouse,Q5271548,Diane Ravitch
 United States,Q7331626,Rick Outman,child,Q105981951,Pat Outman
 United States,Q7332181,Ricardo Rosselló,father,Q1147285,Pedro Rosselló
 United States,Q7332181,Ricardo Rosselló,spouse,Q30238575,Beatriz Areizaga
