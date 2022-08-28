@@ -9,6 +9,7 @@ India,Q1058,Narendra Modi,spouse,Q16947607,Jashodaben Narendrabhai Modi
 India,Q106811781,Deepti Kiran Maheshwari,mother,Q6414812,Kiran Maheshwari
 India,Q111343881,Ganieve Kaur Majithia,spouse,Q16215906,Bikram Singh Majithia
 India,Q113336473,Chhatrapal Singh,spouse,Q113337635,Ranjana Singh
+India,Q113622641,Banwari Lal Sharma,child,Q113622607,Ashok Sharma
 India,Q1190856,Naveen Patnaik,father,Q3526595,Biju Patnaik
 India,Q1190856,Naveen Patnaik,relative,Q7562067,Sonny Mehta
 India,Q1190856,Naveen Patnaik,sibling,Q23879683,Geeta Mehta
@@ -152,6 +153,7 @@ India,Q16908996,Ladu Kishore Swain,spouse,Q63994063,Manjula Swain
 India,Q16956874,Geeta Koda,spouse,Q3382907,Madhu Koda
 India,Q17198781,Tamilisai Soundararajan,father,Q6443604,Kumari Ananthan
 India,Q17385578,Anshuman Mohanty,father,Q15724394,Nalinikanta Mohanty
+India,Q17386228,Uday U. Lalit,father,Q18044523,U. R. Lalit
 India,Q1749549,Sumalata,spouse,Q2721714,Ambareesh
 India,Q1766088,Altamas Kabir,father,Q6176455,Jehangir Kabir
 India,Q1766088,Altamas Kabir,relative,Q5939753,Humayun Kabir
@@ -339,7 +341,7 @@ India,Q3503625,Rabri Devi,child,Q14317045,Tejashwi Yadav
 India,Q3503625,Rabri Devi,child,Q21516723,Tej Pratap Yadav
 India,Q3503625,Rabri Devi,child,Q22572409,Misa Bharati Devi
 India,Q3503625,Rabri Devi,child,Q25231308,Raj Lakshmi Yadav
-India,Q3503625,Rabri Devi,relative,Q93303139,Chiranjeev Rao
+India,Q3503625,Rabri Devi,relative,Q93303139,G.Chiranjeev Rao
 India,Q3503625,Rabri Devi,sibling,Q7397883,Sadhu Yadav
 India,Q3503625,Rabri Devi,sibling,Q7631238,Subhash Prasad Yadav
 India,Q3503625,Rabri Devi,spouse,Q561812,Lalu Prasad Yadav
@@ -603,7 +605,7 @@ India,Q561812,Lalu Prasad Yadav,child,Q22572414,Rohini Devi
 India,Q561812,Lalu Prasad Yadav,child,Q25231308,Raj Lakshmi Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7397883,Sadhu Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7631238,Subhash Prasad Yadav
-India,Q561812,Lalu Prasad Yadav,relative,Q93303139,Chiranjeev Rao
+India,Q561812,Lalu Prasad Yadav,relative,Q93303139,G.Chiranjeev Rao
 India,Q561812,Lalu Prasad Yadav,spouse,Q3503625,Rabri Devi
 India,Q5628624,H. Vasanthakumar,child,Q7929215,Vijay Vasanth
 India,Q5628624,H. Vasanthakumar,sibling,Q6443604,Kumari Ananthan
