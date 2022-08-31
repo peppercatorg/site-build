@@ -1,6 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q102046961,Anatoliy Hunko,male,1976-03-12,11,,,НДУ 9 Гунько Анатолій Григорович.jpg,
-Q102340260,Vitalii Kim,male,1981-03-13,11,,,Виталий Ким .jpg,Vitaliy Kim
+Q102340260,Vitalii Kim,male,1981-03-13,11,,,Виталий Ким .jpg,Vitalii Kim
 Q104706501,Viktor Husak,male,1978-06-02,11,,,,
 Q105098172,Vyacheslav Ovechkin,male,1983-06-14,11,,,,Vyacheslav Ovechkin
 Q105302343,Ivan Fedorov,male,1988-08-29,11,,,Empfang für ukrainische Delegation im Kölner Rathaus – Iwan Fedorow – Іван Федоров-1046.jpg,Ivan Fedorov (politician)
@@ -32,6 +32,7 @@ Q113131430,Oleksiy Simonenko,male,1976-09-18,11,,,,Oleksiy Symonenko
 Q113153569,Oksana Zholnovich,female,1979-02-21,11,,,Оксана Жолнович 3.jpg,Oksana Zholnovych
 Q113366385,Irina Novikova,female,,,,,,
 Q11338776,Boris Kozhin,male,1944-09-25,11,,,Borys Kozhyn.png,Boris Kozhin
+Q113486431,Sergei Vladimirovich Yeliseyev,male,1971-05-05,11,,,,
 Q1151367,Yuriy Mykhalchyshyn,male,1982-11-14,11,,,Yuriy Mykhalchyshyn.jpg,
 Q11685722,Anatolii Tolstoukhov,male,1956-01-02,11,,,Anatoly Tolstouhov.jpg,
 Q11711544,Ihor Huz,male,1982-01-11,11,,,Ігор Гузь народний депутат України.jpg,Ihor Huz
@@ -46,6 +47,7 @@ Q11729544,Jurij Kiczaty,male,1959-11-27,11,,,,
 Q11729549,Jurij Kluczkowski,male,1949-07-18,11,,,Yuriy Klyuchkovskyi.jpg,
 Q11729589,Yurii Lytvyn,male,1968-04-30,11,,,,
 Q11756813,Lilija Hryhorowicz,female,1957-09-12,11,,,НДУ 6 Григорович Лілія Степанівна.jpg,
+Q11770352,Markiian Malskyi,male,1954-02-16,11,,,Markijan Malski Aleksandrów Kujawski.JPG,
 Q11787482,Mykhailo Tsymbaliuk,male,1964-11-21,11,,,Цимбалюк ММ.jpg,
 Q11787492,Mychajło Hładij,male,1952-11-06,11,,,НДУ 5 Гладій Михайло Васильович.jpg,
 Q11787557,Mykoła Dżyha,male,1949-05-15,11,,,Mykola Dzhyha.jpg,Mykola Dzhyha
@@ -954,7 +956,7 @@ Q129119,Ruslana,female,1973-05-24,11,,,Ruslana in Kiev.JPG,Ruslana
 Q1334151,Petro Dyminsky,male,1954-11-27,11,,,Петро Димінський.jpg,Petro Dyminskyi
 Q1334178,Oleksandr Yaroslavsky,male,1959-12-05,11,,,Александр Владиленович Ярославский.JPG,Oleksandr Yaroslavskyi
 Q133523,Andriy Tyahnybok,male,1973-02-26,11,,,Andriy Tiahnybok.jpg,
-Q1340699,Victor Pinchuk,male,1960-12-14,11,,,Viktor Pinchuk 2016.jpg,Victor Pinchuk
+Q1340699,Victor Pinchuk,male,1960-12-14,11,,,Viktor Pinchuk David Shankbone 2010.jpg,Victor Pinchuk
 Q1348657,Viktor Pynzenyk,male,1954-04-15,11,,,Viktor Pynzenyk.jpg,Viktor Pynzenyk
 Q136971,Mykola Kniazhytskyi,male,1968-06-02,11,,,Mykola Kniazhytshkyi.jpg,Mykola Kniazhytskyi
 Q1378506,Vyacheslav Kyrylenko,male,1968-06-07,11,,,Wikipedia Loves Monuments Awards Ceremony - 0238.jpg,Vyacheslav Kyrylenko
@@ -993,6 +995,7 @@ Q16159908,Ihor Aleksieiev,male,1986-04-23,11,,,,
 Q16160567,Yehor Annienkov,male,1941-05-03,11,,,НДУ 3 Аннєнков Єгор Іванович.jpg,
 Q16161387,Mykola Babenko,male,1980-09-17,11,,,BabenkoMV.jpg,
 Q16161751,Oleksandr Bakumenko,male,1959-04-29,11,2022-04-11,11,Oleksandr Bakumenko.jpg,Oleksandr Bakumenko
+Q16161939,Ihor Baluta,male,1970-12-10,11,,,Ihor M. Baluta (09.2014) 1.jpg,Ihor Baluta
 Q16163992,Mykhailo Blavatskyi,male,1958-07-31,11,,,Mykhailo Blavatskyi2.jpg,
 Q16164006,Yurii Blahodyr,male,1974-01-28,11,,,,
 Q16164169,Oleksandr Bobylov,male,1963-09-25,11,2014-09-01,11,,
@@ -1401,7 +1404,7 @@ Q2376704,Oleksandr Omelchenko,male,1938-08-09,11,2021-11-25,11,Олександ�
 Q23783065,Dmytro Bilotserkovets,male,1986-02-21,11,,,"Белоцерковец (crop, 2018, 1).jpg",
 Q23819511,Oleksandr Saienko,male,1984-02-29,11,,,Saienko.jpg,Oleksandr Saienko
 Q23825095,Andriy Reva,male,1966-07-07,11,,,Андрій Рева.jpg,Andriy Reva
-Q24025631,Dmytro Kuleba,male,1981-04-19,11,,,Дмитро Кулеба 1 (cropped).jpg,Dmytro Kuleba
+Q24025631,Dmytro Kuleba,male,1981-04-19,11,,,Міністр закордонних справ Дмитро Кулеба (cropped).jpg,Dmytro Kuleba
 Q24025730,Iryna Spirina,female,1959-03-15,11,,,,
 Q24025731,Viacheslav Zadorozhnyi,male,1955-03-06,11,,,,
 Q24529732,Khvycha Meparishvili,male,1972-08-07,11,,,,
@@ -1922,6 +1925,7 @@ Q65202371,Yuriy Husyev,male,1979-11-15,11,,,,
 Q65206874,Vadym Halaichuk,male,1971-02-14,11,,,НДУ 9 Галайчук Вадим Сергійович.jpg,
 Q65206917,Maksym Marchenko,male,1983-02-10,11,,,Marchenko maksym.jpg,Maksym Marchenko
 Q65208208,Roksolana Pidlasa,female,1994-01-25,11,,,PidlasaРоксоланапідласа667.jpg,
+Q65209892,Трофімцева Ольга Василівна,female,1976-07-06,11,,,Трофімцева.jpg,
 Q65212886,Ihor Kolykhaiev,male,1971-05-08,11,,,Колихаєв Ігор Вікторович. 2020. UKRAINE.jpg,Ihor Kolykhaiev
 Q6526378,Leonid Klimov,male,1953-03-31,11,,,Leonid Klimov.jpg,Leonid Klimov
 Q653266,Denys Sylantyev,male,1976-10-03,11,,,Денис Силантьєв.jpg,Denys Sylantyev

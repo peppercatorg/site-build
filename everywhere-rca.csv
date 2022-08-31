@@ -217,6 +217,7 @@ Argentina,Q4408025,Jorge Sapag,father,Q5368671,Elías Sapag
 Argentina,Q4408025,Jorge Sapag,mother,Q106866537,Alma Teresa Natalia Cavallo Medina Onrubia
 Argentina,Q4408025,Jorge Sapag,sibling,Q9025653,Luz Sapag
 Argentina,Q452112,Amado Boudou,partner,Q109729369,Agustina Kämpfer
+Argentina,Q452112,Amado Boudou,partner,Q16220920,Mónica García de la Fuente
 Argentina,Q4685482,Adriana Bortolozzi,spouse,Q5461936,Floro Bogado
 Argentina,Q470603,Aníbal Ibarra,sibling,Q7931145,Vilma Ibarra
 Argentina,Q4712180,Alberto Rodríguez Saá,relative,Q4684272,Adolfo Rodríguez Saá
@@ -3191,6 +3192,9 @@ Denmark,Q7827256,Torsten Schack Pedersen,spouse,Q12324973,Louise Schack Elholm
 Denmark,Q8084240,Sara Olsvig,father,Q108949687,Lars Olsvig
 Denmark,Q917179,Lars Barfoed,spouse,Q12316082,Helle Sjelle
 Denmark,Q92348929,Birger Riis-Jørgensen,spouse,Q447647,Karin Riis-Jørgensen
+Denmark,Q984350,Thor Möger Pedersen,father,Q12339586,Torben Möger Pedersen
+Denmark,Q984350,Thor Möger Pedersen,sibling,Q12314425,Gry Möger Poulsen
+Denmark,Q984350,Thor Möger Pedersen,spouse,Q12328270,Nanna Westerby
 Djibouti,Q10522744,Abdoulkader Kamil Mohamed,sibling,Q3318625,Mohamed Kamil Mohamed
 Djibouti,Q57390,Ismail Omar Guelleh,spouse,Q42723319,Kadra Mahamoud Haid
 Donetsk,Q16729474,Ekaterina Gubareva,spouse,Q15902969,Pavel Gubarev
@@ -4495,6 +4499,7 @@ European Union,Q953376,Giles Chichester,mother,Q75571674,Sheila Mary Craven
 European Union,Q953376,Giles Chichester,spouse,Q75571679,Virginia Ansell
 European Union,Q960643,Vincent Peillon,sibling,Q22247955,Antoine Peillon
 European Union,Q96290,Helmut Scholz,father,Q1458336,Paul Scholz
+European Union,Q964124,Lennart Sacrédeus,spouse,Q65522051,Birgitta Sacrédeus
 European Union,Q964403,Daniel Ducarme,child,Q3022653,Denis Ducarme
 European Union,Q9670,Caroline Lucas,spouse,Q21716288,Richard Savage
 European Union,Q967118,Csaba Molnár,spouse,Q16523140,Kinga Szűcs
@@ -6378,6 +6383,8 @@ India,Q106811781,Deepti Kiran Maheshwari,mother,Q6414812,Kiran Maheshwari
 India,Q111343881,Ganieve Kaur Majithia,spouse,Q16215906,Bikram Singh Majithia
 India,Q113336473,Chhatrapal Singh,spouse,Q113337635,Ranjana Singh
 India,Q113622641,Banwari Lal Sharma,child,Q113622607,Ashok Sharma
+India,Q113622641,Banwari Lal Sharma,sibling,Q113652387,Murari Lal Sharma
+India,Q113622641,Banwari Lal Sharma,sibling,Q113652404,Captain Suresh Sharma
 India,Q1190856,Naveen Patnaik,father,Q3526595,Biju Patnaik
 India,Q1190856,Naveen Patnaik,relative,Q7562067,Sonny Mehta
 India,Q1190856,Naveen Patnaik,sibling,Q23879683,Geeta Mehta
@@ -8745,6 +8752,7 @@ Jordan,Q12247924,Nabil Al Mashini,sibling,Q12229586,Ghassan Al-Mashini
 Jordan,Q1393504,Faisal al-Fayez,father,Q100598164,Akef Al-Fayez
 Jordan,Q22687372,Jumana Ghunaimat,spouse,Q55499746,خالد خليفات
 Jordan,Q29512679,Omar Razzaz,father,Q6936630,Munif al-Razzaz
+Jordan,Q359372,Adnan Badran,sibling,Q696952,Mudar Badran
 Jordan,Q467852,Samir Rifai,father,Q144271,Zaid al-Rifai
 Jordan,Q5648173,Hani al-Mulki,father,Q3432643,Fawzi al-Mulki
 Jordan,Q57464,Abdullah II of Jordan,child,Q13574439,Princess Iman bint Abdullah
@@ -9203,6 +9211,8 @@ Malaysia,Q717696,Lim Kit Siang,child,Q707164,Lim Guan Eng
 Malaysia,Q7325474,Abang Abdul Rahman Johari Abang Openg,father,Q4663397,Abang Haji Openg
 Malaysia,Q73962,Mohamed Azmin Ali,sibling,Q12683102,Azwan Ali
 Malaysia,Q73962,Mohamed Azmin Ali,sibling,Q12712124,Ummi Hafilda Ali
+Malaysia,Q7675880,Taib Azamudden Md Taib,child,Q108089824,Akram Ikrami Taib Azamudden
+Malaysia,Q7675880,Taib Azamudden Md Taib,child,Q97203200,Afnan Hamimi Taib Azamudden
 Maldives,Q152381,Mohamed Nasheed,spouse,Q4993858,Laila Ali Abdulla
 Maldives,Q16146747,Ahmed Mahloof,spouse,Q98868378,Nazra Naseem
 Maldives,Q297957,Maumoon Abdul Gayoom,child,Q5315815,Dunya Maumoon
@@ -9247,6 +9257,7 @@ Mexico,Q1399260,Jorge Castañeda Gutman,spouse,Q6018186,Miriam Morales
 Mexico,Q16186420,Angélica De la Peña Gómez,spouse,Q2913673,Jesús Ortega Martínez
 Mexico,Q16186821,Loretta Ortíz Ahlf,spouse,Q5937371,José Agustín Ortiz Pinchetti
 Mexico,Q16195540,Adriana Fuentes Téllez,sibling,Q4762662,Angelica Fuentes
+Mexico,Q16220920,Mónica García de la Fuente,partner,Q452112,Amado Boudou
 Mexico,Q16221662,Regina Vázquez Saut,father,Q2782897,Cirilo Vázquez Lagunes
 Mexico,Q16221662,Regina Vázquez Saut,sibling,Q19519386,Fabiola Vázquez Saut
 Mexico,Q16221666,Ricardo Villarreal García,sibling,Q5680996,Luis Alberto Villarreal
@@ -10255,6 +10266,7 @@ Norway,Q4589089,Steinulf Tungesvik,father,Q4588755,Hans Olav Tungesvik
 Norway,Q460322,Kai Eide,spouse,Q11972686,Gro Holm
 Norway,Q462761,Manuela Ramin-Osmundsen,spouse,Q4993147,Terje Osmundsen
 Norway,Q462838,Hanne Bjurstrøm,partner,Q70437009,Jørn Maurud
+Norway,Q463689,Valgerd Svarstad Haugland,child,Q113640607,Olav Svarstad Haugland
 Norway,Q463717,Kristin Krohn Devold,mother,Q4999882,Kristin K. Devold
 Norway,Q463758,Anne Enger,child,Q4994195,Erik Lahnstein
 Norway,Q463758,Anne Enger,sibling,Q4994228,Inger S. Enger
@@ -13576,6 +13588,7 @@ Sweden,Q4961658,Britta Lejon,mother,Q1796120,Anna-Greta Leijon
 Sweden,Q4962650,Tanja Linderborg,child,Q1806094,Åsa Linderborg
 Sweden,Q4963034,Gudrun Lindvall,spouse,Q5743490,Carl Frick
 Sweden,Q4964155,Marianne Lundius,spouse,Q5756959,Johan Gernandt
+Sweden,Q4965523,Ragnwi Marcelind,spouse,Q113649366,Ove Marcelind
 Sweden,Q496604,Andreas Carlgren,father,Q5602643,Frans Carlgren
 Sweden,Q496604,Andreas Carlgren,spouse,Q16632844,Tomas Harila Carlgren
 Sweden,Q4968944,Laila Naraghi,sibling,Q108415781,Mariam Naraghi
@@ -13619,6 +13632,7 @@ Sweden,Q5605672,Sebastian Cederschiöld,mother,Q206619,Charlotte Cederschiöld
 Sweden,Q5605672,Sebastian Cederschiöld,sibling,Q106966966,Anna Cederschiöld
 Sweden,Q5619080,Gunnar Lund,father,Q20156148,Wiggo Lund
 Sweden,Q5619080,Gunnar Lund,relative,Q4963919,Regina Lund
+Sweden,Q5650816,Hans Wallmark,spouse,Q4990168,Susanne Wallmark
 Sweden,Q5708784,Ingemar Eliasson,child,Q5708819,Jonas Eliasson
 Sweden,Q5711551,Tomas Eneroth,child,Q27514214,Jesper Eneroth
 Sweden,Q5716511,Henrik S. Järrel,father,Q608755,Stig Järrel
@@ -13671,6 +13685,7 @@ Sweden,Q77555,Walburga Habsburg Douglas,spouse,Q18941199,Count Archibald Douglas
 Sweden,Q879773,Björn von Sydow,mother,Q4981674,Tullia von Sydow
 Sweden,Q887398,Bo Holmberg,spouse,Q208591,Anna Lindh
 Sweden,Q897282,Kristina Axén Olin,spouse,Q6024863,Mats Olin
+Sweden,Q964124,Lennart Sacrédeus,spouse,Q65522051,Birgitta Sacrédeus
 Sweden,Q966884,Stefan Attefall,sibling,Q6172463,Anders Sellström
 Switzerland,Q105062122,Rolf Graber,sibling,Q121886,Jean-Pierre Graber
 Switzerland,Q110634549,Raphaël Mahaim,relative,Q1810035,Ernest Mahaim
@@ -13878,6 +13893,8 @@ Taiwan,Q8279684,Wang Huei-mei,sibling,Q65047532,王順昌
 Taiwan,Q8280332,Su Chi,sibling,Q8276630,Su Yeong-chin
 Taiwan,Q8280332,Su Chi,spouse,Q9200211,Chen Yueqing
 Taiwan,Q8280346,Wu Jin-lin,sibling,Q8272594,Wu Tse-yuan
+Taiwan,Q8347124,Chang Ching-hui,child,Q55696381,Wei Yun
+Taiwan,Q8347124,Chang Ching-hui,spouse,Q8350585,Wei Ting-chao
 Taiwan,Q8347775,Chiu Yi-ying,father,Q16907425,Chiu Mao-nan
 Taiwan,Q8347775,Chiu Yi-ying,sibling,Q16259975,Chiu Ming-chang
 Taiwan,Q8347775,Chiu Yi-ying,spouse,Q9206928,Lee Yung-te
@@ -14211,6 +14228,7 @@ Ukraine,Q11285342,Andrii Derkach,father,Q4158965,Leonid Derkach
 Ukraine,Q1151367,Yuriy Mykhalchyshyn,father,Q373570,Adrian Mikhalchishin
 Ukraine,Q11729549,Jurij Kluczkowski,child,Q65200942,Ярина Ключковська
 Ukraine,Q11729549,Jurij Kluczkowski,spouse,Q20067564,Ключковська Ірина Михайлівна
+Ukraine,Q11770352,Markiian Malskyi,child,Q64846050,Markiyan Malsky
 Ukraine,Q12074201,Hryhoriy Illyashov,spouse,Q751757,Olena Lukash
 Ukraine,Q12077132,Oleksii Azarov,father,Q57590,Mykola Azarov
 Ukraine,Q12078533,Anatolii Antemiuk,sibling,Q12078534,Viktor Antemiuk
