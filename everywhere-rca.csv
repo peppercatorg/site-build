@@ -2639,6 +2639,32 @@ Croatia,Q58191,Vesna Pusić,father,Q971438,Eugen Pusić
 Croatia,Q61062198,Marija Selak Raspudić,spouse,Q16109264,Nino Raspudić
 Croatia,Q928356,Miroslav Tuđman,father,Q183703,Franjo Tuđman
 Croatia,Q928356,Miroslav Tuđman,mother,Q37693161,Ankica Tuđman
+Cuba,Q11256,Fidel Castro,child,Q1939343,Alina Fernández
+Cuba,Q11256,Fidel Castro,child,Q19917949,Fidel Ángel Castro Díaz-Balart
+Cuba,Q11256,Fidel Castro,father,Q251556,Ángel Castro y Argiz
+Cuba,Q11256,Fidel Castro,mother,Q107526145,Lina Ruz González
+Cuba,Q11256,Fidel Castro,partner,Q19516418,Natalia Revuelta Clews
+Cuba,Q11256,Fidel Castro,partner,Q27649090,Dalia Soto del Valle
+Cuba,Q11256,Fidel Castro,sibling,Q3041532,Juanita Castro
+Cuba,Q11256,Fidel Castro,sibling,Q360346,Ramón Castro Ruz
+Cuba,Q11256,Fidel Castro,sibling,Q46809,Raúl Castro
+Cuba,Q11256,Fidel Castro,sibling,Q66486307,Lidia Castro Argota
+Cuba,Q11256,Fidel Castro,spouse,Q27649090,Dalia Soto del Valle
+Cuba,Q11256,Fidel Castro,spouse,Q3068321,Mirta Díaz-Balart
+Cuba,Q253736,Mariela Castro Espín,father,Q46809,Raúl Castro
+Cuba,Q253736,Mariela Castro Espín,mother,Q466662,Vilma Espin
+Cuba,Q253736,Mariela Castro Espín,relative,Q11256,Fidel Castro
+Cuba,Q253736,Mariela Castro Espín,sibling,Q4714504,Alejandro Castro Espín
+Cuba,Q253736,Mariela Castro Espín,spouse,Q5949905,Juan Gutiérrez Fischmann
+Cuba,Q46809,Raúl Castro,child,Q253736,Mariela Castro Espín
+Cuba,Q46809,Raúl Castro,child,Q4714504,Alejandro Castro Espín
+Cuba,Q46809,Raúl Castro,father,Q251556,Ángel Castro y Argiz
+Cuba,Q46809,Raúl Castro,mother,Q107526145,Lina Ruz González
+Cuba,Q46809,Raúl Castro,sibling,Q11256,Fidel Castro
+Cuba,Q46809,Raúl Castro,sibling,Q3041532,Juanita Castro
+Cuba,Q46809,Raúl Castro,sibling,Q360346,Ramón Castro Ruz
+Cuba,Q46809,Raúl Castro,sibling,Q66486307,Lidia Castro Argota
+Cuba,Q46809,Raúl Castro,spouse,Q466662,Vilma Espin
 Cyprus,Q107049021,Giorgos  Koukouma,mother,Q12884514,Skevi Koukouma Koutra
 Cyprus,Q107049720,Christos Christofias,father,Q57334,Dimitris Christofias
 Cyprus,Q107049720,Christos Christofias,mother,Q12872413,Elsi Christofias
