@@ -96,6 +96,8 @@ Andorra,Q329,Nicolas Sarkozy,spouse,Q235177,Cécilia Attias
 Angola,Q10365296,Ruy Mingas,child,Q10335872,Nayma Mingas
 Angola,Q4689392,Afonso Van-Dunem,spouse,Q51883215,Luzia Inglês Van-Dúnem
 Angola,Q57313,José Eduardo dos Santos,child,Q10309412,José Filomeno dos Santos
+Angola,Q57313,José Eduardo dos Santos,child,Q18206494,Coréon Dú
+Angola,Q57313,José Eduardo dos Santos,child,Q30933762,Welwitschea dos Santos
 Angola,Q57313,José Eduardo dos Santos,child,Q456034,Isabel dos Santos
 Angola,Q57313,José Eduardo dos Santos,spouse,Q434534,Ana Paula dos Santos
 Antigua and Barbuda,Q100606338,Maria Bird-Browne,spouse,Q17177542,Gaston Browne
@@ -1328,7 +1330,7 @@ Brazil,Q37181,Luiz Inácio Lula da Silva,child,Q10286880,Fábio Luís Lula da Si
 Brazil,Q37181,Luiz Inácio Lula da Silva,child,Q10325423,Marcos Claudio Lula da Silva
 Brazil,Q37181,Luiz Inácio Lula da Silva,father,Q64822382,Aristides Inácio da Silva
 Brazil,Q37181,Luiz Inácio Lula da Silva,mother,Q64822399,Eurídice Ferreira de Melo
-Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q112071182,Janja Lula Silva
+Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q112071182,Janja Lula da Silva
 Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q17278001,Maria de Lurdes da Silva
 Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q4199383,Marisa Letícia Lula da Silva
 Brazil,Q3784499,Helder Barbalho,father,Q3806086,Jader Barbalho
@@ -2579,8 +2581,6 @@ Congo-Kinshasa,Q107368856,Gael Bussa,father,Q56515694,Jean-Lucien Bussa
 Congo-Kinshasa,Q107368856,Gael Bussa,mother,Q107369212,Petronelle Mambetuku Kimpioka
 Congo-Kinshasa,Q107368856,Gael Bussa,spouse,Q107369189,Alicia Salawa
 Congo-Kinshasa,Q112119627,Jean-Marc Kabund,child,Q113568911,Felly K
-Congo-Kinshasa,Q112119627,Jean-Marc Kabund,father,Q113509979,Cadet Mutamba
-Congo-Kinshasa,Q112119627,Jean-Marc Kabund,spouse,Q113509968,Christine Kasongo Kabund
 Congo-Kinshasa,Q112258069,Sifa Mahanya,spouse,Q135547,Laurent-Désiré Kabila
 Congo-Kinshasa,Q135547,Laurent-Désiré Kabila,child,Q19629165,Zoé Kabila
 Congo-Kinshasa,Q135547,Laurent-Désiré Kabila,child,Q2828106,Aimée Kabila Mulengela
@@ -4856,6 +4856,7 @@ France,Q21294806,Michel Reveyrand-de Menthon,father,Q315029,François de Menthon
 France,Q21294806,Michel Reveyrand-de Menthon,spouse,Q270094,Marisol Touraine
 France,Q215569,Alain Juppé,spouse,Q3154954,Isabelle Juppé
 France,Q21600926,Éric Dillies,spouse,Q16948142,Sylvie Goddyn
+France,Q217070,Laurent Fabius,child,Q113676980,David Fabius
 France,Q217070,Laurent Fabius,child,Q16679944,Thomas Fabius
 France,Q217070,Laurent Fabius,child,Q21282497,Victor Fabius
 France,Q217070,Laurent Fabius,father,Q2847733,André Fabius
@@ -5807,6 +5808,7 @@ Germany,Q71018,Lothar Bisky,child,Q464658,Norbert Bisky
 Germany,Q71359,Annegret Kramp-Karrenbauer,spouse,Q59571469,Helmut Karrenbauer
 Germany,Q71508,Charles M. Huber,relative,Q154545,Léopold Sédar Senghor
 Germany,Q71533,Hans-Christian Ströbele,father,Q25714791,Rudolf Ströbele
+Germany,Q71533,Hans-Christian Ströbele,relative,Q1449211,Franz Ströbele
 Germany,Q71533,Hans-Christian Ströbele,relative,Q96673,Herbert Zimmermann
 Germany,Q71697,Carl-Eduard von Bismarck,child,Q20645666,Alexei von Bismarck
 Germany,Q71697,Carl-Eduard von Bismarck,child,Q20645671,Grace von Bismarck
@@ -6742,7 +6744,7 @@ India,Q3503625,Rabri Devi,child,Q14317045,Tejashwi Yadav
 India,Q3503625,Rabri Devi,child,Q21516723,Tej Pratap Yadav
 India,Q3503625,Rabri Devi,child,Q22572409,Misa Bharati Devi
 India,Q3503625,Rabri Devi,child,Q25231308,Raj Lakshmi Yadav
-India,Q3503625,Rabri Devi,relative,Q93303139,G.Chiranjeev Rao
+India,Q3503625,Rabri Devi,relative,Q93303139,Chiranjeev Rao
 India,Q3503625,Rabri Devi,sibling,Q7397883,Sadhu Yadav
 India,Q3503625,Rabri Devi,sibling,Q7631238,Subhash Prasad Yadav
 India,Q3503625,Rabri Devi,spouse,Q561812,Lalu Prasad Yadav
@@ -7006,7 +7008,7 @@ India,Q561812,Lalu Prasad Yadav,child,Q22572414,Rohini Devi
 India,Q561812,Lalu Prasad Yadav,child,Q25231308,Raj Lakshmi Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7397883,Sadhu Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7631238,Subhash Prasad Yadav
-India,Q561812,Lalu Prasad Yadav,relative,Q93303139,G.Chiranjeev Rao
+India,Q561812,Lalu Prasad Yadav,relative,Q93303139,Chiranjeev Rao
 India,Q561812,Lalu Prasad Yadav,spouse,Q3503625,Rabri Devi
 India,Q5628624,H. Vasanthakumar,child,Q7929215,Vijay Vasanth
 India,Q5628624,H. Vasanthakumar,sibling,Q6443604,Kumari Ananthan
@@ -8294,7 +8296,7 @@ Italy,Q3848875,Mario Occhiuto,sibling,Q3939013,Roberto Occhiuto
 Italy,Q3849206,Mario Valducci,spouse,Q21196712,Annalisa Bruchi
 Italy,Q3852400,Maura Cossutta,father,Q678252,Armando Cossutta
 Italy,Q3856623,Michele Gesualdi,sibling,Q3750036,Francesco Gesualdi
-Italy,Q3870121,Nando dalla Chiesa,father,Q723595,Carlo Alberto Dalla Chiesa
+Italy,Q3870121,Nando dalla Chiesa,father,Q723595,Carlo Alberto dalla Chiesa
 Italy,Q3870121,Nando dalla Chiesa,sibling,Q3961150,Simona Dalla Chiesa
 Italy,Q3870121,Nando dalla Chiesa,sibling,Q629237,Rita Dalla Chiesa
 Italy,Q3879474,Nunzia De Girolamo,spouse,Q3749638,Francesco Boccia
@@ -9161,6 +9163,7 @@ Malaysia,Q181383,Mahathir Mohamad,spouse,Q7531880,Siti Hasmah Mohamad Ali
 Malaysia,Q20451202,Idris Ahmad,sibling,Q7348315,Hassan bin Ahmad
 Malaysia,Q20452129,Syed Razak Bin Syed Zain Barakhbah,father,Q75163272,Syed Zain Syed Ali
 Malaysia,Q20457974,Fauzi Abdul Rahman,father,Q12681922,Abdul Rahman Talib
+Malaysia,Q20467079,Zulkifli Mohamad Al-Bakri,sibling,Q113674734,Khairul Anuar Mohamad
 Malaysia,Q2495157,Abdul Hadi Awang,child,Q61106105,Muhammad Khalil Abdul Hadi
 Malaysia,Q2495157,Abdul Hadi Awang,relative,Q20466860,Zaharudin Muhammad
 Malaysia,Q2495157,Abdul Hadi Awang,relative,Q65220005,Mohd Akmal Kamaruddin
@@ -10205,7 +10208,7 @@ Norway,Q19861353,Asbjørg Skåden,child,Q3444978,Sigbjørn Skåden
 Norway,Q19974410,Sandra Bruflot,spouse,Q16232023,Christopher Wand
 Norway,Q204370,Audun Lysbakken,mother,Q4993072,Geirdis Bjørlo
 Norway,Q207655,Kjell Magne Bondevik,child,Q102087242,John Harald Bondevik
-Norway,Q21160698,Lan Marie Nguyen Berg,spouse,Q33035165,Eivind Trædal
+Norway,Q21160698,Lan Marie Berg,spouse,Q33035165,Eivind Trædal
 Norway,Q23578892,Peder Sjo Slettebø,father,Q16905035,Lars Slettebø
 Norway,Q236621,Kristin Halvorsen,spouse,Q4992792,Charlo Halvorsen
 Norway,Q2370975,Mona Juul,spouse,Q1362257,Terje Rød-Larsen
@@ -11371,6 +11374,7 @@ Poland,Q597698,Antoni Macierewicz,child,Q91162680,Aleksandra Wesołowska
 Poland,Q597698,Antoni Macierewicz,father,Q9389744,Zdzisław Macierewicz
 Poland,Q602861,Rafał Grupiński,spouse,Q9256760,Ewa Malinowska-Grupińska
 Poland,Q60832081,Wojciech Ponikiewski,father,Q51977410,Augustyn Ponikiewski
+Poland,Q6156074,Janusz Pałubicki,father,Q65169499,Jan Pałubicki
 Poland,Q64141216,Władysław Teofil Bartoszewski,father,Q381185,Władysław Bartoszewski
 Poland,Q64141216,Władysław Teofil Bartoszewski,mother,Q29016561,Antonina Mijal
 Poland,Q64141216,Władysław Teofil Bartoszewski,spouse,Q19267124,Alexandra Richie
@@ -19102,6 +19106,8 @@ United Kingdom,Q5659075,Harmar Nicholls,child,Q7634224,Sue Nicholls
 United Kingdom,Q5659075,Harmar Nicholls,father,Q75601210,Charles Edward Craddock Nicholls
 United Kingdom,Q5659075,Harmar Nicholls,mother,Q75601211,Sarah Anne Wesley
 United Kingdom,Q5659075,Harmar Nicholls,spouse,Q75601202,Dorothy Elsie Edwards
+United Kingdom,Q56823842,Vicky Bowman,father,Q14946957,Neville Robinson
+United Kingdom,Q56823842,Vicky Bowman,spouse,Q16196512,Htein Lin
 United Kingdom,Q56867536,Rachel Aron,spouse,Q16929538,Michael Aron
 United Kingdom,Q56872431,Richard Lindsay,child,Q75592350,Oscar James Montague Lindsay
 United Kingdom,Q56872431,Richard Lindsay,child,Q75592351,Venetia Clare Lindsay
@@ -20072,6 +20078,7 @@ United States,Q105981951,Pat Outman,father,Q7331626,Rick Outman
 United States,Q106089241,Julia Letlow,spouse,Q103928233,Luke Letlow
 United States,Q106823831,Malika Sanders-Fortier,father,Q5727985,Henry Sanders
 United States,Q107178183,Michael Dvorak,child,Q7384032,Ryan Dvorak
+United States,Q1077594,Chris Murphy,spouse,Q113683971,Cathy Holahan
 United States,Q1077819,Chris Van Hollen,father,Q15993599,Christopher Van Hollen
 United States,Q1077819,Chris Van Hollen,mother,Q104036929,Edith Eliza Farnsworth
 United States,Q10853588,Kamala Harris,father,Q60894135,Donald J. Harris
@@ -20934,6 +20941,7 @@ United States,Q538609,Mel Carnahan,spouse,Q448619,Jean Carnahan
 United States,Q538868,Joe Manchin,child,Q5693758,Heather Bresch
 United States,Q538868,Joe Manchin,relative,Q4647998,A. James Manchin
 United States,Q538868,Joe Manchin,spouse,Q5528787,Gayle Conelly Manchin
+United States,Q539021,John Abizaid,child,Q106477667,Christine Abizaid
 United States,Q539459,Charlie Gonzalez,father,Q1606461,Henry B. González
 United States,Q539521,Michael C. Burgess,father,Q104034743,Harry Meredith Burgess
 United States,Q539536,Randy Neugebauer,child,Q7811860,Toby Neugebauer

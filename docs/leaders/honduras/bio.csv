@@ -1,6 +1,5 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q1043023,Carlos López Contreras,male,1942-01-31,11,,,,Carlos López Contreras
-Q106453465,Carlos Eduardo Reina,male,,,,,,
 Q108426442,Guillermo Pérez Arias,male,,,,,,
 Q108426443,Aníbal Quiñónez,male,,,,,,
 Q108426444,Leónidas Rosa Bautista,male,,,,,,
@@ -9,13 +8,14 @@ Q108426446,Alden Rivera,male,,,,,,
 Q110651912,Xiomara Zelaya,female,1985-01-14,11,,,Xiomara Zelaya Castro 2022 (cropped).jpg,Xiomara Zelaya
 Q110786495,Tomás Vaquero,,,,,,,
 Q110787063,José Manuel Zelaya,male,,,,,,
-Q110787162,Daniel Esponda,,,,,,,
-Q110787179,José Manuel Matheu,,,,,,,
+Q110787162,Daniel Sponda,male,,,,,,
+Q110787179,José Manuel Matheu,male,,,,,José Manuel Matheu.jpg,
 Q110787218,Laura Suazo,,,,,,,
 Q110787306,Carlos Zelaya,male,,,,,,
 Q110787596,Héctor Zelaya Castro,male,,,,,,
 Q111014399,Rasel Tomé,male,1972-05-12,11,,,Rasel Tomé (2020).png,
 Q111076732,Rebeca Santos,female,,,,,Rebeca Santos.jpg,
+Q111077006,Eduardo Enrique Reina,,,,,,,
 Q112916742,Anarella Vélez,female,,,,,,
 Q11691071,Mario Canahuati,male,1955-09-12,11,,,Mario Canahuati.jpg,Mario Canahuati
 Q15427651,Rosa Elena Bonilla,female,1967-02-02,11,,,,Rosa Elena Bonilla
@@ -35,8 +35,10 @@ Q54848042,Arturo Corrales,male,1952,9,,,,Arturo Corrales
 Q5951723,Juan Orlando Hernández,male,1968-10-28,11,,,"Juan Orlando Hernández, May 2015.jpg",Juan Orlando Hernández
 Q6291338,José Alfredo Saavedra,male,1964-12-04,11,,,,José Alfredo Saavedra
 Q654177,Carlos Roberto Flores,male,1950-03-10,11,,,Carlos Flores Facusse.JPG,Carlos Roberto Flores
+Q65925266,Lisandro Rosales Banegas,male,1970,9,,,,
 Q7525339,Siomara Girón,female,1959-10-21,11,,,,Siomara Girón
 Q76760763,Rixi Moncada,female,1965,9,,,,
 Q8044708,Xiomara Castro,female,1959-09-30,11,,,Xiomara Castro 2022 (cropped).jpg,Xiomara Castro
+Q89439917,Alba Consuelo Flores,female,1965-11-30,11,,,,Alba Consuelo Flores
 Q9056875,Patricia Rodas,female,1960-06-22,11,,,Patricia Rodas (cropped).jpg,Patricia Rodas
 Q953006,Jaime Rosenthal,male,1936-05-05,11,2019-01-12,11,,Jaime Rosenthal

@@ -120,7 +120,7 @@ Angola,Minister of Finance,Vera Daves,Q96441964,2019-10-08,female,1983-05-18,,Ve
 Angola,Minister of Health,Sílvia Lutucuta,Q88650966,2017-09-27,female,1968-07-14,,Dr. Silvia Lutucuta video call with IAEA (sq cropped).jpg,Silvia Lutacuta
 Angola,"Minister of Higher Education, Science, Technology and Innovation",Maria do Rosário Teixeira de Alva Sequeira Bragança Sambo,Q109984865,2017,female,1959-05-28,,,
 Angola,Minister of Industry and Commerce,Victor Francisco dos Santos Fernandes,Q109984861,2020-03-18,male,1978-11-21,,,
-Angola,Minister of the Interior,Eugênio César Laborinho,Q109984873,2019-07-25,male,1955-01-10,,,
+Angola,Minister of the Interior,Eugênio César Laborinho,Q109984873,2019-07-25,male,1955-01-10,,,Eugénio César Laborinho
 Angola,Minister of Justice and Human Rights,Francisco Manuel Monteiro de Queiroz,Q109984862,2017-09-27,male,1951-06-07,,,
 Angola,Minister of Mineral Resources and Petroleum,Diamantino Pedro Azevedo,Q75837385,2017-09,male,1963-07-12,,,
 Angola,"Minister of Public Administration, Labour and Social Security",Teresa Rodrigues Dias,Q109984622,2020-03-16,female,1965-02-04,,,
@@ -1335,6 +1335,7 @@ Cuba,Vice-President,Salvador Valdés Mesa,Q51954822,2018-04-19,male,1945-06-13,,
 Cuba,Prime Minister,Manuel Marrero Cruz,Q79358625,2019-12-21,male,1963-07-11,,Manuel Marrero Cruz.png,Manuel Marrero Cruz
 Cuba,Minister of Foreign Affairs,Bruno Rodríguez Parrilla,Q58183,2009-03-02,male,1958-01-22,,Bruno Rodriguez Parrilla (8592488549) (cropped).jpg,Bruno Rodríguez Parrilla
 Cuba,Minister of Industry,Salvador Pardo Cruz,Q7406446,2009,male,,,,Salvador Pardo Cruz
+Cuba,President of the National Assembly,Esteban Lazo Hernández,Q1369810,2013-02-24,male,1944-02-26,,Esteban Lazo Hernandez 2022.jpg,Esteban Lazo Hernández
 Cyprus,President,Nikos Anastasiades,Q2112764,2013-02-28,male,1946-09-27,,Nicos Anastasiades 2019.jpg,Nicos Anastasiades
 Cyprus,"Minister of Agriculture, Rural Development and Environment",Kostas Kadis,Q5175045,2018-03-01,male,1967-08-30,,,Costas Kadis
 Cyprus,Minister of Defence,Charalampos Petrides,Q57561010,2020-06-29,male,1974-10-19,,,
@@ -2017,10 +2018,10 @@ Honduras,President,Xiomara Castro,Q8044708,2022-01-27,female,1959-09-30,,Xiomara
 Honduras,Secretary of Agriculture,Laura Suazo,Q110787218,2022-01-27,,,,,
 Honduras,Secretary of Art and Culture,Anarella Vélez,Q112916742,2022-01-27,female,,,,
 Honduras,Secretary of Defence,José Manuel Zelaya,Q110787063,2022-01-27,male,,,,
-Honduras,Secretary of Education,Daniel Esponda,Q110787162,2022-01-27,,,,,
+Honduras,Secretary of Education,Daniel Sponda,Q110787162,2022-01-27,male,,,,
 Honduras,Secretary of Finance,Rixi Moncada,Q76760763,2022-01-27,female,1965,,,
-Honduras,Secretary of Foreign Affairs,Carlos Eduardo Reina,Q106453465,2022-01-27,male,,,,
-Honduras,Secretary of Health,José Manuel Matheu,Q110787179,2022-01-27,,,,,
+Honduras,Secretary of Foreign Affairs,Eduardo Enrique Reina,Q111077006,2022-01-27,,,,,
+Honduras,Secretary of Health,José Manuel Matheu,Q110787179,2022-01-27,male,,,José Manuel Matheu.jpg,
 Honduras,Secretary of the Interior,Tomás Vaquero,Q110786495,2022-01-27,,,,,
 Honduras,Private Secretary of the Presidency,Héctor Zelaya Castro,Q110787596,2022-01-27,male,,,,
 Honduras,President of the Central Bank,Rebeca Santos,Q111076732,2022-01-27,female,,,Rebeca Santos.jpg,
@@ -2601,7 +2602,7 @@ Japan,Governor of Nagasaki Prefecture,Kengo Oishi,Q111097857,2022-03-02,male,198
 Japan,Governor of Nara Prefecture,Shōgo Arai,Q1247261,2007-05-03,male,1945-01-18,,"Governor Nara sougo Arai. In the case of a symposium of the Kojiki, I photographed it at Meiji university.jpg",Shōgo Arai
 Japan,Governor of Niigata Prefecture,Hideyo Hanazumi,Q54913364,2018-06-10,male,1958-05-22,,新潟県 知事 花角英世.jpg,Hideyo Hanazumi
 Japan,Governor of Ōita Prefecture,Katsusada Hirose,Q1736802,2003-04-28,male,1942-06-25,,20160908大分縣廣瀨勝貞知事.jpg,Katsusada Hirose
-Japan,Governor of Osaka Prefecture,Hirofumi Yoshimura,Q21529384,2019-04-08,male,1975-06-17,,Hirofumi Yoshimura.jpg,Hirofumi Yoshimura
+Japan,Governor of Osaka Prefecture,Hirofumi Yoshimura,Q21529384,2019-04-08,male,1975-06-17,,大阪府 知事 吉村洋文.jpg,Hirofumi Yoshimura
 Japan,Governor of Okayama Prefecture,Ryūta Ibaragi,Q11379176,2012-11-12,male,1966-07-29,,Ryuta Ibaragi cropped 2 Shinzo Abe Hidehiko Yuzaki Ryuta Ibaragi and Tokihiro Nakamura 20180802.jpg,Ryuta Ibaragi
 Japan,Governor of Okinawa Prefecture,Denny Tamaki,Q11572466,2018-10-04,male,1959-10-13,,Denny Tamaki (2018).jpg,Denny Tamaki
 Japan,Governor of Saga Prefecture,Yoshinori Yamaguchi,Q18818272,2015-01-14,male,1965-07-01,,佐賀県 知事 山口祥義.jpg,Yoshinori Yamaguchi
@@ -2635,7 +2636,7 @@ Jordan,Prime Minister,Bisher Al-Khasawneh,Q63441935,2020-10-07,male,1969-01-27,,
 Jordan,Minister of Agriculture,Khaled Musa Al Henefat,Q110065420,2021-03-07,male,,,,
 Jordan,"Minister of Awqaf, Islamic Affairs, and Holy Places",Mohammad Khalaileh,Q28716169,2020-10-12,male,1967,,,
 Jordan,Minister of Culture,Haifa Najjar,Q54875250,2021-10-11,female,1959-03-01,,,
-Jordan,Minister of Digital Economy and Entrepreneurship,Ahmad Hanandeh,Q110067674,2020-10-12,male,,,,
+Jordan,Minister of Digital Economy and Entrepreneurship,Ahmad Hanandeh,Q110067674,2020-10-12,male,,,,Ahmad Hanandeh
 Jordan,Minister of Education,Wajih Owais,Q7960706,2020-10-12,male,1947-11-05,,,Wajih Owais
 Jordan,Minister of Energy and Mineral Resources,Saleh Ali Hamed Al-Kharabsheh,Q110066264,2021-10-11,male,,,,
 Jordan,Minister of Environment,Muawieh Khalid Radaideh,Q110066642,2021-10-12,male,,,,
@@ -2644,7 +2645,7 @@ Jordan,Minister of Foreign Affairs,Ayman al-Ṣafadī,Q28336737,2017-01-15,male,
 Jordan,Minister of Health,Feras Tbrahim Hawari,Q110067351,2021-03-29,male,,,,
 Jordan,Minister of Higher Education and Scientific Research,Wajih Owais,Q110065429,2021-10-11,male,1947,,,
 Jordan,Minister of Industry and Trade And Supply,Yousef Alshamali,Q110066321,2021-10-11,male,,,,
-Jordan,Minister of the Interior,Mazen Al-Farrayah,Q105954588,2021-03-07,male,1969-04-01,,,
+Jordan,Minister of the Interior,Mazen Al-Farrayah,Q105954588,2021-03-07,male,1969-04-01,,,Mazin Abdellah Hilal Al Farrayeh
 Jordan,Minister of Investment,Khairy Yasser Abdel Moneim Amr,Q110066807,2021-10-11,male,,,,
 Jordan,Minister of Justice,Ahmed Nouri Ziadat,Q110067665,2021-03-08,male,1950,,,
 Jordan,Minister of Labour,Nayef ZakariyaStetieh,Q110066500,2021-10-11,male,,,,
@@ -2660,16 +2661,15 @@ Jordan,Minister of Youth,Mohammad F. Nabulsi,Q110067105,2020-10-12,male,,,,
 Jordan,Minister of State for Follow-up and Government Coordination,Nawaf Wasfi Tall,Q110067972,2020-10-12,male,,,,
 Jordan,Minister of State for Legal Affairs,Wafaa Saeed Yaqoub Bani Mustafa,Q110068000,2021-10-11,male,,,,
 Jordan,Minister of State for Media Affairs,Faisal Shboul,Q110067984,2021-10-11,male,,,,
-Jordan,Minister of State for Prime Ministry Affairs,Ibrahim Jazi,Q109257176,2020-10-12,male,1966,,,
+Jordan,Minister of State for Prime Ministry Affairs,Ibrahim Jazi,Q109257176,2020-10-12,male,1966,,,Ibrahim Jazi
 Jordan,Speaker of the Senate,Faisal al-Fayez,Q1393504,2015-10-25,male,1952-12-20,,Faisal Al-Fayez large.jpg,Faisal Al-Fayez
 Jordan,Speaker of the Chamber of Deputies,Abdel-Karim Deghmi,Q110068450,2021-11-15,male,1955,,,Abdel-Karim Deghmi
 Jordan,Governor of the Central Bank,Adel Al-Sharkas,Q110553613,2022-01-05,male,,,,
 Jordan,Chairman of the Joint Chiefs,Yousef Huneiti,Q65926323,2019-07-24,male,1959-03-02,,"Yousef Huneiti, Chairman of the Joint Chiefs of Staff of the Jordan Armed Forces.jpeg",Yousef Huneiti
 Jordan,Mayor of Amman,Yousef Shawarbeh,Q60054291,2017-08-20,male,,,,Yousef Shawarbeh
-Kazakhstan,President,Kassym-Jomart Tokayev,Q200881,2019-03-20,male,1953-05-17,,Касым-Жомарт Токаев 06 (10-02-2022).jpg,Kassym-Jomart Tokayev
+Kazakhstan,President,Kassym-Jomart Tokayev,Q200881,2019-03-20,male,1953-05-17,,Kassym-Jomart Tokayev (19-08-2022).jpg,Kassym-Jomart Tokayev
 Kazakhstan,Prime Minister,Alihan Smaiylov,Q56825894,2022-01-05,male,1972-12-18,,Älihan Smaiylov (2022-01-24) (cropped).jpg,Älihan Smaiylov
 Kazakhstan,Deputy Prime Minister,Mukhtar Tleuberdi,Q70254110,2019-09-08,male,1968-06-30,,Mukhtar Tileuberdi (2020-02-02).jpg,Mukhtar Tleuberdi
-Kazakhstan,Deputy Prime Minister,Eraly Togjanov,Q16436597,2020-02-11,male,1963-05-13,,Eraly Tugjanov (2016-04-06).jpg,Eraly Togjanov
 Kazakhstan,Deputy Prime Minister,Erulan Jamaubaev,Q97185700,2022-03-29,male,1974-03-25,,,Erulan Jamaubaev
 Kazakhstan,Deputy Prime Minister,Serik Zhumangarin,Q113548929,2022-08-15,male,1969-07-22,,,
 Kazakhstan,First Deputy Prime Minister,Sklyar Roman Vasilyevich,Q16436743,2022-01-11,male,1971-05-08,,Roman Sklyar (2017-09-26) (cropped).jpg,Roman Sklyar
@@ -2685,7 +2685,7 @@ Kazakhstan,Minister of Finance,Erulan Jamaubaev,Q97185700,2020-05-18,male,1974-0
 Kazakhstan,Minister of Foreign Affairs,Mukhtar Tleuberdi,Q70254110,2019-09-08,male,1968-06-30,,Mukhtar Tileuberdi (2020-02-02).jpg,Mukhtar Tleuberdi
 Kazakhstan,Minister of Healthcare,Azhar Giniyat,Q110556854,2022-01-11,female,1969-06-08,,,
 Kazakhstan,Minister of Industry and Infrastructure Development,Kairbek Uskenbayev,Q110556593,2022-01-11,male,1964-10-24,,,
-Kazakhstan,Minister of Information and Social Development,Askar Umarov,Q110529924,2022-01-11,male,1976-06-30,,,
+Kazakhstan,Minister of Information and Social Development,Darkhan Kydyrali,Q12540008,2022-09-02,male,1974-04-16,,Darkhan Kydyrali.jpg,Darkhan Kydyrali
 Kazakhstan,Minister of Internal Affairs,Marat Akhmetzhanov,Q12552839,2022-02-25,male,1964,,,
 Kazakhstan,Minister of Justice,Kanat Mussin,Q110556519,2022-01-11,male,,,,
 Kazakhstan,Minister of Labor and Social Protection of the Population,Tamara Duisenova,Q16436474,2022-04-11,female,1965-01-11,,Tamara Duisenova (7.2016) (cropped).jpg,Tamara Duisenova
@@ -2700,7 +2700,6 @@ Kazakhstan,Chairman of the National Security Committee,Yermek Sagimbayev,Q110434
 Kazakhstan,Prosecutor General,Gizat Nurdauletov,Q109497308,2019-03,male,,,,
 Kazakhstan,Governor of the National Bank,Galymzhan Pirmatov,Q111512336,2022-02-03,male,1972-04-24,,,
 Kazakhstan,Chair of the Senate,Mäulen Äşimbaev,Q12555734,2020-05-04,male,1971-01-28,,"Maulen Ashimbaev, 2013 (cropped).JPG",Mäulen Äşimbaev
-Kazakhstan,Äkim of Nur-Sultan,Altai Kölgınov,Q15070762,2019-06-13,male,1978-01-15,,Kolginov.jpg,Altai Kölgınov
 Kenya,President,Uhuru Kenyatta,Q196070,2013-04-09,male,1961-10-26,,Uhuru Kenyatta.jpg,Uhuru Kenyatta
 Kenya,Vice-President,William Ruto,Q195725,2013-04-09,male,1966-12-21,,William Ruto at WTO Public Forum 2014.jpg,William Ruto
 Kenya,Secretary for Agriculture,Peter Munya,Q7175990,2020-01-14,male,1969,,Peter Munya - 2018 (cropped).jpg,Peter Munya
@@ -3109,6 +3108,7 @@ Mali,Prime Minister,Abdoulaye Maïga,Q113577661,2022-08-21,male,1981-05-12,,,Abd
 Mali,Minister of Foreign Affairs,Abdoulaye Diop,Q2821367,2021-06-11,male,1965-09-17,,Abdoulaye Diop (Malian minister).png,Abdoulaye Diop
 Mali,Minister of Health,Michel Sidibé,Q3310864,2019-05-06,male,1952,,Michel Sidibé UNDP 2009.jpg,Michel Sidibé
 Mali,Minister of Internal Security and Civil Protection,Salif Traoré,Q30121857,2015-09-25,male,1972,,"Salif Traoré, 2018.jpg",Salif Traoré
+Mali,Minister of Justice,Mamadou Kassogue,Q113669743,2021-06-11,male,,,,
 Mali,Minister of Territorial Administration and Decentralisation,Abdoulaye Maïga,Q113577661,2021-06,male,1981-05-12,,,Abdoulaye Maïga (officer)
 Malta,President,George William Vella,Q1508402,2019-04-04,male,1942-04-24,,Sebastian Kurz George Vella Federica Mogherini April 2017 (34279674916) (cropped).jpg,George Vella
 Malta,Prime Minister,Robert Abela,Q37860840,2020-01-13,male,1977-12-07,,Robert Abela in 2021.jpg,Robert Abela
@@ -3873,7 +3873,7 @@ Peru,Vice President,Dina Boluarte,Q106474688,2021-07-28,female,1962-05-31,,Dina 
 Peru,President of the Council of Ministers,Aníbal Torres,Q107721951,2022-02-08,male,1942-12-28,,Juramentación de nuevo Gabinete Ministerial 3-45 screenshot - Aníbal Torres (cropped).png,Aníbal Torres
 Peru,Minister of Agriculture,Andrés Alencastre,Q112260708,2022-06-06,male,1950-10-24,,Andrés Alencastre.png,
 Peru,Minister of Culture,Betssy Chávez,Q108414613,2022-08-05,female,1989-06-03,,Juramentación de nuevo Gabinete Ministerial 6-38 screenshot - Betssy Chávez (cropped).png,
-Peru,Minister of Defence,Richard Tineo Quispe,Q113612528,2022-08-24,male,,,,
+Peru,Minister of Defence,Richard Tineo Quispe,Q113612528,2022-08-24,male,1961-01-21,,,
 Peru,Minister of Development and Social Inclusion,Dina Boluarte,Q106474688,2021-07-29,female,1962-05-31,,Dina Boluarte (2021).png,Dina Boluarte
 Peru,Minister of Economy and Finance,Kurt Burneo,Q6446653,2022-08-05,male,1961-02-26,,,Kurt Burneo
 Peru,Minister of Education,Rosendo Serna,Q110296480,2021-12-28,male,1960-07-10,,Rosendo Serna 2022.png,
@@ -3980,6 +3980,7 @@ Portugal,Minister of Education,João Costa,Q108120815,2022-03-30,male,1972-11-04
 Portugal,Minister for the Environment and Climate Action,Duarte Cordeiro,Q111349255,2022-03-30,male,1979-02-23,,,Duarte Cordeiro
 Portugal,Minister for Finance,Fernando Medina,Q20017756,2022-03-30,male,1973-03-10,,Web Summit 2018 - Fernando Medina.jpg,Fernando Medina
 Portugal,Minister of Foreign Affairs,João Gomes Cravinho,Q57343622,2022-03-30,male,1964-06-16,,05 04 2018 - João Gomes Cravinho.jpg,João Gomes Cravinho
+Portugal,Minister of Health,Marta Temido,Q57339530,2018-10-15,female,1974-03-02,,2021 - HealthConf DG4 4259 (51652310341) (cropped).jpg,Marta Temido
 Portugal,Minister for Infrastructure and Housing,Pedro Nuno Santos,Q10347660,2019-10-26,male,1977-04-13,,"Pedro Nuno Santos, 2020-01-15 (cropped).png",Pedro Nuno Santos
 Portugal,Minister of Internal Administration,José Luís Carneiro,Q74256324,2022-03-30,male,1971-10-04,,José Luís Carneiro.png,José Luís Carneiro
 Portugal,Minister of Justice,Catarina Sarmento e Castro,Q25336913,2022-03-30,female,1970-05-16,,"Catarina Sarmento e Castro, proposta de lei metadados 2022 (cropped).png",Catarina Sarmento e Castro
@@ -4490,7 +4491,7 @@ South Korea,President,Yoon Suk-yeol,Q16090635,2022-05-10,male,1960-12-18,,Yoon S
 South Korea,Prime Minister,Han Duck-soo,Q356666,2022-05-21,male,1949-06-18,,Han Duck-soo.jpg,Han Duck-soo
 South Korea,Deputy Prime Minister,Choo Kyung-ho,Q12619978,2022-05-10,male,1960-07-29,,추경호 부총리 예방 받아 001 (cropped).jpg,Choo Kyung-ho
 South Korea,"Minister of Agriculture, Food and Rural Affairs",Jung Hwang-keun,Q31180631,2022-05-09,male,1960,,,Chung Hwang-keun
-South Korea,"Minister of Culture, Sports and Tourism",Park Bo-gyun,Q111602136,2022-05-10,male,1954,,,Park Bo-gyoon
+South Korea,"Minister of Culture, Sports and Tourism",Park Bo-gyun,Q111602136,2022-05-10,male,1954,,Park Bo Gyoon - 2022 (cropped).jpg,Park Bo-gyoon
 South Korea,Minister of Defence,Lee Jong-sup,Q42521104,2022-05-10,male,1960,,Army (ROKA) Lieutenant General Lee Jong-sup 육군중장 이종섭 (UNC-CFC-USFK photo IMG 7352).jpg,Lee Jong-sup
 South Korea,Minister of Employment and Labour,Lee Jeong-Sik,Q112023777,2022-05-09,,,,,
 South Korea,Minister of the Environment,Han Hwa-jin,Q111621057,2022-05-10,female,1959,,,
@@ -4603,6 +4604,7 @@ Spain,Minister for Territorial Policy,Isabel Rodríguez,Q5920849,2021-07-12,fema
 Spain,Minister of the Treasury,María Jesús Montero Cuadrado,Q6003983,2018-06-07,female,1966-02-04,,María Jesús Montero 2020 (cropped).jpg,María Jesús Montero
 Spain,Minister for Universities,Joan Subirats,Q5412176,2021-12-20,male,1951-05-17,,Joan Subirats 2021 (cropped).jpg,Joan Subirats
 Spain,Government Spokesperson,Isabel Rodríguez,Q5920849,2021-07-12,female,1981-06-05,,(Isabel Rodríguez) Firma de convenios para el desarrollo de Lanzaderas de Empleo en Puertollano y Talavera de la Reina (49482574962) (cropped).jpg,Isabel Rodríguez García
+Spain,Secretary of State for Foreign Affairs,Ramón Gil-Casares,Q7290492,2002,male,1953-10-26,,Ramón Gil-Casares CSIS 2013 (cropped).jpeg,Ramón Gil-Casares
 Spain,President of the Spanish Senate,Andrés Gil García,Q28872654,2021-07-12,male,1974-02-09,,(Ander Gil) Centenario PSOE de Fregenal de la Sierra (48958726348) (cropped).jpg,Ander Gil
 Spain,President of the Congress of Deputies,Meritxell Batet,Q9031777,2019-05-21,female,1973-03-19,,(Meritxell Batet) Consejo de Ministros en Barcelona 06 (cropped).jpg,Meritxell Batet
 Spain,Attorney-General,Álvaro García Ortiz,Q106444204,2022-08-02,male,1967,,Álvaro García Ortiz cropped.jpg,
@@ -5207,6 +5209,7 @@ United Kingdom,COP26 President,Alok Sharma,Q478531,2020-02-13,male,1967-09-07,,O
 United Kingdom,Attorney General,Suella Braverman,Q19957769,2021-09-10,female,1980-04-03,,Official portrait of Suella Braverman MP crop 2.jpg,Suella Braverman
 United Kingdom,Lord Privy Seal,"Natalie Evans, Baroness Evans",Q18210190,2016-07-14,female,1975-11-29,,Official portrait of Baroness Evans of Bowes Park crop 2.jpg,"Natalie Evans, Baroness Evans of Bowes Park"
 United Kingdom,Lord President of the Council,Mark Spencer,Q389189,2022-02-08,male,1970-01-20,,Official portrait of Rt Hon Mark Spencer MP crop 2.jpg,Mark Spencer (British politician)
+United Kingdom,Lord of the Treasury,Craig Whittaker,Q264636,2022-07-08,male,1962-08-30,,Official portrait of Craig Whittaker crop 2.jpg,Craig Whittaker
 United Kingdom,Parliamentary Secretary to the Treasury (Chief Whip),Chris Heaton-Harris,Q673322,2022-02-08,male,1967-11-28,,Official portrait of Chris Heaton-Harris crop 2.jpg,Chris Heaton-Harris
 United Kingdom,Leader of the House of Commons,Mark Spencer,Q389189,2022-02-08,male,1970-01-20,,Official portrait of Rt Hon Mark Spencer MP crop 2.jpg,Mark Spencer (British politician)
 United Kingdom,Leader of the House of Lords,"Natalie Evans, Baroness Evans",Q18210190,2016-07-14,female,1975-11-29,,Official portrait of Baroness Evans of Bowes Park crop 2.jpg,"Natalie Evans, Baroness Evans of Bowes Park"

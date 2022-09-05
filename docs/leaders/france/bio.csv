@@ -83,7 +83,7 @@ Q111965470,René Forceville,male,1949-12-12,11,,,,
 Q111967005,Henri Vignal,male,1942-08-24,11,,,,
 Q111974554,Estelle Folest,female,1976-06-17,11,,,,
 Q112040646,Nathalie Oziol,female,1990-02-18,11,,,,
-Q112079050,Sabrina Agresti-Roubache,female,1976-10-16,11,,,,
+Q112079050,Sabrina Agresti-Roubache,female,1976-10-16,11,,,,Sabrina Agresti-Roubache
 Q112079659,Rima Abdul Malak,female,1978,9,,,Rima Abdul-Malak portrait.jpg,Rima Abdul Malak
 Q112110960,François Piquemal,male,1984-12-28,11,,,François Piquemal.jpg,François Piquemal
 Q112198608,Michèle Sauteraud,female,,,,,,
@@ -125,7 +125,7 @@ Q112637819,Nicolas Dragon,male,1977-04-19,11,,,,Nicolas Dragon
 Q112637895,José Beaurain,male,1971-07-27,11,,,,José Beaurain
 Q112638039,Yannick Monnet,male,1975-10-07,11,,,,Yannick Monnet
 Q112638094,Jorys Bovet,male,1993-03-30,11,,,,Jorys Bovet
-Q112638162,Nicolas Ray,male,1981-05-14,11,,,,
+Q112638162,Nicolas Ray,male,1981-05-14,11,,,,Nicolas Ray
 Q112638213,Christian Girard,male,1952-05-07,11,,,,Christian Girard
 Q112639136,Alexandra Masson,female,1971-07-02,11,,,,Alexandra Masson
 Q112639241,Bryan Masson,male,1996-12-21,11,,,,Bryan Masson
@@ -237,7 +237,7 @@ Q112654108,Louis Boyard,male,2000-08-26,11,,,Louis Boyard dans FACE AUX JEUNES -
 Q112654129,Mathieu Lefèvre,male,1986-10-27,11,,,,
 Q112654146,Paul Vannier,male,1985-09-19,11,,,,
 Q112654178,Arnaud Le Gall,male,1980-11-29,11,,,,
-Q112654771,Éléonore Caroit,female,1985-07-08,11,,,,
+Q112654771,Éléonore Caroit,female,1985-07-08,11,,,,Éléonore Caroit
 Q112654787,Philippe Schreck,male,1972-02-02,11,,,,Philippe Schreck
 Q112654862,Bastien Marchive,male,1990-07-15,11,,,,
 Q112656971,Marine Bardet,female,,,,,,
@@ -256,7 +256,7 @@ Q112958674,Claire Guichard,female,1967-05-30,11,,,,
 Q113015802,Caroline Yadan,female,1968-08-14,11,,,,
 Q113197340,Jacques Pellet,male,1962-11-11,11,,,,
 Q113212567,Laurence Heydel Grillere,female,1968-11-18,11,,,,
-Q113375757,Agnès Carel,,1968-06-09,11,,,,
+Q113375757,Agnès Carel,female,1968-06-09,11,,,,
 Q113376041,Laurent Esquenet-Goxes,male,1962-08-23,11,,,,
 Q113376374,Charlotte Goetschy-Bolognese,female,1990-07-21,11,,,,Charlotte Goetschy-Bolognese
 Q113471431,Ambre Louisin,female,,,,,,
@@ -326,7 +326,7 @@ Q1393994,Jean-Pierre Bel,male,1951-12-30,11,,,Jean-Pierre Bel.jpg,Jean-Pierre Be
 Q1394045,Kader Arif,male,1959-07-03,11,,,Kader Arif - Airbus public demonstration in Toulouse 0365 2007-03-06.jpg,Kader Arif
 Q1394083,François Léotard,male,1942-03-26,11,,,Francés Leotard.jpg,François Léotard
 Q1395490,Patrick Leclercq,male,1938-08-02,11,,,,Patrick Leclercq
-Q1398216,Yves Cochet,male,1946-02-15,11,,,"Yves Cochet, 2007 (cropped).JPG",Yves Cochet
+Q1398216,Yves Cochet,male,1946-02-15,11,,,Meeting Voynet Mutualite 2006-04-05 n9.jpg,Yves Cochet
 Q1404258,Alain Cadec,male,1953-06-21,11,,,"Cadec, Alain-9575.jpg",Alain Cadec
 Q1415007,Laurent Beauvais,male,1952-06-24,11,,,Laurent Beauvais-2010.jpg,Laurent Beauvais
 Q1450831,François-Michel Lambert,male,1966-08-24,11,,,,François-Michel Lambert
@@ -1053,7 +1053,7 @@ Q3015141,Danièle Hoffman-Rispal,female,1951-06-22,11,2020-04-16,11,Danièle Hof
 Q3015850,Daphna Poznanski-Benhamou,female,1950-06-03,11,,,,Daphna Poznanski-Benhamou
 Q3018028,David Habib,male,1961-03-16,11,,,,David Habib
 Q3018703,David Robo,male,1970-06-10,11,,,,
-Q3018926,David Vergé,male,1972-01-10,11,,,,
+Q3018926,David Vergé,male,1972-01-10,11,,,,David Vergé
 Q30223120,Hervé Berville,male,1990-01-15,11,,,Hervé Berville (cropped).jpg,Hervé Berville
 Q3022540,Denis Baupin,male,1962-06-02,11,,,Meeting Voynet Mutualite 2006-04-05 n6.jpg,Denis Baupin
 Q3022634,Denis Delbourg,male,1952-07-30,11,,,,
@@ -1467,7 +1467,7 @@ Q3052729,Emmanuel Hamelin,male,1957-12-28,11,,,,
 Q3052772,Emmanuel Macron,male,1977-12-21,11,,,"Зустріч Президента України з президентами Франції та Румунії, а також головами урядів Німеччини та Італії 76 (cropped).jpg",Emmanuel Macron
 Q30528083,Jean-Claude Leclabart,male,1954-12-04,11,,,Jean-Claude Leclabart 02.jpg,Jean-Claude Leclabart
 Q30528115,Gilles Le Gendre,male,1958-05-13,11,,,Gilles-Le-Gendre.jpg,Gilles Le Gendre
-Q3052948,Emmanuelle Cosse,female,1974-11-15,11,,,"Emmanuelle Cosse, 2010 (cropped).jpg",Emmanuelle Cosse
+Q3052948,Emmanuelle Cosse,female,1974-11-15,11,,,Europe Ecologie closing rally regional elections 2010-03-10 n13.jpg,Emmanuelle Cosse
 Q30530164,Christophe Naegelen,male,1983-12-30,11,,,Christophe Naegelen salle quatre colonnes 19002.jpg,Christophe Naegelen
 Q30530300,Charlotte Lecocq,female,1977-07-17,11,,,CharlotteLecocq.jpg,Charlotte Lecocq
 Q30530581,Éric Poulliat,male,1974-07-09,11,,,,Éric Poulliat
@@ -4457,7 +4457,7 @@ Q63764964,Anne Ventalon,female,1972-01-07,11,,,,
 Q63764974,Roger Vicot,male,1963-06-01,11,,,,
 Q63765024,Jean-Luc Bourgeaux,male,1963-04-10,11,,,Jean-luc-bourgeaux 1-7-2021.png,
 Q63765036,Nadège Abomangoli,female,1975-09-15,11,,,Nadège Abomangoli - Villetaneuse - 8 mai 2014.JPG,
-Q63765243,Romain Daubié,male,1980-05-05,11,,,,
+Q63765243,Romain Daubié,male,1980-05-05,11,,,,Romain Daubié
 Q63765268,Christophe Chaudun,male,1969-11-20,11,,,,
 Q63765386,Brigitte Devesa,female,1960-03-03,11,,,,
 Q63765537,François Gernigon,male,1961-04-02,11,,,,
