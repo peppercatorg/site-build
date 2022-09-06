@@ -369,6 +369,8 @@ Australia,Q111772495,Alison Byrnes,spouse,Q27897941,Paul Scully
 Australia,Q112078635,Dean Harriss,father,Q7151160,Paul Harriss
 Australia,Q112103422,Kate Chaney,father,Q6829205,Michael Chaney
 Australia,Q112103422,Kate Chaney,mother,Q112194706,Rosemary Margaret Anderson
+Australia,Q112103422,Kate Chaney,relative,Q15462333,Fred Chaney
+Australia,Q112103422,Kate Chaney,relative,Q5494804,"Fred Chaney, Sr."
 Australia,Q1239291,Alexander Downer,child,Q56159193,Georgina Downer
 Australia,Q1239291,Alexander Downer,father,Q4714124,Alick Downer
 Australia,Q1239291,Alexander Downer,mother,Q6779338,Mary Downer
@@ -1311,6 +1313,10 @@ Brazil,Q244997,José Sarney,child,Q9074685,Sarney Filho
 Brazil,Q244997,José Sarney,spouse,Q10326653,Marly Sarney
 Brazil,Q25440287,Júnior Marreca,child,Q60784870,Júnior Marreca Filho
 Brazil,Q264341,Ruth Cardoso,spouse,Q230578,Fernando Henrique Cardoso
+Brazil,Q26692175,Marquinhos Trad,child,Q111653458,Mariana Trad
+Brazil,Q26692175,Marquinhos Trad,child,Q111653464,Andressa Trad
+Brazil,Q26692175,Marquinhos Trad,child,Q111653468,Alice Trad
+Brazil,Q26692175,Marquinhos Trad,child,Q111653472,Aline Trad
 Brazil,Q26692175,Marquinhos Trad,father,Q10336120,Nelson Trad
 Brazil,Q26692175,Marquinhos Trad,sibling,Q10336123,Nelson Trad Filho
 Brazil,Q26692175,Marquinhos Trad,spouse,Q107716862,Tatiana Trad
@@ -1330,7 +1336,7 @@ Brazil,Q37181,Luiz Inácio Lula da Silva,child,Q10286880,Fábio Luís Lula da Si
 Brazil,Q37181,Luiz Inácio Lula da Silva,child,Q10325423,Marcos Claudio Lula da Silva
 Brazil,Q37181,Luiz Inácio Lula da Silva,father,Q64822382,Aristides Inácio da Silva
 Brazil,Q37181,Luiz Inácio Lula da Silva,mother,Q64822399,Eurídice Ferreira de Melo
-Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q112071182,Janja Lula da Silva
+Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q112071182,Rosângela Lula da Silva
 Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q17278001,Maria de Lurdes da Silva
 Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q4199383,Marisa Letícia Lula da Silva
 Brazil,Q3784499,Helder Barbalho,father,Q3806086,Jader Barbalho
@@ -8937,6 +8943,7 @@ Kyrgyzstan,Q489893,Askar Akayev,child,Q4059278,Aidar Akayev
 Kyrgyzstan,Q489893,Askar Akayev,child,Q4892570,Bermet Akayeva
 Kyrgyzstan,Q489893,Askar Akayev,spouse,Q58885833,Mayram Akayeva
 Kyrgyzstan,Q5285365,Djoomart Otorbaev,father,Q20628715,Kaiyp Otorbaev
+Latvia,Q1156612,Dace Rukšāne,partner,Q13553630,Dž. Dž. Džilindžers
 Latvia,Q11712510,Ingmārs Čaklais,father,Q924116,Māris Čaklais
 Latvia,Q11748225,Kristiāna Lībane-Šķēle,spouse,Q511905,Andris Šķēle
 Latvia,Q151301,Vaira Vīķe-Freiberga,spouse,Q11711793,Imants Freibergs
@@ -9535,7 +9542,7 @@ Morocco,Q562410,Nizar Baraka,relative,Q2837662,Allal al-Fassi
 Morocco,Q562410,Nizar Baraka,relative,Q305956,Abbas El Fassi
 Morocco,Q562410,Nizar Baraka,relative,Q96758717,Abdelmajid Fassi-Fihri
 Morocco,Q57553,Mohammed VI,child,Q1532982,Lalla Khadija of Morocco
-Morocco,Q57553,Mohammed VI,child,Q276961,Moulay Hassan
+Morocco,Q57553,Mohammed VI,child,Q276961,Hassan III
 Morocco,Q57553,Mohammed VI,father,Q69103,Hassan II
 Morocco,Q57553,Mohammed VI,mother,Q2164270,Lalla Latifa
 Morocco,Q57553,Mohammed VI,relative,Q193874,Mohammed V of Morocco
@@ -16201,6 +16208,7 @@ United Kingdom,Q20011247,Andrew Dunlop,spouse,Q75903726,Lucia Elizabeth Mary Cam
 United Kingdom,Q20022488,Kate Osamor,mother,Q53870716,Martha Osamor
 United Kingdom,Q20054083,Victoria Prentis,father,Q334491,Tim Boswell
 United Kingdom,Q20055561,Rishi Sunak,relative,Q1398708,N. R. Narayana Murthy
+United Kingdom,Q20055561,Rishi Sunak,spouse,Q111536380,Akshata Murty
 United Kingdom,Q20055561,Rishi Sunak,spouse,Q22997426,Akshata Murthy
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",father,Q75454205,Robert Oliver Bridges
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",mother,Q75454206,Rosamund Theresa de Wesselow
@@ -20273,6 +20281,7 @@ United States,Q16194408,Peter Wirth,father,Q6264663,John Wirth
 United States,Q16195097,Gwen Graham,father,Q578102,Bob Graham
 United States,Q16195097,Gwen Graham,mother,Q4681891,Adele Khoury Graham
 United States,Q16195595,Karin Housley,spouse,Q722956,Phil Housley
+United States,Q16195612,Andy Josephson,father,Q112466590,Joseph Josephson
 United States,Q16196379,Greg Bonnen,relative,Q100979578,Clarence A. Bonnen
 United States,Q16196379,Greg Bonnen,relative,Q64019898,James T. Bonnen
 United States,Q16196379,Greg Bonnen,sibling,Q16213876,Dennis Bonnen
