@@ -14749,6 +14749,7 @@ United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",child,Q76243
 United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",father,Q76243095,Harry Lester
 United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",mother,Q76243096,Kate Cooper-Smith
 United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",spouse,Q76023163,Catherine Elizabeth Debora Wassey
+United Kingdom,Q113775000,Mark Fullbrook,spouse,Q391029,Lorraine Fullbrook
 United Kingdom,Q1149316,"David Stevens, Baron Stevens of Ludgate",child,Q76347626,Andrew David Stevens
 United Kingdom,Q1149316,"David Stevens, Baron Stevens of Ludgate",child,Q76347630,Judith Ann Stevens
 United Kingdom,Q1149316,"David Stevens, Baron Stevens of Ludgate",father,Q76347632,Arthur Edwin Stevens
@@ -16208,7 +16209,6 @@ United Kingdom,Q20011247,Andrew Dunlop,spouse,Q75903726,Lucia Elizabeth Mary Cam
 United Kingdom,Q20022488,Kate Osamor,mother,Q53870716,Martha Osamor
 United Kingdom,Q20054083,Victoria Prentis,father,Q334491,Tim Boswell
 United Kingdom,Q20055561,Rishi Sunak,relative,Q1398708,N. R. Narayana Murthy
-United Kingdom,Q20055561,Rishi Sunak,spouse,Q111536380,Akshata Murty
 United Kingdom,Q20055561,Rishi Sunak,spouse,Q22997426,Akshata Murthy
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",father,Q75454205,Robert Oliver Bridges
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",mother,Q75454206,Rosamund Theresa de Wesselow
@@ -16929,7 +16929,8 @@ United Kingdom,Q270648,P. D. James,father,Q76172753,Sydney Victor James
 United Kingdom,Q270648,P. D. James,mother,Q76172754,Dorothy Amelia Hone
 United Kingdom,Q270648,P. D. James,spouse,Q76172746,Connor Bantry White
 United Kingdom,Q271715,Christopher Chope,father,Q106777629,Robert Chope
-United Kingdom,Q272201,Liz Truss,father,Q102135641,John Kenneth Truss
+United Kingdom,Q272201,Liz Truss,father,Q102135641,John Truss
+United Kingdom,Q272201,Liz Truss,spouse,Q113728852,Hugh O'Leary
 United Kingdom,Q272318,Edward Timpson,father,Q23682478,John Timpson
 United Kingdom,Q272318,Edward Timpson,mother,Q23303626,Alex Timpson
 United Kingdom,Q272384,John Thurso,child,Q75351301,"James Alexander Robin Sinclair of Ulbster, younger"
@@ -18643,6 +18644,7 @@ United Kingdom,Q39073329,Peter Wilson,father,Q167028,David Wilson
 United Kingdom,Q39073329,Peter Wilson,mother,Q76328112,Natasha Helen Mary Alexander
 United Kingdom,Q39073329,Peter Wilson,spouse,Q76329458,Monica Quintas Ribeiro Roma Pereira
 United Kingdom,Q390760,Nick Smith,spouse,Q269638,Jenny Chapman
+United Kingdom,Q391029,Lorraine Fullbrook,spouse,Q113775000,Mark Fullbrook
 United Kingdom,Q391169,Barry Gardiner,father,Q6234860,John Gardiner
 United Kingdom,Q391222,Mark Garnier,child,Q75520158,Edward Peter Benedict Garnier
 United Kingdom,Q391222,Mark Garnier,child,Q75520159,Jemima Emily Charlotte Garnier
