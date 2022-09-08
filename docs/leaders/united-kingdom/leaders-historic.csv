@@ -1,5 +1,6 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-United Kingdom,monarch,Elizabeth II,Q9682,1952-02-06,,female,1926-04-21,,Queen Elizabeth II of New Zealand (cropped).jpg,Elizabeth II
+United Kingdom,monarch,Elizabeth II,Q9682,1952-02-06,2022-09-08,female,1926-04-21,2022-09-08,Queen Elizabeth II of New Zealand (cropped).jpg,Elizabeth II
+United Kingdom,monarch,Charles III,Q43274,2022-09-08,,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
 United Kingdom,Prime Minister,Tony Blair,Q9545,1997-05-02,2007-06-27,male,1953-05-06,,Tony Blair 2010 (cropped).jpg,Tony Blair
 United Kingdom,Prime Minister,Gordon Brown,Q10648,2007-06-27,2010-05-11,male,1951-02-20,,Gordon Brown (2008).jpg,Gordon Brown
 United Kingdom,Prime Minister,David Cameron,Q192,2010-05-11,2016-07-13,male,1966-10-09,,David Cameron official.jpg,David Cameron
@@ -1082,6 +1083,7 @@ United Kingdom,Parliamentary Under-Secretary of State for Wales,Stuart Andrew,Q2
 United Kingdom,Parliamentary Under-Secretary of State for Wales,Mims Davies,Q19957306,2018-07-26,2018-11-05,female,1975-06-02,,Official portrait of Mims Davies crop 2.jpg,Mims Davies
 United Kingdom,Parliamentary Under-Secretary of State for Wales,Nigel Adams,Q258292,2018-11-05,2019-04-03,male,1966-11-30,,Official portrait of Nigel Adams MP crop 2.jpg,Nigel Adams
 United Kingdom,Parliamentary Under-Secretary of State for Wales,Kevin Foster,Q19873325,2019-04-04,2019-12-16,male,1978-12-31,,Official portrait of Kevin Foster crop 2.jpg,Kevin Foster (politician)
+United Kingdom,Parliamentary Under-Secretary of State for Wales,David Davies,Q296797,2019-12-16,,male,1970-06-01,,Official portrait of David T. C. Davies crop 2.jpg,David TC Davies
 United Kingdom,Parliamentary Under-Secretary of State for Welfare Delivery,Caroline Nokes,Q577227,2016-07-17,2017-06-14,female,1972-06-26,,Official portrait of Caroline Nokes.jpg,Caroline Nokes
 United Kingdom,Parliamentary Under-Secretary of State for Welfare Delivery,Will Quince,Q16751766,2019-04-04,2021-09-17,male,1982-12-27,,Official portrait of Will Quince crop 2.jpg,Will Quince
 United Kingdom,Parliamentary Under-Secretary of State for Women,Caroline Dinenage,Q300107,2015-05-08,2017-06-14,female,1971-10-28,,Official portrait of Caroline Dinenage MP crop 2.jpg,Caroline Dinenage
@@ -1422,7 +1424,7 @@ United Kingdom,ambassador to Ethiopia,Norman Ling,Q56872432,2007,2011,male,1952-
 United Kingdom,ambassador to Ethiopia,Gregory Dorey,Q57312848,2011,2016,male,1956,,,
 United Kingdom,ambassador to Ethiopia,Susanna Moorehead,Q57832263,2016,2019-01,female,1957-04-22,,,Susanna Moorehead
 United Kingdom,ambassador to Ethiopia,Alastair McPhail,Q4708752,2019-01,,male,1961-03-02,,Jerusalem- Alastair McPhail (8448167796).jpg,Alastair McPhail
-United Kingdom,ambassador to the European Union,Tim Barrow,Q4078496,2020-02-01,,male,1964-02-15,,"Tim Barrow, 2015.jpg",Tim Barrow
+United Kingdom,ambassador to the European Union,Tim Barrow,Q4078496,2020-02-01,,male,1964-02-15,,"Sir Tim Barrow, 2022 (cropped).png",Tim Barrow
 United Kingdom,ambassador to Fiji,Michael Dibben,Q56849405,1997,2000,male,1943,,,
 United Kingdom,ambassador to Fiji,Michael Price,Q57894739,2000,2002,male,1944,2013,,
 United Kingdom,ambassador to Fiji,Charles Mochan,Q57820295,2002,2006,male,1948,,,
@@ -1932,7 +1934,7 @@ United Kingdom,ambassador to the Russian Federation,Andrew Wood,Q4758974,1995,20
 United Kingdom,ambassador to the Russian Federation,Roderic M. J. Lyne,Q7356574,2000,2004,male,1948-03-31,,Roderic Lyne.webp,Roderic Lyne
 United Kingdom,ambassador to the Russian Federation,Tony Brenton,Q4096312,2004,2008,male,1950-01-01,,Tony Brenton.jpg,Tony Brenton
 United Kingdom,ambassador to the Russian Federation,Anne Pringle,Q512837,2008,2011,female,1955-01-13,,Dmitry Medvedev with Anne Pringle.jpg,Anne Pringle
-United Kingdom,ambassador to the Russian Federation,Tim Barrow,Q4078496,2011,2016,male,1964-02-15,,"Tim Barrow, 2015.jpg",Tim Barrow
+United Kingdom,ambassador to the Russian Federation,Tim Barrow,Q4078496,2011,2016,male,1964-02-15,,"Sir Tim Barrow, 2022 (cropped).png",Tim Barrow
 United Kingdom,ambassador to the Russian Federation,Laurie Bristow,Q6501516,2016-01,2020-01,male,1963-11-23,,Laurie Bristow.jpg,Laurie Bristow
 United Kingdom,ambassador to the Russian Federation,Deborah Bronnert,Q56203802,2020-01,,female,1967-01-31,,Deborah Bronnert 2019.jpg,Deborah Bronnert
 United Kingdom,ambassador to Rwanda,Graeme Loten,Q57832931,1998,2001,male,1959,,,
@@ -2134,7 +2136,7 @@ United Kingdom,ambassador to Uganda,Alison Blackburne,Q56808503,2012,2016,female
 United Kingdom,ambassador to Uganda,Peter West,Q57893937,2016,,male,1958,,,
 United Kingdom,ambassador to Ukraine,Roland Smith,Q57895783,1999,2002,male,1943,,,
 United Kingdom,ambassador to Ukraine,Robert Brinkley,Q12148085,2002,2006,male,1954-01-21,,,
-United Kingdom,ambassador to Ukraine,Tim Barrow,Q4078496,2006,2008,male,1964-02-15,,"Tim Barrow, 2015.jpg",Tim Barrow
+United Kingdom,ambassador to Ukraine,Tim Barrow,Q4078496,2006,2008,male,1964-02-15,,"Sir Tim Barrow, 2022 (cropped).png",Tim Barrow
 United Kingdom,ambassador to Ukraine,Leigh Turner,Q6519690,2008,2012,male,1958-03-13,,Leigh Turner in 2015.jpg,Leigh Turner
 United Kingdom,ambassador to Ukraine,Simon Smith,Q12150206,2012,2015,male,1958-01-14,,Simonsmith.jpg,Simon Smith (diplomat)
 United Kingdom,ambassador to Ukraine,Judith Gough,Q21662922,2015-09-01,2019-07,female,1972-11-08,,Judith Gough.jpg,Judith Gough
@@ -2261,18 +2263,18 @@ United Kingdom,Permanent Representative to the European Union,John Grant,Q623601
 United Kingdom,Permanent Representative to the European Union,Kim Darroch,Q6408545,2007,2012,male,1954-04-30,,Sir Kim Darroch.png,Kim Darroch
 United Kingdom,Permanent Representative to the European Union,Jonathan Cunliffe,Q57577935,2012,2013,male,1953,,,
 United Kingdom,Permanent Representative to the European Union,Ivan Rogers,Q6097351,2013,2017,male,1960,,,Ivan Rogers
-United Kingdom,Permanent Representative to the European Union,Tim Barrow,Q4078496,2017,2020-01-31,male,1964-02-15,,"Tim Barrow, 2015.jpg",Tim Barrow
+United Kingdom,Permanent Representative to the European Union,Tim Barrow,Q4078496,2017,2020-01-31,male,1964-02-15,,"Sir Tim Barrow, 2022 (cropped).png",Tim Barrow
 United Kingdom,Permanent Representative to the European Union Political and Security Committee,David F. Richmond,Q56798070,2000,2003,male,1954,,,
 United Kingdom,Permanent Representative to the European Union Political and Security Committee,Peter O. Gooderham,Q7174287,2003,2004,male,1954-07-29,,,Peter Gooderham
 United Kingdom,Permanent Representative to the European Union Political and Security Committee,Julian King,Q14948632,2004,2007,male,1964-08-22,,Julian King.jpg,Julian King (diplomat)
-United Kingdom,Permanent Representative to the European Union Political and Security Committee,Tim Barrow,Q4078496,2008,2011,male,1964-02-15,,"Tim Barrow, 2015.jpg",Tim Barrow
+United Kingdom,Permanent Representative to the European Union Political and Security Committee,Tim Barrow,Q4078496,2008,2011,male,1964-02-15,,"Sir Tim Barrow, 2022 (cropped).png",Tim Barrow
 United Kingdom,Permanent Representative to the European Union Political and Security Committee,Julian Braithwaite,Q57898183,2011,2015,male,1968,,,
 United Kingdom,Permanent Representative to the European Union Political and Security Committee,Christopher Rampling,Q59252751,2014,2018,male,1973-08-08,,,Chris Rampling
 United Kingdom,Permanent Representative to the European Union Political and Security Committee,Angus C. W. Lapsley,Q57832984,2015,2017,male,1970-03-16,,,
 United Kingdom,Permanent Representative to the European Union Political and Security Committee,Paul Johnston,Q57891164,2017,,male,1968-05-29,,,Paul Johnston (diplomat)
 United Kingdom,Permanent Representative to the Western European Union,Peter O. Gooderham,Q7174287,2003,2004,male,1954-07-29,,,Peter Gooderham
 United Kingdom,Permanent Representative to the Western European Union,Julian King,Q14948632,2004,2007,male,1964-08-22,,Julian King.jpg,Julian King (diplomat)
-United Kingdom,Permanent Representative to the Western European Union,Tim Barrow,Q4078496,2008,2011,male,1964-02-15,,"Tim Barrow, 2015.jpg",Tim Barrow
+United Kingdom,Permanent Representative to the Western European Union,Tim Barrow,Q4078496,2008,2011,male,1964-02-15,,"Sir Tim Barrow, 2022 (cropped).png",Tim Barrow
 United Kingdom,Permanent Representative to the Western European Union,Julian Braithwaite,Q57898183,2011,2015,male,1968,,,
 United Kingdom,ambassador of the United Kingdom,Terri Sarch,Q110050600,2016,,female,1966,,,
 United Kingdom,Financial Secretary to the Treasury,Stephen Timms,Q272346,1999-07-29,2001-06-08,male,1955-07-29,,Official portrait of Stephen Timms crop 2.jpg,Stephen Timms

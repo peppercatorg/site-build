@@ -31,6 +31,25 @@ New Zealand,Q3798833,Nanaia Mahuta,father,Q7347282,Robert Mahuta
 New Zealand,Q3798833,Nanaia Mahuta,sibling,Q109653816,Tipa Mahuta
 New Zealand,Q41498761,Kieran McAnulty,relative,Q96093764,John Monaghan
 New Zealand,Q41689955,Golriz Ghahraman,partner,Q16232034,Guy Williams
+New Zealand,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
+New Zealand,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cambridge"
+New Zealand,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
+New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
+New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
+New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
+New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
+New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
+New Zealand,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
+New Zealand,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
+New Zealand,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
+New Zealand,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
+New Zealand,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
+New Zealand,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
+New Zealand,Q43274,Charles III of the United Kingdom,spouse,Q152239,Queen Camilla of the United Kingdom
+New Zealand,Q43274,Charles III of the United Kingdom,spouse,Q9685,"Diana, Princess of Wales"
 New Zealand,Q4451134,Te Ururoa Flavell,relative,Q104668231,Ranginui Parewahawaha Leonard
 New Zealand,Q466137,Georgina Beyer,father,Q5144886,Colin Beyer
 New Zealand,Q4706207,Alan Bollard,father,Q17418389,Ted Bollard
@@ -67,7 +86,7 @@ New Zealand,Q81749869,Tracey McLellan,child,Q81750859,Jake McLellan
 New Zealand,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 New Zealand,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 New Zealand,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-New Zealand,Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
+New Zealand,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
 New Zealand,Q9682,Elizabeth II,father,Q280856,George VI
 New Zealand,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 New Zealand,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"

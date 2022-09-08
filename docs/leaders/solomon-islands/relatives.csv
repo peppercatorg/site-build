@@ -1,13 +1,32 @@
 catalog,id,name,relationship,relative,relativename
 Solomon Islands,Q109910928,Titus Mokofi Fika,sibling,Q7599597,Stanley Festus Sofu
 Solomon Islands,Q16588782,Johnley Hatimoana,spouse,Q109074073,Janet Hatimoana
+Solomon Islands,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Solomon Islands,Q43274,Charles III,child,Q36812,"Prince William, Duke of Cambridge"
+Solomon Islands,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Solomon Islands,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Solomon Islands,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Solomon Islands,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Solomon Islands,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Solomon Islands,Q43274,Charles III,godparent,Q280856,George VI
+Solomon Islands,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Solomon Islands,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Solomon Islands,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Solomon Islands,Q43274,Charles III,mother,Q9682,Elizabeth II
+Solomon Islands,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Solomon Islands,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Solomon Islands,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Solomon Islands,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Solomon Islands,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Solomon Islands,Q43274,Charles III,spouse,Q152239,Queen Camilla of the United Kingdom
+Solomon Islands,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Solomon Islands,Q59096666,Jimson Tanangada,spouse,Q59125182,Lanelle Tanangada
 Solomon Islands,Q59125182,Lanelle Tanangada,spouse,Q59096666,Jimson Tanangada
 Solomon Islands,Q7599597,Stanley Festus Sofu,sibling,Q109910928,Titus Mokofi Fika
 Solomon Islands,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Solomon Islands,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Solomon Islands,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Solomon Islands,Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
+Solomon Islands,Q9682,Elizabeth II,child,Q43274,Charles III
 Solomon Islands,Q9682,Elizabeth II,father,Q280856,George VI
 Solomon Islands,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Solomon Islands,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
