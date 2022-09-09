@@ -54,7 +54,7 @@ Algeria,President,Abdelmadjid Tebboune,Q2821166,2019-12-19,male,1945-11-17,,Аб
 Algeria,Prime Minister,Aymen Benabderrahmane,Q96612848,2021-06-30,male,1966-08-30,,"Aymen Benabderrahmane, Radio Algérienne - Mar 23, 2021.jpg",Aymen Benabderrahmane
 Algeria,Minister of Agriculture,Mohamed Abdelhafid Henni,Q109649669,2021-11-11,male,,,Mohamed Abdelhafid Henni - Radio Algérienne.png,
 Algeria,Minister of Communications,Mohamed Bouslimani,Q109650286,2021-11-11,male,,,,
-Algeria,Minister of Culture,Soraya Mouloudji,Q110953625,2022-02-17,female,1977,,,
+Algeria,Minister of Culture,Soraya Mouloudji,Q110953625,2022-02-17,female,1977-10-08,,,
 Algeria,Minister of Defence,Abdelmadjid Tebboune,Q2821166,2019-12-19,male,1945-11-17,,Абдельмаджид Теббун (06-11-2021).jpg,Abdelmadjid Tebboune
 Algeria,Minister of Digitization and Statistics,Hocine Charhabil,Q107452336,2021-07-07,male,,,,
 Algeria,Minister of Education,Abdelhakim Belabed,Q62639726,2021-02-21,male,1964-05-10,,Abdelhakim Belabed - Radio Algérienne.png,
@@ -142,7 +142,7 @@ Anguilla,Minister of Innovation & Environment,Quincia Gumbs-Marie,Q113158735,202
 Anguilla,Minister of Social Development,Dee-Ann Kentish-Rogers,Q55639564,2020-03-13,female,1993-01-13,,"Dee-Ann Kentish-Rogers, Commonwealth Games 2014 - Athletics Day 4 (14821413683) (cropped).jpg",Dee-Ann Kentish-Rogers
 Anguilla,Minister of MICUH,Haydn Hughes,Q107772438,2020-03-13,male,,,,
 Anguilla,Speaker of the House of Assembly,Barbara Webster-Bourne,Q43284547,2020,female,,,,Barbara Webster-Bourne
-Antigua and Barbuda,monarch,Charles III,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Antigua and Barbuda,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
 Antigua and Barbuda,Governor-General,Rodney Williams,Q17566330,2014-08-14,male,1947-11-02,,Governor General Of Antigua And Barbuda (37250652361) (cropped).jpg,Rodney Williams (governor-general)
 Antigua and Barbuda,Prime Minister,Gaston Browne,Q17177542,2014-06-13,male,1967-02-09,,PM Gaston Browne (36764147103).jpg,Gaston Browne
 Antigua and Barbuda,"Minister of Agriculture, Lands, Fisheries and Barbuda Affairs",Samantha Marshall,Q20192069,2020-01-20,female,,,,Samantha Marshall
@@ -417,7 +417,7 @@ Azerbaijan,Chief of the State Mobilization and Conscription Service,Arzu Rahimov
 Azerbaijan,Head of the Presidential Administration,Samir Nuriyev,Q20563367,2019-11-01,male,1975-03-09,,Samir Nuriyev.jpg,Samir Nuriyev
 Azerbaijan,Governor of the Central Bank,Taleh Kazimov,Q108823069,2022-04-13,male,1983-09-11,,Taleh Kazimov.jpg,Taleh Kazimov
 Azerbaijan,Chief of General Staff,Karim Valiyev,Q31296056,2021-07-23,male,1961-02-09,,Karim Valiyev.jpg,Karim Valiyev
-Bahamas,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Bahamas,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,,Charles III
 Bahamas,Governor-General,Cornelius A. Smith,Q64853457,2019-06-28,male,1937-04-07,,Cornelius A Smith (2008-01-22).jpg,Cornelius A. Smith
 Bahamas,Prime Minister,"Philip ""Brave"" Davis",Q7183082,2021-09-17,male,1951-06-07,,Prime Minister Philip Davis in 2022.jpg,Philip Davis (Bahamian politician)
 Bahamas,Deputy Prime Minister,Chester Cooper,Q108674257,2021-09-17,male,1964-08-22,,,Chester Cooper
@@ -619,7 +619,7 @@ Belgium,Minister-President of the German-speaking Community,Oliver Paasch,Q20204
 Belgium,Governor of the National Bank,Pierre Wunsch,Q64157205,2019-01-02,male,1967-12-12,,,
 Belgium,Chief of Defence,Michel Hofman,Q16025168,2020-07-10,male,1958,,,Michel Hofman
 Belgium,Mayor of Brussels,Philippe Close,Q3379592,2017-07-20,male,1971-03-18,,,Philippe Close
-Belize,Monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Belize,Monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,,Charles III
 Belize,Governor-General,Froyla Tzalam,Q106601151,2021-05-27,female,,,Froyla Tzalam 2022.jpg,Froyla Tzalam
 Belize,Prime Minister,Johnny Briceño,Q6266369,2020-11-12,male,1960-07-17,,Johnny Briceño (52135383761) (cropped).jpg,Johnny Briceño
 Belize,Deputy Prime Minister,Cordel Hyde,Q58896069,2020-11-16,male,1973-08-20,,Cordel Hyde 2022.jpg,Cordel Hyde
@@ -774,7 +774,7 @@ Brazil,Minister of Regional Development,Daniel de Oliveira,Q111446676,2022-03-31
 Brazil,"Minister of Science, Technology, Innovations and Communications",Paulo Alvim,Q111444580,2022-03-31,male,,,Ministro Paulo Alvim.jpg,
 Brazil,Minister of Tourism,Carlos Brito,Q106621007,2022-03-31,male,,,,
 Brazil,Minister of Transparency and Control,Wagner Rosário,Q30936068,2017-05-31,male,1975,,Wagner Rosário em 30 de julho de 2019 (recorte).jpg,Wagner de Campos Rosário
-Brazil,"Minister of Women, Family and Human Rights",Cristiane Rodrigues Britto,Q111446662,2022-03-31,female,,,Cristiane Britto (cropped).png,
+Brazil,"Minister of Women, Family and Human Rights",Cristiane Rodrigues Britto,Q111446662,2022-03-31,female,1979-01-25,,Cristiane Britto (cropped).png,Cristiane Britto
 Brazil,Minister of the Court of Accounts of the Union,Aroldo Cedraz,Q9630051,2007-01-03,male,1951-02-26,,Aroldo Cedraz3.jpg,
 Brazil,Secretary-General of the Presidency,Luiz Eduardo Ramos,Q64682549,2021-07-26,male,1956-06-12,,Luiz Eduardo Ramos em 4 de julho de 2019 (1; recorte).jpg,Luiz Eduardo Ramos
 Brazil,Chief of Staff of the Presidency,Ciro Nogueira Lima Filho,Q15985219,2021-07-26,male,1968-11-21,,Ciro Nogueira Filho 2013.jpg,Ciro Nogueira Lima Filho
@@ -978,7 +978,7 @@ Cameroon,President of the National Assembly,Cavayé Yéguié Djibril,Q4160254,19
 Cameroon,Chief of Defence Staff,René Claude Meka,Q3426012,2001-09,male,1939-02-02,,Rene Claude Meka 2019.jpg,René Claude Meka
 Cameroon,Chief Justice,Fonkwe Joseph Fongang,Q111396376,2020-08-10,male,,,,
 Cameroon,President of the Constitutional Council,Clément Atangana,Q48570713,2018-02-07,male,1941-09-20,,,
-Canada,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Canada,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,,Charles III
 Canada,Governor General,Mary Simon,Q6780723,2021-07-26,female,1947-08-21,,"Mary Simon, Governor General of Canada.jpg",Mary Simon
 Canada,Prime Minister,Justin Trudeau,Q3099714,2015-11-04,male,1971-12-25,,Justin Trudeau March 2022.jpg,Justin Trudeau
 Canada,Deputy Prime Minister,Chrystia Freeland,Q4492815,2019-11-20,female,1968-08-02,,Chrystia Freeland - 2019 (MUS9897) (cropped).jpg,Chrystia Freeland
@@ -1196,7 +1196,7 @@ Colombia,Minister of Housing,Catalina Velasco,Q113463856,2022-08-07,female,,,,
 Colombia,Minister of Information Technology and Communications,Sandra Milena Urrutia Pérez,Q113674316,2022-08-31,female,,,,
 Colombia,Minister of the Interior,Alfonso Prada,Q17620689,2022-08-07,male,1964-10-06,,Alfoso Prada.jpg,Alfonso Prada
 Colombia,Minister of Justice and Law,Néstor Osuna,Q113463590,2022-08-07,male,,,Nestor Osuna.jpg,
-Colombia,Minister of Labour,Gloria Inés Ramírez,Q5881263,2022-08-07,female,1956,,Gloria Inés Ramírez.jpg,
+Colombia,Minister of Labour,Gloria Inés Ramírez,Q5881263,2022-08-07,female,1956,,Gloria Inés Ramírez.jpg,Gloria Inés Ramírez
 Colombia,Minister of Mining and Energy,Irene Vélez Torres,Q113463507,2022-08-07,female,,,Irene Velez T.jpg,
 Colombia,"Minister of Science, Technology, and Innovation",Arturo Luis Luna,Q113516541,2022-08-14,male,1984-06-14,,,
 Colombia,Minister of Sport,María Isabel Urrutia,Q448690,2022-08-07,female,1965-03-25,,María Isabel Urrutia.jpg,María Isabel Urrutia
@@ -1864,6 +1864,7 @@ Georgia,Vice Prime Minister,Tea Tsulukiani,Q13589522,2021-03-22,female,1975-01-2
 Georgia,"Minister of Culture, Sports and Youth",Tea Tsulukiani,Q13589522,2021-03-22,female,1975-01-21,,Eastern Partnership justice and home affairs ministers' meeting Thea Tsulukiani (35609681782) (cropped).jpg,Thea Tsulukiani
 Georgia,Minister of Defence,Juansher Burchuladze,Q106094877,2021-02-22,male,1978-01-14,,Ināra Mūrniece tiekas ar Gruzijas aizsardzības ministru 01 (cropped).jpg,Juansher Burchuladze
 Georgia,Minister of Economy and Sustainable Development,Levan Davitashvili,Q31354638,2022-02-09,male,1978-12-10,,Levan Davitashvili.jpg,
+Georgia,Minister of Education and Science,Mikheil Chkhenkeli,Q62559662,2019-11-13,male,1968-04-01,,,
 Georgia,Minister of Environmental Protection and Agriculture,Otar Shamugia,Q110915463,2022-02-09,male,,,,
 Georgia,Minister of Finance,Lasha Khutsishvili,Q106522763,2021-04-01,male,1985-09-02,,Lasha Khutsishvili.jpg,Lasha Khutsishvili
 Georgia,Minister of Foreign Affairs,Ilia Darchiashvili,Q111487495,2022-04-04,male,1981-02-21,,Ilia Darchiashvili.jpg,Ilia Darchiashvili
@@ -2283,7 +2284,7 @@ Iran,Vice-President as Head of the Martyrs and Veterans' Affairs Foundation,Amir
 Iran,Vice-President as Head of the Administrative and Recruitment Affairs Organisation,Meysam Latifi,Q109559730,2021-09-05,male,1979,,میثم لطیفی.jpg,Meysam Latifi
 Iran,Vice-President as Head of Department of Environment,Ali Salajegheh,Q109549146,2021-10-03,male,1967,,علی سلاجقه.jpg,Ali Salajegheh
 Iran,Minister of Agricultural Jihad,Seyed Javad Sadatinejad,Q25425402,2021-08-25,male,1972,,,Javad Sadatinejad
-Iran,"Minister of Cooperation, Labour and Social Welfare",Mohammad-Hadi Zahedi-Vafa,Q112917822,2022-06-14,male,,,,
+Iran,"Minister of Cooperation, Labour and Social Welfare",Mohammad-Hadi Zahedi-Vafa,Q112917822,2022-06-14,male,1962,,,Mohammad Hadi Zahedivafa
 Iran,"Minister of Cultural Heritage, Handicrafts and Tourism",Ezzatollah Zarghami,Q3736444,2021-08-25,male,1959-07-29,,Ezatollah Zarghami.jpg,Ezzatollah Zarghami
 Iran,Minister of Islamic Culture and Guidance,Mohammad Mehdi Esmaeili,Q108368785,2021-08-25,male,1975,,محمدمهدی اسماعیلی1.jpg,Mohammad Mehdi Esmaili
 Iran,Minister of Defence and Armed Forces Logistics,Mohammad Reza Qaraei Ashtiani,Q65195083,2021-08-25,male,1960,,3369975 3M8A5370 01.jpg,Mohammad-Reza Gharaei Ashtiani
@@ -2373,7 +2374,7 @@ Ireland,Attorney General,Paul Gallagher,Q7150801,2020-06-27,male,1955-03-20,,,Pa
 Ireland,Chief Justice,Donal O'Donnell,Q5293884,2021-10-11,male,1958-04-10,,,Donal O'Donnell
 Ireland,Governor of the Central Bank,Gabriel Makhlouf,Q75186229,2019-09-01,male,1960,,Gabriel Makhlouf.jpg,Gabriel Makhlouf
 Ireland,Chief of Staff of the Defence Forces,Seán Clancy,Q109929699,2021-09-29,male,,,"Brigadier General Seán Clancy, GOC Air Corps.jpg",Seán Clancy (Irish general)
-Isle of Man,Lord of Mann,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Isle of Man,Lord of Mann,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,,Charles III
 Isle of Man,Chief Minister,Alfred Cannan,Q25752002,2021-10-12,male,,,Alfred Cannan.jpg,Alfred Cannan
 Isle of Man,Lieutenant Governor,John Lorimer,Q6245279,2021-09-29,male,1962-11-27,,John G. Lorimer.jpg,John Lorimer (British Army officer)
 Isle of Man,Minister for Cabinet Office,Kate Lord-Brennan,Q50676528,2021-10-12,female,,,,Kate Lord-Brennan
@@ -2464,7 +2465,7 @@ Italy,President of the Chamber of Deputies,Roberto Fico,Q7484547,2018-03-24,male
 Italy,President of the Senate,Elisabetta Casellati,Q930967,2018-03-24,female,1946-08-12,,Elisabetta Alberti Casellati cropped.jpg,Elisabetta Casellati
 Italy,Governor of the Banca d'Italia,Ignazio Visco,Q984461,2011-11-01,male,1949-11-21,,"Ignazio Visco at the Rebuilding Europe’s Competitiveness Meeting, Villa Madama, Rome 30th October 2012.jpg",Ignazio Visco
 Italy,Chief of the Defence Staff,Giuseppe Cavo Dragone,Q18603939,2021-10-19,male,1957-02-28,,Giuseppe Cavo Dragone 2020 (cropped).jpg,Giuseppe Cavo Dragone
-Jamaica,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Jamaica,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,,Charles III
 Jamaica,Governor-General,Patrick Allen,Q109147,2009-02-26,male,1951-02-07,,Sir Patrick Allen.jpg,Patrick Allen (governor-general)
 Jamaica,Prime Minister,Andrew Holness,Q505200,2016-03-03,male,1972-07-22,,Andrew Holness Press (cropped).jpg,Andrew Holness
 Jamaica,Deputy Prime Minister,Horace Chang,Q1627852,2020-09,male,1952-11-10,,,Horace Chang
@@ -2589,7 +2590,7 @@ Japan,Governor of Hyōgo Prefecture,Motohiko Saitō,Q107917854,2021-08-01,male,1
 Japan,Governor of Ibaraki Prefecture,Kazuhiko Ōigawa,Q38081041,2017-09-26,male,1964-04-03,,"Kazuhiko Oigawa, 20191206.jpg",Kazuhiko Ōigawa
 Japan,Governor of Ishikawa Prefecture,Hiroshi Hase,Q3136350,2022-03-27,male,1961-05-05,,Hiroshi Hase Monbukagakudaijin.jpg,Hiroshi Hase
 Japan,Governor of Iwate Prefecture,Takuya Tasso,Q49869,2007-04-30,male,1964-06-10,,Tasso Takuya (2010).JPG,Takuya Tasso
-Japan,Governor of Kagawa Prefecture,Toyohito Ikeda,Q100454297,2022-09-05,male,,,Toyohito Ikeda 2018.jpg,
+Japan,Governor of Kagawa Prefecture,Toyohito Ikeda,Q100454297,2022-09-05,male,1961-07-15,,Toyohito Ikeda 2018.jpg,
 Japan,Governor of Kagoshima Prefecture,Kōichi Shiota,Q97291648,2020-07-28,male,1965-10-15,,鹿児島県 知事 塩田康一.jpg,Kōichi Shiota
 Japan,Governor of Kanagawa Prefecture,Yūji Kuroiwa,Q655960,2011-04-23,male,1954-09-26,,"Governor Kanagawa Yuji Kuroiwa. In the case of an electric bus test ride, I photographed it at Fureiyu.JPG",Yūji Kuroiwa
 Japan,Governor of Kumamoto Prefecture,Ikuo Kabashima,Q1658176,2008-04-16,male,1947-01-28,,Ikuo Kabashima 20220722.jpg,Ikuo Kabashima
@@ -3522,7 +3523,7 @@ Netherlands,President of the Senate,Jan Anthonie Bruijn,Q1899440,2019-07-02,male
 Netherlands,Speaker of the House of Representatives,Vera Bergkamp,Q3084300,2021-04-08,female,1971-06-01,,Vera-Bergkamp.jpg,Vera Bergkamp
 Netherlands,President of De Nederlandsche Bank,Klaas Knot,Q631864,2011-07-01,male,1967-04-14,,,Klaas Knot
 Netherlands,Chief of Defence,Onno Eichelsheim,Q94429161,2021-04-15,male,1966,,Portretfoto Onno Eichelsheim.jpg,Onno Eichelsheim
-New Zealand,Monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+New Zealand,Monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,,Charles III
 New Zealand,Governor-General,Cindy Kiro,Q17180701,2021-10-21,female,1958,,Cindy Kiro 2021 (cropped).jpg,Cindy Kiro
 New Zealand,Prime Minister,Jacinda Ardern,Q3606816,2017-10-26,female,1980-07-26,,Jacinda Ardern - Waitangi 2022 (cropped).jpg,Jacinda Ardern
 New Zealand,Deputy Prime Minister,Grant Robertson,Q1543207,2020-11-06,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
@@ -3839,7 +3840,7 @@ Panama,Minister of Public Security,Juan Pino,Q110628794,2020-02-05,male,,,,
 Panama,Minister of Public Works,Rafael Sabonge,Q100351071,2019-07-01,male,1978-10-09,,Ministro en consejo gabinete.jpg,
 Panama,Minister of Social Development,María Inés Castillo,Q110628773,2020-06-24,female,,,,
 Panama,Speaker of the National Assembly,Crispiano Adames,Q110628932,2021-07-01,male,1961,,,
-Papua New Guinea,monarch,Charles III,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Papua New Guinea,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,,Charles III
 Papua New Guinea,Governor-General,Bob Dadae,Q28647870,2017-02-28,male,1961-03-08,,Sir Bob Dadae (cropped).jpg,Bob Dadae
 Papua New Guinea,Prime Minister,James Marape,Q6138903,2019-05-30,male,1971-04-24,,Marape 190614 Haus Lotu (2) (cropped).jpg,James Marape
 Papua New Guinea,Minister of Foreign Affairs,Justin Tkachenko,Q85991458,2022-08-24,male,,,,
@@ -4125,7 +4126,7 @@ Rwanda,President of the Chamber of Deputies,Donatille Mukabalisa,Q28868753,2013-
 Rwanda,Chief of Defence Staff,Jean Bosco Kazura,Q6170299,2019-11-04,male,1963,,Kazura.JPG,Jean Bosco Kazura
 Rwanda,Governor of the National Bank,John Rwangombwa,Q27063755,2013-02-25,male,,,John Rwangombwa - World Economic Forum on Africa 2012.jpg,John Rwangombwa
 Rwanda,Mayor of Kigali,Pudence Rubingisa,Q106622696,2019-08-15,male,,,,
-Saint Lucia,monarch,Charles III,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Saint Lucia,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
 Saint Lucia,Governor-General,Errol Charles,Q109557998,2021-11-11,male,1942-12-10,,Errol Charles May 2022.jpg,Errol Charles
 Saint Lucia,Prime Minister,Philip Pierre,Q7184214,2021-07-28,male,,,Philip J Pierre Christmas 2020 (cropped).png,Philip J. Pierre
 Saint Lucia,"Minister for Agriculture, Fisheries, Food Security and Rural Development",Alfred Prospere,Q109641213,2021-08-05,male,,,,
@@ -4385,7 +4386,7 @@ Slovenia,President of the National Assembly,Urška Klakočar Zupančič,Q1115131
 Slovenia,Governor of the Bank of Slovenia,Boštjan Vasle,Q63614880,2019-01-09,male,1969,,133. seja vlade 07 (cropped).jpg,
 Slovenia,Chief of the General Staff,Robert Glavaš,Q18645044,2020-04-19,male,1962,,General Robert Glavaš (cropped).jpg,
 Slovenia,Mayor of Ljubljana,Zoran Janković,Q220521,2012-04-11,male,1953-01-01,,Zoran Janković 02.jpg,Zoran Janković (politician)
-Solomon Islands,monarch,Charles III,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Solomon Islands,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
 Solomon Islands,Governor-General,David Vunagi,Q5240675,2019-07-07,male,1950,,"Sir David Vunagi, Governor General of Solomon Islands.jpg",David Vunagi
 Solomon Islands,Prime Minister,Manasseh Sogavare,Q536063,2019-04-24,male,1955-01-17,,Манассе Согаваре (28532489095).jpg,Manasseh Sogavare
 Solomon Islands,Minister of Agriculture and Livestock,Augustine Auga,Q59096569,2022-02-25,,,,,
@@ -4650,7 +4651,7 @@ Sri Lanka,Chief of the Defence Staff,Shavendra Silva,Q16195805,2020-01-01,male,1
 Sri Lanka,Governor of the Central Bank,Nandalal Weerasinghe,Q111493511,2022-04-08,male,,,,Nandalal Weerasinghe
 Sri Lanka,Speaker of the Parliament,Mahinda Yapa Abeywardena,Q6734031,2020-08-20,male,1945-10-10,,Mahinda Yapa Abeywardena.JPG,Mahinda Yapa Abeywardena
 Sri Lanka,Mayor of Colombo,Rosy Senanayake,Q7370151,2018-03-19,female,1958-01-05,,Rosy Senanayake.jpg,Rosy Senanayake
-Saint Kitts and Nevis,monarch,Charles III,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Saint Kitts and Nevis,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
 Saint Kitts and Nevis,Governor-General,Tapley Seaton,Q20995517,2015-05-19,male,1950-07-28,,Tapley Seaton 2018.jpg,Tapley Seaton
 Saint Kitts and Nevis,Prime Minister,Terrance Drew,Q113443525,2022-08-06,male,1976-11-22,,Terrance Drew 2022.jpg,Terrance Drew
 Saint Kitts and Nevis,Deputy Prime Minister,Geoffrey Ian Hanley,Q113554646,2022-08-13,male,,,,
@@ -4785,7 +4786,7 @@ Tajikistan,Speaker of the National Assembly,Rustam Emomali,Q24258837,2020-04-17,
 Tajikistan,Speaker of the Assembly of Representatives,Zokirzoda Mahmadtohir,Q110161298,2020-03-17,male,1956,,,
 Tajikistan,Governor of the National Bank,Kholiqzoda Hokim Hikmatullo,Q110161368,2020-11-20,male,1973-07-27,,,
 Tajikistan,Chief of the General Staff,Emomali Sobirzoda,Q56702398,2015-11-24,male,1972-07-20,,Эмомали Собирзода.jpg,Emomali Sobirzoda
-Tanzania,President,Samia Suluhu,Q16193885,2021-03-19,female,1960-01-27,,Samia Suluhu Hassan.jpg,Samia Suluhu Hassan
+Tanzania,President,Samia Suluhu,Q16193885,2021-03-19,female,1960-01-27,,The 6th President of Tanzania (cropped).jpg,Samia Suluhu Hassan
 Tanzania,Prime Minister,Kassim Majaliwa,Q6737420,2015-11-20,male,1961-12-22,,Kassim Majaliwa.jpg,Kassim Majaliwa
 Tanzania,Vice President,Philip Isdory Mpango,Q22279305,2021-03-31,male,1957-07-14,,Dr Philip Mpango.jpg,Philip Mpango
 Tanzania,Minister of Agriculture,Hussein Bashe,Q30090584,2022-01-10,male,1975-08-26,,,Hussein Mohamed Bashe
@@ -4993,7 +4994,7 @@ Turks and Caicos Islands,"Minister of Tourism, Agriculture, Fisheries, Heritage 
 Turks and Caicos Islands,Leader of Government Business,Akierra Missick,Q4700892,2021-02-24,female,1983,,Hon. Akierra Mary Deanne Missick.jpg,Akierra Missick
 Turks and Caicos Islands,Attorney-General,Rhondalee Braithwaite-Knowles,Q42537719,2014,female,,,,Rhondalee Braithwaite-Knowles
 Turks and Caicos Islands,Speaker of the House of Assembly,Gordon Burton,Q109776454,2021-03-05,male,,,,
-Tuvalu,monarch,Charles III,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+Tuvalu,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
 Tuvalu,Governor-General,Tofiga Vaevalu Falani,Q108906680,2021-09-29,male,,,Tofiga Vaevalu Falani 2021.jpg,Tofiga Vaevalu Falani
 Tuvalu,Prime Minister,Kausea Natano,Q6378927,2019-09-19,male,1957-07-05,,Kausea Natano June 2022.jpg,Kausea Natano
 Tuvalu,Minister of Education,Timi Melei,Q108805761,2019-09-20,male,,,,
@@ -5173,7 +5174,7 @@ UAE,Ruler of Ajman,Humaid bin Rashid Al Nuaimi,Q2984620,1981,male,1931,,GMC Hosp
 UAE,Ruler of Fujairah,Hamad bin Mohammed Al Sharqi,Q1371101,1975,male,1949-02-22,,,Hamad bin Mohammed Al Sharqi
 UAE,Ruler of Umm al-Quwain,Saud bin Rashid Al Mu'alla,Q347571,2009,male,1952-10-01,,,Saud bin Rashid Al Mualla
 UAE,Ruler of Ras al-Khaimah,Saud bin Saqr al Qasimi,Q1368398,2010-10-27,male,1956-02-10,,Sheikh Saud in 2010.jpg,Saud bin Saqr Al Qasimi
-United Kingdom,monarch,Charles III,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
+United Kingdom,monarch,Charles III of the United Kingdom,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (2).jpg",Charles III
 United Kingdom,Prime Minister,Liz Truss,Q272201,2022-09-06,female,1975-07-26,,Liz Truss Official Portrait.jpg,Liz Truss
 United Kingdom,Deputy Prime Minister,Thérèse Coffey,Q290554,2022-09-06,female,1971-11-18,,Official portrait of Dr Thérèse Coffey crop 2.jpg,Thérèse Coffey
 United Kingdom,First Lord of the Treasury,Liz Truss,Q272201,2022-09-06,female,1975-07-26,,Liz Truss Official Portrait.jpg,Liz Truss
