@@ -5,31 +5,31 @@ Jamaica,Q1167006,Daryl Vaz,spouse,Q74600954,Ann-Marie Vaz
 Jamaica,Q16751168,Tom Tavares-Finson,spouse,Q253612,Cindy Breakspeare
 Jamaica,Q2065916,Pearnel Charles,sibling,Q50385566,Lorna Golding
 Jamaica,Q315662,Bruce Golding,father,Q7673897,Tacius Golding
-Jamaica,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Jamaica,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Jamaica,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Jamaica,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Jamaica,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Jamaica,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Jamaica,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Jamaica,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Jamaica,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Jamaica,Q43274,Charles III of the United Kingdom,spouse,Q152239,"Camilla, Queen consort of the United Kingdom"
-Jamaica,Q43274,Charles III of the United Kingdom,spouse,Q9685,"Diana, Princess of Wales"
+Jamaica,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Jamaica,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Jamaica,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Jamaica,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Jamaica,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Jamaica,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Jamaica,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Jamaica,Q43274,Charles III,godparent,Q280856,George VI
+Jamaica,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Jamaica,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Jamaica,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Jamaica,Q43274,Charles III,mother,Q9682,Elizabeth II
+Jamaica,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Jamaica,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Jamaica,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Jamaica,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Jamaica,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Jamaica,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Jamaica,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Jamaica,Q47308275,Juliet Holness,spouse,Q505200,Andrew Holness
 Jamaica,Q505200,Andrew Holness,spouse,Q47308275,Juliet Holness
 Jamaica,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Jamaica,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Jamaica,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Jamaica,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Jamaica,Q9682,Elizabeth II,child,Q43274,Charles III
 Jamaica,Q9682,Elizabeth II,father,Q280856,George VI
 Jamaica,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Jamaica,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"

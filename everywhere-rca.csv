@@ -109,29 +109,29 @@ Antigua and Barbuda,Q20172097,Paul Chet Greene,spouse,Q113611379,Gwendolyn Leono
 Antigua and Barbuda,Q365451,Lester Bird,father,Q561911,Vere Bird
 Antigua and Barbuda,Q365451,Lester Bird,sibling,Q7921171,"Vere Bird, Jr."
 Antigua and Barbuda,Q431167,James Carlisle,spouse,Q113611332,Nalda Amelia Carlisle
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,spouse,Q152239,Queen Camilla of the United Kingdom
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,spouse,Q9685,Diana de Reino Unido
+Antigua and Barbuda,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Antigua and Barbuda,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Antigua and Barbuda,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Antigua and Barbuda,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Antigua and Barbuda,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Antigua and Barbuda,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Antigua and Barbuda,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Antigua and Barbuda,Q43274,Charles III,godparent,Q280856,George VI
+Antigua and Barbuda,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Antigua and Barbuda,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Antigua and Barbuda,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Antigua and Barbuda,Q43274,Charles III,mother,Q9682,Elizabeth II
+Antigua and Barbuda,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Antigua and Barbuda,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Antigua and Barbuda,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Antigua and Barbuda,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Antigua and Barbuda,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Antigua and Barbuda,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Antigua and Barbuda,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Antigua and Barbuda,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Antigua and Barbuda,Q9682,Elizabeth II,child,Q43274,Charles III
 Antigua and Barbuda,Q9682,Elizabeth II,father,Q280856,George VI
 Antigua and Barbuda,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Antigua and Barbuda,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -860,29 +860,29 @@ Azerbaijan,Q84818043,Elnur M. Allahverdiyev,father,Q110104112,Marat Allahverdiye
 Azerbaijan,Q93356661,Nizami Səfərov,sibling,Q16371792,Niyazi Səfərov
 Azerbaijan,Q96002133,Faraj Guliyev,child,Q100165763,Mətin Quliyev
 Bahamas,Q17326341,Marguerite Pindling,spouse,Q920953,Lynden Pindling
-Bahamas,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Bahamas,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Bahamas,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Bahamas,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Bahamas,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Bahamas,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Bahamas,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Bahamas,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Bahamas,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Bahamas,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Bahamas,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Bahamas,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Bahamas,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Bahamas,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Bahamas,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Bahamas,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Bahamas,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Bahamas,Q43274,Charles III of the United Kingdom,spouse,Q152239,"Camilla, Queen consort of the United Kingdom"
-Bahamas,Q43274,Charles III of the United Kingdom,spouse,Q9685,"Diana, Princess of Wales"
+Bahamas,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Bahamas,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Bahamas,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Bahamas,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Bahamas,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Bahamas,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Bahamas,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Bahamas,Q43274,Charles III,godparent,Q280856,George VI
+Bahamas,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Bahamas,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Bahamas,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Bahamas,Q43274,Charles III,mother,Q9682,Elizabeth II
+Bahamas,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Bahamas,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Bahamas,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Bahamas,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Bahamas,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Bahamas,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Bahamas,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Bahamas,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Bahamas,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Bahamas,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Bahamas,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Bahamas,Q9682,Elizabeth II,child,Q43274,Charles III
 Bahamas,Q9682,Elizabeth II,father,Q280856,George VI
 Bahamas,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Bahamas,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -1021,7 +1021,7 @@ Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2057996,"P
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2071496,"Prince Amedeo, Hereditary Archduke of Austria-Este"
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2361842,Princess Laetitia Maria of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2720169,"Prince Joachim of Belgium, Archduke of Austria-Este"
-Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q970268,"Princess Maria Laura of Belgium, Archduchess of Austria-Este"
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q970268,Princess Maria Laura of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",father,Q3911,Albert II of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",mother,Q31129,Queen Paola of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q155004,Philippe I of Belgium
@@ -1145,25 +1145,25 @@ Belgium,Q964403,Daniel Ducarme,child,Q3022653,Denis Ducarme
 Belize,Q106601151,Froyla Tzalam,spouse,Q112483807,Daniel Mendez
 Belize,Q335215,Said Musa,child,Q16213341,Yasser Musa
 Belize,Q335215,Said Musa,child,Q58896061,Kareem Musa
-Belize,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Belize,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Belize,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Belize,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Belize,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Belize,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Belize,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Belize,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Belize,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Belize,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Belize,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Belize,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Belize,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Belize,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Belize,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Belize,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Belize,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Belize,Q43274,Charles III of the United Kingdom,spouse,Q152239,"Camilla, Queen consort of the United Kingdom"
-Belize,Q43274,Charles III of the United Kingdom,spouse,Q9685,"Diana, Princess of Wales"
+Belize,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Belize,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Belize,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Belize,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Belize,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Belize,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Belize,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Belize,Q43274,Charles III,godparent,Q280856,George VI
+Belize,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Belize,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Belize,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Belize,Q43274,Charles III,mother,Q9682,Elizabeth II
+Belize,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Belize,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Belize,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Belize,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Belize,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Belize,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Belize,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Belize,Q57701,Dean Barrow,child,Q1346832,Shyne
 Belize,Q57701,Dean Barrow,spouse,Q23416186,Kim Simplis Barrow
 Belize,Q58896061,Kareem Musa,father,Q335215,Said Musa
@@ -1173,7 +1173,7 @@ Belize,Q86003400,Elizabeth Zabaneh,mother,Q21066738,Jane Ellen Usher
 Belize,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Belize,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Belize,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Belize,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Belize,Q9682,Elizabeth II,child,Q43274,Charles III
 Belize,Q9682,Elizabeth II,father,Q280856,George VI
 Belize,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Belize,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -1699,6 +1699,8 @@ Canada,Q3101084,Geoffrey Kelley,child,Q60833305,Gregory Kelley
 Canada,Q3106095,Gilles Bernier,child,Q516940,Maxime Bernier
 Canada,Q311684,Michael Ignatieff,father,Q500237,George Ignatieff
 Canada,Q311684,Michael Ignatieff,mother,Q110384411,Alison Grant
+Canada,Q317842,Jack Layton,child,Q6847629,Mike Layton
+Canada,Q317842,Jack Layton,father,Q3435686,Robert Layton
 Canada,Q317842,Jack Layton,spouse,Q3350703,Olivia Chow
 Canada,Q3179947,Jody Carr,sibling,Q3157141,Jack Carr
 Canada,Q3180694,Johanne Gonthier,mother,Q28835038,Madeleine Bélanger
@@ -1734,25 +1736,25 @@ Canada,Q3574167,Yvon Vallières,child,Q3193323,Karine Vallières
 Canada,Q366456,Stéphane Dion,father,Q3270913,Léon Dion
 Canada,Q366456,Stéphane Dion,spouse,Q6154564,Janine Krieber
 Canada,Q41564,David Johnston,spouse,Q14949441,Sharon Johnston
-Canada,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Canada,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Canada,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Canada,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Canada,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Canada,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Canada,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Canada,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Canada,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Canada,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Canada,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Canada,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Canada,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Canada,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Canada,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Canada,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Canada,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Canada,Q43274,Charles III of the United Kingdom,spouse,Q152239,"Camilla, Queen consort of the United Kingdom"
-Canada,Q43274,Charles III of the United Kingdom,spouse,Q9685,"Diana, Princess of Wales"
+Canada,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Canada,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Canada,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Canada,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Canada,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Canada,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Canada,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Canada,Q43274,Charles III,godparent,Q280856,George VI
+Canada,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Canada,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Canada,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Canada,Q43274,Charles III,mother,Q9682,Elizabeth II
+Canada,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Canada,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Canada,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Canada,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Canada,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Canada,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Canada,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Canada,Q45311888,Jean Yip,spouse,Q17305769,Arnold Chan
 Canada,Q4684985,Adrian Dix,spouse,Q19894620,Renée Sarojini Saklikar
 Canada,Q4890173,Benoît Serré,sibling,Q5516666,Gaetan Serré
@@ -1798,7 +1800,7 @@ Canada,Q930026,Rosalie Abella,spouse,Q356337,Irving Abella
 Canada,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Canada,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Canada,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Canada,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Canada,Q9682,Elizabeth II,child,Q43274,Charles III
 Canada,Q9682,Elizabeth II,father,Q280856,George VI
 Canada,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Canada,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -2850,6 +2852,7 @@ Czechia,Q12021920,Ivan Gabal,spouse,Q2981008,Jana Hybášková
 Czechia,Q12022546,Jan Hamáček,spouse,Q97991252,Gabriela Kloudová
 Czechia,Q12023023,Jan Rakušan,child,Q22035584,Vít Rakušan
 Czechia,Q12023269,Jan Zahradníček,father,Q1682383,Jan Zahradníček
+Czechia,Q12023732,Jaroslav Bašta,spouse,Q95109215,Dara Baštová
 Czechia,Q12025061,Jiří Brýdl,sibling,Q51729992,Miroslav Brýdl
 Czechia,Q12025072,Jiří Bělehrádek,sibling,Q12055899,Stanislav Bělehrádek
 Czechia,Q12025103,Jiří Drahoš,spouse,Q47493523,Eva Drahošová
@@ -2956,6 +2959,7 @@ Czechia,Q22035584,Vít Rakušan,father,Q12023023,Jan Rakušan
 Czechia,Q2223090,Tomio Okamura,sibling,Q12042947,Osamu Okamura
 Czechia,Q2223090,Tomio Okamura,sibling,Q29346164,Hayato Okamura
 Czechia,Q231231,Zuzana Roithová,spouse,Q95183454,Jan Roith
+Czechia,Q23649185,Jana Mračková Vildumetzová,spouse,Q113878264,Jan Mraček
 Czechia,Q2370616,Svatopluk Karásek,sibling,Q26770642,Oldřich Karásek
 Czechia,Q2382175,Táňa Fischerová,father,Q12022520,Jan Fišer
 Czechia,Q2382175,Táňa Fischerová,partner,Q3563122,Petr Skoumal
@@ -3114,6 +3118,7 @@ Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q23906043,Christian Rosing
 Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q52709911,Peter Frederik Rosing
 Denmark,Q11989208,Mette Bock,father,Q6090650,Ole Samuelsen
 Denmark,Q11989208,Mette Bock,sibling,Q491263,Anders Samuelsen
+Denmark,Q12004862,Søren Pape Poulsen,spouse,Q113883343,Josue Medina Vasquez Poulsen
 Denmark,Q12009842,Villum Christensen,sibling,Q12343368,Troels Christensen
 Denmark,Q12301892,Annette Lind,father,Q100715907,Alex Lind
 Denmark,Q12303586,Birthe Skaarup,child,Q12331726,Peter Skaarup
@@ -3222,6 +3227,8 @@ Denmark,Q3042869,Karen Ellemann,sibling,Q12318947,Jakob Ellemann-Jensen
 Denmark,Q3082669,Ulla Tørnæs,father,Q12324045,Laurits Tørnæs
 Denmark,Q3107100,Mimi Jakobsen,father,Q12310227,Erhard Jakobsen
 Denmark,Q3107100,Mimi Jakobsen,spouse,Q12303105,Bengt Burg
+Denmark,Q3110095,Kristian Jensen,spouse,Q113866340,Trine Overmark Jensen
+Denmark,Q3110095,Kristian Jensen,spouse,Q7169413,Pernille Rosendahl
 Denmark,Q311063,Poul Nyrup Rasmussen,spouse,Q3499031,Lone Dybkjær
 Denmark,Q3160663,Jakob Axel Nielsen,relative,Q6007723,K. Axel Nielsen
 Denmark,Q331931,Jóannes Eidesgaard,child,Q20606530,Erling Eidesgaard
@@ -6831,7 +6838,7 @@ India,Q3503625,Rabri Devi,child,Q14317045,Tejashwi Yadav
 India,Q3503625,Rabri Devi,child,Q21516723,Tej Pratap Yadav
 India,Q3503625,Rabri Devi,child,Q22572409,Misa Bharati Devi
 India,Q3503625,Rabri Devi,child,Q25231308,Raj Lakshmi Yadav
-India,Q3503625,Rabri Devi,relative,Q93303139,Chiranjeev Rao
+India,Q3503625,Rabri Devi,relative,Q93303139,G.Chiranjeev Rao
 India,Q3503625,Rabri Devi,sibling,Q7397883,Sadhu Yadav
 India,Q3503625,Rabri Devi,sibling,Q7631238,Subhash Prasad Yadav
 India,Q3503625,Rabri Devi,spouse,Q561812,Lalu Prasad Yadav
@@ -7095,7 +7102,7 @@ India,Q561812,Lalu Prasad Yadav,child,Q22572414,Rohini Devi
 India,Q561812,Lalu Prasad Yadav,child,Q25231308,Raj Lakshmi Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7397883,Sadhu Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7631238,Subhash Prasad Yadav
-India,Q561812,Lalu Prasad Yadav,relative,Q93303139,Chiranjeev Rao
+India,Q561812,Lalu Prasad Yadav,relative,Q93303139,G.Chiranjeev Rao
 India,Q561812,Lalu Prasad Yadav,spouse,Q3503625,Rabri Devi
 India,Q5628624,H. Vasanthakumar,child,Q7929215,Vijay Vasanth
 India,Q5628624,H. Vasanthakumar,sibling,Q6443604,Kumari Ananthan
@@ -7961,29 +7968,29 @@ Isle of Man,Q3529060,Timothy Daunt,child,Q75884244,unknown daughter Daunt
 Isle of Man,Q3529060,Timothy Daunt,father,Q75311582,Leslie Henry Graeme Daunt
 Isle of Man,Q3529060,Timothy Daunt,mother,Q75884238,Margery Mary Kenny Jones
 Isle of Man,Q3529060,Timothy Daunt,spouse,Q75311580,Patricia Knight
-Isle of Man,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Isle of Man,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Isle of Man,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Isle of Man,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Isle of Man,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Isle of Man,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Isle of Man,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Isle of Man,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Isle of Man,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Isle of Man,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Isle of Man,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Isle of Man,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Isle of Man,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Isle of Man,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Isle of Man,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Isle of Man,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Isle of Man,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Isle of Man,Q43274,Charles III of the United Kingdom,spouse,Q152239,"Camilla, Queen consort of the United Kingdom"
-Isle of Man,Q43274,Charles III of the United Kingdom,spouse,Q9685,"Diana, Princess of Wales"
+Isle of Man,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Isle of Man,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Isle of Man,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Isle of Man,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Isle of Man,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Isle of Man,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Isle of Man,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Isle of Man,Q43274,Charles III,godparent,Q280856,George VI
+Isle of Man,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Isle of Man,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Isle of Man,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Isle of Man,Q43274,Charles III,mother,Q9682,Elizabeth II
+Isle of Man,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Isle of Man,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Isle of Man,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Isle of Man,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Isle of Man,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Isle of Man,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Isle of Man,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Isle of Man,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Isle of Man,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Isle of Man,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Isle of Man,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Isle of Man,Q9682,Elizabeth II,child,Q43274,Charles III
 Isle of Man,Q9682,Elizabeth II,father,Q280856,George VI
 Isle of Man,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Isle of Man,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -8523,31 +8530,31 @@ Jamaica,Q1167006,Daryl Vaz,spouse,Q74600954,Ann-Marie Vaz
 Jamaica,Q16751168,Tom Tavares-Finson,spouse,Q253612,Cindy Breakspeare
 Jamaica,Q2065916,Pearnel Charles,sibling,Q50385566,Lorna Golding
 Jamaica,Q315662,Bruce Golding,father,Q7673897,Tacius Golding
-Jamaica,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Jamaica,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Jamaica,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Jamaica,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Jamaica,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Jamaica,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Jamaica,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Jamaica,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Jamaica,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Jamaica,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Jamaica,Q43274,Charles III of the United Kingdom,spouse,Q152239,"Camilla, Queen consort of the United Kingdom"
-Jamaica,Q43274,Charles III of the United Kingdom,spouse,Q9685,"Diana, Princess of Wales"
+Jamaica,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Jamaica,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Jamaica,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Jamaica,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Jamaica,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Jamaica,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Jamaica,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Jamaica,Q43274,Charles III,godparent,Q280856,George VI
+Jamaica,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Jamaica,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Jamaica,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Jamaica,Q43274,Charles III,mother,Q9682,Elizabeth II
+Jamaica,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Jamaica,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Jamaica,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Jamaica,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Jamaica,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Jamaica,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Jamaica,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Jamaica,Q47308275,Juliet Holness,spouse,Q505200,Andrew Holness
 Jamaica,Q505200,Andrew Holness,spouse,Q47308275,Juliet Holness
 Jamaica,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Jamaica,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Jamaica,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Jamaica,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Jamaica,Q9682,Elizabeth II,child,Q43274,Charles III
 Jamaica,Q9682,Elizabeth II,father,Q280856,George VI
 Jamaica,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Jamaica,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -10009,25 +10016,25 @@ New Zealand,Q3798833,Nanaia Mahuta,father,Q7347282,Robert Mahuta
 New Zealand,Q3798833,Nanaia Mahuta,sibling,Q109653816,Tipa Mahuta
 New Zealand,Q41498761,Kieran McAnulty,relative,Q96093764,John Monaghan
 New Zealand,Q41689955,Golriz Ghahraman,partner,Q16232034,Guy Williams
-New Zealand,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-New Zealand,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-New Zealand,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-New Zealand,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-New Zealand,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-New Zealand,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-New Zealand,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-New Zealand,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-New Zealand,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-New Zealand,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-New Zealand,Q43274,Charles III of the United Kingdom,spouse,Q152239,"Camilla, Queen consort of the United Kingdom"
-New Zealand,Q43274,Charles III of the United Kingdom,spouse,Q9685,"Diana, Princess of Wales"
+New Zealand,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+New Zealand,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+New Zealand,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+New Zealand,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+New Zealand,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+New Zealand,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+New Zealand,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+New Zealand,Q43274,Charles III,godparent,Q280856,George VI
+New Zealand,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+New Zealand,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+New Zealand,Q43274,Charles III,godparent,Q76927,Mary of Teck
+New Zealand,Q43274,Charles III,mother,Q9682,Elizabeth II
+New Zealand,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+New Zealand,Q43274,Charles III,relative,Q3743314,Laura Lopes
+New Zealand,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+New Zealand,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+New Zealand,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+New Zealand,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+New Zealand,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 New Zealand,Q4451134,Te Ururoa Flavell,relative,Q104668231,Ranginui Parewahawaha Leonard
 New Zealand,Q466137,Georgina Beyer,father,Q5144886,Colin Beyer
 New Zealand,Q4706207,Alan Bollard,father,Q17418389,Ted Bollard
@@ -10064,7 +10071,7 @@ New Zealand,Q81749869,Tracey McLellan,child,Q81750859,Jake McLellan
 New Zealand,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 New Zealand,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 New Zealand,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-New Zealand,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+New Zealand,Q9682,Elizabeth II,child,Q43274,Charles III
 New Zealand,Q9682,Elizabeth II,father,Q280856,George VI
 New Zealand,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 New Zealand,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -10115,6 +10122,7 @@ Nigeria,Q25753711,Abubakar Kyari,father,Q4663653,Abba Kyari
 Nigeria,Q289350,Ngozi Okonjo-Iweala,child,Q1328771,Uzodinma Iweala
 Nigeria,Q289350,Ngozi Okonjo-Iweala,father,Q107237557,Chukwuka Okonjo
 Nigeria,Q2967578,Chuba Okadigbo,spouse,Q93342274,Margery Chuba-Okadigbo
+Nigeria,Q3034236,Donald Duke,spouse,Q100197349,Owanari Duke
 Nigeria,Q30643909,Obinna Chidoka,sibling,Q54913558,Osita Chidoka
 Nigeria,Q30673985,Ned Nwoko,spouse,Q26216128,Regina Daniels
 Nigeria,Q32946601,Ademola Adeleke,father,Q55808166,Raji Ayoola Adeleke
@@ -10135,6 +10143,7 @@ Nigeria,Q4986999,Bukola Saraki,father,Q4670498,Abubakar Olusola Saraki
 Nigeria,Q5214942,Danbaba Suntai,spouse,Q101465224,Hauwa Suntai
 Nigeria,Q5460658,Florence Ita Giwa,spouse,Q5253580,Dele Giwa
 Nigeria,Q54913558,Osita Chidoka,sibling,Q30643909,Obinna Chidoka
+Nigeria,Q5515869,Gabriel Suswam,spouse,Q48797710,Yemisi
 Nigeria,Q5529326,Gbemisola Ruqayyah Saraki,sibling,Q97483734,Olushola Bukola Saraki
 Nigeria,Q5529329,Gbenga Aluko,child,Q10905,Eniola Aluko
 Nigeria,Q5529329,Gbenga Aluko,child,Q572260,Sone Aluko
@@ -10833,31 +10842,31 @@ Papua New Guinea,Q316264,Michael Somare,child,Q104832089,Michael Maiwa Somare
 Papua New Guinea,Q316264,Michael Somare,child,Q104832196,Sana Somare
 Papua New Guinea,Q316264,Michael Somare,child,Q711564,Arthur Somare
 Papua New Guinea,Q316264,Michael Somare,spouse,Q104832042,Veronica Somare
-Papua New Guinea,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Papua New Guinea,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Papua New Guinea,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Papua New Guinea,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Papua New Guinea,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Papua New Guinea,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Papua New Guinea,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Papua New Guinea,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Papua New Guinea,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,spouse,Q152239,"Camilla, Queen consort of the United Kingdom"
-Papua New Guinea,Q43274,Charles III of the United Kingdom,spouse,Q9685,"Diana, Princess of Wales"
+Papua New Guinea,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Papua New Guinea,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Papua New Guinea,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Papua New Guinea,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Papua New Guinea,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Papua New Guinea,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Papua New Guinea,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Papua New Guinea,Q43274,Charles III,godparent,Q280856,George VI
+Papua New Guinea,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Papua New Guinea,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Papua New Guinea,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Papua New Guinea,Q43274,Charles III,mother,Q9682,Elizabeth II
+Papua New Guinea,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Papua New Guinea,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Papua New Guinea,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Papua New Guinea,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Papua New Guinea,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Papua New Guinea,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Papua New Guinea,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Papua New Guinea,Q57892,Peter O'Neill,spouse,Q106006165,Lynda May Babao
 Papua New Guinea,Q58169,Sam Abal,father,Q87848310,Tei Abal
 Papua New Guinea,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Papua New Guinea,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Papua New Guinea,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Papua New Guinea,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Papua New Guinea,Q9682,Elizabeth II,child,Q43274,Charles III
 Papua New Guinea,Q9682,Elizabeth II,father,Q280856,George VI
 Papua New Guinea,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Papua New Guinea,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -12083,29 +12092,29 @@ Rwanda,Q1231345,Paul Kagame,spouse,Q6172288,Jeannette Kagame
 Saint Lucia,Q16205063,Jeannine Compton-Antoine,father,Q716020,John Compton
 Saint Lucia,Q16205063,Jeannine Compton-Antoine,sibling,Q21964414,Nina Compton
 Saint Lucia,Q16205063,Jeannine Compton-Antoine,sibling,Q93710061,Fiona Compton
-Saint Lucia,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Saint Lucia,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Saint Lucia,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Saint Lucia,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Saint Lucia,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Saint Lucia,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Saint Lucia,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Saint Lucia,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Saint Lucia,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Saint Lucia,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Saint Lucia,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Saint Lucia,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Saint Lucia,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Saint Lucia,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Saint Lucia,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Saint Lucia,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Saint Lucia,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Saint Lucia,Q43274,Charles III of the United Kingdom,spouse,Q152239,Queen Camilla of the United Kingdom
-Saint Lucia,Q43274,Charles III of the United Kingdom,spouse,Q9685,Diana de Reino Unido
+Saint Lucia,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Saint Lucia,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Saint Lucia,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Saint Lucia,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Saint Lucia,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Saint Lucia,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Saint Lucia,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Saint Lucia,Q43274,Charles III,godparent,Q280856,George VI
+Saint Lucia,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Saint Lucia,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Saint Lucia,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Saint Lucia,Q43274,Charles III,mother,Q9682,Elizabeth II
+Saint Lucia,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Saint Lucia,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Saint Lucia,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Saint Lucia,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Saint Lucia,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Saint Lucia,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Saint Lucia,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Saint Lucia,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Saint Lucia,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Saint Lucia,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Saint Lucia,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Saint Lucia,Q9682,Elizabeth II,child,Q43274,Charles III
 Saint Lucia,Q9682,Elizabeth II,father,Q280856,George VI
 Saint Lucia,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Saint Lucia,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -12815,32 +12824,32 @@ Slovenia,Q7916849,Vasko Simoniti,sibling,Q18529771,Iztok Simoniti
 Slovenia,Q7916849,Vasko Simoniti,spouse,Q107970431,Alenka Zor Simoniti
 Solomon Islands,Q109910928,Titus Mokofi Fika,sibling,Q7599597,Stanley Festus Sofu
 Solomon Islands,Q16588782,Johnley Hatimoana,spouse,Q109074073,Janet Hatimoana
-Solomon Islands,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Solomon Islands,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Solomon Islands,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Solomon Islands,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Solomon Islands,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Solomon Islands,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Solomon Islands,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Solomon Islands,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Solomon Islands,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Solomon Islands,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Solomon Islands,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Solomon Islands,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Solomon Islands,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Solomon Islands,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Solomon Islands,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Solomon Islands,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Solomon Islands,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Solomon Islands,Q43274,Charles III of the United Kingdom,spouse,Q152239,Queen Camilla of the United Kingdom
-Solomon Islands,Q43274,Charles III of the United Kingdom,spouse,Q9685,Diana de Reino Unido
+Solomon Islands,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Solomon Islands,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Solomon Islands,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Solomon Islands,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Solomon Islands,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Solomon Islands,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Solomon Islands,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Solomon Islands,Q43274,Charles III,godparent,Q280856,George VI
+Solomon Islands,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Solomon Islands,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Solomon Islands,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Solomon Islands,Q43274,Charles III,mother,Q9682,Elizabeth II
+Solomon Islands,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Solomon Islands,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Solomon Islands,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Solomon Islands,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Solomon Islands,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Solomon Islands,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Solomon Islands,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Solomon Islands,Q59096666,Jimson Tanangada,spouse,Q59125182,Lanelle Tanangada
 Solomon Islands,Q59125182,Lanelle Tanangada,spouse,Q59096666,Jimson Tanangada
 Solomon Islands,Q7599597,Stanley Festus Sofu,sibling,Q109910928,Titus Mokofi Fika
 Solomon Islands,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Solomon Islands,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Solomon Islands,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Solomon Islands,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Solomon Islands,Q9682,Elizabeth II,child,Q43274,Charles III
 Solomon Islands,Q9682,Elizabeth II,father,Q280856,George VI
 Solomon Islands,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Solomon Islands,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -13550,6 +13559,7 @@ Spain,Q5791439,Cristina Cifuentes,spouse,Q51577852,Javier Aguilar
 Spain,Q58095,José García-Margallo y Marfil,father,Q111357012,Manuel García-Margallo y Riaza
 Spain,Q58095,José García-Margallo y Marfil,mother,Q111357067,María de la Esperanza Marfil Calleja
 Spain,Q58095,José García-Margallo y Marfil,relative,Q941478,Juan García y Margallo
+Spain,Q5815687,Ignacio Blanco Giner,spouse,Q11921017,Esther López Barceló
 Spain,Q5859165,Fernando Alvargonzález,sibling,Q8194013,Alejandro Alvargonzález
 Spain,Q5859605,Fernando García Sánchez,relative,Q9015236,Juan Bautista Sánchez González
 Spain,Q5859957,Fernando Morán Calvo-Sotelo,father,Q3069513,Fernando Morán
@@ -13709,29 +13719,29 @@ Sri Lanka,Q7929262,Vijayakala Maheswaran,spouse,Q660397,T. Maheswaran
 Sri Lanka,Q966982,Jeyaraj Fernandopulle,spouse,Q7633463,Sudarshani Fernandopulle
 Sri Lanka,Q983402,Ranil Wickremesinghe,father,Q21078155,Cyril Esmond Lucien Wickremesinghe
 Sri Lanka,Q983402,Ranil Wickremesinghe,spouse,Q6737193,Maitree Wickramasinghe
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,spouse,Q152239,Queen Camilla of the United Kingdom
-Saint Kitts and Nevis,Q43274,Charles III of the United Kingdom,spouse,Q9685,Diana de Reino Unido
+Saint Kitts and Nevis,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Saint Kitts and Nevis,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Saint Kitts and Nevis,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Saint Kitts and Nevis,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Saint Kitts and Nevis,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Saint Kitts and Nevis,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Saint Kitts and Nevis,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Saint Kitts and Nevis,Q43274,Charles III,godparent,Q280856,George VI
+Saint Kitts and Nevis,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Saint Kitts and Nevis,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Saint Kitts and Nevis,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Saint Kitts and Nevis,Q43274,Charles III,mother,Q9682,Elizabeth II
+Saint Kitts and Nevis,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Saint Kitts and Nevis,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Saint Kitts and Nevis,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Saint Kitts and Nevis,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Saint Kitts and Nevis,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Saint Kitts and Nevis,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Saint Kitts and Nevis,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Saint Kitts and Nevis,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Saint Kitts and Nevis,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Saint Kitts and Nevis,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Saint Kitts and Nevis,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Saint Kitts and Nevis,Q9682,Elizabeth II,child,Q43274,Charles III
 Saint Kitts and Nevis,Q9682,Elizabeth II,father,Q280856,George VI
 Saint Kitts and Nevis,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Saint Kitts and Nevis,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -14476,29 +14486,29 @@ Turks and Caicos Islands,Q3314428,Michael Misick,sibling,Q7972058,Washington Mis
 Turks and Caicos Islands,Q3314428,Michael Misick,spouse,Q724868,LisaRaye McCoy-Misick
 Turks and Caicos Islands,Q4700892,Akierra Missick,mother,Q109776711,Doreen Missick
 Turks and Caicos Islands,Q7972058,Washington Misick,sibling,Q3314428,Michael Misick
-Tuvalu,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Tuvalu,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Tuvalu,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Tuvalu,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Tuvalu,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Tuvalu,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Tuvalu,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Tuvalu,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Tuvalu,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Tuvalu,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Tuvalu,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Tuvalu,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Tuvalu,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Tuvalu,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Tuvalu,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Tuvalu,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Tuvalu,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Tuvalu,Q43274,Charles III of the United Kingdom,spouse,Q152239,Queen Camilla of the United Kingdom
-Tuvalu,Q43274,Charles III of the United Kingdom,spouse,Q9685,Diana de Reino Unido
+Tuvalu,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Tuvalu,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Tuvalu,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Tuvalu,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Tuvalu,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Tuvalu,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Tuvalu,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Tuvalu,Q43274,Charles III,godparent,Q280856,George VI
+Tuvalu,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Tuvalu,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Tuvalu,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Tuvalu,Q43274,Charles III,mother,Q9682,Elizabeth II
+Tuvalu,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Tuvalu,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Tuvalu,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Tuvalu,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Tuvalu,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Tuvalu,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Tuvalu,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Tuvalu,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Tuvalu,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Tuvalu,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Tuvalu,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Tuvalu,Q9682,Elizabeth II,child,Q43274,Charles III
 Tuvalu,Q9682,Elizabeth II,father,Q280856,George VI
 Tuvalu,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Tuvalu,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -15804,9 +15814,9 @@ United Kingdom,Q168184,"Jill Pitkeathley, Baroness Pitkeathley",child,Q76229881,
 United Kingdom,Q168184,"Jill Pitkeathley, Baroness Pitkeathley",father,Q76229885,Roland Wilson Bisson
 United Kingdom,Q168184,"Jill Pitkeathley, Baroness Pitkeathley",mother,Q76229886,Edith Mary Muston
 United Kingdom,Q168184,"Jill Pitkeathley, Baroness Pitkeathley",spouse,Q76229876,Thomas William Pitkeathley
-United Kingdom,Q168235,"Tristan Garel-Jones, Baron Garel Jones",father,Q76002885,Bernard Garel-Jones
-United Kingdom,Q168235,"Tristan Garel-Jones, Baron Garel Jones",mother,Q76002886,Meriel Williams
-United Kingdom,Q168235,"Tristan Garel-Jones, Baron Garel Jones",spouse,Q76002888,Catalina Garrigues
+United Kingdom,Q168235,Tristan Garel-Jones,father,Q76002885,Bernard Garel-Jones
+United Kingdom,Q168235,Tristan Garel-Jones,mother,Q76002886,Meriel Williams
+United Kingdom,Q168235,Tristan Garel-Jones,spouse,Q76002888,Catalina Garrigues
 United Kingdom,Q1682576,"Jane Bonham Carter, Baroness Bonham-Carter of Yarnbury",father,Q6766776,"Mark Bonham Carter, Baron Bonham-Carter"
 United Kingdom,Q1682576,"Jane Bonham Carter, Baroness Bonham-Carter of Yarnbury",mother,Q75328649,Leslie Nast
 United Kingdom,Q1682576,"Jane Bonham Carter, Baroness Bonham-Carter of Yarnbury",relative,Q170428,Helena Bonham Carter
@@ -18939,25 +18949,25 @@ United Kingdom,Q426423,"James Hanson, Baron Hanson",spouse,Q76030680,Geraldine K
 United Kingdom,Q42846975,Natalie Elphicke,spouse,Q303351,Charlie Elphicke
 United Kingdom,Q431792,David Lea,father,Q76215282,Edward Cunliffe Lea
 United Kingdom,Q431792,David Lea,mother,Q76213092,Lillian Mary Braithwaite
-United Kingdom,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-United Kingdom,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-United Kingdom,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-United Kingdom,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-United Kingdom,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-United Kingdom,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-United Kingdom,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-United Kingdom,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-United Kingdom,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-United Kingdom,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-United Kingdom,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-United Kingdom,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-United Kingdom,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-United Kingdom,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-United Kingdom,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-United Kingdom,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-United Kingdom,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-United Kingdom,Q43274,Charles III of the United Kingdom,spouse,Q152239,Queen Camilla of the United Kingdom
-United Kingdom,Q43274,Charles III of the United Kingdom,spouse,Q9685,Diana de Reino Unido
+United Kingdom,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+United Kingdom,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+United Kingdom,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+United Kingdom,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+United Kingdom,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+United Kingdom,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+United Kingdom,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+United Kingdom,Q43274,Charles III,godparent,Q280856,George VI
+United Kingdom,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+United Kingdom,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+United Kingdom,Q43274,Charles III,godparent,Q76927,Mary of Teck
+United Kingdom,Q43274,Charles III,mother,Q9682,Elizabeth II
+United Kingdom,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+United Kingdom,Q43274,Charles III,relative,Q3743314,Laura Lopes
+United Kingdom,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+United Kingdom,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+United Kingdom,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+United Kingdom,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+United Kingdom,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 United Kingdom,Q4360966,"Jack Simon, Baron Simon of Glaisdale",child,Q7167807,Peregrine Simon
 United Kingdom,Q4360966,"Jack Simon, Baron Simon of Glaisdale",child,Q75930430,Crispin Simon
 United Kingdom,Q4360966,"Jack Simon, Baron Simon of Glaisdale",child,Q76336751,Benedict Mark Leicester Simon
@@ -20296,7 +20306,7 @@ United Kingdom,Q9670,Caroline Lucas,spouse,Q21716288,Richard Savage
 United Kingdom,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 United Kingdom,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 United Kingdom,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-United Kingdom,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+United Kingdom,Q9682,Elizabeth II,child,Q43274,Charles III
 United Kingdom,Q9682,Elizabeth II,father,Q280856,George VI
 United Kingdom,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 United Kingdom,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
@@ -20873,6 +20883,8 @@ United States,Q28861402,Tom Begich,father,Q1619015,Nick Begich
 United States,Q28871485,Kelly Craft,spouse,Q6209275,Joe Craft
 United States,Q2903280,Bill Lipinski,child,Q518424,Dan Lipinski
 United States,Q291143,Linda Sánchez,sibling,Q469094,Loretta Sanchez
+United States,Q29167070,Jim Holm,father,Q112800311,John Holm
+United States,Q29167070,Jim Holm,relative,Q6847287,Mike Holm
 United States,Q292988,Madeleine Bordallo,spouse,Q521420,Ricardo Bordallo
 United States,Q293365,Penny Pritzker,father,Q16093011,Donald Pritzker
 United States,Q293365,Penny Pritzker,mother,Q106967837,Susan Ann Pritzker
@@ -21158,6 +21170,7 @@ United States,Q48259,Dick Cheney,father,Q87841130,Richard Herbert Cheney
 United States,Q48259,Dick Cheney,mother,Q96201433,Marjorie Lorraine Dickey
 United States,Q48259,Dick Cheney,spouse,Q234992,Lynne Cheney
 United States,Q484005,Alexander Vershbow,father,Q40176783,Arthur Vershbow
+United States,Q48825762,Nick Stepovich,father,Q882851,Mike Stepovich
 United States,Q4888549,Benjamin F. Kramer,father,Q7509186,Sidney Kramer
 United States,Q4888549,Benjamin F. Kramer,sibling,Q7364585,Rona E. Kramer
 United States,Q4897558,Beth Kerttula,father,Q6166798,Jay Kerttula
@@ -21574,6 +21587,7 @@ United States,Q948920,Patrick J. Kennedy,sibling,Q2383370,Kara Kennedy
 United States,Q948920,Patrick J. Kennedy,sibling,Q3048622,Edward M. Kennedy Jr.
 United States,Q953554,Peter King,father,Q20177425,Peter E. King
 United States,Q953554,Peter King,spouse,Q20177036,Rosemary Wiedl King
+United States,Q95477287,Sara Rasmussen,relative,Q112800362,Don Smith
 United States,Q957690,Tom Udall,father,Q1347844,Stewart Udall
 United States,Q957690,Tom Udall,relative,Q1941315,Mo Udall
 United States,Q957690,Tom Udall,relative,Q631195,Mark Udall

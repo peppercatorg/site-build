@@ -860,9 +860,9 @@ Q112466595,Allen Kemplen,male,1952-10-29,11,,,,
 Q112466606,Ken Lancaster,,,,,,,
 Q112466777,Eldon Mulder,male,,,,,,
 Q112466829,Drew Scalzi,male,1952-02-13,11,,,,
-Q112466859,John Torgerson,,,,,,,
+Q112466859,John Torgerson,male,,,,,,
 Q112467044,Rick Halford,male,1944-09-17,11,,,,
-Q112577843,Kurt Huffman,male,,,,,,
+Q112577843,Kurt Huffman,male,,,,,,Kurt Huffman
 Q112609404,James Hieb,male,,,,,,James Hieb
 Q112672054,Tina McKinnor,female,,,,,"Tina McKinnor, 2022.jpg",Tina McKinnor
 Q1126725,Conrad Burns,male,1935-01-25,11,2016-04-28,11,Conrad Burns official portrait.jpg,Conrad Burns
@@ -1603,7 +1603,7 @@ Q16226611,Don Ipson,male,,,,,,Don Ipson
 Q16226691,Daniel Ivey-Soto,male,,,,,,Daniel Ivey-Soto
 Q16230581,Domingo García,male,1958-02-26,11,,,,Domingo García (politician)
 Q16230587,Todd Gardenhire,male,1948-05-07,11,,,,Todd Gardenhire
-Q16230608,Lynn Gattis,female,1957,9,,,"Representative Lynn Gattis and Jeff Landfield. Juneau, Alaska.jpg",Lynn Gattis
+Q16230608,Lynn Gattis,female,1957,9,,,Lynn Gattis (cropped).jpg,Lynn Gattis
 Q16230732,David Gomberg,male,1953-06-09,11,,,Rep. David Gomberg.jpg,David Gomberg
 Q16230750,Bill Anderson,male,1948-08-09,11,,,,Bill Anderson (West Virginia politician)
 Q16231890,Matthew Pouliot,male,1986,9,,,Matthew Pouliot.jpg,Matthew Pouliot
@@ -2863,7 +2863,7 @@ Q28382535,David S. Wilson,male,1981,9,,,"David Wilson. Juneau, Alaska.jpg",David
 Q28408286,Pamela Hornberger,female,,,,,,Pamela Hornberger
 Q28408289,Kevin Hertel,male,,,,,,Kevin Hertel
 Q28408362,Jason Wentworth,male,1982-09-23,11,,,,Jason Wentworth
-Q28420103,Dean Westlake,male,1960-01-08,11,,,,Dean Westlake
+Q28420103,Dean Westlake,male,1960-01-08,11,2022-08-20,11,,Dean Westlake
 Q28420126,Janeen Sollman,female,,,,,,Janeen Sollman
 Q28420129,Mark Meek,male,,,,,Mark Meek.jpg,Mark Meek
 Q28420138,Daniel Swanson,male,1959-07-30,11,,,,Daniel Swanson
@@ -2997,7 +2997,7 @@ Q291143,Linda Sánchez,female,1969-01-28,11,,,"Linda Sánchez, 116th Congress, o
 Q291157,Lynn Woolsey,female,1937-11-03,11,,,Lynn Woolsey Official Portrait.jpg,Lynn Woolsey
 Q291193,Anna Eshoo,female,1942-12-13,11,,,Rep Anna Eshoo.jpg,Anna Eshoo
 Q29167020,Scott Ogan,male,1952-05-03,11,,,,Scott Ogan
-Q29167070,Jim Holm,male,1945-07-15,11,,,,Jim Holm
+Q29167070,Jim Holm,male,1945-07-15,11,,,Jim Holm of Alaska.jpg,Jim Holm
 Q291690,Nancy Hollister,female,1949-05-22,11,,,Nancy Hollister (Ohio governor).jpg,Nancy Hollister
 Q292340,Alexis Herman,female,1947-07-16,11,,,Alexis osec.jpg,Alexis Herman
 Q2923426,Brad Schneider,male,1961-08-20,11,,,Brad Schneider official photo.jpg,Brad Schneider
@@ -3643,7 +3643,7 @@ Q4716651,Alex Azar,male,1967-06-17,11,,,Alex Azar official portrait.jpg,Alex Aza
 Q4717593,Alex Padilla,male,1973-03-22,11,,,Alex Padilla 117th Congress portrait.jpg,Alex Padilla
 Q4718026,Alex X. Mooney,male,1971-06-05,11,,,Alex X. Mooney (2008).jpg,Alex Mooney
 Q47211524,Yvonne Lopez,female,1957-07-28,11,,,,Yvonne Lopez
-Q47216,Condoleezza Rice,female,1954-11-14,11,,,Sjimpanser ved Cirkus Berny - L0049 778Fo30141609300089.jpg,Condoleezza Rice
+Q47216,Condoleezza Rice,female,1954-11-14,11,,,Condoleezza Rice.jpg,Condoleezza Rice
 Q472199,Jerry Lewis,male,1934-10-21,11,2021-07-15,11,"Jerry Lewis, official portrait, 111th Congress.jpg",Jerry Lewis (California politician)
 Q472241,Kevin Brady,male,1955-04-11,11,,,"Kevin Brady, official Congressional photo portrait.jpg",Kevin Brady
 Q472254,Richard Shelby,male,1934-05-06,11,,,"Richard Shelby, official portrait, 112th Congress.jpg",Richard Shelby
@@ -3765,6 +3765,7 @@ Q48784746,George Lang,male,,,,,,George Lang (Ohio politician)
 Q4878816,Becky Duncan Massey,female,1955-01-02,11,,,,Becky Duncan Massey
 Q48813213,Jim Baird,male,1945-06-04,11,,,"Rep. Jim Baird official photo, 116th congress.jpg",Jim Baird (politician)
 Q48817975,Tim Dunn,male,,,,,Tim Dunn by Gage Skidmore.jpg,Tim Dunn (politician)
+Q48825762,Nick Stepovich,male,1957-12-31,11,,,,Nick Stepovich
 Q48837098,Ben Clark,male,,,,,BenClarkNC.jpeg,Ben Clark (politician)
 Q4885201,Ben Albritton,male,1968-08-17,11,,,Ben Albritton.jpeg,Ben Albritton
 Q4885425,Ben Chipman,male,1975-08-15,11,,,,Ben Chipman

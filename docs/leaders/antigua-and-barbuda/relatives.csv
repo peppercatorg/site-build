@@ -8,29 +8,29 @@ Antigua and Barbuda,Q20172097,Paul Chet Greene,spouse,Q113611379,Gwendolyn Leono
 Antigua and Barbuda,Q365451,Lester Bird,father,Q561911,Vere Bird
 Antigua and Barbuda,Q365451,Lester Bird,sibling,Q7921171,"Vere Bird, Jr."
 Antigua and Barbuda,Q431167,James Carlisle,spouse,Q113611332,Nalda Amelia Carlisle
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,child,Q152316,"Prince Harry, Duke of Sussex"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,child,Q36812,"Prince William, Duke of Cornwall"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q154927,Haakon VII of Norway
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q170396,Prince George of Greece and Denmark
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q280856,George VI
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q5231604,David Bowes-Lyon
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,godparent,Q76927,Mary of Teck
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,mother,Q9682,Elizabeth II
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,relative,Q3736070,Tom Parker Bowles
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,relative,Q3743314,Laura Lopes
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,sibling,Q151754,"Anne, Princess Royal"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,sibling,Q153330,"Prince Andrew, Duke of York"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,spouse,Q152239,Queen Camilla of the United Kingdom
-Antigua and Barbuda,Q43274,Charles III of the United Kingdom,spouse,Q9685,Diana de Reino Unido
+Antigua and Barbuda,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
+Antigua and Barbuda,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
+Antigua and Barbuda,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
+Antigua and Barbuda,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
+Antigua and Barbuda,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
+Antigua and Barbuda,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
+Antigua and Barbuda,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
+Antigua and Barbuda,Q43274,Charles III,godparent,Q280856,George VI
+Antigua and Barbuda,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
+Antigua and Barbuda,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
+Antigua and Barbuda,Q43274,Charles III,godparent,Q76927,Mary of Teck
+Antigua and Barbuda,Q43274,Charles III,mother,Q9682,Elizabeth II
+Antigua and Barbuda,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
+Antigua and Barbuda,Q43274,Charles III,relative,Q3743314,Laura Lopes
+Antigua and Barbuda,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
+Antigua and Barbuda,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
+Antigua and Barbuda,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
+Antigua and Barbuda,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Antigua and Barbuda,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Antigua and Barbuda,Q9682,Elizabeth II,child,Q43274,Charles III of the United Kingdom
+Antigua and Barbuda,Q9682,Elizabeth II,child,Q43274,Charles III
 Antigua and Barbuda,Q9682,Elizabeth II,father,Q280856,George VI
 Antigua and Barbuda,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Antigua and Barbuda,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
