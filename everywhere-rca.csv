@@ -1017,10 +1017,10 @@ Belgium,Q15991,Luc Van den Brande,child,Q64853871,Barend Van den Brande
 Belgium,Q15993,Bart Somers,father,Q2034973,Joos Somers
 Belgium,Q1663490,Alain Mathot,father,Q1557552,Guy Mathot
 Belgium,Q1684787,Jean-Claude Van Cauwenberghe,father,Q1900804,André Van Cauwenberghe
-Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2057996,"Princess Luisa Maria of Belgium, Archduchess of Austria-Este"
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2057996,Princess Luisa Maria of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2071496,"Prince Amedeo, Hereditary Archduke of Austria-Este"
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2361842,Princess Laetitia Maria of Belgium
-Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2720169,"Prince Joachim of Belgium, Archduke of Austria-Este"
+Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q2720169,Prince Joachim of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",child,Q970268,Princess Maria Laura of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",father,Q3911,Albert II of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",mother,Q31129,Queen Paola of Belgium
@@ -7229,6 +7229,7 @@ India,Q64003223,Chunibala Hansda,child,Q61776706,Birbaha Hansda
 India,Q64003223,Chunibala Hansda,spouse,Q81399828,Naren Hansda
 India,Q64005634,Shardaben Patel,spouse,Q4764691,Anilkumar Patel
 India,Q64141260,Ashok Kumar Yadav,father,Q16105255,Hukmdev Narayan Yadav
+India,Q6437529,Krishnam Raju,relative,Q3136554,Prabhas
 India,Q6437529,Krishnam Raju,sibling,Q23833018,Uppalapati Surya Narayana Raju
 India,Q64424186,C S Raazen Ekka,father,Q61717532,Christopher Ekka
 India,Q6442875,Kuldeep Bishnoi,child,Q106705891,Sia Bishnoi
@@ -9304,6 +9305,7 @@ Malaysia,Q2495157,Abdul Hadi Awang,relative,Q20466860,Zaharudin Muhammad
 Malaysia,Q2495157,Abdul Hadi Awang,relative,Q65220005,Mohd Akmal Kamaruddin
 Malaysia,Q272588,Abdullah Ahmad Badawi,child,Q7398907,Nori Abdullah Badawi
 Malaysia,Q272588,Abdullah Ahmad Badawi,father,Q96610223,Ahmad Badawi Abdullah
+Malaysia,Q272588,Abdullah Ahmad Badawi,relative,Q1449940,Khairy Jamaluddin
 Malaysia,Q272588,Abdullah Ahmad Badawi,spouse,Q4918678,Endon Mahmood
 Malaysia,Q299530,Mizan Zainal Abidin of Terengganu,child,Q113534608,Tengku Muhammad Mua′az
 Malaysia,Q299530,Mizan Zainal Abidin of Terengganu,child,Q113534610,Tengku Fatimatuz Zahra
