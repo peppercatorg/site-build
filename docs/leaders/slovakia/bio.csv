@@ -1,6 +1,9 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q107154992,Samuel Vlčan,male,1971-03-13,11,,,,
 Q107317094,Jana Kotová,female,1951-02-06,11,,,,
+Q112413088,Karel Hirman,male,1970,9,,,,
+Q112456257,Viliam Karas,male,1976,9,,,,
+Q113956708,Rastislav Káčer,male,,,,,,
 Q11714338,Ivan Štefanec,male,1961,9,,,Stefanec.jpg,Ivan Štefanec
 Q11729469,Juraj Migas,male,1957-06-13,11,2015-08-30,11,,
 Q11815925,Peter Weiss,male,1952-07-07,11,,,H.E.Peter Weiss 2014.JPG,
@@ -23,7 +26,7 @@ Q163813,Rudolf Schuster,male,1934-01-04,11,,,Rudolf Schuster 2011.jpg,Rudolf Sch
 Q168928,Zdenka Kramplová,female,1957-08-07,11,,,,Zdenka Kramplová
 Q17330556,Peter Pellegrini,male,1975-10-06,11,,,Peter Pellegrini - 2015.jpg,Peter Pellegrini
 Q18552949,Viliam Čislák,male,1972-03-12,11,,,,
-Q211771,Iveta Radičová,female,1956-12-07,11,,,Portrait of Iveta Radičová.jpg,Iveta Radičová
+Q211771,Iveta Radičová,female,1956-12-07,11,,,Flickr - europeanpeoplesparty - EPP Summit October 2010 (135).jpg,Iveta Radičová
 Q212765,Mikuláš Dzurinda,male,1955-02-04,11,,,DzurindaMik2.jpg,Mikuláš Dzurinda
 Q21685708,Igor Slobodník,male,1962-10-23,11,,,Slobodnik 1foto.jpg,
 Q23022210,Boris Kollár,male,1965-08-14,11,,,Boris Kollár (cropped).jpg,Boris Kollár
