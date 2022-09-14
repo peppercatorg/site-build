@@ -2051,7 +2051,7 @@ China,Q11067742,张闾蘅,father,Q11066788,Zhang Xuesen
 China,Q11069359,强俄巴·次仁央宗,father,Q19825620,强俄巴·多吉欧珠
 China,Q11069979,Peng Gang,relative,Q381823,Peng Dehuai
 China,Q11085159,施子清,child,Q55694106,施榮怡
-China,Q11085159,施子清,child,Q56025465,Irons Sze
+China,Q11085159,施子清,child,Q56025465,
 China,Q11085159,施子清,child,Q56025505,施榮恆
 China,Q11085159,施子清,child,Q56025523,Jaime Sze
 China,Q11091548,曾智明,father,Q9189989,Tsang Hin-chi
@@ -2623,6 +2623,7 @@ Colombia,Q6292038,José David Name,father,Q6293541,José Name Terán
 Colombia,Q6299134,Juan Camilo Restrepo Salazar,spouse,Q29263404,Maria Teresa Herrán
 Colombia,Q6793599,Mauricio Cárdenas Santa María,sibling,Q7145571,Patricia Eugenia Cárdenas Santa María
 Colombia,Q6844834,Miguel Urrutia Montoya,father,Q5483552,Francisco José Urrutia Holguín
+Colombia,Q704022,Gustavo Petro,child,Q113946328,Sofía Petro
 Colombia,Q704022,Gustavo Petro,spouse,Q112620614,Verónica Alcocer García
 Colombia,Q7145571,Patricia Eugenia Cárdenas Santa María,sibling,Q6793599,Mauricio Cárdenas Santa María
 Colombia,Q7145571,Patricia Eugenia Cárdenas Santa María,spouse,Q7322804,Ricardo Sala Gaitán
@@ -2995,6 +2996,7 @@ Czechia,Q3316142,Miroslav Grebeníček,father,Q10779463,Alois Grebeníček
 Czechia,Q3377548,Petr Fiala,spouse,Q110236154,Jana Fialová
 Czechia,Q3377550,Petr Bendl,spouse,Q12058284,Tamara Kotvalová
 Czechia,Q33833057,Marie Chatardová,spouse,Q61730777,Benoît Chatard
+Czechia,Q348896,Stanislav Gross,child,Q113951773,Denisa Grossová
 Czechia,Q348896,Stanislav Gross,child,Q95149181,Natálie Grossová
 Czechia,Q348896,Stanislav Gross,spouse,Q8082927,Šárka Grossová
 Czechia,Q3490643,Jaroslava Moserová,sibling,Q17580308,Božena Moserová
@@ -5117,6 +5119,7 @@ France,Q30342777,Florence Lasserre-David,father,Q3166328,Jean-Jacques Lasserre
 France,Q30343102,Patrice Perrot,father,Q3085538,François Perrot
 France,Q30344388,Pascale Fontenel-Personne,child,Q112652500,Julie Delpech
 France,Q30346873,Paula Forteza,father,Q111034260,Jorge Forteza
+France,Q30348845,Olivier Becht,spouse,Q113951148,Livia Stoica
 France,Q30349408,Olivia Grégoire,spouse,Q112892650,Philippe Aubry
 France,Q3035166,Dominique Frelaut,father,Q3172152,Jean Frélaut
 France,Q3035420,Dominique Raimbourg,father,Q2750,Bourvil

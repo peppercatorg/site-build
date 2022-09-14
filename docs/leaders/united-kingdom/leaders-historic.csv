@@ -1,5 +1,5 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-United Kingdom,monarch,Elizabeth II,Q9682,1952-02-06,2022-09-08,female,1926-04-21,2022-09-08,Queen Elizabeth II in March 2015.jpg,Elizabeth II
+United Kingdom,monarch,Elizabeth II,Q9682,1952-02-06,2022-09-08,female,1926-04-21,2022-09-08,Queen Elizabeth II official portrait for 1959 tour (retouched) (cropped) (3-to-4 aspect ratio).jpg,Elizabeth II
 United Kingdom,monarch,Charles III,Q43274,2022-09-08,,male,1948-11-14,,Prince Charles Ireland-4.jpg,Charles III
 United Kingdom,Prime Minister,Tony Blair,Q9545,1997-05-02,2007-06-27,male,1953-05-06,,Tony Blair 2010 (cropped).jpg,Tony Blair
 United Kingdom,Prime Minister,Gordon Brown,Q10648,2007-06-27,2010-05-11,male,1951-02-20,,Gordon Brown (2008).jpg,Gordon Brown
@@ -31,7 +31,7 @@ United Kingdom,Lord Chancellor,Dominic Raab,Q268584,2021-09-15,2022-09-06,male,1
 United Kingdom,Lord Chancellor,Brandon Lewis,Q749687,2022-09-06,,male,1971-06-20,,Official portrait of Rt Hon Brandon Lewis MP crop 2.jpg,Brandon Lewis
 United Kingdom,Chancellor of the Exchequer,Gordon Brown,Q10648,1997-05-02,2007-06-28,male,1951-02-20,,Gordon Brown (2008).jpg,Gordon Brown
 United Kingdom,Chancellor of the Exchequer,Alistair Darling,Q296639,2007-06-28,2010-05-11,male,1953-11-28,,AlistairDarlingABr cropped.jpg,Alistair Darling
-United Kingdom,Chancellor of the Exchequer,George Osborne,Q332493,2010-05-11,2016-07-13,male,1971-05-23,,George osborne hi.jpg,George Osborne
+United Kingdom,Chancellor of the Exchequer,George Osborne,Q332493,2010-05-11,2016-07-13,male,1971-05-23,,George Osborne HM Treasury.jpg,George Osborne
 United Kingdom,Chancellor of the Exchequer,Philip Hammond,Q332987,2016-07-13,2019-07-24,male,1955-12-04,,Official portrait of Mr Philip Hammond crop 2.jpg,Philip Hammond
 United Kingdom,Chancellor of the Exchequer,Sajid Javid,Q727798,2019-07-24,2020-02-13,male,1969-12-05,,Official portrait of Rt Hon Sajid Javid MP crop 2.jpg,Sajid Javid
 United Kingdom,Chancellor of the Exchequer,Rishi Sunak,Q20055561,2020-02-13,2022-07-05,male,1980-05-12,,Chancellor Rishi Sunak (cropped).jpg,Rishi Sunak
@@ -356,7 +356,7 @@ United Kingdom,Chief Negotiator for Exiting the European Union,David Frost,Q5233
 United Kingdom,First Secretary of State,John Prescott,Q332393,2001-06-08,2007-06-27,male,1938-05-31,,"John Prescott on his last day as Deputy Prime Minister, June 2007.jpg",John Prescott
 United Kingdom,First Secretary of State,Peter Mandelson,Q310046,2009-06-05,2010-05-11,male,1953-10-21,,Peter Mandelson.jpg,Peter Mandelson
 United Kingdom,First Secretary of State,William Hague,Q58282,2010-05-12,2015-05-08,male,1961-03-26,,William Hague (2010).jpg,William Hague
-United Kingdom,First Secretary of State,George Osborne,Q332493,2015-05-08,2016-07-13,male,1971-05-23,,George osborne hi.jpg,George Osborne
+United Kingdom,First Secretary of State,George Osborne,Q332493,2015-05-08,2016-07-13,male,1971-05-23,,George Osborne HM Treasury.jpg,George Osborne
 United Kingdom,First Secretary of State,Damian Green,Q391960,2017-06-11,2017-12-20,male,1956-01-17,,Official portrait of Damian Green crop 2.jpg,Damian Green
 United Kingdom,First Secretary of State,Dominic Raab,Q268584,2019-07-24,2021-09-15,male,1974-02-25,,Official portrait of Rt Hon Dominic Raab MP crop 2.jpg,Dominic Raab
 United Kingdom,Attorney General,"Gareth Williams, Baron Williams of Mostyn",Q325417,1999-07-29,2001-06-08,male,1941-02-05,2003-09-20,,"Gareth Williams, Baron Williams of Mostyn"
@@ -2342,6 +2342,7 @@ United Kingdom,Economic Secretary to the Treasury,Simon Kirby,Q750228,2016-07-17
 United Kingdom,Economic Secretary to the Treasury,Stephen Barclay,Q260546,2017-06-14,2018-01-09,male,1972-05-03,,Official portrait of Rt Hon Steve Barclay MP crop 2.jpg,Steve Barclay
 United Kingdom,Economic Secretary to the Treasury,John Glen,Q391465,2018-01-09,2022-07-06,male,1974-04-01,,Official portrait of John Glen crop 2.jpg,John Glen (politician)
 United Kingdom,Economic Secretary to the Treasury,Richard Fuller,Q391073,2022-07-08,,male,1962-05-30,,Official portrait of Richard Fuller MP crop 2.jpg,Richard Fuller (Conservative politician)
+United Kingdom,Economic Secretary to the Treasury,Richard Fuller,Q391073,2022-07-08,2022-09-06,male,1962-05-30,,Official portrait of Richard Fuller MP crop 2.jpg,Richard Fuller (Conservative politician)
 United Kingdom,Exchequer Secretary to the Treasury,Angela Eagle,Q302763,2007-06-29,2009-06-08,female,1961-02-17,,Official portrait of Ms Angela Eagle.jpg,Angela Eagle
 United Kingdom,Exchequer Secretary to the Treasury,Priti Patel,Q575733,2014-07-15,2015-05-11,female,1972-03-29,,Official portrait of Rt Hon Priti Patel MP crop 2.jpg,Priti Patel
 United Kingdom,Exchequer Secretary to the Treasury,Simon Clarke,Q30228118,2019-07-27,2020-02-13,male,1984-09-28,,Official portrait of Mr Simon Clarke crop 2.jpg,Simon Clarke (politician)
