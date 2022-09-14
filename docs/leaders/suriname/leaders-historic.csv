@@ -1,8 +1,8 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Suriname,President of Suriname,Jules Wijdenbosch,Q380734,1996-09-15,2000-08-12,male,1941-05-02,,JulesWijdenbosch2017.jpg,Jules Wijdenbosch
-Suriname,President of Suriname,Ronald Venetiaan,Q299020,2000-08-12,2010-08-12,male,1936-06-18,,Ronald Venetiaan.jpg,Ronald Venetiaan
-Suriname,President of Suriname,Dési Bouterse,Q57667,2010-08-12,2020-07-16,male,1945-10-13,,President Bouterse.JPG,Dési Bouterse
-Suriname,President of Suriname,Chan Santokhi,Q333135,2020-07-16,,male,1959-02-03,,"Chan Santokhi, Sep 2020 (cropped).jpg",Chan Santokhi
+Suriname,President,Jules Wijdenbosch,Q380734,1996-09-15,2000-08-12,male,1941-05-02,,JulesWijdenbosch2017.jpg,Jules Wijdenbosch
+Suriname,President,Ronald Venetiaan,Q299020,2000-08-12,2010-08-12,male,1936-06-18,,Ronald Venetiaan.jpg,Ronald Venetiaan
+Suriname,President,Dési Bouterse,Q57667,2010-08-12,2020-07-16,male,1945-10-13,,President Bouterse.JPG,Dési Bouterse
+Suriname,President,Chan Santokhi,Q333135,2020-07-16,,male,1959-02-03,,"Chan Santokhi, Sep 2020 (cropped).jpg",Chan Santokhi
 Suriname,Vice President,Pretaap Radhakishun,Q1444020,1996-09-15,2000-08-12,male,1934-09-03,2001-01-06,,Pretaap Radhakishun
 Suriname,Vice President,Jules Ajodhia,Q1949087,2000-08-12,2005-08-12,male,1945-01-27,,Jules Ajodhia.jpg,Jules Ajodhia
 Suriname,Vice President,Ram Sardjoe,Q613821,2005-08-12,2010-08-12,male,1935-10-10,,Ramdien Sardjoe.jpg,Ram Sardjoe
@@ -48,7 +48,7 @@ Suriname,Chairman of the National Assembly,Paul Somohardjo,Q2125987,2005-06-30,2
 Suriname,Chairman of the National Assembly,Jennifer Simons,Q440403,2010-06-30,2020-06-28,female,1953-09-05,,Jennifer Simons 101030-N-1531D-005 crop.jpg,Jennifer Simons
 Suriname,Chairman of the National Assembly,Ronnie Brunswijk,Q1968705,2020-06-29,2020-07-14,male,1961-03-07,,Brunswijk waarnemend.png,Ronnie Brunswijk
 Suriname,Chairman of the National Assembly,Marinus Bee,Q17269736,2020-07-14,,male,1970,,Marinus Bee (2016) 1.png,Marinus Bee
-Suriname,Commander of the Armed Forces,Glenn Sedney,Q113956874,1995-06-30,2001-07-01,,,,,
+Suriname,Commander of the Armed Forces,Glenn Sedney,Q113956874,1995-06-30,2001-07-01,male,,,,
 Suriname,Commander of the Armed Forces,Ernst Mercuur,Q113956873,2001-07-01,2010-02-04,,,,,
 Suriname,Commander of the Armed Forces,Hedwig Gilaard,Q113956875,2010-02-04,2013-07-10,,,,,
 Suriname,Commander of the Armed Forces,Ronni Benschop,Q46837592,2013-07-10,2014-02-04,male,1955-11-19,,Ronni Benschop.png,

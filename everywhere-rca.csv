@@ -254,7 +254,7 @@ Argentina,Q5042309,Carlos Mac Allister,child,Q33297140,Alexis Mac Allister
 Argentina,Q508497,Fernando Solanas,child,Q3187791,Juan Diego Solanas
 Argentina,Q508497,Fernando Solanas,partner,Q5116252,Chunchuna Villafañe
 Argentina,Q5186335,Cristina Cremer de Busti,spouse,Q6277772,Jorge Busti
-Argentina,Q52395487,Javier Milei,partner,Q103865395,Daniela
+Argentina,Q52395487,Javier Milei,partner,Q103865395,Daniela Nuemi Perez
 Argentina,Q5274808,Diego Santilli,father,Q3787511,Hugo Santilli
 Argentina,Q5340693,Eduardo Menem,sibling,Q185107,Carlos Menem
 Argentina,Q561837,Mauricio Macri,father,Q5483633,Francisco Macri
@@ -6850,7 +6850,7 @@ India,Q3503625,Rabri Devi,child,Q14317045,Tejashwi Yadav
 India,Q3503625,Rabri Devi,child,Q21516723,Tej Pratap Yadav
 India,Q3503625,Rabri Devi,child,Q22572409,Misa Bharati Devi
 India,Q3503625,Rabri Devi,child,Q25231308,Raj Lakshmi Yadav
-India,Q3503625,Rabri Devi,relative,Q93303139,G.Chiranjeev Rao
+India,Q3503625,Rabri Devi,relative,Q93303139,Chiranjeev Rao
 India,Q3503625,Rabri Devi,sibling,Q7397883,Sadhu Yadav
 India,Q3503625,Rabri Devi,sibling,Q7631238,Subhash Prasad Yadav
 India,Q3503625,Rabri Devi,spouse,Q561812,Lalu Prasad Yadav
@@ -7114,7 +7114,7 @@ India,Q561812,Lalu Prasad Yadav,child,Q22572414,Rohini Devi
 India,Q561812,Lalu Prasad Yadav,child,Q25231308,Raj Lakshmi Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7397883,Sadhu Yadav
 India,Q561812,Lalu Prasad Yadav,relative,Q7631238,Subhash Prasad Yadav
-India,Q561812,Lalu Prasad Yadav,relative,Q93303139,G.Chiranjeev Rao
+India,Q561812,Lalu Prasad Yadav,relative,Q93303139,Chiranjeev Rao
 India,Q561812,Lalu Prasad Yadav,spouse,Q3503625,Rabri Devi
 India,Q5628624,H. Vasanthakumar,child,Q7929215,Vijay Vasanth
 India,Q5628624,H. Vasanthakumar,sibling,Q6443604,Kumari Ananthan
@@ -9192,25 +9192,25 @@ Luxembourg,Q13105458,Yves Cruchten,father,Q66720374,Alphonse Cruchten
 Luxembourg,Q1384206,Michel Wolter,father,Q15196585,Jean Wolter
 Luxembourg,Q144205,Ben Fayot,child,Q16439160,Franz Fayot
 Luxembourg,Q1450922,François Biltgen,sibling,Q241282,Raoul Biltgen
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",child,Q16004,"Henri, Grand Duke of Luxembourg"
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",child,Q1653603,Princess Margaretha of Luxembourg
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",child,Q1657677,Archduchess Marie-Astrid of Austria
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",child,Q2188802,Prince Jean of Luxembourg
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",child,Q646338,Prince Guillaume of Luxembourg
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",father,Q445045,"Prince Félix, Prince Consort of Luxembourg"
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",mother,Q155608,"Charlotte, Grand Duchess of Luxembourg"
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q1124323,Prince Charles of Luxembourg
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q1941967,Princess Marie-Adélaïde of Luxembourg
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q1943454,Princess Marie Gabriele of Luxembourg
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q2431719,Princess Alix of Luxembourg
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",sibling,Q973502,"Princess Elisabeth, Duchess of Hohenberg"
-Luxembourg,Q15988,"Jean, Grand Duke of Luxembourg",spouse,Q160984,Princess Joséphine-Charlotte of Belgium
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",child,Q16004,"Henri, Grand Duke of Luxembourg"
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",child,Q1653603,Princess Margaretha of Luxembourg
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",child,Q1657677,Archduchess Marie-Astrid of Austria
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",child,Q2188802,Prince Jean of Luxembourg
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",child,Q646338,Prince Guillaume of Luxembourg
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",father,Q445045,"Prince Félix, Prince Consort of Luxembourg"
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",mother,Q155608,"Charlotte I, Grand Duchess of Luxembourg"
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",sibling,Q1124323,Prince Charles of Luxembourg
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",sibling,Q1941967,Princess Marie-Adélaïde of Luxembourg
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",sibling,Q1943454,Princess Marie Gabriele of Luxembourg
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",sibling,Q2431719,Princess Alix of Luxembourg
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",sibling,Q973502,"Princess Elisabeth, Duchess of Hohenberg"
+Luxembourg,Q15988,"Jean I, Grand Duke of Luxembourg",spouse,Q160984,Princess Joséphine-Charlotte of Belgium
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",child,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg"
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",child,Q316797,Prince Félix of Luxembourg
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",child,Q618634,Prince Louis of Luxembourg
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",child,Q619598,Princess Alexandra of Luxembourg
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",child,Q619855,Prince Sébastien of Luxembourg
-Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",father,Q15988,"Jean, Grand Duke of Luxembourg"
+Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",father,Q15988,"Jean I, Grand Duke of Luxembourg"
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",mother,Q160984,Princess Joséphine-Charlotte of Belgium
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",sibling,Q1653603,Princess Margaretha of Luxembourg
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",sibling,Q1657677,Archduchess Marie-Astrid of Austria
@@ -9685,7 +9685,7 @@ Morocco,Q562410,Nizar Baraka,relative,Q2837662,Allal al-Fassi
 Morocco,Q562410,Nizar Baraka,relative,Q305956,Abbas El Fassi
 Morocco,Q562410,Nizar Baraka,relative,Q96758717,Abdelmajid Fassi-Fihri
 Morocco,Q57553,Mohammed VI,child,Q1532982,Lalla Khadija of Morocco
-Morocco,Q57553,Mohammed VI,child,Q276961,Hassan III
+Morocco,Q57553,Mohammed VI,child,Q276961,"Moulay Hassan, Crown Prince of Morocco"
 Morocco,Q57553,Mohammed VI,father,Q69103,Hassan II
 Morocco,Q57553,Mohammed VI,mother,Q2164270,Lalla Latifa
 Morocco,Q57553,Mohammed VI,relative,Q193874,Mohammed V of Morocco
@@ -13852,6 +13852,7 @@ Sweden,Q3369258,Ylva Johansson,spouse,Q5786495,Bo Hammar
 Sweden,Q3372917,Mikael Damberg,father,Q5616336,Nils-Gösta Damberg
 Sweden,Q3375050,Anders Ygeman,father,Q6249425,Ingvar Ygeman
 Sweden,Q3430022,Margareta Winberg,spouse,Q6198714,Jörn Svensson
+Sweden,Q3431988,Ulf Adelsohn,father,Q64818394,Oskar Adelsohn
 Sweden,Q3431988,Ulf Adelsohn,spouse,Q297821,Lena Adelsohn Liljeroth
 Sweden,Q3504785,Sven Otto Littorin,sibling,Q5960313,Sverker Littorin
 Sweden,Q3544279,Karin Enström,sibling,Q6146756,Henrik Landerholm
@@ -13972,6 +13973,8 @@ Sweden,Q5708784,Ingemar Eliasson,child,Q5708819,Jonas Eliasson
 Sweden,Q5711551,Tomas Eneroth,child,Q27514214,Jesper Eneroth
 Sweden,Q5716511,Henrik S. Järrel,father,Q608755,Stig Järrel
 Sweden,Q5716511,Henrik S. Järrel,mother,Q4937177,Ingrid Backlin
+Sweden,Q57168729,Helena Gellerman,father,Q5755156,Olle Gellerman
+Sweden,Q57168729,Helena Gellerman,mother,Q4949761,Kerstin Gellerman
 Sweden,Q5719585,Gustaf von Essen,father,Q52731500,Per Erik von Essen
 Sweden,Q5719585,Gustaf von Essen,mother,Q112961077,Charlotte Tornérhielm
 Sweden,Q5737841,Jakob Forssmed,relative,Q5737850,Ola Forssmed
@@ -20938,6 +20941,7 @@ United States,Q28591,David Petraeus,mother,Q96915636,Miriam Howell
 United States,Q28591,David Petraeus,spouse,Q24587581,Holly Knowlton
 United States,Q28600075,Katie Walsh,spouse,Q98594417,Mike Shields
 United States,Q28861402,Tom Begich,father,Q1619015,Nick Begich
+United States,Q28861403,Natasha von Imhof,relative,Q5366530,Elmer E. Rasmuson
 United States,Q28871485,Kelly Craft,spouse,Q6209275,Joe Craft
 United States,Q2903280,Bill Lipinski,child,Q518424,Dan Lipinski
 United States,Q291143,Linda Sánchez,sibling,Q469094,Loretta Sanchez
@@ -21467,6 +21471,7 @@ United States,Q69319,John Kasich,spouse,Q20176678,Karen Waldbillig Kasich
 United States,Q69319,John Kasich,spouse,Q20185706,Mary Lee Griffith
 United States,Q6962863,Nancy Munoz,spouse,Q5387150,Eric Munoz
 United States,Q6968251,Natalie Tennant,spouse,Q5388905,Erik Wells
+United States,Q6984099,Neal Foster,father,Q7325741,Richard Foster
 United States,Q7030302,Nicolle Wallace,spouse,Q6770199,Mark Wallace
 United States,Q7030302,Nicolle Wallace,spouse,Q6834083,Michael S. Schmidt
 United States,Q705472,Jim Gilmore,father,Q20177383,"James Stuart Gilmore, Jr."
@@ -21504,6 +21509,8 @@ United States,Q730580,Peter R. Orszag,spouse,Q4902540,Bianna Golodryga
 United States,Q731783,Paul Wellstone,child,Q24054807,Marcia Wellstone Markuson
 United States,Q731783,Paul Wellstone,spouse,Q13562386,Sheila Wellstone
 United States,Q7320554,Rhine McLin,father,Q5006564,C. J. McLin
+United States,Q7325741,Richard Foster,child,Q6984099,Neal Foster
+United States,Q7325741,Richard Foster,father,Q113940574,Willie Foster
 United States,Q7328603,Richard Ravitch,spouse,Q5271548,Diane Ravitch
 United States,Q7331626,Rick Outman,child,Q105981951,Pat Outman
 United States,Q7332181,Ricardo Rosselló,father,Q1147285,Pedro Rosselló

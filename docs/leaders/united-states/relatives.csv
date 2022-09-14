@@ -538,6 +538,7 @@ United States,Q28591,David Petraeus,mother,Q96915636,Miriam Howell
 United States,Q28591,David Petraeus,spouse,Q24587581,Holly Knowlton
 United States,Q28600075,Katie Walsh,spouse,Q98594417,Mike Shields
 United States,Q28861402,Tom Begich,father,Q1619015,Nick Begich
+United States,Q28861403,Natasha von Imhof,relative,Q5366530,Elmer E. Rasmuson
 United States,Q28871485,Kelly Craft,spouse,Q6209275,Joe Craft
 United States,Q2903280,Bill Lipinski,child,Q518424,Dan Lipinski
 United States,Q291143,Linda Sánchez,sibling,Q469094,Loretta Sanchez
@@ -1067,6 +1068,7 @@ United States,Q69319,John Kasich,spouse,Q20176678,Karen Waldbillig Kasich
 United States,Q69319,John Kasich,spouse,Q20185706,Mary Lee Griffith
 United States,Q6962863,Nancy Munoz,spouse,Q5387150,Eric Munoz
 United States,Q6968251,Natalie Tennant,spouse,Q5388905,Erik Wells
+United States,Q6984099,Neal Foster,father,Q7325741,Richard Foster
 United States,Q7030302,Nicolle Wallace,spouse,Q6770199,Mark Wallace
 United States,Q7030302,Nicolle Wallace,spouse,Q6834083,Michael S. Schmidt
 United States,Q705472,Jim Gilmore,father,Q20177383,"James Stuart Gilmore, Jr."
@@ -1104,6 +1106,8 @@ United States,Q730580,Peter R. Orszag,spouse,Q4902540,Bianna Golodryga
 United States,Q731783,Paul Wellstone,child,Q24054807,Marcia Wellstone Markuson
 United States,Q731783,Paul Wellstone,spouse,Q13562386,Sheila Wellstone
 United States,Q7320554,Rhine McLin,father,Q5006564,C. J. McLin
+United States,Q7325741,Richard Foster,child,Q6984099,Neal Foster
+United States,Q7325741,Richard Foster,father,Q113940574,Willie Foster
 United States,Q7328603,Richard Ravitch,spouse,Q5271548,Diane Ravitch
 United States,Q7331626,Rick Outman,child,Q105981951,Pat Outman
 United States,Q7332181,Ricardo Rosselló,father,Q1147285,Pedro Rosselló
