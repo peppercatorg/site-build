@@ -1,0 +1,37 @@
+catalog,id,name,relationship,relative,relativename
+Syria,Q118725,Hafez al-Assad,child,Q44329,Bashar al-Assad
+Syria,Q118725,Hafez al-Assad,child,Q447173,Maher al-Assad
+Syria,Q118725,Hafez al-Assad,child,Q459816,Bushra al Assad
+Syria,Q118725,Hafez al-Assad,child,Q6852608,Majd al-Asad
+Syria,Q118725,Hafez al-Assad,child,Q706694,Bassel al-Assad
+Syria,Q118725,Hafez al-Assad,father,Q17308760,Ali Sulayman al-Assad
+Syria,Q118725,Hafez al-Assad,sibling,Q3302790,Jamil al-Assad
+Syria,Q118725,Hafez al-Assad,sibling,Q519639,Rifaat al-Assad
+Syria,Q118725,Hafez al-Assad,spouse,Q12180950,Anisa Makhlouf
+Syria,Q12180950,Anisa Makhlouf,child,Q44329,Bashar al-Assad
+Syria,Q12180950,Anisa Makhlouf,child,Q447173,Maher al-Assad
+Syria,Q12180950,Anisa Makhlouf,child,Q459816,Bushra al Assad
+Syria,Q12180950,Anisa Makhlouf,child,Q706694,Bassel al-Assad
+Syria,Q12180950,Anisa Makhlouf,sibling,Q112117043,Mohammed Makhlouf
+Syria,Q12180950,Anisa Makhlouf,spouse,Q118725,Hafez al-Assad
+Syria,Q12199735,Bahjat Suleiman,child,Q111903309,Majd Bahjat Suleiman
+Syria,Q12199735,Bahjat Suleiman,child,Q111903374,Haidara Suleiman
+Syria,Q231637,Asma al-Assad,father,Q3178546,Fawaz Akhras
+Syria,Q231637,Asma al-Assad,spouse,Q44329,Bashar al-Assad
+Syria,Q403707,Mustafa Tlass al jahesh,child,Q1341977,Manaf Tlass
+Syria,Q403707,Mustafa Tlass al jahesh,child,Q1963666,Nahed Ojjeh
+Syria,Q403707,Mustafa Tlass al jahesh,child,Q5451221,Firas Tlass
+Syria,Q44329,Bashar al-Assad,father,Q118725,Hafez al-Assad
+Syria,Q44329,Bashar al-Assad,mother,Q12180950,Anisa Makhlouf
+Syria,Q44329,Bashar al-Assad,relative,Q12247779,Na'isa Shalish
+Syria,Q44329,Bashar al-Assad,relative,Q16125555,Anwar Hilal al-Assad
+Syria,Q44329,Bashar al-Assad,relative,Q17308760,Ali Sulayman al-Assad
+Syria,Q44329,Bashar al-Assad,relative,Q3302790,Jamil al-Assad
+Syria,Q44329,Bashar al-Assad,relative,Q519639,Rifaat al-Assad
+Syria,Q44329,Bashar al-Assad,sibling,Q447173,Maher al-Assad
+Syria,Q44329,Bashar al-Assad,sibling,Q459816,Bushra al Assad
+Syria,Q44329,Bashar al-Assad,sibling,Q6852608,Majd al-Asad
+Syria,Q44329,Bashar al-Assad,sibling,Q706694,Bassel al-Assad
+Syria,Q44329,Bashar al-Assad,spouse,Q231637,Asma al-Assad
+Syria,Q4866775,Bashar Jaafari,child,Q112066575,Sheherazade Jaafari
+Syria,Q686595,Najah al-Attar,sibling,Q12227257,Issam al-Attar
