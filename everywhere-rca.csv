@@ -2003,6 +2003,8 @@ Chile,Q6169262,Ximena Rincón,sibling,Q6108443,
 Chile,Q6169262,Ximena Rincón,spouse,Q975427,
 Chile,Q7121787,Pablo Zalaquett,sibling,Q16302468,
 Chile,Q734056,Carolina Schmidt,father,Q5668026,
+Chile,Q80878638,Emilia Schneider,relative,Q1351401,
+Chile,Q80878638,Emilia Schneider,relative,Q21003632,
 Chile,Q8846905,Evelyn Matthei,father,Q5444826,
 Chile,Q88996421,Juan José Ossa,father,Q5950795,
 Chile,Q9015138,Juan Andrés Fontaine Talavera,father,Q5707227,
@@ -2050,8 +2052,8 @@ China,Q11067742,张闾蘅,child,Q8231513,David Wong
 China,Q11067742,张闾蘅,father,Q11066788,Zhang Xuesen
 China,Q11069359,强俄巴·次仁央宗,father,Q19825620,强俄巴·多吉欧珠
 China,Q11069979,Peng Gang,relative,Q381823,Peng Dehuai
+China,Q11085159,施子清,child,Q113903317,Irons Sze
 China,Q11085159,施子清,child,Q55694106,施榮怡
-China,Q11085159,施子清,child,Q56025465,
 China,Q11085159,施子清,child,Q56025505,施榮恆
 China,Q11085159,施子清,child,Q56025523,Jaime Sze
 China,Q11091548,曾智明,father,Q9189989,Tsang Hin-chi
@@ -2707,6 +2709,8 @@ Congo-Kinshasa,Q62066858,Nicolas Kazadi,father,Q64861315,Jacques Kazadi
 Congo-Kinshasa,Q82364291,Jean-Marie Peti Peti,father,Q2848425,André Peti peti
 Congo-Kinshasa,Q96988286,Nathalie Bul'an'sung Sanata,sibling,Q16669165,Patrick Bologna
 Congo-Kinshasa,Q97464659,Augustin Kibassa,father,Q5506698,Frédéric Kibassa Maliba
+Costa Rica,Q16493361,Gloria Bejarano Almada,father,Q25861137,Armando León Bejarano
+Costa Rica,Q16493361,Gloria Bejarano Almada,spouse,Q887712,Rafael Ángel Calderón Fournier
 Costa Rica,Q26996246,Carlos Alvarado Quesada,spouse,Q51544231,Claudia Dobles Camargo
 Costa Rica,Q49344,Óscar Arias Sánchez,spouse,Q54962156,Margarita García
 Costa Rica,Q5384033,Epsy Campbell Barr,sibling,Q99522627,Shirley Campbell Barr
@@ -3140,6 +3144,7 @@ Denmark,Q12309819,Ellen Trane Nørby,father,Q61962245,Jørgen Nørby
 Denmark,Q12311129,Fatma Øktem,spouse,Q16063349,Bünyamin Simsek
 Denmark,Q12311589,Flemming Møller,father,Q12319397,Jens Møller
 Denmark,Q12312157,Frank Dahlgaard,father,Q5615421,Lauge Dahlgaard
+Denmark,Q12315171,Hanne Agersnap,child,Q112960298,Sigurd Agersnap
 Denmark,Q12315583,Hans Vestager,child,Q270820,Margrethe Vestager
 Denmark,Q12315583,Hans Vestager,spouse,Q62926188,Bodil Tybjerg
 Denmark,Q12316082,Helle Sjelle,spouse,Q917179,Lars Barfoed
@@ -14926,7 +14931,7 @@ UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q66103593,Shamsa Al Maktoum
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q7294934,Rashid bin Mohammed Al Maktoum
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q7462442,Shaikha bint Mohammed bin Rashed Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q9317476,زايد بن محمد آل مكتوم
+UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q9317476,Maryam bint Mohammed bin Rashid Al Maktoum
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,father,Q733312,Rashid bin Saeed Al Maktoum
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q215477,Maktoum bin Rashid Al Maktoum
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Maktoum

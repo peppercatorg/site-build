@@ -1,7 +1,7 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100708502,Hendrik Soemodihardjo,male,1933-01-14,11,2000-09-30,11,,
 Q111662838,Steven Mac Andrew,male,,,,,Minister-steven-mac-andrew (cropped).jpeg,
-Q113956872,Adolf Jardim,,,,,,,
+Q113956872,Adolf Jardim,male,,,,,,
 Q113956873,Ernst Mercuur,,,,,,,
 Q113956874,Glenn Sedney,male,,,,,,
 Q113956875,Hedwig Gilaard,,,,,,,
@@ -21,6 +21,7 @@ Q22003256,Niermala Badrising,female,1962-07-04,11,,,Niermala Badrising (cropped 
 Q2212953,Ivan Fernald,male,1955-12-07,11,,,Ivan Fernald 071006-N-7088A-085 0XP9I.jpg,Ivan Fernald
 Q2380953,Errol Snijders,male,1948-12-01,11,,,Errol Snijders.png,
 Q2397774,Ronald Assen,male,1949,9,,,,
+Q2606941,Siegfried Gilds,male,1939-02-04,11,2020-10-08,11,,
 Q2778834,Marijke Djwalapersad,male,1951-12-28,11,,,Marijke Djwalapersad 01.png,Marijke Djwalapersad
 Q28859452,Yildiz Pollack-Beighle,female,1983-04-21,11,,,Yldiz Pollack-Beighle.jpg,Yldiz Pollack-Beighle
 Q299020,Ronald Venetiaan,male,1936-06-18,11,,,Ronald Venetiaan.jpg,Ronald Venetiaan
@@ -33,6 +34,7 @@ Q380734,Jules Wijdenbosch,male,1941-05-02,11,,,JulesWijdenbosch2017.jpg,Jules Wi
 Q440403,Jennifer Simons,female,1953-09-05,11,,,Jennifer Simons 101030-N-1531D-005 crop.jpg,Jennifer Simons
 Q44166904,David Abiamofo,male,,7,,,David Abiamofo.jpg,
 Q46837592,Ronni Benschop,male,1955-11-19,11,,,Ronni Benschop.png,
+Q52991358,Stephen Tsang,male,,,,,Stephan Tsang.jpg,
 Q57667,Dési Bouterse,male,1945-10-13,11,,,President Bouterse.JPG,Dési Bouterse
 Q58149,Lygia Kraag-Keteldijk,female,1941-06-18,11,,,Lygia Kraag-Keteldijk (cropped).jpg,Lygia Kraag-Keteldijk
 Q613821,Ram Sardjoe,male,1935-10-10,11,,,Ramdien Sardjoe.jpg,Ram Sardjoe
