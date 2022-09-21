@@ -2395,7 +2395,7 @@ United Kingdom,Q296597,Ian Paisley,father,Q75969926,J. Kyle Paisley
 United Kingdom,Q296597,Ian Paisley,mother,Q75969929,Isabella Turnbull
 United Kingdom,Q296597,Ian Paisley,spouse,Q1303976,"Eileen Paisley, Baroness Paisley of St George's"
 United Kingdom,Q2979761,"Nigel Paulet, 18th Marquess of Winchester",child,Q105982743,Lord Richard Paulet
-United Kingdom,Q2979761,"Nigel Paulet, 18th Marquess of Winchester",child,Q105982763,Lady Susan Paulet
+United Kingdom,Q2979761,"Nigel Paulet, 18th Marquess of Winchester",child,Q105982763,Lady Susan Paulet Hains
 United Kingdom,Q2979761,"Nigel Paulet, 18th Marquess of Winchester",child,Q3335389,"Christopher Paulet, Earl of Wiltshire"
 United Kingdom,Q2979761,"Nigel Paulet, 18th Marquess of Winchester",father,Q75268966,George Paulet
 United Kingdom,Q2979761,"Nigel Paulet, 18th Marquess of Winchester",mother,Q75268968,Hazel Wheeler
@@ -4070,7 +4070,7 @@ United Kingdom,Q43274,Charles III,relative,Q3743314,Laura Lopes
 United Kingdom,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 United Kingdom,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 United Kingdom,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-United Kingdom,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+United Kingdom,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
 United Kingdom,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 United Kingdom,Q4360966,"Jack Simon, Baron Simon of Glaisdale",child,Q7167807,Peregrine Simon
 United Kingdom,Q4360966,"Jack Simon, Baron Simon of Glaisdale",child,Q75930430,Crispin Simon
@@ -4754,7 +4754,7 @@ United Kingdom,Q660827,Barbara Follett,spouse,Q210669,Ken Follett
 United Kingdom,Q6758448,"Marcus Sieff, Baron Sieff of Brimpton",child,Q27662750,David Sieff
 United Kingdom,Q6758448,"Marcus Sieff, Baron Sieff of Brimpton",child,Q75605014,Amanda Jane Sieff
 United Kingdom,Q6758448,"Marcus Sieff, Baron Sieff of Brimpton",father,Q2919191,"Israel Sieff, Baron Sieff"
-United Kingdom,Q6758448,"Marcus Sieff, Baron Sieff of Brimpton",mother,Q12411216,Rebecca Dora Sieff
+United Kingdom,Q6758448,"Marcus Sieff, Baron Sieff of Brimpton",mother,Q12411216,Rebecca Sieff
 United Kingdom,Q6758448,"Marcus Sieff, Baron Sieff of Brimpton",spouse,Q75604976,Brenda Mary Beith
 United Kingdom,Q6758448,"Marcus Sieff, Baron Sieff of Brimpton",spouse,Q75604995,Rosalie Fromson
 United Kingdom,Q6758448,"Marcus Sieff, Baron Sieff of Brimpton",spouse,Q75605011,Elsie Florence Gosen
@@ -5412,7 +5412,7 @@ United Kingdom,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 United Kingdom,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
 United Kingdom,Q9682,Elizabeth II,child,Q43274,Charles III
 United Kingdom,Q9682,Elizabeth II,father,Q280856,George VI
-United Kingdom,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
+United Kingdom,Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
 United Kingdom,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 United Kingdom,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
 United Kingdom,Q977967,"Frederick Curzon, 7th Earl Howe",child,Q75316972,"Thomas Curzon, Viscount Curzon"

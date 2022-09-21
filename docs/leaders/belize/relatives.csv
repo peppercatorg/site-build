@@ -19,7 +19,7 @@ Belize,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Belize,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Belize,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Belize,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Belize,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Belize,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
 Belize,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Belize,Q57701,Dean Barrow,child,Q1346832,Shyne
 Belize,Q57701,Dean Barrow,spouse,Q23416186,Kim Simplis Barrow
@@ -32,6 +32,6 @@ Belize,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Belize,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
 Belize,Q9682,Elizabeth II,child,Q43274,Charles III
 Belize,Q9682,Elizabeth II,father,Q280856,George VI
-Belize,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
+Belize,Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
 Belize,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 Belize,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"

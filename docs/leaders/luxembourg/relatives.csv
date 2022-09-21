@@ -1,5 +1,6 @@
 catalog,id,name,relationship,relative,relativename
 Luxembourg,Q106476317,Nathalie Oberweis,father,Q3866853,Marcel Oberweis
+Luxembourg,Q13102529,Fabienne Gaul,father,Q15983,Charly Gaul
 Luxembourg,Q13102657,François Maroldt,sibling,Q108705149,Ed Maroldt
 Luxembourg,Q13103001,Henri Kox,relative,Q69522486,Chantal Gary
 Luxembourg,Q13105458,Yves Cruchten,father,Q66720374,Alphonse Cruchten
@@ -34,6 +35,7 @@ Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",spouse,Q230644,"Maria Teresa
 Luxembourg,Q16439020,Francine Closener,spouse,Q16440093,Jay Schiltz
 Luxembourg,Q16439160,Franz Fayot,father,Q144205,Ben Fayot
 Luxembourg,Q16439752,Mill Majerus,child,Q13101713,Benoît Majerus
+Luxembourg,Q16439769,Charles Margue,father,Q16439770,Georges Margue
 Luxembourg,Q1685833,Jean Spautz,child,Q6755887,Marc Spautz
 Luxembourg,Q204094,Mars Di Bartolomeo,child,Q55719690,Anja Di Bartolomeo
 Luxembourg,Q286466,Charles Goerens,father,Q28045006,Gust Goerens

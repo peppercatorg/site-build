@@ -170,6 +170,7 @@ Q1206954,Kapil Sibal,male,1948-08-08,11,,,Kapil Sibal.jpg,Kapil Sibal
 Q12070269,Kabir Suman,male,1949-03-16,11,,,,Kabir Suman
 Q12072068,Nirmal Kumar Verma,male,1951-11-14,11,,,Nirmalkumarverma.jpg,Nirmal Kumar Verma
 Q122304,Nitish Kumar,male,1951-03-01,11,,,Nitish Kumar (cropped).JPG,Nitish Kumar
+Q12419450,Kavuru Samba Siva Rao,male,1943-10-02,11,,,"Dr. Kavuru Sambasiva Rao takes over the charge of Union Minister for Textiles, in New Delhi on June 19, 2013.jpg",Kavuri Samba Siva Rao
 Q12435690,Nikhil Kumar Choudhary,male,1945-12-06,11,,,,Nikhil Kumar Choudhary
 Q12438032,Balram Naik,male,1964-06-06,11,,,,Balram Naik
 Q12438034,P. C. Mohan,male,1963-07-24,11,,,"P C Mohanin Bengaluru on April 11, 2018 (cropped).jpg",P. C. Mohan
@@ -200,7 +201,6 @@ Q13219724,K. B. Ganesh Kumar,male,1966-05-25,11,,,Ganeshkumar.k.b.JPG,K. B. Gane
 Q1338044,Vijay Bahuguna,male,1947-02-28,11,,,Vijay Bahuguna.jpg,Vijay Bahuguna
 Q13426008,Nirbhay Sharma,male,1948,9,,,"The Governor of Mizoram, Lt. Gen (Ret.) Nirbhay Sharma in New Delhi on September 07, 2017 (cropped).jpg",Nirbhay Sharma
 Q13426571,Tapir Gao,male,1964-10-01,11,,,,Tapir Gao
-Q13512569,Kavuru Samba Siva Rao,male,1943-10-02,11,,,"Dr. Kavuru Sambasiva Rao takes over the charge of Union Minister for Textiles, in New Delhi on June 19, 2013.jpg",Kavuri Samba Siva Rao
 Q13564443,N. K. Premachandran,male,1960-05-25,11,,,NK PREMACHANDRAN.rotated.rotated.jpg,N. K. Premachandran
 Q13564486,K. Muraleedharan,male,1957-05-14,11,,,KMuraleedharan.jpg,K. Muraleedharan
 Q13564570,Kadannappalli Ramachandran,male,1944-07-01,11,,,Kadannappally Ramachandran.jpg,Kadannappalli Ramachandran
@@ -495,7 +495,7 @@ Q16890566,Gokaraju Ganga Raju,male,1948-07-14,11,,,,Gokaraju Ganga Raju
 Q16890575,Harinarayan Rajbhar,male,1950-01-01,11,,,,Harinarayan Rajbhar
 Q16890592,Joice George,male,1970-04-26,11,,,,Joice George
 Q16890604,Kanwar Singh Tanwar,male,1961-01,10,,,,Kanwar Singh Tanwar
-Q16890620,Mahesh Sharma,male,1959-09-30,11,,,Mahesh Sharma January 2015.jpg,Mahesh Sharma
+Q16890620,Mahesh Sharma,male,1959-09-30,11,,,,Mahesh Sharma
 Q16890657,Rahul Shewale,male,1973-04-14,11,,,,Rahul Shewale
 Q16890659,Rajveer Singh,male,1959,9,,,,Rajveer Singh
 Q16897817,A. P. Jithender Reddy,male,1954-04-26,11,,,,A. P. Jithender Reddy
@@ -618,7 +618,7 @@ Q16910056,Sanjeev Balyan,male,1972-06-23,11,,,Sanjeev Kumar Balyan.jpg,Sanjeev B
 Q16910065,Sankar Prasad Datta,male,1957-08-18,11,,,,Sankar Prasad Datta
 Q16910102,Satish Kumar Gautam,male,1972-07-01,11,,,,Satish Kumar Gautam
 Q16910110,Sudhir Gupta,male,1959-05-19,11,,,SudhirGupta.jpg,Sudhir Gupta
-Q16910124,Jeyasingh Thiyagaraj Natterjee,male,1953-04-15,11,,,,J. Jeyasingh Thiyagaraj Natterjee
+Q16910124,Jeyasingh Thiyagaraj Natterjee,male,1953-04-15,11,,,,J. Jayasingh Thiyagaraj Natterjee
 Q16910135,Sakshi Maharaj,male,1956-01-11,11,,,"Sakshi Maharaj, 2020.jpg",Sakshi Maharaj
 Q16910137,Tapas Mandal,male,1972,9,,,,Tapas Mandal
 Q16910150,Rodmal Nagar,male,1960-12-15,11,,,,Rodmal Nagar
@@ -637,7 +637,7 @@ Q16914046,Hemant Godse,male,1970-08-03,11,,,,Hemant Godse
 Q16914095,Sadashiv Lokhande,male,1966,9,,,,Sadashiv Lokhande
 Q16914118,Sumedhanand Saraswati,male,1951-10-01,11,,,"The Member of Parliament, Shri Sumedhanand Saraswati addressing at the inauguration of the Regional Media Conference ‘Vartalaap’, organised by the PIB, Jaipur, at Sikar, Rajasthan.jpg",Sumedhanand Saraswati
 Q16914124,Gajendrasingh Shekhawat,male,1967-10-03,11,,,"The Minister of State for Agriculture and Farmers Welfare, Shri Gajendra Singh Shekhawat addressing a press conference, at Asansol, in West Bengal on June 03, 2018.JPG",Gajendra Singh Shekhawat
-Q16914125,Shrikant Shinde,male,1987-02-04,11,,,Dr. Shrikant Eknath Shinde.jpg,Shrikant Shinde
+Q16914125,Shrikant Shinde,male,1987-02-04,11,,,,Shrikant Shinde
 Q16914132,Krupal Tumane,male,1965-06-01,11,,,,Krupal Tumane
 Q16929574,V. Elumalai,male,1955-05-03,11,,,,V. Elumalai
 Q16929588,B. Senguttuvan,male,1956-05-21,11,2021-08-19,11,B Senguttuvan.jpg,B. Senguttuvan
@@ -1144,7 +1144,7 @@ Q28976499,Ladu Ram,male,1942-12-20,11,,,Laduram Vishnoi.jpg,Ladu Ram
 Q28976509,Hameer Singh Bhayal,male,,,,,,Hameersingh Bhayal
 Q29001847,Akshaibar Lal,male,1947-01-01,11,,,,Akshaibar Lal
 Q29026584,R.K. Mathur,male,1953-11-25,11,,,R K Mathur.jpg,R. K. Mathur
-Q29035306,Bishnu Sethi,male,1961-06-05,11,,,Bishnu Charan Sethi.jpg,Bishnu Sethi
+Q29035306,Bishnu Sethi,male,1961-06-05,11,2022-09-19,11,Bishnu Charan Sethi.jpg,Bishnu Sethi
 Q290717,Jitin Prasada,male,1973-11-29,11,,,Jitin Prasada.jpg,Jitin Prasada
 Q2923570,Brahmananda Panda,male,1949-04-03,11,2010-01-30,11,,Brahmananda Panda
 Q29342474,Nibedita Pradhan,female,1963-07-07,11,,,Nibedita Pradhan.jpg,
@@ -2655,7 +2655,7 @@ Q64626541,Ramesh Chandra Behera,male,1976-07-04,11,,,Ramesh Chandra Behera.jpg,
 Q64626542,Mousadhi Bag,male,1960-02-08,11,,,Mousadhi Bag.jpg,Mousadhi Bag
 Q64626544,Raghunath Gomango,male,1959-07-15,11,,,Raghunath Gomango.jpg,
 Q64626554,Latika Pradhan,female,1975-04-25,11,,,Latika Pradhan.jpg,Latika Pradhan
-Q64626555,Tusharkanti Behera,male,1983-07-01,11,,,Tusharkanti Behera .jpg,
+Q64626555,Tusharkanti Behera,male,1989-07-01,11,,,Tusharkanti Behera .jpg,
 Q64626563,Basanti Hembram,female,,,,,Basanti Hembram.jpg,
 Q64626566,Suryamani Baidya,female,1988-06-22,11,,,Suryamani Baidya.jpg,
 Q64626571,Ashok Kumar Bal,male,1963-07-19,11,,,Ashok Kumar Bal.jpg,
@@ -2743,7 +2743,7 @@ Q6747693,Manda Jagannath,male,1951-05-22,11,,,Manda Jaganatham.jpg,Manda Jaganna
 Q6748653,Mangala Kisan,male,1947-06-06,11,,,Mangala Kisan.JPG,Mangala Kisan
 Q6748790,Mangani Lal Mandal,male,1948-07-01,11,,,,Mangani Lal Mandal
 Q6749490,Manicka Tagore,male,1975-06-01,11,,,Manickam Tagore.jpeg,Manickam Tagore
-Q6749643,Manikrao Hodlya Gavit,male,1934-10-29,11,,,,Manikrao Hodlya Gavit
+Q6749643,Manikrao Hodlya Gavit,male,1934-10-29,11,2022-09-17,11,"Shri Manikrao Gavit assuming the charge as Protem Speaker, at a swearing-in ceremony, at Rashtrapati Bhavan, in New Delhi on June 01, 2009.jpg",Manikrao Hodlya Gavit
 Q6749890,Manish Gupta,male,1942-11-10,11,,,Manish Gupta - Kolkata 2015-11-17 5101.JPG,Manish Gupta (politician)
 Q6749904,Manish Tewari,male,1965-12-08,11,,,Manish Tewari 2014.jpg,Manish Tewari
 Q6750341,Manjalamkuzhi Ali,male,1952-01-01,11,,,,Manjalamkuzhi Ali

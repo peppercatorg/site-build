@@ -12,6 +12,7 @@ Sweden,Q18202361,Sofia Fölster,father,Q5748358,Stefan Fölster
 Sweden,Q182050,Anders Borg,spouse,Q2587680,Dominika Peczynski
 Sweden,Q18238235,Nooshi Dadgostar,sibling,Q112107573,Alice Dadgostar
 Sweden,Q18243853,Rasmus Ling,sibling,Q65197476,David Ling
+Sweden,Q18244900,Magnus Oscarsson,sibling,Q6030080,Mikael Oscarsson
 Sweden,Q18649282,Johanna Jönsson,spouse,Q63344500,Niels Paarup-Petersen
 Sweden,Q2029704,Jonas Sjöstedt,spouse,Q82459143,Ann Måwe
 Sweden,Q20560471,Malena Mård,child,Q177232,son
@@ -63,7 +64,7 @@ Sweden,Q45068,Carl XVI Gustaf of Sweden,child,Q156390,"Victoria, Crown Princess 
 Sweden,Q45068,Carl XVI Gustaf of Sweden,child,Q212035,"Princess Madeleine, Duchess of Hälsingland and Gästrikland"
 Sweden,Q45068,Carl XVI Gustaf of Sweden,child,Q214704,"Prince Carl Philip, Duke of Värmland"
 Sweden,Q45068,Carl XVI Gustaf of Sweden,father,Q347374,"Prince Gustaf Adolf, Duke of Västerbotten"
-Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q115477,Louise Mountbatten
+Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q115477,Queen Louise of Sweden
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q151312,Frederick IX of Denmark
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q154912,Olav V of Norway
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q154946,Juliana of the Netherlands
@@ -162,6 +163,7 @@ Sweden,Q5708784,Ingemar Eliasson,child,Q5708819,Jonas Eliasson
 Sweden,Q5711551,Tomas Eneroth,child,Q27514214,Jesper Eneroth
 Sweden,Q5716511,Henrik S. Järrel,father,Q608755,Stig Järrel
 Sweden,Q5716511,Henrik S. Järrel,mother,Q4937177,Ingrid Backlin
+Sweden,Q57168632,Juno Blom,spouse,Q5869051,Conny Gyllander
 Sweden,Q57168729,Helena Gellerman,father,Q5755156,Olle Gellerman
 Sweden,Q57168729,Helena Gellerman,mother,Q4949761,Kerstin Gellerman
 Sweden,Q5719585,Gustaf von Essen,father,Q52731500,Per Erik von Essen
@@ -180,6 +182,7 @@ Sweden,Q5969883,Johan Lönnroth,sibling,Q5969887,Lars Lönnroth
 Sweden,Q5969883,Johan Lönnroth,spouse,Q111948994,Gudrun Lönnroth
 Sweden,Q5996912,Johan Munck,father,Q5996879,Thomas Munck af Rosenschöld
 Sweden,Q6016840,Patrik Norinder,father,Q16650031,Carl-Robert Norinder
+Sweden,Q6030080,Mikael Oscarsson,sibling,Q18244900,Magnus Oscarsson
 Sweden,Q6043655,Peter Persson,spouse,Q4972552,Margareta Persson
 Sweden,Q6072812,Stig Rindborg,sibling,Q42394041,Ingvar Rindborg
 Sweden,Q6146756,Henrik Landerholm,sibling,Q3544279,Karin Enström

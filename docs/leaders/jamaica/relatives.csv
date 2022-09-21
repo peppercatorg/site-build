@@ -22,7 +22,7 @@ Jamaica,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Jamaica,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Jamaica,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Jamaica,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Jamaica,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort of the United Kingdom"
+Jamaica,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
 Jamaica,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Jamaica,Q47308275,Juliet Holness,spouse,Q505200,Andrew Holness
 Jamaica,Q505200,Andrew Holness,spouse,Q47308275,Juliet Holness
@@ -31,6 +31,6 @@ Jamaica,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Jamaica,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
 Jamaica,Q9682,Elizabeth II,child,Q43274,Charles III
 Jamaica,Q9682,Elizabeth II,father,Q280856,George VI
-Jamaica,Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
+Jamaica,Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
 Jamaica,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 Jamaica,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"

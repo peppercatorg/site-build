@@ -10,7 +10,7 @@ Q10293572,张鸿铭,,1955,9,,,,
 Q10294260,張國良,,,,,,,
 Q10331435,朱銘泉,,,,,,,
 Q10335644,Li Yang,male,1958,9,,,,
-Q10335830,Patrick Lee,male,,,,,,Patrick Lee (Chinese businessman)
+Q10335830,Raymond Lee,male,,,,,,
 Q10379547,沈国军,,1960,9,,,,
 Q10396715,Teng Weiping,male,1952,9,,,,
 Q10414618,Peter Wong Man-kong,male,1949-01-09,11,2019-03-11,11,,Peter Wong Man-kong
@@ -83,7 +83,7 @@ Q10880594,于小文,,1947,9,,,,
 Q10880613,Yu Zhenwen,,1944,9,,,,
 Q10880617,Yu Wenming,male,1963,9,,,,
 Q10880619,于新粒,,1939,9,,,,
-Q1088062,Sheng Guangzu,male,1949,9,,,ShengGuangzu.jpg,Sheng Guangzu
+Q1088062,Sheng Guangzu,male,1949-04-05,11,,,ShengGuangzu.jpg,Sheng Guangzu
 Q10880638,Yu Yongzhan,male,1946,9,,,,
 Q10880655,于炼,,1962,9,,,,
 Q10880686,Jinming Yu,,1957,9,,,,
@@ -497,7 +497,7 @@ Q10919646,Wu Yuxia,female,1959,9,,,,
 Q10919675,吴紫骊,,1962,9,,,,
 Q10919687,吴能远,,1945,9,,,,
 Q10919703,吴菊仙,,1949,9,,,,
-Q10919749,吴金印,,1942,9,,,,
+Q10919749,Wu Jinyin,,1942,9,,,,
 Q10919750,吴金水,,1961,9,,,,
 Q10919780,吴鹏飞,,1954,9,,,,
 Q10920006,呂耀東,,1955,9,,,,
@@ -1691,6 +1691,7 @@ Q11181974,龚立群,,1955,9,,,,
 Q1134304,Dai Bingguo,male,1941-03-31,11,,,Dai Bingguo 051208-D-9880W-068.jpg,Dai Bingguo
 Q113652,Richard Frey,male,1920-02-11,11,2004-11-16,11,Richard Frey-1.jpg,Richard Frey
 Q1138806,Meng Xuenong,male,1949-08-08,11,,,,Meng Xuenong
+Q113901890,郑明明,,1939,9,,,,
 Q11573090,Wang Zhenguo,male,1954,9,,,,
 Q11643929,Zheng Shenxia,male,1942,9,,,,
 Q11728457,Joseph Liu Yuanren,male,1923-03-16,11,2005-04-20,11,,Joseph Liu Yuanren
@@ -2579,7 +2580,7 @@ Q16906023,王彬成,,1946,9,,,,
 Q16906027,王德进,,1953,9,,,,
 Q16906029,王志中,,1953,9,,,,
 Q16906030,Wang Zhigang,male,1957-10-10,11,,,Wang Zhigang.png,Wang Zhigang
-Q16906034,Wang Zhongxin,male,1968,9,,,,
+Q16906034,Wang Zhongxin,male,1968-09,10,,,,
 Q16906035,王怀俊,,1943,9,,,,
 Q16906037,Wang Hengqin,male,1955,9,,,,
 Q16906040,王惠文,male,1943,9,,,,
@@ -2736,7 +2737,7 @@ Q16906309,白保兴,,1955,9,,,,
 Q16906310,白克力·马木提,,1950,9,,,,
 Q16906311,Bai Tian,male,1952-10,10,,,,
 Q16906315,白尚成,,1962,9,,,,
-Q16906316,白建军,,1958,9,,,,
+Q16906316,Bai Jianjun,male,1958,9,,,,Bai Jianjun
 Q16906317,白忠华,female,1970,9,,,,
 Q16906319,白松涛,,1972,9,,,,
 Q16906320,白泉民,,1955,9,,,,
@@ -2983,7 +2984,7 @@ Q16906770,范立新,,1956,9,,,,
 Q16906771,Fan Xicheng,male,1945,9,,,,
 Q16906772,范谊,male,1958,9,,,,
 Q16906773,Fan Changmi,male,1955,9,,,,Fan Changmi
-Q16906775,茅永红,,1954,9,,,,
+Q16906775,Mao Yonghong,,1954,9,,,,
 Q16906776,茅玉麟,,1949,9,,,,
 Q16906777,茹克,,1943,9,,,,
 Q16906778,茹克叶·穆罕默德,male,1952,9,,,,
@@ -3366,7 +3367,6 @@ Q16907467,郑心穗,,1949,9,,,,
 Q16907468,郑惠强,,1953,9,,,,
 Q16907469,郑新立,male,1945,9,,,Zheng Xinli.png,
 Q16907471,Zheng Xincong,male,1963-11,10,,,,
-Q16907474,郑明明,,1939,9,,,,
 Q16907475,郑晓幸,male,1956,9,,,,
 Q16907476,Zheng Hui,male,1952,9,,,,
 Q16907477,郑晖,male,1958,9,,,,
@@ -3726,7 +3726,7 @@ Q16908147,饶曼妮,,1949,9,,,,
 Q16908176,马三刚,male,1954,9,,,,
 Q16908177,Ma Shizhong,male,1962,9,,,,
 Q16908178,马以,,1957,9,,,,
-Q16908180,Ma Weiming,male,1960,9,,,,Ma Weiming
+Q16908180,Ma Weiming,male,1960-04-06,11,,,,Ma Weiming
 Q16908181,马传先,female,1966,9,,,,
 Q16908184,Ma Xianfu,,1954,9,,,,
 Q16908185,马光明,male,1960,9,,,,
@@ -4578,7 +4578,7 @@ Q19849323,Wang Fengqi,male,1941-08,10,2013-04-19,11,,
 Q19849324,王德瑛,,1931,9,,,,
 Q19849334,顾云飞,,1930,9,2000-10-13,11,,
 Q19849368,Zhou Zuyi,male,1965-01,10,,,,Zhou Zuyi
-Q19849376,方光华,,1966-01,10,,,,
+Q19849376,方光华,male,1966-01,10,,,,
 Q19851370,David Chiu Tat Cheong,male,1954,9,,,,
 Q19852811,杨明生,,1955-08,10,,,,
 Q19854127,Li Xiaohong,male,1953-03,10,,,,
@@ -4652,7 +4652,7 @@ Q2213172,Bagatur,male,1955-02,10,,,Bater.png,Bagatur
 Q2213434,Cui Tiankai,male,1952-10,10,,,Cui Tiankai in 2012.jpg,Cui Tiankai
 Q227015,Zou Kai,male,1988-02-25,11,,,Zou Kai.JPG,Zou Kai
 Q2274922,Tao Siju,male,1935-04,10,2016-04-18,11,,Tao Siju
-Q22774417,巨晓林,,1962,9,,,,
+Q22774417,Ju Xiaolin,,1962-09-03,11,,,,
 Q2314491,Raidi,male,1938-08,10,,,,Raidi
 Q2319073,Feng Kun,female,1978-12-28,11,,,,Feng Kun
 Q23418611,Neil Shen,male,1967,9,,,,
@@ -4812,7 +4812,7 @@ Q30944121,崔保华,,1958,9,,,,
 Q30944123,刘捷,,1957,9,,,,
 Q30944233,孟庆丰,,1957,9,,,,
 Q30944234,宋华英,female,,7,,,,
-Q30944418,毕京京,,1954,9,,,,
+Q30944418,毕京京,male,1954,9,,,,Bi Jingjing
 Q30944908,叶梅芬,female,1968,9,,,,
 Q30944978,张塞,,1931,9,,,,
 Q30945085,黄艳,female,1964,9,,,,
@@ -4842,7 +4842,7 @@ Q3121188,Sun Laiyan,male,1957-10,10,,,,Sun Laiyan
 Q3137993,Qi Faren,male,1933,9,,,,Qi Faren
 Q314592,Wang Liqin,male,1978-06-18,11,,,Mondial Ping - Mixed Doubles - Semifinals - 01.jpg,Wang Liqin
 Q323312,Yin Shun,male,1906-12-03,11,2005-06-03,11,,Yin Shun
-Q3236818,Henry Fok,male,,,2006-10-28,11,,Henry Fok
+Q3236818,Henry Fok,male,1923-05-10,11,2006-10-28,11,,Henry Fok
 Q3237687,Nur Bekri,male,1961-08-09,11,,,Voa chinese Xinjiang Governor Nur Bekri 7mar10.jpg,Nur Bekri
 Q3256857,Liu Xiaodong,male,1963,9,,,,Liu Xiaodong
 Q3267042,Li Min,female,1936,9,,,Li Min and Mao Zedong 1949.jpg,Li Min (daughter of Mao Zedong)
@@ -4961,7 +4961,7 @@ Q47664562,Li Qianming,male,1933,9,,,,
 Q47665268,程顺和,,1939,9,,,,
 Q47665628,黄家培,,1957,9,,,,
 Q47665857,Li Minghua,male,1959-11,10,,,,
-Q47665904,Wei Changjin,,1965,9,,,,
+Q47665904,Wei Changjin,,1965-11,10,,,,
 Q47666089,樊邦奎,,1958-09-15,11,,,,
 Q47666743,冯键,,1964,9,,,,
 Q47666752,王立彤,,1968,9,,,,
@@ -5226,7 +5226,7 @@ Q51102881,章伟民,,1968,9,,,,
 Q51102884,曹立强,,1966,9,,,,
 Q51102886,陈鸣波,,1968,9,,,,
 Q51102888,陈国民,,1957,9,,,,
-Q51102889,许立荣,,1957,9,,,,
+Q51102889,Xu Lirong,,1957-07,10,,,,
 Q51102890,汤亮,,1968,9,,,2019湯亮.png,
 Q51102893,朱建弟,,1965,9,,,,
 Q51102896,刘小兵,,1966,9,,,,
@@ -5376,7 +5376,7 @@ Q51103475,Memtimin Qadir,male,1965-11,10,,,,Memtimin Qadir
 Q51103479,买买提明·阿不都艾尼,,1975,9,,,,
 Q51103483,麦麦提·居马,,1970-10,10,,,,
 Q51103488,吾尔尼沙·卡得尔,,1978,9,,,,
-Q51103493,库尔班·尼亚孜,,1964,9,,,,
+Q51103493,Kurban Niyaz,male,1964-05,10,,,,
 Q51103496,阿达来提·艾再孜,,1972-01,10,,,,
 Q51103500,阿迪力·阿不都热扎克,,1986,9,,,,
 Q51103502,帕尔哈提·肉孜,,1960,9,,,,
@@ -6281,7 +6281,7 @@ Q8246788,Zhang Xiaolan,female,1965-11,10,,,,Zhang Xiaolan
 Q8246860,Zhu Lilan,female,1935,9,,,,Zhu Lilan
 Q8246892,Tian Xiangli,female,1963-03,10,,,,Tian Xiangli
 Q8248352,Chen Yunying,female,1953-02,10,,,Voa chinese Chen YunYing 9apr08 195.jpg,Chen Yunying
-Q8248393,胡小燕,female,1974,9,,,Voa chinese hu xiaoyan 08Mar10.jpg,
+Q8248393,Hu Xiaoyan,female,1974,9,,,Voa chinese hu xiaoyan 08Mar10.jpg,
 Q8248415,梁冰,female,1962-12,10,,,,
 Q8248710,Ulan,female,1962,9,,,,Ulan (politician)
 Q8248796,范肖梅,female,1942-10,10,,,,
@@ -6344,7 +6344,7 @@ Q8291621,Guo Shuyan,male,1935,9,,,,Guo Shuyan
 Q8291628,Ma Qingsheng,male,1944,9,,,,
 Q8291637,高中兴,male,1943,9,,,,
 Q8291639,黄洁夫,male,1946,9,,,,
-Q8291646,龚谷成,male,1940,9,,,,
+Q8291646,Gong Gucheng,male,1940,9,,,,Gong Gucheng
 Q8291671,史莲喜,female,1952-01,10,,,,
 Q8291674,王正福,male,1947,9,,,,
 Q8291707,Zhi Shuping,male,1953-06,10,,,,Zhi Shuping
@@ -6905,7 +6905,7 @@ Q8990106,刘庆宁,male,1958,9,,,,
 Q8990191,刘怀廉,male,1951-07,10,2013-11-25,11,,
 Q8990322,Liu Kun,male,1956,9,,,Liu Kun 2019.png,Liu Kun
 Q8990370,Liu Xiaofeng,male,1947,9,,,劉曉峰2017.jpg,Liu Xiaofeng (politician)
-Q8990401,Liu Yonghao,male,1951,9,,,刘永好.png,Liu Yonghao
+Q8990401,Liu Yonghao,male,1951-09,10,,,刘永好.png,Liu Yonghao
 Q8990413,刘永富,male,1957-04,10,,,,
 Q8990689,Liu Shengyu,male,1945,9,,,,
 Q8991047,Liu Qiangdong,male,1974-02-14,11,,,Liu Qiangdong.jpg,Liu Qiangdong
@@ -7981,7 +7981,7 @@ Q9344810,许婷,female,1974,9,,,,
 Q9344869,许宝成,,1956,9,,,,
 Q9344892,许忠明,,1962,9,,,,
 Q9344911,许戈良,,1956,9,,,,
-Q9344932,许振超,,1950,9,,,,
+Q9344932,Xu Zhenchao,,1950,9,,,,
 Q9344953,许文有,male,1955,9,,,,
 Q9345047,许罗德,female,1962,9,,,,
 Q9345297,谢克昌,male,1946,9,,,,
@@ -8266,7 +8266,7 @@ Q97350472,Wò Zǔquán,male,1933-03,10,2022-02-26,11,,
 Q97487331,Zhao Long,male,1967,9,,,"Triệu Long, Đại học Hạ Môn 2021.png",Zhao Long
 Q981617,Jiang Jiemin,male,1955-10-04,11,,,,Jiang Jiemin
 Q986399,Yuan Weimin,male,1939-07-08,11,,,,Yuan Weimin
-Q986597,Sun Jiadong,male,1929,9,,,,Sun Jiadong
+Q986597,Sun Jiadong,male,1929-04-08,11,,,,Sun Jiadong
 Q98764369,Li Juchang,male,1938-03,10,2022-02-27,11,,
 Q997411,Lu Hao,male,1967,9,,,,Lu Hao (born 1967)
 Q999251,Xiao Jie,male,1957,9,,,Xiao Jie (cropped).jpg,Xiao Jie

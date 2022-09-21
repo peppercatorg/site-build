@@ -2,6 +2,7 @@ id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q103205431,Rain Epler,male,1977,9,,,,Rain Epler
 Q10347025,Jüri Kahn,male,1953-12-16,11,,,,Jüri Kahn
 Q105069608,Eva-Maria Liimets,female,1974-05-31,11,,,Eva-Maria Liimets (crop).jpg,Eva-Maria Liimets
+Q105845441,Andres Taimla,male,1947-08-23,11,2022-01-03,11,Andres Taimla.jpg,Andres Taimla
 Q106959627,Jüri Seilenthal,male,1970-12-28,11,,,,Jüri Seilenthal
 Q107033991,Jonatan Vseviov,male,1981-08-14,11,,,"Jonatan Vseviov at the Opinion Festival in Paide, Estonia.jpg",Jonatan Vseviov
 Q107335392,Timo Suslov,male,1981-07-02,11,,,,
@@ -17,9 +18,9 @@ Q110945433,Artur Kink,male,,,,,,
 Q110945456,Toomas Tirs,male,,,,,,
 Q111549529,Martin Roger,male,1979-09-28,11,,,,
 Q11158997,Sven Sester,male,1969-07-14,11,,,IRL Sven Sester.jpg,Sven Sester
-Q113090056,Piret Hartman,female,1981-08-10,11,,,"Piret Hartman at the Opinion Festival 2022 in Paide, Estonia.jpg",
-Q113138530,Kristjan Järvan,male,1990-10-10,11,,,,
-Q113138551,Lea Danilson-Järg,female,1977-11-27,11,,,"Danilson-Järg, Lea.IMG 20220813 134212-1.jpg",
+Q113090056,Piret Hartman,female,1981-08-10,11,,,"Piret Hartman at the Opinion Festival 2022 in Paide, Estonia.jpg",Piret Hartman
+Q113138530,Kristjan Järvan,male,1990-10-10,11,,,,Kristjan Järvan
+Q113138551,Lea Danilson-Järg,female,1977-11-27,11,,,"Danilson-Järg, Lea.IMG 20220813 134212-1.jpg",Lea Danilson-Järg
 Q1149033,Tõnis Lukas,male,1962-06-05,11,,,Tõnis Lukas (cropped).jpg,Tõnis Lukas
 Q11716283,Margus Tsahkna,male,1977-04-13,11,,,IRL Margus Tsahkna.jpg,Margus Tsahkna
 Q11857954,Enn Eesmaa,male,1946-06-07,11,,,RK Enn Eesmaa.jpg,Enn Eesmaa
@@ -107,7 +108,7 @@ Q12371410,Olev Raju,male,1948-01-14,11,,,Olev Raju.jpg,Olev Raju
 Q12371428,Olga Sõtnik,female,1980-12-02,11,,,KE Olga Sõtnik.jpg,Olga Sõtnik
 Q12371659,Ott Lumi,male,1978-12-01,11,,,,Ott Lumi
 Q12371725,Oudekki Loone,female,1979-02-05,11,,,"Loone, Oudekki.IMG 5044.JPG",Oudekki Loone
-Q12372152,Peep Peterson,male,1975-03-29,11,,,Peep Peterson 2021. aasta Arvamusfestivalil.jpg,
+Q12372152,Peep Peterson,male,1975-03-29,11,,,Peep Peterson 2021. aasta Arvamusfestivalil.jpg,Peep Peterson
 Q12372175,Peeter Ernits,male,1953-06-11,11,,,RK Peeter Ernits.jpg,Peeter Ernits
 Q12372206,Peeter Laurson,male,1971-02-04,11,,,IRL Peeter Laurson.jpg,Peeter Laurson
 Q12372254,Peeter Võsa,male,1967-12-28,11,,,KE Peeter Võsa.jpg,Peeter Võsa
@@ -418,7 +419,7 @@ Q618373,Annely Akkermann,female,1972-10-05,11,,,IRL Annely Akkermann.jpg,Annely 
 Q620859,Toomas Tõniste,male,1967-04-26,11,,,IRL Toomas Tõniste.jpg,Toomas Tõniste
 Q62930911,Mart Järvik,male,1956-02-21,11,,,,Mart Järvik
 Q62933420,Marti Kuusik,male,1970-07-04,11,,,,Marti Kuusik
-Q62934345,Rene Kokk,male,1980-03-04,11,,,,Rene Kokk
+Q62934345,Rene Kokk,male,1980-03-04,11,,,"Rene Kokk at the Opinion Festival 2022 in Paide, Estonia.jpg",Rene Kokk
 Q62975823,Andres Sutt,male,1967-11-11,11,,,Andres Sutt.jpg,Andres Sutt
 Q62975881,Andrus Seeme,male,1969-11-08,11,,,,Andrus Seeme
 Q62975984,Tõnis Mölder,male,1989-10-09,11,,,Tõnis Mölder (crop).jpg,Tõnis Mölder
