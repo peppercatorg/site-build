@@ -2057,8 +2057,8 @@ China,Q11067742,张闾蘅,child,Q8231513,David Wong
 China,Q11067742,张闾蘅,father,Q11066788,Zhang Xuesen
 China,Q11069359,强俄巴·次仁央宗,father,Q19825620,强俄巴·多吉欧珠
 China,Q11069979,Peng Gang,relative,Q381823,Peng Dehuai
-China,Q11085159,施子清,child,Q113903317,
 China,Q11085159,施子清,child,Q55694106,施榮怡
+China,Q11085159,施子清,child,Q56025465,Irons Sze
 China,Q11085159,施子清,child,Q56025505,施榮恆
 China,Q11085159,施子清,child,Q56025523,Jaime Sze
 China,Q11091548,曾智明,father,Q9189989,Tsang Hin-chi
@@ -2228,7 +2228,6 @@ China,Q211088,Liu Xiang,spouse,Q20631105,Ge Tian
 China,Q217239,Ambrose Lee,child,Q7225718,Glen Lee
 China,Q21822,Bo Xilai,child,Q4931095,Bo Guagua
 China,Q21822,Bo Xilai,father,Q553682,Bo Yibo
-China,Q21822,Bo Xilai,relative,Q553682,Bo Yibo
 China,Q21822,Bo Xilai,sibling,Q8925023,Bo Xiyong
 China,Q21822,Bo Xilai,spouse,Q2499132,Gu Kailai
 China,Q2183509,Liza Wang,spouse,Q837654,Law Kar-ying
@@ -5333,6 +5332,7 @@ France,Q3351188,Olivier Marleix,father,Q2830085,Alain Marleix
 France,Q3351188,Olivier Marleix,sibling,Q45347766,Laurence Saint-Gilles
 France,Q3351289,Olivier Poivre d'Arvor,sibling,Q551776,Patrick Poivre d'Arvor
 France,Q3351289,Olivier Poivre d'Arvor,spouse,Q33110821,Olga Kubelková Poivre d'Arvor
+France,Q3351371,Olivier Schrameck,spouse,Q33187697,Hélène de Largentaye
 France,Q336046,Robert Badinter,father,Q3484199,Simon Badinter
 France,Q336046,Robert Badinter,spouse,Q274309,Élisabeth Badinter
 France,Q336046,Robert Badinter,spouse,Q449309,Anne Vernon
@@ -5663,6 +5663,7 @@ Germany,Q110719,Oskar Lafontaine,spouse,Q1078145,Christa Müller
 Germany,Q110719,Oskar Lafontaine,spouse,Q20536817,Ingrid Bachert
 Germany,Q110719,Oskar Lafontaine,spouse,Q20536858,Margret Müller
 Germany,Q110719,Oskar Lafontaine,spouse,Q77193,Sahra Wagenknecht
+Germany,Q110883,Agnes Krumwiede,sibling,Q114077009,Franziska Krumwiede-Steiner
 Germany,Q112109,Thomas Strobl,spouse,Q18609986,Christine Strobl
 Germany,Q1126453,Conny Mayer-Bonde,spouse,Q98804,Alexander Bonde
 Germany,Q1170657,Oliver Helm,spouse,Q99906,Anne Helm
@@ -6084,9 +6085,11 @@ Gibraltar,Q333905,"Richard Luce, Baron Luce",child,Q75333823,Alexander Luce
 Gibraltar,Q333905,"Richard Luce, Baron Luce",father,Q6615222,William Luce
 Gibraltar,Q333905,"Richard Luce, Baron Luce",mother,Q75307894,Margaret Napier
 Gibraltar,Q333905,"Richard Luce, Baron Luce",spouse,Q75333815,Rose Nicholson
+Greece,Q104883085,Δώρα Αυγέρη,spouse,Q114082486,Αλέξανδρος Κάντερ-Μπαξ
 Greece,Q1091143,Anastasios Papaligouras,child,Q23645746,Léna Papaligoúra
 Greece,Q1091143,Anastasios Papaligouras,father,Q12236394,Panagis Papaligoúras
 Greece,Q1091143,Anastasios Papaligouras,spouse,Q26720202,Zaira Papaligouras
+Greece,Q114065632,Antonios Mylonakis,partner,Q114080054,Anna Salipa
 Greece,Q1226051,Dimitris Reppas,relative,Q1392087,Panagiotis Poulitsas
 Greece,Q12877311,Evangelos Yannopoulos,spouse,Q26933726,Ντιντή Γιαννοπούλου
 Greece,Q12877513,Zoi Konstantopoulou,father,Q3347276,Nikos Konstantopoulos
@@ -6189,6 +6192,8 @@ Greece,Q57806,Antonis Samaras,mother,Q21004364,Lena Zannas
 Greece,Q57806,Antonis Samaras,sibling,Q21004377,Alexandros Samaras
 Greece,Q58091,Stavros Dimas,child,Q20995398,Christos Dimas
 Greece,Q63389127,Kyriaki Malama,sibling,Q7555416,Sokratis Malamas
+Greece,Q64027430,Χρήστος Γιαννούλης,father,Q114081210,Γιάννης Γιαννούλης
+Greece,Q64027430,Χρήστος Γιαννούλης,mother,Q114081211,Κανέλλα Γιαννούλη
 Greece,Q6433534,Kostas Zouraris,father,Q47402249,Γιώργος Ζουράρις
 Greece,Q701060,Gerasimos Arsenis,sibling,Q14920323,Kitty Arseni
 Greece,Q701060,Gerasimos Arsenis,spouse,Q468064,Louka Katseli
@@ -6384,7 +6389,7 @@ Hungary,Q1161847,Bálint Magyar,sibling,Q1567160,Fruzsina Magyar
 Hungary,Q1161847,Bálint Magyar,spouse,Q1037247,Róza Hodosán
 Hungary,Q1176768,József Michl,child,Q47506870,Júlia MIchl
 Hungary,Q1218911,Előd Novák,spouse,Q639328,Dóra Dúró
-Hungary,Q1226805,Ágnes Osztolykán,spouse,Q61070472,Balog János
+Hungary,Q1226805,Ágnes Osztolykán,spouse,Q61070472,János Balog
 Hungary,Q1233411,Imre Pesti,child,Q66684946,Máté Pesti
 Hungary,Q1242067,István Pálffy,father,Q1242061,István Pálffy
 Hungary,Q1249701,Zoltán Rockenbauer,father,Q1249691,Pál Rockenbauer
@@ -6435,7 +6440,7 @@ Hungary,Q374106,Tamás Fellegi,father,Q998934,Tamás Fellegi
 Hungary,Q374106,Tamás Fellegi,spouse,Q1299706,Ágnes Szokolszky
 Hungary,Q383528,Andrew G. Vajna,spouse,Q23908620,Tímea Vajna
 Hungary,Q42881086,Miklós Hajnal,mother,Q12816340,Zsuzsa Szvetelszky
-Hungary,Q44606334,Katalin Devánszkiné Molnár Molnár,child,Q63224439,Devánszki Katalin
+Hungary,Q44606334,Katalin Molnár,child,Q63224439,Devánszki Katalin
 Hungary,Q47169741,György Károlyi,mother,Q20751625,Catherine de Károlyi
 Hungary,Q47507180,Péter Ungár,father,Q53004659,András Ungár
 Hungary,Q47507180,Péter Ungár,mother,Q1286151,Mária Schmidt
@@ -6448,7 +6453,7 @@ Hungary,Q51880401,Albert Alföldi,child,Q645895,Róbert Alföldi
 Hungary,Q51880438,Lajosné Botka,child,Q848456,László Botka
 Hungary,Q51880467,Gellért Barkóczy,father,Q18201536,József Barkóczy
 Hungary,Q51880477,Balázs Csákabonyi,father,Q12350974,Kálmán Csákabonyi
-Hungary,Q51880501,László Csúcs,spouse,Q56390160,Lászlóné Csúcs
+Hungary,Q51880501,László Csúcs,spouse,Q56390160,Halina Csúcs
 Hungary,Q51880597,Loránt ifj. Hegedűs,father,Q12814570,Lóránt Hegedűs
 Hungary,Q51880597,Loránt ifj. Hegedűs,spouse,Q31092223,Lorántné Hegedűs
 Hungary,Q51880793,Éva Mikes,spouse,Q51881116,Zoltán Trombitás
@@ -8075,6 +8080,7 @@ Israel,Q18368428,Yehuda Glick,father,Q45312029,Shimon Glick
 Israel,Q18522625,Mufid Mari,sibling,Q7029950,Nabiya Meri
 Israel,Q18759744,Bezalel Smotrich,relative,Q19634034,Ayelet Nahmias-Verbin
 Israel,Q18814813,Ksenia Svetlova,father,Q55316967,Igor Evgenevich Svetlov
+Israel,Q19615491,Miki Zohar,child,Q114073813,אליאב זוהר
 Israel,Q19627844,Nurit Koren,child,Q56884557,Omer Koren
 Israel,Q19627844,Nurit Koren,child,Q56884558,Zohar Koren
 Israel,Q19627890,Oren Hazan,father,Q2907728,Yehiel Hazan
@@ -12998,6 +13004,7 @@ South Africa,Q6795248,Max Sisulu,sibling,Q8075652,Zwelakhe Sisulu
 South Africa,Q770995,Pieter Mulder,father,Q426404,Connie Mulder
 South Africa,Q8066134,Zanele kaMagwaza-Msibi,child,Q52149458,Gugu Gumede
 South Korea,Q107443498,Choi Jae-hyung,father,Q16092163,Yohann Tschoi
+South Korea,Q107805133,Kim Keon-hee,mother,Q113490399,최은순
 South Korea,Q107805133,Kim Keon-hee,spouse,Q16090635,Yoon Suk-yeol
 South Korea,Q10855915,Kim Han-gil,spouse,Q16177000,Lee Min-ah
 South Korea,Q10855915,Kim Han-gil,spouse,Q623856,Choi Myung-gil

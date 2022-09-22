@@ -59,6 +59,7 @@ Q107228212,Sándor Kiss,male,1962-03-31,11,,,,
 Q107508919,András Jámbor,male,1986-08-09,11,,,Jámbor András 2.jpg,
 Q108609108,József Papp,male,1960-02-24,11,,,,
 Q108806692,Titanilla Tóth,female,,,,,,
+Q108909719,Krisztián Pósa,male,,,,,,
 Q109008317,Zoltán Vajda,male,1974-10-15,11,,,Vajda Zoltán.jpg,
 Q109010782,Endre Tóth,male,1990-04-16,11,,,,
 Q109043860,Balázs Barkóczi,male,1980-06-25,11,,,,
@@ -87,7 +88,7 @@ Q110716161,Zsolt Herczeg,male,1964-03-22,11,,,,
 Q110763359,Viktória Horváth,female,1975,9,,,,
 Q110812218,Gábor Bródi,male,1953-08-05,11,,,,
 Q110812967,Csaba Kőrösi,male,1958,9,,,2022 Abertura do Debate Geral da 77ª Sessão da Assembleia Geral das Nações Unidas (AGNU) 01.jpg,Csaba Kőrösi
-Q110814561,Molnár László,male,1958,9,,,,
+Q110814561,László Molnár,male,1958,9,,,,
 Q110915195,Zsuzsanna Horváth,female,,,,,,
 Q110952703,Petra Ponevács-Pana,female,1981-06-07,11,,,,
 Q1109835,Bernadett Szél,female,1977-03-09,11,,,Szél Bernadett.jpg,Bernadett Szél
@@ -276,7 +277,7 @@ Q1463083,Pál Völner,male,1962-11-30,11,,,Völner Pál (2011).jpg,Pál Völner
 Q1463895,Tihamér Warvasovszky,male,1950-07-19,11,,,,
 Q1465163,Csaba Winkfein,male,1978-10-17,11,,,Kép 070.jpg,
 Q1465207,Zsolt Wintermantel,male,1972-02-26,11,,,Wintermantel zsolt.jpg,Zsolt Wintermantel
-Q1465265,Mária Wittner,female,1937-06-09,11,,,WittnerMariaFotoThalerTamas.jpg,Mária Wittner
+Q1465265,Mária Wittner,female,1937-06-09,11,2022-09-14,11,WittnerMariaFotoThalerTamas.jpg,Mária Wittner
 Q1468057,Dániel Zsiga-Kárpát,male,1979-06-01,11,,,Z. Kárpát Dániel (Jobbik).jpg,Dániel Z. Kárpát
 Q1468102,Róbert Zsigó,male,1967-11-10,11,,,ZsigoRobert.jpg,Róbert Zsigó
 Q1468451,János Zuschlag,male,1977-05-07,11,,,,
@@ -559,7 +560,7 @@ Q41665343,István Szalay,male,1944-03-22,11,2022-09-02,11,,István Szalay
 Q41787926,László Szabó,male,1965,9,,,DOORSTEP 2016-09-23 (29871086825).jpg,László Szabó (diplomat)
 Q4198946,István Íjgyártó,male,1963-12-26,11,,,ТОДА - Зустріч з Надзвичайним та Повноважним Послом Угорщини в Україні 2019-02-06 - 2.jpg,
 Q42881086,Miklós Hajnal,male,1995-04-04,11,,,,
-Q44606334,Katalin Devánszkiné Molnár Molnár,female,1954-10-03,11,2017-12-03,11,,
+Q44606334,Katalin Molnár,female,1954-10-03,11,2017-12-03,11,,
 Q456745,Edit Herczog,female,1961-05-05,11,,,"Herczog, Edit-1787.jpg",Edit Herczog
 Q458925,István Hiller,male,1964-05-07,11,,,Hiller István.jpg,István Hiller
 Q461944,Mátyás Szűrös,male,1933-09-11,11,,,Szűrös Mátyás (Heti Válasz).JPG,Mátyás Szűrös
@@ -802,6 +803,7 @@ Q51880963,Attila Szabó,male,1971-11-02,11,,,,
 Q51880965,Ferenc Szabó,male,1953-06-28,11,2021-01-03,11,,
 Q51880967,István Szabó,male,1959-05-24,11,,,,
 Q51880971,Vilmos Szabó,male,1952-07-17,11,,,MSZP Congress July 2014-13.JPG,Vilmos Szabó
+Q51880977,Péter Szentgyörgyvölgyi,male,1942-01-28,11,,,,
 Q51880980,András Szinyei,male,1945-05-09,11,,,,
 Q51880982,Éva Steinerné Vasvári,female,1952-01-19,11,,,,
 Q51880987,András Sibak,male,1953-05-30,11,,,,
@@ -821,6 +823,7 @@ Q51881041,Lukács Szabó,male,1949-12-22,11,,,,
 Q51881050,Lajos Szabó,male,1958-05-15,11,,,,
 Q51881060,Antal Schalkhammer,male,1946-09-02,11,2002-02-22,11,,
 Q51881062,Tibor Schvarcz,male,1947-06-21,11,2022-02-24,11,,
+Q51881065,András Serfőző,male,1950-05-05,11,2021-04-12,11,,András Serfőző
 Q51881067,József Simon,male,1954-05-23,11,,,,
 Q51881070,Szilárd Sasvári,male,1964-10-25,11,,,,
 Q51881073,Sándorné Szabó,female,1951-01-07,11,,,,
@@ -908,7 +911,7 @@ Q55753757,Tamás Herczeg,male,1960-11-16,11,,,,Tamás Herczeg
 Q55753789,Imre László,male,1946-11-13,11,,,,
 Q55753797,István Bajkai,male,1964-01-17,11,,,Bajkai István RTA 9038.jpg,István Bajkai
 Q55753801,Koloman Brenner,male,1968-05-28,11,,,BB L6981.jpg,Koloman Brenner
-Q55753818,F. Kovács Sándor,male,1968-06-19,11,,,,
+Q55753818,Sándor F. Kovács,male,1968-06-19,11,,,,
 Q55753824,Zoltán Fenyvesi,male,1964-10-14,11,,,Fenyvesi Zoltán.jpg,Zoltán Fenyvesi
 Q5625576,Gyula Földesi,male,1983-08-27,11,,,,Gyula Földesi
 Q5625635,György Balla,male,1962-08-11,11,,,Balla György sajtótájékoztatója.jpg,György Balla
@@ -940,7 +943,7 @@ Q6089157,István Bebes,male,1956-03-24,11,,,Bebes István.jpg,István Bebes
 Q6089175,István Boldog,male,1966-11-10,11,,,,István Boldog
 Q6089208,István Fülöp,male,1958-05-04,11,,,,István Fülöp
 Q6089232,István Herman,male,1947-10-16,11,2021-10-21,11,,István Herman
-Q6089241,István Horváth,male,1970-02-28,11,,,,"István Horváth (politician, 1970)"
+Q6089241,István Horváth,male,1970-02-28,11,,,,"István Horváth (politician, born 1970)"
 Q60921708,Gecse Attila,male,1949-08-06,11,,,,
 Q61115511,Mátyás Szilágyi,male,1964,9,,,,
 Q61115660,Вілмош Сіклаварі,male,1954-09-25,11,,,,
@@ -1073,7 +1076,7 @@ Q8074825,Zsolt Láng,male,1973-04-04,11,,,Láng Zsolt 2007 november.jpg,Zsolt L�
 Q8076628,Ákos Kara,male,1975-05-21,11,,,Kara Ákos ITU Telecom World 2015.jpg,Ákos Kara
 Q8076988,Árpád Székely,male,,,,,,Árpád Székely
 Q8078522,Éva Brájer,female,1962-09-02,11,,,,Éva Brájer
-Q81564250,Manno István,male,1975-04-19,11,,,,
+Q81564250,István Manno,male,1975-04-19,11,,,,
 Q81566176,Katalin Tóth,female,1967-12-12,11,,,,
 Q82853,László Iván,male,1933-05-09,11,2020-01-16,11,,László Iván
 Q832221,Tibor Navracsics,male,1966-06-13,11,,,Navracsics Tibor Portrait.jpg,Tibor Navracsics
