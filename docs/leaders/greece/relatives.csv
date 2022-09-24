@@ -1,5 +1,5 @@
 catalog,id,name,relationship,relative,relativename
-Greece,Q104883085,Δώρα Αυγέρη,spouse,Q114082486,Αλέξανδρος Κάντερ-Μπαξ
+Greece,Q104883085,Dora Avgeri,spouse,Q114082486,Αλέξανδρος Κάντερ-Μπαξ
 Greece,Q1091143,Anastasios Papaligouras,child,Q23645746,Léna Papaligoúra
 Greece,Q1091143,Anastasios Papaligouras,father,Q12236394,Panagis Papaligoúras
 Greece,Q1091143,Anastasios Papaligouras,spouse,Q26720202,Zaira Papaligouras
@@ -106,8 +106,8 @@ Greece,Q57806,Antonis Samaras,mother,Q21004364,Lena Zannas
 Greece,Q57806,Antonis Samaras,sibling,Q21004377,Alexandros Samaras
 Greece,Q58091,Stavros Dimas,child,Q20995398,Christos Dimas
 Greece,Q63389127,Kyriaki Malama,sibling,Q7555416,Sokratis Malamas
-Greece,Q64027430,Χρήστος Γιαννούλης,father,Q114081210,Γιάννης Γιαννούλης
-Greece,Q64027430,Χρήστος Γιαννούλης,mother,Q114081211,Κανέλλα Γιαννούλη
+Greece,Q64027430,Christos Giannoulis,father,Q114081210,Γιάννης Γιαννούλης
+Greece,Q64027430,Christos Giannoulis,mother,Q114081211,Κανέλλα Γιαννούλη
 Greece,Q6433534,Kostas Zouraris,father,Q47402249,Γιώργος Ζουράρις
 Greece,Q701060,Gerasimos Arsenis,sibling,Q14920323,Kitty Arseni
 Greece,Q701060,Gerasimos Arsenis,spouse,Q468064,Louka Katseli

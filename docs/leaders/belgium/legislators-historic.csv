@@ -1,4 +1,5 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+Belgium,member of the Flemish Parliament,Jacques Devolder,Q3158739,1985,2004,male,1943-01-03,,,
 Belgium,member of the Flemish Parliament,Herman De Reuse,Q3134060,1995,2009,male,1944-05-03,2018-05-30,,Herman De Reuse
 Belgium,member of the Flemish Parliament,Sonja Becq,Q607864,1995,2004,female,1957-12-08,,Sonja Becq.jpg,Sonja Becq
 Belgium,member of the Flemish Parliament,Roland Van Goethem,Q3440281,1999,2009,male,1947-01-21,,,
@@ -455,7 +456,7 @@ Belgium,member of the Chamber of Representatives of Belgium,Barbara Creemers,Q65
 Belgium,member of the Chamber of Representatives of Belgium,Kris Verduyckt,Q65283145,2019-06-20,,male,1977,,Kris verduyckt-1574351152.jpg,
 Belgium,member of the Chamber of Representatives of Belgium,Philippe Tison,Q68012690,2019-06-20,,male,1961-11-24,,,
 Belgium,member of the Chamber of Representatives of Belgium,Laurence Hennuy,Q69745260,2019-06-20,,female,1970-09-29,,,
-Belgium,member of the Chamber of Representatives of Belgium,Kattrin Jadin,Q733266,2019-06-20,,female,1980-07-01,,15 03 02 CONSEIL BORSUS BACQUELAINE BOUCHEZ 195.jpg,Kattrin Jadin
+Belgium,member of the Chamber of Representatives of Belgium,Kattrin Jadin,Q733266,2019-06-20,2022-09-02,female,1980-07-01,,15 03 02 CONSEIL BORSUS BACQUELAINE BOUCHEZ 195.jpg,Kattrin Jadin
 Belgium,member of the Chamber of Representatives of Belgium,Ben Segers,Q79413813,2019-06-20,,male,1982-09-11,,,
 Belgium,member of the Chamber of Representatives of Belgium,Jean-Marie Dedecker,Q981442,2019-06-20,,male,1952-06-13,,LDD - Jean-Marie Dedecker (1).jpg,Jean-Marie Dedecker
 Belgium,member of the Chamber of Representatives of Belgium,Khalil Aouasti,Q68012551,2019-09,,male,1986-12-21,,,
@@ -482,13 +483,17 @@ Belgium,member of the Chamber of Representatives of Belgium,Mieke Claes,Q1128446
 Belgium,member of the Chamber of Representatives of Belgium,Sophie Wilmès,Q18434995,2022-07-15,,female,1975-01-15,,Sophie Wilmès crop.jpg,Sophie Wilmès
 Belgium,Senator of Belgium,Guy Lutgen,Q2187430,1964,2000,male,1936-04-19,2020-07-26,,Guy Lutgen
 Belgium,Senator of Belgium,Christine Cornet d'Elzius,Q2965904,1991,2003,female,1944-07-28,,,
+Belgium,Senator of Belgium,Jacques Devolder,Q3158739,1995,2004,male,1943-01-03,,,
 Belgium,Senator of Belgium,Magdeleine Willame-Boonen,Q3276708,1995,2003,female,1940-10-30,2021-05-17,,Magdeleine Willame-Boonen
 Belgium,Senator of Belgium,Jean-Luc Dehaene,Q15056,1999,2001,male,1940-08-07,2014-05-15,Jean-Luc Dehaene (speech).jpg,Jean-Luc Dehaene
 Belgium,Senator of Belgium,Luc Van den Brande,Q15991,1999,2009,male,1945-10-13,,Luc van den Brande.jpg,Luc Van den Brande
+Belgium,Senator of Belgium,Theo Kelchtermans,Q1972855,1999,2003,male,1943-06-27,,,Theo Kelchtermans
 Belgium,Senator of Belgium,Marcel Colla,Q2454981,1999,2003,male,1943-09-28,,,
 Belgium,Senator of Belgium,Marie Nagy,Q2674733,1999,2003,female,1957-07-28,,,
 Belgium,Senator of Belgium,Chokri Mahassine,Q2964383,1999,2001,male,1960-03-16,,,
+Belgium,Senator of Belgium,Iris Van Riet,Q3154428,1999,2003,female,1952-04-24,,Iris Van Riet.jpg,
 Belgium,Senator of Belgium,Josy Dubié,Q3186126,1999,2003,male,1940-02-11,,Josy Dubié.jpg,Josy Dubié
+Belgium,Senator of Belgium,Marc Hordies,Q3288115,1999,2002,male,1951-11-11,,,
 Belgium,Senator of Belgium,Nathalie de T'Serclaes,Q3336691,1999,2007,female,1949-07-27,,,
 Belgium,Senator of Belgium,Philippe Bodson,Q3379373,1999,2003,male,1944-11-02,2020-04-04,,Philippe Bodson
 Belgium,Senator of Belgium,Jacky Morael,Q375461,1999,2003,male,1959-11-26,2016-12-06,Jacky morael 2007.jpg,Jacky Morael
@@ -496,14 +501,20 @@ Belgium,Senator of Belgium,Anne-Marie Lizin,Q467291,1999,2010,female,1949-01-05,
 Belgium,Senator of Belgium,Vincent Van Quickenborne,Q549887,1999,2003,male,1973-08-01,,Vincent Van Quickenborne - Annual Meeting of the New Champions Dalian 2009.jpg,Vincent Van Quickenborne
 Belgium,Senator of Belgium,Louis Tobback,Q928374,1999,2003,male,1938-05-03,,Louis Tobback - Filip Naudts.jpg,Louis Tobback
 Belgium,Senator of Belgium,Georges Dallemagne,Q3102539,1999-06-13,2003-05-18,male,1958-01-17,,Georges Dallemagne 20171109.jpg,Georges Dallemagne
+Belgium,Senator of Belgium,Michel Barbeaux,Q3308935,2000,2003,male,1947-12-06,,,
 Belgium,Senator of Belgium,Yves Buysse,Q3573534,2001,2014,male,1968-09-03,,,Yves Buysse
+Belgium,Senator of Belgium,Michel Guilbert,Q3309846,2002,2004,male,1953-11-30,,,
 Belgium,Senator of Belgium,Frank Vanhecke,Q1444382,2003,2004,male,1959-05-30,,Frank Vanhecke.jpg,Frank Vanhecke
 Belgium,Senator of Belgium,Anke Van dermeersch,Q2525937,2003,2014,female,1972-10-27,,Anke Van dermeersch (2016).jpg,Anke Van dermeersch
 Belgium,Senator of Belgium,Pierre Galand,Q3385121,2003,2007,male,1940-07-28,,Pierre Galand (2013).jpeg,
 Belgium,Senator of Belgium,Guy Verhofstadt,Q12978,2003-05-18,2003-07-12,male,1953-04-11,,Guy Verhofstadt June 2021.jpg,Guy Verhofstadt
+Belgium,Senator of Belgium,Francis Delpérée,Q1441464,2004,2007,male,1942-01-14,,,Francis Delpérée
+Belgium,Senator of Belgium,Joëlle Kapompole,Q617955,2004,2009,female,1971-12-23,,Photo de profil JK.jpg,Joëlle Kapompolé
+Belgium,Senator of Belgium,Francis Delpérée,Q1441464,2007,2014,male,1942-01-14,,,Francis Delpérée
 Belgium,Senator of Belgium,Vera Dua,Q275283,2007,2009,female,1952-10-25,,,Vera Dua
 Belgium,Senator of Belgium,Carine Russo,Q2938814,2007,2009-09-11,female,1962-05-01,,,Carine Russo
 Belgium,Senator of Belgium,Christophe Collignon,Q2966163,2007,2010,male,1969-07-21,,CHRISTOPHE-COLLIGNON1.jpg,Christophe Collignon
+Belgium,Senator of Belgium,Michel Delacroix,Q3309421,2007,2010,male,1950-06-23,,Michel Delacroix en avril 2008.jpg,Michel Delacroix (politician)
 Belgium,Senator of Belgium,Marleen Temmerman,Q340097,2007,2012,female,1953-03-24,,"Marleen Temmerman, Vlaamse gynaecologe, hoogleraar en politica.jpg",Marleen Temmerman
 Belgium,Senator of Belgium,Miet Smet,Q458095,2007,2009,female,1943-04-05,,Miet Smet 2009.jpg,Miet Smet
 Belgium,Senator of Belgium,Anne Delvaux,Q460714,2007,2009,female,1970-10-20,,,Anne Delvaux
@@ -523,6 +534,7 @@ Belgium,Senator of Belgium,Jacques Brotchi,Q1677920,2010,2014,male,1942-08-11,,,
 Belgium,Senator of Belgium,Frank Vandenbroucke,Q186931,2010,2011,male,1955-10-21,,Frank Vandenbroucke 1 mei Leuven.jpg,Frank Vandenbroucke (politician)
 Belgium,Senator of Belgium,François Bellot,Q2457970,2010,2014,male,1954-02-08,,François Bellot.jpg,François Bellot
 Belgium,Senator of Belgium,Bert Anciaux,Q2746986,2010,2014,male,1959-09-11,,Bert Anciaux (1261992492).jpg,Bert Anciaux
+Belgium,Senator of Belgium,André du Bus de Warnaffe,Q2848890,2010,2014,male,1955-06-18,,André du Bus.jpg,
 Belgium,Senator of Belgium,Jacky Morael,Q375461,2010,2014,male,1959-11-26,2016-12-06,Jacky morael 2007.jpg,Jacky Morael
 Belgium,Senator of Belgium,Marie Arena,Q457117,2010,2014,female,1966-12-17,,Marie Arena - Citizens’ Corner debate on European Citizens’ Initiatives- Time for ECI review? (30214109881).jpg,Marie Arena
 Belgium,Senator of Belgium,Paul Magnette,Q1341556,2010-07-06,2011-12-05,male,1971-06-28,,Paul Magnette.jpg,Paul Magnette
@@ -768,6 +780,8 @@ Belgium,member of the Parliament of Wallonia,Laurent Agache,Q68073735,2019-09-18
 Belgium,Senator by Right,Philippe I of Belgium,Q155004,1994,2013,male,1960-04-15,,Philippe of Belgium in 2019.jpg,Philippe of Belgium
 Belgium,Senator by Right,"Princess Astrid, Archduchess of Austria-Este",Q170194,1996,2013,female,1962-06-05,,Princess Astrid at the World Investment Forum 2018 (cropped).jpg,Princess Astrid of Belgium
 Belgium,Senator by Right,Prince Laurent of Belgium,Q700152,2000,2013,male,1963-10-19,,Prince Laurent of Belgium (2015 F).jpg,Prince Laurent of Belgium
+Belgium,Co-opted Senator,Jan Remans,Q3161740,1999,2003,male,1940-01-01,,,
+Belgium,Co-opted Senator,Michel Delacroix,Q3309421,2003,2007,male,1950-06-23,,Michel Delacroix en avril 2008.jpg,Michel Delacroix (politician)
 Belgium,Co-opted Senator,Jacques Brotchi,Q1677920,2004,2009,male,1942-08-11,,,Jacques Brotchi
 Belgium,Co-opted Senator,Filip Anthuenis,Q2532599,2007,2009,male,1965-11-28,,,Filip Anthuenis
 Belgium,Co-opted Senator,Karl Vanlouwe,Q1859093,2010,2014,male,1970-10-22,,Karl Vanlouwe - 2019.jpg,Karl Vanlouwe

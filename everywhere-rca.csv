@@ -666,6 +666,8 @@ Australia,Q7177677,Peter Whish-Wilson,sibling,Q5241013,David Whish-Wilson
 Australia,Q7252940,Pru Goward,child,Q3309259,Kate Fischer
 Australia,Q7323712,Richard Alston,sibling,Q7183120,Philip Alston
 Australia,Q7327642,Richard Marles,spouse,Q6558302,Lisa Neville
+Australia,Q7331303,Rick Colless,relative,Q6237779,John Hargrave
+Australia,Q7331303,Rick Colless,relative,Q7326269,Richard Hargrave
 Australia,Q7340263,Rob Katter,father,Q4932983,Bob Katter
 Australia,Q7340615,Rob Valentine,relative,Q15996516,Francis Valentine
 Australia,Q7344540,Robert French,spouse,Q33240680,Valerie French
@@ -1135,6 +1137,7 @@ Belgium,Q700152,Prince Laurent of Belgium,sibling,Q432537,Princess Delphine of B
 Belgium,Q700152,Prince Laurent of Belgium,spouse,Q272191,Princess Claire of Belgium
 Belgium,Q704126,Benoît Lutgen,father,Q2187430,Guy Lutgen
 Belgium,Q728900,Roland Duchâtelet,spouse,Q24255487,Marieke Höfte
+Belgium,Q733266,Kattrin Jadin,sibling,Q16635286,Evelyn Jadin
 Belgium,Q745188,Marleen Vanderpoorten,father,Q13725231,Herman Vanderpoorten
 Belgium,Q772642,Michel Daerden,child,Q1471482,Frédéric Daerden
 Belgium,Q781578,Lieve Maes,father,Q1807181,Bob Maes
@@ -6085,7 +6088,7 @@ Gibraltar,Q333905,"Richard Luce, Baron Luce",child,Q75333823,Alexander Luce
 Gibraltar,Q333905,"Richard Luce, Baron Luce",father,Q6615222,William Luce
 Gibraltar,Q333905,"Richard Luce, Baron Luce",mother,Q75307894,Margaret Napier
 Gibraltar,Q333905,"Richard Luce, Baron Luce",spouse,Q75333815,Rose Nicholson
-Greece,Q104883085,Δώρα Αυγέρη,spouse,Q114082486,Αλέξανδρος Κάντερ-Μπαξ
+Greece,Q104883085,Dora Avgeri,spouse,Q114082486,Αλέξανδρος Κάντερ-Μπαξ
 Greece,Q1091143,Anastasios Papaligouras,child,Q23645746,Léna Papaligoúra
 Greece,Q1091143,Anastasios Papaligouras,father,Q12236394,Panagis Papaligoúras
 Greece,Q1091143,Anastasios Papaligouras,spouse,Q26720202,Zaira Papaligouras
@@ -6192,8 +6195,8 @@ Greece,Q57806,Antonis Samaras,mother,Q21004364,Lena Zannas
 Greece,Q57806,Antonis Samaras,sibling,Q21004377,Alexandros Samaras
 Greece,Q58091,Stavros Dimas,child,Q20995398,Christos Dimas
 Greece,Q63389127,Kyriaki Malama,sibling,Q7555416,Sokratis Malamas
-Greece,Q64027430,Χρήστος Γιαννούλης,father,Q114081210,Γιάννης Γιαννούλης
-Greece,Q64027430,Χρήστος Γιαννούλης,mother,Q114081211,Κανέλλα Γιαννούλη
+Greece,Q64027430,Christos Giannoulis,father,Q114081210,Γιάννης Γιαννούλης
+Greece,Q64027430,Christos Giannoulis,mother,Q114081211,Κανέλλα Γιαννούλη
 Greece,Q6433534,Kostas Zouraris,father,Q47402249,Γιώργος Ζουράρις
 Greece,Q701060,Gerasimos Arsenis,sibling,Q14920323,Kitty Arseni
 Greece,Q701060,Gerasimos Arsenis,spouse,Q468064,Louka Katseli
@@ -6447,7 +6450,7 @@ Hungary,Q47507180,Péter Ungár,mother,Q1286151,Mária Schmidt
 Hungary,Q47507180,Péter Ungár,relative,Q1399828,Klára Ungár
 Hungary,Q47507180,Péter Ungár,sibling,Q101516834,Anna Ungár
 Hungary,Q4759791,András Simonyi,father,Q106809322,Dénes Simonyi
-Hungary,Q50356269,Ernő Rozgonyi,child,Q56390579,Rozgonyi Zoltán
+Hungary,Q50356269,Ernő Rozgonyi,child,Q56390579,Zoltán Rozgonyi
 Hungary,Q516102,András Schiffer,relative,Q252414,Árpád Szakasits
 Hungary,Q51880401,Albert Alföldi,child,Q645895,Róbert Alföldi
 Hungary,Q51880438,Lajosné Botka,child,Q848456,László Botka
@@ -7132,6 +7135,7 @@ India,Q5279689,Dipak Misra,relative,Q12448533,Ranganath Mishra
 India,Q5285012,Diya Kumari,child,Q5854217,Padmanabh Singh
 India,Q5285012,Diya Kumari,child,Q78223753,Princess Gauravi Kumari of Jaipur
 India,Q5285012,Diya Kumari,father,Q854922,Bhawani Singh
+India,Q5285012,Diya Kumari,mother,Q111901584,Padmini Devi
 India,Q5316897,Dushyant Singh,mother,Q2997305,Vasundhara Raje
 India,Q540605,M. K. Alagiri,child,Q5243064,Dayanidhi Azhagiri
 India,Q540605,M. K. Alagiri,father,Q470875,Muthuvel Karunanidhi
@@ -14077,7 +14081,6 @@ Sweden,Q897282,Kristina Axén Olin,spouse,Q6024863,Mats Olin
 Sweden,Q964124,Lennart Sacrédeus,spouse,Q65522051,Birgitta Sacrédeus
 Sweden,Q966884,Stefan Attefall,sibling,Q6172463,Anders Sellström
 Switzerland,Q105062122,Rolf Graber,sibling,Q121886,Jean-Pierre Graber
-Switzerland,Q110634549,Raphaël Mahaim,relative,Q1810035,Ernest Mahaim
 Switzerland,Q115513,Pascal Couchepin,child,Q28739254,Anne-Laure Couchepin Vouilloz
 Switzerland,Q115520,Moritz Leuenberger,father,Q15455198,Robert Leuenberger
 Switzerland,Q115520,Moritz Leuenberger,sibling,Q95341261,Dieter Leuenberger

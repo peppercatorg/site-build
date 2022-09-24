@@ -210,7 +210,7 @@ Q111516945,Graciela Sánchez Ortiz,,,,,,,
 Q111516947,Guillermo Octavio Huerta Ling,,,,,,,
 Q111516949,Hamlet García Almaguer,male,1987-01-15,11,,,,
 Q111516950,Heriberto Aguilar Castillo,,,,,,,
-Q111516952,Herminio Torres Ajuria,,,,,,,
+Q111516952,Herminio Torres Ajuria,male,1973-02-15,11,,,,
 Q111516953,Hiram Hernández Zetina,,,,,,,
 Q111516954,Horacio Fernández Castillo,,,,,,,
 Q111516955,Héctor Castillo Olivares,,,,,,,
@@ -249,7 +249,7 @@ Q111516998,Jorge Armando Ortiz Rodríguez,,,,,,,
 Q111516999,Jorge Ernesto Inzunza Armas,,,,,,,
 Q111517000,Jorge Espadas Galván,,,,,,,
 Q111517001,Jorge Luis Llaven Abarca,,,,,,,
-Q111517002,Jorge Mújica Murias,,,,,,,
+Q111517002,Jorge Mújica Murias,male,,,,,,
 Q111517003,Jorge Romero Vázquez,,,,,,,
 Q111517004,Jorge Ángel Sibaja Mendoza,,,,,,,
 Q111517005,José Antonio Estefan Gillessen,,,,,,,
@@ -306,7 +306,7 @@ Q111517061,Marcia Solórzano Gallego,,,,,,,
 Q111517062,Marco Antonio Almendáriz Puppo,,,,,,,
 Q111517063,Marco Antonio Flores Sánchez,,,,,,,
 Q111517064,Marco Antonio Natale Gutiérrez,,,,,,,
-Q111517065,Mariana Mancillas Cabrera,,,,,,,
+Q111517065,Mariana Mancillas Cabrera,,1972-03-11,11,,,,
 Q111517067,Mariano González Aguirre,,,,,,,
 Q111517068,Maribel Villaseñor Dávila,,,,,,,
 Q111517069,Mariela López Sosa,,,,,,,
@@ -325,7 +325,7 @@ Q111517083,Martha Robles Ortiz,,,,,,,
 Q111517084,Martha Rosa Morales Romero,,,,,,,
 Q111517085,Martín Sandoval Soto,,,,,,,
 Q111517086,María Ascensión Álvarez Solís,,,,,,,
-Q111517088,María Bertha Espinoza Segura,female,1957-11-15,11,2022-09-13,11,,
+Q111517088,María Bertha Espinoza Segura,female,1957-11-15,11,2022-09-13,11,,Bertha Espinoza Segura
 Q111517089,María Elena Pérez-Jaén Zermeño,,,,,,,
 Q111517090,María Eugenia Hernández Pérez,,,,,,,
 Q111517091,María Guadalupe Román Ávila,,,,,,,
@@ -411,7 +411,7 @@ Q111517181,Verónica Collado Crisolia,,,,,,,
 Q111517182,Vicente Verástegui Ostos,,,,,,,
 Q111517184,Víctor Manuel Pérez Díaz,,,,,,,
 Q111517185,Wendy Cordero González,,,,,,,
-Q111517186,Xavier González Zirión,,,,,,,
+Q111517186,Xavier González Zirión,male,1968-05-24,11,,,,
 Q111517188,Yeimi Aguilar Cifuentes,,,,,,,
 Q111517189,Yesenia Galarza Castro,,,,,,,
 Q111517191,Yesenia Olúa González,,,,,,,
@@ -1931,6 +1931,9 @@ Q11202828,Marcos Pérez Esquer,male,1970-07-25,11,,,Marcos Pérez Esquer.jpg,Mar
 Q112169112,Salvador Alcántar Ortega,male,,,,,,
 Q113859069,Yolis Jiménez Ramírez,female,,,,,,
 Q113950150,Navor Alberto Rojas Mancera,male,1963-07-12,11,,,,
+Q114097108,Enrique García de la Parra,male,1992-08-13,11,,,,
+Q114097217,Rocío Hernández Villanueva,female,1987-11-22,11,,,,
+Q114097692,Yolanda Villarreal Elizondo,female,,,,,,
 Q11682760,Héctor Miguel Bautista López,male,1960,9,,,,Héctor Miguel Bautista López
 Q11686406,Juan Carlos Romero Hicks,male,1955,9,,,Senador Juan Carlos Romero Hick.jpg,Juan Carlos Romero Hicks
 Q11689894,Luis Videgaray Caso,male,1968-08-10,11,,,Luis-Videgaray.jpg,Luis Videgaray Caso
@@ -2292,7 +2295,7 @@ Q16222025,Roberto Ruiz Moronatti,male,1982-01-01,11,,,,Roberto Ruiz Moronatti
 Q16222314,Gabriela Medrano Galindo,female,1983-06-27,11,,,,Gabriela Medrano Galindo
 Q16222415,Carla Reyes Montiel,female,1983-02-02,11,,,,Carla Reyes Montiel
 Q16222519,Ponciano Vázquez Parissi,male,1983-10-29,11,,,,Ponciano Vázquez Parissi
-Q16223183,"María Teresa ""Elotes"" Jiménez Esquivel",female,1984-05-25,11,,,María Teresa Jiménez Esquivel.jpg,María Teresa Jiménez Esquivel
+Q16223183,María Teresa Jiménez Esquivel,female,1984-05-25,11,,,María Teresa Jiménez Esquivel.jpg,María Teresa Jiménez Esquivel
 Q16223322,Gloria Elizabeth Núñez Sánchez,female,1984-03-20,11,,,Senadora Gloria Núñez Sánchez.jpg,Gloria Elizabeth Núñez Sánchez
 Q16223820,Tania Morgan Navarrete,female,1985-08-12,11,,,,Tania Morgan Navarrete
 Q16224023,María Guadalupe Velázquez Díaz,female,1985-04-29,11,,,,María Guadalupe Velázquez Díaz
@@ -2515,7 +2518,6 @@ Q17489596,Homero Díaz Rodríguez,male,1959-04-02,11,,,,Homero Díaz Rodríguez
 Q17621897,María Gloria Hernández Madrid,female,1964,9,,,María Gloria Hernández Madrid.jpg,
 Q17633088,Yulma Rocha Aguilar,female,1981-09-07,11,,,,Yulma Rocha Aguilar
 Q17995190,José Ramón Martel López,male,1955-01-10,11,,,,José Ramón Martel López
-Q18098152,María del Carmen Escudero,female,1969-07-25,11,,,,María del Carmen Escudero
 Q18098152,María del Carmen Escudero,female,1969-07-25,11,,,,María del Carmen Escudero
 Q18098156,Luis Eduardo Espinosa Pérez,male,1956-06-27,11,,,,Luis Eduardo Espinosa Pérez
 Q18131856,José García Ortíz,male,1949-03-24,11,2012-06-26,11,,José García Ortiz
