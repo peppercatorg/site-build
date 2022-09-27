@@ -13862,12 +13862,18 @@ Suriname,Q299020,Ronald Venetiaan,child,Q102256470,Shanti A. Venetiaan
 Suriname,Q3127467,Marie Levens,sibling,Q4951565,Alphons Levens
 Suriname,Q333135,Chan Santokhi,spouse,Q104780411,Mellisa Seenacherry
 Suriname,Q57667,Dési Bouterse,child,Q2750706,Dino Bouterse
+Sweden,Q105928301,Markus Kallifatides,father,Q2031528,Theodor Kallifatides
 Sweden,Q108281858,Charlotte von Essen,spouse,Q39160642,Ulrik von Essen
+Sweden,Q114031230,Peter Ollén,father,Q6025308,Gunnar Ollén
+Sweden,Q114031230,Peter Ollén,sibling,Q34036434,Theresa Benér
+Sweden,Q114031230,Peter Ollén,sibling,Q6025320,Joakim Ollén
 Sweden,Q1232072,Jan O. Karlsson,child,Q5901962,Peder Karlsson
 Sweden,Q1232072,Jan O. Karlsson,father,Q5901426,Hans Karlsson
 Sweden,Q129454,Peter Egardt,mother,Q16594631,Brita Egardt
 Sweden,Q1357206,Gunnar Hökmark,father,Q5821186,Gösta Hökmark
 Sweden,Q1357206,Gunnar Hökmark,spouse,Q4956643,Isabella Hökmark
+Sweden,Q15695147,Christian Sonesson,father,Q15695150,Carl Sonesson
+Sweden,Q15695147,Christian Sonesson,sibling,Q6183816,Carl-Johan Sonesson
 Sweden,Q16633060,Gunnar Holmgren,spouse,Q4945934,Ingrid Eiken
 Sweden,Q1780398,Ulf Kristersson,spouse,Q4945658,Birgitta Ed
 Sweden,Q18177071,Åsa Regnér,spouse,Q18245295,Håkan Regnér
@@ -14064,6 +14070,10 @@ Sweden,Q701382,Björn von der Esch,child,Q5718882,Carl von der Esch
 Sweden,Q701382,Björn von der Esch,spouse,Q111031903,Signe von der Esch
 Sweden,Q724410,Gabriel Romanus,father,Q95922548,Ragnar Romanus
 Sweden,Q724410,Gabriel Romanus,mother,Q50680702,Vera Starck-Romanus
+Sweden,Q75461145,Marie Suzanne Nicholson,child,Q75461158,Ronnie Uri Uri
+Sweden,Q75461145,Marie Suzanne Nicholson,father,Q75461087,Stephen Lloyd Nicholson
+Sweden,Q75461145,Marie Suzanne Nicholson,mother,Q75461136,Leone Gladys Burberry
+Sweden,Q75461145,Marie Suzanne Nicholson,spouse,Q75461157,Ron Uri
 Sweden,Q772089,Hillevi Engström,sibling,Q4955214,Karin Hübinette
 Sweden,Q77555,Walburga Habsburg Douglas,child,Q75294741,Count Moritz Douglas
 Sweden,Q77555,Walburga Habsburg Douglas,father,Q76343,Otto von Habsburg
