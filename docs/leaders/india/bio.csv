@@ -2,8 +2,8 @@ id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q1000836,Buddhadeb Bhattacharjee,male,1944-03-01,11,,,BuddhadebBabu.jpg,Buddhadeb Bhattacharjee
 Q100276686,Kalathil Abdulla,male,1959-02-20,11,,,,
 Q100316110,N. D. Appachan,male,1949-05-02,11,,,,N. D. Appachan
-Q100320558,Swarup Kumar Das,male,1970-04-11,11,,,,Swarup Kumar Das
-Q100320657,Bijay Shankar Das,male,1992-05-14,11,,,,
+Q100320558,Swarup Kumar Das,male,1970-04-11,11,,,Swarup Kumar Das.jpg,Swarup Kumar Das
+Q100320657,Bijay Shankar Das,male,1992-05-14,11,,,Bijaya Shankar Das.jpg,
 Q101429316,Gaitri Issar Kumar,female,1962-06-20,11,,,"The Vice President, Shri M. Venkaiah Naidu being received by the Deputy Head of Protocol, Belgium, Ms. Francine Chainaye and the Ambassador of India to Belgium, Ms. Gaitri Issar Kumar, on his arrival, in Brussels, Belgium.JPG",Gaitri Issar Kumar
 Q102173567,Dipali Biswas,female,1970-08-02,11,,,,Dipali Biswas
 Q10218,Rahul Gandhi,male,1970-06-19,11,,,Rahul Gandhi.jpg,Rahul Gandhi
@@ -148,7 +148,7 @@ Q11103115,Kummanam Rajasekharan,male,1952-12-23,11,,,Kummanam.jpg,Kummanam Rajas
 Q111178149,Narinder Kaur Bharaj,female,1994-08-17,11,,,,Narinder Kaur Bharaj
 Q111178150,Labh Singh Ugoke,male,,,,,,Labh Singh Ugoke
 Q111192492,Bhuban Gam,male,,,,,,Bhuban Gam
-Q111341502,Manik Saha,male,,,,,,Manik Saha
+Q111341502,Manik Saha,male,1953-01-08,11,,,,Manik Saha
 Q111343881,Ganieve Kaur Majithia,female,,,,,,Ganieve Kaur Majithia
 Q111396551,Sanjay Singh Gangwar,male,1974-04-10,11,,,,Sanjay Singh Gangwar
 Q111831284,Sanjeev Agarwal,male,1963,9,,,,Sanjeev Agarwal
@@ -181,7 +181,7 @@ Q1285090,K. Natwar Singh,male,1931-05-16,11,,,K Natwar Singh.jpg,Natwar Singh
 Q1287413,Kamal Nath,male,1946-11-18,11,,,Kamal Nath - World Economic Forum Annual Meeting Davos 2008.jpg,Kamal Nath
 Q12997414,Chellamalla Suguna Kumari,female,1955-07-25,11,,,,Chellamalla Suguna Kumari
 Q13099372,Pawan Kumar Bansal,male,1948-07-16,11,,,PawanKumarBansalChd.JPG,Pawan Kumar Bansal
-Q13110275,Aryadan Muhammed,male,1935-05-15,11,,,Aryadan muhamed DSC 0271.jpg,Aryadan Muhammed
+Q13110275,Aryadan Muhammed,male,1935-05-15,11,2022-09-25,11,Aryadan muhamed DSC 0271.jpg,Aryadan Muhammed
 Q13110322,R. Rajesh,male,1981-04-15,11,,,R.Rajesh.jpg,R. Rajesh
 Q13110345,E. P. Jayarajan,male,1950-05-28,11,,,EP Jayarajan.jpg,E. P. Jayarajan
 Q13110635,M. I. Shanavas,male,1952-09-22,11,2018-11-21,11,MI Shanavas.MP.jpg,M. I. Shanavas
@@ -308,7 +308,7 @@ Q16145721,S. J. Mukhopadhaya,male,1950-03-15,11,,,,S. J. Mukhopadhaya
 Q16145748,Vikramajit Sen,male,1950-12-31,11,,,,Vikramajit Sen
 Q16145766,Kirit Premjibhai Solanki,male,1950-06-17,11,,,,Kirit Premjibhai Solanki
 Q16146117,Bahadur Singh Koli,male,1961-08-16,11,,,,Bahadur Singh Koli
-Q16147202,Pradip Kumar Amat,male,1952,9,,,Pradip Kumar Amat.jpg,Pradip Kumar Amat
+Q16147202,Pradip Kumar Amat,male,1952-10-18,11,,,Pradip Kumar Amat.jpg,Pradip Kumar Amat
 Q16147813,Anil Shirole,male,1950-09-13,11,,,Anil Shirole.jpeg,Anil Shirole
 Q16148343,Anil R. Dave,male,1951-11-19,11,,,,Anil R. Dave
 Q16148541,Fakkir Mohamed Ibrahim Kalifulla,male,1951-07-23,11,,,,Fakkir Mohamed Ibrahim Kalifulla
@@ -558,7 +558,7 @@ Q16901271,Shailesh Kumar,male,1975-05-06,11,,,,Shailesh Kumar Mandal
 Q16901274,Sirajuddin Ajmal,male,1958-02-21,11,,,,Sirajuddin Ajmal
 Q16901282,Sunil Kumar Mandal,male,1958-05-16,11,,,,Sunil Kumar Mandal
 Q16901283,Sunil Kumar Singh,male,1962-01-10,11,,,Sunil kumar singh.jpg,Sunil Kumar Singh (Jharkhand politician)
-Q16901284,Sushmita Dev,female,1976,9,,,Sushmitadevtmc.jpg.webp,Sushmita Dev
+Q16901284,Sushmita Dev,female,1976,9,,,,Sushmita Dev
 Q16901285,Tamradhwaj Sahu,male,1949-08-06,11,,,,Tamradhwaj Sahu
 Q16901287,Tariq Hameed Karra,male,1955-06-28,11,,,,Tariq Hameed Karra
 Q16901291,Thota Narasimham,male,1962-07,10,,,,Thota Narasimham
@@ -1587,7 +1587,7 @@ Q5208549,Daggubati Purandeswari,female,1959-04-22,11,,,"The Minister of State fo
 Q5211590,Dalpat Singh Paraste,male,1950-05-30,11,2016-06-01,11,,Dalpat Singh Paraste
 Q52176993,Mohan Mate,male,,,,,Mohan Mate campaigning in 2019 Maharashtra elections.jpg,Mohan Mate
 Q5221996,Dara Singh Chauhan,male,1963-07-25,11,,,,Dara Singh Chauhan
-Q52225510,M.V. Govindan,male,1953,9,,,MV Govindan Master.jpg,M. V. Govindan
+Q52225510,M.V. Govindan,male,1953,9,,,,M. V. Govindan
 Q5225537,Darshana Jardosh,female,1961-01-21,11,,,"The Minister of State for Textiles and Railways, Smt. Darshana Vikram Jardosh addressing at the 7th National Handloom Day, in New Delhi on August 07, 2021.jpg",Darshana Jardosh
 Q5227744,Datta Meghe,male,1936-11-11,11,,,,Datta Meghe
 Q5242259,Dawa Narbula,male,1935-12-16,11,,,,Dawa Narbula
@@ -2108,7 +2108,7 @@ Q61488720,Manohar Randhari,male,1974-07-10,11,,,Manohar Randhari.jpg,
 Q61488722,Manoj Kumar Pradhan,male,1974-06-28,11,,,,
 Q61488725,Manoranjan Sethi,male,1967-04-02,11,,,Manoranjan Sethi.jpg,
 Q61488730,Mukunda Sodi,male,,,,,Mukunda Sodi.jpg,
-Q61488733,Naba Kishore Das,male,,,,,Naba Kishore Das.jpg,
+Q61488733,Naba Kishore Das,male,1962-01-07,11,,,Naba Kishore Das.jpg,
 Q61488742,Nihar Ranjan Mahananda,male,1977-07-17,11,,,Nihar Ranjan Mahananda.jpg,
 Q61488745,Niranjan Pradhan,male,1959-01-01,11,,,Niranjan Pradhan.jpg,
 Q61488748,Niranjan Pujari,male,1961,9,,,Niranjan Pujari.jpg,Niranjan Pujari
@@ -2640,7 +2640,7 @@ Q64590237,Nityananda Gond,male,1978-06-01,11,,,Nityananda Gond.jpg,
 Q64590285,Budhan Murmu,male,,,,,Budhan Murmu.jpg,
 Q64590297,Nauri Nayak,male,1969-07-27,11,,,Nauri Nayak.jpg,
 Q64590419,Aditya Madhi,male,1974-07-22,11,,,Aditya Madhi.jpg,
-Q64590431,Mukesh Mahaling,male,1973-07-11,11,,,,
+Q64590431,Mukesh Mahaling,male,1973-07-11,11,,,Mukesh Mahaling.jpg,
 Q64590455,Ganeshram Khuntia,male,,,,,Ganesh Ram Singh Khuntia.jpg,
 Q64590480,Lalitendu Bidyadhar Mohapatra,male,1967-01-19,11,,,Lalitendu Bidyadhar Mohapatra.jpg,
 Q64590506,Prakash Soren,male,1969-01-21,11,,,Prakash Soren.jpg,
@@ -3139,7 +3139,7 @@ Q7633839,Sudip Bandyopadhyay,male,1952-12-10,11,,,Sudip Bandyopadhyay Indian MP.
 Q7635065,Sugata Bose,male,1956-09-07,11,,,Sugata Bose - Kolkata 2015-05-09 6217.JPG,Sugata Bose
 Q7635613,Sujan Chakraborty,male,1959-03-16,11,,,Sujan Chakraborty.jpg,Sujan Chakraborty
 Q7635739,Sukdeo Paswan,male,1953-11-05,11,,,,Sukdeo Paswan
-Q7635786,Sukhbir Singh Badal,male,1962-07-09,11,,,Sukhbir Singh Badal addressing People.jpg,Sukhbir Singh Badal
+Q7635786,Sukhbir Singh Badal,male,1962-07-09,11,,,,Sukhbir Singh Badal
 Q7635796,Sukhdev Singh Libra,male,1932-11-07,11,2019-09-06,11,,Sukhdev Singh Libra
 Q7635912,Sukumar Hansda,male,1954,9,2020-10-29,11,,Sukumar Hansda
 Q7636617,Sultan Ahmed,male,1953-06-06,11,2017-09,10,"The Minister of State for Tourism, Shri Sultan Ahmed addressing at the presentation of the “National Awards for Excellence in Hospitality Education”, in New Delhi on April 15, 2010.jpg",Sultan Ahmed (Indian politician)

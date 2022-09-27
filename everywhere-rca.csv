@@ -1467,6 +1467,7 @@ Brazil,Q59247652,Jessé Lopes,spouse,Q98927510,Moyra Lopes
 Brazil,Q59308525,Bento Albuquerque,father,Q100707089,Bento Costa Lima Leite de Albuquerque
 Brazil,Q60784870,Júnior Marreca Filho,father,Q25440287,Júnior Marreca
 Brazil,Q60961728,Flávia Arruda,spouse,Q10310418,José Roberto Arruda
+Brazil,Q60999682,Daniel Soares,father,Q2468342,Romildo Ribeiro Soares
 Brazil,Q63039824,Abraham Weintraub,sibling,Q63091727,Arthur Weintraub
 Brazil,Q6428425,Marcelo Freixo,partner,Q56355534,Antonia Pellegrino
 Brazil,Q64847981,Cabo Almi,spouse,Q108117971,Irene Carolina de Oliveira
@@ -1622,6 +1623,7 @@ Canada,Q128543,Jean Chrétien,spouse,Q2837024,Aline Chrétien
 Canada,Q128574,Joe Clark,child,Q5052592,Catherine Clark
 Canada,Q128574,Joe Clark,spouse,Q4410540,Maureen McTeer
 Canada,Q128933,Michaëlle Jean,spouse,Q3087911,Jean-Daniel Lafond
+Canada,Q1359787,Lynda Haverstock,sibling,Q5258698,Dennis Marvin Ham
 Canada,Q1382032,Frank Mahovlich,sibling,Q432389,Peter Mahovlich
 Canada,Q1391375,Gregor Robertson,spouse,Q114015110,Eileen Park Robertson
 Canada,Q1607747,Amir Khadir,spouse,Q71977944,Nimâ Machouf
@@ -2163,7 +2165,7 @@ China,Q16628,Wen Jiabao,child,Q3380941,Wen Yunsong
 China,Q16628,Wen Jiabao,spouse,Q4122281,Zhang Peili
 China,Q16906066,Wang Xiaoyu,spouse,Q697930,Liu Xiaoqing
 China,Q16906311,Bai Tian,father,Q7217871,Bai Dongcai
-China,Q16906852,董良翚,father,Q968038,Dong Biwu
+China,Q16906852,Dong Lianghui,father,Q968038,Dong Biwu
 China,Q16907286,赵步长,child,Q16907309,赵超
 China,Q16907286,赵步长,child,Q63993844,赵涛
 China,Q16907290,赵汝蘅,spouse,Q837103,Liao Hui
@@ -2946,6 +2948,7 @@ Czechia,Q1374371,Jaroslav Lobkowicz,spouse,Q75380416,Elizabeth de Vienne
 Czechia,Q14806410,Mikuláš Ferjenčík,relative,Q9021077,Mikuláš Ferjenčík
 Czechia,Q14806410,Mikuláš Ferjenčík,sibling,Q42311106,Olga Richterová
 Czechia,Q15057976,Svatopluk Němeček,spouse,Q54801007,Zdenka Němečková Crkvenjaš
+Czechia,Q15124152,Nina Nováková,spouse,Q95169152,Milan Novák
 Czechia,Q15220321,Jiří Holeček,father,Q940997,Jiří Holeček
 Czechia,Q15249537,Marek Černoch,father,Q1729212,Karel Černoch
 Czechia,Q15249537,Marek Černoch,sibling,Q12058717,Tereza Černochová
@@ -3928,6 +3931,7 @@ European Union,Q16945605,Lynn Boylan,spouse,Q5381749,Eoin Ó Broin
 European Union,Q16948138,Édouard Ferrand,father,Q47538369,Bernard Ferrand
 European Union,Q16948138,Édouard Ferrand,spouse,Q62388202,Alexandrine Ferrand
 European Union,Q16948142,Sylvie Goddyn,spouse,Q21600926,Éric Dillies
+European Union,Q16975892,Elly Schlein,father,Q114159654,Melvin Robert Schlein
 European Union,Q16975892,Elly Schlein,mother,Q61612472,Maria Paola Viviani Schlein
 European Union,Q16975892,Elly Schlein,sibling,Q30337338,Benjamin Schlein
 European Union,Q16979883,Seb Dance,spouse,Q7576121,Spencer Livermore
@@ -6436,7 +6440,7 @@ Hungary,Q266208,Kinga Göncz,mother,Q78644064,Mária Zsuzsanna Göntér
 Hungary,Q286763,Tamás Bauer,father,Q791478,Miklós Bauer
 Hungary,Q28842902,András Fekete-Győr,father,Q47146922,András Fekete-Győr
 Hungary,Q28842902,András Fekete-Győr,relative,Q1121896,Ödön Kuncz
-Hungary,Q31092223,Lorántné Hegedűs,spouse,Q51880597,Loránt ifj. Hegedűs
+Hungary,Q31092223,Lorántné Hegedűs,spouse,Q51880597,Loránt Hegedűs
 Hungary,Q339099,Ferenc Koncz,child,Q99980592,Zsófia Koncz
 Hungary,Q372677,Imre Mécs,child,Q16522000,Mónika Mécs
 Hungary,Q372677,Imre Mécs,spouse,Q1567160,Fruzsina Magyar
@@ -6458,8 +6462,8 @@ Hungary,Q51880438,Lajosné Botka,child,Q848456,László Botka
 Hungary,Q51880467,Gellért Barkóczy,father,Q18201536,József Barkóczy
 Hungary,Q51880477,Balázs Csákabonyi,father,Q12350974,Kálmán Csákabonyi
 Hungary,Q51880501,László Csúcs,spouse,Q56390160,Halina Csúcs
-Hungary,Q51880597,Loránt ifj. Hegedűs,father,Q12814570,Lóránt Hegedűs
-Hungary,Q51880597,Loránt ifj. Hegedűs,spouse,Q31092223,Lorántné Hegedűs
+Hungary,Q51880597,Loránt Hegedűs,father,Q12814570,Lóránt Hegedűs
+Hungary,Q51880597,Loránt Hegedűs,spouse,Q31092223,Lorántné Hegedűs
 Hungary,Q51880793,Éva Mikes,spouse,Q51881116,Zoltán Trombitás
 Hungary,Q51880808,Péter Mádai,sibling,Q12348549,György Máday
 Hungary,Q51881004,István Sándor,child,Q20436874,István Sándor
@@ -7686,6 +7690,7 @@ Indonesia,Q5388188,Erick Thohir,child,Q107061682,Arfa Thohir
 Indonesia,Q5388188,Erick Thohir,child,Q107061735,Aga Thohir
 Indonesia,Q5388188,Erick Thohir,child,Q107061781,Makayla Amadia Thohir
 Indonesia,Q5388188,Erick Thohir,child,Q107061913,Magisha Afryea Thohir
+Indonesia,Q5388188,Erick Thohir,father,Q114218153,
 Indonesia,Q5388188,Erick Thohir,sibling,Q19725813,Garibaldi Thohir
 Indonesia,Q5482594,Jamal Mirdad,child,Q12500000,Nana Mirdad
 Indonesia,Q5482594,Jamal Mirdad,child,Q12698770,Naysila Mirdad
@@ -9061,7 +9066,7 @@ Kenya,Q7052649,Norman Nyagah,sibling,Q6285854,Joseph Nyagah
 Kenya,Q7108730,Otieno Kajwang,sibling,Q27893074,Moses Otieno Kajwang
 Kenya,Q7172546,Peter Anyang' Nyong'o,child,Q111261610,Zawadi Nyongo'o
 Kenya,Q7172546,Peter Anyang' Nyong'o,child,Q3840847,Lupita Nyong'o
-Kenya,Q7172546,Peter Anyang' Nyong'o,spouse,Q111261595,Dorothy Ogada Buyu Nyong'o
+Kenya,Q7172546,Peter Anyang' Nyong'o,spouse,Q111261595,Dorothy Ogada Nyong'o (neé Buyu)
 Kenya,Q7175990,Peter Munya,spouse,Q111261585,Phoebe Munya
 Kenya,Q85837193,Benard Otieno Okoth,sibling,Q66606803,Ken Okoth
 Kenya,Q96627361,Wycliffe Wangamati,spouse,Q111261574,Carol Wangamati
@@ -9374,6 +9379,7 @@ Malaysia,Q299530,Mizan Zainal Abidin of Terengganu,spouse,Q4209408,Sultanah Nur 
 Malaysia,Q299574,Anwar Ibrahim,child,Q7070314,Nurul Izzah Anwar
 Malaysia,Q299574,Anwar Ibrahim,father,Q20451083,Ibrahim Abdul Rahman
 Malaysia,Q299574,Anwar Ibrahim,spouse,Q468579,Wan Azizah Wan Ismail
+Malaysia,Q38668450,Wong Tien Fatt,child,Q63742475,Vivian Wong Shir Yee
 Malaysia,Q460568,Sirajuddin of Perlis,child,Q7850643,Tuanku Syed Faizuddin Putra Jamalullail
 Malaysia,Q460568,Sirajuddin of Perlis,father,Q4200614,Syed Putra of Perlis
 Malaysia,Q460568,Sirajuddin of Perlis,mother,Q4251695,Tengku Budriah
@@ -9465,7 +9471,7 @@ Malta,Q441784,Mario de Marco,father,Q167724,Guido de Marco
 Malta,Q5043368,Carmelo Abela,spouse,Q111670981,Melanie Bugeja
 Malta,Q57502,George Abela,child,Q37860840,Robert Abela
 Malta,Q57502,George Abela,spouse,Q6759132,Margaret Abela
-Malta,Q6762928,Marie Louise Coleiro Preca,spouse,Q28086248,Edgar Preca
+Malta,Q6762928,Marie-Louise Coleiro Preca,spouse,Q28086248,Edgar Preca
 Mauritius,Q217566,Anerood Jugnauth,child,Q3401447,Pravind Jugnauth
 Mauritius,Q217566,Anerood Jugnauth,spouse,Q7424446,Sarojini Jugnauth
 Mauritius,Q3401447,Pravind Jugnauth,father,Q217566,Anerood Jugnauth
@@ -9807,6 +9813,7 @@ Namibia,Q154104,Sam Nujoma,spouse,Q20737996,Kovambo Nujoma
 Namibia,Q1568274,Hage Gottfried Geingob,spouse,Q19513511,Monica Geingos
 Namibia,Q521436,Libertine Amathila,spouse,Q4885218,Ben Amathila
 Namibia,Q57469,Hifikepunye Pohamba,spouse,Q7162547,Penehupifo Pohamba
+Nauru,Q274174,Marcus Stephen,father,Q4442559,Lawrence Stephen
 Nauru,Q715836,Bernard Dowiyogo,child,Q321050,Valdon Dowiyogo
 Nauru,Q715836,Bernard Dowiyogo,spouse,Q5110999,Christine Dowiyogo
 Nauru,Q7352665,Robin Millhouse,father,Q55831960,Vivian Millhouse
@@ -11768,7 +11775,7 @@ Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6204478,Joaan bin Hamad bin Kha
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6399598,Khalid bin Hamad bin Khalifa Al Thani
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6875474,Mishaal bin Hamad bin Khalifa Al Thani
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6893462,Mohammed bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,spouse,Q18758568,Jawahir bint Hamad Al thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,spouse,Q18758568,Jawaher bint Hamad Al thani
 Qatar,Q317771,Abdullah bin Khalifa Al Thani,father,Q2072385,Khalifa bin Hamad Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q14946739,Maha bint Hamad bin Khalifa Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q1855372,Tamim bin Hamad Al Thani
@@ -21351,6 +21358,7 @@ United States,Q5026282,Cameron Kerry,mother,Q7368363,Rosemary Forbes Kerry
 United States,Q5026282,Cameron Kerry,sibling,Q22316,John Kerry
 United States,Q503580,Dan Boren,father,Q882362,David L. Boren
 United States,Q503580,Dan Boren,mother,Q107138576,Janna Lou Boren
+United States,Q504029,Andrew Card,father,Q114175502,"Andrew Hill Card, Sr."
 United States,Q504029,Andrew Card,relative,Q114042598,John Henry Card Jr.
 United States,Q505236,Fred Upton,father,Q24050570,Stephen Edward Upton
 United States,Q505236,Fred Upton,mother,Q96203329,Elizabeth Brooks Vial
@@ -21812,6 +21820,8 @@ Uruguay,Q9099,Tabaré Vázquez,spouse,Q9029949,María Auxiliadora Delgado
 Uruguay,Q91272452,Verónica Mato,father,Q55237754,Miguel Ángel Mato Fagian
 Uruguay,Q961132,Luis Hierro López,father,Q3076962,Luis Hierro Gambardella
 Uruguay,Q961599,Hugo Fernández Faingold,father,Q1789015,Hugo Fernández Artucio
+Uruguay,Q96625454,Juan Martín Rodríguez,child,Q3857549,Milagros
+Uruguay,Q96625454,Juan Martín Rodríguez,spouse,Q114217844,Laura Zúñiga
 Uruguay,Q977078,Lucía Topolansky,partner,Q9094,José Mujica
 Uruguay,Q977078,Lucía Topolansky,sibling,Q62988139,María Elia Topolansky
 Uruguay,Q977078,Lucía Topolansky,spouse,Q9094,José Mujica
