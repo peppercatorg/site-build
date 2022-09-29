@@ -9174,6 +9174,58 @@ Latvia,Q9303235,Raimonds Rubiks,father,Q724366,Alfrēds Rubiks
 Latvia,Q940903,Imants Kalniņš,child,Q11010962,Marts Kristiāns Kalniņš
 Latvia,Q940903,Imants Kalniņš,child,Q3736471,Rēzija Kalniņa
 Latvia,Q940903,Imants Kalniņš,spouse,Q4154898,Helga Dancberga
+Lebanon,Q1250858,Dory Chamoun,father,Q365971,Camille Chamoun
+Lebanon,Q1250858,Dory Chamoun,sibling,Q1165211,Dany Chamoun
+Lebanon,Q1329138,Elias Murr,father,Q1738970,Michel Murr
+Lebanon,Q1329138,Elias Murr,sibling,Q6873789,Mirna Murr
+Lebanon,Q1395651,Nayla Moawad,child,Q12246818,Michel Moawad
+Lebanon,Q1395651,Nayla Moawad,spouse,Q471263,René Moawad
+Lebanon,Q1738970,Michel Murr,child,Q1329138,Elias Murr
+Lebanon,Q1738970,Michel Murr,child,Q6873789,Mirna Murr
+Lebanon,Q1738970,Michel Murr,sibling,Q1982601,May Murr
+Lebanon,Q1738970,Michel Murr,sibling,Q3093894,Gabriel Murr
+Lebanon,Q192778,Rafic Hariri,child,Q10279737,Fahd Hariri
+Lebanon,Q192778,Rafic Hariri,child,Q12207792,Hossam El-Din Hariri
+Lebanon,Q192778,Rafic Hariri,child,Q21662949,Ayman Hariri
+Lebanon,Q192778,Rafic Hariri,child,Q296771,Saad Hariri
+Lebanon,Q192778,Rafic Hariri,child,Q5765833,Hind Hariri
+Lebanon,Q192778,Rafic Hariri,child,Q800179,Bahaa Hariri
+Lebanon,Q192778,Rafic Hariri,father,Q107017756,Bahaa Hariri
+Lebanon,Q192778,Rafic Hariri,mother,Q107017758,Hind Hariri
+Lebanon,Q192778,Rafic Hariri,sibling,Q468909,Bahia Hariri
+Lebanon,Q192778,Rafic Hariri,spouse,Q20424718,Nidal Boustany
+Lebanon,Q192778,Rafic Hariri,spouse,Q4165734,Nazik Hariri
+Lebanon,Q206479,Émile Lahoud,child,Q5371579,Emile Lahoud Jr.
+Lebanon,Q206479,Émile Lahoud,father,Q2583157,Jamil Lahoud
+Lebanon,Q2081667,Raymond Audi,child,Q16669236,Paul Audi
+Lebanon,Q2081667,Raymond Audi,child,Q7192056,Pierre Audi
+Lebanon,Q2820965,Abdul Rahim Mourad,child,Q63257122,حسن عبد الرحيم مراد
+Lebanon,Q2821159,Abdel Latif El Zein,father,Q12252041,Youssef Zein
+Lebanon,Q2821159,Abdel Latif El Zein,sibling,Q12223245,Abdul Karim Zein
+Lebanon,Q2821159,Abdel Latif El Zein,sibling,Q12223736,Abdel Majid Zein
+Lebanon,Q296771,Saad Hariri,father,Q192778,Rafic Hariri
+Lebanon,Q296771,Saad Hariri,mother,Q20424718,Nidal Boustany
+Lebanon,Q296771,Saad Hariri,sibling,Q10279737,Fahd Hariri
+Lebanon,Q296771,Saad Hariri,sibling,Q800179,Bahaa Hariri
+Lebanon,Q318493,Najib Mikati,sibling,Q19896212,Taha Mikati
+Lebanon,Q330587,Ghassan Salamé,child,Q30117430,Louma Salamé
+Lebanon,Q330587,Ghassan Salamé,child,Q3270032,Léa Salamé
+Lebanon,Q3435215,Robert Ghanem,father,Q2104530,Iskandar Ghanem
+Lebanon,Q3514836,Tammam Salam,father,Q2002354,Saeb Salam
+Lebanon,Q3514836,Tammam Salam,spouse,Q17198679,Lama Salam
+Lebanon,Q363392,Michel Aoun,relative,Q2737847,Gebran Bassil
+Lebanon,Q363392,Michel Aoun,relative,Q2829514,Alain Aoun
+Lebanon,Q396606,Omar Karami,child,Q3067717,Faisal Karami
+Lebanon,Q396606,Omar Karami,father,Q317274,Abdul Hamid Karami
+Lebanon,Q396606,Omar Karami,sibling,Q1344225,Rashid Karami
+Lebanon,Q4695381,Ahmad Karami,relative,Q3067717,Faisal Karami
+Lebanon,Q56640421,Sami Fatfat,father,Q400641,Ahmad Fatfat
+Lebanon,Q57427,Michel Suleiman,child,Q112152734,Rita Suleiman
+Lebanon,Q57427,Michel Suleiman,spouse,Q674366,Wafaa Sleiman
+Lebanon,Q67846940,Taymur Jumblatt,father,Q380437,Walid Jumblatt
+Lebanon,Q743555,Marwan Hamadeh,father,Q56233178,Muhammad Ali Hamada
+Lebanon,Q743555,Marwan Hamadeh,sibling,Q12228074,Ali Hamada
+Lebanon,Q743555,Marwan Hamadeh,sibling,Q2915860,Nadia Tueni
 Lesotho,Q57537,Letsie III of Lesotho,child,Q2915431,Prince Lerotholi Seeiso
 Lesotho,Q57537,Letsie III of Lesotho,child,Q5736329,Princess Senate Seeiso
 Lesotho,Q57537,Letsie III of Lesotho,child,Q68194961,Princess 'Maseeiso Seeiso
