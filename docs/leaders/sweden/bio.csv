@@ -1,6 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100286217,Brittis Benzler,female,1958-12-12,11,,,,
-Q100309603,Elin Söderberg,female,1984,9,,,,
+Q100309603,Elin Söderberg,female,1984,9,,,,Elin Söderberg
 Q101093736,Gudrun Nordborg,female,1946-08-26,11,,,,Gudrun Nordborg
 Q102374991,Cecilia Björner,female,1959,9,,,,
 Q103821442,Solange Olame Bayibsa,female,1987-08-07,11,,,Solange Olame Bayibsa.jpg,
@@ -26,7 +26,7 @@ Q10575345,Magnus Sjödahl,male,1958-08-13,11,,,Magnus Sjödahl 01.JPG,
 Q10578332,Mathias Sundin,male,1978-03-31,11,,,Mathias Sundin.jpg,
 Q105928301,Markus Kallifatides,male,1972-04-18,11,,,,
 Q10678024,Stefan Käll,male,1962,9,,,,
-Q106783058,Lars Isacsson,male,,,,,,
+Q106783058,Lars Isacsson,male,1970,9,,,,
 Q106785041,Daniel Färm,male,1972,9,,,,
 Q106862781,Jessica Rodén,female,1976,9,,,,
 Q107364088,Mohamoud M. Enow,male,1955,9,,,,
@@ -54,6 +54,7 @@ Q109928721,Anders Frimert,male,1972-11-09,11,,,Anders Frimert.jpg,
 Q110310848,Maria Hakansson,female,1970-03-18,11,,,,
 Q110540198,Martin Marmgren,male,1975-04-08,11,,,,Martin Marmgren
 Q110635584,Sofie Eriksson,female,1992,9,,,Sofie Eriksson.jpg,
+Q110642946,Azra Muranovic,female,1987,9,,,,
 Q110724910,Helena Pilsas Ahlin,female,,,,,,
 Q110724969,Petra Menander Åhman,female,,,,,,
 Q110776549,Alexander Ojanne,male,1986-06-16,11,,,Alexander Ojanne.jpg,
@@ -75,7 +76,7 @@ Q114031213,Andrea Andersson-Tay,female,1988-09-21,11,,,,
 Q114031215,Mats Arkhem,male,1966-09-08,11,,,,
 Q114031216,Leonid Yurkovskiy,male,1995-11-22,11,,,,
 Q114031217,Beatrice Rugland Timgren,female,1989-05-12,11,,,,Beatrice Timgren
-Q114031218,Jacob Risberg,male,1972-12-02,11,,,,
+Q114031218,Jacob Risberg,male,1972-12-02,11,,,,Jacob Risberg
 Q114031219,Lars Wistedt,male,1964-03-03,11,,,,
 Q114031222,Niklas Sigvardsson,male,1991-02-01,11,,,,
 Q114031224,Thomas Ragnarsson,male,1970-01-05,11,,,,
@@ -92,7 +93,7 @@ Q114031238,Erik Hellsborn,male,1984-05-21,11,,,,
 Q114031240,Carita Boulwén,female,1967-09-06,11,,,,Carita Boulwén
 Q114031241,Amalia Pedersen,female,1993-04-19,11,,,,
 Q114031243,Dzenan Cisija,male,1976-12-11,11,,,,
-Q114031244,Björn Tidland,male,1963-03-04,11,,,,
+Q114031244,Björn Tidland,male,1963-03-04,11,,,,Björn Tidland
 Q114031247,Anders Ådahl,male,1972-03-06,11,,,,
 Q114031248,Rashid Farivar,male,1982-05-15,11,,,,Rashid Farivar
 Q114031249,Louise Charlotte Elahe Thunström,female,1973-03-11,11,,,,
@@ -1197,7 +1198,7 @@ Q5820955,Kenth Högström,male,1952-01-13,11,2005-10-04,11,,
 Q5820978,Tomas Högström,male,1954,9,,,,Tomas Högström
 Q5826571,Jonas Jacobsson Gjörtler,male,1973-08-08,11,,,Jonas Jacobsson Gjörtler (cropped).jpg,
 Q5826586,Magnus Jacobsson,male,1968,9,,,,
-Q58365776,Jan Riise,male,1957,9,,,,
+Q58365776,Jan Riise,male,1957,9,,,,Jan Riise
 Q5854875,Lars Engqvist,male,1945-08-13,11,,,Lars Engqvist 1992.jpg,Lars Engqvist
 Q5855453,Ingvar Eriksson,male,1936-06-26,11,2010-07-05,11,Ingvar Eriksson 1936 SPA (cropped).jpg,
 Q5855550,Per-Ola Eriksson,male,1946-10-18,11,,,Thumbs up for US - Lulea cooperation!.jpg,Per-Ola Eriksson
@@ -1566,7 +1567,7 @@ Q96678443,Johanna Öfverbeck,female,1984-12-29,11,,,,
 Q96678492,Stina Larsson,female,1977,9,,,,
 Q966884,Stefan Attefall,male,1960-08-21,11,,,"Stefan Attefall, 2014.jpg",Stefan Attefall
 Q969611,Dag Hartelius,male,1955-11,10,,,Dag Hartelius.jpg,Dag Hartelius
-Q97097437,Linus Lakso,male,1983-07-24,11,,,,
+Q97097437,Linus Lakso,male,1983-07-24,11,,,,Linus Lakso
 Q97772191,Olle Larsson,male,1953,9,,,,
 Q97772216,Sedat Dogru,male,1971,9,,,,
 Q97772277,Ziita Eriksson,female,1976,9,,,,
