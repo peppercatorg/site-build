@@ -1,14 +1,15 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Eritrea,President,Isaias Afwerki,Q57348,1993-05-19,,male,1946-02-02,,Eritrean President Isaias Afwerki in the Eritrean city of Massawa (cropped).JPG,Isaias Afwerki
 Eritrea,Minister of Agriculture,Arefaine Berhe,Q4788748,1997,,male,,,Arefaine Berhe.jpg,Arefaine Berhe
-Eritrea,Minister of Defence,Sebhat Ephrem,Q11999779,1995,,male,1951,,Sebhat Ephrem.png,Sebhat Ephrem
+Eritrea,Minister of Defence,Sebhat Ephrem,Q11999779,1995,2014,male,1951,,Sebhat Ephrem.png,Sebhat Ephrem
 Eritrea,Minsiter of Education,Osman Saleh Mohammed,Q58163,1993,2007-04-18,male,1948,,Osman Saleh Mohammed.jpg,Osman Saleh Mohammed
 Eritrea,Minsiter of Education,Semere Russom,Q7449239,2007-04-18,,male,1943-07-27,,,Semere Russom
 Eritrea,Minister of Energy and Mining,Tesfai Ghebreselassie,Q7705455,1993,2011,male,,,,Tesfai Ghebreselassie
-Eritrea,Minister of Energy and Mining,Ahmed Haj Ali,Q4695838,2011,,male,,,,Ahmed Haj Ali
+Eritrea,Minister of Energy and Mining,Ahmed Haj Ali,Q4695838,2011,2014,male,,,,Ahmed Haj Ali
+Eritrea,Minister of Energy and Mining,Sebhat Ephrem,Q11999779,2014,,male,1951,,Sebhat Ephrem.png,Sebhat Ephrem
 Eritrea,Minister of Finance,Ghebreselassie Yoseph,Q5556138,1997,2001,male,,,,Ghebreselassie Yoseph
 Eritrea,Minister of Finance,Berhane Abrehe,Q11960753,2001,2012,male,,,Berhane Abrehe.gif,Berhane Abrehe
-Eritrea,Minister of Finance,Berhane Habtemariam,Q4891779,2012,,male,,,,Berhane Habtemariam
+Eritrea,Minister of Finance,Berhane Habtemariam,Q4891779,2012,2012,male,,,,Berhane Habtemariam
 Eritrea,Minister of Fisheries,Tewolde Kelati,Q110535800,2011,,,,,,
 Eritrea,Minister of Foreign Affairs,Haile Woldense,Q5639243,1997,2000,male,1946,,,Haile Woldense
 Eritrea,Minister of Foreign Affairs,Ali Said Abdella,Q4725176,2000,2005,male,1949-09,2005-08-28,,Ali Said Abdella
@@ -16,21 +17,31 @@ Eritrea,Minister of Foreign Affairs,Mohamed Omer,Q6891422,2005-08,2007-04-18,mal
 Eritrea,Minister of Foreign Affairs,Osman Saleh Mohammed,Q58163,2007-04-18,,male,1948,,Osman Saleh Mohammed.jpg,Osman Saleh Mohammed
 Eritrea,Minister of Health,Saleh Meki,Q2214141,1997,2009,male,1948,2009-10-02,,Saleh Meki
 Eritrea,Minister of Health,Amna Nurhusein,Q4747349,2009,,female,,,,Amna Nurhusein
-Eritrea,Minister of Information,Ali Abdu Ahmed,Q4724540,2004,,male,,,,Ali Abdu Ahmed
+Eritrea,Minister of Information,Beraki Ghebreselassie,Q4890982,1996,2001,male,1946,,,Beraki Ghebreselassie
+Eritrea,Minister of Information,Naizghi Kiflu,Q6959860,2001,2003,male,,2012-02-06,,Naizghi Kiflu
+Eritrea,Minister of Information,Ali Abdu Ahmed,Q4724540,2007,2012,male,,,,Ali Abdu Ahmed
+Eritrea,Minister of Information,Yemane Gebremeskel,Q114362190,2015-03-11,,male,,,,
 Eritrea,Minister of Justice,Fozia Hashim,Q3080243,1993,,female,1956,,,Fozia Hashim
 Eritrea,Minister of Labour and Social Welfare,Ogbe Abraha,Q7079873,1997,2000,male,1948,,,Ogbe Abraha
 Eritrea,Minister of Labour and Social Welfare,Selma Hassan,Q3380461,2011,,female,,,,Selma Hassan
+Eritrea,Minister of Labour and Social Welfare,Luul Gebreab,Q114362200,2018,,female,,,,
 Eritrea,"Minister of Land, Water, and the Environment",Woldemichael Ghebremariam,Q8029745,2001,2011,male,,,,Woldemichael Ghebremariam
 Eritrea,"Minister of Land, Water, and the Environment",Tesfai Ghebreselassie,Q7705455,2011,,male,,,,Tesfai Ghebreselassie
 Eritrea,Minister of Local Government,Mahmoud Ahmed Sherifo,Q364905,2000,2001,male,1947-04-04,2003-06-06,,Mahmoud Ahmed Sherifo
+Eritrea,Minister of Local Government,Woldemichael Gebremariam,Q114362458,2011,2013,male,,2013,,
+Eritrea,Minister of Local Government,Woldemichael Abraha,Q8029742,2014,,male,,,,Woldemichael Abraha
+Eritrea,Minister of Marine Resources,Ahmed Haj Ali,Q4695838,2001,2011,male,,,,Ahmed Haj Ali
 Eritrea,Minister for National Development,Gergis Teklemichael,Q5550601,2011,,male,,,,Gergis Teklemichael
 Eritrea,Minister of Public Works,Abraha Asfaha,Q4668714,2011,,male,,,,Abraha Asfaha
+Eritrea,Minister of Tourism,Ahmed Haj Ali,Q4695838,1997,2001,male,,,,Ahmed Haj Ali
 Eritrea,Minister of Tourism,Amna Nurhusein,Q4747349,2001,2009,female,,,,Amna Nurhusein
 Eritrea,Minister of Tourism,Askalu Menkerios,Q4807116,2011,,female,,,,Askalu Menkerios
 Eritrea,Minister of Trade & Industry,Ali Said Abdella,Q4725176,1997,2000,male,1949-09,2005-08-28,,Ali Said Abdella
 Eritrea,Minister of Trade & Industry,Haile Woldense,Q5639243,2000,2001,male,1946,,,Haile Woldense
 Eritrea,Minister of Trade & Industry,Gergis Teklemichael,Q5550601,2001,2011,male,,,,Gergis Teklemichael
-Eritrea,Minister of Trade & Industry,Estifanos Habte,Q11967985,2011,,male,,,,
-Eritrea,Minister of Transport and Communications,Woldemichael Abraha,Q8029742,2004,,male,,,,Woldemichael Abraha
+Eritrea,Minister of Trade & Industry,Estifanos Habte,Q11967985,2011,2014,male,,2022-03-03,,
+Eritrea,Minister of Trade & Industry,Nesredin Bekit,Q114362998,2014,,male,,,,
+Eritrea,Minister of Transport and Communications,Woldemichael Abraha,Q8029742,2004,2013,male,,,,Woldemichael Abraha
+Eritrea,Minister of Transport and Communications,Tesfa Selassie Berhane,Q114362954,2014,,male,,,,
 Eritrea,Governor of the Central Bank,Kibreab Woldemariam,Q110535654,2004,,,,,,
 Eritrea,Chief of Staff of the Armed Forces,Filipos Woldeyohannes,Q5448674,2014-03-19,,male,,,,Filipos Woldeyohannes
