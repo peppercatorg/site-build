@@ -1,9 +1,9 @@
 catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
 Japan,Emperor,Naruhito,Q217096,2019-05-01,male,1960-02-23,,Emperor Naruhito and Empress Masako (cropped).jpg,Naruhito
 Japan,Prime Minister,Fumio Kishida,Q359480,2021-11-10,male,1957-07-29,,Fumio Kishida 20211005.jpg,Fumio Kishida
-Japan,"Minister of Agriculture, Forestry and Fisheries",Tetsuro Nomura,Q7706917,2022-08-10,male,1943-11-20,,,Tetsuro Nomura
+Japan,"Minister of Agriculture, Forestry and Fisheries",Tetsuro Nomura,Q7706917,2022-08-10,male,1943-11-20,,農林水産大臣 野村哲郎（のむら てつろう）.jpg,Tetsuro Nomura
 Japan,Minister of Defence,Yasukazu Hamada,Q1132836,2022-08-10,male,1955-10-21,,HAMADA Yasukazu cropped from DM HAMADA Yasukazu and US Amb Rahm Emmanuel.jpg,Yasukazu Hamada
-Japan,Minister for Digital Transformation,Taro Kono,Q1161024,2022-08-10,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Minister for Digital Transformation,Taro Kono,Q1161024,2022-08-10,male,1963-01-10,,Tarō Kōno 20200916.jpg,Taro Kono
 Japan,Minister for Economic Cooperation with Russia,Yasutoshi Nishimura,Q8050121,2022-08-10,male,1962-10-15,,Yasutoshi Nishimura 20190911.jpg,Yasutoshi Nishimura
 Japan,"Minister of Economy, Trade and Industry",Yasutoshi Nishimura,Q8050121,2022-08-10,male,1962-10-15,,Yasutoshi Nishimura 20190911.jpg,Yasutoshi Nishimura
 Japan,"Minister of Education, Culture, Sports, Science and Technology",Keiko Nagaoka,Q6383690,2022-08-10,female,1953-12-08,,Nagaoka Keiko (2018).png,Keiko Nagaoka
@@ -20,7 +20,7 @@ Japan,Minister for the World Expo 2025,Naoki Okada,Q6964565,2022-08-10,male,1962
 Japan,Minister for the World Horticultural Exhibition Yokohama 2027,Tetsuo Saito,Q926287,2022-08-10,male,1952-02-05,,Tetsuo Saitō.jpg,Tetsuo Saito
 Japan,Minister in Charge of Administrative Reform,Naoki Okada,Q6964565,2022-08-10,male,1962-06-09,,Okada Naoki (2019).png,Naoki Okada
 Japan,Minister in Charge of Building National Resilience,Koichi Tani,Q6426240,2022-08-10,male,1952-01-28,,Koichi Tani IMG 3880-2 20140117.JPG,Koichi Tani
-Japan,Minister in Charge of Civil Service Reform,Taro Kono,Q1161024,2022-08-10,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Minister in Charge of Civil Service Reform,Taro Kono,Q1161024,2022-08-10,male,1963-01-10,,Tarō Kōno 20200916.jpg,Taro Kono
 Japan,Minister in Charge of Cohesive Society,Masanobu Ogura,Q11458942,2022-08-10,male,1981-05-30,,Ogura Masanobu (2017).png,
 Japan,Minister in Charge of Comprehensive Policy Coordination for Revival from the Nuclear Accident at Fukushima,Kenya Akiba,Q49996,2022-08-10,male,1962-07-03,,Akiba kenya.jpg,Kenya Akiba
 Japan,Minister in charge of Designing the Future of Education,Keiko Nagaoka,Q6383690,2022-08-10,female,1953-12-08,,Nagaoka Keiko (2018).png,Keiko Nagaoka
@@ -44,8 +44,8 @@ Japan,Minister in Charge of the Abductions Issue,Hirokazu Matsuno,Q5770251,2021-
 Japan,Minister in Charge of the Response to the Economic Impact caused by the Nuclear Accident,Yasutoshi Nishimura,Q8050121,2022-08-10,male,1962-10-15,,Yasutoshi Nishimura 20190911.jpg,Yasutoshi Nishimura
 Japan,Minister of State for Ainu-Related Policies,Naoki Okada,Q6964565,2021-08-10,male,1962-06-09,,Okada Naoki (2019).png,Naoki Okada
 Japan,"Minister of State for ""Cool Japan"" Strategy",Naoki Okada,Q6964565,2022-08-10,male,1962-06-09,,Okada Naoki (2019).png,Naoki Okada
-Japan,Minister of State for Consumer Affairs and Food Safety,Taro Kono,Q1161024,2022-08-10,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
-Japan,Minister of State for Digital Reform,Taro Kono,Q1161024,2022-08-10,male,1963-01-10,,Taro Kono 20200916.jpg,Taro Kono
+Japan,Minister of State for Consumer Affairs and Food Safety,Taro Kono,Q1161024,2022-08-10,male,1963-01-10,,Tarō Kōno 20200916.jpg,Taro Kono
+Japan,Minister of State for Digital Reform,Taro Kono,Q1161024,2022-08-10,male,1963-01-10,,Tarō Kōno 20200916.jpg,Taro Kono
 Japan,Minister of State for Disaster Management and Ocean Policy,Koichi Tani,Q6426240,2022-08-10,male,1952-01-28,,Koichi Tani IMG 3880-2 20140117.JPG,Koichi Tani
 Japan,Minister of State for Economic and Fiscal Policy,Daishiro Yamagiwa,Q5209617,2021-10-04,male,1968-09-12,,Daishirō Yamagiwa 20211004.png,Daishiro Yamagiwa
 Japan,Minister of State for Economic Security,Sanae Takaichi,Q1705028,2022-08-10,female,1961-03-07,,Sanae Takaichi 200609.jpg,Sanae Takaichi
@@ -87,7 +87,7 @@ Japan,Governor of Ishikawa Prefecture,Hiroshi Hase,Q3136350,2022-03-27,male,1961
 Japan,Governor of Iwate Prefecture,Takuya Tasso,Q49869,2007-04-30,male,1964-06-10,,Tasso Takuya (2010).JPG,Takuya Tasso
 Japan,Governor of Kagawa Prefecture,Toyohito Ikeda,Q100454297,2022-09-05,male,1961-07-15,,Toyohito Ikeda 2018.jpg,
 Japan,Governor of Kagoshima Prefecture,Kōichi Shiota,Q97291648,2020-07-28,male,1965-10-15,,鹿児島県 知事 塩田康一.jpg,Kōichi Shiota
-Japan,Governor of Kanagawa Prefecture,Yūji Kuroiwa,Q655960,2011-04-23,male,1954-09-26,,"Governor Kanagawa Yuji Kuroiwa. In the case of an electric bus test ride, I photographed it at Fureiyu.JPG",Yūji Kuroiwa
+Japan,Governor of Kanagawa Prefecture,Yūji Kuroiwa,Q655960,2011-04-23,male,1954-09-26,,神奈川県 知事 黒岩祐治.JPG,Yūji Kuroiwa
 Japan,Governor of Kumamoto Prefecture,Ikuo Kabashima,Q1658176,2008-04-16,male,1947-01-28,,Ikuo Kabashima 20220722.jpg,Ikuo Kabashima
 Japan,Governor of Kyoto,Takatoshi Nishiwaki,Q50824931,2018-04-16,male,1955-07-15,,Takatoshi Nishiwaki IMG 0884-28 20181111.jpg,Takatoshi Nishiwaki
 Japan,Governor of Kōchi Prefecture,Seiji Hamada,Q80073979,2019-12-07,male,1963-01-23,,高知県 知事 濵田省司.jpg,Seiji Hamada

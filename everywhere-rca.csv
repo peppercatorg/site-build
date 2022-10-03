@@ -5329,6 +5329,7 @@ France,Q33186421,Florence Mangin,spouse,Q111183014,Pino Adriano
 France,Q33230494,Agnès Pannier-Runacher,partner,Q2388603,Nicolas Bays
 France,Q33230494,Agnès Pannier-Runacher,spouse,Q48929742,Marc Pannier
 France,Q33245821,Laurent Dejoie,father,Q3264791,Luc Dejoie
+France,Q3327471,Muguette Jacquaint,relative,Q15850788,Thomas Monconduit
 France,Q3328120,Muriel Marland-Militello,spouse,Q3380317,Philippe Marland
 France,Q3336265,Nassimah Dindar,spouse,Q3147494,Ibrahim Dindar
 France,Q3340186,Nicolas Chapuis,mother,Q3073920,Florence Aboulker
@@ -5822,6 +5823,7 @@ Germany,Q2518,Helmut Kohl,mother,Q15979458,Cäcilie Kohl
 Germany,Q2518,Helmut Kohl,relative,Q19969724,Wilhelm Renner
 Germany,Q2518,Helmut Kohl,spouse,Q68743,Hannelore Kohl
 Germany,Q2518,Helmut Kohl,spouse,Q98885,Maike Kohl-Richter
+Germany,Q2530,Gerhard Schröder,father,Q114302589,Fritz Schröder
 Germany,Q2530,Gerhard Schröder,mother,Q40560902,Erika Vosseler
 Germany,Q2530,Gerhard Schröder,relative,Q122315,Lothar Vosseler
 Germany,Q2530,Gerhard Schröder,sibling,Q122315,Lothar Vosseler
@@ -6052,6 +6054,8 @@ Ghana,Q16733008,Muntaka Mohammed Mubarak,relative,Q16218681,Ras Mubarak
 Ghana,Q16733008,Muntaka Mohammed Mubarak,relative,Q78170633,Mohammed Sadat Abdulai
 Ghana,Q18687677,Asiedu Nketia,father,Q47454550,Nketiah
 Ghana,Q1933412,Aaron Mike Oquaye,child,Q33069716,Mike Oquaye Jnr
+Ghana,Q20022251,Ken Ofori-Atta,father,Q64748366,Jones Ofori Atta
+Ghana,Q20022251,Ken Ofori-Atta,relative,Q718601,Nana Akufo-Addo
 Ghana,Q23541289,Zanetor Agyeman-Rawlings,father,Q51002,Jerry Rawlings
 Ghana,Q23541289,Zanetor Agyeman-Rawlings,mother,Q6962296,Nana Konadu Agyeman Rawlings
 Ghana,Q23907331,Johanna Odonkor Svanikier,spouse,Q23304634,Thomas Svanikier
@@ -6081,6 +6085,7 @@ Ghana,Q718601,Nana Akufo-Addo,child,Q105036760,Edwina Nana Dokua Akufo-Addo
 Ghana,Q718601,Nana Akufo-Addo,child,Q105036761,Yeboakua Akufo-Addo
 Ghana,Q718601,Nana Akufo-Addo,father,Q50989,Edward Akufo-Addo
 Ghana,Q718601,Nana Akufo-Addo,relative,Q1631455,Jacob Hackenburg Griffiths-Randolph
+Ghana,Q718601,Nana Akufo-Addo,relative,Q20022251,Ken Ofori-Atta
 Ghana,Q718601,Nana Akufo-Addo,spouse,Q7301648,Rebecca Akufo-Addo
 Ghana,Q7301648,Rebecca Akufo-Addo,father,Q1631455,Jacob Hackenburg Griffiths-Randolph
 Ghana,Q7301648,Rebecca Akufo-Addo,spouse,Q718601,Nana Akufo-Addo
@@ -8978,6 +8983,8 @@ Japan,Q992930,Nobuteru Ishihara,sibling,Q11585262,Nobuhiro Ishihara
 Japan,Q992930,Nobuteru Ishihara,sibling,Q3543364,Yoshizumi Ishihara
 Japan,Q992930,Nobuteru Ishihara,sibling,Q506730,Hirotaka Ishihara
 Japan,Q992930,Nobuteru Ishihara,spouse,Q11575729,Risa Tanaka
+Jersey,Q23498327,William Bailhache,sibling,Q3077317,Philip Bailhache
+Jersey,Q3077317,Philip Bailhache,sibling,Q23498327,William Bailhache
 Jordan,Q12247924,Nabil Al Mashini,sibling,Q12179563,أسامة المشيني
 Jordan,Q12247924,Nabil Al Mashini,sibling,Q12229586,Ghassan Al-Mashini
 Jordan,Q1393504,Faisal al-Fayez,father,Q100598164,Akef Al-Fayez
@@ -9451,6 +9458,7 @@ Malaysia,Q468579,Wan Azizah Wan Ismail,child,Q7070314,Nurul Izzah Anwar
 Malaysia,Q468579,Wan Azizah Wan Ismail,spouse,Q299574,Anwar Ibrahim
 Malaysia,Q5244614,Muhammad V of Kelantan,father,Q31543,Ismail Petra of Kelantan
 Malaysia,Q5244614,Muhammad V of Kelantan,spouse,Q113379920,Nur Diana Petra Abdullah
+Malaysia,Q5244614,Muhammad V of Kelantan,spouse,Q16307985,Tengku Zubaidah binti Tengku Norudin
 Malaysia,Q5244614,Muhammad V of Kelantan,spouse,Q60463595,Oksana Voevodina
 Malaysia,Q5575520,Gobind Singh Deo,father,Q6373289,Karpal Singh
 Malaysia,Q5575520,Gobind Singh Deo,sibling,Q12688350,Jagdeep Singh Deo
@@ -11718,6 +11726,7 @@ Poland,Q55924,Józef Oleksy,sibling,Q65190635,Wacław Oleksy
 Poland,Q55924,Józef Oleksy,spouse,Q11769067,Maria Oleksy
 Poland,Q55932,Leszek Balcerowicz,spouse,Q9256592,Ewa Balcerowicz
 Poland,Q55937,Roman Giertych,father,Q571803,Maciej Giertych
+Poland,Q56255628,Tomasz Łukaszuk,father,Q11754521,Leonard Łukaszuk
 Poland,Q58085,Radosław Sikorski,spouse,Q233479,Anne Applebaum
 Poland,Q597698,Antoni Macierewicz,child,Q91162680,Aleksandra Wesołowska
 Poland,Q597698,Antoni Macierewicz,father,Q9389744,Zdzisław Macierewicz
@@ -12128,7 +12137,7 @@ Russia,Q4180012,Sergey Zhigarev,father,Q4180011,Aleksandr Zhigarev
 Russia,Q4180012,Sergey Zhigarev,mother,Q4468787,Ирина Борисовна Уварова
 Russia,Q4194287,Boris Zubitsky,child,Q4194286,"Зубицкий, Андрей Борисович"
 Russia,Q4194287,Boris Zubitsky,child,Q4194291,"Зубицкий, Евгений Борисович"
-Russia,Q4203649,Eduard Isakov,child,Q113560045,"Дмитрий Исаков, Александр Исаков, Антонина Исакова"
+Russia,Q4203649,Eduard Isakov,child,Q113560045,Diana Isakovová
 Russia,Q4213035,Sergey Kapkov,partner,Q287099,Kseniya Sobchak
 Russia,Q4213035,Sergey Kapkov,spouse,Q4149679,Yekaterina Grinchevskaya
 Russia,Q4225876,Marina Kovtun,father,Q4226704,Vasily Kozlov
@@ -13330,7 +13339,7 @@ Spain,Q15743807,Irene Rigau Oliver,spouse,Q11946749,Salvador Carrera i Comes
 Spain,Q16163359,Elisenda Albertí i Casas,father,Q66744397,Santiago Albertí i Gubern
 Spain,Q16169026,Pere Aragonès i Garcia,relative,Q54817712,Josep Aragonès i Montsant
 Spain,Q16169026,Pere Aragonès i Garcia,spouse,Q64217685,Janina Juli Pujol
-Spain,Q16179626,Laura Borràs i Castanyer,child,Q54444011,Marta Botet i Borràs
+Spain,Q16179626,Laura Borràs i Castanyer,child,Q54444011,Marta Botet Borràs
 Spain,Q16179626,Laura Borràs i Castanyer,father,Q105944503,Antoni Borràs Gaju
 Spain,Q16179626,Laura Borràs i Castanyer,spouse,Q105944464,Xavier Botet del Castillo
 Spain,Q16183688,Ramon Camp i Batalla,spouse,Q29347662,Francesca Guardiola i Sala
@@ -14176,6 +14185,7 @@ Switzerland,Q115520,Moritz Leuenberger,sibling,Q95341261,Dieter Leuenberger
 Switzerland,Q115520,Moritz Leuenberger,spouse,Q118441,Gret Loewensberg
 Switzerland,Q115841,Samuel Schmid,sibling,Q595834,Peter Schmid
 Switzerland,Q115891,Christophe Darbellay,relative,Q1340658,Vital Darbellay
+Switzerland,Q115926,Peter Bieri,child,Q114345981,Anna Bieri
 Switzerland,Q116392,Christian Lüscher,relative,Q120639,Peter Tschopp
 Switzerland,Q116424,Jacqueline Fehr,spouse,Q1911396,Maurice Pedergnana
 Switzerland,Q116886,Ulrich Giezendanner,child,Q61196213,Benjamin Giezendanner
@@ -14558,9 +14568,9 @@ Timor-Leste,Q44443794,Cidália Lopes Nobre Mouzinho Guterres,spouse,Q897790,Fran
 Timor-Leste,Q483054,Ana Pessoa Pinto,spouse,Q11665,José Ramos-Horta
 Timor-Leste,Q727119,Estanislau da Silva,spouse,Q64606137,Filomena de Almeida
 Timor-Leste,Q897790,Francisco Guterres,spouse,Q44443794,Cidália Lopes Nobre Mouzinho Guterres
-Togo,Q155385,Étienne Gnassingbé Eyadéma,child,Q4414,Faure Essozimna Gnassingbé Eyadéma
+Togo,Q155385,Étienne Gnassingbé Eyadéma,child,Q4414,Faure Gnassingbé
 Togo,Q155385,Étienne Gnassingbé Eyadéma,child,Q6435718,Kpatcha Gnassingbé
-Togo,Q4414,Faure Essozimna Gnassingbé Eyadéma,father,Q155385,Étienne Gnassingbé Eyadéma
+Togo,Q4414,Faure Gnassingbé,father,Q155385,Étienne Gnassingbé Eyadéma
 Tonga,Q208497,Tupou VI of Tonga,child,Q13382727,Princess Lātūfuipeka Tukuʻaho
 Tonga,Q208497,Tupou VI of Tonga,child,Q14947549,Prince Ata
 Tonga,Q208497,Tupou VI of Tonga,child,Q1583552,Tupoutoʻa ʻUlukalala
@@ -14713,6 +14723,8 @@ Turkey,Q6052158,Berat Albayrak,spouse,Q61073623,Esra Erdoğan
 Turkey,Q6061291,Ayşe Gülsün Bilgehan,father,Q3277055,Metin Toker
 Turkey,Q6061291,Ayşe Gülsün Bilgehan,mother,Q6021707,Özden Toker
 Turkey,Q6067727,Şaban Dişli,sibling,Q113084387,Mehmet Dişli
+Turkey,Q6075790,Necmettin Cevheri,child,Q6038843,İbrahim Cevher Cevheri
+Turkey,Q6075790,Necmettin Cevheri,father,Q6028210,Hacı Ömer Cevheri
 Turkey,Q6077556,Fikri Sağlar,relative,Q17468336,Süleyman Fikri Mutlu
 Turkey,Q6077556,Fikri Sağlar,relative,Q21526105,Gerçek Sağlar
 Turkey,Q6098459,Süleyman Soylu,father,Q106977159,Hasan Soylu

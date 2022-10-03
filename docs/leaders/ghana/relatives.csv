@@ -8,6 +8,8 @@ Ghana,Q16733008,Muntaka Mohammed Mubarak,relative,Q16218681,Ras Mubarak
 Ghana,Q16733008,Muntaka Mohammed Mubarak,relative,Q78170633,Mohammed Sadat Abdulai
 Ghana,Q18687677,Asiedu Nketia,father,Q47454550,Nketiah
 Ghana,Q1933412,Aaron Mike Oquaye,child,Q33069716,Mike Oquaye Jnr
+Ghana,Q20022251,Ken Ofori-Atta,father,Q64748366,Jones Ofori Atta
+Ghana,Q20022251,Ken Ofori-Atta,relative,Q718601,Nana Akufo-Addo
 Ghana,Q23541289,Zanetor Agyeman-Rawlings,father,Q51002,Jerry Rawlings
 Ghana,Q23541289,Zanetor Agyeman-Rawlings,mother,Q6962296,Nana Konadu Agyeman Rawlings
 Ghana,Q23907331,Johanna Odonkor Svanikier,spouse,Q23304634,Thomas Svanikier
@@ -37,6 +39,7 @@ Ghana,Q718601,Nana Akufo-Addo,child,Q105036760,Edwina Nana Dokua Akufo-Addo
 Ghana,Q718601,Nana Akufo-Addo,child,Q105036761,Yeboakua Akufo-Addo
 Ghana,Q718601,Nana Akufo-Addo,father,Q50989,Edward Akufo-Addo
 Ghana,Q718601,Nana Akufo-Addo,relative,Q1631455,Jacob Hackenburg Griffiths-Randolph
+Ghana,Q718601,Nana Akufo-Addo,relative,Q20022251,Ken Ofori-Atta
 Ghana,Q718601,Nana Akufo-Addo,spouse,Q7301648,Rebecca Akufo-Addo
 Ghana,Q7301648,Rebecca Akufo-Addo,father,Q1631455,Jacob Hackenburg Griffiths-Randolph
 Ghana,Q7301648,Rebecca Akufo-Addo,spouse,Q718601,Nana Akufo-Addo

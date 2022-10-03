@@ -39,7 +39,7 @@ Q108059200,Jakob Olofsgård,male,1975-07-25,11,,,,
 Q108281858,Charlotte von Essen,female,1963-05-08,11,,,,
 Q108420017,Malin Björk,female,1969,9,,,,
 Q108525852,Sofia Amloh,female,1986-05-23,11,,,Sofia Amloh.jpg,
-Q108525972,Anna-Belle Strömberg,female,1965,9,,,Anna-Belle Strömberg.jpg,
+Q108525972,Anna-Belle Strömberg,female,1965-08-17,11,,,Anna-Belle Strömberg.jpg,
 Q108598507,Margareta Fransson,female,1971,9,,,,
 Q108713160,Stefan Plath,male,1970,9,,,,Stefan Plath
 Q108765984,Aphram Melki,male,1959-08-09,11,,,,Aphram Melki
@@ -54,7 +54,7 @@ Q109928721,Anders Frimert,male,1972-11-09,11,,,Anders Frimert.jpg,
 Q110310848,Maria Hakansson,female,1970-03-18,11,,,,
 Q110540198,Martin Marmgren,male,1975-04-08,11,,,,Martin Marmgren
 Q110635584,Sofie Eriksson,female,1992,9,,,Sofie Eriksson.jpg,
-Q110642946,Azra Muranovic,female,1987,9,,,,
+Q110642946,Azra Muranovic,female,1987-06-23,11,,,,
 Q110724910,Helena Pilsas Ahlin,female,,,,,,
 Q110724969,Petra Menander Åhman,female,,,,,,
 Q110776549,Alexander Ojanne,male,1986-06-16,11,,,Alexander Ojanne.jpg,
@@ -62,6 +62,8 @@ Q110793990,Lili André,female,1970,9,,,,
 Q110793999,Mattias Eriksson Falk,male,1990-08-16,11,,,,
 Q110904489,Camilla Fagerberg Littorin,female,,,,,,
 Q110904537,Lisbeth Schultze,female,,,,,,
+Q111011724,Christine Lager,female,1962,9,,,,
+Q111082902,Jonas Malmberg,male,1962,9,,,,
 Q111342604,Jasmin Farid,female,1992-02-10,11,,,,Jasmin Farid
 Q111655286,Mubarik Mohamed Abdirahman,male,1982-11-03,11,,,Mubarik Mohamed Abdirahman.jpg,
 Q111702617,Håkan Åkesson,male,1961,9,,,,
@@ -77,7 +79,7 @@ Q114031215,Mats Arkhem,male,1966-09-08,11,,,,
 Q114031216,Leonid Yurkovskiy,male,1995-11-22,11,,,,
 Q114031217,Beatrice Rugland Timgren,female,1989-05-12,11,,,,Beatrice Timgren
 Q114031218,Jacob Risberg,male,1972-12-02,11,,,,Jacob Risberg
-Q114031219,Lars Wistedt,male,1964-03-03,11,,,,
+Q114031219,Lars Wistedt,male,1964-03-03,11,,,,Lars Wistedt
 Q114031222,Niklas Sigvardsson,male,1991-02-01,11,,,,
 Q114031224,Thomas Ragnarsson,male,1970-01-05,11,,,,
 Q114031225,Lars Engsund,male,1968-07-02,11,,,,
@@ -117,12 +119,12 @@ Q114133361,Karin Sundin,female,1972,9,,,,
 Q114141183,Mathias Bengtsson,male,1998,9,,,,
 Q114198430,Oskar Svärd,male,1995-12-25,11,,,,
 Q114239740,Christopher Lindvall,male,1996,9,,,,
-Q114239865,Marcus Wennerström,male,1982,9,,,,
-Q114239963,Lena Bäckelin,female,1964,9,,,,
+Q114239865,Marcus Wennerström,male,1982-10-02,11,,,,
+Q114239963,Lena Bäckelin,female,1964-03-26,11,,,,
 Q114239981,Louise Mörk,female,1993,9,,,,
-Q114240008,Rasmus Giertz,male,1994,9,,,,
+Q114240008,Rasmus Giertz,male,1994-06-03,11,,,,
 Q114240056,Susanne Nordström,female,1963,9,,,,
-Q114244604,Alexander Wasberg,male,1994,9,,,,
+Q114244604,Alexander Wasberg,male,1994-07-19,11,,,,
 Q12006677,Tomas Nilsson,male,1965,9,,,,
 Q1232072,Jan O. Karlsson,male,1939-06-01,11,2016-09-19,11,,Jan O. Karlsson
 Q129454,Peter Egardt,male,1949-09-19,11,,,Peter Egardt.jpg,Peter Egardt
@@ -193,7 +195,7 @@ Q18238235,Nooshi Dadgostar,female,1985-06-20,11,,,Nooshi Dadgostar - 42794852001
 Q18238286,Sofia Damm,female,1977-03-23,11,,,,
 Q18238432,Dennis Dioukarev,male,1993-03-27,11,,,Dennis Dioukarev 2019.jpg,Dennis Dioukarev
 Q18238607,Aron Emilsson,male,1990-02-20,11,,,Aron Emilsson (SD) in 2018.jpg,Aron Emilsson
-Q18238692,Janine Alm Ericson,female,1973-10-31,11,,,JanineAlmEricson.jpg,
+Q18238692,Janine Alm Ericson,female,1973-10-31,11,,,JanineAlmEricson.jpg,Janine Alm Ericson
 Q18238731,Mikael Eskilandersson,male,1977-04-04,11,,,Mikael Eskilandersson.jpg,Mikael Eskilandersson
 Q18238811,Olle Felten,male,1953-10-28,11,,,,Olle Felten
 Q18238847,Runar Filper,male,1964-05-19,11,,,,Runar Filper
@@ -371,10 +373,10 @@ Q30000308,Rene Francis,male,1951-05-17,11,,,,
 Q30000444,Petra Ekerum,female,1980,9,,,,
 Q30000498,Patrik Engström,male,1968-11-08,11,,,,
 Q30000515,Monica Tedestam Berglöw,female,1962,9,,,,
-Q30035676,Linus Sköld,male,1983,9,,,Linus Sköld.jpg,
+Q30035676,Linus Sköld,male,1983-07-07,11,,,Linus Sköld.jpg,
 Q30035679,Lars Püss,male,1966-02-15,11,,,Lars Püss i valrörelsen 2018.jpg,
 Q30035682,Jamal El-Haj,male,1960-06-25,11,,,Jamal El-Haj 2021.jpg,
-Q30035685,Ida Ekeroth,female,1991,9,,,,
+Q30035685,Ida Ekeroth,female,1991-04-19,11,,,,
 Q30035688,Heidi Karlsson,female,1969-11-19,11,,,,
 Q30035697,Alexandra Anstrell,female,1974-12-18,11,,,,Alexandra Anstrell
 Q30035700,Anders Österberg,male,1981-02-20,11,,,Anders Österberg (S) in 2022.jpg,
@@ -1178,7 +1180,7 @@ Q5795894,Johan Hedin,male,1969-05-06,11,,,Johan Hedin (48470746076).jpg,
 Q5796014,Carl Erik Hedlund,male,1936,9,,,,
 Q5796375,Lennart Hedquist,male,1943,9,,,,Lennart Hedquist
 Q5798912,Owe Hellberg,male,1953,9,,,,Owe Hellberg
-Q5798982,Daniel Helldén,male,1965-06-27,11,,,Daniel helldén mp.jpg,
+Q5798982,Daniel Helldén,male,1965-06-27,11,,,Daniel helldén mp.jpg,Daniel Helldén
 Q5799323,Jörgen Hellman,male,1963,9,,,Jörgen Hellman riksdagsledamot (cropped).jpg,
 Q5799722,Mats Hellström,male,1942-01-12,11,,,Mats Hellström in August 2013.jpg,Mats Hellström
 Q5801464,Stig Henriksson,male,1955-05-30,11,,,Stig Henriksson.jpg,
@@ -1551,7 +1553,7 @@ Q96309958,Lars Jilmstad,male,1946-01-25,11,,,,Lars Jilmstad
 Q96321668,Helena Sångeland,female,1961,9,,,,Helena Sångeland
 Q96323475,Jari Puustinen,male,1969-01-20,11,,,,
 Q96323621,David Perez,male,1990-06-26,11,,,,David Perez (politician)
-Q96323930,Elsemarie Bjellqvist,female,1944,9,,,Elsemarie Bjellqvist 2022.jpg,Elsemarie Bjellqvist
+Q96323930,Elsemarie Bjellqvist,female,1944-01-04,11,,,Elsemarie Bjellqvist 2022.jpg,Elsemarie Bjellqvist
 Q96323955,Montaser Eneim,male,1967,9,,,,
 Q96323973,Conny Fogelström,male,1960,9,,,,
 Q96323985,Elin Gustafsson,female,1989,9,,,Elin Gustafsson.png,Elin Gustafsson
@@ -1561,7 +1563,7 @@ Q96324261,Lolo Lindström,female,1947,9,,,,
 Q96324321,Inga-Lill Sjöblom,female,1959,9,,,,
 Q96324330,Ulrika Thulin,female,1974,9,,,,
 Q964124,Lennart Sacrédeus,male,1957-06-17,11,,,,
-Q96678352,Monika Lövgren,female,1961-11-25,11,,,Monika Lövgren.jpg,Monika Lövgren
+Q96678352,Monika Lövgren,female,1961-11-25,11,,,,Monika Lövgren
 Q96678365,Harald Hjalmarsson,male,1963,9,,,,
 Q96678443,Johanna Öfverbeck,female,1984-12-29,11,,,,
 Q96678492,Stina Larsson,female,1977,9,,,,
