@@ -40,7 +40,10 @@ Brazil,Q10336446,Neudo Ribeiro Campos,spouse,Q18486154,Suely Campos
 Brazil,Q10336590,Newton Cardoso,child,Q23883203,Newton Cardoso Jr
 Brazil,Q10340805,Omar Aziz,spouse,Q60437178,Nejmi Aziz
 Brazil,Q10341050,Onyx Lorenzoni,child,Q85877037,Rodrigo Lorenzoni
+Brazil,Q10342495,Otto Alencar,child,Q60784795,Otto Alencar Filho
+Brazil,Q10342495,Otto Alencar,sibling,Q59205323,Eduardo Alencar
 Brazil,Q10346628,Paulo Henrique Lustosa,father,Q10346671,Paulo Lustosa
+Brazil,Q10346676,Paulo Magalhães,father,Q10396153,Ângelo Magalhães
 Brazil,Q10358939,Reinaldo Azambuja,spouse,Q108096200,Fátima Azambuja
 Brazil,Q10359235,Renan Filho,father,Q3623584,Renan Calheiros
 Brazil,Q10359235,Renan Filho,spouse,Q111467782,Renata Pires
@@ -193,6 +196,8 @@ Brazil,Q57911283,Michelle Bolsonaro,spouse,Q10304982,Jair Bolsonaro
 Brazil,Q58053056,Ibaneis Rocha,spouse,Q112035445,Mayara Noronha Rocha
 Brazil,Q58997373,Chiquinho Brazão,sibling,Q59221373,Pedro Brazao
 Brazil,Q59203425,Sidney Leite,child,Q105398481,Júnior Leite
+Brazil,Q59205323,Eduardo Alencar,relative,Q60784795,Otto Alencar Filho
+Brazil,Q59205323,Eduardo Alencar,sibling,Q10342495,Otto Alencar
 Brazil,Q59205397,Diego Coronel,father,Q56346750,Angelo Coronel
 Brazil,Q59221373,Pedro Brazao,sibling,Q10268034,Domingos Brazão
 Brazil,Q59221373,Pedro Brazao,sibling,Q58997373,Chiquinho Brazão
@@ -210,6 +215,8 @@ Brazil,Q59247072,Franciane Bayer,sibling,Q20045969,Liziane Bayer da Costa
 Brazil,Q59247652,Jessé Lopes,child,Q98927515,Davi Lopes
 Brazil,Q59247652,Jessé Lopes,spouse,Q98927510,Moyra Lopes
 Brazil,Q59308525,Bento Albuquerque,father,Q100707089,Bento Costa Lima Leite de Albuquerque
+Brazil,Q60784795,Otto Alencar Filho,father,Q10342495,Otto Alencar
+Brazil,Q60784795,Otto Alencar Filho,relative,Q59205323,Eduardo Alencar
 Brazil,Q60784870,Júnior Marreca Filho,father,Q25440287,Júnior Marreca
 Brazil,Q60961728,Flávia Arruda,spouse,Q10310418,José Roberto Arruda
 Brazil,Q60999682,Daniel Soares,father,Q2468342,Romildo Ribeiro Soares

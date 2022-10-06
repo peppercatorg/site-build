@@ -89,7 +89,7 @@ Q112079659,Rima Abdul Malak,female,1978,9,,,Rima Abdul-Malak portrait.jpg,Rima A
 Q112110960,François Piquemal,male,1984-12-28,11,,,,François Piquemal
 Q112198608,Michèle Sauteraud,female,,,,,,
 Q112249169,Marie Pochon,female,1990-05-04,11,,,,Marie Pochon
-Q112289951,François Braun,male,1962,9,,,François Braun.jpg,François Braun
+Q112289951,François Braun,male,1962,9,,,,François Braun
 Q112305733,François Paradol,male,,,,,,
 Q112308110,Laure Lavalette,female,1976-04-16,11,,,,Laure Lavalette
 Q112448632,Sarah Legrain,female,1985-11-17,11,,,,Sarah Legrain
@@ -229,7 +229,7 @@ Q112653333,Béatrice Bellamy,female,1966-10-20,11,,,,Béatrice Bellamy
 Q112653377,Manon Meunier,female,1996-03-30,11,,,,Manon Meunier
 Q112653386,Daniel Grenon,male,1948-07-31,11,,,,Daniel Grenon
 Q112653583,Nathalie Da Conceicao Carvalho,female,1966-03-31,11,,,,Nathalie Da Conceicao Carvalho
-Q112653602,Alexis Izard,male,1992-06-15,11,,,,Alexis Izard
+Q112653602,Alexis Izard,male,1992-06-15,11,,,Alexis Izard.jpg,Alexis Izard
 Q112653860,Thomas Portes,male,1985-11-18,11,,,,
 Q112653866,Soumya Bourouaha,female,1964-03-16,11,,,,Soumya Bourouaha
 Q112653927,Fatiha Keloua Hachi,female,1971-06-05,11,,,,Fatiha Keloua-Hachi
@@ -514,7 +514,7 @@ Q20155655,Guy Bailliart,male,1946-09-24,11,,,,
 Q20155717,David Comet,male,1973-07-25,11,,,,
 Q2020016,Jean-Paul Alduy,male,1942-05-07,11,,,Jean-paul Alduy.jpg,Jean-Paul Alduy
 Q2020823,Olivier Dussopt,male,1978-08-16,11,,,Olivier Dussopt.jpg,Olivier Dussopt
-Q203793,Xavier Bertrand,male,1965-03-21,11,,,Xavier.Bertrand.jpg,Xavier Bertrand
+Q203793,Xavier Bertrand,male,1965-03-21,11,,,2015-01-28 20-03-01 meeting-ump-seloncourt (cropped).jpg,Xavier Bertrand
 Q2040280,Pascal Terrasse,male,1964-10-26,11,,,Pascal Terrasse 2012.jpg,Pascal Terrasse
 Q204187,Vincent Burroni,male,1947-10-01,11,,,,
 Q20556460,Jean-Marie Bernard,male,1957-05-09,11,,,,
@@ -2040,7 +2040,7 @@ Q3291527,Marie-Anne Montchamp,female,1957-11-01,11,,,Marie-Anne Montchamp.jpg,Ma
 Q3291640,Marie-Christine Dalloz,female,1958-01-10,11,,,,Marie-Christine Dalloz
 Q3291717,Marie-Claude Marchand,female,1954-07-22,11,,,,
 Q3291799,Marie-France de Rose,female,1943-04-25,11,,,Marie-France-de-Rose.jpg,
-Q3291808,Marie-Françoise Bechtel,female,1946-03-19,11,,,Marie-Françoise Bechtel.jpg,
+Q3291808,Marie-Françoise Bechtel,female,1946-03-19,11,,,Marie-Françoise Bechtel.jpg,Marie-Françoise Bechtel
 Q3291821,Marie-Françoise Clergeau,female,1948-05-02,11,,,Marie-Françoise Clergeau.jpg,Marie-Françoise Clergeau
 Q3291832,Marie-Françoise Pérol-Dumont,female,1952-05-26,11,,,Marie-Françoise Pérol-Dumont.PNG,Marie-Françoise Pérol-Dumont
 Q3291872,Marie-Hélène Fabre,female,1951-07-27,11,,,,
@@ -3410,7 +3410,7 @@ Q63106664,François Decoster,male,1973-04-17,11,,,,
 Q63106665,Adrien Di Pardo,male,1988-03-10,11,,,,
 Q63106666,Yves Dupille,male,1956-04-16,11,,,,
 Q63106667,Jean-Paul Fontaine,male,1970-10-07,11,,,"Lallaing - Cérémonie autour du monument au morts remis en état après avoir été dégradé, le 17 septembre 2016 (28).JPG",
-Q63106668,Michel Guiniot,male,1954-11-29,11,,,Michel Guiniot.jpg,Michel Guiniot
+Q63106668,Michel Guiniot,male,1954-11-29,11,,,,Michel Guiniot
 Q63106669,Nelly Janier-Dubry,female,1979-01-17,11,,,,
 Q63106670,Nathalie Lebas,female,1980-08-03,11,,,,
 Q63106671,Brigitte Lhomme,female,1960-07-26,11,,,,
