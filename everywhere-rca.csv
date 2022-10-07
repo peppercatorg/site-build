@@ -12340,8 +12340,12 @@ San Marino,Q289413,Maria Luisa Berti,sibling,Q16549371,Gian Nicola Berti
 San Marino,Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti
 San Marino,Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti
 Saudi Arabia,Q107677656,Abdullah bin Saud Alanazi,sibling,Q22688693,Saoud Anzi
+Saudi Arabia,Q12223041,Abdulaziz bin Abdullah,father,Q57298,Abdullah of Saudi Arabia
+Saudi Arabia,Q12223041,Abdulaziz bin Abdullah,mother,Q102205480,Aida Fustuq
+Saudi Arabia,Q12223041,Abdulaziz bin Abdullah,sibling,Q1441884,Adila bint Abdulla Al Saud
 Saudi Arabia,Q12231210,Fahd bin Turki Al Saud,father,Q2460829,Turki II bin Abdul-Aziz Al Saud
 Saudi Arabia,Q12231669,Faisal bin Mishaal bin Saud bin Abdulaziz Al Saud,father,Q12243174,Mishaal bin Saud
+Saudi Arabia,Q12245615,Mansour bin Mutaib,father,Q124710,Mutaib bin Abdulaziz Al Saud
 Saudi Arabia,Q16933359,Moudi bint Khalid Al Saud,child,Q62094755,Al-Bandari Bint Abdul Rahman Al-Faisal
 Saudi Arabia,Q16933359,Moudi bint Khalid Al Saud,father,Q208301,Khalid of Saudi Arabia
 Saudi Arabia,Q16933359,Moudi bint Khalid Al Saud,mother,Q7531591,Sita bint Fahd Al Damir
@@ -12396,11 +12400,14 @@ Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q7445959,Seeta bint Abdu
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q981846,Muqrin bin Abdul-Aziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,spouse,Q4704128,Al Jawhara bint Ibrahim Al Ibrahim
+Saudi Arabia,Q20399144,Turki bin Mohamed bin Fahd Al Saud,father,Q1951883,Mohammad Bin Fahd
+Saudi Arabia,Q20399144,Turki bin Mohamed bin Fahd Al Saud,spouse,Q98150162,Aljohara bint Mohammad bin Saad bin Mohammad Al-Saud
 Saudi Arabia,Q20415155,Abdallah Yahya Al-Mouallimi,sibling,Q97120155,Amal al-Moallimi
 Saudi Arabia,Q28923620,Abdullah Salah Al Uthaymeen,sibling,Q1398150,Muhammad ibn al Uthaymeen
 Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,father,Q367825,Salman of Saudi Arabia
 Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,mother,Q30512408,Fahdah bint Falah bin Sultan
 Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,sibling,Q6892571,Mohammad bin Salman
+Saudi Arabia,Q30402542,Abdulaziz bin Saud Al Saud,father,Q7427055,Saud bin Nayef Al Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,child,Q12224167,عبد العزيز بن سطام بن عبد العزيز آل سعود
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,father,Q151509,Ibn Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q12203730,Thamir bin Abdulaziz Al Saud
@@ -12644,7 +12651,7 @@ Saudi Arabia,Q4665824,Abdulaziz bin Turki Al Saud,father,Q4165651,Turki bin Fais
 Saudi Arabia,Q4682218,Turki bin Abdullah Al Saud,father,Q57298,Abdullah of Saudi Arabia
 Saudi Arabia,Q4687985,Khalid bin Bandar Al Saud,father,Q4854440,Bandar bin Abdulaziz Al Saud
 Saudi Arabia,Q471044,Ghazi Abdul Rahman Al Gosaibi,father,Q105045823,عبد الرحمن القصيبي
-Saudi Arabia,Q5431087,Faisal bin Abdullah bin Mohammed Al Saud,mother,Q7445959,Seeta bint Abdulaziz Al Saud
+Saudi Arabia,Q5431087,Faisal bin Abdullah bin Mohammed Al Saud,mother,Q106829332,Nouf bint Abdulaziz Al Saud
 Saudi Arabia,Q5431087,Faisal bin Abdullah bin Mohammed Al Saud,spouse,Q1441884,Adila bint Abdulla Al Saud
 Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,father,Q367825,Salman of Saudi Arabia
 Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,mother,Q76367273,Sultana bint Turki Al Sudairi
@@ -12734,6 +12741,7 @@ Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,mother,Q2795275,Haifa 
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,sibling,Q104520507,Faisal bin Bandar bin Sultan Al Saud
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,sibling,Q7306919,Reema Bint Bandar Al Saud
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,spouse,Q75331065,Lucy Caroline Cuthbert
+Saudi Arabia,Q63167635,Majid Al-Hogail,father,Q58117337,عبد الله الحقيل
 Saudi Arabia,Q6871574,Mansour bin Nasser bin Abdul Aziz,father,Q6967643,Nasser bin Abdulaziz
 Saudi Arabia,Q6892571,Mohammad bin Salman,father,Q367825,Salman of Saudi Arabia
 Saudi Arabia,Q6892571,Mohammad bin Salman,mother,Q30512408,Fahdah bint Falah bin Sultan
