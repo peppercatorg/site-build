@@ -1,6 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q101041532,Alkache Alhada,male,,,,,,
-Q104524502,Moussa Hassane Barazé,male,1968-05-07,11,,,,
+Q104524502,Hassane Barazé Moussa,male,1968-05-07,11,,,,
 Q106424171,Ahmat Jidoud,male,1980-01-01,11,,,,
 Q109043897,Mahamane Sani Mahamadou,male,,,,,Mahamane Sani Mahamadou 2021.jpg,
 Q109044148,Sekou Doro Adamou,male,,,,,,
@@ -26,10 +26,18 @@ Q110537807,Garama Saratou Rabiou Inoussa,female,1977-09-03,11,,,,
 Q110537817,Ibrahim Boukary,,,,,,,
 Q110537896,Ikta Abdoulaye Mohamed,,,,,,,
 Q110537922,Hadiza Douara Kafougou,,,,,,,
+Q113787772,Ibrahim Natatou,male,1962,9,,,,
+Q114488458,Dardaou Zaneidou,,,,,,,
+Q114488544,Youssouf Mohamed Almouctar,,,,,,,
+Q114491381,Mahamadou Laouali Dan Dano,male,,,,,,
+Q114491655,Tchousso Ramatou Oumarou Tchiani,male,,,,,,
 Q15819843,Ibrahim Yacouba,male,1971-08-08,11,,,Ibrahim Yacouba 2014.jpg,Ibrahim Yacouba
+Q17102018,Abdallah Wafy,male,1955,9,2020-12-16,11,Abdallah Wafy (Niger) Deputy Special Representative of the Secretary-General for the Rule of Law (8969175835).jpg,Abdallah Wafy
 Q1735274,Kassoum Mamane Moctar,male,1978-10-16,11,,,,
+Q18169961,Mamadou Kiari Liman-Tinguiri,male,1953-12-20,11,,,,
 Q1902382,Marou Amadou,male,1972-01-01,11,,,Marou Amadou 2019.jpg,Marou Amadou
 Q19259177,Amadou Salifou,male,,7,,,Amadou Salifou 2015-07-30.jpg,Amadou Salifou
+Q19506780,Joseph Diatta,male,1948-05-15,11,2020-04-19,11,,
 Q2097624,Ali Badjo Gamatié,male,1957,9,,,"Ali Badjo Gamatie, IMF 62ph020928hl.jpg",Ali Badjo Gamatié
 Q220227,Mamadou Tandja,male,1938-07-20,11,2020-11-24,11,Tandja in Nigeria June 2007.jpg,Mamadou Tandja
 Q23062948,Laouan Magagi,male,1960,9,,,,
@@ -46,6 +54,7 @@ Q3050866,Elhadji Abdou-Saleye,male,1928-04-15,11,2006-08-03,11,Abdou saleye.jpg,
 Q31271335,Fatima Djibo Sidikou,female,,7,,,Fatima Sidikou 2018.jpg,Fatima Djibo Sidikou
 Q3300007,Maty E. Moussa,male,1959,9,,,,
 Q3318398,Mohamed Bazoum,male,1960-01-01,11,,,Mohamed Bazoum (cropped).jpg,Mohamed Bazoum
+Q3429514,Rhissa Ag Boula,male,1957,9,,,,Rhissa Ag Boula
 Q356835,Salou Djibo,male,1965-04-15,11,,,Général de corps d'armée Salou Djibo.jpg,Salou Djibo
 Q386527,Mahamadou Danda,male,1951-07-25,11,,,,Mahamadou Danda
 Q4075272,Amina Bazindre,female,1955-01-28,11,,,Dmitry Medvedev with Amina Djibo Bazindre.jpg,Amina Bazindre
@@ -55,11 +64,12 @@ Q56635982,Hassane Kounou,male,1949-04-07,11,2018-09-08,11,,
 Q5680106,Hassoumi Massoudou,male,1957-10-22,11,,,Hassoumi Massoudou.jpg,Hassoumi Massaoudou
 Q57482,Mahamadou Issoufou,male,1952-01-01,11,,,Mahamadou Issoufou-IMG 3645.jpg,Mahamadou Issoufou
 Q57877,Brigi Rafini,male,1953-04-07,11,,,Brigi Rafini - June 2012 (cropped).jpg,Brigi Rafini
+Q59395832,Djibo Salamatou Gourouza Magagi,female,,,,,Salamatou Gourouza Djibo (3).jpg,Djibo Salamatou Gourouza Magagi
 Q61610642,Mamadou Diop,male,1949,9,,,,
 Q6353461,Kalla Ankourao,male,1946-01-01,11,,,Kalla Ankourao 2019.jpg,Kalla Ankourao
 Q6967677,Nassirou Sabo,male,,,,,,Nassirou Sabo
 Q703987,Seyni Oumarou,male,1950-08-09,11,,,Seyni Oumarou (cropped).png,Seyni Oumarou
-Q7110324,Ouhoumoudou Mahamadou,male,1954,9,,,Ouhoumoudou Mahamadou (15-04-2021) (cropped).jpg,Ouhoumoudou Mahamadou
+Q7110324,Ouhoumoudou Mahamadou,male,1954,9,,,Ouhmoudou Mahamadou.png,Ouhoumoudou Mahamadou
 Q761823,Ibrahim Assane Mayaki,male,1951-09-24,11,,,Ibrahim-assane-mayaki-nepad-press-brefing-2011-10-07.jpg,Ibrahim Hassane Mayaki
 Q794630,Aïchatou Boulama Kané,female,1955-04-24,11,,,,Aïchatou Boulama Kané
 Q89716691,Aïchatou Maïnassara,female,1971-08-16,11,2020-04-05,11,,Aïchatou Maïnassara
