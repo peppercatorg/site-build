@@ -2,7 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Philippines,President,Joseph Estrada,Q212733,1998-06-30,2001-01-20,male,1937-04-19,,President Joseph Erap Ejercito Estrada poses with Senate President Andres Zaldiver of Chile.jpg,Joseph Estrada
 Philippines,President,Gloria Macapagal Arroyo,Q123665,2001-01-20,2010-06-30,female,1947-04-05,,Gloria Macapagal Arroyo WEF 2009-crop.jpg,Gloria Macapagal Arroyo
 Philippines,President,Benigno Aquino III,Q1464,2010-06-30,2016-06-30,male,1960-02-08,2021-06-24,President Benigno S. Aquino III.jpg,Benigno Aquino III
-Philippines,President,Rodrigo Duterte,Q457786,2016-06-30,2022-06-30,male,1945-03-28,,President Rodrigo Duterte.jpg,Rodrigo Duterte
+Philippines,President,Rodrigo Duterte,Q457786,2016-06-30,2022-06-30,male,1945-03-28,,Rodrigo Duterte and Laotian President Bounnhang Vorachith (cropped).jpg,Rodrigo Duterte
 Philippines,President,Bongbong Marcos,Q983324,2022-06-30,,male,1957-09-13,,Ferdinand R. Marcos Jr (cropped portrait).jpg,Bongbong Marcos
 Philippines,Vice President,Gloria Macapagal Arroyo,Q123665,1998-06-30,2001-01-20,female,1947-04-05,,Gloria Macapagal Arroyo WEF 2009-crop.jpg,Gloria Macapagal Arroyo
 Philippines,Vice President,Teofisto Guingona Jr.,Q983317,2001-02-07,2004-06-30,male,1928-07-04,,Vp guingona.jpg,Teofisto Guingona Jr.
@@ -371,8 +371,9 @@ Philippines,Governor of Misamis Oriental,Peter Unabia,Q12969408,2022-06-30,,male
 Philippines,Governor of Mountain Province,Bonifacio C. Lacwasan,Q67508965,2019-06-30,,,,,,
 Philippines,Governor of Negros Occidental,"Alfredo G. Marañon, Jr.",Q12961339,2010-06-30,2019-06-30,male,1935-12-21,2020-10-01,Alfredo Marañon 2014.jpg,Alfredo Marañon
 Philippines,Governor of Negros Occidental,Eugenio Jose Lacson,Q28673565,2019-06-30,,male,1959-12-21,,Governor Bong Lacson Negros 2019.png,Eugenio Jose Lacson
-Philippines,Governor of Negros Oriental,Roel Degamo,Q7357578,2013-06-30,2022-06-30,male,1966-04-29,,Roel Degamo (cropped).jpg,Roel Degamo
-Philippines,Governor of Negros Oriental,Pryde Henry Teves,Q7253238,2022-06-30,,male,1972-12-18,,Henry Pryde Teves.jpg,Pryde Henry Teves
+Philippines,Governor of Negros Oriental,Roel Degamo,Q7357578,2011-01-05,2022-06-30,male,1966-04-29,,Roel Degamo (cropped).jpg,Roel Degamo
+Philippines,Governor of Negros Oriental,Pryde Henry Teves,Q7253238,2022-06-30,2022-10-05,male,1972-12-18,,Henry Pryde Teves.jpg,Pryde Henry Teves
+Philippines,Governor of Negros Oriental,Roel Degamo,Q7357578,2022-10-05,,male,1966-04-29,,Roel Degamo (cropped).jpg,Roel Degamo
 Philippines,Governor of Northern Samar,Edwin Ongchuan,Q66057572,2019-06-30,,male,1968-03-03,,HoR Official Portrait of Edwing Ong.jpg,Edwin Ongchuan
 Philippines,Governor of Nueva Ecija,Tomas Joson III,Q66793736,1998-06-30,2007-06-30,male,1948-05-10,2020-07-23,,Tomas Joson III
 Philippines,Governor of Nueva Ecija,Aurelio Umali,Q17371328,2007-06-30,2016-06-30,male,1966,,"HoR Official Portrait - Aurelio ""Oyie"" Umali.jpg",Aurelio Umali

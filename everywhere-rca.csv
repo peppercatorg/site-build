@@ -2767,12 +2767,12 @@ Cuba,Q11256,Fidel Castro,child,Q19917949,Fidel Ángel Castro Díaz-Balart
 Cuba,Q11256,Fidel Castro,father,Q251556,Ángel Castro y Argiz
 Cuba,Q11256,Fidel Castro,mother,Q107526145,Lina Ruz González
 Cuba,Q11256,Fidel Castro,partner,Q19516418,Natalia Revuelta Clews
-Cuba,Q11256,Fidel Castro,partner,Q27649090,Hugo Rafael Chávez Frías
+Cuba,Q11256,Fidel Castro,partner,Q27649090,Dalia Soto del Valle
 Cuba,Q11256,Fidel Castro,sibling,Q3041532,Juanita Castro
 Cuba,Q11256,Fidel Castro,sibling,Q360346,Ramón Castro Ruz
 Cuba,Q11256,Fidel Castro,sibling,Q46809,Raúl Castro
 Cuba,Q11256,Fidel Castro,sibling,Q66486307,Lidia Castro Argota
-Cuba,Q11256,Fidel Castro,spouse,Q27649090,Hugo Rafael Chávez Frías
+Cuba,Q11256,Fidel Castro,spouse,Q27649090,Dalia Soto del Valle
 Cuba,Q11256,Fidel Castro,spouse,Q3068321,Mirta Díaz-Balart
 Cuba,Q253736,Mariela Castro Espín,father,Q46809,Raúl Castro
 Cuba,Q253736,Mariela Castro Espín,mother,Q466662,Vilma Espin
@@ -8168,6 +8168,8 @@ Israel,Q2906706,Uri Savir,child,Q100996629,Maya Savir
 Israel,Q2907245,Eliyahu Gabai,child,Q16129002,Yair Gabbay
 Israel,Q2907728,Yehiel Hazan,child,Q19627890,Oren Hazan
 Israel,Q2907997,Eti Livni,spouse,Q7002006,Yitzhak Livni
+Israel,Q2909091,Uzi Baram,child,Q12409877,Nir Baram
+Israel,Q2909091,Uzi Baram,father,Q2908256,Moshe Baram
 Israel,Q2909091,Uzi Baram,sibling,Q12407448,Haim Baram
 Israel,Q2909295,Ehud Yatom,sibling,Q1159747,Danny Yatom
 Israel,Q2909767,Uzi Dayan,father,Q6157350,Zohar Dayan
@@ -12005,8 +12007,8 @@ Russia,Q108807795,Nurbagand Nurbagandov,child,Q26959934,Magomed Nurbagandov
 Russia,Q108886260,Angelika Egorovna Glazkova,spouse,Q55122121,Nikolai Platoshkin
 Russia,Q108897335,Aleksey Govyrin,spouse,Q231590,Irina Slutskaya
 Russia,Q108899086,Alla Polyakova,sibling,Q4074398,Mikhail Babich
-Russia,Q110893340,"Гуцериев, Хамзат Сафарбекович",sibling,Q1346607,Mikhail Gutseriyev
-Russia,Q110893340,"Гуцериев, Хамзат Сафарбекович",sibling,Q4153081,Sait-Salam Gutseriyev
+Russia,Q110893340,Hamzat Gutseriev,sibling,Q1346607,Mikhail Gutseriyev
+Russia,Q110893340,Hamzat Gutseriev,sibling,Q4153081,Sait-Salam Gutseriyev
 Russia,Q111383871,Vadim Artyukhov,father,Q4070368,Vitaly Artyukhov
 Russia,Q111956526,Yriy Zaytsev,child,Q177232,son
 Russia,Q1143350,Yegor Stroyev,child,Q105105146,Marina Rogachyova
@@ -12015,7 +12017,7 @@ Russia,Q1320369,Magomedali Magomedov,child,Q559712,Magomedsalam Magomedov
 Russia,Q133318,Marat Safin,mother,Q7296273,Rauza Islanova
 Russia,Q133318,Marat Safin,sibling,Q1029664,Dinara Safina
 Russia,Q1344473,Vladimir Kolokoltsev,child,Q112674281,Alexander Kolokoltsev
-Russia,Q1346607,Mikhail Gutseriyev,sibling,Q110893340,"Гуцериев, Хамзат Сафарбекович"
+Russia,Q1346607,Mikhail Gutseriyev,sibling,Q110893340,Hamzat Gutseriev
 Russia,Q1346607,Mikhail Gutseriyev,sibling,Q4153081,Sait-Salam Gutseriyev
 Russia,Q1377159,Stanislav Govorukhin,child,Q4140923,Sergey Govorukhin
 Russia,Q1377159,Stanislav Govorukhin,spouse,Q55107077,"Карева, Юнона Ильинична"
@@ -12103,7 +12105,6 @@ Russia,Q28497365,Elmira Glubokovskaya,spouse,Q28497366,Mikhail Gloubokovsky
 Russia,Q28497366,Mikhail Gloubokovsky,spouse,Q28497365,Elmira Glubokovskaya
 Russia,Q28526218,Artyom Turov,father,Q3920850,Viktor Turov
 Russia,Q297006,Akhmad Kadyrov,child,Q217115,Ramazan Kadyrov
-Russia,Q297006,Akhmad Kadyrov,spouse,Q21887442,Aymani Kadyrova
 Russia,Q3050754,Eleonora Mitrofanova,sibling,Q4296811,Aleksey Mitrofanov
 Russia,Q311019,Boris Berezovsky,child,Q15064471,Elizaveta Borisovna Berezovskaïa
 Russia,Q313452,Buvaisar Saitiev,sibling,Q348977,Adam Saitiev
@@ -12149,7 +12150,7 @@ Russia,Q4148178,Ivan Dmitrievitsj Gratsjjov,spouse,Q4162799,Oksana Dmitrijeva
 Russia,Q4151599,Dmitry Gudkov,father,Q555125,Gennady Gudkov
 Russia,Q4151668,Pjotr Anatolevitsj Goezjvin,father,Q4151671,Anatoly Guzhvin
 Russia,Q4152529,Andrey Grigorevitsj Goerev,child,Q20090835,"Andrey Guryev, Jr."
-Russia,Q4153081,Sait-Salam Gutseriyev,sibling,Q110893340,"Гуцериев, Хамзат Сафарбекович"
+Russia,Q4153081,Sait-Salam Gutseriyev,sibling,Q110893340,Hamzat Gutseriev
 Russia,Q4153081,Sait-Salam Gutseriyev,sibling,Q1346607,Mikhail Gutseriyev
 Russia,Q4153625,Denis Aleksandrovitsj Davitiasjvili,spouse,Q4277930,Masha Malinovskaya
 Russia,Q4159652,Umar Dzhabrailov,partner,Q199369,Naomi Campbell
@@ -12160,7 +12161,7 @@ Russia,Q4180012,Sergey Zhigarev,father,Q4180011,Aleksandr Zhigarev
 Russia,Q4180012,Sergey Zhigarev,mother,Q4468787,Ирина Борисовна Уварова
 Russia,Q4194287,Boris Zubitsky,child,Q4194286,"Зубицкий, Андрей Борисович"
 Russia,Q4194287,Boris Zubitsky,child,Q4194291,"Зубицкий, Евгений Борисович"
-Russia,Q4203649,Eduard Isakov,child,Q113560045,Diana Isakovová
+Russia,Q4203649,Eduard Isakov,child,Q113560045,Diana Isakova
 Russia,Q4213035,Sergey Kapkov,partner,Q287099,Kseniya Sobchak
 Russia,Q4213035,Sergey Kapkov,spouse,Q4149679,Yekaterina Grinchevskaya
 Russia,Q4225876,Marina Kovtun,father,Q4226704,Vasily Kozlov
@@ -12258,6 +12259,7 @@ Russia,Q60220292,Aleksey Krasnoshtanov,child,Q108684903,Anton Krasnoshtanov
 Russia,Q60322844,Aleksandr Kozlovskiy,father,Q48954963,"Козловский, Николай Николаевич"
 Russia,Q60345819,Yuri Kobzev,father,Q24642628,"Кобзев, Виктор Анатольевич"
 Russia,Q60389401,Alexander Yakubovsky,father,Q4537160,Vladimir Yakubovsky
+Russia,Q60828361,Alexey Kondratenko,father,Q4230550,Nikolai Kondratenko
 Russia,Q6097047,Ivan Musatov,father,Q14920892,Mikhail Musatov
 Russia,Q612244,Yury Chaika,child,Q105078108,Igor Chaika
 Russia,Q612244,Yury Chaika,child,Q21617046,Artem Chaika
@@ -13128,7 +13130,7 @@ South Africa,Q6795248,Max Sisulu,sibling,Q8075652,Zwelakhe Sisulu
 South Africa,Q770995,Pieter Mulder,father,Q426404,Connie Mulder
 South Africa,Q8066134,Zanele kaMagwaza-Msibi,child,Q52149458,Gugu Gumede
 South Korea,Q107443498,Choi Jae-hyung,father,Q16092163,Yohann Tschoi
-South Korea,Q107805133,Kim Keon-hee,mother,Q113490399,최은순
+South Korea,Q107805133,Kim Keon-hee,mother,Q113490399,Choi Eunsun
 South Korea,Q107805133,Kim Keon-hee,spouse,Q16090635,Yoon Suk-yeol
 South Korea,Q10855915,Kim Han-gil,spouse,Q16177000,Lee Min-ah
 South Korea,Q10855915,Kim Han-gil,spouse,Q623856,Choi Myung-gil
