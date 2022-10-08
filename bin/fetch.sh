@@ -33,7 +33,7 @@ mkdir -p $dir
 curl -L -o $dir/bio.csv $bio
 
 curl -L -o $TMPFILE $csv
-qsv search -s repo ^$repo repos.csv |
+qsv search -s repo "^$repo$" repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
@@ -46,7 +46,7 @@ qsv search -s repo ^$repo repos.csv |
 # These next two also have an 'end' column
 # TODO: also have that in `current.csv`
 curl -L -o $TMPFILE $csv21
-qsv search -s repo ^$repo repos.csv |
+qsv search -s repo "^$repo$" repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
@@ -57,7 +57,7 @@ qsv search -s repo ^$repo repos.csv |
   ifne tee $dir/leaders-historic.csv
 
 curl -L -o $TMPFILE $csvmp
-qsv search -s repo ^$repo repos.csv |
+qsv search -s repo "^$repo$" repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
@@ -68,7 +68,7 @@ qsv search -s repo ^$repo repos.csv |
   ifne tee $dir/legislators-historic.csv
 
 curl -L -o $TMPFILE $rca
-qsv search -s repo ^$repo repos.csv |
+qsv search -s repo "^$repo$" repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
