@@ -1,4 +1,6 @@
 catalog,id,name,relationship,relative,relativename
+Eswatini,Q467866,Sikhanyiso Dlamini,father,Q57340,Mswati III
+Eswatini,Q467866,Sikhanyiso Dlamini,mother,Q17489755,Sibonelo Mngometulu
 Eswatini,Q57340,Mswati III,child,Q467866,Sikhanyiso Dlamini
 Eswatini,Q57340,Mswati III,father,Q379576,Sobhuza II
 Eswatini,Q57340,Mswati III,mother,Q444261,Ntombi of Swaziland
