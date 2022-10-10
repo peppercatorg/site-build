@@ -832,7 +832,8 @@ Azerbaijan,Q2047294,Aydin Mirzazade,father,Q16375284,Təmkin
 Azerbaijan,Q20560414,Mahir Abbaszadə,sibling,Q12848234,Zahir Abbas
 Azerbaijan,Q24176171,Elmira Akhundova,spouse,Q12844912,Ramiz Axundov
 Azerbaijan,Q28527862,Kamran Nəbizadə,father,Q23685210,Telman Nəbiyev
-Azerbaijan,Q4062335,Araz Əlizadə,father,Q23684585,Məmməd Mübariz Əlizadə
+Azerbaijan,Q4062335,Araz Alizadeh,father,Q23684585,Məmməd Mübariz Əlizadə
+Azerbaijan,Q4062335,Araz Alizadeh,sibling,Q12848442,Zardusht Alizadeh
 Azerbaijan,Q4130889,Isa Habibbayli,child,Q20565379,Ərəstü Həbibbəyli
 Azerbaijan,Q4134808,Kamaladdin Heydarov,child,Q12846361,Tale Heydarov
 Azerbaijan,Q4134808,Kamaladdin Heydarov,father,Q16367961,Fəttah Heydərov
@@ -1468,9 +1469,6 @@ Brazil,Q59226522,Lidio Lopes,child,Q111608590,Bruno Lopes
 Brazil,Q59226522,Lidio Lopes,father,Q111742451,João Francisco Lopes
 Brazil,Q59226522,Lidio Lopes,mother,Q111742501,Lenira Amélia Nogueira Lopes
 Brazil,Q59226522,Lidio Lopes,spouse,Q107721723,Adriane Lopes
-Brazil,Q59226645,Capitão Contar,father,Q114358709,Rene Roberto Contar
-Brazil,Q59226645,Capitão Contar,mother,Q114358715,Miriam Machado Barbosa Contar
-Brazil,Q59226645,Capitão Contar,spouse,Q114358733,Iara Diniz Contar
 Brazil,Q59246168,Pastor Cleiton Collins,spouse,Q25440841,Daize Michele de Aguiar Gonçalves
 Brazil,Q59247072,Franciane Bayer,sibling,Q20045969,Liziane Bayer da Costa
 Brazil,Q59247652,Jessé Lopes,child,Q98927515,Davi Lopes
@@ -1500,6 +1498,9 @@ Brazil,Q90844310,Nelson Luiz Sperle Teich,father,Q92582275,Pedro Teich
 Brazil,Q964493,Geraldo Alckmin,spouse,Q10326012,Maria Lúcia Ribeiro Alckmin
 Brazil,Q9759994,Cidinha Campos,child,Q10325770,Maria Carolina
 Brazil,Q9759994,Cidinha Campos,spouse,Q3405000,Manoel Carlos
+Brazil,Q98593773,Renan Contar,father,Q114358709,Rene Roberto Contar
+Brazil,Q98593773,Renan Contar,mother,Q114358715,Miriam Machado Barbosa Contar
+Brazil,Q98593773,Renan Contar,spouse,Q114358733,Iara Diniz Contar
 British Virgin Islands,Q28709152,Andrew Fahie,spouse,Q112579441,Sheila Elaine Forbes-Fahie
 Brunei,Q431442,Crown Prince Al-Muhtadee Billah of Brunei,child,Q4665575,Abdul Muntaqim
 Brunei,Q431442,Crown Prince Al-Muhtadee Billah of Brunei,father,Q57327,Hassanal Bolkiah
@@ -4063,6 +4064,7 @@ European Union,Q2366466,Ville Niinistö,relative,Q29207,Sauli Niinistö
 European Union,Q2366466,Ville Niinistö,spouse,Q444747,Maria Wetterstrand
 European Union,Q240740,Pervenche Berès,father,Q260520,Pierre Berès
 European Union,Q241208,Isabella Lövin,father,Q5970029,Björn Lövin
+European Union,Q241376,Jutta Urpilainen,father,Q16991079,Kari Urpilainen
 European Union,Q2426702,Vittorio Sgarbi,sibling,Q16268759,Elisabetta Sgarbi
 European Union,Q24641234,Clotilde Armand,spouse,Q102192508,Sergiu Moroianu
 European Union,Q254985,Vladimír Remek,father,Q12027068,Jozef Remek
@@ -4737,6 +4739,7 @@ Finland,Q11873020,Krista Mikkonen,sibling,Q30174086,Erkka Mikkonen
 Finland,Q11875227,Leena Harkimo,child,Q29892735,Joel Harkimo
 Finland,Q11875227,Leena Harkimo,sibling,Q11881535,Matti Alamäki
 Finland,Q11875227,Leena Harkimo,spouse,Q5413089,Harry Harkimo
+Finland,Q11880551,Maija Perho,father,Q14134347,Heikki Perho
 Finland,Q11880985,Marja Tiura,spouse,Q16297896,Olli Ainola
 Finland,Q11884029,Nasima Razmyar,father,Q20379187,Mohammed Daud Razmyar
 Finland,Q11887549,Pertti Salovaara,sibling,Q11875117,Lauri Salovaara
@@ -4751,6 +4754,7 @@ Finland,Q1359004,Jyri Häkämies,father,Q11858300,Erkki Häkämies
 Finland,Q1359004,Jyri Häkämies,sibling,Q11869910,Kari Häkämies
 Finland,Q16299674,Emma Kari,father,Q11864521,Ilkka J. Kari
 Finland,Q16299674,Emma Kari,spouse,Q5405446,Tapio Laakso
+Finland,Q16299982,Katri Komi,father,Q11852640,Armas Komi
 Finland,Q16300004,Jukka Kopra,father,Q27075101,Matti Kopra
 Finland,Q16984784,Mika Lintilä,father,Q5481171,Aaro Lintilä
 Finland,Q16986436,Sanna Marin,spouse,Q78037545,Markus Räikkönen
@@ -4773,6 +4777,7 @@ Finland,Q2360756,Eero Heinäluoma,child,Q29892746,Eveliina Heinäluoma
 Finland,Q2366466,Ville Niinistö,father,Q11869967,Kari Niinistö
 Finland,Q2366466,Ville Niinistö,relative,Q29207,Sauli Niinistö
 Finland,Q2366466,Ville Niinistö,spouse,Q444747,Maria Wetterstrand
+Finland,Q241376,Jutta Urpilainen,father,Q16991079,Kari Urpilainen
 Finland,Q2475123,Jussi Pajunen,father,Q23040761,Aarno Pajunen
 Finland,Q25369895,Veronica Rehn-Kivi,father,Q17383424,Ove H. Rehn
 Finland,Q25369895,Veronica Rehn-Kivi,mother,Q297856,Elisabeth Rehn
@@ -4820,6 +4825,8 @@ Finland,Q4826119,Mikko Alatalo,relative,Q28056024,Ronja Alatalo
 Finland,Q4935864,Li Andersson,father,Q16161261,Jan-Erik Andersson
 Finland,Q4935864,Li Andersson,partner,Q47914375,Juha Pursiainen
 Finland,Q4949953,Christina Gestrin,father,Q3864624,Kristian Gestrin
+Finland,Q4981024,Anneli Kiljunen,father,Q5403747,Valto Käkelä
+Finland,Q4981024,Anneli Kiljunen,relative,Q11857341,Elias Käkelä
 Finland,Q503143,Alexander Stubb,father,Q6544417,Göran Stubb
 Finland,Q503143,Alexander Stubb,spouse,Q17278098,Suzanne Innes-Stubb
 Finland,Q5413089,Harry Harkimo,child,Q29892735,Joel Harkimo
@@ -6347,6 +6354,7 @@ Hong Kong,Q3040547,Ann Chiang,sibling,Q2494688,Agnes Chiang
 Hong Kong,Q3040547,Ann Chiang,sibling,Q7211688,Lily Chiang
 Hong Kong,Q3040547,Ann Chiang,sibling,Q7211701,Chiang Lai Yuen
 Hong Kong,Q3040547,Ann Chiang,spouse,Q11114188,Raymond Hai Ming Leung
+Hong Kong,Q30465932,Michael Wong Wai-lun,spouse,Q112966415,陳穎韶
 Hong Kong,Q3051666,Ip Kwok-him,sibling,Q9334923,Ip Kwok-chung
 Hong Kong,Q30825347,Erick Tsang,spouse,Q109072069,Louise Ho
 Hong Kong,Q3479098,Paul Tse,spouse,Q7129235,Pamela Peck
@@ -8237,8 +8245,6 @@ Israel,Q50424294,Yinon Azulai,father,Q2331314,David Azulai
 Israel,Q522242,Limor Livnat,mother,Q6804693,Shulamit Livnat
 Israel,Q548964,Yossi Beilin,child,Q30747945,Ori Beilin
 Israel,Q553567,Silvan Shalom,spouse,Q6304587,Judy Shalom Nir-Mozes
-Israel,Q5621710,Shoshana Netanyahu,child,Q5621941,Nathan Netanyahu
-Israel,Q5621710,Shoshana Netanyahu,spouse,Q5361791,Elisha Netanyahu
 Israel,Q574033,Shevah Weiss,sibling,Q104668160,Aaron Weiss
 Israel,Q57410,Shimon Peres,child,Q12407950,Yoni Peres
 Israel,Q57410,Shimon Peres,child,Q6897261,Tsvia Walden
@@ -9296,7 +9302,9 @@ Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q5428633,Prin
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q877624,Prince Maximilian of Liechtenstein
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",father,Q165674,Franz Joseph II
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",mother,Q255679,Countess Georgina von Wilczek
-Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q453463,Princess Nora of Liechtenstein
+Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q2054781,Prince Philipp of Liechtenstein
+Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q2564880,Prince Wenzel of Liechtenstein
+Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q453463,"Princess Nora, Marchioness of Mariño"
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q676450,Prince Nikolaus of Liechtenstein
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",spouse,Q238233,"Marie, Princess of Lichtenstein"
 Liechtenstein,Q76598032,Katrin Eggenberger,relative,Q9106974,Josef Biedermann
@@ -9498,6 +9506,9 @@ Malaysia,Q5646531,Hamzah Zainuddin,spouse,Q111353627,Nooraini Rashid
 Malaysia,Q5646531,Hamzah Zainuddin,spouse,Q111353628,Norashikin Abdul Ghani
 Malaysia,Q57550,Abdul Halim of Kedah,child,Q25479566,Tunku Puteri Intan Safinaz
 Malaysia,Q57550,Abdul Halim of Kedah,father,Q4207523,Badlishah of Kedah
+Malaysia,Q57550,Abdul Halim of Kedah,sibling,Q28086147,Sallehuddin of Kedah
+Malaysia,Q57550,Abdul Halim of Kedah,sibling,Q7853251,Tunku Abdul Malik
+Malaysia,Q57550,Abdul Halim of Kedah,sibling,Q7853257,Tunku Annuar
 Malaysia,Q57550,Abdul Halim of Kedah,spouse,Q4206751,Sultanah Haminah Hamidun
 Malaysia,Q57550,Abdul Halim of Kedah,spouse,Q4209033,Tuanku Bahiyah
 Malaysia,Q57675,Najib Razak,child,Q20451916,Mohd Nizar Najib
@@ -10322,6 +10333,7 @@ Nigeria,Q5529329,Gbenga Aluko,child,Q572260,Sone Aluko
 Nigeria,Q5529329,Gbenga Aluko,father,Q51911401,Sam Aluko
 Nigeria,Q5576947,Godswill Akpabio,spouse,Q112170883,Ekaette Unoma Akpabio
 Nigeria,Q5607086,Gregory Ngaji,child,Q111199628,Jude Ngaji
+Nigeria,Q56678515,Babajide Sanwo-Olu,spouse,Q109609620,Ibijoke Sanwo-Olu
 Nigeria,Q57380,Goodluck Jonathan,spouse,Q7144934,Patience Jonathan
 Nigeria,Q6080812,Isiaka Adetunji Adeleke,father,Q55808166,Raji Ayoola Adeleke
 Nigeria,Q62356,Babatunde Fashola,spouse,Q19891940,Abimbola Fashola

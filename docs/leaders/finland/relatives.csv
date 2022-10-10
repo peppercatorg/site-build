@@ -11,6 +11,7 @@ Finland,Q11873020,Krista Mikkonen,sibling,Q30174086,Erkka Mikkonen
 Finland,Q11875227,Leena Harkimo,child,Q29892735,Joel Harkimo
 Finland,Q11875227,Leena Harkimo,sibling,Q11881535,Matti Alamäki
 Finland,Q11875227,Leena Harkimo,spouse,Q5413089,Harry Harkimo
+Finland,Q11880551,Maija Perho,father,Q14134347,Heikki Perho
 Finland,Q11880985,Marja Tiura,spouse,Q16297896,Olli Ainola
 Finland,Q11884029,Nasima Razmyar,father,Q20379187,Mohammed Daud Razmyar
 Finland,Q11887549,Pertti Salovaara,sibling,Q11875117,Lauri Salovaara
@@ -25,6 +26,7 @@ Finland,Q1359004,Jyri Häkämies,father,Q11858300,Erkki Häkämies
 Finland,Q1359004,Jyri Häkämies,sibling,Q11869910,Kari Häkämies
 Finland,Q16299674,Emma Kari,father,Q11864521,Ilkka J. Kari
 Finland,Q16299674,Emma Kari,spouse,Q5405446,Tapio Laakso
+Finland,Q16299982,Katri Komi,father,Q11852640,Armas Komi
 Finland,Q16300004,Jukka Kopra,father,Q27075101,Matti Kopra
 Finland,Q16984784,Mika Lintilä,father,Q5481171,Aaro Lintilä
 Finland,Q16986436,Sanna Marin,spouse,Q78037545,Markus Räikkönen
@@ -47,6 +49,7 @@ Finland,Q2360756,Eero Heinäluoma,child,Q29892746,Eveliina Heinäluoma
 Finland,Q2366466,Ville Niinistö,father,Q11869967,Kari Niinistö
 Finland,Q2366466,Ville Niinistö,relative,Q29207,Sauli Niinistö
 Finland,Q2366466,Ville Niinistö,spouse,Q444747,Maria Wetterstrand
+Finland,Q241376,Jutta Urpilainen,father,Q16991079,Kari Urpilainen
 Finland,Q2475123,Jussi Pajunen,father,Q23040761,Aarno Pajunen
 Finland,Q25369895,Veronica Rehn-Kivi,father,Q17383424,Ove H. Rehn
 Finland,Q25369895,Veronica Rehn-Kivi,mother,Q297856,Elisabeth Rehn
@@ -94,6 +97,8 @@ Finland,Q4826119,Mikko Alatalo,relative,Q28056024,Ronja Alatalo
 Finland,Q4935864,Li Andersson,father,Q16161261,Jan-Erik Andersson
 Finland,Q4935864,Li Andersson,partner,Q47914375,Juha Pursiainen
 Finland,Q4949953,Christina Gestrin,father,Q3864624,Kristian Gestrin
+Finland,Q4981024,Anneli Kiljunen,father,Q5403747,Valto Käkelä
+Finland,Q4981024,Anneli Kiljunen,relative,Q11857341,Elias Käkelä
 Finland,Q503143,Alexander Stubb,father,Q6544417,Göran Stubb
 Finland,Q503143,Alexander Stubb,spouse,Q17278098,Suzanne Innes-Stubb
 Finland,Q5413089,Harry Harkimo,child,Q29892735,Joel Harkimo

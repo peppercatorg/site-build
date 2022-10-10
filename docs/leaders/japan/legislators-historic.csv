@@ -2,7 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Japan,member of the Gifu Prefectural Assembly,Shin Mori,Q11540193,1979,2021-09-03,male,1940-02-24,2021-09-03,,
 Japan,member of the Gifu Prefectural Assembly,古川雅典,Q27918020,1999-04,,male,1952-06-26,,,
 Japan,member of the Gifu Prefectural Assembly,Kiyohiko Matsunaga,Q27917984,1999-04-30,2005-03,male,1945-09-26,,,
-Japan,member of the Aichi Prefectural Assembly,伊藤辰矢,Q64783247,2015-04,,male,1978-01-15,,,
+Japan,member of the Aichi Prefectural Assembly,伊藤辰矢,Q64783247,2015-04,,male,1978-01-15,,愛知県常滑市 市長 伊藤辰矢.jpg,
 Japan,member of the Aomori Prefectural Assembly,Chizuko Takahashi,Q5102671,1999-04,,female,1959-09-16,,,Chizuko Takahashi
 Japan,member of the Chiba Prefectural Assembly,Hajime Yatagawa,Q11633044,1993,2003,male,1963-01-17,,Kenji Tamura Yoshito Sengoku Masagos Zulkifli Hajime Yatagawa and Yukiko Miyake 201205.jpg,
 Japan,member of the Chiba Prefectural Assembly,Kazumi Ōta,Q6381578,2005,2006,female,1979-08-28,,,Kazumi Ota
@@ -20,7 +20,7 @@ Japan,member of the Kagoshima Prefectural Assembly,Masuo Kaneko,Q16770033,1991,,
 Japan,member of the Kagoshima Prefectural Assembly,Takao Shimozuru,Q104012817,2011-04-30,2020,male,,,,
 Japan,member of the Kanagawa Prefectural Assembly,Yoshiko Ichikawa,Q41770725,2011,,female,1964-01-29,,,
 Japan,member of the Kanagawa Prefectural Assembly,Yuki Waseda,Q41770746,2011,2017,female,1958-12-16,,,
-Japan,member of the Kyōto Prefectural Assembly,上村崇,Q64783261,2003-04,,male,1972-06-01,,,
+Japan,member of the Kyōto Prefectural Assembly,上村崇,Q64783261,2003-04,,male,1972-06-01,,京都府京田辺市 市長 上村崇.JPG,
 Japan,member of the Nagasaki Prefectural Assembly,Yaichi Tanigawa,Q8046971,1987-04,,male,1941-08-12,,Y tanigawa.jpg,Yaichi Tanigawa
 Japan,member of the Nagasaki Prefectural Assembly,Norio Tomonaga,Q11517738,1994-02-20,2007-04,male,1949-02-12,,,
 Japan,member of the Nagasaki Prefectural Assembly,Tsutomu Tomioka,Q7850337,1999-04,2003-04,male,1948-07-04,,Tomioka Tsutomu.jpg,Tsutomu Tomioka
@@ -232,7 +232,7 @@ Japan,member of the House of Representatives,Kenji Kosaka,Q5365896,1990,2009,mal
 Japan,member of the House of Representatives,Yoshito Sengoku,Q965723,1990-02-18,2012-12-04,male,1946-01-15,2018-10-11,Yoshito Sengoku - World Economic Forum Annual Meeting Davos 2010.jpg,Yoshito Sengoku
 Japan,member of the House of Representatives,Yasuo Fukuda,Q101137,1990-02-19,2012-11-16,male,1936-07-16,,Yasuo Fukuda 200709.jpg,Yasuo Fukuda
 Japan,member of the House of Representatives,Eikō Kaneta,Q11647725,1993,2005,male,1942-12-30,2022-06-17,19kaneta.jpg,Eiko Kaneta
-Japan,member of the House of Representatives,Kenji Kitahashi,Q6389342,1993-07-18,2006-12-19,male,1953-03-19,,,Kenji Kitahashi
+Japan,member of the House of Representatives,Kenji Kitahashi,Q6389342,1993-07-18,2006-12-19,male,1953-03-19,,福岡県北九州市 市長 北橋健治.jpg,Kenji Kitahashi
 Japan,member of the House of Representatives,Sasaki Ryuzō,Q7385565,1993-07-18,2000-06-02,male,1956-11-27,2022-06-28,Ryuzo Sasaki 201101.jpg,Ryuzo Sasaki
 Japan,member of the House of Representatives,Katsuhiko Shirakawa,Q11579706,1993-07-19,2000-06-02,male,1945-06-22,2019-11-18,Katsuhiko Shirakawa.jpg,
 Japan,member of the House of Representatives,Tadahiro Matsushita,Q977505,1993-07-19,2012-09-10,male,1939-02-09,2012-09-10,Tadahiro Matsushita 20120604.jpg,Tadahiro Matsushita
@@ -296,7 +296,7 @@ Japan,member of the House of Representatives,Taro Kono,Q1161024,2014-12,2017-09-
 Japan,member of the House of Representatives,Takuma Miyaji,Q21655823,2014-12,,male,1979-12-06,,Takuma Miyaji.jpg,
 Japan,member of the House of Representatives,Manabu Horii,Q1131407,2014-12-14,2017-09-28,male,1972-02-19,,Horii Manabu (2017).png,Manabu Horii
 Japan,member of the House of Representatives,Tatsuo Kawabata,Q1131518,2014-12-14,2017-09-28,male,1945-01-24,,Tatsuo Kawabata cropped 1 Tatsuo Kawabata and David Warren 20120606.jpg,Tatsuo Kawabata
-Japan,member of the House of Representatives,Yasukazu Hamada,Q1132836,2014-12-14,2017-09-28,male,1955-10-21,,HAMADA Yasukazu cropped from DM HAMADA Yasukazu and US Amb Rahm Emmanuel.jpg,Yasukazu Hamada
+Japan,member of the House of Representatives,Yasukazu Hamada,Q1132836,2014-12-14,2017-09-28,male,1955-10-21,,Yasukazu Hamada 20080924.jpg,Yasukazu Hamada
 Japan,member of the House of Representatives,Kisaburo Tokai,Q1133136,2014-12-14,2017-09-28,male,1948-02-11,,Kisaburō Tokai.jpg,Kisaburo Tokai
 Japan,member of the House of Representatives,Eisuke Mori,Q1133194,2014-12-14,2017-09-28,male,1948-08-31,,Eisuke Mori.jpg,Eisuke Mori
 Japan,member of the House of Representatives,Tsutomu Satō,Q1133360,2014-12-14,2017-09-28,male,1952-06-20,,Tsutomu Satō.jpg,Tsutomu Sato (politician)
@@ -397,7 +397,7 @@ Japan,member of the House of Representatives,Akihisa Nagashima,Q4700952,2014-12-
 Japan,member of the House of Representatives,Akira Kasai,Q4701145,2014-12-14,2017-09-28,male,1952-10-15,,Akira Kasai 20120731.jpg,Akira Kasai
 Japan,member of the House of Representatives,Yoshiaki Takaki,Q472792,2014-12-14,2017-09-28,male,1945-12-22,,Yoshiaki Takaki.jpg,Yoshiaki Takaki
 Japan,member of the House of Representatives,Naoto Kan,Q47846,2014-12-14,2017-09-28,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
-Japan,member of the House of Representatives,Asahiko Mihara,Q4803390,2014-12-14,2017-09-28,male,1947-05-23,,,Asahiko Mihara
+Japan,member of the House of Representatives,Asahiko Mihara,Q4803390,2014-12-14,2017-09-28,male,1947-05-23,,Asahiko Mihara in Maputo.jpg,Asahiko Mihara
 Japan,member of the House of Representatives,Atsushi Oshima,Q4817826,2014-12-14,2017-09-28,male,1956-12-21,,Oshima Atsushi.jpg,Atsushi Oshima
 Japan,member of the House of Representatives,Takeshi Shina,Q49875,2014-12-14,2017-09-28,male,1966-10-07,,Takeshi Shina.jpg,Takeshi Shina
 Japan,member of the House of Representatives,Yoshihisa Inoue,Q49936,2014-12-14,2017-09-28,male,1947-07-24,,,Yoshihisa Inoue
@@ -552,7 +552,7 @@ Japan,member of the House of Representatives,Issei Tajima,Q6088170,2014-12-19,20
 Japan,member of the House of Representatives,Kazumi Ōta,Q6381578,2014-12-19,2017-09-28,female,1979-08-28,,,Kazumi Ota
 Japan,member of the House of Representatives,Izumi Yoshida,Q6102348,2017-07-25,2017-09-28,male,1949-02-26,,Yoshida Izumi.jpg,Izumi Yoshida
 Japan,member of the House of Representatives,Manabu Horii,Q1131407,2017-10-22,2021-10-14,male,1972-02-19,,Horii Manabu (2017).png,Manabu Horii
-Japan,member of the House of Representatives,Yasukazu Hamada,Q1132836,2017-10-22,2021-10-14,male,1955-10-21,,HAMADA Yasukazu cropped from DM HAMADA Yasukazu and US Amb Rahm Emmanuel.jpg,Yasukazu Hamada
+Japan,member of the House of Representatives,Yasukazu Hamada,Q1132836,2017-10-22,2021-10-14,male,1955-10-21,,Yasukazu Hamada 20080924.jpg,Yasukazu Hamada
 Japan,member of the House of Representatives,Kisaburo Tokai,Q1133136,2017-10-22,2021-10-14,male,1948-02-11,,Kisaburō Tokai.jpg,Kisaburo Tokai
 Japan,member of the House of Representatives,Hiroyuki Hosoda,Q1133192,2017-10-22,2021-10-14,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
 Japan,member of the House of Representatives,Eisuke Mori,Q1133194,2017-10-22,2021-10-14,male,1948-08-31,,Eisuke Mori.jpg,Eisuke Mori
@@ -849,7 +849,7 @@ Japan,member of the House of Representatives,Akihiro Nishimura,Q4700938,2017-10-
 Japan,member of the House of Representatives,Akihisa Nagashima,Q4700952,2017-10-22,2021-10-14,male,1962-02-17,,Akihisa Nagashima.jpg,Akihisa Nagashima
 Japan,member of the House of Representatives,Akira Kasai,Q4701145,2017-10-22,2021-10-14,male,1952-10-15,,Akira Kasai 20120731.jpg,Akira Kasai
 Japan,member of the House of Representatives,Naoto Kan,Q47846,2017-10-22,2021-10-14,male,1946-10-10,,Kan Naoto.jpg,Naoto Kan
-Japan,member of the House of Representatives,Asahiko Mihara,Q4803390,2017-10-22,2021-10-14,male,1947-05-23,,,Asahiko Mihara
+Japan,member of the House of Representatives,Asahiko Mihara,Q4803390,2017-10-22,2021-10-14,male,1947-05-23,,Asahiko Mihara in Maputo.jpg,Asahiko Mihara
 Japan,member of the House of Representatives,Atsushi Oshima,Q4817826,2017-10-22,2021-10-14,male,1956-12-21,,Oshima Atsushi.jpg,Atsushi Oshima
 Japan,member of the House of Representatives,Takeshi Shina,Q49875,2017-10-22,2021-10-14,male,1966-10-07,,Takeshi Shina.jpg,Takeshi Shina
 Japan,member of the House of Representatives,Yoshihisa Inoue,Q49936,2017-10-22,2021-10-14,male,1947-07-24,,,Yoshihisa Inoue
@@ -1070,7 +1070,7 @@ Japan,member of the House of Representatives,Ryota Endo,Q109602497,2021-10-31,,m
 Japan,member of the House of Representatives,Yuichiro Wada,Q109603066,2021-10-31,,male,,,,
 Japan,member of the House of Representatives,山田勝彦,Q110403406,2021-10-31,,male,,,,
 Japan,member of the House of Representatives,Manabu Horii,Q1131407,2021-10-31,,male,1972-02-19,,Horii Manabu (2017).png,Manabu Horii
-Japan,member of the House of Representatives,Yasukazu Hamada,Q1132836,2021-10-31,,male,1955-10-21,,HAMADA Yasukazu cropped from DM HAMADA Yasukazu and US Amb Rahm Emmanuel.jpg,Yasukazu Hamada
+Japan,member of the House of Representatives,Yasukazu Hamada,Q1132836,2021-10-31,,male,1955-10-21,,Yasukazu Hamada 20080924.jpg,Yasukazu Hamada
 Japan,member of the House of Representatives,Kisaburo Tokai,Q1133136,2021-10-31,,male,1948-02-11,,Kisaburō Tokai.jpg,Kisaburo Tokai
 Japan,member of the House of Representatives,Hiroyuki Hosoda,Q1133192,2021-10-31,,male,1944-04-05,,Hiroyuki Hosoda in New Delhi on 23 September 2016.jpg,Hiroyuki Hosoda
 Japan,member of the House of Representatives,Eisuke Mori,Q1133194,2021-10-31,,male,1948-08-31,,Eisuke Mori.jpg,Eisuke Mori
@@ -1398,7 +1398,7 @@ Japan,member of the House of Representatives,Koji Sato,Q6426455,2021-10-31,,male
 Japan,member of the House of Representatives,Shoichi Kondo,Q653000,2021-10-31,,male,1958-05-26,,Shoichi Kondo - Annual Meeting of the New Champions 2011.jpg,Shoichi Kondo
 Japan,member of the House of Representatives,Ryō Sawada,Q65556969,2021-10-31,,male,1979-09-27,,,
 Japan,member of the House of Representatives,Issei Yamagishi,Q65556979,2021-10-31,,male,1981-08-28,,,
-Japan,member of the House of Representatives,Masanao Ozaki,Q656644,2021-10-31,,male,1967-09-14,,,Masanao Ozaki
+Japan,member of the House of Representatives,Masanao Ozaki,Q656644,2021-10-31,,male,1967-09-14,,Masanao Ozaki 2022.png,Masanao Ozaki
 Japan,member of the House of Representatives,Shinjirō Koizumi,Q661410,2021-10-31,,male,1981-04-14,,Shinjirō Koizumi 20200718.jpg,Shinjirō Koizumi
 Japan,member of the House of Representatives,Makiko Kikuta,Q6739516,2021-10-31,,female,1969-10-24,,Makiko Kikuta.jpg,Makiko Kikuta
 Japan,member of the House of Representatives,Manabu Sakai,Q6746574,2021-10-31,,male,1965-09-04,,Manabu Sakai.jpg,Manabu Sakai
