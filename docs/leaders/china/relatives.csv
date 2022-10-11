@@ -227,7 +227,7 @@ China,Q272307,Wang Guangmei,sibling,Q9064696,Wang Guangying
 China,Q272307,Wang Guangmei,spouse,Q16988,Liu Shaoqi
 China,Q28355223,Feng Lida,father,Q365894,Feng Yuxiang
 China,Q28355223,Feng Lida,mother,Q6538739,Li Dequan
-China,Q28413863,Cao Dewang,sibling,Q98110004,曹德淦
+China,Q28413863,Cao Dewang,sibling,Q98110004,Cao Degan
 China,Q3040547,Ann Chiang,father,Q9182115,Chiang Chen
 China,Q3040547,Ann Chiang,sibling,Q2494688,Agnes Chiang
 China,Q3040547,Ann Chiang,sibling,Q7211688,Lily Chiang
@@ -464,6 +464,7 @@ China,Q82260,Chen Yuan,child,Q51884840,Chen Xiaodan
 China,Q82260,Chen Yuan,father,Q557233,Chen Yun
 China,Q82260,Chen Yuan,mother,Q8289904,Yu Ruomu
 China,Q82260,Chen Yuan,sibling,Q16907822,Chen Weilan
+China,Q8246757,Shen Jilan,relative,Q97169687,Zhang Lizhen
 China,Q8248352,Chen Yunying,spouse,Q709764,Justin Yifu Lin
 China,Q8288042,Fu Dong,father,Q717501,Fu Zuoyi
 China,Q8288235,Gong Yuzhi,child,Q8292979,Gong Ke
