@@ -1,22 +1,43 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q106465359,Gladys Guaipo,female,1954-06-18,11,,,,
+Q106975980,Gabriela Jiménez,female,1976,9,,,,Gabriela Jiménez Ramírez
+Q107030818,Hipólito Abreu,male,1969-07-12,11,,,,
 Q108287837,Félix Ramón Plasencia,male,,,,,Félix Plasencia en septiembre de 2021.png,
 Q108548921,José Rodríguez Iturbe,male,,,,,,
 Q108548923,Jesús Pérez,male,,,,,,
 Q109017878,Carlos Leal,male,1964-04-03,11,,,,
+Q109040910,Juan Luis Laya,male,,,,,,
+Q109044864,Mervin Maldonado,male,,,,,,
+Q109671346,Dheliz Álvarez,female,,,,,,
+Q110983518,Olga Luisa Figueroa,female,1971-09-15,11,,,,
+Q110992142,Diva Guzmán,female,1986-02-23,11,,,,
+Q111208069,Clara Vidal,,,,,,,
 Q112725863,Rodulfo Pérez,,1965,9,,,,
-Q113548777,Carlos Faria,male,,,,,,
+Q113090321,Juan Carlos Loyo,male,,,,,,
+Q113548777,Carlos Faria,male,1962-12-11,11,,,,
+Q114605662,Raúl Alfonso Paredes,,,,,,,
+Q114606662,Alí Padrón Paredes,,,,,,,
+Q114606663,Greicys Dayamni Barrios,,,,,,,
+Q114606664,Ildemaro Moisés Villarroel Arismendi,,,,,,,
+Q114606665,Josué Alejandro Lorca,,,,,,,
+Q114606666,Magaly Gutiérrez Viña,,,,,,,
+Q114606668,Mirelys Contreras,,,,,,,
 Q1185484,Ramón Carrizales,male,1952-11-08,11,,,2008-06-26 Рамон Каррисалес.jpg,Ramón Carrizales
 Q12162046,Dante Rivas,male,1975-01-19,11,,,,
 Q1227076,Diosdado Cabello,male,1963-04-15,11,,,Diosdado Cabello 2013 cropped.jpg,Diosdado Cabello
 Q1334512,Elías Jaua,male,1969-12-17,11,,,"Elias Jaua, December 2011.jpg",Elías Jaua
 Q15081116,Delcy Rodríguez,female,1969-05-18,11,,,Delcy Rodriguez June 2016 (27571633682) (cropped).jpg,Delcy Rodríguez
 Q16106233,Luis Alfonso Dávila,male,,7,,,,Luis Alfonso Dávila
+Q16301804,Rodolfo Marco Torres,male,1966-09-10,11,,,Rodolfo Marco Torres.png,Rodolfo Marco Torres
 Q18419737,Liris Sol Velásquez,female,,,,,,Liris Sol Velásquez
+Q19519696,Vladimir Padrino López,male,1963-05-30,11,,,Vladimir Padrino López.jpg,Vladimir Padrino López
 Q2127006,Rafael Ramírez,male,1963-08-04,11,,,"Rafael Ramírez, presidente de PDVSA.jpg",Rafael Ramírez (politician)
 Q21683673,Nora Delgado,female,1959,9,,,Nora Delgado.jpg,
 Q22074514,Óscar Figuera,male,1954-10-06,11,,,Oscar Figuera.jpg,Óscar Figuera
+Q22133019,Freddy Ñáñez,male,1976,9,,,DSC0492 2 Freddy Ñáñez retrato de su blog Lucha Almada.jpg,Freddy Ñáñez
 Q28005738,José Manuel Olivares,male,1985-08-19,11,,,José Manuel Olivares2.png,José Manuel Olivares
+Q28503440,Francisco Torrealba,male,,7,,,,
+Q28503444,Ramón Celestino Velázquez,male,1972-08-31,11,,,,
 Q2855363,Alí Rodríguez Araque,male,1937-09-09,11,2018-11-19,11,Rodríguez Araque (cropped).jpg,Alí Rodríguez Araque
 Q295790,Carlos Andrés Pérez,male,1922-10-27,11,2010-12-25,11,Carlos Andrés Pérez.jpg,Carlos Andrés Pérez
 Q30505969,Samuel Moncada,male,1959-06-13,11,,,,Samuel Moncada
@@ -45,6 +66,11 @@ Q5938504,Henry Ramos Allup,male,1952-12-21,11,,,,José Bernabé Gutiérrez
 Q5951793,Juan Pablo Guanipa,male,1964-12-20,11,,,JuanPabloGuanipa.jpg,Juan Pablo Guanipa
 Q60012352,Edgar Zambrano,male,1955-07-20,11,,,Edgar Zambrano.png,Edgar Zambrano
 Q6044372,Noelí Pocaterra,female,1936-09-18,11,,,,
+Q6047488,Néstor Reverol,male,1964-10-28,11,,,Nestor Reverol 2018.png,Néstor Reverol
+Q6108259,Ricardo José Menéndez Prieto,male,1969-12-07,11,,,Ricardo Menéndez.jpeg,Ricardo José Menéndez Prieto
+Q6146383,Tibisay Lucena,female,1959-04-26,11,,,TIBISAY LUCENA (16548373134).jpg,Tibisay Lucena
+Q6167867,Wilmar Castro Soteldo,male,,7,,,,
+Q6169921,Yelitze Santaella,female,1960-08-01,11,,,,
 Q6278714,Jorge Valero,male,1946-11-08,11,,,Ambassadors’ Roundtable on Investing in the SDGs (44652727545).jpg,Jorge Valero
 Q6310283,Julián Isaías Rodríguez Diaz,male,1942-12-16,11,,,Isaías Rodríguez 2017.png,Isaías Rodríguez
 Q6328534,Marisabel Rodríguez de Chávez,female,1964-11-23,11,,,Marisabel Rodríguez de Chávez.jpg,Marisabel Rodríguez de Chávez
@@ -52,9 +78,12 @@ Q6623799,Jorge Arreaza,male,1973-06-06,11,,,Jorge Arreaza 01.jpg,Jorge Arreaza
 Q716294,José Vicente Rangel,male,1929-07-10,11,2020-12-18,11,Jose Vicente Rangel.png,José Vicente Rangel
 Q7372656,Roy Chaderton,male,1942-08-17,11,,,,Roy Chaderton
 Q77361480,José Brito,male,1973-01-15,11,,,,José Brito (politician)
+Q77892039,Jorge Márquez,male,1971,9,,,,Jorge Elieser Márquez
 Q799556,Cilia Flores,female,1953-01-01,11,,,Cilia Flores 2013.jpg,Cilia Flores
 Q81101807,Luis Parra,male,1978-07-07,11,,,Luis Parra.png,Luis Parra
 Q8440,Hugo Chávez,male,1954-07-28,11,2013-03-05,11,Hugo Rafael Chávez Frías.jpeg,Hugo Chávez
+Q85383854,Remigio Ceballos,male,1963-05-01,11,,,ALMIRANTE-EN-JEFE-REMIGIO-CEBALLOS-ICHASO-GALA.jpg,Remigio Ceballos
 Q878705,Pedro Carmona,male,1941-07-06,11,,,Pedro Carmona Juramentándose.png,Pedro Carmona
 Q951338,Julio Borges,male,1969-10-22,11,,,(Julio Borges) Reunión de países que respaldan al Presidente encargado de Venezuela Juan Guaidó.jpg,Julio Borges
+Q98280254,William Serantes Pinto,male,1964-04-14,11,,,,
 Q98446275,Romel Guzamana,male,1977-11-15,11,,,,

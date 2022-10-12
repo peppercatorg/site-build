@@ -1,30 +1,47 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-Venezuela,President of Venezuela,Hugo Chávez,Q8440,1999-02-02,2013-03-05,male,1954-07-28,2013-03-05,Hugo Rafael Chávez Frías.jpeg,Hugo Chávez
-Venezuela,President of Venezuela,Pedro Carmona,Q878705,2002-04-12,2002-04-13,male,1941-07-06,,Pedro Carmona Juramentándose.png,Pedro Carmona
-Venezuela,President of Venezuela,Diosdado Cabello,Q1227076,2002-04-13,2002-04-14,male,1963-04-15,,Diosdado Cabello 2013 cropped.jpg,Diosdado Cabello
-Venezuela,President of Venezuela,Nicolás Maduro,Q58132,2013-03-05,,male,1962-11-23,,Nicolás Maduro 2022 (cropped).jpeg,Nicolás Maduro
-Venezuela,Vice President of Venezuela,Julián Isaías Rodríguez Diaz,Q6310283,2000-01-29,2000-12-24,male,1942-12-16,,Isaías Rodríguez 2017.png,Isaías Rodríguez
-Venezuela,Vice President of Venezuela,Adina Bastidas,Q4682878,2000-12-24,2002-01-13,female,1943-06-11,,,Adina Bastidas
-Venezuela,Vice President of Venezuela,Diosdado Cabello,Q1227076,2002-01-13,2002-04-28,male,1963-04-15,,Diosdado Cabello 2013 cropped.jpg,Diosdado Cabello
-Venezuela,Vice President of Venezuela,José Vicente Rangel,Q716294,2002-04-14,2007-01-03,male,1929-07-10,2020-12-18,Jose Vicente Rangel.png,José Vicente Rangel
-Venezuela,Vice President of Venezuela,Jorge Rodríguez,Q3295308,2007-01-03,2008-01-04,male,1965-11-09,,Jorge Rodríguez Gómez.jpg,Jorge Rodríguez (Venezuelan politician)
-Venezuela,Vice President of Venezuela,Ramón Carrizales,Q1185484,2008-01-04,2010-01-26,male,1952-11-08,,2008-06-26 Рамон Каррисалес.jpg,Ramón Carrizales
-Venezuela,Vice President of Venezuela,Elías Jaua,Q1334512,2010-01-27,2012-10-13,male,1969-12-17,,"Elias Jaua, December 2011.jpg",Elías Jaua
-Venezuela,Vice President of Venezuela,Nicolás Maduro,Q58132,2012-10-13,2013-03-05,male,1962-11-23,,Nicolás Maduro 2022 (cropped).jpeg,Nicolás Maduro
-Venezuela,Vice President of Venezuela,Jorge Arreaza,Q6623799,2013-04-19,2016-01-06,male,1973-06-06,,Jorge Arreaza 01.jpg,Jorge Arreaza
-Venezuela,Vice President of Venezuela,Aristóbulo Iztúriz,Q4791112,2016-01-06,2017-01-04,male,1946-12-20,2021-04-27,Aristóbulo Istúriz 1999.jpg,Aristóbulo Istúriz
-Venezuela,Vice President of Venezuela,Tareck El Aissami,Q506399,2017-01-04,2018-06-14,male,1974-11-12,,Tareck El Aissami Portrait.jpg,Tareck El Aissami
-Venezuela,Vice President of Venezuela,Delcy Rodríguez,Q15081116,2018-06-14,2020-09-10,female,1969-05-18,,Delcy Rodriguez June 2016 (27571633682) (cropped).jpg,Delcy Rodríguez
+Venezuela,President,Hugo Chávez,Q8440,1999-02-02,2013-03-05,male,1954-07-28,2013-03-05,Hugo Rafael Chávez Frías.jpeg,Hugo Chávez
+Venezuela,President,Pedro Carmona,Q878705,2002-04-12,2002-04-13,male,1941-07-06,,Pedro Carmona Juramentándose.png,Pedro Carmona
+Venezuela,President,Diosdado Cabello,Q1227076,2002-04-13,2002-04-14,male,1963-04-15,,Diosdado Cabello 2013 cropped.jpg,Diosdado Cabello
+Venezuela,President,Nicolás Maduro,Q58132,2013-03-05,,male,1962-11-23,,Nicolás Maduro 2022 (cropped).jpeg,Nicolás Maduro
+Venezuela,Vice President,Julián Isaías Rodríguez Diaz,Q6310283,2000-01-29,2000-12-24,male,1942-12-16,,Isaías Rodríguez 2017.png,Isaías Rodríguez
+Venezuela,Vice President,Adina Bastidas,Q4682878,2000-12-24,2002-01-13,female,1943-06-11,,,Adina Bastidas
+Venezuela,Vice President,Diosdado Cabello,Q1227076,2002-01-13,2002-04-28,male,1963-04-15,,Diosdado Cabello 2013 cropped.jpg,Diosdado Cabello
+Venezuela,Vice President,José Vicente Rangel,Q716294,2002-04-14,2007-01-03,male,1929-07-10,2020-12-18,Jose Vicente Rangel.png,José Vicente Rangel
+Venezuela,Vice President,Jorge Rodríguez,Q3295308,2007-01-03,2008-01-04,male,1965-11-09,,Jorge Rodríguez Gómez.jpg,Jorge Rodríguez (Venezuelan politician)
+Venezuela,Vice President,Ramón Carrizales,Q1185484,2008-01-04,2010-01-26,male,1952-11-08,,2008-06-26 Рамон Каррисалес.jpg,Ramón Carrizales
+Venezuela,Vice President,Elías Jaua,Q1334512,2010-01-27,2012-10-13,male,1969-12-17,,"Elias Jaua, December 2011.jpg",Elías Jaua
+Venezuela,Vice President,Nicolás Maduro,Q58132,2012-10-13,2013-03-05,male,1962-11-23,,Nicolás Maduro 2022 (cropped).jpeg,Nicolás Maduro
+Venezuela,Vice President,Jorge Arreaza,Q6623799,2013-04-19,2016-01-06,male,1973-06-06,,Jorge Arreaza 01.jpg,Jorge Arreaza
+Venezuela,Vice President,Aristóbulo Iztúriz,Q4791112,2016-01-06,2017-01-04,male,1946-12-20,2021-04-27,Aristóbulo Istúriz 1999.jpg,Aristóbulo Istúriz
+Venezuela,Vice President,Tareck El Aissami,Q506399,2017-01-04,2018-06-14,male,1974-11-12,,Tareck El Aissami Portrait.jpg,Tareck El Aissami
+Venezuela,Vice President,Delcy Rodríguez,Q15081116,2018-06-14,,female,1969-05-18,,Delcy Rodriguez June 2016 (27571633682) (cropped).jpg,Delcy Rodríguez
+Venezuela,Minister of Agriculture,Wilmar Castro Soteldo,Q6167867,2016-01-06,,male,,,,
+Venezuela,Minister of Commerce,Dheliz Álvarez,Q109671346,2021-10-19,,female,,,,
 Venezuela,Minister of Communications and Information,Ernesto Villegas,Q3788643,2012-10-13,2013-08-04,male,1970-04,,Ernestowikipedia299.jpg,Ernesto Villegas
 Venezuela,Minister of Communications and Information,Delcy Rodríguez,Q15081116,2013-08-03,2014-10-13,female,1969-05-18,,Delcy Rodriguez June 2016 (27571633682) (cropped).jpg,Delcy Rodríguez
 Venezuela,Minister of Communications and Information,Jacqueline Faría,Q3157719,2014-10-13,2015-04-28,female,1957-02-03,,Jacqueline Faría 02.jpg,Jacqueline Faría
 Venezuela,Minister of Communications and Information,Ernesto Villegas,Q3788643,2016-10-04,2017-11-03,male,1970-04,,Ernestowikipedia299.jpg,Ernesto Villegas
+Venezuela,Minister of Communications and Information,Freddy Ñáñez,Q22133019,2020-09-04,,male,1976,,DSC0492 2 Freddy Ñáñez retrato de su blog Lucha Almada.jpg,Freddy Ñáñez
+Venezuela,Minister of Communities and Social Movements,Jorge Arreaza,Q6623799,2022-02-04,,male,1973-06-06,,Jorge Arreaza 01.jpg,Jorge Arreaza
+Venezuela,Minister of Corrections,Mirelys Contreras,Q114606668,2020-09-04,,,,,,
+Venezuela,Minister of Culture,Ernesto Villegas,Q3788643,2017-11-03,,male,1970-04,,Ernestowikipedia299.jpg,Ernesto Villegas
 Venezuela,Minister of Defence,José Vicente Rangel,Q716294,2001-02-14,2002-04-14,male,1929-07-10,2020-12-18,Jose Vicente Rangel.png,José Vicente Rangel
+Venezuela,Minister of Defence,Vladimir Padrino López,Q19519696,2014-09-03,,male,1963-05-30,,Vladimir Padrino López.jpg,Vladimir Padrino López
+Venezuela,Minister of Ecological Mining Development,Jorge Arreaza,Q6623799,2017,2021-08-19,male,1973-06-06,,Jorge Arreaza 01.jpg,Jorge Arreaza
+Venezuela,Minister of Ecological Mining Development,William Serantes Pinto,Q98280254,2021-08-19,,male,1964-04-14,,,
+Venezuela,Minister of Ecosocialism,Josué Alejandro Lorca,Q114606665,2021-04-22,,,,,,
 Venezuela,Minister of Education,Rodulfo Pérez,Q112725863,2016-01-06,2017-01-04,,1965,,,
 Venezuela,Minister of Education,Elías Jaua,Q1334512,2017-01-04,2018-09-04,male,1969-12-17,,"Elias Jaua, December 2011.jpg",Elías Jaua
 Venezuela,Minister of Education,Aristóbulo Iztúriz,Q4791112,2018-09-04,2021-04-27,male,1946-12-20,2021-04-27,Aristóbulo Istúriz 1999.jpg,Aristóbulo Istúriz
+Venezuela,Minister of Education,Yelitze Santaella,Q6169921,2021-08-19,,female,1960-08-01,,,
+Venezuela,Minister of Electrical Power,Néstor Reverol,Q6047488,2020-10-25,,male,1964-10-28,,Nestor Reverol 2018.png,Néstor Reverol
 Venezuela,Minister of Environment and Natural Resources,Jacqueline Faría,Q3157719,2005-01,2007-01,female,1957-02-03,,Jacqueline Faría 02.jpg,Jacqueline Faría
+Venezuela,Minister of Finance,Alí Rodríguez Araque,Q2855363,2008-06,2010-01,male,1937-09-09,2018-11-19,Rodríguez Araque (cropped).jpg,Alí Rodríguez Araque
 Venezuela,Minister of Finance,Delcy Rodríguez,Q15081116,2020-09-10,,female,1969-05-18,,Delcy Rodriguez June 2016 (27571633682) (cropped).jpg,Delcy Rodríguez
+Venezuela,Minister of Fisheries and Aquaculture,Dante Rivas,Q12162046,2018-06-14,2020-05-27,male,1975-01-19,,,
+Venezuela,Minister of Fisheries and Aquaculture,Juan Luis Laya,Q109040910,2020-05-26,2022-02-09,male,,,,
+Venezuela,Minister of Fisheries and Aquaculture,Olga Luisa Figueroa,Q110983518,2022-02-09,2022-04-22,female,1971-09-15,,,
+Venezuela,Minister of Fisheries and Aquaculture,Juan Carlos Loyo,Q113090321,2022-04-22,,male,,,,
 Venezuela,Minister of Food,Carlos Leal,Q109017878,2019-04-15,,male,1964-04-03,,,
 Venezuela,Minister of Foreign Affairs,José Vicente Rangel,Q716294,1999-02-02,2001-02-14,male,1929-07-10,2020-12-18,Jose Vicente Rangel.png,José Vicente Rangel
 Venezuela,Minister of Foreign Affairs,Luis Alfonso Dávila,Q16106233,2001-02-15,2002-05-30,male,,,,Luis Alfonso Dávila
@@ -40,7 +57,26 @@ Venezuela,Minister of Foreign Affairs,Delcy Rodríguez,Q15081116,2014-12-26,2017
 Venezuela,Minister of Foreign Affairs,Samuel Moncada,Q30505969,2017-06-21,2017-08-02,male,1959-06-13,,,Samuel Moncada
 Venezuela,Minister of Foreign Affairs,Jorge Arreaza,Q6623799,2017-08-02,2021-08-19,male,1973-06-06,,Jorge Arreaza 01.jpg,Jorge Arreaza
 Venezuela,Minister of Foreign Affairs,Félix Ramón Plasencia,Q108287837,2021-08-19,2022-05-16,male,,,Félix Plasencia en septiembre de 2021.png,
-Venezuela,Minister of Foreign Affairs,Carlos Faria,Q113548777,2022-05-17,,male,,,,
+Venezuela,Minister of Foreign Affairs,Carlos Faria,Q113548777,2022-05-17,,male,1962-12-11,,,
+Venezuela,Minister of Ground Transport,Ramón Celestino Velázquez,Q28503444,2022-05-16,,male,1972-08-31,,,
+Venezuela,Minister of Health,Magaly Gutiérrez Viña,Q114606666,2022-02-09,,,,,,
+Venezuela,Minister of Housing and Habitat,Ildemaro Moisés Villarroel Arismendi,Q114606664,2017-11-26,,,,,,
+Venezuela,Minister of Indigenous Peoples,Clara Vidal,Q111208069,2022-02-09,,,,,,
+Venezuela,Minister of Industries and National Production,Jorge Arreaza,Q6623799,2021-08-19,2021-12-08,male,1973-06-06,,Jorge Arreaza 01.jpg,Jorge Arreaza
+Venezuela,Minister of Industries and National Production,Hipólito Abreu,Q107030818,2022-05-16,,male,1969-07-12,,,
+Venezuela,"Minister of the Interior, Justice and Peace",Remigio Ceballos,Q85383854,2021-08-19,,male,1963-05-01,,ALMIRANTE-EN-JEFE-REMIGIO-CEBALLOS-ICHASO-GALA.jpg,Remigio Ceballos
+Venezuela,Minister of Labour and Social Security,Francisco Torrealba,Q28503440,2022-05-16,,male,,,,
+Venezuela,Minister of the Office of the Presidency,Jorge Márquez,Q77892039,2017-10-26,,male,1971,,,Jorge Elieser Márquez
+Venezuela,Minister of Petroleum,Tareck El Aissami,Q506399,2020-04-27,,male,1974-11-12,,Tareck El Aissami Portrait.jpg,Tareck El Aissami
+Venezuela,Minister of Planning,Ricardo José Menéndez Prieto,Q6108259,2014-06-17,,male,1969-12-07,,Ricardo Menéndez.jpeg,Ricardo José Menéndez Prieto
+Venezuela,Minister of Public Works,Raúl Alfonso Paredes,Q114605662,2018-06-14,,,,,,
+Venezuela,Minister of Science and Technology,Gabriela Jiménez,Q106975980,2019-06-06,,female,1976,,,Gabriela Jiménez Ramírez
+Venezuela,Minister of Tourism,Alí Padrón Paredes,Q114606662,2020-10-25,,,,,,
+Venezuela,Minister of University Education,Tibisay Lucena,Q6146383,2021-10-19,,female,1959-04-26,,TIBISAY LUCENA (16548373134).jpg,Tibisay Lucena
+Venezuela,Minister of Urban Agriculture,Greicys Dayamni Barrios,Q114606663,2020-09-04,,,,,,
+Venezuela,Minister of Water,Rodolfo Marco Torres,Q16301804,2021-09-17,,male,1966-09-10,,Rodolfo Marco Torres.png,Rodolfo Marco Torres
+Venezuela,Minister of Women and Gender Equality,Diva Guzmán,Q110992142,2022-02-09,,female,1986-02-23,,,
+Venezuela,Minister of Youth and Sports,Mervin Maldonado,Q109044864,2020-09-04,,male,,,,
 Venezuela,President of the National Assembly,Willian Lara,Q466806,2000-08-10,2003-01-05,male,1959-07-28,2010-09-10,,Willian Lara
 Venezuela,President of the National Assembly,Francisco Ameliach,Q5865064,2003-01-05,2005-01-05,male,1963-06-14,,,Francisco Ameliach
 Venezuela,President of the National Assembly,Nicolás Maduro,Q58132,2005-01-05,2006-08-07,male,1962-11-23,,Nicolás Maduro 2022 (cropped).jpeg,Nicolás Maduro
@@ -59,6 +95,10 @@ Venezuela,First Vice President of the National Assembly,Edgar Zambrano,Q60012352
 Venezuela,First Vice President of the National Assembly,Juan Pablo Guanipa,Q5951793,2020-01-05,,male,1964-12-20,,JuanPabloGuanipa.jpg,Juan Pablo Guanipa
 Venezuela,Governor of Amazonas,Henry Ramos Allup,Q5938504,1996-01-23,2001-02-11,male,1952-12-21,,,José Bernabé Gutiérrez
 Venezuela,Governor of Amazonas,Liborio Guarulla,Q3237890,2001-02-11,2017-10-15,male,1954-07-23,,,Liborio Guarulla
+Venezuela,Governor of Delta Amacuro,Yelitze Santaella,Q6169921,2000,2008,female,1960-08-01,,,
+Venezuela,Governor of Miranda,Diosdado Cabello,Q1227076,2004,2008,male,1963-04-15,,Diosdado Cabello 2013 cropped.jpg,Diosdado Cabello
+Venezuela,Governor of Monagas,Yelitze Santaella,Q6169921,2017,2021,female,1960-08-01,,,
+Venezuela,Governor of Sucre,Ramón Martínez,Q5576708,2000,2008,male,1948-08-31,2022-01-25,RAMON MARTINEZ.jpg,Ramón Martínez (governor)
 Venezuela,ambassador to Colombia,Roy Chaderton,Q7372656,2001,2002,male,1942-08-17,,,Roy Chaderton
 Venezuela,ambassador to Colombia,Félix Ramón Plasencia,Q108287837,2022-08-12,,male,,,Félix Plasencia en septiembre de 2021.png,
 Venezuela,ambassador to France,Roy Chaderton,Q7372656,2004,2007,male,1942-08-17,,,Roy Chaderton
