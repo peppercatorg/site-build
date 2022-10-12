@@ -126,7 +126,7 @@ Antigua and Barbuda,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Antigua and Barbuda,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Antigua and Barbuda,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Antigua and Barbuda,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Antigua and Barbuda,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Antigua and Barbuda,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Antigua and Barbuda,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Antigua and Barbuda,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
@@ -880,7 +880,7 @@ Bahamas,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Bahamas,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Bahamas,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Bahamas,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Bahamas,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Bahamas,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Bahamas,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Bahamas,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Bahamas,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
@@ -1171,7 +1171,7 @@ Belize,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Belize,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Belize,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Belize,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Belize,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Belize,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Belize,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Belize,Q57701,Dean Barrow,child,Q1346832,Shyne
 Belize,Q57701,Dean Barrow,spouse,Q23416186,Kim Simplis Barrow
@@ -8098,7 +8098,7 @@ Isle of Man,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Isle of Man,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Isle of Man,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Isle of Man,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Isle of Man,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Isle of Man,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Isle of Man,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Isle of Man,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Isle of Man,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
@@ -8663,7 +8663,7 @@ Jamaica,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Jamaica,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Jamaica,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Jamaica,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Jamaica,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Jamaica,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Jamaica,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Jamaica,Q47308275,Juliet Holness,spouse,Q505200,Andrew Holness
 Jamaica,Q505200,Andrew Holness,spouse,Q47308275,Juliet Holness
@@ -10224,7 +10224,7 @@ New Zealand,Q43274,Charles III,relative,Q3743314,Laura Lopes
 New Zealand,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 New Zealand,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 New Zealand,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-New Zealand,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+New Zealand,Q43274,Charles III,spouse,Q152239,Queen Camilla
 New Zealand,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 New Zealand,Q4451134,Te Ururoa Flavell,relative,Q104668231,Ranginui Parewahawaha Leonard
 New Zealand,Q466137,Georgina Beyer,father,Q5144886,Colin Beyer
@@ -11099,7 +11099,7 @@ Papua New Guinea,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Papua New Guinea,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Papua New Guinea,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Papua New Guinea,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Papua New Guinea,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Papua New Guinea,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Papua New Guinea,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Papua New Guinea,Q57892,Peter O'Neill,spouse,Q106006165,Lynda May Babao
 Papua New Guinea,Q58169,Sam Abal,father,Q87848310,Tei Abal
@@ -12357,7 +12357,7 @@ Saint Lucia,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Saint Lucia,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Saint Lucia,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Saint Lucia,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Saint Lucia,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Saint Lucia,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Saint Lucia,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Saint Lucia,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Saint Lucia,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
@@ -13105,7 +13105,7 @@ Solomon Islands,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Solomon Islands,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Solomon Islands,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Solomon Islands,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Solomon Islands,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Solomon Islands,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Solomon Islands,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Solomon Islands,Q59096666,Jimson Tanangada,spouse,Q59125182,Lanelle Tanangada
 Solomon Islands,Q59125182,Lanelle Tanangada,spouse,Q59096666,Jimson Tanangada
@@ -14003,7 +14003,7 @@ Saint Kitts and Nevis,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Saint Kitts and Nevis,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Saint Kitts and Nevis,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Saint Kitts and Nevis,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Saint Kitts and Nevis,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Saint Kitts and Nevis,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Saint Kitts and Nevis,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Saint Kitts and Nevis,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Saint Kitts and Nevis,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
@@ -14837,7 +14837,7 @@ Tuvalu,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Tuvalu,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Tuvalu,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Tuvalu,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Tuvalu,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Tuvalu,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Tuvalu,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Tuvalu,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Tuvalu,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
