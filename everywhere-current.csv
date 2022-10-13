@@ -169,7 +169,7 @@ Argentina,Minister of Foreign Affairs and Worship,Santiago Cafiero,Q68869954,202
 Argentina,Minister of Health,Carla Vizzotti,Q93147520,2021-02-20,female,1972-06-01,,Carla Vizzotti - foto institucional (cropped).jpg,Carla Vizzotti
 Argentina,Minister of the Interior,Eduardo de Pedro,Q12164058,2019-12-10,male,1976-11-11,,De Pedro.jpg,Eduardo de Pedro
 Argentina,minister of Justice and Human Rights,Martín Soria,Q105969717,2021-03-29,male,1975-12-15,,Ministro Martín Soria 2021.jpg,Martín Soria
-Argentina,Minister of Labour,Kelly Olmos,Q114580430,2022-10-10,female,1952-12-12,,Raquel kelly olmos.jpg,
+Argentina,Minister of Labour,Kelly Olmos,Q114580430,2022-10-10,female,1952-12-12,,,
 Argentina,Minister of Public Works,Gabriel Katopodis,Q2844048,2019-12-10,male,1967-03-06,,Ministro Gabriel Katopodis - 2020.jpg,Gabriel Katopodis
 Argentina,"Minister of Science, Technology and Innovation",Daniel Filmus,Q5217139,2021-09-20,male,1955-06-03,,Ministro Daniel Fernando Filmus.jpg,Daniel Filmus
 Argentina,Minister of Security,Aníbal Fernández,Q2857937,2021-09-20,male,1957-01-09,,Ministro Aníbal Domingo Fernández.jpg,Aníbal Fernández
@@ -177,7 +177,7 @@ Argentina,Minister of Social Development,Victoria Tolosa Paz,Q107209202,2022-10-
 Argentina,Minister of Territorial Development and Habitat,Jorge Ferraresi,Q5935055,2020-11-11,male,1961-08-26,,Ministro Jorge H. Ferraresi.jpg,Jorge Ferraresi
 Argentina,Minister of Tourism and Sports,Matías Lammens,Q6006648,2019-12-10,male,1980-04-05,,Matias Lammens 2019.jpg,Matías Lammens
 Argentina,Minister of Transport,Alexis Guerrera,Q106674728,2021-05-03,male,1971-02-02,,Ministro Alexis Raúl Guerrera (2021).jpg,Alexis Guerrera
-Argentina,"Minister of Women, Genders and Diversity",Ayelén Mazzina,Q114582959,2022-10-10,female,,,Ayelén Mazzina.webp,
+Argentina,"Minister of Women, Genders and Diversity",Ayelén Mazzina,Q114582959,2022-10-10,female,1989-09-07,,Mazzina (cropped).jpg,Ayelén Mazzina
 Argentina,Secretary of Energy,Norman Dario Martinez,Q41555918,2020-08-21,male,1974-09-03,,Norman Darío Martínez.png,Darío Martínez
 Argentina,Secretary of Malvinas Affairs,Guillermo Ramón Carmona,Q21856065,2021-09-24,male,1967-06-26,,Guillermo Ramón Carmona.png,Guillermo Carmona
 Argentina,Chief of the Cabinet of Ministers,Juan Manzur,Q6300262,2021-09-20,male,1969-01-08,,Manzur y Trotta (cropped).jpg,Juan Luis Manzur
@@ -939,10 +939,10 @@ Cabo Verde,President,José Maria Neves,Q57649,2021-11-09,male,1960-03-28,,José 
 Cabo Verde,Prime Minister,Ulisses Correia e Silva,Q23899522,2016-04-22,male,1962-06-04,,Sr. Ulisses Corrêa e Silva (cropped).png,Ulisses Correia e Silva
 Cabo Verde,Deputy Prime Minister,Olavo Correia,Q88247927,2016-05,male,,,,Olavo Correia
 Cabo Verde,Minister of Agriculture and the Environment,Gilberto Correia Carvalho Silva,Q108782678,2021-05-20,male,,,,Gilberto Correia Carvalho Silva
-Cabo Verde,Minister of Communities,Jorge Santos,Q114612816,2021-05-20,,,,,
+Cabo Verde,Minister of Communities,Jorge Santos,Q114612816,2021-05-20,male,,,,
 Cabo Verde,Minister of Culture,Abraão Aníbal Barbosa Vicente,Q114612805,2021-05-20,,,,,
-Cabo Verde,Minister of Defence,Janine Tatiana Santos Lélis,Q114612814,2021-05-20,,,,,
-Cabo Verde,Minister of Education,Amadeu Cruz Dr. Amadeu Cruz,Q114612807,2021-05-20,,,,,
+Cabo Verde,Minister of Defence,Janine Tatiana Santos Lélis,Q114612814,2021-05-20,female,,,,
+Cabo Verde,Minister of Education,Amadeu Cruz,Q114612807,2021-05-20,male,,,,
 Cabo Verde,"Minister for Family, Inclusion and Social Development",Fernando Elísio Freire,Q108745687,2021-05-20,male,1974,,,Fernando Elísio Freire
 Cabo Verde,Minister of Finance,Olavo Correia,Q88247927,2016-05,male,,,,Olavo Correia
 Cabo Verde,Minister of Foreign Affairs,Rui Alberto de Figueiredo Soares,Q7378692,2021-05-20,male,1956,,,Rui Alberto de Figueiredo Soares
@@ -5942,7 +5942,7 @@ United States,Director of National Intelligence,Avril Haines,Q14525857,2021-01-2
 United States,United States Trade Representative,Katherine Tai,Q104076331,2021-03-18,female,1974-03-18,,"Katherine Tai, official portrait.jpg",Katherine Tai
 United States,Administrator of the Environmental Protection Agency,Michael S. Regan,Q104224230,2021-03-11,male,1976-08-06,,Michael S. Regan official photo (cropped).jpg,Michael S. Regan
 United States,Administrator of the Small Business Administration,Isabel Guzman,Q104717188,2021-03-17,female,1971,,Isabel-Guzman.jpg,Isabel Guzman
-United States,Ambassador to the United Nations,Linda Thomas-Greenfield,Q19920980,2021-02-25,female,1952-11-22,,Linda-Thomas-Greenfield-v1-8x10-1.jpg,Linda Thomas-Greenfield
+United States,Ambassador to the United Nations,Linda Thomas-Greenfield,Q19920980,2021-02-25,female,1952,,Linda-Thomas-Greenfield-v1-8x10-1.jpg,Linda Thomas-Greenfield
 United States,Chair of the Council of Economic Advisers,Cecilia Rouse,Q616305,2021-03-12,female,1963-12-18,,"Cecilia Rouse, CEA Chair.png",Cecilia Rouse
 United States,White House Chief of Staff,Ron Klain,Q649898,2021-01-20,male,1961-08-08,,"Ron Klain, White House Chief of Staff.jpg",Ron Klain
 United States,Presidential Science Advisor and Director of the Office of Science and Technology Policy,Arati Prabhakar,Q4784423,2022-10-03,female,1959-02-02,,Arati Prabhakar DARPA Aug 2012.jpg,Arati Prabhakar

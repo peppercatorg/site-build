@@ -721,7 +721,8 @@ Australia,Q993978,Maxine McKew,partner,Q4932811,Bob Hogg
 Austria,Q113609,Elisabeth Gehrer,child,Q20984053,Stefan Gehrer
 Austria,Q113609,Elisabeth Gehrer,spouse,Q109316955,Fritz Gehrer
 Austria,Q11753,Heinz Fischer,father,Q25679281,Rudolf Fischer
-Austria,Q11753,Heinz Fischer,sibling,Q52084591,Edith Fischer
+Austria,Q11753,Heinz Fischer,mother,Q114627667,Emma Maria Fischer
+Austria,Q11753,Heinz Fischer,sibling,Q52084591,Edith Stumpf-Fischer
 Austria,Q11753,Heinz Fischer,spouse,Q32413,Margit Fischer
 Austria,Q1281364,Eckart Ratz,father,Q1309018,Gerold Ratz
 Austria,Q1331435,Gabriele Nußbaumer,sibling,Q1372852,Eugen Russ
@@ -1490,6 +1491,8 @@ Brazil,Q744798,Ciro Gomes,sibling,Q5119489,Cid Gomes
 Brazil,Q744798,Ciro Gomes,spouse,Q519758,Patrícia Pillar
 Brazil,Q744798,Ciro Gomes,spouse,Q8427812,Patrícia Saboya
 Brazil,Q7638345,Cássio Cunha Lima,father,Q7365432,Ronaldo Cunha Lima
+Brazil,Q7981381,Wellington Dias,father,Q114594392,Joaquim Antônio Neto
+Brazil,Q7981381,Wellington Dias,mother,Q114594527,Teresinha de Araújo Dias
 Brazil,Q8069997,José Perrella de Oliveira Costa,child,Q18275562,Gustavo Perrella
 Brazil,Q9074685,Sarney Filho,father,Q244997,José Sarney
 Brazil,Q9074685,Sarney Filho,sibling,Q10281520,Fernando Sarney
@@ -1779,7 +1782,7 @@ Canada,Q43274,Charles III,relative,Q3743314,Laura Lopes
 Canada,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 Canada,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 Canada,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Canada,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+Canada,Q43274,Charles III,spouse,Q152239,Queen Camilla
 Canada,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Canada,Q45311888,Jean Yip,spouse,Q17305769,Arnold Chan
 Canada,Q4684985,Adrian Dix,spouse,Q19894620,Renée Sarojini Saklikar
@@ -2178,6 +2181,7 @@ China,Q16597,Jiang Zemin,spouse,Q717483,Wang Yeping
 China,Q16597,Jiang Zemin,stepparent,Q8296718,Jiang Shangqing
 China,Q16628,Wen Jiabao,child,Q15914799,Wen Ruchun
 China,Q16628,Wen Jiabao,child,Q3380941,Wen Yunsong
+China,Q16628,Wen Jiabao,mother,Q114632433,Yang Zhiyun
 China,Q16628,Wen Jiabao,spouse,Q4122281,Zhang Peili
 China,Q16906066,Wang Xiaoyu,spouse,Q697930,Liu Xiaoqing
 China,Q16906311,Bai Tian,father,Q7217871,Bai Dongcai
@@ -10343,6 +10347,7 @@ Nigeria,Q5576947,Godswill Akpabio,spouse,Q112170883,Ekaette Unoma Akpabio
 Nigeria,Q5607086,Gregory Ngaji,child,Q111199628,Jude Ngaji
 Nigeria,Q56678515,Babajide Sanwo-Olu,spouse,Q109609620,Ibijoke Sanwo-Olu
 Nigeria,Q57380,Goodluck Jonathan,spouse,Q7144934,Patience Jonathan
+Nigeria,Q5984059,Ibikunle Amosun,spouse,Q114607284,Olufunso Amosun
 Nigeria,Q6080812,Isiaka Adetunji Adeleke,father,Q55808166,Raji Ayoola Adeleke
 Nigeria,Q62356,Babatunde Fashola,spouse,Q19891940,Abimbola Fashola
 Nigeria,Q6301957,Jibril Aminu,child,Q66846662,Aminu Bello
@@ -11912,7 +11917,7 @@ Qatar,Q1855372,Tamim bin Hamad Al Thani,mother,Q238774,Moza bint Nasser Al Missn
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q14946739,Maha bint Hamad bin Khalifa Al Thani
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q50379398,Khalifa Bin Hamad Bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6161563,Jasim bin Hamad bin Khalifa Al Thani
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6204478,Joaan bin Hamad bin Khalifa Al Thani
 Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6399598,Khalid bin Hamad bin Khalifa Al Thani
@@ -11924,7 +11929,7 @@ Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q14946739,Maha bint Hamad bin Khal
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q1855372,Tamim bin Hamad Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
-Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q50379398,Khalifa Bin Hamad Bin Khalifa Al Thani
+Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q6161563,Jasim bin Hamad bin Khalifa Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q6204478,Joaan bin Hamad bin Khalifa Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q6399598,Khalid bin Hamad bin Khalifa Al Thani
@@ -14028,6 +14033,7 @@ Suriname,Q333135,Chan Santokhi,spouse,Q104780411,Mellisa Seenacherry
 Suriname,Q57667,Dési Bouterse,child,Q2750706,Dino Bouterse
 Sweden,Q105928301,Markus Kallifatides,father,Q2031528,Theodor Kallifatides
 Sweden,Q108281858,Charlotte von Essen,spouse,Q39160642,Ulrik von Essen
+Sweden,Q114030387,Gabriel Eugen Kroon,sibling,Q101113648,Julian Kroon
 Sweden,Q114031230,Peter Ollén,father,Q6025308,Gunnar Ollén
 Sweden,Q114031230,Peter Ollén,sibling,Q34036434,Theresa Benér
 Sweden,Q114031230,Peter Ollén,sibling,Q6025320,Joakim Ollén
@@ -14235,10 +14241,10 @@ Sweden,Q701382,Björn von der Esch,child,Q5718882,Carl von der Esch
 Sweden,Q701382,Björn von der Esch,spouse,Q111031903,Signe von der Esch
 Sweden,Q724410,Gabriel Romanus,father,Q95922548,Ragnar Romanus
 Sweden,Q724410,Gabriel Romanus,mother,Q50680702,Vera Starck-Romanus
-Sweden,Q75461145,Marie Suzanne Nicholson,child,Q75461158,Ronnie Uri Uri
-Sweden,Q75461145,Marie Suzanne Nicholson,father,Q75461087,Stephen Lloyd Nicholson
-Sweden,Q75461145,Marie Suzanne Nicholson,mother,Q75461136,Leone Gladys Burberry
-Sweden,Q75461145,Marie Suzanne Nicholson,spouse,Q75461157,Ron Uri
+Sweden,Q75461145,Marie Nicholson,child,Q75461158,Ronnie Uri Uri
+Sweden,Q75461145,Marie Nicholson,father,Q75461087,Stephen Lloyd Nicholson
+Sweden,Q75461145,Marie Nicholson,mother,Q75461136,Leone Gladys Burberry
+Sweden,Q75461145,Marie Nicholson,spouse,Q75461157,Ron Uri
 Sweden,Q772089,Hillevi Engström,sibling,Q4955214,Karin Hübinette
 Sweden,Q77555,Walburga Habsburg Douglas,child,Q75294741,Count Moritz Douglas
 Sweden,Q77555,Walburga Habsburg Douglas,father,Q76343,Otto von Habsburg
@@ -19299,7 +19305,7 @@ United Kingdom,Q43274,Charles III,relative,Q3743314,Laura Lopes
 United Kingdom,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
 United Kingdom,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
 United Kingdom,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-United Kingdom,Q43274,Charles III,spouse,Q152239,"Camilla, Queen Consort"
+United Kingdom,Q43274,Charles III,spouse,Q152239,Queen Camilla
 United Kingdom,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 United Kingdom,Q4360966,"Jack Simon, Baron Simon of Glaisdale",child,Q7167807,Peregrine Simon
 United Kingdom,Q4360966,"Jack Simon, Baron Simon of Glaisdale",child,Q75930430,Crispin Simon

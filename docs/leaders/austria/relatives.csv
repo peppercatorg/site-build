@@ -2,7 +2,8 @@ catalog,id,name,relationship,relative,relativename
 Austria,Q113609,Elisabeth Gehrer,child,Q20984053,Stefan Gehrer
 Austria,Q113609,Elisabeth Gehrer,spouse,Q109316955,Fritz Gehrer
 Austria,Q11753,Heinz Fischer,father,Q25679281,Rudolf Fischer
-Austria,Q11753,Heinz Fischer,sibling,Q52084591,Edith Fischer
+Austria,Q11753,Heinz Fischer,mother,Q114627667,Emma Maria Fischer
+Austria,Q11753,Heinz Fischer,sibling,Q52084591,Edith Stumpf-Fischer
 Austria,Q11753,Heinz Fischer,spouse,Q32413,Margit Fischer
 Austria,Q1281364,Eckart Ratz,father,Q1309018,Gerold Ratz
 Austria,Q1331435,Gabriele Nußbaumer,sibling,Q1372852,Eugen Russ
