@@ -281,6 +281,7 @@ Q19862156,Maria Fitzpatrick,female,1949-02-18,11,,,Maria Fitzpatrick 2015.jpg,Ma
 Q19862157,Kathleen Ganley,female,1978,9,,,Kathleen Ganley 2015.jpg,Kathleen Ganley
 Q19862158,Nicole Goehring,female,1976,9,,,Nicole Goehring 2015.jpg,Nicole Goehring
 Q19862159,Christina Gray,female,1978-11-01,11,,,,Christina Gray
+Q19862160,Bruce Hinkley,male,1949,9,,,Bruce Hinkley 2015.jpg,Bruce Hinkley
 Q19862161,Sarah Hoffman,female,1980-05-30,11,,,SarahHoffmanMLA2013.jpg,Sarah Hoffman
 Q19862162,Trevor Horne,male,1991-03-24,11,,,Trevor Horne 2015.jpg,Trevor Horne (Canadian politician)
 Q19862164,Debbie Jabbour,female,,8,,,Debbie Jabbour 2015.jpg,Debbie Jabbour
@@ -332,6 +333,7 @@ Q2037792,André Arthur,male,1943-12-21,11,2022-05-08,11,André Arthur (cropped).
 Q205319,Gilles Duceppe,male,1947-07-22,11,,,Gilles Duceppe.jpg,Gilles Duceppe
 Q2056550,Pat O'Brien,male,1948-01-13,11,,,,Pat O'Brien (Canadian politician)
 Q206,Stephen Harper,male,1959-04-30,11,,,Stephen-Harper-Cropped-2014-02-18.jpg,Stephen Harper
+Q20641950,Bob Turner,male,1948-06-23,11,,,Dr Bob Turner 2015.jpg,Bob Turner (Canadian politician)
 Q20666410,Catherine Fournier,female,1992-04-07,11,,,Catherine Fournier (2018).jpg,Catherine Fournier (Canadian politician)
 Q20676568,Nathaniel Erskine-Smith,male,1984-06-15,11,,,Nathaniel Erskine-Smith at the East York Canada Day Parade - 2018 (42256213615) (cropped).jpg,Nathaniel Erskine-Smith
 Q20682472,Jonathan Vance,male,1964-01-03,11,,,"Chairman of the Joint Chiefs of Staff Gen. Joe Dunford, and Canadian Chief of Defence Staff Gen. Jonathan Vance (cropped).jpg",Jonathan Vance
@@ -353,6 +355,7 @@ Q21062862,Colleen Young,female,,,,,,Colleen Young (politician)
 Q21062976,Glenn van Dijken,male,1962-09-06,11,,,Glenn van Dijken.JPG,Glenn van Dijken
 Q21062977,Wes Taylor,male,1962,9,,,Wes Taylor.JPG,Wes Taylor (politician)
 Q21062979,Mark Smith,male,1960,9,,,Mark Smith MLA AB.JPG,Mark Smith (Canadian politician)
+Q21062980,Dave Schneider,male,1957-09-09,11,,,Dave Schneider AB MLA.JPG,Dave Schneider (politician)
 Q21064615,David Lametti,male,1962-08-10,11,,,David Lametti.JPG,David Lametti
 Q21066146,Ken McDonald,male,1959-06,10,,,KenMcDonald.jpg,Ken McDonald (politician)
 Q21066549,Prasad Panda,male,,,,,PandaMLA.png,Prasad Panda
@@ -1451,9 +1454,6 @@ Q49631,David Alward,male,1959-12-02,11,,,David Alward.jpg,David Alward
 Q4978177,Bruce Ralston,male,,,,,Bruce Ralston.jpg,Bruce Ralston
 Q5024836,Cam Jackson,male,1951-02-27,11,,,,Cam Jackson
 Q5026243,Cameron Friesen,male,,7,,,Cfriesen.1.jpg,Cameron Friesen
-Q50272442,Bruce Hinckley,male,,,,,,
-Q50272899,Pat Steir,,,,,,,
-Q50273050,Dr. Bob Turner,male,,,,,,
 Q50275326,Tom Lindsay,male,,,,,,
 Q50285540,Rob Flemming,male,,,,,,
 Q50285672,John Martin,male,,,,,,
@@ -1478,7 +1478,6 @@ Q5132550,Cliff Breitkreuz,male,1940-07-30,11,,,,Cliff Breitkreuz
 Q5132607,Cliff Graydon,male,,,,,,Cliff Graydon
 Q513906,Libby Davies,female,1953-02-27,11,,,Libby Davies.jpg,Libby Davies
 Q513969,Mark Warawa,male,1950-05-07,11,2019-06-20,11,Mark Warawa - 2017 (38985000371) (cropped).jpg,Mark Warawa
-Q51463051,Chris Nielson,,,,,,,
 Q514977,Carol Skelton,female,1945-12-12,11,,,,Carol Skelton
 Q515017,Tina Keeper,female,1962-03-20,11,,,,Tina Keeper
 Q515192,Gérald Beaudoin,male,1929-04-15,11,2008-09-10,11,,Gérald Beaudoin
@@ -1539,7 +1538,6 @@ Q5353253,Elaine McCoy,female,1946-03-07,11,2020-12-29,11,SenatorElaineMcCoysitti
 Q5361139,Elinor Caplan,female,1944-05-20,11,,,,Elinor Caplan
 Q5363740,Elizabeth Witmer,female,1946-10-16,11,,,ElizabethWitmerOktimg294.jpg,Elizabeth Witmer
 Q5368300,Elwin Hermanson,male,1952-08-22,11,,,,Elwin Hermanson
-Q53722688,David Schneider,male,,,,,,
 Q5386507,Eric Foster,male,1949,9,,,,Eric Foster (politician)
 Q5386756,Eric Hoskins,male,1960-11-29,11,,,Eric Hoskins.JPG,Eric Hoskins
 Q5389236,Erin Weir,male,1982,9,,,ErinWeirPortrait.JPG,Erin Weir
@@ -1851,6 +1849,7 @@ Q705518,Art Eggleton,male,1943-09-29,11,,,Art Eggleton 1.JPG,Art Eggleton
 Q7114116,Ovid Jackson,male,1939-02-03,11,,,,Ovid Jackson
 Q7123636,Paddy Torsney,female,1962-12-19,11,,,,Paddy Torsney
 Q7129736,Pana Merchant,female,1943-04-02,11,,,,Pana Merchant
+Q7144044,Pat Stier,male,1954,9,,,MLA Pat Stier.jpg,Pat Stier
 Q7149438,Paul Bonwick,male,1964-10-24,11,,,,Paul Bonwick
 Q7149678,Paul Calandra,male,1970-05-13,11,,,PaulCalandra.jpg,Paul Calandra
 Q7150187,Paul DeVillers,male,1946-03-11,11,,,,Paul DeVillers
