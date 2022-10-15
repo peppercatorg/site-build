@@ -1,12 +1,16 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
+Q100152366,Sadio Camara,male,1979,9,,,,Sadio Camara
 Q100233714,Maïga Zeïnab Mint Youba,female,1955-11-30,11,,,,
 Q100275809,Togola Marie Jacqueline Nana,female,1949-04-29,11,2020-11-29,11,,
 Q100276030,Oumou Simbo Keïta,female,1968-12-05,11,2015-02-24,11,,
 Q100330225,Aïcha Belco Maïga,female,1962,9,,,,
 Q103868460,Malick Diaw,male,1979,9,,,Malick Diaw.jpg,Malick Diaw
 Q105106997,Zeïni Moulaye,male,1954-12-31,11,,,,Zeïni Moulaye
+Q105587923,Fanta Siby,female,1962,9,,,Fanta SIBY.jpg,
 Q106466538,Alioune Nouhoum Diallo,male,1938,9,,,,
 Q106580823,Alousséni Sanou,male,1964,9,,,,
+Q107710432,Diéminatou Sangaré,female,1966,9,,,,
+Q107710573,Sidibé Dédéou Ousmane,female,1958-12-05,11,,,,
 Q110607746,Mahamadou Cissé,male,,7,,,,
 Q110607782,Bano Diawara,female,,7,,,,
 Q110610934,Marthe Diawara,female,,,,,,
@@ -60,6 +64,27 @@ Q113577661,Abdoulaye Maïga,male,1981-05-12,11,,,,Abdoulaye Maïga (officer)
 Q113669238,Seyba Traoré,male,,,,,,
 Q113669582,Samba Alhamdou Baby,male,,,,,,
 Q113669743,Mamadou Kassogue,male,,,,,,
+Q114674175,Amadou Keïta,male,,,,,,
+Q114674176,Andogoly Guindo,male,,,,,,
+Q114674177,Bakary Doumbia,male,,,,,,
+Q114674178,Bréhima Kamena,male,,,,,,
+Q114674179,Daouda Aly Mohammedine,male,,,,,,
+Q114674180,Dembéle Madina Sissoko,female,,,,,,
+Q114674181,Diawara Aoua Paul Diallo,female,,,,,,
+Q114674182,Fatoumata Sékou Dicko,female,,,,,,
+Q114674183,Hamdou Ag Ilène,male,,,,,,
+Q114674184,Harouna Mamadou Toureh,male,,,,,,
+Q114674185,Ibrahim Ikassa Maïga,male,,,,,,
+Q114674186,Lamine Seydou Traoré,male,,,,,,
+Q114674187,Mahamadou Koné,male,,,,,,
+Q114674188,Mahmoud Ould Mohamed,male,,,,,,
+Q114674189,Modibo Koné,male,,,,,,
+Q114674190,Moussa Ag Attaher,male,,,,,,
+Q114674191,Oumarou Diarra,male,,,,,,
+Q114674192,Wadidié Founè Coulibaly,female,,,,,,
+Q114674193,Youba Ba,male,,,,,,
+Q114674242,Modibo Keïta,male,,,,,,
+Q114674578,Modibo Kone,male,,,,,,
 Q1362358,Younoussi Touré,male,1941-01-01,11,,,,Younoussi Touré
 Q14832856,Oumar Tatam Ly,male,1963-11-28,11,,,,Oumar Tatam Ly
 Q16267917,Diallo Madeleine Bâ,female,1951-10-16,11,,,,
@@ -116,6 +141,7 @@ Q85984217,Bouaré Fily Sissoko,female,1955-08-22,11,,,,
 Q861710,Django Sissoko,male,1948,9,2022-04-04,11,Diango Sissoko.jpg,Django Sissoko
 Q94579756,Salimata Traoré,female,1994-02-16,11,,,,Salimata Traoré
 Q95114007,Moussa Timbiné,male,1974-07-14,11,,,,Moussa Timbiné
+Q98491629,Ismaël Wagué,male,,,,,Comité national pour le salut du Peuple - Ismaël Wagué (cropped).jpg,Ismaël Wagué
 Q98497406,Assimi Goïta,male,1983,9,,,"Assimi Goita, August 2021 (cropped).png",Assimi Goïta
 Q98914544,Abdoulaye Daffé,male,1954,9,,,,
 Q99522144,Bah Ndaw,male,1950-08-23,11,,,"Visit of Josep Borrell Fontelles, Vice-President of the European Commission, to Mali.jpg",Bah Ndaw
