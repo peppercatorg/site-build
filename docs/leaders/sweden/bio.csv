@@ -26,7 +26,7 @@ Q10575345,Magnus Sjödahl,male,1958-08-13,11,,,Magnus Sjödahl 01.JPG,
 Q10578332,Mathias Sundin,male,1978-03-31,11,,,Mathias Sundin.jpg,
 Q105928301,Markus Kallifatides,male,1972-04-18,11,,,,
 Q10678024,Stefan Käll,male,1962,9,,,,
-Q106783058,Lars Isacsson,male,1970,9,,,,
+Q106783058,Lars Isacsson,male,1970,9,,,Lars Isacsson.jpg,
 Q106785041,Daniel Färm,male,1972,9,,,,
 Q106862781,Jessica Rodén,female,1976,9,,,,
 Q107364088,Mohamoud M. Enow,male,1955,9,,,,
@@ -69,7 +69,7 @@ Q111655286,Mubarik Mohamed Abdirahman,male,1982-11-03,11,,,Mubarik Mohamed Abdir
 Q111702617,Håkan Åkesson,male,1961,9,,,,
 Q112075255,Christofer Bergenblock,male,1974-09-15,11,,,,
 Q112318519,Karin Engdahl,female,1972,9,,,"Karin Engdahl,Gamla stan Stockholm, 2022.jpg",Karin Engdahl
-Q113847323,Adrian Magnusson,male,1994-10-04,11,,,,
+Q113847323,Adrian Magnusson,male,1994-10-04,11,,,,Adrian Magnusson
 Q114029317,Mirja Räihä,female,1959-05-15,11,,,,Mirja Räihä
 Q114030385,Daniel Vencu Velasquez Castro,male,1994-09-22,11,,,,
 Q114030387,Gabriel Eugen Kroon,male,1996-11-07,11,,,,Gabriel Kroon
@@ -80,7 +80,7 @@ Q114031216,Leonid Yurkovskiy,male,1995-11-22,11,,,,Leonid Yurkovskiy
 Q114031217,Beatrice Rugland Timgren,female,1989-05-12,11,,,,Beatrice Timgren
 Q114031218,Jacob Risberg,male,1972-12-02,11,,,,Jacob Risberg
 Q114031219,Lars Wistedt,male,1964-03-03,11,,,,Lars Wistedt
-Q114031222,Niklas Sigvardsson,male,1991-02-01,11,,,,
+Q114031222,Niklas Sigvardsson,male,1991-02-01,11,,,,Niklas Sigvardsson
 Q114031224,Thomas Ragnarsson,male,1970-01-05,11,,,,
 Q114031225,Lars Engsund,male,1968-07-02,11,,,,
 Q114031228,Mona Olin,female,1967-12-04,11,,,,Mona Olin
@@ -88,9 +88,9 @@ Q114031230,Peter Ollén,male,1959-06-27,11,,,,
 Q114031231,Louise Eklund Bergström,female,1979-06-03,11,,,,
 Q114031232,Victoria Tiblom,female,1969-10-21,11,,,,Victoria Tiblom
 Q114031233,Torsten Elofsson,male,1950-11-29,11,,,,
-Q114031234,Ewa Pihl Krabbe,female,1947-10-14,11,,,,
+Q114031234,Ewa Pihl Krabbe,female,1947-10-14,11,,,,Ewa Pihl Krabbe
 Q114031236,Cecilia Rönn,female,1980-05-06,11,,,,
-Q114031237,Aida Birinxhiku,female,1999-06-29,11,,,,Aida Birinxhiku
+Q114031237,Aida Birinxhiku,female,1999-06-29,11,,,Pressbild Aida Birinxhiku.png,Aida Birinxhiku
 Q114031238,Erik Hellsborn,male,1984-05-21,11,,,,Erik Hellsborn
 Q114031240,Carita Boulwén,female,1967-09-06,11,,,,Carita Boulwén
 Q114031241,Amalia Rud Pedersen,female,1993-04-19,11,,,,Amalia Rud Pedersen
@@ -126,6 +126,7 @@ Q114240008,Rasmus Giertz,male,1994-06-03,11,,,,
 Q114240056,Susanne Nordström,female,1963-04-16,11,,,,
 Q114244604,Alexander Wasberg,male,1994-07-19,11,,,,
 Q114630146,Annette Rydell,female,1965-08-08,11,,,,
+Q114659286,Martin Westmont,male,1978,9,,,,
 Q12006677,Tomas Nilsson,male,1965,9,,,,
 Q1232072,Jan O. Karlsson,male,1939-06-01,11,2016-09-19,11,,Jan O. Karlsson
 Q129454,Peter Egardt,male,1949-09-19,11,,,Peter Egardt.jpg,Peter Egardt
@@ -198,7 +199,7 @@ Q18238432,Dennis Dioukarev,male,1993-03-27,11,,,Dennis Dioukarev 2019.jpg,Dennis
 Q18238607,Aron Emilsson,male,1990-02-20,11,,,Aron Emilsson (SD) in 2018.jpg,Aron Emilsson
 Q18238692,Janine Alm Ericson,female,1973-10-31,11,,,JanineAlmEricson.jpg,Janine Alm Ericson
 Q18238731,Mikael Eskilandersson,male,1977-04-04,11,,,Mikael Eskilandersson.jpg,Mikael Eskilandersson
-Q18238811,Olle Felten,male,1953-10-28,11,,,,Olle Felten
+Q18238811,Olle Felten,male,1953-10-28,11,,,Olle Felten.jpg,Olle Felten
 Q18238847,Runar Filper,male,1964-05-19,11,,,,Runar Filper
 Q18238922,Anders Forsberg,male,1974-08-03,11,,,,
 Q18239164,Tina Ghasemi,female,1985-05-23,11,,,Tina Ghasemi.jpg,Tina Ghasemi
@@ -222,7 +223,7 @@ Q18244644,Johan Nissinen,male,1989-05-17,11,,,,Johan Nissinen
 Q18244660,Emma Nohrén,female,1980-04-21,11,,,,Emma Nohrén
 Q18244900,Magnus Oscarsson,male,1970-03-16,11,,,Magnus Oscarsson.jpg,Magnus Oscarsson
 Q18245374,Daniel Riazat,male,1991-03-10,11,,,Daniel Riazat.jpg,
-Q18245379,Roger Richthoff,male,1948-12-11,11,,,,Roger Richthoff
+Q18245379,Roger Richthoff,male,1948-12-11,11,,,Roger Richthoff 2022.jpg,Roger Richthoff
 Q18245444,Azadeh Rojhan Gustafsson,female,1986-02-06,11,,,Azadeh Rojhan Gustafsson.jpg,Azadeh Rojhan Gustafsson
 Q18245556,Karin Rågsjö,female,1955-04-23,11,,,Karin Rågsjö.jpg,
 Q18245726,Daniel Sestrajcic,male,1976-02-02,11,,,,
@@ -1531,7 +1532,7 @@ Q724410,Gabriel Romanus,male,1939-01-25,11,,,Gabriel Romanus 1c319 7693.jpg,Gabr
 Q72922068,Markus Selin,male,1978-10-10,11,,,Markus Selin 2022.jpg,
 Q73918460,Lars Andersson,male,1964-12-21,11,,,,Lars Andersson (politician)
 Q74566289,Daniel Andersson,male,1986-12-05,11,,,Daniel Andersson.jpg,
-Q75461145,Marie Nicholson,female,1955,9,,,,
+Q75461145,Marie Nicholson,female,1955,9,,,Marie Nicholson (M).jpg,
 Q772089,Hillevi Engström,female,1963-04-15,11,,,Hillevi Engstrom 1c399 0321.jpg,Hillevi Engström
 Q77555,Walburga Habsburg Douglas,female,1958-10-05,11,,,Flickr - europeanpeoplesparty - EPP Congress Bonn (635).jpg,Walburga Habsburg Douglas
 Q84760405,Johan Danelius,male,1968-03-18,11,,,,

@@ -312,7 +312,7 @@ China,member of the National People's Congress,Zhang Zhongwei,Q8296186,2003-03-0
 China,member of the National People's Congress,Shi Xiushi,Q8296229,2003-03-05,,male,1942,,,Shi Xiushi
 China,member of the National People's Congress,梁卫国,Q8297684,2003-03-05,,male,1955-01,,,
 China,member of the National People's Congress,Wang Xiuzhi,Q8297826,2003-03-05,2010-12-07,male,1945,2010-12-07,,
-China,member of the National People's Congress,Qu Mo Shi Ha,Q8297930,2003-03-05,,male,1960-01,,,
+China,member of the National People's Congress,Qu Mo Shi Ha,Q8297930,2003-03-05,,male,1960-01,,,Qumushiha
 China,member of the National People's Congress,Li Guoying,Q8297956,2003-03-05,,male,1964-01,,,Li Guoying
 China,member of the National People's Congress,Zhao Jianhui,Q8298294,2003-03-05,,female,1955-09,,,
 China,member of the National People's Congress,黄彦蓉,Q8298352,2003-03-05,,female,1955-11,,,
@@ -495,6 +495,7 @@ China,member of the National People's Congress,魏丽惠,Q9449956,2003-03-05,,fe
 China,member of the National People's Congress,Gong Xueping,Q9466246,2003-03-05,,male,1942,,,
 China,member of the National People's Congress,贺铿,Q9473780,2003-03-05,,,1942,,,
 China,member of the National People's Congress,Jiang Jiemin,Q981617,2003-03-05,,male,1955-10-04,,,Jiang Jiemin
+China,member of the National People's Congress,Wang Chaoqun,Q8320252,2008,2013-03,male,1942,,,Wang Chaoqun
 China,member of the National People's Congress,Abdurehim Amet,Q8915683,2008,2013,male,1942-11,,,Abdurehim Amet
 China,member of the National People's Congress,朱雪芹,Q9193836,2008,2013-03,female,1977,,,
 China,member of the National People's Congress,朱雪芹,Q9193836,2008,2018-03,female,1977,,,
@@ -575,7 +576,7 @@ China,member of the National People's Congress,Wu Zhenglong,Q10919528,2008-03-05
 China,member of the National People's Congress,吴新春,Q10919538,2008-03-05,2013-03,female,1972,,,
 China,member of the National People's Congress,吴正有,Q10919588,2008-03-05,2013-03,,1956,,,
 China,member of the National People's Congress,吴泽刚,Q10919614,2008-03-05,2013-03,male,1955,,,
-China,member of the National People's Congress,周光权,Q10920163,2008-03-05,2013-03,,1968,,,
+China,member of the National People's Congress,Zhou Guangquan,Q10920163,2008-03-05,2013-03,male,1968,,,
 China,member of the National People's Congress,周国允,Q10920270,2008-03-05,2013-03,,1964,,,
 China,member of the National People's Congress,周宝生,Q10920387,2008-03-05,2013-03,,1953,,,
 China,member of the National People's Congress,周建元,Q10920501,2008-03-05,2013-03,female,1966,,,
@@ -2531,7 +2532,6 @@ China,member of the National People's Congress,Huang Jiaxiang,Q8319538,2008-03-0
 China,member of the National People's Congress,刘忠兴,Q8319700,2008-03-05,2013-03,male,1947,,,
 China,member of the National People's Congress,Zhu Qingyi,Q8320013,2008-03-05,2013-03,male,1948,,,Zhu Qingyi
 China,member of the National People's Congress,Yang Guohai,Q8320113,2008-03-05,2013-03,male,1950-05,,,Yang Guohai
-China,member of the National People's Congress,Wang Chaoqun,Q8320252,2008-03-05,2013-03,male,1942,,,Wang Chaoqun
 China,member of the National People's Congress,贾延明,Q8320490,2008-03-05,2013-03,male,1948,,,
 China,member of the National People's Congress,Jia Yongsheng,Q8320501,2008-03-05,2013-03,male,1947,,,Jia Yongsheng
 China,member of the National People's Congress,高守维,Q8320708,2008-03-05,2013-03,male,1948,,,
@@ -3295,7 +3295,7 @@ China,member of the National People's Congress,吴紫骊,Q10919675,2013-03-05,20
 China,member of the National People's Congress,吴金水,Q10919750,2013-03-05,2018-03,,1961,,,
 China,member of the National People's Congress,吴鹏飞,Q10919780,2013-03-05,2018-03,,1954,,,
 China,member of the National People's Congress,周云杰,Q10920119,2013-03-05,2018-03,male,1966,,,
-China,member of the National People's Congress,周光权,Q10920163,2013-03-05,2018-03,,1968,,,
+China,member of the National People's Congress,Zhou Guangquan,Q10920163,2013-03-05,2018-03,male,1968,,,
 China,member of the National People's Congress,周公卒,Q10920178,2013-03-05,2018-03,,1956,,,
 China,member of the National People's Congress,Zhou Houjian,Q10920220,2013-03-05,2018-03,male,1957,,,
 China,member of the National People's Congress,周喜安,Q10920262,2013-03-05,2018-03,,1963,,,
@@ -7445,6 +7445,7 @@ China,member of CPPCC National Committee,Wan Gang,Q95023,2003-03,2008-03,male,19
 China,member of CPPCC National Committee,Yuan Weimin,Q986399,2003-03,2008-03,male,1939-07-08,,,Yuan Weimin
 China,member of CPPCC National Committee,Li Juchang,Q98764369,2003-03,2008-03,male,1938-03,2022-02-27,,
 China,member of CPPCC National Committee,Wu Yuxia,Q10919646,2008,2013-03,female,1959,,,
+China,member of CPPCC National Committee,Zhou Mingfu,Q10920644,2008,2013-03,male,1945,,,
 China,member of CPPCC National Committee,Hai Xia,Q8970585,2008,,female,1972-03-09,,Haixia.jpg,Hai Xia
 China,member of CPPCC National Committee,張國良,Q10294260,2008-03,2013-03,,,,,
 China,member of CPPCC National Committee,Li Yang,Q10335644,2008-03,2013-03,male,1958,,,
@@ -7699,7 +7700,6 @@ China,member of CPPCC National Committee,周宜开,Q10920385,2008-03,2013-03,,19
 China,member of CPPCC National Committee,周幼马,Q10920480,2008-03,2013-03,,1943,,,
 China,member of CPPCC National Committee,周建平,Q10920506,2008-03,2013-03,,1960,,,
 China,member of CPPCC National Committee,Zhou Chenghu,Q10920581,2008-03,2013-03,male,1964,,,
-China,member of CPPCC National Committee,Zhou Mingfu,Q10920644,2008-03,2013-03,male,1945,,,
 China,member of CPPCC National Committee,Zhou Jinfeng,Q10920662,2008-03,2013-03,male,1962,,,
 China,member of CPPCC National Committee,周桐宇,Q10920716,2008-03,2013-03,,1968,,,
 China,member of CPPCC National Committee,周浪,Q10920800,2008-03,2013-03,,1962,,,

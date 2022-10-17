@@ -830,6 +830,7 @@ United States,Q48259,Dick Cheney,mother,Q96201433,Marjorie Lorraine Dickey
 United States,Q48259,Dick Cheney,spouse,Q234992,Lynne Cheney
 United States,Q484005,Alexander Vershbow,father,Q40176783,Arthur Vershbow
 United States,Q48825762,Nick Stepovich,father,Q882851,Mike Stepovich
+United States,Q4886519,Ben Stevens,father,Q50599,Ted Stevens
 United States,Q4888549,Benjamin F. Kramer,father,Q7509186,Sidney Kramer
 United States,Q4888549,Benjamin F. Kramer,sibling,Q7364585,Rona E. Kramer
 United States,Q4897558,Beth Kerttula,father,Q6166798,Jay Kerttula
@@ -855,6 +856,7 @@ United States,Q505236,Fred Upton,mother,Q96203329,Elizabeth Brooks Vial
 United States,Q505236,Fred Upton,sibling,Q24050623,Jeff Upton
 United States,Q5052604,Catherine Cortez Masto,spouse,Q93876373,Paul Masto
 United States,Q5053473,Cathy Muñoz,father,Q15992945,"Elton Engstrom, Jr."
+United States,Q50599,Ted Stevens,child,Q4886519,Ben Stevens
 United States,Q50612,Susan Rice,father,Q1338730,Emmett J. Rice
 United States,Q50612,Susan Rice,mother,Q29261542,Lois Rice
 United States,Q5076629,Charlie Baker,father,Q5076633,Charles D. Baker

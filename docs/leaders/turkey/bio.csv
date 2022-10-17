@@ -1,6 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100329199,Muhammed Fatih Toprak,male,1985-07-02,11,,,Muhammed Fatih Toprak.jpg,
-Q1020672,Bülent Arınç,male,1948-05-25,11,,,Bulent Arinc 2014.jpg,Bülent Arınç
+Q1020672,Bülent Arınç,male,1948-05-25,11,,,"Bülent Arinç, Turkish Deputy Prime Minister (cropped).jpg",Bülent Arınç
 Q104721879,Sera Kadıgil,female,1984-11-29,11,,,Sera Kadıgil.png,Sera Kadıgil
 Q105064547,Ebru Günay,female,1982-01-01,11,,,Ebru Günay (cropped).png,Ebru Günay
 Q1052749,Celal Doğan,male,1943-08-01,11,,,Celaldoğan.png,
@@ -20,7 +20,7 @@ Q106147929,Enez Kaplan,male,1962,9,,,,
 Q106148029,Yusuf Beyazıt,male,1962,9,,,,
 Q106148031,Mustafa Arslan,male,1967-02-11,11,,,,
 Q106148722,Meliha Akyol,female,1960,9,,,,
-Q106148723,Özcan Özel,male,1959-01-13,11,,,,
+Q106148723,Özcan Özel,male,1959-01-13,11,,,Özcan Özel.png,
 Q106148766,Muazzez Orhan,female,1972,9,,,,
 Q106148769,Murat Sarısaç,male,1983-08-07,11,,,,
 Q106148790,Özkan Yalım,male,1969,9,,,,
@@ -129,7 +129,7 @@ Q106182374,Murat Çepni,male,1974,9,,,,
 Q106182941,Zeynel Özen,male,1957,9,,,,
 Q106192328,Cumhur Ünal,male,1966,9,,,,
 Q106192330,Niyazi Güneş,male,1953,9,,,,
-Q106192371,Hüseyin Avni Aksoy,male,1956,9,,,,
+Q106192371,Hüseyin Avni Aksoy,male,1956,9,,,Hüseyin Avni Aksoy.png,
 Q106194577,Tamer Osmanağaoğlu,male,1963,9,,,,
 Q106194747,İmran Kılıç,male,1957,9,2021-11-18,11,,İmran Kılıç
 Q106194749,Mehmet Cihat Sezal,male,1980-05-08,11,,,,

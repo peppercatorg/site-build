@@ -2,6 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Belgium,member of the Flemish Parliament,Jacques Devolder,Q3158739,1985,2004,male,1943-01-03,,,
 Belgium,member of the Flemish Parliament,Guy Swennen,Q3122162,1992,2003,male,1956-07-30,,,Guy Swennen
 Belgium,member of the Flemish Parliament,Christiaan Vandenbroeke,Q1946075,1995,2004,male,1944-07-06,2007-10-16,Christiaan Vandenbroeke.jpg,
+Belgium,member of the Flemish Parliament,Philip Claeys,Q2066270,1995,2003,male,1965-05-24,,,Philip Claeys
 Belgium,member of the Flemish Parliament,Herman De Reuse,Q3134060,1995,2009,male,1944-05-03,2018-05-30,,Herman De Reuse
 Belgium,member of the Flemish Parliament,Sonja Becq,Q607864,1995,2004,female,1957-12-08,,Sonja Becq.jpg,Sonja Becq
 Belgium,member of the Flemish Parliament,Roland Van Goethem,Q3440281,1999,2009,male,1947-01-21,,,
@@ -11,7 +12,7 @@ Belgium,member of the Flemish Parliament,Anne Van Asbroeck,Q2084129,2003-06-06,2
 Belgium,member of the Flemish Parliament,Stefaan De Clerck,Q12498,2004,2007,male,1951-12-12,,Stefaan De Clerck (politician) cropped version.jpg,Stefaan De Clerck
 Belgium,member of the Flemish Parliament,Gerda Van Steenberge,Q2406092,2004,2014,female,1965-11-27,,,
 Belgium,member of the Flemish Parliament,Elke Roex,Q3051326,2004,2009,female,1974-06-29,,Elke Roex.jpg,Elke Roex
-Belgium,member of the Flemish Parliament,Jan Peumans,Q951432,2004,,male,1951-01-06,,(Jan Peumans) Latvijā viesojas Beļģijas Karalistes Flandrijas reģiona parlamenta priekšsēdētājs.jpg,Jan Peumans
+Belgium,member of the Flemish Parliament,Jan Peumans,Q951432,2004,2019,male,1951-01-06,,(Jan Peumans) Latvijā viesojas Beļģijas Karalistes Flandrijas reģiona parlamenta priekšsēdētājs.jpg,Jan Peumans
 Belgium,member of the Flemish Parliament,Joke Schauvliege,Q2247771,2004-06-13,2009-07-12,female,1970-03-16,,Joke Schauvliege at Werktuigendagen 2009 b.jpg,Joke Schauvliege
 Belgium,member of the Flemish Parliament,Geert Bourgeois,Q2355582,2004-06-13,2004-07-21,male,1951-07-06,,Geert Bourgeois (2015).jpg,Geert Bourgeois
 Belgium,member of the Flemish Parliament,Helga Stevens,Q2359620,2004-06-13,2009-06-06,female,1968-08-09,,Helga Stevens - English part- Citizens’ Corner debate on EU policies for asylum seekers and immigrants (18866622828) (cropped).jpg,Helga Stevens
@@ -20,6 +21,7 @@ Belgium,member of the Flemish Parliament,Dirk Van Mechelen,Q837981,2004-06-13,20
 Belgium,member of the Flemish Parliament,Cathy Berx,Q2438905,2004-07,2008-04-30,female,1969-01-08,,Cathy-berx-1387317387.jpg,Cathy Berx
 Belgium,member of the Flemish Parliament,Koen Van den Heuvel,Q2846392,2004-07-06,,male,1964-08-01,,Koen van den heuvel-1554265626.jpg,
 Belgium,member of the Flemish Parliament,Stefaan Sintobin,Q3497831,2004-07-06,,male,1960-01-13,,,Stefaan Sintobin
+Belgium,member of the Flemish Parliament,Sonja Claes,Q3490478,2007,2019,female,1958-10-23,,,
 Belgium,member of the Flemish Parliament,Martine Fournier,Q2371057,2007-07-04,,female,1965-06-29,,Martine Fournier - 2019.jpg,
 Belgium,member of the Flemish Parliament,Ward Kennes,Q2690582,2008-04-30,2009-06-06,male,1967-03-30,,,
 Belgium,member of the Flemish Parliament,Geert Bourgeois,Q2355582,2008-09-23,2009-07-02,male,1951-07-06,,Geert Bourgeois (2015).jpg,Geert Bourgeois
@@ -85,6 +87,7 @@ Belgium,member of the Chamber of Representatives of Belgium,Filip Anthuenis,Q253
 Belgium,member of the Chamber of Representatives of Belgium,Herman Van Rompuy,Q12983,1995-05-21,2009-12-01,male,1947-10-31,,Herman Van Rompuy 675.jpg,Herman Van Rompuy
 Belgium,member of the Chamber of Representatives of Belgium,Servais Verherstraeten,Q2032311,1995-06-08,2011-12-07,male,1960-01-29,,Servais-verherstraeten-1381144012.jpg,
 Belgium,member of the Chamber of Representatives of Belgium,Geert Bourgeois,Q2355582,1995-06-08,2004-07-22,male,1951-07-06,,Geert Bourgeois (2015).jpg,Geert Bourgeois
+Belgium,member of the Chamber of Representatives of Belgium,Robert Denis,Q3434937,1995-06-08,2007-05-02,male,1940-03-19,,,
 Belgium,member of the Chamber of Representatives of Belgium,Danny Pieters,Q163670,1999,2003,male,1956-10-13,,,Danny Pieters
 Belgium,member of the Chamber of Representatives of Belgium,Georges Lenssen,Q3103085,1999,2007,male,1953-04-12,,,
 Belgium,member of the Chamber of Representatives of Belgium,Martine Dardenne,Q3295759,1999,2003,female,1946-03-12,,,
@@ -257,7 +260,7 @@ Belgium,member of the Chamber of Representatives of Belgium,Ann Vanheste,Q285042
 Belgium,member of the Chamber of Representatives of Belgium,Barbara Pas,Q2884009,2014-06-19,2019-06-20,female,1981-03-01,,Barbara pas-1496696589.jpg,Barbara Pas
 Belgium,member of the Chamber of Representatives of Belgium,Éric Thiébaut,Q2888701,2014-06-19,2019-05-23,male,1969-06-30,,,
 Belgium,member of the Chamber of Representatives of Belgium,Benoit Hellings,Q2896384,2014-06-19,2018-11-28,male,1978-07-07,,"Michèle Loijens, Benoit Hellings, and Yolande Duviver compaigning for Ecolo on Rue des Tanneurs (Brussels) (DSCF0952).jpg",
-Belgium,member of the Chamber of Representatives of Belgium,Jean-Marc Nollet,Q2926869,2014-06-19,2019-04-25,male,1970-01-07,,Jean-Marc Nollet.jpg,
+Belgium,member of the Chamber of Representatives of Belgium,Jean-Marc Nollet,Q2926869,2014-06-19,2019-04-25,male,1970-01-07,,Jean-Marc Nollet Portrait.jpg,
 Belgium,member of the Chamber of Representatives of Belgium,Carina Van Cauter,Q2938795,2014-06-19,2019-06-20,female,1962-06-27,,Carina-van-tittelboom-van-cauter-1359732140.jpg,Carina Van Cauter
 Belgium,member of the Chamber of Representatives of Belgium,Caroline Cassart-Mailleux,Q2939974,2014-06-19,2019-06-20,female,1973-06-01,,,
 Belgium,member of the Chamber of Representatives of Belgium,Raf Terwingen,Q2962167,2014-06-19,2019-06-20,male,1972-07-12,,,
@@ -396,7 +399,7 @@ Belgium,member of the Chamber of Representatives of Belgium,Annick Ponthier,Q285
 Belgium,member of the Chamber of Representatives of Belgium,Barbara Pas,Q2884009,2019-06-20,,female,1981-03-01,,Barbara pas-1496696589.jpg,Barbara Pas
 Belgium,member of the Chamber of Representatives of Belgium,Éric Thiébaut,Q2888701,2019-06-20,,male,1969-06-30,,,
 Belgium,member of the Chamber of Representatives of Belgium,Wim Van der Donckt,Q29051908,2019-06-20,,male,1965,,Wim Van der Donckt 20171109.jpg,Wim Van der Donckt
-Belgium,member of the Chamber of Representatives of Belgium,Jean-Marc Nollet,Q2926869,2019-06-20,2019-10-03,male,1970-01-07,,Jean-Marc Nollet.jpg,
+Belgium,member of the Chamber of Representatives of Belgium,Jean-Marc Nollet,Q2926869,2019-06-20,2019-10-03,male,1970-01-07,,Jean-Marc Nollet Portrait.jpg,
 Belgium,member of the Chamber of Representatives of Belgium,Daniel Bacquelaine,Q2949528,2019-06-20,2020-03-17,male,1952-10-30,,"Daniel Bacquelaine, 2014-12-02 DB Wavre.jpg",Daniel Bacquelaine
 Belgium,member of the Chamber of Representatives of Belgium,Christophe Lacroix,Q2966321,2019-06-20,,male,1966-12-22,,Prestation de serment tribune.jpg,
 Belgium,member of the Chamber of Representatives of Belgium,Cécile Thibaut,Q3009792,2019-06-20,2021-09,female,1967-03-22,,,
@@ -633,7 +636,6 @@ Belgium,member of the Senate of Belgium,Nadia El Yousfi,Q3334868,2014,2019,femal
 Belgium,member of the Senate of Belgium,Olivier Destrebecq,Q3350975,2014,2019,male,1965-03-21,,OlivierDestrebecq.jpg,
 Belgium,member of the Senate of Belgium,Philippe Henry,Q3380006,2014,2019,male,1971-04-23,,,Philippe Henry
 Belgium,member of the Senate of Belgium,Olga Zrihen,Q638115,2014,2019,female,1953-01-10,,Olga Zrihen (2016).jpeg,Olga Zrihen
-Belgium,member of the Senate of Belgium,Jan Peumans,Q951432,2014,2019,male,1951-01-06,,(Jan Peumans) Latvijā viesojas Beļģijas Karalistes Flandrijas reģiona parlamenta priekšsēdētājs.jpg,Jan Peumans
 Belgium,member of the Senate of Belgium,Hélène Ryckmans,Q17497048,2014-03-07,2019-05-25,female,1959-05-20,,Hélène Ryckmans.jpg,Hélène Ryckmans
 Belgium,member of the Senate of Belgium,Jan Van Esbroeck,Q968689,2014-07,2019-05,male,1968-09-30,,,Jan Van Esbroeck
 Belgium,member of the Senate of Belgium,Jacques Brotchi,Q1677920,2014-07-03,2019,male,1942-08-11,,,Jacques Brotchi
@@ -652,7 +654,6 @@ Belgium,member of the Senate of Belgium,Hélène Ryckmans,Q17497048,2019-04-07,,
 Belgium,member of the Senate of Belgium,Katia Segers,Q17300296,2019-05,,female,1967-06-11,,Katia Segers - 2019.jpg,
 Belgium,member of the Senate of Belgium,Willem-Frederik Schiltz,Q2052744,2019-05,,male,1979-06-22,,,Willem-Frederik Schiltz
 Belgium,member of the Senate of Belgium,Sabine de Bethune,Q2325582,2019-05,,female,1958-07-16,,,Sabine de Bethune
-Belgium,member of the Senate of Belgium,Martine Fournier,Q2371057,2019-05,,female,1965-06-29,,Martine Fournier - 2019.jpg,
 Belgium,member of the Senate of Belgium,Stijn Bex,Q2734646,2019-05,,male,1976-06-15,,Stijn Bex 2.jpg,
 Belgium,member of the Senate of Belgium,Carina Van Cauter,Q2938795,2019-05,,female,1962-06-27,,Carina-van-tittelboom-van-cauter-1359732140.jpg,Carina Van Cauter
 Belgium,member of the Senate of Belgium,Philippe Muyters,Q639006,2019-05,,male,1961-12-06,,Philippe-muyters.jpg,Philippe Muyters
@@ -699,10 +700,13 @@ Belgium,member of the Senate of Belgium,Tom Ongena,Q69745447,2020-10-13,,male,19
 Belgium,member of the Senate of Belgium,Cathy Coudyser,Q13457850,2021-02-26,,female,1969-12-14,,Cathy Coudyser.jpg,Cathy Coudyser
 Belgium,member of the Senate of Belgium (state appointed),Ann Brusseel,Q2529580,2014,2018,female,1976-01-17,,AnnBrusseel.jpg,
 Belgium,member of the Senate of Belgium (state appointed),Ingrid Lieten,Q2749584,2014,2016,female,1964-04-20,,Ingrid Lieten.jpg,Ingrid Lieten
+Belgium,member of the Senate of Belgium (state appointed),Sonja Claes,Q3490478,2014,2017,female,1958-10-23,,,
 Belgium,member of the Senate of Belgium (state appointed),Véronique Jamoulle,Q3564319,2014,2017,female,1959-02-04,,,
+Belgium,member of the Senate of Belgium (state appointed),Jan Peumans,Q951432,2014,2019,male,1951-01-06,,(Jan Peumans) Latvijā viesojas Beļģijas Karalistes Flandrijas reģiona parlamenta priekšsēdētājs.jpg,Jan Peumans
 Belgium,member of the Senate of Belgium (state appointed),Geert Bourgeois,Q2355582,2014-07-03,2014-07-25,male,1951-07-06,,Geert Bourgeois (2015).jpg,Geert Bourgeois
 Belgium,member of the Senate of Belgium (state appointed),Elke Sleurs,Q3051328,2014-07-03,2014-10-11,female,1968-02-06,,,Elke Sleurs
 Belgium,member of the Senate of Belgium (state appointed),Karl-Heinz Lambertz,Q540164,2016,2019,male,1952-06-04,,CoR Members portraits - Karl-Heinz LAMBERTZ.jpg,Karl-Heinz Lambertz
+Belgium,member of the Senate of Belgium (state appointed),Martine Fournier,Q2371057,2019,2022,female,1965-06-29,,Martine Fournier - 2019.jpg,
 Belgium,member of the Senate of Belgium (state appointed),Stephanie D'Hose,Q62518481,2019-07-04,,female,1981-06-01,,Stephanie D'Hose 2019.jpg,Stephanie D'Hose
 Belgium,member of the Senate of Belgium (state appointed),Steven Coenegrachts,Q69745567,2021-03-26,,male,1985-07-14,,Steven Coenegrachts 2.jpg,
 Belgium,member of the Senate of Belgium (state appointed),Stijn De Roo,Q100741358,2022-04-29,,male,1988-11-06,,Stijn De Roo.jpg,
@@ -910,6 +914,7 @@ Belgium,member of the Parliament of the Brussels-Capital Region,Alain Maron,Q283
 Belgium,member of the Parliament of the Brussels-Capital Region,Anne Charlotte d'Ursel,Q2851018,2009,,female,1967-11-29,,D'Ursel Anne-Charlotte.png,
 Belgium,member of the Parliament of the Brussels-Capital Region,Gaëtan Van Goidsenhoven,Q3099926,2009,,male,1973-10-02,,Van Goidsenhoven Gaëtan.png,
 Belgium,member of the Parliament of the Brussels-Capital Region,Jamal Ikazban,Q3160796,2009,,male,1970-12-02,,,
+Belgium,member of the Parliament of the Brussels-Capital Region,Jef Van Damme,Q3176404,2009,,male,1979-01-08,,,Jef Van Damme
 Belgium,member of the Parliament of the Brussels-Capital Region,Zakia Khattabi,Q3574660,2009,2014,female,1976-01-15,,Zakia Khattabi et Patrick Dupriez - débat élection coprésidence Écolo - Charleroi mars 2015 - 1.jpg,Zakia Khattabi
 Belgium,member of the Parliament of the Brussels-Capital Region,Freddy Thielemans,Q1309509,2009-06-23,2014-05-25,male,1944-09-11,2022-01-29,Freddy Thielemans 675 cropped.png,Freddy Thielemans
 Belgium,member of the Parliament of the Brussels-Capital Region,Ahmed El Khannouss,Q2827542,2009-06-23,2019-05-26,male,1968-01-26,,,

@@ -71,7 +71,7 @@ Q109252839,Rosa María Bayardo Cabrera,female,1985-12-12,11,,,,
 Q109405283,Gabriela Martínez Espinoza,female,1967-10-05,11,,,Gabriela Martinez Espiniza.jpg,
 Q109405909,Gabriela Sodi Miranda,,,,,,,
 Q109410373,Wendy González Urrutia,female,,,,,,
-Q109417418,María Teresa Castell,,,,,,,
+Q109417418,María Teresa Castell,female,,,,,,
 Q109523798,María del Carmen Zúñiga Cuevas,female,,,,,,
 Q109551163,Noel Mata Atilano,,,,,,,
 Q109726207,Andrea Chávez Treviño,female,1997-03-08,11,,,,
@@ -85,8 +85,8 @@ Q110191620,Manuel Garza González,male,1933-08-25,11,2021-12-18,11,,Manuel Garza
 Q110220397,Sayonara Vargas Rodríguez,,,,,,,
 Q110220626,Karla María Rabelo Estrada,female,1984-03-15,11,,,,
 Q110228406,Alejandro Segovia Hernández,male,,,,,,
-Q110231724,Bennelly Hernández Ruedas,,,,,,,
-Q110256252,Anahí González Hernández,,,,,,,
+Q110231724,Bennelly Hernández Ruedas,female,,,,,,
+Q110256252,Anahí González Hernández,female,,,,,,
 Q110256528,Sandra Olvera Bautista,female,1983-08-20,11,,,,
 Q110262869,Mauricio Cantú,male,1988-01-27,11,,,Mauricio Cantú.jpg,
 Q110402188,Guadalupe Chavira de la Rosa,female,1968-08-09,11,,,,
@@ -288,7 +288,7 @@ Q111517036,Leobardo Alcántara Martínez,,,,,,,
 Q111517037,Leonor Coutiño Gutiérrez,,,,,,,
 Q111517039,Leslie Estefanía Rodríguez Sarabia,,,,,,,
 Q111517040,Leticia Zepeda Martínez,,,,,,,
-Q111517041,Lidia García Anaya,,,,,,,
+Q111517041,Lidia García Anaya,female,1957-10-31,11,,,,
 Q111517043,Lidia Pérez Bárcenas,,,,,,,
 Q111517044,Lilia Caritina Olvera Coronel,,,,,,,
 Q111517045,Lorena Piñón Rivera,,,,,,,
@@ -3680,6 +3680,7 @@ Q5701577,Apolonio Méndez Meneses,male,1946-02-09,11,,,,Apolonio Méndez Meneses
 Q5702183,Aracely Escalante Jasso,female,1943-07-17,11,,,,Aracely Escalante Jasso
 Q5703388,Areli Madrid Tovilla,female,1952-02-18,11,,,,Areli Madrid Tovilla
 Q5704050,Ariel Gómez León,male,1965-09-30,11,,,,Ariel Gómez León
+Q5704253,Aristóteles Sandoval,male,1974-01-22,11,2020-12-18,11,01-03-2013 TOMA DE PROTESTA 1.jpg,Aristóteles Sandoval
 Q5704455,Armando Chavarría Barrera,male,1956-08-27,11,2009-08-20,11,,Armando Chavarría Barrera
 Q5704463,Armando Contreras Castillo,male,1968-04-13,11,,,,Armando Contreras Castillo
 Q5704617,Armando Ríos Piter,male,1973-02-21,11,,,Riospiter.jpg,Armando Ríos Piter
@@ -3699,7 +3700,7 @@ Q5725739,Benigno Quezada Naranjo,male,1962-06-18,11,,,,Benigno Quezada Naranjo
 Q5726069,Benjamín Gallegos Soto,male,1960-04-22,11,2018-11-27,11,,Benjamín Gallegos Soto
 Q5726076,Benjamín González Roaro,male,1954-12-28,11,,,,Benjamín González Roaro
 Q5726692,Bernardo Bátiz,male,1936-09-14,11,,,Bernardo Bátiz Vázquez - Procuraduría General de la República (7309441062).jpg,
-Q57269,Felipe Calderón,male,1962-08-18,11,,,Felipe Calderon 20090130 (cropped).jpg,Felipe Calderón
+Q57269,Felipe Calderón,male,1962-08-18,11,,,Presidente Felipe Calderon (cropped).jpg,Felipe Calderón
 Q5729783,Blanca Judith Díaz Delgado,female,1958-02-22,11,,,,Blanca Judith Díaz Delgado
 Q57304462,Juan Zepeda Hernández,male,,7,,,,
 Q5733412,Braulio Manuel Fernández,male,1941-06-17,11,2016-02-12,11,,Braulio Manuel Fernández
@@ -4325,6 +4326,7 @@ Q949971,Emilio Zebadúa,male,1961-01-13,11,,,,Emilio Zebadúa
 Q95109681,María José Alcalá,female,1971-12-24,11,,,,María José Alcalá
 Q95795205,Ángeles Huerta del Río,female,1962-08-10,11,,,María de los Ángeles Huerta del Río.jpg,
 Q959151,César Horacio Duarte Jáquez,male,1963-04-14,11,,,Duarte71.jpg,César Duarte Jáquez
+Q96060653,Francis Anel Bueno Sánchez,female,1982,9,,,,
 Q961812,Felipe Muñoz,male,1951-02-03,11,,,,Felipe Muñoz
 Q965347,Roberto Ruiz Esparza,male,1965-01-16,11,,,,Roberto Ruiz Esparza
 Q96624538,Carlos Valenzuela Cabrales,male,1955-07-17,11,,,Carlos Alberto Valenzuela Cabrales Mexican Politician.jpg,
