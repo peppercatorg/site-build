@@ -1,5 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 China,member of the National People's Congress,Tömür Dawamat,Q7862340,1964,2003,male,1927-06-16,2018-12-19,1964-11 1964年 左侧为新疆副主席铁木尔·达瓦买提.jpg,Tömür Dawamat
+China,member of the National People's Congress,Huang Ming,Q5925648,2003,,male,1958,,,Huang Ming (entrepreneur)
+China,member of the National People's Congress,Huang Ming,Q5925648,2003,2013-03,male,1958,,,Huang Ming (entrepreneur)
 China,member of the National People's Congress,Teng Weiping,Q10396715,2003-03-05,,male,1952,,,
 China,member of the National People's Congress,Peter Wong Man-kong,Q10414618,2003-03-05,2019-03-11,male,1949-01-09,2019-03-11,,Peter Wong Man-kong
 China,member of the National People's Congress,Dong Wanrui,Q10513400,2003-03-05,2017-02-09,male,1941-03,2017-02-09,,
@@ -227,7 +229,6 @@ China,member of the National People's Congress,Gao Siren,Q5521637,2003-03-05,,ma
 China,member of the National People's Congress,Lu Yongxiang,Q552928,2003-03-05,,male,1942-04-28,,Chinese Academy of Sciences Annual Meeting 2009 (cropped) Lu Yongxiang.jpg,Lu Yongxiang (engineer)
 China,member of the National People's Congress,Gu Hailiang,Q5613125,2003-03-05,,male,1951-01,,,Gu Hailiang
 China,member of the National People's Congress,Gu Xiulian,Q5613141,2003-03-05,,female,1936,,,Gu Xiulian
-China,member of the National People's Congress,Huang Ming,Q5925648,2003-03-05,,male,1958,,,Huang Ming (entrepreneur)
 China,member of the National People's Congress,Wang Xibin,Q5943916,2003-03-05,,male,1948,,,Wang Xibin
 China,member of the National People's Congress,Lee Chark-tim,Q6435768,2003-03-05,2007-05-22,male,1934-12-23,2007-05-22,,Lee Chark-tim
 China,member of the National People's Congress,Li Congjun,Q6538711,2003-03-05,,male,1949-10-01,,,Li Congjun
@@ -1792,7 +1793,7 @@ China,member of the National People's Congress,张少康,Q16921089,2008-03-05,20
 China,member of the National People's Congress,张崇明,Q16921090,2008-03-05,2013-03,,1955,,,
 China,member of the National People's Congress,Zhang Simin,Q16921091,2008-03-05,2013-03,male,1962,,,
 China,member of the National People's Congress,张惟建,Q16921092,2008-03-05,2013-03,male,1961,,,
-China,member of the National People's Congress,张支铁,Q16921093,2008-03-05,2013-03,male,1955,,,
+China,member of the National People's Congress,张支铁,Q16921093,2008-03-05,2013-03,male,1955,,,Zhang Zhitie
 China,member of the National People's Congress,张明义,Q16921094,2008-03-05,2013-03,,1954,,,
 China,member of the National People's Congress,Zhang Ling,Q16921096,2008-03-05,2013-03,female,1956,,,
 China,member of the National People's Congress,张生枝,Q16921097,2008-03-05,2013-03,,1952,,,
@@ -2362,7 +2363,6 @@ China,member of the National People's Congress,Ge Honglin,Q5529422,2008-03-05,20
 China,member of the National People's Congress,Gong Pixiang,Q5581693,2008-03-05,2013-03,male,1955,,,Gong Pixiang
 China,member of the National People's Congress,Gu Hailiang,Q5613125,2008-03-05,2013-03,male,1951-01,,,Gu Hailiang
 China,member of the National People's Congress,Huang Daren,Q5925505,2008-03-05,2013-03,male,1945-04,,,Huang Daren
-China,member of the National People's Congress,Huang Ming,Q5925648,2008-03-05,2013-03,male,1958,,,Huang Ming (entrepreneur)
 China,member of the National People's Congress,Huang Xianzhong,Q5925739,2008-03-05,2013-03,male,1947,,,Huang Xianzhong
 China,member of the National People's Congress,Xia Deren,Q6137095,2008-03-05,2013-03,male,1955-06,,Xia Deren.jpg,Xia Deren
 China,member of the National People's Congress,Chen Saijuan,Q6137125,2008-03-05,2013-03,female,1951-05-21,,,Chen Saijuan
@@ -3208,7 +3208,7 @@ China,member of the National People's Congress,Liu Xiaojing,Q10897648,2013-03-05
 China,member of the National People's Congress,刘曙光,Q10897655,2013-03-05,2018-03,,1962,,,
 China,member of the National People's Congress,刘柏盛,Q10897673,2013-03-05,2018-03,male,1957,,,
 China,member of the National People's Congress,刘正军,Q10897702,2013-03-05,2018-03,,1967,,,
-China,member of the National People's Congress,刘水生,Q10897721,2013-03-05,2018-03,,1955,,,
+China,member of the National People's Congress,刘水生,Q10897721,2013-03-05,2018-03,male,1955,,,
 China,member of the National People's Congress,刘江超,Q10897740,2013-03-05,2018-03,,1956,,,
 China,member of the National People's Congress,刘潭爱,Q10897782,2013-03-05,2018-03,male,1963,,,
 China,member of the National People's Congress,Liu Huanmin,Q10897798,2013-03-05,2018-03,male,1955,,,
@@ -4101,7 +4101,7 @@ China,member of the National People's Congress,纪海泉,Q16906525,2013-03-05,20
 China,member of the National People's Congress,缪学刚,Q16906535,2013-03-05,2018-03,,1962,,,
 China,member of the National People's Congress,罗亮权,Q16906541,2013-03-05,2018-03,,1954,,,
 China,member of the National People's Congress,罗伟其,Q16906542,2013-03-05,2018-03,male,1957,,,
-China,member of the National People's Congress,罗凉清,Q16906543,2013-03-05,2018-03,male,1959,,,
+China,member of the National People's Congress,罗凉清,Q16906543,2013-03-05,2018-03,male,1959,,,Luo Liangqing
 China,member of the National People's Congress,罗功英,Q16906544,2013-03-05,2018-03,female,1960,,,
 China,member of the National People's Congress,罗勤宏,Q16906545,2013-03-05,2018-03,,1955,,,
 China,member of the National People's Congress,罗双全,Q16906546,2013-03-05,2018-03,female,1973,,,
@@ -6424,7 +6424,7 @@ China,member of the National People's Congress,刘守民,Q51106490,2018-03-05,,,
 China,member of the National People's Congress,江吉村,Q51106491,2018-03-05,,,1972-12,,,
 China,member of the National People's Congress,江勇,Q51106494,2018-03-05,,,1982,,,
 China,member of the National People's Congress,许唯临,Q51106497,2018-03-05,,,1963,,,
-China,member of the National People's Congress,苏嘎尔布,Q51106501,2018-03-05,,,1964-06,,,
+China,member of the National People's Congress,苏嘎尔布,Q51106501,2018-03-05,,male,1964-06,,,Suga'erbu
 China,member of the National People's Congress,杜紫平,Q51106504,2018-03-05,,,1962,,,
 China,member of the National People's Congress,Li Weimin,Q51106511,2018-03-05,,,1963,,,
 China,member of the National People's Congress,李树林,Q51106514,2018-03-05,,,1966-08,,,

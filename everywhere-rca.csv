@@ -4999,6 +4999,7 @@ France,Q27876654,Frédérique Gerbaud,father,Q1922541,François Gerbaud
 France,Q28061777,Fabien Penone,spouse,Q60861380,Niagalé Bagayoko-Penone
 France,Q2815137,Christophe Borgel,spouse,Q28782627,Anne Hommel
 France,Q2829584,Alain Bocquet,sibling,Q3590999,Éric Bocquet
+France,Q2829670,Alain Clary,father,Q114729349,Albert Clary
 France,Q2829670,Alain Clary,spouse,Q112055987,Liliane Bonfils-Clary
 France,Q2829670,Alain Clary,spouse,Q60243145,Maryse Clary
 France,Q2830013,Alain Le Vern,child,Q20882460,Marie Le Vern
@@ -12896,36 +12897,9 @@ Slovenia,Q7916849,Vasko Simoniti,sibling,Q18529771,Iztok Simoniti
 Slovenia,Q7916849,Vasko Simoniti,spouse,Q107970431,Alenka Zor Simoniti
 Solomon Islands,Q109910928,Titus Mokofi Fika,sibling,Q7599597,Stanley Festus Sofu
 Solomon Islands,Q16588782,Johnley Hatimoana,spouse,Q109074073,Janet Hatimoana
-Solomon Islands,Q43274,Charles III,child,Q152316,"Prince Harry, Duke of Sussex"
-Solomon Islands,Q43274,Charles III,child,Q36812,"William, Prince of Wales"
-Solomon Islands,Q43274,Charles III,father,Q80976,"Prince Philip, Duke of Edinburgh"
-Solomon Islands,Q43274,Charles III,godparent,Q153815,"Princess Margaret, Countess of Snowdon"
-Solomon Islands,Q43274,Charles III,godparent,Q154927,Haakon VII of Norway
-Solomon Islands,Q43274,Charles III,godparent,Q170396,Prince George of Greece and Denmark
-Solomon Islands,Q43274,Charles III,godparent,Q259488,"Nadejda Mountbatten, Marchioness of Milford Haven"
-Solomon Islands,Q43274,Charles III,godparent,Q280856,George VI
-Solomon Islands,Q43274,Charles III,godparent,Q336691,"Patricia Knatchbull, 2nd Countess Mountbatten of Burma"
-Solomon Islands,Q43274,Charles III,godparent,Q5231604,David Bowes-Lyon
-Solomon Islands,Q43274,Charles III,godparent,Q76927,Mary of Teck
-Solomon Islands,Q43274,Charles III,mother,Q9682,Elizabeth II
-Solomon Islands,Q43274,Charles III,relative,Q3736070,Tom Parker Bowles
-Solomon Islands,Q43274,Charles III,relative,Q3743314,Laura Lopes
-Solomon Islands,Q43274,Charles III,sibling,Q151754,"Anne, Princess Royal"
-Solomon Islands,Q43274,Charles III,sibling,Q153330,"Prince Andrew, Duke of York"
-Solomon Islands,Q43274,Charles III,sibling,Q154920,"Prince Edward, Earl of Wessex"
-Solomon Islands,Q43274,Charles III,spouse,Q152239,Queen Camilla
-Solomon Islands,Q43274,Charles III,spouse,Q9685,"Diana, Princess of Wales"
 Solomon Islands,Q59096666,Jimson Tanangada,spouse,Q59125182,Lanelle Tanangada
 Solomon Islands,Q59125182,Lanelle Tanangada,spouse,Q59096666,Jimson Tanangada
 Solomon Islands,Q7599597,Stanley Festus Sofu,sibling,Q109910928,Titus Mokofi Fika
-Solomon Islands,Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
-Solomon Islands,Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
-Solomon Islands,Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Solomon Islands,Q9682,Elizabeth II,child,Q43274,Charles III
-Solomon Islands,Q9682,Elizabeth II,father,Q280856,George VI
-Solomon Islands,Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
-Solomon Islands,Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
-Solomon Islands,Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
 Somalia,Q215585,Abdullahi Yusuf Ahmed,spouse,Q5684152,Hawa Abdi Samatar
 Somalia,Q319153,Hassan Sheikh Mohamud,spouse,Q112114542,Sahro Xasan
 Somalia,Q319153,Hassan Sheikh Mohamud,spouse,Q112114543,Qamar Ali
@@ -13121,7 +13095,7 @@ Spain,Q1040591,Miriam Blasco,spouse,Q6120203,Nicola Fairbrother
 Spain,Q1043072,Carlos Miranda y Elío,father,Q43094649,Carlos de Miranda y Quartín
 Spain,Q104699047,Javier Oyarzun Iñarra,sibling,Q104698985,María Oyarzun Iñarra
 Spain,Q104713075,Anna Grau,partner,Q3321086,Fernando Sánchez Dragó
-Spain,Q104760631,Maria Jesús Viña Ariñoby OppsMetal,father,Q48475925,Josep Viña Boldó
+Spain,Q104760631,Maria Jesús Viña Ariño,father,Q48475925,Josep Viña Boldó
 Spain,Q105845741,Juan de la Cruz Garriga Dómenech,relative,Q62585987,Ignacio Garriga Vaz de Conceição
 Spain,Q106444204,Álvaro García Ortiz,relative,Q3607165,Ainhoa
 Spain,Q106571459,Pablo Larrauri Altonaga,child,Q97499013,Estibaliz Larrauri Aranguren
@@ -14313,6 +14287,8 @@ Taiwan,Q8350626,Yu Tian,child,Q10886645,Ken Yu
 Taiwan,Q8350626,Yu Tian,child,Q113572990,余苑绮
 Taiwan,Q8350626,Yu Tian,spouse,Q15925971,Lee Ya-ping
 Taiwan,Q85877352,Wu I-ding,father,Q8277455,Wu Kuang-hsun
+Taiwan,Q85877382,Cynthia Wu,father,Q22773499,Eugene Wu
+Taiwan,Q85877382,Cynthia Wu,spouse,Q47691275,Lin Zhiyan
 Taiwan,Q85880978,Lee De-wei,father,Q8275024,Li Chih-peng
 Taiwan,Q85881335,Lin Chu-yin,spouse,Q8349924,Liang Wen-chieh
 Taiwan,Q8954159,Fan Yun,partner,Q8349465,Cheng Wen-tsan
@@ -14320,6 +14296,7 @@ Taiwan,Q8954159,Fan Yun,partner,Q8967661,Hsu Yung-ming
 Taiwan,Q8956378,Fu Kun-chi,father,Q65031867,傅兆林
 Taiwan,Q8956378,Fu Kun-chi,spouse,Q28418899,Hsu Chen-wei
 Taiwan,Q8956378,Fu Kun-chi,spouse,Q28418899,Hsu Chen-wei
+Taiwan,Q8974503,Chung Shao-ho,child,Q97276076,鍾易仲
 Taiwan,Q8981918,Annie Lee,father,Q315528,Lee Teng-hui
 Taiwan,Q8981918,Annie Lee,mother,Q8264155,Tseng Wen-hui
 Taiwan,Q8984370,Chen Fu-hai,mother,Q113026202,陳鄭翠紅
