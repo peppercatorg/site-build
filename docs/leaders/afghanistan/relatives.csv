@@ -1,4 +1,12 @@
 catalog,id,name,relationship,relative,relativename
+Afghanistan,Q108067769,Abdul Manan Omari,sibling,Q193968,Mohammed Omar
+Afghanistan,Q108181749,Khalil Haqqani,relative,Q108116450,Anas Haqqani
+Afghanistan,Q108181749,Khalil Haqqani,relative,Q108602691,Nasiruddin Haqqani
+Afghanistan,Q108181749,Khalil Haqqani,relative,Q108602709,Omar Haqqani
+Afghanistan,Q108181749,Khalil Haqqani,relative,Q108602737,Mohammad Haqqani
+Afghanistan,Q108181749,Khalil Haqqani,relative,Q108602761,Badruddin Haqqani
+Afghanistan,Q108181749,Khalil Haqqani,relative,Q2246940,Sirajuddin Haqqani
+Afghanistan,Q108181749,Khalil Haqqani,sibling,Q186013,Jalaluddin Haqqani
 Afghanistan,Q167139,Haji Abdul Qadeer,child,Q31069651,Zahir Qadeer
 Afghanistan,Q172388,Ashraf Ghani,child,Q1896600,Mariam Ghani
 Afghanistan,Q172388,Ashraf Ghani,spouse,Q18198028,Rula Ghani

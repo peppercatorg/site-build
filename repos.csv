@@ -1,4 +1,5 @@
 country,slug,repo,source
+Afghanistan,afghanistan,afghanistan,
 Åland,aland,aland-cabinet,https://www.regeringen.ax/
 Albania,albania,albania-cabinet,https://kryeministria.al/
 Algeria,algeria,algeria-cabinet,http://www.premier-ministre.gov.dz/
@@ -204,7 +205,6 @@ Wales,wales,wales-cabinet,https://gov.wales/
 Zambia,zambia,zambia-ministers,https://www.parliament.gov.zm/
 Zimbabwe,zimbabwe,zimbabwe,
 Abkhazia,abkhazia,abkhazia-ministers,
-Afghanistan,afghanistan,afghanistan,
 Artsakh,artsakh,artsakh-ministers,
 Chad,chad,chad-ministers,
 Donetsk,donetsk,donetsk,
