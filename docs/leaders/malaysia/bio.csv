@@ -30,7 +30,7 @@ Q106512923,Guan Dee Koh Hoi,male,1954-10-04,11,2021-10-26,11,,Guan Dee Koh Hoi
 Q106554659,Annuar Ayub,male,,,,,,
 Q106554732,Lim Hui Ying,female,1963,9,,,,
 Q10728896,Lee Boon Chye,male,1959-09-26,11,,,Lee Boon Chye (cropped).JPG,Lee Boon Chye
-Q107313809,Fairuz Renddan,male,,,,,,
+Q107313809,Fairuz Renddan,male,,,,,,Fairuz Renddan
 Q107325929,Arsad Bistari,male,,,,,,
 Q107340535,Alwi Jusoh,male,,,2012-05-09,11,,
 Q107398921,Peto Galim,male,,,,,,
@@ -61,7 +61,7 @@ Q108653835,Chaw Kam Foon,male,,,,,,Chaw Kam Foon
 Q108653866,Cheah Pou Hian,male,,,,,,Cheah Pou Hian
 Q108837672,Juil Nuatim,male,,,,,,
 Q10887151,Ismail Muttalib,male,1954-12-01,11,,,,Ismail Muttalib
-Q10887152,Ismail Mohamed Said,male,1965-09-07,11,,,Ismail Mohamed Said.jpg,Ismail Mohamed Said
+Q10887152,Ismail Mohamed Said,male,1965-09-07,11,,,,Ismail Mohamed Said
 Q10890963,Kesavan a/l Subramaniam,male,1975,9,,,,Kesavan Subramaniam
 Q10904961,Lim Lip Eng,male,1972-07-25,11,,,,Lim Lip Eng
 Q109700937,Ruslan Muharam,male,1962-11-04,11,,,,
@@ -137,7 +137,7 @@ Q181383,Mahathir Mohamad,male,1925-07-10,11,,,Malaysian Prime Minister Mahathir 
 Q18684048,Amirudin Shari,male,1980-02-08,11,,,Amirudin Shari.jpg,Amirudin Shari
 Q18684386,Azman Ismail,male,1961,9,,,,Azman Ismail
 Q19646170,Kasthuriraani Patto,female,1979-08-09,11,,,,Kasthuriraani Patto
-Q19646358,Reezal Merican Naina Merican,male,1972-07-29,11,,,Dato' Sri Reezal Merican Naina Merican.png,Reezal Merican Naina Merican
+Q19646358,Reezal Merican Naina Merican,male,1972-07-29,11,,,,Reezal Merican Naina Merican
 Q19841039,Wong Chen,male,1968-12-18,11,,,Wongchenphoto.jpg,Wong Chen
 Q20448187,Hasan Arifin,male,1953-04-28,11,,,,Hasan Arifin
 Q20451202,Idris Ahmad,male,1963-10-19,11,,,,Idris Ahmad (politician)
@@ -213,11 +213,11 @@ Q4695503,Ahmad Zahid Hamidi,male,1953-01-14,11,,,Dr Ahmad Zahid Hamidi.png,Ahmad
 Q4719738,Alexander Nanta Linggi,male,1958-06-16,11,,,Alexander Nanta Linggi during COVID-19.png,Alexander Nanta Linggi
 Q47544871,Shahruddin bin Md. Salleh,male,1956-05-15,11,,,Shahruddin Md Salleh.png,Shahruddin Md Salleh
 Q4764583,Anifah Aman,male,1953-11-16,11,,,AnifahAmanUS.jpg,Anifah Aman
-Q4769706,Annuar Musa,male,1956-05-18,11,,,Annuar Musa in 2021.jpg,Annuar Musa
+Q4769706,Annuar Musa,male,1956-05-18,11,,,,Annuar Musa
 Q4793970,Jemilah Mahmood,female,1959-12-03,11,,,Dr. Jemilah Mahmood.jpg,Jemilah Mahmood
-Q4832158,Azalina Othman Said,female,1963-12-31,11,,,Azalina Othman Said.jpg,Azalina Othman Said
+Q4832158,Azalina Othman Said,female,1963-12-31,11,,,,Azalina Othman Said
 Q4865829,Baru Bian,male,1958-09-09,11,,,,Baru Bian
-Q4997592,Bung Moktar Radin,male,1959-09-15,11,,,Moktar Radin.jpg,Bung Moktar Radin
+Q4997592,Bung Moktar Radin,male,1959-09-15,11,,,,Bung Moktar Radin
 Q5082352,Charles Santiago,male,1960-11-01,11,,,Charles Santiago.jpg,Charles Santiago
 Q5104594,Chong Chieng Jen,male,1971-02-12,11,,,Chong Chieng Jen during Malaysian GE 13.jpg,Chong Chieng Jen
 Q5105511,Chow Kon Yeow,male,1958-11-14,11,,,Chow Kon Yeow CM of Penang.jpg,Chow Kon Yeow
@@ -232,7 +232,7 @@ Q53906556,Ignatius Dorell Leiking,male,1971-08-23,11,,,Darell Leiking.jpg,Darell
 Q53996501,Chan Foong Hin,male,1978-12-25,11,,,亚庇区国会议员陈泓缣致词- Ucapan YB Tuan Chan Foong Hin (MP Kota Kinabalu).png,Chan Foong Hin
 Q54005229,Rina Harun,female,1973-04-18,11,,,Rina Mohd Harun (12 March 2021).jpg,Rina Harun
 Q54064968,Noorita Sual,female,1980,9,,,,Noorita Sual
-Q54152879,Arthur Joseph Kurup,male,1982-08-04,11,,,Sri Muhyiddin Yassin.png,Arthur Joseph Kurup
+Q54152879,Arthur Joseph Kurup,male,1982-08-04,11,,,,Arthur Joseph Kurup
 Q54196059,Ahmad Hassan,male,1960-12-31,11,,,,Ahmad Hassan (Malaysian politician)
 Q54196272,Mohammadin Keretapi,male,1957-06-03,11,,,Mohammadin Ketapi (2019).jpg,Mohamaddin Ketapi
 Q54196766,Jonathan Yasin,male,,,,,,Jonathan Yasin
@@ -284,7 +284,7 @@ Q55847562,Natrah Ismail,female,,,,,,Natrah Ismail
 Q55847567,Pang Hok Liang,,,,,,,
 Q55847576,Syed Ibrahim Syed Noh,male,,,,,,Syed Ibrahim Syed Noh
 Q55847599,Wong Shu Qi,female,1983-11-26,11,,,,Wong Shu Qi
-Q55847609,Adham Baba,male,1962-10-06,11,,,Adham Baba.jpg,Adham Baba
+Q55847609,Adham Baba,male,1962-10-06,11,,,,Adham Baba
 Q55847617,Steven Choong Shiau Yoon,male,,,,,,
 Q55847624,Hassan Abdul Karim,,,,,,,
 Q55847629,Ahmad Akmal Nasrullah Mohd. Nasir,male,,,,,,
@@ -307,7 +307,7 @@ Q55847768,Willie Mongin,,,,,,,
 Q55847774,Wilson Ugak Kumbong,,,,,,,
 Q55847790,Shaharizukirnain Abd. Kadir,,,,,,,
 Q5642346,Halimah Mohd Sadique,female,1962-02-02,11,,,Halimah Mohd Sadique.png,Halimah Mohamed Sadique
-Q5646531,Hamzah Zainuddin,male,1957-03-12,11,,,Dato' Seri Hamzah Zainudin.png,Hamzah Zainudin
+Q5646531,Hamzah Zainuddin,male,1957-03-12,11,,,,Hamzah Zainudin
 Q5649002,Hannah Yeoh,female,1979-01-09,11,,,Hannah Yeoh at MBPJ Stadium in 2013.jpg,Hannah Yeoh
 Q56702497,Nor Shamsiah Mohd Yunus,female,1964,9,,,,Nor Shamsiah Mohd Yunus
 Q5678682,Hasbi Habibollah,male,1963-01-02,11,,,,Hasbi Habibollah
@@ -361,7 +361,7 @@ Q6933490,Mukhriz Mahathir,male,1964-11-25,11,,,Mukhriz Mahathir.jpg,Mukhriz Maha
 Q6962983,Nancy Shukri,female,1961-08-05,11,,,Hajjah Nancy Shukri.png,Nancy Shukri
 Q7021810,Nga Kor Ming,male,1972-11-11,11,,,Davidnga.jpg,Nga Kor Ming
 Q7022259,Ngeh Koo Ham,male,1961-09-29,11,,,Datuk Ngeh KH.jpg,Ngeh Koo Ham
-Q7047541,Noh Omar,male,1958-02-23,11,,,Noh Omar in 2020.jpg,Noh Omar
+Q7047541,Noh Omar,male,1958-02-23,11,,,,Noh Omar
 Q7050030,Nor Mohamed Yakcop,male,1947-08-24,11,,,,Nor Mohamed Yakcop
 Q7050236,Noraini Ahmad,female,1967-11-07,11,,,Dr Noraini Ahmad Menteri Pengajian Tinggi Malaysia.jpg,Noraini Ahmad
 Q7070314,Nurul Izzah Anwar,female,1980-11-19,11,,,Nurul Izzah reporters.jpg,Nurul Izzah Anwar
@@ -389,7 +389,7 @@ Q7403483,Salahuddin Ayub,male,1961-12-01,11,,,Datuk Seri Salahuddin Ayub.jpg,Sal
 Q7458721,Wan Azmi Ariffin,male,,,,,,
 Q7461040,Shafie Apdal,male,1957-10-20,11,,,,Shafie Apdal
 Q7461744,Shahidan Kassim,male,1951-06-17,11,,,Datuk Seri Shahidan Kassim.jpg,Shahidan Kassim
-Q7487791,Shamsul Anuar Nasarah,male,1967-06-01,11,,,Dato' Dr Shamsul Anuar Nasarah.png,Shamsul Anuar Nasarah
+Q7487791,Shamsul Anuar Nasarah,male,1967-06-01,11,,,,Shamsul Anuar Nasarah
 Q7517281,Sim Tze Tzin,male,1976-02-06,11,,,,Sim Tze Tzin
 Q7531897,Siti Zailah Mohd Yusoff,female,1963-10-12,11,,,Siti Zailah Mohd Yusoff.jpg,Siti Zailah Mohd Yusoff
 Q7532427,Sivarasa Rasiah,male,1956-12-08,11,,,,Sivarasa Rasiah
@@ -408,10 +408,10 @@ Q787441,Daim Zainuddin,male,1938-04-29,11,,,,Daim Zainuddin
 Q7906250,V. Sivakumar,male,1970-12-05,11,,,,V. Sivakumar
 Q7966977,Wan Abdul Rahim Wan Abdullah,male,1952-02-24,11,,,,Wan Abdul Rahim
 Q7967007,Wan Junaidi Tuanku Jaafar,male,1946-02-01,11,,,Wan Junaidi Tuanku Jaafar.jpg,Wan Junaidi
-Q7979293,Wee Ka Siong,male,1968-10-20,11,,,Wee Ka Siong in 2020.jpg,Wee Ka Siong
+Q7979293,Wee Ka Siong,male,1968-10-20,11,,,,Wee Ka Siong
 Q8014504,William Leong Jee Keen,male,1957-01-27,11,,,,William Leong
 Q8064320,Zafrul Aziz,male,1973-06-25,11,,,,Tengku Zafrul Aziz
-Q8075369,Zuraida Kamarudin,female,1958-03-14,11,,,Hajah Zuraida Kamaruddin.png,Zuraida Kamaruddin
+Q8075369,Zuraida Kamarudin,female,1958-03-14,11,,,,Zuraida Kamaruddin
 Q82716484,Affendi Buang,male,1962-08-21,11,,,PAT 2020 .jpg,Affendi Buang
 Q85974530,Hajiji Noor,male,1955-05-10,11,,,,Hajiji Noor
 Q85974701,Isnin Aliasnih,male,1966-07-01,11,,,,Isnin Aliasnih

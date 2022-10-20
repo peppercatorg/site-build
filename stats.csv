@@ -1,6 +1,6 @@
 country,leaders,leaders_total,legislators,legislators_total,unique
 abkhazia,7,75,0,2,76
-afghanistan,78,157,3,8,162
+afghanistan,77,156,3,8,161
 aland,9,23,1,2,23
 albania,21,71,130,133,175
 algeria,37,110,3,10,116
@@ -13,7 +13,7 @@ armenia,18,100,107,324,398
 artsakh,5,23,0,0,23
 aruba,13,24,1,3,24
 australia,74,582,818,1835,2014
-austria,24,197,460,784,913
+austria,24,199,460,784,915
 azerbaijan,40,65,141,146,207
 bahamas,28,63,5,5,63
 bahrain,28,52,3,7,59
@@ -40,18 +40,18 @@ cameroon,75,237,277,790,1009
 canada,62,398,944,1950,2102
 caymans,12,21,0,1,21
 central-african-republic,34,362,135,467,785
-chad,48,94,154,155,247
-chile,31,285,331,397,622
+chad,47,94,154,155,247
+chile,31,285,330,398,623
 china,38,198,2227,8157,8272
 colombia,25,253,19,51,288
 comoros,18,60,3,6,63
 congo-brazzaville,39,121,347,687,756
-congo-kinshasa,60,518,588,1401,1792
+congo-kinshasa,60,518,588,1400,1791
 costa-rica,26,70,2,18,80
-croatia,23,104,151,261,342
+croatia,23,104,151,262,343
 cuba,35,113,1,6,116
 cyprus,24,122,56,183,274
-czechia,26,251,453,1456,1568
+czechia,26,251,454,1458,1570
 denmark,27,127,184,604,631
 djibouti,29,33,0,1,34
 dominica,21,33,21,22,48
@@ -73,7 +73,7 @@ france,50,673,2450,4223,4788
 gabon,41,67,1,3,68
 gambia,26,75,2,2,76
 georgia,19,174,143,164,318
-germany,35,694,1475,3774,4342
+germany,35,695,1481,3781,4350
 ghana,35,150,275,890,955
 gibraltar,12,37,17,40,66
 greece,27,194,336,479,574
@@ -94,7 +94,7 @@ iraq,27,148,1,92,235
 ireland,30,188,212,596,664
 isle-of-man,13,33,1,3,33
 israel,40,218,119,504,598
-italy,29,590,112,3600,3944
+italy,29,590,121,3610,3954
 jamaica,38,63,3,4,65
 japan,75,591,537,854,1282
 jersey,14,34,1,1,34
@@ -119,7 +119,7 @@ malawi,35,77,188,196,243
 malaysia,39,98,342,403,451
 maldives,23,47,2,6,47
 mali,29,92,6,61,147
-malta,23,56,66,76,102
+malta,23,56,65,76,102
 marshall-islands,12,26,0,0,26
 mauritania,34,63,1,2,65
 mauritius,25,49,1,2,49
@@ -136,7 +136,7 @@ myanmar,18,40,1,3,43
 namibia,29,52,0,3,54
 nauru,16,27,1,4,30
 nepal,30,61,3,358,411
-netherlands,37,256,252,1134,1239
+netherlands,37,256,252,1135,1240
 new-zealand,30,150,130,317,380
 nicaragua,22,55,0,0,55
 niger,39,72,3,8,75
@@ -185,13 +185,13 @@ sri-lanka,26,134,222,261,333
 st-kitts-and-nevis,13,28,11,11,29
 sudan,18,508,0,326,828
 suriname,20,52,4,8,56
-sweden,30,354,350,1391,1618
+sweden,30,354,342,1397,1624
 switzerland,12,86,229,650,691
 syria,35,97,0,2,99
 taiwan,11,95,113,358,434
 tajikistan,27,38,0,0,38
 tanzania,33,74,376,400,430
-thailand,35,142,4,14,152
+thailand,38,142,4,14,152
 timor-leste,24,57,1,1,58
 togo,37,68,1,2,69
 tonga,13,52,22,43,63
@@ -204,7 +204,7 @@ tuvalu,11,50,16,26,52
 uganda,82,111,9,17,123
 ukraine,33,407,416,2051,2319
 united-arab-emirates,36,46,0,0,46
-united-kingdom,35,1267,1450,2697,3500
+united-kingdom,35,1269,1450,2697,3500
 united-states,88,1240,4104,5800,6886
 uruguay,21,73,128,171,214
 uzbekistan,37,59,0,0,59
@@ -214,4 +214,4 @@ vietnam,31,114,3,8,118
 wales,15,46,59,160,162
 zambia,31,84,175,184,224
 zimbabwe,26,199,316,897,1003
-TOTAL,6015,30756,37818,94799,117449
+TOTAL,6016,30760,37824,94826,117478

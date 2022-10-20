@@ -236,7 +236,7 @@ Argentina,Q5042309,Carlos Mac Allister,child,Q33297140,Alexis Mac Allister
 Argentina,Q508497,Fernando Solanas,child,Q3187791,Juan Diego Solanas
 Argentina,Q508497,Fernando Solanas,partner,Q5116252,Chunchuna Villafañe
 Argentina,Q5186335,Cristina Cremer de Busti,spouse,Q6277772,Jorge Busti
-Argentina,Q52395487,Javier Milei,partner,Q103865395,Daniela Nuemi Perez
+Argentina,Q52395487,Javier Milei,partner,Q103865395,Daniela Pérez
 Argentina,Q5274808,Diego Santilli,father,Q3787511,Hugo Santilli
 Argentina,Q5340693,Eduardo Menem,sibling,Q185107,Carlos Menem
 Argentina,Q561837,Mauricio Macri,father,Q5483633,Francisco Macri
@@ -887,6 +887,7 @@ Bangladesh,Q27662589,Sheikh Helal Uddin,child,Q60471418,Sheikh Sharhan Naser Ton
 Bangladesh,Q278403,A. Q. M. Badruddoza Chowdhury,child,Q6733938,Mahi B. Chowdhury
 Bangladesh,Q27916345,Nazmul Huda,spouse,Q7512323,Sigma Huda
 Bangladesh,Q28839619,Simeen Hussain Rimi,father,Q2975772,Tajuddin Ahmad
+Bangladesh,Q28839619,Simeen Hussain Rimi,mother,Q15390687,Syeda Zohra Tajuddin
 Bangladesh,Q28839619,Simeen Hussain Rimi,sibling,Q7683380,Tanjim Ahmad Sohel Taj
 Bangladesh,Q3246667,Abdul Hamid,child,Q59780854,Mr. Rejwan Ahammad Taufiq
 Bangladesh,Q3246667,Abdul Hamid,spouse,Q93723234,Rashida Hamid
@@ -5490,6 +5491,7 @@ France,Q713235,Jean-Louis Debré,mother,Q48987588,Anne-Marie Debré
 France,Q713235,Jean-Louis Debré,sibling,Q2897761,Bernard Debré
 France,Q713235,Jean-Louis Debré,sibling,Q3084383,François Debré
 France,Q725694,David Douillet,child,Q20127290,Jérémie Douillet
+France,Q736013,François Baroin,child,Q114767402,Jules Baroin
 France,Q736013,François Baroin,father,Q3308940,Michel Baroin
 France,Q736013,François Baroin,partner,Q291392,Michèle Laroque
 France,Q736013,François Baroin,spouse,Q21503778,Valérie Broquisse
@@ -5974,8 +5976,6 @@ Germany,Q893758,Boris Pistorius,partner,Q72617,Doris Schröder-Köpf
 Germany,Q920705,Britta Ernst,spouse,Q61053,Olaf Scholz
 Germany,Q95574,Johanna Wanka,spouse,Q1515368,Gert Wanka
 Germany,Q96735,Sabine Bätzing-Lichtenthäler,relative,Q1503851,Georg Bätzing
-Germany,Q96820,Johannes Kahrs,father,Q1511746,Wolfgang Kahrs
-Germany,Q96820,Johannes Kahrs,mother,Q917423,Bringfriede Kahrs
 Germany,Q96967,Marieluise Beck,spouse,Q106200,Ralf Fücks
 Germany,Q97097761,Benjamin Limbach,mother,Q72551,Jutta Limbach
 Germany,Q97311,Konrad Schily,child,Q108733806,Ophelia Nick
@@ -6120,7 +6120,7 @@ Greece,Q312015,Alexis Tsipras,spouse,Q20487832,Peristera Baziana
 Greece,Q3347276,Nikos Konstantopoulos,child,Q12877513,Zoi Konstantopoulou
 Greece,Q3577025,Anna Benaki-Psarouda,spouse,Q6554744,Linos Benakis
 Greece,Q382096,Georgios Voulgarakis,child,Q61650367,Παυλίνα Βουλγαράκη
-Greece,Q40688,Yanis Varoufakis,spouse,Q2297038,Danae Stratou
+Greece,Q40688,Gianis Varoufakis,spouse,Q2297038,Danae Stratou
 Greece,Q44056603,Kostas Katsikis,father,Q16327679,Θεόδωρος Κατσίκης
 Greece,Q444093,Athanasios Plevris,father,Q669418,Konstantinos Plevris
 Greece,Q462542,Theodoros Pangalos,father,Q16504364,Georgios Pangalos
@@ -7638,6 +7638,14 @@ Indonesia,Q4263230,Anies Baswedan,child,Q106508446,Kaisar Hakam Baswedan
 Indonesia,Q4263230,Anies Baswedan,child,Q106508451,Ismail Hakim Baswedan
 Indonesia,Q4263230,Anies Baswedan,child,Q106508453,Mutiara Annisa Baswedan
 Indonesia,Q4263230,Anies Baswedan,child,Q106508455,Mikail Azizi Baswedan
+Indonesia,Q4263230,Anies Baswedan,father,Q106508403,Rasyid Baswedan
+Indonesia,Q4263230,Anies Baswedan,mother,Q56416545,Aliyah Rasyid
+Indonesia,Q4263230,Anies Baswedan,relative,Q106508423,Salim Baswedan
+Indonesia,Q4263230,Anies Baswedan,relative,Q4666301,Abdurrahman Baswedan
+Indonesia,Q4263230,Anies Baswedan,relative,Q49251670,Novel Baswedan
+Indonesia,Q4263230,Anies Baswedan,sibling,Q106508466,Abdillah Baswedan
+Indonesia,Q4263230,Anies Baswedan,sibling,Q106508472,Ridwan Rasyid Baswedan
+Indonesia,Q4263230,Anies Baswedan,spouse,Q97221150,Fery Farhati
 Indonesia,Q4264069,Guruh Sukarnoputra,father,Q76127,Sukarno
 Indonesia,Q4264069,Guruh Sukarnoputra,mother,Q468519,Fatmawati
 Indonesia,Q4264069,Guruh Sukarnoputra,sibling,Q12507600,Rachmawati Sukarnoputri
@@ -8375,6 +8383,7 @@ Italy,Q356351,Gianni Agnelli,sibling,Q23047420,Maria Sole Agnelli
 Italy,Q356351,Gianni Agnelli,sibling,Q276023,Susanna Agnelli
 Italy,Q356351,Gianni Agnelli,sibling,Q967846,Umberto Agnelli
 Italy,Q356351,Gianni Agnelli,spouse,Q3290404,Marella Agnelli
+Italy,Q3609255,Aldo Masullo,child,Q93229966,Paolo Augusto Masullo
 Italy,Q3613897,Amedeo Matacena,partner,Q3609664,Alessandra Canale
 Italy,Q3616756,Angela Filipponio Tatarella,spouse,Q2847139,Giuseppe Tatarella
 Italy,Q3619638,Antonio Gentile,child,Q109570358,Andrea Gentile
@@ -10202,6 +10211,7 @@ Nigeria,Q56678515,Babajide Sanwo-Olu,spouse,Q109609620,Ibijoke Sanwo-Olu
 Nigeria,Q57380,Goodluck Jonathan,spouse,Q7144934,Patience Jonathan
 Nigeria,Q5984059,Ibikunle Oyelaja Amosun,spouse,Q114607284,Olufunso Amosun
 Nigeria,Q6080812,Isiaka Adetunji Adeleke,father,Q55808166,Raji Ayoola Adeleke
+Nigeria,Q61594908,Dapo Abiodun,spouse,Q82222816,Bamidele Abiodun
 Nigeria,Q62356,Babatunde Fashola,spouse,Q19891940,Abimbola Fashola
 Nigeria,Q6301957,Jibril Aminu,child,Q66846662,Aminu Bello
 Nigeria,Q6380660,Kayode Fayemi,spouse,Q17305590,Bisi Adeleye-Fayemi
@@ -11955,9 +11965,9 @@ Russia,Q2072843,Vasyl Dzharty,child,Q14491528,Джарти Вікторія Ва
 Russia,Q20812953,Maria Zakharova,spouse,Q110997152,Andrei Makarov
 Russia,Q2107072,Lyudmila Narusova,child,Q287099,Kseniya Sobchak
 Russia,Q2107072,Lyudmila Narusova,spouse,Q334294,Anatoly Sobchak
-Russia,Q217115,Ramazan Kadyrov,father,Q297006,Akhmad Kadyrov
-Russia,Q217115,Ramazan Kadyrov,mother,Q21887442,Aymani Kadyrova
-Russia,Q217115,Ramazan Kadyrov,relative,Q4207417,Khalid Kadyrov
+Russia,Q217115,Ramzan Kadyrov,father,Q297006,Akhmad Kadyrov
+Russia,Q217115,Ramzan Kadyrov,mother,Q21887442,Aymani Kadyrova
+Russia,Q217115,Ramzan Kadyrov,relative,Q4207417,Khalid Kadyrov
 Russia,Q233812,Irina Rodnina,child,Q4738675,Alyona Minkovski
 Russia,Q233812,Irina Rodnina,spouse,Q956655,Alexander Gennadiyevich Zaitsev
 Russia,Q23530,Dmitry Medvedev,spouse,Q234259,Svetlana Medvedeva
@@ -11978,7 +11988,7 @@ Russia,Q28497365,Elmira Glubokovskaya,child,Q108691440,Roza Chemeris
 Russia,Q28497365,Elmira Glubokovskaya,spouse,Q28497366,Mikhail Gloubokovsky
 Russia,Q28497366,Mikhail Gloubokovsky,spouse,Q28497365,Elmira Glubokovskaya
 Russia,Q28526218,Artyom Turov,father,Q3920850,Viktor Turov
-Russia,Q297006,Akhmad Kadyrov,child,Q217115,Ramazan Kadyrov
+Russia,Q297006,Akhmad Kadyrov,child,Q217115,Ramzan Kadyrov
 Russia,Q3050754,Eleonora Mitrofanova,sibling,Q4296811,Aleksey Mitrofanov
 Russia,Q311019,Boris Berezovsky,child,Q15064471,Elizaveta Borisovna Berezovskaïa
 Russia,Q313452,Buvaisar Saitiev,sibling,Q348977,Adam Saitiev

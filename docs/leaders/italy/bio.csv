@@ -81,7 +81,7 @@ Q108064266,Antonio Chieffo,male,1952-07-03,11,,,,
 Q1082039,Umberto Scapagnini,male,1941-10-16,11,2013-04-02,11,Umberto Scapagnini.jpg,Umberto Scapagnini
 Q1082088,Carlo Vizzini,male,1947-04-28,11,,,Carlo Vizzini.jpg,Carlo Vizzini
 Q1082121,Christian Tommasini,male,1975-03-25,11,,,,
-Q108262037,Simona Petrucci,female,1971-04-17,11,,,,
+Q108262037,Simona Petrucci,female,1971-04-17,11,,,,Simona Petrucci
 Q108262087,Fabrizio Rossi,male,1975-03-02,11,,,,
 Q108317378,Daniela Santandrea,female,1958-04-07,11,,,,
 Q10843324,Francesca Alderisi,female,1968-03-29,11,,,Francesca Alderisi datisenato 2018.jpg,Francesca Alderisi
@@ -223,29 +223,39 @@ Q113527379,Silvio Lavornia,,,,,,,
 Q114246353,Gian Antonio Girelli,male,1962-09-15,11,,,,
 Q114356643,Marco Simiani,male,1970-04-25,11,,,,
 Q114406718,Marco Grimaldi,male,1980-11-08,11,,,Marco Grimaldi XIX.jpg,
-Q114420890,Giandiego Gatta,male,1964-04-10,11,,,,Giandiego Gatta
+Q114420890,Giandiego Gatta,male,1964-04-10,11,,,GiandiegoGatta.jpg,Giandiego Gatta
 Q114423285,Monica Patelli,,,,,,,
 Q1145177,Emma Fattorini,female,1952-05-13,11,,,Emma Fattorini - September 2016 (cropped).jpg,
 Q114566701,Francesco Mari,male,1962-09-04,11,,,Francesco Mari XIX.jpg,
-Q114568506,Francesco Michelotti,male,1983-03-31,11,,,,
+Q114568506,Francesco Michelotti,male,1983-03-31,11,,,Francesco Michelotti daticamera.jpg,
 Q114617075,Michele Fina,male,1978-09-30,11,,,Michele Fina.jpg,
 Q114638174,Guido Quintino Liris,male,1979-06-12,11,,,Guido Quintino Liris.jpg,
-Q114638674,Davide Bellomo,male,1970-02-18,11,,,,
+Q114638674,Davide Bellomo,male,1970-02-18,11,,,Davide Bellomo XIX.jpg,
 Q114638912,Andrea Pellicini,male,1970-01-28,11,,,,
-Q114638984,Francesco Gallo,male,1966-11-03,11,,,,
+Q114638984,Francesco Gallo,male,1966-11-03,11,,,Francesco Gallo.jpg,
 Q114639051,Giovanni Arruzzolo,male,1960-03-30,11,,,Giovanni Arruzzolo XIX.jpg,
 Q114639135,Nicole Matteoni,female,1987-12-24,11,,,,
 Q114640835,Etelwardo Sigismondi,male,1974-09-29,11,,,Etelwardo Sigismondi.jpg,
 Q114643480,Tullio Ferrante,male,1989-01-13,11,,,,
 Q114643518,Chiara Tenerini,female,1972-12-08,11,,,,
-Q114643680,Emiliano Fossi,male,1973-09-02,11,,,,
+Q114643680,Emiliano Fossi,male,1973-09-02,11,,,Emiliano Fossi XIX.jpg,
 Q114644639,Tommaso Calderone,male,1963-01-30,11,,,Tommaso Antonino Calderone XIX.jpg,
-Q114647742,Sara Ferrari,female,1971-01-05,11,,,,
+Q114647742,Sara Ferrari,female,1971-01-05,11,,,Sara Ferrari XIX.jpg,
 Q114658265,Francesco Emilio Borrelli,male,1973-08-14,11,,,Francesco Emilio Borrelli XIX.jpg,
 Q114669334,Enrica Alifano,female,1967-01-31,11,,,EnricaAlifano.jpg,
-Q114669336,Fabrizio Benzoni,male,1985-11-04,11,,,,
+Q114669335,Naike Gruppioni,female,1979-01-25,11,,,Naike Gruppioni XIX.jpg,
+Q114669336,Fabrizio Benzoni,male,1985-11-04,11,,,Fabrizio Benzoni XIX.jpg,
+Q114669339,Federico Gianassi,male,1980-05-21,11,,,Federico Gianassi XIX.jpg,
 Q114680280,Daniela Dondi,female,1962-01-12,11,,,,
+Q114680468,Mariangela Matera,female,1967-01-03,11,,,MariangelaMatera.jpg,
+Q114702960,Antonio D'Alessio,male,1964-12-05,11,,,Antonio D'Alessio XIX.jpg,
+Q114708359,Carmela Auriemma,female,1981-07-03,11,,,Carmela Auriemma XIX.jpg,
+Q114708364,Alice Buonguerrieri,female,1978-09-04,11,,,Alice Buonguerrieri XIX.jpg,
+Q114711521,Vita Maria Nocco,female,1974-12-12,11,,,Vita Maria Nocco.jpg,
+Q114723748,Maria Grazia Frijia,female,1974-08-09,11,,,Maria Grazia Friija.jpg,
 Q114725522,Vincenzo Amich,male,1977-07-26,11,,,Vincenzo Amich.jpg,
+Q114734468,Chiara Colosimo,female,1986-06-02,11,,,Chiara Colosimo XIX.jpg,
+Q114736818,Concetta Damante,female,1972-02-05,11,,,,
 Q116026,Deborah Bergamini,female,1967-10-24,11,,,Deborah Bergamini daticamera 2018.jpg,Deborah Bergamini
 Q11703835,Gregorio Fontana,male,1963-11-09,11,,,Gregorio Fontana daticamera 2018.jpg,
 Q11860,Silvio Berlusconi,male,1936-09-29,11,,,Silvio Berlusconi 2018.jpg,Silvio Berlusconi
@@ -305,7 +315,7 @@ Q1379277,Paolo Emilio Taviani,male,1912-11-06,11,2001-06-18,11,Taviani Paolo Emi
 Q1379919,Francesco De Martino,male,1907-05-31,11,2002-11-18,11,Francesco De Martino 1995 - Augusto De Luca photographer.jpg,Francesco De Martino
 Q1380538,Massimo Mauro,male,1962-05-24,11,,,,Massimo Mauro
 Q1384236,Leopoldo Elia,male,1925-11-04,11,2008-10-05,11,Elia-leopoldo-imago-324.jpg,Leopoldo Elia
-Q1394411,Ignazio La Russa,male,1947-07-18,11,,,Ignazio La Russa datisenato 2018.jpg,Ignazio La Russa
+Q1394411,Ignazio La Russa,male,1947-07-18,11,,,Ignazio La Russa 2022.jpg,Ignazio La Russa
 Q1394623,Franco Carraro,male,1939-12-06,11,,,Franco Carraro Milan.jpg,Franco Carraro
 Q1394911,Clemente Mastella,male,1947-02-05,11,,,Clemente Mastella.jpg,Clemente Mastella
 Q1412573,Marta Cartabia,female,1963-05-14,11,,,Marta Cartabia (cropped).jpg,Marta Cartabia
@@ -654,7 +664,7 @@ Q15972775,Davide Faraone,male,1975-07-19,11,,,Davide Faraone datisenato 2018.jpg
 Q15975915,Corrado Callegari,male,1960-09-06,11,,,,
 Q15975933,Cosimo Ferri,male,1971-04-17,11,,,Cosimo Maria Ferri daticamera 2018.jpg,
 Q15975935,Cosimo Petraroli,male,1978-05-10,11,,,Cosimo Petraroli daticamera.jpg,
-Q15976266,Dario Nardella,male,1975-11-20,11,,,Dario Nardella (02) crop.jpg,Dario Nardella
+Q15976266,Dario Nardella,male,1975-11-20,11,,,Nardella (cropped).jpg,Dario Nardella
 Q15976352,Claudia Mannino,female,1978-08-26,11,,,Claudia Mannino daticamera.jpg,
 Q15976360,Claudio Cominardi,male,1981-12-09,11,,,Claudio Cominardi 2016.jpg,
 Q15976361,Claudio D'Amico,male,1965-07-22,11,,,Claudio d'Amico (Lega Nord) with Vladimir Putin.jpg,
@@ -2101,7 +2111,7 @@ Q3768072,Giovanni Russo,male,1932-03-20,11,2016-07-02,11,Giovanni Russo datisena
 Q3768076,Giovanni Russo Spena,male,1945-11-10,11,,,Russo spena.JPG,
 Q3768095,Giovanni Saracco,male,1932-12-08,11,2020-03-31,11,Giovanni Saracco.jpg,
 Q3768247,Giovanni Torri,male,1960-10-07,11,,,,
-Q3768253,Giovanni Toti,male,1968-09-07,11,,,Giovanni Toti.jpg,Giovanni Toti
+Q3768253,Giovanni Toti,male,1968-09-07,11,,,Giovanni Toti in 2018.jpg,Giovanni Toti
 Q3768377,Giovanni Vittorio Battafarano,male,1943-04-06,11,,,Battafarano XIV.jpg,
 Q3769250,Giulia Cosenza,female,1968-01-25,11,,,Giulia Cosenza daticamera 2006.jpg,
 Q3769322,Giuliana Carlino,female,1951-08-25,11,,,,
@@ -3253,7 +3263,7 @@ Q55281707,Bianca Maria Fiorillo,female,1945-03-01,11,,,Bianca Maria Fiorillo.jpg
 Q55281727,Francesco Cannizzaro,male,1982-06-24,11,,,Francesco Cannizzaro daticamera 2018.jpg,
 Q55281729,Luigi Casciello,male,1963-03-11,11,,,Gigi Casciello daticamera 2018.jpg,
 Q55281731,Michele Casino,male,1960-09-24,11,,,Michele Casino.jpg,
-Q55281732,Francesco Acquaroli,male,1974-09-25,11,,,Francesco Acquaroli daticamera 2018.jpg,Francesco Acquaroli (politician)
+Q55281732,Francesco Acquaroli,male,1974-09-25,11,,,Francesco Acquaroli Meeting di Rimini 2021.jpg,Francesco Acquaroli (politician)
 Q55281736,Rossella Accoto,female,1969-10-13,11,,,Rossella Accoto datisenato 2018.jpg,
 Q55281737,Giuseppe Auddino,male,1971-04-26,11,,,Giuseppe Auddino datisenato 2018.jpg,
 Q55281740,Gabriele Lanzi,male,1957-10-07,11,,,Gabriele Lanzi datisenato 2018.jpg,
