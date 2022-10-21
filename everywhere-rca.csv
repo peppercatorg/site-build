@@ -1118,6 +1118,8 @@ Belize,Q6266369,Johnny Briceño,father,Q85852299,Elijio Briceño
 Belize,Q6266369,Johnny Briceño,spouse,Q112483783,Rossana Briceño
 Belize,Q86003400,Elizabeth Zabaneh,mother,Q21066738,Jane Ellen Usher
 Benin,Q110812131,Béatrice Lakoussan,spouse,Q206719,Mathieu Kérékou
+Benin,Q16669148,Patrice Talon,child,Q114784053,Lionel Talon
+Benin,Q16669148,Patrice Talon,spouse,Q106764648,Claudine Talon
 Benin,Q206719,Mathieu Kérékou,spouse,Q106764653,Marguerite Kérékou
 Benin,Q206719,Mathieu Kérékou,spouse,Q110812131,Béatrice Lakoussan
 Benin,Q29196,Thomas Boni Yayi,relative,Q65969384,Marcel Alain de Souza
@@ -2859,6 +2861,7 @@ Czechia,Q133947,Jiří Dienstbier Jr.,father,Q375208,Jiří Dienstbier
 Czechia,Q133947,Jiří Dienstbier Jr.,mother,Q10861532,Zuzana Dienstbierová
 Czechia,Q133947,Jiří Dienstbier Jr.,relative,Q78915609,Jiří Dienstbier
 Czechia,Q1357078,Vladimír Železný,child,Q12022326,Jakub Železný
+Czechia,Q1357078,Vladimír Železný,father,Q95176368,Teodor Železný
 Czechia,Q1357078,Vladimír Železný,spouse,Q22678776,Marta Davouze
 Czechia,Q1357078,Vladimír Železný,spouse,Q61728994,Konstancie Železná
 Czechia,Q13578363,Jiří Balvín,father,Q12025863,Josef Balvín
@@ -3771,6 +3774,7 @@ European Union,Q1345946,Tunne Kelam,spouse,Q12369727,Mari-Ann Kelam
 European Union,Q13570003,Kadri Simson,father,Q12358062,Aadu Must
 European Union,Q13570003,Kadri Simson,mother,Q12379598,Ülle Must
 European Union,Q1357078,Vladimír Železný,child,Q12022326,Jakub Železný
+European Union,Q1357078,Vladimír Železný,father,Q95176368,Teodor Železný
 European Union,Q1357078,Vladimír Železný,spouse,Q22678776,Marta Davouze
 European Union,Q1357078,Vladimír Železný,spouse,Q61728994,Konstancie Železná
 European Union,Q1357206,Gunnar Hökmark,father,Q5821186,Gösta Hökmark
@@ -8555,6 +8559,7 @@ Italy,Q956652,Renato Ruggiero,child,Q3934610,Riccardo Ruggiero
 Italy,Q958889,Pietro Ichino,sibling,Q3615787,Andrea Ichino
 Italy,Q971234,Gianni Pittella,father,Q16550409,Domenico Pittella
 Italy,Q971234,Gianni Pittella,sibling,Q15829777,Marcello Pittella
+Italy,Q98099375,Andrea Barabotti,partner,Q58885861,Susanna Ceccardi
 Italy,Q981692,Vittorio Colao,sibling,Q113585525,Paolo Colao
 Italy,Q99528831,Lucia Matergi,spouse,Q112613607,Nino Muzzi
 Ivory Coast,Q106777843,Adama Kamara,spouse,Q110903310,Nina Keita
@@ -9573,7 +9578,7 @@ Mexico,Q3069480,Fernando Gómez Mont,father,Q5858217,Felipe Gómez Mont
 Mexico,Q3069480,Fernando Gómez Mont,sibling,Q108570379,María Teresa Gómez-Mont Urueta
 Mexico,Q3069480,Fernando Gómez Mont,sibling,Q109827422,Miguel Gómez-Mont Urueta
 Mexico,Q318508,Andrés Manuel López Obrador,child,Q83049574,Andrés Manuel López Beltrán
-Mexico,Q318508,Andrés Manuel López Obrador,child,Q97971611,Jesús Ernesto López Gutiérrez
+Mexico,Q318508,Andrés Manuel López Obrador,child,Q97971611,Jesús Ernesto López Chocoflán
 Mexico,Q318508,Andrés Manuel López Obrador,child,Q97974639,José Ramón López Beltrán
 Mexico,Q318508,Andrés Manuel López Obrador,child,Q97976656,Gonzalo Alfonso López Beltrán
 Mexico,Q318508,Andrés Manuel López Obrador,relative,Q97971354,Nora Beatriz Müller Bentjerodt
@@ -13811,6 +13816,7 @@ Suriname,Q299020,Ronald Venetiaan,child,Q102256470,Shanti A. Venetiaan
 Suriname,Q3127467,Marie Levens,sibling,Q4951565,Alphons Levens
 Suriname,Q333135,Chan Santokhi,spouse,Q104780411,Mellisa Seenacherry
 Suriname,Q57667,Dési Bouterse,child,Q2750706,Dino Bouterse
+Sweden,Q105679831,Nike Örbrink,father,Q59677207,Mats Örbrink
 Sweden,Q105928301,Markus Kallifatides,father,Q2031528,Theodor Kallifatides
 Sweden,Q108281858,Charlotte von Essen,spouse,Q39160642,Ulrik von Essen
 Sweden,Q114030387,Gabriel Eugen Kroon,sibling,Q101113648,Julian Kroon
@@ -14736,6 +14742,7 @@ Ukraine,Q22138148,Tetiana Yuzkova,partner,Q12119499,Oleh Liashko
 Ukraine,Q22138148,Tetiana Yuzkova,spouse,Q12119499,Oleh Liashko
 Ukraine,Q225357,Hryhoriy Surkis,father,Q106567777,Михаил Давидович Суркис
 Ukraine,Q225357,Hryhoriy Surkis,sibling,Q1132935,Ihor Surkis
+Ukraine,Q22953373,Maksym Mykytas,father,Q65031766,Микитась Віктор Григорович
 Ukraine,Q2313952,Kateryna Yushchenko,spouse,Q1459699,Viktor Yushchenko
 Ukraine,Q24025631,Dmytro Kuleba,father,Q12115638,Кулеба Іван Дмитрович
 Ukraine,Q24025631,Dmytro Kuleba,spouse,Q104963350,Yevheniia Kuleba

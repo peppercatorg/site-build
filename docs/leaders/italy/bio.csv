@@ -242,6 +242,7 @@ Q114643680,Emiliano Fossi,male,1973-09-02,11,,,Emiliano Fossi XIX.jpg,
 Q114644639,Tommaso Calderone,male,1963-01-30,11,,,Tommaso Antonino Calderone XIX.jpg,
 Q114647742,Sara Ferrari,female,1971-01-05,11,,,Sara Ferrari XIX.jpg,
 Q114658265,Francesco Emilio Borrelli,male,1973-08-14,11,,,Francesco Emilio Borrelli XIX.jpg,
+Q114669331,Fabio Roscani,male,1990-06-03,11,,,Fabio Roscani.jpg,
 Q114669334,Enrica Alifano,female,1967-01-31,11,,,EnricaAlifano.jpg,
 Q114669335,Naike Gruppioni,female,1979-01-25,11,,,Naike Gruppioni XIX.jpg,
 Q114669336,Fabrizio Benzoni,male,1985-11-04,11,,,Fabrizio Benzoni XIX.jpg,
@@ -256,6 +257,7 @@ Q114723748,Maria Grazia Frijia,female,1974-08-09,11,,,Maria Grazia Friija.jpg,
 Q114725522,Vincenzo Amich,male,1977-07-26,11,,,Vincenzo Amich.jpg,
 Q114734468,Chiara Colosimo,female,1986-06-02,11,,,Chiara Colosimo XIX.jpg,
 Q114736818,Concetta Damante,female,1972-02-05,11,,,,
+Q114779941,Marco Perissa,male,1982-05-22,11,,,,
 Q116026,Deborah Bergamini,female,1967-10-24,11,,,Deborah Bergamini daticamera 2018.jpg,Deborah Bergamini
 Q11703835,Gregorio Fontana,male,1963-11-09,11,,,Gregorio Fontana daticamera 2018.jpg,
 Q11860,Silvio Berlusconi,male,1936-09-29,11,,,Silvio Berlusconi 2018.jpg,Silvio Berlusconi
@@ -315,7 +317,7 @@ Q1379277,Paolo Emilio Taviani,male,1912-11-06,11,2001-06-18,11,Taviani Paolo Emi
 Q1379919,Francesco De Martino,male,1907-05-31,11,2002-11-18,11,Francesco De Martino 1995 - Augusto De Luca photographer.jpg,Francesco De Martino
 Q1380538,Massimo Mauro,male,1962-05-24,11,,,,Massimo Mauro
 Q1384236,Leopoldo Elia,male,1925-11-04,11,2008-10-05,11,Elia-leopoldo-imago-324.jpg,Leopoldo Elia
-Q1394411,Ignazio La Russa,male,1947-07-18,11,,,Ignazio La Russa 2022.jpg,Ignazio La Russa
+Q1394411,Ignazio La Russa,male,1947-07-18,11,,,Ignazio La Russa Quirinale 2022 (cropped).jpg,Ignazio La Russa
 Q1394623,Franco Carraro,male,1939-12-06,11,,,Franco Carraro Milan.jpg,Franco Carraro
 Q1394911,Clemente Mastella,male,1947-02-05,11,,,Clemente Mastella.jpg,Clemente Mastella
 Q1412573,Marta Cartabia,female,1963-05-14,11,,,Marta Cartabia (cropped).jpg,Marta Cartabia
@@ -3520,7 +3522,7 @@ Q62735054,Cristian Romaniello,male,1988-06-21,11,,,Cristian Romaniello.jpg,
 Q62914343,Saverio De Bonis,male,1964-11-19,11,,,Saverio De Bonis.jpg,
 Q63034732,Antonio Capuano,male,1971-09-11,11,,,,
 Q63034837,Paolo Cuccu,male,1943-02-09,11,2019-04-04,11,,
-Q630738,Carlo Scognamiglio,male,1944-11-27,11,,,Carlo scognamiglio pasini.jpg,Carlo Scognamiglio
+Q630738,Carlo Scognamiglio,male,1944-11-27,11,,,Carlo Scognamiglio.jpg,Carlo Scognamiglio
 Q63079938,Ugo Parolo,male,1963-03-01,11,,,Ugo Parolo daticamera.jpg,
 Q63098647,Annaelsa Tartaglione,female,1989-05-27,11,,,OnAnnaelsaTartaglione5.jpg,
 Q63100489,Iolanda Di Stasio,female,1992-02-24,11,,,Iolanda Di Stasio.jpg,
@@ -3623,7 +3625,7 @@ Q68585996,Ingrid Bisa,female,1978-01-10,11,,,Ingrid Bisa XVIII.jpg,Ingrid Bisa
 Q68586055,Camillo D'Alessandro,male,1976-05-09,11,,,Camillo D'Alessandro.jpg,
 Q686194,Vincenzo Visco,male,1942-03-18,11,,,Vincenzo Visco - Festival Economia 2013.JPG,Vincenzo Visco
 Q687662,Stefano Caldoro,male,1960-12-03,11,,,StefanoCaldoro.jpg,Stefano Caldoro
-Q689244,Marcello Pera,male,1943-01-28,11,,,Marcello Pera Senato.jpg,Marcello Pera
+Q689244,Marcello Pera,male,1943-01-28,11,,,Marcello Pera datisenato 2022.jpg,Marcello Pera
 Q6929312,Antonio Pezzella,male,1948-01-03,11,2009-11-26,11,Antonio Pezzella XIV.jpg,
 Q695875,Riccardo Illy,male,1955-09-24,11,,,Riccardo Illy-Rovereto.jpg,Riccardo Illy
 Q696154,Arnold Schuler,male,1962-08-19,11,,,Schuler Arnold.JPG,
@@ -3935,6 +3937,7 @@ Q962655,Angelo Maria Cicolani,male,1952-04-04,11,2012-10-27,11,Cicolani 30-10-09
 Q96333400,Giuseppe Tarantino,male,1959-12-21,11,,,,
 Q971234,Gianni Pittella,male,1958-11-19,11,,,Gianni Pittella datisenato 2018.jpg,Gianni Pittella
 Q97480663,Giuseppe Paolin,male,1966-11-23,11,,,Giuseppe Paolin daticamera.jpg,
+Q98099375,Andrea Barabotti,male,1985-09-14,11,,,,
 Q98153062,Silvio Balderi,male,1923,9,2017-05,10,,
 Q981692,Vittorio Colao,male,1961-10-03,11,,,Vittorio Colao 2015 (cropped).jpg,Vittorio Colao
 Q984461,Ignazio Visco,male,1949-11-21,11,,,"Ignazio Visco at the Rebuilding Europe’s Competitiveness Meeting, Villa Madama, Rome 30th October 2012.jpg",Ignazio Visco
