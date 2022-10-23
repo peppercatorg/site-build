@@ -9,6 +9,7 @@ Italy,Q1060314,Raffaele Fitto,father,Q3946056,Salvatore Fitto
 Italy,Q1071031,Paolo Gentiloni,relative,Q4013441,Ottorino Gentiloni
 Italy,Q1071082,Barbara Pollastrini,spouse,Q3932705,Renato Mannheimer
 Italy,Q1071082,Barbara Pollastrini,spouse,Q58036409,Pietro Modiano
+Italy,Q108262037,Simona Petrucci,spouse,Q114815313,Claro Mecacci
 Italy,Q109570358,Andrea Gentile,father,Q3619638,Antonio Gentile
 Italy,Q1098169,Claudio Scajola,father,Q105711966,Ferdinando Scajola
 Italy,Q1098169,Claudio Scajola,mother,Q105715694,Maria Vittoria Truini
@@ -16,6 +17,7 @@ Italy,Q1098169,Claudio Scajola,relative,Q105715849,Ferdinando Truini
 Italy,Q1098169,Claudio Scajola,sibling,Q105715654,Maria Teresa Scajola
 Italy,Q1098169,Claudio Scajola,sibling,Q105715655,Maurizio Scajola
 Italy,Q1098169,Claudio Scajola,sibling,Q18812258,Alessandro Scajola
+Italy,Q114796723,Matteo Piantedosi,spouse,Q108280366,Paola Berardino
 Italy,Q11860,Silvio Berlusconi,child,Q18235147,Luigi Berlusconi
 Italy,Q11860,Silvio Berlusconi,child,Q25210469,Eleonora Berlusconi
 Italy,Q11860,Silvio Berlusconi,child,Q3634593,Barbara Berlusconi
@@ -69,6 +71,7 @@ Italy,Q15074414,Arno Kompatscher,father,Q498919,Andreas Kompatscher
 Italy,Q15142811,Maria Burani Procaccini,child,Q64585327,Nicola Procaccini
 Italy,Q15143059,Maria Elena Boschi,partner,Q1117917,Giulio Berruti
 Italy,Q15143059,Maria Elena Boschi,partner,Q3615550,Andrea Bruno Savelli
+Italy,Q1514742,Mirko Tremaglia,relative,Q114717360,Andrea Tremaglia
 Italy,Q151608,Claudio Abbado,child,Q3701853,Daniele Abbado
 Italy,Q151608,Claudio Abbado,father,Q1850160,Michelangelo Abbado
 Italy,Q151608,Claudio Abbado,sibling,Q1641210,Marcello Abbado
@@ -262,6 +265,7 @@ Italy,Q444509,Franca Rame,spouse,Q765,Dario Fo
 Italy,Q445665,Elsa Fornero,child,Q90068893,Silvia Deaglio
 Italy,Q445665,Elsa Fornero,spouse,Q3848521,Mario Deaglio
 Italy,Q447895,Giovanna Melandri,sibling,Q507868,Francesca Melandri
+Italy,Q451791,Giorgia Meloni,relative,Q56433809,Francesco Lollobrigida
 Italy,Q452164,Rosa Russo Iervolino,father,Q3617176,Angelo Raffaele Jervolino
 Italy,Q452164,Rosa Russo Iervolino,mother,Q3847238,Maria De Unterrichter Jervolino
 Italy,Q452164,Rosa Russo Iervolino,relative,Q3713084,Domenico Jervolino
@@ -295,6 +299,8 @@ Italy,Q558991,Tommaso Padoa-Schioppa,father,Q15936509,Fabio Padoa-Schioppa
 Italy,Q558991,Tommaso Padoa-Schioppa,partner,Q3634690,Barbara Spinelli
 Italy,Q558991,Tommaso Padoa-Schioppa,sibling,Q3619982,Antonio Padoa-Schioppa
 Italy,Q558991,Tommaso Padoa-Schioppa,spouse,Q3745861,Fiorella Kostoris
+Italy,Q56433809,Francesco Lollobrigida,relative,Q451791,Giorgia Meloni
+Italy,Q56433809,Francesco Lollobrigida,relative,Q56009,Gina Lollobrigida
 Italy,Q603390,Antonio Martino,father,Q139055,Gaetano Martino
 Italy,Q61014728,Paolo Zangrillo,sibling,Q56379031,Alberto Zangrillo
 Italy,Q616525,Gianfranco Miccichè,sibling,Q3757053,Gaetano Miccichè
