@@ -614,6 +614,8 @@ United States,Q32620,Tulsi Gabbard,mother,Q22810615,Carol Porter Gabbard
 United States,Q32620,Tulsi Gabbard,spouse,Q22810617,Abraham Williams
 United States,Q32620,Tulsi Gabbard,spouse,Q58325067,Eduardo Tamayo
 United States,Q3278769,Dina Powell,spouse,Q5234544,David H. McCormick
+United States,Q3317069,Mitch Landrieu,father,Q1946678,Moon Landrieu
+United States,Q3317069,Mitch Landrieu,sibling,Q22338,Mary Landrieu
 United States,Q331742,George McGovern,spouse,Q5354337,Eleanor McGovern
 United States,Q337470,Howard Dean,father,Q87746123,Howard Brush Dean Jr.
 United States,Q337470,Howard Dean,mother,Q86326379,Andrée Belden Maitland
@@ -627,6 +629,7 @@ United States,Q344930,Evan Bayh,spouse,Q7647557,Susan Bayh
 United States,Q3466996,Eric Swalwell,spouse,Q64620957,Brittany Watts
 United States,Q3481765,Sheila Simon,father,Q712134,Paul Simon
 United States,Q3481765,Sheila Simon,mother,Q6172114,Jeanne Hurley Simon
+United States,Q3483318,Sidney Blumenthal,child,Q6794591,Max Blumenthal
 United States,Q350378,Gary Locke,spouse,Q30944221,Mona Lee Locke
 United States,Q3518911,Terry McAuliffe,spouse,Q45120525,Dorothy McAuliffe
 United States,Q352123,Gary Johnson,father,Q20202251,Earl W. Johnson
@@ -678,6 +681,7 @@ United States,Q40589,Keith Ellison,mother,Q90732093,Clida Martinez Ellison
 United States,Q4075483,John Beyrle,father,Q4075481,Joseph Beyrle
 United States,Q4130854,Mike Gabbard,child,Q32620,Tulsi Gabbard
 United States,Q4130854,Mike Gabbard,spouse,Q22810615,Carol Porter Gabbard
+United States,Q42770663,Keisha Lance Bottoms,father,Q12858987,Major Lance
 United States,Q42804470,Mike Braun,sibling,Q48813191,Steve Braun
 United States,Q430518,John Hickenlooper,relative,Q1411603,George Hickenlooper
 United States,Q430518,John Hickenlooper,relative,Q7545166,Smith Hickenlooper
@@ -939,7 +943,7 @@ United States,Q554792,Michael Bennet,mother,Q38346462,Susanne Klejman
 United States,Q554792,Michael Bennet,sibling,Q6129664,James Bennet
 United States,Q5550068,Gerard Luz James,father,Q5512335,G. Luz A. James
 United States,Q5566787,Matthew Barzun,father,Q106837403,Roger Martin Barzun
-United States,Q5566787,Matthew Barzun,mother,Q106837428,Serita Lincoln Winthrop
+United States,Q5566787,Matthew Barzun,mother,Q106837428,Serita Winthrop
 United States,Q5566787,Matthew Barzun,sibling,Q6698192,Lucy Barzun Donnelly
 United States,Q5566787,Matthew Barzun,spouse,Q4974408,Brooke Barzun
 United States,Q557810,Anthony Weiner,spouse,Q469222,Huma Abedin
@@ -1074,6 +1078,7 @@ United States,Q69319,John Kasich,spouse,Q20185706,Mary Lee Griffith
 United States,Q6962863,Nancy Munoz,spouse,Q5387150,Eric Munoz
 United States,Q6968251,Natalie Tennant,spouse,Q5388905,Erik Wells
 United States,Q6984099,Neal Foster,father,Q7325741,Richard Foster
+United States,Q6986921,Neera Tanden,spouse,Q4888506,Benjamin Edwards
 United States,Q7030302,Nicolle Wallace,spouse,Q6770199,Mark Wallace
 United States,Q7030302,Nicolle Wallace,spouse,Q6834083,Michael S. Schmidt
 United States,Q705472,Jim Gilmore,father,Q20177383,"James Stuart Gilmore, Jr."

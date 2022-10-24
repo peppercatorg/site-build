@@ -2209,8 +2209,6 @@ China,Q3267042,Li Min,sibling,Q922651,Mao Anqing
 China,Q3267042,Li Min,spouse,Q15921491,Kong Linghua
 China,Q3369535,Huo Jianqi,spouse,Q9331688,Si Wu
 China,Q3570137,Wu Jianmin,spouse,Q11085243,Shi yanhua
-China,Q365898,Wang Hongju,child,Q45411700,Wang Dalin
-China,Q365898,Wang Hongju,father,Q45411704,Wang Duanli
 China,Q36970,Jackie Chan,child,Q54317718,Etta Ng
 China,Q36970,Jackie Chan,child,Q561310,Jaycee Chan
 China,Q36970,Jackie Chan,father,Q4261937,Charles Chan
@@ -8783,7 +8781,7 @@ Japan,Q3482658,Shun'ichi Suzuki,relative,Q132596,Tarō Asō
 Japan,Q3482658,Shun'ichi Suzuki,sibling,Q73942,Chikako Asō
 Japan,Q359480,Fumio Kishida,father,Q11475980,Fumitake Kishida
 Japan,Q359480,Fumio Kishida,relative,Q1313628,Yoichi Miyazawa
-Japan,Q359480,Fumio Kishida,relative,Q56253133,可部哲生
+Japan,Q359480,Fumio Kishida,relative,Q56253133,Tetsuo Kabe
 Japan,Q359480,Fumio Kishida,relative,Q56253389,井口良二
 Japan,Q359480,Fumio Kishida,spouse,Q108806841,Yuko Kishida
 Japan,Q359926,Shinya Izumi,child,Q112238524,Kōyū Izumi
@@ -9512,7 +9510,7 @@ Malta,Q5043368,Carmelo Abela,spouse,Q111670981,Melanie Bugeja
 Malta,Q57502,George Abela,child,Q37860840,Robert Abela
 Malta,Q57502,George Abela,spouse,Q6759132,Margaret Abela
 Malta,Q6762928,Marie-Louise Coleiro Preca,spouse,Q28086248,Edgar Preca
-Marshall Islands,Q20090884,Hilda C. Heine,child,Q42883452,Kathy Jetnil-Kijiner
+Marshall Islands,Q20090884,Hilda C. Heine,child,Q42883452,Kathy Jetn̄il-Kijiner
 Mauritania,Q12241106,Mohamed Ould Ghazouani,spouse,Q113154086,Mariem Mint Mohamed Fadel Ould Dah
 Mauritius,Q217566,Anerood Jugnauth,child,Q3401447,Pravind Jugnauth
 Mauritius,Q217566,Anerood Jugnauth,spouse,Q7424446,Sarojini Jugnauth
@@ -9633,11 +9631,12 @@ Mexico,Q57269,Felipe Calderón,spouse,Q2370402,Margarita Zavala de Calderón
 Mexico,Q5751617,Carlos Rojas Gutiérrez,spouse,Q18378698,Mónica Fernández Balboa
 Mexico,Q5771792,Claudia Ruiz Massieu,father,Q597425,José Francisco Ruiz Massieu
 Mexico,Q5771800,Claudia Sheinbaum,spouse,Q5750619,Carlos Imaz Gispert
+Mexico,Q5798497,Daniel Ludlow Kuri,spouse,Q27955325,Yolanda Tellería Beltrán
 Mexico,Q5818964,Eduardo Andrade Sánchez,sibling,Q6125313,Sergio Andrade
 Mexico,Q58365077,Roberta Lajous,sibling,Q113189686,Luz Lajous Vargas
 Mexico,Q58365077,Roberta Lajous,sibling,Q20064542,Adrián Lajous Vargas
 Mexico,Q58365077,Roberta Lajous,sibling,Q5664690,Alejandra Lajous
-Mexico,Q5860132,Fernando Reina Iglesias,spouse,Q3544491,Galilea Francisca Montijo
+Mexico,Q5860132,Fernando Reina Iglesias,spouse,Q3544491,Galilea Montijo
 Mexico,Q58660742,Ernesto Nemer Álvarez,spouse,Q20801621,Carolina Monroy del Mazo
 Mexico,Q5873772,Gabriela Ruiz del Rincón,relative,Q2267931,Manuel Clouthier
 Mexico,Q5915371,Indira Vizcaíno Silva,father,Q5704984,Arnoldo Vizcaíno
@@ -10119,6 +10118,7 @@ New Zealand,Q19876617,Dalton Tagelagi,father,Q7408006,Sam Pata Emani Tagelagi
 New Zealand,Q23498274,Patsy Reddy,spouse,Q23799191,David Gascoigne
 New Zealand,Q241638,Silvia Cartwright,spouse,Q63323215,Peter Cartwright
 New Zealand,Q2622925,Michael Cullen,spouse,Q104639563,Lowson Anne Collins
+New Zealand,Q2899642,Sian Elias,child,Q114797108,Ned Fletcher
 New Zealand,Q2899642,Sian Elias,spouse,Q9385312,Hugh Fletcher
 New Zealand,Q2989309,Terepai Maoate,spouse,Q12826225,Lord
 New Zealand,Q3606816,Jacinda Ardern,child,Q105953130,Neve Ardern Gayford
@@ -14162,6 +14162,7 @@ Syria,Q12180950,Anisa Makhlouf,sibling,Q112117043,Mohammed Makhlouf
 Syria,Q12180950,Anisa Makhlouf,spouse,Q118725,Hafez al-Assad
 Syria,Q12199735,Bahjat Suleiman,child,Q111903309,Majd Bahjat Suleiman
 Syria,Q12199735,Bahjat Suleiman,child,Q111903374,Haidara Suleiman
+Syria,Q12199735,Bahjat Suleiman,relative,Q114727548,Zina Khair
 Syria,Q231637,Asma al-Assad,father,Q3178546,Fawaz Akhras
 Syria,Q231637,Asma al-Assad,spouse,Q44329,Bashar al-Assad
 Syria,Q403707,Mustafa Tlass al jahesh,child,Q1341977,Manaf Tlass
@@ -14421,7 +14422,7 @@ Thailand,Q448071,Bajrakitiyabha,relative,Q16138656,Vatcharawee Vivacharawongse
 Thailand,Q448071,Bajrakitiyabha,relative,Q4272881,Prince Dipangkorn Rasmijoti of Thailand
 Thailand,Q448071,Bajrakitiyabha,relative,Q448031,Sirivannavari
 Thailand,Q448071,Bajrakitiyabha,stepparent,Q16140394,Sujarinee Vivacharawongse
-Thailand,Q448071,Bajrakitiyabha,stepparent,Q18744506,Suthida
+Thailand,Q448071,Bajrakitiyabha,stepparent,Q18744506,Queen Suthida
 Thailand,Q448071,Bajrakitiyabha,stepparent,Q2276823,Srirasmi Suwadee
 Thailand,Q4925793,Kraisak Choonhavan,father,Q701841,Chatchai Chunhawan
 Thailand,Q529433,Chaovarat Chanweerakul,child,Q16139757,Anutin Charnvirakul
@@ -14433,14 +14434,14 @@ Thailand,Q548733,Vajiralongkorn,child,Q4272881,Prince Dipangkorn Rasmijoti of Th
 Thailand,Q548733,Vajiralongkorn,child,Q448031,Sirivannavari
 Thailand,Q548733,Vajiralongkorn,child,Q448071,Bajrakitiyabha
 Thailand,Q548733,Vajiralongkorn,father,Q855252,Bhumibol Adulyadej
-Thailand,Q548733,Vajiralongkorn,mother,Q164518,Sirikit
+Thailand,Q548733,Vajiralongkorn,mother,Q164518,Queen Sirikit
 Thailand,Q548733,Vajiralongkorn,partner,Q16140394,Sujarinee Vivacharawongse
 Thailand,Q548733,Vajiralongkorn,partner,Q61117470,Sineenart
 Thailand,Q548733,Vajiralongkorn,sibling,Q1089410,"Princess Chulabhorn, The Princess Srisavangavadhana"
 Thailand,Q548733,Vajiralongkorn,sibling,Q1315769,Princess Ubol Ratana of Thailand
 Thailand,Q548733,Vajiralongkorn,sibling,Q1884754,"Princess Sirindhorn, Princess Royal of Thailand"
 Thailand,Q548733,Vajiralongkorn,spouse,Q16140394,Sujarinee Vivacharawongse
-Thailand,Q548733,Vajiralongkorn,spouse,Q18744506,Suthida
+Thailand,Q548733,Vajiralongkorn,spouse,Q18744506,Queen Suthida
 Thailand,Q548733,Vajiralongkorn,spouse,Q2057143,Soamsawali
 Thailand,Q548733,Vajiralongkorn,spouse,Q2276823,Srirasmi Suwadee
 Thailand,Q57670,Yingluck Shinawatra,father,Q13025801,Lert Shinawatra
@@ -14456,8 +14457,8 @@ Thailand,Q855252,Bhumibol Adulyadej,father,Q690708,Mahidol Adulyadej
 Thailand,Q855252,Bhumibol Adulyadej,mother,Q449433,"Princess Srinagarindra, The Princess Mother of Thailand"
 Thailand,Q855252,Bhumibol Adulyadej,sibling,Q248893,Ananda Mahidol
 Thailand,Q855252,Bhumibol Adulyadej,sibling,Q466850,Galyani Vadhana
-Thailand,Q855252,Bhumibol Adulyadej,spouse,Q164518,Sirikit
-Thailand,Q855252,Bhumibol Adulyadej,spouse,Q164518,Sirikit
+Thailand,Q855252,Bhumibol Adulyadej,spouse,Q164518,Queen Sirikit
+Thailand,Q855252,Bhumibol Adulyadej,spouse,Q164518,Queen Sirikit
 Timor-Leste,Q11509,Xanana Gusmão,sibling,Q92212427,Armandina Maria Gusmão dos Santos
 Timor-Leste,Q11509,Xanana Gusmão,spouse,Q540562,Kirsty Sword Gusmão
 Timor-Leste,Q11665,José Ramos-Horta,child,Q23062889,Loro Horta
@@ -14468,6 +14469,7 @@ Timor-Leste,Q727119,Estanislau da Silva,spouse,Q64606137,Filomena de Almeida
 Timor-Leste,Q897790,Francisco Guterres,spouse,Q44443794,Cidália Lopes Nobre Mouzinho Guterres
 Togo,Q155385,Étienne Gnassingbé Eyadéma,child,Q4414,Faure Gnassingbé
 Togo,Q155385,Étienne Gnassingbé Eyadéma,child,Q6435718,Kpatcha Gnassingbé
+Togo,Q1778373,Koffi Sama,child,Q4414,Faure Gnassingbé
 Togo,Q4414,Faure Gnassingbé,father,Q155385,Étienne Gnassingbé Eyadéma
 Tonga,Q208497,Tupou VI of Tonga,child,Q13382727,Princess Lātūfuipeka Tukuʻaho
 Tonga,Q208497,Tupou VI of Tonga,child,Q14947549,Prince Ata
@@ -20056,6 +20058,11 @@ United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",mother,Q76
 United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",spouse,Q76024015,Masel Elizabeth Carter
 United Kingdom,Q75292880,James Murray,father,Q75265189,Geoffrey Charles Stewart Murray
 United Kingdom,Q75292880,James Murray,mother,Q75292757,C. Lynne Murray
+United Kingdom,Q75409722,"Simon Murray, Baron Murray of Blidworth",child,Q76102923,Matilda Alice Murray
+United Kingdom,Q75409722,"Simon Murray, Baron Murray of Blidworth",child,Q76102924,Archibald Peregrine Murray
+United Kingdom,Q75409722,"Simon Murray, Baron Murray of Blidworth",father,Q75409719,Nigel Murray
+United Kingdom,Q75409722,"Simon Murray, Baron Murray of Blidworth",mother,Q75409717,Shirley Arbuthnot
+United Kingdom,Q75409722,"Simon Murray, Baron Murray of Blidworth",spouse,Q75323316,Amelia May Beaumont
 United Kingdom,Q75410647,Fleur Anderson,child,Q75410651,Rory Ellis Brendan Commee
 United Kingdom,Q75410647,Fleur Anderson,child,Q75410653,Cassie Charlotte Commee
 United Kingdom,Q75410647,Fleur Anderson,child,Q75410655,Ellen Fleur Commee
@@ -21055,6 +21062,8 @@ United States,Q32620,Tulsi Gabbard,mother,Q22810615,Carol Porter Gabbard
 United States,Q32620,Tulsi Gabbard,spouse,Q22810617,Abraham Williams
 United States,Q32620,Tulsi Gabbard,spouse,Q58325067,Eduardo Tamayo
 United States,Q3278769,Dina Powell,spouse,Q5234544,David H. McCormick
+United States,Q3317069,Mitch Landrieu,father,Q1946678,Moon Landrieu
+United States,Q3317069,Mitch Landrieu,sibling,Q22338,Mary Landrieu
 United States,Q331742,George McGovern,spouse,Q5354337,Eleanor McGovern
 United States,Q337470,Howard Dean,father,Q87746123,Howard Brush Dean Jr.
 United States,Q337470,Howard Dean,mother,Q86326379,Andrée Belden Maitland
@@ -21068,6 +21077,7 @@ United States,Q344930,Evan Bayh,spouse,Q7647557,Susan Bayh
 United States,Q3466996,Eric Swalwell,spouse,Q64620957,Brittany Watts
 United States,Q3481765,Sheila Simon,father,Q712134,Paul Simon
 United States,Q3481765,Sheila Simon,mother,Q6172114,Jeanne Hurley Simon
+United States,Q3483318,Sidney Blumenthal,child,Q6794591,Max Blumenthal
 United States,Q350378,Gary Locke,spouse,Q30944221,Mona Lee Locke
 United States,Q3518911,Terry McAuliffe,spouse,Q45120525,Dorothy McAuliffe
 United States,Q352123,Gary Johnson,father,Q20202251,Earl W. Johnson
@@ -21119,6 +21129,7 @@ United States,Q40589,Keith Ellison,mother,Q90732093,Clida Martinez Ellison
 United States,Q4075483,John Beyrle,father,Q4075481,Joseph Beyrle
 United States,Q4130854,Mike Gabbard,child,Q32620,Tulsi Gabbard
 United States,Q4130854,Mike Gabbard,spouse,Q22810615,Carol Porter Gabbard
+United States,Q42770663,Keisha Lance Bottoms,father,Q12858987,Major Lance
 United States,Q42804470,Mike Braun,sibling,Q48813191,Steve Braun
 United States,Q430518,John Hickenlooper,relative,Q1411603,George Hickenlooper
 United States,Q430518,John Hickenlooper,relative,Q7545166,Smith Hickenlooper
@@ -21380,7 +21391,7 @@ United States,Q554792,Michael Bennet,mother,Q38346462,Susanne Klejman
 United States,Q554792,Michael Bennet,sibling,Q6129664,James Bennet
 United States,Q5550068,Gerard Luz James,father,Q5512335,G. Luz A. James
 United States,Q5566787,Matthew Barzun,father,Q106837403,Roger Martin Barzun
-United States,Q5566787,Matthew Barzun,mother,Q106837428,Serita Lincoln Winthrop
+United States,Q5566787,Matthew Barzun,mother,Q106837428,Serita Winthrop
 United States,Q5566787,Matthew Barzun,sibling,Q6698192,Lucy Barzun Donnelly
 United States,Q5566787,Matthew Barzun,spouse,Q4974408,Brooke Barzun
 United States,Q557810,Anthony Weiner,spouse,Q469222,Huma Abedin
@@ -21515,6 +21526,7 @@ United States,Q69319,John Kasich,spouse,Q20185706,Mary Lee Griffith
 United States,Q6962863,Nancy Munoz,spouse,Q5387150,Eric Munoz
 United States,Q6968251,Natalie Tennant,spouse,Q5388905,Erik Wells
 United States,Q6984099,Neal Foster,father,Q7325741,Richard Foster
+United States,Q6986921,Neera Tanden,spouse,Q4888506,Benjamin Edwards
 United States,Q7030302,Nicolle Wallace,spouse,Q6770199,Mark Wallace
 United States,Q7030302,Nicolle Wallace,spouse,Q6834083,Michael S. Schmidt
 United States,Q705472,Jim Gilmore,father,Q20177383,"James Stuart Gilmore, Jr."

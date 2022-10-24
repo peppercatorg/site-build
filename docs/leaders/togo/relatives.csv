@@ -1,4 +1,5 @@
 catalog,id,name,relationship,relative,relativename
 Togo,Q155385,Étienne Gnassingbé Eyadéma,child,Q4414,Faure Gnassingbé
 Togo,Q155385,Étienne Gnassingbé Eyadéma,child,Q6435718,Kpatcha Gnassingbé
+Togo,Q1778373,Koffi Sama,child,Q4414,Faure Gnassingbé
 Togo,Q4414,Faure Gnassingbé,father,Q155385,Étienne Gnassingbé Eyadéma
