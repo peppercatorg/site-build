@@ -1,12 +1,59 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q105203929,Aung Naing Oo,male,,,,,,Aung Naing Oo
 Q105234492,Tin Aung San,male,1960,9,,,,Tin Aung San
+Q105523630,Ei Thinzar Maung,female,1994-09-11,11,,,,Ei Thinzar Maung
+Q105686954,Sasa,male,,,,,,Sasa (politician)
+Q105709676,Htin Linn Aung,male,,,,,,Htin Linn Aung
+Q105741482,Lwin Ko Latt,male,1976-01-20,11,,,,Lwin Ko Latt
+Q106577395,Duwa Lashi La,male,,,,,,Duwa Lashi La
+Q106599026,Ja Htoi Pan,female,,,,,,Ja Htoi Pan
+Q106608579,Lian Hmung Sakhong,male,,,,,,Lian Hmung Sakhong
+Q106615935,Naw Susanna Hla Hla Soe,female,1965-08-18,11,,,,Naw Susanna Hla Hla Soe
+Q107390971,Moe Zaw Oo,male,1969,9,,,,Moe Zaw Oo
+Q107395473,Tu Hkawng,male,,,,,,Tu Hkawng
+Q107451326,Nai Thuwanna,male,,,,,,Nai Thuwanna
+Q107493812,Shwe Pon,female,1951,9,,,,Shwe Pon
+Q107524276,Kyaw Ni,male,,,,,,Kyaw Ni
+Q107598235,Aung Myo Min,male,,,,,U Aung Myo Min in 2014.jpg,Aung Myo Min
+Q107598311,Min Zayar Oo,male,1976-11-01,11,,,,Min Zayar Oo
+Q107598353,Sai Khaing Myo Tun,male,,,,,,Sai Khaing Myo Tun
 Q108081336,Nyunt Pe,male,,,,,,Nyunt Pe
+Q108100380,Khin Ma Ma Myo,female,,,,,,Khin Ma Ma Myo
+Q109381672,Maw Htun Aung,male,1984,9,,,,Maw Htun Aung
+Q110192053,Charlie Than,male,,,,,,Charlie Than
+Q111353513,Tun Tun Naung,male,1961,9,,,,Tun Tun Naung
+Q113426931,Pwint San,male,1961,9,,,,Pwint San
+Q113426948,Thida Oo,female,1964,9,,,,Thida Oo
+Q114268443,Tin Htut Oo,male,1963-02-27,11,,,,
+Q114268803,Khin Maung Yee,male,1944-12-11,11,,,,
+Q114269088,Soe Thura Tun,male,1970-05-12,11,,,,
+Q114269410,Thet Win Khaing,male,1980-08-08,11,,,,
+Q114837022,Myint Kyaing,male,,,,,,Myint Kyaing
+Q114849617,Aung Than Oo,,,,,,,
+Q114849618,Dr Pwint San,,,,,,,
+Q114849619,Hla Moe,,,,,,,
+Q114849620,Min Thein Zan,,,,,,,
+Q114849621,Myo Myint Oo,,,,,,,
+Q114849623,Myo Thein Kyaw,,,,,,,
+Q114849624,Saw Tun Aung Myint,,,,,,,
+Q114849625,Shwe Lay,,,,,,,
+Q114849626,Thaung Han,,,,,,,
+Q114850385,Ba Ham Htan,,,,,,,
+Q114850386,Chit Tun,,,,,,,
+Q114850387,Hkaung Naw,,,,,,,
+Q114850388,Khu Hte Bu,,,,,,,
+Q114850389,Maing Win Htoo,,,,,,,
+Q114850390,Nai Kao Rot,,,,,,,
+Q114850391,Naw Htoo Phaw,,,,,,,
+Q114850392,Toe Aung,,,,,,,
 Q12149,Thein Sein,male,1945-04-20,11,,,Thein Sein.jpg,Thein Sein
 Q13063623,Chit Naing,male,1948,9,,,,Chit Naing
 Q13861255,Phyu Phyu Thin,female,1972-12-23,11,,,Phyu Phyu Thin.JPG,Phyu Phyu Thin
+Q16186311,Kan Zaw,male,1954-10-11,11,,,,Kan Zaw
 Q17070236,Win Shein,male,,,,,,Win Shein
 Q17985658,Zin Mar Aung,female,1976-09-14,11,,,Zin Mar Aung.jpg,Zin Mar Aung
+Q19696256,Ko Ko,male,1956-03-10,11,,,,Ko Ko (minister)
+Q19702386,Soe Win,male,1960-03-01,11,,,Soe Win.jpg,Soe Win (general)
 Q19718465,Mya Tun Oo,male,1961-05-05,11,,,Mya Tun Oo during a meeting with Alexander Fomin on 17 August (cropped).jpg,Mya Tun Oo
 Q19718768,Yar Pyae,male,,,,,,Yar Pyae
 Q19739599,Aye Tha Aung,male,1945-12-09,11,,,Aye Tha Aung.jpg,Aye Tha Aung
@@ -14,10 +61,13 @@ Q202553,Than Shwe,male,1933-02-02,11,,,"Chairman, State Peace and Development Co
 Q20740965,Htay Aung,male,,7,,,,Htay Aung
 Q20985867,Tun Aung,male,1949-04-30,11,,,Tun Tun Hein.jpg,Tun Tun Hein
 Q20992005,Maung Maung Ohn,male,,7,,,Maung Maung Ohn - 2014 (cropped).jpg,Maung Maung Ohn
+Q21934500,U Tin Thit,male,,,,,,Yee Mon
 Q22343041,Mahn Win Khaing Than,male,1952-04-23,11,,,,Mahn Win Khaing Than
 Q23020990,Htin Kyaw,male,1946-07-20,11,,,President U Htin Kyaw official.jpg,Htin Kyaw
 Q23034406,Henry Van Thio,male,1958-08-09,11,,,Henry Van Thio (cropped).jpg,Henry Van Thio
 Q23304262,T Khun Myat,male,1950-10-30,11,,,,T Khun Myat
+Q23386122,Win Myat Aye,male,1954-06-01,11,,,Win Myat Aye.jpg,Win Myat Aye
+Q25619633,Tin Tun Naing,male,1971-01-30,11,,,,Tin Tun Naing
 Q3078540,Tin Aung Myint Oo,male,1950-05-29,11,,,Tin Aung Myint Oo.jpg,Tin Aung Myint Oo
 Q315983,Soe Win,male,1947-05-10,11,2007-10-12,11,SoeWin cropped.jpg,Soe Win (prime minister)
 Q3331362,Myint Swe,male,1951-05-24,11,,,Myint Swe on 30 March 2016.jpg,Myint Swe
@@ -32,11 +82,15 @@ Q557313,Khin Nyunt,male,1939-10-11,11,,,Khin Nyunt.jpg,Khin Nyunt
 Q56486694,Thet Thet Khaing,female,1967,9,,,Dr Thet Thet Khine.jpg,Thet Thet Khine
 Q56599629,Shila Nang Dong,female,1954-10-06,11,,,,Shila Nang Dong
 Q58153,Nyan Win,male,1953-01-22,11,,,Nyan Win.jpg,Nyan Win
+Q59660264,Zaw Wai Soe,male,1962,9,,,Dr Zaw Wai Soe.jpg,Zaw Wai Soe
 Q6401658,Khin Aung Myint,male,1945,9,,,Khin Aung Myint Seenate of Poland 2015.JPG,Khin Aung Myint
 Q6401687,Khin Yi,male,1952-12-29,11,,,U-Khin-Yi.gif,Khin Yi
+Q6402971,Khun Bedu,male,1984,9,,,,Khun Bedu
+Q6424145,Ko Ko Hlaing,male,1956,9,,,Ko Ko Hlaing.jpg,Ko Ko Hlaing
 Q6946690,Mya Nyein,male,1946,9,,,,Mya Nyein
 Q6963134,Nanda Kyaw Swa,male,1951,9,,,,Nanda Kyaw Swa
 Q7710081,Than Htay,male,1954-11-12,11,,,Than Htay USDP.jpg,Than Htay
+Q7777802,Thein Oo,male,1948-05-10,11,,,,Thein Oo
 Q8023642,Win Myint,male,1951-11-08,11,,,Win Myint 2017 cropped.jpg,Win Myint
 Q91866659,Soe Htut,male,1960,9,,,Soe Htut Minister.jpg,Soe Htut
 Q92203114,Kyaw Myo Htut,male,1957-12-09,11,,,,
