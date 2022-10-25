@@ -193,6 +193,7 @@ Turkey,Governor of the Central Bank,Murat Çetinkaya,Q23817662,2016-04-19,2019-0
 Turkey,Governor of the Central Bank,Murat Uysal,Q97236199,2019-07-06,2020-11-07,male,,,,
 Turkey,Governor of the Central Bank,Naci Ağbal,Q6032746,2020-11-07,2021-03-20,male,1968-01-01,,,Naci Ağbal
 Turkey,Governor of the Central Bank,Şahap Kavcıoğlu,Q106076541,2021-03-20,,male,1967-05-23,,Sahap Kavcioglu.jpg,Şahap Kavcıoğlu
+Turkey,Deputy Speaker of the Grand National Assembly,Pervin Buldan,Q458740,2015-11-23,2018-02-11,female,1967-11-06,,"Pervin Buldan, 3 July 2022 (cropped).jpg",Pervin Buldan
 Turkey,Governor of Ankara,Yahya Gür,Q6036140,1999-10-01,2004-07-01,male,1939,,,
 Turkey,Governor of Ankara,Kemal Önal,Q6034799,2004-09-16,2010-05-11,male,1946,,,
 Turkey,Governor of Ankara,Alaaddin Yüksel,Q6068977,2010-05-27,2014-09-15,male,1950-04-01,,"Ömer Dinçer, Melih Gökçek, Alaaddin Yüksel and officials02.jpg",
@@ -202,13 +203,6 @@ Turkey,Governor of Ankara,Vasip Şahin,Q6027159,2018-11-06,,male,1964,,Vasip Şa
 Turkey,Governor of İstanbul,Hüseyin Avni Mutlu,Q935430,2010-05-31,2014-09-25,male,1956,,Eski İstanbul Valisi Hüseyin Avni Mutlu (cropped).jpg,Hüseyin Avni Mutlu
 Turkey,Governor of İstanbul,Vasip Şahin,Q6027159,2014-09-25,2018-11-01,male,1964,,Vasip Şahin.jpg,Vasip Şahin
 Turkey,Governor of İstanbul,Ali Yerlikaya,Q12808436,2018-10-26,,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
-Turkey,mayor of Istanbul,Ali Müfit Gürtuna,Q3207218,1998-11-12,2001-06-01,male,1952-06-01,,Ali Müfit Gürtuna (cropped).png,Ali Müfit Gürtuna
-Turkey,mayor of Istanbul,Ali Müfit Gürtuna,Q3207218,2001-06-01,2004-04-01,male,1952-06-01,,Ali Müfit Gürtuna (cropped).png,Ali Müfit Gürtuna
-Turkey,mayor of Istanbul,Kadir Topbaş,Q509775,2004-04-01,2017-09-22,male,1945-01-08,2021-02-13,Kadir Topbas at 38th Istanbul Vodafone Marathon (2) cropped.jpg,Kadir Topbaş
-Turkey,mayor of Istanbul,Mevlüt Uysal,Q41866105,2017-09-28,2019-04-17,male,1966,,Mevlüt Uysal (cropped).jpg,Mevlüt Uysal
-Turkey,mayor of Istanbul,Ekrem İmamoğlu,Q59313241,2019-04-17,2019-05-06,male,1970-06-04,,Ekrem İmamoğlu June 8 2022.jpg,Ekrem İmamoğlu
-Turkey,mayor of Istanbul,Ali Yerlikaya,Q12808436,2019-05-07,2019-06-27,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
-Turkey,mayor of Istanbul,Ekrem İmamoğlu,Q59313241,2019-06-27,,male,1970-06-04,,Ekrem İmamoğlu June 8 2022.jpg,Ekrem İmamoğlu
 Turkey,Governor of Diyarbakır,Efkan Ala,Q6034078,2004-09-14,2007-09-10,male,1965-02-21,,EfkanAla.png,Efkan Ala
 Turkey,Governor of Diyarbakır,Hüseyin Avni Mutlu,Q935430,2007-09-10,2010-05-31,male,1956,,Eski İstanbul Valisi Hüseyin Avni Mutlu (cropped).jpg,Hüseyin Avni Mutlu
 Turkey,Governor of Düzce,Fikret Güven,Q6012881,2000-02-07,2003-01-15,male,,,,
@@ -227,7 +221,13 @@ Turkey,Governor of Niğde,Sebahattin Öztürk,Q6036614,2007-11-30,2009-10-04,mal
 Turkey,Governor of Siirt,Hüseyin Avni Mutlu,Q935430,2005-07-18,2007-09-10,male,1956,,Eski İstanbul Valisi Hüseyin Avni Mutlu (cropped).jpg,Hüseyin Avni Mutlu
 Turkey,Governor of Tekirdağ,Ali Yerlikaya,Q12808436,2012-08-03,2015-02-19,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
 Turkey,Governor of Şırnak,Ali Yerlikaya,Q12808436,2007-11-30,2010-05-13,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
-Turkey,Deputy Speaker of the Grand National Assembly,Pervin Buldan,Q458740,2015-11-23,2018-02-11,female,1967-11-06,,"Pervin Buldan, 3 July 2022 (cropped).jpg",Pervin Buldan
+Turkey,mayor of Istanbul,Ali Müfit Gürtuna,Q3207218,1998-11-12,2001-06-01,male,1952-06-01,,Ali Müfit Gürtuna (cropped).png,Ali Müfit Gürtuna
+Turkey,mayor of Istanbul,Ali Müfit Gürtuna,Q3207218,2001-06-01,2004-04-01,male,1952-06-01,,Ali Müfit Gürtuna (cropped).png,Ali Müfit Gürtuna
+Turkey,mayor of Istanbul,Kadir Topbaş,Q509775,2004-04-01,2017-09-22,male,1945-01-08,2021-02-13,Kadir Topbas at 38th Istanbul Vodafone Marathon (2) cropped.jpg,Kadir Topbaş
+Turkey,mayor of Istanbul,Mevlüt Uysal,Q41866105,2017-09-28,2019-04-17,male,1966,,Mevlüt Uysal (cropped).jpg,Mevlüt Uysal
+Turkey,mayor of Istanbul,Ekrem İmamoğlu,Q59313241,2019-04-17,2019-05-06,male,1970-06-04,,Ekrem İmamoğlu June 8 2022.jpg,Ekrem İmamoğlu
+Turkey,mayor of Istanbul,Ali Yerlikaya,Q12808436,2019-05-07,2019-06-27,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
+Turkey,mayor of Istanbul,Ekrem İmamoğlu,Q59313241,2019-06-27,,male,1970-06-04,,Ekrem İmamoğlu June 8 2022.jpg,Ekrem İmamoğlu
 Turkey,mayor of Ankara,Melih Gökçek,Q366274,1994-03-27,2017-10-28,male,1948-10-20,,Melih Gökçek.jpg,Melih Gökçek
 Turkey,mayor of Ankara,Mustafa Tuna,Q19612046,2017,2019,male,1957,,Mustafa Tuna.png,Mustafa Tuna
 Turkey,mayor of Ankara,Mansur Yavaş,Q6086970,2019-04-08,,male,1955-05-23,,Mansur Yavaş (cropped).jpg,Mansur Yavaş

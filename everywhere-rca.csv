@@ -5401,6 +5401,7 @@ France,Q47543682,Anne Lorne,father,Q3369647,Patrick Louis
 France,Q47651081,Alain Fontanel,spouse,Q47652017,Marie Fontanel
 France,Q484605,Christine Lagarde,partner,Q23926430,Xavier Giocanti
 France,Q484605,Christine Lagarde,spouse,Q113585479,Eachran Gilmour
+France,Q4846183,Hélène Masson-Maret,child,Q112639136,Alexandra Masson
 France,Q49875081,Jean-Pierre Daugreilh,spouse,Q3295761,Martine Daugreilh
 France,Q50323350,Jacques Manent,spouse,Q50323363,Jana Navratil-Manent
 France,Q50365159,Béatrice Le Fraper du Hellen,father,Q60677608,Marc Le Fraper du Hellen
@@ -5634,6 +5635,7 @@ Germany,Q1170657,Oliver Helm,spouse,Q99906,Anne Helm
 Germany,Q11762,Jürgen Trittin,father,Q28746231,Klaus Trittin
 Germany,Q1223301,Dietlind Tiemann,spouse,Q1397137,Klaus-Peter Tiemann
 Germany,Q1235291,Peter von Butler,father,Q2079333,Peter von Butler
+Germany,Q123545,Flemming Meyer,father,Q123668,Karl Otto Meyer
 Germany,Q124622,Peter Tauber,relative,Q1556457,Gustav Tauber
 Germany,Q1268020,Manfred Scherer,child,Q105887641,Kristina Nordt
 Germany,Q1281314,Eckart Cuntz,sibling,Q1423921,Joachim Cuntz
@@ -7121,7 +7123,7 @@ India,Q5276384,Digvijay Singh,spouse,Q7262512,Putul Kumari
 India,Q5276815,Dilip Singh Judeo,child,Q65030991,Yudhvir Singh Judev
 India,Q5277786,Dimple Yadav,spouse,Q417657,Akhilesh Yadav
 India,Q5279668,Dip Gogoi,sibling,Q3349343,Tarun Gogoi
-India,Q5279689,Dipak Misra,father,Q105693220,Raghunatha Mishra
+India,Q5279689,Dipak Misra,father,Q105693220,Raghunath Mishra
 India,Q5279689,Dipak Misra,relative,Q12448533,Ranganath Mishra
 India,Q5285012,Diya Kumari,child,Q5854217,Padmanabh Singh
 India,Q5285012,Diya Kumari,child,Q78223753,Princess Gauravi Kumari of Jaipur
@@ -8230,7 +8232,7 @@ Italy,Q1060314,Raffaele Fitto,father,Q3946056,Salvatore Fitto
 Italy,Q1071031,Paolo Gentiloni,relative,Q4013441,Ottorino Gentiloni
 Italy,Q1071082,Barbara Pollastrini,spouse,Q3932705,Renato Mannheimer
 Italy,Q1071082,Barbara Pollastrini,spouse,Q58036409,Pietro Modiano
-Italy,Q108262037,Simona Petrucci,spouse,Q114815313,Claro Mecacci
+Italy,Q108262037,Simona Petrucci,spouse,Q114815313,Carlo Mecacci
 Italy,Q109570358,Andrea Gentile,father,Q3619638,Antonio Gentile
 Italy,Q1098169,Claudio Scajola,father,Q105711966,Ferdinando Scajola
 Italy,Q1098169,Claudio Scajola,mother,Q105715694,Maria Vittoria Truini
@@ -9639,6 +9641,7 @@ Mexico,Q58365077,Roberta Lajous,sibling,Q5664690,Alejandra Lajous
 Mexico,Q5860132,Fernando Reina Iglesias,spouse,Q3544491,Galilea Montijo
 Mexico,Q58660742,Ernesto Nemer Álvarez,spouse,Q20801621,Carolina Monroy del Mazo
 Mexico,Q5873772,Gabriela Ruiz del Rincón,relative,Q2267931,Manuel Clouthier
+Mexico,Q5889547,Gustavo Carvajal Moreno,father,Q8076821,Ángel Carvajal Bernal
 Mexico,Q5915371,Indira Vizcaíno Silva,father,Q5704984,Arnoldo Vizcaíno
 Mexico,Q5934884,Jorge Doroteo Zapata,child,Q18638076,Georgina Zapata Lucero
 Mexico,Q5937371,José Agustín Ortiz Pinchetti,spouse,Q16186821,Loretta Ortíz Ahlf
@@ -10230,6 +10233,8 @@ Nigeria,Q469880,Stella Obasanjo,spouse,Q202006,Olusegun Obasanjo
 Nigeria,Q4887251,Benedict Ayade,spouse,Q110534874,Linda Ayade
 Nigeria,Q4986999,Bukola Saraki,father,Q4670498,Abubakar Olusola Saraki
 Nigeria,Q5214942,Danbaba Suntai,spouse,Q101465224,Hauwa Suntai
+Nigeria,Q5442790,Femi Fani-Kayode,spouse,Q27942271,Precious Chikwendu
+Nigeria,Q5442790,Femi Fani-Kayode,spouse,Q43377249,Saratu Atta
 Nigeria,Q5460658,Florence Ita Giwa,spouse,Q5253580,Dele Giwa
 Nigeria,Q54913558,Osita Chidoka,sibling,Q30643909,Obinna Chidoka
 Nigeria,Q5515869,Gabriel Suswam,spouse,Q48797710,Yemisi
@@ -11617,6 +11622,7 @@ Poland,Q349492,Adam Gierek,father,Q312185,Edward Gierek
 Poland,Q349492,Adam Gierek,mother,Q9343588,Stanisława Gierek
 Poland,Q349492,Adam Gierek,relative,Q28354437,Tatiana Gierek
 Poland,Q349492,Adam Gierek,spouse,Q9159553,Ariadna Gierek-Łapińska
+Poland,Q3496762,Stanisław Kluza,mother,Q18067345,Maria Wollenberg-Kluza
 Poland,Q381185,Władysław Bartoszewski,child,Q64141216,Władysław Teofil Bartoszewski
 Poland,Q381185,Władysław Bartoszewski,spouse,Q29016561,Antonina Mijal
 Poland,Q381185,Władysław Bartoszewski,spouse,Q42290655,Zofia Bartoszewska
@@ -11997,6 +12003,7 @@ Russia,Q2072843,Vasyl Dzharty,child,Q14491528,Джарти Вікторія Ва
 Russia,Q20812953,Maria Zakharova,spouse,Q110997152,Andrei Makarov
 Russia,Q2107072,Lyudmila Narusova,child,Q287099,Kseniya Sobchak
 Russia,Q2107072,Lyudmila Narusova,spouse,Q334294,Anatoly Sobchak
+Russia,Q217115,Ramzan Kadyrov,child,Q112992792,Aishat Kadyrova
 Russia,Q217115,Ramzan Kadyrov,father,Q297006,Akhmad Kadyrov
 Russia,Q217115,Ramzan Kadyrov,mother,Q21887442,Aymani Kadyrova
 Russia,Q217115,Ramzan Kadyrov,relative,Q4207417,Khalid Kadyrov
@@ -12992,6 +12999,7 @@ South Africa,Q57282,Jacob Zuma,spouse,Q24176173,Kate Mantsho
 South Africa,Q57282,Jacob Zuma,spouse,Q24234160,Gertrude Sizakele Khumalo
 South Africa,Q57282,Jacob Zuma,spouse,Q48990117,Nompumelelo Ntuli Zuma
 South Africa,Q57282,Jacob Zuma,spouse,Q99297966,Thobeka Madiba-Zuma
+South Africa,Q60443564,Mark Wiley,father,Q3182746,John Wiley
 South Africa,Q6795248,Max Sisulu,father,Q440490,Walter Max Ulyate Sisulu
 South Africa,Q6795248,Max Sisulu,mother,Q467744,Albertina Nontsikelelo Sisulu
 South Africa,Q6795248,Max Sisulu,sibling,Q3241428,Lindiwe Sisulu
@@ -14627,6 +14635,7 @@ Turkey,Q6075790,Necmettin Cevheri,child,Q6038843,İbrahim Cevher Cevheri
 Turkey,Q6075790,Necmettin Cevheri,father,Q6028210,Hacı Ömer Cevheri
 Turkey,Q6077556,Fikri Sağlar,relative,Q17468336,Süleyman Fikri Mutlu
 Turkey,Q6077556,Fikri Sağlar,relative,Q21526105,Gerçek Sağlar
+Turkey,Q6082854,Feridun Sinirlioğlu,spouse,Q6026365,Ayşe Sinirlioğlu
 Turkey,Q6098459,Süleyman Soylu,father,Q106977159,Hasan Soylu
 Turkey,Q6098459,Süleyman Soylu,mother,Q106977199,Servet Soylu
 Turkey,Q64738140,Ömer Öcalan,relative,Q191530,Abdullah Öcalan
@@ -21312,6 +21321,7 @@ United States,Q5053473,Cathy Muñoz,father,Q15992945,"Elton Engstrom, Jr."
 United States,Q50599,Ted Stevens,child,Q4886519,Ben Stevens
 United States,Q50612,Susan Rice,father,Q1338730,Emmett J. Rice
 United States,Q50612,Susan Rice,mother,Q29261542,Lois Rice
+United States,Q50612,Susan Rice,stepparent,Q4722259,Alfred B. Fitt
 United States,Q5076629,Charlie Baker,father,Q5076633,Charles D. Baker
 United States,Q50825637,Sara Jacobs,father,Q37072404,Gary E. Jacobs
 United States,Q5107284,Chris Lu,spouse,Q110644133,Kathryn B. Thomson
