@@ -1,6 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Yemen,President,Ali Abdullah Saleh,Q483672,1990-05-22,2012-02-27,male,1947-03-21,2017-12-04,President Ali Abdullah Saleh.jpg,Ali Abdullah Saleh
 Yemen,President,Abdrabbuh Mansour Hadi,Q57480,2012-02-27,2022-04-07,male,1945-09-01,,Abdrabbuh Mansur Hadi.jpg,Abdrabbuh Mansur Hadi
+Yemen,President,Mahdi al-Mashat,Q52156087,2018-04-25,,male,1986,,,Mahdi al-Mashat
 Yemen,Vice President,Abdrabbuh Mansour Hadi,Q57480,1994-10-03,2012-02-25,male,1945-09-01,,Abdrabbuh Mansur Hadi.jpg,Abdrabbuh Mansur Hadi
 Yemen,Vice President,Khaled Bahah,Q6399485,2015-04-12,2016-04-03,male,1965-01-01,,Khaled Bahah (cropped).jpg,Khaled Bahah
 Yemen,Vice President,Ali Mohsen Al-Ahmar,Q979788,2016-04-03,2022-04-07,male,1945-06-20,,Ali Mohsen al-Ahmar.JPG,Ali Mohsen al-Ahmar
@@ -16,15 +17,22 @@ Yemen,Prime Minister,Maeen Abdulmalik Saeed,Q57373157,2018-10-15,2020-12-18,male
 Yemen,Prime Minister,Maeen Abdulmalik Saeed,Q57373157,2020-12-18,,male,1977,,,Maeen Abdulmalik Saeed
 Yemen,Deputy Prime Minister,Ahmed Obaid Bin Dagher,Q20385886,2014-06-11,2014-11-09,male,1952-12-02,,Ahmed Obaid Bin-Dagher.jpg,Ahmed Obaid Bin Dagher
 Yemen,Deputy Prime Minister,Ahmed Obaid Bin Dagher,Q20385886,2015-08-01,2016-04-04,male,1952-12-02,,Ahmed Obaid Bin-Dagher.jpg,Ahmed Obaid Bin Dagher
+Yemen,Deputy Prime Minister,Hussein Abdullah Mkabuli,Q114870635,2016-11-28,,,,,,
+Yemen,Deputy Prime Minister,Jalal Al-Ruwishan,Q20385496,2016-11-28,,male,1963-02-25,,,Jalal al-Rowaishan
+Yemen,Deputy Prime Minister,Mahmoud Abdel Kader Al-Jounaïd,Q114870638,2018-01-01,,,,,,
 Yemen,Minister of Agriculture and Irrigation,Farid Ahmed Majour,Q20407940,2012-01-03,2014-09-21,male,,,,
 Yemen,Minister of Agriculture and Irrigation,Ahmed bin ahmed AL-Maysari,Q55436193,2015-10,2017-12-25,male,,,,Ahmed al-Maisari
+Yemen,Minister of Agriculture and Irrigation,Ghazi Ahmed Mohsen,Q114870633,2016-11-28,,,,,,
+Yemen,Minister of Agriculture and Irrigation,Salem Abdullah Issa Al-Soqotri,Q114869735,2020-12-17,,,,,,
 Yemen,Minister of Cabinet Affairs,Jawhara Hamoud Thabet,Q20389945,2012-01-03,2014-11-25,female,,,,
 Yemen,Minister of Cabinet Affairs,Samira Khamis Obaid,Q20385161,2014-11-25,2015-01-22,female,1959,,,
 Yemen,Minister of Civil Service and Insurance,Nabil Abdh Shamsan,Q16122340,2012-01-03,2014-09-21,male,,,,
 Yemen,Minister of Civil Service and Insurance,Ahmed Mohamed Luqman,Q20386152,2014-11-07,2014-11-25,male,,,,
 Yemen,Minister of Civil Service and Insurance,Ahmed Mohamed Ahmed El Shami,Q59334759,2014-11-25,2015-01-22,male,,,,
 Yemen,Minister of Civil Service and Insurance,Abdul Aziz Jubari,Q16118166,2015-12-01,2018-03-20,male,1963-01-01,,,
+Yemen,Minister of Civil Service and Insurance,Talal Aklan,Q26311375,2016-11-28,,male,,,,Talal Aklan
 Yemen,Minister of Civil Service and Insurance,Nabil Hasan al-Faqih,Q13360057,2018-08-08,2020-12-26,male,,,,Nabil Hasan al-Faqih
+Yemen,Minister of Civil Service and Insurance,Abdel Nasser Al-Wali,Q114869418,2020-12-17,,,,,,
 Yemen,Minister of Communication,Ahmed Mohamed Al-Ansi,Q28498165,1998-05-16,2001-04-04,male,1939-04-18,,,
 Yemen,Minister of Communication,Abdul Malik Suleiman Al-Mualami,Q28498169,2001-04-04,2003-05-17,male,1947,,,
 Yemen,Minister of Communication,Abdul Malik Suleiman Al-Mualami,Q28498169,2003-05-17,2007-04-05,male,1947,,,
@@ -32,11 +40,15 @@ Yemen,Minister of Communication,Kamal al-Jabri,Q28498173,2007-04-05,2011-06-11,m
 Yemen,Minister of Communication,Ahmed Obaid Bin Dagher,Q20385886,2011-12-11,2014-11-09,male,1952-12-02,,Ahmed Obaid Bin-Dagher.jpg,Ahmed Obaid Bin Dagher
 Yemen,Minister of Communication,Lotfi Mohammed Salem Bashrif,Q59334775,2014-11-07,2015-01-22,male,1963,,,
 Yemen,Minister of Communication,Lotfi Mohammed Salem Bashrif,Q59334775,2016-04-04,2018-10-15,male,1963,,,
+Yemen,Minister of Communication,Musfer Abdullah Saleh Al-Numeir,Q114870642,2017-12-16,,,,,,
 Yemen,Minister of Communication,Lotfi Mohammed Salem Bashrif,Q59334775,2018-10-15,2020-12-18,male,1963,,,
 Yemen,Minister of Communication,Najeeb Mansour Hameed Al Auj,Q59246326,2020-12-18,,male,1968-05-15,,,
 Yemen,Minister of Culture,Abdullah Obel,Q16119309,2012-01-03,2014-09-21,male,,,,
 Yemen,Minister of Culture,Arwa Othman,Q22684197,2014-11-07,2015-01-22,female,1965-11-22,,,Arwa Othman
 Yemen,Minister of Culture,Marwan Ahmed Damaj,Q59334780,2016-09-18,2018-10-15,male,,,,
+Yemen,Minister of Culture,Abdullah Ahmad Al-Kibsy,Q114870622,2016-11-28,,,,,,
+Yemen,Minister of Culture,Moammar Al-Eryani,Q16127851,2020-12-17,,male,1974,,,
+Yemen,Minister of Culture,Marwan Ahmed Damaj,Q59334780,2020-12-26,,male,,,,
 Yemen,Minister of Defence,Muhammed Daifallah Muhammed,Q28491305,1998-05-16,2001-04-04,male,1945,,,
 Yemen,Minister of Defence,Abdullah Ali Alywa,Q16119290,2001-04-04,2003-05-16,male,1947,,,
 Yemen,Minister of Defence,Abdullah Ali Alywa,Q16119290,2003-05-17,2006-02-11,male,1947,,,
@@ -44,28 +56,42 @@ Yemen,Minister of Defence,Mohammed Nasser Ahmed,Q1469704,2006-02-11,2007-04-01,m
 Yemen,Minister of Defence,Mohammed Nasser Ahmed,Q1469704,2007-04-05,2011-12-01,male,,,,Mohammed Nasser Ahmed
 Yemen,Minister of Defence,Mohammed Nasser Ahmed,Q1469704,2011-12-07,2014-11-01,male,,,,Mohammed Nasser Ahmed
 Yemen,Minister of Defence,Mahmoud al-Subaihi,Q19673630,2014-11-07,2015-01-22,male,1956-07-22,,,Mahmoud al-Subaihi
-Yemen,Minister of Defence,Mohammed Ali Al-Maqdashi,Q20423157,2018-11-07,2022-07-22,male,1962,,,Mohammed Ali Al-Maqdashi
+Yemen,Minister of Defence,Mohamed al-Atifi,Q28086296,2016-11-28,,male,1969-01-01,,,Mohamed al-Atifi
+Yemen,Minister of Defence,Mohammed Ali Al-Maqdashi,Q20423157,2018-11-07,2020-12-26,male,1962,,,Mohammed Ali Al-Maqdashi
+Yemen,Minister of Defence,Mohammed Ali Al-Maqdashi,Q20423157,2020-12-26,2022-07-29,male,1962,,,Mohammed Ali Al-Maqdashi
+Yemen,Minister of Defence,Mohsen Mohammed Al-Daeri,Q113407477,2022-07-28,,male,1965,,,Mohsen Mohammed Al-Daeri
 Yemen,Minister of Education,Abdul Razzaq Yahya Al Ashoal,Q16118053,2012-01-03,2014-09-21,male,,,,
 Yemen,Minister of Education,Abdul Latif Hussain Haider Al Hakimi,Q20412800,2014-11-07,2015-01-22,male,,,,
 Yemen,Minister of Education,Abdullah Salem Lemels,Q59334766,2016-09-18,2018-10-15,male,1962,,,
 Yemen,Minister of Education,Yahia Badreddin al-Houthi,Q4539761,2016-11-28,,male,1965,,,Yahia al-Houthi
+Yemen,Minister of Education,Tareq Salem Al-Abkari,Q114869756,2020-12-17,,,,,,
 Yemen,Minister of Electricity and Energy,Saleh Hassan Samee,Q12219627,2012-01-03,2014-06-11,male,1956-01-01,,,
 Yemen,Minister of Electricity and Energy,Abdullah Mohsen al-Akwa,Q20414203,2014-06-11,2018-11-27,male,1961-04-18,,MINISTER AL-AKWA.jpg,Abdullah Mohsen al-Akwa
+Yemen,Minister of Electricity and Energy,Lutf Ali Al-Jermouzi,Q114870637,2016-11-28,,,,,,
 Yemen,Minister of Electricity and Energy,Mohammed Abdullah Saleh Nasser Al - Anani,Q59260916,2018-11-27,2020-12-26,male,,,,
+Yemen,Minister of Electricity and Energy,Ibrahim Mohamed Ali Kolshat,Q109255985,2020-12-18,2022-07-28,male,,,Anwar Al-Mahri.jpg,
+Yemen,Minister of Electricity and Energy,Mana'a Saleh Yaslam,Q114869772,2022-07-28,,,,,,
 Yemen,Minister of Endowments and Guidance,Hamoud Muhammed Ou'bad,Q1573947,2012-01-03,2014-09-21,male,,,,Hamoud Muhammed Ou'bad
 Yemen,Minister of Endowments and Guidance,Fouad Omar bin Sheikh Abu Bakr,Q59334772,2014-11-07,2015-01-22,male,,,,
 Yemen,Minister of Endowments and Guidance,Ahmed Zebian Attieh,Q59334758,2016-09-18,2020-12-18,male,1974,,,
-Yemen,Minister of Endowments and Guidance,محمد عيضة شبيبة,Q104601317,2020-12-26,,male,1975,,,
+Yemen,Minister of Endowments and Guidance,Sharaf Ali Al-Kulaisi,Q114870647,2016-11-28,,,,,,
+Yemen,Minister of Endowments and Guidance,Mohamed Ahmed Shabiba,Q104601317,2020-12-26,,male,1975,,,
 Yemen,Minister of Expatriate Affairs,Mujahid al-Qahali,Q16127990,2012-01-03,2014-09-21,male,,,,
 Yemen,Minister of Expatriate Affairs,Alawi Mohamed Abdelkader Bafakia,Q20417375,2014-11-07,2015-01-22,male,,,,
+Yemen,Minister of Expatriate Affairs,Mohammed Saeed Al-Mashjari,Q114870640,2016-11-28,,,,,,
+Yemen,Minister of Expatriate Affairs,Ahmad Awad Bin Mubarak,Q16119688,2020-12-26,,male,1968,,"Visit of Ahmed Awad bin Mubarak, Yemeni Minister for Foreign Affairs and Expatriate, to the European Commission.jpg",Ahmad Awad bin Mubarak
 Yemen,Minister of Finance,Sakhr Al Wajih,Q12219876,2012-01-03,2014-06-11,male,1962-01-01,,,
 Yemen,Minister of Finance,Mohamed Mansour Zemam,Q20423290,2014-06-11,2014-09-21,male,1964-09-29,,,
 Yemen,Minister of Finance,Mohamed Mansour Zemam,Q20423290,2014-11-07,2015-06-09,male,1964-09-29,,,
 Yemen,Minister of Finance,Mansar Al-Quaiti,Q59310987,2015-10-17,2016-09-18,male,,,,
 Yemen,Minister of Finance,Ahmed Obaid Al Fadhli,Q59310961,2016-09-18,2019-09-19,male,,,,
+Yemen,Minister of Finance,Saleh Ahmed Shaaban,Q114870646,2016-11-28,,,,,,
+Yemen,Minister of Finance,Salem Saleh Salem bin brek,Q68837007,2019-09-19,,male,,,,
 Yemen,Minister of Finance,Salem Saleh Salem bin brek,Q68837007,2019-09-19,2020-12-26,male,,,,
 Yemen,Minister of Fisheries,Awd al-sqtry,Q12228803,2011-12-07,2014-11-01,male,1957,2017-08-31,,
 Yemen,Minister of Fisheries,Fahad Selim Kafain,Q59334773,2014-11-07,2015-01-22,male,1978-09-20,,,
+Yemen,Minister of Fisheries,Mohammad Mohammad Al-Zubayri,Q114870639,2016-11-28,,,,,,
+Yemen,Minister of Fisheries,Salem Abdullah Issa Al-Soqotri,Q114869735,2020-12-17,,,,,,
 Yemen,Minister of Foreign Affairs,Abdul Qadir Bajamal,Q307338,1998,2001,male,1946-02-18,2020-09-07,,Abdul Qadir Bajamal
 Yemen,Minister of Foreign Affairs,Abu Bakr al-Qirbi,Q58297,2012-01-03,2014-06-11,male,1942,,Abu Bakr alQirbi (cropped).jpg,Abu Bakr al-Qirbi
 Yemen,Minister of Foreign Affairs,Jamal Abdullah al-Sallal,Q108548948,2014,2014,male,,,,
@@ -83,17 +109,24 @@ Yemen,Minister of Higher Education and Scientific Research,Saleh Ali Basurra,Q16
 Yemen,Minister of Higher Education and Scientific Research,Yahia Mohammed AlShaibi,Q16128140,2012-01-03,2014-09-21,male,1952,,,
 Yemen,Minister of Higher Education and Scientific Research,Mohammed bin Mohammed Yahya Almtahr,Q59334776,2014-11-07,2015-01-22,male,,,,
 Yemen,Minister of Higher Education and Scientific Research,Hussein Abdel Rahman Baslamah,Q59334763,2016-09-18,2018-10-15,male,1954-12-05,,,
+Yemen,Minister of Higher Education and Scientific Research,Hussein Ali Hazeb,Q114870636,2016-11-28,,,,,,
+Yemen,Minister of Higher Education and Scientific Research,Khaled al-Wesabi,Q114350102,2020-12-17,,male,,,,Khaled al-Wesabi
 Yemen,Minister of Human Rights,Hooria Mashhour,Q20384844,2012-01-03,2014-09-21,female,1954,,,Hooria Mashhour
+Yemen,Minister of Human Rights,Alia Faisal Abdullatif Al-Shaba,Q114870629,2016-11-28,,,,,,
+Yemen,Minister of Human Rights,Ahmed Mohamed Omar Orman,Q114869638,2017-04-27,,male,,,,
 Yemen,Minister of Human Rights,Mohammed Mohsen Askar,Q59334777,2017-04-27,2018-10-15,male,1981,,Mohammed Mohsen Askar.jpg,
 Yemen,Minister of Human Rights,Mohammed Mohsen Askar,Q59334777,2017-04-27,2020-12-26,male,1981,,Mohammed Mohsen Askar.jpg,
 Yemen,Minister of Industry and Trade,Saadaldeen Talib,Q16118426,2012-01-03,2014-09-21,male,1959-01-29,,Saadaldeen Talib 2013.jpg,Saadaldeen Talib
 Yemen,Minister of Industry and Trade,Abdo Mohammed Abdullah Beshr,Q16119932,2016-11-28,,male,1968-01-01,,,
+Yemen,Minister of Industry and Trade,Mohamed Al-Ashwal,Q114869664,2020-12-17,,male,,,,
 Yemen,Minister of Information,Ali Ahmed Al Amrani,Q12227830,2012-01-03,2014-06-11,male,1957-01-01,,,
 Yemen,Minister of Information,Nasr Taha Mustafa,Q6967263,2014-06-11,2014-09-21,male,1962-11-29,,,Nasr Taha Mustafa
 Yemen,Minister of Information,Nadia Al-Sakkaf,Q20423647,2014-11-07,2015-05,female,1977-03-08,,"Nadia Al-Sakkaf, AlJazeera Channel - May 11, 2015.jpg",Nadia Al-Sakkaf
 Yemen,Minister of Information,Mohamed Qubaty,Q5627924,2016-04-04,2016-09-18,male,1958-01-05,,Dr. Mohamed Qubaty.jpeg,Mohamed Qubaty
+Yemen,Minister of Information,Moammar Al-Eryani,Q16127851,2016-09-18,,male,1974,,,
 Yemen,Minister of Information,Moammar Al-Eryani,Q16127851,2016-09-18,2018-10-15,male,1974,,,
-Yemen,Minister of Information,Moammar Al-Eryani,Q16127851,2016-09-18,2020-12-26,male,1974,,,
+Yemen,Minister of Information,Moammar Al-Eryani,Q16127851,2018-10-15,2020-12-26,male,1974,,,
+Yemen,Minister of Information,Dhaifallah Qasim Saleh Al-Shami,Q114870630,2018-11-10,,,,,,
 Yemen,Minister of Interior,Hussein Arab,Q16127778,1995-06-13,2001-04-04,male,1947-11-22,,,Hussein Arab
 Yemen,Minister of Interior,Rashad al-Alimi,Q12213376,2001-04-04,2003-05-16,male,1954,,,Rashad al-Alimi
 Yemen,Minister of Interior,Rashad al-Alimi,Q12213376,2003-05-17,2007-04-05,male,1954,,,Rashad al-Alimi
@@ -104,57 +137,91 @@ Yemen,Minister of Interior,Abdh Hussein al-Tarb,Q16119870,2014-03-07,2014-11-07,
 Yemen,Minister of Interior,Jalal Al-Ruwishan,Q20385496,2014-11-07,2015-01-22,male,1963-02-25,,,Jalal al-Rowaishan
 Yemen,Minister of Interior,Abdu al-Hudhaifi,Q16119911,2015-05-26,2015-12-01,male,1954,,,Abdu al-Hudhaifi
 Yemen,Minister of Interior,Hussein Arab,Q16127778,2015-12-01,2017-12-25,male,1947-11-22,,,Hussein Arab
+Yemen,Minister of Interior,Abdulhakim Ahmed Al-Mawri,Q114870621,2017-12-13,,,,,,
 Yemen,Minister of Interior,Ahmed bin ahmed AL-Maysari,Q55436193,2017-12-25,2018-10-15,male,,,,Ahmed al-Maisari
 Yemen,Minister of Interior,Ahmed bin ahmed AL-Maysari,Q55436193,2017-12-25,2020-12-26,male,,,,Ahmed al-Maisari
+Yemen,Minister of Interior,Ibrahim Haidan,Q113574719,2020-12-17,,male,1972,,,Ibrahim Haidan
 Yemen,Minister of Justice,Morshed Ali Alarchany,Q12242130,2012-01-03,2014-09-21,male,1952,,,Murshed Al-Arashani
 Yemen,Minister of Justice,Khaled Omar Abdullah Ba-jnid,Q20387779,2014-11-07,2017-04-27,male,,,,
+Yemen,Minister of Justice,Ahmed Abdullah Akabat,Q114870624,2016-11-28,,,,,,
 Yemen,Minister of Justice,Jamal Mohammed Omar,Q59334762,2017-04-27,2018-10-15,male,1960-06-17,2018-11-16,القاضي جمال محمد عمر.jpg,
 Yemen,Minister of Justice,Ali Haitham Ali Abdullah,Q59260881,2018-11-27,2020-12-26,male,,,,
+Yemen,Minister of Justice,Badr Al-Ardah,Q114869771,2020-12-17,,,,,,
 Yemen,Minister of Legal Affairs,Mohammed Ahmed Al Makhlafi,Q12239520,2012-01-03,2014-09-21,male,1956-01-01,,,
 Yemen,Minister of Legal Affairs,Nihal Naj Ali Al-Awlaqi,Q26702680,2016-01-09,2016-04-03,female,1977,,Nihal Naj Ali Al-Awlaqi of Yemen - IWOC 2016.jpg,Nihal Ali Al-Awlaqi
+Yemen,Minister of Legal Affairs,Abdulrahman Ahmed Al-Mukhtar,Q114870623,2016-11-28,,,,,,
+Yemen,Minister of Legal Affairs,Ahmed Mohamed Omar Orman,Q114869638,2020-12-17,,male,,,,
 Yemen,Minister of Local Administration,Sadeq Ameen Abu Rass,Q28714829,2001-04-04,2003-05-16,male,,,,Sadeq Amin Abu Rass
 Yemen,Minister of Local Administration,Abdul Raqib Fath Al Assoudi,Q20412009,2014-11-07,2015-01-22,male,,,,
+Yemen,Minister of Local Administration,Ali Bin Ali Al-Kays,Q114870628,2016-11-28,,,,,,
+Yemen,Minister of Local Administration,Hussein Abdul Rahman,Q114869654,2020-12-17,,male,,,,
 Yemen,Minister of Oil and Minerals,Hisham Sharaf,Q16187308,2012-01-03,2014-09-21,male,1956-01-01,,Heshm Sharaf - 13.jpg,Hisham Sharaf
 Yemen,Minister of Oil and Minerals,Khaled Bahah,Q6399485,2014-03-07,2014-06-11,male,1965-01-01,,Khaled Bahah (cropped).jpg,Khaled Bahah
 Yemen,Minister of Oil and Minerals,Hussein Al-Rashid Jamal Al-Kaf,Q20394232,2014-06-16,2014-09-21,male,,,,
 Yemen,Minister of Oil and Minerals,Mohammed Abdullah bin Nabhan,Q20423122,2014-11-07,2015-01-22,male,,,,
 Yemen,Minister of Oil and Minerals,Saif Mohsen Abboud Sharif,Q59334764,2015-09-14,2016-04-03,male,,,,
+Yemen,Minister of Oil and Minerals,Ahmed Abdullah Naji Dars,Q114870625,2018-01-01,,,,,,
+Yemen,Minister of Oil and Minerals,Abdul Salam Abdullah Salem Baaboud,Q114870284,2020-12-26,2022-07-29,,,,,
+Yemen,Minister of Oil and Minerals,Saeed Sulaiman Al-Shamasi,Q114869724,2022-07-28,,,,,,
+Yemen,Minister of Parliament and Shura Affairs,Rashad Ahmed Al-Rasas,Q16125465,2012-01-03,2014-09-21,male,,,,
+Yemen,Minister of Parliament and Shura Affairs,Ahmed Mohammed Al-Kahlani,Q20397480,2014-10-13,2015-01-22,male,1958,,,
+Yemen,Minister of Parliament and Shura Affairs,Othman Hussein Fayed Majali,Q16120263,2016-01-09,2016-04-03,male,1970,,,
+Yemen,Minister of Parliament and Shura Affairs,Ali Abdullah Abu Hulaykah,Q114870627,2016-11-28,,,,,,
+Yemen,Minister of Parliament and Shura Affairs,Mohammed Moqbel Al-Himyari,Q114869774,2017-12-25,,,,,,
 Yemen,Minister of Planning and International Cooperation,Mohammed Abdul Wahed Al - Mithimi,Q20423114,2014-11-07,2016-11-08,male,,,,
 Yemen,Minister of Planning and International Cooperation,Mohammed Saeed Al Saadi,Q12240556,2016-11-08,2018-11-27,male,1950-05-08,,,
+Yemen,Minister of Planning and International Cooperation,Abdulaziz Al-Kumaim,Q114870620,2017-07,,,,,,
 Yemen,Minister of Planning and International Cooperation,Najeeb Mansour Hameed Al Auj,Q59246326,2018-11-27,2020-12-18,male,1968-05-15,,,
 Yemen,Minister of Planning and International Cooperation,Waed Badhib,Q22690657,2020-12-18,,male,1974-01-06,,,
 Yemen,Minister of Public Health and Population,Ahmed Kassem Al-Ansi,Q16119774,2012-01-03,2014-09-21,male,,,,
 Yemen,Minister of Public Health and Population,Riad Yassin,Q19689754,2014-10-13,2015-01-22,male,1955-06-20,,,Riad Yassin
-Yemen,Minister of Public Health and Population,Nasser Mohsen Baoum,Q59334782,2015-09-14,2016-04-03,male,1957,,,
-Yemen,Minister of Public Health and Population,Nasser Mohsen Baoum,Q59334782,2015-09-14,2018-10-15,male,1957,,,
 Yemen,Minister of Public Health and Population,Nasser Mohsen Baoum,Q59334782,2015-09-14,2020-12-26,male,1957,,,
-Yemen,Minister of Social Affairs and Labor,Amat al-Razzak Hammed,Q12180515,2012-01-03,2014-09-21,female,,,,Amat al-Razzak Hammed
-Yemen,Minister of Social Affairs and Labor,Kboul Mutawakil,Q59334743,2014-11-07,2014-11-25,female,,,,
-Yemen,Minister of Social Affairs and Labor,Samira Obeid,Q59334741,2014-11-25,2015-01-22,female,,,,
-Yemen,Minister of Social Affairs and Labor,Apthaj Al Kamal,Q59334740,2017-04-27,2018-10-15,female,,,,
+Yemen,Minister of Public Health and Population,Qassem Mohammad Qassem Bahaibah,Q114869710,2020-12-17,,,,,,
+Yemen,Minister of Public Works and Highways,Omar Abduallah Alkorshomi,Q16123960,2012-01-03,2014-09-21,male,,,,
+Yemen,Minister of Public Works and Highways,Wahy Taha Aman,Q59334784,2014-11-07,2017-04-27,male,1963-11-01,,,
+Yemen,Minister of Public Works and Highways,Ghalib Abdullah Mutlaq,Q114870632,2016-11-28,,,,,,
+Yemen,Minister of Public Works and Highways,Maeen Abdulmalik Saeed,Q57373157,2018-04-01,2018-10-01,male,1977,,,Maeen Abdulmalik Saeed
+Yemen,Minister of Public Works and Highways,Manea Bayamaïn,Q114870285,2020-12-26,2022-07-29,,,,,
+Yemen,Minister of Public Works and Highways,Salem Mohamed Al-Harayzi,Q114869775,2022-07-28,,,,,,
+Yemen,Minister of Sana’a Secretariat,Abdelghani Jamil,Q114869770,2016-09-18,,,,,,
+Yemen,Minister of Social Affairs and Labour,Amat al-Razzak Hammed,Q12180515,2012-01-03,2014-09-21,female,,,,Amat al-Razzak Hammed
+Yemen,Minister of Social Affairs and Labour,Kboul Mutawakil,Q59334743,2014-11-07,2014-11-25,female,,,,
+Yemen,Minister of Social Affairs and Labour,Samira Obeid,Q59334741,2014-11-25,2015-01-22,female,,,,
+Yemen,Minister of Social Affairs and Labour,Faiqah Al-Sayed Ba'Alawy,Q114870631,2016-11-28,,,,,,
+Yemen,Minister of Social Affairs and Labour,Apthaj Al Kamal,Q59334740,2017-04-27,2018-10-15,female,,,,
+Yemen,Minister of Social Affairs and Labour,Muhammad Al-Zaouri,Q114869699,2020-12-17,,male,,,,
 Yemen,Minister of Technical Education and Vocational Training,عبد الحافظ ثابت نعمان,Q16128299,2012-01-03,2014-09-21,male,,,,
 Yemen,Minister of Technical Education and Vocational Training,Abdul Razzaq Yahya Al Ashoal,Q16118053,2014-11-07,2015-01-22,male,,,,
+Yemen,Minister of Technical Education and Vocational Training,Mohsen Ali Al-Nakib,Q114870641,2016-11-28,,,,,,
+Yemen,Minister of Technical Education and Vocational Training,Khaled al-Wesabi,Q114350102,2020-12-17,,male,,,,Khaled al-Wesabi
 Yemen,Minister of Tourism,Nabil Hasan al-Faqih,Q13360057,2006,2011-03-19,male,,,,Nabil Hasan al-Faqih
 Yemen,Minister of Tourism,Qassem Salam,Q16117765,2012-01-03,2014-09-21,male,,,,
 Yemen,Minister of Tourism,Moammar Al-Eryani,Q16127851,2014-11-07,2016-09-18,male,1974,,,
-Yemen,Minister of Tourism,Mohamed Qubaty,Q5627924,2016-09-18,,male,1958-01-05,,Dr. Mohamed Qubaty.jpeg,Mohamed Qubaty
+Yemen,Minister of Tourism,Mohamed Qubaty,Q5627924,2016-09-18,2020-12-26,male,1958-01-05,,Dr. Mohamed Qubaty.jpeg,Mohamed Qubaty
+Yemen,Minister of Tourism,Nasser Mahfouz Bagazkoz,Q114870645,2016-11-28,,,,,,
+Yemen,Minister of Tourism,Moammar Al-Eryani,Q16127851,2020-12-17,,male,1974,,,
 Yemen,Minister of Transport,Waed Badhib,Q22690657,2012-01-03,2014-11-07,male,1974-01-06,,,
 Yemen,Minister of Transport,Badr Mohammed Mubarak Baslamah,Q59334760,2014-11-07,2015-01-22,male,1958-09-01,,,
 Yemen,Minister of Transport,Murad Ali Mohammed Abdulhadi,Q59334779,2015-12-07,2016-04-03,male,,,,
+Yemen,Minister of Transport,Zakaria Yahya Al-Shami,Q114870648,2016-11-28,,,,,,
 Yemen,Minister of Transport,Saleh Algabwni,Q73405138,2017-12-24,2018-10-15,male,,,,
 Yemen,Minister of Transport,Saleh Algabwni,Q73405138,2017-12-24,2020-12-26,male,,,,
+Yemen,Minister of Transport,Abdel Salam Hamid,Q114869769,2020-12-17,,,,,,
 Yemen,Minister of Water and Environment,Abdh Razzaz Saleh Khaled,Q16119880,2012-01-03,2014-09-21,male,,,,
 Yemen,Minister of Water and Environment,Ezzi Heba Allah Ali Shraim,Q59334769,2014-11-07,2015-01-22,male,,,,
+Yemen,Minister of Water and Environment,Nabil Abdullah Al-Wazair,Q114870644,2016-11-28,,,,,,
+Yemen,Minister of Water and Environment,Tawfiq Al-Sharjabi,Q114869762,2020-12-17,,,,,,
 Yemen,Minister of Youth and Sports,Moammar Al-Eryani,Q16127851,2012-01-03,2014-09-21,male,1974,,,
 Yemen,Minister of Youth and Sports,Rafat Ali Al-Akhali,Q50874956,2014-11-07,2015-01-22,male,,,,
 Yemen,Minister of Youth and Sports,Nayef al-Bakri,Q21680111,2015-09-14,2018-10-15,male,1975-05-09,,,Nayef al-Bakri
 Yemen,Minister of Youth and Sports,Nayef al-Bakri,Q21680111,2015-09-14,2020-12-26,male,1975-05-09,,,Nayef al-Bakri
-Yemen,Minister of Parliament and Shura Affairs,Rashad Ahmed Al-Rasas,Q16125465,2012-01-03,2014-09-21,male,,,,
-Yemen,Minister of Parliament and Shura Affairs,Ahmed Mohammed Al-Kahlani,Q20397480,2014-10-13,2015-01-22,male,1958,,,
-Yemen,Minister of Parliament and Shura Affairs,Othman Hussein Fayed Majali,Q16120263,2016-01-09,2016-04-03,male,1970,,,
-Yemen,Ministry of Public Works and Highways,Omar Abduallah Alkorshomi,Q16123960,2012-01-03,2014-09-21,male,,,,
-Yemen,Ministry of Public Works and Highways,Wahy Taha Aman,Q59334784,2014-11-07,2017-04-27,male,1963-11-01,,,
-Yemen,Ministry of Public Works and Highways,Maeen Abdulmalik Saeed,Q57373157,2018-04-01,2018-10-01,male,1977,,,Maeen Abdulmalik Saeed
+Yemen,Minister of Youth and Sports,Nayef al-Bakri,Q21680111,2015-09-15,,male,1975-05-09,,,Nayef al-Bakri
+Yemen,Minister of Youth and Sports,Hassan Mohammed Zaid,Q114870634,2016-11-28,2020-10-27,,,,,
+Yemen,Minister of State,Abd Rabbo Saleh Aslami,Q114869768,2016-09-18,,,,,,
+Yemen,Minister of State,Fares Mana'a,Q5434993,2016-11-28,,male,1965-02-08,,,Fares Manaa
+Yemen,Minister of State,Mohammed Abdallah Kouddah,Q114869773,2017-11-27,,,,,,
+Yemen,Minister of State for National Dialogue,Ahmed Saleh Al-Ganie,Q114870626,2016-11-28,,,,,,
+Yemen,Minister of State for National Dialogue,Najeeb Mansour Hameed Al Auj,Q59246326,2018-11-27,,male,1968-05-15,,,
 Yemen,Speaker of the House of Representatives,Yahya Ali al-Raie,Q16128135,2008-02,2019-04-13,male,1953-01-01,,,Yahya Ali al-Raee
 Yemen,Speaker of the House of Representatives,Sultan al-Barakani,Q16119420,2019-04-13,,male,1956,,,Sultan al-Barakani
 Yemen,Chief of General Staff,Ahmed Ali Al-Ashwal,Q26704407,2006-04-01,2014-12-01,male,1949-09-26,,,Ahmed Ali al-Ashwal

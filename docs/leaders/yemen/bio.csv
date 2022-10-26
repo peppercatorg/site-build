@@ -1,8 +1,60 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100329149,Haytham Shoja’aadin,male,,7,,,Presentation of Credentials by the Republic of Yemen (32345102135) (cropped).jpg,
-Q104601317,محمد عيضة شبيبة,male,1975,9,,,,
+Q104601317,Mohamed Ahmed Shabiba,male,1975,9,,,,
 Q108548948,Jamal Abdullah al-Sallal,male,,,,,,
 Q108548949,Muhammad Abdullah Hajar,male,,,,,,
+Q109255985,Ibrahim Mohamed Ali Kolshat,male,,,,,Anwar Al-Mahri.jpg,
+Q113407477,Mohsen Mohammed Al-Daeri,male,1965,9,,,,Mohsen Mohammed Al-Daeri
+Q113574719,Ibrahim Haidan,male,1972,9,,,,Ibrahim Haidan
+Q114350102,Khaled al-Wesabi,male,,,,,,Khaled al-Wesabi
+Q114869418,Abdel Nasser Al-Wali,,,,,,,
+Q114869638,Ahmed Mohamed Omar Orman,male,,,,,,
+Q114869654,Hussein Abdul Rahman,male,,,,,,
+Q114869664,Mohamed Al-Ashwal,male,,,,,,
+Q114869699,Muhammad Al-Zaouri,male,,,,,,
+Q114869710,Qassem Mohammad Qassem Bahaibah,,,,,,,
+Q114869724,Saeed Sulaiman Al-Shamasi,,,,,,,
+Q114869735,Salem Abdullah Issa Al-Soqotri,,,,,,,
+Q114869756,Tareq Salem Al-Abkari,,,,,,,
+Q114869762,Tawfiq Al-Sharjabi,,,,,,,
+Q114869768,Abd Rabbo Saleh Aslami,,,,,,,
+Q114869769,Abdel Salam Hamid,,,,,,,
+Q114869770,Abdelghani Jamil,,,,,,,
+Q114869771,Badr Al-Ardah,,,,,,,
+Q114869772,Mana'a Saleh Yaslam,,,,,,,
+Q114869773,Mohammed Abdallah Kouddah,,,,,,,
+Q114869774,Mohammed Moqbel Al-Himyari,,,,,,,
+Q114869775,Salem Mohamed Al-Harayzi,,,,,,,
+Q114870284,Abdul Salam Abdullah Salem Baaboud,,,,,,,
+Q114870285,Manea Bayamaïn,,,,,,,
+Q114870620,Abdulaziz Al-Kumaim,,,,,,,
+Q114870621,Abdulhakim Ahmed Al-Mawri,,,,,,,
+Q114870622,Abdullah Ahmad Al-Kibsy,,,,,,,
+Q114870623,Abdulrahman Ahmed Al-Mukhtar,,,,,,,
+Q114870624,Ahmed Abdullah Akabat,,,,,,,
+Q114870625,Ahmed Abdullah Naji Dars,,,,,,,
+Q114870626,Ahmed Saleh Al-Ganie,,,,,,,
+Q114870627,Ali Abdullah Abu Hulaykah,,,,,,,
+Q114870628,Ali Bin Ali Al-Kays,,,,,,,
+Q114870629,Alia Faisal Abdullatif Al-Shaba,,,,,,,
+Q114870630,Dhaifallah Qasim Saleh Al-Shami,,,,,,,
+Q114870631,Faiqah Al-Sayed Ba'Alawy,,,,,,,
+Q114870632,Ghalib Abdullah Mutlaq,,,,,,,
+Q114870633,Ghazi Ahmed Mohsen,,,,,,,
+Q114870634,Hassan Mohammed Zaid,,,,,,,
+Q114870635,Hussein Abdullah Mkabuli,,,,,,,
+Q114870636,Hussein Ali Hazeb,,,,,,,
+Q114870637,Lutf Ali Al-Jermouzi,,,,,,,
+Q114870638,Mahmoud Abdel Kader Al-Jounaïd,,,,,,,
+Q114870639,Mohammad Mohammad Al-Zubayri,,,,,,,
+Q114870640,Mohammed Saeed Al-Mashjari,,,,,,,
+Q114870641,Mohsen Ali Al-Nakib,,,,,,,
+Q114870642,Musfer Abdullah Saleh Al-Numeir,,,,,,,
+Q114870644,Nabil Abdullah Al-Wazair,,,,,,,
+Q114870645,Nasser Mahfouz Bagazkoz,,,,,,,
+Q114870646,Saleh Ahmed Shaaban,,,,,,,
+Q114870647,Sharaf Ali Al-Kulaisi,,,,,,,
+Q114870648,Zakaria Yahya Al-Shami,,,,,,,
 Q12180515,Amat al-Razzak Hammed,female,,,,,,Amat al-Razzak Hammed
 Q12213376,Rashad al-Alimi,male,1954,9,,,,Rashad al-Alimi
 Q12219627,Saleh Hassan Samee,male,1956-01-01,11,,,,
@@ -362,9 +414,11 @@ Q22684197,Arwa Othman,female,1965-11-22,11,,,,Arwa Othman
 Q22690657,Waed Badhib,male,1974-01-06,11,,,,
 Q23904861,Arif Al Zuka,male,1964,9,2017-12-04,11,,
 Q24175557,Nayif Salih Salim Al-Qaysi,male,1983,9,,,,
+Q26311375,Talal Aklan,male,,7,,,,Talal Aklan
 Q26702680,Nihal Naj Ali Al-Awlaqi,female,1977,9,,,Nihal Naj Ali Al-Awlaqi of Yemen - IWOC 2016.jpg,Nihal Ali Al-Awlaqi
 Q26704407,Ahmed Ali Al-Ashwal,male,1949-09-26,11,,,,Ahmed Ali al-Ashwal
 Q2784436,Hasan al-Lawzi,male,1952,9,2020-07-13,11,,Hasan al-Lawzi
+Q28086296,Mohamed al-Atifi,male,1969-01-01,11,,,,Mohamed al-Atifi
 Q28491305,Muhammed Daifallah Muhammed,male,1945,9,,,,
 Q28498165,Ahmed Mohamed Al-Ansi,male,1939-04-18,11,,,,
 Q28498169,Abdul Malik Suleiman Al-Mualami,male,1947,9,,,,
@@ -380,8 +434,10 @@ Q4666091,Abdullah al-Saidi,male,1947,9,,,,Abdullah al-Saidi
 Q4695925,Ahmed Mohammed,male,1960,9,,,,Ahmed Mohammed (Yemeni politician)
 Q483672,Ali Abdullah Saleh,male,1947-03-21,11,2017-12-04,11,President Ali Abdullah Saleh.jpg,Ali Abdullah Saleh
 Q50874956,Rafat Ali Al-Akhali,male,,,,,,
+Q52156087,Mahdi al-Mashat,male,1986,9,,,,Mahdi al-Mashat
 Q52792467,Ramzi Mahrous,male,,8,,,,
 Q54094013,Khalid Al-Yamani,male,1960-05-02,9,,,Khaled al-Yamani - 2018 (44918508051) (cropped).jpg,Khaled al-Yamani
+Q5434993,Fares Mana'a,male,1965-02-08,11,,,,Fares Manaa
 Q5439127,Fayçal Amine Abourrass,male,,,,,,Fayçal Amine Abourrass
 Q55436193,Ahmed bin ahmed AL-Maysari,male,,7,,,,Ahmed al-Maisari
 Q5627924,Mohamed Qubaty,male,1958-01-05,11,,,Dr. Mohamed Qubaty.jpeg,Mohamed Qubaty
