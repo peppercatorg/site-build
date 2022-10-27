@@ -759,6 +759,8 @@ Austria,Q44733,Heinz-Christian Strache,spouse,Q42016569,Philippa Strache
 Austria,Q46387733,Bernadette Arnoldner,spouse,Q56410861,Thomas Arnoldner
 Austria,Q500389,Andreas Schieder,father,Q1274581,Peter Schieder
 Austria,Q50413965,Christian Samwald,father,Q1448846,Franz Samwald
+Austria,Q51044005,Georg Dornauer,father,Q1504067,Georg Dornauer
+Austria,Q51044005,Georg Dornauer,sibling,Q111968652,Philipp Dornauer
 Austria,Q53282,Werner Faymann,spouse,Q1905476,Martina Ludwig-Faymann
 Austria,Q63243084,Karl Schmidhofer,relative,Q449253,Nicole Schmidhofer
 Austria,Q64168538,Alexander Schallenberg,father,Q64168979,Wolfgang Schallenberg
@@ -1015,6 +1017,9 @@ Belgium,Q212717,"Melchior Wathelet, Jr.",father,Q369909,Melchior Wathelet
 Belgium,Q2187430,Guy Lutgen,child,Q704126,Benoît Lutgen
 Belgium,Q2195593,Goedele Liekens,spouse,Q25160522,Chris Cockmartin
 Belgium,Q2249806,Ilse Uyttersprot,father,Q42403397,Raymond Uyttersprot
+Belgium,Q2261198,Leona Detiège,child,Q2344602,Maya Detiège
+Belgium,Q2261198,Leona Detiège,father,Q3014855,Frans Detiège
+Belgium,Q2344602,Maya Detiège,mother,Q2261198,Leona Detiège
 Belgium,Q2357028,Jean-Marie Happart,sibling,Q733331,José Happart
 Belgium,Q2399955,Lodewijk De Witte,sibling,Q2987524,Jozef De Witte
 Belgium,Q2415346,Peter Vanvelthoven,father,Q2788396,Louis Vanvelthoven
@@ -1471,7 +1476,7 @@ Bulgaria,Q1060355,Simeon II of Bulgaria,child,Q6482163,"Konstantin-Assen, Prince
 Bulgaria,Q1060355,Simeon II of Bulgaria,father,Q159585,Boris III of Bulgaria
 Bulgaria,Q1060355,Simeon II of Bulgaria,mother,Q235168,Giovanna of Italy
 Bulgaria,Q1060355,Simeon II of Bulgaria,sibling,Q3292104,"Princess Marie Louise, 9th Princess of Koháry"
-Bulgaria,Q1060355,Simeon II of Bulgaria,spouse,Q3622509,Margarita Saxe-Coburg-Gotha
+Bulgaria,Q1060355,Simeon II of Bulgaria,spouse,Q3622509,Queen Margarita of Bulgaria
 Bulgaria,Q108866960,Daniel Lorer,relative,Q70551952,Heni Lorer
 Bulgaria,Q113378797,Krum Zarkov,mother,Q113501353,Anna Zarkova
 Bulgaria,Q11832497,Plamen Oresharski,child,Q17278694,Desislav Oresharski
@@ -2298,7 +2303,7 @@ China,Q6741124,Zhang Qiyue,father,Q6741081,Zhang Shu
 China,Q6741124,Zhang Qiyue,spouse,Q15916890,Liu Jieyi
 China,Q6766353,Marjorie Yang,spouse,Q5273802,Dickson Poon
 China,Q67932216,资华筠,father,Q78116479,资耀华
-China,Q67932216,资华筠,sibling,Q8247742,Zi Zhongyun
+China,Q67932216,资华筠,sibling,Q8247742,Zhongyun Zi
 China,Q6809920,Mei Baojiu,father,Q526989,Mei Lanfang
 China,Q6809920,Mei Baojiu,sibling,Q10357834,Mei Shaowu
 China,Q6809920,Mei Baojiu,sibling,Q11115326,Mei Baoyue
@@ -2569,6 +2574,7 @@ Colombia,Q7145571,Patricia Eugenia Cárdenas Santa María,spouse,Q7322804,Ricard
 Colombia,Q7282248,Rafael Pardo Rueda,spouse,Q21698034,Diana Calderón
 Colombia,Q9025120,Luis Guillermo Vélez,child,Q26255077,Luis Guillermo Vélez Cabrera
 Colombia,Q955397,Emma Claudia Castellanos,spouse,Q5202526,César Castellanos
+Colombia,Q967283,Luis Alberto Moreno,sibling,Q114843359,Roberto Moreno Mejía
 Colombia,Q981871,Samuel Moreno Rojas,mother,Q6782003,María Eugenia Rojas Correa
 Colombia,Q989831,Enrique Peñalosa,sibling,Q61947420,Gil Peñalosa
 Comoros,Q5429564,Fahmi Said Ibrahim El Maceli,father,Q7399901,Said Ibrahim Ben Ali
@@ -5264,6 +5270,7 @@ France,Q33105695,François Pinte,father,Q3592334,Étienne Pinte
 France,Q33106414,Astrid Panosyan,spouse,Q19358326,Laurent Bouvet
 France,Q33109885,Christophe Farnaud,spouse,Q30302558,Hélène Farnaud-Defromont
 France,Q33109969,Romain Nadal,mother,Q63759157,Marie-Françoise Matouk
+France,Q33112482,Stéphane Romatet,spouse,Q114867920,Agnès Romatet-Espagne
 France,Q33113534,Jean-Christophe Peaucelle,spouse,Q42414936,Véronique Peaucelle-Delelis
 France,Q33122330,Christophe Lecourtier,father,Q100243112,Philippe Lecourtier
 France,Q33140156,Bertrand Dutheil de La Rochère,child,Q41338402,Amélie de La Rochère
@@ -7326,6 +7333,7 @@ India,Q7077154,Naveen Jindal,sibling,Q7402688,Sajjan Jindal
 India,Q7117171,P. C. Thomas,father,Q7117565,P. T. Chacko
 India,Q7117346,P. K. Abdu Rabb,father,Q6323104,K. Avukader Kutty Naha
 India,Q7117388,P. Karunakaran,spouse,Q16934599,Laila Gopalan
+India,Q7117571,P. T. Thomas,spouse,Q112220391,Uma Thomas
 India,Q7121263,P. K. Basheer,father,Q99688884,P. Seethi Haji
 India,Q7133113,Pappu Yadav,spouse,Q7293123,Ranjeet Ranjan
 India,Q7194808,Pinaki Misra,father,Q18912880,Lokanath Misra
@@ -9421,6 +9429,8 @@ Malaysia,Q460568,Sirajuddin of Perlis,father,Q4200614,Syed Putra of Perlis
 Malaysia,Q460568,Sirajuddin of Perlis,mother,Q4251695,Tengku Budriah
 Malaysia,Q460568,Sirajuddin of Perlis,spouse,Q4207386,Tengku Fauziah
 Malaysia,Q468579,Wan Azizah Wan Ismail,child,Q7070314,Nurul Izzah Anwar
+Malaysia,Q468579,Wan Azizah Wan Ismail,father,Q114871920,Wan Ismail Wan Mahmood
+Malaysia,Q468579,Wan Azizah Wan Ismail,mother,Q114871799,Mariah Khamis
 Malaysia,Q468579,Wan Azizah Wan Ismail,spouse,Q299574,Anwar Ibrahim
 Malaysia,Q5244614,Muhammad V of Kelantan,father,Q31543,Ismail Petra of Kelantan
 Malaysia,Q5244614,Muhammad V of Kelantan,spouse,Q113379920,Nur Diana Petra Abdullah
@@ -13257,6 +13267,7 @@ Spain,Q16179626,Laura Borràs i Castanyer,child,Q54444011,Marta Botet Borràs
 Spain,Q16179626,Laura Borràs i Castanyer,father,Q105944503,Antoni Borràs Gaju
 Spain,Q16179626,Laura Borràs i Castanyer,spouse,Q105944464,Xavier Botet del Castillo
 Spain,Q16183688,Ramon Camp i Batalla,spouse,Q29347662,Francesca Guardiola i Sala
+Spain,Q16188995,Francesc Xavier Coll i Gilabert,sibling,Q16188988,Antoni Coll
 Spain,Q16189675,Antoni Comín i Oliveres,father,Q1748144,Alfonso Carlos Comín
 Spain,Q16189675,Antoni Comín i Oliveres,sibling,Q63352548,Betona Comín i Oliveres
 Spain,Q16297359,Cayetana Álvarez de Toledo,spouse,Q73230875,Joaquín Güell Ampuero
@@ -21139,6 +21150,8 @@ United States,Q3646340,Bud Shuster,child,Q862455,Bill Shuster
 United States,Q36847838,Matt Regier,father,Q6384936,Keith Regier
 United States,Q371031,Jon Kyl,father,Q1700428,John Henry Kyl
 United States,Q374693,Charlie Crist,spouse,Q5044674,Carole Crist
+United States,Q3756904,Pete T. Cenarrusa,father,Q114853508,José María Cenarruzabeitia Muguira
+United States,Q3756904,Pete T. Cenarrusa,mother,Q114853530,Ramona Gardoqui Bilbao
 United States,Q380441,Scooter Libby,spouse,Q5664131,Harriet Grant
 United States,Q380900,Chuck Schumer,relative,Q4749380,Amy Schumer
 United States,Q380900,Chuck Schumer,spouse,Q6070286,Iris Weinshall
