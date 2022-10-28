@@ -14203,7 +14203,9 @@ Syria,Q4866775,Bashar Jaafari,child,Q112066575,Sheherazade Jaafari
 Syria,Q686595,Najah al-Attar,sibling,Q12227257,Issam al-Attar
 Taiwan,Q11099334,Woody Tyzz-Jiun Duh,sibling,Q60991997,Tu Tze-chen
 Taiwan,Q14866531,Luo Ying-shay,father,Q15936472,羅錫疇
+Taiwan,Q15025,Audrey Tang,mother,Q9210881,Lee Ya-ching
 Taiwan,Q15909081,Wellington Koo,spouse,Q15918515,Wang Mei-hua
+Taiwan,Q15918515,Wang Mei-hua,spouse,Q15909081,Wellington Koo
 Taiwan,Q15920021,Chiang Wan-an,father,Q5371883,Chiang Hsiao-yen
 Taiwan,Q15920021,Chiang Wan-an,relative,Q16574,Chiang Kai-shek
 Taiwan,Q15920021,Chiang Wan-an,sibling,Q15915513,Vivian Chang
@@ -14370,6 +14372,7 @@ Taiwan,Q9130647,Yu Mei-nu,spouse,Q55829919,Remington Huang
 Taiwan,Q9141091,Hsu Hsin-ying,sibling,Q22099965,徐世勳
 Taiwan,Q9182314,Chen Chien-jen,father,Q22099625,Chen Hsin-an
 Taiwan,Q9185489,Wu Rong-i,child,Q1965328,Wu Chih-chung
+Taiwan,Q9206928,Lee Yung-te,spouse,Q8347775,Chiu Yi-ying
 Taiwan,Q9292454,Freddy Lim,spouse,Q15903733,Doris Yeh
 Taiwan,Q9458408,Huang Wen-ling,father,Q9459543,George Huang
 Tajikistan,Q110160141,Ashrafjon Gulov,father,Q13202276,Sherali Gul
