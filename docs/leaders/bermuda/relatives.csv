@@ -1,7 +1,9 @@
 catalog,id,name,relationship,relative,relativename
 Bermuda,Q107980343,Jamahl Simmons,father,Q107980350,Lionel Simmons
+Bermuda,Q109517094,Dennis Lister,child,Q113129433,Dennis Lister III
 Bermuda,Q110993718,Grant Gibbons,father,Q25344527,Graham Gibbons
 Bermuda,Q110994033,E. T. Bob Richards,father,Q5345044,Edward Richards
+Bermuda,Q113129433,Dennis Lister III,father,Q109517094,Dennis Lister
 Bermuda,Q3489398,George Fergusson,child,Q75923953,Alexander Bernard Raukawa Fergusson
 Bermuda,Q3489398,George Fergusson,child,Q75923955,Laura Margaret Huia Fergusson
 Bermuda,Q3489398,George Fergusson,child,Q75923956,Alice Mary Marama Fergusson

@@ -526,7 +526,7 @@ Australia,Q5231953,David Bushby,sibling,Q61983633,Wendy Askew
 Australia,Q5232656,David Crean,father,Q444481,Frank Crean
 Australia,Q5232656,David Crean,partner,Q7634188,Sue Mackay
 Australia,Q5232656,David Crean,sibling,Q1400580,Simon Crean
-Australia,Q5235919,David Kemp,father,Q20811111,Charles Kemp
+Australia,Q5235919,David Kemp,father,Q50414401,Charles Denton Kemp
 Australia,Q5235919,David Kemp,sibling,Q7356268,Rod Kemp
 Australia,Q524500,Ray Groom,child,Q6790603,Matthew Groom
 Australia,Q524500,Ray Groom,spouse,Q102047822,Gillian Groom
@@ -653,6 +653,7 @@ Australia,Q7331303,Rick Colless,relative,Q7326269,Richard Hargrave
 Australia,Q7340263,Rob Katter,father,Q4932983,Bob Katter
 Australia,Q7340615,Rob Valentine,relative,Q15996516,Francis Valentine
 Australia,Q7344540,Robert French,spouse,Q33240680,Valerie French
+Australia,Q7356268,Rod Kemp,father,Q50414401,Charles Denton Kemp
 Australia,Q7356268,Rod Kemp,sibling,Q5235919,David Kemp
 Australia,Q7363527,Ron Best,spouse,Q3263659,Louise Asher
 Australia,Q7369690,Ross Vasta,father,Q24090135,Angelo Vasta
@@ -1133,8 +1134,10 @@ Benin,Q3241966,Lionel Zinsou,child,Q17318783,Marie-Cécile Zinsou
 Benin,Q3241966,Lionel Zinsou,relative,Q878888,Émile Derlin Zinsou
 Benin,Q4979540,Rosine Soglo,spouse,Q336218,Nicéphore Soglo
 Bermuda,Q107980343,Jamahl Simmons,father,Q107980350,Lionel Simmons
+Bermuda,Q109517094,Dennis Lister,child,Q113129433,Dennis Lister III
 Bermuda,Q110993718,Grant Gibbons,father,Q25344527,Graham Gibbons
 Bermuda,Q110994033,E. T. Bob Richards,father,Q5345044,Edward Richards
+Bermuda,Q113129433,Dennis Lister III,father,Q109517094,Dennis Lister
 Bermuda,Q3489398,George Fergusson,child,Q75923953,Alexander Bernard Raukawa Fergusson
 Bermuda,Q3489398,George Fergusson,child,Q75923955,Laura Margaret Huia Fergusson
 Bermuda,Q3489398,George Fergusson,child,Q75923956,Alice Mary Marama Fergusson
@@ -3370,7 +3373,7 @@ Equatorial Guinea,Q45320454,Filiberto Ntutumu Nguema,father,Q211936,Francisco Ma
 Equatorial Guinea,Q477201,Teodoro Nguema,father,Q57385,Teodoro Obiang
 Equatorial Guinea,Q477201,Teodoro Nguema,mother,Q45147779,Constancia Mangue
 Equatorial Guinea,Q4793115,Armengol Ondo Nguema,sibling,Q57385,Teodoro Obiang
-Equatorial Guinea,Q57385,Teodoro Obiang,child,Q103916276,Ruslan Obiang Nsue
+Equatorial Guinea,Q57385,Teodoro Obiang,child,Q103916276,Ruslán Obiang
 Equatorial Guinea,Q57385,Teodoro Obiang,child,Q45042829,Gabriel Mbega
 Equatorial Guinea,Q57385,Teodoro Obiang,child,Q477201,Teodoro Nguema
 Equatorial Guinea,Q57385,Teodoro Obiang,spouse,Q113375862,María Verminia Buckanan García
@@ -3828,6 +3831,7 @@ European Union,Q14924803,Beatrix von Storch,relative,Q64976,"Nikolaus, Hereditar
 European Union,Q14924803,Beatrix von Storch,spouse,Q23639476,Sven von Storch
 European Union,Q15056,Jean-Luc Dehaene,child,Q2289183,Tom Dehaene
 European Union,Q1509254,"Georgi Pirinski, Jr.",father,Q3407706,Georgi Pirinski Sr.
+European Union,Q15117357,Katarina Barley,spouse,Q1606372,Marco van den Berg
 European Union,Q154550,Bertie Ahern,child,Q11971868,Georgina Byrne
 European Union,Q154550,Bertie Ahern,child,Q229403,Cecelia Ahern
 European Union,Q154550,Bertie Ahern,partner,Q5058005,Celia Larkin
@@ -3933,6 +3937,7 @@ European Union,Q189307,Reinhold Messner,sibling,Q28053548,Erich Messner
 European Union,Q189307,Reinhold Messner,sibling,Q28053561,Waltraud Kastlunger
 European Union,Q189307,Reinhold Messner,sibling,Q28053579,Hansjörg Messner
 European Union,Q189307,Reinhold Messner,sibling,Q28053586,Werner Messner
+European Union,Q189307,Reinhold Messner,spouse,Q114878365,Diane Schumacher
 European Union,Q189307,Reinhold Messner,spouse,Q28053614,Uschi Demeter
 European Union,Q189307,Reinhold Messner,spouse,Q28053617,Sabine Stehle
 European Union,Q1895909,Vangelis Meimarakis,father,Q23048672,Ioannis Meimarakis
@@ -5527,6 +5532,7 @@ France,Q895873,Pierre Méhaignerie,father,Q2834594,Alexis Méhaignerie
 France,Q92076483,Michel Mudry,father,Q2871330,Auguste Mudry
 France,Q937175,Marc Dolez,father,Q19630245,Carlos Dolez
 France,Q938263,Axel Poniatowski,father,Q3310623,Michel Poniatowski
+France,Q938263,Axel Poniatowski,mother,Q114878148,Gilberte de Chavagnac
 France,Q938263,Axel Poniatowski,sibling,Q3215951,Ladislas Poniatowski
 France,Q938263,Axel Poniatowski,spouse,Q98246755,Anne Poniatowski
 France,Q945181,Patrick Balkany,spouse,Q3154865,Isabelle Balkany
@@ -9601,7 +9607,7 @@ Mexico,Q3069480,Fernando Gómez Mont,father,Q5858217,Felipe Gómez Mont
 Mexico,Q3069480,Fernando Gómez Mont,sibling,Q108570379,María Teresa Gómez-Mont Urueta
 Mexico,Q3069480,Fernando Gómez Mont,sibling,Q109827422,Miguel Gómez-Mont Urueta
 Mexico,Q318508,Andrés Manuel López Obrador,child,Q83049574,Andrés Manuel López Beltrán
-Mexico,Q318508,Andrés Manuel López Obrador,child,Q97971611,Jesús Ernesto López Chocoflán
+Mexico,Q318508,Andrés Manuel López Obrador,child,Q97971611,Jesús Ernesto López Gutierrez
 Mexico,Q318508,Andrés Manuel López Obrador,child,Q97974639,José Ramón López Beltrán
 Mexico,Q318508,Andrés Manuel López Obrador,child,Q97976656,Gonzalo Alfonso López Beltrán
 Mexico,Q318508,Andrés Manuel López Obrador,relative,Q97971354,Nora Beatriz Müller Bentjerodt
@@ -13196,6 +13202,7 @@ Spain,Q11924122,Germà Gordó i Aubarell,spouse,Q19301797,Roser Bach Fabregó
 Spain,Q11927747,Joan Huguet i Rotger,sibling,Q22964632,Llorenç Huguet Rotger
 Spain,Q11928066,Joaquim Arrufat i Ibáñez,mother,Q97191640,Maria Luisa Ibáñez Milian
 Spain,Q11928768,Josep M. Vila D'Abadal Serra,father,Q19301112,Marià Vila-Abadal Vilaplana
+Spain,Q11928768,Josep M. Vila D'Abadal Serra,relative,Q19300892,Lluís Vila i d'Abadal
 Spain,Q11928802,Josep Melià Ques,father,Q11928801,Josep Melià Pericàs
 Spain,Q11934485,Macarena Montesinos de Miguel,father,Q11929251,Juan Antonio Montesinos
 Spain,Q11934854,Manel Nadal i Farreras,father,Q42252577,Manel Nadal i Oller
@@ -16610,7 +16617,7 @@ United Kingdom,Q20022488,Kate Osamor,mother,Q53870716,Martha Osamor
 United Kingdom,Q20054083,Victoria Prentis,father,Q334491,Tim Boswell
 United Kingdom,Q20055561,Rishi Sunak,relative,Q1398708,N. R. Narayana Murthy
 United Kingdom,Q20055561,Rishi Sunak,relative,Q3520225,Sudha Murthy
-United Kingdom,Q20055561,Rishi Sunak,spouse,Q22997426,Akshata Murthy
+United Kingdom,Q20055561,Rishi Sunak,spouse,Q22997426,Akshata Murty
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",father,Q75454205,Robert Oliver Bridges
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",mother,Q75454206,Rosamund Theresa de Wesselow
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",spouse,Q76309886,Alice Mary Hickman
@@ -19024,16 +19031,16 @@ United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",relative,
 United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",spouse,Q5298675,Dorothy Wedderburn
 United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",spouse,Q76245401,Nina Salaman
 United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",spouse,Q76245407,Frances Ann Knight
-United Kingdom,Q390192,Nicholas Soames,child,Q75386085,Harry Soames
-United Kingdom,Q390192,Nicholas Soames,child,Q75386088,Isabella Soames
-United Kingdom,Q390192,Nicholas Soames,child,Q76269560,Christopher Soames
-United Kingdom,Q390192,Nicholas Soames,father,Q336050,Christopher Soames
-United Kingdom,Q390192,Nicholas Soames,mother,Q508525,Mary Soames
-United Kingdom,Q390192,Nicholas Soames,sibling,Q13408312,Charlotte Soames
-United Kingdom,Q390192,Nicholas Soames,sibling,Q3052477,Emma Soames
-United Kingdom,Q390192,Nicholas Soames,sibling,Q3453283,Rupert Soames
-United Kingdom,Q390192,Nicholas Soames,spouse,Q75386081,Catherine Weatherall
-United Kingdom,Q390192,Nicholas Soames,spouse,Q75386086,Serena Smith
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",child,Q75386085,Harry Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",child,Q75386088,Isabella Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",child,Q76269560,Christopher Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",father,Q336050,Christopher Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",mother,Q508525,Mary Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",sibling,Q13408312,Charlotte Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",sibling,Q3052477,Emma Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",sibling,Q3453283,Rupert Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",spouse,Q75386081,Catherine Weatherall
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",spouse,Q75386086,Serena Smith
 United Kingdom,Q390317,Robert Smith,child,Q76171356,Helen Rosemary Smith
 United Kingdom,Q390317,Robert Smith,child,Q76171359,Kirsty Diana Smith
 United Kingdom,Q390317,Robert Smith,child,Q76171360,Elizabeth Smith
@@ -20087,6 +20094,11 @@ United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",child,Q760
 United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",father,Q76024021,Frank James Greene
 United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",mother,Q76024022,Alice Kerwood
 United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",spouse,Q76024015,Masel Elizabeth Carter
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",child,Q75272401,Richard Robin Alexander Cubitt
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",child,Q75272405,Ronald Charles Edward Cubitt
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",father,Q75350981,Mark Robin Cubitt
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",mother,Q75272354,Juliet Perpetua Woodall
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",spouse,Q75272370,Melissa Mary Hay
 United Kingdom,Q75292880,James Murray,father,Q75265189,Geoffrey Charles Stewart Murray
 United Kingdom,Q75292880,James Murray,mother,Q75292757,C. Lynne Murray
 United Kingdom,Q75374309,"John Humphrey Arnott Pakington, 7th Baron Hampton",child,Q76256181,Charles Richard Caldato Pakington
@@ -20138,6 +20150,11 @@ United Kingdom,Q75583507,Theo Clarke,sibling,Q3219889,Lawrence Clarke
 United Kingdom,Q75621365,"Dominic Johnson, Baron Johnson of Lainston",child,Q76098722,Alexander Charles Andrew Johnson
 United Kingdom,Q75621365,"Dominic Johnson, Baron Johnson of Lainston",father,Q75621366,Patrick Johnson
 United Kingdom,Q75621365,"Dominic Johnson, Baron Johnson of Lainston",spouse,Q75450391,Alice Rose Alethea Hamilton
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",child,Q76279622,Frederick Howard
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",child,Q76279624,Grace Howard
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",father,Q46454922,"David Howard, 7th Earl of Effingham"
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",mother,Q75316931,Anne Mary Sayer
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",spouse,Q75960263,Tatiana Tafur
 United Kingdom,Q7576022,"Spencer Compton, 7th Marquess of Northampton",child,Q75357440,"Daniel Compton, Earl Compton"
 United Kingdom,Q7576022,"Spencer Compton, 7th Marquess of Northampton",child,Q75357442,Lady Lara Compton
 United Kingdom,Q7576022,"Spencer Compton, 7th Marquess of Northampton",child,Q75357450,Lady Emily Compton
@@ -20510,6 +20527,7 @@ United States,Q107178183,Michael Dvorak,child,Q7384032,Ryan Dvorak
 United States,Q1077594,Chris Murphy,spouse,Q113683971,Cathy Holahan
 United States,Q1077819,Chris Van Hollen,father,Q15993599,Christopher Van Hollen
 United States,Q1077819,Chris Van Hollen,mother,Q104036929,Edith Eliza Farnsworth
+United States,Q1077819,Chris Van Hollen,sibling,Q114896378,Cecilia Coale Van Hollen
 United States,Q10853588,Kamala Harris,father,Q60894135,Donald J. Harris
 United States,Q10853588,Kamala Harris,mother,Q60844968,Shyamala Gopalan
 United States,Q10853588,Kamala Harris,relative,Q102055307,Sharada Balachandran Orihuela

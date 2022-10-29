@@ -1566,7 +1566,7 @@ United Kingdom,Q20022488,Kate Osamor,mother,Q53870716,Martha Osamor
 United Kingdom,Q20054083,Victoria Prentis,father,Q334491,Tim Boswell
 United Kingdom,Q20055561,Rishi Sunak,relative,Q1398708,N. R. Narayana Murthy
 United Kingdom,Q20055561,Rishi Sunak,relative,Q3520225,Sudha Murthy
-United Kingdom,Q20055561,Rishi Sunak,spouse,Q22997426,Akshata Murthy
+United Kingdom,Q20055561,Rishi Sunak,spouse,Q22997426,Akshata Murty
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",father,Q75454205,Robert Oliver Bridges
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",mother,Q75454206,Rosamund Theresa de Wesselow
 United Kingdom,Q20090344,"George Bridges, Baron Bridges of Headley",spouse,Q76309886,Alice Mary Hickman
@@ -3980,16 +3980,16 @@ United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",relative,
 United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",spouse,Q5298675,Dorothy Wedderburn
 United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",spouse,Q76245401,Nina Salaman
 United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",spouse,Q76245407,Frances Ann Knight
-United Kingdom,Q390192,Nicholas Soames,child,Q75386085,Harry Soames
-United Kingdom,Q390192,Nicholas Soames,child,Q75386088,Isabella Soames
-United Kingdom,Q390192,Nicholas Soames,child,Q76269560,Christopher Soames
-United Kingdom,Q390192,Nicholas Soames,father,Q336050,Christopher Soames
-United Kingdom,Q390192,Nicholas Soames,mother,Q508525,Mary Soames
-United Kingdom,Q390192,Nicholas Soames,sibling,Q13408312,Charlotte Soames
-United Kingdom,Q390192,Nicholas Soames,sibling,Q3052477,Emma Soames
-United Kingdom,Q390192,Nicholas Soames,sibling,Q3453283,Rupert Soames
-United Kingdom,Q390192,Nicholas Soames,spouse,Q75386081,Catherine Weatherall
-United Kingdom,Q390192,Nicholas Soames,spouse,Q75386086,Serena Smith
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",child,Q75386085,Harry Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",child,Q75386088,Isabella Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",child,Q76269560,Christopher Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",father,Q336050,Christopher Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",mother,Q508525,Mary Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",sibling,Q13408312,Charlotte Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",sibling,Q3052477,Emma Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",sibling,Q3453283,Rupert Soames
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",spouse,Q75386081,Catherine Weatherall
+United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",spouse,Q75386086,Serena Smith
 United Kingdom,Q390317,Robert Smith,child,Q76171356,Helen Rosemary Smith
 United Kingdom,Q390317,Robert Smith,child,Q76171359,Kirsty Diana Smith
 United Kingdom,Q390317,Robert Smith,child,Q76171360,Elizabeth Smith
@@ -5043,6 +5043,11 @@ United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",child,Q760
 United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",father,Q76024021,Frank James Greene
 United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",mother,Q76024022,Alice Kerwood
 United Kingdom,Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",spouse,Q76024015,Masel Elizabeth Carter
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",child,Q75272401,Richard Robin Alexander Cubitt
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",child,Q75272405,Ronald Charles Edward Cubitt
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",father,Q75350981,Mark Robin Cubitt
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",mother,Q75272354,Juliet Perpetua Woodall
+United Kingdom,Q75272360,"Mark Cubitt, 5th Baron Ashcombe",spouse,Q75272370,Melissa Mary Hay
 United Kingdom,Q75292880,James Murray,father,Q75265189,Geoffrey Charles Stewart Murray
 United Kingdom,Q75292880,James Murray,mother,Q75292757,C. Lynne Murray
 United Kingdom,Q75374309,"John Humphrey Arnott Pakington, 7th Baron Hampton",child,Q76256181,Charles Richard Caldato Pakington
@@ -5094,6 +5099,11 @@ United Kingdom,Q75583507,Theo Clarke,sibling,Q3219889,Lawrence Clarke
 United Kingdom,Q75621365,"Dominic Johnson, Baron Johnson of Lainston",child,Q76098722,Alexander Charles Andrew Johnson
 United Kingdom,Q75621365,"Dominic Johnson, Baron Johnson of Lainston",father,Q75621366,Patrick Johnson
 United Kingdom,Q75621365,"Dominic Johnson, Baron Johnson of Lainston",spouse,Q75450391,Alice Rose Alethea Hamilton
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",child,Q76279622,Frederick Howard
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",child,Q76279624,Grace Howard
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",father,Q46454922,"David Howard, 7th Earl of Effingham"
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",mother,Q75316931,Anne Mary Sayer
+United Kingdom,Q75634404,"Edward Howard, 8th Earl of Effingham",spouse,Q75960263,Tatiana Tafur
 United Kingdom,Q7576022,"Spencer Compton, 7th Marquess of Northampton",child,Q75357440,"Daniel Compton, Earl Compton"
 United Kingdom,Q7576022,"Spencer Compton, 7th Marquess of Northampton",child,Q75357442,Lady Lara Compton
 United Kingdom,Q7576022,"Spencer Compton, 7th Marquess of Northampton",child,Q75357450,Lady Emily Compton
