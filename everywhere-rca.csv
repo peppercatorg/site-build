@@ -2322,7 +2322,7 @@ China,Q698688,Li Xiaopeng,spouse,Q112109893,Tang Wen
 China,Q700149,Vincent Lo,child,Q106823602,Stephanie Lo
 China,Q700149,Vincent Lo,child,Q106823609,Adrian Lo Chun-shing
 China,Q700149,Vincent Lo,father,Q16903419,Lo Ying Shek
-China,Q700149,Vincent Lo,sibling,Q8999942,Luo Jiarui
+China,Q700149,Vincent Lo,sibling,Q8999942,
 China,Q700149,Vincent Lo,sibling,Q9327083,Luo Xurui
 China,Q700149,Vincent Lo,spouse,Q6668898,Loletta Chu
 China,Q700167,Victor Li,father,Q20151,Li Ka-shing
@@ -2353,6 +2353,7 @@ China,Q712485,Li Tieying,father,Q711421,Li Weihan
 China,Q712485,Li Tieying,mother,Q4121487,Jin Weiying
 China,Q7146739,Patrick Ho,spouse,Q7506997,Sibelle Hu
 China,Q716114,Feng Xiaogang,spouse,Q510789,Xu Fan
+China,Q7162676,Peng Peiyun,spouse,Q8338717,Wang Hanbin
 China,Q717014,Wu Shengli,father,Q21040355,Wu Xian
 China,Q717442,Chen Daoming,spouse,Q8950368,Du Xian
 China,Q7175338,Peter Lam,child,Q11105955,Lester Lam
@@ -9204,8 +9205,10 @@ Lebanon,Q330587,Ghassan Salamé,child,Q3270032,Léa Salamé
 Lebanon,Q3435215,Robert Ghanem,father,Q2104530,Iskandar Ghanem
 Lebanon,Q3514836,Tammam Salam,father,Q2002354,Saeb Salam
 Lebanon,Q3514836,Tammam Salam,spouse,Q17198679,Lama Salam
+Lebanon,Q363392,Michel Aoun,child,Q114923288,Claudine Aoun Roukoz
 Lebanon,Q363392,Michel Aoun,relative,Q2737847,Gebran Bassil
 Lebanon,Q363392,Michel Aoun,relative,Q2829514,Alain Aoun
+Lebanon,Q363392,Michel Aoun,spouse,Q114923365,Nadia El-Chami Aoun
 Lebanon,Q396606,Omar Karami,child,Q3067717,Faisal Karami
 Lebanon,Q396606,Omar Karami,father,Q317274,Abdul Hamid Karami
 Lebanon,Q396606,Omar Karami,sibling,Q1344225,Rashid Karami
@@ -10232,7 +10235,7 @@ Nigeria,Q30643909,Obinna Chidoka,sibling,Q54913558,Osita Chidoka
 Nigeria,Q30673985,Ned Nwoko,spouse,Q26216128,Regina Daniels
 Nigeria,Q32946601,Ademola Adeleke,father,Q55808166,Raji Ayoola Adeleke
 Nigeria,Q3510695,Diezani Alison-Madueke,spouse,Q4732798,Allison Madueke
-Nigeria,Q3510785,Nenadi Usman,spouse,Q111077585,Sa’ad Usman
+Nigeria,Q3510785,Nenadi Esther Usman,spouse,Q111077585,Sa’ad Usman
 Nigeria,Q3510872,Bola Ahmed Tinubu,mother,Q19559895,Abibatu Mogaji
 Nigeria,Q3510872,Bola Ahmed Tinubu,spouse,Q7088857,Oluremi Tinubu
 Nigeria,Q3511510,Ibrahim Hassan Dankwambo,child,Q5837762,Mohammed
@@ -14910,6 +14913,7 @@ Ukraine,Q66828927,Serhiy Kuzminykh,sibling,Q20067927,Кузьміних Олег
 Ukraine,Q691471,Dmytro Pavlychko,child,Q2034405,Solomiia Pavlychko
 Ukraine,Q7155948,Pavlo Movchan,spouse,Q12096656,Lyubov Holota
 Ukraine,Q715633,Yevhen Marchuk,spouse,Q12073877,Larysa Ivshyna
+Ukraine,Q7269267,Tetyana Zasukha,child,Q87007000,Andriy Zasukha
 Ukraine,Q751757,Olena Lukash,spouse,Q12074201,Hryhoriy Illyashov
 Ukraine,Q868081,Olha Bohomolets,father,Q16162967,Vadym Berezovskyi
 Ukraine,Q868081,Olha Bohomolets,mother,Q85988785,Kateryna Bohomolez
