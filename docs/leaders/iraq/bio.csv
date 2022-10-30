@@ -10,6 +10,7 @@ Q106422448,Heyam Nemat,female,1961-10-18,11,,,,
 Q106466292,Saleh Al-Obaidi,male,,,,,,
 Q106615936,Hasan Al-Temimi,male,1969,9,,,,
 Q106844871,Abdul Ameer Rasheed Yarallah,male,1964-08-18,11,,,عبد الأمير رشيد يار الله.jpg,Abdel Emir Yarallah
+Q107024043,Abdul Amir Al-Shammari,male,1967,9,,,,
 Q107965307,Falah al-Jazairi,male,1960,9,,,"Falah al-Jazairi, Alebaa News - Mar 27, 2018.jpg",
 Q108426449,Muhammad Amin Ahmad,male,,,,,,
 Q110634124,Manhal Aziz,male,1964,9,,,,
@@ -22,7 +23,19 @@ Q110634579,Mohamed Karim Alkhafaji,,,,,,,
 Q110634583,Alla Ahmed Hassan,,,,,,,
 Q110634964,Mustafa Ghaleb,male,,,,,,
 Q110634966,Ali Mohsen al-Alaq,male,,,,,,
+Q111193292,Taif Sami Muhammad,female,1963,9,,,,
 Q113686435,Nadim Al Yassin,male,1938,9,2022-08-31,11,,
+Q114878264,Hayyan Abdul Ghani,male,1958,9,,,,
+Q114878370,Thabit Muhammad Said,male,1963,9,,,,
+Q114878574,Razzaq Muhaybis al-Saadawi,male,1972,9,,,,
+Q114880237,Ibrahim Namis Al-Jubouri,male,1977,9,,,,
+Q114880431,Ahmad Fakkak Ahmad,male,,,,,,
+Q114880686,Ziyad Ali Fadhil,male,1976,9,,,,
+Q114880817,Abbas Jabr Al-Alawi,male,1968,9,,,,
+Q114880922,Hiam Al-Yassiri,female,1967,9,,,,
+Q114884871,Aoun Diab,male,,,,,,
+Q114884962,Ahmed Mohammed Al-Mubarqa,male,,,,,,
+Q114885038,Atheer Dawood Salman Al Ghurairi,male,,,,,,
 Q12178659,Ahmed Al-Karboli,male,,7,,,,
 Q12201247,إياد العزي,male,1962-07-01,11,2005,9,,
 Q1316,Saddam Hussein,male,1937-04-28,11,2006-12-30,11,"Saddam Hussein at trial, July 2004.JPEG",Saddam Hussein
@@ -41,11 +54,13 @@ Q19667227,Mohammed Al-Ghabban,male,1961-11-14,11,,,Mohammed Ghabban.jpg,Mohammed
 Q20393732,Hassan Nadhem,male,1965-11-01,11,,,,
 Q20396318,Sami Al-Muzaffar,male,1940,9,,,,
 Q20419164,Ali Yousuf Shukri,male,,7,,,,
+Q20423164,Mohammad Ali Tamim,male,1974,9,,,,
 Q2208925,Saadoun al-Dulaimi,male,1954,9,,,"Sadun Dulaymi at the Pentagon May 22, 2012.jpg",Saadoun al-Dulaimi
 Q23043300,Mohamed Ali Alhakim,male,1952,9,,,Mohamed Ali Alhakim-2.jpg,Mohamed Ali Alhakim
 Q2508477,Sultan Hashim Ahmad al-Tai,male,1945,9,2020-07-19,11,"Saddam Hussein's former Defense Minister, Sultan Hashim Ahmad, in Baghdad, Iraq.jpg",Sultan Hashim Ahmad al-Tai
 Q252673,Basimah Yusuf Butrus,female,1963,9,,,,Basimah Yusuf Butrus
 Q253660,Sajida Talfah,female,1937-06-24,11,,,Sajida Talfah (first wife of Saddam Hussein).jpg,Sajida Talfah
+Q25451350,Ahmed Al Asadi,male,1970-02-01,11,,,,Ahmed Al Asadi
 Q2646641,Ali Allawi,male,1947,9,,,Ali Allawi Iraq’s Deputy Prime Minister and Finance Minister.png,Ali Allawi
 Q2821419,Abdul Karim al-Anizi,male,1954,9,,,,Abdul Karim al-Anizi
 Q28716928,Erfan al-Hiyali,male,1956,9,,,Erfan al-Hiyali.jpg,Erfan al-Hiyali
@@ -63,7 +78,7 @@ Q324518,Baqir Jabr al-Zubeidi,male,1946,9,,,Baqr Jabr Al-Zubeidi Cropped.jpg,Baq
 Q324564,Hajim al-Hassani,male,1954-07-01,11,,,Iraqi Speaker.jpg,Hajim al-Hassani
 Q324581,Hazim al-Shaalan,male,1947,9,,,,Hazim al-Shaalan
 Q332544,Rowsch Shaways,male,1947,9,2021-02-15,11,Rowsch Shaways.jpg,Rowsch Shaways
-Q332613,Salaheddine Bahaaeddin,male,1950,9,,,,Salaheddine Bahaaeddin
+Q332613,Salaheddine Bahaaeddin,male,1950,9,,,,Salahaddin Bahaaddin
 Q337136,Aqila al-Hashimi,female,1953,9,2003-09-25,11,,Aqila al-Hashimi
 Q35341137,فريدون عبد القادر,male,,,,,,
 Q35341259,حاتم جاسم مخلص,male,,,,,,
@@ -108,6 +123,7 @@ Q35343512,وليد حميد كيطان,male,,,,,,
 Q35343600,حكمت حكيم,male,1948,9,2010-06-22,11,,
 Q35343643,صبحي مبارك مال الله,male,,,,,,
 Q35343687,كاميران خيري سعيد,male,,,,,,
+Q35344712,Khaled Salam Saïd Shawani,male,1975,9,,,,
 Q35369760,صوناي طارق,female,,,,,,
 Q35369813,رجاء العزاوي,female,,,,,,
 Q35369885,Azhar Abd Al Majeed Husain,female,,7,,,,Azhar Abd Al Majeed Husain
@@ -209,6 +225,7 @@ Q72306460,Najah al-Shammari,male,1967,9,,,"Esper, al-Shammari, 2019 (cropped).jp
 Q7265770,Qader Al-Obeidi,male,1947,9,,,Qadir Obeidi.jpg,Abdul Qadir Obeidi
 Q7282646,Rafi al-Issawi,male,1966-03-02,11,,,Rafi Hiyad al-Issawi (cropped).jpg,Rafi al-Issawi
 Q7285445,Raja Habib al-Khuzaai,female,1947,9,,,President George W. Bush greets Dr. Raja Habib Khuzai of the Iraqi Governing Council.jpg,Raja Habib al-Khuzaai
+Q7404503,Salih al-Hasnawi,male,1960,9,,,,Salih al-Hasnawi
 Q7409549,Samir Sumaidaie,male,1944,9,,,Sumaidaie and Bush.jpg,Samir Sumaidaie
 Q7489658,Sharif Ali bin al-Hussein,male,1956,9,2022-03-14,11,Sharif Ali Bin Al Hussein.jpg,Sharif Ali bin al-Hussein
 Q7521741,Sinan Al Shabibi,male,1941-07-01,11,2022-01-08,11,Sinan Al-Shibibi (cropped).jpg,Sinan Al Shabibi
@@ -217,9 +234,10 @@ Q7675489,Tahir Albakaa,male,1950,9,,,,Tahir Albakaa
 Q8071311,Ziad Abderrazzak Mohammad Aswad,male,1952-07-27,11,,,,Ziad Abderrazzak Mohammad Aswad
 Q808173,Barham Salih,male,1960-09-12,11,,,Barham Salih (cropped).jpg,Barham Salih
 Q85317569,Mustafa Al-Kadhimi,male,1967-07-05,11,,,Mustafa al-Kadhimi (cropped).jpg,Mustafa Al-Kadhimi
+Q85875985,Naïm Al-Aboudi,male,,,,,النائب نعيم العبودي.jpg,
 Q85876365,Yassin al-Yasiri,male,,,,,,
 Q92509450,Jaffar Allawi,male,1947,9,,,"Jaffar Allawi, AlTaghierTV - Apr 5, 2020.jpg",
-Q93459603,Khalid Najim,,1976,9,,,,
+Q93459603,Khalid Najim,male,1976,9,,,,
 Q93654245,Juma Inad,male,1956,9,,,Joumah Enad.jpg,Juma Inad
 Q96096929,Ihsan Abdul Jabbar Ismail,male,1974,9,,,Ihsan Abduljabbar al-Saedi.jpg,
 Q96115453,Evan Faeq Yacub,female,1981,9,,,,
