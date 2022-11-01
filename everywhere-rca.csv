@@ -3121,6 +3121,7 @@ Denmark,Q12323860,Lars Kramer Mikkelsen,sibling,Q1687259,Jens Kramer Mikkelsen
 Denmark,Q12324638,Lise Hækkerup,spouse,Q1390745,Hans Hækkerup
 Denmark,Q12324866,Lone Møller,child,Q64441610,Henrik Møller
 Denmark,Q12324973,Louise Schack Elholm,spouse,Q7827256,Torsten Schack Pedersen
+Denmark,Q12325727,Magnus Heunicke,father,Q12316236,Henning Jensen
 Denmark,Q12327679,Morten Helveg Petersen,father,Q425708,Niels Helveg Petersen
 Denmark,Q12327679,Morten Helveg Petersen,mother,Q18040591,Hanne Elisabeth Aarup
 Denmark,Q12327679,Morten Helveg Petersen,sibling,Q12332907,Rasmus Helveg Petersen
@@ -5512,6 +5513,7 @@ France,Q736013,François Baroin,father,Q3308940,Michel Baroin
 France,Q736013,François Baroin,partner,Q291392,Michèle Laroque
 France,Q736013,François Baroin,spouse,Q21503778,Valérie Broquisse
 France,Q736013,François Baroin,spouse,Q291392,Michèle Laroque
+France,Q737311,Arnaud Montebourg,child,Q114965246,Paul Montebourg
 France,Q737311,Arnaud Montebourg,partner,Q2870869,Audrey Pulvar
 France,Q749029,Christian Estrosi,spouse,Q17625821,Dominique Estrosi Sassone
 France,Q749029,Christian Estrosi,spouse,Q3218716,Laura Tenoudji
@@ -5679,6 +5681,7 @@ Germany,Q14924803,Beatrix von Storch,relative,Q57136,Lutz Graf Schwerin von Kros
 Germany,Q14924803,Beatrix von Storch,relative,Q64976,"Nikolaus, Hereditary Grand Duke of Oldenburg"
 Germany,Q14924803,Beatrix von Storch,spouse,Q23639476,Sven von Storch
 Germany,Q14946273,Sabine Sütterlin-Waack,father,Q74264,Henning Schwarz
+Germany,Q15117357,Katarina Barley,spouse,Q1606372,Marco van den Berg
 Germany,Q1527467,Gisela Walsken,spouse,Q1359437,Ernst Martin Walsken
 Germany,Q1538167,Isabella Vértes-Schütter,child,Q110413723,Daniel Schütter
 Germany,Q1538167,Isabella Vértes-Schütter,mother,Q1602259,Helga Pilarczyk
@@ -6138,7 +6141,7 @@ Greece,Q312015,Alexis Tsipras,spouse,Q20487832,Peristera Baziana
 Greece,Q3347276,Nikos Konstantopoulos,child,Q12877513,Zoi Konstantopoulou
 Greece,Q3577025,Anna Benaki-Psarouda,spouse,Q6554744,Linos Benakis
 Greece,Q382096,Georgios Voulgarakis,child,Q61650367,Παυλίνα Βουλγαράκη
-Greece,Q40688,Gianis Varoufakis,spouse,Q2297038,Danae Stratou
+Greece,Q40688,Yanis Varoufakis,spouse,Q2297038,Danae Stratou
 Greece,Q44056603,Kostas Katsikis,father,Q16327679,Θεόδωρος Κατσίκης
 Greece,Q444093,Athanasios Plevris,father,Q669418,Konstantinos Plevris
 Greece,Q462542,Theodoros Pangalos,father,Q16504364,Georgios Pangalos
@@ -9021,7 +9024,7 @@ Kenya,Q196070,Uhuru Kenyatta,sibling,Q5360612,Margaret Kenyatta
 Kenya,Q196070,Uhuru Kenyatta,sibling,Q78870853,Muhoho Kenyatta
 Kenya,Q196070,Uhuru Kenyatta,spouse,Q16866530,Margaret Gakuo Kenyatta
 Kenya,Q2013243,Oburu Odinga,father,Q645228,Jaramogi Oginga Odinga
-Kenya,Q20657447,Patrick Ngugi Njoroge,sibling,Q573680,Anthony Muheria
+Kenya,Q20657447,Patrick Njoroge,sibling,Q573680,Anthony Muheria
 Kenya,Q21064137,Rachel Ruto,spouse,Q195725,William Ruto
 Kenya,Q27893074,Moses Otieno Kajwang,sibling,Q47494960,Tom Joseph Francis Kajwang'
 Kenya,Q27893074,Moses Otieno Kajwang,sibling,Q7108730,Otieno Kajwang
@@ -9610,7 +9613,7 @@ Mexico,Q3069480,Fernando Gómez Mont,father,Q5858217,Felipe Gómez Mont
 Mexico,Q3069480,Fernando Gómez Mont,sibling,Q108570379,María Teresa Gómez-Mont Urueta
 Mexico,Q3069480,Fernando Gómez Mont,sibling,Q109827422,Miguel Gómez-Mont Urueta
 Mexico,Q318508,Andrés Manuel López Obrador,child,Q83049574,Andrés Manuel López Beltrán
-Mexico,Q318508,Andrés Manuel López Obrador,child,Q97971611,Jesús Ernesto López Gutierrez
+Mexico,Q318508,Andrés Manuel López Obrador,child,Q97971611,Jesús Ernesto López Gutiérrez
 Mexico,Q318508,Andrés Manuel López Obrador,child,Q97974639,José Ramón López Beltrán
 Mexico,Q318508,Andrés Manuel López Obrador,child,Q97976656,Gonzalo Alfonso López Beltrán
 Mexico,Q318508,Andrés Manuel López Obrador,relative,Q97971354,Nora Beatriz Müller Bentjerodt
@@ -10457,6 +10460,7 @@ Norway,Q15299167,Julie Brodtkorb,spouse,Q17113709,Tore Aksel Voldberg
 Norway,Q15464245,Maria Hoff Aanes,spouse,Q15205583,Sigbjørn Aanes
 Norway,Q15477955,Anniken Hauglie,spouse,Q17125631,Lars Jacob Hiim
 Norway,Q15613939,Sveinung Stensland,father,Q84057294,Karl Johan Stensland
+Norway,Q156540,Anniken Huitfeldt,father,Q114967015,Iver Huitfeldt
 Norway,Q156540,Anniken Huitfeldt,sibling,Q5273980,Astrid Huitfeldt
 Norway,Q156540,Anniken Huitfeldt,sibling,Q74189252,Anders Huitfeldt
 Norway,Q156550,Marianne Aasen,spouse,Q381121,Simen Agdestein
@@ -10701,6 +10705,8 @@ Norway,Q5349705,Einar Strøm,sibling,Q12007612,Trond Strøm
 Norway,Q5349869,Eirin Kristin Sund,father,Q55206294,Kjell Sund
 Norway,Q5450652,Finn Martin Vallersnes,child,Q11300391,Eli Sol Vallersnes
 Norway,Q548001,Trygve Slagsvold Vedum,father,Q4993554,Trond Vidar Vedum
+Norway,Q5504934,Fritz Huitfeldt,father,Q114967071,Otte Huitfeldt
+Norway,Q5504934,Fritz Huitfeldt,sibling,Q114967015,Iver Huitfeldt
 Norway,Q553839,Dagfinn Høybråten,father,Q4998609,Per Høybråten
 Norway,Q5587000,Svein Erik Brodal,spouse,Q3429850,Gudrun Waadeland
 Norway,Q5618906,Gunn Karin Gjul,spouse,Q7845450,Trond Jensrud
@@ -14050,6 +14056,7 @@ Sweden,Q5969883,Johan Lönnroth,mother,Q29468335,Ebba Lönnroth
 Sweden,Q5969883,Johan Lönnroth,sibling,Q57167627,Louise Lönnroth
 Sweden,Q5969883,Johan Lönnroth,sibling,Q5969887,Lars Lönnroth
 Sweden,Q5969883,Johan Lönnroth,spouse,Q111948994,Gudrun Lönnroth
+Sweden,Q5983849,Martin Melin,spouse,Q231320,Camilla Läckberg
 Sweden,Q5996912,Johan Munck,father,Q5996879,Thomas Munck af Rosenschöld
 Sweden,Q6016840,Patrik Norinder,father,Q16650031,Carl-Robert Norinder
 Sweden,Q6030080,Mikael Oscarsson,sibling,Q18244900,Magnus Oscarsson
@@ -14062,6 +14069,7 @@ Sweden,Q6196549,Anders Sundström,partner,Q67207189,Anna Hallberg
 Sweden,Q6212472,Gudmund Toijer,father,Q19885747,Nils Nilsson
 Sweden,Q6212472,Gudmund Toijer,mother,Q4983037,Ying Toijer-Nilsson
 Sweden,Q6240455,Markus Wiechel,mother,Q4968951,Kristina Narfström
+Sweden,Q6254715,Martin Ådahl,father,Q26463598,Andreas Ådahl
 Sweden,Q6255956,Per Åsling,father,Q6255950,Nils G. Åsling
 Sweden,Q6256794,Oskar Öholm,father,Q6256801,Siewert Öholm
 Sweden,Q63344500,Niels Paarup-Petersen,spouse,Q18649282,Johanna Jönsson
@@ -14707,6 +14715,7 @@ Ukraine,Q12115901,Oleksandre Kouptchychyne,father,Q48047419,Купчишин М�
 Ukraine,Q12119499,Oleh Liashko,partner,Q22138148,Tetiana Yuzkova
 Ukraine,Q12119499,Oleh Liashko,spouse,Q103167078,Rosita Liashko
 Ukraine,Q12119499,Oleh Liashko,spouse,Q22138148,Tetiana Yuzkova
+Ukraine,Q12121834,Pavlo Matviienko,father,Q4284678,Vladimir Matvienko
 Ukraine,Q12121980,Oleh Makhnitskyi,spouse,Q17371649,Махніцька Катерина Григорівна
 Ukraine,Q12135891,Valerii Omelchenko,spouse,Q14491528,Джарти Вікторія Василівна
 Ukraine,Q12136414,Lesya Orobets,father,Q4337004,Yuriy Orobets
@@ -17488,6 +17497,8 @@ United Kingdom,Q302187,Richard Drax,father,Q75904279,Henry Walter Plunkett-Ernle
 United Kingdom,Q302187,Richard Drax,mother,Q75904282,Pamela Rose Plunkett-Ernle-Erle-Drax
 United Kingdom,Q302187,Richard Drax,spouse,Q75612892,Zara Legge-Bourke
 United Kingdom,Q302187,Richard Drax,spouse,Q75904295,Eliza Sarah Dugdale
+United Kingdom,Q30223601,Layla Moran,father,Q19662698,James Moran
+United Kingdom,Q30223601,Layla Moran,relative,Q5880798,Wasif Jawhariyyeh
 United Kingdom,Q302244,Jack Dromey,child,Q96078255,Harry Patrick D. Harman
 United Kingdom,Q302244,Jack Dromey,child,Q96078256,Joseph Adam H. Dromey
 United Kingdom,Q302244,Jack Dromey,child,Q96078258,Amy Siobhan D. Dromey

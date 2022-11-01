@@ -45,7 +45,7 @@ Q107311725,Roberto Salcedo Aquino,male,1943-11-26,11,,,Portrait of Roberto Salce
 Q107311841,Telésforo García Carreón,male,,,,,,
 Q107365691,Cecilia Patrón Laviada,female,1971-03-25,11,,,,
 Q107379567,Salma Luévano,female,1968-03-21,11,,,,Salma Luévano
-Q107580446,Luis Ernesto Munguía González,,,,,,,
+Q107580446,Luis Ernesto Munguía González,male,,,,,,
 Q107586008,Celita Alamilla Padrón,female,1943-06-20,11,,,,
 Q107610414,Michel González Márquez,female,1988-01-21,11,,,,
 Q107718553,Rubén Cayetano García,male,1969-08-10,11,,,,
@@ -69,7 +69,7 @@ Q108881795,Merary Villegas Sánchez,female,1987-04-20,11,,,,
 Q109012187,Lía Limón García,female,,,,,Audiencia- Denuncias sobre trata de personas en México.jpg,
 Q109252839,Rosa María Bayardo Cabrera,female,1985-12-12,11,,,,
 Q109405283,Gabriela Martínez Espinoza,female,1967-10-05,11,,,Gabriela Martinez Espiniza.jpg,
-Q109405909,Gabriela Sodi Miranda,,,,,,,
+Q109405909,Gabriela Sodi Miranda,female,,,,,,
 Q109410373,Wendy González Urrutia,female,,,,,,
 Q109417418,María Teresa Castell,female,,,,,,
 Q109523798,María del Carmen Zúñiga Cuevas,female,,,,,,
@@ -279,13 +279,13 @@ Q111517026,Karla Estrella Díaz García,,,,,,,
 Q111517027,Karla Osuna Carranco,,,,,,,
 Q111517028,Karla Yuritzi Almazán Burgos,,,,,,,
 Q111517029,Kathia María Bolio Pinelo,,,,,,,
-Q111517030,Kevin Angelo Aguilar Piña,,,,,,,
-Q111517031,Klaus Ritter Ocampo,,,,,,,
+Q111517030,Kevin Angelo Aguilar Piña,male,,,,,,
+Q111517031,Klaus Ritter Ocampo,male,,,,,,
 Q111517032,Krishna Karina Romero Velázquez,,,,,,,
-Q111517033,Laura Contreras Duarte,,,,,,,
+Q111517033,Laura Contreras Duarte,female,,,,,,
 Q111517034,Laura Haro Ramírez,female,,,,,,
 Q111517035,Laura Imelda Pérez Segura,female,,,,,,
-Q111517036,Leobardo Alcántara Martínez,,,,,,,
+Q111517036,Leobardo Alcántara Martínez,male,,,,,,
 Q111517037,Leonor Coutiño Gutiérrez,,,,,,,
 Q111517039,Leslie Estefanía Rodríguez Sarabia,,,,,,,
 Q111517040,Leticia Zepeda Martínez,,,,,,,
@@ -2843,6 +2843,7 @@ Q18638189,Rosario Brindis Álvarez,female,1978-11-06,11,,,,Rosario Brindis Álva
 Q18638213,Alejandro Carabias Icaza,male,1973-01-09,11,,,,Alejandro Carabias Icaza
 Q18638214,Liliana Carbajal Méndez,female,1976-10-19,11,,,,Liliana Carbajal Méndez
 Q18645680,Rolando Bojórquez Gutiérrez,male,1967-08-12,11,2013-03-08,11,,Rolando Bojórquez Gutiérrez
+Q18645801,Marisol Mora Cuevas,female,1970-05-27,11,2012-06-25,11,,Marisol Mora Cuevas
 Q18648858,Fernando Morales Martínez,male,1969-08-20,11,,,,Fernando Morales Martínez
 Q18648863,Fermín Montes Cavazos,male,1948-02-28,11,,,,Fermín Montes Cavazos
 Q18648886,María Isabel Merlo Talavera,female,1960-12-30,11,,,,María Isabel Merlo Talavera
@@ -2959,7 +2960,7 @@ Q18688023,Blanca Estela Jiménez Hernández,female,1964-11-30,11,,,,Blanca Estel
 Q18688026,Juan Pablo Jiménez Concha,male,1966-03-02,11,,,,Juan Pablo Jiménez Concha
 Q18688028,Patricia Jiménez Case,female,1963-09-16,11,,,,Patricia Jiménez Case
 Q18688030,Ramón Jiménez Fuentes,male,1955-12-01,11,,,,Ramón Jiménez Fuentes
-Q18688040,Carlos Manuel Joaquín González,male,1965-01-06,11,,,"Opening Ceremony, Global Summit Session 1. (51140411603) (cropped).jpg",Carlos Joaquín González
+Q18688040,Carlos Manuel Joaquín González,male,1965-01-06,11,,,Gobernador Carlos Joaquin.jpg,Carlos Joaquín González
 Q18688134,Jorge Juraidini,male,1960-03-06,11,,,Foto JJR.png,Jorge Juraidini
 Q18704878,Violeta Avilés Álvarez,female,1957-01-24,11,,,,Violeta Avilés Álvarez
 Q18719706,Elías Dip Ramé,male,1946-04-20,11,,,,
@@ -3552,7 +3553,7 @@ Q5552011,Jorge Martínez Ramos,male,1964-11-22,11,,,,
 Q5553302,Horacio Duarte Olivares,male,1971-11-05,11,,,Horacio Duarte Olivares 2013.jpg,Horacio Duarte Olivares
 Q5574061,Isael Villa Villa,male,1956-04-05,11,,,,Isael Villa Villa
 Q5574393,Ildefonso Guajardo Villarreal,male,1957-04-19,11,,,Idelfonso-Guajardo.jpg,Ildefonso Guajardo Villarreal
-Q557887,Érik Morales,male,1976-09-01,11,,,Erik Morales.jpg,Érik Morales
+Q557887,Érik Morales,male,1976-09-01,11,,,Erik Morales.jpg,Erik Morales
 Q55830155,Mario David Mex Albornoz,male,,,,,,
 Q55840665,Óscar Ferrer Abalos,male,,,,,,
 Q55840679,Wendolin Toledo Aceves,,,,,,,

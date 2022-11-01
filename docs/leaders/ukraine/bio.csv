@@ -1,7 +1,7 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q102046961,Anatoliy Hunko,male,1976-03-12,11,,,НДУ 9 Гунько Анатолій Григорович.jpg,
 Q102340260,Vitalii Kim,male,1981-03-13,11,,,Виталий Ким .jpg,Vitalii Kim
-Q104706501,Viktor Husak,male,1978-06-02,11,,,,
+Q104706501,Viktor Husak,male,1978-06-02,11,,,Viktor Husak.jpg,
 Q105098172,Vyacheslav Ovechkin,male,1983-06-14,11,,,,Vyacheslav Ovechkin
 Q105302343,Ivan Fedorov,male,1988-08-29,11,,,Empfang für ukrainische Delegation im Kölner Rathaus – Iwan Fedorow – Іван Федоров-1046.jpg,Ivan Fedorov (politician)
 Q106363123,Andrey Aksenov,male,1971-02-02,11,,,Andrey Aksenov.jpg,Andriy Aksyonov
@@ -21,7 +21,7 @@ Q1100750,Yevgeny Bakulin,male,1956-09-26,11,,,,
 Q110234969,Ruslan Strilets,male,1984-06-30,11,,,Ruslan Strilets.jpg,Ruslan Strilets
 Q110899715,Vasyl Zvarych,male,1977-01-27,11,,,Wasyl Zwarycz.jpg,
 Q110914231,Sergei Kostriichuk,male,,,,,НДУ 9 Кострійчук Сергій Володимирович.jpg,
-Q111097893,Ihor Taburets,male,1973-12-06,11,,,,Ihor Taburets
+Q111097893,Ihor Taburets,male,1973-12-06,11,,,Ihor Taburets.jpg,Ihor Taburets
 Q11109895,Irina Belousova,female,1954-07-10,11,,,НДУ 6 Белоусова Ірина Анатоліївна.jpg,Irina Belousova
 Q111998288,Kirill Stremousov,male,1976-12-26,11,,,Кирилл Стремоусов 2020.png,Kirill Stremousov
 Q11285342,Andrii Derkach,male,1967-08-19,11,,,Андрей Деркач.jpg,Andrii Derkach
@@ -32,8 +32,9 @@ Q113131430,Oleksiy Simonenko,male,1976-09-18,11,,,,Oleksiy Symonenko
 Q113153569,Oksana Zholnovich,female,1979-02-21,11,,,Оксана Жолнович 3.jpg,Oksana Zholnovych
 Q113366385,Irina Novikova,female,,,,,,
 Q11338776,Boris Kozhin,male,1944-09-25,11,,,Borys Kozhyn.png,Boris Kozhin
-Q113486431,Sergei Vladimirovich Yeliseyev,male,1971-05-05,11,,,Сергей Елисеев (чиновник).jpg,Sergei Yeliseyev (politician)
+Q113486431,Sergei Vladimirovich Yeliseyev,male,1971-05-05,11,,,,Sergei Yeliseyev (politician)
 Q113564532,Valentina Korolenko,female,1984-05-15,11,,,,
+Q113652919,Oleksiy Makeev,male,1975,9,,,,
 Q113665580,Oleksandr Vasyuk,male,1994-12-28,11,,,Васюк Олександр Олександрович у Верховній Раді України.jpg,
 Q113964559,Oleksiy Sivirin,male,,,,,,
 Q114390954,Maxim Khlapuk,male,1984-07-20,11,,,,
@@ -518,7 +519,7 @@ Q12121642,Oleksii Marchenko,male,1955-06-16,11,,,НДУ 3 Марченко Ол�
 Q12121730,Oleksandr Masenko,male,1949-02-03,11,,,НДУ 4 Масенко Олександр Миколайович.jpg,
 Q12121811,Volodymyr Matvieiev,male,1943-07-24,11,,,НДУ 6 Матвєєв Володимир Йосипович.jpg,
 Q12121812,Valentyn Matvieiev,male,1943-03-28,11,,,НДУ 7 Матвєєв Валентин Григорович.jpg,
-Q12121834,Pavlo Matviienko,male,1973-08-06,11,,,,
+Q12121834,Pavlo Matviienko,male,1973-08-06,11,,,,Pavlo Matviienko
 Q12121928,Viktor Matchuk,male,1959-06-05,11,,,,Viktor Matchuk
 Q12121980,Oleh Makhnitskyi,male,1970-03-15,11,,,Oleh Makhnitskyi April 2014.jpg,Oleh Makhnitskyi
 Q12122252,Oleh Medunytsia,male,1971-07-27,11,,,Oleh Medunytsia.jpg,Oleh Medunytsia
