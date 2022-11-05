@@ -17,6 +17,7 @@ Jordan,Prime Minister,Hani al-Mulki,Q5648173,2016-06-01,2018-06-04,male,1951-10-
 Jordan,Prime Minister,Omar Razzaz,Q29512679,2018-06-14,2020-10-12,male,1961-05-17,,Omar Razzaz cropped 1 (cropped).jpeg,Omar Razzaz
 Jordan,Prime Minister,Bisher Al-Khasawneh,Q63441935,2020-10-07,,male,1969-01-27,,Bisher Al-Khasawneh (cropped).jpg,Bisher Al-Khasawneh
 Jordan,Deputy Prime Minister,Umayya Toukan,Q7881219,2020-10-12,2021-03-07,male,1946,,,Umayya Toukan
+Jordan,Deputy Prime Minister,Nasser Shraideh,Q98382657,2022-10-27,,male,,,,Nasser Shraideh
 Jordan,Minister of Agriculture,Ahmed Al Khattab,Q99670168,2011-10-17,2012-04,male,1942,2021-05-09,,Ahmed Al Khattab
 Jordan,Minister of Agriculture,Ahmed Al Khattab,Q99670168,2012-05,2012-10-10,male,1942,2021-05-09,,Ahmed Al Khattab
 Jordan,Minister of Agriculture,Ahmed Al Khattab,Q99670168,2012-10-11,2013-03-30,male,1942,2021-05-09,,Ahmed Al Khattab
@@ -29,7 +30,8 @@ Jordan,Minister of Culture,Haifa Najjar,Q54875250,2021-10-11,,female,1959-03-01,
 Jordan,Minister of Digital Economy and Entrepreneurship,Ahmad Hanandeh,Q110067674,2020-10-12,,male,,,,Ahmad Hanandeh
 Jordan,Minister of Education,Omar Razzaz,Q29512679,2017-01-04,2018-06-04,male,1961-05-17,,Omar Razzaz cropped 1 (cropped).jpeg,Omar Razzaz
 Jordan,Minister of Education,Tayseer Al-Noaimi,Q12203617,2019-11-07,2021-03-08,male,1955,,تيسير النعيمي.png,
-Jordan,Minister of Education,Wajih Owais,Q7960706,2020-10-12,,male,1947-11-05,,,Wajih Owais
+Jordan,Minister of Education,Wajih Owais,Q7960706,2020-10-12,2022-10-27,male,1947-11-05,,,Wajih Owais
+Jordan,Minister of Education,Azmi Mahafzah,Q115075029,2022-10-27,,,,,,
 Jordan,Minister of Energy and Mineral Resources,Saleh Ali Hamed Al-Kharabsheh,Q110066264,2021-10-11,,male,,,,
 Jordan,Minister of Environment,Saleh Ali Hamed Al-Kharabsheh,Q110066264,2019-11-07,2020-10-12,male,,,,
 Jordan,Minister of Environment,Nabil Masarweh,Q110066647,2020-10-12,2021-10-11,,,,,
@@ -42,35 +44,43 @@ Jordan,Minister of Foreign Affairs,Hani al-Mulki,Q5648173,2004-10-25,2005-04-05,
 Jordan,Minister of Foreign Affairs,Farouq Qasrawi,Q5436181,2005-04-07,2005-11-24,male,1942-02-12,2021-11-10,,Farouq Qasrawi
 Jordan,Minister of Foreign Affairs,Abdul Ilah Khatib,Q317276,2005-11-27,2007-11-22,male,1953-03-31,,Al Khatib et Rice.jpg,Abdul Ilah Khatib
 Jordan,Minister of Foreign Affairs,Ayman al-Ṣafadī,Q28336737,2017-01-15,,male,1962-01-15,,His Excellency Safadi at the Meeting of Ministers of the Global Coalition in Washington (cropped).jpg,Ayman Safadi
+Jordan,Minister of Government Communications,Faisal Shboul,Q110067984,2022-10-27,,male,,,,
 Jordan,Minister of Health,Saad Jaber,Q88950377,2019-05-09,2020-10-12,male,1960-04-16,,,Saad Jaber
 Jordan,Minister of Health,Nathir Mefleh Obeidat,Q100328148,2020-10-12,2021-03-13,male,1959-12-20,,,
 Jordan,Minister of Health,Mazin Abdallah Alfarrayeh,Q110067244,2021-03-14,2021-03-28,,,,,
 Jordan,Minister of Health,Feras Tbrahim Hawari,Q110067351,2021-03-29,,male,,,,Firas Al-Hawari
 Jordan,Minister of Higher Education and Scientific Research,Mohammad Abu Qudeis,Q110065434,2020-12-10,2021-10-10,,,,,
-Jordan,Minister of Higher Education and Scientific Research,Wajih Owais,Q110065429,2021-10-11,,male,1947,,,
+Jordan,Minister of Higher Education and Scientific Research,Wajih Owais,Q7960706,2021-10-11,2022-10-27,male,1947-11-05,,,Wajih Owais
+Jordan,Minister of Higher Education and Scientific Research,Azmi Mahafzah,Q115075029,2022-10-27,,,,,,
 Jordan,Minister of Industry and Trade And Supply,Yousef Alshamali,Q110066321,2021-10-11,,male,,,,
 Jordan,Minister of Information,Mothanna Gharaibeh,Q55127874,2018-06-14,2020-10-12,male,1980,,MothannaGharaibeh.jpg,
 Jordan,Minister of Information and Communication Technology,Majd Shweikeh,Q27811439,2012-10-11,2013-03-30,female,1966-03-08,,"The Prime Minister, Shri Narendra Modi with the King of Jordan His Majesty Abdullah II Bin Al-Hussein witnessing the exchange of MoUs, at Hyderabad House, in New Delhi on March 01, 2018 (1).jpg",Majd Shweikeh
 Jordan,Minister of Information and Communication Technology,Majd Shweikeh,Q27811439,2013-04-23,2016-06-01,female,1966-03-08,,"The Prime Minister, Shri Narendra Modi with the King of Jordan His Majesty Abdullah II Bin Al-Hussein witnessing the exchange of MoUs, at Hyderabad House, in New Delhi on March 01, 2018 (1).jpg",Majd Shweikeh
 Jordan,Minister of Information and Communication Technology,Majd Shweikeh,Q27811439,2016-06-01,2016-09-20,female,1966-03-08,,"The Prime Minister, Shri Narendra Modi with the King of Jordan His Majesty Abdullah II Bin Al-Hussein witnessing the exchange of MoUs, at Hyderabad House, in New Delhi on March 01, 2018 (1).jpg",Majd Shweikeh
 Jordan,Minister of the Interior,Mazen Al-Farrayah,Q105954588,2021-03-07,,male,1969-04-01,,,Mazin Abdellah Hilal Al Farrayeh
-Jordan,Minister of Investment,Khairy Amr,Q110066807,2021-10-11,,male,,,,Khairy Amr
+Jordan,Minister of Investment,Khairy Amr,Q110066807,2021-10-11,2022-10-27,male,,,,Khairy Amr
+Jordan,Minister of Investment,Kholoud Saqqaf,Q115075309,2022-10-27,,,,,,
 Jordan,Minister of Justice,Awad Abu Jarad,Q28716372,2016-09-28,2018-06-04,male,1961,,,
 Jordan,Minister of Justice,Bassam Talhouni,Q14949027,2020-10-12,2021-02-28,male,1964-02-14,,Bassam Talhouni.jpg,Bassam Talhouni
 Jordan,Minister of Justice,Ahmed Nouri Ziadat,Q110067665,2021-03-08,,male,1950,,,
 Jordan,Minister of Labour,Nayef ZakariyaStetieh,Q110066500,2021-10-11,,male,,,,
 Jordan,Minister of of Local Administration,Tawfiq Kreishan,Q6754063,2020-10-12,,male,1947,,,Tawfiq Kreishan
-Jordan,Minister of Planning and International Cooperation,Nasser Shraideh,Q98382657,2020-10-12,,male,,,,Nasser Shraideh
+Jordan,Minister of Planning and International Cooperation,Nasser Shraideh,Q98382657,2020-10-12,2022-10-27,male,,,,Nasser Shraideh
+Jordan,Minister of Planning and International Cooperation,Zeina Toukan,Q115075338,2022-10-27,,,,,,
 Jordan,Minister of Political and Parliamentary Affairs,Musa Maaytah,Q97073473,2020-10-12,2022-04-05,male,,,MUSA ALMAAYTAH.jpg,
-Jordan,Minister of Political and Parliamentary Affairs,Tawfiq Kreishan,Q6754063,2022-04-05,,male,1947,,,Tawfiq Kreishan
+Jordan,Minister of Political and Parliamentary Affairs,Tawfiq Kreishan,Q6754063,2022-04-05,2022-10-27,male,1947,,,Tawfiq Kreishan
+Jordan,Minister of Political and Parliamentary Affairs,Wajih Azaizeh,Q110065359,2022-10-27,,male,1955,,,Wajih Azaizeh
 Jordan,Minister of Public Sector Development,Majd Shweikeh,Q27811439,2016-06-01,2016-09-20,female,1966-03-08,,"The Prime Minister, Shri Narendra Modi with the King of Jordan His Majesty Abdullah II Bin Al-Hussein witnessing the exchange of MoUs, at Hyderabad House, in New Delhi on March 01, 2018 (1).jpg",Majd Shweikeh
 Jordan,Minister of Public Works and Housing,Raed Abu Soud,Q7281951,2003-10-25,2005-04-07,male,1958-02-14,,,Raed Abu Soud
-Jordan,Minister of Public Works and Housing,Yahya Musa Kisbi,Q89028293,2020-10-12,,male,,,,
+Jordan,Minister of Public Works and Housing,Yahya Musa Kisbi,Q89028293,2020-10-12,2022-10-27,male,,,,
+Jordan,Minister of Public Works and Housing,Ahmad Maher Abul Samen,Q115075016,2022-10-27,,,,,,
 Jordan,Minister of Social Development,Ayman Riad Saeid Almuflih,Q110067596,2020-10-12,,male,,,,
+Jordan,Minister of Social Development,Wafa Bani Mustafa,Q106989121,2022-10-27,,female,1979-03-16,,Pic High High res.png,Wafaa Bani Mustafa
 Jordan,Minister of Tourism and Antiquities,Majd Shweikeh,Q27811439,2018-11-01,2020-10-12,female,1966-03-08,,"The Prime Minister, Shri Narendra Modi with the King of Jordan His Majesty Abdullah II Bin Al-Hussein witnessing the exchange of MoUs, at Hyderabad House, in New Delhi on March 01, 2018 (1).jpg",Majd Shweikeh
 Jordan,Minister of Tourism and Antiquities,Nayef Al-Fayez,Q100258645,2020-10-12,,male,,,,Nayef Al-Fayez
 Jordan,Minister of Transport,Raed Abu Soud,Q7281951,2003-10-25,2004-10-24,male,1958-02-14,,,Raed Abu Soud
-Jordan,Minister of Transport,Wajih Azaizeh,Q110065359,2021-03-07,,male,,,,
+Jordan,Minister of Transport,Wajih Azaizeh,Q110065359,2021-03-07,2022-10-27,male,1955,,,Wajih Azaizeh
+Jordan,Minister of Transport,Ahmad Maher Abul Samen,Q115075016,2022-10-27,,,,,,
 Jordan,Minister of Water and Irrigation,Hazim El-Naser,Q100258643,2001,2005,male,,,,
 Jordan,Minister of Water and Irrigation,Raed Abu Soud,Q7281951,2005-04-07,2005-07-04,male,1958-02-14,,,Raed Abu Soud
 Jordan,Minister of Water and Irrigation,Raed Abu Soud,Q7281951,2007-11-25,2009-12-10,male,1958-02-14,,,Raed Abu Soud
@@ -84,13 +94,15 @@ Jordan,Minister of Youth and Sports,Said Shaqm,Q55677026,1999,2001,male,1950-04-
 Jordan,Minister of State,Mahmoud Kharabsheh,Q16730808,2020-10-12,2021-03-07,male,1951,,,Mahmoud Kharabsheh
 Jordan,Minister of State for Economic Affairs,Umayya Toukan,Q7881219,2020-10-12,2021-03-07,male,1946,,,Umayya Toukan
 Jordan,Minister of State for Follow-up and Government Coordination,Nawaf Wasfi Tall,Q110067972,2020-10-12,,male,,,,
-Jordan,Minister of State for Legal Affairs,Wafaa Saeed Yaqoub Bani Mustafa,Q110068000,2021-10-11,,male,,,,
+Jordan,Minister of State for Legal Affairs,Wafa Bani Mustafa,Q106989121,2021-10-11,2022-10-27,female,1979-03-16,,Pic High High res.png,Wafaa Bani Mustafa
+Jordan,Minister of State for Legal Affairs,Nancy Namrouqa,Q115075232,2022-10-27,,female,,,,
 Jordan,Minister of State for Media Affairs,Ali Hamdan Al Ayed,Q100377210,2010,2011,male,,,,
 Jordan,Minister of State for Media Affairs,Jumana Ghunaimat,Q22687372,2018-06-14,2019-11-07,female,1974-12-04,,Jumana Ghunaimat.jpg,Jumana Ghunaimat
 Jordan,Minister of State for Media Affairs,Amjad Adaileh,Q4747014,2019-11-07,2020-10-12,male,1962,,,Amjad Adaileh
 Jordan,Minister of State for Media Affairs,Ali Hamdan Al Ayed,Q100377210,2020-10-12,2021-03-07,male,,,,
-Jordan,Minister of State for Media Affairs,Faisal Shboul,Q110067984,2021-10-11,,male,,,,
+Jordan,Minister of State for Media Affairs,Faisal Shboul,Q110067984,2021-10-11,2022-10-27,male,,,,
 Jordan,Minister of State for Prime Ministry Affairs,Ibrahim Jazi,Q109257176,2020-10-12,,male,1966,,,Ibrahim Jazi
+Jordan,Minister of State for Public Sector Modernisation,Nasser Shraideh,Q98382657,2022-10-27,,male,,,,Nasser Shraideh
 Jordan,Speaker of the Senate,Abdelraouf al-Rawabdeh,Q2067199,2013-10-24,2015-10-25,male,1939-02-18,,Defense.gov News Photo 990520-D-9880W-077.jpg,Abdelraouf Rawabdeh
 Jordan,Speaker of the Senate,Faisal al-Fayez,Q1393504,2015-10-25,,male,1952-12-20,,Faisal Al-Fayez large.jpg,Faisal Al-Fayez
 Jordan,Speaker of the Chamber of Deputies,Abdul Hadi Majali,Q6814633,1998,2009-11-24,male,1934-06-28,2021-02-10,,Abdul al-Majali
