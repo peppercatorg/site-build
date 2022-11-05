@@ -2,11 +2,13 @@ id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100262012,Flemming Lentfer,male,1964-03-01,11,,,LENTFER portræt 2 hig res FOTO FMI.jpg,Flemming Lentfer
 Q100596915,Lars Weiss,male,1971-05-30,11,,,2013 Lars Weiss (8643269112) (cropped).jpg,Lars Weiss
 Q101552465,Erik Vilstrup Lorenzen,male,1962-07-02,11,,,,
+Q102044122,Sofie Lippert Troelsen,female,1995-12-20,11,,,,
 Q102139,Margrethe II of Denmark,female,1940-04-16,11,,,Drottning Margrethe av Danmark.jpg,Margrethe II of Denmark
 Q102501785,Barbara Gaardlykke Apol,female,1995-04-27,11,,,,Barbara Gaardlykke Apol
 Q10271941,Allan Niebuhr,male,1951-09-01,11,,,Allan Niebuhr (KF) Danmark.jpg,
 Q1029520,Kaj Ikast,male,1935-12-05,11,2020-12-03,11,,Kaj Ikast
 Q10314433,Kirsten Jacobsen,female,1942-02-18,11,2010-12-02,11,,Kirsten Jacobsen
+Q104139464,Monika Afzali Rubin,female,,,,,,
 Q104510366,Ruben Kidde,male,1986-08-28,11,,,,
 Q106009193,Egil Hulgaard,male,1962-03-30,11,,,,
 Q106009194,Mira Issa Bloch,female,1970-05-05,11,,,,
@@ -26,11 +28,53 @@ Q108305999,Anne Rasmussen,female,1971-04-14,11,,,,Anne Rasmussen (politician)
 Q108475469,Christina Thorholm,female,1964-08-11,11,,,,Christina Thorholm
 Q10853676,Marie Krarup,female,1965-12-06,11,,,,Marie Krarup
 Q10967294,Rasmus Jarlov,male,1977-04-29,11,,,20181011 Minister Rasmus Jarlov til Medicon Valley Alliance Årsmøde 2018 (43432112060) (cropped).jpg,Rasmus Jarlov
+Q110502287,Lars-Christian Brask,male,1963-05-25,11,,,Lars-Christian Brask 2022a.jpg,
 Q111411614,Brian Bressendorff,male,1987-11-24,11,,,Brian Bressendorff ved storstrømsbroen fabruar 2022.jpg,
+Q111699048,Mikkel Bjørn Sørensen,male,1995-10-19,11,,,,Mikkel Bjørn Sørensen
 Q111816743,Maria Gudme,female,1989-03-14,11,,,,
 Q112168489,Jan Bjergskov Larsen,male,1965-12-16,11,,,,
 Q11257352,Hans-Pavia Rosing,male,1948-06-22,11,2018-07-09,11,,Hans-Pavia Rosing
+Q112627089,Helle Bonnesen,female,1963-02-10,11,,,Helle bonnesen-e1633890004784-714x1024.jpg,
+Q112960298,Sigurd Agersnap,male,1993-03-03,11,,,Sigurd Agersnap 2022.jpg,
 Q113921,Frank Jensen,male,1961-05-28,11,,,Frank Jensen Mipim 20140312 1 (13119723535) (cropped).jpg,Frank Jensen
+Q114967087,Anna Falkenberg,female,1996,9,,,,Anna Falkenberg
+Q115011510,Kris Jensen Skriver,male,,,,,,
+Q115011642,Kenneth Fredslund Petersen,male,,,,,,
+Q115011721,Mette Kierkgaard,female,1972-05-03,11,,,,
+Q115011763,Helena Artmann Andresen,female,2001-09-26,11,,,,
+Q115012140,Sara Emil Baaring,female,,,,,,
+Q115012177,Thomas Skriver Jensen,male,,,,,,
+Q115012200,Kim Aas,male,,,,,,
+Q115012248,Rosa Eriksen,female,,,,,,
+Q115012411,Katrine Daugaard,female,,,,,,
+Q115013918,Charlotte Bagge Hansen,female,,,,,,
+Q115013935,Mike Villa Fonseca,male,,,,,,
+Q115013941,Susie Jessen,female,,,,,,
+Q115013955,Sandra Elisabeth Skalvig,female,,,,,,
+Q115013979,Sascha Faxe,female,1971-08-04,11,,,,
+Q115014515,Fie Hækkerup,female,,,,,,
+Q115014527,Matilde Powers,female,,,,,,
+Q115014541,Steffen W. Frølund,male,,,,,,
+Q115014546,Marianne Bigum,female,,,,,,
+Q115014561,Helene Liliendahl Brydensholt,female,1987-08-08,11,,,,
+Q115015687,Charlotte Munch,female,,,,,,
+Q115015717,Rasmus Lund-Nielsen,male,,,,,,
+Q115015934,Maria Durhuus,female,,,,,,
+Q115018501,Sólbjørg Jakobsen,female,1991-08-08,11,,,,Sólbjørg Jakobsen
+Q115018739,Betina Kastbjerg,female,,,,,,
+Q115018753,Lise Bertelsen,female,,,,,,
+Q115019333,Kristian Bøgsted,male,,,,,,
+Q115019351,Kristian Klarskov,male,,,,,,
+Q115019363,Kim Edberg Andersen,male,,,,,,
+Q115020069,Christina Olumeko,female,1996-11-26,11,,,,
+Q115020080,Alexander Ryle,male,,,,,,
+Q115020546,Louise Brown,female,,,,,,
+Q115020554,Thomas Monberg,male,,,,,,
+Q115020560,Jens Meilvang,male,,,,,,
+Q115020590,Tobias Grotkjær Elmstrøm,male,,,,,,
+Q115020598,Karin Liltorp,female,,,,,,
+Q115020616,Peter Have,male,,,,,,
+Q115020628,Nick Zimmermann,male,1994-08-30,11,,,,
 Q1159092,Dan Jørgensen,male,1975-06-12,11,,,Dan Jørgensen 0009.JPG,Dan Jørgensen
 Q11977892,Jakob Engel-Schmidt,male,1983-10-24,11,,,Jakob Engel Schmidt VUs Landsstævne 2008 (cropped).jpg,
 Q11978555,Jette Gottlieb,female,1948-09-23,11,,,,Jette Gottlieb
@@ -155,6 +199,7 @@ Q12319444,Jens Peter Vernersen,male,1947-05-03,11,,,,
 Q12319492,Jens Vibjerg,male,1949-02-01,11,,,,
 Q12319515,Jeppe Bruus,male,1978-04-20,11,,,,Jeppe Bruus Christensen
 Q12319528,Jeppe Mikkelsen,male,1991-02-01,11,,,RV-Mikkelsen.jpg,
+Q12319533,Jeppe Søe,male,1971-02-19,11,,,,
 Q12319603,Jes Lunde,male,1956-05-07,11,,,,
 Q12319626,Hans Jesper Helsø,male,1948-07-09,11,,,Jesper Helsø Galathea 3.jpg,Hans Jesper Helsø
 Q12319657,Jesper Petersen,male,1981-08-25,11,,,,Jesper Petersen (politician)
@@ -164,6 +209,7 @@ Q12319792,Joan Erlandsen,female,1943-07-07,11,,,Joan Erlandsen.jpg,
 Q12320116,Johannes Poulsen,male,1955-11-02,11,,,,
 Q12320166,John Dyrby Paulsen,male,1963-07-12,11,,,,John Dyrby Paulsen
 Q12320229,John Winther,male,1935-07-25,11,2017-12-22,11,,
+Q12320275,Jon Stephensen,male,1959-12-24,11,,,,
 Q12320283,Jonas Dahl,male,1978-02-26,11,,,Jonas Dahl 1. maj 2010.jpg,Jonas Dahl
 Q12320387,Joy Mogensen,female,1980-08-11,11,,,Joy Mogensen.jpg,Joy Mogensen
 Q12320473,Julie Rademacher,female,1984-04-14,11,,,,
@@ -442,10 +488,12 @@ Q29228030,Peder Hvelplund,male,1967-09-08,11,,,Peder Hvelplund 2000.jpg,Peder Hv
 Q29228107,Sanne Bjørn,female,1974-09-06,11,,,,
 Q293032,Óli Breckmann,male,1948-03-30,11,,,Breckmann.jpg,
 Q29337399,Klaus Markussen,male,1975-07-27,11,,,,
+Q29526362,Steffen Larsen,male,1983,9,,,,
 Q29563170,Kristian Hegaard,male,1991-01-18,11,,,,Kristian Hegaard
 Q2978598,Claus Hjort Frederiksen,male,1947-09-04,11,,,Claus Hjort Frederiksen 2.jpg,Claus Hjort Frederiksen
 Q29880936,Merete Scheelsbeck,female,1986-06-23,11,,,,
 Q299352,Lene Espersen,female,1965-09-26,11,,,Espersen 2009.png,Lene Espersen
+Q30091555,Henrik Hasling Frandsen,male,1961-02-08,11,,,,Henrik Frandsen
 Q3042869,Karen Ellemann,female,1969-08-26,11,,,"Karen Ellemann miljominister, minister for nordisk samarbejde Danmark.jpg",Karen Ellemann
 Q3078007,Søren Pind,male,1969-11-20,11,,,Søren Pind 2018 (cropped).jpg,Søren Pind
 Q3080572,Troels Lund Poulsen,male,1976-03-30,11,,,Troels Lund Poulsen Skamlingsbanken.jpg,Troels Lund Poulsen
@@ -503,6 +551,7 @@ Q463680,Astrid Krag,female,1982-11-17,11,,,Astrid Krag.jpg,Astrid Krag
 Q463721,Henriette Kjær,female,1966-05-03,11,,,,Henriette Kjær
 Q468034,Lars-Emil Johansen,male,1946-09-24,11,,,,Lars-Emil Johansen
 Q470000,Gitte Seeberg,female,1960-06-25,11,,,,Gitte Seeberg
+Q47500025,Frederik Vad Nielsen,male,1994-09-01,11,,,,
 Q47500034,Carl Valentin,male,1992-03-11,11,,,Carl Valentin i Folketingssalen foto William Vest-Lillesoe.jpg,Carl Valentin (politician)
 Q47786633,Harald Kjøller,male,1936-03-31,11,,,,
 Q48922678,Mette Thiesen,female,1981-12-20,11,,,Mette Thiesen 2020.png,Mette Thiesen
@@ -536,6 +585,7 @@ Q533361,Juliane Henningsen,female,1984-07-29,11,,,Juliane Henningsen (IA) supple
 Q544116,Lisbeth Petersen,female,1939-02-28,11,,,,Lisbeth L. Petersen
 Q546215,Morten Løkkegaard,male,1964-12-20,11,,,Morten Løkkegaard at Connect.Euranet debate on Erasmus+.jpg,Morten Løkkegaard
 Q546246,Jens Rohde,male,1970-04-18,11,,,Jens Rohde 2014.jpg,Jens Rohde
+Q55334143,Theresa Scavenius,female,1984-07-26,11,,,Theresa Birgitta Brønnum Scavenius.jpg,Theresa Scavenius
 Q55758754,Per Nørhave,male,1954-11-05,11,,,,
 Q5576850,Bjørn Bisserup,male,1960-04-13,11,,,Bjørn Bisserup.jpg,Bjørn Bisserup
 Q558865,Naser Khader,male,1963-07-01,11,,,Naser Khader-2011-09-09.jpg,Naser Khader
@@ -549,18 +599,21 @@ Q57652,Helle Thorning-Schmidt,female,1966-12-14,11,,,Thorning-Schmidt.jpg,Helle 
 Q5773186,Henning Grove,male,1932-04-07,11,2014-05-09,11,,
 Q5798203,Svend Heiselberg,male,1935-05-11,11,,,,
 Q58119,Villy Søvndal,male,1952-04-04,11,,,Danmarks utrikesminister Villy Soevndahl vid Nordiska Radets session 2011 i Kopenhamn.jpg,Villy Søvndal
+Q58455083,Nanna W. Gotfredsen,female,1969-03-11,11,,,,
 Q5994609,Helge Mortensen,male,1941-05-09,11,,,,
 Q603028,Helge Sander,male,1950-08-27,11,,,Helge-Sander-Galathea-tale crop.jpg,Helge Sander
 Q60663160,Malou Lunderød,female,1986-10-13,11,,,,
 Q60663377,Øjvind Vilsholm,male,1967-06-03,11,,,,
 Q60665633,Julius Graakjær Grantzau,male,1983-05-10,11,,,,
 Q60830783,Karen Touborg Hansen,female,1972-04-19,11,,,,
+Q61059727,Franciska Rosenkilde,female,1976-03-19,11,,,,Franciska Rosenkilde
 Q6185850,Jesper Langballe,male,1939-08-31,11,2014-03-15,11,,Jesper Langballe
 Q62056697,Marie Bjerre,female,1986-05-06,11,,,,Marie Bjerre
+Q64076366,Linea Søgaard-Lidell,female,1987-03-30,11,,,,Linea Søgaard-Lidell
 Q64415132,Aki-Matilda Høegh-Dam,female,1996-10-17,11,,,,Aki-Matilda Høegh-Dam
 Q64417294,Bjørn Brandenborg,male,1991-12-10,11,,,,Bjørn Brandenborg
 Q64417364,Marlene Ambo-Rasmussen,female,1986-03-14,11,,,,Marlene Ambo-Rasmussen
-Q64417468,Victoria Velásquez,female,1991-07-18,11,,,,Victoria Velasquez
+Q64417468,Victoria Velásquez,female,1991-07-18,11,,,,Victoria Velásquez
 Q64417960,Anne Honoré Østergaard,female,1981-01-24,11,,,,Anne Honoré Østergaard
 Q64418141,Susanne Zimmer,female,1960-06-09,11,,,,Susanne Zimmer
 Q64427892,Niels Flemming Hansen,male,1974-05-16,11,,,,Niels Flemming Hansen

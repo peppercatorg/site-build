@@ -3086,6 +3086,7 @@ Denmark,Q10853676,Marie Krarup,sibling,Q12321586,Katrine Winkel Holm
 Denmark,Q11257352,Hans-Pavia Rosing,father,Q45373933,Nikolaj Rosing
 Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q23906043,Christian Rosing
 Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q52709911,Peter Frederik Rosing
+Denmark,Q112960298,Sigurd Agersnap,mother,Q12315171,Hanne Agersnap
 Denmark,Q11989208,Mette Bock,father,Q6090650,Ole Samuelsen
 Denmark,Q11989208,Mette Bock,sibling,Q491263,Anders Samuelsen
 Denmark,Q12004862,Søren Pape Poulsen,spouse,Q113883343,Josue Medina Vasquez Poulsen
@@ -3110,6 +3111,9 @@ Denmark,Q12318947,Jakob Ellemann-Jensen,father,Q698080,Uffe Ellemann-Jensen
 Denmark,Q12318947,Jakob Ellemann-Jensen,mother,Q12301035,Alice Vestergaard
 Denmark,Q12318947,Jakob Ellemann-Jensen,sibling,Q3042869,Karen Ellemann
 Denmark,Q12319302,Jens Henrik Thulesen Dahl,sibling,Q4992021,Kristian Thulesen Dahl
+Denmark,Q12319533,Jeppe Søe,father,Q12332153,Poul Erik Søe
+Denmark,Q12319533,Jeppe Søe,sibling,Q12338174,Synnøve Søe
+Denmark,Q12320275,Jon Stephensen,relative,Q12315016,Hakon Stephensen
 Denmark,Q12321352,Karina Adsbøl,father,Q63762586,Hans Erik Adsbøl
 Denmark,Q12322095,Klaus Hækkerup,child,Q12330081,Ole Hækkerup
 Denmark,Q12322095,Klaus Hækkerup,child,Q645613,Nick Hækkerup
@@ -3367,12 +3371,12 @@ El Salvador,Q61022687,"Félix Ulloa, Jr.",father,Q2880716,Félix Antonio Ulloa
 Equatorial Guinea,Q103916282,Victoriano Bibang Nsue Okomo,sibling,Q45147779,Constancia Mangue
 Equatorial Guinea,Q104702792,Mari-Cruz Evuna Andeme,father,Q112162958,Alejandro Evuna Owono Asangono
 Equatorial Guinea,Q104702792,Mari-Cruz Evuna Andeme,sibling,Q112195300,Miguel Ntutumu Evuna Andeme
-Equatorial Guinea,Q112162550,Cándido Nsue Okomo,sibling,Q45147779,Constancia Mangue
+Equatorial Guinea,Q112162550,Cándido Nsue,sibling,Q45147779,Constancia Mangue
 Equatorial Guinea,Q112162958,Alejandro Evuna Owono Asangono,child,Q104702792,Mari-Cruz Evuna Andeme
 Equatorial Guinea,Q112195300,Miguel Ntutumu Evuna Andeme,sibling,Q104702792,Mari-Cruz Evuna Andeme
 Equatorial Guinea,Q45042829,Gabriel Mbega,father,Q57385,Teodoro Obiang
 Equatorial Guinea,Q45147779,Constancia Mangue,child,Q477201,Teodoro Nguema
-Equatorial Guinea,Q45147779,Constancia Mangue,sibling,Q112162550,Cándido Nsue Okomo
+Equatorial Guinea,Q45147779,Constancia Mangue,sibling,Q112162550,Cándido Nsue
 Equatorial Guinea,Q45147779,Constancia Mangue,spouse,Q57385,Teodoro Obiang
 Equatorial Guinea,Q45320454,Filiberto Ntutumu Nguema,father,Q211936,Francisco Macías Nguema
 Equatorial Guinea,Q477201,Teodoro Nguema,father,Q57385,Teodoro Obiang
@@ -3759,7 +3763,7 @@ European Union,Q12946,Michel Rocard,child,Q3081663,Francis Rocard
 European Union,Q12946,Michel Rocard,father,Q325711,Yves Rocard
 European Union,Q12946,Michel Rocard,spouse,Q50384376,Geneviève Poujol
 European Union,Q1294674,Tibor Szanyi,father,Q15121171,Jenő Szanyi
-European Union,Q12963,François Bayrou,child,Q48223191,Agnès Bayrou
+European Union,Q12963,François Bayrou,child,Q48223191,Agnès Bayrou-Louis
 European Union,Q12978,Guy Verhofstadt,sibling,Q1998566,Dirk Verhofstadt
 European Union,Q12983,Herman Van Rompuy,child,Q3140213,Peter Van Rompuy
 European Union,Q12983,Herman Van Rompuy,father,Q59544808,Vic Van Rompuy
@@ -4863,7 +4867,7 @@ France,Q12946,Michel Rocard,child,Q3081663,Francis Rocard
 France,Q12946,Michel Rocard,father,Q325711,Yves Rocard
 France,Q12946,Michel Rocard,spouse,Q50384376,Geneviève Poujol
 France,Q12957,Raymond Barre,spouse,Q48991121,Eve Barre
-France,Q12963,François Bayrou,child,Q48223191,Agnès Bayrou
+France,Q12963,François Bayrou,child,Q48223191,Agnès Bayrou-Louis
 France,Q131660,Dominique de Villepin,child,Q109829632,Victoire de Villepin
 France,Q131660,Dominique de Villepin,child,Q109829671,Arthur de Villepin
 France,Q131660,Dominique de Villepin,child,Q3292808,Marie de Villepin
@@ -5198,6 +5202,8 @@ France,Q3167390,Jean-Marc Germain,child,Q59781938,Arthur Germain
 France,Q3167390,Jean-Marc Germain,partner,Q2851133,Anne Hidalgo
 France,Q3167390,Jean-Marc Germain,relative,Q109781211,Mary Hidalgo
 France,Q3167390,Jean-Marc Germain,spouse,Q2851133,Anne Hidalgo
+France,Q3167857,Jean-Marie Vanlerenberghe,child,Q30349307,Isabelle Florennes
+France,Q3167857,Jean-Marie Vanlerenberghe,sibling,Q113897099,Pierre Vanlerenberghe
 France,Q3167954,Jean-Michel Blanquer,father,Q48224178,Roland Blanquer
 France,Q3167954,Jean-Michel Blanquer,spouse,Q2850470,Anna Cabana
 France,Q3167954,Jean-Michel Blanquer,spouse,Q48224954,Sophie de Puybaudet
@@ -5207,6 +5213,7 @@ France,Q3168651,Jean-Paul Planchou,spouse,Q452131,Nicole Bricq
 France,Q3168709,Jean-Paul Virapoullé,child,Q63766250,Jean-Marie Virapoullé
 France,Q3168709,Jean-Paul Virapoullé,sibling,Q3263296,Louis Virapoullé
 France,Q3169552,Jean-Pierre Marcon,sibling,Q3455759,Régis Marcon
+France,Q3169778,Jean-Pierre Sueur,child,Q33182270,Catherine Sueur
 France,Q3170787,Jean Bizet,father,Q3588352,Émile Bizet
 France,Q3171170,Jean Castex,spouse,Q97015109,Sandra Ribelaygue
 France,Q3172386,Jean Grenet,father,Q2425277,Henri Grenet
@@ -6193,7 +6200,7 @@ Greece,Q7179073,Petros Efthymiou,sibling,Q63959316,Maria Efthymiou
 Greece,Q7786625,Thodoris Dritsas,spouse,Q24702508,Tasia Christodoulopoulou
 Greece,Q7916956,Vassilis Kikilias,spouse,Q25345997,Jenny Balatsinou
 Greece,Q7943966,Viron Polydoras,sibling,Q105191732,Αντώνιος Πολύδωρας
-Greece,Q85557267,Katerina Monogyiou,sibling,Q110553795,Tzortzis
+Greece,Q85557267,Katerina Monogyiou,sibling,Q110553795,Tzortzis Monoguios
 Greece,Q929413,Giorgos Papakonstantinou,relative,Q983656,Michalis Papakonstantinou
 Greenland,Q107716061,Kirsten L. Fencker,spouse,Q112665333,Nino Fencker
 Greenland,Q2196317,Asii Chemnitz Narup,father,Q62841539,Kaj Narup
@@ -7524,6 +7531,7 @@ Indonesia,Q12499835,Nafsiah Mboi,spouse,Q12475663,Ben Mboi
 Indonesia,Q12501020,Nurdin Tampubolon,child,Q112739152,Randy Monthonaro Tampubolon
 Indonesia,Q12501020,Nurdin Tampubolon,child,Q96987974,Sondang Tiar Debora Tampubolon
 Indonesia,Q12501035,Nurul Arifin,spouse,Q97363554,Mayong Suryo Laksono
+Indonesia,Q12501197,Oesman Sapta Odang,child,Q12507742,Raja Sapta Oktohari
 Indonesia,Q12506342,Pramono Anung,child,Q107564265,Hanindhito Himawan Pramana
 Indonesia,Q12515517,Titiek Suharto,child,Q17410486,Didit Hediprasetyo
 Indonesia,Q12515517,Titiek Suharto,father,Q44819,Suharto
@@ -8446,6 +8454,9 @@ Italy,Q3766565,Giovanni Battista Bachelet,father,Q4015280,Vittorio Bachelet
 Italy,Q3768072,Giovanni Russo,child,Q108923563,Marco Russo
 Italy,Q3768072,Giovanni Russo,sibling,Q3659814,Carlo Russo
 Italy,Q3768253,Giovanni Toti,spouse,Q3962032,Siria Magri
+Italy,Q3770350,Giuseppe Consolo,child,Q529646,Nicoletta Romanoff
+Italy,Q3770350,Giuseppe Consolo,child,Q75324774,Enzo-Manfredi Consolo
+Italy,Q3770350,Giuseppe Consolo,spouse,Q75391730,"Nataliya Romanov, Princess Romanova"
 Italy,Q3827827,Laura Pennacchi,sibling,Q604061,Antonio Pennacchi
 Italy,Q3827834,Laura Ravetto,spouse,Q3702604,Dario Ginefra
 Italy,Q3839817,Luigi Manconi,spouse,Q1115871,Bianca Berlinguer
@@ -10039,6 +10050,7 @@ Netherlands,Q2800973,Judith Belinfante,father,Q54860642,Guus Belinfante
 Netherlands,Q2851980,Pia Dijkstra,spouse,Q3059448,Gerlach Cerfontaine
 Netherlands,Q28549638,Anne Kuik,spouse,Q101627136,Paul de Rook
 Netherlands,Q288283,Femke Halsema,partner,Q26916277,Robert Oey
+Netherlands,Q28860676,Peter Nicolaï,child,Q114980087,Mia Nicolai
 Netherlands,Q28860873,Antje Diertens,spouse,Q28839256,Philip Wagner
 Netherlands,Q28860996,Sophie Hermans,father,Q1966582,Loek Hermans
 Netherlands,Q28860996,Sophie Hermans,sibling,Q106823826,Caroliene Hermans
@@ -10161,6 +10173,7 @@ New Zealand,Q4451134,Te Ururoa Flavell,relative,Q104668231,Ranginui Parewahawaha
 New Zealand,Q466137,Georgina Beyer,father,Q5144886,Colin Beyer
 New Zealand,Q4706207,Alan Bollard,father,Q17418389,Ted Bollard
 New Zealand,Q485733,Anand Satyanand,spouse,Q96124270,Susan Satyanand
+New Zealand,Q4933595,Bob Parker,spouse,Q115047243,Joanna Nicholls-Parker
 New Zealand,Q4937607,Maggie Barry,relative,Q112727699,Bernie Monk
 New Zealand,Q515624,Jerry Mateparae,spouse,Q104938986,Raewyn Mateparae
 New Zealand,Q515624,Jerry Mateparae,spouse,Q104939039,Janine Mateparae
@@ -10700,6 +10713,7 @@ Norway,Q527177,Trond Giske,mother,Q17063702,Norunn Illevold Giske
 Norway,Q527177,Trond Giske,sibling,Q17063676,Mari Giske
 Norway,Q527177,Trond Giske,spouse,Q465772,Haddy Njie
 Norway,Q5273847,Masud Gharahkhani,father,Q5273782,Bijan Gharahkhani
+Norway,Q5273980,Astrid Huitfeldt,father,Q114967015,Iver Huitfeldt
 Norway,Q5273980,Astrid Huitfeldt,sibling,Q156540,Anniken Huitfeldt
 Norway,Q5273980,Astrid Huitfeldt,sibling,Q74189252,Anders Huitfeldt
 Norway,Q5274541,Magnhild Mathisen,child,Q5274599,Anders Mathisen
@@ -13069,6 +13083,7 @@ South Korea,Q12616590,Cho Kuk,spouse,Q72291512,Chung Kyung-shim
 South Korea,Q12617992,Ji Sang-wuk,father,Q59299044,지성한
 South Korea,Q12617992,Ji Sang-wuk,spouse,Q489874,Shim Eun-ha
 South Korea,Q12619482,Choi Kyu-Sung,spouse,Q12610901,이경숙
+South Korea,Q12622026,Pyo Chang-won,sibling,Q115039848,Chang-Hae Pyo
 South Korea,Q138048,Park Geun-hye,father,Q14356,Park Chung-hee
 South Korea,Q138048,Park Geun-hye,mother,Q390099,Yuk Young-soo
 South Korea,Q138048,Park Geun-hye,sibling,Q20859562,Park Jae-ok
@@ -14071,6 +14086,8 @@ Sweden,Q6193394,Stefan Strömberg,father,Q101084352,Bengt Strömberg
 Sweden,Q6196549,Anders Sundström,partner,Q67207189,Anna Hallberg
 Sweden,Q6212472,Gudmund Toijer,father,Q19885747,Nils Nilsson
 Sweden,Q6212472,Gudmund Toijer,mother,Q4983037,Ying Toijer-Nilsson
+Sweden,Q6224631,Dag Victor,father,Q114987051,Frans Victor
+Sweden,Q6224631,Dag Victor,relative,Q114986112,Jerker Victor
 Sweden,Q6240455,Markus Wiechel,mother,Q4968951,Kristina Narfström
 Sweden,Q6254715,Martin Ådahl,father,Q26463598,Andreas Ådahl
 Sweden,Q6255956,Per Åsling,father,Q6255950,Nils G. Åsling
@@ -16588,6 +16605,7 @@ United Kingdom,Q1984928,"Nicholas Trench, 9th Earl of Clancarty",child,Q76311149
 United Kingdom,Q1984928,"Nicholas Trench, 9th Earl of Clancarty",father,Q75337178,Power Edward Ford Le Poer Trench
 United Kingdom,Q1984928,"Nicholas Trench, 9th Earl of Clancarty",mother,Q75337180,Jocelyn Louise Courteney
 United Kingdom,Q1984928,"Nicholas Trench, 9th Earl of Clancarty",spouse,Q76311148,Victoria Lambert
+United Kingdom,Q19870758,Caroline Ansell,spouse,Q115017647,Nick Ansell
 United Kingdom,Q19871710,Richard Burgon,relative,Q337923,Colin Burgon
 United Kingdom,Q19871710,Richard Burgon,relative,Q62273363,Kathryn Stainburn
 United Kingdom,Q19872361,Jo Cox,sibling,Q107009776,Kim Leadbeater
@@ -20547,6 +20565,7 @@ United States,Q1077594,Chris Murphy,spouse,Q113683971,Cathy Holahan
 United States,Q1077819,Chris Van Hollen,father,Q15993599,Christopher Van Hollen
 United States,Q1077819,Chris Van Hollen,mother,Q104036929,Edith Eliza Farnsworth
 United States,Q1077819,Chris Van Hollen,sibling,Q114896378,Cecilia Coale Van Hollen
+United States,Q107984823,Scott Miller,spouse,Q92917,Tim Gill
 United States,Q10853588,Kamala Harris,father,Q60894135,Donald J. Harris
 United States,Q10853588,Kamala Harris,mother,Q60844968,Shyamala Gopalan
 United States,Q10853588,Kamala Harris,relative,Q102055307,Sharada Balachandran Orihuela
@@ -21538,6 +21557,29 @@ United States,Q616305,Cecilia Rouse,relative,Q72334,Toni Morrison
 United States,Q616305,Cecilia Rouse,sibling,Q48821646,Carolyn Rouse
 United States,Q618727,Thomas E. Donilon,father,Q106150010,Edward T. Donilon
 United States,Q618727,Thomas E. Donilon,sibling,Q6846591,Mike Donilon
+United States,Q6193704,Jim Bob Duggar,child,Q110086827,Caleb Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q110087135,Jubilee Shalom Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q110132391,Joseph Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q110132537,Josiah Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q110132641,Jedidiah Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q110132773,Jeremiah Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q110132854,Jason Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q110132983,Justin Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q110133125,Jordyn Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q18378893,Jill Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q19282024,Jessa Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q19975809,Josh Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q46520871,Joy-Anna Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q47492898,Jinger Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q56224104,Jana Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q56279785,John-David Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q59317466,Jackson Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q59342386,Jennifer Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q59354830,Johannah Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q61010215,Josie Duggar
+United States,Q6193704,Jim Bob Duggar,child,Q61984559,James Duggar
+United States,Q6193704,Jim Bob Duggar,father,Q107334054,Jimmy Lee Duggar
+United States,Q6193704,Jim Bob Duggar,spouse,Q59591803,Michelle Duggar
 United States,Q6228998,Zach Wahls,mother,Q16186938,Terry Wahls
 United States,Q623395,Richard Armitage,child,Q77049766,Lee Armitage
 United States,Q6247018,John Marty,father,Q6152541,Martin E. Marty

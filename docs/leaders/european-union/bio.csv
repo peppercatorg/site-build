@@ -88,7 +88,7 @@ Q1118884,Jean-Maurice Dehousse,male,1936-10-11,11,,,,Jean-Maurice Dehousse
 Q1120020,Béla Kovács,male,1960-02-25,11,,,,"Béla Kovács (politician, 1960)"
 Q112130382,Max Orville,male,1962-06-19,11,,,,Max Orville
 Q11213537,Kārlis Šadurskis,male,1959-10-11,11,,,Flickr - Saeima - 10.Saeimas deputāts Kārlis Šadurskis.jpg,Kārlis Šadurskis
-Q112652864,Marina Mesure,female,1989-07-12,11,,,Marina Mesure.jpg,Marina Mesure
+Q112652864,Marina Mesure,female,1989-07-12,11,,,,Marina Mesure
 Q112654296,Éric Minardi,male,1956-03-18,11,,,EricMINARDI.jpg,Éric Minardi
 Q11266281,Margaritis Schinas,male,1962-07-28,11,,,"EPP Summit, Maastricht, October 2016 (30154973070) (cropped).jpg",Margaritis Schinas
 Q11289261,Ricardo Cortés Lastra,male,1969-09-23,11,,,Ricardo Cortés Lastra.jpg,Ricardo Cortés Lastra
@@ -102,6 +102,11 @@ Q114290,Karin Kadenbach,female,1958-04-19,11,,,Karin Kadenbach.JPG,Karin Kadenba
 Q114363384,Matthias Ecke,male,1983-04-12,11,,,,
 Q114667,Sarah Wiener,female,1962-08-27,11,,,Geheimniskrämer - 2018-01-26-2061 (cropped).jpg,Sarah Wiener
 Q1148719,Luigi de Magistris,male,1967-06-20,11,,,Luigi de Magistris.jpg,Luigi de Magistris (politician)
+Q115055904,Maria Angela Danzì,female,1957-07-05,11,,,,
+Q115055962,Elisabetta De Blasis,female,1974-04-30,11,,,,
+Q115056338,Matteo Gazzini,male,1985-07-09,11,,,,
+Q115056412,Paola Ghidoni,female,1963-07-08,11,,,,
+Q115056535,Domenico Denis Nesci,male,,,,,,
 Q115084,Hella Ranner,female,1951-05-10,11,,,,Hella Ranner
 Q1158440,Damian Drăghici,male,1970-03-31,11,,,Damian Drăghici (cropped).jpg,Damian Drăghici
 Q1159092,Dan Jørgensen,male,1975-06-12,11,,,Dan Jørgensen 0009.JPG,Dan Jørgensen
@@ -978,7 +983,7 @@ Q2606822,Alexander Italianer,male,1956-03-16,11,,,Presidential Council of the Na
 Q261120,Margrete Auken,female,1945-01-06,11,,,"Auken, Margrete-2393.jpg",Margrete Auken
 Q2612400,"Nicholas Bethell, 4th Baron Bethell",male,1938-07-19,11,2007-09-08,11,,"Nicholas Bethell, 4th Baron Bethell"
 Q261709,Maria Damanaki,female,1952-10-18,11,,,Maria Damanaki (cropped).jpg,Maria Damanaki
-Q2617559,Tonino Picula,male,1961-08-31,11,,,Tonino picula.jpg,Tonino Picula
+Q2617559,Tonino Picula,male,1961-08-31,11,,,Tonino Picula MEP.jpg,Tonino Picula
 Q262719,Androula Vassiliou,female,1943-11-30,11,,,Androulla Vassiliou.jpg,Androulla Vassiliou
 Q2629028,Panos Beglitis,male,1957-02-25,11,,,Panagiotis Beglitis.jpg,Panagiotis Beglitis
 Q2632117,Aleksandrs Mirskis,male,1964-03-20,11,,,Flickr - Saeima - 9.Saeimas deputāts Aleksandrs Mirskis.jpg,Alexander Mirsky
@@ -988,6 +993,7 @@ Q264802,Monica Frassoni,female,1963-09-10,11,,,Monica Frassoni 2019 (cropped).jp
 Q2648073,Michel Hansenne,male,1940-03-23,11,,,,Michel Hansenne
 Q264823,Satu Hassi,female,1951-06-03,11,,,"Satu Hassi, Finland-MIP-Europaparlament-by-Leila-Paul-1.jpg",Satu Hassi
 Q265277,Kristalina Georgieva,female,1953-08-13,11,,,Kristalina Georgieva Headshot.jpg,Kristalina Georgieva
+Q265479,Achille Variati,male,1953-01-19,11,,,Variatisindaco.jpg,Achille Variati
 Q2655763,Alessandro Battilocchio,male,1977-05-03,11,,,Alessandro Battilocchio daticamera 2018.jpg,Alessandro Battilocchio
 Q266208,Kinga Göncz,female,1947-11-08,11,,,Kinga Göncz Senate of Poland.JPG,Kinga Göncz
 Q2662771,Inese Vaidere,female,1952-09-03,11,,,Vaidere Inese 2014-02-05 2.jpg,Inese Vaidere
@@ -2095,7 +2101,7 @@ Q6082822,Niyazi Kızılyürek,male,1959-12-07,11,,,F70A8819 (48863661448).jpg,Ni
 Q6096116,Ivan David,male,1952-09-24,11,,,Ivan David 2019.jpg,Ivan David
 Q610355,Jan Kułakowski,male,1930-08-25,11,2011-06-25,11,Jan Kulakowski by Kubik.JPG,Jan Kułakowski
 Q61062718,Mislav Kolakušić,male,1969-09-15,11,,,,Mislav Kolakušić
-Q610788,António Costa,male,1961-07-17,11,,,António Costa img 6536.jpg,António Costa
+Q610788,António Costa,male,1961-07-17,11,,,2022 - On the floor SZ9 6059 (52471866651) (cropped).jpg,António Costa
 Q611182,António Marinho e Pinto,male,1950-09-10,11,,,António Marinho e Pinto (entrevista com Rúben Branco) (cropped).png,António Marinho e Pinto
 Q6120507,Jacques Colombier,male,1952-02-17,11,,,,Jacques Colombier
 Q613178,Karim Zéribi,male,1966-09-25,11,,,,Karim Zéribi
@@ -2336,6 +2342,7 @@ Q64952500,Tom Vandendriessche,male,1978-10-27,11,,,Tom Vandendriessche.jpg,Tom V
 Q64995541,Kostas Arvanitis,male,1964-06-09,11,,,Konstantinos Arvanitis (48836562242).jpg,Kostas Arvanitis
 Q65006911,Estrella Durá Ferrandis,female,1963-09-22,11,,,,Estrella Durá
 Q65013040,Matteo Adinolfi,male,1963-12-24,11,,,,Matteo Adinolfi
+Q65030622,Eleni Stavrou,female,1975-07-04,11,,,,Eleni Stavrou
 Q65058344,Lara Wolters,female,1986-04-12,11,,,Lara Wolters - 2020 (49638711608).jpg,Lara Wolters
 Q651719,Brian Crowley,male,1964-03-04,11,,,Brian-Crowley-Ireland-MIP-Europaparlament-by-Leila-Paul-2.jpg,Brian Crowley
 Q6527046,Leopold Rutowicz,male,1932-10-18,11,,,,Leopold Rutowicz
@@ -2863,7 +2870,7 @@ Q952635,Wim van de Camp,male,1953-07-27,11,,,"Camp, Wim van de-9740.jpg",Wim van
 Q952646,Dennis de Jong,male,1955-05-22,11,,,SP kandidaten EU verkiezing 2014 (1) Dennis de Jong.jpg,Dennis de Jong
 Q95269,Werner Schulz,male,1950-01-22,11,,,Flickr - boellstiftung - Strategiedebatte (5).jpg,Werner Schulz
 Q953376,Giles Chichester,male,1946-07-29,11,,,,Giles Chichester
-Q954006,Jean-Paul Garraud,male,1956-02-27,11,,,Jean-Paul GARRAUD.jpg,Jean-Paul Garraud
+Q954006,Jean-Paul Garraud,male,1956-02-27,11,,,,Jean-Paul Garraud
 Q954270,József Ékes,male,1951-08-15,11,,,,József Ékes
 Q95516,Joachim Zeller,male,1952-07-01,11,,,Joachim Zeller (Martin Rulsch) 2.jpg,Joachim Zeller
 Q95558,Sabine Wils,female,1959-05-31,11,,,Wils Sabine 2014-02-04 2.jpg,Sabine Wils

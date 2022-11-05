@@ -430,7 +430,6 @@ Q10916417,叶瑜,female,1986,9,,,,
 Q10916467,Ye Yingchun,female,1970-01-23,11,,,,Ye Yingchun
 Q10916472,叶金生,male,1947,9,,,,
 Q10916482,叶露昆,male,1955,9,,,,
-Q10916486,叶顺兴,female,1953,9,,,,
 Q10916507,司启富,male,1960,9,,,,
 Q10916516,司富春,male,1963,9,,,,
 Q10916566,Si Xianmin,male,1957,9,,,,Si Xianmin
@@ -1642,7 +1641,7 @@ Q11177678,黄格胜,male,1950,9,,,,
 Q11177700,黄梅 (学者),,1950,9,,,,
 Q11177805,黄永俭,,1958,9,,,,
 Q11177927,黄济人,,1947,9,,,,
-Q11177935,黄海 (中共官员),,1947,9,,,,
+Q11177935,Huang Hai,,1947,9,,,,
 Q11177939,黄海燕,female,1980,9,,,,
 Q11177950,Huang Runqiu,male,1963-08,10,,,,Huang Runqiu
 Q11177990,Joseph Huang Bingzhang,male,1967-01,10,,,,Joseph Huang Bingzhang
@@ -1691,6 +1690,7 @@ Q1134304,Dai Bingguo,male,1941-03-31,11,,,Dai Bingguo 051208-D-9880W-068.jpg,Dai
 Q113652,Richard Frey,male,1920-02-11,11,2004-11-16,11,Richard Frey-1.jpg,Richard Frey
 Q1138806,Meng Xuenong,male,1949-08-08,11,,,,Meng Xuenong
 Q113903333,區永熙,male,1957,9,,,,
+Q113903363,葉順興,female,1953,9,,,,
 Q11573090,Wang Zhenguo,male,1954,9,,,,
 Q11643929,Zheng Shenxia,male,1942,9,,,,
 Q11728457,Joseph Liu Yuanren,male,1923-03-16,11,2005-04-20,11,,Joseph Liu Yuanren
@@ -1742,7 +1742,7 @@ Q15029,Hu Jintao,male,1942-12-21,11,,,Hu Jintao at White House 2011.jpg,Hu Jinta
 Q15031,Xi Jinping,male,1953-06-15,11,,,Xi Jinping 2019 (49060546152) 2.jpg,Xi Jinping
 Q150903,Gong Li,female,1965-12-31,11,,,Gong Li Cannes 2016.jpg,Gong Li
 Q15119887,Wang Huayong,male,1955-09,10,,,,Wang Huayong
-Q1522171,Martin Liao,male,1957,9,,,Pro-establishment-legislators-vow-to-block-oath (cropped).jpg,Martin Liao
+Q1522171,Martin Liao,male,1957-09-12,11,,,Pro-establishment-legislators-vow-to-block-oath (cropped).jpg,Martin Liao
 Q1522364,Ng Leung-sing,male,1949-07-11,11,,,,Ng Leung-sing
 Q1526821,Wang Hongzhang,male,1954-07,10,,,,Wang Hongzhang
 Q15294969,Zhang Ping,male,1953-11,10,,,,Zhang Ping (writer)
@@ -2855,7 +2855,7 @@ Q16906560,罗朝阳,,1963,9,,,,
 Q16906565,罗殿龙,male,1952,9,,,,
 Q16906568,罗玉平,,1966,9,,,,
 Q16906569,罗祖亮,male,1957,9,,,,
-Q16906570,罗红江,male,1962,9,,,,Luo Hongjiang
+Q16906570,Luo Hongjiang,male,1962,9,,,,Luo Hongjiang
 Q16906572,罗美元,,1956,9,,,,
 Q16906574,罗群辉,,1961,9,,,,
 Q16906576,罗胜联,,1962,9,,,,
@@ -2879,7 +2879,7 @@ Q16906611,Geng Liang,male,1948,9,,,,
 Q16906612,耿其昌,,1947,9,,,,
 Q16906614,耿加怀,,1950,9,,,,
 Q16906615,耿学梅,female,1964,9,,,,
-Q16906616,耿建明,,1962,9,,,,
+Q16906616,Geng Jianming,,1962,9,,,,
 Q16906617,耿怀英,,1950,9,,,,
 Q16906619,耿承辉,,1966,9,,,,
 Q16906620,聂启明,,1953,9,,,,
@@ -3516,7 +3516,7 @@ Q16907790,陆启洲,,1951,9,,,,
 Q16907794,陆忠伟,,1953,9,,,,
 Q16907796,Lu Wucheng,male,1953-05,10,,,,Lu Wucheng
 Q16907797,陆永兰,,1974,9,,,,
-Q16907798,陆治原,male,1964,9,,,,
+Q16907798,Lu Zhiyuan,male,1964,9,,,,
 Q16907799,陆海霞,,1963,9,,,,
 Q16907802,陆琴,,1971,9,,,,
 Q16907808,陈万达,,1963,9,,,,
@@ -3839,7 +3839,7 @@ Q16908378,黄维义,,1951,9,,,,
 Q16908379,黄美缘,,1953,9,,,,
 Q16908380,黄荣,,1960,9,,,,
 Q16908400,龙新南,,1955,9,,,,
-Q16908401,龙芳,,1975,9,,,,
+Q16908401,Long Fang,,1975,9,,,,
 Q16908402,Gong Qinggai,male,1958,9,,,,Gong Qinggai
 Q16908403,龚玲,,1958,9,,,,
 Q16908404,龚瑶琴,,1961,9,,,,
@@ -4827,7 +4827,7 @@ Q30946319,Leonie Ki Man Fung,female,1947,9,,,紀文鳳.jpg,
 Q30946458,董震,,1963,9,,,,
 Q30946844,Wang Aiguo,,1965,9,,,,
 Q30946937,田伟,,1967,9,,,,
-Q30947027,Dou Xiankang,,1966,9,,,,
+Q30947027,Dou Xiankang,male,1966,9,,,,Dou Xiankang
 Q30947157,冀国强,male,1965,9,,,,
 Q30947284,Sun Wei,male,1961,9,,,,Sun Wei (born 1961)
 Q30947581,黎虹,,1930,9,,,,
@@ -7171,7 +7171,7 @@ Q9110107,刀述仁,male,1935,9,,,,
 Q9110202,Liu Congqiang,,1955-09,10,,,,
 Q9110240,刘丽,female,1980,9,,,,
 Q9110271,刘云文,,1960,9,,,,
-Q9110338,Liu Junchen,male,1963,9,,,,
+Q9110338,Liu Junchen,male,1963,9,,,,Liu Junchen
 Q9110376,Liu Guanglei,male,1954,9,,,,
 Q9110434,刘凤海,,1957,9,,,,
 Q9110451,Liu Kaixin,,1956,9,2015-12-09,11,,
@@ -7910,7 +7910,7 @@ Q9326475,罗进,,1976,9,,,,
 Q9326753,Lo Suk-ching,male,1950-06-22,11,,,,Lo Suk-ching
 Q9327332,Law Cheung-kwok,male,1949-09-26,11,,,,Law Cheung-kwok
 Q9328055,翟志海,male,1962,9,,,,
-Q9328246,耿昭杰,male,1935,9,,,,
+Q9328246,Geng Zhaojie,male,1935,9,,,,
 Q9328266,聂文权,,1949,9,,,,
 Q9328394,肖伟,,1959,9,,,,
 Q9328433,Xiao Zuofu,male,1939,9,,,,
@@ -7954,7 +7954,7 @@ Q9336539,蒋省三,,1953,9,,,,
 Q9336707,蓝伶俐,female,1976,9,,,,
 Q9336731,Lan Shaomin,male,1964-01,10,,,,Lan Shaomin
 Q9337317,蔡战胜,,1973,9,,,,
-Q9337396,Cai Fang,male,1956-09,10,,,,
+Q9337396,Fang Cai,male,1956,9,,,,
 Q9337557,Cai Yi,,1960,9,,,,
 Q9337704,蔡玲,,1964-12,10,,,,
 Q9337848,蔡继明,male,1956-01-29,11,,,,

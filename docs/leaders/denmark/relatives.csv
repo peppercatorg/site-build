@@ -28,6 +28,7 @@ Denmark,Q10853676,Marie Krarup,sibling,Q12321586,Katrine Winkel Holm
 Denmark,Q11257352,Hans-Pavia Rosing,father,Q45373933,Nikolaj Rosing
 Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q23906043,Christian Rosing
 Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q52709911,Peter Frederik Rosing
+Denmark,Q112960298,Sigurd Agersnap,mother,Q12315171,Hanne Agersnap
 Denmark,Q11989208,Mette Bock,father,Q6090650,Ole Samuelsen
 Denmark,Q11989208,Mette Bock,sibling,Q491263,Anders Samuelsen
 Denmark,Q12004862,Søren Pape Poulsen,spouse,Q113883343,Josue Medina Vasquez Poulsen
@@ -52,6 +53,9 @@ Denmark,Q12318947,Jakob Ellemann-Jensen,father,Q698080,Uffe Ellemann-Jensen
 Denmark,Q12318947,Jakob Ellemann-Jensen,mother,Q12301035,Alice Vestergaard
 Denmark,Q12318947,Jakob Ellemann-Jensen,sibling,Q3042869,Karen Ellemann
 Denmark,Q12319302,Jens Henrik Thulesen Dahl,sibling,Q4992021,Kristian Thulesen Dahl
+Denmark,Q12319533,Jeppe Søe,father,Q12332153,Poul Erik Søe
+Denmark,Q12319533,Jeppe Søe,sibling,Q12338174,Synnøve Søe
+Denmark,Q12320275,Jon Stephensen,relative,Q12315016,Hakon Stephensen
 Denmark,Q12321352,Karina Adsbøl,father,Q63762586,Hans Erik Adsbøl
 Denmark,Q12322095,Klaus Hækkerup,child,Q12330081,Ole Hækkerup
 Denmark,Q12322095,Klaus Hækkerup,child,Q645613,Nick Hækkerup

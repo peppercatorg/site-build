@@ -51,7 +51,7 @@ France,Q12946,Michel Rocard,child,Q3081663,Francis Rocard
 France,Q12946,Michel Rocard,father,Q325711,Yves Rocard
 France,Q12946,Michel Rocard,spouse,Q50384376,Geneviève Poujol
 France,Q12957,Raymond Barre,spouse,Q48991121,Eve Barre
-France,Q12963,François Bayrou,child,Q48223191,Agnès Bayrou
+France,Q12963,François Bayrou,child,Q48223191,Agnès Bayrou-Louis
 France,Q131660,Dominique de Villepin,child,Q109829632,Victoire de Villepin
 France,Q131660,Dominique de Villepin,child,Q109829671,Arthur de Villepin
 France,Q131660,Dominique de Villepin,child,Q3292808,Marie de Villepin
@@ -386,6 +386,8 @@ France,Q3167390,Jean-Marc Germain,child,Q59781938,Arthur Germain
 France,Q3167390,Jean-Marc Germain,partner,Q2851133,Anne Hidalgo
 France,Q3167390,Jean-Marc Germain,relative,Q109781211,Mary Hidalgo
 France,Q3167390,Jean-Marc Germain,spouse,Q2851133,Anne Hidalgo
+France,Q3167857,Jean-Marie Vanlerenberghe,child,Q30349307,Isabelle Florennes
+France,Q3167857,Jean-Marie Vanlerenberghe,sibling,Q113897099,Pierre Vanlerenberghe
 France,Q3167954,Jean-Michel Blanquer,father,Q48224178,Roland Blanquer
 France,Q3167954,Jean-Michel Blanquer,spouse,Q2850470,Anna Cabana
 France,Q3167954,Jean-Michel Blanquer,spouse,Q48224954,Sophie de Puybaudet
@@ -395,6 +397,7 @@ France,Q3168651,Jean-Paul Planchou,spouse,Q452131,Nicole Bricq
 France,Q3168709,Jean-Paul Virapoullé,child,Q63766250,Jean-Marie Virapoullé
 France,Q3168709,Jean-Paul Virapoullé,sibling,Q3263296,Louis Virapoullé
 France,Q3169552,Jean-Pierre Marcon,sibling,Q3455759,Régis Marcon
+France,Q3169778,Jean-Pierre Sueur,child,Q33182270,Catherine Sueur
 France,Q3170787,Jean Bizet,father,Q3588352,Émile Bizet
 France,Q3171170,Jean Castex,spouse,Q97015109,Sandra Ribelaygue
 France,Q3172386,Jean Grenet,father,Q2425277,Henri Grenet
