@@ -1,7 +1,7 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100848615,Tomislav Momirović,male,1983-10-17,11,,,Tomislav Momirović 2021 (cropped).jpg,Tomislav Momirović
 Q100975531,Tatjana Matić,female,1972-07-02,11,,,Tatjana Matić.png,Tatjana Matić
-Q100975934,Anđelka Atanasković,female,1958,9,,,,Anđelka Atanasković
+Q100975934,Anđelka Atanasković,female,1958,9,,,Anđelka Atanasković - Анђелка Атанасковић.png,Anđelka Atanasković
 Q100996171,Maja Popović,female,1972,9,,,Маја Поповић Maja Popović.png,Maja Popović
 Q108307879,Novak Nedic,male,1982,9,,,,
 Q10843366,Zorana Mihajlović,female,1970-05-05,11,,,Zorana Mihajlović Crop.JPG,Zorana Mihajlović
@@ -9,7 +9,7 @@ Q11074974,Aleksandar Vulin,male,1972-10-02,11,,,Aleksandar Vulin (cropped).jpg,A
 Q111654011,Jelena Begović,female,1970,9,,,,Jelena Begović
 Q113502376,Radomir Lazović,male,1980,9,,,Radomir Lazović.png,Radomir Lazović
 Q114827362,Rade Basta,male,1979,9,,,,Rade Basta
-Q114830743,Husein Memić,male,1983,9,,,,Husein Memić
+Q114830743,Husein Memić,male,1983,9,,,Husein Memić (cropped).jpg,Husein Memić
 Q114832507,Jelena Tanasković,female,,,,,,Jelena Tanasković
 Q114861027,Edin Đerlek,male,1987-01-23,11,,,,Edin Đerlek
 Q114861028,Marko Blagojević,male,1974-04-20,11,,,Marko Blagojević ministar (cropped).jpg,Marko Blagojević (born 1974)
@@ -59,7 +59,7 @@ Q16266666,Momo Čolaković,male,1940-05-08,11,,,,Momo Čolaković
 Q16269542,Gordana Čomić,female,1958-06-16,11,,,Gordana Čomić - May 2015 (cropped).jpg,Gordana Čomić
 Q162740,Vuk Drašković,male,1946-11-29,11,,,Vuk Draskovic by Kubik 01.JPG,Vuk Drašković
 Q16442061,Dragan Aleksić,male,1963-11-17,11,,,,Dragan Aleksić (politician)
-Q16685998,Đorđe Milićević,male,1978-09-29,11,,,,Đorđe Milićević
+Q16685998,Đorđe Milićević,male,1978-09-29,11,,,Đorđe Milićević.png,Đorđe Milićević
 Q16760910,Snežana Bogosavljević Bošković,female,1964-01-26,11,,,Snežana Bogosavljević Bošković Crop.jpg,Snežana Bogosavljević Bošković
 Q16889667,Dušan Vujović,male,1951-07-22,11,,,Dusan Vujovic Crop.jpg,Dušan Vujović
 Q16916400,Bratislav Gašić,male,1967-06-30,11,,,Bratislav Gašić crop.jpg,Bratislav Gašić
@@ -78,7 +78,7 @@ Q204723,Mirko Cvetković,male,1950-08-16,11,,,Mirko Cvetković.jpg,Mirko Cvetkov
 Q220566,Zoran Stanković,male,1954-11-09,11,2021-10-05,11,Zoran Stanković MC crop.jpg,Zoran Stanković
 Q222031,Aleksandar Vučić,male,1970-03-05,11,,,Aleksandar Vučić 2019 (cropped).jpg,Aleksandar Vučić
 Q239470,Dušan Mihajlović,male,1948-09-27,11,,,,Dušan Mihajlović (politician)
-Q25462085,Goran Vesić,male,1969-02-18,11,,,,Goran Vesić
+Q25462085,Goran Vesić,male,1969-02-18,11,,,Goran Vesić 2022.jpg,Goran Vesić
 Q2620796,Dragan Maršićanin,male,1950-01-26,11,,,Dragan Maršićanin.jpg,Dragan Maršićanin
 Q26251020,Nela Kuburović,female,1982-04-07,11,,,Nela Kuburović.png,Nela Kuburović
 Q26258815,Ana Brnabić,female,1975-09-28,11,,,Fumio Kishida and Ana Brnabić before the funeral of Shinzo Abe (1) (cropped 1).jpg,Ana Brnabić
@@ -146,7 +146,7 @@ Q57431,Tomislav Nikolić,male,1952-02-15,11,,,Tomislav Nikolić official portrai
 Q57843,Ivica Dačić,male,1966-01-01,11,,,Ivica Dacic 10.06.2021 01 (cropped).jpg,Ivica Dačić
 Q581943,Predrag Marković,male,1955-12-07,11,,,Predrag Markovic crop.jpg,Predrag Marković
 Q58278,Ivan Mrkić,male,1953-05-30,11,,,Ivan Mrkić 2009.jpg,Ivan Mrkić
-Q59624525,Dubravka Nègre,female,1978,9,,,,Dubravka Negre
+Q59624525,Dubravka Đedović,female,1978,9,,,,Dubravka Negre
 Q604138,Oliver Dulić,male,1975-01-21,11,,,Dulic Oliver.jpg,Oliver Dulić
 Q6432260,Kori Udovički,female,1961-12-04,11,,,Kori Udovički.jpg,Kori Udovički
 Q654047,József Kasza,male,1945-02-06,11,2016-02-03,11,"Stevan Kragujevic, Jozef Kasa i Sandor Pal.JPG",József Kasza
@@ -166,6 +166,6 @@ Q8068006,Zdravko Ponoš,male,1962-11-03,11,,,"Zdravko Ponoš, kandidat za predse
 Q8074402,Zoran Stojković,male,1946-10-07,11,2020-07-06,11,,Zoran Stojković
 Q818114,Dragan Đilas,male,1967-02-22,11,,,Dragan Đilas 2013.jpg,Dragan Đilas
 Q9253001,Elvira Kovač,female,1982-07-18,11,,,,Elvira Kovács
-Q960994,Aleksandar Šapić,male,1978-06-01,11,,,,Aleksandar Šapić
+Q960994,Aleksandar Šapić,male,1978-06-01,11,,,Aca Sapic (cropped).jpg,Aleksandar Šapić
 Q97041188,Irena Vujović,female,1983-04-03,11,,,Irena Vujovic-mc.rs (cropped).jpg,Irena Vujović
 Q97329382,Darija Kisić Tepavčević,female,1975-08-20,11,,,Darija Kisić 2 (cropped).jpg,Darija Kisić Tepavčević

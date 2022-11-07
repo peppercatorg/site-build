@@ -2236,6 +2236,9 @@ China,Q4368021,James Tien,sibling,Q80332,Michael Tien
 China,Q4757753,Andrew Leung,child,Q28146999,Clarence Leung
 China,Q4769459,Annie Wu,father,Q6145864,James Wu
 China,Q4799521,Arthur Li,sibling,Q5236581,David Li
+China,Q487095,Liu Yongqing,child,Q262261,Hu Haifeng
+China,Q487095,Liu Yongqing,child,Q4121018,Hu Haiqing
+China,Q487095,Liu Yongqing,spouse,Q15029,Hu Jintao
 China,Q4892988,Bernard Charnwut Chan,father,Q7352315,Robin Chan
 China,Q4892988,Bernard Charnwut Chan,sibling,Q7610653,Stephen Tan
 China,Q48936751,Zhang Shiming,father,Q197164,Zhang Bojun
@@ -2356,6 +2359,9 @@ China,Q716114,Feng Xiaogang,spouse,Q510789,Xu Fan
 China,Q7162676,Peng Peiyun,spouse,Q8338717,Wang Hanbin
 China,Q717014,Wu Shengli,father,Q21040355,Wu Xian
 China,Q717442,Chen Daoming,spouse,Q8950368,Du Xian
+China,Q717483,Wang Yeping,child,Q4120678,Jiang Mianheng
+China,Q717483,Wang Yeping,child,Q4120685,Jiang Miankang
+China,Q717483,Wang Yeping,spouse,Q16597,Jiang Zemin
 China,Q7175338,Peter Lam,child,Q11105955,Lester Lam
 China,Q7175338,Peter Lam,child,Q18921154,Emily Lam
 China,Q7175338,Peter Lam,child,Q78468607,Eleanor Lam
@@ -2423,6 +2429,7 @@ China,Q82260,Chen Yuan,mother,Q8289904,Yu Ruomu
 China,Q82260,Chen Yuan,sibling,Q16907822,Chen Weilan
 China,Q8246757,Shen Jilan,relative,Q97169687,Zhang Lizhen
 China,Q8248352,Chen Yunying,spouse,Q709764,Justin Yifu Lin
+China,Q8248863,Qian Zhengying,spouse,Q28355292,黄辛白
 China,Q8288042,Fu Dong,father,Q717501,Fu Zuoyi
 China,Q8288235,Gong Yuzhi,child,Q8292979,Gong Ke
 China,Q8288235,Gong Yuzhi,father,Q8313175,Gong Yinbing
@@ -2851,7 +2858,7 @@ Czechia,Q12042545,Olga Sommerová,child,Q12042553,Olga Malířová Špátová
 Czechia,Q12042545,Olga Sommerová,spouse,Q708909,Vladimír Sommer
 Czechia,Q12042549,Olga Zubová,spouse,Q95398918,Vladimír Zubov
 Czechia,Q12044139,Pavel Kováčik,father,Q70202813,Viliam Kováčik
-Czechia,Q12044139,Pavel Kováčik,mother,Q70202816,Marie Kováčiková
+Czechia,Q12044139,Pavel Kováčik,mother,Q70202816,Marie Kovacikova
 Czechia,Q12044794,Petr Arenberger,father,Q106812171,Miloslav Arenberger
 Czechia,Q12044794,Petr Arenberger,spouse,Q93174573,Monika Arenbergerova
 Czechia,Q12044800,Petr Benda,sibling,Q109747888,Jan Benda
@@ -6133,6 +6140,7 @@ Greece,Q206421,Konstantinos Stephanopoulos,mother,Q21004314,Briseida Filopoulou
 Greece,Q20855548,Vasiliki Thanou,spouse,Q20882600,Giorgos Christofilos
 Greece,Q20995398,Christos Dimas,father,Q58091,Stavros Dimas
 Greece,Q20995434,Kostas Karamanlis,father,Q12272770,Achilleas Karamanlis
+Greece,Q20995438,Nina Kasimati,father,Q111961850,Giorgos Kasimatis
 Greece,Q20995447,Níki Keraméos,relative,Q110287201,Dimitris Kerameus
 Greece,Q20995447,Níki Keraméos,relative,Q110287247,Marilena Sarri-Keraméos
 Greece,Q20995447,Níki Keraméos,relative,Q16168343,Konstantinos Kerameus
@@ -8093,7 +8101,7 @@ Israel,Q18368428,Yehuda Glick,father,Q45312029,Shimon Glick
 Israel,Q18522625,Mufid Mari,sibling,Q7029950,Nabiya Meri
 Israel,Q18759744,Bezalel Smotrich,relative,Q19634034,Ayelet Nahmias-Verbin
 Israel,Q18814813,Ksenia Svetlova,father,Q55316967,Igor Evgenevich Svetlov
-Israel,Q19615491,Miki Zohar,child,Q114073813,אליאב זוהר
+Israel,Q19615491,Miki Zohar,child,Q114073813,Eliav Zohar
 Israel,Q19627844,Nurit Koren,child,Q56884557,Omer Koren
 Israel,Q19627844,Nurit Koren,child,Q56884558,Zohar Koren
 Israel,Q19627890,Oren Hazan,father,Q2907728,Yehiel Hazan
@@ -8753,6 +8761,7 @@ Japan,Q217096,Naruhito,spouse,Q230433,Empress Masako
 Japan,Q233499,Yoshirō Mori,child,Q11540202,Yūki Mori
 Japan,Q233499,Yoshirō Mori,father,Q4302695,Shigeki Mori
 Japan,Q233499,Yoshirō Mori,relative,Q11624212,Shinsuke Fujimoto
+Japan,Q233499,Yoshirō Mori,spouse,Q106479778,Chieko Mori
 Japan,Q23907516,Wada Yoshiaki,relative,Q697258,Nobutaka Machimura
 Japan,Q2391659,Tamisuke Watanuki,child,Q11607444,Katsusuke Watanuki
 Japan,Q2391659,Tamisuke Watanuki,father,Q11607442,Suketami Watanuki
@@ -13358,7 +13367,7 @@ Spain,Q19943,Juan Carlos I of Spain,father,Q313857,"Infante Juan, Count of Barce
 Spain,Q19943,Juan Carlos I of Spain,godparent,Q160001,Victoria Eugenie of Battenberg
 Spain,Q19943,Juan Carlos I of Spain,godparent,Q518879,Prince Carlos of the Two Sicilies
 Spain,Q19943,Juan Carlos I of Spain,mother,Q235128,"Infanta María de las Mercedes, Countess of Barcelona"
-Spain,Q19943,Juan Carlos I of Spain,partner,Q2899692,Corinna zu Sayn-Wittgenstein
+Spain,Q19943,Juan Carlos I of Spain,partner,Q2899692,Corinna Avestruz
 Spain,Q19943,Juan Carlos I of Spain,partner,Q2929242,Bárbara Rey
 Spain,Q19943,Juan Carlos I of Spain,partner,Q48094025,Marta Gayà
 Spain,Q19943,Juan Carlos I of Spain,sibling,Q237165,"Infanta Margarita, Duchess of Soria"

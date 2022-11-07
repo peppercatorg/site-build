@@ -279,6 +279,9 @@ China,Q4368021,James Tien,sibling,Q80332,Michael Tien
 China,Q4757753,Andrew Leung,child,Q28146999,Clarence Leung
 China,Q4769459,Annie Wu,father,Q6145864,James Wu
 China,Q4799521,Arthur Li,sibling,Q5236581,David Li
+China,Q487095,Liu Yongqing,child,Q262261,Hu Haifeng
+China,Q487095,Liu Yongqing,child,Q4121018,Hu Haiqing
+China,Q487095,Liu Yongqing,spouse,Q15029,Hu Jintao
 China,Q4892988,Bernard Charnwut Chan,father,Q7352315,Robin Chan
 China,Q4892988,Bernard Charnwut Chan,sibling,Q7610653,Stephen Tan
 China,Q48936751,Zhang Shiming,father,Q197164,Zhang Bojun
@@ -399,6 +402,9 @@ China,Q716114,Feng Xiaogang,spouse,Q510789,Xu Fan
 China,Q7162676,Peng Peiyun,spouse,Q8338717,Wang Hanbin
 China,Q717014,Wu Shengli,father,Q21040355,Wu Xian
 China,Q717442,Chen Daoming,spouse,Q8950368,Du Xian
+China,Q717483,Wang Yeping,child,Q4120678,Jiang Mianheng
+China,Q717483,Wang Yeping,child,Q4120685,Jiang Miankang
+China,Q717483,Wang Yeping,spouse,Q16597,Jiang Zemin
 China,Q7175338,Peter Lam,child,Q11105955,Lester Lam
 China,Q7175338,Peter Lam,child,Q18921154,Emily Lam
 China,Q7175338,Peter Lam,child,Q78468607,Eleanor Lam
@@ -466,6 +472,7 @@ China,Q82260,Chen Yuan,mother,Q8289904,Yu Ruomu
 China,Q82260,Chen Yuan,sibling,Q16907822,Chen Weilan
 China,Q8246757,Shen Jilan,relative,Q97169687,Zhang Lizhen
 China,Q8248352,Chen Yunying,spouse,Q709764,Justin Yifu Lin
+China,Q8248863,Qian Zhengying,spouse,Q28355292,黄辛白
 China,Q8288042,Fu Dong,father,Q717501,Fu Zuoyi
 China,Q8288235,Gong Yuzhi,child,Q8292979,Gong Ke
 China,Q8288235,Gong Yuzhi,father,Q8313175,Gong Yinbing
