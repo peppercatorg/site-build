@@ -5376,6 +5376,7 @@ France,Q356919,Pierre Moscovici,father,Q527522,Serge Moscovici
 France,Q356919,Pierre Moscovici,mother,Q27891168,Marie Bromberg
 France,Q356919,Pierre Moscovici,spouse,Q33220652,Anne-Michelle Basteri
 France,Q3571618,Yann Capet,father,Q2847434,André Capet
+France,Q3571646,Yann Gaillard,spouse,Q2851101,Anne Gaillard
 France,Q3573330,Yvan Blot,father,Q57235436,Camille Blot
 France,Q3573330,Yvan Blot,spouse,Q32625073,Cendrine Blot
 France,Q3573638,Yves Durand,father,Q2980601,Clément Durand
@@ -8585,6 +8586,7 @@ Italy,Q687662,Stefano Caldoro,father,Q17453227,Antonio Caldoro
 Italy,Q706525,Mario Tronti,relative,Q978509,Renato Zero
 Italy,Q707862,Santo Versace,sibling,Q229437,Donatella Versace
 Italy,Q707862,Santo Versace,sibling,Q264490,Gianni Versace
+Italy,Q734294,Beniamino Andreatta,child,Q112175401,Filippo Andreatta
 Italy,Q75585900,Michele Figurelli,child,Q75587819,Luna Figurelli
 Italy,Q75585900,Michele Figurelli,child,Q75587821,Emiliano Figurelli
 Italy,Q75585900,Michele Figurelli,child,Q75587822,Lucrezio Figurelli
@@ -8642,6 +8644,8 @@ Japan,Q11353993,Hiromi Mitsubayashi,father,Q11353992,Yatarō Mitsubayashi
 Japan,Q11353993,Hiromi Mitsubayashi,sibling,Q7677346,Takashi Mitsubayashi
 Japan,Q11364418,Katsuhito Nakajima,father,Q11364572,Mahito Nakajima
 Japan,Q1141271,Yoshimasa Hayashi,father,Q5462919,Yoshirō Hayashi
+Japan,Q11446167,Seisuke Okuno,child,Q11446158,Masahiro Okuno-Fujiwara
+Japan,Q11446167,Seisuke Okuno,child,Q7497769,Shinsuke Okuno
 Japan,Q11458035,Itsurō Terada,father,Q11458010,Jirō Terada
 Japan,Q11458942,Masanobu Ogura,spouse,Q11476371,Mai Shimamoto
 Japan,Q11463874,Sadatoshi Ozato,child,Q8049988,Yasuhiro Ozato
@@ -9996,6 +10000,8 @@ Netherlands,Q154952,Willem-Alexander of the Netherlands,sibling,Q352981,Prince F
 Netherlands,Q154952,Willem-Alexander of the Netherlands,sibling,Q355254,Prince Constantijn of the Netherlands
 Netherlands,Q154952,Willem-Alexander of the Netherlands,spouse,Q460960,Queen Máxima of the Netherlands
 Netherlands,Q15879187,Marvelyne Wiels,sibling,Q5709402,Helmin Wiels
+Netherlands,Q159840,Ruud Lubbers,child,Q2778414,Bart Lubbers
+Netherlands,Q159840,Ruud Lubbers,spouse,Q2206095,Ria Hoogeweegen
 Netherlands,Q1677559,Jacob Kohnstamm,father,Q660745,Max Kohnstamm
 Netherlands,Q16912128,Jan Paternotte,spouse,Q110520415,Lise-Lotte Kerkhof
 Netherlands,Q18692811,Erik Ronnes,father,Q2626855,Jan Ronnes
@@ -11551,7 +11557,7 @@ Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q3550636,Strike Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q7288569,Ram Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q919045,Bong Revilla
 Philippines,Q7296195,Raul del Mar,child,Q104101020,Raoul del Mar
-Philippines,Q7351859,Roberto Puno,father,Q15634561,Ricardo C. Puno
+Philippines,Q7351859,Roberto Puno,father,Q15634561,Ricardo C. Punò
 Philippines,Q7351859,Roberto Puno,relative,Q112153161,Norberto P. Romualdez
 Philippines,Q7351859,Roberto Puno,sibling,Q5295761,Dong Puno
 Philippines,Q7351859,Roberto Puno,sibling,Q983326,Ronaldo Puno
@@ -11585,7 +11591,7 @@ Philippines,Q983324,Bongbong Marcos,mother,Q285536,Imelda Marcos
 Philippines,Q983324,Bongbong Marcos,sibling,Q2208719,Imee Marcos
 Philippines,Q983324,Bongbong Marcos,sibling,Q6069124,Irene Marcos-Araneta
 Philippines,Q983324,Bongbong Marcos,spouse,Q35283279,Louise Araneta Marcos
-Philippines,Q983326,Ronaldo Puno,father,Q15634561,Ricardo C. Puno
+Philippines,Q983326,Ronaldo Puno,father,Q15634561,Ricardo C. Punò
 Philippines,Q983326,Ronaldo Puno,relative,Q112153161,Norberto P. Romualdez
 Philippines,Q983326,Ronaldo Puno,sibling,Q5295761,Dong Puno
 Philippines,Q983326,Ronaldo Puno,sibling,Q7351859,Roberto Puno
@@ -13367,7 +13373,7 @@ Spain,Q19943,Juan Carlos I of Spain,father,Q313857,"Infante Juan, Count of Barce
 Spain,Q19943,Juan Carlos I of Spain,godparent,Q160001,Victoria Eugenie of Battenberg
 Spain,Q19943,Juan Carlos I of Spain,godparent,Q518879,Prince Carlos of the Two Sicilies
 Spain,Q19943,Juan Carlos I of Spain,mother,Q235128,"Infanta María de las Mercedes, Countess of Barcelona"
-Spain,Q19943,Juan Carlos I of Spain,partner,Q2899692,Corinna Avestruz
+Spain,Q19943,Juan Carlos I of Spain,partner,Q2899692,Corinna zu Sayn-Wittgenstein
 Spain,Q19943,Juan Carlos I of Spain,partner,Q2929242,Bárbara Rey
 Spain,Q19943,Juan Carlos I of Spain,partner,Q48094025,Marta Gayà
 Spain,Q19943,Juan Carlos I of Spain,sibling,Q237165,"Infanta Margarita, Duchess of Soria"
