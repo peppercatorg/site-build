@@ -1,5 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100980938,Kouadio Konan Bertin,male,1968-12-26,11,,,Kouadio Konan Bertin 2016 (cropped).jpg,Kouadio Konan Bertin
+Q101584179,Fidèle Sarassoro,male,1960,9,,,,
 Q104437318,Laurent Tchagba,male,,,,,,
 Q105833518,Téné Birahima Ouattara,male,,,,,,Téné Birahima Ouattara
 Q106777843,Adama Kamara,male,1964-12-17,11,,,Maitre Adama Kamara.jpg,
@@ -9,20 +10,31 @@ Q107466615,Belmonde Dogo,female,1975,9,,,Belmonde Dogo 2.jpg,Belmonde Dogo
 Q108344978,Christophe M'Boua,male,,,,,,
 Q108344980,Jean-Marie Kacou Gervais,male,,,,,,
 Q108752418,Amédé Koffi Kouakou,male,1955-11-17,11,,,,
+Q111334944,Gilbert Koné Kafana,male,1951-01,10,,,,
 Q111901694,Vagondo Diomandé,male,1960-01-01,11,,,,
+Q112684510,Lataille N’Guessan Koffi,male,1963-04-12,11,,,,
 Q112947515,Siandou Fofana,male,,,,,Siandou Fofana 01.jpg,
 Q112948561,Adama Diawara,male,1960-08-12,11,,,,
 Q113488775,Françoise Remarck,female,,,,,Françoise Remarck 06.jpg,
 Q113528137,Jean-Luc Assi,male,1964-02-19,11,,,,
 Q113680500,Souleymane Diarrassouba,male,,,,,,
 Q113835506,Epiphane Zoro Bi Ballo,male,,,,,,
+Q114787901,Thomas Camara,male,,,,,,
 Q114788517,Amadou Coulibaly,male,,,,,,
 Q114788519,Koffi N'Guessan,male,,,,,,
 Q114788520,Moussa Sanogo,male,,,,,,
 Q114788522,Pierre Dimba,male,,,,,,
+Q115125638,Arlette N'Guessan Touamé,female,,,,,,
+Q115125639,Brice Kouamé Kouassi,male,,,,,,
+Q115125640,Clarisse Kayo Mahi,female,,,,,,
+Q115125641,Célestin Serey Doh,male,,,,,,
+Q115125643,Emmanuel Esmel Essis,male,,,,,,
+Q115125644,Félix Anoblé,male,,,,,,
+Q115125645,Roger Félix Adom,male,,,,,,
 Q1304104,Albert Mabri Toikeusse,male,1962-12-08,11,,,Albert Toikeusse Mabri (cropped).jpg,
 Q1394077,Seydou Diarra,male,1933-11-23,11,2020-07-19,11,,Seydou Diarra
 Q179242,Laurent Gbagbo,male,1945-05-31,11,,,Laurent Gbagbo (2008).jpg,Laurent Gbagbo
+Q18384617,Abdourahmane Cissé,male,1981-08-06,11,,,Abdourahmane Cisse.jpg,Abdourahmane Cissé
 Q1888117,Mamadou Koulibaly,male,1957-04-21,11,,,Pr. Mamadou Koulibaly (LIDER).jpg,Mamadou Koulibaly
 Q19392607,Tiémoko Meyliet Koné,male,1949-04-26,11,,,,Tiémoko Meyliet Koné
 Q21280596,Sidi Tiémoko Touré,male,,,,,Sidi Tiémoko Touré.JPG,Sidi Tiémoko Touré
@@ -30,6 +42,7 @@ Q22085045,Kaba Nialé,female,1962,9,,,Nialé Kaba2.jpg,Kaba Nialé
 Q24056959,Mariatou Koné,female,,,,,Mariatou Koné.jpg,Mariatou Koné
 Q2640305,Alcide Djédjé,male,1956,9,,,L’Ambassadeur Alcide Djédjé.jpg,Alcide Djédjé
 Q27757660,Yasmina Ouégnin,female,1979-06-08,11,,,Yasmina Ouegnin 01.jpg,
+Q28150377,Alain-Richard Donwahi,male,1962-07-01,11,,,Alain Richard Donwahi 1.jpg,
 Q2824041,Adama Coulibaly,male,1942-06-05,11,,,Adama coulibaly.jpg,
 Q2838739,Ally Coulibaly,male,1951-01-01,11,,,,
 Q2840866,Amadou Gon Coulibaly,male,1959-02-10,11,2020-07-08,11,Prime Minister Amadou Gon Coulibaly (cropped).jpg,Amadou Gon Coulibaly

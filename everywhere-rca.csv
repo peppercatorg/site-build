@@ -2466,6 +2466,9 @@ China,Q8462985,Zhang Gongqing,father,Q98066755,Zhang Yunqiao
 China,Q8462985,Zhang Gongqing,mother,Q98066775,Chen Jingzhen
 China,Q8464458,Wang Guiguo,spouse,Q7245609,Priscilla Leung
 China,Q8464941,Ngapo Todo Doji,father,Q519381,Ngapoi Ngawang Jigme
+China,Q8922306,Anna Pao,father,Q2546985,Yue-Kong Pao
+China,Q8922306,Anna Pao,sibling,Q24841174,Cissy Pao-Watari
+China,Q8922306,Anna Pao,spouse,Q113635,Helmut Sohmen
 China,Q8933085,Chen Haosu,father,Q188408,Chen Yi
 China,Q8933085,Chen Haosu,mother,Q11067628,Zhang Qian
 China,Q8933085,Chen Haosu,sibling,Q15907640,Chen Xiaolu
@@ -2992,6 +2995,8 @@ Czechia,Q36233,Václav Havel,spouse,Q55729,Dagmar Havlová
 Czechia,Q367435,Vít Bárta,spouse,Q12028941,Kateřina Klasnová
 Czechia,Q375208,Jiří Dienstbier,child,Q133947,Jiří Dienstbier Jr.
 Czechia,Q375208,Jiří Dienstbier,father,Q78915609,Jiří Dienstbier
+Czechia,Q375208,Jiří Dienstbier,relative,Q1567611,Emil Hájek
+Czechia,Q375208,Jiří Dienstbier,relative,Q16082362,Jara Ribnikar
 Czechia,Q42311106,Olga Richterová,relative,Q9021077,Mikuláš Ferjenčík
 Czechia,Q42311106,Olga Richterová,sibling,Q14806410,Mikuláš Ferjenčík
 Czechia,Q4845845,Jan Ruml,father,Q11727272,Jiří Ruml
@@ -8527,6 +8532,7 @@ Italy,Q444509,Franca Rame,child,Q968602,Jacopo Fo
 Italy,Q444509,Franca Rame,father,Q3713204,Domenico Rame
 Italy,Q444509,Franca Rame,sibling,Q3726020,Enrico Rame
 Italy,Q444509,Franca Rame,spouse,Q765,Dario Fo
+Italy,Q445665,Elsa Fornero,child,Q105549442,Andrea Deaglio
 Italy,Q445665,Elsa Fornero,child,Q90068893,Silvia Deaglio
 Italy,Q445665,Elsa Fornero,spouse,Q3848521,Mario Deaglio
 Italy,Q447895,Giovanna Melandri,sibling,Q507868,Francesca Melandri
@@ -11559,7 +11565,8 @@ Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q7288569,Ram Revilla
 Philippines,Q7289865,"Ramon Revilla, Sr.",child,Q919045,Bong Revilla
 Philippines,Q7296195,Raul del Mar,child,Q104101020,Raoul del Mar
 Philippines,Q7351859,Roberto Puno,father,Q15634561,Ricardo C. Punò
-Philippines,Q7351859,Roberto Puno,relative,Q112153161,Norberto P. Romualdez
+Philippines,Q7351859,Roberto Puno,relative,Q55528157,Rosario Piccio
+Philippines,Q7351859,Roberto Puno,relative,Q56573578,Beatriz P. Romuáldez
 Philippines,Q7351859,Roberto Puno,sibling,Q5295761,Dong Puno
 Philippines,Q7351859,Roberto Puno,sibling,Q983326,Ronaldo Puno
 Philippines,Q7363071,Romeo Acop,spouse,Q66776948,Resurreccion Acop
@@ -11593,7 +11600,8 @@ Philippines,Q983324,Bongbong Marcos,sibling,Q2208719,Imee Marcos
 Philippines,Q983324,Bongbong Marcos,sibling,Q6069124,Irene Marcos-Araneta
 Philippines,Q983324,Bongbong Marcos,spouse,Q35283279,Louise Araneta Marcos
 Philippines,Q983326,Ronaldo Puno,father,Q15634561,Ricardo C. Punò
-Philippines,Q983326,Ronaldo Puno,relative,Q112153161,Norberto P. Romualdez
+Philippines,Q983326,Ronaldo Puno,relative,Q55528157,Rosario Piccio
+Philippines,Q983326,Ronaldo Puno,relative,Q56573578,Beatriz P. Romuáldez
 Philippines,Q983326,Ronaldo Puno,sibling,Q5295761,Dong Puno
 Philippines,Q983326,Ronaldo Puno,sibling,Q7351859,Roberto Puno
 Philippines,Q984265,Kiko Pangilinan,spouse,Q466942,Sharon Cuneta
@@ -13249,6 +13257,7 @@ Spain,Q11928066,Joaquim Arrufat i Ibáñez,mother,Q97191640,Maria Luisa Ibáñez
 Spain,Q11928768,Josep M. Vila D'Abadal Serra,father,Q19301112,Marià Vila-Abadal Vilaplana
 Spain,Q11928768,Josep M. Vila D'Abadal Serra,relative,Q19300892,Lluís Vila i d'Abadal
 Spain,Q11928802,Josep Melià Ques,father,Q11928801,Josep Melià Pericàs
+Spain,Q11929374,Juli Fernández Iruela,sibling,Q115148136,Manuel Fernández Iruela
 Spain,Q11934485,Macarena Montesinos de Miguel,father,Q11929251,Juan Antonio Montesinos
 Spain,Q11934854,Manel Nadal i Farreras,father,Q42252577,Manel Nadal i Oller
 Spain,Q11934854,Manel Nadal i Farreras,sibling,Q11928731,Josep Maria Nadal i Farreras
@@ -14549,6 +14558,7 @@ Togo,Q155385,Étienne Gnassingbé Eyadéma,child,Q4414,Faure Gnassingbé
 Togo,Q155385,Étienne Gnassingbé Eyadéma,child,Q6435718,Kpatcha Gnassingbé
 Togo,Q1778373,Koffi Sama,child,Q4414,Faure Gnassingbé
 Togo,Q4414,Faure Gnassingbé,father,Q155385,Étienne Gnassingbé Eyadéma
+Tonga,Q19605129,Mateni Tapueluelu,father,Q7449658,Semisi Tapueluelu
 Tonga,Q208497,Tupou VI of Tonga,child,Q13382727,Princess Lātūfuipeka Tukuʻaho
 Tonga,Q208497,Tupou VI of Tonga,child,Q14947549,Prince Ata
 Tonga,Q208497,Tupou VI of Tonga,child,Q1583552,Tupoutoʻa ʻUlukalala
@@ -21737,7 +21747,7 @@ United States,Q7595813,Stacey Abrams,sibling,Q55642881,Andrea Abrams
 United States,Q76,Barack Obama,child,Q15070044,Malia Obama
 United States,Q76,Barack Obama,child,Q15070048,Sasha Obama
 United States,Q76,Barack Obama,father,Q649593,Barack Obama Sr.
-United States,Q76,Barack Obama,mother,Q766106,Ann Dunham
+United States,Q76,Barack Obama,mother,Q766106,Stanley Ann Dunham
 United States,Q76,Barack Obama,relative,Q2856335,Stanley Armour Dunham
 United States,Q76,Barack Obama,relative,Q4115068,Lolo Soetoro
 United States,Q76,Barack Obama,sibling,Q15982167,Malik Obama

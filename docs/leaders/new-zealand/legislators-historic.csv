@@ -1,17 +1,17 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 New Zealand,Member of the New Zealand Parliament,Jim Anderton,Q1036723,1984,2011,male,1938-01-21,2018-01-07,"Jim Anderton, 2010.jpg",Jim Anderton
 New Zealand,Member of the New Zealand Parliament,Judy Keall,Q6304497,1984-07-14,2002,female,1942-01-10,,Judy Keall (crop).jpg,Judy Keall
-New Zealand,Member of the New Zealand Parliament,Peter Dunne,Q1266756,1984-07-17,,male,1954-03-17,,Peter Dunne.jpg,Peter Dunne
 New Zealand,Member of the New Zealand Parliament,Winston Peters,Q1396178,1984-07-17,2005-09-17,male,1945-04-11,,"Winston Peters, 2019.jpg",Winston Peters
 New Zealand,Member of the New Zealand Parliament,Steve Maharey,Q7613243,1990,2008,male,1953-02-03,,"Steve Maharey, 2008.jpg",Steve Maharey
 New Zealand,Member of the New Zealand Parliament,Jenny Shipley,Q235996,1990-10-27,2002-07-27,female,1952-02-04,,Jenny Shipley 2013 (crop).jpg,Jenny Shipley
 New Zealand,Member of the New Zealand Parliament,Jill Pettis,Q6193011,1993,2005,female,1952-09-22,,Jill Pettis.jpg,Jill Pettis
+New Zealand,Member of the New Zealand Parliament,Peter Dunne,Q1266756,1996,2008,male,1954-03-17,,Peter Dunne.jpg,Peter Dunne
 New Zealand,Member of the New Zealand Parliament,Peter Brown,Q7172996,1996,2008,male,1939-07-30,,,Peter Brown (New Zealand politician)
-New Zealand,Member of the New Zealand Parliament,Nick Smith,Q976339,1996,,male,1964-12-24,,"Nick Smith at Lincoln University, 2016.jpg",Nick Smith (New Zealand politician)
+New Zealand,Member of the New Zealand Parliament,Nick Smith,Q976339,1996,2020-10-17,male,1964-12-24,,"Nick Smith at Lincoln University, 2016.jpg",Nick Smith (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Bill English,Q4384608,1996-10-12,2014-09-20,male,1961-12-30,,Bill English September 2016.jpg,Bill English
 New Zealand,Member of the New Zealand Parliament,Joe Hawke,Q6210245,1996-10-12,2002-07-27,male,1940,2022-05-22,Joe Hawke MNZM (cropped).jpg,Joe Hawke
 New Zealand,Member of the New Zealand Parliament,Taito Phillip Field,Q7676492,1996-10-12,2008-11-08,male,1952-09-26,2021-09-23,Taito Phillip Field (ca 1995).jpg,Taito Phillip Field
-New Zealand,Member of the New Zealand Parliament,Shane Ardern,Q4451596,1998-05-02,,male,1960-01-26,,,Shane Ardern
+New Zealand,Member of the New Zealand Parliament,Shane Ardern,Q4451596,1998-05-02,2014-08-14,male,1960-01-26,,,Shane Ardern
 New Zealand,Member of the New Zealand Parliament,Jeanette Fitzsimons,Q444691,1999,2002,female,1945-01-17,2020-03-05,Jeanette Fitzsimons.jpg,Jeanette Fitzsimons
 New Zealand,Member of the New Zealand Parliament,Chris Carter,Q355398,1999-11-27,2010-10,male,1952-05-04,,Chris Carter.jpg,Chris Carter (politician)
 New Zealand,Member of the New Zealand Parliament,Parekura Horomia,Q3562630,1999-11-27,2013-04-29,male,1950-11-09,2013-04-29,Parekura Horomia.jpg,Parekura Horomia
@@ -26,9 +26,9 @@ New Zealand,Member of the New Zealand Parliament,Gordon Copeland,Q5585019,2002-0
 New Zealand,Member of the New Zealand Parliament,Katherine Rich,Q6376524,2002-07-27,2005-08-11,female,1967-12-16,,,Katherine Rich
 New Zealand,Member of the New Zealand Parliament,Rodney Hide,Q7356954,2005,2011,male,1956-12-16,,Rodney Hide at parliament.JPG,Rodney Hide
 New Zealand,Member of the New Zealand Parliament,Lesley Soper,Q15513198,2005-04-04,2005-09-17,female,1954-11-05,,Lesley Soper.jpg,Lesley Soper
-New Zealand,Member of the New Zealand Parliament,John Hayes,Q11021828,2005-09-17,,male,1948-03-15,,John Hayes 2013.jpg,John Hayes (New Zealand politician)
+New Zealand,Member of the New Zealand Parliament,John Hayes,Q11021828,2005-09-17,2014-08-14,male,1948-03-15,,John Hayes 2013.jpg,John Hayes (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Georgina Beyer,Q466137,2005-09-17,2007-02-14,female,1957-11,,Georgina Beyer MNZM (cropped).jpg,Georgina Beyer
-New Zealand,Member of the New Zealand Parliament,David Bennett,Q5231315,2005-09-17,,male,1970-10-28,,,David Bennett (New Zealand politician)
+New Zealand,Member of the New Zealand Parliament,David Bennett,Q5231315,2005-09-17,2020-10-17,male,1970-10-28,,,David Bennett (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Jackie Blue,Q6116240,2005-09-17,2013-04-22,female,1956,,Jackie Blue (cropped).jpg,Jackie Blue
 New Zealand,Member of the New Zealand Parliament,Barbara Stewart,Q10987432,2005-11-07,2008-10-03,female,1952-02-23,,,Barbara Stewart (politician)
 New Zealand,Member of the New Zealand Parliament,Harry Duynhoven,Q11022853,2005-11-07,2008-10-03,male,1955-06-22,,Harry Duynhoven.jpg,Harry Duynhoven
@@ -139,8 +139,9 @@ New Zealand,Member of the New Zealand Parliament,Trevor Mallard,Q7839303,2005-11
 New Zealand,Member of the New Zealand Parliament,Tim Barnett,Q982000,2005-11-07,2008-10-03,male,1958-08-04,,Tim Barnett.jpg,Tim Barnett (politician)
 New Zealand,Member of the New Zealand Parliament,Nándor Tánczos,Q727542,2005-11-14,2008-06-26,male,1966-05-29,,Nandor Tanczos.png,Nándor Tánczos
 New Zealand,Member of the New Zealand Parliament,Lesley Soper,Q15513198,2007-02-19,2008-11-08,female,1954-11-05,,Lesley Soper.jpg,Lesley Soper
+New Zealand,Member of the New Zealand Parliament,Peter Dunne,Q1266756,2008,2017-09-23,male,1954-03-17,,Peter Dunne.jpg,Peter Dunne
 New Zealand,Member of the New Zealand Parliament,Louisa Wall,Q6688567,2008-03-04,2008-11-08,female,1972-02-17,,Louisa Wall.jpg,Louisa Wall
-New Zealand,Member of the New Zealand Parliament,Kevin Hague,Q1279801,2008-11-08,,male,1960-03-18,,Kevin Hague.jpg,Kevin Hague
+New Zealand,Member of the New Zealand Parliament,Kevin Hague,Q1279801,2008-11-08,2016-09-05,male,1960-03-18,,Kevin Hague.jpg,Kevin Hague
 New Zealand,Member of the New Zealand Parliament,Iain Lees-Galloway,Q4451124,2008-11-08,2020-09-06,male,1978-09-18,,Iain Lees Galloway.jpg,Iain Lees-Galloway
 New Zealand,Member of the New Zealand Parliament,Carol Beaumont,Q5044250,2008-11-08,2011-11-26,female,1960-10-06,,Carol Beaumont 2011b.jpg,Carol Beaumont
 New Zealand,Member of the New Zealand Parliament,Catherine Delahunty,Q5052634,2008-11-08,2017-08-18,female,1953,,Catherine Delahunty.jpg,Catherine Delahunty
@@ -253,20 +254,21 @@ New Zealand,Member of the New Zealand Parliament,Tau Henare,Q7688619,2008-12-08,
 New Zealand,Member of the New Zealand Parliament,Tim Macindoe,Q7803867,2008-12-08,2011-10-20,male,,,Timmacindoe1.JPG,Tim Macindoe
 New Zealand,Member of the New Zealand Parliament,Tony Ryall,Q7823330,2008-12-08,2011-10-20,male,1964-11-19,,Tony Ryall.jpg,Tony Ryall
 New Zealand,Member of the New Zealand Parliament,Trevor Mallard,Q7839303,2008-12-08,2011-10-20,male,1954-06-17,,Trevor Mallard 2.jpg,Trevor Mallard
-New Zealand,Member of the New Zealand Parliament,Cam Calder,Q5024812,2009-06-16,,male,1952,,,Cam Calder
+New Zealand,Member of the New Zealand Parliament,Cam Calder,Q5024812,2009-06-16,2014-09-20,male,1952,,,Cam Calder
 New Zealand,Member of the New Zealand Parliament,David Clendon,Q13548108,2009-10-30,2017-08-18,male,1955-09-11,,David Clendon (cropped).jpg,David Clendon
 New Zealand,Member of the New Zealand Parliament,Gareth Hughes,Q5522873,2010-02-11,2020-09-06,male,1981-10-31,,Gareth Hughes2.jpg,Gareth Hughes (politician)
 New Zealand,Member of the New Zealand Parliament,Chris Carter,Q355398,2010-10,2011-11-26,male,1952-05-04,,Chris Carter.jpg,Chris Carter (politician)
 New Zealand,Member of the New Zealand Parliament,Hone Harawira,Q1626808,2011-02,2011-05-21,male,1955-01-06,,Hone Harawira (cropped).jpg,Hone Harawira
-New Zealand,Member of the New Zealand Parliament,Louisa Wall,Q6688567,2011-04-12,,female,1972-02-17,,Louisa Wall.jpg,Louisa Wall
+New Zealand,Member of the New Zealand Parliament,Louisa Wall,Q6688567,2011-04-12,2011-11-26,female,1972-02-17,,Louisa Wall.jpg,Louisa Wall
 New Zealand,Member of the New Zealand Parliament,Hone Harawira,Q1626808,2011-06-25,2011-10-20,male,1955-01-06,,Hone Harawira (cropped).jpg,Hone Harawira
 New Zealand,Member of the New Zealand Parliament,Richard Prosser,Q13563342,2011-11-26,2017-08-18,male,1967-01-15,2022-06-10,,Richard Prosser
 New Zealand,Member of the New Zealand Parliament,Rino Tirikatene,Q3527980,2011-11-26,2020-09-06,male,1972,,Rino Tirikatene.jpg,Rino Tirikatene
 New Zealand,Member of the New Zealand Parliament,David Clark,Q3561074,2011-11-26,2014-09-19,male,1973-01-05,,David Clark (New Zealand politician).jpg,David Clark (New Zealand politician)
-New Zealand,Member of the New Zealand Parliament,Asenati Taylor,Q4804168,2011-11-26,,female,1976-02-25,,Asenati Taylor.jpg,Asenati Taylor
-New Zealand,Member of the New Zealand Parliament,Holly Walker,Q5882303,2011-11-26,,female,1982-11-15,,Holly Walker.jpg,Holly Walker
+New Zealand,Member of the New Zealand Parliament,Asenati Taylor,Q4804168,2011-11-26,2014-09-20,female,1976-02-25,,Asenati Taylor.jpg,Asenati Taylor
+New Zealand,Member of the New Zealand Parliament,Holly Walker,Q5882303,2011-11-26,2014-09,female,1982-11-15,,Holly Walker.jpg,Holly Walker
 New Zealand,Member of the New Zealand Parliament,Jan Logie,Q6149394,2011-11-26,2020-09-06,female,1969-10-26,,Jan Logie.jpg,Jan Logie
 New Zealand,Member of the New Zealand Parliament,Julie Anne Genter,Q6308013,2011-11-26,2020-09-06,female,1979-12-17,,"Julie Anne Genter, 2017 (cropped).jpg",Julie Anne Genter
+New Zealand,Member of the New Zealand Parliament,Louisa Wall,Q6688567,2011-11-26,2020-10-17,female,1972-02-17,,Louisa Wall.jpg,Louisa Wall
 New Zealand,Member of the New Zealand Parliament,Mike Sabin,Q6848669,2011-11-26,2015-01-30,male,1955-09-11,,,Mike Sabin
 New Zealand,Member of the New Zealand Parliament,Mojo Mathers,Q6895114,2011-11-26,2017-08-18,female,1966-11-23,,Mojo Mathers.jpg,Mojo Mathers
 New Zealand,Member of the New Zealand Parliament,Paul Goldsmith,Q7150935,2011-11-26,2020-09-06,male,1971,,Paul Goldsmith.jpg,Paul Goldsmith (politician)
@@ -365,7 +367,7 @@ New Zealand,Member of the New Zealand Parliament,Trevor Mallard,Q7839303,2011-12
 New Zealand,Member of the New Zealand Parliament,Brendan Horan,Q3561080,2012-12-04,2014-09-19,male,1961-07-09,,Brendan Horan Cropped 2013.jpg,Brendan Horan
 New Zealand,Member of the New Zealand Parliament,Carol Beaumont,Q5044250,2013-03-12,2014-09-20,female,1960-10-06,,Carol Beaumont 2011b.jpg,Carol Beaumont
 New Zealand,Member of the New Zealand Parliament,Paul Foster-Bell,Q13503380,2013-05-21,2017-08-18,male,1977-03,,Paul Foster-Bell profile.jpg,Paul Foster-Bell
-New Zealand,Member of the New Zealand Parliament,Claudette Hauiti,Q15147913,2013-05-28,,female,1961-05-08,,,Claudette Hauiti
+New Zealand,Member of the New Zealand Parliament,Claudette Hauiti,Q15147913,2013-05-28,2014-09-20,female,1961-05-08,,,Claudette Hauiti
 New Zealand,Member of the New Zealand Parliament,Meka Whaitiri,Q13566358,2013-06-29,2020-09-06,female,1965-01-11,,Meka Whaitiri crop.jpg,Meka Whaitiri
 New Zealand,Member of the New Zealand Parliament,Poto Williams,Q17016818,2013-11-30,2020-09-06,female,1962-01-07,,Hon Poto Williams.jpg,Poto Williams
 New Zealand,Member of the New Zealand Parliament,Barbara Stewart,Q10987432,2014-10-20,2017-08-18,female,1952-02-23,,,Barbara Stewart (politician)
@@ -423,7 +425,6 @@ New Zealand,Member of the New Zealand Parliament,Clare Curran,Q5126149,2014-10-2
 New Zealand,Member of the New Zealand Parliament,Clayton Cosgrove,Q5130200,2014-10-20,2017-08-18,male,1969-10-31,,Clayton Cosgrove crop.jpg,Clayton Cosgrove
 New Zealand,Member of the New Zealand Parliament,Craig Foss,Q5180973,2014-10-20,2017-08-18,male,1963-07-04,,Craig Foss.jpg,Craig Foss
 New Zealand,Member of the New Zealand Parliament,Damien O'Connor,Q5212493,2014-10-20,2017-08-18,male,1958-01-16,,Damien O'Connor (crop).jpg,Damien O'Connor
-New Zealand,Member of the New Zealand Parliament,David Bennett,Q5231315,2014-10-20,2017-08-18,male,1970-10-28,,,David Bennett (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,David Cunliffe,Q5232720,2014-10-20,2017-04-23,male,1963-04-30,,David Cunliffe cropped.jpg,David Cunliffe
 New Zealand,Member of the New Zealand Parliament,Denis O'Rourke,Q5257444,2014-10-20,2017-08-18,male,1946-07-26,,Denis O'Rourke.JPG,Denis O'Rourke
 New Zealand,Member of the New Zealand Parliament,Denise Roche,Q5257753,2014-10-20,2017-08-18,female,1963-07-09,,Denise Roche.jpg,Denise Roche
@@ -549,7 +550,6 @@ New Zealand,Member of the New Zealand Parliament,Chris Finlayson,Q5106549,2017-1
 New Zealand,Member of the New Zealand Parliament,Chris Hipkins,Q5106890,2017-10-12,2020-09-06,male,1978-09-05,,Chris Hipkins 2.jpg,Chris Hipkins
 New Zealand,Member of the New Zealand Parliament,Clare Curran,Q5126149,2017-10-12,2020-09-06,female,1960,,Clare Curran.jpg,Clare Curran
 New Zealand,Member of the New Zealand Parliament,Damien O'Connor,Q5212493,2017-10-12,2020-09-06,male,1958-01-16,,Damien O'Connor (crop).jpg,Damien O'Connor
-New Zealand,Member of the New Zealand Parliament,David Bennett,Q5231315,2017-10-12,2020-09-06,male,1970-10-28,,,David Bennett (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Anne Tolley,Q540420,2017-10-12,2020-09-06,female,1953-03-01,,Anne Tolley 2019.jpg,Anne Tolley
 New Zealand,Member of the New Zealand Parliament,Eugenie Sage,Q5408237,2017-10-12,2020-09-06,female,1958,,Eugenie Sage.jpg,Eugenie Sage
 New Zealand,Member of the New Zealand Parliament,Jacqui Dean,Q6121023,2017-10-12,2020-09-06,female,1957-05-13,,,Jacqui Dean
@@ -564,7 +564,6 @@ New Zealand,Member of the New Zealand Parliament,Simon Bridges,Q6336063,2017-10-
 New Zealand,Member of the New Zealand Parliament,Kelvin Davis,Q6386648,2017-10-12,2020-09-06,male,1967-03-02,,"Kelvin Davis, Labour party MP (cropped).jpg",Kelvin Davis (politician)
 New Zealand,Member of the New Zealand Parliament,Paula Bennett,Q6416051,2017-10-12,2020-09-06,female,1969-04-09,,Paula Bennett Official.png,Paula Bennett
 New Zealand,Member of the New Zealand Parliament,Kris Faafoi,Q6437165,2017-10-12,2020-09-06,male,1976-06-23,,Hon Kris Faafoi.jpg,Kris Faafoi
-New Zealand,Member of the New Zealand Parliament,Louisa Wall,Q6688567,2017-10-12,2020-09-06,female,1972-02-17,,Louisa Wall.jpg,Louisa Wall
 New Zealand,Member of the New Zealand Parliament,Louise Upston,Q6688985,2017-10-12,2020-09-06,female,1971-03-14,,,Louise Upston
 New Zealand,Member of the New Zealand Parliament,Mark Mitchell,Q6768911,2017-10-12,2020-09-06,male,1968-05-22,,Mark Mitchell 2017.jpg,Mark Mitchell (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Megan Woods,Q6808764,2017-10-12,2020-09-06,female,1973-11-04,,Hon Dr Megan Woods.jpg,Megan Woods
@@ -585,7 +584,6 @@ New Zealand,Member of the New Zealand Parliament,Tim Macindoe,Q7803867,2017-10-1
 New Zealand,Member of the New Zealand Parliament,Tracey Martin,Q7831246,2017-10-12,2020-09-06,female,1976-02-25,,Tracey Martin.jpg,Tracey Martin
 New Zealand,Member of the New Zealand Parliament,Trevor Mallard,Q7839303,2017-10-12,2020-09-06,male,1954-06-17,,Trevor Mallard 2.jpg,Trevor Mallard
 New Zealand,Member of the New Zealand Parliament,Willie Jackson,Q8021596,2017-10-12,2020-09-06,male,1961,,Willie Jackson.jpg,Willie Jackson (politician)
-New Zealand,Member of the New Zealand Parliament,Nick Smith,Q976339,2017-10-12,2020-09-06,male,1964-12-24,,"Nick Smith at Lincoln University, 2016.jpg",Nick Smith (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Jacinda Ardern,Q3606816,2017-11-07,2020-09-06,female,1980-07-26,,Jacinda Ardern - Waitangi 2022 (cropped).jpg,Jacinda Ardern
 New Zealand,Member of the New Zealand Parliament,Phil Twyford,Q7182502,2017-11-07,2020-09-06,male,1963-05-04,,Phil Twyford.jpg,Phil Twyford
 New Zealand,Member of the New Zealand Parliament,Maureen Pugh,Q17466674,2018-03-14,2020-09-06,female,1958,,Maureen Pugh (cropped).jpg,Maureen Pugh
@@ -594,9 +592,10 @@ New Zealand,Member of the New Zealand Parliament,Dan Bidois,Q55080917,2018-06-09
 New Zealand,Member of the New Zealand Parliament,Agnes Loheni,Q61045148,2019-01-31,2020-09-06,female,1972,,,Agnes Loheni
 New Zealand,Member of the New Zealand Parliament,Paulo Garcia,Q65029121,2019-05-16,2020-09-06,male,,,,Paulo Garcia (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Damien Smith,Q104804167,2020-10-17,,male,,,,Damien Smith (politician)
+New Zealand,Member of the New Zealand Parliament,David Bennett,Q5231315,2020-10-17,,male,1970-10-28,,,David Bennett (New Zealand politician)
+New Zealand,Member of the New Zealand Parliament,Louisa Wall,Q6688567,2020-10-17,2022-05-01,female,1972-02-17,,Louisa Wall.jpg,Louisa Wall
 New Zealand,Member of the New Zealand Parliament,Gaurav Sharma,Q99746553,2020-10-17,2022-10-18,male,1987,,Dr Gaurav Sharma.jpg,Gaurav Sharma (politician)
 New Zealand,Member of the New Zealand Parliament,Ricardo Menéndez March,Q99767964,2020-10-17,,male,,,Ricardo Menendez March crop.jpg,Ricardo Menéndez March
-New Zealand,Member of the New Zealand Parliament,Damien Smith,Q104804167,2020-11-25,,male,,,,Damien Smith (politician)
 New Zealand,Member of the New Zealand Parliament,Meka Whaitiri,Q13566358,2020-11-25,,female,1965-01-11,,Meka Whaitiri crop.jpg,Meka Whaitiri
 New Zealand,Member of the New Zealand Parliament,David Parker,Q15196319,2020-11-25,,male,1960,,David Parker mp cropped.jpg,David Parker (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Grant Robertson,Q1543207,2020-11-25,,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
@@ -651,7 +650,6 @@ New Zealand,Member of the New Zealand Parliament,Gerry Brownlee,Q4352603,2020-11
 New Zealand,Member of the New Zealand Parliament,Carmel Sepuloni,Q5043325,2020-11-25,,female,1977,,"Carmel Sepuloni, 2018.jpg",Carmel Sepuloni
 New Zealand,Member of the New Zealand Parliament,Chris Hipkins,Q5106890,2020-11-25,,male,1978-09-05,,Chris Hipkins 2.jpg,Chris Hipkins
 New Zealand,Member of the New Zealand Parliament,Damien O'Connor,Q5212493,2020-11-25,,male,1958-01-16,,Damien O'Connor (crop).jpg,Damien O'Connor
-New Zealand,Member of the New Zealand Parliament,David Bennett,Q5231315,2020-11-25,,male,1970-10-28,,,David Bennett (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Eugenie Sage,Q5408237,2020-11-25,,female,1958,,Eugenie Sage.jpg,Eugenie Sage
 New Zealand,Member of the New Zealand Parliament,Tangi Utikere,Q58813130,2020-11-25,,male,,,Tangi Utikere.jpg,Tangi Utikere
 New Zealand,Member of the New Zealand Parliament,Jacqui Dean,Q6121023,2020-11-25,,female,1957-05-13,,,Jacqui Dean
@@ -662,7 +660,6 @@ New Zealand,Member of the New Zealand Parliament,Julie Anne Genter,Q6308013,2020
 New Zealand,Member of the New Zealand Parliament,Simon Bridges,Q6336063,2020-11-25,2022-05-06,male,1976-10,,Simon-Bridges-Free-Crop.jpg,Simon Bridges
 New Zealand,Member of the New Zealand Parliament,Kelvin Davis,Q6386648,2020-11-25,,male,1967-03-02,,"Kelvin Davis, Labour party MP (cropped).jpg",Kelvin Davis (politician)
 New Zealand,Member of the New Zealand Parliament,Kris Faafoi,Q6437165,2020-11-25,2022-07-23,male,1976-06-23,,Hon Kris Faafoi.jpg,Kris Faafoi
-New Zealand,Member of the New Zealand Parliament,Louisa Wall,Q6688567,2020-11-25,2022-05-01,female,1972-02-17,,Louisa Wall.jpg,Louisa Wall
 New Zealand,Member of the New Zealand Parliament,Louise Upston,Q6688985,2020-11-25,,female,1971-03-14,,,Louise Upston
 New Zealand,Member of the New Zealand Parliament,Mark Mitchell,Q6768911,2020-11-25,,male,1968-05-22,,Mark Mitchell 2017.jpg,Mark Mitchell (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Megan Woods,Q6808764,2020-11-25,,female,1973-11-04,,Hon Dr Megan Woods.jpg,Megan Woods
