@@ -2741,7 +2741,7 @@ Cyprus,Q23881194,Kostas Clerides,father,Q66093898,Lefkos Clerides
 Cyprus,Q23881194,Kostas Clerides,relative,Q956928,Giorgos Syrimis
 Cyprus,Q262719,Androula Vassiliou,spouse,Q39180,Giorgos Vasiliou
 Cyprus,Q2634360,Marios Garoyian,father,Q113357820,Karembet Karoyian
-Cyprus,Q2957763,Harilaos Stavrakis,relative,Q66736023,Renos Stavrakis
+Cyprus,Q2957763,Charilaos Stavrakis,relative,Q66736023,Renos Stavrakis
 Cyprus,Q3161181,Nikolas Papadopoulos,father,Q200776,Tassos Papadopoulos
 Cyprus,Q3161181,Nikolas Papadopoulos,relative,Q16331287,Konstantinos Yiorkadjis
 Cyprus,Q317648,Glafcos Clerides,child,Q65942054,Keti Clerides
@@ -13621,7 +13621,6 @@ Spain,Q438185,Ana de Palacio y del Valle-Lersundi,mother,Q66486584,Luisa Mariana
 Spain,Q438185,Ana de Palacio y del Valle-Lersundi,relative,Q5895692,Hermann Tertsch
 Spain,Q438185,Ana de Palacio y del Valle-Lersundi,sibling,Q255657,Loyola de Palacio
 Spain,Q43840358,Celinda Sánchez García,relative,Q16473011,Fernando Fernández Tapias
-Spain,Q44098402,Emilio Garrigues,sibling,Q8201241,Antonio Garrigues Díaz-Cañabate
 Spain,Q44212932,Ana Cristina Guarinos López,spouse,Q14081739,Ángel Recio Blas
 Spain,Q44409235,Rafael Carriegas Robledo,father,Q55640538,Modesto Carriegas Pérez
 Spain,Q448547,Pedro Duque,spouse,Q5164526,Consuelo Femenía
@@ -13818,12 +13817,6 @@ Spain,Q8015,Artur Mas,spouse,Q20002921,Helena Rakòsnik
 Spain,Q8193492,Alberto Fernández Díaz,sibling,Q1297890,Jorge Fernández Díaz
 Spain,Q8194013,Alejandro Alvargonzález,sibling,Q5859165,Fernando Alvargonzález
 Spain,Q8198786,Andoni Ortuzar,child,Q110205001,Garazi Ortuzar
-Spain,Q8201241,Antonio Garrigues Díaz-Cañabate,child,Q3179763,Joaquín Garrigues Walker
-Spain,Q8201241,Antonio Garrigues Díaz-Cañabate,child,Q4679111,Antonio Garrigues Walker
-Spain,Q8201241,Antonio Garrigues Díaz-Cañabate,child,Q76260617,Jose Miguel Garrigues Walker
-Spain,Q8201241,Antonio Garrigues Díaz-Cañabate,sibling,Q28475249,Joaquín Garrigues Díaz-Cañabate
-Spain,Q8201241,Antonio Garrigues Díaz-Cañabate,sibling,Q44098402,Emilio Garrigues
-Spain,Q8201241,Antonio Garrigues Díaz-Cañabate,spouse,Q76260622,Helen Anne Walker
 Spain,Q8772477,Edurne Uriarte,partner,Q705911,José Ignacio Wert
 Spain,Q8846178,Eugenio Nasarre,sibling,Q5667042,Alfonso Nasarre Goicoechea
 Spain,Q8962443,Francisco Javier de Lucas Martín,sibling,Q107440542,Ignacio Miguel de Lucas Martín
@@ -14651,8 +14644,6 @@ Tunisia,Q3318790,Sakher El Materi,relative,Q204487,Zine El Abidine Ben Ali
 Tunisia,Q3318790,Sakher El Materi,relative,Q272559,Leïla Ben Ali
 Tunisia,Q3318790,Sakher El Materi,relative,Q3277799,Mahmoud El Materi
 Tunisia,Q3319366,Mokhtar Jallali,spouse,Q1356729,Naziha Réjiba
-Tunisia,Q3320538,Mondher Ben Ammar,child,Q3144896,Hélé Béji
-Tunisia,Q3320538,Mondher Ben Ammar,child,Q962765,Tarak Ben Ammar
 Tunisia,Q3486677,Slim Chaker,father,Q12246948,Mohamed Chaker
 Tunisia,Q4715,Moncef Marzouki,relative,Q51856127,Lotfi Bel Hadj
 Tunisia,Q4715,Moncef Marzouki,sibling,Q29577511,Mohamed Ali Bedoui
@@ -21475,6 +21466,7 @@ United States,Q529344,Ron Wyden,father,Q129364,Peter H. Wyden
 United States,Q529344,Ron Wyden,relative,Q63344,Franz Weidenreich
 United States,Q529344,Ron Wyden,spouse,Q87434148,Nancy Bass Wyden
 United States,Q5300433,Doug Ducey,spouse,Q26705101,Angela Ducey
+United States,Q5317971,Dwayne Alons,child,Q115164946,Kevin Alons
 United States,Q532220,Steve Beshear,child,Q21572825,Andy Beshear
 United States,Q532279,Jim Webb,father,Q20177358,James Henry Webb
 United States,Q532279,Jim Webb,spouse,Q20176971,Hong Le Webb
@@ -22081,6 +22073,7 @@ Yemen,Q59334780,Marwan Ahmed Damaj,father,Q28923609,Aḥmad Qāsim Dammāǧ
 Yemen,Q59334784,Wahy Taha Aman,relative,Q12237237,Lotfi gafar Aman
 Zambia,Q212058,Levy Mwanawasa,spouse,Q6792729,Maureen Mwanawasa
 Zambia,Q217500,Rupiah Banda,spouse,Q26923364,Thandiwe Banda
+Zambia,Q257156,Inonge Mbikusita-Lewanika,relative,Q1735746,Lewanika
 Zambia,Q299173,Michael Sata,spouse,Q27031231,Christine Kaseba
 Zambia,Q45383873,Rosaria Fundanga,spouse,Q1026537,Caleb Fundanga
 Zambia,Q45384819,Mutinta Mazoka,spouse,Q491631,Anderson Mazoka
