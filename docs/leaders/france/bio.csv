@@ -11,7 +11,7 @@ Q100323389,Edmond Pamboukjian,male,1943-06-14,11,,,,
 Q101001910,Serge Rosenblieh,male,,,,,,
 Q101089550,Guy Fleury,male,1941-10-19,11,2020-03-20,11,,
 Q101208129,Éric Montès,male,,,,,,
-Q101229059,Jean-Christophe Combe,male,1981-09-14,11,,,Photo officielle de Jean-Christophe Combe.jpg,Jean-Christophe Combe
+Q101229059,Jean-Christophe Combe,male,1981-09-14,11,,,,Jean-Christophe Combe
 Q101410,François Fillon,male,1954-03-04,11,,,François Fillon 2010.jpg,François Fillon
 Q102397670,Salina Grenet-Catalano,female,1973-07-24,11,,,,
 Q102397870,Guillaume Lemoine,male,,,,,,
@@ -207,7 +207,7 @@ Q112651732,Iñaki Echaniz,male,1993-09-02,11,,,,Iñaki Echaniz
 Q112651749,Sylvie Ferrer,female,1967-11-06,11,,,Sylvie ferrer manifestation.jpg,
 Q112651770,Benoît Mournet,male,1986-01-16,11,,,Benoît Mournet.jpg,
 Q112651844,Emmanuel Fernandes,male,1980-08-10,11,,,"M. Emmanuel Fernandes, député.jpg",
-Q112651884,Louise Morel,female,1995-10-15,11,,,Louise.png,Louise Morel
+Q112651884,Louise Morel,female,1995-10-15,11,,,,Louise Morel
 Q112652013,Didier Lemaire,male,1975-07-23,11,,,,
 Q112652262,Marie-Charlotte Garin,female,1995-09-02,11,,,,Marie-Charlotte Garin
 Q112652319,Sarah Tanzilli,female,1985-01-23,11,,,,
@@ -261,6 +261,7 @@ Q113375757,Agnès Carel,female,1968-06-09,11,,,,
 Q113376041,Laurent Esquenet-Goxes,male,1962-08-23,11,,,,
 Q113376374,Charlotte Goetschy-Bolognese,female,1990-07-21,11,,,,Charlotte Goetschy-Bolognese
 Q113471431,Ambre Louisin,female,,,,,,
+Q113754610,Anne Bergantz,female,1968-09-17,11,,,,
 Q113949956,Marc-Olivier Gendry,male,1948-06-15,11,,,,
 Q113957,Daniel Dubois,male,1952-02-05,11,,,Daniel Dubois mars 2011.JPG,Daniel Dubois (politician)
 Q114063198,Max Nublat,male,1931-05-11,11,2022-09-17,11,,
@@ -573,7 +574,7 @@ Q2271318,Laurence Dumont,female,1958-06-02,11,,,DeputeXIVeLegVeRep-Laurence Dumo
 Q2271848,Yves Censi,male,1964-02-08,11,,,Yves Censi - Sarkozy's meeting in Toulouse for the 2007 French presidential election 0082 2007-04-12.jpg,Yves Censi
 Q2271854,Alain Marc,male,1957-01-29,11,,,,Alain Marc
 Q2271863,Jean-Paul Dupré,male,1944-02-05,11,,,Jean-Paul Dupré.jpg,Jean-Paul Dupré
-Q2277769,Isabelle Attard,female,1969-11-14,11,,,Isabelle Attard.jpg,
+Q2277769,Isabelle Attard,female,1969-11-14,11,,,"Isabelle Attard, 2022 (cropped).jpg",
 Q2277782,Clotilde Valter,female,1962-06-24,11,,,Clotilde Valter 2015 Tour de France (2).jpg,
 Q2277941,Marie-Line Reynaud,female,1954-07-17,11,,,,Marie-Line Reynaud
 Q2287847,Simon Sutour,male,1952-08-18,11,,,Simon sutour.jpg,Simon Sutour
@@ -1957,12 +1958,12 @@ Q3186558,José Rossi,male,1944-06-18,11,,,,José Rossi
 Q3187411,Joël Hart,male,1945-07-13,11,,,,
 Q3187426,Joël Labbé,male,1952-10-18,11,,,Joel Labbé 07412 régionales 2015.jpg,
 Q3187452,Joël Regnault,male,1949-11-05,11,,,,
-Q3187459,Joël Sarlot,male,1946-07-05,11,2017-12-11,11,,Joël Sarlot
+Q3187459,Joël Sarlot,male,1946-07-05,11,2017-12-10,11,,Joël Sarlot
 Q3187485,Joëlle Bourgois,female,1945-12,10,2015-08-24,11,,
 Q3187503,Joëlle Huillier,female,1948-10-06,11,,,,Joëlle Huillier
 Q3189121,Juliana Rimane,female,1959-01-22,11,,,,Juliana Rimane
 Q3189272,Julie Sommaruga,female,1975-08-01,11,,,Sommaruga Taubira Picard 2-04-17 Malakoff (cropped).jpg,
-Q3189355,Julien Bayou,male,1980-06-11,11,,,20210819 j bayou 5828.jpg,Julien Bayou
+Q3189355,Julien Bayou,male,1980-06-11,11,,,"Julien Bayou, 2021 (cropped).jpg",Julien Bayou
 Q3189473,Julien Dray,male,1955-03-05,11,,,Paris - Salon du livre 2012 - Julien Dray - 001.jpg,Julien Dray
 Q3190819,Jérôme Bignon,male,1949-01-01,11,,,,Jérôme Bignon (politician)
 Q3190850,Jérôme Chartier,male,1966-11-14,11,,,Jérôme Chartier.jpg,Jérôme Chartier
@@ -2186,7 +2187,7 @@ Q33112583,Jean-Marin Schuh,male,1962-12-26,11,,,,
 Q33112889,René-Marie Bouin,male,1943-01-30,11,,,,
 Q33113534,Jean-Christophe Peaucelle,male,1959-01-18,11,,,,
 Q33115691,François Lecointre,male,1962-02-06,11,,,François Lecointre (27116106159) (cropped).jpg,François Lecointre
-Q3311582,Michèle Bonneton,female,1947-07-15,11,,,Michèle Bonneton - avril 2012.jpg,Michèle Bonneton
+Q3311582,Michèle Bonneton,female,1947-07-15,11,,,"Michèle Bonneton, 2012 (cropped).jpg",Michèle Bonneton
 Q3311616,Michèle Fournier-Armand,female,1946-07-28,11,,,,
 Q33116807,Hédi Picquart,male,1956-01-07,11,,,,
 Q33117389,Gilles Garachon,male,1955-03-11,11,,,,
