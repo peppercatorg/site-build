@@ -372,6 +372,7 @@ Q10901550,Bao Shuding,male,1939,9,,,,Bao Xuding
 Q10901595,Bao Hui,female,1963,9,,,,
 Q10901603,包明德,male,1945,9,,,,
 Q10904222,匡湧,,1963,9,,,,
+Q10904275,区永熙,male,1957,9,,,,
 Q10904279,区鉷,,1946,9,,,,
 Q10905608,Hua Boya,female,1963,9,,,,
 Q10905779,华明,,1973,9,,,,
@@ -430,6 +431,7 @@ Q10916417,叶瑜,female,1986,9,,,,
 Q10916467,Ye Yingchun,female,1970-01-23,11,,,,Ye Yingchun
 Q10916472,叶金生,male,1947,9,,,,
 Q10916482,叶露昆,male,1955,9,,,,
+Q10916486,叶顺兴,female,1953,9,,,,
 Q10916507,司启富,male,1960,9,,,,
 Q10916516,司富春,male,1963,9,,,,
 Q10916566,Si Xianmin,male,1957,9,,,,Si Xianmin
@@ -1689,8 +1691,6 @@ Q11181974,龚立群,,1955,9,,,,
 Q1134304,Dai Bingguo,male,1941-03-31,11,,,Dai Bingguo 051208-D-9880W-068.jpg,Dai Bingguo
 Q113652,Richard Frey,male,1920-02-11,11,2004-11-16,11,Richard Frey-1.jpg,Richard Frey
 Q1138806,Meng Xuenong,male,1949-08-08,11,,,,Meng Xuenong
-Q113903333,區永熙,male,1957,9,,,,
-Q113903363,葉順興,female,1953,9,,,,
 Q11573090,Wang Zhenguo,male,1954,9,,,,
 Q11643929,Zheng Shenxia,male,1942,9,,,,
 Q11728457,Joseph Liu Yuanren,male,1923-03-16,11,2005-04-20,11,,Joseph Liu Yuanren
@@ -4538,6 +4538,7 @@ Q19663495,Qiu Guanghe,male,1951,9,,,,Qiu Guanghe
 Q197178,Zhang Dejiang,male,1946-11-04,11,,,Zhang Dejiang.jpg,Zhang Dejiang
 Q197180,Zhang Gaoli,male,1946-11-01,11,,,Zhang-Gaoli 1.jpeg,Zhang Gaoli
 Q197216,Zhang Jindong Gleison Bremer,male,1963-03-28,11,,,,Zhang Jindong
+Q197272,Zhang Qingwei,male,1961-11-07,11,,,Zhang Qingwei.jpg,Zhang Qingwei
 Q197424,Zhao Benshan,male,1957-10-02,11,,,Zhao ben shan.JPG,Zhao Benshan
 Q197445,Zhao Kezhi,male,1953-12,10,,,Zhao Kezhi (cropped).jpg,Zhao Kezhi
 Q197964,Zhou Guangzhao,male,1929-05-15,11,,,,Zhou Guangzhao
@@ -4864,6 +4865,7 @@ Q3371437,Liu Zhongli,male,1934,9,,,,Liu Zhongli
 Q3371676,Paul Lei Shiyin,male,1963-10-13,11,,,,Paul Lei Shiyin
 Q3372286,Ashat Kerimbay,male,1947-11,10,,,,Ashat Kerimbay
 Q3372367,Wang Xiaotang,female,1934-01-04,11,,,王晓棠.jpg,Wang Xiaotang
+Q3372410,Ji Yunshi,male,1945-09,10,,,,Ji Yunshi
 Q3372968,Sun Zhongtong,male,1944,9,,,,Sun Zhongtong
 Q3373665,Xu Rongmao,male,1950-07,10,,,许荣茂接受中国新闻网采访.jpg,Xu Rongmao
 Q3373683,Shen Yueyue,female,1957-01-27,11,,,,Shen Yueyue
@@ -5298,7 +5300,7 @@ Q51103104,银燕,,1962,9,,,,
 Q51103110,戴元湖,,1962,9,,,,
 Q51103116,戴源,male,1962,9,,,,
 Q51103120,潘雪平,,1963,9,,,,
-Q51103124,蔡丽新,female,1971,9,,,,
+Q51103124,蔡丽新,female,1971,9,,,,Cai Lixin
 Q51103126,鲁曼,,1985,9,,,,
 Q51103130,焦新安,,1964-11,10,,,,
 Q51103135,凌屹,,1970-07,10,,,,
@@ -5371,7 +5373,7 @@ Q51103447,米玛国吉,,1977,9,,,,
 Q51103449,泽仁永宗,,1972,9,,,,
 Q51103452,格桑德吉,,1978,9,,,,
 Q51103457,彭措,,1958,9,,,,
-Q51103461,普布顿珠,,1972,9,,,,
+Q51103461,普布顿珠,male,1972,9,,,,Purpu Tonchup
 Q51103465,马乙四夫,,1970,9,,,,
 Q51103466,梅花,,1970-08,10,,,,
 Q51103470,于旭波,male,1966-01,10,,,,

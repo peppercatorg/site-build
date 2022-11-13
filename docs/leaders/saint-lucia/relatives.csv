@@ -2,3 +2,6 @@ catalog,id,name,relationship,relative,relativename
 Saint Lucia,Q16205063,Jeannine Compton-Antoine,father,Q716020,John Compton
 Saint Lucia,Q16205063,Jeannine Compton-Antoine,sibling,Q21964414,Nina Compton
 Saint Lucia,Q16205063,Jeannine Compton-Antoine,sibling,Q93710061,Fiona Compton
+Saint Lucia,Q716020,John Compton,child,Q16205063,Jeannine Compton-Antoine
+Saint Lucia,Q716020,John Compton,child,Q21964414,Nina Compton
+Saint Lucia,Q716020,John Compton,child,Q93710061,Fiona Compton

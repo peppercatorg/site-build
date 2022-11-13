@@ -1,5 +1,6 @@
 catalog,id,name,relationship,relative,relativename
 Estonia,Q107033991,Jonatan Vseviov,father,Q17447293,David Vseviov
+Estonia,Q113138530,Kristjan Järvan,father,Q61110992,Aare Järvan
 Estonia,Q1149033,Tõnis Lukas,spouse,Q12368723,Liina Lukas
 Estonia,Q11857954,Enn Eesmaa,father,Q12362179,Enno Eesmaa
 Estonia,Q11857954,Enn Eesmaa,sibling,Q15888056,Andra Veidemann
@@ -15,6 +16,8 @@ Estonia,Q12358062,Aadu Must,spouse,Q12379598,Ülle Must
 Estonia,Q12358575,Alar Karis,spouse,Q108296358,Sirje Karis
 Estonia,Q12358921,Allar Jõks,partner,Q17447251,Heidi Vilu
 Estonia,Q12359093,Ando Leps,father,Q12359961,August Leps
+Estonia,Q12359339,Anti Poolamets,sibling,Q115189677,Olev Poolamets
+Estonia,Q12360203,Barbi Pilvre,sibling,Q61111175,Glen Pilvre
 Estonia,Q12363696,Hele Everaus,father,Q50375504,Arnold Everaus
 Estonia,Q12363696,Hele Everaus,mother,Q50375505,Maimu Everaus
 Estonia,Q12364333,Ignar Fjuk,father,Q50375518,Vladislav Fjuk
@@ -115,6 +118,7 @@ Estonia,Q16404003,Arvo Sarapuu,spouse,Q12366820,Kersti Sarapuu
 Estonia,Q16404020,Mihhail Korb,father,Q4232659,Valeri Korb
 Estonia,Q16404146,Küllo Arjakas,father,Q50375232,Heinart Arjakas
 Estonia,Q16404146,Küllo Arjakas,mother,Q50375233,Ada Arjakas
+Estonia,Q16404493,Heidy Purga,partner,Q16408340,Jaanus Rohumaa
 Estonia,Q16404987,Toomas Järveoja,child,Q21706071,Martin Järveoja
 Estonia,Q16405288,Vootele Hansen,father,Q50375668,Sulev Hansen
 Estonia,Q16405288,Vootele Hansen,mother,Q50375669,Lehti Hansen
@@ -151,6 +155,7 @@ Estonia,Q18753192,Riina Solman,spouse,Q28355003,Rain Vändre
 Estonia,Q1916766,Meelis Atonen,father,Q50375279,Aleksander Atonen
 Estonia,Q1916766,Meelis Atonen,mother,Q50375280,Koidu Atonen
 Estonia,Q194000,Arnold Rüütel,spouse,Q457794,Ingrid Rüütel
+Estonia,Q19725706,Jaak Madison,partner,Q42888606,Merit Männiste
 Estonia,Q2012757,Mihhail Lotman,child,Q16406966,Maria-Kristiina Lotman
 Estonia,Q2012757,Mihhail Lotman,child,Q20528732,Rebekka Lotman
 Estonia,Q2012757,Mihhail Lotman,father,Q360084,Juri Lotman
@@ -183,8 +188,11 @@ Estonia,Q2621730,Jüri Ratas,spouse,Q111530599,Karin Ratas
 Estonia,Q26695944,Helle-Moonika Helme,spouse,Q1453245,Mart Helme
 Estonia,Q272240,Siiri Oviir,child,Q21009735,Liisa Oviir
 Estonia,Q272240,Siiri Oviir,spouse,Q1577141,Mihkel Oviir
+Estonia,Q27430407,Raimond Kaljulaid,partner,Q115189135,Maria Savisaare
 Estonia,Q27430407,Raimond Kaljulaid,sibling,Q12366816,Kersti Kaljulaid
+Estonia,Q27430407,Raimond Kaljulaid,spouse,Q115189146,Olga Makina
 Estonia,Q29420141,Ruuben Kaalep,father,Q405863,Ain Kaalep
+Estonia,Q355241,Edgar Savisaar,child,Q115189135,Maria Savisaare
 Estonia,Q355241,Edgar Savisaar,child,Q20528493,Erki Savisaar
 Estonia,Q355241,Edgar Savisaar,spouse,Q460589,Vilja Toomast
 Estonia,Q3735691,Eerik-Niiles Kross,father,Q161842,Jaan Kross
@@ -224,6 +232,7 @@ Estonia,Q463099,Andres Tarand,father,Q12363784,Helmut Tarand
 Estonia,Q463099,Andres Tarand,spouse,Q12369753,Mari Tarand
 Estonia,Q4756115,Andres Herkel,mother,Q50375767,Alide-Johanna Herkel
 Estonia,Q509232,Maret Maripuu,spouse,Q5993313,Igor Gräzin
+Estonia,Q52704406,Riina Sikkut,spouse,Q61110229,Siim Sikkut
 Estonia,Q535290,Marianne Mikko,spouse,Q16407596,Peter Andrekson
 Estonia,Q544472,Maimu Berg,child,Q544426,Julia Laffranque
 Estonia,Q544472,Maimu Berg,father,Q50375304,Helmut Seping
@@ -238,13 +247,17 @@ Estonia,Q57289,Toomas Hendrik Ilves,spouse,Q299339,Evelin Ilves
 Estonia,Q5993313,Igor Gräzin,spouse,Q509232,Maret Maripuu
 Estonia,Q6000205,Lavly Perling,spouse,Q1424510,Jüri Pihl
 Estonia,Q6109557,Jaak Juske,father,Q16408051,Ants Juske
+Estonia,Q61111821,Siim Pohlak,partner,Q12373841,Renate
 Estonia,Q620859,Toomas Tõniste,sibling,Q620855,Tõnu Tõniste
 Estonia,Q6321970,Jüri Mõis,spouse,Q12376882,Tiina Mõis
+Estonia,Q64850482,Signe Riisalo,spouse,Q27430393,Tiit Riisalo
 Estonia,Q704436,Jüri Jaanson,father,Q50375980,Arno Jaanson
 Estonia,Q704436,Jüri Jaanson,mother,Q50375983,Elle-Mare Jaanson
+Estonia,Q704436,Jüri Jaanson,spouse,Q12376579,Tatjana Jaanson
 Estonia,Q788525,Paul-Eerik Rummo,father,Q12372088,Paul Rummo
 Estonia,Q788525,Paul-Eerik Rummo,sibling,Q16407271,Lea Tormis
 Estonia,Q788525,Paul-Eerik Rummo,spouse,Q2524110,Viiu Härm
+Estonia,Q9142838,Ain Seppik,spouse,Q16404571,Malle Seppik
 Estonia,Q955751,Liia Hänni,child,Q50698410,Kristjan Hänni
 Estonia,Q955751,Liia Hänni,father,Q50375877,Friedrich Juulik
 Estonia,Q955751,Liia Hänni,mother,Q50375878,Alma Juulik
