@@ -1,6 +1,6 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Brazil,President,Fernando Henrique Cardoso,Q230578,1995-01-01,2003-01-01,male,1931-06-18,,Fernando Henrique Cardoso (1999).jpg,Fernando Henrique Cardoso
-Brazil,President,Luiz Inácio Lula da Silva,Q37181,2003-01-01,2011-01-01,male,1945-10-27,,,Luiz Inácio Lula da Silva
+Brazil,President,Luiz Inácio Lula da Silva,Q37181,2003-01-01,2011-01-01,male,1945-10-27,,Alberto Fernández y Luiz Inácio Lula da Silva en São Paulo 2022 (3) (cropped).jpg,Luiz Inácio Lula da Silva
 Brazil,President,Dilma Rousseff,Q40722,2011-01-01,2016-08-31,female,1947-12-14,,Dilma Rousseff - foto oficial 2011-01-09 2 (cropped).jpg,Dilma Rousseff
 Brazil,President,Michel Temer,Q463533,2016-08-31,2019-01-01,male,1940-09-23,,Presidente Michel Temer (foto oficial) - cortada.jpg,Michel Temer
 Brazil,President,Jair Bolsonaro,Q10304982,2019-01-01,,male,1955-03-21,,2022-09-07 Desfile Cívico-Militar por ocasião das Comemorações do Bicentenário da Independência do Brasil - 52341366768 (cropped).jpg,Jair Bolsonaro
@@ -10,6 +10,10 @@ Brazil,Vice President,Hamilton Mourão,Q52871852,2019-01-01,,male,1953-08-15,,20
 Brazil,Minister of Agrarian Development,Raul Jungmann,Q10357609,1999-11-26,2002-04-04,male,1952-04-03,,Raul Jungmann posse Min Seg Pública.jpg,Raul Jungmann
 Brazil,Minister of Agriculture,Tereza Cristina Corrêa da Costa Dias,Q10380562,2019-01-01,2022-03-31,female,1954-07-06,,Tereza Cristina em 18 de julho de 2019.jpg,Tereza Cristina
 Brazil,Minister of Agriculture,Marcos Montes Cordeiro,Q10325465,2022-03-31,,male,1949-08-03,,Marcos Montes cropped.png,
+Brazil,Minister of Cities,Mário Negromonte,Q10334497,2011-01-03,2012-02-02,male,1950-07-06,,Mario negromonte.jpg,Mário Negromonte
+Brazil,Minister of Cities,Elton Santa Fé Zacarias,Q100481143,2015-02-12,2016-04-26,male,1961,,"CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática (32906410533).jpg",
+Brazil,Minister of Cities,Inês da Silva Magalhães,Q25439030,2016-04-15,2016-05-12,female,1963,,Bild von Inês Magalhães.jpg,
+Brazil,Minister of Cities,Marco Aurélio de Queiroz Campos,Q100700851,2017-05-19,2017-12-20,male,1971,,,
 Brazil,Minister of Citizenship,Osmar Terra,Q10342262,2019-01-01,2020-02-13,male,1950-02-18,,Osmar Terra em 19 de julho de 2019 (recorte).jpg,Osmar Terra
 Brazil,Minister of Citizenship,Onyx Lorenzoni,Q10341050,2020-02-18,2021-02-12,male,1954-10-03,,Onyx Lorenzoni em 2019.jpg,Onyx Lorenzoni
 Brazil,Minister of Citizenship,João Roma,Q59204311,2021-02-12,2022-03-31,male,1972-11-17,,João Roma.png,João Roma
@@ -113,10 +117,10 @@ Brazil,Minister of Mines and Energy,Adolfo Sachsida,Q65936522,2022-05-11,,male,1
 Brazil,Minister for National Integration,Mary Dayse Kinzo,Q100275893,2002-04-05,2002-06-06,female,,,,
 Brazil,Minister for National Integration,Carlos Antônio Vieira Fernandes,Q100466653,2016-03-02,2016-04-16,male,1961,,,
 Brazil,Minister for National Integration,Helder Barbalho,Q3784499,2016-05-12,2018-04-06,male,1979-05-18,,Helder Barbalho em abril de 2019.jpg,Helder Barbalho
+Brazil,Minister of National Security,Raul Jungmann,Q10357609,2018-02-27,2019-01-01,male,1952-04-03,,Raul Jungmann posse Min Seg Pública.jpg,Raul Jungmann
 Brazil,Minister of Regional Development,Gustavo Canuto,Q60395001,2019-01-01,2020-02-06,male,1949,,Gustavo Canuto (cropped).jpg,Gustavo Canuto
 Brazil,Minister of Regional Development,Rogério Marinho,Q10364098,2020-02-11,2022-03-31,male,1963-11-26,,Entrevistas Diversas (33317612900).jpg,Rogério Simonetti Marinho
 Brazil,Minister of Regional Development,Daniel de Oliveira,Q111446676,2022-03-31,,male,,,,
-Brazil,Minister of National Security,Raul Jungmann,Q10357609,2018-02-27,2019-01-01,male,1952-04-03,,Raul Jungmann posse Min Seg Pública.jpg,Raul Jungmann
 Brazil,"Minister of Science, Technology, Innovations and Communications",Ronaldo Sardenberg,Q7365442,1999,2002,male,1940-10-08,,RonaldoSardenberg200802ElzaFiuzaAgenciaBrasil.jpg,Ronaldo Mota Sardenberg
 Brazil,"Minister of Science, Technology, Innovations and Communications",Marcos Pontes,Q317643,2019-01-01,2022-03-31,male,1963-03-11,,Marcos Pontes.jpg,Marcos Pontes
 Brazil,"Minister of Science, Technology, Innovations and Communications",Paulo Alvim,Q111444580,2022-03-31,,male,,,Ministro Paulo Alvim.jpg,

@@ -519,6 +519,7 @@ Australia,Q5145502,Colin Rattray,child,Q7683259,Tania Rattray
 Australia,Q51743401,Clare Scriven,child,Q54488095,Isabel Scriven
 Australia,Q518856,Nicola Roxon,relative,Q6548204,Lillian Roxon
 Australia,Q5195856,Curtis Pitt,father,Q7970426,Warren Pitt
+Australia,Q52074546,Penny Pratt,father,Q6848451,Mike Pratt
 Australia,Q5214486,Dan Tehan,mother,Q6763048,Marie Tehan
 Australia,Q5214871,Dana Wortley,spouse,Q7381884,Russell Wortley
 Australia,Q5231953,David Bushby,father,Q6794627,Max Bushby
@@ -2328,7 +2329,7 @@ China,Q698688,Li Xiaopeng,spouse,Q112109893,Tang Wen
 China,Q700149,Vincent Lo,child,Q106823602,Stephanie Lo
 China,Q700149,Vincent Lo,child,Q106823609,Adrian Lo Chun-shing
 China,Q700149,Vincent Lo,father,Q16903419,Lo Ying Shek
-China,Q700149,Vincent Lo,sibling,Q113901741,
+China,Q700149,Vincent Lo,sibling,Q8999942,Luo Jiarui
 China,Q700149,Vincent Lo,sibling,Q9327083,Luo Xurui
 China,Q700149,Vincent Lo,spouse,Q6668898,Loletta Chu
 China,Q700167,Victor Li,father,Q20151,Li Ka-shing
@@ -3383,6 +3384,7 @@ Egypt,Q34105,Hosni Mubarak,spouse,Q238529,Suzanne Mubarak
 Egypt,Q4631,Mohamed Morsi,child,Q67157867,Abdullah Morsi
 Egypt,Q4631,Mohamed Morsi,spouse,Q3080090,Naglaa Mahmoud
 Egypt,Q4696067,Ahmed Zaki Badreldin,father,Q8065083,Zaki Badr
+El Salvador,Q17712353,Nayib Bukele,father,Q103824970,Armando Bukele Kattán
 El Salvador,Q61022687,"Félix Ulloa, Jr.",father,Q2880716,Félix Antonio Ulloa
 Equatorial Guinea,Q103916282,Victoriano Bibang Nsue Okomo,sibling,Q45147779,Constancia Mangue
 Equatorial Guinea,Q104702792,Mari-Cruz Evuna Andeme,father,Q112162958,Alejandro Evuna Owono Asangono
@@ -3991,6 +3993,7 @@ European Union,Q1922673,Gilbert Collard,spouse,Q58178378,Anne-Marie Collard
 European Union,Q19320457,Carolina Punset,father,Q3045769,Eduard Punset
 European Union,Q19320457,Carolina Punset,sibling,Q5830022,Elsa Punset
 European Union,Q19320457,Carolina Punset,spouse,Q20978992,Alexis Frederic Marí Malonda
+European Union,Q19725706,Jaak Madison,partner,Q42888606,Merit Männiste
 European Union,Q1985836,Niclas Herbst,spouse,Q50943765,Kristina Herbst
 European Union,Q1986007,Nico Semsrott,sibling,Q33228764,Arne Semsrott
 European Union,Q20016702,Javier Zarzalejos,father,Q22082558,José Antonio Zarzalejos Altares
@@ -4147,6 +4150,8 @@ European Union,Q3081393,Francis Decourrière,child,Q2321787,Valérie Létard
 European Union,Q3082669,Ulla Tørnæs,father,Q12324045,Laurits Tørnæs
 European Union,Q3091817,Geneviève Fraisse,father,Q3091001,Paul Fraisse
 European Union,Q3091817,Geneviève Fraisse,mother,Q19574022,Simone Fraisse
+European Union,Q310046,Peter Mandelson,father,Q75603598,George Norman Mandelson
+European Union,Q310046,Peter Mandelson,mother,Q75603594,Mary Joyce Morrison
 European Union,Q3102761,Georges Garot,child,Q3119861,Guillaume Garot
 European Union,Q311063,Poul Nyrup Rasmussen,spouse,Q3499031,Lone Dybkjær
 European Union,Q312901,Josep Borrell,child,Q40255792,Joan Borrell Mayeur
@@ -6465,6 +6470,7 @@ Hungary,Q1421019,János Veres,spouse,Q755906,Alexandra Dobolyi
 Hungary,Q1460530,Dávid Vitézy,father,Q1460528,László Vitézy
 Hungary,Q1460530,Dávid Vitézy,mother,Q220714,Ágnes Hankiss
 Hungary,Q155684,Gyula Horn,relative,Q1034477,Szófia Havas
+Hungary,Q15572400,Mózes Csoma,father,Q109278641,Gergely Csoma
 Hungary,Q15838619,Judit Csehák,spouse,Q854023,László Békesi
 Hungary,Q16194310,Tamás Sáringer-Kenyeres,father,Q1636403,Gyula Sáringer
 Hungary,Q16201211,Miklós Seszták,father,Q51881019,László Seszták
@@ -8633,6 +8639,7 @@ Italy,Q956652,Renato Ruggiero,child,Q3934610,Riccardo Ruggiero
 Italy,Q958889,Pietro Ichino,sibling,Q3615787,Andrea Ichino
 Italy,Q971234,Gianni Pittella,father,Q16550409,Domenico Pittella
 Italy,Q971234,Gianni Pittella,sibling,Q15829777,Marcello Pittella
+Italy,Q976712,Flavio Tosi,partner,Q15401878,Patrizia Bisinella
 Italy,Q98099375,Andrea Barabotti,partner,Q58885861,Susanna Ceccardi
 Italy,Q981692,Vittorio Colao,sibling,Q113585525,Paolo Colao
 Italy,Q99528831,Lucia Matergi,spouse,Q112613607,Nino Muzzi
@@ -8671,6 +8678,8 @@ Japan,Q11364418,Katsuhito Nakajima,father,Q11364572,Mahito Nakajima
 Japan,Q1141271,Yoshimasa Hayashi,father,Q5462919,Yoshirō Hayashi
 Japan,Q11446167,Seisuke Okuno,child,Q11446158,Masahiro Okuno-Fujiwara
 Japan,Q11446167,Seisuke Okuno,child,Q7497769,Shinsuke Okuno
+Japan,Q11454603,Kensuke Miyazaki,spouse,Q11646784,Megumi Kaneko
+Japan,Q11454603,Kensuke Miyazaki,spouse,Q18701018,Ayuko Kato
 Japan,Q11458035,Itsurō Terada,father,Q11458010,Jirō Terada
 Japan,Q11458942,Masanobu Ogura,spouse,Q11476371,Mai Shimamoto
 Japan,Q11463874,Sadatoshi Ozato,child,Q8049988,Yasuhiro Ozato
@@ -8767,6 +8776,7 @@ Japan,Q1736802,Katsusada Hirose,sibling,Q11485641,Michisada Hirose
 Japan,Q1736802,Katsusada Hirose,sibling,Q21701540,Sadao Hirose
 Japan,Q186146,Yōhei Kōno,child,Q1161024,Taro Kono
 Japan,Q186146,Yōhei Kōno,father,Q5363958,Ichirō Kōno
+Japan,Q18701018,Ayuko Kato,father,Q49976,Koichi Kato
 Japan,Q188095,Toranosuke Katayama,child,Q26044301,Daisuke Katayama
 Japan,Q1995125,Nobuo Kishi,father,Q27917602,Nobukazu Kishi
 Japan,Q1995125,Nobuo Kishi,father,Q318209,Shintarō Abe
@@ -14451,6 +14461,7 @@ Taiwan,Q8974503,Chung Shao-ho,child,Q97276076,鍾易仲
 Taiwan,Q8981918,Annie Lee,father,Q315528,Lee Teng-hui
 Taiwan,Q8981918,Annie Lee,mother,Q8264155,Tseng Wen-hui
 Taiwan,Q8984370,Chen Fu-hai,mother,Q113026202,陳鄭翠紅
+Taiwan,Q8991767,Christina Liu,mother,Q7207296,Shirley Kuo
 Taiwan,Q9130647,Yu Mei-nu,spouse,Q55829919,Remington Huang
 Taiwan,Q9141091,Hsu Hsin-ying,sibling,Q22099965,徐世勳
 Taiwan,Q9182314,Chen Chien-jen,father,Q22099625,Chen Hsin-an
@@ -20999,7 +21010,7 @@ United States,Q22686,Donald Trump,spouse,Q242351,Ivana Trump
 United States,Q22686,Donald Trump,spouse,Q2597050,Marla Maples
 United States,Q22686,Donald Trump,spouse,Q432473,Melania Trump
 United States,Q22994482,Trevor Traina,father,Q22994131,John Traina
-United States,Q22994482,Trevor Traina,mother,Q16106853,Dede Wilsey
+United States,Q22994482,Trevor Traina,mother,Q16106853,Dedle Wilisey
 United States,Q22994482,Trevor Traina,sibling,Q7812683,Todd Traina
 United States,Q230303,Caroline Kennedy,child,Q15149340,Jack Schlossberg
 United States,Q230303,Caroline Kennedy,child,Q21012764,Rose Schlossberg
