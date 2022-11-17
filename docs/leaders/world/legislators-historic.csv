@@ -1,4 +1,13 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+World,member of the Andean Parliament,Hilaria Supa,Q463554,2011,2016,female,1957-12-28,,Emigrantes de Pueblos Andinos y Amazónicos.jpg,Hilaria Supa
+World,member of the Andean Parliament,Mariano González Fernández,Q25930834,2016-07-28,,male,1968-06-26,,Marianogonzalez (cropped).jpg,
+World,member of the Andean Parliament,Estelita Bustos,Q30064133,2021,,female,1978-04-03,,Estelitabustos.jpg,
+World,Member of the Pan-African Parliament,Hasna Mohamed Dato,Q16193066,2004,2009,female,1959-11-10,,,Hasna Mohamed Dato
+World,Member of the Pan-African Parliament,Gertrude Mongella,Q455223,2004,,female,1945-09-13,,Gertrude Mongella crop.jpg,Gertrude Mongella
+World,Member of the Pan-African Parliament,Verónica Macamo,Q6722501,2004,,female,1957-11-13,,"President of National Assembly, Veronica Macamo, at Maputo, in Mozambique (cropped).jpg",Verónica Macamo
+World,Member of the Pan-African Parliament,Marie Blandine Sawadogo,Q6762766,2004,,female,,,,Marie Blandine Sawadogo
+World,Member of the Pan-African Parliament,Théophile Nata,Q7799883,2004,2022-06-11,male,1947,2022-06-11,,Théophile Nata
+World,Member of the Pan-African Parliament,Belco Samassékou,Q110656156,2014,2020,female,1970-06-07,,,
 World,Representative of the Parliamentary Assembly of the Council of Europe,Jacques Baumel,Q1242626,1981-09-30,2002-09-03,male,1918-03-06,2006-02-17,Jacques Baumel.jpg,Jacques Baumel
 World,Representative of the Parliamentary Assembly of the Council of Europe,Lluís Maria de Puig,Q1866967,1984-05-07,2011-04-11,male,1945-07-29,2012-12-12,,
 World,Representative of the Parliamentary Assembly of the Council of Europe,Ulrich Irmer,Q113498,1987-05-04,2003-01-27,male,1939-01-19,2022-04-12,,
@@ -517,7 +526,7 @@ World,Representative of the Parliamentary Assembly of the Council of Europe,Hube
 World,Representative of the Parliamentary Assembly of the Council of Europe,Joachim Hörster,Q1690199,2003-01-27,2014-01-26,male,1945-03-26,2020-12-30,Joachim Hörster 2010.jpg,
 World,Representative of the Parliamentary Assembly of the Council of Europe,Karl Donabauer,Q1730753,2003-01-27,2014-01-26,male,1945-05-19,,,
 World,Representative of the Parliamentary Assembly of the Council of Europe,Michael Roth,Q1929074,2003-01-27,2005-12-31,male,1970-08-24,,Foto StM Michael Roth.jpeg,Michael Roth (politician)
-World,Representative of the Parliamentary Assembly of the Council of Europe,Stojan Andov,Q1968223,2003-01-27,2005-01-24,male,1935-11-30,,,Stojan Andov
+World,Representative of the Parliamentary Assembly of the Council of Europe,Stojan Andov,Q1968223,2003-01-27,2005-01-24,male,1935-11-30,,Стојан Андов (1996) (1).jpg,Stojan Andov
 World,Representative of the Parliamentary Assembly of the Council of Europe,Konstantin Penchev,Q20497127,2003-01-27,2003-10-02,male,1952-03-21,,,
 World,Representative of the Parliamentary Assembly of the Council of Europe,Rudolf Kraus,Q2173224,2003-01-27,2003-03-31,male,1941-02-27,2018-05-18,,
 World,Representative of the Parliamentary Assembly of the Council of Europe,Victor Stepaniuc,Q2329973,2003-01-27,2005-09-01,male,1958-07-13,,Victor Stepaniuc (2012-04-06).png,Victor Stepaniuc
@@ -1546,7 +1555,7 @@ World,Representative of the Parliamentary Assembly of the Council of Europe,Mort
 World,Representative of the Parliamentary Assembly of the Council of Europe,Ingjerd Schou,Q1770438,2013-11-22,,female,1955-01-20,,Ingjerd Schou sentralbanksjefens årstale 2017 Norges Bank (175301).jpg,Ingjerd Schou
 World,Representative of the Parliamentary Assembly of the Council of Europe,Akif Çağatay Kılıç,Q418025,2013-11-22,2014-01-26,male,1976-06-15,,"AkifÇağatayKılıç, Minister of Youth and Sports (May 2014).JPG",Akif Çağatay Kılıç
 World,Representative of the Parliamentary Assembly of the Council of Europe,Mehmet Kasım Gülpınar,Q65499265,2013-11-22,2015-11-27,male,1969-09-20,,,
-World,Representative of the Parliamentary Assembly of the Council of Europe,Nazmi Gür,Q65499450,2013-11-22,2015-11-26,,1965-03-15,,,
+World,Representative of the Parliamentary Assembly of the Council of Europe,Nazmi Gür,Q65499450,2013-11-22,2015-11-26,male,1965-03-15,,,
 World,Representative of the Parliamentary Assembly of the Council of Europe,Reha Denemeç,Q7309731,2013-11-22,2015-11-26,male,1961,,,Reha Denemeç
 World,Representative of the Parliamentary Assembly of the Council of Europe,Snorre Valen,Q981680,2013-11-22,2017-11-23,male,1984-09-16,,Snorre Valen (203849).jpg,Snorre Valen
 World,Representative of the Parliamentary Assembly of the Council of Europe,Dana Váhalová,Q11774191,2014-01-27,2018-01-21,female,1966-05-28,,,
@@ -1615,7 +1624,7 @@ World,Representative of the Parliamentary Assembly of the Council of Europe,Ksen
 World,Representative of the Parliamentary Assembly of the Council of Europe,Ana Catarina Mendes,Q65498266,2014-09-29,2022-06-19,female,1973-01-14,,Ana Catarina Mendes.png,Ana Catarina Mendes
 World,Representative of the Parliamentary Assembly of the Council of Europe,Salvador Sedó i Alabarta,Q9073074,2014-09-29,2016-01-24,male,1969-04-03,,"Sedó i Alabart, Salvador-2622.jpg",
 World,Representative of the Parliamentary Assembly of the Council of Europe,Florina Jipa,Q12728442,2014-11-18,2017-01-22,male,1944-06-03,,,
-World,Representative of the Parliamentary Assembly of the Council of Europe,Niklas Karlsson,Q16633140,2014-11-18,2019-01-20,male,1974-06-18,,Niklas Karlsson.jpg,
+World,Representative of the Parliamentary Assembly of the Council of Europe,Niklas Karlsson,Q16633140,2014-11-18,2019-01-20,male,1974-06-18,,Niklas Karlsson.jpg,Niklas Karlsson
 World,Representative of the Parliamentary Assembly of the Council of Europe,Nicole Duranton,Q18202594,2014-11-18,,female,1958-10-13,,Nicole Duranton 20170830.jpg,
 World,Representative of the Parliamentary Assembly of the Council of Europe,Tina Ghasemi,Q18239164,2014-11-18,2017-04-23,female,1985-05-23,,Tina Ghasemi.jpg,Tina Ghasemi
 World,Representative of the Parliamentary Assembly of the Council of Europe,Stefaan Vercamer,Q2586065,2014-11-18,,male,1961-06-09,,,
@@ -4264,7 +4273,7 @@ World,Substitute member of the Parliamentary Assembly of the Council of Europe,N
 World,Substitute member of the Parliamentary Assembly of the Council of Europe,Richard Balfe,Q3915820,2015-11-27,,male,1944-05-14,,"Official portrait of Lord Balfe crop 2.1, 2019.jpg",Richard Balfe
 World,Substitute member of the Parliamentary Assembly of the Council of Europe,Virendra Sharma,Q478387,2015-11-27,2017-01-22,male,1947-04-05,,Official portrait of Mr Virendra Sharma crop 2.jpg,Virendra Sharma
 World,Substitute member of the Parliamentary Assembly of the Council of Europe,Burhanettin Uysal,Q6097749,2015-11-27,2018-10-07,male,1967-06-20,2021-05-03,,Burhanettin Uysal
-World,Substitute member of the Parliamentary Assembly of the Council of Europe,Vedat Bilgin,Q6102989,2015-11-27,2018-10-07,male,1954,,VB fotografı.png,Vedat Bilgin
+World,Substitute member of the Parliamentary Assembly of the Council of Europe,Vedat Bilgin,Q6102989,2015-11-27,2018-10-07,male,1954,,,Vedat Bilgin
 World,Substitute member of the Parliamentary Assembly of the Council of Europe,Mehmet Kasım Gülpınar,Q65499265,2015-11-27,,male,1969-09-20,,,
 World,Substitute member of the Parliamentary Assembly of the Council of Europe,Serap Yaşar,Q65499586,2015-11-27,2016-01-25,female,1965,,,
 World,Substitute member of the Parliamentary Assembly of the Council of Europe,Şirin Ünal,Q65499589,2015-11-27,2018-10-07,male,1954-08-11,,,

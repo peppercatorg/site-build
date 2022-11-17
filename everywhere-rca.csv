@@ -205,6 +205,8 @@ Argentina,Q3072494,Juan Manuel Abal Medina,sibling,Q616956,Fernando Abal Medina
 Argentina,Q312358,Adolfo Rodríguez Saá,father,Q106866382,Carlos Juan Rodríguez Saá
 Argentina,Q312358,Adolfo Rodríguez Saá,relative,Q4684272,Adolfo Rodríguez Saá
 Argentina,Q312358,Adolfo Rodríguez Saá,sibling,Q4712180,Alberto Rodríguez Saá
+Argentina,Q3417215,Rafael Bielsa,sibling,Q31575,Marcelo Bielsa
+Argentina,Q3417215,Rafael Bielsa,sibling,Q6781999,María Eugenia Bielsa
 Argentina,Q3479675,Sergio Massa,spouse,Q20016345,Malena Galmarini
 Argentina,Q40649,Cristina Fernández de Kirchner,child,Q15719117,Máximo Kirchner
 Argentina,Q40649,Cristina Fernández de Kirchner,child,Q15719141,Florencia Kirchner
@@ -582,6 +584,7 @@ Australia,Q6207164,Jocelyn Newman,spouse,Q6397088,Kevin Newman
 Australia,Q6213257,Joel Bowden,father,Q6828756,Michael Bowden
 Australia,Q6217360,John-Paul Langbroek,sibling,Q6375591,Kate Langbroek
 Australia,Q6228875,John Dawkins,father,Q18808763,Boyd Dawkins
+Australia,Q6228875,John Dawkins,relative,Q1466753,John Dawkins
 Australia,Q6248320,John McVeigh,father,Q7816862,Tom McVeigh
 Australia,Q6260894,John Tingle,child,Q23770316,Laura Tingle
 Australia,Q6270716,Jon Ford,spouse,Q7405306,Sally Talbot
@@ -1356,6 +1359,9 @@ Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q17278001,Maria de Lurdes da Sil
 Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q4199383,Marisa Letícia Lula da Silva
 Brazil,Q3784499,Helder Barbalho,father,Q3806086,Jader Barbalho
 Brazil,Q379563,José Serra,spouse,Q10334811,Mónica Serra
+Brazil,Q3806086,Jader Barbalho,child,Q3784499,Helder Barbalho
+Brazil,Q3806086,Jader Barbalho,father,Q3828274,Laércio Wilson Barbalho
+Brazil,Q3806086,Jader Barbalho,spouse,Q10271244,Elcione Barbalho
 Brazil,Q384804,Tiririca,child,Q26256185,Tirullipa
 Brazil,Q40722,Dilma Rousseff,child,Q17277976,Paula Rousseff
 Brazil,Q40722,Dilma Rousseff,father,Q17277984,Pedro Rousseff
@@ -6043,6 +6049,7 @@ Germany,Q920705,Britta Ernst,spouse,Q61053,Olaf Scholz
 Germany,Q95574,Johanna Wanka,spouse,Q1515368,Gert Wanka
 Germany,Q96735,Sabine Bätzing-Lichtenthäler,relative,Q1503851,Georg Bätzing
 Germany,Q96967,Marieluise Beck,spouse,Q106200,Ralf Fücks
+Germany,Q97097761,Benjamin Limbach,father,Q94866019,Peter Limbach
 Germany,Q97097761,Benjamin Limbach,mother,Q72551,Jutta Limbach
 Germany,Q97311,Konrad Schily,child,Q108733806,Ophelia Nick
 Germany,Q97311,Konrad Schily,sibling,Q60788,Otto Schily
@@ -12103,6 +12110,7 @@ Russia,Q217115,Ramzan Kadyrov,child,Q112992792,Aishat Kadyrova
 Russia,Q217115,Ramzan Kadyrov,father,Q297006,Akhmad Kadyrov
 Russia,Q217115,Ramzan Kadyrov,mother,Q21887442,Aymani Kadyrova
 Russia,Q217115,Ramzan Kadyrov,relative,Q4207417,Khalid Kadyrov
+Russia,Q217115,Ramzan Kadyrov,spouse,Q115207332,Медни Кадырова
 Russia,Q233812,Irina Rodnina,child,Q4738675,Alyona Minkovski
 Russia,Q233812,Irina Rodnina,spouse,Q956655,Alexander Gennadiyevich Zaitsev
 Russia,Q23530,Dmitry Medvedev,spouse,Q234259,Svetlana Medvedeva
@@ -12222,6 +12230,7 @@ Russia,Q4441872,Zoya Stepanova,spouse,Q4514356,Mikhail Chernyshyov
 Russia,Q4451697,Sergey Tarasov,spouse,Q4113122,Varvara Vladimirova
 Russia,Q4459965,Pyotr Olegovich Tolstoy,father,Q66022202,Oleg Tolstoy
 Russia,Q4459965,Pyotr Olegovich Tolstoy,mother,Q66022682,Olga Tolstaya
+Russia,Q4459965,Pyotr Olegovich Tolstoy,relative,Q4459931,Vladimir Tolstoy
 Russia,Q4460667,Maxim Topilin,spouse,Q110991573,Maria Topilina
 Russia,Q446865,Nikolai Patrushev,child,Q18043712,Dmitry Patrushev
 Russia,Q4494406,Radiy Khabirov,father,Q59200086,Farit Khabirov
@@ -14353,8 +14362,10 @@ Taiwan,Q5371883,Chiang Hsiao-yen,sibling,Q5095188,Chiang Hsiao-yung
 Taiwan,Q5371883,Chiang Hsiao-yen,sibling,Q8026049,Winston Chang
 Taiwan,Q5386280,Eric Chu,relative,Q8273349,Kao Yu-jen
 Taiwan,Q551904,Su Tseng-chang,child,Q19825781,Su Chiao-hui
-Taiwan,Q556828,Liu Chao-shiuan,father,Q8274501,Liu Kuo-yun
+Taiwan,Q556828,Liu Chao-shiuan,father,Q8274501,Liu Goo Yun
+Taiwan,Q556828,Liu Chao-shiuan,relative,Q5386981,Eric Liu
 Taiwan,Q556828,Liu Chao-shiuan,sibling,Q10899428,Liu Chao-kai
+Taiwan,Q556828,Liu Chao-shiuan,sibling,Q115214146,Chao-hua Liu
 Taiwan,Q556828,Liu Chao-shiuan,sibling,Q8990897,Liu Chao-Han
 Taiwan,Q558718,Lien Chan,child,Q16260705,Lien Yung-hsin
 Taiwan,Q558718,Lien Chan,child,Q19825813,Lien Sheng-wu

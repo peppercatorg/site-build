@@ -25,9 +25,9 @@ Q105675478,Nima Gholam Ali Pour,male,1981-11-29,11,,,Nima Gholam Ali Pour 2019.j
 Q105679831,Nike Örbrink,female,1997-02-01,11,,,Nike Örbrink-scaled.jpg,
 Q10575345,Magnus Sjödahl,male,1958-08-13,11,,,Magnus Sjödahl 01.JPG,
 Q10578332,Mathias Sundin,male,1978-03-31,11,,,Mathias Sundin.jpg,
-Q105928301,Markus Kallifatides,male,1972-04-18,11,,,,
+Q105928301,Markus Kallifatides,male,1972-04-18,11,,,,Markus Kallifatides
 Q10678024,Stefan Käll,male,1962,9,,,,
-Q106783058,Lars Isacsson,male,1970,9,,,Lars Isacsson.jpg,
+Q106783058,Lars Isacsson,male,1970,9,,,Lars Isacsson.jpg,Lars Isacsson
 Q106785041,Daniel Färm,male,1972,9,,,,
 Q106862214,Lars Johnsson,male,1964-06-22,11,,,,
 Q106862781,Jessica Rodén,female,1976-12-03,11,,,,Jessica Rodén
@@ -107,14 +107,14 @@ Q114031250,Anders Alftberg,male,1973-01-21,11,,,,Anders Alftberg
 Q114031254,Sofia Skönnbrink,female,1991-10-16,11,,,,Sofia Skönnbrink
 Q114031255,Nadja Awad,female,1991-09-01,11,,,,Nadja Awad
 Q114031256,Caroline Högström,female,1991-11-10,11,,,,
-Q114031259,Lena Johansson,female,1969-10-14,11,,,,
+Q114031259,Lena Johansson,female,1969-10-14,11,,,,Lena Johansson
 Q114031261,Kajsa Fredholm,female,1961-11-11,11,,,,Kajsa Fredholm
 Q114031262,Anna-Lena Blomkvist,female,1973-06-24,11,,,,Anna-Lena Blomkvist
 Q114031263,Sanna Backeskog,female,1985-03-29,11,,,,Sanna Backeskog
 Q114031264,Linnéa Wickman,female,1992-10-22,11,,,,Linnéa Wickman
 Q114031265,Samuel Gonzalez Westling,male,1983-01-14,11,,,,Samuel Gonzalez Westling
 Q114031267,Daniel Persson,male,1982-09-08,11,,,,Daniel Persson
-Q114031268,Peter Hedberg,male,1990-11-15,11,,,,
+Q114031268,Peter Hedberg,male,1990-11-15,11,,,,Peter Hedberg
 Q114031270,Isabell Mixter,female,1989-06-20,11,,,,Isabell Mixter
 Q114031271,Ulf Lindholm,male,1963-04-07,11,,,,Ulf Lindholm
 Q114031273,Sara Leghissa,female,1970-11-28,11,,,,
@@ -173,7 +173,7 @@ Q16616217,Karin Östring Bergman,female,1971,9,,,,
 Q16623762,Kristina Winberg,female,1965-05-27,11,,,Kristina Winberg.jpg,Kristina Winberg
 Q16633048,Hannes Hervieu,male,1989-04-09,11,,,Hannes Hervieu.jpg,
 Q16633060,Gunnar Holmgren,male,1957-08-08,11,,,,
-Q16633140,Niklas Karlsson,male,1974-06-18,11,,,Niklas Karlsson.jpg,
+Q16633140,Niklas Karlsson,male,1974-06-18,11,,,Niklas Karlsson.jpg,Niklas Karlsson
 Q16633210,Mats Lindberg,male,1945,9,,,,
 Q16633235,Peter Lundgren,male,1963-02-02,11,,,Peter Lundgren (politiker).jpg,Peter Lundgren (politician)
 Q16633319,Edip Noyan,male,1956-01-01,11,,,,
@@ -265,7 +265,7 @@ Q18448419,Agneta Karlsson,female,1962-10-05,11,,,High-level conference on e-heal
 Q18448703,Sanne Lennström,female,1988-08-15,11,,,Sanne Lennström 2015 (cropped).jpg,
 Q18451082,Ida Karkiainen,female,1988-05-10,11,,,"Andersson Cabinet, nov 30, 2021 (cropped).jpg",Ida Karkiainen
 Q18451520,Lawen Redar,female,1989-09-29,11,,,Lawen2021.jpg,Lawen Redar
-Q18452054,Marianne Fundahn,female,1958-11-01,11,,,Marianne Fundahn 2021.jpg,
+Q18452054,Marianne Fundahn,female,1958-11-01,11,,,Marianne Fundahn 2021.jpg,Marianne Fundahn
 Q18454922,Pernilla Stålhammar,female,1971-09-14,11,,,,
 Q18600515,Daniel Bäckström,male,1975-11-18,11,,,Daniel Bäckström 2013-10-21 003.jpg,Daniel Bäckström
 Q18617010,Oscar Sjöstedt,male,1981-02-06,11,,,Oscar Sjöstedt.jpg,Oscar Sjöstedt
@@ -306,10 +306,10 @@ Q21497027,Fredrik Eriksson,male,1975,9,,,,Fredrik Eriksson (politician)
 Q21503959,Stefan Nilsson,male,1959,9,,,Stefan Nilsson - Stockholm Pride 2014 - 07 (Cropped).jpg,
 Q21529003,Karin Jeppsson,female,1944-12-30,11,,,,
 Q21529026,Jamal Mouneimne,male,1971-04-03,11,,,,
-Q21531339,Per-Arne Håkansson,male,1963-04-16,11,,,Per-Arne Håkansson.jpg,
+Q21531339,Per-Arne Håkansson,male,1963-04-16,11,,,Per-Arne Håkansson.jpg,Per-Arne Håkansson
 Q21544232,Anders Berglöv,male,1961,9,,,,
 Q21553922,Margareta Nachmanson,female,1940,9,,,,
-Q21558211,Erik Ezelius,male,1986-12-15,11,,,Erik Ezelius.jpg,
+Q21558211,Erik Ezelius,male,1986-12-15,11,,,Erik Ezelius.jpg,Erik Ezelius
 Q21558214,John Skoglund,male,1993,9,,,,
 Q21561342,Petra Gardos,female,1972-04-04,11,,,,
 Q21561347,Patrik Lundqvist,male,1984-02-23,11,,,Patrik Lundqvist.jpg,
@@ -1173,7 +1173,7 @@ Q5740653,Josef Fransson,male,1978-09-25,11,,,,Josef Fransson
 Q5742656,Lennart Fremling,male,1946,9,2013-07-17,11,,Lennart Fremling
 Q5743643,Egon Frid,male,1957-03-15,11,,,Egon Frid 2.jpg,
 Q5743710,Lennart Fridén,male,1943,9,,,,
-Q5745541,Isak From,male,1967-06-16,11,,,Lars Isak Anders From 2021.jpg,
+Q5745541,Isak From,male,1967-06-16,11,,,Lars Isak Anders From 2021.jpg,Isak From
 Q5747727,Reynoldh Furustrand,male,1942-04-08,11,,,,
 Q574782,Anti Avsan,male,1958-01-08,11,,,Anti Avsan.jpg,Anti Avsan
 Q5750886,Pavel Gamov,male,1989-11-20,11,,,,Pavel Gamov
@@ -1256,7 +1256,7 @@ Q5891398,Anders W. Jonsson,male,1961-06-24,11,,,Anders-W-Jonsson-webb-110.jpg,An
 Q5891526,Elver Jonsson,male,1936-11-12,11,2021-01-02,11,,
 Q5891616,Göte Jonsson,male,1939-06-06,11,,,,
 Q5891656,Jan Jonsson,male,1952-09-22,11,2021-11-11,11,,Jan Jonsson (Swedish Air Force officer)
-Q5891875,Mattias Jonsson,male,1974-04-27,11,,,9B0A9303.jpg,
+Q5891875,Mattias Jonsson,male,1974-04-27,11,,,9B0A9303.jpg,Mattias Jonsson
 Q5891935,Peter Jonsson,male,1962-03-08,11,,,Peter Johnsson riksdagsledamot (S).jpg,
 Q5892661,Ingemar Josefsson,male,1939-05-21,11,,,,
 Q5893947,Thomas Julin,male,1942-09-09,11,,,,

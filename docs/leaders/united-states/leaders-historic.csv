@@ -618,7 +618,7 @@ United States,Secretary of Transportation,Anthony Foxx,Q4772543,2013-07-02,2017-
 United States,Secretary of Transportation,Elaine Chao,Q263322,2017-01-31,2021-01-11,female,1953-03-26,,Elaine Chao official portrait 2.jpg,Elaine Chao
 United States,Secretary of Transportation,Steven G. Bradbury,Q15485936,2021-01-11,2021-01-20,male,1958-09-12,,Steven G. Bradbury official photo.jpg,Steven G. Bradbury
 United States,Secretary of Transportation,Lana Hurdle,Q104949692,2021-01-20,2021-02-03,female,,,Lana Hurdle US Dept of Transportation.jpg,Lana Hurdle
-United States,Secretary of Transportation,Pete Buttigieg,Q7173106,2021-02-03,,male,1982-01-19,,Pete Buttigieg official photo.jpg,Pete Buttigieg
+United States,Secretary of Transportation,Pete Buttigieg,Q7173106,2021-02-03,,male,1982-01-19,,"Pete Buttigieg, Secretary of Transportation.jpg",Pete Buttigieg
 United States,Secretary of Veterans Affairs,"Togo D. West, Jr.",Q1406519,1998-05-04,2000-07-25,male,1942-06-21,2018-03-08,TogoDWest.jpg,Togo D. West Jr.
 United States,Secretary of Veterans Affairs,Hershel W. Gober,Q937285,2000-07-25,2001-01-20,male,1936-12-21,,Gober sm.jpg,Hershel Gober
 United States,Secretary of Veterans Affairs,Anthony Principi,Q573825,2001-01-23,2005-01-26,male,1944-04-16,,Anthony Principi.jpg,Anthony Principi
@@ -1168,7 +1168,7 @@ United States,Under Secretary of Defense (Comptroller),David Norquist,Q29346709,
 United States,Under Secretary of Energy for Nuclear Security,John A. Gordon,Q6217708,2000-06-29,2002-06-27,male,1946-08-22,2020-04-19,John A Gordon.jpg,John A. Gordon
 United States,Under Secretary of State for Arms Control and International Security Affairs,Ellen Tauscher,Q459624,2009-06-26,2012-02-07,female,1951-11-15,2019-04-29,Ellen Tauscher.jpg,Ellen Tauscher
 United States,Under Secretary of State for Arms Control and International Security Affairs,Andrea Thompson,Q54965529,2018-04-30,2019-10,female,1966-03-01,,Andrea L. Thompson.jpg,Andrea L. Thompson
-United States,Under Secretary of State for Arms Control and International Security Affairs,Bonnie Jenkins,Q16202531,2021-07-22,,female,,,Bonnie-Jenkins.jpg,Bonnie Jenkins
+United States,Under Secretary of State for Arms Control and International Security Affairs,Bonnie Jenkins,Q16202531,2021-07-22,,female,,,"Bonnie Jenkins, Under Secretary of State.jpg",Bonnie Jenkins
 United States,"Under Secretary of State for Economic Growth, Energy, and the Environment",Keith J. Krach,Q21063604,2019-06-21,,male,1957-04-01,,Keith J Krach Headshot.jpg,Keith J. Krach
 United States,Deputy Attorney General,Eric Holder,Q312644,1997-06-13,2001-01-20,male,1951-01-21,,Eric Holder official portrait.jpg,Eric Holder
 United States,Deputy Attorney General,Robert Mueller,Q715156,2001-01-20,2001-05-10,male,1944-08-07,,Director Robert S. Mueller- III.jpg,Robert Mueller
@@ -1285,7 +1285,7 @@ United States,ambassador to Afghanistan,Karl Eikenberry,Q504559,2009-04-03,2011-
 United States,ambassador to Afghanistan,Ryan Crocker,Q967329,2009-07-07,2012-07-13,male,1949-06-19,,Ryan C Crocker.jpg,Ryan Crocker
 United States,ambassador to Afghanistan,James B. Cunningham,Q348185,2012,2014,male,1952,,James B Cunningham.jpg,James B. Cunningham
 United States,ambassador to Afghanistan,P. Michael McKinley,Q7117418,2014-12,2016-12-18,male,1954,,Amb.McKinley-Off.-Picture-0055.jpg,Michael McKinley
-United States,ambassador to Afghanistan,John R. Bass,Q6253752,2017-12-12,,male,1964,,John R Bass ambassador.jpg,John R. Bass
+United States,ambassador to Afghanistan,John R. Bass,Q6253752,2017-12-12,2020-01-06,male,1964,,John R Bass ambassador.jpg,John R. Bass
 United States,ambassador to Afghanistan,Ross Wilson,Q7369716,2020-01-18,2021-08-31,male,1955-08-22,,Ross Wilson Ambassador.jpg,Ross L. Wilson
 United States,ambassador to Albania,James Franklin Jeffrey,Q382314,2002-10-03,2004-05-02,male,1946-02-08,,James F Jeffrey.jpg,James Franklin Jeffrey
 United States,ambassador to Algeria,Janet A. Sanderson,Q3161915,2000,2003,female,1955,,Janet A. Sanderson.jpg,Janet A. Sanderson
@@ -1333,7 +1333,7 @@ United States,ambassador to Cameroon,Robert P. Jackson,Q7348214,2010-10-19,2013-
 United States,ambassador to Cameroon,Michael Hoza,Q34399712,2014-08-22,2017-09-11,male,1957-11-01,,Ambassadormichaelhoza500.jpg,Michael S. Hoza
 United States,ambassador to Cameroon,Peter Barlerin,Q42604276,2017-12-20,2020-07-16,male,,,Peter Barlerin official photo.jpg,Peter Barlerin
 United States,ambassador to Cameroon,Christopher J. Lamora,Q106512578,2022-03-21,,male,1969-06-12,,"Christopher J. Lamora, U.S. Ambassador.jpg",Christopher J. Lamora
-United States,ambassador to Canada,Gordon Giffin,Q5585162,1997-09-17,2001-01-20,male,1949-12-29,,DF-SD-01-08378 US Ambassador to Canada Gordon Giffin (center) with US Air Force General Myers (left) and USAF Lieutenant General George Macdonald.JPEG,Gordon D. Giffin
+United States,ambassador to Canada,Gordon Giffin,Q5585162,1997-09-17,2001-01-20,male,1949-12-29,,US Ambassador to Canada Gordon Giffin.JPEG,Gordon D. Giffin
 United States,ambassador to Canada,Paul Cellucci,Q718335,2001-04-17,2005-03-18,male,1948-04-24,2013-06-08,Cellucci Paul (3x4a).jpg,Paul Cellucci
 United States,ambassador to Canada,David Wilkins,Q3018985,2005-06-29,2009-01-20,male,1946-10-12,,Ambassador David Wilkins.jpg,David H. Wilkins
 United States,ambassador to Canada,David Jacobson,Q542743,2009-10-02,2013-07-15,male,1951-10-09,,David Jacobson.jpg,David C. Jacobson
@@ -1373,6 +1373,7 @@ United States,ambassador to the European Union,Kristen Silverberg,Q6437802,2008-
 United States,ambassador to the European Union,William Kennard,Q2579585,2009-11-23,2013-07-29,male,1957-01-19,,William Kennard Official.png,William Kennard
 United States,ambassador to the European Union,Anthony Luzzatto Gardner,Q4772971,2014-02-13,2017-01-20,male,1963-05-16,,Anthony Luzzatto Gardner.jpg,Anthony L. Gardner
 United States,ambassador to the European Union,Gordon Sondland,Q5585845,2018-07-09,2020-02-07,male,1957-07-16,,Gordon Sondland official photo.jpg,Gordon Sondland
+United States,ambassador to the European Union,Mark Gitenstein,Q12735081,2022-01-24,,male,1946-03-07,,"Mark Gitenstein, U.S. Ambassador.jpg",Mark Gitenstein
 United States,ambassador to the Federated States of Micronesia,Diane Watson,Q461497,1999,2000,female,1933-11-12,,Diane Watson Congressional portrait 2007.jpg,Diane Watson
 United States,ambassador to Finland,Marilyn Ware,Q6763644,2006-03-09,2008-03-28,female,1943-11-04,2017-12-14,"Official portrait of Marilyn Ware, U.S. Ambassador-designate to Finland.jpg",Marilyn Ware
 United States,ambassador to France,Felix Rohatyn,Q3068171,1997-08-01,2000-12-07,male,1928-05-29,2019-12-14,Felix Rohatyn smiling.jpg,Felix Rohatyn
@@ -1384,6 +1385,7 @@ United States,ambassador to France,Jamie McCourt,Q6147195,2017-11-20,2021-01-20,
 United States,ambassador to France,Denise Bauer,Q13571907,2021-12-18,,female,1963-01-30,,"Denise Campbell Bauer, U.S. Ambassador.jpg",Denise Bauer
 United States,ambassador to the Gambia,Patricia Alsup,Q23888415,2016-01-13,2018-09-22,female,1961,,C. Patricia Alsup.jpg,Patricia Alsup
 United States,ambassador to Georgia,John F. Tefft,Q500486,2005-08-23,2009-09-09,male,1949-08-16,,John F Tefft ambassador 2009.jpg,John F. Tefft
+United States,ambassador to Georgia,John R. Bass,Q6253752,2009-10-16,2012-07-17,male,1964,,John R Bass ambassador.jpg,John R. Bass
 United States,ambassador to Germany,John C. Kornblum,Q1700735,1997-09-10,2001-01-16,male,1943-02-06,,John Kornblum.jpg,John C. Kornblum
 United States,ambassador to Germany,John C. Kornblum,Q1700735,1999-07-07,2001-01-16,male,1943-02-06,,John Kornblum.jpg,John C. Kornblum
 United States,ambassador to Germany,Dan Coats,Q632321,2001-08-15,2005-02-28,male,1943-05-16,,Dan Coats official DNI portrait.jpg,Dan Coats
@@ -1478,6 +1480,7 @@ United States,ambassador to Poland,Christopher R. Hill,Q494953,2000-07-27,2004-0
 United States,ambassador to Poland,Stephen Mull,Q7610057,2012,2015,male,1958-04-30,,Stephen Mull US State Dept photo.jpg,Stephen D. Mull
 United States,ambassador to Qatar,Dana Shell Smith,Q20735785,2014-08-08,2017-06-20,female,1970,,Dana Shell Smith.jpg,Dana Shell Smith
 United States,ambassador to Romania,James Rosapepe,Q6142419,1998-02-04,2001-03-01,male,1951-05-20,,James Rosapepe.jpg,James Rosapepe
+United States,ambassador to Romania,Mark Gitenstein,Q12735081,2009-08-28,2012-12-14,male,1946-03-07,,"Mark Gitenstein, U.S. Ambassador.jpg",Mark Gitenstein
 United States,ambassador to Romania,Adrian Zuckerman,Q79052295,2019-12-17,2021-01-20,male,1956-09-22,,Adrian Zuckerman official photo.jpg,Adrian Zuckerman (attorney)
 United States,ambassador to the Russian Federation,James Franklin Collins,Q6134194,1996-08-01,2001,male,1939-06-04,,JamesFCollins.jpg,James Franklin Collins
 United States,ambassador to the Russian Federation,Alexander Vershbow,Q484005,2001,2005,male,1952-07-03,,Alexander Vershbow.JPG,Alexander Vershbow
@@ -1533,6 +1536,7 @@ United States,ambassador to Thailand,Glyn T Davies,Q16728411,2015-09-22,2018-09-
 United States,ambassador to the Bahamas,Lisa A. Johnson,Q45789947,2014-07-09,2017-11-09,female,1967-08-09,,Lisa A. Johnson official portrait.jpg,Lisa A. Johnson
 United States,ambassador to Turkey,Ross Wilson,Q7369716,2005-12-08,2008-08-09,male,1955-08-22,,Ross Wilson Ambassador.jpg,Ross L. Wilson
 United States,ambassador to Turkey,James Franklin Jeffrey,Q382314,2008,2010,male,1946-02-08,,James F Jeffrey.jpg,James Franklin Jeffrey
+United States,ambassador to Turkey,John R. Bass,Q6253752,2014-10-20,2017-10-15,male,1964,,John R Bass ambassador.jpg,John R. Bass
 United States,ambassador to Turkmenistan,Allan Phillip Mustard,Q96951728,2014-11-25,2019-06,male,,,Allan Mustard.jpg,Allan Mustard
 United States,ambassador to Turkmenistan,Matthew Klimow,Q80748270,2019-06-26,,male,1952-06-10,,Matthew S. Klimow official photo.jpg,Matthew Klimow
 United States,ambassador to Uganda,Jerry P. Lanier,Q1395151,2010-01-24,2012-06-11,male,1948,,Jerry P Lanier ambassador.jpg,Jerry P. Lanier

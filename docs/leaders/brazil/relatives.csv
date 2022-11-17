@@ -151,6 +151,9 @@ Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q17278001,Maria de Lurdes da Sil
 Brazil,Q37181,Luiz Inácio Lula da Silva,spouse,Q4199383,Marisa Letícia Lula da Silva
 Brazil,Q3784499,Helder Barbalho,father,Q3806086,Jader Barbalho
 Brazil,Q379563,José Serra,spouse,Q10334811,Mónica Serra
+Brazil,Q3806086,Jader Barbalho,child,Q3784499,Helder Barbalho
+Brazil,Q3806086,Jader Barbalho,father,Q3828274,Laércio Wilson Barbalho
+Brazil,Q3806086,Jader Barbalho,spouse,Q10271244,Elcione Barbalho
 Brazil,Q384804,Tiririca,child,Q26256185,Tirullipa
 Brazil,Q40722,Dilma Rousseff,child,Q17277976,Paula Rousseff
 Brazil,Q40722,Dilma Rousseff,father,Q17277984,Pedro Rousseff

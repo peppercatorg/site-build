@@ -64,10 +64,10 @@ Q110126658,Dan Abdul-Latif,male,1970-01-01,11,,,Dan Abdul-Latif.jpg,Dan Abdul-la
 Q110126786,Daniel Ohene Darko,male,1961-06-18,11,,,,Daniel Ohene Darko
 Q110126966,Desmond De-graft Paitoo,male,1969-08-21,11,,,,Desmond De-graft Paitoo
 Q110127028,Dickson Adomako Kissi,male,1981-08-23,11,,,,Dickson Adomako Kissi
-Q110598414,Paul Apreku Twum Barimah,male,1977-01-28,11,,,,Paul Apreku Twum Barimah
-Q110610394,Frederick Yaw Ahenkwah,male,1982-06-24,11,,,,Frederick Yaw Ahenkwah
+Q110598414,Paul Apreku Twum Barimah,male,1977-01-28,11,,,PAUL APREKU TWUM-BARIMAH.jpg,Paul Apreku Twum Barimah
+Q110610394,Frederick Yaw Ahenkwah,male,1982-06-24,11,,,FREDERICK YAW AHENKWAH.jpg,Frederick Yaw Ahenkwah
 Q110617022,Joseph Kwame Kumah,male,1974-01-24,11,,,Joseph Kwame Kumah.jpg,Joseph Kwame Kumah
-Q110617024,Williams Okofo-Dateh,male,1981-10-15,11,,,,Williams Okofo-Dateh
+Q110617024,Williams Okofo-Dateh,male,1981-10-15,11,,,WILLIAMS OKOFO-DATEH.jpg,Williams Okofo-Dateh
 Q110617037,James Gyakye Quayson,male,1952,9,,,,James Gyakye Quayson
 Q110617044,Joseph Kwasi Mensah,male,1962,9,,,,Joseph Kwasi Mensah
 Q110647519,Richard Gyan Mensah,male,1983,9,,,,Richard Gyan Mensah
@@ -105,11 +105,10 @@ Q113773269,Thomas Mbomba,male,1976,9,,,,Thomas Mbomba
 Q114339709,Amidu Chinnia Issahaku,,,,,,,
 Q114339710,Anthony Mwinkaara Sumah,male,,,,,,Anthony Mwinkaara Sumah
 Q114339711,Blsmark Tetteh Nyarko,,,,,,,
-Q114339713,Cletus Seidu Dapilah,,,,,,,
+Q114339713,Cletus Seidu Dapilah,male,,,,,,Cletus Seidu Dapilah
 Q114339714,Daniel Nsala Wakpal,male,1975-03-15,11,,,DANIEL NSALA WAKPAL.jpg,Daniel Nsala Wakpal
 Q114339715,Iddriss Jacob Abdulai,,,,,,,
 Q114339716,John Kobina Abbam Aboah Sanie,,,,,,,
-Q114339717,Joseph Kwame Kumah,,,,,,,
 Q114339718,Michael Okyere Baafl,,,,,,,
 Q114339719,Prince Hamidu Armah,,,,,,,
 Q114339720,Sampson Tangombu Chiragia,,,,,,,
@@ -337,7 +336,7 @@ Q51002,Jerry Rawlings,male,1947-06-22,11,2020-11-12,11,Jerry Rawlings visits AMI
 Q51005,John Kufuor,male,1938-12-08,11,,,John Agyekum Kufuor - World Economic Forum on Africa 2008-2.jpg,John Kufuor
 Q51008,John Evans Atta Mills,male,1944-07-21,11,2012-07-24,11,John Atta-Mills election poster.jpg,John Atta Mills
 Q5131356,Clement Kofi Humado,male,1953-12-18,11,,,,Clement Kofi Humado
-Q5131978,Cletus Apul Avoka,male,1952-11-30,11,,,CLETUS APUL AVOKA.jpg,Cletus Avoka
+Q5131978,Cletus Avoka,male,1952-11-30,11,,,CLETUS APUL AVOKA.jpg,Cletus Avoka
 Q5147367,Collins Dauda,male,1957-02-13,11,,,COLLINS DAUDA.jpg,Collins Dauda
 Q515055,George Kingsley Acquah,male,1942-03-04,11,2007-03-25,11,,George Kingsley Acquah
 Q52707322,Mercy Adu Gyamfi,female,1971-05-01,11,,,,Mercy Adu-Gyamfi
@@ -627,7 +626,7 @@ Q84044419,Abeiku Crentsil,male,1973-03-28,11,,,Abeiku Crentsil.jpg,Abeiku Crents
 Q84044471,Azumah Namoro Sanda,male,1956-11-04,11,,,,Azumah Namoro Sanda
 Q84044575,Tia Sugri Alfred,male,1956-03-12,11,,,,Tia Sugri Alfred
 Q84056378,Emmanuel Kwadwo Agyekum,male,1973-12-03,11,,,,Emmanuel Kwadwo Agyekum
-Q84056502,Vincent Oppong Asamoah,male,1966-01-13,11,,,,Vincent Oppong Asamoah
+Q84056502,Vincent Oppong Asamoah,male,1966-01-13,11,,,VINCENT OPPONG ASAMOAH.jpg,Vincent Oppong Asamoah
 Q84056560,Stephen Kunsu,male,1949-09-30,11,,,,Stephen Kunsu
 Q84056618,Yaw Effah-Baafi,male,1955-09-21,11,,,,Yaw Effah-Baafi
 Q84080228,Sulemana Alijata,female,1975-08-25,11,,,,Sulemana Alijata
@@ -860,7 +859,7 @@ Q98821000,Charles Kofi Agbenaza,male,1931,9,2012-11-12,11,,Charles Kofi Agbenaza
 Q98821200,Adams Ebenezer Mahama,male,,,,,,Adams Ebenezer Mahama
 Q98821291,Emmanuel Kinsford Kwesi Teye,male,,,,,,Emmanuel Kinsford Kwesi Teye
 Q98821697,Emmanuel Adjei Boye,male,,,,,,Emmanuel Adjei Boye
-Q98821727,Joseph Darko-Mensah,male,1974-06-18,11,2011-05-16,11,,Joseph Darko-Mensah
+Q98821727,Joseph Darko-Mensah,male,1942-02-22,11,2011-05-16,11,,Joseph Darko-Mensah
 Q98821770,Sampson Ottu Darkoh,male,,,,,,Sampson Ottu Darkoh
 Q98821809,John Frank Abu,male,,,,,,John Frank Abu
 Q98821841,Alhaji Abdulai Salifu,male,1943-06-16,11,,,,Alhaji Abdulai Salifu
