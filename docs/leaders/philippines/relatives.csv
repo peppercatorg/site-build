@@ -183,7 +183,7 @@ Philippines,Q285536,Imelda Marcos,father,Q56668933,Vicente Romuáldez
 Philippines,Q285536,Imelda Marcos,mother,Q7311603,Remedios Romuáldez
 Philippines,Q285536,Imelda Marcos,sibling,Q2058081,Benjamin Romualdez
 Philippines,Q285536,Imelda Marcos,spouse,Q1463,Ferdinand Marcos
-Philippines,Q28925129,Enrique Manalo,mother,Q7367400,Rosario Manalo
+Philippines,Q28925129,Enrique Manalo,stepparent,Q7367400,Rosario Manalo
 Philippines,Q3058915,Nikki Coseteng,mother,Q24204636,Alice Coseteng
 Philippines,Q3135561,Grace Poe,father,Q1373770,Fernando Poe
 Philippines,Q3135561,Grace Poe,mother,Q1870001,Susan Roces
@@ -207,7 +207,7 @@ Philippines,Q442998,Pia Cayetano,sibling,Q19960435,Lino Cayetano
 Philippines,Q442998,Pia Cayetano,sibling,Q471883,Alan Peter Cayetano
 Philippines,Q446799,Loren Legarda,spouse,Q4776736,Antonio Leviste
 Philippines,Q4492601,Aquilino Pimentel III,father,Q241545,"Aquilino Pimentel, Jr."
-Philippines,Q4492601,Aquilino Pimentel III,relative,Q111084905,Astra Pimentel
+Philippines,Q4492601,Aquilino Pimentel III,relative,Q111084905,
 Philippines,Q4492601,Aquilino Pimentel III,spouse,Q57586476,Kathryna Yu-Pimentel
 Philippines,Q452102,"Amado Espino, Jr.",child,Q65936017,Amado Espino III
 Philippines,Q457786,Rodrigo Duterte,child,Q105700332,Sebastian Duterte

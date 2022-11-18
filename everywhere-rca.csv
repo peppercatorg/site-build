@@ -3110,6 +3110,7 @@ Denmark,Q11257352,Hans-Pavia Rosing,father,Q45373933,Nikolaj Rosing
 Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q23906043,Christian Rosing
 Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q52709911,Peter Frederik Rosing
 Denmark,Q112960298,Sigurd Agersnap,mother,Q12315171,Hanne Agersnap
+Denmark,Q115013941,Susie Jessen,father,Q12338511,Søren Espersen
 Denmark,Q11989208,Mette Bock,father,Q6090650,Ole Samuelsen
 Denmark,Q11989208,Mette Bock,sibling,Q491263,Anders Samuelsen
 Denmark,Q12004862,Søren Pape Poulsen,spouse,Q113883343,Josue Medina Vasquez Poulsen
@@ -3168,6 +3169,7 @@ Denmark,Q12332907,Rasmus Helveg Petersen,mother,Q18040591,Hanne Elisabeth Aarup
 Denmark,Q12332907,Rasmus Helveg Petersen,sibling,Q12327679,Morten Helveg Petersen
 Denmark,Q12332910,Rasmus Horn Langhoff,spouse,Q16063241,Anne Sina
 Denmark,Q12336452,Sophie Løhde,mother,Q12321347,Karin Løhde
+Denmark,Q12338511,Søren Espersen,child,Q115013941,Susie Jessen
 Denmark,Q12338511,Søren Espersen,relative,Q17142887,Rikke Karlsson
 Denmark,Q12339263,Thor Gunnar Kofoed,father,Q12328700,Niels Anker Kofoed
 Denmark,Q12342520,Liselott Blixt,relative,Q12315997,Helene Marie Blixt
@@ -9042,16 +9044,16 @@ Jordan,Q57464,Abdullah II of Jordan,child,Q981927,"Hussein bin Abdullah, Crown P
 Jordan,Q57464,Abdullah II of Jordan,father,Q146906,Hussein I of Jordan
 Jordan,Q57464,Abdullah II of Jordan,mother,Q269898,Princess Muna al-Hussein
 Jordan,Q57464,Abdullah II of Jordan,relative,Q112148518,Faisal Sedki al-Yassin
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q1532902,Prince Hamzah bin Al Hussein
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q272117,Princess Haya bint Al Hussein
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q2817328,Prince Hashim Al Hussein
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q3307706,Princess Iman bint Al Hussein
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q461192,Prince Faisal bin Al Hussein
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q524703,Prince Ali Bin Al-Hussein
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244519,Princess Aisha bint Hussein
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244527,Princess Alia bint Hussein
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244790,Princess Raiyah bint Al Hussein
-Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244873,Princess Zein bint Al Hussein
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q1532902,Prince Hamzah bin Al-Hussein
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q272117,Princess Haya bint Al-Hussein of Jordan
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q2817328,Prince Hashem bin Al-Hussein of Jordan
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q3307706,Princess Iman bint Al-Hussein of Jordan
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q461192,Prince Faisal bin Al-Hussein of Jordan
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q524703,Prince Ali bin Al-Hussein of Jordan
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244519,Princess Aisha bint Al-Hussein of Jordan
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244527,Princess Alia bint Al-Hussein of Jordan
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244790,Princess Raiyah bint Al-Hussein of Jordan
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244873,Princess Zein bint Al-Hussein of Jordan
 Jordan,Q57464,Abdullah II of Jordan,spouse,Q200678,Queen Rania of Jordan
 Jordan,Q63441935,Bisher Al-Khasawneh,spouse,Q6792408,Rana Sultan
 Jordan,Q6814633,Abdul Hadi Majali,sibling,Q2663816,Abdelsalam al-Majali
@@ -10147,6 +10149,8 @@ Netherlands,Q3488527,Michiel Patijn,mother,Q20196999,Sara van Citters
 Netherlands,Q3488527,Michiel Patijn,sibling,Q1976542,Schelto Patijn
 Netherlands,Q3488527,Michiel Patijn,sibling,Q4304599,Jack Patijn
 Netherlands,Q377266,Sybrand van Haersma Buma,father,Q2607341,Bernard van Haersma Buma
+Netherlands,Q381657,Job Cohen,child,Q115213252,Jaap Cohen
+Netherlands,Q381657,Job Cohen,father,Q2275413,Dolf Cohen
 Netherlands,Q382598,Kathleen Ferrier,father,Q333129,Johan Ferrier
 Netherlands,Q382598,Kathleen Ferrier,partner,Q442061,Boris Dittrich
 Netherlands,Q382598,Kathleen Ferrier,sibling,Q2708085,Joan Ferrier
@@ -11432,7 +11436,7 @@ Philippines,Q285536,Imelda Marcos,father,Q56668933,Vicente Romuáldez
 Philippines,Q285536,Imelda Marcos,mother,Q7311603,Remedios Romuáldez
 Philippines,Q285536,Imelda Marcos,sibling,Q2058081,Benjamin Romualdez
 Philippines,Q285536,Imelda Marcos,spouse,Q1463,Ferdinand Marcos
-Philippines,Q28925129,Enrique Manalo,mother,Q7367400,Rosario Manalo
+Philippines,Q28925129,Enrique Manalo,stepparent,Q7367400,Rosario Manalo
 Philippines,Q3058915,Nikki Coseteng,mother,Q24204636,Alice Coseteng
 Philippines,Q3135561,Grace Poe,father,Q1373770,Fernando Poe
 Philippines,Q3135561,Grace Poe,mother,Q1870001,Susan Roces
@@ -11456,7 +11460,7 @@ Philippines,Q442998,Pia Cayetano,sibling,Q19960435,Lino Cayetano
 Philippines,Q442998,Pia Cayetano,sibling,Q471883,Alan Peter Cayetano
 Philippines,Q446799,Loren Legarda,spouse,Q4776736,Antonio Leviste
 Philippines,Q4492601,Aquilino Pimentel III,father,Q241545,"Aquilino Pimentel, Jr."
-Philippines,Q4492601,Aquilino Pimentel III,relative,Q111084905,Astra Pimentel
+Philippines,Q4492601,Aquilino Pimentel III,relative,Q111084905,
 Philippines,Q4492601,Aquilino Pimentel III,spouse,Q57586476,Kathryna Yu-Pimentel
 Philippines,Q452102,"Amado Espino, Jr.",child,Q65936017,Amado Espino III
 Philippines,Q457786,Rodrigo Duterte,child,Q105700332,Sebastian Duterte
@@ -15126,7 +15130,7 @@ UAE,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Ma
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q712839,Hamdan bin Rashid Al Maktoum
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q106370260,Houria Ahmed Lamara
 UAE,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q2257104,Hind bint Maktoum bin Juma Al-Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q272117,Princess Haya bint Al Hussein
+UAE,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q272117,Princess Haya bint Al-Hussein of Jordan
 UAE,Q58301,Abdullah bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
 UAE,Q58301,Abdullah bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
 UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
@@ -20608,6 +20612,7 @@ United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",child,Q76101
 United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",father,Q75718705,John George Embleton Welch
 United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",mother,Q75901227,Elizabeth Cowan
 United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",spouse,Q75946999,George Walter Perry
+United States,Q101243561,Katy Duhigg,sibling,Q5076992,Charles Duhigg
 United States,Q10390,John McCain,child,Q22810646,James R. D. McCain
 United States,Q10390,John McCain,child,Q22810647,Sidney McCain
 United States,Q10390,John McCain,child,Q22810652,John Sidney McCain IV
@@ -22126,6 +22131,7 @@ World,Q12316339,Henrik Dahl,spouse,Q531054,Christine Antorini
 World,Q12323860,Lars Kramer Mikkelsen,sibling,Q1687259,Jens Kramer Mikkelsen
 World,Q12331726,Peter Skaarup,mother,Q12303586,Birthe Skaarup
 World,Q12336452,Sophie Løhde,mother,Q12321347,Karin Løhde
+World,Q12338511,Søren Espersen,child,Q115013941,Susie Jessen
 World,Q12338511,Søren Espersen,relative,Q17142887,Rikke Karlsson
 World,Q12359337,Anti Liiv,child,Q16406473,Innar Liiv
 World,Q12359337,Anti Liiv,spouse,Q16406494,Suliko Liiv

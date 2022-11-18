@@ -7,7 +7,7 @@ Q106959627,Jüri Seilenthal,male,1970-12-28,11,,,,Jüri Seilenthal
 Q107033991,Jonatan Vseviov,male,1981-08-14,11,,,"Jonatan Vseviov at the Opinion Festival in Paide, Estonia.jpg",Jonatan Vseviov
 Q107335392,Timo Suslov,male,1981-07-02,11,,,,
 Q107335464,Õnne Pillak,female,1983-02-23,11,,,,Õnne Pillak
-Q107335485,Sulev Kannimäe,male,1955-06-16,11,,,,
+Q107335485,Sulev Kannimäe,male,1955-06-16,11,,,Sulev Kannimäe.jpg,
 Q108917402,Janne Jõesaar-Ruusalu,female,1969,9,,,Janne Jõesaar-Ruusalu presented her credentials to the King Harald V of Norway (29227859394) (cropped).jpg,
 Q10970452,Helle Kalda,female,1950-02-17,11,,,Helle Kalda - Saeima 2010.jpg,Helle Kalda
 Q11023034,Ivi Eenmaa,female,1943-06-02,11,,,"Eenmaa, Ivi.IMG 0385.JPG",Ivi Eenmaa
@@ -83,7 +83,7 @@ Q12368506,Lembit Kaljuvee,male,1952-12-29,11,,,KE Lembit Kaljuvee.jpg,Lembit Kal
 Q12368727,Liis Klaar,female,1938-01-25,11,,,Liis Klaar sotsioloog 99.jpg,Liis Klaar
 Q12368739,Liisa Pakosta,female,1969-09-03,11,,,IRL Liisa-Ly Pakosta.jpg,Liisa-Ly Pakosta
 Q12369450,Madis Kallas,male,1981-04-22,11,,,Madis Kallas Võidupühal 2022 (cropped).jpg,Madis Kallas
-Q12369500,Mai Treial,female,1952-05-22,11,,,,Mai Treial
+Q12369500,Mai Treial,female,1952-05-22,11,,,"Mai Treial at the Opinion Festival 2022 in Paide, Estonia.jpg",Mai Treial
 Q12369688,Margi Ein,female,1950-12-08,11,,,,Margi Ein
 Q12369691,Margit Sutrop,female,1963-10-13,11,,,Margit Sutrop 2014.JPG,
 Q12369707,Margus Lepik,male,1969-03-14,11,,,,Margus Lepik
@@ -369,7 +369,7 @@ Q38475120,Margus Tammekivi,male,1956-01-23,11,,,,Margus Tammekivi
 Q39468117,Lauri Lepik,male,1960-10-14,11,,,Lauri Lepik in 2017.jpg,Lauri Lepik
 Q4232659,Valeri Korb,male,1954-07-03,11,,,KE Valeri Korb.jpg,Valeri Korb
 Q4250802,Mihhail Kõlvart,male,1977-11-24,11,,,Official photo of mayor 2019 nr2.jpg,Mihhail Kõlvart
-Q42889094,Erkki Keldo,male,1990-11-07,11,,,,Erkki Keldo
+Q42889094,Erkki Keldo,male,1990-11-07,11,,,Erkki Keldoga 2021. aasta Arvamusfestivalil.jpg,Erkki Keldo
 Q438802,Kristiina Ojuland,female,1966-12-17,11,,,Ojuland 2014 by Ave Maria Mõistlik.IMG 4740.JPG,Kristiina Ojuland
 Q439102,Ene Ergma,female,1944-02-29,11,,,IRL Ene Ergma.jpg,Ene Ergma
 Q439111,Marina Kaljurand,female,1962-09-06,11,,,Välisminister Marina Kaljurand (25528444880) (cropped2).jpg,Marina Kaljurand
@@ -391,7 +391,7 @@ Q52704406,Riina Sikkut,female,1983-01-12,11,,,Riina Sikkut.jpg,Riina Sikkut
 Q528974,Kaido Höövelson,male,1984-11-05,11,,,"Kaido Höövelson at the Opinion Festival 2022 in Paide, Estonia.jpg",Baruto Kaito
 Q535290,Marianne Mikko,female,1961-09-26,11,,,SDE Marianne Mikko.jpg,Marianne Mikko
 Q535426,Katrin Saks,female,1956-11-29,11,,,Katrinsaks.jpg,Katrin Saks
-Q53636801,Enn Meri,male,1942-01-15,11,,,,Enn Meri
+Q53636801,Enn Meri,male,1942-01-15,11,,,Enn Meri 2022.jpg,Enn Meri
 Q53638402,Karin Tammemägi,female,1975-06-04,11,,,,Karin Tammemägi
 Q5379122,Enn Tarto,male,1938-09-25,11,2021-07-18,11,Enntarto1.png,Enn Tarto
 Q53998189,Toomas Kruusimägi,male,1962-11-08,11,,,,
@@ -410,7 +410,7 @@ Q6109645,Jaan Kundla,male,1937-10-11,11,,,,Jaan Kundla
 Q61110563,Janar Holm,male,1976-08-17,11,,,Janar Holm 2021. aasta Arvamusfestivalil.jpg,Janar Holm
 Q61111275,Kristi Karelsohn,female,1968-04-10,11,,,Kristi Karelsohn 2019.jpg,
 Q61111821,Siim Pohlak,male,1985-05-14,11,,,Siim Pohlak.jpg,Siim Pohlak
-Q61111879,Maido Ruusmann,male,1983,9,,,,
+Q61111879,Maido Ruusmann,male,1983,9,,,Maido Ruusmann .jpg,
 Q61400279,Kristjan Prikk,male,1977-02-15,11,,,Kristjan Prikk in 2019.jpg,
 Q61404766,Andres Parmas,,1977,9,,,,
 Q616356,Arto Aas,male,1980-06-09,11,,,RE Arto Aas.jpg,Arto Aas
@@ -425,14 +425,14 @@ Q62975823,Andres Sutt,male,1967-11-11,11,,,Andres Sutt.jpg,Andres Sutt
 Q62975881,Andrus Seeme,male,1969-11-08,11,,,,Andrus Seeme
 Q62975984,Tõnis Mölder,male,1989-10-09,11,,,Tõnis Mölder (crop).jpg,Tõnis Mölder
 Q62976082,Kert Kingo,female,1968-03-05,11,,,,Kert Kingo
-Q62976118,Marek Jürgenson,male,1977-09-09,11,,,,Marek Jürgenson
+Q62976118,Marek Jürgenson,male,1977-09-09,11,,,Marek Jürgenson.png,Marek Jürgenson
 Q62976151,Maria Jufereva-Skuratovski,female,1979-10-11,11,,,"Maria Jufereva-Skuratovski at the Opinion Festival 2022 in Paide, Estonia.jpg",Maria Jufereva-Skuratovski
 Q62976243,Riho Breivel,male,1952-08-26,11,,,Riho Breivel.jpg,Riho Breivel
 Q62976265,Merry Aart,female,1953-03-31,11,,,Merry Aart.jpg,Merry Aart
 Q6321970,Jüri Mõis,male,1956-10-25,11,,,,Jüri Mõis
 Q63383282,Tanel Kiik,male,1989-01-23,11,,,Tanel Kiik.jpg,Tanel Kiik
 Q63413898,Tiit Kala,male,1954-08-19,11,,,Tiit Kala.jpg,Tiit Kala
-Q63473367,Heiki Hepner,male,1966-07-15,11,,,,Heiki Hepner
+Q63473367,Heiki Hepner,male,1966-07-15,11,,,"Heiki Hepner at the Opinion Festival 2022 in Paide, Estonia.jpg",Heiki Hepner
 Q63473688,Peeter Rahnel,male,1957,9,,,Peeter Rahnel Mulgi peol 26.05.2018.jpg,Peeter Rahnel
 Q63473780,Kai Rimmel,female,1952-11-23,11,,,Kai Rimmel.jpg,Kai Rimmel
 Q639741,Ardo Hansson,male,1958-07-15,11,,,Ardo Hansson.jpg,Ardo Hansson
@@ -466,7 +466,7 @@ Q829947,Tiit Matsulevitš,male,1958-09-27,11,,,"Tiit Matsulevitš, ajakirjanik, 
 Q88088935,Merle Pajula,female,,,,,Merle Pajula of Estonia (sq cropped).jpg,
 Q9142838,Ain Seppik,male,1952-03-12,11,,,,Ain Seppik
 Q91813940,Raul Siem,male,1973-06-05,11,,,,Raul Siem
-Q934755,Toomas Varek,male,1948-06-06,11,,,,Toomas Varek
+Q934755,Toomas Varek,male,1948-06-06,11,,,Toomas Varek (396319 ERM Fk3046 614).jpg,Toomas Varek
 Q9355836,Tatjana Muravjova,female,1949-01-13,11,,,,Tatjana Muravjova
 Q948005,Jüri Tamm,male,1957-02-05,11,2021-09-22,11,Jüri Tamm 2017 (2).jpg,Jüri Tamm
 Q955751,Liia Hänni,female,1946-10-04,11,,,Liia Hänni.JPG,Liia Hänni

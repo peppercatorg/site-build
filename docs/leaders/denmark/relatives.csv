@@ -29,6 +29,7 @@ Denmark,Q11257352,Hans-Pavia Rosing,father,Q45373933,Nikolaj Rosing
 Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q23906043,Christian Rosing
 Denmark,Q11257352,Hans-Pavia Rosing,sibling,Q52709911,Peter Frederik Rosing
 Denmark,Q112960298,Sigurd Agersnap,mother,Q12315171,Hanne Agersnap
+Denmark,Q115013941,Susie Jessen,father,Q12338511,Søren Espersen
 Denmark,Q11989208,Mette Bock,father,Q6090650,Ole Samuelsen
 Denmark,Q11989208,Mette Bock,sibling,Q491263,Anders Samuelsen
 Denmark,Q12004862,Søren Pape Poulsen,spouse,Q113883343,Josue Medina Vasquez Poulsen
@@ -87,6 +88,7 @@ Denmark,Q12332907,Rasmus Helveg Petersen,mother,Q18040591,Hanne Elisabeth Aarup
 Denmark,Q12332907,Rasmus Helveg Petersen,sibling,Q12327679,Morten Helveg Petersen
 Denmark,Q12332910,Rasmus Horn Langhoff,spouse,Q16063241,Anne Sina
 Denmark,Q12336452,Sophie Løhde,mother,Q12321347,Karin Løhde
+Denmark,Q12338511,Søren Espersen,child,Q115013941,Susie Jessen
 Denmark,Q12338511,Søren Espersen,relative,Q17142887,Rikke Karlsson
 Denmark,Q12339263,Thor Gunnar Kofoed,father,Q12328700,Niels Anker Kofoed
 Denmark,Q12342520,Liselott Blixt,relative,Q12315997,Helene Marie Blixt
