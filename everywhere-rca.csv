@@ -3307,6 +3307,7 @@ Denmark,Q7659016,Mike Legarth,father,Q12319258,Jens Christian Legarth
 Denmark,Q7659016,Mike Legarth,sibling,Q16065039,Pierre Legarth
 Denmark,Q7666571,Søren Krarup,child,Q10853676,Marie Krarup
 Denmark,Q7666571,Søren Krarup,child,Q12321586,Katrine Winkel Holm
+Denmark,Q7666571,Søren Krarup,father,Q12341037,Vilhelm Krarup
 Denmark,Q7666571,Søren Krarup,relative,Q6185850,Jesper Langballe
 Denmark,Q7819162,Tommy Ahlers,partner,Q12324097,Le Gammeltoft
 Denmark,Q7827256,Torsten Schack Pedersen,spouse,Q12324973,Louise Schack Elholm
@@ -4045,6 +4046,7 @@ European Union,Q241208,Isabella Lövin,father,Q5970029,Björn Lövin
 European Union,Q241376,Jutta Urpilainen,father,Q16991079,Kari Urpilainen
 European Union,Q2426702,Vittorio Sgarbi,sibling,Q16268759,Elisabetta Sgarbi
 European Union,Q24641234,Clotilde Armand,spouse,Q102192508,Sergiu Moroianu
+European Union,Q253793,Ryszard Czarnecki,spouse,Q115256528,Emilia Hermaszewska
 European Union,Q254985,Vladimír Remek,father,Q12027068,Jozef Remek
 European Union,Q255657,Loyola de Palacio,father,Q66486563,Luis María de Palacio y Palacio
 European Union,Q255657,Loyola de Palacio,mother,Q66486584,Luisa Mariana del Valle-Lersundi y del Valle
@@ -4680,6 +4682,7 @@ European Union,Q976712,Flavio Tosi,partner,Q15401878,Patrizia Bisinella
 European Union,Q980319,Per Gahrton,father,Q5749503,Arnold Gahrton
 European Union,Q980319,Per Gahrton,sibling,Q5749509,Gösta Gahrton
 European Union,Q980319,Per Gahrton,spouse,Q19756499,Ulla Lemberg
+European Union,Q981321,Ole Krarup,father,Q55949570,Per Krarup
 European Union,Q981486,Patrick Le Hyaric,child,Q40435441,Steven Le Hyaric
 European Union,Q981866,Pat the Cope Gallagher,relative,Q7123388,Paddy Gallagher
 Faroe Islands,Q1416571,Poul Michelsen,spouse,Q13218840,Sólrún Michelsen
@@ -9049,6 +9052,7 @@ Jordan,Q57464,Abdullah II of Jordan,sibling,Q272117,Princess Haya bint Al-Hussei
 Jordan,Q57464,Abdullah II of Jordan,sibling,Q2817328,Prince Hashem bin Al-Hussein of Jordan
 Jordan,Q57464,Abdullah II of Jordan,sibling,Q3307706,Princess Iman bint Al-Hussein of Jordan
 Jordan,Q57464,Abdullah II of Jordan,sibling,Q461192,Prince Faisal bin Al-Hussein of Jordan
+Jordan,Q57464,Abdullah II of Jordan,sibling,Q4667904,Princess Abir Muhaisen
 Jordan,Q57464,Abdullah II of Jordan,sibling,Q524703,Prince Ali bin Al-Hussein of Jordan
 Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244519,Princess Aisha bint Al-Hussein of Jordan
 Jordan,Q57464,Abdullah II of Jordan,sibling,Q7244527,Princess Alia bint Al-Hussein of Jordan
@@ -9177,6 +9181,7 @@ Kuwait,Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah,father,Q400907,Ahmad Al-Jaber Al
 Kuwait,Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah,sibling,Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah
 Kuwait,Q6781875,Marzouq Al-Ghanim,father,Q85682837,Ali Thunayan Al-Ghanim
 Kuwait,Q6781875,Marzouq Al-Ghanim,mother,Q11921636,Fazia al-Kharafi
+Kuwait,Q6892904,Mohammed Al-Sanousi,spouse,Q115241381,Basma Suleiman
 Kuwait,Q96202201,Hamad Jaber Al-Ali Al-Sabah,father,Q12204053,جابر العلي السالم الصباح
 Kuwait,Q96202201,Hamad Jaber Al-Ali Al-Sabah,mother,Q20382395,Souad Al-Humaidhi
 Kyrgyzstan,Q110751908,Temirtai Izbastin,spouse,Q110751912,Karlyga Izbastina
@@ -10304,6 +10309,7 @@ Nigeria,Q202006,Olusegun Obasanjo,child,Q13140704,Iyabo Obasanjo-Bello
 Nigeria,Q202006,Olusegun Obasanjo,spouse,Q469880,Stella Obasanjo
 Nigeria,Q20982220,Udom Gabriel Emmanuel,spouse,Q101635665,Martha Udom
 Nigeria,Q21467394,Geoffrey Onyeama,father,Q1065681,Charles Onyeama
+Nigeria,Q21467394,Geoffrey Onyeama,sibling,Q96756989,Dillibe Onyeama
 Nigeria,Q22295109,Yahaya Adoza Bello,spouse,Q43087508,Amina Oyiza Bello
 Nigeria,Q22678155,Viola Onwuliri,spouse,Q35828655,Celestine Onwuliri
 Nigeria,Q22704987,Fatimat Olufunke Raji-Rasaki,spouse,Q7286136,Raji Rasaki
@@ -11460,7 +11466,7 @@ Philippines,Q442998,Pia Cayetano,sibling,Q19960435,Lino Cayetano
 Philippines,Q442998,Pia Cayetano,sibling,Q471883,Alan Peter Cayetano
 Philippines,Q446799,Loren Legarda,spouse,Q4776736,Antonio Leviste
 Philippines,Q4492601,Aquilino Pimentel III,father,Q241545,"Aquilino Pimentel, Jr."
-Philippines,Q4492601,Aquilino Pimentel III,relative,Q111084905,
+Philippines,Q4492601,Aquilino Pimentel III,relative,Q26226389,Astra Pimentel
 Philippines,Q4492601,Aquilino Pimentel III,spouse,Q57586476,Kathryna Yu-Pimentel
 Philippines,Q452102,"Amado Espino, Jr.",child,Q65936017,Amado Espino III
 Philippines,Q457786,Rodrigo Duterte,child,Q105700332,Sebastian Duterte
@@ -11709,6 +11715,8 @@ Poland,Q215342,Maria Kaczyńska,spouse,Q2757,Lech Kaczyński
 Poland,Q24051609,Anna Maria Anders,father,Q165544,Władysław Anders
 Poland,Q24051609,Anna Maria Anders,mother,Q461778,Irena Anders
 Poland,Q245618,Maciej Płażyński,child,Q73024554,Kacper Płażyński
+Poland,Q245792,Marek Borowski,father,Q7941248,Wiktor Borowski
+Poland,Q253793,Ryszard Czarnecki,spouse,Q115256528,Emilia Hermaszewska
 Poland,Q260996,Izabela Jaruga-Nowacka,child,Q20278674,Barbara Nowacka
 Poland,Q260996,Izabela Jaruga-Nowacka,spouse,Q11725140,Jerzy‏ Nowacki
 Poland,Q274351,Jolanta Szymanek-Deresz,child,Q79844488,Katarzyna Deresz
@@ -19137,6 +19145,8 @@ United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",relative,
 United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",spouse,Q5298675,Dorothy Wedderburn
 United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",spouse,Q76245401,Nina Salaman
 United Kingdom,Q374490,"Bill Wedderburn, Baron Wedderburn of Charlton",spouse,Q76245407,Frances Ann Knight
+United Kingdom,Q3826408,"Peter Hendy, Baron Hendy of Richmond Hill",father,Q75303819,John Hendy
+United Kingdom,Q3826408,"Peter Hendy, Baron Hendy of Richmond Hill",mother,Q75303817,Mary Jemima Best
 United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",child,Q75386085,Harry Soames
 United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",child,Q75386088,Isabella Soames
 United Kingdom,Q390192,"Nicholas Soames, Baron Soames of Fletching",child,Q76269560,Christopher Soames
@@ -22094,6 +22104,7 @@ World,Q10985643,Humfrey Malins,sibling,Q14945562,Julian Malins
 World,Q11686111,Andrzej Wielowieyski,child,Q9209878,Dominika Wielowieyska
 World,Q11686111,Andrzej Wielowieyski,father,Q106954701,Zbigniew Wielowieyski
 World,Q11749720,Krzysztof Szczerski,sibling,Q9153706,Andrzej Szczerski
+World,Q11797866,Olga Krzyżanowska,spouse,Q16562808,Jerzy Krzyżanowski
 World,Q11860,Silvio Berlusconi,child,Q18235147,Luigi Berlusconi
 World,Q11860,Silvio Berlusconi,child,Q25210469,Eleonora Berlusconi
 World,Q11860,Silvio Berlusconi,child,Q3634593,Barbara Berlusconi
@@ -22326,6 +22337,7 @@ World,Q2422791,Tom Burlison,father,Q75597309,Robert Burlison
 World,Q2422791,Tom Burlison,mother,Q75597311,Georgina Doige
 World,Q2422791,Tom Burlison,spouse,Q75597306,Valerie Stephenson
 World,Q2439158,Geert Versnick,child,Q61816741,Lauren Versnick
+World,Q245792,Marek Borowski,father,Q7941248,Wiktor Borowski
 World,Q2513525,Shimon Ohayon,sibling,Q6784778,Isaac Ohayon
 World,Q2535449,Philippe Mahoux,relative,Q3379592,Philippe Close
 World,Q255788,Fiamma Nirenstein,mother,Q54811144,Wanda Lattes
