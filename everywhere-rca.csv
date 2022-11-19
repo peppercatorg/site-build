@@ -1567,6 +1567,7 @@ Cambodia,Q57788,Hun Sen,spouse,Q4997395,Bun Rany
 Cambodia,Q58287,Hor Namhong,child,Q5901400,Hor Nambora
 Cambodia,Q5901400,Hor Nambora,father,Q58287,Hor Namhong
 Cameroon,Q105971791,Robert Nkili,sibling,Q461586,Jeanne-Irène Biya
+Cameroon,Q111366078,Bahounoui Batende Léon,child,Q115264898,Annie Noëlle Bahounoui Batende
 Cameroon,Q15819842,Ibrahim Mbombo Njoya,sibling,Q17637414,Rabiatou Njoya
 Cameroon,Q23017346,Alamine Ousmane Mey,father,Q108887420,Abba Ousmane Mey
 Cameroon,Q23017346,Alamine Ousmane Mey,sibling,Q108883123,Aboubakar Ousmane Mey
@@ -1678,6 +1679,9 @@ Canada,Q3101084,Geoffrey Kelley,child,Q60833305,Gregory Kelley
 Canada,Q3106095,Gilles Bernier,child,Q516940,Maxime Bernier
 Canada,Q311684,Michael Ignatieff,father,Q500237,George Ignatieff
 Canada,Q311684,Michael Ignatieff,mother,Q110384411,Alison Grant
+Canada,Q3172993,Jean Lapointe,child,Q3167713,Jean-Marie Lapointe
+Canada,Q3172993,Jean Lapointe,father,Q2864956,Arthur-Joseph Lapointe
+Canada,Q3172993,Jean Lapointe,sibling,Q111661500,Gabriel Lapointe
 Canada,Q317842,Jack Layton,child,Q6847629,Mike Layton
 Canada,Q317842,Jack Layton,father,Q3435686,Robert Layton
 Canada,Q317842,Jack Layton,spouse,Q3350703,Olivia Chow
@@ -9964,6 +9968,7 @@ Namibia,Q1568274,Hage Gottfried Geingob,spouse,Q19513511,Monica Geingos
 Namibia,Q521436,Libertine Amathila,spouse,Q4885218,Ben Amathila
 Namibia,Q57469,Hifikepunye Pohamba,spouse,Q7162547,Penehupifo Pohamba
 Nauru,Q274174,Marcus Stephen,father,Q4442559,Lawrence Stephen
+Nauru,Q58096,David Adeang,father,Q888040,Kennan Adeang
 Nauru,Q715836,Bernard Dowiyogo,child,Q321050,Valdon Dowiyogo
 Nauru,Q715836,Bernard Dowiyogo,spouse,Q5110999,Christine Dowiyogo
 Nauru,Q7352665,Robin Millhouse,father,Q55831960,Vivian Millhouse
@@ -10706,6 +10711,7 @@ Norway,Q4580178,Clement Endresen,father,Q4580342,Egil Endresen
 Norway,Q4587518,Fridtjof Frank Gundersen,spouse,Q62051826,Mosse Piene
 Norway,Q4588378,Raymond Johansen,spouse,Q195829,Christin Kristoffersen
 Norway,Q4589089,Steinulf Tungesvik,father,Q4588755,Hans Olav Tungesvik
+Norway,Q4590497,Abid Raja,sibling,Q115272750,Abida Raja
 Norway,Q460322,Kai Eide,spouse,Q11972686,Gro Holm
 Norway,Q462761,Manuela Ramin-Osmundsen,spouse,Q4993147,Terje Osmundsen
 Norway,Q462838,Hanne Bjurstrøm,partner,Q70437009,Jørn Maurud
