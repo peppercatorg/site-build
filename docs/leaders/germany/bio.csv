@@ -609,7 +609,7 @@ Q113994,Doris Barnett,female,1953-05-22,11,,,Doris Barnett (Germany) - July 2016
 Q114033,Marlene Mortler,female,1955-10-16,11,,,Marlene Mortler 2012.jpg,Marlene Mortler
 Q114134624,Daniel Rinkert,male,1987-12-11,11,,,,
 Q1148347,Gerd Bollermann,male,1949-04-10,11,,,Gerd Bollermann.jpg,
-Q1148757,Cyrill Nunn,male,1958-03-11,11,,,,
+Q1148757,Cyrill Nunn,male,1958-03-11,11,,,,Cyrill Nunn
 Q1149343,Klaus Francke,male,1936-07-17,11,2020-06-28,11,"KAS-Francke, Klaus-Bild-19342-1.jpg",Klaus Francke
 Q1150048,Reinhard Meyer,male,1959-09-05,11,,,Reinhard Meyer.jpg,
 Q1150307,Monika Brunert-Jetter,female,1955-11-17,11,2017-09-06,11,Monika Brunert-Jetter.JPG,
@@ -2461,7 +2461,7 @@ Q1889674,Manfred Luckey,male,1949-02-11,11,,,,
 Q1889734,Manfred Müller,male,1943-02-27,11,,,,
 Q1889746,Manfred Nink,male,1950-04-27,11,,,,
 Q1889757,Manfred Opel,male,1938-07-27,11,,,,
-Q1889770,Manfred Palmen,male,1945-03-11,11,,,,
+Q1889770,Manfred Palmen,male,1945-03-11,11,2022-11-18,11,,
 Q18913688,Jaqueline Rauschkolb,female,1987-09-20,11,,,Rauschkolb.jpg,
 Q1891565,Manuel Höferlin,male,1973-02-06,11,,,Manuel Höferlin.jpg,Manuel Höferlin
 Q1891820,Manuela Mahnke,female,1965-02-17,11,,,"Mahnke, Manuela-8844.jpg",
@@ -3569,6 +3569,7 @@ Q42222998,Lars Herrmann,male,1977-04-12,11,,,,Lars Herrmann
 Q42370665,Dirk Adomat,male,1960-10-26,11,,,"Adomat, Dirk.jpg",
 Q42428977,Max Lucks,male,1997-04-19,11,,,Max Lucks (47778973472) (cropped).jpg,Max Lucks
 Q42586423,Dunja Kreiser,female,1971-06-27,11,,,Dunja Kreiser (2021).jpg,Dunja Kreiser
+Q42589507,Stefan Henze,male,1965-07-17,11,,,2018-02-28 AfD Stefan Henze MdL-6171.jpg,
 Q42841188,Ricarda Lang,female,1994-01-17,11,,,Ricarda Lang (2017).jpg,Ricarda Lang
 Q43281819,Manuela Strube,female,1980-01-27,11,,,2019-04-03 Manuela Strube im Hessischen Landtag 3875.jpg,
 Q43303846,Barbara Otte-Kinast,female,1964-09-18,11,,,"Otte-Kinast, Barbara.jpg",Barbara Otte-Kinast
@@ -3875,7 +3876,7 @@ Q67164,Volker Kauder,male,1949-09-03,11,,,"Kauder, Volker-8810.jpg",Volker Kaude
 Q67191622,Elske Hildebrandt,female,1974-02-13,11,,,,
 Q67527,Georg Milbradt,male,1945-02-23,11,,,Milbrad Dresden Hbf.jpg,Georg Milbradt
 Q67529,Maria Böhmer,female,1950-04-23,11,,,"Böhmer, Maria-0748.jpg",Maria Böhmer
-Q67565975,Sebastian Rüter,male,1976-07-03,11,,,2020 01-22 Sebastian Rüter SPD MdL by OlafKosinsky8829.jpg,
+Q67565975,Sebastian Rüter,male,1976,9,,,2020 01-22 Sebastian Rüter SPD MdL by OlafKosinsky8829.jpg,
 Q67565995,Katja Poschmann,female,1980,9,,,,
 Q67796852,Christiane Schenderlein,female,1981-10-17,11,,,Christiane Schenderlein (cropped).jpg,Christiane Schenderlein
 Q67880362,Thomas Kirste,male,1977,9,,,Thomas Kirste (Politiker).jpg,
@@ -3914,7 +3915,7 @@ Q70066,Jochen Borchert,male,1940-04-25,11,,,Jochen Borchert (2018).jpg,Jochen Bo
 Q70077,Claudia Crawford,female,1966-02-07,11,,,"KAS-Nolte, Claudia-Bild-14994-1 (cropped).jpg",Claudia Nolte
 Q70083,Cornelia Pieper,female,1959-02-04,11,,,20130922 Bundestagswahl 2013 in Berlin by Moritz Kosinsky0136.jpg,Cornelia Pieper
 Q70089,Christoph Bergner,male,1948-11-24,11,,,MK28109 Christoph Bergner.jpg,Christoph Bergner
-Q70407,Hermann Otto Solms,male,1940-11-24,11,,,2018-05-10 Hermann Otto Solms-7546.jpg,Hermann Otto Solms
+Q70407,Hermann Otto Solms,male,1940-11-24,11,,,Hermann Otto-Solms 2022-11-05.png,Hermann Otto Solms
 Q70429,Hermann Gröhe,male,1961-02-25,11,,,2017-04-03-Hermann Gröhe-hart aber fair-0547.jpg,Hermann Gröhe
 Q70843391,Thomas Fitschen,male,1959-04-06,11,,,Trade and Development Board (Opening session) (9815848156).jpg,
 Q71018,Lothar Bisky,male,1941-08-17,11,2013-08-13,11,Lothar Bisky.jpg,Lothar Bisky
@@ -3927,7 +3928,7 @@ Q71534,Hubertus Heil,male,1972-11-03,11,,,Hubertus Heil (2021).jpg,Hubertus Heil
 Q71635,Omid Nouripour,male,1975-06-18,11,,,Omid Nouripour - 1 (cropped).jpg,Omid Nouripour
 Q71651,Garrelt Duin,male,1968-04-02,11,,,Verleihung des Europäischen Handwerkspreises an Karl Kardinal Lehmann-2073.jpg,Garrelt Duin
 Q71670,Frithjof Schmidt,male,1953-04-17,11,,,"Schmidt, Frithjof-1617.jpg",Frithjof Schmidt
-Q71697,Carl-Eduard von Bismarck,male,1961-02-16,11,,,CvB.jpg,Carl von Bismarck
+Q71697,Carl-Eduard von Bismarck,male,1961-02-16,11,,,CvB (Carl von Bismarck cropped).jpg,Carl von Bismarck
 Q71763,Alexander Graf Lambsdorff,male,1966-11-05,11,,,2022-09-05 hart aber fair by Sandro Halank–004.jpg,Alexander Graf Lambsdorff
 Q72580,Jan Philipp Albrecht,male,1982-12-20,11,,,Jan Philipp Albrecht (52356433887).jpg,Jan Philipp Albrecht
 Q72651,Heiner Geißler,male,1930-03-03,11,2017-09-12,11,Heiner Geißler (1986).jpg,Heiner Geißler

@@ -363,7 +363,7 @@ United Kingdom,Minister of State at the Cabinet Office,David Frost,Q5233879,2021
 United Kingdom,Minister of State at the Cabinet Office,Nigel Adams,Q258292,2021-09-15,2022-09-06,male,1966-11-30,,Official portrait of Nigel Adams MP crop 2.jpg,Nigel Adams
 United Kingdom,Minister of State for Brexit Opportunities and Government Efficiency,Jacob Rees-Mogg,Q574980,2022-02-08,2022-09-06,male,1969-05-24,,Official portrait of Mr Jacob Rees-Mogg crop 2.jpg,Jacob Rees-Mogg
 United Kingdom,Minister of State for Climate Change,Gregory Barker,Q260562,2010-05-12,2014-07-14,male,1966-03-08,,Gregory Barker (cropped).jpg,"Greg Barker, Baron Barker of Battle"
-United Kingdom,Minister of State for Climate Change,Graham Stuart,Q328641,2022-09-06,,male,1962-03-12,,Official portrait of Graham Stuart crop 2.jpg,Graham Stuart (politician)
+United Kingdom,Minister of State for Climate Change,Graham Stuart,Q328641,2022-09-06,2022-10-26,male,1962-03-12,,Official portrait of Graham Stuart crop 2.jpg,Graham Stuart (politician)
 United Kingdom,Minister of State for Development,Vicky Ford,Q441532,2022-09-07,2022-10-25,female,1967-09-21,,Vicky Ford official portrait (cropped).jpg,Vicky Ford
 United Kingdom,Minister of State for Development and Africa,Andrew Mitchell,Q333261,2022-10-25,,male,1956-03-23,,Official portrait of Mr Andrew Mitchell crop 2.jpg,Andrew Mitchell
 United Kingdom,Minister of State for Security,Beverley Hughes,Q775059,2002-05-29,2004-04-01,female,1950-03-30,,Beverley Hughes 3.jpg,Beverley Hughes
@@ -663,7 +663,6 @@ United Kingdom,Minister for Agriculture and Food,David Heath,Q673199,2012-09-04,
 United Kingdom,Minister for Agriculture and Food,George Eustice,Q303510,2013-10-08,2019-02-28,male,1971-09-28,,Official portrait of George Eustice MP crop 2.jpg,George Eustice
 United Kingdom,Minister for Agriculture and Food,Robert Goodwill,Q391644,2019-03-05,2019-07-25,male,1956-12-31,,Official portrait of Mr Robert Goodwill crop 2.jpg,Robert Goodwill
 United Kingdom,Minister for Agriculture and Food,George Eustice,Q303510,2019-07-25,2020-02-13,male,1971-09-28,,Official portrait of George Eustice MP crop 2.jpg,George Eustice
-United Kingdom,Minister for Agriculture and Food,Mark Spencer,Q389189,2022-09-07,,male,1970-01-20,,Official portrait of Rt Hon Mark Spencer MP crop 2.jpg,Mark Spencer (British politician)
 United Kingdom,Minister for Civil Society,Nick Hurd,Q691299,2010-05-15,2014-07-14,male,1962-05-13,,Official portrait of Mr Nick Hurd crop 2.jpg,Nick Hurd
 United Kingdom,Minister for Civil Society,Brooks Newmark,Q577428,2014-07-15,2014-09-27,male,1958-05-08,,Brooks Newmark.jpg,Brooks Newmark
 United Kingdom,Minister for Civil Society,Rob Wilson,Q262108,2014-09-27,2017-06-09,male,1965-01-04,,Robwilson.jpg,Rob Wilson
@@ -771,7 +770,6 @@ United Kingdom,"Minister of State for Business, Energy and Clean Growth",Claire 
 United Kingdom,"Minister of State for Business, Energy and Clean Growth",Kwasi Kwarteng,Q750204,2019-07-24,2021-01-08,male,1975-05-26,,Official portrait of Kwasi Kwarteng crop 2.jpg,Kwasi Kwarteng
 United Kingdom,"Minister of State for Business, Energy and Clean Growth",Anne-Marie Trevelyan,Q20648244,2021-01-08,2021-09-15,female,1969-04-06,,Official portrait of Mrs Anne-Marie Trevelyan crop 2.jpg,Anne-Marie Trevelyan
 United Kingdom,"Minister of State for Business, Energy and Clean Growth",Greg Hands,Q478227,2021-09-16,2022-09-06,male,1965-11-14,,Official portrait of Greg Hands crop 2.jpg,Greg Hands
-United Kingdom,"Minister of State for Business, Energy and Clean Growth",George Freeman,Q390983,2022-10-26,,male,1967-07-12,,Official portrait of George Freeman crop 2.jpg,George Freeman (politician)
 United Kingdom,Minister of State for Care Services,Ivan Lewis,Q749659,2006-05-15,2008-10-03,male,1967-03-04,,Official portrait of Mr Ivan Lewis crop 2.jpg,Ivan Lewis
 United Kingdom,Minister of State for Care Services,Paul Burstow,Q269977,2010-05-11,2012-09-04,male,1962-05-13,,Paul Burtsow Official.jpg,Paul Burstow
 United Kingdom,Minister of State for Children and Families,Sarah Teather,Q272500,2010-05-13,2012-09-04,female,1974-06-01,,Sarah Teather MP at Harrogate.jpg,Sarah Teather
@@ -826,6 +824,8 @@ United Kingdom,Minister of State for Exiting the European Union,"Joyce Anelay, B
 United Kingdom,Minister of State for Exiting the European Union,Martin Callanan,Q1230084,2017-10-27,2020-01-31,male,1961-08-08,,Gov.uk-Lord Callanan.jpg,"Martin Callanan, Baron Callanan"
 United Kingdom,Minister of State for Family Support,Kit Malthouse,Q6417459,2018-01-09,2018-07-09,male,1966-10-27,,Official portrait of Kit Malthouse crop 2.jpg,Kit Malthouse
 United Kingdom,Minister of State for Farming and the Environment,Jim Fitzpatrick,Q306169,2009-06-08,2010-05-11,male,1952-04-04,,Official portrait of Jim Fitzpatrick crop 2.jpg,Jim Fitzpatrick (politician)
+United Kingdom,Minister of State for Food,Mark Spencer,Q389189,2022-09-07,2022-10-25,male,1970-01-20,,Official portrait of Rt Hon Mark Spencer MP crop 2.jpg,Mark Spencer (British politician)
+United Kingdom,"Minister of State for Food, Farming and Fisheries",Mark Spencer,Q389189,2022-10-25,,male,1970-01-20,,Official portrait of Rt Hon Mark Spencer MP crop 2.jpg,Mark Spencer (British politician)
 United Kingdom,Minister of State for Foreign Affairs,John Battle,Q337561,1999-07-28,2001-06-07,male,1951-04-26,,JohnBattleMP.jpg,John Battle (politician)
 United Kingdom,Minister of State for Foreign Affairs,Brian Wilson,Q338231,2001-01-24,2001-06-11,male,1948-12-13,,,Brian Wilson (Labour politician)
 United Kingdom,Minister of State for Foreign Affairs,Denis MacShane,Q695061,2001-06-11,2002-04-03,male,1948-05-21,,DenisMacShane.jpg,Denis MacShane
@@ -935,6 +935,8 @@ United Kingdom,Minister of State for Schools and Childhood,Dawn Primarolo,Q57521
 United Kingdom,Minister of State for Schools and Childhood,Sarah Teather,Q272500,2010-05-13,2012-09-04,female,1974-06-01,,Sarah Teather MP at Harrogate.jpg,Sarah Teather
 United Kingdom,Minister of State for Schools and Childhood,Edward Timpson,Q272318,2015-05-12,2017-06-09,male,1973-12-26,,Edward Timpson Minister.jpg,Edward Timpson
 United Kingdom,Minister of State for Schools and Childhood,Robert Goodwill,Q391644,2017-06-12,2018-01-09,male,1956-12-31,,Official portrait of Mr Robert Goodwill crop 2.jpg,Robert Goodwill
+United Kingdom,Minister of State for Science and Investment Security,Nus Ghani,Q19957887,2022-09-07,2022-10-26,female,1972-09-01,,Official portrait of Ms Nusrat Ghani crop 2.jpg,Nus Ghani
+United Kingdom,"Minister of State for Science, Research and Innovation",George Freeman,Q390983,2022-10-26,,male,1967-07-12,,Official portrait of George Freeman crop 2.jpg,George Freeman (politician)
 United Kingdom,Minister of State for Social Care,Caroline Dinenage,Q300107,2018-01-09,2020-02-13,female,1971-10-28,,Official portrait of Caroline Dinenage MP crop 2.jpg,Caroline Dinenage
 United Kingdom,Minister of State for Social Care,Helen Whately,Q20747098,2020-02-13,2021-09-16,female,1976-06-23,,Official portrait of Helen Whately crop 2.jpg,Helen Whately
 United Kingdom,Minister of State for Social Care,Gillian Keegan,Q30232942,2021-09-16,2022-09-07,female,1968-03-13,,Official portrait of Gillian Keegan MP crop 2.jpg,Gillian Keegan
@@ -987,7 +989,7 @@ United Kingdom,Minister of State for Transport,George Freeman,Q390983,2019-07-26
 United Kingdom,Minister of State for Transport,Rachel Maclean,Q30234241,2020-02-13,2021-09-16,female,1965-10-03,,Official portrait of Rachel Maclean crop 2.jpg,Rachel Maclean (politician)
 United Kingdom,Minister of State for Transport,Andrew Stephenson,Q341570,2020-02-13,2022-07-07,male,1981-02-17,,Official portrait of Andrew Stephenson crop 2.jpg,Andrew Stephenson
 United Kingdom,Minister of State for Transport,Wendy Morton,Q19917814,2021-12-19,,female,1967-11-09,,Official portrait of Wendy Morton MP crop 2.jpg,Wendy Morton
-United Kingdom,Minister of State for Transport,Trudy Harrison,Q28834855,2022-07-07,,female,1976-04-19,,Official portrait of Trudy Harrison crop 2.jpg,Trudy Harrison
+United Kingdom,Minister of State for Transport,Trudy Harrison,Q28834855,2022-07-07,2022-09-07,female,1976-04-19,,Official portrait of Trudy Harrison crop 2.jpg,Trudy Harrison
 United Kingdom,Minister of State for Transport,Lucy Frazer,Q19957811,2022-09-08,2022-10-26,female,1972-05-17,,Official portrait of Lucy Frazer.jpg,Lucy Frazer
 United Kingdom,Minister of State for Universities,Margaret Hodge,Q688913,2001-06-11,2003-06-13,female,1944-09-08,,Official portrait of Dame Margaret Hodge crop 2.jpg,Margaret Hodge
 United Kingdom,Minister of State for Universities,Michelle Donelan,Q19872694,2020-02-13,2021-09-15,female,1984-04-08,,Official portrait of Michelle Donelan crop 2.jpg,Michelle Donelan
@@ -1056,6 +1058,7 @@ United Kingdom,Parliamentary Under-Secretary of State for Domestic Environment,S
 United Kingdom,Parliamentary Under-Secretary of State for Economy of Northern Ireland,"Angela Smith, Baroness Smith of Basildon",Q168606,2002-10-14,2006-05-05,female,1959-01-07,,Official portrait of Baroness Smith of Basildon crop 2.jpg,"Angela Smith, Baroness Smith of Basildon"
 United Kingdom,Parliamentary Under-Secretary of State for Energy and Climate Change,"Sandip Verma, Baroness Verma",Q2220828,2012-09-04,2015-05-07,female,1959-06-30,,Official portrait of Baroness Verma crop 2.jpg,"Sandip Verma, Baroness Verma"
 United Kingdom,Parliamentary Under-Secretary of State for Energy and Climate Change,Nick Bourne,Q7026799,2015-05-12,2016-07-17,male,1952-01-01,,"Official portrait Lord Bourne of Aberystwyth crop 2, 2022.jpg",Nick Bourne
+United Kingdom,Parliamentary Under-Secretary of State for Environment,Trudy Harrison,Q28834855,2022-09-08,2022-10-25,female,1976-04-19,,Official portrait of Trudy Harrison crop 2.jpg,Trudy Harrison
 United Kingdom,Parliamentary Under-Secretary of State for Equalities,Barbara Follett,Q660827,2007-11-24,2008-10-04,female,1942-12-25,,Barbara Follett.jpg,Barbara Follett (politician)
 United Kingdom,Parliamentary Under-Secretary of State for Equalities,Kemi Badenoch,Q21592171,2020-02-14,,female,1980-01-02,,Kemi Badenoch official Cabinet Portrait; 2022 (cropped).jpg,Kemi Badenoch
 United Kingdom,Parliamentary Under-Secretary of State for Equalities,Amanda Solloway,Q20648487,2022-07-08,2022-09-20,female,1961-06-06,,Official portrait of Amanda Solloway MP crop 2.jpg,Amanda Solloway
@@ -1120,6 +1123,7 @@ United Kingdom,Parliamentary Under-Secretary of State for Justice,James Cartlidg
 United Kingdom,Parliamentary Under-Secretary of State for Justice,Sarah Dines,Q76364344,2022-07-08,2022-09-20,female,1965-05-27,,Official portrait of Miss Sarah Dines MP crop 2.jpg,Sarah Dines
 United Kingdom,Parliamentary Under-Secretary of State for Life Science,Nicola Blackwood,Q263969,2019-01-10,2020-02-13,female,1979-10-16,,Nicola Blackwood.png,Nicola Blackwood
 United Kingdom,Parliamentary Under-Secretary of State for Local Government,Rishi Sunak,Q20055561,2018-01-09,2019-07-24,male,1980-05-12,,Chancellor Rishi Sunak (cropped).jpg,Rishi Sunak
+United Kingdom,Parliamentary Under-Secretary of State for Natural Environment and Land Use,Trudy Harrison,Q28834855,2022-10-25,,female,1976-04-19,,Official portrait of Trudy Harrison crop 2.jpg,Trudy Harrison
 United Kingdom,Parliamentary Under-Secretary of State for Northern Ireland,Barry Gardiner,Q391169,2004-04-02,2005-05-10,male,1957-03-10,,Official portrait of Barry Gardiner crop 2.jpg,Barry Gardiner
 United Kingdom,Parliamentary Under-Secretary of State for Northern Ireland,Andrew Dunlop,Q20011247,2015-05-11,2017-06-10,male,1959-06-21,,"Andrew Dunlop, Baron Dunlop.jpg","Andrew Dunlop, Baron Dunlop"
 United Kingdom,Parliamentary Under-Secretary of State for Northern Ireland,Chloe Smith,Q333680,2017-06-14,2018-01-09,female,1982-05-17,,Official portrait of Chloe Smith crop 2.jpg,Chloe Smith

@@ -1790,6 +1790,7 @@ Chile,Q106945702,Lidia González,mother,Q2658232,
 Chile,Q106945702,Lidia González,relative,Q91150798,
 Chile,Q109667678,Johannes Kaiser,sibling,Q27765731,
 Chile,Q10976963,Ignacio Achurra,father,Q5548401,
+Chile,Q110088331,Álvaro Díaz Pérez,father,Q2844089,
 Chile,Q110636257,Nicolás Grau,mother,Q931701,
 Chile,Q110640779,Claudio Huepe Minoletti,father,Q2336523,
 Chile,Q111225933,Lorena Pizarro,mother,Q6131363,
@@ -3742,6 +3743,7 @@ European Union,Q11685764,Andrej Plenković,father,Q85965242,Mario Plenković
 European Union,Q11685764,Andrej Plenković,spouse,Q35829705,Ana Maslać
 European Union,Q11686111,Andrzej Wielowieyski,child,Q9209878,Dominika Wielowieyska
 European Union,Q11686111,Andrzej Wielowieyski,father,Q106954701,Zbigniew Wielowieyski
+European Union,Q11686111,Andrzej Wielowieyski,spouse,Q115305601,Zofia Wielowieyska
 European Union,Q11687634,Beata Gosiewska,spouse,Q55941,Przemysław Gosiewski
 European Union,Q11713626,Ioannis Averof,father,Q43968709,Michel Avéroff
 European Union,Q11713626,Ioannis Averof,mother,Q43969288,Μαρία Παπαστράτου
@@ -5682,6 +5684,8 @@ Georgia,Q74667039,Teimuraz Lezhava,father,Q99528632,Aleksandre Lezhava
 Germany,Q101192,Hans-Peter Bartels,spouse,Q104875,Susanne Gaschke
 Germany,Q102506,Wolfgang Bosbach,child,Q106618306,Caroline Bosbach
 Germany,Q103710,Oliver Krischer,spouse,Q1684950,Sybille Haußmann
+Germany,Q104150,Monika Griefahn,child,Q115286086,Nora Sophie Griefahn
+Germany,Q104150,Monika Griefahn,spouse,Q69643,Michael Braungart
 Germany,Q1044319,Carolin Butterwegge,spouse,Q1084664,Christoph Butterwegge
 Germany,Q105676,Karl Lauterbach,spouse,Q99975451,Angela Spelsberg
 Germany,Q105887641,Kristina Nordt,father,Q1268020,Manfred Scherer
@@ -11665,6 +11669,9 @@ Poland,Q1030376,Witold Sitarz,child,Q77259326,Emilia Sitarz
 Poland,Q111574804,Sebastian Kęciek,spouse,Q111726938,Izabela Kęciek
 Poland,Q1166062,Dariusz Rosati,child,Q2789894,Weronika Rosati
 Poland,Q1166062,Dariusz Rosati,spouse,Q11836904,Teresa Rosati
+Poland,Q11686111,Andrzej Wielowieyski,child,Q9209878,Dominika Wielowieyska
+Poland,Q11686111,Andrzej Wielowieyski,father,Q106954701,Zbigniew Wielowieyski
+Poland,Q11686111,Andrzej Wielowieyski,spouse,Q115305601,Zofia Wielowieyska
 Poland,Q11715253,Jacek Czaputowicz,spouse,Q113623430,Magdalena Sadowska-Czaputowicz
 Poland,Q11718864,Jan Emeryk Rościszewski,father,Q55771269,Marcin Rościszewski
 Poland,Q11719272,Jan Tombiński,spouse,Q107466227,Agnieszka Tombińska
@@ -13077,6 +13084,7 @@ Slovenia,Q7916849,Vasko Simoniti,sibling,Q18529771,Iztok Simoniti
 Slovenia,Q7916849,Vasko Simoniti,spouse,Q107970431,Alenka Zor Simoniti
 Solomon Islands,Q109910928,Titus Mokofi Fika,sibling,Q7599597,Stanley Festus Sofu
 Solomon Islands,Q16588782,Johnley Hatimoana,spouse,Q109074073,Janet Hatimoana
+Solomon Islands,Q425785,Peter Kenilorea,child,Q68229731,Peter Kenilorea Jr.
 Solomon Islands,Q59096666,Jimson Tanangada,spouse,Q59125182,Lanelle Tanangada
 Solomon Islands,Q59125182,Lanelle Tanangada,spouse,Q59096666,Jimson Tanangada
 Solomon Islands,Q7599597,Stanley Festus Sofu,sibling,Q109910928,Titus Mokofi Fika
@@ -14659,6 +14667,8 @@ Transnistria,Q188409,Yevgeny Shevchuk,spouse,Q4526734,Nina Shtanski
 Transnistria,Q309832,Igor Smirnov,child,Q4424750,Oleg Smirnov
 Transnistria,Q309832,Igor Smirnov,child,Q6181446,Vladimir Smirnov
 Transnistria,Q4526734,Nina Shtanski,spouse,Q188409,Yevgeny Shevchuk
+Trinidad and Tobago,Q115295264,David Abdulah,father,Q5134471,Clive Abdulah
+Trinidad and Tobago,Q115295264,David Abdulah,mother,Q115296134,Mariko Abdulah
 Trinidad and Tobago,Q1567272,Jack Warner,child,Q61927821,Daryll Warner
 Trinidad and Tobago,Q1567272,Jack Warner,child,Q61927840,Daryan Warner
 Trinidad and Tobago,Q16097327,Jean Ramjohn-Richards,relative,Q1397957,Noor Hassanali
@@ -18382,6 +18392,8 @@ United Kingdom,Q335407,"Michael Boyce, Baron Boyce",child,Q75448241,Hugo M. M. B
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",child,Q75448242,Christine G. Boyce
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",father,Q75496133,Hugh Boyce
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",mother,Q75496134,Madeleine Manley
+United Kingdom,Q335407,"Michael Boyce, Baron Boyce",sibling,Q16135565,Philip Boyce
+United Kingdom,Q335407,"Michael Boyce, Baron Boyce",sibling,Q5592680,Graham Boyce
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",spouse,Q75448239,Harriette Gail Fletcher
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",spouse,Q76343977,Fleur Margaret Anne Smith
 United Kingdom,Q335420,Bill Deedes,child,Q75822350,Jeremy Wyndham Deedes
@@ -19630,6 +19642,8 @@ United Kingdom,Q5592680,Graham Boyce,child,Q75496144,Sara Boyce
 United Kingdom,Q5592680,Graham Boyce,child,Q75496145,Josephine Boyce
 United Kingdom,Q5592680,Graham Boyce,father,Q75496133,Hugh Boyce
 United Kingdom,Q5592680,Graham Boyce,mother,Q75496134,Madeleine Manley
+United Kingdom,Q5592680,Graham Boyce,sibling,Q16135565,Philip Boyce
+United Kingdom,Q5592680,Graham Boyce,sibling,Q335407,"Michael Boyce, Baron Boyce"
 United Kingdom,Q5592680,Graham Boyce,spouse,Q75496137,Janet Elizabeth Boyce
 United Kingdom,Q560803,"Anna Healy, Baroness Healy of Primrose Hill",spouse,Q291591,Jon Cruddas
 United Kingdom,Q564093,Annabelle Ewing,mother,Q334015,Winnie Ewing
@@ -20667,6 +20681,7 @@ United States,Q10853588,Kamala Harris,spouse,Q65029113,Doug Emhoff
 United States,Q108548880,James Hageman,child,Q110815967,Harriet Hageman
 United States,Q11100,Deval Patrick,spouse,Q110903410,Diane B. Patrick
 United States,Q111022376,Patrice McClammy,father,Q20707703,Thad McClammy
+United States,Q11109,John Paul Stevens,father,Q115286636,Ernest James Stevens
 United States,Q111156646,Mary Ann Middaugh,spouse,Q111156151,James Mick Middaugh
 United States,Q11116,Ruth Bader Ginsburg,child,Q15046892,Jane C. Ginsburg
 United States,Q11116,Ruth Bader Ginsburg,child,Q6143596,James Steven Ginsburg
@@ -22111,6 +22126,7 @@ World,Q1091143,Anastasios Papaligouras,spouse,Q26720202,Zaira Papaligouras
 World,Q10985643,Humfrey Malins,sibling,Q14945562,Julian Malins
 World,Q11686111,Andrzej Wielowieyski,child,Q9209878,Dominika Wielowieyska
 World,Q11686111,Andrzej Wielowieyski,father,Q106954701,Zbigniew Wielowieyski
+World,Q11686111,Andrzej Wielowieyski,spouse,Q115305601,Zofia Wielowieyska
 World,Q11749720,Krzysztof Szczerski,sibling,Q9153706,Andrzej Szczerski
 World,Q11797866,Olga Krzyżanowska,spouse,Q16562808,Jerzy Krzyżanowski
 World,Q11860,Silvio Berlusconi,child,Q18235147,Luigi Berlusconi

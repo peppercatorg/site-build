@@ -2,6 +2,8 @@ catalog,id,name,relationship,relative,relativename
 Germany,Q101192,Hans-Peter Bartels,spouse,Q104875,Susanne Gaschke
 Germany,Q102506,Wolfgang Bosbach,child,Q106618306,Caroline Bosbach
 Germany,Q103710,Oliver Krischer,spouse,Q1684950,Sybille Haußmann
+Germany,Q104150,Monika Griefahn,child,Q115286086,Nora Sophie Griefahn
+Germany,Q104150,Monika Griefahn,spouse,Q69643,Michael Braungart
 Germany,Q1044319,Carolin Butterwegge,spouse,Q1084664,Christoph Butterwegge
 Germany,Q105676,Karl Lauterbach,spouse,Q99975451,Angela Spelsberg
 Germany,Q105887641,Kristina Nordt,father,Q1268020,Manfred Scherer

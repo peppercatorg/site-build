@@ -3212,6 +3212,8 @@ United Kingdom,Q335407,"Michael Boyce, Baron Boyce",child,Q75448241,Hugo M. M. B
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",child,Q75448242,Christine G. Boyce
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",father,Q75496133,Hugh Boyce
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",mother,Q75496134,Madeleine Manley
+United Kingdom,Q335407,"Michael Boyce, Baron Boyce",sibling,Q16135565,Philip Boyce
+United Kingdom,Q335407,"Michael Boyce, Baron Boyce",sibling,Q5592680,Graham Boyce
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",spouse,Q75448239,Harriette Gail Fletcher
 United Kingdom,Q335407,"Michael Boyce, Baron Boyce",spouse,Q76343977,Fleur Margaret Anne Smith
 United Kingdom,Q335420,Bill Deedes,child,Q75822350,Jeremy Wyndham Deedes
@@ -4460,6 +4462,8 @@ United Kingdom,Q5592680,Graham Boyce,child,Q75496144,Sara Boyce
 United Kingdom,Q5592680,Graham Boyce,child,Q75496145,Josephine Boyce
 United Kingdom,Q5592680,Graham Boyce,father,Q75496133,Hugh Boyce
 United Kingdom,Q5592680,Graham Boyce,mother,Q75496134,Madeleine Manley
+United Kingdom,Q5592680,Graham Boyce,sibling,Q16135565,Philip Boyce
+United Kingdom,Q5592680,Graham Boyce,sibling,Q335407,"Michael Boyce, Baron Boyce"
 United Kingdom,Q5592680,Graham Boyce,spouse,Q75496137,Janet Elizabeth Boyce
 United Kingdom,Q560803,"Anna Healy, Baroness Healy of Primrose Hill",spouse,Q291591,Jon Cruddas
 United Kingdom,Q564093,Annabelle Ewing,mother,Q334015,Winnie Ewing
