@@ -55,6 +55,7 @@ Albania,Q31965890,Rudina Hajdari,father,Q793657,Azem Hajdari
 Albania,Q57625,Sali Berisha,spouse,Q11757807,Liri Berisha
 Albania,Q6900200,Monika Kryemadhi,spouse,Q727132,Ilir Meta
 Albania,Q727132,Ilir Meta,spouse,Q6900200,Monika Kryemadhi
+Albania,Q980323,Namik Dokle,sibling,Q3299797,Zehrudin Dokle
 Algeria,Q3193179,Karim Djoudi,father,Q3138943,Hocine Djoudi
 Algeria,Q3193218,Karim Tabbou,spouse,Q83484711,Zahra Tabbou
 Algeria,Q57308,Abdelaziz Bouteflika,sibling,Q3474786,Said Bouteflika
@@ -794,6 +795,9 @@ Austria,Q85433,Doris Bures,partner,Q76824347,Wolfgang Jansky
 Austria,Q86182,Alois Stöger,father,Q67891440,Alois Stöger
 Austria,Q89601,Reinhold Mitterlehner,sibling,Q76735877,Andreas Mitterlehner
 Austria,Q90426,Dagmar Belakowitsch,sibling,Q1577572,Hans-Jörg Jenewein
+Austria,Q93764,Liese Prokop,child,Q1729526,Karin Prokop
+Austria,Q93764,Liese Prokop,relative,Q701136,Thomas Sykora
+Austria,Q93764,Liese Prokop,sibling,Q546219,Maria Sykora
 Austria,Q93870,Eva Glawischnig-Piesczek,spouse,Q2531209,Volker Piesczek
 Austria,Q93965,John Gudenus,child,Q1694264,Johann Gudenus
 Austria,Q93965,John Gudenus,father,Q6215621,Johann Baptist Gudenus
@@ -1569,7 +1573,7 @@ Cambodia,Q57788,Hun Sen,spouse,Q4997395,Bun Rany
 Cambodia,Q58287,Hor Namhong,child,Q5901400,Hor Nambora
 Cambodia,Q5901400,Hor Nambora,father,Q58287,Hor Namhong
 Cameroon,Q105971791,Robert Nkili,sibling,Q461586,Jeanne-Irène Biya
-Cameroon,Q111366078,Bahounoui Batende Léon,child,Q115264898,Annie Noëlle Bahounoui Batende
+Cameroon,Q111366078,Léon Bahounoui Batende,child,Q115264898,Annie Noëlle Bahounoui Batende
 Cameroon,Q15819842,Ibrahim Mbombo Njoya,sibling,Q17637414,Rabiatou Njoya
 Cameroon,Q23017346,Alamine Ousmane Mey,father,Q108887420,Abba Ousmane Mey
 Cameroon,Q23017346,Alamine Ousmane Mey,sibling,Q108883123,Aboubakar Ousmane Mey
@@ -3743,6 +3747,7 @@ European Union,Q116812,Oriol Junqueras,sibling,Q108185246,Roger Junqueras i Vies
 European Union,Q116812,Oriol Junqueras,spouse,Q58226735,Neus Bramona
 European Union,Q11685764,Andrej Plenković,father,Q85965242,Mario Plenković
 European Union,Q11685764,Andrej Plenković,spouse,Q35829705,Ana Maslać
+European Union,Q11686111,Andrzej Wielowieyski,child,Q115308618,Agnieszka Wielowieyska
 European Union,Q11686111,Andrzej Wielowieyski,child,Q9209878,Dominika Wielowieyska
 European Union,Q11686111,Andrzej Wielowieyski,father,Q106954701,Zbigniew Wielowieyski
 European Union,Q11686111,Andrzej Wielowieyski,spouse,Q115305601,Zofia Wielowieyska
@@ -4233,6 +4238,7 @@ European Union,Q336430,"Richard Fletcher-Vane, 2nd Baron Inglewood",child,Q76152
 European Union,Q336430,"Richard Fletcher-Vane, 2nd Baron Inglewood",father,Q8009155,"William Fletcher-Vane, 1st Baron Inglewood"
 European Union,Q336430,"Richard Fletcher-Vane, 2nd Baron Inglewood",mother,Q75335731,Mary Proby
 European Union,Q336430,"Richard Fletcher-Vane, 2nd Baron Inglewood",spouse,Q75350590,Cressida Pemberton-Pigott
+European Union,Q336521,"Eluned Morgan, Baroness Morgan of Ely",father,Q60694106,Bob Morgan
 European Union,Q336537,"Glenys Kinnock, Baroness Kinnock of Holyhead",child,Q3377178,Stephen Kinnock
 European Union,Q336537,"Glenys Kinnock, Baroness Kinnock of Holyhead",child,Q76282425,Rachel Kinnock
 European Union,Q336537,"Glenys Kinnock, Baroness Kinnock of Holyhead",spouse,Q317258,Neil Kinnock
@@ -4933,6 +4939,7 @@ France,Q1324990,William Dumas,father,Q62084103,Léopold Dumas
 France,Q1324990,William Dumas,sibling,Q61959204,Gérard Dumas
 France,Q1353605,Pascal Clément,father,Q3288808,Marcel Clément
 France,Q1353605,Pascal Clément,spouse,Q71194967,Laure de Choiseul-Praslin
+France,Q1366170,Hervé de Charette,child,Q90907569,Laurence de Charette
 France,Q1383590,Patrick Devedjian,child,Q33109319,Thomas Devedjian
 France,Q1383590,Patrick Devedjian,father,Q89125453,Roland Devedjian
 France,Q1383590,Patrick Devedjian,relative,Q1729135,Karekin Deveciyan
@@ -8070,6 +8077,7 @@ Ireland,Q4961087,Brendan Ryan,sibling,Q7459603,Seán Ryan
 Ireland,Q5162247,Conor Lenihan,father,Q912542,Brian Lenihan Snr
 Ireland,Q5162247,Conor Lenihan,relative,Q52325325,Feargal O'Rourke
 Ireland,Q5162247,Conor Lenihan,sibling,Q912430,"Brian Lenihan, Jnr"
+Ireland,Q5293884,Donal O'Donnell,father,Q107598702,Turlough O'Donnell
 Ireland,Q5381683,Eoghan Murphy,sibling,Q15242150,Killian Scott
 Ireland,Q5381749,Eoin Ó Broin,spouse,Q16945605,Lynn Boylan
 Ireland,Q540812,Frances Fitzgerald,spouse,Q677407,Michael Fitzgerald
@@ -8713,6 +8721,7 @@ Japan,Q11467981,Tsutomu Yamazaki,father,Q11468180,Tatsuo Yamazaki
 Japan,Q11467981,Tsutomu Yamazaki,relative,Q11468042,Iwao Yamazaki
 Japan,Q11472782,Kazumasa Okajima,father,Q11472788,Masayuki Okajima
 Japan,Q11500493,Jūrō Saitō,father,Q11500588,Noboru Saitō
+Japan,Q11516489,Arimura Haruko,father,Q41552397,有村國宏
 Japan,Q11518790,Tarō Kimura,father,Q11518804,Morio Kimura
 Japan,Q11518790,Tarō Kimura,relative,Q48764999,木村文男
 Japan,Q11518790,Tarō Kimura,sibling,Q41770594,Jirō Kimura
@@ -8995,6 +9004,7 @@ Japan,Q661410,Shinjirō Koizumi,sibling,Q1036065,Kotaro Koizumi
 Japan,Q661410,Shinjirō Koizumi,spouse,Q909492,Christel Takigawa
 Japan,Q6782819,Masazumi Gotoda,father,Q11488560,Yoshihiro Gotōda
 Japan,Q6782819,Masazumi Gotoda,spouse,Q1065705,Maki Mizuno
+Japan,Q6964565,Naoki Okada,father,Q113568066,Naotsuyo Okada
 Japan,Q697258,Nobutaka Machimura,father,Q11578254,Kingo Machimura
 Japan,Q697258,Nobutaka Machimura,relative,Q11537591,Kumazō Kuwata
 Japan,Q697969,Masahiko Kōmura,child,Q41777917,Masahiro Kōmura
@@ -11671,6 +11681,7 @@ Poland,Q1030376,Witold Sitarz,child,Q77259326,Emilia Sitarz
 Poland,Q111574804,Sebastian Kęciek,spouse,Q111726938,Izabela Kęciek
 Poland,Q1166062,Dariusz Rosati,child,Q2789894,Weronika Rosati
 Poland,Q1166062,Dariusz Rosati,spouse,Q11836904,Teresa Rosati
+Poland,Q11686111,Andrzej Wielowieyski,child,Q115308618,Agnieszka Wielowieyska
 Poland,Q11686111,Andrzej Wielowieyski,child,Q9209878,Dominika Wielowieyska
 Poland,Q11686111,Andrzej Wielowieyski,father,Q106954701,Zbigniew Wielowieyski
 Poland,Q11686111,Andrzej Wielowieyski,spouse,Q115305601,Zofia Wielowieyska
@@ -12252,7 +12263,6 @@ Russia,Q4375286,Alexander Pochinok,spouse,Q21154097,Natalya Pochinok
 Russia,Q4391144,Vladimir Rakhmanin,father,Q4391139,Oleg Rakhmanin
 Russia,Q4391661,Yevgeny Revenko,spouse,Q4263452,Elizaveta Listova
 Russia,Q4395840,"Родионов, Юрий Николаевич",child,Q54492812,Inna Svyatenko
-Russia,Q44371,Valentina Tereshkova,child,Q110415240,Elena Tereshkova
 Russia,Q44371,Valentina Tereshkova,spouse,Q312474,Andriyan Nikolayev
 Russia,Q44371,Valentina Tereshkova,spouse,Q47161323,Yuliy Shaposhnikov
 Russia,Q4441872,Zoya Stepanova,spouse,Q4514356,Mikhail Chernyshyov
@@ -12433,7 +12443,7 @@ Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q4854440,Bandar bin Abdu
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q5685929,Haya bint Abdulaziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q57298,Abdullah of Saudi Arabia
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
-Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz
+Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q6745575,Mamdoh bin Abdulaziz
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q6967643,Nasser bin Abdulaziz
@@ -12486,7 +12496,7 @@ Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q4854440,Bandar bin 
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q5685929,Haya bint Abdulaziz Al Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q57298,Abdullah of Saudi Arabia
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
-Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz
+Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz Al Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q6745575,Mamdoh bin Abdulaziz
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q6967643,Nasser bin Abdulaziz
@@ -12536,7 +12546,7 @@ Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q4854440,Bandar bin Abdulaziz 
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q5685929,Haya bint Abdulaziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q57298,Abdullah of Saudi Arabia
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
-Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q6496091,Latifa bint Abdulaziz
+Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q6496091,Latifa bint Abdulaziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q6745575,Mamdoh bin Abdulaziz
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q6967643,Nasser bin Abdulaziz
@@ -12582,7 +12592,7 @@ Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4854440,Bandar bin Ab
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q5685929,Haya bint Abdulaziz Al Saud
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q57298,Abdullah of Saudi Arabia
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
-Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz Al Saud
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6745575,Mamdoh bin Abdulaziz
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q6967643,Nasser bin Abdulaziz
@@ -12645,7 +12655,7 @@ Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4854440,Bandar bin Abdulazi
 Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q5685929,Haya bint Abdulaziz Al Saud
 Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q57298,Abdullah of Saudi Arabia
 Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6496091,Latifa bint Abdulaziz
+Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6496091,Latifa bint Abdulaziz Al Saud
 Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6745575,Mamdoh bin Abdulaziz
 Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
 Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6967643,Nasser bin Abdulaziz
@@ -12758,7 +12768,7 @@ Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q4704127,Al Jawhara bint Ab
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q4854440,Bandar bin Abdulaziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q5685929,Haya bint Abdulaziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
-Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q6496091,Latifa bint Abdulaziz
+Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q6496091,Latifa bint Abdulaziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q6745575,Mamdoh bin Abdulaziz
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q6967643,Nasser bin Abdulaziz
@@ -12860,7 +12870,7 @@ Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4854440,Bandar bin A
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q5685929,Haya bint Abdulaziz Al Saud
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q57298,Abdullah of Saudi Arabia
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
-Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz Al Saud
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6745575,Mamdoh bin Abdulaziz
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q6967643,Nasser bin Abdulaziz
@@ -14989,6 +14999,7 @@ Ukraine,Q4494624,Viktor Khazan,child,Q45088,Pavlo Khazan
 Ukraine,Q4524964,Volodymyr Shkidchenko,father,Q4524963,Petro Shkidchenko
 Ukraine,Q4527973,Ihor Shurma,child,Q22813963,Rostyslav Shurma
 Ukraine,Q4528122,Yurii Shukhevych,father,Q463766,Roman Shukhevych
+Ukraine,Q4528122,Yurii Shukhevych,spouse,Q115352035,Lesya Kalvarovska
 Ukraine,Q4528881,Artem Shcherban,father,Q4528883,Volodymyr Shcherban
 Ukraine,Q4528883,Volodymyr Shcherban,child,Q4528881,Artem Shcherban
 Ukraine,Q4535621,Petro Juszczenko,sibling,Q1459699,Viktor Yushchenko
@@ -18852,6 +18863,7 @@ United Kingdom,Q336515,"Peter Rees, Baron Rees",relative,Q75521538,Serena Wendel
 United Kingdom,Q336515,"Peter Rees, Baron Rees",relative,Q75817415,Francesca Wendell
 United Kingdom,Q336515,"Peter Rees, Baron Rees",spouse,Q75525384,Anthea Maxwell-Hyslop
 United Kingdom,Q336520,Alan Sugar,spouse,Q75934218,Ann Simons
+United Kingdom,Q336521,"Eluned Morgan, Baroness Morgan of Ely",father,Q60694106,Bob Morgan
 United Kingdom,Q336526,"Mike German, Baron German",spouse,Q7922414,Veronica German
 United Kingdom,Q336534,Merlyn Rees,child,Q76237824,Patrick Merlyn-Rees
 United Kingdom,Q336534,Merlyn Rees,child,Q76237825,Gareth Merlyn-Rees
@@ -22081,6 +22093,7 @@ Wales,Q3337819,Neil Hamilton,spouse,Q5111038,Christine Hamilton
 Wales,Q333841,Dafydd Elis-Thomas,spouse,Q75939076,Ellen M. Williams
 Wales,Q333841,Dafydd Elis-Thomas,spouse,Q75939078,Mair Parry Jones
 Wales,Q333869,Ron Davies,spouse,Q20648332,Christina Rees
+Wales,Q336521,"Eluned Morgan, Baroness Morgan of Ely",father,Q60694106,Bob Morgan
 Wales,Q336526,"Mike German, Baron German",spouse,Q7922414,Veronica German
 Wales,Q3396810,Ieuan Wyn Jones,spouse,Q22950515,Eirian Llwyd
 Wales,Q3404581,Mohammad Asghar,child,Q98968495,Natasha Asghar
@@ -22130,6 +22143,7 @@ World,Q1091143,Anastasios Papaligouras,child,Q23645746,Léna Papaligoúra
 World,Q1091143,Anastasios Papaligouras,father,Q12236394,Panagis Papaligoúras
 World,Q1091143,Anastasios Papaligouras,spouse,Q26720202,Zaira Papaligouras
 World,Q10985643,Humfrey Malins,sibling,Q14945562,Julian Malins
+World,Q11686111,Andrzej Wielowieyski,child,Q115308618,Agnieszka Wielowieyska
 World,Q11686111,Andrzej Wielowieyski,child,Q9209878,Dominika Wielowieyska
 World,Q11686111,Andrzej Wielowieyski,father,Q106954701,Zbigniew Wielowieyski
 World,Q11686111,Andrzej Wielowieyski,spouse,Q115305601,Zofia Wielowieyska
