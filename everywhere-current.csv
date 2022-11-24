@@ -3,6 +3,7 @@ Abkhazia,President,Aslan Bzhania,Q4086139,2020-04-23,male,1963-04-06,,Aslan Bzha
 Abkhazia,Vice President,Badr Gunba,Q4152132,2020-04-23,male,1981-08-14,,,Badr Gunba
 Abkhazia,Prime Minister,Alexander Ankvab,Q313355,2020-04-23,male,1952-12-26,,Alexander Ankvab - 06.10.2011.jpg,Alexander Ankvab
 Abkhazia,Minister of Culture,Elvira Arsalia,Q21572779,2014-10-15,female,1978,,Эльвира Анатольевна Арсалия 08.jpg,Elvira Arsalia
+Abkhazia,Minister of Defence,Vladimir Anua,Q110974709,2020-06-01,male,1957,,,
 Abkhazia,Minister of Foreign Affairs,Inal Ardzinba,Q18043980,2021-11-18,male,1990-07-26,,2022 Inal Ardzinba.jpg,Inal Ardzinba
 Abkhazia,Minister of Internal Affairs,Aslan Kobakhia,Q26465386,2016-08-16,male,1960-03-23,,,Aslan Kobakhia
 Abkhazia,Chief of the Cabinet Staff,David Sangulia,Q109065587,2017-09-04,male,1980-08-04,,,
@@ -1629,7 +1630,6 @@ Denmark,Chief of Defence,Flemming Lentfer,Q100262012,2020-12-01,male,1964-03-01,
 Denmark,Chief of the Royal Danish Army,Gunner Arpe Nielsen,Q106825491,2021-05-15,male,1967-02-20,,,
 Denmark,National Chief of Police,Thorkild Fogde,Q89358501,2020-03-01,male,1965-07-18,,,Thorkild Fogde
 Denmark,Governor of the Danish Nationalbank,Lars Rohde,Q12323904,2013-02,male,1954-03-21,,20220301 Nationalbankschef Lars Rohde Sveriges ambassad Kopenhamn 0023 (51913413809) (cropped).jpg,
-Denmark,Lord Mayor of Copenhagen,Sophie Hæstorp Andersen,Q12336450,2022-01-01,female,1974-09-26,,"Sophie Hæstorp Andersen, 2013-12-04.jpg",Sophie Hæstorp Andersen
 Djibouti,President,Ismail Omar Guelleh,Q57390,1999-05-08,male,1947-11-27,,Ismail Omar Guelleh 2010.jpg,Ismaïl Omar Guelleh
 Djibouti,Prime Minister,Abdoulkader Kamil Mohamed,Q10522744,2013-04-01,male,1951-07-01,,Abdoulkader Kamil Mohamed.jpg,Abdoulkader Kamil Mohamed
 Djibouti,Minister of Agriculture,Mohamed Ahmed Awaleh,Q110573017,2013-03-31,male,,,,
@@ -1747,7 +1747,7 @@ Egypt,Minister of Civil Aviation,Mohamed Abbas Helmy,Q28923601,2022-08-13,male,1
 Egypt,Minister of Communications,Amr Talaat,Q55096335,2018-06-14,male,1961,,Amr Talaat.jpg,Amr Talaat
 Egypt,Minister of Culture,Neveen el Kilany,Q113531244,2022-08-13,male,,,,
 Egypt,Minister of Defence,Mohamed Ahmed Zaki,Q55196900,2018-06-14,male,1956-01-29,,Mohamed Ahmed Zaki.jpg,Mohamed Ahmed Zaki
-Egypt,Minister of Education,Reda Hegazi,Q113531258,2022-08-13,male,1959-12-04,,,
+Egypt,Minister of Education,Reda Hegazy,Q113531258,2022-08-13,male,1959-12-04,,,Reda Hegazy
 Egypt,Minister of Electricity and Renewable Energy,Mohamed Shaker El-Markabi,Q37530705,2014-03-01,male,,,Mohamed Shaker El-Markabi.jpg,Mohamed Shaker El-Markabi
 Egypt,Minister of the Environment,Yasmine Fouad,Q60564408,2018-06-14,female,,,ياسمين فؤاد - وكالة أنباء الشرق الأوسط 2019.jpg,Yasmine Fouad
 Egypt,Minister of Finance,Mohamed Maait,Q55392139,2018-06-14,male,1962-08-31,,محمد معيط - جريدة الفجر 2019.png,
@@ -1980,6 +1980,7 @@ European Union,European Commissioner for Agriculture,Janusz Wojciechowski,Q35092
 European Union,European Commissioner for An Economy that Works for People,Valdis Dombrovskis,Q57630,2019-12-01,male,1971-08-05,,Valdis Dombrovskis 2009.jpg,Valdis Dombrovskis
 European Union,European Commissioner for Climate Action,Frans Timmermans,Q32681,2019-12-01,male,1961-05-06,,Frans Timmermans (2022).jpg,Frans Timmermans
 European Union,European Commissioner for Cohesion and Reforms,Elisa Ferreira,Q5361358,2019-12-01,female,1955-10-17,,"Hearings with Elisa Ferreira PT, candidate commissioner for cohesion and reforms EU (48832802368) (cropped).jpg",Elisa Ferreira
+European Union,European Commissioner for Competition,Margrethe Vestager,Q270820,2014-11-01,female,1968-04-13,,"(Margrethe Vestager) Hearings of Margrethe Vestager DK, vice president-designate for a Europe fit for the digital age (48865071413) (cropped).jpg",Margrethe Vestager
 European Union,European Commissioner for Democracy and Demography,Dubravka Šuica,Q299667,2019-12-01,female,1957-05-20,,Hearing of Dubravka Šuica (Croatia) - Democracy and demography (48838221291) (cropped).jpg,Dubravka Šuica
 European Union,European Commissioner for Economy,Paolo Gentiloni,Q1071031,2019-12-01,male,1954-11-22,,Paolo Gentiloni EP Parliament (cropped).jpg,Paolo Gentiloni
 European Union,"European Commissioner for Education, Culture, Multilingualism and Youth",Mariya Gabriel,Q11769926,2019-12-01,female,1979-05-20,,Hearings Mariya Gabriel (Bulgaria) - innovation and youth. (48822420931) (cropped).jpg,Mariya Gabriel
@@ -2375,7 +2376,7 @@ Guatemala,Attorney General,María Consuelo Porras,Q52577583,2018-05-17,female,19
 Guatemala,President of the Congress,Shirley Rivera,Q108929476,2022-01-14,female,1971-09-22,,Shirley Rivera 14 January 2022 (cropped).jpg,Shirley Rivera
 Guatemala,President of the Central Bank,Álvaro González Ricci,Q110184164,2022-10-01,male,1967-02-19,,Álvaro González Ricci (cropped).jpg,
 Guatemala,Chief of Defence Staff,Walfre Omar Carranza España,Q110184238,2020-12-19,male,,,,
-Guinea-Bissua,President,Umaro Sissoco Embaló,Q16855164,2020-01-03,male,1972-09-23,,,Umaro Sissoco Embaló
+Guinea-Bissua,President,Umaro Sissoco Embaló,Q16855164,2020-01-03,male,1972-09-23,,Umaro Sissoco Embaló (51315757792).jpg,Umaro Sissoco Embaló
 Guinea-Bissua,Prime Minister,Nuno Nabiam,Q86715481,2020-02-28,male,1966-11-17,,Nuno Gomes Nabiam.png,Nuno Gomes Nabiam
 Guinea-Bissua,Minister of the Presidency of the Council of Ministers (Deputy Prime Minister),Soares Sambú,Q7549853,2020-11-04,male,,,,Soares Sambú
 Guinea-Bissua,Minister of Agriculture and Forestry,Sandji Fati,Q97167836,2022-06-09,male,1956-08-08,,,
@@ -2803,7 +2804,7 @@ Isle of Man,Minister for the Treasury,Alexander J Allinson,Q107833017,2022-05-20
 Isle of Man,President of Tynwald,Laurence Skelly,Q24852556,2021-07-20,male,,,,Laurence Skelly
 Isle of Man,Speaker of the House of Keys,Juan Watterson,Q6301157,2016,male,1980-07-04,,,Juan Watterson
 Israel,President,Isaac Herzog,Q983258,2021-06-02,male,1960-09-22,,Isaac Herzog.jpg,Isaac Herzog
-Israel,Prime Minister,Yair Lapid,Q1396120,2022-07-01,male,1963-11-05,,Yair Lapid 2021 (cropped).jpg,Yair Lapid
+Israel,Prime Minister,Yair Lapid,Q1396120,2022-07-01,male,1963-11-05,,Yair Lapid (D1237-011).jpg,Yair Lapid
 Israel,Alternate Prime Minister,Naftali Bennett,Q39318,2022-07-01,male,1972-03-25,,Naftali Bennett official portrait.jpg,Naftali Bennett
 Israel,Deputy Prime Minister,Benny Gantz,Q557436,2021-06-13,male,1959-06-09,,Benny Gantz 2019 (cropped).jpg,Benny Gantz
 Israel,Minister of Agriculture and Rural Development,Oded Forer,Q20898016,2021-06-13,male,1977-05-30,,"ח""כ עודד פורר.jpg",Oded Forer
@@ -2821,7 +2822,7 @@ Israel,Minister of Education,Yifat Shasha-Biton,Q19634043,2021-06-13,female,1973
 Israel,Minister of Energy,Karin Elharar,Q3663042,2021-06-13,female,1977-10-09,,קארין אלהרר.jpg,Karine Elharrar
 Israel,Minister of Environmental Protection,Tamar Zandberg,Q3818052,2021-06-13,female,1976-04-29,,TamiZandberg.jpg,Tamar Zandberg
 Israel,Minister of Finance,Avigdor Lieberman,Q58311,2021-06-13,male,1958-07-05,,Avigdor Lieberman 2017.jpg,Avigdor Lieberman
-Israel,Minister of Foreign Affairs,Yair Lapid,Q1396120,2021-06-13,male,1963-11-05,,Yair Lapid 2021 (cropped).jpg,Yair Lapid
+Israel,Minister of Foreign Affairs,Yair Lapid,Q1396120,2021-06-13,male,1963-11-05,,Yair Lapid (D1237-011).jpg,Yair Lapid
 Israel,Minister of Health,Nitzan Horowitz,Q2916662,2021-06-13,male,1965-02-24,,Nitzan Horowitz 2012.jpg,Nitzan Horowitz
 Israel,Minister of Intelligence,Elazar Stern,Q4358424,2021-06-13,male,1956-08-25,,Launch of 'British Club' for Holocaust survivors (6885477889) (cropped).jpg,Elazar Stern
 Israel,Minister of the Interior,Ayelet Shaked,Q2791686,2021-06-13,female,1976-05-07,,AYELET SHAKED.jpg,Ayelet Shaked
@@ -2832,7 +2833,7 @@ Israel,Minister of Public Security,Omer Bar-Lev,Q3593286,2021-06-13,male,1953-10
 Israel,Minister of Regional Development Minister,Issawi Frej,Q3594030,2021-06-13,male,1963-12-14,,Issawi Frej 2.jpg,Issawi Frej
 Israel,Minister of Science and Technology,Orit Farkash Hacohen,Q20071724,2021-06-13,female,1970-12-29,,אורית פרקש הכהן- חוסן לישראל.jpg,Orit Farkash-Hacohen
 Israel,Minister of Social Equality,Meirav Cohen,Q7030786,2021-06-13,female,1983-08-26,,Merav Cohen 1 (cropped).JPG,Meirav Cohen
-Israel,Minister of Strategic Affairs,Yair Lapid,Q1396120,2021-06-13,male,1963-11-05,,Yair Lapid 2021 (cropped).jpg,Yair Lapid
+Israel,Minister of Strategic Affairs,Yair Lapid,Q1396120,2021-06-13,male,1963-11-05,,Yair Lapid (D1237-011).jpg,Yair Lapid
 Israel,Minister of Tourism,Yoel Razvozov,Q2468984,2021-06-13,male,1980-07-05,,יואל רזבוזוב.jpg,Yoel Razvozov
 Israel,Minister of Transport and Road Safety,Merav Michaeli,Q391262,2021-06-13,female,1966-11-24,,Merav Michaeli by Ron Kedmi.jpg,Merav Michaeli
 Israel,Minister of Water Resources,Karin Elharar,Q3663042,2021-06-13,female,1977-10-09,,קארין אלהרר.jpg,Karine Elharrar
@@ -6283,7 +6284,7 @@ United States,National Security Advisor,Jake Sullivan,Q16730147,2021-01-20,male,
 United States,Director of National Intelligence,Avril Haines,Q14525857,2021-01-21,female,1969-08-27,,Avril-Haines.jpg,Avril Haines
 United States,United States Trade Representative,Katherine Tai,Q104076331,2021-03-18,female,1974-03-18,,"Katherine Tai, official portrait.jpg",Katherine Tai
 United States,Administrator of the Environmental Protection Agency,Michael S. Regan,Q104224230,2021-03-11,male,1976-08-06,,Michael S. Regan official photo (cropped).jpg,Michael S. Regan
-United States,Administrator of the Small Business Administration,Isabel Guzman,Q104717188,2021-03-17,female,1971,,Isabel-Guzman.jpg,Isabel Guzman
+United States,Administrator of the Small Business Administration,Isabel Guzman,Q104717188,2021-03-17,female,1970,,Isabel-Guzman.jpg,Isabel Guzman
 United States,Ambassador to the United Nations,Linda Thomas-Greenfield,Q19920980,2021-02-25,female,1952-11,,Linda-Thomas-Greenfield-v1-8x10-1.jpg,Linda Thomas-Greenfield
 United States,Chair of the Council of Economic Advisers,Cecilia Rouse,Q616305,2021-03-12,female,1963-12-18,,"Cecilia Rouse, CEA Chair.png",Cecilia Rouse
 United States,White House Chief of Staff,Ron Klain,Q649898,2021-01-20,male,1961-08-08,,"Ron Klain, White House Chief of Staff.jpg",Ron Klain

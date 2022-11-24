@@ -936,6 +936,7 @@ Barbados,Q19372427,DeLisle Worrell,spouse,Q58060675,Monica Drayton
 Barbados,Q310082,David Thompson,spouse,Q6754524,Mara Thompson
 Belarus,Q106373017,Vladimir Pertsov,spouse,Q106457631,Yuliya Pyartsova
 Belarus,Q13028245,Aleh Rumo,father,Q18568283,Aleh Rumo
+Belarus,Q17317976,Lyudmila Postoyalko,child,Q17272381,Iryna Abelskaya
 Belarus,Q18568283,Aleh Rumo,child,Q13028245,Aleh Rumo
 Belarus,Q2026222,Vladimir Makei,spouse,Q106030868,Вера Аляксандраўна Палякова-Макей
 Belarus,Q2029677,Uladzimir Andreychanka,child,Q108609943,Uladzislau Andrejchanka
@@ -3947,6 +3948,9 @@ European Union,Q16945605,Lynn Boylan,spouse,Q5381749,Eoin Ó Broin
 European Union,Q16948138,Édouard Ferrand,father,Q47538369,Bernard Ferrand
 European Union,Q16948138,Édouard Ferrand,spouse,Q62388202,Alexandrine Ferrand
 European Union,Q16948142,Sylvie Goddyn,spouse,Q21600926,Éric Dillies
+European Union,Q16948845,Bergur Løkke Rasmussen,father,Q182397,Lars Løkke Rasmussen
+European Union,Q16948845,Bergur Løkke Rasmussen,mother,Q1315326,Sólrun Løkke Rasmussen
+European Union,Q16948845,Bergur Løkke Rasmussen,partner,Q64168570,Aran Katarina Kirschenmann
 European Union,Q16975892,Elly Schlein,father,Q114159654,Melvin Robert Schlein
 European Union,Q16975892,Elly Schlein,mother,Q61612472,Maria Paola Viviani Schlein
 European Union,Q16975892,Elly Schlein,sibling,Q30337338,Benjamin Schlein
@@ -4050,6 +4054,7 @@ European Union,Q230046,Gianni Rivera,child,Q14753732,Nicole
 European Union,Q230046,Gianni Rivera,child,Q18393856,Gianni
 European Union,Q230046,Gianni Rivera,child,Q3666236,Chantal
 European Union,Q231231,Zuzana Roithová,spouse,Q95183454,Jan Roith
+European Union,Q23368,Chris Patten,child,Q3625961,Alice Patten
 European Union,Q2360756,Eero Heinäluoma,child,Q29892746,Eveliina Heinäluoma
 European Union,Q2366466,Ville Niinistö,father,Q11869967,Kari Niinistö
 European Union,Q2366466,Ville Niinistö,relative,Q29207,Sauli Niinistö
@@ -14517,6 +14522,7 @@ Taiwan,Q9130647,Yu Mei-nu,spouse,Q55829919,Remington Huang
 Taiwan,Q9141091,Hsu Hsin-ying,sibling,Q22099965,徐世勳
 Taiwan,Q9182314,Chen Chien-jen,father,Q22099625,Chen Hsin-an
 Taiwan,Q9185489,Wu Rong-i,child,Q1965328,Wu Chih-chung
+Taiwan,Q9195350,Chih-Kung Lee,father,Q24837117,Lee Wen-hsiung (banker)
 Taiwan,Q9206928,Lee Yung-te,spouse,Q8347775,Chiu Yi-ying
 Taiwan,Q9292454,Freddy Lim,spouse,Q15903733,Doris Yeh
 Taiwan,Q9458408,Huang Wen-ling,father,Q9459543,George Huang
@@ -20889,6 +20895,7 @@ United States,Q16204936,Rufus Gifford,father,Q5079649,Charles K. Gifford
 United States,Q16215583,Chris Sununu,father,Q887489,John H. Sununu
 United States,Q16215583,Chris Sununu,sibling,Q1699908,John E. Sununu
 United States,Q16221257,Lee Zeldin,relative,Q47507410,Isaiah Zeldin
+United States,Q16221257,Lee Zeldin,spouse,Q115385971,Diana Zeldin
 United States,Q16221742,Matt Gaetz,father,Q5292650,Don Gaetz
 United States,Q16240798,Michael Brady,sibling,Q95886226,Robert F. Brady Jr.
 United States,Q1667920,Russ Carnahan,mother,Q448619,Jean Carnahan
