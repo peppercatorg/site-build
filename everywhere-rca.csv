@@ -943,6 +943,7 @@ Belarus,Q2029677,Uladzimir Andreychanka,child,Q108609943,Uladzislau Andrejchanka
 Belarus,Q2393922,Natalia Petkevich,spouse,Q30049526,Valentin Rybakov
 Belarus,Q2564269,Alexander Radkov,child,Q106457631,Yuliya Pyartsova
 Belarus,Q2564269,Alexander Radkov,sibling,Q114397634,Міхаіл Міхайлавіч Радзькоў
+Belarus,Q28549217,Валерый Анатольевіч Малашка,mother,Q115396538,Эмілія Аляксандраўна Малашка
 Belarus,Q2866,Alexander Lukashenko,child,Q1975977,Victor Lukashenko
 Belarus,Q2866,Alexander Lukashenko,child,Q2393932,Dzmitry Lukashenko
 Belarus,Q2866,Alexander Lukashenko,child,Q4219737,Nikolai Lukashenko
@@ -1785,6 +1786,7 @@ Central African Republic,Q6170003,Jean-Serge Bokassa,sibling,Q3359807,Jean-Béde
 Chad,Q108188479,Ndolenodji Alixe Naïmbaye,father,Q108189672,Mbaïlaou Naïmbaye Lossimian
 Chad,Q16206405,Mahamat Déby Itno,father,Q57350,Idriss Déby
 Chad,Q16206405,Mahamat Déby Itno,sibling,Q2923553,Brahim Déby
+Chad,Q16206405,Mahamat Déby Itno,spouse,Q115407359,Aïcha Mahamat Idriss Deby Itno
 Chad,Q3530716,Tom Erdimi,relative,Q57350,Idriss Déby
 Chad,Q3530716,Tom Erdimi,sibling,Q3528720,Timane Erdimi
 Chad,Q48425165,Mahamat Allahou Taher,father,Q21007920,Allahou Taher Limane
@@ -5174,6 +5176,7 @@ France,Q29962565,Françoise Nyssen,child,Q109658530,Sae hoon Gautier
 France,Q29962565,Françoise Nyssen,father,Q1633343,Hubert Nyssen
 France,Q2997298,Corinne Bouchoux,partner,Q2965879,Christine Bard
 France,Q2997298,Corinne Bouchoux,spouse,Q2965879,Christine Bard
+France,Q30068067,Delphine O,father,Q115395375,Yong-sok O
 France,Q30068067,Delphine O,sibling,Q33103571,Cédric O
 France,Q3009722,Cécile Cukierman,relative,Q91025312,Georges Cukierman
 France,Q30130489,Roland Lescure,father,Q3085166,François Lescure
@@ -5339,6 +5342,7 @@ France,Q3309935,Michel Hunault,father,Q3570696,Xavier Hunault
 France,Q3309935,Michel Hunault,sibling,Q63456113,Alain Hunault
 France,Q3309956,Michel Inchauspé,child,Q98250563,Laurent Inchauspé
 France,Q3309956,Michel Inchauspé,father,Q3262280,Louis Inchauspé
+France,Q33103571,Cédric O,father,Q115395375,Yong-sok O
 France,Q33103571,Cédric O,sibling,Q30068067,Delphine O
 France,Q33104128,Marine de Carné,spouse,Q3288193,Marc Le Fur
 France,Q33104478,Harold Huwart,father,Q3084884,François Huwart
@@ -6002,6 +6006,10 @@ Germany,Q692059,Arndt Klocke,partner,Q2371230,Sven Lehmann
 Germany,Q69349,Lothar Späth,spouse,Q2501889,Ursula Späth
 Germany,Q70066,Jochen Borchert,child,Q1675412,Katharina Borchert
 Germany,Q70089,Christoph Bergner,sibling,Q1456996,Frieder W. Bergner
+Germany,Q70407,Hermann Otto Solms,father,Q55890677,Hermann Otto Graf zu Solms-Hohensolms-Lich
+Germany,Q70407,Hermann Otto Solms,mother,Q75373818,Gertrude Baronin von Wertherm
+Germany,Q70407,Hermann Otto Solms,sibling,Q15806473,Dorothea Razumovsky
+Germany,Q70407,Hermann Otto Solms,sibling,Q20788757,Philipp Reinhard zu Solms-Hohensolms-Lich
 Germany,Q70407,Hermann Otto Solms,sibling,Q2575146,Wilhelm Solms
 Germany,Q71018,Lothar Bisky,child,Q1687121,Jens Bisky
 Germany,Q71018,Lothar Bisky,child,Q464658,Norbert Bisky
@@ -8362,6 +8370,7 @@ Italy,Q1224,Carlo Azeglio Ciampi,spouse,Q3080523,Franca Pilla
 Italy,Q1225624,Gianni Letta,child,Q16559055,Giampaolo Letta
 Italy,Q1225624,Gianni Letta,sibling,Q17285072,Cesare Letta
 Italy,Q1225624,Gianni Letta,sibling,Q28922825,Giorgio Letta
+Italy,Q1226051,Dimitris Reppas,relative,Q1392087,Panagiotis Poulitsas
 Italy,Q1228,Oscar Luigi Scalfaro,child,Q97461162,Marianna Scalfaro
 Italy,Q1228,Oscar Luigi Scalfaro,spouse,Q108701087,Maria Inzitari
 Italy,Q1230,Francesco Cossiga,child,Q767345,Giuseppe Cossiga
@@ -8435,6 +8444,7 @@ Italy,Q230046,Gianni Rivera,child,Q14753732,Nicole
 Italy,Q230046,Gianni Rivera,child,Q18393856,Gianni
 Italy,Q230046,Gianni Rivera,child,Q3666236,Chantal
 Italy,Q23047393,Guido De Martino,father,Q1379919,Francesco De Martino
+Italy,Q23766020,Virginia Raggi,spouse,Q24706028,Andrea Severini
 Italy,Q239024,Letizia Moratti,spouse,Q3762696,Gian Marco Moratti
 Italy,Q2426702,Vittorio Sgarbi,sibling,Q16268759,Elisabetta Sgarbi
 Italy,Q2428130,Thomas Widmann,father,Q1449444,Franz Widmann
@@ -9175,6 +9185,7 @@ Kuwait,Q104175576,Thamer Ali Sabah Al-Salem Al-Sabah,father,Q12228117,علي ص�
 Kuwait,Q109257335,Fahed Ahmad Al-Amir,sibling,Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah
 Kuwait,Q109259869,Ahmed Nawaf Al-Ahmad Al-Sabah,father,Q641805,Nawaf Al-Ahmad Al-Jaber Al-Sabah
 Kuwait,Q114822001,Abdullah Ali Abdullah Al Salem Al Sabah,father,Q12227918,علي العبد الله السالم الصباح
+Kuwait,Q12222708,عبد الرحمن الغنيم,father,Q12210111,Khalid Al-Ghunaim
 Kuwait,Q12223432,Abdullah Al-Nibari,spouse,Q111310130,Feryal Al-Furaih
 Kuwait,Q12247753,Nasser Sabah Al-Ahmad Al-Sabah,father,Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah
 Kuwait,Q12247753,Nasser Sabah Al-Ahmad Al-Sabah,mother,Q99766947,Fatouh Salman Al-Sabah
@@ -10173,6 +10184,7 @@ Netherlands,Q29574,Beatrix of the Netherlands,spouse,Q159609,Prince Claus of the
 Netherlands,Q2989832,Saskia Noorman-den Uyl,father,Q318320,Joop den Uyl
 Netherlands,Q2989832,Saskia Noorman-den Uyl,mother,Q2324581,Liesbeth den Uyl
 Netherlands,Q2989832,Saskia Noorman-den Uyl,sibling,Q2006863,Barbara den Uyl
+Netherlands,Q2989832,Saskia Noorman-den Uyl,sibling,Q27863952,Xander den Uyl
 Netherlands,Q3048274,Eduard Bomhoff,father,Q65849177,Jacobus Gerardus Bomhoff
 Netherlands,Q3054787,Thom de Graaf,father,Q13489428,Theo de Graaf
 Netherlands,Q3147680,Elco Brinkman,father,Q13444886,Bram Brinkman
@@ -14374,6 +14386,8 @@ Taiwan,Q19825781,Su Chiao-hui,spouse,Q8984578,Lungnan Isak Fangas
 Taiwan,Q19849402,Hung Tzu-yung,sibling,Q13884389,Hung Chung-chiu
 Taiwan,Q19849402,Hung Tzu-yung,spouse,Q21449350,Tim Zhuo
 Taiwan,Q20063502,Lee Yen-hsiu,spouse,Q8970090,Ho Kuan-chun
+Taiwan,Q20687755,Chen Chien-nien,child,Q7198343,Chen Ying
+Taiwan,Q20687755,Chen Chien-nien,father,Q17034561,陳耕元
 Taiwan,Q22368,Chen Shui-bian,child,Q6311201,Chen Chih-chung
 Taiwan,Q22368,Chen Shui-bian,child,Q6311263,Chen Hsing-yu
 Taiwan,Q22368,Chen Shui-bian,mother,Q104837480,Li Shen

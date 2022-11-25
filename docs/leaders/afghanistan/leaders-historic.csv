@@ -1,6 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Afghanistan,Supreme Leader,Akhtar Mansour,Q2829007,2015-07-29,2016-05-21,male,1968,2016-05-21,,Akhtar Mansour
-Afghanistan,Supreme Leader,Hibatullah Akhundzada,Q24237654,2016-05-25,,male,1961,,,Hibatullah Akhundzada
+Afghanistan,Supreme Leader,Hibatullah Akhundzada,Q24237654,2016-05-25,2021-08-15,male,1961,,,Hibatullah Akhundzada
+Afghanistan,Supreme Leader,Hibatullah Akhundzada,Q24237654,2021-08-15,,male,1961,,,Hibatullah Akhundzada
 Afghanistan,Deputy Leader,Abdul Ghani Baradar,Q317219,2002-05,2010-02-08,male,1968-09-29,,Abdul Ghani Baradar.jpg,Abdul Ghani Baradar
 Afghanistan,Deputy Leader,Obaidullah Akhund,Q764159,2002-05,2007-02,male,1968,2010-03-05,,Obaidullah Akhund
 Afghanistan,Deputy Leader,Akhtar Mansour,Q2829007,2007,2010-03-24,male,1968,2016-05-21,,Akhtar Mansour
@@ -35,7 +36,7 @@ Afghanistan,"Minister of Agriculture, Irrigation and Livestock",Abdul Rahman Ras
 Afghanistan,Minister of Commerce and Industries,Anwar ul-Haq Ahady,Q3270084,2010-06-28,2013-11,male,1951-08-12,,Anwarul Haq Ahadi.JPG,Anwar ul-Haq Ahady
 Afghanistan,Minister of Commerce and Industries,Nooruddin Azizi,Q108660590,2021-09-07,,male,,,,Nooruddin Azizi
 Afghanistan,Minister of Communications and Information Technology,Najibullah Haqqani,Q108445427,2021-09-07,,male,,,مولوی نجیب الله حقانی.jpg,Najibullah Haqqani
-Afghanistan,Minister of Defence,Ahmad Shah Massoud,Q200029,1992-04-28,2001-09-09,male,1953-09-02,2001-09-09,,Ahmad Shah Massoud
+Afghanistan,Minister of Defence,Ahmad Shah Massoud,Q200029,1992-04-28,2001-09-09,male,1953-09-02,2001-09-09,Ahmad Massoud.jpg,Ahmad Shah Massoud
 Afghanistan,Minister of Defence,Obaidullah Akhund,Q764159,1997-04,2001-09-09,male,1968,2010-03-05,,Obaidullah Akhund
 Afghanistan,Minister of Defence,Muhammad Fahim,Q167526,2001-09-09,2004-12-23,male,1957,2014-03-09,Mohammed Qasim Fahim.jpg,Mohammed Fahim
 Afghanistan,Minister of Defence,Abdul Rahim Wardak,Q317373,2004-12-23,2012-08-07,male,1940,,Abdul Rahim Wardak.jpg,Abdul Rahim Wardak
@@ -168,7 +169,7 @@ Afghanistan,Chief of General Staff,Qadam Shah Shahim,Q28062393,2015-05-22,2017-0
 Afghanistan,Chief of General Staff,Yasin Zia,Q98931713,2020-07-07,2021-06-19,male,,,Yasin Zia greeting troops (cropped).jpg,Yasin Zia
 Afghanistan,Chief of General Staff,Qari Fasihuddin,Q108444979,2021-09-07,,male,,,,Qari Fasihuddin
 Afghanistan,Director of Intelligence,Abdul Haq Wasiq,Q4665409,2021-09-07,,male,1971,,ISN 00004 Abdul Haq Wasiq.jpg,Abdul Haq Wasiq
-Afghanistan,Governor of the Central Bank,Haji Mohammad Idris,Q108309568,2021-08,2021-10,male,,,,Haji Mohammad Idris
+Afghanistan,Governor of the Central Bank,Haji Mohammad Idris,Q108309568,2021-08-24,2021-10,male,,,,Haji Mohammad Idris
 Afghanistan,Governor of the Central Bank,Shakir Jalali,Q108872917,2021-10,,male,,,,Shakir Jalali
 Afghanistan,First Lady,Zeenat Karzai,Q8068465,2001-12-22,2014-09-29,female,1970,,Zeenat Karzai in 2005.jpg,Zeenat Karzai
 Afghanistan,First Lady,Rula Ghani,Q18198028,2014-09-29,,female,1948,,Rula Ghani.jpg,Rula Ghani
