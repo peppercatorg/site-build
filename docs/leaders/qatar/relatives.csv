@@ -2,21 +2,21 @@ catalog,id,name,relationship,relative,relativename
 Qatar,Q16242594,Ahmad bin Abdullah Al Mahmoud,father,Q12224196,عبد الله بن زيد آل محمود
 Qatar,Q16242594,Ahmad bin Abdullah Al Mahmoud,sibling,Q104628132,علي بن عبد الله زيد آل محمود
 Qatar,Q16242594,Ahmad bin Abdullah Al Mahmoud,sibling,Q12224157,عبد الرحمن عبد الله آل محمود
-Qatar,Q1855372,Tamim bin Hamad Al Thani,father,Q57360,Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,mother,Q238774,Moza bint Nasser Al Missned
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q14946739,Maha bint Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6161563,Jasim bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6204478,Joaan bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6399598,Khalid bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6875474,Mishaal bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6893462,Mohammed bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,spouse,Q18758568,Jawaher bint Hamad Al thani
+Qatar,Q1855372,Tamim bin Hamad,father,Q57360,Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,mother,Q238774,Moza bint Nasser Al Missned
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q14946739,Maha bint Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6161563,Jasim bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6204478,Joaan bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6399598,Khalid bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6875474,Mishaal bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6893462,Mohammed bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,spouse,Q18758568,Jawaher bint Hamad Al thani
 Qatar,Q317771,Abdullah bin Khalifa Al Thani,father,Q2072385,Khalifa bin Hamad Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q14946739,Maha bint Hamad bin Khalifa Al Thani
-Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q1855372,Tamim bin Hamad Al Thani
+Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q1855372,Tamim bin Hamad
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani

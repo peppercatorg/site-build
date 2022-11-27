@@ -375,6 +375,7 @@ Australia,Q112103422,Kate Chaney,father,Q6829205,Michael Chaney
 Australia,Q112103422,Kate Chaney,mother,Q112194706,Rosemary Margaret Anderson
 Australia,Q112103422,Kate Chaney,relative,Q15462333,Fred Chaney
 Australia,Q112103422,Kate Chaney,relative,Q5494804,"Fred Chaney, Sr."
+Australia,Q115453704,Jess Wilson,father,Q7364544,Ron Wilson
 Australia,Q1239291,Alexander Downer,child,Q56159193,Georgina Downer
 Australia,Q1239291,Alexander Downer,father,Q4714124,Alick Downer
 Australia,Q1239291,Alexander Downer,mother,Q6779338,Mary Downer
@@ -661,6 +662,7 @@ Australia,Q7344540,Robert French,spouse,Q33240680,Valerie French
 Australia,Q7356268,Rod Kemp,father,Q50414401,Charles Denton Kemp
 Australia,Q7356268,Rod Kemp,sibling,Q5235919,David Kemp
 Australia,Q7363527,Ron Best,spouse,Q3263659,Louise Asher
+Australia,Q7364544,Ron Wilson,child,Q115453704,Jess Wilson
 Australia,Q7369690,Ross Vasta,father,Q24090135,Angelo Vasta
 Australia,Q7381884,Russell Wortley,spouse,Q5214871,Dana Wortley
 Australia,Q7405306,Sally Talbot,spouse,Q6270716,Jon Ford
@@ -1281,6 +1283,8 @@ Brazil,Q10392867,Wagner Montes,spouse,Q10376623,Sônia Lima
 Brazil,Q10393732,William Woo,sibling,Q10307024,Joana Woo
 Brazil,Q10396106,Ângela Amin,child,Q19710163,João Amin
 Brazil,Q10396106,Ângela Amin,spouse,Q2738543,Esperidião Amin
+Brazil,Q1053159,Celso Amorim,child,Q10347309,Pedro Amorim
+Brazil,Q1053159,Celso Amorim,child,Q3556914,Vicente Amorim
 Brazil,Q110161239,Eduardo Rocha,child,Q110161866,Maria Eduarda Tebet
 Brazil,Q110161239,Eduardo Rocha,child,Q110161900,Maria Fernanda Tebet Rocha
 Brazil,Q110161239,Eduardo Rocha,spouse,Q10371678,Simone Tebet
@@ -1290,6 +1294,7 @@ Brazil,Q13164197,Lúcio Alcântara,spouse,Q60196695,Beatriz Alcântara
 Brazil,Q16336601,André Soares,father,Q2468342,Romildo Ribeiro Soares
 Brazil,Q16336893,Bernardo Ribas Carli,father,Q10320542,Luis Fernando Ribas Carli
 Brazil,Q16337792,Lúcia Braga,spouse,Q10393782,Wilson Braga
+Brazil,Q16939988,Colbert Martins,father,Q9794435,Colbert Martins da Silva
 Brazil,Q17378217,David Miranda,spouse,Q5568842,Glenn Greenwald
 Brazil,Q17489985,Valdir Cobalchini,child,Q105075540,João Luiz Cobalchini
 Brazil,Q17489985,Valdir Cobalchini,spouse,Q105075121,Lívia Frâncio Rocha Cobalchini
@@ -6312,7 +6317,7 @@ Guatemala,Q467077,Efraín Ríos Montt,spouse,Q50349730,María Teresa Sosa
 Guatemala,Q57539,Otto Pérez Molina,child,Q6054733,Otto Pérez Leal
 Guatemala,Q57539,Otto Pérez Molina,spouse,Q6112184,Rosa Leal de Pérez
 Guatemala,Q63683638,Erick Archila,sibling,Q64374616,Rolando Archila
-Guinea-Bissua,Q16736700,Domingos Simoes Pereira,sibling,Q96639930,Camilo Simões Pereira
+Guinea-Bissau,Q16736700,Domingos Simoes Pereira,sibling,Q96639930,Camilo Simões Pereira
 Guinea,Q108418519,Mamadi Doumbouya,spouse,Q108762973,Lauriane Darboux
 Guinea,Q108762973,Lauriane Darboux,spouse,Q108418519,Mamadi Doumbouya
 Guinea,Q109375616,Mamoudou Nagnalen Barry,sibling,Q95981966,Siaka Barry
@@ -7879,6 +7884,7 @@ Indonesia,Q93388029,Rizki Aulia Rahman Natakusumah,mother,Q25469477,Irna Narulit
 Indonesia,Q93388029,Rizki Aulia Rahman Natakusumah,sibling,Q109449644,Rizka Amalia R Natakusumah
 Indonesia,Q96987535,Iis Edhy Prabowo,spouse,Q72086432,Edhy Prabowo
 Indonesia,Q96987676,Andi Ruskati Ali Baal,spouse,Q40168296,Ali Baal Masdar
+Indonesia,Q96987989,Dony Maryadi Oekon,spouse,Q109563818,Vanty Veronica
 Indonesia,Q96987989,Dony Maryadi Oekon,spouse,Q109563818,Vanty Veronica
 Indonesia,Q96987994,Mochamad Herviano,spouse,Q108923484,Nindya Nur Prasasti
 Indonesia,Q96988363,Dewi Asmara,father,Q12501199,Oetojo Oesman
@@ -10213,6 +10219,8 @@ Netherlands,Q466868,Lodewijk Asscher,relative,Q325313,Abraham Asscher
 Netherlands,Q467982,Fleur Agema,partner,Q518659,Léon de Jong
 Netherlands,Q4787767,Ard van der Steur,father,Q2232889,Ab van der Steur
 Netherlands,Q5165280,Hanke Bruins Slot,father,Q2093954,Harm Bruins Slot
+Netherlands,Q5165280,Hanke Bruins Slot,relative,Q17265408,Johan Bruins Slot
+Netherlands,Q5165280,Hanke Bruins Slot,relative,Q76400593,Zwaantinus Bruins Slot
 Netherlands,Q518659,Léon de Jong,partner,Q467982,Fleur Agema
 Netherlands,Q554127,Wouter Bos,sibling,Q2279433,Arnoud Bos
 Netherlands,Q607189,Ed van Thijn,child,Q111820627,Marion van Thijn
@@ -10226,7 +10234,7 @@ Netherlands,Q65055093,Gala Veldhoen,spouse,Q2318560,Henny Vrienten
 Netherlands,Q704888,Geert Reuten,child,Q2244639,Rosa Reuten
 Netherlands,Q704888,Geert Reuten,relative,Q106518433,Thijs Reuten
 Netherlands,Q704888,Geert Reuten,relative,Q467729,Thekla Reuten
-Netherlands,Q712105,Hans van den Broek,child,Q2455435,"Princess Marilène of Orange-Nassau, van Vollenhoven"
+Netherlands,Q712105,Hans van den Broek,child,Q2455435,Princess Marilène of Orange-Nassau
 Netherlands,Q712105,Hans van den Broek,child,Q76244991,Caroline van den Broek
 Netherlands,Q712105,Hans van den Broek,spouse,Q75807235,Joséphine van Schendel
 Netherlands,Q7192814,Pieter Omtzigt,spouse,Q106322685,Ayfer Koc
@@ -11947,21 +11955,21 @@ Portugal,Q925136,Eduardo Ferro Rodrigues,spouse,Q111448806,Maria Filomena Lopes 
 Qatar,Q16242594,Ahmad bin Abdullah Al Mahmoud,father,Q12224196,عبد الله بن زيد آل محمود
 Qatar,Q16242594,Ahmad bin Abdullah Al Mahmoud,sibling,Q104628132,علي بن عبد الله زيد آل محمود
 Qatar,Q16242594,Ahmad bin Abdullah Al Mahmoud,sibling,Q12224157,عبد الرحمن عبد الله آل محمود
-Qatar,Q1855372,Tamim bin Hamad Al Thani,father,Q57360,Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,mother,Q238774,Moza bint Nasser Al Missned
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q14946739,Maha bint Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6161563,Jasim bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6204478,Joaan bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6399598,Khalid bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6875474,Mishaal bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6893462,Mohammed bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad Al Thani,spouse,Q18758568,Jawaher bint Hamad Al thani
+Qatar,Q1855372,Tamim bin Hamad,father,Q57360,Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,mother,Q238774,Moza bint Nasser Al Missned
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q14946739,Maha bint Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6161563,Jasim bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6204478,Joaan bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6399598,Khalid bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6875474,Mishaal bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,sibling,Q6893462,Mohammed bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad,spouse,Q18758568,Jawaher bint Hamad Al thani
 Qatar,Q317771,Abdullah bin Khalifa Al Thani,father,Q2072385,Khalifa bin Hamad Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q14946739,Maha bint Hamad bin Khalifa Al Thani
-Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q1855372,Tamim bin Hamad Al Thani
+Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q1855372,Tamim bin Hamad
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
@@ -12446,7 +12454,7 @@ Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q307463,Abdul-Rahman bin
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q3133541,Sattam bin Abdul-Aziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q315587,Sultan bin Abdulaziz
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q317832,Nayef bin Abdul-Aziz Al Saud
-Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q367825,Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
 Saudi Arabia,Q183187,Fahd bin Abdulaziz Al Saud,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
@@ -12475,9 +12483,9 @@ Saudi Arabia,Q20399144,Turki bin Mohamed bin Fahd Al Saud,father,Q1951883,Mohamm
 Saudi Arabia,Q20399144,Turki bin Mohamed bin Fahd Al Saud,spouse,Q98150162,Aljohara bint Mohammad bin Saad bin Mohammad Al-Saud
 Saudi Arabia,Q20415155,Abdallah Yahya Al-Mouallimi,sibling,Q97120155,Amal al-Moallimi
 Saudi Arabia,Q28923620,Abdullah Salah Al Uthaymeen,sibling,Q1398150,Muhammad ibn al Uthaymeen
-Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,father,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,father,Q367825,Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,mother,Q30512408,Fahdah bint Falah bin Sultan
-Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,sibling,Q6892571,Mohammad bin Salman
+Saudi Arabia,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud,sibling,Q6892571,Mohammed bin Salman
 Saudi Arabia,Q30402542,Abdulaziz bin Saud Al Saud,father,Q7427055,Saud bin Nayef Al Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,child,Q12224167,عبد العزيز بن سطام بن عبد العزيز آل سعود
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,father,Q151509,Ibn Saud
@@ -12499,7 +12507,7 @@ Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q2602302,Mishaal bin
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q307463,Abdul-Rahman bin Abdul-Aziz Al Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q315587,Sultan bin Abdulaziz
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q317832,Nayef bin Abdul-Aziz Al Saud
-Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q367825,Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
 Saudi Arabia,Q3133541,Sattam bin Abdul-Aziz Al Saud,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
@@ -12549,7 +12557,7 @@ Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q2602302,Mishaal bin Abdulaziz
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q307463,Abdul-Rahman bin Abdul-Aziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q3133541,Sattam bin Abdul-Aziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q317832,Nayef bin Abdul-Aziz Al Saud
-Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q367825,Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
 Saudi Arabia,Q315587,Sultan bin Abdulaziz,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
@@ -12595,7 +12603,7 @@ Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q2602302,Mishaal bin A
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q307463,Abdul-Rahman bin Abdul-Aziz Al Saud
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q3133541,Sattam bin Abdul-Aziz Al Saud
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q315587,Sultan bin Abdulaziz
-Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q367825,Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
 Saudi Arabia,Q317832,Nayef bin Abdul-Aziz Al Saud,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
@@ -12623,67 +12631,67 @@ Saudi Arabia,Q338524,Faisal bin Khalid bin Abdulaziz Al Saud,father,Q208301,Khal
 Saudi Arabia,Q338524,Faisal bin Khalid bin Abdulaziz Al Saud,mother,Q7531591,Sita bint Fahd Al Damir
 Saudi Arabia,Q338524,Faisal bin Khalid bin Abdulaziz Al Saud,sibling,Q16933359,Moudi bint Khalid Al Saud
 Saudi Arabia,Q35369443,Abdulaziz bin Saad bin Abdulaziz,father,Q7395569,Saad bin Abdulaziz
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q28197146,Saud Bin Salman bin Abdulaziz al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q379946,Sultan bin Salman Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q4665821,Abdulaziz bin Salman
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q5429531,Fahd bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q56759297,Hassa bint Salman Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q56759632,Rakan bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q56759638,Nayef Bin Salman Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q56759639,Bandar bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q6892571,Mohammad bin Salman
-Saudi Arabia,Q367825,Salman of Saudi Arabia,child,Q7855210,Turki bin Salman Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,father,Q151509,Ibn Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,mother,Q205051,Hassa bint Ahmed Al Sudairi
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q12203730,Thamir bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q12208891,Hamoud bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q12223794,Abdul Muhsin bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q12238128,Majid bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q12242559,Musa'id bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q12243051,Mishari bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q124710,Mutaib bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q183187,Fahd bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q1975943,Muhammad bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q1998925,Turki I bin Abdul-Aziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q208301,Khalid of Saudi Arabia
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q217167,King Faisal bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q244206,Saud of Saudi Arabia
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q2460829,Turki II bin Abdul-Aziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q25336663,Nura bint Abdulaziz
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q25336702,Abdullah bin Mohammad
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q2602302,Mishaal bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q307463,Abdul-Rahman bin Abdul-Aziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q3133541,Sattam bin Abdul-Aziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q315587,Sultan bin Abdulaziz
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q317832,Nayef bin Abdul-Aziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4120307,Badr bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4120312,Fawwaz bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4549135,Mashhur bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4665420,Abdul Ilah bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4702270,Al-Bandari bint Abdul-Aziz Al Sau
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4704127,Al Jawhara bint Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q4854440,Bandar bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q5685929,Haya bint Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q57298,Abdullah of Saudi Arabia
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6496091,Latifa bint Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6745575,Mamdoh bin Abdulaziz
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6967643,Nasser bin Abdulaziz
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q6982977,Nawwaf bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q712690,Talal bin Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q7395569,Saad bin Abdulaziz
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q7445959,Seeta bint Abdulaziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,sibling,Q981846,Muqrin bin Abdul-Aziz Al Saud
-Saudi Arabia,Q367825,Salman of Saudi Arabia,spouse,Q30512408,Fahdah bint Falah bin Sultan
-Saudi Arabia,Q367825,Salman of Saudi Arabia,spouse,Q76367273,Sultana bint Turki Al Sudairi
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q28197146,Saud Bin Salman bin Abdulaziz al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q379946,Sultan bin Salman Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q4665821,Abdulaziz bin Salman
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q5429531,Fahd bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q56759297,Hassa bint Salman Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q56759632,Rakan bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q56759638,Nayef Bin Salman Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q56759639,Bandar bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q6892571,Mohammed bin Salman
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,child,Q7855210,Turki bin Salman Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,father,Q151509,Ibn Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,mother,Q205051,Hassa bint Ahmed Al Sudairi
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q12203730,Thamir bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q12208891,Hamoud bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q12223794,Abdul Muhsin bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q12238128,Majid bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q12242559,Musa'id bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q12243051,Mishari bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q124710,Mutaib bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q183187,Fahd bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q1975943,Muhammad bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q1998925,Turki I bin Abdul-Aziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q208301,Khalid of Saudi Arabia
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q217167,King Faisal bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q244206,Saud of Saudi Arabia
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q2460829,Turki II bin Abdul-Aziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q25336663,Nura bint Abdulaziz
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q25336702,Abdullah bin Mohammad
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q2602302,Mishaal bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q307463,Abdul-Rahman bin Abdul-Aziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q3133541,Sattam bin Abdul-Aziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q315587,Sultan bin Abdulaziz
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q317832,Nayef bin Abdul-Aziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q4120307,Badr bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q4120312,Fawwaz bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q4549135,Mashhur bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q4665420,Abdul Ilah bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q4702270,Al-Bandari bint Abdul-Aziz Al Sau
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q4704127,Al Jawhara bint Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q4854440,Bandar bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q5685929,Haya bint Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q57298,Abdullah of Saudi Arabia
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q6463718,Luluwah bint Abdul-Aziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q6496091,Latifa bint Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q6745575,Mamdoh bin Abdulaziz
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q6751859,Mansour bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q6967643,Nasser bin Abdulaziz
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q6982977,Nawwaf bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q712690,Talal bin Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q7395569,Saad bin Abdulaziz
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q7445959,Seeta bint Abdulaziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q7636778,Sultana bint Abdul-Aziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,sibling,Q981846,Muqrin bin Abdul-Aziz Al Saud
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,spouse,Q30512408,Fahdah bint Falah bin Sultan
+Saudi Arabia,Q367825,Salman bin Abdulaziz Al Saud,spouse,Q76367273,Sultana bint Turki Al Sudairi
 Saudi Arabia,Q371263,Khalid bin Faisal Al Saud,child,Q22688343,Sultan bin Khalid Al Faisal Al Saud
 Saudi Arabia,Q371263,Khalid bin Faisal Al Saud,child,Q3953644,Bandar bin Khalid Al-Faisal Al Saud
 Saudi Arabia,Q371263,Khalid bin Faisal Al Saud,child,Q7427054,Saud bin Khalid Al Saud
@@ -12710,14 +12718,14 @@ Saudi Arabia,Q4165651,Turki bin Faisal Al Saud,sibling,Q6669035,Lolowah bint Fai
 Saudi Arabia,Q4165651,Turki bin Faisal Al Saud,sibling,Q6893450,Mohammed bin Faisal Al Saud
 Saudi Arabia,Q455341,Muhammad bin Nayef,father,Q317832,Nayef bin Abdul-Aziz Al Saud
 Saudi Arabia,Q455341,Muhammad bin Nayef,sibling,Q7427055,Saud bin Nayef Al Saud
-Saudi Arabia,Q4665821,Abdulaziz bin Salman,father,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q4665821,Abdulaziz bin Salman,father,Q367825,Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,mother,Q76367273,Sultana bint Turki Al Sudairi
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,sibling,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,sibling,Q379946,Sultan bin Salman Al Saud
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,sibling,Q5429531,Fahd bin Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,sibling,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,sibling,Q56759297,Hassa bint Salman Al Saud
-Saudi Arabia,Q4665821,Abdulaziz bin Salman,sibling,Q6892571,Mohammad bin Salman
+Saudi Arabia,Q4665821,Abdulaziz bin Salman,sibling,Q6892571,Mohammed bin Salman
 Saudi Arabia,Q4665821,Abdulaziz bin Salman,sibling,Q7855210,Turki bin Salman Al Saud
 Saudi Arabia,Q4665824,Abdulaziz bin Turki Al Saud,father,Q4165651,Turki bin Faisal Al Saud
 Saudi Arabia,Q4682218,Turki bin Abdullah Al Saud,father,Q57298,Abdullah of Saudi Arabia
@@ -12725,14 +12733,14 @@ Saudi Arabia,Q4687985,Khalid bin Bandar Al Saud,father,Q4854440,Bandar bin Abdul
 Saudi Arabia,Q471044,Ghazi Abdul Rahman Al Gosaibi,father,Q105045823,عبد الرحمن القصيبي
 Saudi Arabia,Q5431087,Faisal bin Abdullah bin Mohammed Al Saud,mother,Q106829332,Nouf bint Abdulaziz Al Saud
 Saudi Arabia,Q5431087,Faisal bin Abdullah bin Mohammed Al Saud,spouse,Q1441884,Adila bint Abdulla Al Saud
-Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,father,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,father,Q367825,Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,mother,Q76367273,Sultana bint Turki Al Sudairi
 Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,sibling,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,sibling,Q379946,Sultan bin Salman Al Saud
 Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,sibling,Q4665821,Abdulaziz bin Salman
 Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,sibling,Q5429531,Fahd bin Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,sibling,Q56759297,Hassa bint Salman Al Saud
-Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,sibling,Q6892571,Mohammad bin Salman
+Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,sibling,Q6892571,Mohammed bin Salman
 Saudi Arabia,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud,sibling,Q7855210,Turki bin Salman Al Saud
 Saudi Arabia,Q556137,Bandar bin Sultan,child,Q104520507,Faisal bin Bandar bin Sultan Al Saud
 Saudi Arabia,Q556137,Bandar bin Sultan,child,Q616695,Khalid bin Bandar bin Sultan Al Saud
@@ -12772,7 +12780,7 @@ Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q307463,Abdul-Rahman bin Ab
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q3133541,Sattam bin Abdul-Aziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q315587,Sultan bin Abdulaziz
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q317832,Nayef bin Abdul-Aziz Al Saud
-Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q367825,Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
 Saudi Arabia,Q57298,Abdullah of Saudi Arabia,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
@@ -12815,22 +12823,22 @@ Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,sibling,Q7306919,Reema
 Saudi Arabia,Q616695,Khalid bin Bandar bin Sultan Al Saud,spouse,Q75331065,Lucy Caroline Cuthbert
 Saudi Arabia,Q63167635,Majid Al-Hogail,father,Q58117337,عبد الله الحقيل
 Saudi Arabia,Q6871574,Mansour bin Nasser bin Abdul Aziz,father,Q6967643,Nasser bin Abdulaziz
-Saudi Arabia,Q6892571,Mohammad bin Salman,father,Q367825,Salman of Saudi Arabia
-Saudi Arabia,Q6892571,Mohammad bin Salman,mother,Q30512408,Fahdah bint Falah bin Sultan
-Saudi Arabia,Q6892571,Mohammad bin Salman,relative,Q151509,Ibn Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q28197146,Saud Bin Salman bin Abdulaziz al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q379946,Sultan bin Salman Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q4665821,Abdulaziz bin Salman
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q5429531,Fahd bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q56759297,Hassa bint Salman Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q56759632,Rakan bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q56759638,Nayef Bin Salman Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q56759639,Bandar bin Salman bin Abdulaziz Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,sibling,Q7855210,Turki bin Salman Al Saud
-Saudi Arabia,Q6892571,Mohammad bin Salman,spouse,Q57908430,Sara bint Mashhur bin Abdulaziz Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,father,Q367825,Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,mother,Q30512408,Fahdah bint Falah bin Sultan
+Saudi Arabia,Q6892571,Mohammed bin Salman,relative,Q151509,Ibn Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q12178747,Ahmed bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q28197146,Saud Bin Salman bin Abdulaziz al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q30082184,Khalid bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q379946,Sultan bin Salman Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q4665821,Abdulaziz bin Salman
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q5429531,Fahd bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q5431091,Faisal bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q56759297,Hassa bint Salman Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q56759632,Rakan bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q56759638,Nayef Bin Salman Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q56759639,Bandar bin Salman bin Abdulaziz Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,sibling,Q7855210,Turki bin Salman Al Saud
+Saudi Arabia,Q6892571,Mohammed bin Salman,spouse,Q57908430,Sara bint Mashhur bin Abdulaziz Al Saud
 Saudi Arabia,Q6893468,Mohammed bin Nawwaf bin Abdulaziz,father,Q6982977,Nawwaf bin Abdulaziz Al Saud
 Saudi Arabia,Q7306919,Reema Bint Bandar Al Saud,father,Q556137,Bandar bin Sultan
 Saudi Arabia,Q7306919,Reema Bint Bandar Al Saud,mother,Q2795275,Haifa bint Faisal
@@ -12842,7 +12850,7 @@ Saudi Arabia,Q7427055,Saud bin Nayef Al Saud,sibling,Q455341,Muhammad bin Nayef
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,child,Q20675805,Abdulaziz Bin Turki Bin Talal Al-Saud
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,father,Q712690,Talal bin Abdulaziz Al Saud
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q1441910,Sara bint Talal bin Abdulaziz Al Saud
-Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q293679,Al-Waleed bin Talal
+Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q293679,Alwaleed Bin Talal Bin Abdulaziz Al Saud
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q4665226,Abdul-Aziz bin Talal bin Abdul-Aziz Al Saud
 Saudi Arabia,Q7855214,Turki bin Talal bin Abdul Aziz Al Saud,sibling,Q6399403,Khaled bin Talal bin Abdul Aziz Al Saud
 Saudi Arabia,Q85872487,Hanan Alahmadi,father,Q96197154,Abdul Rahim Al-Ahmadi
@@ -12873,7 +12881,7 @@ Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q307463,Abdul-Rahman 
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q3133541,Sattam bin Abdul-Aziz Al Saud
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q315587,Sultan bin Abdulaziz
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q317832,Nayef bin Abdul-Aziz Al Saud
-Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q367825,Salman of Saudi Arabia
+Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q367825,Salman bin Abdulaziz Al Saud
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q401645,Ahmed bin Abdulaziz Al Saud
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4115542,Abdul Majeed bin Abdulaziz Al Saud
 Saudi Arabia,Q981846,Muqrin bin Abdul-Aziz Al Saud,sibling,Q4119087,Hazloul bin Abdulaziz Al Saud
@@ -13429,7 +13437,6 @@ Spain,Q16188995,Francesc Xavier Coll i Gilabert,sibling,Q16188988,Antoni Coll
 Spain,Q16189675,Antoni Comín i Oliveres,father,Q1748144,Alfonso Carlos Comín
 Spain,Q16189675,Antoni Comín i Oliveres,sibling,Q63352548,Betona Comín i Oliveres
 Spain,Q16297359,Cayetana Álvarez de Toledo,spouse,Q73230875,Joaquín Güell Ampuero
-Spain,Q16570401,Gabriel Ferrán de Alfaro,child,Q60745792,Gabriel Ferrán Carrión
 Spain,Q16651619,Álvaro Lapuerta,father,Q84710774,José María de Lapuerta y de las Pozas
 Spain,Q17032438,Marina Llansana i Rosich,partner,Q20101853,Oriol Soler i Castanys
 Spain,Q17033177,Marta Pascal i Capdevila,spouse,Q55702016,Joaquim Bohils
@@ -14442,6 +14449,7 @@ Taiwan,Q710060,Huang Chih-hsiung,spouse,Q8273543,Hung Chia-chun
 Taiwan,Q7198343,Chen Ying,father,Q20687755,Chen Chien-nien
 Taiwan,Q78116451,Hsieh Yi-fong,mother,Q8272916,Cheng Ru-fen
 Taiwan,Q78116451,Hsieh Yi-fong,sibling,Q16260025,Hsieh Tien-lin
+Taiwan,Q7967650,Wang Tuoh,child,Q9066880,Wang Xingzhi
 Taiwan,Q8270063,Huang Chao-shun,father,Q8273562,Huang Tzuen-chiou
 Taiwan,Q8272145,Chen Chien-ming,child,Q48929164,Chen Szu-yu
 Taiwan,Q8272145,Chen Chien-ming,father,Q60994247,Chen Anbang
@@ -14539,6 +14547,7 @@ Taiwan,Q9185489,Wu Rong-i,child,Q1965328,Wu Chih-chung
 Taiwan,Q9195350,Chih-Kung Lee,father,Q24837117,Lee Wen-hsiung (banker)
 Taiwan,Q9206928,Lee Yung-te,spouse,Q8347775,Chiu Yi-ying
 Taiwan,Q9292454,Freddy Lim,spouse,Q15903733,Doris Yeh
+Taiwan,Q9370626,Tchen Yu-chiou,father,Q15896115,Chen Houei-kuen
 Taiwan,Q9458408,Huang Wen-ling,father,Q9459543,George Huang
 Tajikistan,Q110160141,Ashrafjon Gulov,father,Q13202276,Sherali Gul
 Tajikistan,Q110976749,Rahimjon Saidzoda,sibling,Q20610514,Ҷамшед Саидзода
@@ -15082,136 +15091,136 @@ Ukraine,Q922349,Vadim Gutzeit,spouse,Q15065687,Oksana Huttsayt
 Ukraine,Q97273389,Roman Leshchenko,spouse,Q111368023,Alla Leshchenko
 Ukraine,Q982749,Valeriy Khoroshkovskyi,mother,Q16722272,Хорошковська Ольга Назарівна
 Ukraine,Q983874,Oleh Tiahnybok,father,Q12163139,Тягнибок Ярослав Васильович
-UAE,Q105539926,Shakhboot Nahyan Al Nahyan,father,Q1746137,Nahyan bin Mubarak Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,child,Q16196176,Sultan bin Khalifa Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,child,Q16733119,Mohammed bin Khalifa Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,mother,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q1951896,Mohammed bin Zayed Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q2073929,Ahmed bin Zayed Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q556607,Mansour bin Zayed Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q5644454,Hamed bin Zayed Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q58301,Abdullah bin Zayed Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q7400024,Saif bin Zayed Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q7636761,Sultan bin Zayed bin Sultan Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
-UAE,Q1059948,Khalifa bin Zayed Al Nahyan,spouse,Q10781516,Shamsa bint Suhail Al Mazrouei
-UAE,Q10781516,Shamsa bint Suhail Al Mazrouei,child,Q16196176,Sultan bin Khalifa Al Nahyan
-UAE,Q10781516,Shamsa bint Suhail Al Mazrouei,child,Q16733119,Mohammed bin Khalifa Al Nahyan
-UAE,Q10781516,Shamsa bint Suhail Al Mazrouei,spouse,Q1059948,Khalifa bin Zayed Al Nahyan
-UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,father,Q57655,Mohammed bin Rashid Al Maktoum
-UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,mother,Q2257104,Hind bint Maktoum bin Juma Al-Maktoum
-UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q111083817,Latifa bint Mohammed bin Rashid Al Maktoum
-UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q17403156,Majid bin Mohammed bin Rashid Al Maktoum
-UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q3379198,Maitha bint Mohammed bin Rashid Al Maktoum
-UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q556586,Hamdan bin Mohammed Al Maktoum
-UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
-UAE,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q7294934,Rashid bin Mohammed Al Maktoum
-UAE,Q1368398,Saud bin Saqr al Qasimi,father,Q1380993,Saqr bin Mohammad al-Qassimi
-UAE,Q1371101,Hamad bin Mohammed Al Sharqi,child,Q6893466,Mohammed bin Hamad bin Mohammed Al Sharqi
-UAE,Q1371101,Hamad bin Mohammed Al Sharqi,mother,Q18702978,Fatima Bint Rashid Al Nuaimi
-UAE,Q1371101,Hamad bin Mohammed Al Sharqi,relative,Q2984620,Humaid bin Rashid Al Nuaimi
-UAE,Q1380993,Saqr bin Mohammad al-Qassimi,child,Q1368398,Saud bin Saqr al Qasimi
-UAE,Q1380993,Saqr bin Mohammad al-Qassimi,child,Q4696100,Ahmed bin Saqr al-Qassimi
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q1059948,Khalifa bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q16018226,Nasser bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q1951896,Mohammed bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q2073929,Ahmed bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q4118852,Issa bin hamad Al thani
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q5431619,Falah bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q556607,Mansour bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q5644454,Hamed bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q58301,Abdullah bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q7398258,Saeed bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q7400024,Saif bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q7636761,Sultan bin Zayed bin Sultan Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,child,Q85804913,Tahnoun bin Zayed Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,father,Q6409495,Sultan bin Zayed bin Khalifa Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,mother,Q20383754,Salama bint Butti
-UAE,Q167846,Zayed bin Sultan Al Nahyan,sibling,Q12249936,Hazza bin Sultan Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,sibling,Q2661904,Shakhbut bin Sultan Al Nahyan
-UAE,Q167846,Zayed bin Sultan Al Nahyan,spouse,Q16730773,Mouza bint Suhail Al Khaili
-UAE,Q167846,Zayed bin Sultan Al Nahyan,spouse,Q4120127,Fatima bint Mubarak Al Ketbi
-UAE,Q167846,Zayed bin Sultan Al Nahyan,spouse,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan
-UAE,Q1746137,Nahyan bin Mubarak Al Nahyan,relative,Q19660945,Khalifa bin Zayed bin Khalifa Al Nahyan
-UAE,Q1746137,Nahyan bin Mubarak Al Nahyan,sibling,Q16193136,Hamdan bin Mubarak Al Nahyan
-UAE,Q1951896,Mohammed bin Zayed Al Nahyan,child,Q47499755,Khalid bin Mohammed bin Zayed Al Nahyan
-UAE,Q1951896,Mohammed bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
-UAE,Q1951896,Mohammed bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
-UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
-UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
-UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q556607,Mansour bin Zayed Al Nahyan
-UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
-UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q58301,Abdullah bin Zayed Al Nahyan
-UAE,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
-UAE,Q215477,Maktoum bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Maktoum
-UAE,Q215477,Maktoum bin Rashid Al Maktoum,sibling,Q57655,Mohammed bin Rashid Al Maktoum
-UAE,Q215477,Maktoum bin Rashid Al Maktoum,sibling,Q712839,Hamdan bin Rashid Al Maktoum
-UAE,Q2984620,Humaid bin Rashid Al Nuaimi,child,Q22279440,Sheikh Rashid bin Humaid Al Nuaimi
-UAE,Q2984620,Humaid bin Rashid Al Nuaimi,father,Q7294894,Rashid Bin Humaid Al Nuaimi
-UAE,Q2984620,Humaid bin Rashid Al Nuaimi,relative,Q1371101,Hamad bin Mohammed Al Sharqi
-UAE,Q2984620,Humaid bin Rashid Al Nuaimi,sibling,Q18702978,Fatima Bint Rashid Al Nuaimi
-UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
-UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q1951896,Mohammed bin Zayed Al Nahyan
-UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q556607,Mansour bin Zayed Al Nahyan
-UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
-UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q58301,Abdullah bin Zayed Al Nahyan
-UAE,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q85804913,Tahnoun bin Zayed Al Nahyan
-UAE,Q4120127,Fatima bint Mubarak Al Ketbi,spouse,Q167846,Zayed bin Sultan Al Nahyan
-UAE,Q556607,Mansour bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
-UAE,Q556607,Mansour bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
-UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
-UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
-UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q1951896,Mohammed bin Zayed Al Nahyan
-UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
-UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q58301,Abdullah bin Zayed Al Nahyan
-UAE,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
-UAE,Q556607,Mansour bin Zayed Al Nahyan,spouse,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
-UAE,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan,child,Q1059948,Khalifa bin Zayed Al Nahyan
-UAE,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan,spouse,Q167846,Zayed bin Sultan Al Nahyan
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q17403156,Majid bin Mohammed bin Rashid Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q3379198,Maitha bint Mohammed bin Rashid Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q51840013,Latifa bint Mohammed Al Maktoum (2nd)
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q556586,Hamdan bin Mohammed Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q66103593,Shamsa Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q7294934,Rashid bin Mohammed Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q7462442,Shaikha bint Mohammed bin Rashed Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,child,Q9317476,Maryam bint Mohammed bin Rashid Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,father,Q733312,Rashid bin Saeed Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q215477,Maktoum bin Rashid Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q712839,Hamdan bin Rashid Al Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q106370260,Houria Ahmed Lamara
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q2257104,Hind bint Maktoum bin Juma Al-Maktoum
-UAE,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q272117,Princess Haya bint Al-Hussein of Jordan
-UAE,Q58301,Abdullah bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
-UAE,Q58301,Abdullah bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
-UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
-UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
-UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1951896,Mohammed bin Zayed Al Nahyan
-UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q556607,Mansour bin Zayed Al Nahyan
-UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
-UAE,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
-UAE,Q712839,Hamdan bin Rashid Al Maktoum,father,Q733312,Rashid bin Saeed Al Maktoum
-UAE,Q712839,Hamdan bin Rashid Al Maktoum,sibling,Q215477,Maktoum bin Rashid Al Maktoum
-UAE,Q712839,Hamdan bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Maktoum
-UAE,Q712839,Hamdan bin Rashid Al Maktoum,sibling,Q57655,Mohammed bin Rashid Al Maktoum
-UAE,Q7400024,Saif bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
-UAE,Q7400024,Saif bin Zayed Al Nahyan,mother,Q16730773,Mouza bint Suhail Al Khaili
-UAE,Q7400024,Saif bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
-UAE,Q7400024,Saif bin Zayed Al Nahyan,sibling,Q2073929,Ahmed bin Zayed Al Nahyan
-UAE,Q7400024,Saif bin Zayed Al Nahyan,sibling,Q5644454,Hamed bin Zayed Al Nahyan
-UAE,Q754778,Sultan bin Mohamed Al-Qasimi,child,Q19601168,Bodour bint Sultan bin Muhammad Al Qasimi
-UAE,Q754778,Sultan bin Mohamed Al-Qasimi,child,Q50413553,Azza Sultan Al-Qasimi
-UAE,Q754778,Sultan bin Mohamed Al-Qasimi,child,Q6399604,Khalid bin Sultan Al Qasimi
-UAE,Q754778,Sultan bin Mohamed Al-Qasimi,father,Q22930678,Mohammed bin Saqr bin Khalid Al Qasimi
-UAE,Q8973536,Rashid III bin Ahmad Al Mu'alla,father,Q4695515,Ahmad bin Rashid Al Mu'alla
+United Arab Emirates,Q105539926,Shakhboot Nahyan Al Nahyan,father,Q1746137,Nahyan bin Mubarak Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,child,Q16196176,Sultan bin Khalifa Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,child,Q16733119,Mohammed bin Khalifa Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,mother,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q1951896,Mohammed bin Zayed Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q2073929,Ahmed bin Zayed Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q556607,Mansour bin Zayed Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q5644454,Hamed bin Zayed Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q58301,Abdullah bin Zayed Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q7400024,Saif bin Zayed Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q7636761,Sultan bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
+United Arab Emirates,Q1059948,Khalifa bin Zayed Al Nahyan,spouse,Q10781516,Shamsa bint Suhail Al Mazrouei
+United Arab Emirates,Q10781516,Shamsa bint Suhail Al Mazrouei,child,Q16196176,Sultan bin Khalifa Al Nahyan
+United Arab Emirates,Q10781516,Shamsa bint Suhail Al Mazrouei,child,Q16733119,Mohammed bin Khalifa Al Nahyan
+United Arab Emirates,Q10781516,Shamsa bint Suhail Al Mazrouei,spouse,Q1059948,Khalifa bin Zayed Al Nahyan
+United Arab Emirates,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,father,Q57655,Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,mother,Q2257104,Hind bint Maktoum bin Juma Al-Maktoum
+United Arab Emirates,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q111083817,Latifa bint Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q17403156,Majid bin Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q3379198,Maitha bint Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q556586,Hamdan bin Mohammed Al Maktoum
+United Arab Emirates,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q7294934,Rashid bin Mohammed Al Maktoum
+United Arab Emirates,Q1368398,Saud bin Saqr al Qasimi,father,Q1380993,Saqr bin Mohammad al-Qassimi
+United Arab Emirates,Q1371101,Hamad bin Mohammed Al Sharqi,child,Q6893466,Mohammed bin Hamad bin Mohammed Al Sharqi
+United Arab Emirates,Q1371101,Hamad bin Mohammed Al Sharqi,mother,Q18702978,Fatima Bint Rashid Al Nuaimi
+United Arab Emirates,Q1371101,Hamad bin Mohammed Al Sharqi,relative,Q2984620,Humaid bin Rashid Al Nuaimi
+United Arab Emirates,Q1380993,Saqr bin Mohammad al-Qassimi,child,Q1368398,Saud bin Saqr al Qasimi
+United Arab Emirates,Q1380993,Saqr bin Mohammad al-Qassimi,child,Q4696100,Ahmed bin Saqr al-Qassimi
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q1059948,Khalifa bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q16018226,Nasser bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q1951896,Mohammed bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q2073929,Ahmed bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q4118852,Issa bin hamad Al thani
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q5431619,Falah bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q556607,Mansour bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q5644454,Hamed bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q58301,Abdullah bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q7398258,Saeed bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q7400024,Saif bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q7636761,Sultan bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,child,Q85804913,Tahnoun bin Zayed Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,father,Q6409495,Sultan bin Zayed bin Khalifa Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,mother,Q20383754,Salama bint Butti
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,sibling,Q12249936,Hazza bin Sultan Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,sibling,Q2661904,Shakhbut bin Sultan Al Nahyan
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,spouse,Q16730773,Mouza bint Suhail Al Khaili
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,spouse,Q4120127,Fatima bint Mubarak Al Ketbi
+United Arab Emirates,Q167846,Zayed bin Sultan Al Nahyan,spouse,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan
+United Arab Emirates,Q1746137,Nahyan bin Mubarak Al Nahyan,relative,Q19660945,Khalifa bin Zayed bin Khalifa Al Nahyan
+United Arab Emirates,Q1746137,Nahyan bin Mubarak Al Nahyan,sibling,Q16193136,Hamdan bin Mubarak Al Nahyan
+United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,child,Q47499755,Khalid bin Mohammed bin Zayed Al Nahyan
+United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
+United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
+United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q556607,Mansour bin Zayed Al Nahyan
+United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q58301,Abdullah bin Zayed Al Nahyan
+United Arab Emirates,Q1951896,Mohammed bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
+United Arab Emirates,Q215477,Maktoum bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Maktoum
+United Arab Emirates,Q215477,Maktoum bin Rashid Al Maktoum,sibling,Q57655,Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q215477,Maktoum bin Rashid Al Maktoum,sibling,Q712839,Hamdan bin Rashid Al Maktoum
+United Arab Emirates,Q2984620,Humaid bin Rashid Al Nuaimi,child,Q22279440,Sheikh Rashid bin Humaid Al Nuaimi
+United Arab Emirates,Q2984620,Humaid bin Rashid Al Nuaimi,father,Q7294894,Rashid Bin Humaid Al Nuaimi
+United Arab Emirates,Q2984620,Humaid bin Rashid Al Nuaimi,relative,Q1371101,Hamad bin Mohammed Al Sharqi
+United Arab Emirates,Q2984620,Humaid bin Rashid Al Nuaimi,sibling,Q18702978,Fatima Bint Rashid Al Nuaimi
+United Arab Emirates,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q1951896,Mohammed bin Zayed Al Nahyan
+United Arab Emirates,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q556607,Mansour bin Zayed Al Nahyan
+United Arab Emirates,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q58301,Abdullah bin Zayed Al Nahyan
+United Arab Emirates,Q4120127,Fatima bint Mubarak Al Ketbi,child,Q85804913,Tahnoun bin Zayed Al Nahyan
+United Arab Emirates,Q4120127,Fatima bint Mubarak Al Ketbi,spouse,Q167846,Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q556607,Mansour bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q556607,Mansour bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
+United Arab Emirates,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
+United Arab Emirates,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q1951896,Mohammed bin Zayed Al Nahyan
+United Arab Emirates,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q58301,Abdullah bin Zayed Al Nahyan
+United Arab Emirates,Q556607,Mansour bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
+United Arab Emirates,Q556607,Mansour bin Zayed Al Nahyan,spouse,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan,child,Q1059948,Khalifa bin Zayed Al Nahyan
+United Arab Emirates,Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan,spouse,Q167846,Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q17403156,Majid bin Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q3379198,Maitha bint Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q51840013,Latifa bint Mohammed Al Maktoum (2nd)
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q556586,Hamdan bin Mohammed Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q66103593,Shamsa Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q7294934,Rashid bin Mohammed Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q7462442,Shaikha bint Mohammed bin Rashed Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,child,Q9317476,Maryam bint Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,father,Q733312,Rashid bin Saeed Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q215477,Maktoum bin Rashid Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,sibling,Q712839,Hamdan bin Rashid Al Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q106370260,Houria Ahmed Lamara
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q2257104,Hind bint Maktoum bin Juma Al-Maktoum
+United Arab Emirates,Q57655,Mohammed bin Rashid Al Maktoum,spouse,Q272117,Princess Haya bint Al-Hussein of Jordan
+United Arab Emirates,Q58301,Abdullah bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q58301,Abdullah bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
+United Arab Emirates,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
+United Arab Emirates,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q1951896,Mohammed bin Zayed Al Nahyan
+United Arab Emirates,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q556607,Mansour bin Zayed Al Nahyan
+United Arab Emirates,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q58301,Abdullah bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
+United Arab Emirates,Q712839,Hamdan bin Rashid Al Maktoum,father,Q733312,Rashid bin Saeed Al Maktoum
+United Arab Emirates,Q712839,Hamdan bin Rashid Al Maktoum,sibling,Q215477,Maktoum bin Rashid Al Maktoum
+United Arab Emirates,Q712839,Hamdan bin Rashid Al Maktoum,sibling,Q401634,Ahmed bin Rashid Al Maktoum
+United Arab Emirates,Q712839,Hamdan bin Rashid Al Maktoum,sibling,Q57655,Mohammed bin Rashid Al Maktoum
+United Arab Emirates,Q7400024,Saif bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
+United Arab Emirates,Q7400024,Saif bin Zayed Al Nahyan,mother,Q16730773,Mouza bint Suhail Al Khaili
+United Arab Emirates,Q7400024,Saif bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
+United Arab Emirates,Q7400024,Saif bin Zayed Al Nahyan,sibling,Q2073929,Ahmed bin Zayed Al Nahyan
+United Arab Emirates,Q7400024,Saif bin Zayed Al Nahyan,sibling,Q5644454,Hamed bin Zayed Al Nahyan
+United Arab Emirates,Q754778,Sultan bin Mohamed Al-Qasimi,child,Q19601168,Bodour bint Sultan bin Muhammad Al Qasimi
+United Arab Emirates,Q754778,Sultan bin Mohamed Al-Qasimi,child,Q50413553,Azza Sultan Al-Qasimi
+United Arab Emirates,Q754778,Sultan bin Mohamed Al-Qasimi,child,Q6399604,Khalid bin Sultan Al Qasimi
+United Arab Emirates,Q754778,Sultan bin Mohamed Al-Qasimi,father,Q22930678,Mohammed bin Saqr bin Khalid Al Qasimi
+United Arab Emirates,Q8973536,Rashid III bin Ahmad Al Mu'alla,father,Q4695515,Ahmad bin Rashid Al Mu'alla
 United Kingdom,Q104783350,"David Wolfson, Baron Wolfson of Tredegar",spouse,Q111600492,Louise Wolfson
 United Kingdom,Q104898,Norman Foster,father,Q75949379,Robert Foster
 United Kingdom,Q104898,Norman Foster,mother,Q75989998,Lillian Smith
@@ -20894,6 +20903,7 @@ United States,Q16146870,Steve Bannon,spouse,Q28587586,Diane Clohesy
 United States,Q16148997,Bernie Hunhoff,child,Q38195469,Katie Hunhoff
 United States,Q16150298,Loranne Ausley,father,Q5309988,DuBose Ausley
 United States,Q16185594,Steve Sisolak,spouse,Q107157828,Kathleen Sisolak
+United States,Q16187144,Pete Kelly,sibling,Q6847486,Mike Kelly
 United States,Q16189318,David Ige,spouse,Q29452590,Dawn Ige
 United States,Q16193904,Steve Toth,spouse,Q787863,Babette
 United States,Q16194408,Peter Wirth,father,Q6264663,John Wirth
@@ -21241,6 +21251,7 @@ United States,Q2960128,Charles Rivkin,father,Q8017272,William R. Rivkin
 United States,Q2960128,Charles Rivkin,mother,Q23071262,Enid Hammerman
 United States,Q2960128,Charles Rivkin,sibling,Q19757457,Cindy S. Moelis
 United States,Q2960128,Charles Rivkin,sibling,Q7349499,Robert S. Rivkin
+United States,Q29654372,C.S. Eliot Kang,father,Q113435434,Ho Ryun Kang
 United States,Q298016,Fred Thompson,spouse,Q6182079,Jeri Kehn Thompson
 United States,Q298443,Rahm Emanuel,sibling,Q2861138,Ari Emanuel
 United States,Q298443,Rahm Emanuel,sibling,Q5423140,Ezekiel Emanuel
@@ -21773,9 +21784,12 @@ United States,Q6490243,Larry Echo Hawk,sibling,Q6231112,John EchoHawk
 United States,Q649898,Ron Klain,spouse,Q59779122,Monica Medina
 United States,Q650928,Parris Glendening,spouse,Q5478730,Frances Hughes Glendening
 United States,Q652066,Sheldon Whitehouse,father,Q5082305,Charles Sheldon Whitehouse
+United States,Q6551834,Linda Menard,spouse,Q112466773,Curt Menard
 United States,Q65554989,Larry Walker III,father,Q65555452,Larry Walker
 United States,Q65555452,Larry Walker,child,Q65554989,Larry Walker III
 United States,Q6701490,Luiz R. S. Simmons,child,Q14945722,Rachel Simmons
+United States,Q6707502,Lyda Green,relative,Q52343230,Tuckerman Babcock
+United States,Q6708043,Lyman Hoffman,relative,Q112800276,James Hoffman
 United States,Q672428,Kenny Guinn,spouse,Q107387818,Dema Guinn
 United States,Q6726900,Madeleine Dean,relative,Q93278657,Joan Cunnane
 United States,Q6761168,María Elena Durazo,spouse,Q6844499,Miguel Contreras

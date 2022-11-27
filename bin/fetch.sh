@@ -15,10 +15,10 @@ fi
 # There's almost certainly a better way to pass these as parameters, but
 # as this is CSV data, which could have spaces and commas in placenames, it's
 # easiest to just extract them one by one.
-name=$(echo ${match[0]} | qsv select 1)
-slug=$(echo ${match[0]} | qsv select 2)
-repo=$(echo ${match[0]} | qsv select 3)
-srce=$(echo ${match[0]} | qsv select 4)
+name=$(echo ${match[0]} | qsv select 2)
+slug=$(echo ${match[0]} | qsv select 3)
+repo=$(echo ${match[0]} | qsv select 4)
+srce=$(echo ${match[0]} | qsv select 5)
 
 dir="docs/leaders/$slug"
 csv="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html/current.csv"

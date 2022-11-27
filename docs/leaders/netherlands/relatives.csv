@@ -169,6 +169,8 @@ Netherlands,Q466868,Lodewijk Asscher,relative,Q325313,Abraham Asscher
 Netherlands,Q467982,Fleur Agema,partner,Q518659,Léon de Jong
 Netherlands,Q4787767,Ard van der Steur,father,Q2232889,Ab van der Steur
 Netherlands,Q5165280,Hanke Bruins Slot,father,Q2093954,Harm Bruins Slot
+Netherlands,Q5165280,Hanke Bruins Slot,relative,Q17265408,Johan Bruins Slot
+Netherlands,Q5165280,Hanke Bruins Slot,relative,Q76400593,Zwaantinus Bruins Slot
 Netherlands,Q518659,Léon de Jong,partner,Q467982,Fleur Agema
 Netherlands,Q554127,Wouter Bos,sibling,Q2279433,Arnoud Bos
 Netherlands,Q607189,Ed van Thijn,child,Q111820627,Marion van Thijn
@@ -182,7 +184,7 @@ Netherlands,Q65055093,Gala Veldhoen,spouse,Q2318560,Henny Vrienten
 Netherlands,Q704888,Geert Reuten,child,Q2244639,Rosa Reuten
 Netherlands,Q704888,Geert Reuten,relative,Q106518433,Thijs Reuten
 Netherlands,Q704888,Geert Reuten,relative,Q467729,Thekla Reuten
-Netherlands,Q712105,Hans van den Broek,child,Q2455435,"Princess Marilène of Orange-Nassau, van Vollenhoven"
+Netherlands,Q712105,Hans van den Broek,child,Q2455435,Princess Marilène of Orange-Nassau
 Netherlands,Q712105,Hans van den Broek,child,Q76244991,Caroline van den Broek
 Netherlands,Q712105,Hans van den Broek,spouse,Q75807235,Joséphine van Schendel
 Netherlands,Q7192814,Pieter Omtzigt,spouse,Q106322685,Ayfer Koc
