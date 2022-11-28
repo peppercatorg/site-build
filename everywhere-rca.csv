@@ -940,7 +940,7 @@ Belarus,Q106373017,Vladimir Pertsov,spouse,Q106457631,Yuliya Pyartsova
 Belarus,Q13028245,Aleh Rumo,father,Q18568283,Aleh Rumo
 Belarus,Q17317976,Lyudmila Postoyalko,child,Q17272381,Iryna Abelskaya
 Belarus,Q18568283,Aleh Rumo,child,Q13028245,Aleh Rumo
-Belarus,Q2026222,Vladimir Makei,spouse,Q106030868,Вера Аляксандраўна Палякова-Макей
+Belarus,Q2026222,Uladzimir Makei,spouse,Q106030868,Вера Аляксандраўна Палякова-Макей
 Belarus,Q2029677,Uladzimir Andreychanka,child,Q108609943,Uladzislau Andrejchanka
 Belarus,Q2393922,Natalia Petkevich,spouse,Q30049526,Valentin Rybakov
 Belarus,Q2564269,Alexander Radkov,child,Q106457631,Yuliya Pyartsova
@@ -1580,6 +1580,7 @@ Cambodia,Q57788,Hun Sen,spouse,Q4997395,Bun Rany
 Cambodia,Q58287,Hor Namhong,child,Q5901400,Hor Nambora
 Cambodia,Q5901400,Hor Nambora,father,Q58287,Hor Namhong
 Cameroon,Q105971791,Robert Nkili,sibling,Q461586,Jeanne-Irène Biya
+Cameroon,Q107253305,Colette Sohaing,spouse,Q20787335,André Sohaing
 Cameroon,Q111366078,Léon Bahounoui Batende,child,Q115264898,Annie Noëlle Bahounoui Batende
 Cameroon,Q15819842,Ibrahim Mbombo Njoya,sibling,Q17637414,Rabiatou Njoya
 Cameroon,Q23017346,Alamine Ousmane Mey,father,Q108887420,Abba Ousmane Mey
@@ -3457,6 +3458,10 @@ Estonia,Q12358921,Allar Jõks,partner,Q17447251,Heidi Vilu
 Estonia,Q12359093,Ando Leps,father,Q12359961,August Leps
 Estonia,Q12359339,Anti Poolamets,sibling,Q115189677,Olev Poolamets
 Estonia,Q12360203,Barbi Pilvre,sibling,Q61111175,Glen Pilvre
+Estonia,Q12362258,Erik Salumäe,relative,Q12372220,Peeter Paenurm
+Estonia,Q12362258,Erik Salumäe,relative,Q16403839,Tiit Salumäe
+Estonia,Q12362258,Erik Salumäe,relative,Q20933567,Eduard Salumäe
+Estonia,Q12362258,Erik Salumäe,sibling,Q78605216,Ene Salumäe
 Estonia,Q12363696,Hele Everaus,father,Q50375504,Arnold Everaus
 Estonia,Q12363696,Hele Everaus,mother,Q50375505,Maimu Everaus
 Estonia,Q12364333,Ignar Fjuk,father,Q50375518,Vladislav Fjuk
@@ -6657,6 +6662,7 @@ India,Q10218,Rahul Gandhi,sibling,Q607685,Priyanka Vadra
 India,Q1058,Narendra Modi,father,Q66606210,Damodardas Mulchand Modi
 India,Q1058,Narendra Modi,mother,Q105529920,Heeraben Modi
 India,Q1058,Narendra Modi,spouse,Q16947607,Jashodaben Narendrabhai Modi
+India,Q106684827,G. R. Anil,spouse,Q16137090,R. Latha Devi
 India,Q106811781,Deepti Kiran Maheshwari,mother,Q6414812,Kiran Maheshwari
 India,Q111343881,Ganieve Kaur Majithia,spouse,Q16215906,Bikram Singh Majithia
 India,Q113336473,Chhatrapal Singh,spouse,Q113337635,Ranjana Singh
@@ -10938,7 +10944,6 @@ Oman,Q12250314,Haitham bin Tarik Al Said,spouse,Q97933143,Ahad bint Abdullah
 Oman,Q57331,Qaboos bin Said Al Said,father,Q879869,Said bin Taimur
 Oman,Q57331,Qaboos bin Said Al Said,mother,Q254361,Mazoon al-Mashani
 Oman,Q57331,Qaboos bin Said Al Said,spouse,Q81691428,Sayyida Nawal
-Oman,Q57331,Qaboos bin Said Al Said,spouse,Q82904705,Sheikha Aisha bint Ahmed Al-Harithiya
 Oman,Q59660242,Asa'ad bin Tariq bin Taimur al Said,child,Q16120011,Taimur bin Assad bin Tariq al-Said
 Oman,Q59660242,Asa'ad bin Tariq bin Taimur al Said,father,Q16126525,Tariq bin Taimur
 Oman,Q59660242,Asa'ad bin Tariq bin Taimur al Said,mother,Q81863531,Shawana bint Hammoud bin Ahmed Al Busaidia
@@ -11955,21 +11960,21 @@ Portugal,Q925136,Eduardo Ferro Rodrigues,spouse,Q111448806,Maria Filomena Lopes 
 Qatar,Q16242594,Ahmad bin Abdullah Al Mahmoud,father,Q12224196,عبد الله بن زيد آل محمود
 Qatar,Q16242594,Ahmad bin Abdullah Al Mahmoud,sibling,Q104628132,علي بن عبد الله زيد آل محمود
 Qatar,Q16242594,Ahmad bin Abdullah Al Mahmoud,sibling,Q12224157,عبد الرحمن عبد الله آل محمود
-Qatar,Q1855372,Tamim bin Hamad,father,Q57360,Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad,mother,Q238774,Moza bint Nasser Al Missned
-Qatar,Q1855372,Tamim bin Hamad,sibling,Q14946739,Maha bint Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad,sibling,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
-Qatar,Q1855372,Tamim bin Hamad,sibling,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
-Qatar,Q1855372,Tamim bin Hamad,sibling,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad,sibling,Q6161563,Jasim bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad,sibling,Q6204478,Joaan bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad,sibling,Q6399598,Khalid bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad,sibling,Q6875474,Mishaal bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad,sibling,Q6893462,Mohammed bin Hamad bin Khalifa Al Thani
-Qatar,Q1855372,Tamim bin Hamad,spouse,Q18758568,Jawaher bint Hamad Al thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,father,Q57360,Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,mother,Q238774,Moza bint Nasser Al Missned
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q14946739,Maha bint Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6161563,Jasim bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6204478,Joaan bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6399598,Khalid bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6875474,Mishaal bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,sibling,Q6893462,Mohammed bin Hamad bin Khalifa Al Thani
+Qatar,Q1855372,Tamim bin Hamad Al Thani,spouse,Q18758568,Jawaher bint Hamad Al Thani
 Qatar,Q317771,Abdullah bin Khalifa Al Thani,father,Q2072385,Khalifa bin Hamad Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q14946739,Maha bint Hamad bin Khalifa Al Thani
-Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q1855372,Tamim bin Hamad
+Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q1855372,Tamim bin Hamad Al Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q23043276,Hind bint Hamad bin Khalifa Al-Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q2891977,Al-Mayassa bint Hamad bin Khalifa Al-Thani
 Qatar,Q57360,Hamad bin Khalifa Al Thani,child,Q50379398,Khalifa bin Hamad bin Khalifa Al Thani
