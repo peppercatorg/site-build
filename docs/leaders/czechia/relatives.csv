@@ -1,6 +1,8 @@
 catalog,id,name,relationship,relative,relativename
 Czechia,Q10389200,Vojtěch Adam,child,Q15249893,Petr Adam
 Czechia,Q107548754,Jiří Horák,relative,Q12022991,Jan Plesl
+Czechia,Q10774355,Aleš Rozehnal,father,Q115487281,Aleš Rozehnal
+Czechia,Q10774355,Aleš Rozehnal,spouse,Q115487330,Hana Rozehnalová
 Czechia,Q10817784,Jaroslav Palas,father,Q12026468,Josef Palas
 Czechia,Q10819807,Andrej Babiš,child,Q104098427,Frederik Babiš
 Czechia,Q10819807,Andrej Babiš,child,Q104098444,Vivien Babišová

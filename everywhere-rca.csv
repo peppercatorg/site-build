@@ -1500,7 +1500,7 @@ Bulgaria,Q1060355,Simeon II of Bulgaria,child,Q6441319,"Kubrat, Prince of Panagy
 Bulgaria,Q1060355,Simeon II of Bulgaria,child,Q6482148,Princess Kalina of Bulgaria
 Bulgaria,Q1060355,Simeon II of Bulgaria,child,Q6482163,"Konstantin-Assen, Prince of Vidin"
 Bulgaria,Q1060355,Simeon II of Bulgaria,father,Q159585,Boris III of Bulgaria
-Bulgaria,Q1060355,Simeon II of Bulgaria,mother,Q235168,Giovanna of Italy
+Bulgaria,Q1060355,Simeon II of Bulgaria,mother,Q235168,Giovanna of Savoy
 Bulgaria,Q1060355,Simeon II of Bulgaria,sibling,Q3292104,"Princess Marie Louise, 9th Princess of Koháry"
 Bulgaria,Q1060355,Simeon II of Bulgaria,spouse,Q3622509,Queen Margarita of Bulgaria
 Bulgaria,Q108866960,Daniel Lorer,relative,Q70551952,Heni Lorer
@@ -2818,6 +2818,8 @@ Cyprus,Q7030515,Nikos Tornaritis,sibling,Q98101110,Christophoros  Tornaritis
 Cyprus,Q88414270,Pantelis Kouros,sibling,Q66725213,Andreas Kouros
 Czechia,Q10389200,Vojtěch Adam,child,Q15249893,Petr Adam
 Czechia,Q107548754,Jiří Horák,relative,Q12022991,Jan Plesl
+Czechia,Q10774355,Aleš Rozehnal,father,Q115487281,Aleš Rozehnal
+Czechia,Q10774355,Aleš Rozehnal,spouse,Q115487330,Hana Rozehnalová
 Czechia,Q10817784,Jaroslav Palas,father,Q12026468,Josef Palas
 Czechia,Q10819807,Andrej Babiš,child,Q104098427,Frederik Babiš
 Czechia,Q10819807,Andrej Babiš,child,Q104098444,Vivien Babišová
@@ -7891,7 +7893,6 @@ Indonesia,Q93388029,Rizki Aulia Rahman Natakusumah,sibling,Q109449644,Rizka Amal
 Indonesia,Q96987535,Iis Edhy Prabowo,spouse,Q72086432,Edhy Prabowo
 Indonesia,Q96987676,Andi Ruskati Ali Baal,spouse,Q40168296,Ali Baal Masdar
 Indonesia,Q96987989,Dony Maryadi Oekon,spouse,Q109563818,Vanty Veronica
-Indonesia,Q96987989,Dony Maryadi Oekon,spouse,Q109563818,Vanty Veronica
 Indonesia,Q96987994,Mochamad Herviano,spouse,Q108923484,Nindya Nur Prasasti
 Indonesia,Q96988363,Dewi Asmara,father,Q12501199,Oetojo Oesman
 Indonesia,Q96988370,Puteri Anetta Komarudin,father,Q18421322,Ade Komarudin
@@ -9092,7 +9093,7 @@ Jordan,Q57464,Abdullah II of Jordan,child,Q5146516,Princess Salma bint Al Abdull
 Jordan,Q57464,Abdullah II of Jordan,child,Q7244056,Prince Hashem bin Al Abdullah
 Jordan,Q57464,Abdullah II of Jordan,child,Q981927,"Hussein bin Abdullah, Crown Prince of Jordan"
 Jordan,Q57464,Abdullah II of Jordan,father,Q146906,Hussein I of Jordan
-Jordan,Q57464,Abdullah II of Jordan,mother,Q269898,Princess Muna al-Hussein
+Jordan,Q57464,Abdullah II of Jordan,mother,Q269898,Princess Muna Gardiner
 Jordan,Q57464,Abdullah II of Jordan,relative,Q112148518,Faisal Sedki al-Yassin
 Jordan,Q57464,Abdullah II of Jordan,sibling,Q1532902,Prince Hamzah bin Al-Hussein
 Jordan,Q57464,Abdullah II of Jordan,sibling,Q272117,Princess Haya bint Al-Hussein of Jordan
