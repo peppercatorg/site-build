@@ -811,6 +811,7 @@ Azerbaijan,Q12839846,Govhar Bakhshaliyeva,father,Q18236290,Bakhshali Bakhshaliye
 Azerbaijan,Q12839846,Govhar Bakhshaliyeva,spouse,Q11733924,Kamal Abdullayev
 Azerbaijan,Q12840326,Hicran Hüseynova,father,Q16369243,Kamran Hüseynov
 Azerbaijan,Q12840703,Jalə Əliyeva,mother,Q12843450,Nurəngiz Gün
+Azerbaijan,Q12843070,Namiq Nəsrullayev,father,Q12843567,Nasrulla Nasrullayev
 Azerbaijan,Q12847503,Xanhüseyn Kazımlı,child,Q61122100,Fəxri Kazımov
 Azerbaijan,Q157451,Heydar Aliyev,child,Q16374092,Sevil Aliyeva
 Azerbaijan,Q157451,Heydar Aliyev,child,Q57371,Ilham Aliyev
@@ -3032,6 +3033,7 @@ Czechia,Q375208,Jiří Dienstbier,relative,Q1567611,Emil Hájek
 Czechia,Q375208,Jiří Dienstbier,relative,Q16082362,Jara Ribnikar
 Czechia,Q42311106,Olga Richterová,relative,Q9021077,Mikuláš Ferjenčík
 Czechia,Q42311106,Olga Richterová,sibling,Q14806410,Mikuláš Ferjenčík
+Czechia,Q440694,Karolína Peake,mother,Q19602622,Radka Kvačková
 Czechia,Q4845845,Jan Ruml,father,Q11727272,Jiří Ruml
 Czechia,Q4845845,Jan Ruml,mother,Q95094973,Jiřina Hrábková
 Czechia,Q4845845,Jan Ruml,sibling,Q112175613,Jiří Ruml
@@ -4808,6 +4810,7 @@ Finland,Q28780113,Juha Mäenpää,child,Q108900232,Konsta Mäenpää
 Finland,Q28784757,Pihla Keto-Huovinen,spouse,Q16299157,Tommy Huovinen
 Finland,Q28788123,Heikki Vestman,spouse,Q5397641,Reetaleena
 Finland,Q28788780,Ruut Sjöblom,father,Q16990565,Juhani Sjöblom
+Finland,Q28788882,Johannes Yrttiaho,father,Q3190637,Jyrki Yrttiaho
 Finland,Q29110,Paavo Lipponen,father,Q112969662,Orvo Lipponen
 Finland,Q29110,Paavo Lipponen,mother,Q112969665,Hilkka Iissalo
 Finland,Q29110,Paavo Lipponen,spouse,Q11889370,Päivi Lipponen
@@ -4827,6 +4830,7 @@ Finland,Q29892746,Eveliina Heinäluoma,father,Q2360756,Eero Heinäluoma
 Finland,Q29895101,Anders Norrback,father,Q6017325,Ole Norrback
 Finland,Q29957553,Suldaan Said Ahmed,sibling,Q24827231,Ahmed Said Ahmed
 Finland,Q29957553,Suldaan Said Ahmed,sibling,Q78233158,Abdulkadir Said Ahmed
+Finland,Q3190637,Jyrki Yrttiaho,child,Q28788882,Johannes Yrttiaho
 Finland,Q32219,Jan Vapaavuori,spouse,Q61159813,Outi Vapaavuori
 Finland,Q3357738,Gustav Hägglund,father,Q3044522,Woldemar Hägglund
 Finland,Q3485303,Sirpa Asko-Seljavaara,father,Q11853409,Aukusti Asko-Avonius
@@ -5418,6 +5422,7 @@ France,Q3380285,Philippe Madrelle,father,Q66809714,Jacques Madrelle
 France,Q3380365,Philippe Meirieu,child,Q3052796,Emmanuel Meirieu
 France,Q3382825,Pierre-André Wiltzer,father,Q50327693,Pierre-Marcel Wiltzer
 France,Q3384224,Pierre Buhler,spouse,Q3507347,Sylvie Kauffmann
+France,Q3384966,Pierre Fauchon,father,Q3302557,Maxime Fauchon
 France,Q3385274,Pierre Gosnat,father,Q3102791,Georges Gosnat
 France,Q3385274,Pierre Gosnat,mother,Q3023001,Denise Bastide
 France,Q3385791,Pierre Larrouturou,sibling,Q2898180,Bernard Larrouturou
@@ -5845,6 +5850,7 @@ Germany,Q1904981,Martin Schoser,father,Q1448958,Franz Schoser
 Germany,Q19279839,Franziska Giffey,spouse,Q108701854,Karsten Giffey
 Germany,Q1928239,Michael Koch,sibling,Q1084303,Christof Koch
 Germany,Q1928894,Michael Piazolo,father,Q105619910,Paul Harro Piazolo
+Germany,Q19362214,Milan Pein,spouse,Q115527401,Karen Pein
 Germany,Q1991468,Nikolaus Graf Lambsdorff,father,Q60153,Otto Graf Lambsdorff
 Germany,Q2018007,Olaf Lehne,sibling,Q78218,Klaus-Heiner Lehne
 Germany,Q2063431,Paul Freiherr von Maltzahn,child,Q110722136,Nadia von Maltzahn
@@ -6180,8 +6186,8 @@ Greece,Q1226051,Dimitris Reppas,relative,Q1392087,Panagiotis Poulitsas
 Greece,Q1252175,Petros Molyviatis,mother,Q21517990,Αγάπη Μολυβιάτη
 Greece,Q12877311,Evangelos Yannopoulos,spouse,Q26933726,Ντιντή Γιαννοπούλου
 Greece,Q12877513,Zoi Konstantopoulou,father,Q3347276,Nikos Konstantopoulos
-Greece,Q12879717,Konstantinos Tsoukalas,father,Q12872072,Ange Tsoukalas
-Greece,Q12879717,Konstantinos Tsoukalas,spouse,Q113041921,Φωτεινή Τσαλίκογλου
+Greece,Q12879717,Constantine Tsoucalas,father,Q12872072,Ange Tsoukalas
+Greece,Q12879717,Constantine Tsoucalas,spouse,Q113041921,Φωτεινή Τσαλίκογλου
 Greece,Q12881047,Miltiades Varvitsiotis,father,Q1428443,Ioannis Varvitsiotis
 Greece,Q12881764,Nikos Alivizatos,father,Q12879618,Konstantinos Alivizatos
 Greece,Q12881764,Nikos Alivizatos,mother,Q16766183,Lili Theotoka
@@ -7986,7 +7992,7 @@ Iraq,Q1316,Saddam Hussein,father,Q16051068,Hussein 'Abid al-Majid
 Iraq,Q1316,Saddam Hussein,spouse,Q253660,Sajida Talfah
 Iraq,Q1316,Saddam Hussein,spouse,Q3079292,Samira Shahbandar
 Iraq,Q1351888,Hussain al-Shahristani,sibling,Q72977853,Salih al-Shahristani
-Iraq,Q1595996,Usama al-Nujayfi,sibling,Q12178359,Atheel al-Nujaifi
+Iraq,Q1595996,Usama al-Nujayfi,sibling,Q12178359,Atheel al-Nujayfi
 Iraq,Q17410819,Fuad Masum,child,Q17198142,Juwan Fouad Masum
 Iraq,Q2508477,Sultan Hashim Ahmad al-Tai,child,Q111379230,Khaled Sultan Hashim
 Iraq,Q253660,Sajida Talfah,child,Q272154,Raghad Hussein
@@ -11953,6 +11959,7 @@ Portugal,Q610788,António Costa,mother,Q60181119,Maria Antónia Palla
 Portugal,Q610788,António Costa,sibling,Q7322603,Ricardo Costa
 Portugal,Q611579,António de Almeida Santos,child,Q107122950,Maria Antónia de Almeida Santos
 Portugal,Q6205661,Joana Amaral Dias,father,Q9696852,Carlos Amaral Dias
+Portugal,Q65498266,Ana Catarina Mendes,sibling,Q115525434,António Mendonça Mendes
 Portugal,Q6756617,Marcelo Rebelo de Sousa,father,Q4852623,Baltasar Rebelo de Sousa
 Portugal,Q6756617,Marcelo Rebelo de Sousa,mother,Q83277701,Maria das Neves Rebelo de Sousa
 Portugal,Q85872071,Francisco Vale César,father,Q2571494,Carlos César
@@ -13140,9 +13147,9 @@ South Africa,Q101547,Thabo Mbeki,father,Q1396109,Govan Mbeki
 South Africa,Q101547,Thabo Mbeki,mother,Q4963108,Epainette Mbeki
 South Africa,Q101547,Thabo Mbeki,sibling,Q1942360,Moeletsi Mbeki
 South Africa,Q101547,Thabo Mbeki,spouse,Q24053602,Zanele Dlamini Mbeki
-South Africa,Q1148669,Matamela Cyril Ramaphosa,father,Q107184362,Tshivhase Samuel Ramaphosa
-South Africa,Q1148669,Matamela Cyril Ramaphosa,mother,Q107184361,Nyamuofhe Erdmuth Ramaphosa
-South Africa,Q1148669,Matamela Cyril Ramaphosa,spouse,Q24234163,Tshepo Motsepe
+South Africa,Q1148669,Cyril Ramaphosa,father,Q107184362,Tshivhase Samuel Ramaphosa
+South Africa,Q1148669,Cyril Ramaphosa,mother,Q107184361,Nyamuofhe Erdmuth Ramaphosa
+South Africa,Q1148669,Cyril Ramaphosa,spouse,Q24234163,Tshepo Motsepe
 South Africa,Q150276,Nkosazana Dlamini-Zuma,child,Q18394313,Thuthukile Zuma
 South Africa,Q150276,Nkosazana Dlamini-Zuma,child,Q29622258,Gugulethu Zuma-Ncube
 South Africa,Q150276,Nkosazana Dlamini-Zuma,spouse,Q57282,Jacob Zuma
@@ -17650,7 +17657,7 @@ United Kingdom,Q30172941,Emma Dent Coad,spouse,Q75874410,"Sir Hadley Gregory D'O
 United Kingdom,Q30173119,Preet Gill,father,Q5211060,Daljit Singh Shergill
 United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",child,Q75356236,"Sebastian Seymour, Lord Seymour"
 United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",child,Q75356237,Lord Charles Seymour
-United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",child,Q75356239,Lady Sophia Seymour
+United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",child,Q75356239,Sophia Laura Seymour
 United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",child,Q75356240,Lady Henrietta Seymour
 United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",father,Q6841169,"Percy Seymour, 18th Duke of Somerset"
 United Kingdom,Q3021576,"John Seymour, 19th Duke of Somerset",mother,Q75267415,Jane Thomas
@@ -22778,6 +22785,7 @@ World,Q65394,Herta Däubler-Gmelin,father,Q1579835,Hans Gmelin
 World,Q65394,Herta Däubler-Gmelin,spouse,Q2589482,Wolfgang Däubler
 World,Q65497226,Takis Hadjidemetriou,sibling,Q12872536,Ēbē Meleagrou
 World,Q65497964,Indrek Meelak,mother,Q22696648,Malle Meelak
+World,Q65498266,Ana Catarina Mendes,sibling,Q115525434,António Mendonça Mendes
 World,Q6551575,Linda Frum,father,Q47582135,Murray Frum
 World,Q6551575,Linda Frum,mother,Q2883940,Barbara Frum
 World,Q6551575,Linda Frum,sibling,Q1174481,David Frum
