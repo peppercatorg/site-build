@@ -923,6 +923,7 @@ Bangladesh,Q57137802,Md. Rahamat Ali,child,Q85265390,Rumana Ali
 Bangladesh,Q57485,Zillur Rahman,child,Q16345704,Nazmul Hasan Papon
 Bangladesh,Q57485,Zillur Rahman,spouse,Q6099929,Ivy Rahman
 Bangladesh,Q58264,Dipu Moni,father,Q25752728,MA Wadud
+Bangladesh,Q58264,Dipu Moni,spouse,Q110592214,Tawfique Nawaz
 Bangladesh,Q59780854,Mr. Rejwan Ahammad Taufiq,father,Q3246667,Abdul Hamid
 Bangladesh,Q59780854,Mr. Rejwan Ahammad Taufiq,mother,Q93723234,Rashida Hamid
 Bangladesh,Q6400209,Khandaker Mosharraf Hossain,child,Q106769834,Khandakar Masrur Hossain Mitu
@@ -1355,7 +1356,7 @@ Brazil,Q2738543,Esperidião Amin,child,Q19710163,João Amin
 Brazil,Q2738543,Esperidião Amin,spouse,Q10396106,Ângela Amin
 Brazil,Q2875339,Aécio Neves,father,Q9641851,Aécio Ferreira da Cunha
 Brazil,Q2875339,Aécio Neves,sibling,Q9614803,Andréa Neves da Cunha
-Brazil,Q29474202,Luiz Philippe of Orléans-Braganza,father,Q7243973,Prince Eudes of Orléans-Braganza
+Brazil,Q29474202,Luiz Philippe of Orléans-Braganza,father,Q7243973,Prince Eudes of Brazil
 Brazil,Q29474202,Luiz Philippe of Orléans-Braganza,mother,Q75392818,Ana Maria de Moraes e Carmo
 Brazil,Q3050853,Roseana Sarney,father,Q244997,José Sarney
 Brazil,Q3050853,Roseana Sarney,sibling,Q10281520,Fernando Sarney
@@ -4350,6 +4351,7 @@ European Union,Q443342,Marcin Libicki,sibling,Q17501801,Jacek Libicki
 European Union,Q444093,Athanasios Plevris,father,Q669418,Konstantinos Plevris
 European Union,Q446042,Vital Moreira,spouse,Q22252746,Maria Manuel Leitão Marques
 European Union,Q446685,Gerry Collins,father,Q6131578,James Collins
+European Union,Q446685,Gerry Collins,sibling,Q6829379,Michael Collins
 European Union,Q446794,Rita Borsellino,sibling,Q312302,Paolo Borsellino
 European Union,Q446794,Rita Borsellino,sibling,Q3945973,Salvatore Borsellino
 European Union,Q446995,Margie Sudre,spouse,Q2935074,Camille Sudre
@@ -8129,6 +8131,9 @@ Ireland,Q631505,Michael P. Kitt,sibling,Q249955,Áine Brady
 Ireland,Q6376580,Katherine Zappone,spouse,Q19957898,Ann Louise Gilligan
 Ireland,Q6405442,Kieran O'Donnell,relative,Q1000314,Tom O'Donnell
 Ireland,Q6776147,Martin McAleese,spouse,Q174662,Mary McAleese
+Ireland,Q6829379,Michael Collins,father,Q6131578,James Collins
+Ireland,Q6829379,Michael Collins,relative,Q7023861,Niall Collins
+Ireland,Q6829379,Michael Collins,sibling,Q446685,Gerry Collins
 Ireland,Q6831036,Michael Healy-Rae,father,Q6116405,Jackie Healy-Rae
 Ireland,Q6831036,Michael Healy-Rae,sibling,Q23006320,Danny Healy-Rae
 Ireland,Q7459463,Seán Ardagh,child,Q24196930,Catherine Ardagh
@@ -8259,6 +8264,8 @@ Israel,Q3014683,Daniel Shek,spouse,Q30526568,Emilie Moatti
 Israel,Q30526568,Emilie Moatti,spouse,Q3014683,Daniel Shek
 Israel,Q30526568,Emilie Moatti,spouse,Q99336010,Charles Zrihen
 Israel,Q3593286,Omer Bar-Lev,father,Q467150,Haim Bar-Lev
+Israel,Q3593944,Orit Strook,father,Q108101296,יהודה כהן
+Israel,Q3593944,Orit Strook,relative,Q16132462,Mária Kecskeméti
 Israel,Q360961,Natan Sharansky,father,Q55103590,Boris Shcharansky
 Israel,Q360961,Natan Sharansky,mother,Q97155837,Ida Milgrom
 Israel,Q360961,Natan Sharansky,spouse,Q23304251,Avital Sharansky
@@ -8493,6 +8500,7 @@ Italy,Q294460,Mario Draghi,child,Q107604158,Giacomo Draghi
 Italy,Q294460,Mario Draghi,sibling,Q105283563,Andreina Draghi
 Italy,Q3028404,Dino Viérin,child,Q42514248,Laurent Viérin
 Italy,Q3080973,Francesco Giro,sibling,Q3293449,Mario Giro
+Italy,Q3115881,Grazia Francescato,sibling,Q30014602,Donata Francescato
 Italy,Q312058,Emilio Colombo,sibling,Q112184698,Pasquale Colombo
 Italy,Q319547,Walter Veltroni,father,Q4015575,Vittorio Veltroni
 Italy,Q319547,Walter Veltroni,mother,Q15310642,Ivanka Kotnik
@@ -8756,6 +8764,7 @@ Japan,Q11467981,Tsutomu Yamazaki,relative,Q11468042,Iwao Yamazaki
 Japan,Q11472782,Kazumasa Okajima,father,Q11472788,Masayuki Okajima
 Japan,Q11500493,Jūrō Saitō,father,Q11500588,Noboru Saitō
 Japan,Q11516489,Arimura Haruko,father,Q41552397,有村國宏
+Japan,Q11518222,Seiji Kihara,sibling,Q115528958,木原正裕
 Japan,Q11518790,Tarō Kimura,father,Q11518804,Morio Kimura
 Japan,Q11518790,Tarō Kimura,relative,Q48764999,木村文男
 Japan,Q11518790,Tarō Kimura,sibling,Q41770594,Jirō Kimura
@@ -11727,6 +11736,9 @@ Poland,Q11718864,Jan Emeryk Rościszewski,father,Q55771269,Marcin Rościszewski
 Poland,Q11719272,Jan Tombiński,spouse,Q107466227,Agnieszka Tombińska
 Poland,Q11720924,Jarosław Lindenberg,sibling,Q9281948,Grzegorz Lindenberg
 Poland,Q11727452,Joanna Lichocka,mother,Q9285403,Halina Lichocka
+Poland,Q11742962,Konstanty Radziwiłł,father,Q75945162,Prince Olbrecht Radziwill
+Poland,Q11742962,Konstanty Radziwiłł,mother,Q93160862,Anna Maria Ksawera Czartoryski
+Poland,Q11742962,Konstanty Radziwiłł,sibling,Q6514175,Maciej Radziwiłł
 Poland,Q11749720,Krzysztof Szczerski,sibling,Q9153706,Andrzej Szczerski
 Poland,Q11768474,Marek Sowa,sibling,Q11738343,Kazimierz Sowa
 Poland,Q11769295,Marian Banaś,child,Q77248141,Jakub Banaś
@@ -15986,7 +15998,7 @@ United Kingdom,Q16061349,Cranley Onslow,child,Q75604085,Katharine Onslow
 United Kingdom,Q16061349,Cranley Onslow,father,Q76247817,Francis Robert Douglas Onslow
 United Kingdom,Q16061349,Cranley Onslow,mother,Q76247819,Mabel Strachan
 United Kingdom,Q16061349,Cranley Onslow,spouse,Q75604065,Lady June Hay
-United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q75570836,John Chilver
+United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q75570836,
 United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q75570839,Mark Chilver
 United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q75570840,Paul Chilver
 United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q75570842,Helen Chilver
@@ -19956,6 +19968,7 @@ United Kingdom,Q6418606,Kitty Ussher,child,Q76096748,Elizabeth Susan Colley
 United Kingdom,Q6418606,Kitty Ussher,child,Q76096750,George Patrick Colley
 United Kingdom,Q6418606,Kitty Ussher,father,Q75785959,Patrick David Lance Ussher
 United Kingdom,Q6418606,Kitty Ussher,mother,Q75785961,Susan Margaret Bottomley
+United Kingdom,Q6418606,Kitty Ussher,spouse,Q76096746,Peter J. Colley
 United Kingdom,Q64325,"Frederick Ponsonby, 4th Baron Ponsonby of Shulbrede",father,Q7793206,"Thomas Ponsonby, 3rd Baron Ponsonby of Shulbrede"
 United Kingdom,Q64325,"Frederick Ponsonby, 4th Baron Ponsonby of Shulbrede",mother,Q75310216,Ursula Mary Fox-Pitt
 United Kingdom,Q64460,"Susan Miller, Baroness Miller of Chilthorne Domer",child,Q76268019,Charlotte Sarah Miller
@@ -21923,6 +21936,9 @@ United States,Q7800620,Tick Segerblom,mother,Q5531443,Gene Segerblom
 United States,Q780398,Bob Wise,spouse,Q7416569,Sandra Casber Wise
 United States,Q7817389,Tom Riner,spouse,Q111718103,Claudia Riner
 United States,Q7821917,Antony Blinken,father,Q84323643,Donald M. Blinken
+United States,Q7821917,Antony Blinken,relative,Q2729586,Samuel Pisar
+United States,Q7821917,Antony Blinken,relative,Q4706196,Alan Blinken
+United States,Q7821917,Antony Blinken,relative,Q6810224,Meir Blinken
 United States,Q7821917,Antony Blinken,spouse,Q5415533,Evan Ryan
 United States,Q7821917,Antony Blinken,stepparent,Q2729586,Samuel Pisar
 United States,Q7821974,Anthony M. Bucco,father,Q4772169,Anthony Bucco
