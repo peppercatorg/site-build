@@ -3970,6 +3970,7 @@ European Union,Q16948845,Bergur Løkke Rasmussen,mother,Q1315326,Sólrun Løkke 
 European Union,Q16948845,Bergur Løkke Rasmussen,partner,Q64168570,Aran Katarina Kirschenmann
 European Union,Q16975892,Elly Schlein,father,Q114159654,Melvin Robert Schlein
 European Union,Q16975892,Elly Schlein,mother,Q61612472,Maria Paola Viviani Schlein
+European Union,Q16975892,Elly Schlein,sibling,Q115609235,Susanna Schlein
 European Union,Q16975892,Elly Schlein,sibling,Q30337338,Benjamin Schlein
 European Union,Q16979883,Seb Dance,spouse,Q7576121,Spencer Livermore
 European Union,Q16980118,Liadh Ní Riada,father,Q1398397,Seán Ó Riada
@@ -11017,6 +11018,7 @@ Pakistan,Q18816116,Rajab Ali Khan,spouse,Q56065183,Aysha Rajab Ali
 Pakistan,Q18816140,Malik Ihtebar Khan,father,Q6743564,Malik Allahyar Khan
 Pakistan,Q19517950,Nafeesa Inayatullah Khan Khattak,relative,Q13579848,Pervez Khattak
 Pakistan,Q19517992,Tahira Aurangzeb,child,Q16442103,Maryam Aurangzaib
+Pakistan,Q19517992,Tahira Aurangzeb,sibling,Q26703132,Najma Hameed
 Pakistan,Q19662586,Syed Shibli Faraz,father,Q379507,Ahmad Faraz
 Pakistan,Q20819559,Hasnain Ali Mirza,father,Q228805,Zulfiqar Mirza
 Pakistan,Q20819559,Hasnain Ali Mirza,mother,Q2371076,Fahmida Mirza
@@ -11040,6 +11042,7 @@ Pakistan,Q254122,Hina Rabbani Khar,sibling,Q55956354,Raza Rabbani Khar
 Pakistan,Q254122,Hina Rabbani Khar,spouse,Q96953192,Firoze Gulzar
 Pakistan,Q26132883,Murad Ali Shah,father,Q27995800,Syed Abdullah Ali Shah
 Pakistan,Q2621352,Muhammad Ijaz-ul-Haq,father,Q200499,Muhammad Zia-ul-Haq
+Pakistan,Q26703132,Najma Hameed,sibling,Q19517992,Tahira Aurangzeb
 Pakistan,Q2827449,Ahmad Mukhtar,sibling,Q4695453,Saeed Ahmad
 Pakistan,Q2842534,Amir Haider Azam Khan,father,Q6677741,Azam Khan Hoti
 Pakistan,Q2866576,Ashraf Qazi,mother,Q4308284,Jennifer Musa
@@ -12374,7 +12377,7 @@ Russia,Q58217,Sergey Lavrov,spouse,Q17287782,Maria Lavrova
 Russia,Q589645,Anton Siluanov,father,Q61875753,Герман Михайлович Силуанов
 Russia,Q60220292,Aleksey Krasnoshtanov,child,Q108684903,Anton Krasnoshtanov
 Russia,Q60322844,Aleksandr Kozlovskiy,father,Q48954963,"Козловский, Николай Николаевич"
-Russia,Q60345819,Yuri Kobzev,father,Q24642628,"Кобзев, Виктор Анатольевич"
+Russia,Q60345819,Yuri Kobzev,father,Q24642628,Viktor Kobzev
 Russia,Q60389401,Alexander Yakubovsky,father,Q4537160,Vladimir Yakubovsky
 Russia,Q60828361,Alexey Kondratenko,father,Q4230550,Nikolai Kondratenko
 Russia,Q6097047,Ivan Musatov,father,Q14920892,Mikhail Musatov
@@ -13370,6 +13373,7 @@ Spain,Q11685445,Joseba Álvarez,father,Q1019186,Txillardegi
 Spain,Q11689876,Luis Planas,relative,Q9013237,Josep Maria Planes i Martí
 Spain,Q11690740,Manuela de Madre,spouse,Q11905846,Antoni Fogué i Moya
 Spain,Q11692643,Miguel Buen,sibling,Q11922959,Francisco Buen Lacambra
+Spain,Q11698889,Pere Macias,spouse,Q24632635,Assumpta Farran i Poca
 Spain,Q11703587,Santiago Abascal Conde,father,Q33523898,Santiago Abascal Escuza
 Spain,Q11703587,Santiago Abascal Conde,relative,Q63948239,Begoña Conde Álvarez
 Spain,Q11905508,Andreu Crespí Plaza,father,Q16190060,Andreu Crespí i Salom
@@ -14533,6 +14537,7 @@ Taiwan,Q8347775,Chiu Yi-ying,spouse,Q9206928,Lee Yung-te
 Taiwan,Q8347820,Chen Ting-fei,sibling,Q17502266,Chen Yi-chen
 Taiwan,Q8348414,Kao Chia-yu,partner,Q109931829,Lin Ping-su
 Taiwan,Q8348653,Huang Wei-cher,sibling,Q11176444,Joyce Huang
+Taiwan,Q8348653,Huang Wei-cher,sibling,Q28416299,Huang Chongyan
 Taiwan,Q8348768,Ho Min-hao,father,Q15936097,He Chunmu
 Taiwan,Q8348768,Ho Min-hao,sibling,Q8348511,Ho Min-cheng
 Taiwan,Q8348951,Hsueh Ling,child,Q16926490,Ho Chih-wei

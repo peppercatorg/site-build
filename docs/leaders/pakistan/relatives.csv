@@ -45,6 +45,7 @@ Pakistan,Q18816116,Rajab Ali Khan,spouse,Q56065183,Aysha Rajab Ali
 Pakistan,Q18816140,Malik Ihtebar Khan,father,Q6743564,Malik Allahyar Khan
 Pakistan,Q19517950,Nafeesa Inayatullah Khan Khattak,relative,Q13579848,Pervez Khattak
 Pakistan,Q19517992,Tahira Aurangzeb,child,Q16442103,Maryam Aurangzaib
+Pakistan,Q19517992,Tahira Aurangzeb,sibling,Q26703132,Najma Hameed
 Pakistan,Q19662586,Syed Shibli Faraz,father,Q379507,Ahmad Faraz
 Pakistan,Q20819559,Hasnain Ali Mirza,father,Q228805,Zulfiqar Mirza
 Pakistan,Q20819559,Hasnain Ali Mirza,mother,Q2371076,Fahmida Mirza
@@ -68,6 +69,7 @@ Pakistan,Q254122,Hina Rabbani Khar,sibling,Q55956354,Raza Rabbani Khar
 Pakistan,Q254122,Hina Rabbani Khar,spouse,Q96953192,Firoze Gulzar
 Pakistan,Q26132883,Murad Ali Shah,father,Q27995800,Syed Abdullah Ali Shah
 Pakistan,Q2621352,Muhammad Ijaz-ul-Haq,father,Q200499,Muhammad Zia-ul-Haq
+Pakistan,Q26703132,Najma Hameed,sibling,Q19517992,Tahira Aurangzeb
 Pakistan,Q2827449,Ahmad Mukhtar,sibling,Q4695453,Saeed Ahmad
 Pakistan,Q2842534,Amir Haider Azam Khan,father,Q6677741,Azam Khan Hoti
 Pakistan,Q2866576,Ashraf Qazi,mother,Q4308284,Jennifer Musa
