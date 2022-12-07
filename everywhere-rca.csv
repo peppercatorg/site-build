@@ -3618,6 +3618,7 @@ Estonia,Q2063457,Eldar Efendijev,father,Q50375405,Faik Efendijev
 Estonia,Q2063457,Eldar Efendijev,mother,Q50375406,Aino Kikerist
 Estonia,Q2067037,Peep Aru,father,Q50375246,Kalju Aru
 Estonia,Q2067037,Peep Aru,mother,Q50375247,Llle-Heilen Aru
+Estonia,Q20933509,Liina Kersna,spouse,Q12377988,Vahur Kersna
 Estonia,Q20933560,Martin Repinski,spouse,Q12375092,Siret Kotka-Repinski
 Estonia,Q21009735,Liisa Oviir,father,Q1577141,Mihkel Oviir
 Estonia,Q21009735,Liisa Oviir,mother,Q272240,Siiri Oviir
@@ -6317,7 +6318,7 @@ Guatemala,Q182441,Alfonso Portillo,spouse,Q47825878,Evelyn Morataya
 Guatemala,Q182441,Alfonso Portillo,spouse,Q6003776,María Eugenia González
 Guatemala,Q1846075,Zury Ríos,father,Q467077,Efraín Ríos Montt
 Guatemala,Q1846075,Zury Ríos,mother,Q50349730,María Teresa Sosa
-Guatemala,Q1846075,Zury Ríos,spouse,Q57421290,Gregory Charles Smith
+Guatemala,Q1846075,Zury Ríos,spouse,Q57421290,Gregory Smith
 Guatemala,Q1846075,Zury Ríos,spouse,Q740636,Jerry Weller
 Guatemala,Q19914009,Alejandro Maldonado Aguirre,spouse,Q20900212,Ana Fagianni de Maldonado
 Guatemala,Q2134696,Alejandro Giammattei,child,Q82295478,Marcela Giammattei
@@ -10121,6 +10122,7 @@ Netherlands,Q159840,Ruud Lubbers,child,Q2778414,Bart Lubbers
 Netherlands,Q159840,Ruud Lubbers,spouse,Q2206095,Ria Hoogeweegen
 Netherlands,Q1677559,Jacob Kohnstamm,father,Q660745,Max Kohnstamm
 Netherlands,Q16912128,Jan Paternotte,spouse,Q110520415,Lise-Lotte Kerkhof
+Netherlands,Q18638497,Corinne Ellemeet,spouse,Q21548081,W.J. Veraart
 Netherlands,Q18692811,Erik Ronnes,father,Q2626855,Jan Ronnes
 Netherlands,Q1882072,Lilian Marijnissen,father,Q1396958,Jan Marijnissen
 Netherlands,Q1882072,Lilian Marijnissen,mother,Q1961129,Mari-Anne Marijnissen
@@ -11336,6 +11338,7 @@ Philippines,Q112317708,Nina Ynares,mother,Q65974925,Rebecca Ynares
 Philippines,Q112317708,Nina Ynares,sibling,Q97273715,Casimiro Ynares III
 Philippines,Q112660482,Sandro Marcos,father,Q983324,Bongbong Marcos
 Philippines,Q112660482,Sandro Marcos,mother,Q35283279,Louise Araneta Marcos
+Philippines,Q115615639,Edcel Greco Lagman,father,Q5335744,Edcel Lagman
 Philippines,Q11845136,Lucy Torres-Gomez,spouse,Q6108639,Richard Gomez
 Philippines,Q123665,Gloria Macapagal Arroyo,child,Q1858359,Mikey Arroyo
 Philippines,Q123665,Gloria Macapagal Arroyo,child,Q5279602,Diosdado Macapagal–Arroyo
@@ -11577,6 +11580,7 @@ Philippines,Q4888170,"Benjamin Abalos, Jr.",father,Q2347366,Benjamin Abalos
 Philippines,Q5279602,Diosdado Macapagal–Arroyo,father,Q46340,Jose Miguel Arroyo
 Philippines,Q5279602,Diosdado Macapagal–Arroyo,mother,Q123665,Gloria Macapagal Arroyo
 Philippines,Q5279602,Diosdado Macapagal–Arroyo,sibling,Q1858359,Mikey Arroyo
+Philippines,Q5335744,Edcel Lagman,child,Q115615639,Edcel Greco Lagman
 Philippines,Q5335744,Edcel Lagman,sibling,Q107426232,Hermón Lagman
 Philippines,Q5335744,Edcel Lagman,sibling,Q5448378,Filemon Lagman
 Philippines,Q5396218,Erwin Tulfo,sibling,Q7289886,Ramon Tulfo
