@@ -89,6 +89,7 @@ World,Q1274581,Peter Schieder,child,Q500389,Andreas Schieder
 World,Q1285208,Sefer Halilović,child,Q18609295,Semir Halilović
 World,Q12866195,Levan Berdzenishvili,sibling,Q12863555,Davit Berdzenishvili
 World,Q12881047,Miltiades Varvitsiotis,father,Q1428443,Ioannis Varvitsiotis
+World,Q1296492,Efraim Sneh,father,Q1338975,Moshe Sneh
 World,Q13043722,Olta Xhaçka,spouse,Q19931525,Artan Gaçi
 World,Q13105458,Yves Cruchten,father,Q66720374,Alphonse Cruchten
 World,Q1317281,Miguel Arias Cañete,spouse,Q99976362,Micaela Domecq Solís-Beaumont
@@ -109,6 +110,8 @@ World,Q1374371,Jaroslav Lobkowicz,sibling,Q10857519,Filip Zdeněk Lobkowicz
 World,Q1374371,Jaroslav Lobkowicz,sibling,Q324042,František Lobkowicz
 World,Q1374371,Jaroslav Lobkowicz,sibling,Q65938587,Polyxena Czerninová
 World,Q1374371,Jaroslav Lobkowicz,spouse,Q75380416,Elizabeth de Vienne
+World,Q1380540,Matan Vilnai,father,Q2335167,Zev Vilnay
+World,Q1382032,Frank Mahovlich,sibling,Q432389,Peter Mahovlich
 World,Q1382799,Rik Daems,spouse,Q2020669,Sophie Pécriaux
 World,Q1399049,Ignasi Guardans,father,Q11944599,Ramon Guardans i Vallès
 World,Q1399049,Ignasi Guardans,mother,Q11925350,Helena Cambó i Mallol
@@ -295,8 +298,11 @@ World,Q27999127,Pablo Bustinduy,father,Q23071126,Javier Bustinduy
 World,Q27999127,Pablo Bustinduy,mother,Q3327529,Ángeles Amador Millán
 World,Q285249,Ann Clwyd,spouse,Q16591980,Owen Roberts
 World,Q286466,Charles Goerens,father,Q28045006,Gust Goerens
+World,Q2868553,Astrid Thors,father,Q6209392,Carl-Eric Thors
 World,Q287892,Ana Mato Adrover,sibling,Q548970,Gabriel Mato Adrover
 World,Q287892,Ana Mato Adrover,spouse,Q5930664,Jesús Sepúlveda Recio
+World,Q289350,Ngozi Okonjo-Iweala,child,Q1328771,Uzodinma Iweala
+World,Q289350,Ngozi Okonjo-Iweala,father,Q107237557,Chukwuka Okonjo
 World,Q290689,Nataliya Vitrenko,child,Q16695896,Vitrenko Yuriy Yuriyovytch
 World,Q291502,Stella Creasy,father,Q75716705,Philip Charles Creasy
 World,Q291502,Stella Creasy,mother,Q75716699,Corinna Frances Avril Martin
@@ -571,6 +577,8 @@ World,Q6030080,Mikael Oscarsson,sibling,Q18244900,Magnus Oscarsson
 World,Q6061291,Ayşe Gülsün Bilgehan,father,Q3277055,Metin Toker
 World,Q6061291,Ayşe Gülsün Bilgehan,mother,Q6021707,Özden Toker
 World,Q6067727,Şaban Dişli,sibling,Q113084387,Mehmet Dişli
+World,Q6069855,Irina Krohn,father,Q16300117,Kai Krohn
+World,Q6069855,Irina Krohn,mother,Q115631660,Aura Leena Anelma of Salo
 World,Q6069855,Irina Krohn,sibling,Q16300118,Minerva Krohn
 World,Q6069855,Irina Krohn,sibling,Q5395273,Katja Krohn
 World,Q6071042,Mesude Nursuna Memecan,relative,Q372862,Nuri Demirağ
@@ -607,6 +615,7 @@ World,Q6376580,Katherine Zappone,spouse,Q19957898,Ann Louise Gilligan
 World,Q64325,"Frederick Ponsonby, 4th Baron Ponsonby of Shulbrede",father,Q7793206,"Thomas Ponsonby, 3rd Baron Ponsonby of Shulbrede"
 World,Q64325,"Frederick Ponsonby, 4th Baron Ponsonby of Shulbrede",mother,Q75310216,Ursula Mary Fox-Pitt
 World,Q6440112,Krzysztof Brejza,father,Q9324613,Ryszard Brejza
+World,Q652581,Haim Ramon,spouse,Q107392998,Vered Ramon-Rivlin
 World,Q65394,Herta Däubler-Gmelin,father,Q1579835,Hans Gmelin
 World,Q65394,Herta Däubler-Gmelin,spouse,Q2589482,Wolfgang Däubler
 World,Q65497226,Takis Hadjidemetriou,sibling,Q12872536,Ēbē Meleagrou

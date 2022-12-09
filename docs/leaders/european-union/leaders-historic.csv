@@ -1,6 +1,6 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 European Union,President of the European Commission,Romano Prodi,Q38484,1999-09-16,2004-10-30,male,1939-08-09,,Romano Prodi - Giornata Autonomia 2014.JPG,Romano Prodi
-European Union,President of the European Commission,José Manuel Durão Barroso,Q15849,2004-11-22,2014-10-31,male,1956-03-23,,José Manuel Barroso MEDEF 2.jpg,José Manuel Barroso
+European Union,President of the European Commission,José Manuel Durão Barroso,Q15849,2004-11-22,2014-10-31,male,1956-03-23,,José Manuel Barroso (cropped).jpg,José Manuel Barroso
 European Union,President of the European Commission,Jean-Claude Juncker,Q57661,2014-11-01,2019-11-30,male,1954-12-09,,Jean-Claude Juncker April 2019.jpg,Jean-Claude Juncker
 European Union,President of the European Commission,Ursula von der Leyen,Q60772,2019-12-01,,female,1958-10-08,,Official Portrait of Ursula von der Leyen.jpg,Ursula von der Leyen
 European Union,Vice-President of the European Commission,Margot Wallström,Q237522,2004-11-22,2010-02-09,female,1954-09-28,,Margot Wahlstrom Sveriges EU-kommissionar.jpg,Margot Wallström
@@ -195,9 +195,24 @@ European Union,President of the European Parliament,Antonio Tajani,Q440710,2017-
 European Union,President of the European Parliament,David Sassoli,Q2391857,2019-07-03,2022-01-11,male,1956-05-30,2022-01-11,"Official portrait of David Sassoli, president of the European Parliament.jpg",David Sassoli
 European Union,President of the European Parliament,Roberta Metsola,Q7351526,2022-01-11,2022-01-18,female,1979-01-18,,Roberta Metsola January 2022.jpg,Roberta Metsola
 European Union,President of the European Parliament,Roberta Metsola,Q7351526,2022-01-18,,female,1979-01-18,,Roberta Metsola January 2022.jpg,Roberta Metsola
+European Union,Vice President of the European Parliament,António Costa,Q610788,2004-07-20,2005-03-11,male,1961-07-17,,2022 - On the floor SZ9 6059 (52471866651) (cropped).jpg,António Costa
+European Union,Vice President of the European Parliament,Pál Schmitt,Q184810,2009-07-14,2010-05-13,male,1942-05-13,,SchmittPal-2011-01 EuropaPont.jpg,Pál Schmitt
+European Union,Vice President of the European Parliament,László Tőkés,Q535922,2010,2012,male,1952-04-01,,Tőkés László 2007.JPG,László Tőkés
+European Union,Vice President of the European Parliament,Ramón Luis Valcárcel Siso,Q1021708,2014-07-01,2019-07-01,male,1954-11-16,,EPP Summit March 2011 Ramón Luis Valcárcel Siso.jpg,Ramón Luis Valcárcel
+European Union,Vice President of the European Parliament,Adina-Ioana Vălean,Q274739,2014-07-01,2017-01-18,female,1968-02-16,,Hearing of Adina-Ioana Vălean (Romania)- Commissioner Designate - European Green Deal (49063874993) (cropped).jpg,Adina-Ioana Vălean
+European Union,Vice President of the European Parliament,Olli Rehn,Q294411,2014-07-01,2015-04-26,male,1962-03-31,,Olli Rehn by Moritz Kosinsky 2.jpg,Olli Rehn
+European Union,Vice President of the European Parliament,Mairead McGuinness,Q467633,2014-07-01,,female,1959-06-13,,"Mairead McGuinness, Ireland-MIP-Europaparlament-by-Leila-Paul-1.jpg",Mairead McGuinness
+European Union,Vice President of the European Parliament,Alexander Graf Lambsdorff,Q71763,2014-07-01,2017-10-23,male,1966-11-05,,2022-09-05 hart aber fair by Sandro Halank–004.jpg,Alexander Graf Lambsdorff
+European Union,Vice President of the European Parliament,Ulrike Lunacek,Q89398,2014-07-01,2017-11-08,female,1957-05-26,,Ulrike Lunacek April 2014 (cropped).jpg,Ulrike Lunacek
+European Union,Vice President of the European Parliament,Marcel Kolaja,Q1485198,2019-07-02,2022-01-18,male,1980-06-29,,Marcel Kolaja 4 January 2021.jpg,Marcel Kolaja
+European Union,Vice President of the European Parliament,Pedro Silva Pereira,Q2066785,2019-07-03,,male,1962-08-15,,"Pedro Silva Pereira, Festa de Natal do PS Montalegre de 2015.png",Pedro Silva Pereira
+European Union,Vice President of the European Parliament,Klára Dobrev,Q716486,2019-07-03,,female,1972-02-02,,"Vice-president, Ms. Dobrev is chairing the plenary at Monday evening (48745205207).jpg",Klára Dobrev
+European Union,Vice President of the European Parliament,Roberta Metsola,Q7351526,2020-11-12,2022-01-11,female,1979-01-18,,Roberta Metsola January 2022.jpg,Roberta Metsola
+European Union,Vice President of the European Parliament,Giuseppina Picierno,Q3905080,2022-01-18,,female,1981-05-10,,Giuseppina Picierno daticamera.jpg,Pina Picierno
 European Union,ambassador to Belarus,Ľubomír Rehák,Q60687933,2007,,male,1970-02-24,,Ľubomír Rehák.jpg,Ľubomír Rehák
 European Union,ambassador to Belarus,Andrea Joana-Maria Wiktorin,Q494153,2015-09,,female,1957-12-13,,Andrea Joana-Maria Wiktorin.jpg,Andrea Joana-Maria Wiktorin
 European Union,ambassador to Belarus,Dirk Schuebel,Q5280872,2019,,male,1958-05-07,,,Dirk Schuebel
+European Union,ambassador to Ivory Coast,Jean-François Valette,Q1684859,2015,,male,1952-07-05,,,
 European Union,ambassador to Japan,Hugh Richardson,Q96944157,2009,2010,male,1947-05-12,,,
 European Union,ambassador to Japan,Patricia Flor,Q2057179,2018,2022,female,1961-10-19,,Patricia Flor (cropped).jpg,Patricia Flor
 European Union,ambassador to Moldova,Cesare de Montis,Q5065520,2005-10,2009-11,male,1958-05-07,,,Cesare de Montis
@@ -210,4 +225,8 @@ European Union,ambassador to Ukraine,José Manuel Pinto Teixeira,Q12104748,2008-
 European Union,ambassador to Ukraine,Jan Tombiński,Q11719272,2012-09,2016-09,male,1958-10-04,,Jan Tombiński.jpg,Jan Tombiński
 European Union,ambassador to Ukraine,Hugues Mingarelli,Q25441674,2016-09,2019-09,male,1954,,,
 European Union,ambassador to Ukraine,Matti Maasikas,Q16407368,2019-09,,male,1967-06-12,,Matti Maasikas.jpg,Matti Maasikas
+European Union,ambassador to the United States,John Bruton,Q333701,2004-11-24,2009-10-31,male,1947-05-18,,BrutonJohn.png,John Bruton
+European Union,ambassador to the United States,João Vale de Almeida,Q1710211,2010-08-10,2014-10-31,male,1957-01-29,,João Vale de Almeida 2011.jpg,João Vale de Almeida
+European Union,ambassador to the United States,David O'Sullivan,Q3018548,2014-11-01,2019-03-04,male,1953-03-01,,"David O’Sullivan, European Union Ambassador to the United States.jpg",David O'Sullivan (civil servant)
+European Union,ambassador to the United States,Stavros Lambrinidis,Q718976,2019-03-04,,male,1962-02-06,,Stavros Lambrinidis (cropped).jpg,Stavros Lambrinidis
 European Union,ambassador to the Holy See,Jan Tombiński,Q11719272,2016,2020,male,1958-10-04,,Jan Tombiński.jpg,Jan Tombiński

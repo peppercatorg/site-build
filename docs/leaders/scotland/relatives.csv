@@ -5,6 +5,7 @@ Scotland,Q1097337,Claudia Beamish,mother,Q75648943,Janet McMillan Stevenson
 Scotland,Q1108359,"Colin Boyd, Baron Boyd of Duncansby",father,Q75532126,David Hugh Aird Boyd
 Scotland,Q1108359,"Colin Boyd, Baron Boyd of Duncansby",mother,Q75532128,Betty Meldrum
 Scotland,Q1108359,"Colin Boyd, Baron Boyd of Duncansby",spouse,Q75532141,Fiona Margaret MacLeod
+Scotland,Q132040,Jack McConnell,spouse,Q34004441,Bridget McConnell
 Scotland,Q1495635,John Finnie,child,Q24034376,Ruth Maguire
 Scotland,Q1507362,"George Foulkes, Baron Foulkes of Cumnock",father,Q75450423,George Foulkes
 Scotland,Q1507362,"George Foulkes, Baron Foulkes of Cumnock",mother,Q75450424,Jessie Foulkes
@@ -49,7 +50,7 @@ Scotland,Q24045406,Alex Cole-Hamilton,mother,Q75659202,Elizabeth Ann Brown
 Scotland,Q24052673,Donald Cameron,child,Q76098710,Finnian Cameron
 Scotland,Q24052673,Donald Cameron,child,Q76098712,Donald Cameron
 Scotland,Q24052673,Donald Cameron,child,Q76259879,Rose Cameron
-Scotland,Q24052673,Donald Cameron,father,Q75331710,"Donald Cameron of Lochiel, 27th Chief of Clan Cameron"
+Scotland,Q24052673,Donald Cameron,father,Q9209995,Donald Angus Cameron of Lochiel
 Scotland,Q24052673,Donald Cameron,mother,Q75331715,Lady Cecil Kerr
 Scotland,Q24052673,Donald Cameron,sibling,Q75331718,Catherine Cameron
 Scotland,Q24052673,Donald Cameron,sibling,Q75331719,Lucy Cameron

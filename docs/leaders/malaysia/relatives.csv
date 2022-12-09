@@ -136,3 +136,5 @@ Malaysia,Q73962,Mohamed Azmin Ali,sibling,Q12683102,Azwan Ali
 Malaysia,Q73962,Mohamed Azmin Ali,sibling,Q12712124,Ummi Hafilda Ali
 Malaysia,Q7675880,Taib Azamudden Md Taib,child,Q108089824,Akram Ikrami Taib Azamudden
 Malaysia,Q7675880,Taib Azamudden Md Taib,child,Q97203200,Afnan Hamimi Taib Azamudden
+Malaysia,Q97203200,Afnan Hamimi Taib Azamudden,father,Q7675880,Taib Azamudden Md Taib
+Malaysia,Q97203200,Afnan Hamimi Taib Azamudden,sibling,Q108089824,Akram Ikrami Taib Azamudden

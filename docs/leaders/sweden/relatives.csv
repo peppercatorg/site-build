@@ -196,6 +196,10 @@ Sweden,Q5996912,Johan Munck,father,Q5996879,Thomas Munck af Rosenschöld
 Sweden,Q6016840,Patrik Norinder,father,Q16650031,Carl-Robert Norinder
 Sweden,Q6030080,Mikael Oscarsson,sibling,Q18244900,Magnus Oscarsson
 Sweden,Q6043655,Peter Persson,spouse,Q4972552,Margareta Persson
+Sweden,Q6066346,Göran Regner,father,Q6066388,Nils  Regner
+Sweden,Q6066346,Göran Regner,sibling,Q6066373,Hans Regner
+Sweden,Q6066373,Hans Regner,father,Q6066388,Nils  Regner
+Sweden,Q6066373,Hans Regner,sibling,Q6066346,Göran Regner
 Sweden,Q6072812,Stig Rindborg,sibling,Q42394041,Ingvar Rindborg
 Sweden,Q6146756,Henrik Landerholm,sibling,Q3544279,Karin Enström
 Sweden,Q6172463,Anders Sellström,sibling,Q966884,Stefan Attefall

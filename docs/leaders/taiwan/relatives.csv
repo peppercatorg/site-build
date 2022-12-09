@@ -35,6 +35,7 @@ Taiwan,Q22368,Chen Shui-bian,sibling,Q15934564,Chen Wen-shou
 Taiwan,Q22368,Chen Shui-bian,spouse,Q698512,Wu Shu-chen
 Taiwan,Q233984,Tsai Ing-wen,father,Q15930130,Tsai Chieh-sheng
 Taiwan,Q233984,Tsai Ing-wen,sibling,Q24833232,Tsai Ying-yang
+Taiwan,Q26465348,Liu Chien-sin,spouse,Q9065738,王時齊
 Taiwan,Q28416376,Ko Chih-en,father,Q39040656,Ko Wen-fu
 Taiwan,Q28417359,Hung Mong-kai,father,Q28416577,Hong Xiyao
 Taiwan,Q28417359,Hung Mong-kai,mother,Q8976805,Guo Suchun
@@ -84,9 +85,12 @@ Taiwan,Q78116451,Hsieh Yi-fong,mother,Q8272916,Cheng Ru-fen
 Taiwan,Q78116451,Hsieh Yi-fong,sibling,Q16260025,Hsieh Tien-lin
 Taiwan,Q7967650,Wang Tuoh,child,Q9066880,Wang Xingzhi
 Taiwan,Q8270063,Huang Chao-shun,father,Q8273562,Huang Tzuen-chiou
+Taiwan,Q8271233,Liao Liou-yi,sibling,Q8986813,Liao I-chiu
+Taiwan,Q8272119,Chen Shih-meng,father,Q10565387,Chen Chi
 Taiwan,Q8272145,Chen Chien-ming,child,Q48929164,Chen Szu-yu
 Taiwan,Q8272145,Chen Chien-ming,father,Q60994247,Chen Anbang
 Taiwan,Q8272145,Chen Chien-ming,sibling,Q60992873,Chen Ching-min
+Taiwan,Q8272200,Chen Che-nan,child,Q5090717,Chen Chi-mai
 Taiwan,Q8272594,Wu Tse-yuan,sibling,Q8280346,Wu Jin-lin
 Taiwan,Q8272604,Eric Wu,father,Q10919010,Wu Ho-su
 Taiwan,Q8272604,Eric Wu,sibling,Q22773499,Eugene Wu
@@ -103,6 +107,7 @@ Taiwan,Q8272916,Cheng Ru-fen,child,Q78116451,Hsieh Yi-fong
 Taiwan,Q8273115,Chang Ching-chung,spouse,Q19825847,"Chen, Chin-ting"
 Taiwan,Q8273132,Chang Li-shan,sibling,Q15909770,Chang Jung-wei
 Taiwan,Q8273132,Chang Li-shan,spouse,Q61056629,張永成
+Taiwan,Q8273275,Ting Mao-shih,sibling,Q10864132,Ting Chung-chiang
 Taiwan,Q8273349,Kao Yu-jen,child,Q8273451,Kao Su-po
 Taiwan,Q8273349,Kao Yu-jen,relative,Q5386280,Eric Chu
 Taiwan,Q8273451,Kao Su-po,father,Q8273349,Kao Yu-jen
@@ -135,6 +140,7 @@ Taiwan,Q8280332,Su Chi,spouse,Q9200211,Chen Yueqing
 Taiwan,Q8280346,Wu Jin-lin,sibling,Q8272594,Wu Tse-yuan
 Taiwan,Q8347124,Chang Ching-hui,child,Q55696381,Wei Yun
 Taiwan,Q8347124,Chang Ching-hui,spouse,Q8350585,Wei Ting-chao
+Taiwan,Q8347574,Lee Chun-yi,father,Q8982600,李鴻禧
 Taiwan,Q8347775,Chiu Yi-ying,father,Q16907425,Chiu Mao-nan
 Taiwan,Q8347775,Chiu Yi-ying,sibling,Q16259975,Chiu Ming-chang
 Taiwan,Q8347775,Chiu Yi-ying,spouse,Q9206928,Lee Yung-te

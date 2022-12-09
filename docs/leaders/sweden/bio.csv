@@ -254,7 +254,7 @@ Q18246234,Cassandra Sundin,female,1991-09-04,11,,,,Cassandra Sundin
 Q18246258,Håkan Svenneling,male,1985-09-17,11,,,Håkan Svenneling.jpg,Håkan Svenneling
 Q18246550,Christina Tapper Östberg,female,1968-05-20,11,,,,Christina Östberg
 Q18246633,Niclas Trouvé,male,1966-07-01,11,,,,
-Q18246818,Marco Venegas,male,1962-09-22,11,,,,
+Q18246818,Marco Venegas,male,1962-09-22,11,,,,Marco Venegas
 Q18274557,Roger Hedlund,male,1979-11-06,11,,,,Roger Hedlund (politician)
 Q18275046,Jennie Åfeldt,female,1974-08-30,11,,,,Jennie Åfeldt
 Q18275164,Emanuel Öz,male,1979-12-24,11,,,,Emanuel Öz
@@ -266,12 +266,12 @@ Q18448703,Sanne Lennström,female,1988-08-15,11,,,Sanne Lennström 2015 (cropped
 Q18451082,Ida Karkiainen,female,1988-05-10,11,,,"Andersson Cabinet, nov 30, 2021 (cropped).jpg",Ida Karkiainen
 Q18451520,Lawen Redar,female,1989-09-29,11,,,Lawen2021.jpg,Lawen Redar
 Q18452054,Marianne Fundahn,female,1958-11-01,11,,,Marianne Fundahn 2021.jpg,Marianne Fundahn
-Q18454922,Pernilla Stålhammar,female,1971-09-14,11,,,,
+Q18454922,Pernilla Stålhammar,female,1971-09-14,11,,,,Pernilla Stålhammar
 Q18600515,Daniel Bäckström,male,1975-11-18,11,,,Daniel Bäckström 2013-10-21 003.jpg,Daniel Bäckström
 Q18617010,Oscar Sjöstedt,male,1981-02-06,11,,,Oscar Sjöstedt.jpg,Oscar Sjöstedt
 Q18649252,Mikael Dahlqvist,male,1967-09-22,11,,,Mikael Dahlqvist.jpg,Mikael Dahlqvist
 Q18649282,Johanna Jönsson,female,1982-12-24,11,,,Johanna Jönsson 5 (19169551429).jpg,
-Q18692956,Rickard Persson,male,1959-12-04,11,,,,
+Q18692956,Rickard Persson,male,1959-12-04,11,,,,Rickard Persson
 Q18747077,Bengt Eliasson,male,1961-08-07,11,,,Bengt Eliasson 1 (19358087051).jpg,Bengt Eliasson
 Q18923356,Jesper Skalberg Karlsson,male,1993-06-18,11,,,Jesper Skalberg Karlsson.jpg,Jesper Skalberg Karlsson
 Q1910868,Matz Hammarström,male,1959-11-07,11,,,,
@@ -394,7 +394,7 @@ Q2990882,Carina Moberg,female,1966-04-17,11,2012-08-15,11,,Carina Moberg
 Q30000205,Ulrika Heindorff,female,1983-10-09,11,,,,
 Q30000227,Roland Gustbée,male,1958,9,,,,
 Q30000308,Rene Francis,male,1951-05-17,11,,,,
-Q30000444,Petra Ekerum,female,1980,9,,,,
+Q30000444,Petra Ekerum,female,1980,9,,,,Petra Ekerum
 Q30000498,Patrik Engström,male,1968-11-08,11,,,,Patrik Engström
 Q30000515,Monica Tedestam Berglöw,female,1962,9,,,,
 Q30035676,Linus Sköld,male,1983-07-07,11,,,Linus Sköld.jpg,Linus Sköld
@@ -663,7 +663,7 @@ Q4938434,Inga Berggren,female,1941-11-11,11,,,,
 Q4938501,Mona Berglund Nilsson,female,1942,9,,,,
 Q4938643,Hannah Bergstedt,female,1977,9,,,Hannah Bergstedt.jpg,Hannah Bergstedt
 Q4938680,Harald Bergström,male,1936-06-21,11,2013-01-11,11,,
-Q4938708,Stina Bergström,female,1958-11-07,11,,,Stina Bergström Bokmässan 2017.jpg,
+Q4938708,Stina Bergström,female,1958-11-07,11,,,Stina Bergström Bokmässan 2017.jpg,Stina Bergström
 Q4938749,Christina Berlin,female,1946,9,,,,
 Q4939220,Laila Bjurling,female,1947,9,,,,Laila Bjurling
 Q4939232,Charlotta L. Bjälkebring,female,1960,9,,,,
@@ -680,7 +680,7 @@ Q4941081,Anita Bråkenhielm,female,1937-03-01,11,,,,
 Q4941267,Ingrid Burman,female,1952-11-04,11,,,,Ingrid Burman
 Q4941329,Ebba Busch,female,1987-02-11,11,,,"Ebba Busch - Into the Woods - November 24, 2022 (52520720684) (cropped).jpg",Ebba Busch
 Q4941436,Laila Bäck,female,1963,9,,,,
-Q4941553,Agneta Börjesson,female,1957-10-19,11,,,Agneta Börjesson.jpg,
+Q4941553,Agneta Börjesson,female,1957-10-19,11,,,Agneta Börjesson.jpg,Agneta Börjesson
 Q4941925,Emma Carlsson Löfdahl,female,1970-09-26,11,,,Emma Carlsson Löfdahl 2018.jpg,Emma Carlsson Löfdahl
 Q4941985,Rose-Marie Carlsson,female,1954-11-13,11,,,,Rose-Marie Carlsson
 Q4942003,Willemo Carlsson,female,1956,9,,,,
@@ -959,8 +959,8 @@ Q50353136,John Widegren,male,1980-02-04,11,,,,
 Q50353141,Yasmine Posio Nilsson,female,1974-08-02,11,,,Yasmine Posio.jpg,Yasmine Posio
 Q50353151,Amne Ali,female,1990-06-22,11,,,,
 Q50353159,David Lindvall,male,1994,9,,,,
-Q50353165,Eva-Lena Gustavsson,female,1956,9,,,,
-Q50353170,Hamza Demir,male,1956,9,,,,
+Q50353165,Eva-Lena Gustavsson,female,1956,9,,,,Eva-Lena Gustavsson
+Q50353170,Hamza Demir,male,1956,9,,,,Hamza Demir
 Q50353175,Helena Bonnier,female,1939,9,,,,
 Q5039749,Carl-Axel Roslund,male,1948-11-04,11,,,,Carl-Axel Roslund
 Q5039758,Carl-Erik Skårman,male,1939,9,2014-04-14,11,,Carl-Erik Skårman
@@ -991,9 +991,9 @@ Q5388443,Erik A. Eriksson,male,1969,9,,,Erik A Eriksson.jpg,Erik A. Eriksson
 Q5388484,Erik Bengtzboe,male,1987-02-09,11,,,,Erik Bengtzboe
 Q5389786,Erling Bager,male,1946,9,,,,Erling Bager
 Q54006296,Karl Längberg,male,1985-05-13,11,,,,
-Q54365860,Jacob Sandgren,male,1973,9,,,,
+Q54365860,Jacob Sandgren,male,1973,9,,,,Jacob Sandgren
 Q54365866,Mikael Peterson,male,1966,9,,,,
-Q54365869,Leif Hård,male,1944,9,,,,
+Q54365869,Leif Hård,male,1944,9,,,,Leif Hård
 Q54396872,Christopher Ödmann,male,1960,9,,,,
 Q547534,Leni Björklund,female,1944-07-05,11,,,"Leni Bjorklund, forsvarsminister, Sverige (Bilden ar tagen vid Nordiska radets session i Oslo, 2003).jpg",Leni Björklund
 Q547580,Ann-Christin Nykvist,female,1948-04-04,11,,,,Ann-Christin Nykvist
@@ -1009,7 +1009,7 @@ Q5546459,Thoralf Alfsson,male,1957-10-13,11,,,,Thoralf Alfsson
 Q5548100,Peter Althin,male,1941-11-06,11,,,P Althin.jpg,Peter Althin
 Q5548875,Jabar Amin,male,1959-06-01,11,,,Pressträff om lärartäthet i skolan (9213255633).jpg,Jabar Amin
 Q5553885,Anders Andersson,male,1955-03-07,11,,,"Anders Andersson (KD) Sverige, Nordiska radets session 2011 i Kopenhamn.jpg",
-Q5554537,Georg Andersson,male,1936-03-03,11,,,,
+Q5554537,Georg Andersson,male,1936-03-03,11,,,,Georg Andersson (politician)
 Q5554702,Hans Andersson,male,1945,9,2008,9,,
 Q5554833,Jan Andersson,male,1966-05-28,11,,,,
 Q5554839,Jan Andersson,male,1955-07-22,11,,,,Jan Andersson (Swedish Air Force officer)
@@ -1097,7 +1097,7 @@ Q5619378,Paul Degerlund,male,1948-12-16,11,,,,Paul Degerlund
 Q5620151,Muharrem Demirok,male,1976-10-03,11,,,Muharrem Demirok.jpg,
 Q5620978,Gustaf Göthberg,male,1993-11-30,11,,,,
 Q5621490,Adnan Dibrani,male,1985-02-12,11,,,Adnan Dibrani 2012 cropped.jpg,Adnan Dibrani
-Q56229207,Jeannette Escanilla,female,1961,9,,,,
+Q56229207,Jeannette Escanilla,female,1961,9,,,,Jeannette Escanilla
 Q5624774,Bino Drummond,male,1982-06-22,11,,,Bino Drummond.jpg,
 Q5626644,Göran Montan,male,1946,9,,,Goran Montan vid Nordiska Radets session 2011 i Kopenhamn.jpg,Göran Montan
 Q5626645,Göran Norlander,male,1945,9,,,,Göran Norlander
@@ -1235,7 +1235,7 @@ Q5855550,Per-Ola Eriksson,male,1946-10-18,11,,,Thumbs up for US - Lulea cooperat
 Q5859394,Joe Frans,male,1963-09-09,11,,,,Joe Frans (politician)
 Q5863217,Aleksander Gabelic,male,1965-09-17,11,,,Aleksander Gabelic (296948).jpg,
 Q5867889,Berndt Grundevik,male,1956-11-05,11,,,MajorGeneral Berndt Grudenvik.jpg,Berndt Grundevik
-Q58769193,Magdalena Schröder,female,1990-09-20,11,,,,Magdalena Schröder
+Q58769193,Magdalena Thuresson,female,1990-09-20,11,,,,Magdalena Schröder
 Q5879681,Kjell Jansson,male,1959-12-03,11,,,,
 Q58837098,Jonas Andersson,male,1989-10-04,11,,,Jonas andersson.riksdagen2018.18d952.1660241.jpg,"Jonas Andersson (politician, born 1989)"
 Q5885773,Carl-Axel Johansson,male,1947,9,,,,
@@ -1279,7 +1279,7 @@ Q5918403,Wiggo Komstedt,male,1937-04-17,11,2010-11-28,11,,
 Q5923368,Stefan Kristiansson,male,1951-09-25,11,,,,Stefan Kristiansson
 Q59243589,Fredrik Stenberg,male,1988,9,,,,
 Q59243593,Maria Jacobsson,female,1961,9,,,,
-Q5925995,Peter Kullgren,male,1981-05-17,11,,,Peter Kullgren (cropped).jpg,Peter Kullgren
+Q5925995,Peter Kullgren,male,1981-05-17,11,,,Peter-kullgren-kd-2022.jpg,Peter Kullgren
 Q59269310,Ann-Sofie Alm,female,1971-10-12,11,,,,
 Q5927536,Kenneth Kvist,male,1944-01-24,11,,,Kenneth Kvist (21582411110).jpg,
 Q5928435,Bo Källstrand,male,1949-01-18,11,,,,

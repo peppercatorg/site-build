@@ -378,6 +378,7 @@ United Kingdom,Q1306769,"John Lee, Baron Lee of Trafford",spouse,Q75532373,Anne 
 United Kingdom,Q1307966,Sue Nye,spouse,Q5528402,Gavyn Davies
 United Kingdom,Q1310059,"Richard Wilson, Baron Wilson of Dinton",father,Q75929736,Richard Ridley Wilson
 United Kingdom,Q1310059,"Richard Wilson, Baron Wilson of Dinton",mother,Q75929732,Frieda Bell Finlay
+United Kingdom,Q132040,Jack McConnell,spouse,Q34004441,Bridget McConnell
 United Kingdom,Q132331,"Ewen Cameron, Baron Cameron of Dillington",child,Q75534237,Ewen Allan Hanning Cameron
 United Kingdom,Q132331,"Ewen Cameron, Baron Cameron of Dillington",child,Q75534410,James Alexander Hanning Cameron
 United Kingdom,Q132331,"Ewen Cameron, Baron Cameron of Dillington",child,Q75534413,Angus Derek Hanning Cameron
@@ -1250,6 +1251,7 @@ United Kingdom,Q180975,Andrew Lloyd Webber,sibling,Q319434,Julian Lloyd Webber
 United Kingdom,Q180975,Andrew Lloyd Webber,spouse,Q151814,Sarah Brightman
 United Kingdom,Q180975,Andrew Lloyd Webber,spouse,Q16194568,Madeleine Gurdon
 United Kingdom,Q180975,Andrew Lloyd Webber,spouse,Q76251803,Sarah Hugill
+United Kingdom,Q18164278,Angela Rayner,partner,Q76363937,Sam Tarry
 United Kingdom,Q1817220,Len Murray,child,Q5237840,David Murray
 United Kingdom,Q1817220,Len Murray,child,Q76279041,Stephen William Murray
 United Kingdom,Q1817220,Len Murray,child,Q76279044,Nicola Ruth Murray
@@ -1565,6 +1567,8 @@ United Kingdom,Q20011247,Andrew Dunlop,mother,Q75903712,Dorothy Shirley Dixon
 United Kingdom,Q20011247,Andrew Dunlop,spouse,Q75903726,Lucia Elizabeth Mary Campbell Murfitt
 United Kingdom,Q20022488,Kate Osamor,mother,Q53870716,Martha Osamor
 United Kingdom,Q20054083,Victoria Prentis,father,Q334491,Tim Boswell
+United Kingdom,Q20055561,Rishi Sunak,father,Q115627072,Yashvir Sunak
+United Kingdom,Q20055561,Rishi Sunak,mother,Q115627073,Usha
 United Kingdom,Q20055561,Rishi Sunak,relative,Q1398708,N. R. Narayana Murthy
 United Kingdom,Q20055561,Rishi Sunak,relative,Q3520225,Sudha Murthy
 United Kingdom,Q20055561,Rishi Sunak,spouse,Q22997426,Akshata Murty
@@ -2288,6 +2292,7 @@ United Kingdom,Q270648,P. D. James,mother,Q76172754,Dorothy Amelia Hone
 United Kingdom,Q270648,P. D. James,spouse,Q76172746,Connor Bantry White
 United Kingdom,Q271715,Christopher Chope,father,Q106777629,Robert Chope
 United Kingdom,Q272201,Liz Truss,father,Q102135641,John Truss
+United Kingdom,Q272201,Liz Truss,mother,Q115627036,Priscilla Mary Grasby
 United Kingdom,Q272201,Liz Truss,spouse,Q113728852,Hugh O'Leary
 United Kingdom,Q272318,Edward Timpson,father,Q23682478,John Timpson
 United Kingdom,Q272318,Edward Timpson,mother,Q23303626,Alex Timpson
@@ -5171,6 +5176,7 @@ United Kingdom,Q76362949,Darren Henry,spouse,Q106774563,Caroline Henry
 United Kingdom,Q76363044,Olivia Blake,mother,Q32066575,"Judith Blake, Baroness Blake of Leeds"
 United Kingdom,Q76363401,Laura Farris,father,Q6832761,Michael McNair-Wilson
 United Kingdom,Q76363563,Sara Britcliffe,father,Q85817555,Peter Britcliffe
+United Kingdom,Q76363937,Sam Tarry,partner,Q18164278,Angela Rayner
 United Kingdom,Q76364147,Imran Ahmad Khan,father,Q105210120,Saeed Khan
 United Kingdom,Q76364163,Kate Griffiths,spouse,Q392149,Andrew Griffiths
 United Kingdom,Q76364853,Dehenna Davison,spouse,Q111512297,John Fareham
