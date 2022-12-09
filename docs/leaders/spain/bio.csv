@@ -1,4 +1,5 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
+Q100988087,Josep González i Cambray,male,1972-03-10,11,,,Josep González Cambray retrat oficial 2021 (cropped).jpg,
 Q101704534,Juan Ginés Córdoba Cortijo,male,1961-12-04,11,,,,
 Q101897441,María del Carmen Sánchez Zamora,female,1982-07-13,11,,,María Carmen Sánchez in 2019.png,
 Q1021708,Ramón Luis Valcárcel Siso,male,1954-11-16,11,,,EPP Summit March 2011 Ramón Luis Valcárcel Siso.jpg,Ramón Luis Valcárcel
@@ -146,6 +147,7 @@ Q106572105,Koldo Usín Fernández,male,,,,,,
 Q106581656,Antonio Cárceles Nieto,male,1953,9,2010-10-03,11,,
 Q106599119,Garikoitz Mujika Iriondo,male,1982,9,,,Gari-Mujika-Iriondo.png,
 Q106762209,Asunción Sanchis Morera,female,,,,,,
+Q106941907,Natàlia Mas Guix,female,1979-11-30,11,,,Natàlia Mas retrat oficial 2022.png,
 Q107041346,Bernardo de Sicart Escoda,male,1957-10-08,11,,,,
 Q107042004,Juan Luis Pan de Soraluce y Olmos,male,,,,,,
 Q107057808,Nicolás Martín Alonso,male,,,,,,
@@ -198,7 +200,7 @@ Q107366170,Francisco Pascual de la Parte,male,1952,9,,,,
 Q107370824,Isabel González,female,1974-03-22,11,,,Isabel González. Liburuzaina. Eusko Legebiltzarkidea.jpg,
 Q107377178,Eduardo de Laiglesia y del Rosal,male,,,,,,
 Q107377204,Álvaro de Salas Giménez de Azcárate,male,,,,,,
-Q107377232,Francisco de Asís Benítez Salas,male,,,,,,
+Q107377232,Francisco de Asís Benítez Salas,male,1962-04-08,11,,,,
 Q107377279,Rafael Valle Garagorri,male,,,,,,
 Q107377385,María Aurora Mejía Errasquín,male,,,,,,
 Q107377408,Juan Bosco Giménez Soriano,male,,,,,,
@@ -696,6 +698,7 @@ Q115052192,Antonio Seguro Morís,male,,,,,,
 Q115052394,Alicia Moral Revilla,male,1963-02-21,11,,,,
 Q115052896,Francisco Utray Sardá,male,,,,,,
 Q115484655,María Jesús Alonso Jiménez,female,1956-01-14,11,,,,
+Q115627709,Francisco Javier Gassó Matoses,male,,,,,,
 Q116812,Oriol Junqueras,male,1969-04-11,11,,,Oriol Junqueras a Terrassa 2021.jpg,Oriol Junqueras
 Q11681287,Eduardo Madina,male,1976-01-11,11,,,Jornadas de Juventudes Socialistas de Olivenza con Eduardo Madina y Guillermo Fernández Vara (3).jpg,Eduardo Madina
 Q11681292,Eduardo Serra Rexach,male,1946-12-19,11,,,Eduardo Serra.jpg,Eduardo Serra Rexach
@@ -770,6 +773,7 @@ Q11907064,Asunción Sánchez Zaplana,female,1965-11-11,11,,,Asuncion Sánchez Za
 Q11908617,Bartomeu Seguí Prat,male,1954,9,,,,
 Q11908955,Belén Pajares Ribas,female,1964,9,,,Belen Pajares-PP 7566 resize.jpg,
 Q11909122,Bernardo Fernández Martínez,male,1952-03-26,11,,,,
+Q11909563,Boi Ruiz i Garcia,male,1954,9,,,Boi Ruiz i Garcia.png,
 Q11910234,Bàrbara Galmés Chicón,female,1955,9,,,,
 Q11912404,Carles Josep Bonet i Revés,male,1954-03-19,11,,,,
 Q11912412,Carles Martí i Jufresa,male,1966,9,,,Carles Martí i Jufresa.png,
@@ -866,6 +870,7 @@ Q11928092,Joaquim Ferrer i Roca,male,1937-10-18,11,2016-05-10,11,Joaquim Ferrer 
 Q11928134,Joaquim Vidal i Perpiñà,male,1947,9,,,,
 Q11928144,Joaquima Alemany i Roca,female,1942-05-19,11,,,,
 Q11928171,Joaquin Soler Garibo,male,1950,9,2020-10-17,11,,
+Q11928276,Jordi Baiget i Cantons,male,1963-12-30,11,,,Jordi Baiget retrat oficial 2016.jpg,
 Q11928306,Jordi Guillot i Miravet,male,1955-04-23,11,,,,
 Q11928320,Jordi Marsal i Muntalà,male,1951-05-08,11,,,,
 Q11928322,Jordi Martí i Galbis,male,1961-04-29,11,,,Gala dels Premis Sonor 2022 - 84 (cropped).jpg,
@@ -936,6 +941,7 @@ Q11935488,Maria Teresa Aragonès i Perales,female,1955-07-15,11,,,Teresa Aragone
 Q11935520,Mariano Castejón Chaler,male,1956,9,,,,
 Q11935552,Mario Edo Gil,male,1958-09-10,11,2013-06-20,11,,
 Q11935580,Marià Curto i Forés,male,1949-10-10,11,,,,
+Q11935596,Mariàngela Vilallonga i Vives,female,1952-04-03,11,,,Mariàngela Vilallonga retrat oficial 2019.jpg,Mariàngela Vilallonga
 Q11935700,Martí Sans i Pairuto,male,1946-01-16,11,,,Martí Sans i Pairuto (cropped).jpg,
 Q11935755,María Belén Juste Picón,female,1958-12-29,11,,,,
 Q11935758,María Elena Bonet Mancheño,female,1958-08-29,11,,,,
@@ -1008,6 +1014,7 @@ Q11954638,Vicente Parra Sisternes,male,1962,9,,,,
 Q11954648,Vicente Soria Mora,male,1958-06-20,11,,,,
 Q11954676,Vicenç Thomàs Mulet,male,1958-03-01,11,,,Vicenç Thomàs Mulet.jpg,
 Q11955042,Víctor Sahuquillo Martínez,male,1967,9,,,,
+Q11955315,Xavier Pomés i Abella,male,1948,9,,,Fotografia del conseller Antoni Comín amb Xavier Pomés.jpg,
 Q11955323,Xavier Soy Soler,male,1950-08-03,11,,,,
 Q11955500,Yolanda Violeta García Santos,female,1971-08-31,11,,,,
 Q11955632,Zoila Riera i Ben,female,1954-01-20,11,,,,
@@ -1336,6 +1343,7 @@ Q14378340,Josep Juan Cardona,male,1960-07-15,11,,,,
 Q14542633,Jesús López-Medel,male,1959-08-15,11,,,,
 Q14623515,Jordi Pedret,male,1950,9,,,,
 Q14917170,Josep Sánchez i Llibre,male,1949-05-26,11,,,Josep Sànchez Llibre ha valorat els pressupostos generals de l'Estat de 2013.jpg,Josep Sánchez i Llibre
+Q14917798,Josep-Delfí Guàrdia i Canela,male,1945,9,,,,
 Q14948188,Carmen Andrés Añón,female,1964-10-19,11,,,Carmen Andrés.jpg,
 Q15059450,Blanca García Manzanares,female,1946-06-25,11,,,,
 Q15063003,Milagros Frías Navarrete,female,1952-01-11,11,,,,
@@ -1446,11 +1454,13 @@ Q17029013,Serafín Castellano Gómez,male,1964-08-02,11,,,Serafín Castellano 20
 Q17029245,Joan Ignasi Elena i Garcia,male,1968-06-27,11,,,Joan Ignasi Elena retrat oficial 2021.jpg,Joan Ignasi Elena
 Q17029789,Ferran Falcó i Isern,male,1969-07-31,11,,,Ferran Falcó en el Ple del Parlament (cropped).jpg,
 Q17030398,María José García Herrero,female,1955,9,,,,
+Q17030560,Isidre Gavín i Valls,male,1963-02-23,11,,,201808 Cn60Anys 0562-1920px (29150133727) (cropped).jpg,
 Q17030700,Fernando María Giner Giner,male,1952,9,,,,
 Q17030973,Hortènsia Grau Juan,female,1960,9,,,Hortènsia Grau-ICV 7556 resize.jpg,
 Q17030992,Josep Grau i Seris,male,1945-11-08,11,,,Josep Grau i Seris.jpg,
 Q17031432,Luís Ibáñez Gadea,male,1958,9,,,,
 Q17032438,Marina Llansana i Rosich,female,1976-06-28,11,,,Flama del Canigó 2018 DC83486 (42989631892) (cropped).jpg,
+Q17032460,Joaquim Llena i Cortina,male,1959-07,10,,,"El conseller d'Agricultura, Joaquim Llena, ha presidit l'acte de cloenda de l'assemblea de la FECIC (cropped).jpg",
 Q17033177,Marta Pascal i Capdevila,female,1983-04-10,11,,,Marta Pascal. RdP (1.02.16) (cropped).jpg,Marta Pascal
 Q17033342,Rocío Martínez-Sampere Rodrigo,female,1974-08-19,11,,,Rocío Martínez-Sampere i Rodrigo - Dia de la Poesia (retallat).JPG,
 Q17034029,Carmel Mòdol i Bresolí,male,1958-09-02,11,,,,
@@ -1556,6 +1566,7 @@ Q19289058,Ramon Antoni Socias Puig,male,1960-01-22,11,,,(Ramón Socias) Fernánd
 Q19289556,Alfred Pérez de Tudela i Molina,male,1946-10-06,11,,,,
 Q19289667,Anton Ferré i Fons,male,1960,9,,,,
 Q19290075,Carles Enric Florensa i Tomàs,male,1959,9,,,,
+Q19290091,Carles Mundó i Blanch,male,1976-03-03,11,,,"Retrat oficial del Conseller de Justícia, Carles Mundó.jpg",Carles Mundó
 Q19290104,Carles Sala i Roca,male,1967,9,,,Carles Sala i Roca.jpg,
 Q19290544,Esperança Esteve i Ortega,female,1951-01-30,11,,,Som el 80 eleccions 28A 190410 21685 dc (32744610957) (cropped).jpg,
 Q19290968,Francesca Martín i Vigil,female,1947,9,2002,9,,
@@ -1573,10 +1584,12 @@ Q19300714,Josep Varela i Serra,male,1943-12-29,11,,,,
 Q19300798,Lluís Aragonès i Delgado de Torres,male,1961-06-16,11,,,,
 Q19300967,Manuel Josep Silva i Sánchez,male,1960-12-30,11,,,Manuel Josep Silva i Sànchez.jpg,
 Q19301018,Marc López Plana,male,1974,9,,,,
+Q19301068,Maria del Mar Serna Calvo,female,1955-08-14,11,,,Roda de premsa consellera Mar Serna - cap de Govern d'Andorra Jaume Bartumeu 02.jpg,
 Q19301093,Maria Senserrich i Guitart,female,1980,9,,,"Flickr - Convergència Democràtica de Catalunya - Maria Senserrich, secretària de coordinació Sectorial.jpg",
 Q19301126,Marta Camps i Torrens,female,1970-04-08,11,,,,
 Q19301347,Núria Martínez i Barderi,female,1967-09-24,11,,,,
 Q19301499,Pere Grau i Buldú,male,1944-11-24,11,,,,
+Q19301595,Pilar Fernández i Bozal,female,1963,9,,,Imatge de la inauguració del nou edifici judicial de Berga .jpg,
 Q19301601,Pilar Vallugera,female,1967-10-13,11,,,,Pilar Vallugera
 Q19301658,Ramon Espasa i Oliver,male,1940-12-02,11,,,Fotografia del conseller Antoni Comín amb Ramon Espasa.jpg,
 Q19301675,Ramon Llumà i Guitart,male,1935,9,2016-05-24,11,Ramonlluma.jpg,
@@ -1767,6 +1780,7 @@ Q20876036,Verónica Hernández Agramunt,female,1971-06-30,11,,,,
 Q20876061,Cristina Iniesta i Blasco,female,1958,9,,,,
 Q20876096,Benet Jané i Palau,male,1943,9,,,,
 Q20876100,Jaume Domingo i Planas,male,1962,9,,,Flickr - Convergència Democràtica de Catalunya - Domingo es dirigeix als mitjans de comunicació (cropped).jpg,
+Q20876136,Joaquim Triadú i Vila-Abadal,male,1959,9,,,Joaquim Triadú i Vila-Abadal.png,
 Q20876146,Teresa Josa de Riu,female,1960-02-27,11,,,,
 Q20876148,Josep Maria Forné i Febrer,male,1962,9,,,Josep Maria Forné i Febrer a la presentació de JuntsPelSi.jpg,
 Q20876150,Josep Maria Reniu i Vilamala,male,1969-03-08,11,,,,
@@ -1850,7 +1864,7 @@ Q20877124,Joan Marí Serra,male,1948,9,,,,
 Q20877128,Catalina Palau Costa,female,1967-02-04,11,,,,
 Q20877144,Carolina Torres Cabañero,female,1974-11-13,11,,,,
 Q20877146,Josep Torres Cardona,male,1948-10-18,11,,,,
-Q20890177,Pilar Lima,female,1977-11-21,11,,,Pilar Lima 2015 (cropped).jpg,
+Q20890177,Pilar Lima,female,1977-11-21,11,,,Pilar Lima 2015 (cropped).jpg,Pilar Lima
 Q20891407,Pilar del Olmo,female,1962,9,,,Pilar del Olmo 2018 (cropped).jpeg,
 Q2089386,Javier Arenas Bocanegra,male,1957-12-28,11,,,Javier Arenas en el curso de Verano del PP 2012 en Gandía.jpg,Javier Arenas (politician)
 Q20908838,Pilar Alegría Continente,female,1977-11-01,11,,,Pilar Alegría 2021 (cropped).jpg,Pilar Alegría
@@ -2255,6 +2269,7 @@ Q26232737,Eduardo Fernández Rubiño,male,1991-09-13,11,,,Eduardo Fernández Rub
 Q26234874,Xavier Castellana i Gamisans,male,1976-10-14,11,,,,
 Q2628231,Ángel Acebes,male,1958-07-03,11,,,Ángel Acebes 2008 (cropped).jpg,Ángel Acebes
 Q26419451,Antonio Pérez Solano,male,1946,9,2015-01-23,11,Antonio Pérez Solano.jpg,
+Q26512007,Jaume Giró i Ribas,male,1964,9,,,Jaume Giró retrat oficial 2021 (cropped).jpg,Jaume Giró
 Q2655704,Alfonso Guerra,male,1940-05-31,11,,,Alfonso Guerra 2011.jpg,Alfonso Guerra
 Q266114,Elena Salgado,female,1949-05-12,11,,,Elena Salgado 2010 (cropped).jpg,Elena Salgado
 Q26806177,Óscar Gamazo Micó,male,1976-04-17,11,,,Oscar Gamazo.jpg,
@@ -3179,6 +3194,7 @@ Q4890847,Inmaculada Rodríguez-Piñero,female,1958-01-07,11,,,Inmaculada rodrigu
 Q4890878,Maria Antonia Armengol,female,1950-09-22,11,,,,Maria Antonia Armengol
 Q4890974,Rafael Larreina Valderrama,male,1956-05-19,11,,,Rafa Larreina.jpg,
 Q4890993,Juan Pascual Azorín Soriano,male,1951-08-06,11,,,,Juan Pascual Azorín Soriano
+Q4891019,Lluís Recoder,male,1958-11-29,11,,,Lluís Recorder retrat oficial 2010.jpg,Lluís Recoder
 Q4891054,Vicente Ferrer Roselló,male,1959-07-09,11,,,,Vicente Ferrer Roselló
 Q4891067,Joana Ortega i Alemany,female,1959-11-13,11,,,Joana Ortega i Alemany.jpg,Joana Ortega
 Q4891079,María José Catalá,female,1981-03-03,11,,,Maria José Català (2011).jpg,María José Catalá
@@ -3200,6 +3216,7 @@ Q4893887,Josep Maria Vallès i Casadevall,male,1940,9,,,Josep Maria Vallès i Ca
 Q4893910,Xavier Vendrell i Segura,male,1966-10-15,11,,,Xavier Vendrell.jpg,Xavier Vendrell
 Q4894822,Rosa Estaràs,female,1965-10-21,11,,,"Rosa Estaràs Ferragut, Spain-MIP-Europaparlament-by-Leila-Paul-4.jpg",Rosa Estaràs
 Q4894911,Juan Fageda,male,1937-01-20,11,,,,Juan Fageda
+Q4895294,Joan Carretero i Grau,male,1955-12-19,11,,,Joan Carretero a la 1a reagrupada.JPG,Joan Carretero
 Q4897235,Francés Boya Alòs,male,1960-01-23,11,,,"(Paco Boya) Madrid, ciudad amiga de las montañas 06 (cropped).jpg",
 Q4899109,Xavier Crespo i Llobet,male,1957,9,,,,
 Q49842104,José María Mazón Ramos,male,1951-07-23,11,,,José María Mazón (2018).jpg,José María Mazón
@@ -3296,6 +3313,7 @@ Q541562,Carlos Garaikoetxea Urriza,male,1938-06-02,11,,,Carlos Garaikoetxea (201
 Q542361,Ricardo Costa Climent,male,1972-04-16,11,,,Ricardo Costa Climent.jpg,
 Q54370999,Pablo Hernández de Cos,male,1971-01-20,11,,,Pablo Hernández de Cos 01.jpg,Pablo Hernández de Cos
 Q544187,Maria Mercè Roca,female,1958-07-19,11,,,Maria Mercè Roca (2005).jpg,Maria Mercè Roca
+Q54435048,Àngels Chacón i Feixas,female,1968,9,,,Àngels Chacón 2020 (cropped).jpg,Àngels Chacón
 Q54449655,María Carmen López Ruiz,female,1961-12-15,11,,,(María Carmen López Ruiz) Debate Investidura Ángel Garrido (40385098860) 18 de mayo de 2018 (cropped).jpg,Carmen López Ruiz
 Q5445554,Ferrán Bono,male,1969-12-11,11,,,,Ferrán Bono
 Q546286,Juan Moscoso del Prado,male,1966-07-05,11,,,Moscoso2.jpg,Juan Moscoso del Prado
@@ -3393,6 +3411,7 @@ Q5660870,Agustín Santos Maraver,male,1955-09-21,11,,,,
 Q5661421,Aitor Esteban,male,1962-06-21,11,,,Portavoz-parlamentario-PNV-Aitor-Esteban EDIIMA20160219 0246 5 (cropped).jpg,Aitor Esteban
 Q5663340,Alberto Moreno Humet,male,1954-03-26,11,,,Alberto Moreno Humet 2015.jpg,
 Q5663483,Alberto Reyero,male,1962-08-28,11,,,Alberto Reyero 2016 (cropped).jpg,
+Q56650177,Natàlia Garriga i Ibáñez,female,1969-05-11,11,,,"Natàlia Garriga, XIV Premis Gaudí (2022).jpg",
 Q5665425,Alejandro Ramírez del Molino Morán,male,1951-06-03,11,2016-08-22,11,Alramo.JPG,
 Q5665536,Alejandro Sánchez Pérez,male,1961-04-27,11,,,Alejandro Sánchez. TeleK. 2017 (cropped).jpg,
 Q5666774,Alfonso Dastis,male,1955-10-05,11,,,La Junta presenta 79 proyectos para el Plan Juncker 02.jpg,Alfonso Dastis
@@ -3420,6 +3439,7 @@ Q5686514,Agustín Conde,male,1965-06-06,11,,,Agustín Conde 2013.jpg,
 Q5687854,María José García-Pelayo Jurado,female,1968-01-06,11,,,María José García-Pelayo.jpg,
 Q5687881,Alberto Carnero,male,1962-12-31,11,,,,
 Q56884609,Lucas Silvano Ferro Solé,male,1990,9,,,,
+Q56884649,Shabib al-Maliki,male,1931,9,,,,
 Q5689618,María Isabel Vicandi Plaza,female,1954-02-13,11,,,,
 Q56923564,Maialen Fernández Cabezas,female,1974,9,,,,
 Q5696299,Francisco Javier Vallaure de Acha,male,1949-07-04,11,,,,
@@ -3470,7 +3490,7 @@ Q5751704,Carlos Salvador,male,1966-04-14,11,,,Premios HazteOir.org 2011 (6).jpg,
 Q5751710,Carlos Sanjuán,male,1938-01-10,11,,,,
 Q5751885,Carlos Sánchez de Boado,male,1942-11-08,11,,,,
 Q5751987,Carlos Urquijo,male,1964-12-30,11,,,,
-Q5752357,Carmelo Angulo Barturen,male,1947-05-23,11,2022-12-01,11,Carmelo Angulo 2014 (cropped).jpg,
+Q5752357,Carmelo Angulo Barturen,male,1947-05-23,11,2022-11-30,11,Carmelo Angulo 2014 (cropped).jpg,
 Q5752548,Carmen Heras,female,1948-11-18,11,,,(Carmen Heras) Presentación de Carmen Heras como candidata a la Alcaldía de Cáceres (5249270857) (cropped).jpg,
 Q5752565,Carmen Juanes Barciela,female,1970-08-16,11,,,,
 Q5752599,Carmen Martínez Ten,female,1953-11-27,11,,,Carmen Martínez Ten 2011 (by Dean Calma - IAEA Imagebank) (cropped).jpg,
@@ -4146,6 +4166,7 @@ Q66663513,José Simón Marín,male,1983-07-17,11,,,,
 Q66663516,Martina Velarde Gómez,female,1979-04-14,11,,,Martina Velarde 2019.jpg,
 Q66663518,María Luisa Vilches Ruiz,,1982-01-16,11,,,,
 Q66663521,Noemí Villagrasa Quero,female,1980-09-14,11,,,,
+Q66666793,Lluís Franco i Sala,male,,,,,,
 Q669374,Ignacio Diego,male,1960-05-18,11,,,Rueda de prensa de Ignacio Diego 05-02-2016 (3).jpg,Ignacio Diego
 Q6694437,Carles Campuzano,male,1964-07-12,11,,,Carles Campuzano 2015 (cropped 3x4).jpg,Carles Campuzano
 Q67195192,Carmen Pérez-Carballo,female,1951-08-27,11,,,(Carmen Pérez-Carballo) Carmen Pérez Carballo (programa de innovación y tecnología de la información de IU).jpg,
@@ -4154,6 +4175,7 @@ Q6742894,Susana Camarero,female,1970-04-25,11,,,Susana Camarero 2015 (cropped).j
 Q6745167,Montserrat Tura i Camafreita,female,1954-11-06,11,,,Montserrat Tura.JPG,Montserrat Tura
 Q6746375,Fernando Grande Marlasca,male,1962-07-26,11,,,Fernando Grande-Marlaska 2020 (cropped).jpg,Fernando Grande-Marlaska
 Q6746546,Josep Maria Pañella i Alcácer,male,1952-10-19,11,,,Panyella.jpg,
+Q6752432,Manuel Balcells i Díaz,male,1958-01-09,11,,,Manel Balcells retrat oficial 2022.jpg,Manuel Balcells i Díaz
 Q6774120,Marta Gastón Menal,female,1973-02-02,11,,,(Marta Gastón). Premios Empresa. LaComarcaTeVe (cropped).JPG,Marta Gastón Menal
 Q6774179,Marta Torrado de Castro,female,1966-01-20,11,,,Marta.Torrado.jpg,Marta Torrado de Castro
 Q6781915,María Angels Ramón-Llin,female,1963-06-15,11,,,,María Angels Ramón-Llin
@@ -4296,6 +4318,7 @@ Q87404141,Belén Arrondo,female,1956,9,,,,
 Q87602468,Ana Vega Campos,female,1986-05-01,11,,,,
 Q8772401,Eduardo Tamayo Barrena,male,1959-02-02,11,,,,
 Q8772477,Edurne Uriarte,female,1960-10-27,11,,,"(Edurne Uriarte) Pablo Casado presenta el libro de Edurne Uriarte ""Feminista de Derechas"" (47260097752) (cropped).jpg",Edurne Uriarte
+Q87735309,Josep Maria Argimon i Pallàs,male,1958,9,,,Josep Maria Argimon retrat oficial 2021 (cropped).jpg,
 Q8775568,Emilio Olabarria,male,1955-04-02,11,,,Emilio olabarria.jpg,
 Q8775589,Emilio del Valle,male,1960-12-26,11,,,(Emilio del Valle) Inmaculada Valencia toma posesión como directora general de Economía y Asuntos Europeos.jpg,Emilio del Valle
 Q8777321,Ernest Benito Serra,male,1951-02-26,11,,,,
@@ -4304,6 +4327,7 @@ Q87813796,José Ramón Becerra,male,1969,9,,,Jose Ramon Becerra.jpg,
 Q8846178,Eugenio Nasarre,male,1946-03-02,11,,,Eugenio Nasarre 2009 (cropped).jpg,Eugenio Nasarre
 Q88869536,Juan Ros Alcaide,male,1956-06-10,11,,,,
 Q89414292,Marine Pueyo,female,1954,9,,,Marine Pueyo 2008.jpg,
+Q8961099,Felip Puig Godes,male,1958,9,,,Felip Puig.png,Felip Puig
 Q8961338,Fernando López-Amor García,male,1952-05-06,11,,,,
 Q8961453,Ferran Mascarell i Canalda,male,1951,9,,,Ferran Mascarell.jpg,
 Q8962161,Francesc Colomer Sánchez,male,1966-12-11,11,,,Francesc Colomer Sanchez.JPG,
@@ -4498,6 +4522,7 @@ Q98398915,Noa Díaz Varela,female,1974,9,,,,
 Q98408458,Patricia Otero Rodríguez,female,1979,9,,,,
 Q984106,Francisco Caamaño Domínguez,male,1963-01-08,11,,,Francisco Caamaño Domínguez.jpg,Francisco Caamaño Domínguez
 Q98539754,Luis Gordillo Pérez,male,1980,9,,,LuisGordillo.jpg,
+Q98842742,Miquel Sàmper i Rodríguez,male,1966,9,,,Miquel Sàmper retrat oficial govern 2020.jpg,Miquel Sàmper
 Q98923186,Gotzone Sagardui Goikoetxea,female,1966-03-15,11,,,Gotzone Sagardui 2020b.jpg,Gotzone Sagardui
 Q99383962,Senén Florensa Palau,male,1950,9,,,Senén Florensa Palau (30578261858) (cropped).jpg,
 Q99455197,Joan Antoni Caballol i Angelats,male,1964,9,,,,

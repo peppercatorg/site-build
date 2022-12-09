@@ -13392,6 +13392,7 @@ Spain,Q11921017,Esther López Barceló,spouse,Q5815687,Ignacio Blanco Giner
 Spain,Q11922769,Francesc Homs Molist,sibling,Q19301177,Mercè Homs i Molist
 Spain,Q11924122,Germà Gordó i Aubarell,spouse,Q19301797,Roser Bach Fabregó
 Spain,Q11927747,Joan Huguet i Rotger,sibling,Q22964632,Llorenç Huguet Rotger
+Spain,Q11927846,Joan Miquel Nadal i Malé,father,Q11944445,Rafael Nadal i Company
 Spain,Q11928066,Joaquim Arrufat i Ibáñez,mother,Q97191640,Maria Luisa Ibáñez Milian
 Spain,Q11928768,Josep M. Vila D'Abadal Serra,father,Q19301112,Marià Vila-Abadal Vilaplana
 Spain,Q11928768,Josep M. Vila D'Abadal Serra,relative,Q19300892,Lluís Vila i d'Abadal
@@ -13403,6 +13404,8 @@ Spain,Q11934854,Manel Nadal i Farreras,sibling,Q11928731,Josep Maria Nadal i Far
 Spain,Q11934854,Manel Nadal i Farreras,sibling,Q11944442,Rafel Nadal
 Spain,Q11934854,Manel Nadal i Farreras,sibling,Q2876147,Joaquim Nadal i Farreras
 Spain,Q11935399,Margarita Isabel Cabrer González,father,Q62055287,Bartomeu Cabrer Barbosa
+Spain,Q11935596,Mariàngela Vilallonga i Vives,child,Q28955053,Borja Vilallonga
+Spain,Q11935596,Mariàngela Vilallonga i Vives,father,Q61052924,Josep Vilallonga i Ribalta
 Spain,Q11936570,Meritxell Borràs i Solé,father,Q29950662,Jacint Borràs i Manuel
 Spain,Q11936733,Miguel-Anxo Fernán-Vello,sibling,Q12388512,Fidel Fernán Bello
 Spain,Q11936739,Miguel Barceló Pérez,child,Q11955794,Ángela María Barceló Martorell
@@ -13550,6 +13553,9 @@ Spain,Q2083681,Esperanza Aguirre,relative,Q978013,Jaime Gil de Biedma
 Spain,Q2083681,Esperanza Aguirre,spouse,Q5444892,"Fernando Ramírez de Haro, 16th Count of Murillo"
 Spain,Q20875709,Xavier Cima i Ruiz,spouse,Q13786674,Inés Arrimadas
 Spain,Q20875963,Anna Gabriel i Sabaté,mother,Q58428707,Maribel Sabaté
+Spain,Q20876136,Joaquim Triadú i Vila-Abadal,father,Q472979,Joan Triadú
+Spain,Q20876136,Joaquim Triadú i Vila-Abadal,mother,Q98161796,Pilar Vila-Abadal
+Spain,Q20876136,Joaquim Triadú i Vila-Abadal,sibling,Q98161706,Teresa Triadú i Vila-Abadal
 Spain,Q20876325,Vicent Marzà i Ibàñez,father,Q16976802,Vicent Marzà i Duch
 Spain,Q20876345,Josep Maria Matas i Babon,partner,Q65037106,Judith Gifreu i Font
 Spain,Q20876351,María Estrella Matutes Prats,father,Q318474,Abel Matutes
@@ -13958,6 +13964,7 @@ Spain,Q8194013,Alejandro Alvargonzález,sibling,Q5859165,Fernando Alvargonzález
 Spain,Q8198786,Andoni Ortuzar,child,Q110205001,Garazi Ortuzar
 Spain,Q8772477,Edurne Uriarte,partner,Q705911,José Ignacio Wert
 Spain,Q8846178,Eugenio Nasarre,sibling,Q5667042,Alfonso Nasarre Goicoechea
+Spain,Q8961099,Felip Puig Godes,sibling,Q54578388,Oriol Puig i Godes
 Spain,Q8962443,Francisco Javier de Lucas Martín,sibling,Q107440542,Ignacio Miguel de Lucas Martín
 Spain,Q9009149,Inés Alberdi,sibling,Q3002877,Cristina Alberdi
 Spain,Q9009149,Inés Alberdi,spouse,Q3359735,Miguel Ángel Fernández Ordóñez
