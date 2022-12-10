@@ -2193,7 +2193,7 @@ China,Q20062890,Fu Yang,mother,Q7927735,Zhang Jieqing
 China,Q20062890,Fu Yang,sibling,Q10889193,Fu Rui
 China,Q20062890,Fu Yang,sibling,Q20062888,Fu Yan
 China,Q20065300,Kenneth Lau,father,Q6497659,Lau Wong-fat
-China,Q202597,Chen Kaige,child,Q57292172,Chen Feiyu
+China,Q202597,Chen Kaige,child,Q57292172,Arthur Chen
 China,Q202597,Chen Kaige,father,Q11086759,Chen Huai'ai
 China,Q202597,Chen Kaige,spouse,Q545651,Chen Hong
 China,Q202597,Chen Kaige,spouse,Q5942570,Hung Huang
@@ -2206,6 +2206,7 @@ China,Q21822,Bo Xilai,father,Q553682,Bo Yibo
 China,Q21822,Bo Xilai,sibling,Q8925023,Bo Xiyong
 China,Q21822,Bo Xilai,spouse,Q2499132,Gu Kailai
 China,Q2183509,Liza Wang,spouse,Q837654,Law Kar-ying
+China,Q222441,Fernando Chui,sibling,Q4166149,Chui Sai Cheong
 China,Q242371,Du Li,spouse,Q459009,Pang Wei
 China,Q272307,Wang Guangmei,child,Q10897443,Liu Pingping
 China,Q272307,Wang Guangmei,child,Q110107049,Liu Ting
@@ -5191,6 +5192,7 @@ France,Q2965339,Christian Houdet,sibling,Q109852357,Brice Houdet
 France,Q2965544,Christian Philip,father,Q3351278,Olivier Philip
 France,Q2965544,Christian Philip,sibling,Q3524473,Thierry Philip
 France,Q2965938,Christine Lazerges,spouse,Q33273419,Roland Lazerges
+France,Q2977303,Claude Domeizel,child,Q115648944,Mariane Domeizel
 France,Q2977303,Claude Domeizel,child,Q33026911,Emmanuelle Fontaine-Domeizel
 France,Q29791418,Éric Bothorel,child,Q107840464,Somoine
 France,Q2980738,Clémentine Autain,father,Q3573347,Yvan Dautin
@@ -5209,6 +5211,7 @@ France,Q30130489,Roland Lescure,father,Q3085166,François Lescure
 France,Q30130489,Roland Lescure,relative,Q3385949,Pierre Lescure
 France,Q30130489,Roland Lescure,relative,Q3387603,Pierre de Lescure
 France,Q3014616,Daniel Rondeau,sibling,Q3124275,Gérard Rondeau
+France,Q3021807,Delphine Borione,spouse,Q47111791,Ludovico Pratesi
 France,Q3022540,Denis Baupin,spouse,Q3052948,Emmanuelle Cosse
 France,Q3026961,Didier Chouat,sibling,Q58869106,Francis Chouat
 France,Q3027070,Didier Le Bret,spouse,Q462950,Mazarine Pingeot
@@ -5361,6 +5364,7 @@ France,Q3295795,Martine Lehideux,father,Q93438468,Hubert Lehideux
 France,Q3295795,Martine Lehideux,sibling,Q2898234,Bernard Lehideux
 France,Q3295795,Martine Lehideux,spouse,Q2847683,André Dufraisse
 France,Q33026911,Emmanuelle Fontaine-Domeizel,father,Q2977303,Claude Domeizel
+France,Q33026911,Emmanuelle Fontaine-Domeizel,sibling,Q115648944,Mariane Domeizel
 France,Q3309485,Michel Diefenbacher,child,Q47546384,Tristan Diefenbacher
 France,Q3309485,Michel Diefenbacher,father,Q19367358,Alfred Diefenbacher
 France,Q3309485,Michel Diefenbacher,sibling,Q33139975,Jean-Louis Diefenbacher
@@ -14403,6 +14407,7 @@ Syria,Q118725,Hafez al-Assad,spouse,Q12180950,Anisa Makhlouf
 Syria,Q12180950,Anisa Makhlouf,child,Q44329,Bashar al-Assad
 Syria,Q12180950,Anisa Makhlouf,child,Q447173,Maher al-Assad
 Syria,Q12180950,Anisa Makhlouf,child,Q459816,Bushra al Assad
+Syria,Q12180950,Anisa Makhlouf,child,Q6852608,Majd al-Asad
 Syria,Q12180950,Anisa Makhlouf,child,Q706694,Bassel al-Assad
 Syria,Q12180950,Anisa Makhlouf,sibling,Q112117043,Mohammed Makhlouf
 Syria,Q12180950,Anisa Makhlouf,spouse,Q118725,Hafez al-Assad
