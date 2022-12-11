@@ -499,7 +499,9 @@ France,Q3340186,Nicolas Chapuis,mother,Q3073920,Florence Aboulker
 France,Q3340186,Nicolas Chapuis,sibling,Q3063804,Fabrice Aboulker
 France,Q334065,Cédric Villani,father,Q46134779,Patrice Villani
 France,Q334065,Cédric Villani,mother,Q46134527,Jacqueline Villani
+France,Q3341021,Nicole Catala,father,Q115661643,Charles Catala
 France,Q3341021,Nicole Catala,sibling,Q3384316,Pierre Catala
+France,Q3341021,Nicole Catala,spouse,Q115661548,Raymond Franjou
 France,Q3350961,Olivier Dassault,father,Q981270,Serge Dassault
 France,Q3350961,Olivier Dassault,sibling,Q11984920,Thierry Dassault
 France,Q3350961,Olivier Dassault,sibling,Q17434850,Marie-Hélène Habert
@@ -613,6 +615,7 @@ France,Q46489779,Gilles Pennelle,sibling,Q63313449,Guillaume Pennelle
 France,Q467781,Jean-Louis Borloo,spouse,Q258139,Béatrice Schönberg
 France,Q46998362,Thomas Laval,spouse,Q49169204,Kelly Betesh
 France,Q47001311,Mélanie Disdier,father,Q70757416,Jacques Disdier
+France,Q47474305,Anne Boillon,spouse,Q2910923,Boris Francis Nicolas Boillon
 France,Q47543682,Anne Lorne,father,Q3369647,Patrick Louis
 France,Q47651081,Alain Fontanel,spouse,Q47652017,Marie Fontanel
 France,Q484605,Christine Lagarde,partner,Q23926430,Xavier Giocanti

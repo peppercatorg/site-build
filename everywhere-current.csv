@@ -1325,7 +1325,7 @@ Colombia,Minister of Finance and Public Credit,José Antonio Ocampo,Q3076265,202
 Colombia,Minister of Foreign Affairs,Álvaro Leyva,Q10395812,2022-08-07,male,1942-08-29,,Álvaro Leyva Durán.jpg,Álvaro Leyva
 Colombia,Minister of Health and Social Protection,Diana Carolina Corcho,Q112917761,2022-08-07,female,,,Carolina Corcho Mejía.jpg,
 Colombia,Minister of Housing,Catalina Velasco,Q113463856,2022-08-07,female,1968-06-04,,Catalina Velasco C.jpg,
-Colombia,Minister of Information Technology and Communications,Sandra Urrutia,Q113674316,2022-09-05,female,1978-09-20,,Sandra Urrutia Perez.jpg,
+Colombia,Minister of Information Technology and Communications,Sandra Urrutia,Q113674316,2022-09-05,female,1978-09-20,,Sandra Urrutia Perez.jpg,Sandra Urrutia
 Colombia,Minister of the Interior,Alfonso Prada,Q17620689,2022-08-07,male,1964-10-06,,Alfoso Prada.jpg,Alfonso Prada
 Colombia,Minister of Justice and Law,Néstor Osuna,Q113463590,2022-08-07,male,1962-04-12,,Nestor Osuna.jpg,Néstor Osuna
 Colombia,Minister of Labour,Gloria Inés Ramírez,Q5881263,2022-08-07,female,1956,,Gloria Ines Ramirez R.jpg,Gloria Inés Ramírez
@@ -1735,6 +1735,7 @@ Ecuador,Minister of Telecommunications,Vianna Maino Isaías,Q114290224,2021-05-2
 Ecuador,Minister of Tourism,Niels Olsen Peet,Q114290223,2021-05-24,,,,,
 Ecuador,Minister of Transport and Public Works,Darío Herrera Falcones,Q114290216,2022-07-05,,,,,
 Ecuador,Minister of Urban Development and Housing,María Gabriela Aguilera Jaramillo,Q114290222,2022-07-05,,,,,
+Ecuador,Secretary of Human Rights,Paola Flores Jaramillo,Q114598637,2022-05-05,female,,,Paola Flores Jaramillo Firma de Acuerdo de Cooperación - 28 09 2022 (sq cropped).jpg,
 Ecuador,President of the National Assembly,Elizabeth Cabezas,Q50524224,2018-03-14,female,1963-06-14,,"Elizabeth Cabezas, Presidenta de la Asamblea Nacional (cropped).jpg",Elizabeth Cabezas
 Ecuador,Mayor of Guayaquil,Cynthia Viteri,Q3008822,2019-05-14,female,1965-11-19,,Cynthia Viteri en 2018 02 (cropped).jpg,Cynthia Viteri
 Ecuador,Mayor of Quito,Santiago Guarderas,Q107104638,2021-09-30,male,1962,,Santiago Guarderas Izquierdo.jpg,Santiago Guarderas
@@ -2544,7 +2545,7 @@ Hungary,Minister of the Prime Minister's Office,Gergely Gulyás,Q5550584,2018-05
 Hungary,Minister without portfolio for Economic Development,Márton Nagy,Q20725363,2022-05-24,male,1976-05-09,,,
 Hungary,Minister Without Portfolio for Land Development and Use of EU Funds,Tibor Navracsics,Q832221,2022-05-24,male,1966-06-13,,Navracsics Tibor Portrait.jpg,Tibor Navracsics
 Hungary,political director of the Prime Minister,Balázs Orbán,Q59417334,2021-08-20,male,1986-02-13,,Balázs Orbán in 2019.jpg,Balázs Orbán (politician)
-Hungary,Secretary of State for Territorial Public Administration,Zoltán Kovács,Q1034272,2014-06,male,1957-12-01,,Dr. Kovács Zoltán cropped.jpg,"Zoltán Kovács (politician, born 1957)"
+Hungary,Secretary of State for Territorial Public Administration,István György,Q785188,2020-06,male,1959-10-31,,György István.jpg,István György
 Hungary,Speaker of the National Assembly,László Kövér,Q465476,2010-08-06,male,1959-12-29,,László Kövér Senate of Poland 01.JPG,László Kövér
 Hungary,Chief of Staff of the Prime Minister,Antal Rogán,Q1249804,2015-10-01,male,1972-01-29,,Rogán Antal 2009 Solymár.jpg,Antal Rogán
 Hungary,Chief Prosecutor,Péter Polt,Q1238709,2010-12-14,male,1955-09-06,,,Péter Polt
@@ -2674,6 +2675,7 @@ Indonesia,Coordinating Minister for Human Development and Cultural Affairs,Muhad
 Indonesia,Coordinating Minister for Maritime Affairs and Investment,Luhut Binsar Panjaitan,Q14917375,2016-07-27,male,1947-09-28,,Luhut Binsar Panjaitan.jpg,Luhut Binsar Pandjaitan
 Indonesia,"Coordinating Minister for Political, Legal, and Security Affairs",Mahfud MD,Q6892160,2019-10-23,male,1957-05-13,,KIM Mahfud MD.jpg,Mahfud MD
 Indonesia,Head of the National Development Planning Agency,Suharso Monoarfa,Q12516581,2019-10-23,male,1954-10-31,,Suharso Monoarfa.png,Suharso Monoarfa
+Indonesia,Head of the National Research and Innovation Agency,L.T. Handoko,Q16179761,2021-04-28,male,1968-05-07,,L.T. Handoko (LIPI).jpg,Laksana Tri Handoko
 Indonesia,Chairman of the Investment Coordinating Board,Bahlil Lahadalia,Q65204620,2019-10-23,male,1976-08-07,,Bahlil Lahadalia HIPMI.jpg,Bahlil Lahadalia
 Indonesia,Cabinet Secretary,Pramono Anung,Q12506342,2019-10-23,male,1963-06-11,,Pramono Anung.JPG,
 Indonesia,Presidential Chief of Staff,Moeldoko,Q12498731,2018-01-17,male,1957-07-08,,Moeldoko-Portrait.jpg,Moeldoko
@@ -2854,9 +2856,9 @@ Israel,Mayor of Jerusalem,Moshe Lion,Q12409594,2018-12-04,male,1961-10-06,,Moshe
 Italy,President,Sergio Mattarella,Q3956186,2015-02-03,male,1941-07-23,,Sergio Mattarella Presidente della Repubblica Italiana.jpg,Sergio Mattarella
 Italy,Prime Minister,Giorgia Meloni,Q451791,2022-10-22,female,1977-01-15,,Giorgia Meloni 2022.jpg,Giorgia Meloni
 Italy,Deputy Prime Minister,Matteo Salvini,Q1055449,2022-10-22,male,1973-03-09,,Matteo Salvini Sept 2021 3 (cropped).jpg,Matteo Salvini
-Italy,Deputy Prime Minister,Antonio Tajani,Q440710,2022-10-22,male,1953-08-04,,Antonio Tajani March 2017.jpg,Antonio Tajani
+Italy,Deputy Prime Minister,Antonio Tajani,Q440710,2022-10-22,male,1953-08-04,,Antonio Tajani in the European Parliament (cropped).jpg,Antonio Tajani
 Italy,Minister of Agriculture,Francesco Lollobrigida,Q56433809,2022-10-22,male,1972-03-21,,Francesco Lollobrigida datiCamera 2022.jpg,Francesco Lollobrigida
-Italy,Minister of Cultural Heritage and Activities,Gennaro Sangiuliano,Q3759845,2022-10-22,male,1962-06-06,,Gennaro Sangiuliano 2022 (cropped).jpg,Gennaro Sangiuliano
+Italy,Minister of Cultural Heritage and Activities,Gennaro Sangiuliano,Q3759845,2022-10-22,male,1962-06-06,,P059536-716797 (cropped).jpg,Gennaro Sangiuliano
 Italy,Minister of Defence,Guido Crosetto,Q3119423,2022-10-22,male,1963-09-19,,Guido Crosetto Official.jpg,Guido Crosetto
 Italy,Minister for Disabilities,Alessandra Locatelli,Q52990196,2022-10-22,female,1976-09-24,,Locatelli Alessandra 2021.jpg,Alessandra Locatelli
 Italy,Minister of Economic Development,Adolfo Urso,Q2824733,2022-10-22,male,1957-07-12,,Adolfo Urso 2022.jpg,Adolfo Urso
@@ -2865,7 +2867,7 @@ Italy,Minister of Education,Giuseppe Valditara,Q3771578,2022-10-22,male,1961-01-
 Italy,Minister of the Environment,Gilberto Pichetto Fratin,Q3764245,2022-10-22,male,1954-01-04,,Gilberto Pichetto Fratin.jpg,Gilberto Pichetto Fratin
 Italy,Minister for EU Affairs,Raffaele Fitto,Q1060314,2022-10-22,male,1969-08-28,,Welcome speech of Raffaele Fitto on behalf of the European Conservatives and Reformists (ECR) group (48188712901) (cropped).jpg,Raffaele Fitto
 Italy,Minister of Family,Eugenia Roccella,Q3059585,2022-10-22,female,1953-11-15,,Eugenia Roccella daticamera 2022.jpg,Eugenia Roccella
-Italy,Minister of Foreign Affairs,Antonio Tajani,Q440710,2022-10-22,male,1953-08-04,,Antonio Tajani March 2017.jpg,Antonio Tajani
+Italy,Minister of Foreign Affairs,Antonio Tajani,Q440710,2022-10-22,male,1953-08-04,,Antonio Tajani in the European Parliament (cropped).jpg,Antonio Tajani
 Italy,Minister of Health,Orazio Schillaci,Q57615236,2022-10-22,male,1966-04-27,,Ministro Orazio Schillaci (cropped).jpg,Orazio Schillaci
 Italy,Minister of Infrastructure and Transport,Matteo Salvini,Q1055449,2022-10-22,male,1973-03-09,,Matteo Salvini Sept 2021 3 (cropped).jpg,Matteo Salvini
 Italy,Minister for Institutional Reforms,Elisabetta Casellati,Q930967,2022-10-22,female,1946-08-12,,Elisabetta Alberti Casellati cropped.jpg,Elisabetta Casellati
@@ -3410,7 +3412,7 @@ Libya,Minister of Youth,Fathallah Abd Al-Latif Al-Zani,Q114884642,2021-03-15,,,,
 Liechtenstein,Prince,"Hans-Adam II, Prince of Liechtenstein",Q57454,1989-11-13,male,1945-02-14,,Fürst Hans-Adam II. von und zu Liechtenstein.jpg,"Hans-Adam II, Prince of Liechtenstein"
 Liechtenstein,Prime Minister,Daniel Risch,Q30882650,2021-03-25,male,1978-03-05,,Даниэль Риш (09-11-2021).jpg,Daniel Risch
 Liechtenstein,Deputy Prime Minister,Sabine Monauni,Q65934265,2021-03-25,female,1974-04-10,,,Sabine Monauni
-Liechtenstein,"Minister of Foreign Affairs, Education and Sport",Dominique Hasler,Q30883975,2017-03-30,female,1978-10-06,,Dominique Gantenbein 01.jpg,Dominique Hasler
+Liechtenstein,"Minister of Foreign Affairs, Education and Sport",Dominique Hasler,Q30883975,2021-03-25,female,1978-10-06,,Dominique Gantenbein 01.jpg,Dominique Hasler
 Liechtenstein,Minister of Infrastructure and Justice,Graziella Marok-Wachter,Q106301209,2021-03-25,female,1965-05-04,,,Graziella Marok-Wachter
 Liechtenstein,Minister of Social Affairs and Culture,Manuel Frick,Q106517978,2021-03-25,male,1984-11-16,,,
 Liechtenstein,President of the Landtag,Albert Frick,Q1477867,2013-03,male,1948-10-21,,Albert Frick.jpg,Albert Frick (politician)
@@ -4835,7 +4837,7 @@ Romania,Governor of the National Bank,Mugur Isărescu,Q255022,2000-12-28,male,19
 Romania,Chief of the General Staff,Daniel Petrescu,Q90258002,2019-10-29,male,1971-01-26,,Daniel Petrescu in 2020.jpg,
 Romania,Mayor of Bucharest,Nicușor Dan,Q11163124,2020-10-29,male,1969-12-20,,Nicușor Dan candidatura bgiu.jpg,Nicușor Dan
 Romania,Prefect of Bucharest,Toni Greblă,Q18549788,2022-05-04,male,1953-12-30,,,
-Russia,President,Vladimir Putin,Q7747,2012-05-07,male,1952-10-07,,Владимир Путин (08-09-2022) 2.png,Vladimir Putin
+Russia,President,Vladimir Putin,Q7747,2012-05-07,male,1952-10-07,,Vladimir Putin 17-11-2021 (cropped).jpg,Vladimir Putin
 Russia,Prime Minister,Mikhail Mishustin,Q4298520,2020-01-16,male,1966-03-03,,Mikhail Mishustin (2020-07-09).jpg,Mikhail Mishustin
 Russia,First Deputy Prime Minister,Andrey Belousov,Q4082839,2020-01-21,male,1959-03-17,,2022 Andrei Belousov.png,Andrey Belousov
 Russia,Deputy Prime Minister,Yuri Trutnev,Q1320356,2013-08-31,male,1956-03-01,,Yury Trutnev (2019-12-19).jpg,Yury Trutnev
@@ -4875,7 +4877,7 @@ Russia,Director of the Federal Security Service,Alexander Bortnikov,Q516824,2008
 Russia,Secretary of the Security Council,Nikolai Patrushev,Q446865,2008-05-12,male,1951-07-11,,Nikolay Patrushev 2019.jpg,Nikolai Patrushev
 Russia,Prosecutor-General,Igor Krasnov,Q19908285,2020-01-22,male,1975-12-24,,11-03-2020 Igor Krasnov.png,Igor Krasnov
 Russia,Governor of the Central Bank,Elvira Nabiullina,Q74746,2013-06-24,female,1963-10-29,,Elvira Nabiullina 2017.jpg,Elvira Nabiullina
-Russia,Supreme Commander-in-Chief of the Armed Forces,Vladimir Putin,Q7747,2012-05-07,male,1952-10-07,,Владимир Путин (08-09-2022) 2.png,Vladimir Putin
+Russia,Supreme Commander-in-Chief of the Armed Forces,Vladimir Putin,Q7747,2012-05-07,male,1952-10-07,,Vladimir Putin 17-11-2021 (cropped).jpg,Vladimir Putin
 Russia,Chairman of the Federation Council,Valentina Matviyenko,Q182654,2011-09-21,female,1949-04-07,,В.И. Матвиенко.jpg,Valentina Matviyenko
 Russia,Chairman of the State Duma,Vyacheslav Volodin,Q982461,2016-12-05,male,1964-02-04,,Володин В.В.jpg,Vyacheslav Volodin
 Rwanda,President,Paul Kagame,Q1231345,2000-04-22,male,1957-10-23,,Paul Kagame MSC 2017.jpg,Paul Kagame
@@ -5621,7 +5623,7 @@ Sweden,Minister for Housing,Andreas Carlson,Q5602835,2022-10-18,male,1987-02-13,
 Sweden,Minister for Infrastructure,Andreas Carlson,Q5602835,2022-10-18,male,1987-02-13,,Andreas Carlson.jpg,Andreas Carlson
 Sweden,Minister for Integration,Johan Pehrson,Q6039678,2022-10-18,male,1968-05-08,,Johan Pehrson 2022 Stockholm 04 (cropped).jpg,Johan Pehrson
 Sweden,Minister for International Development Cooperation,Johan Forssell,Q5737622,2022-10-18,male,1979-12-08,,Johan forssell.riksdagen2018.18d952.1660338.jpg,"Johan Forssell (politician, born 1979)"
-Sweden,Minister for Justice,Gunnar Strömmer,Q6193547,2022-10-18,male,1972-09-19,,,Gunnar Strömmer
+Sweden,Minister for Justice,Gunnar Strömmer,Q6193547,2022-10-18,male,1972-09-19,,Gunnar Strömmer in 2018-2.jpg,Gunnar Strömmer
 Sweden,Minister for Migration and Asylum Policy,Maria Malmer Stenergard,Q18202362,2022-10-18,female,1981-03-23,,Maria ulf (cropped).jpg,Maria Malmer Stenergard
 Sweden,Minister of Primary Education,Lotta Edholm,Q4945706,2022-10-18,female,1965-02-08,,All You Need is Love - Stockholm Pride 2014 - 16.jpg,Lotta Edholm
 Sweden,Minister for Rural Affairs,Peter Kullgren,Q5925995,2022-10-18,male,1981-05-17,,Peter-kullgren-kd-2022.jpg,Peter Kullgren

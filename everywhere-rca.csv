@@ -171,6 +171,7 @@ Argentina,Q20645466,Juliana Awada,spouse,Q561837,Mauricio Macri
 Argentina,Q20737416,Juan Fernando Brügge,relative,Q272702,Laura Vicuña
 Argentina,Q21280633,Ramiro Tagliaferro,spouse,Q6782004,María Eugenia Vidal
 Argentina,Q2130489,Ramón Javier Mestre,father,Q6959980,Ramón Mestre
+Argentina,Q21558292,Carolina Stanley,spouse,Q28861753,Federico Salvai
 Argentina,Q21856082,Remo Carlotto,mother,Q299652,Estela Barnes de Carlotto
 Argentina,Q21856142,Ana Carolina Gaillard,partner,Q107802947,Nicolás Rodríguez Saá
 Argentina,Q21856173,Marco Lavagna,father,Q2832959,Roberto Lavagna
@@ -5408,7 +5409,9 @@ France,Q3340186,Nicolas Chapuis,mother,Q3073920,Florence Aboulker
 France,Q3340186,Nicolas Chapuis,sibling,Q3063804,Fabrice Aboulker
 France,Q334065,Cédric Villani,father,Q46134779,Patrice Villani
 France,Q334065,Cédric Villani,mother,Q46134527,Jacqueline Villani
+France,Q3341021,Nicole Catala,father,Q115661643,Charles Catala
 France,Q3341021,Nicole Catala,sibling,Q3384316,Pierre Catala
+France,Q3341021,Nicole Catala,spouse,Q115661548,Raymond Franjou
 France,Q3350961,Olivier Dassault,father,Q981270,Serge Dassault
 France,Q3350961,Olivier Dassault,sibling,Q11984920,Thierry Dassault
 France,Q3350961,Olivier Dassault,sibling,Q17434850,Marie-Hélène Habert
@@ -5522,6 +5525,7 @@ France,Q46489779,Gilles Pennelle,sibling,Q63313449,Guillaume Pennelle
 France,Q467781,Jean-Louis Borloo,spouse,Q258139,Béatrice Schönberg
 France,Q46998362,Thomas Laval,spouse,Q49169204,Kelly Betesh
 France,Q47001311,Mélanie Disdier,father,Q70757416,Jacques Disdier
+France,Q47474305,Anne Boillon,spouse,Q2910923,Boris Francis Nicolas Boillon
 France,Q47543682,Anne Lorne,father,Q3369647,Patrick Louis
 France,Q47651081,Alain Fontanel,spouse,Q47652017,Marie Fontanel
 France,Q484605,Christine Lagarde,partner,Q23926430,Xavier Giocanti
@@ -9403,13 +9407,13 @@ Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q311308,"Aloi
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q5428603,Prince Constantin of Liechtenstein
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q5428633,Princess Tatjana of Liechtenstein
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",child,Q877624,Prince Maximilian of Liechtenstein
-Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",father,Q165674,Franz Joseph II
+Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",father,Q165674,"Franz Joseph II, Prince of Liechtenstein"
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",mother,Q255679,Countess Georgina von Wilczek
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q2054781,Prince Philipp of Liechtenstein
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q2564880,Prince Wenzel of Liechtenstein
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q453463,"Princess Nora, Marchioness of Mariño"
 Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",sibling,Q676450,Prince Nikolaus of Liechtenstein
-Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",spouse,Q238233,"Marie, Princess of Lichtenstein"
+Liechtenstein,Q57454,"Hans-Adam II, Prince of Liechtenstein",spouse,Q238233,"Marie-Aglaë, Princess of Lichtenstein"
 Liechtenstein,Q76598032,Katrin Eggenberger,relative,Q9106974,Josef Biedermann
 Lithuania,Q100371377,Arūnas Valinskas,father,Q719281,Arūnas Valinskas
 Lithuania,Q100371377,Arūnas Valinskas,mother,Q541471,Ingrida Valinskienė
@@ -12250,6 +12254,7 @@ Russia,Q28497365,Elmira Glubokovskaya,spouse,Q28497366,Mikhail Gloubokovsky
 Russia,Q28497366,Mikhail Gloubokovsky,spouse,Q28497365,Elmira Glubokovskaya
 Russia,Q28526218,Artyom Turov,father,Q3920850,Viktor Turov
 Russia,Q297006,Akhmad Kadyrov,child,Q217115,Ramzan Kadyrov
+Russia,Q297006,Akhmad Kadyrov,spouse,Q21887442,Aymani Kadyrova
 Russia,Q3050754,Eleonora Mitrofanova,sibling,Q4296811,Aleksey Mitrofanov
 Russia,Q311019,Boris Berezovsky,child,Q15064471,Elizaveta Borisovna Berezovskaïa
 Russia,Q313452,Buvaisar Saitiev,sibling,Q348977,Adam Saitiev
@@ -13653,6 +13658,7 @@ Spain,Q27756341,Sonia Ferrer Tesoro,mother,Q111222486,Martirio Tesoro Amate
 Spain,Q27999127,Pablo Bustinduy,father,Q23071126,Javier Bustinduy
 Spain,Q27999127,Pablo Bustinduy,mother,Q3327529,Ángeles Amador Millán
 Spain,Q2831767,Alberto Fabra,spouse,Q261034,Silvia Jato Nuñez
+Spain,Q2850465,Anna Maria Birulés i Bertran,sibling,Q76157033,Josep Maria Birulés i Bertran
 Spain,Q2857195,Antonio Basagoiti Pastor,father,Q5697826,Antonio Basagoiti García-Tuñón
 Spain,Q28662924,Joaquim Forn,spouse,Q58484308,Laura Masvidal
 Spain,Q2876147,Joaquim Nadal i Farreras,father,Q42252577,Manel Nadal i Oller
@@ -14270,6 +14276,7 @@ Sweden,Q6030080,Mikael Oscarsson,sibling,Q18244900,Magnus Oscarsson
 Sweden,Q6043655,Peter Persson,spouse,Q4972552,Margareta Persson
 Sweden,Q6066346,Göran Regner,father,Q6066388,Nils  Regner
 Sweden,Q6066346,Göran Regner,sibling,Q6066373,Hans Regner
+Sweden,Q6066346,Göran Regner,spouse,Q115654924,Marja Regner
 Sweden,Q6066373,Hans Regner,father,Q6066388,Nils  Regner
 Sweden,Q6066373,Hans Regner,sibling,Q6066346,Göran Regner
 Sweden,Q6072812,Stig Rindborg,sibling,Q42394041,Ingvar Rindborg
@@ -14513,6 +14520,7 @@ Taiwan,Q57838,Wu Den-yih,spouse,Q13428851,Tsai Ling-yi
 Taiwan,Q60992873,Chen Ching-min,father,Q60994247,Chen Anbang
 Taiwan,Q60992873,Chen Ching-min,sibling,Q8272145,Chen Chien-ming
 Taiwan,Q6148708,Yeh Chu-lan,spouse,Q3846616,Cheng Nan-jung
+Taiwan,Q6513938,Lee Hong-yuan,sibling,Q8275115,Lee Hong-chun
 Taiwan,Q700774,Su Jia-chyuan,sibling,Q17059823,Su Chia-fu
 Taiwan,Q709307,Hau Lung-pin,father,Q709142,Hau Pei-tsun
 Taiwan,Q710060,Huang Chih-hsiung,spouse,Q8273543,Hung Chia-chun
