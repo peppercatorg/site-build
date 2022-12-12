@@ -1252,6 +1252,9 @@ Brazil,Q10324996,Marcela Temer,child,Q84003063,Michel Temer Filho
 Brazil,Q10324996,Marcela Temer,spouse,Q463533,Michel Temer
 Brazil,Q10326004,Maria Lúcia Amary,spouse,Q10359328,Renato Fauvel Amary
 Brazil,Q10329753,Miguel Corrêa,spouse,Q76669387,Letícia Santiago
+Brazil,Q10333327,Murilo Zauith,child,Q115676036,Marcelo Zauith
+Brazil,Q10333327,Murilo Zauith,child,Q115676042,Mariana Zauith
+Brazil,Q10333327,Murilo Zauith,spouse,Q115675928,Cecília Zauith
 Brazil,Q10334305,Márcio França,child,Q20045670,Caio França
 Brazil,Q10334305,Márcio França,spouse,Q56349549,Lúcia França
 Brazil,Q10336120,Nelson Trad,child,Q10336123,Nelson Trad Filho
@@ -5516,7 +5519,10 @@ France,Q452139,Michèle Delaunay,mother,Q16241289,Alice Delaunay
 France,Q452173,Marielle de Sarnez,child,Q18939644,Justine Augier
 France,Q452173,Marielle de Sarnez,father,Q3351472,Olivier de Sarnez
 France,Q452173,Marielle de Sarnez,spouse,Q3379261,Philippe Augier
+France,Q455023,Valérie Pécresse,child,Q115676632,Baptiste Pécresse
+France,Q455023,Valérie Pécresse,child,Q115676683,Clément Pécresse
 France,Q455023,Valérie Pécresse,father,Q3035442,Dominique Roux
+France,Q455023,Valérie Pécresse,mother,Q115676481,Catherine Bertagna
 France,Q455023,Valérie Pécresse,spouse,Q27755465,Jérôme Pécresse
 France,Q455040,Jacques Barrot,child,Q30339198,Jean-Noël Barrot
 France,Q455040,Jacques Barrot,father,Q3345763,Noël Barrot
@@ -7993,7 +7999,7 @@ Iran,Q57336,Ali Khamenei,father,Q16053506,Seyed Javad Khamenei
 Iran,Q57336,Ali Khamenei,mother,Q26741866,Khadija Mirdamadi
 Iran,Q57336,Ali Khamenei,relative,Q115478379,Farideh Moradkhani
 Iran,Q57336,Ali Khamenei,relative,Q15782419,Ali Tehrani
-Iran,Q57336,Ali Khamenei,sibling,Q115628091,Badri Hosseini Khamenei
+Iran,Q57336,Ali Khamenei,sibling,Q115628091,Badri Khamenei
 Iran,Q57336,Ali Khamenei,sibling,Q3893843,Hadi Khamenei
 Iran,Q57336,Ali Khamenei,sibling,Q5952192,Mohammad Khamenei
 Iran,Q57336,Ali Khamenei,spouse,Q16074458,Khojaste Bagherzadeh
@@ -19500,6 +19506,7 @@ United Kingdom,Q4892947,Bernard Braine,child,Q75596804,Michael Rodney Braine
 United Kingdom,Q4892947,Bernard Braine,child,Q75596805,Brendan Timothy Braine
 United Kingdom,Q4892947,Bernard Braine,father,Q75596808,Arthur Ernest Braine
 United Kingdom,Q4892947,Bernard Braine,spouse,Q65589568,Kathleen Mary Faun
+United Kingdom,Q4910369,Bill O'Brien,spouse,Q115677841,Jean Schofield
 United Kingdom,Q4936901,Charlotte Atkins,father,Q7364652,Ronald Atkins
 United Kingdom,Q49615,Rowan Williams,child,Q76178325,Rhiannon Williams
 United Kingdom,Q49615,Rowan Williams,child,Q76178327,Pip Williams

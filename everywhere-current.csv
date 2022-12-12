@@ -7,7 +7,7 @@ Abkhazia,Minister of Defence,Vladimir Anua,Q110974709,2020-06-01,male,1957,,,
 Abkhazia,Minister of Foreign Affairs,Inal Ardzinba,Q18043980,2021-11-18,male,1990-07-26,,2022 Inal Ardzinba.jpg,Inal Ardzinba
 Abkhazia,Minister of Internal Affairs,Aslan Kobakhia,Q26465386,2016-08-16,male,1960-03-23,,,Aslan Kobakhia
 Abkhazia,Chief of the Cabinet Staff,David Sangulia,Q109065587,2017-09-04,male,1980-08-04,,,
-Afghanistan,Supreme Leader,Hibatullah Akhundzada,Q24237654,2021-08-15,male,1961,,,Hibatullah Akhundzada
+Afghanistan,Supreme Leader,Hibatullah Akhundzada,Q24237654,2021-08-15,male,1961,,Hibatullah Akhundzada.png,Hibatullah Akhundzada
 Afghanistan,Deputy Leader,Sirajuddin Haqqani,Q2246940,2021-08-15,male,1970,,Sirajuddin Haqqani.png,Sirajuddin Haqqani
 Afghanistan,Deputy Leader,Mohammad Yaqoob,Q24572400,2021-08-15,male,1990,,Mullah Yaqoob in January 2022.png,Mullah Yaqoob
 Afghanistan,Deputy Leader,Abdul Ghani Baradar,Q317219,2021-08-15,male,1968-09-29,,Abdul Ghani Baradar.jpg,Abdul Ghani Baradar
@@ -574,7 +574,7 @@ Belarus,Minister of Antimonopoly Regulation and Trade,Alexei Bogdanov,Q110223669
 Belarus,Minister of Architecture and Construction,Ruslan Parkhamovich,Q96059302,2020-06-04,male,1980-07-18,,,
 Belarus,Minister of Communications and Informatization,Kanstancin Kanstancinavič Šulhan,Q56193126,2018-08-18,male,1965-07-11,,,
 Belarus,Minister of Culture,Anatol Markevich,Q102109268,2020-11-19,male,1971,,Анатолий Маркевич.jpg,
-Belarus,Minister of Defence,Viktor Khrenin,Q83283317,2020-01-20,male,1971-08-01,,Віктар Хрэнін.jpg,Viktor Khrenin
+Belarus,Minister of Defence,Viktor Khrenin,Q83283317,2020-01-20,male,1971-08-01,,"Viktor Hrenin, 2022.jpg",Viktor Khrenin
 Belarus,Minister of Economy,Aleksander Chervyakov,Q80901264,2020-01-04,male,1966-09-15,,Александр Червяков.jpg,
 Belarus,Minister of Education,Andrei Ivanets,Q89419452,2022-02-10,male,1984-09-17,,,
 Belarus,Minister of Emergency Situations,Vadim Sinyavsky,Q105882952,2021-03-11,male,1970-05-15,,Вадим Синявский.jpg,
@@ -1101,13 +1101,13 @@ Canada,Minister of Crown-Indigenous Relations,Marc Miller,Q22279214,2021-10-26,m
 Canada,Minister of Diversity and Inclusion and Youth,Ahmed Hussen,Q16211070,2021-10-26,male,1976,,Ahmed Hussen at the Toronto Caribbean Carnival - 2017 (36258275322).jpg,Ahmed Hussen
 Canada,Minister of Emergency Preparedness,Bill Blair,Q4908168,2021-10-26,male,1954,,Bill Blair - 2012 (cropped).jpg,Bill Blair (politician)
 Canada,"Minister of Employment, Workforce, and Labour",Carla Qualtrough,Q21384927,2019-11-20,female,1971-10-15,,Carla Qualtrough MP.jpg,Carla Qualtrough
-Canada,Minister of the Environment,Steven Guilbeault,Q3499230,2021-10-26,male,1970-06-09,,Steven Guilbeault 2014-04-12 B.jpg,Steven Guilbeault
+Canada,Minister of the Environment,Steven Guilbeault,Q3499230,2021-10-26,male,1970-06-09,,Steven Guilbeault - 2022 (52548719776) (cropped).jpg,Steven Guilbeault
 Canada,"minister of Families, Children and Social Development",Karina Gould,Q21716260,2021-10-26,female,1987-06-28,,"Karina Gould, LPC MPP for Burlington, Minister Of Democratic Institutions.jpg",Karina Gould
 Canada,Minister of Finance,Chrystia Freeland,Q4492815,2020-08-18,female,1968-08-02,,Chrystia Freeland - 2019 (MUS9897) (cropped).jpg,Chrystia Freeland
 Canada,Minister of Fisheries and Oceans,Joyce Murray,Q3187235,2021-10-26,female,1954-07-11,,Joyce Murray IGF 2020 (cropped).jpg,Joyce Murray
 Canada,Minister of Foreign Affairs,Mélanie Joly,Q15054353,2021-10-26,female,1979-01-16,,"Mélanie Joly, 2019-10-03 version 02.jpg",Mélanie Joly
 Canada,Minister of Health,Jean-Yves Duclos,Q1685302,2021-10-26,male,1965,,Jean-Yves Duclos (cropped).jpg,Jean-Yves Duclos
-Canada,"Minister of Immigration, Refugees and Citizenship",Sean Fraser,Q21642492,2021-10-26,male,1984-06-01,,Sean Fraser MP September 2021.jpg,Sean Fraser (politician)
+Canada,"Minister of Immigration, Refugees and Citizenship",Sean Fraser,Q21642492,2021-10-26,male,1984-06-01,,Sean-fraser-march-2020.png,Sean Fraser (politician)
 Canada,Minister of Indigenous Services,Patty Hajdu,Q21573510,2021-10-26,female,1966-11-03,,"Patty Hajdu, 2016 (cropped).jpg",Patty Hajdu
 Canada,"Minister of Innovation, Science and Industry",François-Philippe Champagne,Q21159815,2021-01-12,male,1970-06-25,,François-Philippe Champagne - 2017 (32684778620) (cropped).jpg,François-Philippe Champagne
 Canada,Minister of Intergovernmental Affairs,Dominic LeBlanc,Q3034854,2020-08-18,male,1967-12-14,,Dominic LeBlanc.jpg,Dominic LeBlanc
@@ -2014,7 +2014,6 @@ Faroe Islands,Minister of Fisheries,Árni Skaale,Q110472679,2022-01-06,male,1966
 Faroe Islands,Minister of Foreign Affairs,Bárður á Steig Nielsen,Q853551,2022-11-08,male,1972-04-16,,20211103 Bárður Nielsen.jpg,Bárður á Steig Nielsen
 Faroe Islands,Minister of Labour and the Environment,Magnus Rasmussen,Q17106707,2021-08-19,male,1962-11-28,,,
 Faroe Islands,Minister of Social Affairs,Bárður á Steig Nielsen,Q853551,2022-11-13,male,1972-04-16,,20211103 Bárður Nielsen.jpg,Bárður á Steig Nielsen
-Faroe Islands,Speaker of the Løgting,Jógvan á Lakjuni,Q932304,2019,male,1952-11-13,,Jogvan a Lakjuni 2.jpeg,Jógvan á Lakjuni
 Faroe Islands,Mayor of Tórshavn,Heðin Mortensen,Q331777,2021-01-01,male,1946-04-07,,Hedin Mortensen Mayor of Torshavn.JPG,Heðin Mortensen
 Fiji,President,Wiliame Katonivere,Q109012733,2021-11-12,male,1964-04-20,,Ratu Wiliame Katonivere 12 NOV 21.jpg,Wiliame Katonivere
 Fiji,Prime Minister,Frank Bainimarama,Q57830,2007-01-05,male,1954-04-27,,Frank Bainimarama September 2014.jpg,Frank Bainimarama
@@ -2725,7 +2724,7 @@ Iran,Speaker of the Islamic Consultative Assembly,Mohammad Bagher Ghalibaf,Q5420
 Iran,Governor of the Central Bank,Ali Salehabadi,Q7337922,2021-10-14,male,1978-08-23,,Ali SalehAbadi.jpg,
 Iran,Chief of the General Staff,Mohammad Bagheri,Q18511806,2016-06-28,male,1960-06,,Sardar Mohammad Bagheri in Great Prophet Wargame in April 2016 by tasnimnews 01(cropped).jpg,Mohammad Bagheri (Iranian commander)
 Iran,Mayor of Tehran,Alireza Zakani,Q5950108,2021-09-02,male,1965-07-18,,علیرضا زاکانی.jpg,Alireza Zakani
-Iraq,President,Abdul Latif Rashid,Q6496078,2022-10-13,male,1944-08-10,,Abdul Latif Rashid.jpg,Abdul Latif Rashid
+Iraq,President,Abdul Latif Rashid,Q6496078,2022-10-13,male,1944-08-10,,,Abdul Latif Rashid
 Iraq,Prime Minister,Mohammed Shia' Al Sudani,Q3700793,2022-10-14,male,1970,,Mohammed Chia al-Soudani en 2012.jpg,Mohammed Shia' Al Sudani
 Iraq,Deputy Prime Minister,Hayyan Abdul Ghani,Q114878264,2022-10-27,male,1958,,,
 Iraq,Deputy Prime Minister,Mohammad Ali Tamim,Q20423164,2022-10-27,male,1974,,,
@@ -4184,12 +4183,12 @@ New Zealand,"Minister of Broadcasting, Communications and Digital Media",Willie 
 New Zealand,Minister for Building and Construction,Megan Woods,Q6808764,2022-06-14,female,1973-11-04,,Hon Dr Megan Woods.jpg,Megan Woods
 New Zealand,Minister for COVID-19 Response,Ayesha Verrall,Q91250224,2022-06-14,female,1979,,Dr Ayesha Verrall - Labour List Candidate.jpg,Ayesha Verrall
 New Zealand,Minister for Children,Kelvin Davis,Q6386648,2020-11-06,male,1967-03-02,,"Kelvin Davis, Labour party MP (cropped).jpg",Kelvin Davis (politician)
-New Zealand,Minister of Commerce and Consumer Affairs,David Clark,Q3561074,2020-11-06,male,1973-01-05,,David Clark (New Zealand politician).jpg,David Clark (New Zealand politician)
+New Zealand,Minister of Commerce and Consumer Affairs,David Clark,Q3561074,2020-11-06,male,1973-01-05,,Crop of David Clark.jpg,David Clark (New Zealand politician)
 New Zealand,Minister for the Community and Voluntary Sector,Priyanca Radhakrishnan,Q41498722,2022-06-14,female,1979,,Priyanca Radhakrishnan crop.jpg,Priyanca Radhakrishnan
 New Zealand,Minister of Conservation,Poto Williams,Q17016818,2022-06-14,female,1962-01-07,,Hon Poto Williams.jpg,Poto Williams
 New Zealand,Minister of Corrections,Kelvin Davis,Q6386648,2017-10-26,male,1967-03-02,,"Kelvin Davis, Labour party MP (cropped).jpg",Kelvin Davis (politician)
 New Zealand,Minister of Defence,Peeni Henare,Q18098260,2020-11-06,male,1980,,Minister of Defence Hon Peeni Henare (cropped).jpg,Peeni Henare
-New Zealand,Minister for the Digital Economy and Communications,David Clark,Q3561074,2020-11-06,male,1973-01-05,,David Clark (New Zealand politician).jpg,David Clark (New Zealand politician)
+New Zealand,Minister for the Digital Economy and Communications,David Clark,Q3561074,2020-11-06,male,1973-01-05,,Crop of David Clark.jpg,David Clark (New Zealand politician)
 New Zealand,Minister for Disability Issues,Poto Williams,Q17016818,2022-06-14,female,1962-01-07,,Hon Poto Williams.jpg,Poto Williams
 New Zealand,"Minister for Diversity, Inclusion and Ethnic Communities",Priyanca Radhakrishnan,Q41498722,2022-06-14,female,1979,,Priyanca Radhakrishnan crop.jpg,Priyanca Radhakrishnan
 New Zealand,Minister for Economic and Regional Development,Stuart Nash,Q7626890,2020-11-06,male,1967-08,,Stuart Nash.jpg,Stuart Nash
@@ -4220,8 +4219,8 @@ New Zealand,Minister for Seniors,Ayesha Verrall,Q91250224,2020-11-06,female,1979
 New Zealand,Minister for Small Business,Stuart Nash,Q7626890,2020-11-06,male,1967-08,,Stuart Nash.jpg,Stuart Nash
 New Zealand,Minister for Social Development,Carmel Sepuloni,Q5043325,2017-10-26,female,1977,,"Carmel Sepuloni, 2018.jpg",Carmel Sepuloni
 New Zealand,Minister for Sport and Recreation,Grant Robertson,Q1543207,2017-10-26,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
-New Zealand,Minister of State Owned Enterprises,David Clark,Q3561074,2020-11-06,male,1973-01-05,,David Clark (New Zealand politician).jpg,David Clark (New Zealand politician)
-New Zealand,Minister of Statistics,David Clark,Q3561074,2020-11-06,male,1973-01-05,,David Clark (New Zealand politician).jpg,David Clark (New Zealand politician)
+New Zealand,Minister of State Owned Enterprises,David Clark,Q3561074,2020-11-06,male,1973-01-05,,Crop of David Clark.jpg,David Clark (New Zealand politician)
+New Zealand,Minister of Statistics,David Clark,Q3561074,2020-11-06,male,1973-01-05,,Crop of David Clark.jpg,David Clark (New Zealand politician)
 New Zealand,Minister of Tourism,Stuart Nash,Q7626890,2020-11-06,male,1967-08,,Stuart Nash.jpg,Stuart Nash
 New Zealand,Minister for Trade and Export Growth,Damien O'Connor,Q5212493,2020-11-06,male,1958-01-16,,Damien O'Connor (crop).jpg,Damien O'Connor
 New Zealand,Minister of Transport,Michael Wood,Q27950864,2020-11-06,male,1980-05-10,,Michael Wood (New Zealand Politician).jpg,Michael Wood (New Zealand politician)
@@ -4586,7 +4585,7 @@ Panama,Minister of the Presidency,José Gabriel Carrizo,Q63633749,2019-07-01,mal
 Panama,Minister of Public Security,Juan Pino,Q110628794,2020-02-05,male,,,,
 Panama,Minister of Public Works,Rafael Sabonge,Q100351071,2019-07-01,male,1978-10-09,,Ministro en consejo gabinete.jpg,
 Panama,Minister of Social Development,María Inés Castillo,Q110628773,2020-06-24,female,,,,
-Panama,Speaker of the National Assembly,Crispiano Adames,Q110628932,2021-07-01,male,1961,,,
+Panama,Speaker of the National Assembly,Crispiano Adames,Q110628932,2021-07-01,male,1961,,,Crispiano Adames
 Papua New Guinea,monarch,Charles III,Q43274,2022-09-08,male,1948-11-14,,"Charles, Prince of Wales in 2021 (cropped) (3).jpg",Charles III
 Papua New Guinea,Governor-General,Bob Dadae,Q28647870,2017-02-28,male,1961-03-08,,Sir Bob Dadae (cropped).jpg,Bob Dadae
 Papua New Guinea,Prime Minister,James Marape,Q6138903,2019-05-30,male,1971-04-24,,Marape 190614 Haus Lotu (2) (cropped).jpg,James Marape
@@ -4656,7 +4655,7 @@ Paraguay,Speaker of the Chamber of Deputies,Pedro Lorenzo Alliana Rodríguez,Q51
 Paraguay,President of the Senate,Oscar Rubén Salomón Fernández,Q110194186,2020-07-01,male,1957,,,
 Paraguay,President of the Central Bank,José Cantero Sienra,Q110194351,2018-09,male,,,,
 Peru,President,Dina Boluarte,Q106474688,2022-12-07,female,1962-05-31,,Dina Boluarte October 2022 (cropped).jpg,Dina Boluarte
-Peru,President of the Council of Ministers,Pedro Angulo,Q104176561,2022-12-10,male,,,,
+Peru,President of the Council of Ministers,Pedro Angulo,Q104176561,2022-12-10,male,1960,,Pedro Angulo Arana Prime Minister of Peru.png,Pedro Angulo Arana
 Peru,Minister of Agriculture,Nelly Paredes,Q115662566,2022-12-10,female,,,,
 Peru,Minister of Culture,Jair Pérez Brañez,Q115663101,2022-12-10,male,,,,
 Peru,Minister of Defence,Alberto Otárola Peñaranda,Q5663401,2022-12-10,male,1967-02-12,,JURAMENTACIÓN DEL MINISTRO DE DEFENSA LUIS ALBERTO OTÁROLA PEÑARANDA (52555414730) (cropped).jpg,Alberto Otárola
@@ -4905,7 +4904,6 @@ Rwanda,Minister of Trade and Industry,Jean Chrysostome Ngabitsinze,Q113493894,20
 Rwanda,Minister of Youth and Culture,Rosemary Mbabazi,Q38286498,2017-08-31,female,,,Rosemary Mbabazi 2015.jpg,Rosemary Mbabazi
 Rwanda,Minister in the Office of the President,Judith Uwizeye,Q38242931,2017-08-31,female,1979-08-20,,,Judith Uwizeye
 Rwanda,CEO of Rwanda Development Board,Clare Akamanzi,Q38525495,2017-02-14,female,1979,,Clare Akamanzi (cropped).jpg,Claire Akamanzi
-Rwanda,President of the Senate,Augustin Iyamuremye,Q4821112,2019-10-17,male,1946-03-15,,,Augustin Iyamuremye
 Rwanda,President of the Chamber of Deputies,Donatille Mukabalisa,Q28868753,2013-10-05,female,1960-07-30,,"Donatila Mukabalisa, December 2017 (5122) (cropped2).jpg",Donatille Mukabalisa
 Rwanda,Chief of Defence Staff,Jean Bosco Kazura,Q6170299,2019-11-04,male,1963,,Kazura.JPG,Jean Bosco Kazura
 Rwanda,Governor of the National Bank,John Rwangombwa,Q27063755,2013-02-25,male,,,John Rwangombwa - World Economic Forum on Africa 2012.jpg,John Rwangombwa
@@ -5052,6 +5050,8 @@ Scotland,Minister for Drugs Policy,Angela Constance,Q524077,2020-12-18,female,19
 Scotland,"Minister for Environment, Biodiversity and Land Reform",Màiri McAllan,Q98968661,2021-05-20,female,1993,,,Màiri McAllan
 Scotland,Minister for Europe and International Development,Neil Gray,Q19882694,2022-01-24,male,1986-03-16,,Official portrait of Neil Gray crop 2.jpg,Neil Gray
 Scotland,"Minister for Further Education, Higher Education and Science",Jamie Hepburn,Q1681399,2021-05-20,male,1979-05-21,,JamieHepburnMSP20110511.JPG,Jamie Hepburn
+Scotland,"Minister for Green Skills, Circular Economy and Biodiversity",Lorna Slater,Q63929108,2021-08-31,female,1975,,Lorna Slater 2021.jpg,Lorna Slater
+Scotland,"Minister for Just Transition, Employment and Fair Work",Richard Lochhead,Q1490268,2021-05-20,male,1969-05-24,,RichardLochhead MSP.jpg,Richard Lochhead
 Scotland,Minister for Mental Wellbeing and Social Care,Kevin Stewart,Q1740263,2021-05-20,male,1968-06-03,,KevinStewartMSP20110507.JPG,Kevin Stewart (Scottish politician)
 Scotland,Minister for Older People and Equalities,Christina McKelvie,Q1083222,2018-06-27,female,1968-03-04,,"Minister for Equalities and Older People, Christina McKelvie (51190914710).jpg",Christina McKelvie
 Scotland,Minister for Parliamentary Business,George Adam,Q1282862,2021-05-20,male,1969-06-08,,George outside Paisley'sTown Hall.JPG,George Adam
@@ -5059,6 +5059,7 @@ Scotland,"Minister for Public Finance, Planning and Community Wealth",Tom Arthur
 Scotland,Minister for Public Health,Maree Todd,Q24034387,2021-05-20,female,,,Maree Todd MSP - May 2016.jpg,Maree Todd
 Scotland,Minister for Social Security and Local Government,Ben Macpherson,Q24052665,2021-05-20,male,,,BenMacphersonMSP-May2016.jpg,Ben Macpherson (politician)
 Scotland,Minister for Transport and Veterans,Jenny Gilruth,Q24026044,2022-01-24,female,,,"Jenny Gilruth, Minister for Europe and International Development (49565659756).jpg",Jenny Gilruth
+Scotland,"Minister for Zero Carbon Buildings, Active Travel and Tenants’ Rights",Patrick Harvie,Q2057654,2021-08-31,male,1973-03-18,,Patrick Harvie 2021.jpg,Patrick Harvie
 Scotland,Presiding Officer of the Scottish Parliament,Alison Johnstone,Q2647232,2021-05-13,female,1965-10-11,,Alison Johnstone MSP.jpg,Alison Johnstone
 Scotland,Lord Advocate,Dorothy Bain,Q5298300,2021-06-22,female,,,Official Portrait of Dorothy Bain QC.png,Dorothy Bain
 Scotland,Advocate General,"Keith Stewart, Baron Stewart of Dirleton",Q101693608,2020-10-15,male,1965-10-31,,Keith Stewart 2020.jpg,"Keith Stewart, Baron Stewart of Dirleton"
@@ -6334,7 +6335,7 @@ Uzbekistan,Deputy Prime Minister,Jamshid Khodjayev,Q106574535,2022-07-16,male,19
 Uzbekistan,Minister of Agriculture,Aziz Voitov,Q114309473,2022-08-29,male,1980,,,
 Uzbekistan,Minister of Construction,Batir Zakirov,Q24009743,2019,male,1963-07-28,,Batir Zakirov.jpg,
 Uzbekistan,Minister of Culture,Ozodbek Nazarbekov,Q4312092,2020-01-22,male,1974-05-07,,"Ozodbek Nazarbekov, Otabek Mahkamov, and Ulugʻbek Rahmatullayev (9.30.2012).JPG",
-Uzbekistan,Minister of Defence,Bakhodir Kurbanov,Q63283334,2019-02-11,male,1972,,Baku session of CMD CIS 03 (cropped).jpg,Bakhodir Kurbanov (general)
+Uzbekistan,Minister of Defence,Bakhodir Kurbanov,Q63283334,2019-02-11,male,1972,,"Bakhodir Kurbanov, 2022.jpg",Bakhodir Kurbanov (general)
 Uzbekistan,Minister of Economic Development and Poverty Reduction,Jamshid Anvarovich Kuchkarov,Q106165258,2020-02-24,male,1964-10-19,,Jamshid Kuchkarov.jpg,
 Uzbekistan,Minister of Emergency Situations,Abdulla Kuldashev,Q113144119,2022-03-01,male,,,,
 Uzbekistan,Minister of Employment and Labour Relations,Nozim Khusanov,Q106498315,2019-09-12,male,1976,,,
