@@ -5,6 +5,7 @@ South Korea,President,Lee Myung-bak,Q14342,2008-02-25,2013-02-24,male,1941-12-19
 South Korea,President,Park Geun-hye,Q138048,2013-02-25,2017-03-10,female,1952-02-02,,Park Geun-hye presidential portrait.png,Park Geun-hye
 South Korea,President,Moon Jae-in,Q21001,2017-05-10,2022-05-09,male,1953-01-24,,Moon Jae-in (2017-10-01) cropped.jpg,Moon Jae-in
 South Korea,President,Yoon Suk-yeol,Q16090635,2022-05-10,,male,1960-12-18,,South Korea President Yoon Suk Yeol portrait.jpg,Yoon Suk-yeol
+South Korea,Prime Minister,Lee Hun-jai,Q3565102,2004-07-25,2004-07-30,male,1944-04-17,,,Lee Hun-jai
 South Korea,Prime Minister,Lee Hae Chan,Q319920,2004-07-30,2006-03-15,male,1952-07-10,,,Lee Hae-chan
 South Korea,Prime Minister,Han Duck-soo,Q356666,2006-03-14,2006-04-19,male,1949-06-18,,Han Duck-soo.jpg,Han Duck-soo
 South Korea,Prime Minister,Han Duck-soo,Q356666,2007-04-02,2008-02-29,male,1949-06-18,,Han Duck-soo.jpg,Han Duck-soo
@@ -70,6 +71,12 @@ South Korea,Minister of Defence,Song Young-moo,Q31179461,2017-07-13,2018-09-21,m
 South Korea,Minister of Defence,Jeong Kyeong-doo,Q22974878,2018-09-21,2020-09-18,male,1960,,Air Force (ROKAF) General Jeong Kyeong-doo 공군대장 정경두 (UNC-CFC-USFK photo 170625-A-HU462-383).jpg,Jeong Kyeong-doo
 South Korea,Minister of Defence,Suh Wook,Q61117556,2020-09,2022-05-10,male,1962,,Suh Wook in 2020.jpg,Suh Wook
 South Korea,Minister of Defence,Lee Jong-sup,Q42521104,2022-05-10,,male,1960,,Army (ROKA) Lieutenant General Lee Jong-sup 육군중장 이종섭 (UNC-CFC-USFK photo IMG 7352).jpg,Lee Jong-sup
+South Korea,Minister of Economy and Finance,Hyun Oh-seok,Q16092536,2013-03-23,2014-07-14,male,1950-05-05,,,
+South Korea,Minister of Economy and Finance,Choi Kyoung-hwan,Q5103931,2014-07-15,2016-01-12,male,1955-06-22,,Choi Kyoung-hwan 2014.jpg,Choi Kyoung-hwan
+South Korea,Minister of Economy and Finance,Yoo Il-ho,Q16090573,2016-01-13,2017-06-08,male,1955-03-30,,Deputy PM Yoo Ilho Press Conference 04.jpg,Yoo Il-ho
+South Korea,Minister of Economy and Finance,Kim Dong-yeon,Q16080198,2017-06-09,2018-12-10,male,1957-01-28,,Kim Dong-yeon 2018-06.jpg,Kim Dong-yeon
+South Korea,Minister of Economy and Finance,Hong Nam-ki,Q31180640,2018-12-11,2022-05-09,male,1960-07-29,,"Hong Nam-ki, Deputy Prime Minister and Minister of Economy and Finance.jpg",Hong Nam-ki
+South Korea,Minister of Economy and Finance,Choo Kyung-ho,Q12619978,2022-05-10,,male,1960-07-29,,추경호 부총리 예방 받아 001 (cropped).jpg,Choo Kyung-ho
 South Korea,Minister of Education,Lee Ju-ho,Q16091128,2010-08-31,2013-03-11,male,1961-02-17,,,Lee Ju-ho
 South Korea,Minister of Education,Hwang Woo-yea,Q4392537,2014-11-19,2016-01-12,male,1947-08-03,,Hwang Woo-yea (17230687953) (cropped).jpg,Hwang Woo-yea
 South Korea,Minister of Education,Lee Joon-sik,Q22083389,2016-01-13,2017-07-04,male,1952-09-11,,,Lee Joon-sik
@@ -88,11 +95,16 @@ South Korea,Minister of the Environment,Kim Eunkyung,Q31178699,2017-07-04,2018-1
 South Korea,Minister of the Environment,Cho Myung-rae,Q59381987,2018-11-10,2021-01-22,male,1955,,,Cho Myung-rae
 South Korea,Minister of the Environment,Han Jeoung-ae,Q12624300,2021-01-22,2022-05-10,female,1965-01-08,,Han Jeoung-ae 2021.jpg,Han Jeoung-ae
 South Korea,Minister of the Environment,Han Hwa-jin,Q111621057,2022-05-10,,female,1959,,,
-South Korea,Minister of Finance,Han Duck-soo,Q356666,2005-03-14,2006-07-18,male,1949-06-18,,Han Duck-soo.jpg,Han Duck-soo
-South Korea,Minister of Finance,Yoon Jeung-hyun,Q498266,2009-02-10,2011-06-01,male,1946-09-19,,Yoon Jeung-Hyun.jpg,Yoon Jeung-hyun
-South Korea,Minister of Finance,Kim Dong-yeon,Q16080198,2017-06-09,2018-12-10,male,1957-01-28,,Kim Dong-yeon 2018-06.jpg,Kim Dong-yeon
-South Korea,Minister of Finance,Hong Nam-ki,Q31180640,2018-11,2022-05-09,male,1960-07-29,,"Hong Nam-ki, Deputy Prime Minister and Minister of Economy and Finance.jpg",Hong Nam-ki
-South Korea,Minister of Finance,Choo Kyung-ho,Q12619978,2022-05-10,,male,1960-07-29,,추경호 부총리 예방 받아 001 (cropped).jpg,Choo Kyung-ho
+South Korea,Minister of Finance and Economy,Kang Bong-kyun,Q16080006,1999-05-24,2000-01-14,male,1943-08-13,2017-01-31,,Kang Bong-kyun
+South Korea,Minister of Finance and Economy,Lee Hun-jai,Q3565102,2000-01-14,2000-08-07,male,1944-04-17,,,Lee Hun-jai
+South Korea,Minister of Finance and Economy,Jin Nyum,Q12618182,2000-08-07,2001-01-29,male,1940-12-02,,,
+South Korea,Minister of Finance and Economy,Jin Nyum,Q12618182,2001-01-29,2002-04-15,male,1940-12-02,,,
+South Korea,Minister of Finance and Economy,Jeon Yun-churl,Q16091546,2002-04-15,2003-02-27,male,1939-06-15,,,
+South Korea,Minister of Finance and Economy,Kim Jin-pyo,Q10855898,2003-02-27,2004-02-10,male,1947-05-04,,Kim Jin-pyo 2022-07.jpg,Kim Jin-pyo (politician)
+South Korea,Minister of Finance and Economy,Lee Hun-jai,Q3565102,2004-02-10,2005-03-07,male,1944-04-17,,,Lee Hun-jai
+South Korea,Minister of Finance and Economy,Han Duck-soo,Q356666,2005-03-14,2006-07-18,male,1949-06-18,,Han Duck-soo.jpg,Han Duck-soo
+South Korea,Minister of Finance and Economy,Kwon O-kyu,Q3200866,2006-07-18,2008-02-29,male,1952-06-27,,,
+South Korea,Minister of Finance and Economy,Yoon Jeung-hyun,Q498266,2009-02-10,2011-06-01,male,1946-09-19,,Yoon Jeung-Hyun.jpg,Yoon Jeung-hyun
 South Korea,Minister of Food and Drink Safety,정승,Q16091659,2013-03-14,2015-03-22,male,1958-07-23,,,
 South Korea,Minister of Food and Drink Safety,Kim Seung-hee,Q24856412,2015-04-07,2016-03-27,female,1954-02-06,,,
 South Korea,Minister of Food and Drink Safety,손문기,Q55737332,2016-03-28,2017-07-12,,1963,,,

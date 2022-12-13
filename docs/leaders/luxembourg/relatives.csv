@@ -32,10 +32,23 @@ Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",sibling,Q1657677,Archduchess
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",sibling,Q2188802,Prince Jean of Luxembourg
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",sibling,Q646338,Prince Guillaume of Luxembourg
 Luxembourg,Q16004,"Henri, Grand Duke of Luxembourg",spouse,Q230644,"Maria Teresa, Grand Duchess of Luxembourg"
+Luxembourg,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg",child,Q93839274,Prince Charles of Luxembourg
+Luxembourg,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg",father,Q16004,"Henri, Grand Duke of Luxembourg"
+Luxembourg,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg",mother,Q230644,"Maria Teresa, Grand Duchess of Luxembourg"
+Luxembourg,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg",relative,Q1076063,Princess Ariane of the Netherlands
+Luxembourg,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg",sibling,Q316797,Prince Félix of Luxembourg
+Luxembourg,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg",sibling,Q618634,Prince Louis of Luxembourg
+Luxembourg,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg",sibling,Q619598,Princess Alexandra of Luxembourg
+Luxembourg,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg",sibling,Q619855,Prince Sébastien of Luxembourg
+Luxembourg,Q161319,"Guillaume, Hereditary Grand Duke of Luxembourg",spouse,Q235154,"Stéphanie, Hereditary Grand Duchess of Luxembourg"
 Luxembourg,Q16439020,Francine Closener,spouse,Q16440093,Jay Schiltz
 Luxembourg,Q16439160,Franz Fayot,father,Q144205,Ben Fayot
+Luxembourg,Q16439489,Ady Jung,spouse,Q67145724,Anny Jung-Rhein
+Luxembourg,Q16439580,René Kollwelter,father,Q16439579,Nicolas Kollwelter
+Luxembourg,Q16439580,René Kollwelter,sibling,Q475386,Serge Kollwelter
 Luxembourg,Q16439752,Mill Majerus,child,Q13101713,Benoît Majerus
 Luxembourg,Q16439769,Charles Margue,father,Q16439770,Georges Margue
+Luxembourg,Q16439805,Carlo Meintz,sibling,Q13102154,Claude Meintz
 Luxembourg,Q1685833,Jean Spautz,child,Q6755887,Marc Spautz
 Luxembourg,Q204094,Mars Di Bartolomeo,child,Q55719690,Anja Di Bartolomeo
 Luxembourg,Q286466,Charles Goerens,father,Q28045006,Gust Goerens
@@ -54,5 +67,6 @@ Luxembourg,Q561213,Xavier Bettel,spouse,Q30069025,Gauthier Destenay
 Luxembourg,Q57661,Jean-Claude Juncker,spouse,Q24852087,Christiane Frising
 Luxembourg,Q6755887,Marc Spautz,father,Q1685833,Jean Spautz
 Luxembourg,Q69522486,Chantal Gary,relative,Q13103001,Henri Kox
+Luxembourg,Q7147587,Patrick Santer,father,Q39659,Jacques Santer
 Luxembourg,Q728060,Laurent Mosar,father,Q1986701,Nicolas Mosar
 Luxembourg,Q739485,Paul Helminger,child,Q20558561,Thierry Helminger

@@ -100,7 +100,7 @@ United Kingdom,Q1108359,"Colin Boyd, Baron Boyd of Duncansby",spouse,Q75532141,F
 United Kingdom,Q1108533,"Colin Low, Baron Low of Dalston",father,Q75532144,Arthur Eric Low
 United Kingdom,Q1108533,"Colin Low, Baron Low of Dalston",mother,Q75532155,Catherine Cameron
 United Kingdom,Q1108533,"Colin Low, Baron Low of Dalston",spouse,Q75532160,Jill Irene Coton
-United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",child,Q76243097,Gideon Lester
+United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",child,Q76243097,
 United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",child,Q76243099,Maya Lester
 United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",father,Q76243095,Harry Lester
 United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",mother,Q76243096,Kate Cooper-Smith
@@ -752,7 +752,7 @@ United Kingdom,Q16061349,Cranley Onslow,child,Q75604085,Katharine Onslow
 United Kingdom,Q16061349,Cranley Onslow,father,Q76247817,Francis Robert Douglas Onslow
 United Kingdom,Q16061349,Cranley Onslow,mother,Q76247819,Mabel Strachan
 United Kingdom,Q16061349,Cranley Onslow,spouse,Q75604065,Lady June Hay
-United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q75570836,
+United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q21460751,John Chilver
 United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q75570839,Mark Chilver
 United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q75570840,Paul Chilver
 United Kingdom,Q1606594,"Henry Chilver, Baron Chilver",child,Q75570842,Helen Chilver
@@ -2548,6 +2548,7 @@ United Kingdom,Q3285,Michael Shaw,spouse,Q76332457,Joan Mary Louise Mowat
 United Kingdom,Q328624,"Robert Smith, Baron Smith of Kelvin",father,Q75741946,Robert Haldane Smith
 United Kingdom,Q328624,"Robert Smith, Baron Smith of Kelvin",mother,Q75741948,Jean Adams
 United Kingdom,Q328624,"Robert Smith, Baron Smith of Kelvin",spouse,Q75741951,Alison Marjorie Bell
+United Kingdom,Q328892,Rory Stewart,father,Q75599992,
 United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",child,Q76219261,Alexander John C. Gilbey
 United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",child,Q76219308,Peter Richard W. Gilbey
 United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",father,Q21647684,"Anthony William Gilbey, 11th Baron Vaux of Harrowden"

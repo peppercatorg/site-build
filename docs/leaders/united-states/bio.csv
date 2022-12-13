@@ -1003,6 +1003,7 @@ Q111177496,Bob Brown,male,1957-02-24,11,,,,
 Q111177578,Loren N. Bennett,male,1951-01-17,11,,,,
 Q11124,Stephen Breyer,male,1938-08-15,11,,,"Stephen Breyer, SCOTUS photo portrait.jpg",Stephen Breyer
 Q1112656,Peter Welch,male,1947-05-02,11,,,Peter Welch official photo (cropped).jpg,Peter Welch
+Q111286575,Candace Bond,female,1965,9,,,"Candace A. Bond, U.S. Ambassador.jpg",Candace Bond
 Q11132,Sandra Day O'Connor,female,1930-03-26,11,,,Sandra Day O'Connor crop.jpg,Sandra Day O'Connor
 Q11138,Samuel Alito,male,1950-04-01,11,,,Justice Alito official.jpg,Samuel Alito
 Q111398931,Constance Milstein,female,,,,,"Constance J. Milstein, U.S. Ambassador.jpg",Constance J. Milstein
@@ -1116,7 +1117,7 @@ Q115374899,Robbie Brackett,,,,,,,
 Q115374901,Shane Abbott,male,,,,,,Shane Abbott
 Q115374902,Susan Plasencia,female,,,,,,
 Q115374904,Taylor Yarkosky,,,,,,,
-Q115374906,Tiffany Esposito,female,,,,,,
+Q115374906,Tiffany Esposito,female,1987-07-04,11,,,,Tiffany Esposito
 Q115374907,Vicki Lopez,,,,,,,
 Q115530600,Liz Ortega,female,1977-08-26,11,,,,Liz Ortega
 Q115581556,Heather Meyer,female,,,,,,Heather Meyer
@@ -1137,6 +1138,7 @@ Q115669058,Josh Lowenthal,,,,,,,
 Q115669059,Juan Carrillo,,,,,,,
 Q115669060,Kate Sanchez,,,,,,,
 Q115677208,James McClammer,male,,,,,,
+Q115680502,Amy Parks,female,,,,,,
 Q1158992,Dan Benishek,male,1952-04-20,11,2021-10-15,11,"Dan Benishek, Official Portrait, 112th Congress.JPG",Dan Benishek
 Q1159112,Dan Maffei,male,1968-07-04,11,,,Rep. Dan Maffei.jpg,Dan Maffei
 Q1159125,Dan Miller,male,1942-05-30,11,,,Repdanmiller.jpg,Dan Miller (Florida politician)
@@ -1311,6 +1313,7 @@ Q1356373,Ernest Istook,male,1950-02-11,11,,,Ernest Istook 2012 portrait.PNG,Erne
 Q1356377,Paul Clement,male,1966-06-24,11,,,Paul D. Clement.jpg,Paul Clement
 Q13565055,Stephanie Clayton,female,1977-07-09,11,,,,Stephanie Clayton
 Q13571907,Denise Bauer,female,1963-01-30,11,,,"Denise Campbell Bauer, U.S. Ambassador.jpg",Denise Bauer
+Q13573579,Scot Marciel,male,1958,9,,,Scot Marciel.jpg,Scot Marciel
 Q1357640,Reince Priebus,male,1972-03-18,11,,,Reince Priebus by Gage Skidmore.jpg,Reince Priebus
 Q1358112,Hugh Shelton,male,1942-01-02,11,,,"General Henry Shelton, official portrait 2.jpg",Hugh Shelton
 Q1361651,James T. Conway,male,1947-12-26,11,,,"James T. Conway, official military photo portrait, 2006.jpg",James T. Conway
@@ -3239,7 +3242,7 @@ Q28363751,Pam Marsh,female,1954-11-04,11,,,PamMarsh.png,Pam Marsh
 Q28366288,Terri Carver,female,,,,,Terri Carver.JPG,Terri Carver
 Q28370089,Dennis Linthicum,male,,8,,,Dennis Linthicum by Gage Skidmore.jpg,Dennis Linthicum
 Q28370154,David Brock Smith,male,,,,,David Brock Smith.jpg,David Brock Smith
-Q28370200,Hugh McKean,male,,,,,Hugh McKean.JPG,Hugh McKean
+Q28370200,Hugh McKean,male,1967-10-27,11,2022-10-30,11,Hugh McKean.JPG,Hugh McKean
 Q28370244,Justin Slaughter,male,,,,,,Justin Slaughter
 Q28370253,Lynn Stucky,female,1958-02-20,11,,,,Lynn Stucky
 Q28370262,Dawn Buckingham,female,,8,,,"Sen. Dawn Buckingham, M.D.jpg",Dawn Buckingham
@@ -3473,6 +3476,7 @@ Q3018617,David D. Phelps,male,1947-10-26,11,,,DavidPhelps.jpg,David Phelps (poli
 Q3018985,David Wilkins,male,1946-10-12,11,,,Ambassador David Wilkins.jpg,David H. Wilkins
 Q3020814,Debbie Halvorson,female,1958-03-01,11,,,Debbie Halvorson.jpg,Debbie Halvorson
 Q3023167,Dennis Hightower,male,1941-10-28,11,,,DennisHightower.jpg,Dennis Hightower
+Q3023757,Derek Mitchell,male,1964-09-16,11,,,Derek J. Mitchell.jpg,Derek J. Mitchell
 Q30247057,Javier Valdez,male,,,,,Javier Valdez (27547676788).jpg,Javier Valdez
 Q302659,Aaron Schock,male,1981-05-28,11,,,"Aaron Schock, official photo portrait, 111th Congress.jpg",Aaron Schock
 Q30274534,Mike Young,male,,,,,Michael Young 20170216-DM-RBN-7992 (32557392300).jpg,Mike Young (agriculture official)
@@ -3621,6 +3625,7 @@ Q34675180,Thomas G. Bowman,male,1946-11-01,11,,,Thomas G. Bowman official photo.
 Q3481765,Sheila Simon,female,1961-03-13,11,,,Sheila Simon.jpg,Sheila Simon
 Q348185,James B. Cunningham,male,1952,9,,,James B Cunningham.jpg,James B. Cunningham
 Q3483318,Sidney Blumenthal,male,1948-11-06,11,,,Sidney blumenthal 2006.jpg,Sidney Blumenthal
+Q348546,John L. Estrada,male,1955-09-27,11,,,SgtMajMC photo.jpg,John L. Estrada
 Q3487172,Anthony Gonzalez,male,1984-09-18,11,,,"Anthony Gonzalez, official portrait, 116th Congress.jpg",Anthony Gonzalez (politician)
 Q34903664,Elizabeth Barchas Prelogar,female,1980,9,,,"Elizabeth Barchas Prelogar, Solicitor General.png",Elizabeth Prelogar
 Q349230,Adam Ebbin,male,1963-11-10,11,,,Adam P. Ebbin.jpg,Adam Ebbin
@@ -5351,7 +5356,7 @@ Q59306391,Chuck Brannan,male,1962-02-01,11,,,Chuck Brannan.jpg,Chuck Brannan
 Q59306394,Wyman Duggan,male,1969-04-26,11,,,Wyman Duggan.jpg,Wyman Duggan
 Q59306408,Elizabeth Fetterhoff,female,1981-12-07,11,,,Elizabeth Fetterhoff.jpg,Elizabeth Fetterhoff
 Q59306439,Susan Rubio,female,1970-12-25,11,,,SusanRubio-300x300.jpg,Susan Rubio
-Q59315,Patrick Leahy,male,1940-03-31,11,,,Leahy2009.jpg,Patrick Leahy
+Q59315,Patrick Leahy,male,1940-03-31,11,,,Patrick Leahy 117th Congress.jpeg,Patrick Leahy
 Q59325310,Julie Gonzales,female,,,,,,Julie Gonzales
 Q59325313,Laura Sturgeon,female,1965-02-15,11,,,,Laura Sturgeon
 Q59327669,Anthony Sabatini,male,1988-10-20,11,,,State Representative Anthony Sabatini.jpg,Anthony Sabatini
@@ -5922,6 +5927,7 @@ Q6283596,Joseph Griffo,male,1956-01-16,11,,,Joe Griffo1.jpg,Joseph Griffo
 Q62849519,Tina Maharath,female,1990-11-30,11,,,Maharath.jpg,Tina Maharath
 Q6285133,Joseph M. Kyrillos,male,1960-04-12,11,,,Joe Kyrillos.png,Joe Kyrillos
 Q6285224,Joseph Maguire,male,1951-08-14,11,,,Joseph Maguire official photo.jpg,Joseph Maguire
+Q6285604,Joseph Mondello,male,1938-02-13,11,2022-08-01,11,Joseph N. Mondello official photo.jpg,Joseph Mondello
 Q6285623,Joseph Morelle,male,1957-04-29,11,,,Joe Morelle official photo.jpg,Joseph Morelle
 Q6286171,Joseph Pennacchio,male,1955-05-27,11,,,,Joseph Pennacchio
 Q6287551,Joseph V. Egan,male,1938-02-27,11,,,,Joseph V. Egan
@@ -7152,6 +7158,7 @@ Q809197,Bart Gordon,male,1949-01-24,11,,,"Bart Gordon, official portrait, 111th 
 Q809210,Bart Stupak,male,1952-02-29,11,,,Bart Stupak official portrait.jpg,Bart Stupak
 Q81008853,Robert S. Gilchrist,male,1964-01-14,11,,,Robert-Gilchrist-Official-Portrait.jpg,Robert S. Gilchrist
 Q81015135,Colleen Sullivan-Leonard,female,1959,9,,,,Colleen Sullivan-Leonard
+Q81234589,Yuri Kim,female,1972,9,,,Yuri P. Kim official photo.jpg,Yuri Kim (ambassador)
 Q81239356,Richard Lindsay,male,,,,,,Richard Lindsay (West Virginia politician)
 Q81364936,Eva-Dina Delgado,female,,,,,,Eva-Dina Delgado
 Q816457,Ben Cayetano,male,1939-11-14,11,,,Ben Cayetano in 2019.jpg,Ben Cayetano
@@ -7318,7 +7325,7 @@ Q88962927,James R. Keith,male,1957-06-20,11,,,Ambkeith.jpg,
 Q889831,Frank Keating,male,1944-02-10,11,,,"Frank Keating at a conference, Oct 20, 2001 - cropped.jpg",Frank Keating
 Q89025769,Edward Kennedy,male,1951,9,,,Edward J Kennedy MA government photo.jpg,Edward J. Kennedy
 Q89041664,Scott Wyatt,male,1969,9,,,,Scott Wyatt (politician)
-Q89128255,Rick Zbur,male,1957-03-02,11,,,"Rick Zbur, 2016.png",Rick Zbur
+Q89128255,Rick Zbur,male,1957-03-02,11,,,"Rick Chavez Zbur, 2022.jpg",Rick Zbur
 Q89131610,Kelly Merrick,female,1975,9,,,Kelly Merrick (cropped).jpg,Kelly Merrick
 Q892413,Brad Wenstrup,male,1958-06-17,11,,,Brad Wenstrup official.jpg,Brad Wenstrup
 Q89271759,Bob Glanzer,male,1945-09-13,11,2020-04-03,11,,Bob Glanzer
@@ -7457,6 +7464,7 @@ Q96036989,Ross Turner,male,1964-05-15,11,,,,Ross Turner
 Q96039282,Greg Hembree,male,1960-08-21,11,,,,Greg Hembree
 Q96039340,Tom Young Jr.,male,1971-10-08,11,,,,Tom Young Jr.
 Q96047386,Karen C. Bash,female,,,,,,Karen C. Bash
+Q96049599,Thomas Vajda,male,1966-06-09,11,,,Thomas L. Vajda.jpg,Thomas Vajda
 Q96049608,Mike Fanning,male,1967-04-04,11,,,,Mike Fanning (politician)
 Q96049624,Sandy Senn,female,1963-06-27,11,,,,Sandy Senn
 Q96049640,Stephen Goldfinch,male,1982-11-19,11,,,,Stephen Goldfinch

@@ -2,6 +2,7 @@ catalog,id,name,relationship,relative,relativename
 Estonia,Q107033991,Jonatan Vseviov,father,Q17447293,David Vseviov
 Estonia,Q113138530,Kristjan Järvan,father,Q61110992,Aare Järvan
 Estonia,Q1149033,Tõnis Lukas,spouse,Q12368723,Liina Lukas
+Estonia,Q115682899,Ruth Lausma Luik,spouse,Q1433583,Jüri Luik
 Estonia,Q11857954,Enn Eesmaa,father,Q12362179,Enno Eesmaa
 Estonia,Q11857954,Enn Eesmaa,sibling,Q15888056,Andra Veidemann
 Estonia,Q11857954,Enn Eesmaa,spouse,Q337405,Aleksandra Juozapėnaitė-Eesmaa
@@ -88,6 +89,7 @@ Estonia,Q1396519,Karin Jaani,mother,Q50375973,Novella Loderaud
 Estonia,Q1424510,Jüri Pihl,spouse,Q6000205,Lavly Perling
 Estonia,Q1433583,Jüri Luik,father,Q16404674,Aleksander Gavrilov
 Estonia,Q1433583,Jüri Luik,mother,Q18752918,Lilian Luik
+Estonia,Q1433583,Jüri Luik,spouse,Q115682899,Ruth Lausma Luik
 Estonia,Q1453245,Mart Helme,child,Q12369391,Maarja Vaino
 Estonia,Q1453245,Mart Helme,child,Q12369924,Martin Helme
 Estonia,Q1453245,Mart Helme,father,Q50375750,Enn Helme
@@ -185,6 +187,8 @@ Estonia,Q2438863,Toivo Jürgenson,father,Q50376150,Aksel Jürgenson
 Estonia,Q2438863,Toivo Jürgenson,mother,Q50376148,Albina Jürgenson
 Estonia,Q2438863,Toivo Jürgenson,sibling,Q12366229,Kalle Jürgenson
 Estonia,Q2438863,Toivo Jürgenson,spouse,Q12369784,Marika Jürgenson
+Estonia,Q24546239,Eduard East,father,Q50375383,Väino East
+Estonia,Q24546239,Eduard East,mother,Q50375384,Ljudmilla East
 Estonia,Q253515,Jaak Aaviksoo,father,Q50375002,Ülo Aaviksoo
 Estonia,Q253515,Jaak Aaviksoo,mother,Q50375013,Laine Aaviksoo
 Estonia,Q2621730,Jüri Ratas,father,Q12373774,Rein Ratas
@@ -262,6 +266,7 @@ Estonia,Q704436,Jüri Jaanson,spouse,Q12376579,Tatjana Jaanson
 Estonia,Q788525,Paul-Eerik Rummo,father,Q12372088,Paul Rummo
 Estonia,Q788525,Paul-Eerik Rummo,sibling,Q16407271,Lea Tormis
 Estonia,Q788525,Paul-Eerik Rummo,spouse,Q2524110,Viiu Härm
+Estonia,Q86528527,Mark Sinisoo,father,Q1690696,Joakim Puhk
 Estonia,Q9142838,Ain Seppik,spouse,Q16404571,Malle Seppik
 Estonia,Q955751,Liia Hänni,child,Q50698410,Kristjan Hänni
 Estonia,Q955751,Liia Hänni,father,Q50375877,Friedrich Juulik

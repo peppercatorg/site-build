@@ -49,6 +49,8 @@ Taiwan,Q315528,Lee Teng-hui,father,Q14606858,Lee Ching-long (died 1995)
 Taiwan,Q315528,Lee Teng-hui,sibling,Q14606946,Lee Teng-ching
 Taiwan,Q315528,Lee Teng-hui,spouse,Q8264155,Tseng Wen-hui
 Taiwan,Q3846662,Kuan Bi-ling,spouse,Q10526293,Hsu Yang-ming
+Taiwan,Q4515439,Chang Po-ya,mother,Q5924403,Hsu Shih-hsien
+Taiwan,Q4515439,Chang Po-ya,sibling,Q9188552,Chang Wen-ying
 Taiwan,Q472310,Frank Hsieh,relative,Q18659294,張維洲
 Taiwan,Q5090717,Chen Chi-mai,father,Q8272200,Chen Che-nan
 Taiwan,Q5090859,Chen Ming-wen,child,Q60994502,Chen Kuan-ting
@@ -108,6 +110,8 @@ Taiwan,Q8272755,Lin Yi-shih,spouse,Q8275695,彭愛佳
 Taiwan,Q8272916,Cheng Ru-fen,child,Q16260025,Hsieh Tien-lin
 Taiwan,Q8272916,Cheng Ru-fen,child,Q78116451,Hsieh Yi-fong
 Taiwan,Q8273115,Chang Ching-chung,spouse,Q19825847,"Chen, Chin-ting"
+Taiwan,Q8273132,Chang Li-shan,relative,Q109347090,張鎔麒
+Taiwan,Q8273132,Chang Li-shan,relative,Q8279212,Chang Chia-chun
 Taiwan,Q8273132,Chang Li-shan,sibling,Q15909770,Chang Jung-wei
 Taiwan,Q8273132,Chang Li-shan,spouse,Q61056629,張永成
 Taiwan,Q8273275,Ting Mao-shih,sibling,Q10864132,Ting Chung-chiang
@@ -192,3 +196,4 @@ Taiwan,Q9206928,Lee Yung-te,spouse,Q8347775,Chiu Yi-ying
 Taiwan,Q9292454,Freddy Lim,spouse,Q15903733,Doris Yeh
 Taiwan,Q9370626,Tchen Yu-chiou,father,Q15896115,Chen Houei-kuen
 Taiwan,Q9458408,Huang Wen-ling,father,Q9459543,George Huang
+Taiwan,Q9459543,George Huang,child,Q9458408,Huang Wen-ling
