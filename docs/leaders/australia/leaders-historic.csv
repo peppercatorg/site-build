@@ -581,7 +581,7 @@ Australia,Chief Justice,Anne Ferguson,Q16728952,2017-10-02,,female,,,,Anne Fergu
 Australia,Attorney-General,Rob Hulls,Q7340226,1999-10-20,2010-12-02,male,1957-01-23,,Rob Hulls - Sarah Ewart.jpg,Rob Hulls
 Australia,Attorney-General,Robert Clark,Q7342941,2010-12-02,2014-12-04,male,1957-03-11,,,Robert Clark (Australian politician)
 Australia,Attorney-General,Jill Hennessy,Q16213990,2018-11-29,2020-12-16,female,1972-03-13,,,Jill Hennessy (politician)
-Australia,Attorney-General,Jaclyn Symes,Q19605122,2020-12-22,,female,,,,Jaclyn Symes
+Australia,Attorney-General,Jaclyn Symes,Q19605122,2020-12-22,,female,1988-01-28,,,Jaclyn Symes
 Australia,Solicitor-General,Richard Niall,Q103836636,2015-06-10,2017-11-28,male,,,,Richard Niall
 Australia,Solicitor-General,Kristen Walker,Q107228400,2017,2021,female,,,,Kristen Walker
 Australia,Solicitor-General,Rowena Orr,Q107228541,2021-05-10,,female,,,,
@@ -776,7 +776,6 @@ Australia,Minister for Health,Mark Butler,Q6766947,2022-05-23,,male,1970-07-08,,
 Australia,Minister for Home Affairs,Bob Debus,Q4932251,2007-12-03,2009-06-09,male,1943-09-16,,,Bob Debus
 Australia,Minister for Home Affairs,Brendan O'Connor,Q4961047,2009-06-09,2011-12-14,male,1962-03-02,,Brendan O'Connor MP 2011.jpg,Brendan O'Connor (politician)
 Australia,Minister for Home Affairs,Jason Clare,Q6162219,2011-12-14,2013-09-18,male,1972-03-22,,"Jason Clare, Beenleigh PCYC, August 2013 (cropped).jpg",Jason Clare
-Australia,Minister for Home Affairs,Angus Taylor,Q16196728,2017-12-20,2018-08-23,male,1966-09-30,,Angus Taylor 2015.jpg,Angus Taylor (politician)
 Australia,Minister for Home Affairs,Peter Dutton,Q7173778,2017-12-20,2021-03-30,male,1970-11-18,,"Peter Dutton with the commanding officer of the 3d Battalion, 12th Marines during Talisman Sabre 2021.jpg",Peter Dutton
 Australia,Minister for Home Affairs,Karen Andrews,Q6369482,2021-03-30,2022-05-23,female,1960-08-23,,Karen Andrews.jpg,Karen Andrews
 Australia,Minister for Home Affairs,Jim Chalmers,Q16217223,2022-05-23,2022-06-01,male,1978-03-02,,DeBrenni Leafe Smith Chalmers (Chalmers cropped).jpg,Jim Chalmers
@@ -794,6 +793,7 @@ Australia,Minister for Human Services,Kim Carr,Q1639334,2012-03-05,2013-03-23,ma
 Australia,Minister for Human Services,Alan Tudge,Q4707935,2016-02-18,2017-12-20,male,1971-02-24,,Alan Tudge 2018 (cropped).jpg,Alan Tudge
 Australia,Minister for Human Services,Linda Reynolds,Q16735152,2021-03-30,2022-05-23,female,1965-05-16,,Senator Linda Reynolds.png,Linda Reynolds
 Australia,Minister for Human Services,Bill Shorten,Q4910865,2022-05-23,,male,1967-05-12,,Bill Shorten.jpg,Bill Shorten
+Australia,Minister for Immigration and Border Protection,Amanda Vanstone,Q454233,2003-10-07,2007-01-30,female,1952-12-07,,Amanda Vanstone (2).jpeg,Amanda Vanstone
 Australia,Minister for Immigration and Border Protection,Kevin Andrews,Q6395733,2007-01-30,2007-12-03,male,1955-11-09,,Kevin Andrews - Anzac Day 2010 - 1 (cropped).jpg,Kevin Andrews (politician)
 Australia,Minister for Immigration and Border Protection,Chris Bowen,Q1077015,2010-09-14,2013-02-04,male,1973-01-17,,Chris Bowen 2016.jpg,Chris Bowen
 Australia,Minister for Immigration and Border Protection,Kate Lundy,Q6375611,2012-03-05,2013-09-18,female,1967-12-15,,Kate lundy keynote.jpg,Kate Lundy
@@ -839,10 +839,12 @@ Australia,Minister for International Development and the Pacific,Steven Ciobo,Q7
 Australia,Minister for International Development and the Pacific,Concetta Fierravanti-Wells,Q5158602,2016-02-18,2018-08-21,female,1960-05-20,,Concetta Fierravanti-Wells.jpg,Concetta Fierravanti-Wells
 Australia,Minister for International Development and the Pacific,Zed Seselja,Q8068367,2020-12-22,2022-05-23,male,1977-03-27,,Zed Seselja.png,Zed Seselja
 Australia,Minister for International Development and the Pacific,Pat Conroy,Q16218414,2022-05-23,,male,1979-05-10,,Pat Conroy.jpg,Pat Conroy (politician)
+Australia,Minister for Justice,Amanda Vanstone,Q454233,1997-10-09,2001-01-30,female,1952-12-07,,Amanda Vanstone (2).jpeg,Amanda Vanstone
 Australia,Minister for Justice,Chris Ellison,Q5106492,2001-01-30,2007-03-09,male,1954-06-15,,Chris Ellison.jpg,Chris Ellison (politician)
 Australia,Minister for Justice,David Johnston,Q5235713,2007-03-09,2007-12-03,male,1956-02-14,,Hires 131022-M-EV637-246-cropped.jpg,David Johnston (Australian politician)
 Australia,Minister for Justice,Jason Clare,Q6162219,2011-12-14,2013-09-18,male,1972-03-22,,"Jason Clare, Beenleigh PCYC, August 2013 (cropped).jpg",Jason Clare
 Australia,Minister for Justice,Michael Keenan,Q6831813,2013-09-18,2017-12-20,male,1972-03-19,,Michael Keenan 2017.jpg,Michael Keenan (politician)
+Australia,Minister for Law Enforcement and Cybersecurity,Angus Taylor,Q16196728,2017-12-20,2018-08-23,male,1966-09-30,,Angus Taylor 2015.jpg,Angus Taylor (politician)
 Australia,"Minister for Local Government, Territories and Roads",Wilson Tuckey,Q8023238,2002-01-25,2003-10-07,male,1935-07-10,,Wilson Tuckey.jpg,Wilson Tuckey
 Australia,"Minister for Local Government, Territories and Roads",Jim Lloyd,Q6196452,2004-07-18,2007-12-03,male,1954-07-17,,,Jim Lloyd
 Australia,"Minister for Local Government, Territories and Roads",Fiona Nash,Q5451092,2016-07-19,2017-10-27,female,1965-05-06,,Senator Fiona Nash.jpg,Fiona Nash
@@ -879,7 +881,7 @@ Australia,Minister for Social Inclusion,Tanya Plibersek,Q7684036,2010-09-14,2011
 Australia,Minister for Social Inclusion,Mark Butler,Q6766947,2011-12-14,2013-07-01,male,1970-07-08,,Mark Butler July 2013.jpg,Mark Butler
 Australia,Minister for Social Services,Bronwyn Bishop,Q4974135,1998-10-21,2001-11-26,female,1942-10-19,,Bronwyn Bishop - Flickr - Eva Rinaldi Celebrity and Live Music Photographer (1).jpg,Bronwyn Bishop
 Australia,Minister for Social Services,Jocelyn Newman,Q6207164,1998-10-21,2001-11-26,female,1937-07-08,2018-04-01,,Jocelyn Newman
-Australia,Minister for Social Services,Amanda Vanstone,Q454233,2001-01-30,2003-10-07,female,1952-12-07,,Amanda Vanstone (2).jpeg,Amanda Vanstone
+Australia,Minister for Social Services,Amanda Vanstone,Q454233,2001-11-10,2003-10-07,female,1952-12-07,,Amanda Vanstone (2).jpeg,Amanda Vanstone
 Australia,Minister for Social Services,Kevin Andrews,Q6395733,2001-11-26,2003-10-07,male,1955-11-09,,Kevin Andrews - Anzac Day 2010 - 1 (cropped).jpg,Kevin Andrews (politician)
 Australia,Minister for Social Services,Kay Patterson,Q1737400,2003-10-07,2006-01-27,female,1944-11-21,,Senator Kay Patterson.jpg,Kay Patterson
 Australia,Minister for Social Services,Julie Bishop,Q434858,2003-10-07,2006-01-27,female,1956-07-17,,Portrait of Julie Bishop.jpg,Julie Bishop
@@ -1225,8 +1227,10 @@ Australia,ambassador to Germany,David Ritchie,Q18609072,2013,2016,male,,,David R
 Australia,ambassador to Germany,Lynette Wood,Q101658070,2016,2020,female,,,Ambassador Lynette Wood 02.jpg,Lynette Wood
 Australia,ambassador to the Holy See,Bob Halverson,Q4932666,1999,2003,male,1937-10-22,2016-02-09,,Bob Halverson
 Australia,ambassador to the Holy See,John McCarthy,Q6247457,2012-11,2016,male,1947-10-20,,"John McCarthy, QC.jpg",John A. McCarthy
+Australia,ambassador to India,Barry O'Farrell,Q1803998,2020-05-21,,male,1959-05-24,,Barry O'Farrell attending the Australian Paralympian of the Year 2012 ceremony.jpg,Barry O'Farrell
 Australia,ambassador to Indonesia,David Ritchie,Q18609072,2003,2005,male,,,David Ritchie (4).jpg,David Ritchie (diplomat)
 Australia,ambassador to Ireland,Bob Halverson,Q4932666,1999,2003,male,1937-10-22,2016-02-09,,Bob Halverson
+Australia,Ambassador to Italy,Amanda Vanstone,Q454233,2007-04,2010-07,female,1952-12-07,,Amanda Vanstone (2).jpeg,Amanda Vanstone
 Australia,Ambassador to Italy,David Ritchie,Q18609072,2010,2013,male,,,David Ritchie (4).jpg,David Ritchie (diplomat)
 Australia,Ambassador to Italy,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann
 Australia,Ambassador to Libya,Mike Rann,Q3108729,2014-06-27,2016-01-08,male,1953-01-05,,Mike Rann (smiling).jpg,Mike Rann

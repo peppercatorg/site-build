@@ -958,6 +958,8 @@ Belarus,Q2866,Alexander Lukashenko,mother,Q109795726,Katsiaryna Lukashenka
 Belarus,Q2866,Alexander Lukashenko,spouse,Q1292492,Galina Lukashenko
 Belarus,Q3917390,Valery Tsepkalo,spouse,Q98119626,Veronika Tsepkalo
 Belarus,Q41348578,Ioury Bondar,father,Q41350952,Pavel Bondar
+Belarus,Q4755770,Andrei Dapkiunas,father,Q3918691,Вадзім Дапкюнас
+Belarus,Q4755770,Andrei Dapkiunas,mother,Q13030758,Zhanna Dapkyunas
 Belarus,Q48326359,Maksim Ryžankoŭ,father,Q18543590,Vladimir Ryzhenkov
 Belarus,Q669664,Aliaksandr Bahdanovich,sibling,Q2418578,Andrei Bahdanovich
 Belarus,Q70254763,Oleg Gaidukevich,father,Q2630570,Sergei Gaidukevich
@@ -3872,6 +3874,7 @@ European Union,Q1345946,Tunne Kelam,father,Q12372240,Peeter Sink
 European Union,Q1345946,Tunne Kelam,mother,Q12369826,Marje Sink
 European Union,Q1345946,Tunne Kelam,sibling,Q1791426,Kuldar Sink
 European Union,Q1345946,Tunne Kelam,spouse,Q12369727,Mari-Ann Kelam
+European Union,Q1347993,Stavros Xarchakos,spouse,Q38119205,Iro Saia
 European Union,Q13570003,Kadri Simson,father,Q12358062,Aadu Must
 European Union,Q13570003,Kadri Simson,mother,Q12379598,Ülle Must
 European Union,Q1357078,Vladimír Železný,child,Q12022326,Jakub Železný
@@ -4094,7 +4097,7 @@ European Union,Q2366466,Ville Niinistö,spouse,Q444747,Maria Wetterstrand
 European Union,Q240740,Pervenche Berès,father,Q260520,Pierre Berès
 European Union,Q241208,Isabella Lövin,father,Q5970029,Björn Lövin
 European Union,Q241376,Jutta Urpilainen,father,Q16991079,Kari Urpilainen
-European Union,Q2420152,Eva Kaili,father,Q115679736,Alexander Kaili
+European Union,Q2420152,Eva Kaili,father,Q115679736,Alexander Kaïlí
 European Union,Q2426702,Vittorio Sgarbi,sibling,Q16268759,Elisabetta Sgarbi
 European Union,Q24641234,Clotilde Armand,spouse,Q102192508,Sergiu Moroianu
 European Union,Q253793,Ryszard Czarnecki,spouse,Q115256528,Emilia Hermaszewska
@@ -9773,6 +9776,9 @@ Mexico,Q108570379,María Teresa Gómez-Mont Urueta,relative,Q6028542,Ines Gomez 
 Mexico,Q108570379,María Teresa Gómez-Mont Urueta,sibling,Q109827422,Miguel Gómez-Mont Urueta
 Mexico,Q108570379,María Teresa Gómez-Mont Urueta,sibling,Q3069480,Fernando Gómez Mont
 Mexico,Q109012187,Lía Limón García,father,Q6014595,Miguel Limón Rojas
+Mexico,Q109405909,Gabriela Sodi Miranda,sibling,Q171235,Thalía
+Mexico,Q109405909,Gabriela Sodi Miranda,sibling,Q431266,Laura Zapata
+Mexico,Q109405909,Gabriela Sodi Miranda,sibling,Q5639902,Ernestina Sodi
 Mexico,Q111146264,Mariana Nassar Piñeyro,mother,Q18352154,Irma Piñeyro Arias
 Mexico,Q111516895,Carlos Miguel Aysa Damas,father,Q64597075,Carlos Miguel Aysa González
 Mexico,Q111516917,Dulce María Silva Hernández,spouse,Q96624648,César Yáñez Centeno Cabrera
@@ -19307,6 +19313,7 @@ United Kingdom,Q337375,Douglas Hurd,spouse,Q75989778,Judy J. Smart
 United Kingdom,Q337529,Ann Winterton,spouse,Q337577,Nicholas Winterton
 United Kingdom,Q337552,Derek Conway,child,Q5719753,Henry Conway
 United Kingdom,Q337577,Nicholas Winterton,spouse,Q337529,Ann Winterton
+United Kingdom,Q337582,Tony Wright,child,Q4886730,Ben Wright
 United Kingdom,Q337709,Peter Ainsworth,father,Q3524330,Michael Ainsworth
 United Kingdom,Q337709,Peter Ainsworth,mother,Q76154117,Patricia Mary Bedford
 United Kingdom,Q3377178,Stephen Kinnock,child,Q76199431,Johanna Kinnock
@@ -22744,6 +22751,7 @@ World,Q336930,"David Carnegie, 14th Earl of Northesk",spouse,Q75317015,Jacquelin
 World,Q337162,Jill Knight,father,Q75618155,A. E. Christie
 World,Q337162,Jill Knight,mother,Q76236021,Alma Christie
 World,Q337162,Jill Knight,spouse,Q76183326,Montague Knight
+World,Q337582,Tony Wright,child,Q4886730,Ben Wright
 World,Q3376114,Jette F. Christensen,partner,Q21755538,Frithjof Jacobsen
 World,Q340239,Achille Occhetto,spouse,Q3629789,Aureliana Alberici
 World,Q3485303,Sirpa Asko-Seljavaara,father,Q11853409,Aukusti Asko-Avonius
