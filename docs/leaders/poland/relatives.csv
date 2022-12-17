@@ -1,6 +1,7 @@
 catalog,id,name,relationship,relative,relativename
 Poland,Q1030376,Witold Sitarz,child,Q77259326,Emilia Sitarz
 Poland,Q111574804,Sebastian Kęciek,spouse,Q111726938,Izabela Kęciek
+Poland,Q115524705,Leszek Kowalczyk,sibling,Q432110,Henryk Kowalczyk
 Poland,Q1166062,Dariusz Rosati,child,Q2789894,Weronika Rosati
 Poland,Q1166062,Dariusz Rosati,spouse,Q11836904,Teresa Rosati
 Poland,Q11686111,Andrzej Wielowieyski,child,Q115308618,Agnieszka Wielowieyska
@@ -97,6 +98,7 @@ Poland,Q381185,Władysław Bartoszewski,spouse,Q42290655,Zofia Bartoszewska
 Poland,Q42939,Bronisław Komorowski,father,Q9392939,Zygmunt Komorowski
 Poland,Q42939,Bronisław Komorowski,mother,Q17278127,Jadwiga Komorowska
 Poland,Q42939,Bronisław Komorowski,spouse,Q2626121,Anna Komorowska
+Poland,Q432110,Henryk Kowalczyk,sibling,Q115524705,Leszek Kowalczyk
 Poland,Q432759,Wojciech Mojzesowicz,relative,Q11736924,Katarzyna Bilewska
 Poland,Q432759,Wojciech Mojzesowicz,relative,Q42416385,Jadwiga Mojzesowicz-Bilewska
 Poland,Q4714939,Aleksander Hall,spouse,Q144734,Katarzyna Hall

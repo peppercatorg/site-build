@@ -4,7 +4,7 @@ Equatorial Guinea,Vice-President,Teodoro Nguema,Q477201,2012-05-21,,male,1968-06
 Equatorial Guinea,Vice-President,Ignacio Milam Tang,Q57898,2012-05-21,2016-06-22,male,1940-06-20,,,Ignacio Milam Tang
 Equatorial Guinea,Prime Minister,Ángel Serafín Seriche Dougan,Q251902,1996-04-11,2001-03-04,male,1946,,,Ángel Serafín Seriche Dougan
 Equatorial Guinea,Prime Minister,Cándido Muatetema Rivas,Q1149802,2001-03-04,2004-06-14,male,1960-02-20,2014-06-16,,Cándido Muatetema Rivas
-Equatorial Guinea,Prime Minister,Miguel Abia Biteo Boricó,Q1353126,2004-06-14,2006-08-14,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
+Equatorial Guinea,Prime Minister,Miguel Abia Biteo,Q1353126,2004-06-14,2006-08-14,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
 Equatorial Guinea,Prime Minister,Ricardo Mangue Obama Nfubea,Q602837,2006-08-14,2008-07-08,male,1961,,Ricardo Mangue Obama Nfubea.jpg,Ricardo Mangue Obama Nfubea
 Equatorial Guinea,Prime Minister,Ignacio Milam Tang,Q57898,2008-07-08,2012-05-21,male,1940-06-20,,,Ignacio Milam Tang
 Equatorial Guinea,Prime Minister,Vicente Ehate Tomi,Q2201806,2012-05-21,2016-06-22,male,1968,,,Vicente Ehate Tomi
@@ -58,7 +58,7 @@ Equatorial Guinea,Minister of Defence,Antonio Mba Nguema,Q63731266,2004-06-15,20
 Equatorial Guinea,Minister of Defence,Vicente Eya Olomo,Q112163019,2016-06-24,2017-05-30,,,,,
 Equatorial Guinea,Minister of Defence,Alejandro Bacale Ncogo,Q112162957,2018-02-06,2019-12-31,,,,,
 Equatorial Guinea,Minister of Defence,Victoriano Bibang Nsue Okomo,Q103916282,2020,,male,,,,
-Equatorial Guinea,Minister of Economy,Miguel Abia Biteo Boricó,Q1353126,1999-07-22,2001-03-09,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
+Equatorial Guinea,Minister of Economy,Miguel Abia Biteo,Q1353126,1999-07-22,2001-03-09,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
 Equatorial Guinea,Minister of Economy,Baltasar Engonga Edjo,Q112162967,2001-03-09,2004-06-15,male,,,,
 Equatorial Guinea,Minister of Economy,Jaime Ela Ndong,Q112128530,2004-06-15,2008-07-15,male,,,,
 Equatorial Guinea,Minister of Economy,Pedro Ondo Nguema Okomo,Q112133267,2008-07-15,2011-01-28,male,,,,
@@ -143,9 +143,9 @@ Equatorial Guinea,Minister of Labour,Demetrio Elo Ndong Nsefumu,Q112128517,2006-
 Equatorial Guinea,Minister of Labour,Evangelina Oyo Ebule,Q42907516,2006-08-22,2008-07-15,female,,,,Evangelina Oyo Ebule
 Equatorial Guinea,Minister of Labour,Mauricio Bokung Asumu,Q112128491,2008-07-15,2010-01-12,male,,,,
 Equatorial Guinea,Minister of Labour,Estanislao Don Malavo,Q112162980,2010-01-12,2012-05-22,male,,,,
-Equatorial Guinea,Minister of Labour,Miguel Abia Biteo Boricó,Q1353126,2012-05-22,2012-12-06,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
+Equatorial Guinea,Minister of Labour,Miguel Abia Biteo,Q1353126,2012-05-22,2012-12-06,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
 Equatorial Guinea,Minister of Labour,Heriberto Meko Mbengono,Q112133249,2013-01-30,2016-06-24,male,,,,
-Equatorial Guinea,Minister of Labour,Ángel Borico Moisés,Q112163023,2016-06-24,2018-02-06,,,,,
+Equatorial Guinea,Minister of Labour,José Ángel Boricó,Q112163023,2016-06-24,2018-02-06,male,,,,
 Equatorial Guinea,Minister of Labour,Celestino Bonifacio Bacale,Q5057941,2018-02-06,2019-12-31,male,1957-09-24,2021-03-03,Celestino Bacale.jpg,Celestino Bonifacio Bacalé
 Equatorial Guinea,Minister of Mines,Cristóbal Meñana Ela,Q112128524,1999-07-22,2004-06-15,male,,,,
 Equatorial Guinea,Minister of Mines,Atanasio Ela Ntugu Nsa,Q112128507,2004-06-15,2008-07-15,male,,,,
@@ -156,7 +156,7 @@ Equatorial Guinea,Minister of Missions,Alejandro Evuna Owono Asangono,Q112162958
 Equatorial Guinea,Minister of National Security,Manuel Nguema Mba,Q112162997,2004-06-15,2009-02-24,,,,,
 Equatorial Guinea,Minister of National Security,Nicolas Obama Nchama,Q112163007,2009-02-24,,male,,,,
 Equatorial Guinea,Minister of Parliament Relations,Antonio Fernando Nve Ngu,Q112128529,1999-07-22,2001-03-09,male,,,,
-Equatorial Guinea,Minister of Parliament Relations,Miguel Abia Biteo Boricó,Q1353126,2001-03-09,2004-06-15,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
+Equatorial Guinea,Minister of Parliament Relations,Miguel Abia Biteo,Q1353126,2001-03-09,2004-06-15,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
 Equatorial Guinea,Minister of Planning,Fortunato Ofa Mbo Nchama,Q112128545,1999-07-22,2003-02-11,male,,,,
 Equatorial Guinea,Minister of Planning,Antonio Nve Nseng,Q112162963,2003-02-11,2004-06-15,,,,,
 Equatorial Guinea,Minister of Planning,Carmelo Modu Acusé Bindang,Q112162970,2004-06-15,2006-08-22,,,,,
@@ -263,7 +263,7 @@ Equatorial Guinea,Deputy Minister of Information,Jose Mba Obama Bendomo,Q1121751
 Equatorial Guinea,Deputy Minister of Information,Virgilio Seriche Riloha,Q112175249,2018,2020,male,,,,
 Equatorial Guinea,Deputy Minister of Information,Atalia Modesta Baha Ondo,Q112175140,2020,,female,,,,
 Equatorial Guinea,Deputy Minister of Interior,Leocadio Ndong Monumu,Q112133253,2008,2010,,,,,
-Equatorial Guinea,Deputy Minister of Justice,Martin Ndong Nsue,Q112175215,2008,2010,,,,,
+Equatorial Guinea,Deputy Minister of Justice,Martin Ndong Nsue,Q112175215,2008,2010,male,,,,
 Equatorial Guinea,Deputy Minister of Labour,Juan Obama Mba,Q112175199,2003,2004,,,,,
 Equatorial Guinea,Deputy Minister of Labour,Basilio Abá,Q112175144,2004,2006,,,,,
 Equatorial Guinea,Deputy Minister of Labour,Isidoro Eyi Monsuy Andeme,Q112175189,2012,2013,,,,,
@@ -302,7 +302,7 @@ Equatorial Guinea,Minister Delegate of Agriculture,Diosdado-Sergio Osa Mongono,Q
 Equatorial Guinea,Minister Delegate of Agriculture,Miguel Mba Nsang Mikue,Q112133727,2020-08-18,,male,,,,
 Equatorial Guinea,Minister Delegate of Commerce,Alberto Doria Lajay,Q112175131,2018,2020,male,,,,
 Equatorial Guinea,Minister Delegate of Culture and Tourism,Guillermina Mekuy,Q24685671,2012,2018,female,1982-06-25,,Guillermina Mekuy.jpg,
-Equatorial Guinea,Minister Delegate of Economy,Jose Angel Boricó Moisés,Q112175193,2012,2013,male,,,,
+Equatorial Guinea,Minister Delegate of Economy,José Ángel Boricó,Q112163023,2012,2013,male,,,,
 Equatorial Guinea,Minister Delegate of Education,Santiago Ondo Esono Asangono,Q112175243,2012,2013,,,,,
 Equatorial Guinea,Minister Delegate of Education,Manuela Roca Botey,Q112175210,2020,,female,,,,
 Equatorial Guinea,Minister Delegate of Energy,Fidel Marcos Mañe,Q112128528,2012,2018,male,,,,
@@ -323,7 +323,7 @@ Equatorial Guinea,Minister Delegate of Justice,Juan Olo Mba Nseng,Q112175200,201
 Equatorial Guinea,Minister Delegate of Justice,Juan Olo Mba Nseng,Q112175200,2018,,male,,,,
 Equatorial Guinea,Minister Delegate of Labour,Secundino Oyono Awong Ada,Q112175244,2001,2003,,,,,
 Equatorial Guinea,Minister Delegate of Labour,Heriberto Meko Mbengono,Q112133249,2012,2013,male,,,,
-Equatorial Guinea,Minister Delegate of Labour,Jose Angel Boricó Moisés,Q112175193,2013,2018,male,,,,
+Equatorial Guinea,Minister Delegate of Labour,José Ángel Boricó,Q112163023,2013,2018,male,,,,
 Equatorial Guinea,Minister Delegate of Labour,Alfredo Mitogo,Q112133375,2018,2020,male,,,,
 Equatorial Guinea,Minister Delegate of National Defence,Melanio Ebendeng Nsomo,Q112175181,1999,2001,,,,,
 Equatorial Guinea,Minister Delegate of National Defence,Melanio Ebendeng Nsomo,Q112175181,2001,2003,,,,,
@@ -340,7 +340,7 @@ Equatorial Guinea,Minister Delegate of Transport,Joaquin Elema Borengue,Q1121751
 Equatorial Guinea,Minister Delegate of Transport,Joaquin Elema Borengue,Q112175192,2018,2020,male,,,,
 Equatorial Guinea,Minister Delegate of University Education and Science,Angel Eyene Avini,Q112175134,2003,2004,,,,,
 Equatorial Guinea,Minister of State of Health,Salomón Nguema Owono,Q112128523,2018,2020,male,,,,
-Equatorial Guinea,Minister of State of Parliamentary Relations,Miguel Abia Biteo Boricó,Q1353126,2003,2004,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
+Equatorial Guinea,Minister of State of Parliamentary Relations,Miguel Abia Biteo,Q1353126,2003,2004,male,1961-01-11,2012-12-06,,Miguel Abia Biteo Boricó
 Equatorial Guinea,"Minister of State of Planning, and Government Spokesman",Anatolio Ndong Mba,Q112133229,2000,2003,male,,,,
 Equatorial Guinea,Secretary General of the Presidency,Baltasar Esono,Q112175141,2018,2020,male,,,,
 Equatorial Guinea,Secretary General of the Presidency,Baltasar Esono,Q112175141,2020,,male,,,,
@@ -370,7 +370,7 @@ Equatorial Guinea,Secretary of State for Social Affairs,Maria Del Pilar Medja Nv
 Equatorial Guinea,Secretary of State for Sports,Patricio Bacale Mba Medja,Q112184922,2020-08-18,,male,,,,
 Equatorial Guinea,Secretary of State for Tourism,Prudencio Botey Sobole,Q61767161,2004,2006,male,,,,
 Equatorial Guinea,Secretary of State for Tourism,Catalina Martínez,Q112184954,2020-08-18,,female,,,,
-Equatorial Guinea,Secretary of State for Trade,Jose Angel Boricó Moisés,Q112175193,2004,2006,male,,,,
+Equatorial Guinea,Secretary of State for Trade,José Ángel Boricó,Q112163023,2004,2006,male,,,,
 Equatorial Guinea,Secretary of State for the Treasury,Milagrosa Obono Angue,Q112184929,2020-08-18,,female,,,,
 Equatorial Guinea,Secretary of State for Women,Purificacion Bohari Lasaguero,Q112133270,2003,2004,female,,,,
 Equatorial Guinea,Secretary of State for Women,Purificacion Bohari Lasaguero,Q112133270,2004,2006,female,,,,
@@ -386,8 +386,8 @@ Equatorial Guinea,Advisor to the Presidency,Ricardo Maximo Torao Oyo,Q112133271,
 Equatorial Guinea,Advisor to the Presidency,Estanislao Don Malavo,Q112162980,2020-08-18,,male,,,,
 Equatorial Guinea,Advisor to the Presidency,Juan Nko Mbula,Q112162994,2020-08-18,,male,,,,
 Equatorial Guinea,Advisor to the Presidency,Tomás Esono,Q112163018,2020-08-18,,male,,,,
+Equatorial Guinea,Advisor to the Presidency,José Ángel Boricó,Q112163023,2020-08-18,,male,,,,
 Equatorial Guinea,Advisor to the Presidency,Joaquin Elema Borengue,Q112175192,2020-08-18,,male,,,,
-Equatorial Guinea,Advisor to the Presidency,Jose Angel Boricó Moisés,Q112175193,2020-08-18,,male,,,,
 Equatorial Guinea,Advisor to the Presidency,Maria Jesus Ncara Owono,Q112175211,2020-08-18,,female,,,,
 Equatorial Guinea,Advisor to the Presidency,Pedro Abaga Esono,Q112175229,2020-08-18,,male,,,,
 Equatorial Guinea,Advisor to the Presidency,Pedro Ela Nguema Buna,Q112175230,2020-08-18,,male,,,,

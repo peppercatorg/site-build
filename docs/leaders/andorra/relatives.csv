@@ -11,12 +11,15 @@ Andorra,Q157,François Hollande,partner,Q81923,Ségolène Royal
 Andorra,Q157,François Hollande,sibling,Q16354873,Philippe Hollande
 Andorra,Q157,François Hollande,spouse,Q435925,Julie Gayet
 Andorra,Q21001195,Xavier Espot Zamora,father,Q2597802,Xavier Espot Miró
+Andorra,Q21001195,Xavier Espot Zamora,mother,Q115709949,Melània Zamora Bonet
+Andorra,Q21001195,Xavier Espot Zamora,relative,Q62273699,Júlia Bonet Fité
 Andorra,Q2105,Jacques Chirac,child,Q15529521,Laurence Chirac
 Andorra,Q2105,Jacques Chirac,child,Q2977194,Claude Chirac
 Andorra,Q2105,Jacques Chirac,father,Q16354565,François Chirac
 Andorra,Q2105,Jacques Chirac,mother,Q16354830,Marie-Louise Valette
 Andorra,Q2105,Jacques Chirac,spouse,Q431115,Bernadette Chirac
 Andorra,Q2597802,Xavier Espot Miró,child,Q21001195,Xavier Espot Zamora
+Andorra,Q2597802,Xavier Espot Miró,spouse,Q115709949,Melània Zamora Bonet
 Andorra,Q2996190,Contxita Marsol Riart,father,Q1377919,Rossend Marsol Clua
 Andorra,Q3052772,Emmanuel Macron,father,Q28838206,Jean-Michel Macron
 Andorra,Q3052772,Emmanuel Macron,mother,Q28838264,Françoise Noguès

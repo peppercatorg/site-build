@@ -73,12 +73,15 @@ Andorra,Q157,François Hollande,partner,Q81923,Ségolène Royal
 Andorra,Q157,François Hollande,sibling,Q16354873,Philippe Hollande
 Andorra,Q157,François Hollande,spouse,Q435925,Julie Gayet
 Andorra,Q21001195,Xavier Espot Zamora,father,Q2597802,Xavier Espot Miró
+Andorra,Q21001195,Xavier Espot Zamora,mother,Q115709949,Melània Zamora Bonet
+Andorra,Q21001195,Xavier Espot Zamora,relative,Q62273699,Júlia Bonet Fité
 Andorra,Q2105,Jacques Chirac,child,Q15529521,Laurence Chirac
 Andorra,Q2105,Jacques Chirac,child,Q2977194,Claude Chirac
 Andorra,Q2105,Jacques Chirac,father,Q16354565,François Chirac
 Andorra,Q2105,Jacques Chirac,mother,Q16354830,Marie-Louise Valette
 Andorra,Q2105,Jacques Chirac,spouse,Q431115,Bernadette Chirac
 Andorra,Q2597802,Xavier Espot Miró,child,Q21001195,Xavier Espot Zamora
+Andorra,Q2597802,Xavier Espot Miró,spouse,Q115709949,Melània Zamora Bonet
 Andorra,Q2996190,Contxita Marsol Riart,father,Q1377919,Rossend Marsol Clua
 Andorra,Q3052772,Emmanuel Macron,father,Q28838206,Jean-Michel Macron
 Andorra,Q3052772,Emmanuel Macron,mother,Q28838264,Françoise Noguès
@@ -1766,10 +1769,12 @@ Canada,Q548048,Belinda Stronach,spouse,Q318403,Johann Olav Koss
 Canada,Q5539530,George Furey,child,Q98098468,Andrew Furey
 Canada,Q56871253,Caroline Proulx,father,Q16266531,Jacques Proulx
 Canada,Q56871253,Caroline Proulx,relative,Q3106466,Gilles Proulx
+Canada,Q56875892,Marwah Rizqy,spouse,Q59783857,Gregory Kelley
 Canada,Q574359,Bernard Landry,spouse,Q2956318,Chantal Renaud
 Canada,Q574359,Bernard Landry,spouse,Q3259653,Lorraine Laporte-Landry
 Canada,Q57514843,Jean Boulet,sibling,Q3189174,Julie Boulet
 Canada,Q5761100,Hilary Weston,spouse,Q1491812,Galen Weston
+Canada,Q59783857,Gregory Kelley,spouse,Q56875892,Marwah Rizqy
 Canada,Q6122681,Jagmeet Singh,sibling,Q54862585,Gurratan Singh
 Canada,Q63565674,Paul Manly,father,Q6138866,James Manly
 Canada,Q6387442,Ken Cheveldayoff,sibling,Q637302,Kevin Cheveldayoff
@@ -1864,7 +1869,7 @@ Chile,Q16938235,Felipe Alessandri Vergara,sibling,Q47494552,Jorge Alessandri Ver
 Chile,Q18242,María Ignacia Benítez,sibling,Q42424938,Andrés Benítez
 Chile,Q19897688,Ernesto Ottone,father,Q47523980,Ernesto Ottone Fernández
 Chile,Q21503376,Carolina Marzán,spouse,Q5771863,Claudio Arredondo
-Chile,Q2336523,Claudio Huepe,child,Q111217966,
+Chile,Q2336523,Claudio Huepe,child,Q110640779,Claudio Huepe Minoletti
 Chile,Q242230,Camila Vallejo,relative,Q60831760,Jorge Dowling Desmadryl
 Chile,Q2600525,Andrés Zaldívar,sibling,Q5663680,Alberto Zaldívar
 Chile,Q2600525,Andrés Zaldívar,sibling,Q930844,Adolfo Zaldívar
@@ -5590,6 +5595,7 @@ France,Q58130,Michèle Alliot-Marie,father,Q2898296,Bernard Marie
 France,Q58130,Michèle Alliot-Marie,spouse,Q3308847,Michel Alliot
 France,Q58130,Michèle Alliot-Marie,spouse,Q976436,Patrick Ollier
 France,Q58174413,Jocelyne Pezet-Romieux,spouse,Q58174503,Jean-Claude Pezet
+France,Q58176143,Jean-Paul Boré,father,Q115710026,Jean Boré
 France,Q58178378,Anne-Marie Collard,child,Q107358871,Flavie Collard
 France,Q58178378,Anne-Marie Collard,spouse,Q1922673,Gilbert Collard
 France,Q5829,Jean-Luc Mélenchon,partner,Q28964087,Sophia Chikirou
@@ -8350,6 +8356,7 @@ Israel,Q471751,Tommy Lapid,father,Q107228182,Dr. Bela Meir Lampel
 Israel,Q471751,Tommy Lapid,mother,Q107228184,Katalin Lampel
 Israel,Q471751,Tommy Lapid,spouse,Q1572259,Shulamit Lapid
 Israel,Q472117,Amir Peretz,sibling,Q6769974,Flora Shoshan
+Israel,Q473775,Amnon Lipkin-Shahak,child,Q115704867,אורי שחק
 Israel,Q473775,Amnon Lipkin-Shahak,spouse,Q6907126,Tali Lipkin-Shahak
 Israel,Q49067,Gabi Ashkenazi,sibling,Q6898585,Avi Ashkenazi
 Israel,Q4920714,Mishael Cheshin,father,Q7064640,Shneor Cheshin
@@ -9220,6 +9227,7 @@ Kenya,Q4358037,Moody Awori,sibling,Q393388,Aggrey Awori
 Kenya,Q46795,Wangari Muta Maathai,child,Q79996197,Wanjira Mathai
 Kenya,Q46795,Wangari Muta Maathai,spouse,Q108664231,Mwangi Mathai
 Kenya,Q47490021,Joyce Chepkoech Korir,spouse,Q111338137,Leonard Korir
+Kenya,Q47494410,Kenneth Odhiambo Okoth,sibling,Q85837193,Benard Otieno Okoth
 Kenya,Q47494960,Tom Joseph Francis Kajwang',sibling,Q27893074,Moses Otieno Kajwang
 Kenya,Q48009463,Jackson Mandago,spouse,Q111261578,Lucy Mandago
 Kenya,Q48472394,Stephen Sang,spouse,Q111261583,Sheila Sang
@@ -9247,7 +9255,7 @@ Kenya,Q7172546,Peter Anyang' Nyong'o,child,Q111261610,Zawadi Nyongo'o
 Kenya,Q7172546,Peter Anyang' Nyong'o,child,Q3840847,Lupita Nyong'o
 Kenya,Q7172546,Peter Anyang' Nyong'o,spouse,Q111261595,Dorothy Ogada Nyong'o (neé Buyu)
 Kenya,Q7175990,Peter Munya,spouse,Q111261585,Phoebe Munya
-Kenya,Q85837193,Benard Otieno Okoth,sibling,Q66606803,Ken Okoth
+Kenya,Q85837193,Benard Otieno Okoth,sibling,Q66606803,
 Kenya,Q96627361,Wycliffe Wangamati,spouse,Q111261574,Carol Wangamati
 Kiribati,Q1268309,Teima Onorio,father,Q15843067,Rota Onorio
 Kiribati,Q57456,Anote Tong,child,Q97630864,Vincent Tong
@@ -9586,6 +9594,8 @@ Malaysia,Q106554732,Lim Hui Ying,sibling,Q707164,Lim Guan Eng
 Malaysia,Q110119185,Abdul Fatah Haron,relative,Q20457753,Nik Mohamad Abduh Nik Abdul Aziz
 Malaysia,Q110119185,Abdul Fatah Haron,relative,Q4115067,Nik Abdul Aziz Nik Mat
 Malaysia,Q111026260,Wan Abdul Hakim Wan Mokhtar,father,Q12712417,Wan Mokhtar Ahmad
+Malaysia,Q115091617,Verdon Bahanda,sibling,Q100158700,Wetrom Bahanda
+Malaysia,Q115285418,Riduan Rubin,father,Q100529243,Rubin Balang
 Malaysia,Q12857568,Ahmad Yaakob,spouse,Q111270224,Siti Zabidah Abdul Hamid
 Malaysia,Q1449940,Khairy Jamaluddin,relative,Q272588,Abdullah Ahmad Badawi
 Malaysia,Q1449940,Khairy Jamaluddin,relative,Q7491747,Shaziman Abu Mansor
@@ -9706,6 +9716,7 @@ Malaysia,Q5772615,Hishammuddin Hussein,mother,Q7635204,Suhailah Mohamed Noah
 Malaysia,Q6084858,Ismail Sabri Yaakob,child,Q12479777,Dafi Sabri
 Malaysia,Q6084858,Ismail Sabri Yaakob,spouse,Q108172035,Muhaini Zainal Abidin
 Malaysia,Q6127705,Jamaluddin Jarjis,child,Q91940201,Nur Anis Jamaluddin
+Malaysia,Q63742475,Vivian Wong Shir Yee,father,Q38668450,Wong Tien Fatt
 Malaysia,Q65219705,Ahmad Ali,relative,Q6840382,Hashim Jasin
 Malaysia,Q654886,Salahuddin of Selangor,child,Q3542702,Sharafuddin of Selangor
 Malaysia,Q654886,Salahuddin of Selangor,child,Q7699811,Tengku Sulaiman Shah
@@ -10268,6 +10279,7 @@ Netherlands,Q2673879,Eveline Herfkens,sibling,Q4769079,Annette Herfkens
 Netherlands,Q2673879,Eveline Herfkens,spouse,Q607189,Ed van Thijn
 Netherlands,Q2684477,Ed Wagemakers,father,Q33646623,Ton Wagemakers
 Netherlands,Q2712913,Jan de Wit,spouse,Q4042664,Riet de Wit
+Netherlands,Q2723702,Pieter ter Veer,spouse,Q2066529,Louise Groenman
 Netherlands,Q2741937,Rob Hessing,sibling,Q20017729,Ruud Hessing
 Netherlands,Q27646718,Laura Bromet,father,Q13637611,Frans Bromet
 Netherlands,Q2776715,Kajsa Ollongren,father,Q15917430,Alexander Ollongren
@@ -10730,6 +10742,7 @@ Norway,Q16769607,Gry-Anette Rekanes Amundsen,spouse,Q282089,Per-Willy Amundsen
 Norway,Q1682219,Jan Simonsen,sibling,Q12011466,Åge Simonsen
 Norway,Q17061413,Anna Amdal Fyhn,spouse,Q17061473,Truls Fyhn
 Norway,Q17093572,Bernt Grimstvedt,father,Q62118810,Bjarne Grimstvedt
+Norway,Q17096899,Jens Frølich Holte,relative,Q11995421,Peter Christian Frølich
 Norway,Q17096899,Jens Frølich Holte,spouse,Q59211179,Maria Jahrmann Bjerke
 Norway,Q17098219,Egil Johansson,spouse,Q11967110,Elin Prøysen
 Norway,Q17098927,Marius Meisfjord Jøsevold,mother,Q11958989,Arna Meisfjord
@@ -10866,6 +10879,7 @@ Norway,Q4579572,Ketil Lund,father,Q61078939,Bernt Bjelke Lund
 Norway,Q4580021,Ingse Stabel,father,Q5040499,Carl Ludovico Stabel
 Norway,Q4580021,Ingse Stabel,spouse,Q6423863,Knut Brofoss
 Norway,Q4580178,Clement Endresen,father,Q4580342,Egil Endresen
+Norway,Q4583752,Jens Edvin A. Skoghøy,spouse,Q115726890,Nataliia Skoghøy
 Norway,Q4587518,Fridtjof Frank Gundersen,spouse,Q62051826,Mosse Piene
 Norway,Q4588378,Raymond Johansen,spouse,Q195829,Christin Kristoffersen
 Norway,Q4589089,Steinulf Tungesvik,father,Q4588755,Hans Olav Tungesvik
@@ -11824,6 +11838,7 @@ Philippines,Q99644529,Faustino G. Dy III,father,Q4859261,Faustino Dy
 Philippines,Q99644529,Faustino G. Dy III,relative,Q15992762,Benjamin Dy
 Poland,Q1030376,Witold Sitarz,child,Q77259326,Emilia Sitarz
 Poland,Q111574804,Sebastian Kęciek,spouse,Q111726938,Izabela Kęciek
+Poland,Q115524705,Leszek Kowalczyk,sibling,Q432110,Henryk Kowalczyk
 Poland,Q1166062,Dariusz Rosati,child,Q2789894,Weronika Rosati
 Poland,Q1166062,Dariusz Rosati,spouse,Q11836904,Teresa Rosati
 Poland,Q11686111,Andrzej Wielowieyski,child,Q115308618,Agnieszka Wielowieyska
@@ -11920,6 +11935,7 @@ Poland,Q381185,Władysław Bartoszewski,spouse,Q42290655,Zofia Bartoszewska
 Poland,Q42939,Bronisław Komorowski,father,Q9392939,Zygmunt Komorowski
 Poland,Q42939,Bronisław Komorowski,mother,Q17278127,Jadwiga Komorowska
 Poland,Q42939,Bronisław Komorowski,spouse,Q2626121,Anna Komorowska
+Poland,Q432110,Henryk Kowalczyk,sibling,Q115524705,Leszek Kowalczyk
 Poland,Q432759,Wojciech Mojzesowicz,relative,Q11736924,Katarzyna Bilewska
 Poland,Q432759,Wojciech Mojzesowicz,relative,Q42416385,Jadwiga Mojzesowicz-Bilewska
 Poland,Q4714939,Aleksander Hall,spouse,Q144734,Katarzyna Hall
@@ -12512,6 +12528,7 @@ Russia,Q86833225,Mikhail Pitkevich,father,Q4363883,Yury Pitkevich
 Russia,Q983505,Murtaza Rakhimov,child,Q4391090,Ural Rakhimov
 Russia,Q984154,Vladimir Bortko,father,Q12084245,Volodymyr Volodymyrovych Bortko
 Russia,Q98704934,Vladimir Chernukhin,spouse,Q107242456,Lubov Chernukhin
+Rwanda,Q1231345,Paul Kagame,child,Q115155591,Ian Kagame
 Rwanda,Q1231345,Paul Kagame,child,Q14191994,Ange Kagame
 Rwanda,Q1231345,Paul Kagame,spouse,Q6172288,Jeannette Kagame
 Saint Lucia,Q16205063,Jeannine Compton-Antoine,father,Q716020,John Compton
@@ -13470,6 +13487,7 @@ Spain,Q116812,Oriol Junqueras,spouse,Q58226735,Neus Bramona
 Spain,Q11685275,Jone Berriozabal Bóveda,father,Q93381169,Román Berriozábal Azpitarte
 Spain,Q11685445,Joseba Álvarez,father,Q1019186,Txillardegi
 Spain,Q11689876,Luis Planas,relative,Q9013237,Josep Maria Planes i Martí
+Spain,Q11690659,Manuel Milián Mestre,relative,Q51791086,Manuel Milián Boix
 Spain,Q11690740,Manuela de Madre,spouse,Q11905846,Antoni Fogué i Moya
 Spain,Q11692643,Miguel Buen,sibling,Q11922959,Francisco Buen Lacambra
 Spain,Q11698889,Pere Macias,spouse,Q24632635,Assumpta Farran i Poca
@@ -14701,6 +14719,7 @@ Taiwan,Q9130647,Yu Mei-nu,spouse,Q55829919,Remington Huang
 Taiwan,Q9141091,Hsu Hsin-ying,sibling,Q22099965,徐世勳
 Taiwan,Q9182314,Chen Chien-jen,father,Q22099625,Chen Hsin-an
 Taiwan,Q9185489,Wu Rong-i,child,Q1965328,Wu Chih-chung
+Taiwan,Q9187249,Hou Yu-ih,sibling,Q72856113,Ming-Feng Hou
 Taiwan,Q9195350,Chih-Kung Lee,father,Q24837117,Lee Wen-hsiung (banker)
 Taiwan,Q9206928,Lee Yung-te,spouse,Q8347775,Chiu Yi-ying
 Taiwan,Q9292454,Freddy Lim,spouse,Q15903733,Doris Yeh
@@ -15242,6 +15261,7 @@ Ukraine,Q7269267,Tetyana Zasukha,child,Q87007000,Andriy Zasukha
 Ukraine,Q751757,Olena Lukash,spouse,Q12074201,Hryhoriy Illyashov
 Ukraine,Q868081,Olha Bohomolets,father,Q16162967,Vadym Berezovskyi
 Ukraine,Q868081,Olha Bohomolets,mother,Q85988785,Kateryna Bohomolez
+Ukraine,Q87446768,Pavlo Kukhta,spouse,Q64347078,Iuliia Mendel
 Ukraine,Q891942,Andriy Illenko,father,Q1532451,Yuri Ilyenko
 Ukraine,Q891942,Andriy Illenko,mother,Q4177347,Lyudmyla Yefymenko
 Ukraine,Q9101257,Oleksandr Yemets,child,Q4120886,Leonid Yemets
@@ -16317,7 +16337,7 @@ United Kingdom,Q16873055,Simon McDonald,mother,Q76317351,Angela McDonald
 United Kingdom,Q16873055,Simon McDonald,spouse,Q76317349,Olivia Mary Wright
 United Kingdom,Q1690715,Joan Bakewell,spouse,Q6112348,Jack Emery
 United Kingdom,Q1690715,Joan Bakewell,spouse,Q6828375,Michael Bakewell
-United Kingdom,Q1690778,"Joan Seccombe, Baroness Seccombe",child,Q76330296,Philip Stanley Seccombe
+United Kingdom,Q1690778,"Joan Seccombe, Baroness Seccombe",child,Q76330296,
 United Kingdom,Q1690778,"Joan Seccombe, Baroness Seccombe",child,Q76330302,Robert Murray Seccombe
 United Kingdom,Q1690778,"Joan Seccombe, Baroness Seccombe",father,Q76008642,Robert John Owen
 United Kingdom,Q1690778,"Joan Seccombe, Baroness Seccombe",mother,Q76008644,Olive Barlow
@@ -17053,8 +17073,8 @@ United Kingdom,Q2078620,"Peter Temple-Morris, Baron Temple-Morris",spouse,Q76364
 United Kingdom,Q2086030,"Philip Allen, Baron Allen of Abbeydale",father,Q75294091,Arthur Allen
 United Kingdom,Q2086030,"Philip Allen, Baron Allen of Abbeydale",mother,Q75294093,Louie Tipper
 United Kingdom,Q2086030,"Philip Allen, Baron Allen of Abbeydale",spouse,Q75294081,Marjorie Brenda Coe
-United Kingdom,Q2086183,"Philip Gould, Baron Gould of Brookwood",child,Q76303075,Georgia Anne Rebuck Gould
-United Kingdom,Q2086183,"Philip Gould, Baron Gould of Brookwood",child,Q76303076,Grace Atlanta Rebuck Gould
+United Kingdom,Q2086183,"Philip Gould, Baron Gould of Brookwood",child,Q30612769,Georgia Gould
+United Kingdom,Q2086183,"Philip Gould, Baron Gould of Brookwood",child,Q76303076,Grace Gould
 United Kingdom,Q2086183,"Philip Gould, Baron Gould of Brookwood",spouse,Q5517148,Gail Rebuck
 United Kingdom,Q2086241,"Philip Hunt, Baron Hunt of Kings Heath",child,Q76135505,Phillipa Jean Hunt
 United Kingdom,Q2086241,"Philip Hunt, Baron Hunt of Kings Heath",child,Q76135560,Esther Rebecca Hunt Stewart
@@ -17750,6 +17770,8 @@ United Kingdom,Q29045611,"Alastair Colin Leckie Campbell, 4th Baron Colgrain",ch
 United Kingdom,Q29045611,"Alastair Colin Leckie Campbell, 4th Baron Colgrain",father,Q26398971,"David Campbell, 3rd Baron Colgrain"
 United Kingdom,Q29045611,"Alastair Colin Leckie Campbell, 4th Baron Colgrain",mother,Q75355323,Veronica Margaret Webster
 United Kingdom,Q29045611,"Alastair Colin Leckie Campbell, 4th Baron Colgrain",spouse,Q75355318,Annabel Rose Warrender
+United Kingdom,Q290733,Oliver Colvile,father,Q76088909,Richard Frederick Colvile
+United Kingdom,Q290733,Oliver Colvile,mother,Q75983773,Dioné Onaway Neate
 United Kingdom,Q291057,Yvette Cooper,spouse,Q260464,Ed Balls
 United Kingdom,Q291169,Jeremy Corbyn,father,Q98739015,David Benjamin Corbyn
 United Kingdom,Q291169,Jeremy Corbyn,mother,Q98739565,Naomi Loveday Josling
@@ -19790,8 +19812,8 @@ United Kingdom,Q549702,"Anita Gale, Baroness Gale",mother,Q76002387,Lillian Maud
 United Kingdom,Q5497735,"Frederick Erroll, 1st Baron Erroll of Hale",father,Q75600646,George Murison Erroll
 United Kingdom,Q5497735,"Frederick Erroll, 1st Baron Erroll of Hale",mother,Q75600653,Kathleen Donavan Edington
 United Kingdom,Q5497735,"Frederick Erroll, 1st Baron Erroll of Hale",spouse,Q75572771,Elizabeth Barrow
-United Kingdom,Q5517148,Gail Rebuck,child,Q76303075,Georgia Anne Rebuck Gould
-United Kingdom,Q5517148,Gail Rebuck,child,Q76303076,Grace Atlanta Rebuck Gould
+United Kingdom,Q5517148,Gail Rebuck,child,Q30612769,Georgia Gould
+United Kingdom,Q5517148,Gail Rebuck,child,Q76303076,Grace Gould
 United Kingdom,Q5517148,Gail Rebuck,spouse,Q2086183,"Philip Gould, Baron Gould of Brookwood"
 United Kingdom,Q5538990,"George Emslie, Baron Emslie",child,Q5261942,"Derek Emslie, Lord Kingarth"
 United Kingdom,Q5538990,"George Emslie, Baron Emslie",child,Q5538991,"George Emslie, Lord Emslie"
@@ -21854,6 +21876,7 @@ United States,Q600393,"John Dingell, Jr.",spouse,Q5248232,Deborah Dingell
 United States,Q60428696,Antonio Delgado,spouse,Q20711158,Lacey Schwartz
 United States,Q60428775,Ron Wright,spouse,Q106686477,Susan Wright
 United States,Q60617380,Shawnna Bolick,spouse,Q5133923,Clint Bolick
+United States,Q60639272,Angela Paxton,spouse,Q6388290,Ken Paxton
 United States,Q6066080,Ira Hansen,spouse,Q94851188,Alexis Hansen
 United States,Q607069,Gordon H. Smith,father,Q106866655,Milan Smith
 United States,Q607069,Gordon H. Smith,mother,Q106866656,Jessica Smith
