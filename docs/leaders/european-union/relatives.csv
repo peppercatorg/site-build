@@ -412,8 +412,9 @@ European Union,Q274779,Daciana Sârbu,mother,Q17278773,Mariana Sârbu
 European Union,Q274779,Daciana Sârbu,spouse,Q57692,Victor Ponta
 European Union,Q2762267,Marie-France Garaud,father,Q61984531,Marcel Quintard
 European Union,Q2762267,Marie-France Garaud,spouse,Q61984398,Louis Garaud
-European Union,Q2840739,Alekos Alavanos,father,Q16512820,Νικόλαος Αλαβάνος
-European Union,Q2840739,Alekos Alavanos,sibling,Q16327094,Κωνσταντίνος Ν. Αλαβάνος
+European Union,Q2840739,Alekos Alavanos,father,Q16512820,nikolaos Alavanos
+European Union,Q2840739,Alekos Alavanos,relative,Q12879617,Konstantinos Alavanos
+European Union,Q2840739,Alekos Alavanos,sibling,Q16327094,Konstantinos N. Alavanos
 European Union,Q285543,Alessandra Mussolini,child,Q105268643,Romano Floriani Mussolini
 European Union,Q285543,Alessandra Mussolini,father,Q446421,Romano Mussolini
 European Union,Q285543,Alessandra Mussolini,mother,Q3847521,Anna Maria Villani Scicolone
@@ -681,6 +682,10 @@ European Union,Q4740163,Carles Puigdemont,mother,Q50925996,Núria Casamajó
 European Union,Q4740163,Carles Puigdemont,sibling,Q64733623,Montserrat Puigdemont i Casamajó
 European Union,Q4740163,Carles Puigdemont,spouse,Q21998656,Marcela Topor
 European Union,Q47485256,André Rougé,spouse,Q111685345,Florence Goulet
+European Union,Q47563,Matteo Renzi,father,Q51136224,Tiziano Renzi
+European Union,Q47563,Matteo Renzi,mother,Q51136321,Laura Bovoli
+European Union,Q47563,Matteo Renzi,sibling,Q58649504,Samuele Renzi
+European Union,Q47563,Matteo Renzi,spouse,Q18350440,Agnese Landini
 European Union,Q47602,Massimo D'Alema,father,Q3770384,Giuseppe D'Alema
 European Union,Q47651,Marco Pannella,sibling,Q107421422,Liliana Pannella
 European Union,Q4769784,Annunziata Rees-Mogg,father,Q194896,William Rees-Mogg
@@ -827,6 +832,7 @@ European Union,Q610788,António Costa,mother,Q60181119,Maria Antónia Palla
 European Union,Q610788,António Costa,sibling,Q7322603,Ricardo Costa
 European Union,Q616525,Gianfranco Miccichè,sibling,Q3757053,Gaetano Miccichè
 European Union,Q6172463,Anders Sellström,sibling,Q966884,Stefan Attefall
+European Union,Q6180187,Olof Skoog,spouse,Q115766852,Johanna Brismar Skoog
 European Union,Q6245709,Lars Wohlin,father,Q1992475,Nils Wohlin
 European Union,Q6245709,Lars Wohlin,mother,Q4990681,Margit Wohlin
 European Union,Q6245709,Lars Wohlin,sibling,Q4963023,Ulla Lindström
@@ -897,6 +903,7 @@ European Union,Q7179073,Petros Efthymiou,sibling,Q63959316,Maria Efthymiou
 European Union,Q724366,Alfrēds Rubiks,child,Q4801977,Artūrs Rubiks
 European Union,Q724366,Alfrēds Rubiks,child,Q9303235,Raimonds Rubiks
 European Union,Q725609,Charles Pasqua,child,Q3383474,Pierre-Philippe Pasqua
+European Union,Q725609,Charles Pasqua,father,Q115740246,André Pasqua
 European Union,Q731042,József Szájer,spouse,Q1033495,Tünde Handó
 European Union,Q7351526,Roberta Metsola,spouse,Q110620213,Ukko Metsola
 European Union,Q738466,Georgios Karatzaferis,sibling,Q28255829,Σπύρος Καρατζαφέρης

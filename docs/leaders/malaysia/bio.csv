@@ -47,10 +47,6 @@ Q107740009,Mohan Thangarasu,male,,,,,,
 Q107740089,Paul Igai,male,,,,,,
 Q107740122,Theodore Douglas Lind,male,,,,,,
 Q108264884,Wan Martina Wan Yusoff,female,1966-11-09,11,,,,Wan Martina
-Q108286439,Ahmad Johnie Zawawi,male,,,,,,Ahmad Johnie Zawawi
-Q108286894,Wilson Ugak Kumbong,male,,,,,,Wilson Ugak Kumbong
-Q108287376,Lukanisman Awang Sauni,male,,,,,,Lukanisman Awang Sauni
-Q108287949,Anyi Ngau,male,1958,9,,,,Anyi Ngau
 Q108522619,Awang Ahmad Sah,male,,,,,,Awang Ahmad Sah Awang Sahari
 Q108611696,Gapar Gurrohu,male,1945,9,2021-09-11,11,,
 Q108648073,Yahaya Mat Nor,male,,,,,,Yahaya Mat Nor
@@ -100,6 +96,7 @@ Q111034114,Abu Bakar Abdullah,male,1952-05-29,11,2021-09-09,11,,
 Q111036232,Jonnybone J Kurum,male,,,,,,
 Q111040763,Mokran Ingkat,male,,,,,,
 Q111123362,Abdul Aziz Talib,male,,,,,,
+Q111128097,Bakri Jamaluddin,male,,,,,,
 Q111161330,Alias Sani,male,1968-12-17,11,,,,
 Q111161905,Calvin Chong Ket Kiun,male,1977-01-18,11,,,,
 Q111361965,Hamild @ Hamid bin Awang,male,,,,,,
@@ -112,6 +109,7 @@ Q113481829,Rina Jainal,female,,,,,,
 Q113825271,Abdullah Mat Dan,male,1946,9,2019-06-08,11,,
 Q113845787,Omar Mohammed,male,,,,,,
 Q113905964,Abu Bakar Othman,male,,,,,,
+Q114450216,Mohd Hasnizan Harun,male,,,,,,
 Q115074805,Adnan Abu Hassan,male,,,,,,
 Q115091617,Verdon Bahanda,male,,,,,,
 Q115284082,Roy Angau Gingkoi,male,1979,9,,,,
@@ -121,7 +119,7 @@ Q115455510,Rodiyah Sapiee,female,1978-11-04,11,,,,Rodiyah Sapiee
 Q115477091,Zahari Kechik,male,1960,9,,,,Zahari Kechik
 Q115477413,Syahredzan Johan,male,1983,9,,,,Syahredzan Johan
 Q115534883,Zakri Hassan,male,,,,,,Zakri Hassan
-Q115557810,Armizan Mohd Ali,,1976-09-09,11,,,,Armizan Mohd Ali
+Q115557810,Armizan Mohd Ali,male,1976-09-09,11,,,,Armizan Mohd Ali
 Q115567056,Zaliha Mustafa,female,1964-06-08,11,,,,Zaliha Mustafa
 Q115590137,Rushdan Rusmi,male,,,,,,Rushdan Rusmi
 Q115590783,Taufiq Johari,male,,,,,,Mohammed Taufiq Johari
@@ -150,7 +148,6 @@ Q115726146,Zulkafperi Hanapi,male,,,,,,
 Q115726222,Ramanan Ramakrishnan,male,,,,,,
 Q115726234,Azli Yusof,male,,,,,,
 Q115726302,Zahir Hassan,male,,,,,,
-Q115726426,Bakri Jamaluddin,male,,,,,,
 Q115726853,Yuneswaran Ramaraj,male,,,,,,
 Q115726906,Onn Abu Bakar,male,,,,,,
 Q115727628,Muhammad Islahuddin Abas,male,,,,,,
@@ -340,56 +337,55 @@ Q55641125,Mohamad Ariff Md Yusof,male,1949,9,,,Mohamad Ariff Md Yusof 2019.jpg,M
 Q55642228,Tengku Zulpuri Shah Raja Puji,male,1964-07-15,11,,,,Tengku Zulpuri Shah Raja Puji
 Q5575520,Gobind Singh Deo,male,1973-06-19,11,,,Gobind Singh Deo - Global Conference for Media Freedom (48256794802) (cropped).jpg,Gobind Singh Deo
 Q55760030,Mohd. Redzuan Md. Yusof,male,1957-04-14,11,,,Mohd Redzuan Md Yusof.jpg,Mohd Redzuan Md Yusof
+Q55760039,Mohamed Farid Md Rafik,male,1976-10-12,11,2019-09-21,11,,Mohamed Farid Md Rafik
 Q55846728,Awang Solahudin Hashim,male,,,,,,
-Q55846743,Ahmad Tarmizi Sulaiman,,,,,,,
+Q55846743,Ahmad Tarmizi Sulaiman,male,,,,,Ahmad Tarmizi Sulaiman.jpg,Ahmad Tarmizi Sulaiman
 Q55846750,Nor Azrina Surip,female,1975-10-25,11,,,,Nor Azrina Surip
 Q55846778,Karupaiya Mutusami,male,1953-02-04,11,2022-11-16,11,,Karupaiya Mutusami
 Q55846946,Ikmal Hisham Abdul Aziz,male,,,,,,Ikmal Hisham Abdul Aziz
-Q55846956,Ahmad Jazlan Yaakub,,,,,,,
+Q55846956,Ahmad Jazlan Yaakub,male,1964-08-30,11,,,,Ahmad Jazlan Yaakub
 Q55847008,Mohd. Khairuddin Aman Razali,,,,,,,
 Q55847048,Wan Hassan Mohd. Ramli,,,,,,,
 Q55847056,Che Alias Hamid,male,,,,,,Che Alias Hamid
 Q55847191,Noor Azmi Ghazali,male,1961-11-28,11,,,,Noor Azmi Ghazali
-Q55847197,Syed Abu Hussin Hafiz Syed Abdul Fasal,,,,,,,
+Q55847197,Syed Abu Hussin Hafiz Syed Abdul Fasal,male,1960,9,,,,Syed Abu Hussin Hafiz
 Q55847205,Teh Kok Lim,male,1970-03-18,11,,,,Teh Kok Lim
 Q55847334,Mastura Mohd. Yazid,,,,,,,
 Q55847344,Ahmad Nazlan Idris,male,1970,9,,,,Ahmad Nazlan Idris
 Q55847351,Wong Tack,male,1959,9,,,,Wong Tack
-Q55847358,Mohd Fasiah Mohd Fakeh,,,,,,,
-Q55847363,Muslimin Yahya,,,,,,,
-Q55847368,June Leow Hsiad Hui,,,,,,,
+Q55847358,Mohd Fasiah Mohd Fakeh,male,,,,,,Fasiah Fakeh
+Q55847363,Muslimin Yahya,male,1967,9,,,Muslimin Yahaya.png,Muslimin Yahaya
+Q55847368,June Leow Hsiad Hui,female,1964,9,,,,June Leow
 Q55847483,Jalaluddin Alias,male,1963-09-05,11,,,,Jalaluddin Alias
-Q55847488,Mohd. Salim Shariff,,,,,,,
+Q55847488,Mohd. Salim Shariff,male,,,,,,Salim Shariff
 Q55847511,Danyal Balagopal Abdullah,,,,,,,
 Q55847523,Hasan Baharom,male,,7,,,,
 Q55847543,Rusnah Aluai,female,,7,,,,
 Q55847562,Natrah Ismail,female,,,,,,Natrah Ismail
-Q55847567,Pang Hok Liang,,,,,,,
+Q55847567,Pang Hok Liang,male,1957-07-22,11,,,,Pang Hok Liong
 Q55847576,Syed Ibrahim Syed Noh,male,,,,,,Syed Ibrahim Syed Noh
 Q55847599,Wong Shu Qi,female,1983-11-26,11,,,,Wong Shu Qi
 Q55847609,Adham Baba,male,1962-10-06,11,,,,Adham Baba
 Q55847617,Steven Choong Shiau Yoon,male,,,,,,
-Q55847624,Hassan Abdul Karim,,,,,,,
+Q55847624,Hassan Abdul Karim,male,1951,9,,,,Hassan Abdul Karim
 Q55847629,Ahmad Akmal Nasrullah Mohd. Nasir,male,,,,,,
-Q55847645,Mohamed Farid Md. Rafik,,,,,,,
 Q55847650,Rozman Isli,male,,7,,,YB Rozman Isli of Labuan in 2019.jpg,Rozman Isli
 Q55847666,Mohd. Shahar Abdullah,male,,,,,,
 Q55847671,Noor Amin Ahmad,male,1982-02-20,11,,,,Noor Amin Ahmad
-Q55847678,Mordi Bimol,,,,,,,
+Q55847678,Mordi Bimol,male,1985,9,,,,Mordi Bimol
 Q55847682,Ali Biju,male,1968,9,,,Ali Biju.jpg,Ali Biju
-Q55847689,Ahmad Johnie Zawasi,,,,,,,
+Q55847689,Ahmad Johnie Zawasi,male,,,,,,Ahmad Johnie Zawawi
 Q55847698,Kelvin Yii Lee Wuen,male,1986-08-31,11,,,,Kelvin Yii Lee Wuen
 Q55847702,Yusuf Abd. Wahab,,,,,,,
 Q55847705,Hanifah Hajar Taib,female,1972,9,,,Coat of arms of Malaysia.svg,Hanifah Hajar Taib
 Q55847724,Larry Sng Wei Shien,male,1979-09-14,11,,,,Larry Sng
 Q55847739,Ahmad Fadhli Shaari,male,1980-07-18,11,,,Ahmad Fadhli UAF.jpg,Ahmad Fadhli Shaari
-Q55847750,Lukanisman Awang Sauni,,,,,,,
-Q55847764,Anyi Ngau,,,,,,,
+Q55847750,Lukanisman Awang Sauni,male,,,,,,Lukanisman Awang Sauni
+Q55847764,Anyi Ngau,male,1958,9,,,,Anyi Ngau
 Q55847765,Jugah Muyang,male,1964-04-03,11,,,,Jugah Muyang
-Q55847768,Willie Mongin,,,,,,,
-Q55847774,Wilson Ugak Kumbong,,,,,,,
+Q55847768,Willie Mongin,male,,,,,,Willie Mongin
+Q55847774,Wilson Ugak Kumbong,male,,,,,,Wilson Ugak Kumbong
 Q55847790,Shaharizukirnain Abd. Kadir,,,,,,,
-Q56276779,Willie Mongin,male,,,,,,Willie Mongin
 Q5642346,Halimah Mohd Sadique,female,1962-02-02,11,,,Halimah Mohd Sadique.png,Halimah Mohamed Sadique
 Q5646531,Hamzah Zainuddin,male,1957-03-12,11,,,,Hamzah Zainudin
 Q5649002,Hannah Yeoh,female,1979-01-09,11,,,Hannah Yeoh at MBPJ Stadium in 2013.jpg,Hannah Yeoh
@@ -403,13 +399,10 @@ Q5772615,Hishammuddin Hussein,male,1961-08-05,11,,,Hishamuddin2014.jpg,Hishammud
 Q59184999,Akmal Nasir,male,1986-09-16,11,,,,Akmal Nasrullah Mohd Nasir
 Q59656108,Robert Lawson Chuat Vincent Entering,male,1958-06-14,11,,,,Robert Lawson Chuat Vincent Entering
 Q5984464,Ibrahim Ali,male,1957-01-25,11,,,Ibrahim Ali 2014.png,Ibrahim Ali (politician)
-Q60311688,Pang Hok Liong,male,1957-07-22,11,,,,Pang Hok Liong
 Q6067517,Xavier Jayakumar A/L Arulanandam,male,1953,9,,,L Arulanandam.jpg,Xavier Jayakumar Arulanandam
 Q6084858,Ismail Sabri Yaakob,male,1960-01-18,11,,,Ismail Sabri Yaakob 01042022 (cropped).jpg,Ismail Sabri Yaakob
 Q61113768,Mohd Radzi Md Jidin,male,1977-09-04,11,,,Dr Radzi Jidin 2020.jpg,Radzi Jidin
-Q61116700,Hassan Abdul Karim,male,1951,9,,,,Hassan Abdul Karim
 Q61116790,Sabri Azit,male,,,,,,Sabri Azit
-Q61116858,Muslimin Yahaya,male,1967,9,,,Muslimin Yahaya.png,Muslimin Yahaya
 Q6127705,Jamaluddin Jarjis,male,1951-05-25,11,2015-04-04,11,Dato’ Sri Dr. Jamaluddin Mohd. Jarjis (6 November 2006).jpg,Jamaluddin Jarjis
 Q6147742,Jamil Khir Baharom,male,1961-06-25,11,,,"Dato' Seri Jamil Khir Baharom, 2018.jpg",Jamil Khir Baharom
 Q6155600,Mustapa Mohamed,male,1950-09-25,11,,,Mustapa Mohamed in CNBC-supply chains - World Economic Forum on East Asia 2012 crop.jpg,Mustapa Mohamed
@@ -419,12 +412,10 @@ Q6323953,K. S. Nijhar,male,1936,9,2021-06-15,11,,K. S. Nijhar
 Q6356078,Kamaruddin Jaafar,male,1951-11-03,11,,,"Marcin Przydacz, Kamarudin Jaffar standing.jpg",Kamarudin Jaffar
 Q63742475,Vivian Wong Shir Yee,female,1989,9,,,,Vivian Wong Shir Yee
 Q6399454,Khalid Abdul Samad,male,1957-08-14,11,,,Khalid Samad during Kita Lawan rally on 28 March 2015.jpg,Khalid Abdul Samad
-Q65087923,Mordi Bimol,male,1985,9,,,,Mordi Bimol
 Q65219697,Abd Nasir Idris,male,1958-08-28,11,,,,
 Q65219705,Ahmad Ali,male,1938-07-23,11,,,,
 Q65219707,Ahmad Amzad Hashim,male,1970-01-15,11,,,Ahmad Amzah Hashim.png,Ahmad Amzad Hashim
 Q65219710,Ahmad Fadzli Hashim,male,1974-06-07,11,,,,Ahmad Fadzli Hashim
-Q65219711,Ahmad Tarmizi Sulaiman,male,,,,,Ahmad Tarmizi Sulaiman.jpg,Ahmad Tarmizi Sulaiman
 Q65219748,Awang Hashim,male,,,,,Awang Hashim.jpg,Awang Hashim
 Q65219759,Balasubramaniam Nachiappan,male,,,,,,
 Q65220001,Mohd Adanan Hassan,male,,,,,,
@@ -527,7 +518,6 @@ Q94141592,Azman Nasruddin,male,,,,,,Azman Nasrudin
 Q95947458,Khairuddin Aman Razali,male,1973-12-09,11,,,Dr Mohd Khairuddin Aman Razali 2020.jpg,Khairuddin Razali
 Q95990079,Ramli Mohd. Noor,male,1958-10-01,11,,,Ramli Mohd Nor.png,Ramli Mohd Nor
 Q96048979,Mohamad Alamin,male,1972-11-23,11,,,,Mohamad Alamin
-Q96211530,Syed Abu Hussin Hafiz,male,1960,9,,,,Syed Abu Hussin Hafiz
 Q96361620,Tan Kar Hing,male,1982-05-04,11,,,Tan Kar Hing (cropped).JPG,Tan Kar Hing
 Q96415951,Yusuf Abd. Wahab,male,1963,9,,,,Yusuf Abd. Wahab
 Q96631659,Ab Razak Ibrahim,male,,,,,,Ab Razak Ibrahim

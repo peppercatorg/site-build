@@ -8,6 +8,10 @@ Israel,Q1159747,Danny Yatom,sibling,Q2909295,Ehud Yatom
 Israel,Q1175220,David Levy,child,Q466537,Orly Levy-Abekasis
 Israel,Q1175220,David Levy,child,Q6554413,Jackie Levy
 Israel,Q1175220,David Levy,sibling,Q2890150,Maxim Levy
+Israel,Q12409090,Michael Herzog,father,Q295141,Chaim Herzog
+Israel,Q12409090,Michael Herzog,mother,Q2899899,Aura Herzog
+Israel,Q12409090,Michael Herzog,relative,Q1391502,Yitzhak HaLevi Herzog
+Israel,Q12409090,Michael Herzog,sibling,Q983258,Isaac Herzog
 Israel,Q12409594,Moshe Lion,sibling,Q50411890,Nissim Leon
 Israel,Q125731,Ehud Barak,spouse,Q30158635,Nava Barak
 Israel,Q128911,Ezer Weizman,father,Q6922134,Yechiel Weizmann
@@ -78,6 +82,8 @@ Israel,Q2904001,Binyamin Elon,sibling,Q4645564,Mordechai Elon
 Israel,Q2904001,Binyamin Elon,sibling,Q4645801,Yoseph Elon
 Israel,Q2904001,Binyamin Elon,spouse,Q5374889,Emuna Elon
 Israel,Q2904041,Nahum Langental,sibling,Q16130405,Shemuʼel Ṭal
+Israel,Q2904819,Sallai Meridor,father,Q2334778,Eliyahu Meridor
+Israel,Q2904819,Sallai Meridor,sibling,Q1159122,Dan Meridor
 Israel,Q2905470,Yair Shamir,father,Q184351,Yitzhak Shamir
 Israel,Q2906706,Uri Savir,child,Q100996629,Maya Savir
 Israel,Q2907245,Eliyahu Gabai,child,Q16129002,Yair Gabbay
