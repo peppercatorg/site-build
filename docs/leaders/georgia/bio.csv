@@ -1,6 +1,6 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100377528,Irakli Medzmariashvili,male,1962-01-29,11,,,,
-Q100872927,ცეზარ ჩოჩელი,male,1968,9,,,,Tsezar Chocheli
+Q100872927,Tsezar Chocheli,male,1968-01-10,11,,,,Tsezar Chocheli
 Q1008881,Gela Bezhuashvili,male,1967-03-01,11,,,Gela Bezhuashvili.jpg,Gela Bezhuashvili
 Q1010588,Giorgi Baramidze,male,1968-01-05,11,,,Giorgi Baramidse.jpg,Giorgi Baramidze
 Q103863630,ნოდარ ტურძელაძე,,,,,,,
@@ -37,7 +37,7 @@ Q106522763,Lasha Khutsishvili,male,1985-09-02,11,,,Lasha Khutsishvili.jpg,Lasha 
 Q106522784,Rati Bregadze,male,1982-12-12,11,,,იუსტიციის მინისტრი რატი ბრეგაძე.jpg,
 Q106522864,Irakli Karseladze,male,1978-02-28,11,,,,
 Q106528743,Shalva Papuashvili,male,1976,9,,,Shalva Papuashvili in 2022.jpg,Shalva Papuashvili
-Q106602829,სულხან სიბაშვილი,male,1982-08-09,11,,,,Sulkhan Sibashvili
+Q106602829,Sulkhan Sibashvili,male,1982-08-09,11,,,,Sulkhan Sibashvili
 Q106680333,Nino Iobashvili,female,1984,9,,,,Nino Iobashvili
 Q106680628,Zaza Lominadze,male,,,,,,
 Q106680634,Ana Buchukuri,female,1990,9,,,,Ana Buchukuri
@@ -47,7 +47,7 @@ Q106681881,Giorgi Godabrelidze,,,,,,,
 Q106692709,Mariam Lashkhi,female,1988,9,,,,Mariam Lashkhi
 Q106692717,მიხეილ დაუშვილი,,,,,,,
 Q106692745,თამარ კორძაია,female,,,,,,
-Q106692747,გიორგი ბოტკოველი,male,1979-06-02,11,,,,Giorgi Botkoveli
+Q106692747,Giorgi Botkoveli,male,1979-06-02,11,,,,Giorgi Botkoveli
 Q106692926,Chatuna Samnidse,female,1978-11-28,11,,,,
 Q106692931,ნიკოლოზ სამხარაძე,,,,,,,
 Q106692951,Tamar Taliashvili,female,1978,9,,,,Tamar Taliashvili
@@ -115,7 +115,7 @@ Q16223701,Davit Kacharava,male,1985-01-16,11,,,Davit Kacharava 2018.jpg,Davit Ka
 Q16334103,Revaz Adamia,male,1952-07-20,11,2014-03-04,11,,
 Q16364639,Aleksandre Chikaidze,male,1985-06-06,11,,,,
 Q16364846,Anzor Bolkvadze,male,1960-09-09,11,,,,Anzor Bolkvadze
-Q16365932,ბაჩუკი ქარდავა,male,1969-12-29,11,,,,Bachuki Kardava
+Q16365932,Bachuki Kardava,male,1969-12-29,11,,,,Bachuki Kardava
 Q16367128,გიორგი ტუღუში,male,1977,9,,,,
 Q16367462,გოჩა ენუქიძე,male,1962-04-08,11,,,,
 Q16367704,Guram Odisharia,male,1951,9,,,Guram Odisharia.jpg,Guram Odisharia

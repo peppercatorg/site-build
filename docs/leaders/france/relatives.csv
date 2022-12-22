@@ -15,6 +15,8 @@ France,Q10287,Manuel Valls,sibling,Q42310238,Giovanna Valls
 France,Q10287,Manuel Valls,spouse,Q16012814,Anne Gravoin
 France,Q10287,Manuel Valls,spouse,Q16659297,Nathalie Soulié
 France,Q10287,Manuel Valls,spouse,Q98490864,Susana Gallardo
+France,Q1066526,Charles de Bancalis de Maurel d’Aragon,father,Q15973310,Charles d'Aragon
+France,Q1066526,Charles de Bancalis de Maurel d’Aragon,mother,Q75361358,Diane d'Albon
 France,Q107358871,Flavie Collard,father,Q1922673,Gilbert Collard
 France,Q107358871,Flavie Collard,mother,Q58178378,Anne-Marie Collard
 France,Q108702159,Mélanie Vogel,partner,Q1386500,Terry Reintke
@@ -625,6 +627,9 @@ France,Q47651081,Alain Fontanel,spouse,Q47652017,Marie Fontanel
 France,Q484605,Christine Lagarde,partner,Q23926430,Xavier Giocanti
 France,Q484605,Christine Lagarde,spouse,Q113585479,Eachran Gilmour
 France,Q4846183,Hélène Masson-Maret,child,Q112639136,Alexandra Masson
+France,Q49007124,Muriel Domenach,father,Q3167128,Jean-Luc Domenach
+France,Q49007124,Muriel Domenach,mother,Q42296455,Geneviève Domenach-Chich
+France,Q49007124,Muriel Domenach,sibling,Q93220055,Élise Domenach
 France,Q49875081,Jean-Pierre Daugreilh,spouse,Q3295761,Martine Daugreilh
 France,Q50323350,Jacques Manent,spouse,Q50323363,Jana Navratil-Manent
 France,Q50365159,Béatrice Le Fraper du Hellen,father,Q60677608,Marc Le Fraper du Hellen

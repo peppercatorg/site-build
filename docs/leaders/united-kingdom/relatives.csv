@@ -100,7 +100,7 @@ United Kingdom,Q1108359,"Colin Boyd, Baron Boyd of Duncansby",spouse,Q75532141,F
 United Kingdom,Q1108533,"Colin Low, Baron Low of Dalston",father,Q75532144,Arthur Eric Low
 United Kingdom,Q1108533,"Colin Low, Baron Low of Dalston",mother,Q75532155,Catherine Cameron
 United Kingdom,Q1108533,"Colin Low, Baron Low of Dalston",spouse,Q75532160,Jill Irene Coton
-United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",child,Q76243097,
+United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",child,Q5559619,Gideon Lester
 United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",child,Q76243099,Maya Lester
 United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",father,Q76243095,Harry Lester
 United Kingdom,Q112908,"Anthony Lester, Baron Lester of Herne Hill",mother,Q76243096,Kate Cooper-Smith
@@ -2045,7 +2045,7 @@ United Kingdom,Q2427590,"Thomas Taylor, Baron Taylor of Blackburn",father,Q76326
 United Kingdom,Q2427590,"Thomas Taylor, Baron Taylor of Blackburn",mother,Q76327358,Edith Gladys Ashton
 United Kingdom,Q2427590,"Thomas Taylor, Baron Taylor of Blackburn",spouse,Q76326758,Kathleen Nurton
 United Kingdom,Q2434248,"Tim Renton, Baron Renton of Mount Harry",child,Q76276641,Christian Louise Renton
-United Kingdom,Q2434248,"Tim Renton, Baron Renton of Mount Harry",child,Q76291592,Alexander James Torr Renton
+United Kingdom,Q2434248,"Tim Renton, Baron Renton of Mount Harry",child,Q76291592,
 United Kingdom,Q2434248,"Tim Renton, Baron Renton of Mount Harry",child,Q76291593,Penelope Sally Rosita Renton
 United Kingdom,Q2434248,"Tim Renton, Baron Renton of Mount Harry",child,Q76313085,Daniel Charles Antony Renton
 United Kingdom,Q2434248,"Tim Renton, Baron Renton of Mount Harry",child,Q76313089,Katherine Chelsea Renton
@@ -2550,7 +2550,7 @@ United Kingdom,Q3285,Michael Shaw,spouse,Q76332457,Joan Mary Louise Mowat
 United Kingdom,Q328624,"Robert Smith, Baron Smith of Kelvin",father,Q75741946,Robert Haldane Smith
 United Kingdom,Q328624,"Robert Smith, Baron Smith of Kelvin",mother,Q75741948,Jean Adams
 United Kingdom,Q328624,"Robert Smith, Baron Smith of Kelvin",spouse,Q75741951,Alison Marjorie Bell
-United Kingdom,Q328892,Rory Stewart,father,Q75599992,
+United Kingdom,Q328892,Rory Stewart,father,Q26251258,Brian Stewart
 United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",child,Q76219261,Alexander John C. Gilbey
 United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",child,Q76219308,Peter Richard W. Gilbey
 United Kingdom,Q33125088,"Richard Gilbey, 12th Baron Vaux of Harrowden",father,Q21647684,"Anthony William Gilbey, 11th Baron Vaux of Harrowden"
@@ -4605,6 +4605,9 @@ United Kingdom,Q578037,Lisa Nandy,father,Q19560358,Dipak Nandy
 United Kingdom,Q578037,Lisa Nandy,mother,Q78811594,Louise Nandy
 United Kingdom,Q57832852,Donald MacLaren,father,Q76060791,Donald MacLaren of Maclaren And Achleskine
 United Kingdom,Q57832852,Donald MacLaren,mother,Q76064445,Margaret Millar
+United Kingdom,Q57833330,Matthew Kidd,father,Q75266714,John Kidd
+United Kingdom,Q57833330,Matthew Kidd,mother,Q75266712,Gwenllian Anne Talbot Lewes
+United Kingdom,Q57833330,Matthew Kidd,spouse,Q76068301,Carine Celia Ann Coldwell
 United Kingdom,Q57890377,John Dennis,father,Q6229192,John Dennis
 United Kingdom,Q57890377,John Dennis,sibling,Q1987035,Hugh Dennis
 United Kingdom,Q57892447,"Sir John Ramsden, 9th Baronet",child,Q76134432,Isobel Lucy Ramsden
@@ -5018,6 +5021,9 @@ United Kingdom,Q7416,Margaret Thatcher,child,Q713468,Mark Thatcher
 United Kingdom,Q7416,Margaret Thatcher,father,Q2340383,Alfred Roberts
 United Kingdom,Q7416,Margaret Thatcher,mother,Q75506886,Beatrice Ethel Stephenson
 United Kingdom,Q7416,Margaret Thatcher,spouse,Q46172,Denis Thatcher
+United Kingdom,Q7422796,Sarah Squire,father,Q76033526,Michael Duncan Hutchison
+United Kingdom,Q7422796,Sarah Squire,mother,Q76033529,Margery Betty Martin
+United Kingdom,Q7422796,Sarah Squire,spouse,Q76033533,Clifford William Squire
 United Kingdom,Q743424,"Noel Annan, Baron Annan",child,Q75294264,Amanda Lucy Annan
 United Kingdom,Q743424,"Noel Annan, Baron Annan",child,Q75294318,Juliet Louise Annan
 United Kingdom,Q743424,"Noel Annan, Baron Annan",father,Q75294343,James Gilroy Annan
@@ -5345,6 +5351,7 @@ United Kingdom,Q84842,"George Weidenfeld, Baron Weidenfeld",spouse,Q76306730,San
 United Kingdom,Q850375,"Betty Lockwood, Baroness Lockwood",father,Q76251823,Arthur Lockwood
 United Kingdom,Q850375,"Betty Lockwood, Baroness Lockwood",mother,Q76251824,Edith Alice Wainright
 United Kingdom,Q850375,"Betty Lockwood, Baroness Lockwood",spouse,Q76251825,Cedric Hall
+United Kingdom,Q908568,"Brenda Hale, Baroness Hale of Richmond",child,Q114997076,Julia Hoggett
 United Kingdom,Q908568,"Brenda Hale, Baroness Hale of Richmond",spouse,Q75592923,John Hoggett
 United Kingdom,Q908568,"Brenda Hale, Baroness Hale of Richmond",spouse,Q75592924,Julian Farrand
 United Kingdom,Q912174,"Brian Flowers, Baron Flowers",father,Q75980258,Harold Joseph Flowers

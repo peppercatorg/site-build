@@ -1,7 +1,7 @@
 catalog,id,name,relationship,relative,relativename
 Cuba,Q11256,Fidel Castro,child,Q1939343,Alina Fernández
 Cuba,Q11256,Fidel Castro,child,Q19917949,Fidel Ángel Castro Díaz-Balart
-Cuba,Q11256,Fidel Castro,father,Q251556,Ángel Castro y Argiz
+Cuba,Q11256,Fidel Castro,father,Q251556,Ángel Castro y Arguíz
 Cuba,Q11256,Fidel Castro,mother,Q107526145,Lina Ruz González
 Cuba,Q11256,Fidel Castro,partner,Q19516418,Natalia Revuelta Clews
 Cuba,Q11256,Fidel Castro,partner,Q27649090,Dalia Soto del Valle
@@ -18,7 +18,7 @@ Cuba,Q253736,Mariela Castro Espín,sibling,Q4714504,Alejandro Castro Espín
 Cuba,Q253736,Mariela Castro Espín,spouse,Q5949905,Juan Gutiérrez Fischmann
 Cuba,Q46809,Raúl Castro,child,Q253736,Mariela Castro Espín
 Cuba,Q46809,Raúl Castro,child,Q4714504,Alejandro Castro Espín
-Cuba,Q46809,Raúl Castro,father,Q251556,Ángel Castro y Argiz
+Cuba,Q46809,Raúl Castro,father,Q251556,Ángel Castro y Arguíz
 Cuba,Q46809,Raúl Castro,mother,Q107526145,Lina Ruz González
 Cuba,Q46809,Raúl Castro,sibling,Q11256,Fidel Castro
 Cuba,Q46809,Raúl Castro,sibling,Q3041532,Juanita Castro
