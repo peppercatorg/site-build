@@ -2,6 +2,7 @@ catalog,id,name,relationship,relative,relativename
 Pakistan,Q10970911,Mahmood Khan Achakzai,father,Q4665715,Abdul Samad Khan Achakzai
 Pakistan,Q10970911,Mahmood Khan Achakzai,sibling,Q15983327,Hamid Khan Achakzai
 Pakistan,Q10970911,Mahmood Khan Achakzai,sibling,Q16319320,Muhammad Khan Achakzai
+Pakistan,Q13139153,Khawaja Saad Rafique,spouse,Q34791131,Ghazala Saad Rafique
 Pakistan,Q134068,Nawaz Sharif,child,Q33083237,Hassan Nawaz
 Pakistan,Q134068,Nawaz Sharif,child,Q33083238,Hussain Nawaz
 Pakistan,Q134068,Nawaz Sharif,child,Q6781082,Maryam Safdar
@@ -149,6 +150,7 @@ Pakistan,Q6304918,Jugnu Mohsin,child,Q20744696,Mira Sethi
 Pakistan,Q6304918,Jugnu Mohsin,child,Q20979380,Ali Sethi
 Pakistan,Q6304918,Jugnu Mohsin,sibling,Q6899849,Moni Mohsin
 Pakistan,Q6304918,Jugnu Mohsin,spouse,Q6959916,Najam Sethi
+Pakistan,Q6401038,Khawaja Muhammad Asif,spouse,Q56065185,Musarrat Asif Khawaja
 Pakistan,Q6663766,Asif Saeed Khan Khosa,sibling,Q54614220,Nasir Mahmood Khosa
 Pakistan,Q6792420,Atta ur Rehman,father,Q6932040,Mufti Mahmud
 Pakistan,Q6792420,Atta ur Rehman,relative,Q55761296,Asad Mehmood
