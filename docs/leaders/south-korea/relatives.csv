@@ -18,6 +18,8 @@ South Korea,Q12589329,Kim Hong-eop,father,Q45785,Kim Dae-jung
 South Korea,Q12589329,Kim Hong-eop,mother,Q12618516,Cha Yong-ae
 South Korea,Q12589333,Kim Hong-il,father,Q45785,Kim Dae-jung
 South Korea,Q12589333,Kim Hong-il,mother,Q12618516,Cha Yong-ae
+South Korea,Q12590416,Noh Woong-rae,father,Q12590399,노승환
+South Korea,Q12609690,Yoo Ki-june,sibling,Q20010834,Yoo Gyeong-joon
 South Korea,Q12610444,Yun Ju-keyng,relative,Q491240,Yoon Bong-Gil
 South Korea,Q12610901,이경숙,spouse,Q12619482,Choi Kyu-Sung
 South Korea,Q12611423,Lee Mi-gyeong,father,Q12611345,Lee Maeng-hui
@@ -61,9 +63,10 @@ South Korea,Q16090635,Yoon Suk-yeol,father,Q111175072,Yoon Ki-jung
 South Korea,Q16090635,Yoon Suk-yeol,spouse,Q107805133,Kim Keon-hee
 South Korea,Q16091294,Lee Hye-hoon,spouse,Q33082981,Youngse Kim
 South Korea,Q16094929,Park Yoo-cheol,relative,Q16081841,Park Si-chang
+South Korea,Q20010834,Yoo Gyeong-joon,sibling,Q12609690,Yoo Ki-june
 South Korea,Q20995,Ahn Cheol-soo,child,Q58900826,Ahn Surl-Hee
 South Korea,Q20995,Ahn Cheol-soo,spouse,Q22973121,Kim Mi-kyung
-South Korea,Q21001,Moon Jae-in,child,Q74499817,Moon Joon Yong
+South Korea,Q21001,Moon Jae-in,child,Q74499817,Moon Joon-yong
 South Korea,Q21001,Moon Jae-in,child,Q74500749,Moon Da-hye
 South Korea,Q21001,Moon Jae-in,father,Q41520899,Moon Yong-hyung
 South Korea,Q21001,Moon Jae-in,mother,Q41520985,Kang Han-ok
@@ -78,7 +81,7 @@ South Korea,Q24000773,Chang Jung-sook,father,Q12614608,장영순
 South Korea,Q24856148,Oh Se-jung,spouse,Q61716898,홍난실
 South Korea,Q29341335,Jong Ho Lee,child,Q112737161,Dongjin Lee
 South Korea,Q2947463,In Jae-keun,spouse,Q485574,Kim Geun-tae
-South Korea,Q29881198,Kim Jung-sook,child,Q74499817,Moon Joon Yong
+South Korea,Q29881198,Kim Jung-sook,child,Q74499817,Moon Joon-yong
 South Korea,Q29881198,Kim Jung-sook,child,Q74500749,Moon Da-hye
 South Korea,Q29881198,Kim Jung-sook,spouse,Q21001,Moon Jae-in
 South Korea,Q31178499,Oh Yeong-hwan,spouse,Q578141,Jain Kim

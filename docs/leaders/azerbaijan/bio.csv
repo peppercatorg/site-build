@@ -1,8 +1,16 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
+Q104439628,Jalal Mirzayev,male,1977-10-17,11,,,Jalal Mirzayev (ambassador).jpg,Jalal Mirzayev
 Q106637032,Teymur Musayev,male,1970-09-16,11,,,,Teymur Musayev
 Q108823069,Taleh Kazimov,male,1983-09-11,11,,,Taleh Kazimov.jpg,Taleh Kazimov
+Q109287322,Galib Israfilov,male,1975-05-09,11,,,,Galib Israfilov
+Q109288720,Vagif Sadigov,male,1956,9,,,,Vagif Sadigov
+Q10952640,Huseynaga Sadigov,male,1940-03-14,11,,,Huseynaga Sadigov.jpg,Huseynagha Sadigov
 Q1099741,Avaz Alakbarov,male,1952-07-23,11,,,Avaz Alakbarov (cropped).jpg,Avaz Alakbarov
+Q11011361,Nazim Ibrahimov,male,1963-12-23,11,,,,Nazim Ibrahimov
 Q112651,Polad Bulbuloghlu,male,1945-02-04,11,,,Полад Бюльбюль-оглы.jpg,Polad Bülbüloğlu
+Q115790286,Azer Zeynalov,male,1970,9,,,,
+Q115861996,Ruslan Rzayev,male,,,,,,
+Q115917828,Murad Nəcəfbəyli,male,,,,,,
 Q12835439,Adil Aliyev,male,1969-09-25,11,,,Adil Əliyev.jpg,Adil Aliyev
 Q12835804,Anar İsgəndərov,male,1956-01-10,11,,,Anar İsgəndərov (tarixçi).jpg,Anar Isgandarov
 Q12835904,Aqil Mammadov,,1960-04-01,11,,,,
@@ -27,6 +35,7 @@ Q12843070,Namiq Nəsrullayev,male,1945-02-02,11,,,,
 Q12843404,Novruzəli Aslanov,male,1963-03-22,11,,,,
 Q12844605,Gudrat Hasanguliyev,male,1965-01-29,11,,,Gudrat Hasanguliyev (cropped).jpg,
 Q12844831,Rafael Cəbrayılov,male,1958-12-28,11,2021-09-30,11,,Rafael Kamil Dzhabrailov
+Q12844918,Ramiz Hasanov,male,1961-08-20,11,,,,Ramiz Hasanov
 Q12845204,Rüstam Xalilov,male,1958,9,,,Rustam Khalilov.jpg,
 Q12845219,Rafael Hüseynov,male,1955-08-12,11,,,Rafael Huseynov.jpg,
 Q12845295,Rəşad Mahmudov,male,1974-01-18,11,,,Rashad Mahmudov in the 6th Congress of New Azerbaijan Party.jpg,
@@ -43,8 +52,10 @@ Q12849026,Inam Karimov,male,1977-06-06,11,,,İnam Kərimov at Agroforum Receptio
 Q12849106,İqbal Məmmədov,male,1965-01-06,11,,,,
 Q12849768,Şəmsəddin Hacıyev,male,1950-11-08,11,,,,
 Q12849884,Aflatun Amashov,male,1957-04-26,11,,,Aflatun Amashov (30-09-2015-c).jpg,Aflatun Amashov
+Q12850070,Ali Alizada,male,1978-06-21,11,,,,Ali Alizada
 Q12850075,Ali Asadov,male,1956-11-30,11,,,Ali Asadov (2019-12-17).jpg,Ali Asadov
 Q13553633,Nizami Cäfärov,male,1959-09-21,11,,,,
+Q14657692,Adish Mammadov,male,1968-12-17,11,,,,Adish Mammadov
 Q15090186,Mikayil Jabbarov,male,1976-09-19,11,,,Mikayil Jabbarov new (cropped).jpg,Mikayil Jabbarov
 Q15734658,Shahin Mustafayev,male,1965-06-13,11,,,Shahin Mustafayev in 2016.jpg,Shahin Mustafayev
 Q157451,Heydar Aliyev,male,1923-05-10,11,2003-12-12,11,Heydar Aliyev (crop).jpg,Heydar Aliyev
@@ -63,6 +74,7 @@ Q16367113,Elshad Mirbashir oghlu,male,1977-07-27,11,,,,Elshad Mirbashir oghlu
 Q16367961,Fəttah Heydərov,male,1938-02-23,11,2020-08-04,11,Fəttah Heydərov.jpg,
 Q16368696,Hikmət Babaoğlu,male,1966,9,,,Babaoglu.jpg,
 Q16370420,Mixail Zabelin,male,1946-03-19,11,,,,
+Q16371090,Mammad Ahmadzada,male,1976-10-04,11,,,Mammad Ahmadzada (cropped).jpg,
 Q16371462,Nagif Hamzayev,male,1983-05-24,11,,,Nagif Hamzayev.jpg,Nagif Hamzayev
 Q16372072,Nəsib Məhəməliyev,male,1961-02-11,11,,,Nasib Mahamaliyev.jpg,
 Q16372868,Rafiq Məmmədhəsənov,male,1945-09-26,11,,,,
@@ -75,11 +87,13 @@ Q16374557,Safar Mehdiyev,male,1973-03-17,11,,,Ilham Aliyev chaired meeting of Ca
 Q16374811,Tahir Budaqov,male,1965-01-01,11,,,Tahir Budagov.jpg,
 Q16374817,Tahir Kerimli,male,1956-03-05,11,,,Tahir Karimli.jpg,
 Q16374822,Tahir Rzayev,male,1950-02-24,11,,,,
+Q16375523,Vaqif Sadiqov,male,1956-11-02,11,,,,
 Q16376573,Zahid Oruc,male,1972-02-01,11,,,Zahid Oruc2.jpg,
 Q16377939,Şahin İsmayilov,male,1986-02-07,11,,,,
 Q16378771,Əli Hüseynli,male,1968-10-08,11,,,Əli Hüseynli.jpg,Ali Huseynli
 Q16379403,Aziz Alakbarli,male,1960-10-05,11,,,Əziz Ələkbərli (cropped).jpg,
 Q16416293,Rufat Guliyev,male,1963-05-06,11,,,Rufat Quliyev.png,Rufet Guliyev
+Q18113425,Arif Mammadov,male,1964-09-22,11,,,Arif Mammadov Ambassador of OIC to EU.jpg,Arif Mammadov (ambassador)
 Q1813593,Elman Rustamov,male,1952-06-29,11,,,Elman Rustamov in 2019.jpg,Elman Rustamov
 Q18427673,Elman Nasirov,male,1968-05-23,11,,,,Elman Nasirov
 Q18427736,Kamran Aliyev,male,1965-11-18,11,,,Kamran Aliyev.jpg,
@@ -144,6 +158,7 @@ Q4151833,Madat Guliyev,male,1958-09-27,11,,,Madat Guliyev at the parade 2018.jpg
 Q4151834,Musa İsa oğlu Quliyev,male,1961-11-25,11,,,Musa Urud in Ganja.jpg,
 Q4152762,Əliağa Hüseynov,male,1946-12-16,11,,,,
 Q4167611,Ziyad Aliabbas oglu Samadzade,male,1940-06-25,11,,,,
+Q41827454,Hanum Ibrahimova,female,1979,9,,,Hanum.jpg,
 Q4201336,Ali Insanov,male,1946-03-22,11,,,Ali Insanov in 2019 (cropped).jpg,Ali Insanov
 Q4281251,Misir Mardanov,male,1946-10-03,11,,,,
 Q4285756,Yaqub Mahmudov,male,1939-02-10,11,,,,
@@ -155,36 +170,48 @@ Q4478729,Ramil Usubov,male,1948-12-22,11,,,Ramil Usubov in 2018.jpg,Ramil Usubov
 Q4520550,Samir Sharifov,male,1961-09-07,11,,,Ilham Aliyev chaired meeting of Cabinet of Ministers dedicated to results of socioeconomic development of 2018 and objectives for future 08.jpg,Samir Sharifov
 Q4533449,Yaqub Eyyubov,male,1945-10-24,11,,,Eyyubov Yaqub Abdulla oğlı.JPG,Yaqub Eyyubov
 Q4670613,Abulfaz Garayev,male,1956-11-13,11,,,Abulfaz Garayev 2013.jpg,Abulfas Garayev
+Q4694411,Agshin Mehdiyev,male,1949-04-28,11,,,,Agshin Mehdiyev
 Q4725004,Ali Masimov,male,1953-01-03,11,,,Ali Masimli.jpg,Ali Masimli
 Q47773089,Rashad Nabiyev,male,1977-08-26,11,,,Rashad Nabiyev photo (cropped).jpg,Rashad Nabiyev
 Q4802771,Arzu Rahimov,male,1964-10-01,11,,,Arzu Rahimov in 2010.jpg,Arzu Rahimov
 Q4832055,Azad Rahimov,male,1964-10-08,11,2021-04-30,11,,Azad Rahimov
 Q5018584,Sabir Rustamkhanli,male,1946-05-20,11,,,Sabir Rustamkhanli in 2016.jpg,Sabir Rustamkhanli
+Q52340104,Nargiz Gurbanova,female,1975,9,,,Nargiz Gurbanova (cropped).jpg,Nargiz Gurbanova
 Q5241284,Ganira Pashayeva,female,1975-03-24,11,,,Qənirə Paşayeva DQİDK-nın konfransında.JPG,Ganira Pashayeva
+Q5361095,Elin Suleymanov,male,1970,9,,,Azərbaycanın ABŞ-dakı səfiri Elin Süleymanov - VOA.jpg,Elin Suleymanov
 Q5366393,Elman Mammadov,male,1950-10-18,11,,,,Elman Mammadov
+Q5506875,Fuad Isgandarov,male,1961-08-06,11,,,Ambassador Fuad Isgandarov.jpg,Fuad Isgandarov
 Q5506881,Fuad Muradov,male,1979-07-22,11,,,Fuad Muradov.jpg,Fuad Muradov
 Q55199625,Parviz Shahbazov,male,1969-11-24,11,,,Pərviz Şahbazov.jpg,Parviz Shahbazov
 Q55200119,Farid Gayibov,male,1979-04-24,11,,,Farid Gayibov 3.jpg,Farid Gayibov
+Q55200444,Dashgin Shikarov,male,1973-01-29,11,,,Dashgin Shikarov.jpg,
 Q55200630,Goshgar Tahmazli,male,1970-05-29,11,,,Qoşqar Təhməzli.jpg,Goshgar Tahmazli
 Q55202170,Sahil Babayev,male,1980,9,,,Sahil Babayev.jpg,Sahil Babayev
 Q55202229,Fuad Naghiyev,male,1975-07-22,11,,,,Fuad Naghiyev
 Q55698956,Ceyhun Məmmədov (rektor),male,1975-01-28,11,,,,
+Q55700522,Rəşad İsmayılov,male,1974-06-07,11,,,,Rashad Ismayilov
+Q5638373,Hafiz Pashayev,male,1941-05-02,11,,,Defense.gov News Photo 000630-D-9880W-073 (crop).jpg,Hafiz Pashayev
 Q57371,Ilham Aliyev,male,1961-12-24,11,,,Ilham Aliyev 2022 (cropped).jpg,Ilham Aliyev
 Q5749541,Heydar Babayev,male,1957,9,,,,Heydar Babayev
 Q57549,Vasif Talibov,male,1960-01-14,11,,,Vasif Talibov in Iran 02.jpg,Vasif Talibov
 Q57618,Artur Rasizade,male,1935-02-26,11,,,"Artur Rasi-zadə, 27-02-2020.jpg",Artur Rasizade
+Q57960011,Mir-Hamza Efendiyev,male,1950-11-15,11,,,Mir Hamza Efendiyev.jpg,Mir-Hamza Efendiyev
 Q58083,Elmar Mammadyarov,male,1960-07-02,11,,,Elmar Mammadyarov in 2019.jpg,Elmar Mammadyarov
 Q61122675,Cavid Osmanov,male,1975-02-06,11,,,,
 Q64739163,Ali Naghiyev,male,1958-11-08,11,,,Ali Naghiyev (cropped).jpg,Ali Naghiyev
 Q64752976,Vilayet Eyvazov,male,1968-06-28,11,,,Vilayat Eyvazov at the opening of Internal Troops` military unit in Aghstafa 2020.jpg,Vilayat Eyvazov
+Q6496067,Latif Gandilov,male,1957-08-31,11,,,Latif Gandilov (2016).jpg,Latif Gandilov
 Q6584988,Muxtar Babayev,male,1967-10-16,11,,,Muxtar Babayev.JPG,Mukhtar Babayev
 Q671930,Mehriban Aliyeva,female,1964-08-26,11,,,Mehriban Aliyeva on 2021 IDWGS (cropped).jpg,Mehriban Aliyeva
 Q7065106,Novruz Mammadov,male,1947-03-15,11,,,Novruz Məmmədov.jpg,Novruz Mammadov
 Q7080270,Ogtay Shiraliyev,male,1950-08-02,11,,,Oqtay Şirəliyev.JPG,Ogtay Shiraliyev
 Q7408438,Samad Seyidov,male,1964-01-18,11,,,Samad Seyidov in 2020 (cropped).png,Samad Seyidov
+Q74701,Hidayat Orujov,male,1944-09-05,11,,,Hidayət Orucov.JPG,Hidayat Orujov
+Q7812977,Tofig Zulfugarov,male,1959-11-01,11,,,Tofiq Zülfüqarov.jpg,Tofig Zulfugarov
 Q7880869,Ulviyya Hamzayeva,female,1982-04-30,11,,,,Ulviyya Hamzayeva
 Q7908624,Vahid Ahmadov,male,1947-04-02,11,,,Vahid Ahmadov in 2015 (cropped).jpg,Vahid Ahmadov
 Q7930115,Vilayat Guliyev,male,1952-11-05,11,,,Vilayət Quliyev Polşa Senatında.JPG,Vilayat Guliyev
+Q8050677,Yaşar Aliyev,male,1955-08-19,11,,,Ambassador Yashar Aliyev.jpg,Yashar Aliyev (diplomat)
 Q8053080,Yevda Abramov,male,1948-06-12,11,2019-12-06,11,Yevda Abramov in 2011.jpg,Yevda Abramov
 Q8065118,Zakir Qaralov,male,1956-01-13,11,,,,Zakir Garalov
 Q81409395,Anar Guliyev,male,1977,9,,,Anar Quliyev 2.jpg,
@@ -205,5 +232,6 @@ Q90038978,Məşhur Məmmədov,,1963-10-04,11,,,,
 Q90879051,Anar Məmmədov,male,1984-06-21,11,,,,
 Q93356661,Nizami Səfərov,male,1960-11-30,11,,,,
 Q96002133,Faraj Guliyev,male,1962-12-22,11,,,Presidential candidate Faraj Guliyev.jpg,Faraj Guliyev
+Q97688367,Rza Talibov,male,1982-05-10,11,,,Rza Talıbov (şəxsi foto).jpg,
 Q97698132,Anar Karimov,male,1977-06-03,11,,,Anar Karimov.jpg,Anar Karimov
 Q97715003,Emin Amrullayev,male,1982-12-30,11,,,,Emin Amrullayev

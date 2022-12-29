@@ -2,6 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 New Zealand,Member of the New Zealand Parliament,Jim Anderton,Q1036723,1984,2011,male,1938-01-21,2018-01-07,"Jim Anderton, 2010.jpg",Jim Anderton
 New Zealand,Member of the New Zealand Parliament,Judy Keall,Q6304497,1984-07-14,2002,female,1942-01-10,,Judy Keall (crop).jpg,Judy Keall
 New Zealand,Member of the New Zealand Parliament,Winston Peters,Q1396178,1984-07-17,2005-09-17,male,1945-04-11,,"Winston Peters, 2019.jpg",Winston Peters
+New Zealand,Member of the New Zealand Parliament,Maurice Williamson,Q16182,1987-08-15,2017-09-23,male,1951-03-06,,"Maurice Williamson at the NZ Open Source Awards, 2007.jpg",Maurice Williamson
 New Zealand,Member of the New Zealand Parliament,Steve Maharey,Q7613243,1990,2008,male,1953-02-03,,"Steve Maharey, 2008.jpg",Steve Maharey
 New Zealand,Member of the New Zealand Parliament,Jenny Shipley,Q235996,1990-10-27,2002-07-27,female,1952-02-04,,Jenny Shipley 2013 (crop).jpg,Jenny Shipley
 New Zealand,Member of the New Zealand Parliament,Jill Pettis,Q6193011,1993,2005,female,1952-09-22,,Jill Pettis.jpg,Jill Pettis
@@ -37,7 +38,6 @@ New Zealand,Member of the New Zealand Parliament,Kate Wilkinson,Q11160035,2005-1
 New Zealand,Member of the New Zealand Parliament,Don Brash,Q1238979,2005-11-07,2008-10-03,male,1940-09-24,,Don.Brash.jpg,Don Brash
 New Zealand,Member of the New Zealand Parliament,Winston Peters,Q1396178,2005-11-07,2008-10-03,male,1945-04-11,,"Winston Peters, 2019.jpg",Winston Peters
 New Zealand,Member of the New Zealand Parliament,David Parker,Q15196319,2005-11-07,2008-10-03,male,1960,,David Parker mp cropped.jpg,David Parker (New Zealand politician)
-New Zealand,Member of the New Zealand Parliament,Maurice Williamson,Q16182,2005-11-07,2008-10-03,male,1951-03-06,,"Maurice Williamson at the NZ Open Source Awards, 2007.jpg",Maurice Williamson
 New Zealand,Member of the New Zealand Parliament,Su'a William Sio,Q16208070,2005-11-07,2008-10-03,male,1960,,Su'a William Sio.jpg,William Sio
 New Zealand,Member of the New Zealand Parliament,Hone Harawira,Q1626808,2005-11-07,2008-10-03,male,1955-01-06,,Hone Harawira (cropped).jpg,Hone Harawira
 New Zealand,Member of the New Zealand Parliament,Helen Clark,Q180383,2005-11-07,2008-10-03,female,1950-02-26,,Helen Clark 2.jpg,Helen Clark
@@ -153,7 +153,6 @@ New Zealand,Member of the New Zealand Parliament,John Carter,Q11035229,2008-12-0
 New Zealand,Member of the New Zealand Parliament,Kate Wilkinson,Q11160035,2008-12-08,2011-10-20,female,1957-08-03,,Kate Wilkinson crop.jpg,Kate Wilkinson (politician)
 New Zealand,Member of the New Zealand Parliament,David Parker,Q15196319,2008-12-08,2011-10-20,male,1960,,David Parker mp cropped.jpg,David Parker (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Grant Robertson,Q1543207,2008-12-08,2011-10-20,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
-New Zealand,Member of the New Zealand Parliament,Maurice Williamson,Q16182,2008-12-08,2011-10-20,male,1951-03-06,,"Maurice Williamson at the NZ Open Source Awards, 2007.jpg",Maurice Williamson
 New Zealand,Member of the New Zealand Parliament,Hekia Parata,Q16192869,2008-12-08,2011-10-20,female,1958-11-01,,New Zealand Minister of Education Hekia Parata.jpg,Hekia Parata
 New Zealand,Member of the New Zealand Parliament,Todd McClay,Q16200287,2008-12-08,2011-10-20,male,1968-11-22,,Todd McClay.jpg,Todd McClay
 New Zealand,Member of the New Zealand Parliament,Su'a William Sio,Q16208070,2008-12-08,2011-10-20,male,1960,,Su'a William Sio.jpg,William Sio
@@ -279,7 +278,6 @@ New Zealand,Member of the New Zealand Parliament,Kate Wilkinson,Q11160035,2011-1
 New Zealand,Member of the New Zealand Parliament,Winston Peters,Q1396178,2011-12-20,2014-09-19,male,1945-04-11,,"Winston Peters, 2019.jpg",Winston Peters
 New Zealand,Member of the New Zealand Parliament,David Parker,Q15196319,2011-12-20,2014-09-19,male,1960,,David Parker mp cropped.jpg,David Parker (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Grant Robertson,Q1543207,2011-12-20,2014-09-19,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
-New Zealand,Member of the New Zealand Parliament,Maurice Williamson,Q16182,2011-12-20,2014-09-19,male,1951-03-06,,"Maurice Williamson at the NZ Open Source Awards, 2007.jpg",Maurice Williamson
 New Zealand,Member of the New Zealand Parliament,Hekia Parata,Q16192869,2011-12-20,2014-09-19,female,1958-11-01,,New Zealand Minister of Education Hekia Parata.jpg,Hekia Parata
 New Zealand,Member of the New Zealand Parliament,Todd McClay,Q16200287,2011-12-20,2014-09-19,male,1968-11-22,,Todd McClay.jpg,Todd McClay
 New Zealand,Member of the New Zealand Parliament,Su'a William Sio,Q16208070,2011-12-20,2014-09-19,male,1960,,Su'a William Sio.jpg,William Sio
@@ -375,7 +373,6 @@ New Zealand,Member of the New Zealand Parliament,Meka Whaitiri,Q13566358,2014-10
 New Zealand,Member of the New Zealand Parliament,Winston Peters,Q1396178,2014-10-20,2015-03-28,male,1945-04-11,,"Winston Peters, 2019.jpg",Winston Peters
 New Zealand,Member of the New Zealand Parliament,David Parker,Q15196319,2014-10-20,2017-08-18,male,1960,,David Parker mp cropped.jpg,David Parker (New Zealand politician)
 New Zealand,Member of the New Zealand Parliament,Grant Robertson,Q1543207,2014-10-20,2017-08-18,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
-New Zealand,Member of the New Zealand Parliament,Maurice Williamson,Q16182,2014-10-20,2017-08-18,male,1951-03-06,,"Maurice Williamson at the NZ Open Source Awards, 2007.jpg",Maurice Williamson
 New Zealand,Member of the New Zealand Parliament,Hekia Parata,Q16192869,2014-10-20,2017-08-18,female,1958-11-01,,New Zealand Minister of Education Hekia Parata.jpg,Hekia Parata
 New Zealand,Member of the New Zealand Parliament,Todd McClay,Q16200287,2014-10-20,2017-08-18,male,1968-11-22,,Todd McClay.jpg,Todd McClay
 New Zealand,Member of the New Zealand Parliament,Su'a William Sio,Q16208070,2014-10-20,2017-08-18,male,1960,,Su'a William Sio.jpg,William Sio

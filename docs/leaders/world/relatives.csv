@@ -27,6 +27,7 @@ World,Q11686111,Andrzej Wielowieyski,father,Q106954701,Zbigniew Wielowieyski
 World,Q11686111,Andrzej Wielowieyski,spouse,Q115305601,Zofia Wielowieyska
 World,Q11749720,Krzysztof Szczerski,sibling,Q9153706,Andrzej Szczerski
 World,Q11797866,Olga Krzyżanowska,spouse,Q16562808,Jerzy Krzyżanowski
+World,Q1183377,Deirdre Clune,father,Q2073804,Peter Barry
 World,Q11860,Silvio Berlusconi,child,Q18235147,Luigi Berlusconi
 World,Q11860,Silvio Berlusconi,child,Q25210469,Eleonora Berlusconi
 World,Q11860,Silvio Berlusconi,child,Q3634593,Barbara Berlusconi
@@ -113,6 +114,7 @@ World,Q1374371,Jaroslav Lobkowicz,spouse,Q75380416,Elizabeth de Vienne
 World,Q1380540,Matan Vilnai,father,Q2335167,Zev Vilnay
 World,Q1382032,Frank Mahovlich,sibling,Q432389,Peter Mahovlich
 World,Q1382799,Rik Daems,spouse,Q2020669,Sophie Pécriaux
+World,Q1396439,Giorgi Gabashvili,father,Q6322997,Konstantine Gabashvili
 World,Q1399049,Ignasi Guardans,father,Q11944599,Ramon Guardans i Vallès
 World,Q1399049,Ignasi Guardans,mother,Q11925350,Helena Cambó i Mallol
 World,Q1399049,Ignasi Guardans,relative,Q379354,Francesc Cambó
@@ -254,6 +256,8 @@ World,Q2357028,Jean-Marie Happart,sibling,Q733331,José Happart
 World,Q2370616,Svatopluk Karásek,sibling,Q26770642,Oldřich Karásek
 World,Q2389114,Raffi Hovannisian,child,Q16210308,Garin Hovannisian
 World,Q2389114,Raffi Hovannisian,father,Q2657741,Richard G. Hovannisian
+World,Q24049120,Alice Mary Higgins,father,Q57276,Michael D. Higgins
+World,Q24049120,Alice Mary Higgins,mother,Q23727205,Sabina Higgins
 World,Q241376,Jutta Urpilainen,father,Q16991079,Kari Urpilainen
 World,Q24176171,Elmira Akhundova,spouse,Q12844912,Ramiz Axundov
 World,Q2422791,Tom Burlison,child,Q76261876,Kevin Burlison
@@ -396,6 +400,11 @@ World,Q336208,"Alexander Scrymgeour, 12th Earl of Dundee",child,Q75350919,Lady L
 World,Q336208,"Alexander Scrymgeour, 12th Earl of Dundee",father,Q5728164,"Henry Scrymgeour-Wedderburn, 11th Earl of Dundee"
 World,Q336208,"Alexander Scrymgeour, 12th Earl of Dundee",mother,Q75253803,Patricia Montagu Douglas Scott
 World,Q336208,"Alexander Scrymgeour, 12th Earl of Dundee",spouse,Q75331329,Siobhan Mary Llewellyn
+World,Q336213,"Mark Malloch Brown, Baron Malloch-Brown",child,Q75915698,Maddison Jane Brown
+World,Q336213,"Mark Malloch Brown, Baron Malloch-Brown",child,Q75915699,Isabel Anne Brown
+World,Q336213,"Mark Malloch Brown, Baron Malloch-Brown",father,Q75915693,Robert George Malloch Brown
+World,Q336213,"Mark Malloch Brown, Baron Malloch-Brown",mother,Q75915690,Ursula Elspeth Pelly
+World,Q336213,"Mark Malloch Brown, Baron Malloch-Brown",spouse,Q75915696,Patricia Anne Cronam
 World,Q336408,"Angela Billingham, Baroness Billingham",child,Q61648995,Caroline Billingham
 World,Q336408,"Angela Billingham, Baroness Billingham",child,Q75439051,Zoë Billingham
 World,Q336408,"Angela Billingham, Baroness Billingham",father,Q75439048,Theodore Case
@@ -444,6 +453,7 @@ World,Q3737434,Aleksei Lotman,father,Q360084,Juri Lotman
 World,Q3737434,Aleksei Lotman,mother,Q8066536,Zara Mints
 World,Q3737434,Aleksei Lotman,sibling,Q2012757,Mihhail Lotman
 World,Q3741557,Federica Mogherini,father,Q404356,Flavio Mogherini
+World,Q3777488,John Browne,relative,Q7459466,Seán Browne
 World,Q382096,Georgios Voulgarakis,child,Q61650367,Παυλίνα Βουλγαράκη
 World,Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti
 World,Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti
@@ -519,6 +529,7 @@ World,Q479171,Amber Rudd,spouse,Q4647471,A. A. Gill
 World,Q4819628,Aud Blattmann,child,Q12007574,Trond Henry Blattmann
 World,Q4864133,Barry Cowen,father,Q4893027,Bernard Cowen
 World,Q4864133,Barry Cowen,sibling,Q185272,Brian Cowen
+World,Q4960207,Breeda Moynihan-Cronin,father,Q15491096,Michael Moynihan
 World,Q4990909,Eva Zetterberg,father,Q6252124,Åke Zetterberg
 World,Q4990909,Eva Zetterberg,sibling,Q6252092,Olle Zetterberg
 World,Q4992554,Ulla Sandbæk,father,Q12315681,Harald Sandbæk
@@ -658,6 +669,7 @@ World,Q701990,Hisashi Owada,father,Q15059211,Takeo Owada
 World,Q701990,Hisashi Owada,sibling,Q112238566,Makoto Owada
 World,Q701990,Hisashi Owada,sibling,Q11459347,Akira Owada
 World,Q701990,Hisashi Owada,spouse,Q15059261,Yumiko Owada
+World,Q7141779,Paschal Mooney,father,Q6211421,Joe Mooney
 World,Q7192814,Pieter Omtzigt,spouse,Q106322685,Ayfer Koc
 World,Q722579,Vuk Jeremić,relative,Q12756368,Nurija Pozderac
 World,Q737463,Dmitry Rogozin,child,Q16692250,Alexey Rogozin
@@ -704,6 +716,7 @@ World,Q9031777,Meritxell Batet,spouse,Q5943076,José María Lassalle
 World,Q917179,Lars Barfoed,spouse,Q12316082,Helle Sjelle
 World,Q919981,Dolores Padierna,spouse,Q1881427,René Bejarano
 World,Q925136,Eduardo Ferro Rodrigues,child,Q10363031,Rita Ferro Rodrigues
+World,Q925136,Eduardo Ferro Rodrigues,father,Q115859603,Eduardo Alberto Ferro Rodrigues
 World,Q925136,Eduardo Ferro Rodrigues,spouse,Q111448806,Maria Filomena Lopes Peixoto de Aguilar
 World,Q9281496,Tomasz Cimoszewicz,father,Q55915,Włodzimierz Cimoszewicz
 World,Q9325008,Ryszard Terlecki,father,Q11797944,Olgierd Terlecki

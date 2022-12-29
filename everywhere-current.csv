@@ -26,7 +26,7 @@ Afghanistan,Minister of Finance,Gul Agha Ishakzai,Q21662937,2021-08-24,male,1972
 Afghanistan,Minister of Foreign Affairs,Amir Khan Muttaqi,Q60499905,2021-09-07,male,1970,,Amir Khan Muttaqi in November 2021.png,Amir Khan Muttaqi
 Afghanistan,"Minister of Frontiers, Nations and Tribal Affairs",Norullah Noori,Q7060721,2021-09-07,male,1967,,ISN 00006 Norullah Nori.jpg,Noorullah Noori
 Afghanistan,Minister of Hajj and Islamic Affairs,Noor Mohammad Saqib,Q108445446,2021-09-07,male,,,,Noor Mohammad Saqib
-Afghanistan,Minister of Health,Qalandar Ibad,Q108665752,2021-09-07,male,,,,Qalandar Ibad
+Afghanistan,Minister of Health,Qalandar Ibad,Q108665752,2021-09-07,male,1980,,,Qalandar Ibad
 Afghanistan,Minister of Higher Education,Abdul Baqi Haqqani,Q108321646,2021-08-29,male,1961,,عبدالباقی حقانی.jpg,Abdul Baqi Haqqani
 Afghanistan,Minister of Information and Culture,Khairullah Khairkhwa,Q13641293,2021-09-07,male,1967,,Khairullah Khairkhwa.png,Khairullah Khairkhwa
 Afghanistan,Minister of the Interior,Sirajuddin Haqqani,Q2246940,2021-09-07,male,1970,,Sirajuddin Haqqani.png,Sirajuddin Haqqani
@@ -273,6 +273,7 @@ Artsakh,President,Arayik Harutyunyan,Q440824,2020-05-21,male,1973-12-14,,Araik.j
 Artsakh,State Minister,Ruben Vardanyan,Q4103721,2022-11-04,male,1968-05-25,,Ruben Vardanyan businessman.jpg,Ruben Vardanyan (politician)
 Artsakh,Minister of Defence,Kamo Vardanyan,Q97203851,2021-09-11,male,1966-03-18,,Kamo Vardanyan.pdf,
 Artsakh,Minister of Foreign Affairs,David Babayan,Q21531891,2021-01-04,male,1973,,Դավիթ Բաբայան.jpg,David Babayan
+Artsakh,Minister of Labour,Mane Tandilyan,Q29310134,2020-12-02,female,1978-04-03,,Mane Tandilyan.jpg,Mane Tandilyan
 Artsakh,President of the National Assembly,Arthur Tovmasyan,Q4459252,2020-05-21,male,1962-12-02,,Arthur Tovmasyan.jpg,Arthur Tovmasyan
 Aruba,Governor,Alfonso Boekhoudt,Q26899180,2017-01-01,male,1965-01-27,,,Alfonso Boekhoudt
 Aruba,Prime Minister,Evelyn Wever-Croes,Q23038705,2017-11-17,female,1966-12-05,,"Evelyn Wever-Croes, 2022.jpg",Evelyn Wever-Croes
@@ -398,7 +399,6 @@ Azerbaijan,First Deputy Prime Minister,Yaqub Eyyubov,Q4533449,2003-02-13,male,19
 Azerbaijan,Deputy Prime Minister,Ali Ahmadov,Q4073064,2013-10-22,male,1953-01-27,,Ali Ahmadov - 2019 (cropped).jpg,Ali Ahmadov
 Azerbaijan,Deputy Prime Minister,Shahin Mustafayev,Q15734658,2019-10-22,male,1965-06-13,,Shahin Mustafayev in 2016.jpg,Shahin Mustafayev
 Azerbaijan,Minister of Agriculture,Inam Karimov,Q12849026,2018-04-21,male,1977-06-06,,İnam Kərimov at Agroforum Reception 08Nov19 008 (49065061941) (cropped).jpg,Inam Karimov
-Azerbaijan,Minister of Culture,Anar Karimov,Q97698132,2021-01-05,male,1977-06-03,,Anar Karimov.jpg,Anar Karimov
 Azerbaijan,Minister of Defence,Zakir Hasanov,Q12848240,2013-10-22,male,1959-06-06,,Zakir Hasanov at the 2018 parade.jpg,Zakir Hasanov
 Azerbaijan,Minister of Defence Industry,Madat Guliyev,Q4151833,2019-06-20,male,1958-09-27,,Madat Guliyev at the parade 2018.jpg,Madat Guliyev
 Azerbaijan,Minister of Ecology and Natural Resources,Muxtar Babayev,Q6584988,2018-04-23,male,1967-10-16,,Muxtar Babayev.JPG,Mukhtar Babayev
@@ -444,7 +444,7 @@ Bahamas,Minister of Foreign Affairs and Public Service,Fred Mitchell,Q3086904,20
 Bahamas,Minister for Grand Bahama,Ginger Moxey,Q109462791,2021-09-20,female,,,,Ginger Moxey
 Bahamas,Minister of Health,Michael Darville,Q109462910,2021-09-20,male,,,,
 Bahamas,Minister of Labour and Immigration,Keith Bell,Q109462898,2021-09-20,male,,,,
-Bahamas,Minister of National Security,Wayne Munroe,Q7976498,2021-09-20,male,,,,Wayne Munroe
+Bahamas,Minister of National Security,Wayne Munroe,Q7976498,2021-09-20,male,1968-03-01,,,Wayne Munroe
 Bahamas,Minister of Public Works and Utilities,Alfred Sears,Q109462441,2021-09-22,male,,,,
 Bahamas,Minister of Social Services and Urban Development,Obediah Wilchcombe,Q109462976,2021-09-20,male,,,,
 Bahamas,Minister of Tourism and Aviation,Chester Cooper,Q108674257,2021-09-17,male,1964-08-22,,Chester Cooper.png,Chester Cooper
@@ -459,7 +459,7 @@ Bahamas,Minister of State in the Ministry of Social Services and Urban Developme
 Bahamas,Minister of State in the Office of the Prime Minister,Myles LaRoda,Q109462970,2021-09-20,male,,,,
 Bahamas,Leader of Government Business in the House of Assembly,Obediah Wilchcombe,Q109462976,2021-09-20,male,,,,
 Bahamas,Leader of Government Business in the Senate,Michael Halkitis,Q109462938,2021-09-20,male,,,,
-Bahamas,Speaker of the House of Assembly,Patricia Deveaux,Q108990353,2021-09,female,,,,Patricia Deveaux
+Bahamas,Speaker of the House of Assembly,Patricia Deveaux,Q108990353,2021-09,female,1968,,,Patricia Deveaux
 Bahamas,President of the Senate,Lashell Adderley,Q109421249,2021-10-06,female,,,,Lashell Adderley
 Bahamas,Chief Justice,Brian Moree,Q109463694,2019-06-12,male,,,,
 Bahamas,Governor of the Central Bank,John A. Rolle,Q25431474,2016-01,male,,,,
@@ -497,7 +497,7 @@ Bangladesh,Minister of Agriculture,Abdur Razzak,Q16057946,2019-01,male,1950-02-0
 Bangladesh,Minister of Chittagong Hill Tracts Affairs,Ushwe Sing,Q26924794,2019-01-07,male,1960-01-10,,,Ushwe Sing
 Bangladesh,Minister of Commerce,Tipu Munshi,Q52161621,2019-01,male,1950,,Tipu Munshi (cropped).jpg,Tipu Munshi
 Bangladesh,Minister of Education,Dipu Moni,Q58264,2019-01-07,female,1965-12-08,,Dipu Moni February 2013 (8510153398).jpg,Dipu Moni
-Bangladesh,"Minister of Environment, Forest and Climate Change",Md. Shahab Uddin,Q55694421,2019-01-07,male,1954,,,Md. Shahab Uddin
+Bangladesh,"Minister of Environment, Forest and Climate Change",Md. Shahab Uddin,Q55694421,2019-01-07,male,1954,,Md. Shahab Uddin at COP15.jpg,Md. Shahab Uddin
 Bangladesh,Minister of Expatriates' Welfare and Overseas Employment,Imran Ahmad,Q28457273,2019-07-13,male,1948,,,Imran Ahmad
 Bangladesh,Minister of Finance,Mustafa Kamal,Q6943274,2019-01-07,male,1947-06-15,,Ambassador Earl Miller at ORACLE Office Launching Ceremony (50284221518).jpg,Mustafa Kamal (politician)
 Bangladesh,Minister of Fisheries and Livestock,SM Rezaul Karim,Q66141625,2020-02-13,male,1962,,SM Rezaul Karim.png,SM Rezaul Karim
@@ -653,18 +653,18 @@ Belize,Monarch,Charles III,Q43274,2022-09-08,male,1948-11-14,,Prince Charles in 
 Belize,Governor-General,Froyla Tzalam,Q106601151,2021-05-27,female,,,Froyla Tzalam 2022.jpg,Froyla Tzalam
 Belize,Prime Minister,Johnny Briceño,Q6266369,2020-11-12,male,1960-07-17,,Johnny Briceño (52135383761) (cropped).jpg,Johnny Briceño
 Belize,Deputy Prime Minister,Cordel Hyde,Q58896069,2020-11-16,male,1973-08-20,,Cordel Hyde 2022.jpg,Cordel Hyde
-Belize,"Minister of Agriculture, Food Security, and Enterprise",Jose Abelardo Mai,Q24953680,2020-11-16,male,,,,
+Belize,"Minister of Agriculture, Food Security, and Enterprise",Jose Abelardo Mai,Q24953680,2020-11-16,male,,,Minister Jose Abelardo Mai (cropped).jpg,
 Belize,Minister of The Blue Economy and Civil Aviation,Andre Perez,Q109930999,2020-11-16,male,,,,
 Belize,"Minister of Education, Culture, Science and Technology",Francis Fonseca,Q5480967,2020-11-16,male,1967-03-11,,Francis Fonseca 2022.jpg,Francis Fonseca
 Belize,"Minister of Finance, Economic Development and Investment",Johnny Briceño,Q6266369,2020-11-16,male,1960-07-17,,Johnny Briceño (52135383761) (cropped).jpg,Johnny Briceño
 Belize,Minister of Foreign Affairs,Eamon Courtenay,Q3046363,2020-11-13,male,1960-06-11,,Eamon Courtenay (cropped).jpg,Eamon Courtenay
 Belize,Minister of Health and Wellness,Kevin Bernard,Q109930959,2022-01-10,male,,,,
 Belize,Minister of Home Affairs and New Growth Industries,Kareem Musa,Q58896061,2020-11-16,male,,,,Kareem Musa
-Belize,"Minister of Human Development, Families and Indigenous People's Affairs",Dolores Balderamos-García,Q5289506,2020-11-16,female,1957,,,Dolores Balderamos-García
-Belize,Minister of Infrastructure Development and Housing,Julius Espat,Q24953658,2020-11-16,male,1968,,,Julius Espat
+Belize,"Minister of Human Development, Families and Indigenous People's Affairs",Dolores Balderamos-García,Q5289506,2020-11-16,female,1957,,Hon. Balderamos-Garcia (cropped).jpg,Dolores Balderamos-García
+Belize,Minister of Infrastructure Development and Housing,Julius Espat,Q24953658,2020-11-16,male,1968,,Minister J Espat (cropped).jpg,Julius Espat
 Belize,Minister of National Defence and Border Security,Florencio Marin Jr.,Q24953659,2020-11-16,male,,,Florencio Marin Jr (cropped).jpg,
 Belize,"Minister of Natural Resources, Petroleum and Mining",Cordel Hyde,Q58896069,2020-11-16,male,1973-08-20,,Cordel Hyde 2022.jpg,Cordel Hyde
-Belize,"Minister of Public Service, Constitutional and Political Reform",Henry Charles Usher,Q109931006,2020-11-16,male,,,,
+Belize,"Minister of Public Service, Constitutional and Political Reform",Henry Charles Usher,Q109931006,2020-11-16,male,,,Henry Charles Usher (cropped).jpg,
 Belize,Minister of Public Utilities and Logistics,Michel Chebat,Q16198058,2022-01-10,male,1969-05-23,,,Michel Chebat
 Belize,"Minister of Rural Transformation, Community Development, Local Government and Labour",Oscar Ruben Requena,Q86003169,2020-11-16,male,,,,
 Belize,"Minister of Sustainable Development, Climate Change and Disaster Risk Management",Orlando Habet,Q86003939,2020-11-16,male,,,,
@@ -694,7 +694,7 @@ Benin,Minister of Labour and Public Service,Adidjatou Mathys,Q106764634,2017-04-
 Benin,Minister of Living Environment and Sustainable Development,José Didier Tonato,Q109037543,2016-04-07,male,,,,
 Benin,Minister of National Defence,Fortunet Alain Nouatin,Q107501795,2017-10-27,male,,,,
 Benin,Minister of Nursery and Primary Education,Karimou Salimane,Q107097620,2016-04-07,male,,,,
-Benin,Minister of Planning and Development,Abdoulaye Bio Tchané,Q2821361,2016,male,1952-10-25,,Profil wikipedia.png,Abdoulaye Bio Tchané
+Benin,Minister of Planning and Development,Abdoulaye Bio Tchané,Q2821361,2016,male,1952-10-25,,Abdoulaye Bio Tchané.png,Abdoulaye Bio Tchané
 Benin,Minister of Secondary and Technical Education and Vocational Training,Kouaro Yves Chabi,Q107551912,2021-05-25,male,,,,
 Benin,Minister of Small and Medium Enterprises,Modeste Tihounté Kérékou,Q3317909,2017-10-30,male,1976-08-15,,,
 Benin,Minister of Social Affairs and Microfinance,Véronique Tognifodé Mewanou,Q106777695,2019-09-05,female,,,,
@@ -760,10 +760,10 @@ Bolivia,"Minister of Work, Employment, and Social Security",Verónica Navia Teja
 Bolivia,President of the Senate,Andrónico Rodríguez,Q75827853,2020-11-03,male,1988-11-11,,"Andrónico Rodríguez Ledezma (Official Photo, 2020) Chamber of Senators of Bolivia.jpg",Andrónico Rodríguez
 Bolivia,President of the Chamber of Deputies,Jerges Mercado,Q115102931,2022-11-04,male,,,,Jerges Mercado Suárez
 Bolivia,President of the Central Bank,Roger Edwin Rojas Ulo,Q110419438,2020,male,,,,
-Bosnia and Herzegovina,Chairman of the Presidency,Željka Cvijanović,Q5528031,2022-11-16,female,1967-03-04,,Željka Cvijanović (cropped).jpg,Željka Cvijanović
+Bosnia and Herzegovina,Chairman of the Presidency,Željka Cvijanović,Q5528031,2022-11-16,female,1967-03-04,,P059658-770310 (cropped).jpg,Željka Cvijanović
 Bosnia and Herzegovina,Bosniak Member of the Presidency,Šefik Džaferović,Q20525169,2018-11-20,male,1957-09-09,,Šefik Džaferović (cropped).jpg,Šefik Džaferović
 Bosnia and Herzegovina,Croat Member of the Presidency,Željko Komšić,Q297825,2018-11-20,male,1964-01-20,,Željko Komšić 2021.jpg,Željko Komšić
-Bosnia and Herzegovina,Serb Member of the Presidency,Željka Cvijanović,Q5528031,2022-11-16,female,1967-03-04,,Željka Cvijanović (cropped).jpg,Željka Cvijanović
+Bosnia and Herzegovina,Serb Member of the Presidency,Željka Cvijanović,Q5528031,2022-11-16,female,1967-03-04,,P059658-770310 (cropped).jpg,Željka Cvijanović
 Bosnia and Herzegovina,Chairman of the Council of Ministers,Zoran Tegeltija,Q12752078,2019-12-23,male,1961-09-29,,P059246-371454 (cropped).jpg,Zoran Tegeltija
 Bosnia and Herzegovina,Minister of Civil Affairs,Ankica Gudeljević,Q80903166,2019-12-23,female,1964-07-26,,Ankica Gudeljević.jpg,Ankica Gudeljević
 Bosnia and Herzegovina,Minister of Communications and Transport,Vojin Mitrović,Q61134042,2019-12-23,male,1961-04-27,,,Vojin Mitrović
@@ -806,7 +806,7 @@ Botswana,Attorney General,Abraham Ketshabe,Q110210196,2019-11-06,male,,,,
 Botswana,Speaker of the National Assembly,Phandu Skelemani,Q58186,2019-11-05,male,1945-01-05,,Phandu Skelemani 2014.png,Phandu Skelemani
 Botswana,Governor of the Central Bank,Moses Dinekere Pelaelo,Q31079723,2016-10-21,male,,,,
 Botswana,Commander of the Defence Force,Placid Diratsagae Segokgo,Q110211416,2016-09-08,male,,,,
-Brazil,President,Jair Bolsonaro,Q10304982,2019-01-01,male,1955-03-21,,2022-12-10 Cerimônia de Declaração de Guardas-Marinha de 2022 e Entrega de Espadas à Turma “Patriarca da Independência”.jpg,Jair Bolsonaro
+Brazil,President,Jair Bolsonaro,Q10304982,2019-01-01,male,1955-03-21,,2022-09-07 Desfile Cívico-Militar por ocasião das Comemorações do Bicentenário da Independência do Brasil - 52341366768 (cropped).jpg,Jair Bolsonaro
 Brazil,President-elect,Luiz Inácio Lula da Silva,Q37181,2022-10-30,male,1945-10-27,,Alberto Fernández y Luiz Inácio Lula da Silva en São Paulo 2022 (3) (cropped).jpg,Luiz Inácio Lula da Silva
 Brazil,Vice President,Hamilton Mourão,Q52871852,2019-01-01,male,1953-08-15,,2019 Palestra no Graciosa Country Club - 48147396701 (cropped).jpg,Hamilton Mourão
 Brazil,Minister of Agriculture,Marcos Montes Cordeiro,Q10325465,2022-03-31,male,1949-08-03,,Marcos Montes cropped.png,
@@ -903,7 +903,7 @@ Bulgaria,Chairperson of the National Assembly,Vezhdi Rashidov,Q2064558,2022-10-2
 Bulgaria,Chief of Defence,Emil Eftimov,Q28038967,2020-03-30,male,1961-08-16,,,
 Bulgaria,Governor of the Bulgarian National Bank,Dimitar Radev,Q25431484,2015-07-14,male,1956-07-12,,,Dimitar Radev
 Bulgaria,Mayor of Sofia Capital Municipality,Yordanka Fandakova,Q444718,2011-11-08,female,1962-04-12,,High-hevel Conference Dedicated to EU Cohesion Policy Handshake (28793180168) (Yordanka Fandakova cropped).jpg,Yordanka Fandakova
-Burkina Faso,President,Ibrahim Traore,Q114341246,2022-09-30,male,1988,,"Ibrahim Traoré, président du Burkina Faso.jpg",Ibrahim Traoré
+Burkina Faso,President,Ibrahim Traore,Q114341246,2022-09-30,male,1988,,,Ibrahim Traoré
 Burkina Faso,Prime Minister,Apollinaire Joachim Kyélem de Tambèla,Q114835874,2022-10-21,male,1958,,Apollinaire Kyelem de Tambèla (cropped).png,Apollinaire Joachim Kyélem de Tambèla
 Burkina Faso,Minister of Agriculture,Innocent Kiba,Q114703374,2022-03-05,male,,,,
 Burkina Faso,Minister of Communication,Valérie Kaboré,Q111223572,2022-03-05,female,1965-12-31,,,
@@ -1268,7 +1268,7 @@ Chile,Minister of Social Development and Family,Giorgio Jackson,Q5880050,2022-09
 Chile,Minister of Sport,Alexandra Benado,Q110636091,2022-03-11,female,1976-05-11,,"Ministra del Deporte, Alexandra Benado Vergara (2022).jpg",Alexandra Benado
 Chile,Minister of Transport and Telecommunications,Juan Carlos Muñoz,Q110636946,2022-03-11,male,1970-06-22,,Ministro Juan Carlos Muñoz.jpg,Juan Carlos Muñoz (politician)
 Chile,Minister for Women,Antonia Orellana,Q110637131,2022-03-11,female,1989-12-21,,Antonia Orellana 2021.jpg,Antonia Orellana
-Chile,Secretary General of Government,Camila Vallejo,Q242230,2022-03-11,female,1988-04-28,,Ministra Camila Vallejo.jpg,Camila Vallejo
+Chile,Secretary General of Government,Camila Vallejo,Q242230,2022-03-11,female,1988-04-28,,Camila Vallejo (noviembre 2022).jpg,Camila Vallejo
 Chile,Secretary General of the Presidency,Ana Lya Uriarte,Q920791,2022-09-06,female,1962-07-17,,Ministra Ana Lya Uriarte.jpg,Ana Lya Uriarte
 Chile,President of the Chamber of Deputies,Vlado Mirosevic,Q16302060,2022-11-07,male,1987-05-23,,Vlado Mirosevic Verdugo (2022).jpg,Vlado Mirosevic
 Chile,President of the Senate,Álvaro Elizalde,Q16298964,2022-03-11,male,1969-10-15,,"Álvaro Elizalde, Ministro Segegob.jpg",Álvaro Elizalde
@@ -1293,7 +1293,7 @@ China,Minister of Agriculture and Rural Affairs,Tang Renjian,Q20063077,2020-12,m
 China,Minister of Civil Affairs,Tang Dengjie,Q47015950,2022-02-28,male,1964,,"Đường Đăng Kiệt, 2017.jpg",Tang Dengjie
 China,Minister of Commerce,Wang Wentao,Q8292723,2020-12-26,male,1964-05,,Wang Wentao.jpg,Wang Wentao
 China,Minister of Culture and Tourism,Hu Heping,Q8292447,2020-08-11,male,1962-10,,Hu Heping.jpg,Hu Heping
-China,Minister of Ecology and Environment,Huang Runqiu,Q11177950,2020-04-29,male,1963-08,,,Huang Runqiu
+China,Minister of Ecology and Environment,Huang Runqiu,Q11177950,2020-04-29,male,1963-08,,22dec19-COP15-Adoption-of-the-Kunming-Montreal-Framework-8881.jpg,Huang Runqiu
 China,Minister of Education,Huai Jinpeng,Q9142144,2021-08-20,male,1962,,Han Zheng (2018-09-18) 01.jpg,Huai Jinpeng
 China,Minister of Emergency Management,Wang Xiangxi,Q16906160,2022-07-29,male,1962,,,Wang Xiangxi
 China,Minister of Finance,Liu Kun,Q8990322,2018-03-19,male,1956,,Liu Kun 2019.png,Liu Kun
@@ -1318,14 +1318,14 @@ China,President of the Supreme People's Court,Zhou Qiang,Q198003,2013,male,1960-
 China,Governor of the People's Bank,Yi Gang,Q4743711,2018-03-19,male,1958,,Yi Gang World Economic Forum 2013 (2).jpg,Yi Gang
 China,Chief of the Joint Staff,Li Zuocheng,Q8316069,2017-08-26,male,1953,,China’s Central Military Commission Gen. Li Zuocheng.jpg,Li Zuocheng
 Colombia,President,Gustavo Petro,Q704022,2022-08-07,male,1960-04-19,,Presidente Gustavo Petro Urrego.jpg,Gustavo Petro
-Colombia,Vice President,Francia Márquez Mina,Q28501573,2022-08-07,female,1981-12-01,,2022 Francia Marquez.jpg,Francia Márquez
+Colombia,Vice President,Francia Márquez Mina,Q28501573,2022-08-07,female,1981-12-01,,2022 Francia Marquez2.jpg,Francia Márquez
 Colombia,Minister of Agriculture and Rural Development,Cecilia López Montaño,Q2879824,2022-08-07,female,1943-04-18,,Cecilia López.jpg,Cecilia López Montaño
 Colombia,"Minister of Commerce, Industry and Tourism",Germán Umaña Mendoza,Q113468228,2022-08-07,male,,,German umana 1.jpg,
 Colombia,Minister of Culture,Patricia Ariza,Q2151208,2022-08-07,female,1946-01-27,,Patricia Ariza.jpg,Patricia Ariza
 Colombia,Minister of Defence,Iván Velásquez Gómez,Q20665758,2022-08-07,male,1955-05-12,,Iván Velásquez.jpg,Iván Velásquez Gómez
 Colombia,Minister of Education,Alejandro Gaviria,Q4714549,2022-08-07,male,1966,,Alejandro Gaviria RT.jpg,Alejandro Gaviria Uribe
 Colombia,Minister of the Environment,María Susana Muhamad,Q112768671,2022-08-07,female,,,Susana Muhamad 4.jpg,Susana Muhamad
-Colombia,Minister of Equality and Equity,Francia Márquez Mina,Q28501573,2022-12-12,female,1981-12-01,,2022 Francia Marquez.jpg,Francia Márquez
+Colombia,Minister of Equality and Equity,Francia Márquez Mina,Q28501573,2022-12-12,female,1981-12-01,,2022 Francia Marquez2.jpg,Francia Márquez
 Colombia,Minister of Finance and Public Credit,José Antonio Ocampo,Q3076265,2022-08-07,male,1952-12-20,,Jose Antonio Ocampo G.jpg,José Antonio Ocampo
 Colombia,Minister of Foreign Affairs,Álvaro Leyva,Q10395812,2022-08-07,male,1942-08-29,,Álvaro Leyva Durán.jpg,Álvaro Leyva
 Colombia,Minister of Health and Social Protection,Diana Carolina Corcho,Q112917761,2022-08-07,female,,,Carolina Corcho Mejía.jpg,
@@ -1523,7 +1523,7 @@ Cuba,Deputy Prime Minister,Jorge Luis Perdomo Di-Lella,Q114436510,2021-04-20,mal
 Cuba,Minister of Agriculture,Ydael Pérez Brito,Q114435912,2021,male,,,,
 Cuba,Minister of Communications,Mayra Arevich Marín,Q114437436,2021-04-20,female,,,,
 Cuba,Minister of Construction,René Mesa Villafaña,Q114436132,2011,male,,,,
-Cuba,Minister of Culture,Alpidio Alonso Grau,Q5670557,2018-07-20,male,1963-11-05,,,
+Cuba,Minister of Culture,Alpidio Alonso Grau,Q5670557,2018-07-20,male,1963-11-05,,Alpidio Alonso Grau 2022.jpg,
 Cuba,Minister of Domestic Trade,Betsy Díaz Velázquez,Q114436499,2019-12-21,female,,,,
 Cuba,Minister of Economy and Planning,Alejandro Gil Fernández,Q114436493,2018-07-21,male,1960,,,
 Cuba,Minister of Education,Ena Elsa Velázquez Cobiella,Q114436186,2008,female,,,,
@@ -1580,7 +1580,7 @@ Czechia,Deputy Prime Minister,Vít Rakušan,Q22035584,2021-12-17,male,1978-06-16
 Czechia,Deputy Prime Minister,Vlastimil Válek,Q30114672,2021-12-17,male,1960-05-17,,Vlastimil-Válek2019b.jpg,Vlastimil Válek
 Czechia,Minister of Agriculture,Zdeněk Nekula,Q109615190,2022-01-03,male,1970-02-09,,"Zdeněk Nekula, Poděbrady (2022).jpg",Zdeněk Nekula
 Czechia,Minister of Culture,Martin Baxa,Q14806386,2021-12-17,male,1975-09-16,,Martin Baxa (cropped).jpg,Martin Baxa
-Czechia,Minister of Defence,Jana Černochová,Q12023473,2021-12-17,female,1973-10-26,,Jana Černochová 2015 (2).JPG,Jana Černochová
+Czechia,Minister of Defence,Jana Černochová,Q12023473,2021-12-17,female,1973-10-26,,220421-D-BN624-0291 (52020611483) (cropped).jpg,Jana Černochová
 Czechia,"Minister of Education, Youth and Sports",Vladimír Balaš,Q11903539,2022-06-29,male,1959-04-20,,,Vladimír Balaš
 Czechia,Minister of the Environment,Marian Jurečka,Q13434626,2022-11-01,male,1981-03-15,,Marian Jurecka - portrait.jpg,Marian Jurečka
 Czechia,Minister for European Union Affairs,Mikuláš Bek,Q12037105,2021-12-17,male,1964-04-22,,Václav Klaus a Ivan Gašparovič ve vile Tugendhat 2013-03-06 4702 Mikuláš Bek.jpg,Mikuláš Bek
@@ -1723,7 +1723,6 @@ Donetsk,Chairman of the Council of Ministers,Vitaliy Khotsenko,Q112286420,2022-0
 Donetsk,"Minister for Civil Defence, Emergencies and Disaster Relief",Alexey Kostrubitsky,Q113435713,2014,male,1978-08-24,,2014-12-27. День спасателя в Донецке 022 (cropped).JPG,
 Donetsk,Minister of Communications,Халепа Игорь Николаевич,Q109948361,2020-10-07,male,1969-05-19,,2019-10-18. День связи DSC 1229.jpg,
 Donetsk,Minister of Culture,Mikhail Zheltyakov,Q109984834,2018-12-03,male,1961,,2016-08-26. Спецгашение марки в честь пятилетия «Арт-Донбасса» 18.jpg,
-Donetsk,Minister of Foreign Affairs,Nataliya Nikonorova,Q56651232,2016-02-23,female,1984-09-28,,Наталья Никонорова 2016 (cropped 2).jpg,Nataliya Nikonorova
 Donetsk,Minister of State Security,Vladimir Pavlenko,Q18275322,2015-12-14,male,1962-04-14,,,
 Ecuador,President,Guillermo Lasso,Q4414537,2021-05-24,male,1955-11-16,,Guillermo Lasso July 2021.jpg,Guillermo Lasso
 Ecuador,Vice President,Alfredo Borrero Vega,Q106466352,2021-05-24,male,1955-10-19,,Alfredo Borrero Vega Vicepresidente del Ecuador (cropped).jpg,Alfredo Borrero
@@ -2011,7 +2010,7 @@ European Union,European Commissioner for Promoting the European Way of Life,Marg
 European Union,European Commissioner for Trade,Valdis Dombrovskis,Q57630,2020-08-26,male,1971-08-05,,Valdis Dombrovskis 2009.jpg,Valdis Dombrovskis
 European Union,European Commissioner for Transport,Adina-Ioana Vălean,Q274739,2019-12-01,female,1968-02-16,,Hearing of Adina-Ioana Vălean (Romania)- Commissioner Designate - European Green Deal (49063874993) (cropped).jpg,Adina-Ioana Vălean
 European Union,European Commissioner for Values and Transparency,Věra Jourová,Q12001809,2019-12-01,female,1964-08-18,,Hearing of Věra Jourová (Czech Republic) - Vice president-designate - Values and Transparency (48859288246) (cropped).jpg,Věra Jourová
-European Union,European Commissioner for the Environment,Virginijus Sinkevičius,Q27653570,2019-12-01,male,1990-11-04,,Hearing of Virginijus Sinkevičius.jpg,Virginijus Sinkevičius
+European Union,European Commissioner for the Environment,Virginijus Sinkevičius,Q27653570,2019-12-01,male,1990-11-04,,Virginijus Sinkevičius (2).jpg,Virginijus Sinkevičius
 European Union,High Representative of the Union for Foreign Affairs and Security Policy,Josep Borrell,Q312901,2019-12-01,male,1947-04-24,,Josep Borrell (49468484246).jpg,Josep Borrell
 European Union,Secretary-General of the European Commission,Ilze Juhansone,Q65962102,2019-08-01,female,1971,,Ilze Juhansone 2015.jpg,Ilze Juhansone
 European Union,President of the European Council,Charles Michel,Q950958,2019-12-01,male,1975-12-21,,Charles Michel (49467991288).jpg,Charles Michel
@@ -2084,7 +2083,7 @@ Finland,Chief of Defence,Timo Kivinen,Q16299896,2019-08-01,male,1959-12-08,,Timo
 Finland,Governor of the Bank of Finland,Olli Rehn,Q294411,2018-07-12,male,1962-03-31,,Olli Rehn by Moritz Kosinsky 2.jpg,Olli Rehn
 Finland,mayor of Helsinki,Juhana Vartiainen,Q11867451,2021-08-02,male,1958-05-28,,Juhana Vartiainen.jpg,Juhana Vartiainen
 France,President,Emmanuel Macron,Q3052772,2017-05-14,male,1977-12-21,,"Зустріч Президента України з президентами Франції та Румунії, а також головами урядів Німеччини та Італії 76 (cropped).jpg",Emmanuel Macron
-France,Prime Minister,Élisabeth Borne,Q20020731,2022-05-16,female,1961-04-18,,Borne Head Nov 2022.jpg,Élisabeth Borne
+France,Prime Minister,Élisabeth Borne,Q20020731,2022-05-16,female,1961-04-18,,Elisabeth Borne November 2022 close-up.jpg,Élisabeth Borne
 France,Minister of Agriculture and Food,Marc Fesneau,Q6755549,2022-05-16,male,1971-01-11,,Marc Fesneau (2015).jpg,Marc Fesneau
 France,Minister of the Armed Forces,Sébastien Lecornu,Q20089181,2022-05-20,male,1986-06-11,,Portrait Sébastien Lecornu.jpg,Sébastien Lecornu
 France,Minister of the Civil Service,Stanislas Guerini,Q30343112,2022-05-20,male,1982-05-14,,Stanislas guerini AN 16475.JPG,Stanislas Guerini
@@ -2223,7 +2222,7 @@ Georgia,Chief of the State Security Service,Grigol Liluashvili,Q105729181,2019-1
 Georgia,Governor of the National Bank,Koba Gvenetadze,Q25433264,2016-03,male,1971-12-26,,,Koba Gvenetadze
 Georgia,Mayor of Tbilisi,Kakha Kaladze,Q192031,2017-11-13,male,1978-02-27,,Kakha kaladze.jpg,Kakha Kaladze
 Germany,President,Frank-Walter Steinmeier,Q76658,2017-03-19,male,1956-01-05,,Frank-Walter Steinmeier - 2018 (cropped) 2.jpg,Frank-Walter Steinmeier
-Germany,Chancellor,Olaf Scholz,Q61053,2021-12-08,male,1958-06-14,,Olaf Scholz In March 2022.jpg,Olaf Scholz
+Germany,Chancellor,Olaf Scholz,Q61053,2021-12-08,male,1958-06-14,,"Olaf Scholz, 15-12-2022 (1) (cropped).jpg",Olaf Scholz
 Germany,Vice-Chancellor,Robert Habeck,Q109943,2021-12-08,male,1969-09-02,,2021-12-07 Unterzeichnung des Koalitionsvertrages der 20. Wahlperiode des Bundestages by Sandro Halank–018 (cropped).jpg,Robert Habeck
 Germany,Minister of Defence,Christine Lambrecht,Q1083648,2021-12-08,female,1965-06-19,,Christine Lambrecht 05.jpg,Christine Lambrecht
 Germany,Minister for Economic Affairs and Climate Action,Robert Habeck,Q109943,2021-12-08,male,1969-09-02,,2021-12-07 Unterzeichnung des Koalitionsvertrages der 20. Wahlperiode des Bundestages by Sandro Halank–018 (cropped).jpg,Robert Habeck
@@ -2431,7 +2430,7 @@ Guinea,Minister of Industry and SMEs of Guinea,Rose Pola Pricemou,Q109275627,202
 Guinea,Minister of Information and Communication,Aminata Kaba,Q109412260,2022-08-20,female,,,,
 Guinea,Minister of Justice,Alphonse Charles Wright,Q112977549,2022-07-08,male,1981,,,
 Guinea,Minister of Labour and Public Service,Julien Yombouno,Q109252099,2021-10-25,male,1964-08-02,,,
-Guinea,Minister of Livestock and Animal Production,Mamoudou Nagnalen Barry,Q109375616,2021-11-02,male,,,,
+Guinea,Minister of Livestock and Animal Production,Mamoudou Nagnalen Barry,Q109375616,2021-11-02,male,,,Mamoudou Nagnalen Barry.jpg,
 Guinea,Minister of Mines and Geology,Moussa Magassouba,Q109512687,2021-11-04,male,,,SMD MMG MATD sensibilisation 7.jpg,
 Guinea,Minister of Posts and Telecoms,Ousmane Diallo,Q3358505,2022-08-19,male,1968,,,Ousmane Diallo
 Guinea,Minister of Pre-University Education and Literacy,Guillaume Hawing,Q109296978,2021-10-27,male,,,Guillaume Hawing.jpg,
@@ -2643,8 +2642,8 @@ India,Cabinet Secretary,Pradeep Kumar Sinha,Q20859469,2015-06-13,male,1955-07-18
 India,Home Secretary,Ajay Kumar Bhalla,Q84214668,2019-08-22,male,,,"The Secretary, Ministry of Power, Shri Ajay Kumar Bhalla in New Delhi on May 31, 2019 (cropped).jpg",Ajay Kumar Bhalla
 India,Principal Secretary to the Prime Minister,Pramod Kumar Misra,Q38410113,2019-09-11,male,1948-08-11,,"P. K. Misra, IAS (cropped).jpg",Pramod Kumar Mishra
 India,Chief Justice,Dhananjaya Y. Chandrachud,Q5268914,2022-11-09,male,1959,,Justice-Dhananjaya-Yashwant.jpg,Dhananjaya Y. Chandrachud
-India,Chief of Defence Staff,Anil Chauhan,Q44662523,2022-09-30,male,,,General Anil Chauhan.jpg,Anil Chauhan
-India,Chair of the Chiefs of Staff,Anil Chauhan,Q44662523,2022-09-30,male,,,General Anil Chauhan.jpg,Anil Chauhan
+India,Chief of Defence Staff,Anil Chauhan,Q44662523,2022-09-30,male,1961-05-18,,General Anil Chauhan.jpg,Anil Chauhan
+India,Chair of the Chiefs of Staff,Anil Chauhan,Q44662523,2022-09-30,male,1961-05-18,,General Anil Chauhan.jpg,Anil Chauhan
 India,Director of the Intelligence Bureau,Tapan Deka,Q112054691,2022-07-01,male,1963-02-25,,,Tapan Deka
 India,Chief Election Commissioner,Rajiv Kumar,Q112220939,2022-05-15,male,1960-02-19,,,Rajiv Kumar (civil servant)
 India,Election Commissioner,Anup Chandra Pandey,Q58010542,2021-06-09,male,1959-02-15,,Shri Anup Chandra Pandey.jpg,Anup Chandra Pandey
@@ -2886,7 +2885,7 @@ Italy,Minister of Health,Orazio Schillaci,Q57615236,2022-10-22,male,1966-04-27,,
 Italy,Minister of Infrastructure and Transport,Matteo Salvini,Q1055449,2022-10-22,male,1973-03-09,,Matteo Salvini Sept 2021 3 (cropped).jpg,Matteo Salvini
 Italy,Minister for Institutional Reforms,Elisabetta Casellati,Q930967,2022-10-22,female,1946-08-12,,Elisabetta Alberti Casellati cropped.jpg,Elisabetta Casellati
 Italy,Minister of the Interior,Matteo Piantedosi,Q114796723,2022-10-22,male,1963-04-20,,Matteo Piantedosi.png,Matteo Piantedosi
-Italy,Minister of Justice,Carlo Nordio,Q19357364,2022-10-22,male,1947-02-06,,Carlo Nordio daticamera 2022.jpg,Carlo Nordio
+Italy,Minister of Justice,Carlo Nordio,Q19357364,2022-10-22,male,1947-02-06,,Carlo Nordio 2022 (cropped).jpg,Carlo Nordio
 Italy,Minister of Labour and Social Affairs,Marina Elvira Calderone,Q114796202,2022-10-22,female,1965-07-30,,Marina Elvra Calderone.jpeg,Marina Elvira Calderone
 Italy,Minister of Maritime Policies and the South,Nello Musumeci,Q2002390,2022-10-22,male,1955-01-21,,Nello Musumeci stampa estera.jpg,Nello Musumeci
 Italy,Minister for Parliamentary Relations,Luca Ciriani,Q52420316,2022-10-22,male,1967-01-26,,Luca Ciriani datisenato 2022.jpg,Luca Ciriani
@@ -3084,7 +3083,7 @@ Jordan,Minister of of Local Administration,Tawfiq Kreishan,Q6754063,2020-10-12,m
 Jordan,Minister of Planning and International Cooperation,Zeina Toukan,Q115075338,2022-10-27,,,,,
 Jordan,Minister of Political and Parliamentary Affairs,Wajih Azaizeh,Q110065359,2022-10-27,male,1955,,,Wajih Azaizeh
 Jordan,Minister of Public Works and Housing,Ahmad Maher Abul Samen,Q115075016,2022-10-27,male,1957,,,Ahmad Maher Abul Samen
-Jordan,Minister of Social Development,Wafa Bani Mustafa,Q106989121,2022-10-27,female,1979-03-16,,Pic High High res.png,Wafaa Bani Mustafa
+Jordan,Minister of Social Development,Wafa Bani Mustafa,Q106989121,2022-10-27,female,1979-03-16,,,Wafaa Bani Mustafa
 Jordan,Minister of Tourism and Antiquities,Nayef Al-Fayez,Q100258645,2020-10-12,male,,,,Nayef Al-Fayez
 Jordan,Minister of Transport,Ahmad Maher Abul Samen,Q115075016,2022-10-27,male,1957,,,Ahmad Maher Abul Samen
 Jordan,Minister of Water and Irrigation,Mohammed Al Najjar,Q110065393,2021-03-07,male,1956,,,Mohammed Al Najjar
@@ -3198,7 +3197,7 @@ Kosovo,Minister of Internal Affairs,Xhelal Sveçla,Q13047921,2021-03-22,male,197
 Kosovo,Minister of Justice,Albulena Haxhiu,Q13036897,2021-03-22,female,1987-05-11,,Albulena Haxhiu.jpg,Albulena Haxhiu
 Kosovo,Minister of Local Government Administration,Elbert Krasniqi,Q107601103,2021-03-22,male,1986-09-22,,,Elbert Krasniqi
 Kosovo,Minister of Regional Development,Fikrim Damka,Q61079964,2021-03-22,male,1972-10-16,,,
-Kosovo,Chairman of the Assembly,Glauk Konjufca,Q5567306,2021-03-22,male,1981-07,,Glauk Konjufca portrait.jpg,Glauk Konjufca
+Kosovo,Chairman of the Assembly,Glauk Konjufca,Q5567306,2021-03-22,male,1981-07-25,,Glauk Konjufca portrait.jpg,Glauk Konjufca
 Kosovo,Commander of the Security Force,Rrahman Rama,Q93758753,2015-03-18,male,1967-06-05,,Minister of the Kosovo Security Force and Commander of the KSF lay a wreath at the Tomb of the Unknown Soldier in Arlington National Cemetery (25937035434) (cropped).jpg,Rrahman Rama
 Kosovo,Governor of the Central Bank,Bedri Peci,Q109497111,2017,male,1971,,,
 Kosovo,Mayor of Priština,Përparim Rama,Q108180514,2021-12-07,male,1976-01-20,,Perparim Rama (cropped2).jpg,Përparim Rama
@@ -3506,7 +3505,7 @@ Luxembourg,President of the Chamber of Deputies,Fernand Etgen,Q13102568,2018-12-
 Luxembourg,Chief of Defence,Steve Thull,Q99753762,2020-09-29,male,1967-04-23,,Journée de la commémoration nationale 2021 (131) Steve Thull.jpg,Steve Thull
 Luxembourg,Chairman of the Central Bank,Gaston Reinesch,Q118496,2013-01-01,male,1958-05-17,,,
 Luxembourg,Mayor of Luxembourg,Lydie Polfer,Q451696,2013-12-17,female,1952-11-22,,Lydie-Polfer w2.jpg,Lydie Polfer
-Madagascar,President,Andry Rajoelina,Q57363,2019-01-19,male,1974-05-30,,Andry Rajoelina portrait UN.jpg,Andry Rajoelina
+Madagascar,President,Andry Rajoelina,Q57363,2019-01-19,male,1974-05-30,,Andry Rajoelina greeting crowd.jpg,Andry Rajoelina
 Madagascar,Prime Minister,Christian Ntsay,Q54806925,2018-06-06,male,1961-03-27,,Кристиан Нтсай (22-12-2020).jpg,Christian Ntsay
 Madagascar,Minister of Agriculture,Harifidy Ramilison,Q114804443,2021-08-15,male,,,,
 Madagascar,Minister of Communications,Lalatiana Andriatongarivo Rakotondrazafy,Q114804015,2019-01-24,female,,,,
@@ -3787,7 +3786,7 @@ Mexico,Secretary of Navy,José Rafael Ojeda Durán,Q58336815,2018-12-01,male,195
 Mexico,Secretary for Public Service,Roberto Salcedo Aquino,Q107311725,2021-06-21,male,1943-11-26,,Portrait of Roberto Salcedo Aquino.jpg,Roberto Salcedo Aquino
 Mexico,Secretary of Security and Citizen Protection,Rosa Icela Rodríguez,Q64438288,2020-10-30,female,1959,,Rosa Icela Rodríguez (cropped).jpg,
 Mexico,Secretary of Tourism,Miguel Torruco Marqués,Q19521973,2018-12-05,male,1951-09-19,,Miguel Torruco Marqués.jpg,Miguel Torruco Marqués
-Mexico,Secretary for Urban Development,Román Meyer Falcón,Q58338863,2018-12-01,male,1983-08-11,,Román Meyer Falcón.jpg,Román Meyer Falcón
+Mexico,Secretary for Urban Development,Román Meyer Falcón,Q58338863,2018-12-01,male,1983-08-11,,,Román Meyer Falcón
 Mexico,Secretary of Welfare,Ariadna Montiel Reyes,Q63857028,2022-01-11,female,,,Ariadna-montiel.jpg,
 Mexico,Attorney General,Alejandro Gertz Manero,Q1500199,2019-01-18,male,1939-10-31,,Alejandro Gertz.jpg,Alejandro Gertz Manero
 Mexico,President of the Chamber of Deputies,Santiago Creel,Q2241589,2022-09-01,male,1954-12-11,,Santiago Creel.jpg,Santiago Creel
@@ -3844,7 +3843,7 @@ Mongolia,President,Khurelsukh Ukhnaa,Q27058418,2021-07-10,male,1968-06-14,,Mongo
 Mongolia,Prime Minister,Oyunerdene Luvsannamsrai,Q24248226,2021-01-27,male,1980-06-29,,,Luvsannamsrain Oyun-Erdene
 Mongolia,Deputy Prime Minister,Sainbuyan Amarsaikhan,Q110168680,2021-01-29,male,1973,,Amarsaikhan Deputy Prime minister.jpg,Amarsaikhan Sainbuyan
 Mongolia,Minister of Construction and Urban Development,Munkhbaatar Begzjav,Q110168485,2021-01-29,male,1975,,,
-Mongolia,Minister of Culture,Nomin Chinbat,Q25632553,2021-01-29,female,1983,,,
+Mongolia,Minister of Culture,Nomin Chinbat,Q25632553,2021-01-29,female,1983,,,Nomin Chinbat
 Mongolia,Minister of Defence,Gürsediin Saikhanbayar,Q107000988,2020-07-08,male,1968-07-04,,23 06 2021 mcis mongolia 1200 (cropped).jpg,Gürsediin Saikhanbayar
 Mongolia,Minister of Education,Enkh-Amgalan Luvsantseren,Q24174849,2021-01-29,male,1970-01-25,,,
 Mongolia,Minister of Energy,Nansalyn Tavinbekh,Q110168519,2021-01-29,male,1971,,,
@@ -4231,7 +4230,7 @@ New Zealand,Minister of Revenue,David Parker,Q15196319,2020-11-06,male,1960,,Dav
 New Zealand,Minister for Rural Communities,Damien O'Connor,Q5212493,2017-10-26,male,1958-01-16,,Damien O'Connor (crop).jpg,Damien O'Connor
 New Zealand,Minister for Seniors,Ayesha Verrall,Q91250224,2020-11-06,female,1979,,Dr Ayesha Verrall - Labour List Candidate.jpg,Ayesha Verrall
 New Zealand,Minister for Small Business,Stuart Nash,Q7626890,2020-11-06,male,1967-08,,Stuart Nash.jpg,Stuart Nash
-New Zealand,Minister for Social Development,Carmel Sepuloni,Q5043325,2017-10-26,female,1977,,"Carmel Sepuloni, 2018.jpg",Carmel Sepuloni
+New Zealand,Minister of Social Development,Carmel Sepuloni,Q5043325,2017-10-26,female,1977,,"Carmel Sepuloni, 2018.jpg",Carmel Sepuloni
 New Zealand,Minister for Sport and Recreation,Grant Robertson,Q1543207,2017-10-26,male,1971-10-30,,Grant Robertson.jpg,Grant Robertson
 New Zealand,Minister of State Owned Enterprises,David Clark,Q3561074,2020-11-06,male,1973-01-05,,Crop of David Clark.jpg,David Clark (New Zealand politician)
 New Zealand,Minister of Statistics,David Clark,Q3561074,2020-11-06,male,1973-01-05,,Crop of David Clark.jpg,David Clark (New Zealand politician)
@@ -4444,7 +4443,7 @@ North Macedonia,Deputy Prime Minister for European Integration,Bojan Marichic,Q1
 North Macedonia,Minister for Political System and Inter-Community Relations,Artan Grubi,Q100430171,2020-08-30,male,1977-06-07,,,
 North Macedonia,"Minister of Agriculture, Forestry and Water Management",Ljupco Nikolovski,Q30181895,2022-01-16,male,1983-08-20,,,
 North Macedonia,Minister of Culture,Bisera Kostadinovska-Stojcevska,Q106702193,2022-01-16,female,1986-02-20,,,
-North Macedonia,Minister of Defence,Slavjanka Petrovska,Q106707216,2022-01-16,female,1982-01-11,,,
+North Macedonia,Minister of Defence,Slavjanka Petrovska,Q106707216,2022-01-16,female,1982-01-11,,,Slavjanka Petrovska
 North Macedonia,Minister for the Diaspora,Xhemail Xhupi,Q110636434,2022-01-16,,,,,
 North Macedonia,Minister of Education and Science,Jeton Shaqiri,Q100605105,2022-01-16,male,1987-03-17,,,
 North Macedonia,Minister of the Environment and Physical Planning,Naser Nuredini,Q65617178,2019-06-26,male,1979-09-23,,,
@@ -4475,7 +4474,7 @@ Northern Ireland,Speaker of the Assembly,Alex Maskey,Q1116655,2020-01-11,male,19
 Northern Ireland,Lord Chief Justice,Siobhan Keegan,Q22083751,2021-09-02,female,,,,Siobhan Keegan
 Northern Ireland,Attorney General,Brenda King,Q102046160,2020-08-18,female,1964-06-13,,Brenda King 2020.jpg,Brenda King
 Norway,monarch,Harald V of Norway,Q57287,1991-01-17,male,1937-02-21,,King Harald V of Norway Trondheim2010- 1.jpg,Harald V of Norway
-Norway,Prime Minister,Jonas Gahr Støre,Q467948,2021-10-14,male,1960-08-25,,211103 Jonas Gahr Store Nordiska sessionen 9470 (51682347514) (cropped).jpg,Jonas Gahr Støre
+Norway,Prime Minister,Jonas Gahr Støre,Q467948,2021-10-14,male,1960-08-25,,Nordic prime ministers’ meeting in Helsinki 1.11.2022 - 52469398971 (cropped).jpg,Jonas Gahr Støre
 Norway,Minister of Agriculture and Food,Sandra Borch,Q13408025,2021-10-14,female,1988-04-23,,2020 stortingsrepresentant Sandra Borch portrett.jpg,Sandra Borch
 Norway,Minister of Children and Families,Kjersti Toppe,Q3432015,2021-10-14,female,1967-10-20,,"2017 Kjersti Toppe, stortingsrepresentant for Hordaland.jpg",Kjersti Toppe
 Norway,Minister of Climate and the Environment,Espen Barth Eide,Q267320,2021-10-14,male,1964-05-01,,Nordiskt-baltiskt statsministermote under Nordiska radets session i Helsingfors (1).jpg,Espen Barth Eide
@@ -4687,7 +4686,7 @@ Peru,Minister of the Interior,Víctor Rojas Herrera,Q115788977,2022-12-21,male,,
 Peru,Minister of Labour,Eduardo García,Q115692448,2022-12-13,male,,,,
 Peru,Minister of Production,Sandra Belaunde,Q115662600,2022-12-10,female,,,,
 Peru,Minister of Transportation and Communications,Paola Lazarte,Q115692294,2022-12-13,female,,,,
-Peru,Minister of Women and Vulnerable Populations,Grecia Rojas,Q115662877,2022-12-10,female,,,Grecia Rojas Ortiz (cropped).jpg,
+Peru,Minister of Women and Vulnerable Populations,Grecia Rojas Ortiz,Q115662877,2022-12-10,female,,,Grecia Rojas Ortiz (cropped).jpg,
 Peru,President of Congress,José Williams Zapata,Q105725109,2022-09-12,male,1951-11-09,,"José Williams, octubre de 2022 1 (cropped).jpg",José Williams
 Peru,Chairman of the Central Reserve Bank,Julio Velarde,Q5955848,2006-09-07,male,1952-07-01,,Julio Velarde.jpg,Julio Velarde
 Peru,President of the Supreme Court,Elvia Barrios,Q103860161,2021-01-04,female,,,Elvia Barrios Alvarado (cropped).jpg,
@@ -4792,42 +4791,42 @@ Portugal,Minister of Parliamentary Affairs,Ana Catarina Mendes,Q65498266,2022-03
 Portugal,Minister of the Presidency,Mariana Vieira da Silva,Q28973799,2022-03-30,female,1978-05-08,,"Mariana Vieira da Silva (Assim é Portugal), cropped.png",Mariana Vieira da Silva
 Portugal,"Minister for Science, Technology and Higher Education",Elvira Fortunato,Q10272093,2022-03-30,female,1964-07-22,,"Elvira Fortunato (27 femmes racontées par Emilie Broussouloux - Présidence Française du Conseil de l'Union Européenne), cropped.png",Elvira Fortunato
 Portugal,Minister for Territorial Cohesion,Ana Abrunhosa,Q72426658,2019-10-26,female,1970-07-04,,"Ana Abrunhosa (Sessão Solene do Feriado Municipal de Óbidos, 2020-01-11), cropped.png",Ana Abrunhosa
-Portugal,Deputy Minister for Justice,Jorge Alves Costa,Q115763587,2022-03-30,,,,,
+Portugal,Deputy Minister for Justice,Jorge Alves Costa,Q115763587,2022-03-30,male,1959-02-20,,,
 Portugal,Secretary of State Assistant to the Prime Minister,António Mendonça Mendes,Q115525434,2022-12-02,male,1976-12-19,,,
 Portugal,Secretary of State for Agriculture,Rui Martinho,Q108114839,2022-03-30,male,1963,,,
 Portugal,Secretary of State for Civil Protection,Patrícia Gaspar,Q108118394,2022-03-30,female,1973-09-09,,,
-Portugal,Secretary of State for Culture,Isabel Cordeiro,Q115763585,2022-03-30,,,,,
-Portugal,Secretary of State for Defence,Marco Capitão Ferreira,Q115763590,2022-03-30,,,,,
-Portugal,Secretary of State for Digitalisation and Administrative Modernisation,Mário Campolargo,Q115763592,2022-03-30,,,,,
+Portugal,Secretary of State for Culture,Isabel Cordeiro,Q115763585,2022-03-30,female,1966-06-20,,,
+Portugal,Secretary of State for Defence,Marco Capitão Ferreira,Q115763590,2022-03-30,male,1977,,,
+Portugal,Secretary of State for Digitalisation and Administrative Modernisation,Mário Campolargo,Q115763592,2022-03-30,male,1956,,,
 Portugal,Secretary of State for Education,António Leite,Q115763576,2022-03-30,male,1961-05-19,,,
 Portugal,Secretary of State for Environment and Energy,João Galamba,Q108120680,2022-03-30,male,1976-08-04,,"João Galamba, 2014.png",
 Portugal,Secretary of State for Equality and Migration,Isabel Rodrigues,Q101760216,2022-05-02,female,1965-02-03,,,
 Portugal,Secretary of State for European Affairs,Tiago Antunes,Q108114629,2022-03-30,male,1978-12-23,,,
-Portugal,Secretary of State for Finance,João Nuno Mendes,Q108120567,2022-12-02,male,,,,
+Portugal,Secretary of State for Finance,João Nuno Mendes,Q108120567,2022-12-02,male,1973,,,
 Portugal,Secretary of State for Fisheries,Teresa Coelho,Q108114805,2022-03-30,female,1970-05-08,,,
-Portugal,Secretary of State for Foreign Affairs and Cooperation,Francisco André,Q115763580,2022-03-30,,,,,
+Portugal,Secretary of State for Foreign Affairs and Cooperation,Francisco André,Q115763580,2022-03-30,male,1976-09-19,,,
 Portugal,Secretary of State for Health,Ricardo Mestre,Q115763595,2022-09-16,male,1978-01-30,,,
-Portugal,Secretary of State for Higher Education,Pedro Nuno Teixeira,Q115763593,2022-03-30,,,,,
+Portugal,Secretary of State for Higher Education,Pedro Nuno Teixeira,Q115763593,2022-03-30,male,1972-07-01,,,
 Portugal,Secretary of State for Home Affairs,Isabel Oneto,Q106952912,2022-03-30,female,1959-09-14,,Informal meeting of justice and home affairs ministers. Handshake (Home Affairs) Andres Anvelt and Isabel Oneto (34911237774) (cropped).jpg,Isabel Oneto
 Portugal,Secretary of State for Housing,Marina Gonçalves,Q108119897,2022-03-30,female,1988-04-23,,,
 Portugal,Secretary of State for Inclusion,Ana Sofia Antunes,Q110946505,2022-03-30,female,1981,,,Ana Sofia Antunes
-Portugal,Secretary of State for Infrastructure,Hugo Santos Mendes,Q115763582,2022-03-30,,,,,
+Portugal,Secretary of State for Infrastructure,Hugo Santos Mendes,Q115763582,2022-03-30,male,1976-07-15,,,
 Portugal,Secretary of State for International Trade and Foreign Investment,Bernardo Ivo Cruz,Q115763577,2022-03-30,male,1968-01,,,
-Portugal,Secretary of State for Justice,Pedro Tavares,Q115763594,2022-03-30,,,,,
-Portugal,Secretary of State for Labour,Miguel Fontes,Q115763591,2022-03-30,,,,,
+Portugal,Secretary of State for Justice,Pedro Tavares,Q115763594,2022-03-30,male,1978-05-22,,,
+Portugal,Secretary of State for Labour,Miguel Fontes,Q115763591,2022-03-30,male,1971-03-26,,,
 Portugal,Secretary of State for Local Administration and Land Planning,Carlos Manuel Soares Miguel,Q28973900,2022-03-30,male,1957-01-17,,,Carlos Miguel (politician)
-Portugal,Secretary of State for Maritime Affairs,José Maria Costa,Q115763589,2022-03-30,,,,,
+Portugal,Secretary of State for Maritime Affairs,José Maria Costa,Q115763589,2022-03-30,male,1961-03-05,,,
 Portugal,Secretary of State for Nature Conservation and Forests,João Paulo Catarino,Q108120866,2022-03-30,male,1969-09-23,,,
 Portugal,Secretary of State for Planning,Eduardo Pinheiro,Q115763579,2022-03-30,male,1979,,,
-Portugal,Secretary of State for Public Administration,Inês Ramires,Q115763584,2022-03-30,,,,,
-Portugal,Secretary of State for Regional Development,Isabel Ferreira,Q115763586,2022-03-30,,,,,
-Portugal,Secretary of State for Social Security,Gabriel Bastos,Q115763581,2022-03-30,,,,,
-Portugal,Secretary of State for Tax Affairs,Nuno Félix,Q115763613,2022-12-02,male,,,,
+Portugal,Secretary of State for Public Administration,Inês Ramires,Q115763584,2022-03-30,female,1980,,,
+Portugal,Secretary of State for Regional Development,Isabel C. F. R. Ferreira,Q43370959,2022-03-30,female,1974,,,
+Portugal,Secretary of State for Social Security,Gabriel Bastos,Q115763581,2022-03-30,male,1973-12-07,,,
+Portugal,Secretary of State for Tax Affairs,Nuno Félix,Q115763613,2022-12-02,male,1986,,,
 Portugal,"Secretary of State for Tourism, Trade and Services",Nuno Fazenda,Q107126993,2022-12-02,male,1976-10-24,,,
-Portugal,Secretary of State for Urban Mobility,Jorge Delgado,Q115763588,2022-03-30,,,,,
+Portugal,Secretary of State for Urban Mobility,Jorge Delgado,Q115763588,2022-03-30,male,1967-04-02,,,
 Portugal,Secretary of State for Youth and Sports,João Paulo Correia,Q107072031,2022-03-30,male,1976-09-28,,,
-Portugal,Secretary of State for the Budget,Sofia Batalha,Q115763596,2022-03-30,,,,,
-Portugal,Secretary of State for the Economy,Pedro Cilínio,Q115763627,2022-12-02,male,,,,
+Portugal,Secretary of State for the Budget,Sofia Batalha,Q115763596,2022-03-30,female,1988-06-04,,,
+Portugal,Secretary of State for the Economy,Pedro Cilínio,Q115763627,2022-12-02,male,1972-12-21,,,
 Portugal,Secretary of State for the Portuguese Communities,Paulo Cafôfo,Q14983130,2022-03-30,male,1971-05-18,,Paulo Cafôfo.jpg,Paulo Cafôfo
 Portugal,Secretary of State for the Presidency of the Council of Ministers,André Moz Caldas,Q115763575,2022-03-30,male,1982-07-24,,,
 Portugal,Secretary of State for the Promotion of Health,Margarida Mano,Q21290358,2022-09-16,female,1963-12-03,,,Margarida Mano
@@ -4860,7 +4859,7 @@ Qatar,Minister of State for Cabinet Affairs,Mohammed bin Abdullah bin Mohammed A
 Qatar,Speaker of the Shura Council,Hassan Abdulla Al-Ghanim,Q110183288,2021-10-26,male,1955,,,
 Qatar,Governor of the Central Bank,Bandar bin Mohamed bin Saud al-Thani,Q110183414,2021-11-17,male,,,,
 Qatar,Chief of Armed Forces,Salem bin Hamad bin Mohammed bin Aqeel Al Nabit,Q110183422,2021-10-19,male,,,,
-Romania,President,Klaus Iohannis,Q701484,2019-12-21,male,1959-06-13,,President Trump Meets with the President of Romania (48587349852) (cropped).jpg,Klaus Iohannis
+Romania,President,Klaus Iohannis,Q701484,2019-12-21,male,1959-06-13,,Клаус Йоханнис (52539721210).jpg,Klaus Iohannis
 Romania,Prime Minister,Nicolae Ciucă,Q28950289,2021-11-25,male,1967-02-07,,EPP Congress Rotterdam - Day 2 (52114589379).jpg,Nicolae Ciucă
 Romania,Deputy Prime Minister,Hunor Kelemen,Q923357,2020-12-23,male,1967-10-18,,KelemenHunorFotoThalerTamas.jpg,Hunor Kelemen
 Romania,Deputy Prime Minister,Sorin Grindeanu,Q19003460,2021-11-25,male,1973-12-05,,Sorin Grindeanu in Geneva - 2018 (25019917997) (cropped).jpg,Sorin Grindeanu
@@ -4891,7 +4890,7 @@ Romania,Governor of the National Bank,Mugur Isărescu,Q255022,2000-12-28,male,19
 Romania,Chief of the General Staff,Daniel Petrescu,Q90258002,2019-10-29,male,1971-01-26,,Daniel Petrescu in 2020.jpg,
 Romania,Mayor of Bucharest,Nicușor Dan,Q11163124,2020-10-29,male,1969-12-20,,Nicușor Dan candidatura bgiu.jpg,Nicușor Dan
 Romania,Prefect of Bucharest,Toni Greblă,Q18549788,2022-05-04,male,1953-12-30,,,
-Russia,President,Vladimir Putin,Q7747,2012-05-07,male,1952-10-07,,Владимир Путин (02-12-2022) (cropped).jpg,Vladimir Putin
+Russia,President,Vladimir Putin,Q7747,2012-05-07,male,1952-10-07,,Vladimir Putin 17-11-2021 (cropped).jpg,Vladimir Putin
 Russia,Prime Minister,Mikhail Mishustin,Q4298520,2020-01-16,male,1966-03-03,,Михаил Мишустин (30-03-2022) (cropped).jpg,Mikhail Mishustin
 Russia,First Deputy Prime Minister,Andrey Belousov,Q4082839,2020-01-21,male,1959-03-17,,2022 Andrei Belousov.png,Andrey Belousov
 Russia,Deputy Prime Minister,Yuri Trutnev,Q1320356,2013-08-31,male,1956-03-01,,Yury Trutnev (2019-12-19).jpg,Yury Trutnev
@@ -4931,7 +4930,7 @@ Russia,Director of the Federal Security Service,Alexander Bortnikov,Q516824,2008
 Russia,Secretary of the Security Council,Nikolai Patrushev,Q446865,2008-05-12,male,1951-07-11,,Nikolay Patrushev 2019.jpg,Nikolai Patrushev
 Russia,Prosecutor-General,Igor Krasnov,Q19908285,2020-01-22,male,1975-12-24,,11-03-2020 Igor Krasnov.png,Igor Krasnov
 Russia,Governor of the Central Bank,Elvira Nabiullina,Q74746,2013-06-24,female,1963-10-29,,Elvira Nabiullina 2017.jpg,Elvira Nabiullina
-Russia,Supreme Commander-in-Chief of the Armed Forces,Vladimir Putin,Q7747,2012-05-07,male,1952-10-07,,Владимир Путин (02-12-2022) (cropped).jpg,Vladimir Putin
+Russia,Supreme Commander-in-Chief of the Armed Forces,Vladimir Putin,Q7747,2012-05-07,male,1952-10-07,,Vladimir Putin 17-11-2021 (cropped).jpg,Vladimir Putin
 Russia,Chairman of the Federation Council,Valentina Matviyenko,Q182654,2011-09-21,female,1949-04-07,,В.И. Матвиенко.jpg,Valentina Matviyenko
 Russia,Chairman of the State Duma,Vyacheslav Volodin,Q982461,2016-12-05,male,1964-02-04,,Володин В.В.jpg,Vyacheslav Volodin
 Rwanda,President,Paul Kagame,Q1231345,2000-04-22,male,1957-10-23,,Paul Kagame MSC 2017.jpg,Paul Kagame
@@ -5113,10 +5112,10 @@ Scotland,Minister for Parliamentary Business,George Adam,Q1282862,2021-05-20,mal
 Scotland,"Minister for Public Finance, Planning and Community Wealth",Tom Arthur,Q24039804,2021-05-20,male,1985-10-01,,Tom Arthur.jpg,Tom Arthur (Scottish politician)
 Scotland,Minister for Public Health,Maree Todd,Q24034387,2021-05-20,female,,,Maree Todd MSP - May 2016.jpg,Maree Todd
 Scotland,Minister for Social Security and Local Government,Ben Macpherson,Q24052665,2021-05-20,male,,,BenMacphersonMSP-May2016.jpg,Ben Macpherson (politician)
-Scotland,Minister for Transport and Veterans,Jenny Gilruth,Q24026044,2022-01-24,female,,,"Jenny Gilruth, Minister for Europe and International Development (49565659756).jpg",Jenny Gilruth
+Scotland,Minister for Transport and Veterans,Jenny Gilruth,Q24026044,2022-01-24,female,1984,,"Jenny Gilruth, Minister for Europe and International Development (49565659756).jpg",Jenny Gilruth
 Scotland,"Minister for Zero Carbon Buildings, Active Travel and Tenants’ Rights",Patrick Harvie,Q2057654,2021-08-31,male,1973-03-18,,Patrick Harvie 2021.jpg,Patrick Harvie
 Scotland,Presiding Officer of the Scottish Parliament,Alison Johnstone,Q2647232,2021-05-13,female,1965-10-11,,Alison Johnstone MSP.jpg,Alison Johnstone
-Scotland,Lord Advocate,Dorothy Bain,Q5298300,2021-06-22,female,,,Official Portrait of Dorothy Bain QC.png,Dorothy Bain
+Scotland,Lord Advocate,Dorothy Bain,Q5298300,2021-06-22,female,1964,,Official Portrait of Dorothy Bain QC.png,Dorothy Bain
 Scotland,Advocate General,"Keith Stewart, Baron Stewart of Dirleton",Q101693608,2020-10-15,male,1965-10-31,,Keith Stewart 2020.jpg,"Keith Stewart, Baron Stewart of Dirleton"
 Scotland,Solicitor General,Ruth Charteris,Q107253258,2021-06-22,female,,,Official Portrait of Ruth Charteris QC.png,Ruth Charteris
 Scotland,Auditor General,Stephen Boyle,Q109513870,2020-07,male,,,,
@@ -5221,7 +5220,7 @@ Sierra Leone,Vice President,Mohamed Juldeh Jalloh,Q50242006,2018-04-04,male,1970
 Sierra Leone,Chief Minister,Jacob Jusu Saffa,Q107067181,2021-04-30,male,,,Jacob Jusu Saffa (cropped).jpg,Jacob Jusu Saffa
 Sierra Leone,Minister of Agriculture,Abu Bakarr Karim,Q113976801,2021-04-30,male,,,,
 Sierra Leone,Minister of Defence,Kellie Conteh,Q113976508,2019-11-20,male,,,,
-Sierra Leone,Minister of Education,David Sengeh,Q23728768,2019-11-20,male,,,David Moinina Sengeh in Boston in 2013.jpg,David Moinina Sengeh
+Sierra Leone,Minister of Education,David Sengeh,Q23728768,2019-11-20,male,,,David Moinina Sengeh in Boston in 2013 (cropped).jpg,David Moinina Sengeh
 Sierra Leone,Minister of Energy,Kanja Ibrahim Sesay,Q6363364,2018-05-04,male,1955,,,Kanja Sesay
 Sierra Leone,Minister of the Environment,Foday Jaward,Q113976499,2019-11-20,,,,,
 Sierra Leone,Minister of Finance,Denis Vandi,Q113976495,2021-05-07,,,,,
@@ -5303,7 +5302,7 @@ Slovakia,Chief of the General Staff,Daniel Zmeko,Q52110606,2018-05-07,male,1967-
 Slovakia,Governor of the National Bank,Peter Kažimír,Q552534,2019-06-01,male,1968-06-28,,Peter Kažimír (36400657164) crop.jpg,Peter Kažimír
 Slovakia,Mayor of Bratislava,Matúš Vallo,Q12771236,2018-12-07,male,1977-09-18,,Matúš Vallo. 2017.jpg,Matúš Vallo
 Slovenia,President,Nataša Pirc Musar,Q12797332,2022-12-22,female,1968-05-09,,Nataša Pirc Musar 02 (cropped).jpg,Nataša Pirc Musar
-Slovenia,Prime Minister,Robert Golob,Q18645045,2022-05-25,male,1967-01-23,,Novinarska konferenca po srečanju s predstavniki mladih in starejših (52278346723) (cropped).jpg,Robert Golob
+Slovenia,Prime Minister,Robert Golob,Q18645045,2022-05-25,male,1967-01-23,,Robert Golob december 2022.jpg,Robert Golob
 Slovenia,Deputy Prime Minister,Danijel Bešič Loredan,Q111341121,2022-06-01,male,1973-05-18,,Danijel Bešič Loredan - 52114942839 (cropped).jpg,Danijel Bešič Loredan
 Slovenia,Deputy Prime Minister,Luka Mesec,Q18627634,2022-06-01,male,1987-07-01,,"Minister za delo, družino, socialne zadeve in enake možnosti Luka Mesec (52294792105) (cropped).jpg",Luka Mesec
 Slovenia,Deputy Prime Minister,Tanja Fajon,Q462744,2022-06-01,female,1971-05-09,,Novinarska konferenca po seji vlade (52247013363) (cropped).jpg,Tanja Fajon
@@ -5743,7 +5742,7 @@ Syria,Chief of the General Staff,Abdul Karim Mahmoud Ibrahim,Q113989404,2022-04-
 Taiwan,President,Tsai Ing-wen,Q233984,2016-05-20,female,1956-08-31,,蔡英文官方元首肖像照.png,Tsai Ing-wen
 Taiwan,Vice President,Lai Ching-te,Q3847080,2020-05-20,male,1959-10-06,,賴清德市長.jpg,Lai Ching-te
 Taiwan,Premier,Su Tseng-chang,Q551904,2019-01-14,male,1947-07-28,,Su-DPP-Cropped.png,Su Tseng-chang
-Taiwan,Vice Premier,Shen Jong-chin,Q16150359,2020-06-19,male,1951,,Shen Jong-chin 20170919.jpg,Shen Jong-chin
+Taiwan,Vice Premier,Shen Jong-chin,Q16150359,2020-06-19,male,1951-08-27,,Shen Jong-chin 20170919.jpg,Shen Jong-chin
 Taiwan,Secretary General,Lee Meng-yen,Q38876935,2019-01-14,male,1966-12-12,,李孟諺之肖像.jpg,Li Meng-yen
 Taiwan,Minister of Agriculture,Chen Chi-chung,Q60431375,2019-01-14,male,1966-03-29,,Chen Ji-zhong.jpg,Chen Chi-chung
 Taiwan,Minister of Atomic Energy,Hsieh Shou-shing,Q28416621,2016-05-20,male,1950-12-08,,原能會主委謝曉星.jpg,Hsieh Shou-shing
@@ -5754,10 +5753,9 @@ Taiwan,Minister of Digital Affairs,Audrey Tang,Q15025,2022-08-27,female,1981-04-
 Taiwan,Minister of Economic Affairs,Wang Mei-hua,Q15918515,2020-06-19,female,1958-08-10,,Wang Mei-hua(2020)(cropped).jpg,Wang Mei-hua
 Taiwan,Minister of Education,Pan Wen-chung,Q23954823,2019-01-14,male,1962-11-28,,教育部長潘文忠 (cropped).jpg,Pan Wen-chung
 Taiwan,Minister of Environmental Protection,Chang Tzi-chin,Q16143196,2019-01,male,1949,,Chang Tzi-Chin official portrait EPA.jpg,Chang Tzi-chin
-Taiwan,Minister of Finance,Su Jain-rong,Q9340026,2018-07-16,male,1961-11-12,,"Jain-Rong,Su (cropped).jpg",Su Jain-rong
 Taiwan,Minister of Foreign Affairs,Joseph Wu,Q6288088,2018-02-26,male,1954-10-31,,吳釗燮外交部長.jpg,Joseph Wu
 Taiwan,Minister of Hakka Affairs,Yiong Con-ziin,Q8350699,2020-05-20,male,1963-04-22,,Yiong Con-ziin (cropped).jpg,Yiong Con-ziin
-Taiwan,Minister of Health and Welfare,Hsueh Jui-yuan,Q40272747,2022-07-18,male,,,Hsueh Jui-yuan (cropped).jpg,Hsueh Jui-yuan
+Taiwan,Minister of Health and Welfare,Hsueh Jui-yuan,Q40272747,2022-07-18,male,1955-06-17,,Hsueh Jui-yuan (cropped).jpg,Hsueh Jui-yuan
 Taiwan,Minister of Indigenous Affairs,Icyang Parod,Q8350030,2016-05-20,male,1960-12-02,,Icyang Parod 2018 (cropped).jpg,Icyang Parod
 Taiwan,Minister of Interior,Hua Jingqun,Q104723309,2022-12-07,male,,,,
 Taiwan,Minister of Justice,Tsai Ching-hsiang,Q55505798,2018-07-16,male,1953-01-15,,"Tsai Ching-hsiang, Minister of Justice.jpg",Tsai Ching-hsiang
@@ -6001,7 +5999,7 @@ Trinidad and Tobago,Minister of Health,Terrence Deyalsingh,Q107504625,2015-09-09
 Trinidad and Tobago,Minister of Housing and Urban Development,Camille Robinson-Regis,Q43901152,2022-03-16,female,1958-05-12,,,Camille Robinson-Regis
 Trinidad and Tobago,Minister of Labour,Stephen Mc Clashie,Q107504654,2015-09-09,male,,,,
 Trinidad and Tobago,Minister of National Security,Fitzgerald Hinds,Q107504795,2015-09-09,male,,,,
-Trinidad and Tobago,Minister of Planning and Development,Pennelope Beckles,Q37294256,2022-03-16,female,1961-09-12,,Pennelope Beckles-Robinson (cropped).jpg,Pennelope Beckles
+Trinidad and Tobago,Minister of Planning and Development,Pennelope Beckles-Robinson,Q37294256,2022-03-16,female,1961-09-12,,Pennelope Beckles-Robinson (cropped).jpg,Pennelope Beckles
 Trinidad and Tobago,Minister of Public Administration,Allyson West,Q107861285,2021-07-12,female,,,,
 Trinidad and Tobago,Minister of Public Utilities,Marvin Gonzales,Q107504750,2015-09-09,male,,,,
 Trinidad and Tobago,Minister of Rural Development and Local Government,Faris Al-Rawi,Q22279937,2022-03-16,male,1971-05-02,,"Faris Al-Rawi, 2017.png",Faris Al-Rawi
@@ -6203,7 +6201,7 @@ Ukraine,"Minister for Communities, Territories and Infrastructure Development",O
 Ukraine,Minister of Culture and Information Policy,Oleksandr Tkachenko,Q4458923,2020-06-04,male,1966-01-22,,Олександр Ткаченко.jpg,Oleksandr Tkachenko (journalist)
 Ukraine,Minister of Defence,Oleksii Reznikov,Q4392444,2021-11-04,male,1966-06-18,,Oleksii Reznikov (portrait).jpg,Oleksii Reznikov
 Ukraine,Minister of Digital Transformation,Mykhailo Fedorov,Q64495543,2020-03-04,male,1991-01-21,,Mykhailo Fedorov.jpg,Mykhailo Fedorov
-Ukraine,Minister of Ecology and Natural Resources,Ruslan Strilets,Q110234969,2021-11-04,male,1984-06-30,,Ruslan Strilets.jpg,Ruslan Strilets
+Ukraine,Minister of Ecology and Natural Resources,Ruslan Strilets,Q110234969,2021-11-04,male,1984-06-30,,Ruslan Strilets at COP15.jpg,Ruslan Strilets
 Ukraine,Minister of Economy,Yulia Svyrydenko,Q61112536,2021-11-04,female,1985-12-25,,Yulia Svyrydenko.jpg,Yulia Svyrydenko
 Ukraine,Minister of Education and Science,Serhiy Shkarlet,Q16723829,2020-06-25,male,1972-10-19,,Shkarlet.jpg,Serhiy Shkarlet
 Ukraine,Minister of Energy,Herman Halushchenko,Q106675676,2020-03-04,male,1973-05-01,,Заходи за участю Президента України у 36-ті роковини трагедії на ЧАЕС 32.jpg,German Galushchenko
@@ -6225,7 +6223,7 @@ Ukraine,Head of Kyiv City,Vitali Klitschko,Q31919,2014-06-05,male,1971-07-19,,20
 Ukraine,Governor of the National Bank,Andriy Pyshnyi,Q2689364,2022-10-07,male,1974-10-26,,НДУ 7 Пишний Андрій Григорович.jpg,
 Ukraine,Chief of the General Staff,Serhiy Shaptala,Q20070771,2021-07-28,male,1973-02-05,,Shaptala S O.jpg,Serhiy Shaptala
 Ukraine,Head of the Foreign Intelligence Service,Oleksandr Litvinenko,Q12118123,2021-07-27,male,1972-04-27,,,
-Ukraine,Head of the Security Service,Vasyl Malyuk,Q89191595,2022-07-18,male,1983-02-28,,Малюк.jpg,Vasyl Malyuk
+Ukraine,Head of the Security Service,Vasyl Malyuk,Q89191595,2022-07-18,male,1983-02-28,,,Vasyl Malyuk
 Ukraine,Secretary of the National Security and Defense Council,Oleksiy Danilov,Q4154638,2019-10-03,male,1962-09-07,,Oleksiy Danilov (cropped).jpg,Oleksiy Danilov
 Ukraine,Prosecutor General,Andriy Kostin,Q82025082,2022-07-27,male,1973-04-17,,Участь Президента України у пленарному засіданні Верховної Ради 002 (cropped).jpg,Andriy Kostin
 United Arab Emirates,President,Mohammed bin Zayed Al Nahyan,Q1951896,2022-05-14,male,1961-03-11,,Mohammed bin Zayed Al Nahyan - 2021 (51683733605) (cropped).jpg,Mohamed bin Zayed Al Nahyan
@@ -6247,12 +6245,12 @@ United Arab Emirates,Minister of Finance,Maktoum bin Mohammed Bin Rashid Al Makt
 United Arab Emirates,Minister of Foreign Affairs,Abdullah bin Zayed Al Nahyan,Q58301,2006-02-09,male,1972-04-30,,Abdullah bin Zayed Al Nahyan in London - 2018 (29653209427) (cropped).jpg,Abdullah bin Zayed Al Nahyan
 United Arab Emirates,Minister of Health,Abdul Rahman Mohammed Al Oweis,Q20740526,2013-03-12,male,1967,,AbdulRahman Bin Mohamed Al Owais.jpg,Abdul Rahman Mohammed Al Owais
 United Arab Emirates,Minister of Human Resources and Emiratisation,Abdulrahman Al Awar,Q113380141,2021-09-25,male,,,,
-United Arab Emirates,Minister of Industry and Advanced Technology,Sultan Al Jaber,Q17148626,2020-07,male,,,Sultan Al Jaber.jpg,Sultan Al Jaber
+United Arab Emirates,Minister of Industry and Advanced Technology,Sultan Al Jaber,Q17148626,2020-07,male,1973-08-31,,Sultan Al Jaber.jpg,Sultan Al Jaber
 United Arab Emirates,Minister of the Interior,Saif bin Zayed Al Nahyan,Q7400024,2004-11-01,male,1968,,Saif bin Zayed Al Nahyan.jpg,Saif bin Zayed Al Nahyan
 United Arab Emirates,Minister of Justice,Abdullah Sultan Al Nuaimi,Q113379892,2021-09,male,1976,,,
 United Arab Emirates,Minister of Presidential Affairs,Mansour bin Zayed Al Nahyan,Q556607,2009-11-01,male,1970-11-20,,Sheikh Mansour shaking the hand of Michael Spindelegger (crop).jpg,Mansour bin Zayed Al Nahyan
 United Arab Emirates,Minister of Tolerance and Coexistence,Nahyan bin Mubarak Al Nahyan,Q1746137,2017-10-20,male,,,Nahyan Bin Mubarak Al Nahyan.jpg,Nahyan bin Mubarak Al Nahyan
-United Arab Emirates,Minister of State for Advanced Technology,Sarah Amiri,Q28714779,2017-10-19,female,1987,,Sarah Amiri - Sustaining the Space Economy - 2019 (48177030097) (cropped).jpg,Sarah Al Amiri
+United Arab Emirates,Minister of State for Advanced Technology,Sarah Amiri,Q28714779,2017-10-19,female,1987,,Sarah Amiri - Sustaining the Space Economy - 2019 (48177030097) (cropped again).jpg,Sarah Al Amiri
 United Arab Emirates,Minister of State for Artificial Intelligence,Omar AlOlama,Q55433162,2017-10-20,male,1990-02-16,,,Omar Al Olama
 United Arab Emirates,Minister of State for Defence Affairs,Mohammed bin Ahmad Al Bowardi,Q113380172,2016-02,male,,,,
 United Arab Emirates,Minister of State for Early Education,Sara Musallam,Q113380112,2022-05-22,female,,,,

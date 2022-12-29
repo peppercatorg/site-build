@@ -1,4 +1,5 @@
 catalog,id,name,relationship,relative,relativename
+Azerbaijan,Q104439628,Jalal Mirzayev,father,Q13489525,Sabir S. Mirzoev
 Azerbaijan,Q112651,Polad Bulbuloghlu,father,Q1131312,Bulbul
 Azerbaijan,Q112651,Polad Bulbuloghlu,mother,Q12835443,Adelaida Memmedova
 Azerbaijan,Q12839554,Flora Qasımova,relative,Q16370201,Mirza Mahammad Akhundzadeh
@@ -34,7 +35,10 @@ Azerbaijan,Q4134808,Kamaladdin Heydarov,father,Q16367961,Fəttah Heydərov
 Azerbaijan,Q4167611,Ziyad Aliabbas oglu Samadzade,child,Q16364871,Aygun Samedzade
 Azerbaijan,Q4281251,Misir Mardanov,father,Q99211544,Jumayil Mardanov
 Azerbaijan,Q4670613,Abulfaz Garayev,father,Q12842459,Mursal Garayev
+Azerbaijan,Q4694411,Agshin Mehdiyev,father,Q12849696,Shafayat Mehdiyev
 Azerbaijan,Q5018584,Sabir Rustamkhanli,spouse,Q16375290,Tənzilə Rüstəmxanlı
+Azerbaijan,Q5638373,Hafiz Pashayev,father,Q2598226,Mir Jalal Pashayev
+Azerbaijan,Q5638373,Hafiz Pashayev,sibling,Q4347519,Arif Pashayev
 Azerbaijan,Q57371,Ilham Aliyev,child,Q106103307,Heydar Aliyev
 Azerbaijan,Q57371,Ilham Aliyev,child,Q23683242,Arzu Aliyeva
 Azerbaijan,Q57371,Ilham Aliyev,child,Q298532,Leyla Aliyeva
@@ -45,9 +49,14 @@ Azerbaijan,Q57371,Ilham Aliyev,spouse,Q671930,Mehriban Aliyeva
 Azerbaijan,Q57549,Vasif Talibov,child,Q111508994,Seymur Talibov
 Azerbaijan,Q57549,Vasif Talibov,child,Q97688367,Rza Talibov
 Azerbaijan,Q57618,Artur Rasizade,father,Q12846346,Tahir Rasizadə
+Azerbaijan,Q57960011,Mir-Hamza Efendiyev,child,Q61121932,Nəzrin Əfəndiyeva
+Azerbaijan,Q57960011,Mir-Hamza Efendiyev,father,Q12843206,Nazim Afandiyev
+Azerbaijan,Q57960011,Mir-Hamza Efendiyev,mother,Q47483394,Adilia Aliyeva
+Azerbaijan,Q57960011,Mir-Hamza Efendiyev,spouse,Q82057633,Sevil Amirova
 Azerbaijan,Q58083,Elmar Mammadyarov,father,Q4279892,Maharram Mammadyarov
 Azerbaijan,Q64739163,Ali Naghiyev,child,Q89188278,Ilham Nagiyev
 Azerbaijan,Q64739163,Ali Naghiyev,sibling,Q61122496,Mahirə Nağıqızı
+Azerbaijan,Q6496067,Latif Gandilov,father,Q12845684,Seyfəddin Qəndilov
 Azerbaijan,Q671930,Mehriban Aliyeva,child,Q23683242,Arzu Aliyeva
 Azerbaijan,Q671930,Mehriban Aliyeva,child,Q298532,Leyla Aliyeva
 Azerbaijan,Q671930,Mehriban Aliyeva,father,Q4347519,Arif Pashayev
@@ -56,3 +65,5 @@ Azerbaijan,Q671930,Mehriban Aliyeva,spouse,Q57371,Ilham Aliyev
 Azerbaijan,Q84818043,Elnur M. Allahverdiyev,father,Q110104112,Marat Allahverdiyev
 Azerbaijan,Q93356661,Nizami Səfərov,sibling,Q16371792,Niyazi Səfərov
 Azerbaijan,Q96002133,Faraj Guliyev,child,Q100165763,Matin Guliyev
+Azerbaijan,Q97688367,Rza Talibov,father,Q57549,Vasif Talibov
+Azerbaijan,Q97688367,Rza Talibov,sibling,Q111508994,Seymur Talibov

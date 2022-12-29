@@ -1,6 +1,7 @@
 catalog,id,name,relationship,relative,relativename
 New Zealand,Q1047359,Michael Hardie Boys,father,Q106687730,Reginald Hardie Boys
 New Zealand,Q1047359,Michael Hardie Boys,spouse,Q65093869,Mary Zohrab
+New Zealand,Q109550782,Adrian Orr,spouse,Q43639459,Sue Orr
 New Zealand,Q1396178,Winston Peters,mother,Q90844250,Joan Peters
 New Zealand,Q1396178,Winston Peters,sibling,Q5982592,Ian Peters
 New Zealand,Q1396178,Winston Peters,sibling,Q6197475,Jim Peters
@@ -21,6 +22,7 @@ New Zealand,Q19876617,Dalton Tagelagi,father,Q7408006,Sam Pata Emani Tagelagi
 New Zealand,Q23498274,Patsy Reddy,spouse,Q23799191,David Gascoigne
 New Zealand,Q241638,Silvia Cartwright,spouse,Q63323215,Peter Cartwright
 New Zealand,Q2622925,Michael Cullen,spouse,Q104639563,Lowson Anne Collins
+New Zealand,Q27950864,Michael Wood,spouse,Q114564424,Julie Fairey
 New Zealand,Q2899642,Sian Elias,child,Q114797108,Ned Fletcher
 New Zealand,Q2899642,Sian Elias,spouse,Q9385312,Hugh Fletcher
 New Zealand,Q2989309,Terepai Maoate,spouse,Q12826225,Lord

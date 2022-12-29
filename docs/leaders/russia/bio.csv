@@ -222,7 +222,7 @@ Q106730823,Evgeniy Nifantiev,male,1978-09-14,11,,,NifantievEA.jpg,Evgeny Nifanti
 Q106734231,Larisa Ponomaryova,female,1949-07-01,11,,,,Larisa Ponomaryova
 Q106778328,Vladimir Nikitov,male,1951-09-04,11,,,,
 Q106814366,Elena Tsunaeva,female,1969-01-13,11,,,Tzunaeva.jpg,Elena Tsunaeva
-Q106838707,Yulia Ogloblina,female,1989-11-01,11,,,Депутат Госдумы Юлия Оглоблина.jpg,Yulia Ogloblina
+Q106838707,Yulia Ogloblina,female,1989-11-01,11,,,,Yulia Ogloblina
 Q106957740,Aleksandr Karpov,male,1966-02-07,11,,,,
 Q107015074,Amir Gallyamov,male,1970-05-09,11,,,,
 Q107084045,Olga Zabralova,female,1980-03-30,11,,,Olga Zabralova.jpg,
@@ -231,7 +231,7 @@ Q107262941,Evgeny Arnoldovich Stanislavov,male,1960-02-18,11,,,,
 Q107295383,Artem Metelev,male,1993-08-11,11,,,Артем Павлович Метелев.jpg,Artem Metelev
 Q107296540,Alexander Skachkov,male,1960-11-21,11,,,Скачков АА 001.jpg,Alexander Skachkov
 Q107311193,Alexey Nechayev,male,1966-08-30,11,,,Alexey Nechayev (2021-09-25).jpg,Alexey Nechayev
-Q107349503,"Бойцов, Лев Николаевич",male,1947-12-10,11,,,,
+Q107349503,Lev Boytsov,male,1947-12-10,11,,,,
 Q107408140,Eduard Vasilishin,male,1967-08-12,11,,,,
 Q107500799,Yury Sivkov,male,1953-12-14,11,2007-10-14,11,,
 Q107542723,Badma Bashankayev,male,1978-06-16,11,,,Badma Bashankaev.jpg,Badma Bashankayev
@@ -245,7 +245,7 @@ Q107720910,Valery Shnyakin,male,1951-06-05,11,,,Валерий Шнякин 3101
 Q107722232,Nikolai Pozhitkov,male,1947-09-30,11,,,,
 Q107727528,Aleksandr Tishchenko,male,1949-12-01,11,,,,
 Q107733892,Vladimir Sysolyatin,male,1957-05-25,11,,,,
-Q107740914,"Хутанов, Леонид Александрович",male,1947-01-01,11,2016-02,10,,
+Q107740914,Leonid Khutanov,male,1947-01-01,11,2016-02,10,,
 Q108040998,Andrey Artyukhov,male,1958-04-18,11,,,,
 Q108044859,Vyacheslav Damdintsurunov,male,1977-09-21,11,,,Вячеслав Анатольевич Дамдинцурунов.jpg,Vyacheslav Damdintsurunov
 Q108056765,Larisa Tyurina,female,1950-03-03,11,,,,
@@ -303,7 +303,7 @@ Q108686518,Ekaterina Stenyakina,female,1985-05-04,11,,,Стенякина Ека
 Q108686559,Nikolay Goncharov,male,1984-01-13,11,,,,Nikolay Goncharov
 Q108687302,Petr Ammosov,male,1966-09-22,11,,,,Petr Ammosov
 Q108687404,Oleg Mikhailov,male,1987-01-06,11,,,Михайлов Олег Алексеевич (duma.gov.ru).jpg,Oleg Mikhailov (politician)
-Q108691440,Roza Chemeris,female,1978-06-11,11,,,,Roza Chemeris
+Q108691440,Roza Chemeris,female,1978-06-11,11,,,"Russian politician Roza Chemeris (December 5, 2022).jpg",Roza Chemeris
 Q108692129,Yuliya Lazutkina,female,1981-03-11,11,,,LazutkinaJuV.jpg,
 Q108696445,Alexey Volotskov,male,1981-07-05,11,,,Волоцков Алексей Анатольевич.png,Alexey Volotskov
 Q108736966,Andrey Kislov,male,1958-08-29,11,,,,
@@ -376,7 +376,7 @@ Q108915854,Muslim Tatriev,male,1980-01-11,11,,,,Muslim Tatriev
 Q108915868,Renat Sulejmanov,male,1965-12-24,11,,,SulejmanovRI.jpg,Renat Suleymanov
 Q108915942,Kaplan Panesh,male,1974-09-04,11,,,Kaplan Panesh.jpg,Kaplan Panesh
 Q108915979,Vladimir Koshelev,male,1974-10-01,11,,,,Vladimir Koshelev
-Q108916651,"Вишняков, Виталий Евгеньевич",male,1940-05-02,11,,,,
+Q108916651,Vitaly Vishnyakov,male,1940-05-02,11,,,,
 Q108920334,Nikolai Vladimirov,male,1979-01-18,11,,,,
 Q108926569,Ruslan Lechkhadzhiev,male,1965-07-02,11,,,,Ruslan Lechkhadzhiev
 Q108929249,Andrey Kuznetsov,male,1972-05-29,11,,,,Andrey Kuznetsov (politician)
@@ -405,7 +405,7 @@ Q110895639,Nikolai Fedoryak,male,1949-09-11,11,,,,
 Q110930331,Vasily Sondykov,male,1945-01-09,11,,,,
 Q110930397,Gennady Savinov,male,1947-04-10,11,,,,
 Q110930441,Yevgeny Petelin,male,1953-05-18,11,,,,
-Q111022958,"Шойжилжапов, Владимир Дымбрылович",male,1965-09-25,11,,,,
+Q111022958,Vladimir Shoyzhilzhapov,male,1965-09-25,11,,,,
 Q111033873,Vladimir Lipaev,male,1959-02-06,11,,,,
 Q111208570,Rustem Shiyanov,male,1971-04-14,11,,,,
 Q111210303,Aleksandr Kalita,male,1949-03-28,11,,,,
@@ -418,8 +418,7 @@ Q111219076,Aleksandr Golovanchikov,male,1945-08-22,11,,,,
 Q111261580,Sergey Anokhin,male,1964-05-16,11,,,,
 Q111275322,Aleksandr Bespalov,male,1950-04-13,11,,,,
 Q111286524,Gennady Shirokonosov,male,1945-07-29,11,,,,
-Q111287441,"Шарандин, Юрий Афанасьевич",male,1952-04-13,11,,,,
-Q111287774,"Сухотерин, Леонид Янкович",male,1966-12-16,11,,,,
+Q111287774,Leonid Sukhoterin,male,1966-12-16,11,,,,
 Q111289999,Vladimir Spitsnadel,male,1951-09-24,11,,,,
 Q111290571,Igor Glukhovsky,male,1960-10-09,11,,,,
 Q111292794,Aleksey Klishin,male,1957-08-13,11,,,,
@@ -428,12 +427,12 @@ Q111310572,Yury Zasko,male,1954-07-21,11,,,,
 Q111310726,Gennady Oleynik,male,1947-08-02,11,,,,
 Q111310793,Vasily Klyuchenok,male,1948-12-25,11,,,,
 Q111310867,Yury Gurdin,male,1960-08-11,11,,,,
-Q111376879,"Соломонов, Владимир Каримуллович",male,1954-12-12,11,,,,
+Q111376879,Vladimir Solomonov,male,1954-12-12,11,,,,
 Q111377122,Aleksandr Suvorov,male,1943-03-30,11,2022-01-13,11,,Adamovich Alexander Suvorov
 Q111377487,Viktor Pichugov,male,1958-05-29,11,,,,
 Q111378045,Oleg Tolkachyov,male,1948-11-18,11,,,,
-Q111378536,"Одинцов, Михаил Викторович",male,1963-11-08,11,,,,
-Q111378846,"Биндар, Леонид Иосифович",male,1940-08-29,11,,,,
+Q111378536,Mikhail Odintsov,male,1963-11-08,11,,,,
+Q111378846,Leonid Bindar,male,1940-08-29,11,,,,
 Q111379219,Viktor Mironov,male,1946-12-13,11,,,,
 Q111383847,Aleksey Kostyukov,male,1967-09-24,11,,,Kostyukov A.jpg,
 Q111383871,Vadim Artyukhov,male,1972-09-13,11,,,,
@@ -451,7 +450,11 @@ Q112119215,Alexander Kurenkov,male,1972-06-02,11,,,Emergency Minister Alexander 
 Q112992858,"Алипов, Денис Евгеньевич",,1970-08-07,11,,,,
 Q113468866,Oksana Khlyakina,female,1969-11-28,11,,,Хлякина Оксана Владимировна.jpg,
 Q1138430,Vladimir Ustinov,male,1953-02-25,11,,,RIAN archive 628836 Prosecutor General Vladimir Ustinov.jpg,Vladimir Ustinov
+Q114203423,"Шептий, Виктор Анатольевич",male,1965-12-25,11,,,Виктор анатольевич шептий.jpg,
+Q114315304,"Шендерюк-Жидков, Александр Владимирович",male,1982-11-25,11,,,,
 Q1143350,Yegor Stroyev,male,1937-02-25,11,,,Yegor Stroyev 2007.jpg,Yegor Stroyev
+Q114741963,"Назаренко, Виталий Викторович",male,1977-02-11,11,,,,
+Q114878503,"Трембицкий, Александр Александрович",male,1987-10-28,11,,,,
 Q114986685,Andrey Parfenov,male,1976-04-10,11,,,,
 Q115280763,Yuri Klimenko,male,,,,,,
 Q1153239,Yuri Merzlyakov,male,1949-04-09,11,,,"Merzljakov, Juri.IMG 4112.JPG",Yuri Merzlyakov
@@ -1674,7 +1677,7 @@ Q4306739,Marina Mukabenova,female,1982-03-20,11,,,Marina Mukabenova.jpg,Marina M
 Q4307657,Sergey Muravlenko,male,1950-03-02,11,,,Sergey Muravlenko.jpg,
 Q4308714,Vitaly Mukha,male,1936-05-17,11,2005-05-22,11,Vitaly Mukha.jpg,Vitaly Mukha
 Q4308760,Farit Mukhametshin,male,1947,9,,,Фарит Мубаракшевич Мухаметшин.jpg,
-Q4308762,Färit Möxämmätşin,male,1947-05-22,11,,,Farid Mukhametshin (gossov.tatarstan.ru).jpg,Farid Mukhametshin
+Q4308762,Farid Mukhametshin,male,1947-05-22,11,,,Farid Mukhametshin (gossov.tatarstan.ru).jpg,Farid Mukhametshin
 Q4309028,Zelimkhan Mutsoyev,male,1959-10-13,11,,,Зелимхан Аликоевич Муцоев.jpg,Zelimkhan Mutsoev
 Q4311566,Grigoriy Mihaylovich Naginskiy,male,1958-06-16,11,,,Grigory Naginsky.jpg,Grigory Naginsky
 Q4311880,Boris Nadezhdin,male,1963-04-26,11,,,Boris Nadezhdin.jpg,Boris Nadezhdin
@@ -1801,6 +1804,7 @@ Q4397824,Yury Roslyak,male,1954-01-19,11,,,Росляк Юрий Виталье�
 Q4398757,Maksim Rokhmistrov,male,1968-01-05,11,,,Maxim Rohmistrov.jpg,Maksim Rokhmistrov
 Q4399366,Igor Rudenskiy,male,1962-09-11,11,,,Igor Rudenskiy Jan2015 RT Moscow.jpg,Igor Rudensky
 Q4399707,Georgiy Roedov,male,1939-05-01,11,2021-11-14,11,Рудов Г.А. 1.jpg,Georgiy Roedov
+Q4400210,Aleksandr Rusakov,male,1959-09-30,11,,,Alexander Rusakov.jpg,
 Q4400897,Aleksey Russkikh,male,1968-07-17,11,,,Alexey Russkih.jpg,Aleksey Russkikh
 Q4401418,Yuly Rybakov,male,1946-02-25,11,,,Yuly Rybakov.jpg,Yuly Rybakov
 Q4401906,Konstantin Rykov,male,1979-05-27,11,,,Rykov ki.jpg,Konstantin Rykov
@@ -1961,6 +1965,7 @@ Q4514340,Alexey Chernyshyov,male,1939-03-28,11,,,Alexey Chernyshev.jpg,Alexey Ch
 Q4514356,Mikhail Chernyshyov,male,1950-03-06,11,,,"Михаил Анатольевич Чернышёв, мэр Ростова-на-Дону.jpg",
 Q4514964,Aleksandr Chetverikov,male,1972-06-08,11,,,Aleksandr Chetverikov.jpg,
 Q4515253,Anatoliy Georgievitsj Tsjechoev,male,1950-04-20,11,,,,
+Q4515766,Vladimir Chizhov,male,1953-12-03,11,,,2022 Vladimir Chizhov.jpg,
 Q4515877,Valentin Chikin,male,1932-01-25,11,,,Valentin Chikin.jpg,
 Q4517717,Aleksandr Viktorovitsj Tsjoeev,male,1965-08-27,11,,,,
 Q4517811,Konstantin Chuychenko,male,1965-07-12,11,,,Konstantin Chuychenko (2021-05-19).jpg,Konstantin Chuychenko
@@ -2194,6 +2199,7 @@ Q56310238,Rauf Arashukov,male,1986-06-23,11,,,Rauf Arashukov.jpg,
 Q56311119,Oleg Melnichenko,male,1973-05-21,11,,,Мельниченко О.В.jpg,Oleg Melnichenko
 Q56314778,"Давлетова, Камиля Жаудатовна",female,1962-10-21,11,,,,
 Q56418611,Viktor Peshkov,male,1945-10-28,11,,,Viktor Peshkov.jpg,
+Q56651232,Nataliya Nikonorova,female,1984-09-28,11,,,Наталья Никонорова 2016 (cropped 2).jpg,Nataliya Nikonorova
 Q56653637,Andrey Kuzmin,male,1959-09-21,11,,,Андрей Альбертович Кузьмин.jpg,
 Q5666313,Aleksey Kvasov,male,1956-04-10,11,,,,
 Q56668990,Alexander Sherin,male,1977-06-21,11,,,Alexander Sherin 2018.jpg,
@@ -2206,6 +2212,7 @@ Q569362,Eduard Rossel,male,1937-10-08,11,,,Eduard Rossel 2018.jpg,Eduard Rossel
 Q57201361,Vladimir Katenev,male,1955-07-26,11,,,KatenevV.jpg,
 Q57204406,Sergey Leonov,male,1983-05-09,11,,,Sergey Leonov.jpg,Sergey Leonov
 Q57206655,Yevgeny Serebrennikov,male,1954-04-22,11,,,Evgeny Serebrennikov.jpg,
+Q57588106,Alexander Ananchenko,male,1966-02-02,11,,,Александр Ананченко (cropped).jpg,Alexander Ananchenko
 Q57735,Alexander Zhukov,male,1956-06-01,11,,,Alexander Zhukov 2018-07-12.jpg,Alexander Zhukov
 Q581931,Nikolay Makarov,male,1949-10-07,11,,,Nikolai Makarov 1.jpg,Nikolay Yegorovich Makarov
 Q58217,Sergey Lavrov,male,1950-03-21,11,,,Sergey Lavrov 17.03.2010.jpeg,Sergey Lavrov
@@ -2411,6 +2418,7 @@ Q65160365,Evgeniy Rulkov,male,1950-03-09,11,2021-03-09,11,Evgeniy Rulkov.jpg,
 Q65170763,Sergey Ivanov,male,1952-04-19,11,,,,Sergey Ivanov (Saint Petersburg politician)
 Q65170800,Mikhail Kozlov,male,1958-03-26,11,,,,
 Q65171976,Yury Chaplin,male,1955-02-02,11,,,,
+Q65497983,Yuri Sharandin,male,1952-04-13,11,,,,
 Q65499051,Valery Parfenov,male,1954-05-16,11,,,,
 Q65768417,Anastasia Udalcova,female,1978-09-02,11,,,Встреча с депутатом ГД Рашкиным 29.07.2021 02 Анастасия Удальцова.jpg,Anastasia Udaltsova
 Q661432,Valery Vostrotin,male,1952-11-20,11,,,Vostrotin V.A.JPG,
@@ -2477,7 +2485,7 @@ Q74746,Elvira Nabiullina,female,1963-10-29,11,,,Elvira Nabiullina 2017.jpg,Elvir
 Q75330465,Vladimir Lakunin,male,1962-10-04,11,,,,Vladimir Lakunin
 Q76446687,Dmitry Priyatnov,male,1978-07-27,11,,,,
 Q768958,Stanislav Osadchiy,male,1951-01-26,11,,,Stanislav Osadchy.jpg,Stanislav Osadchiy
-Q7747,Vladimir Putin,male,1952-10-07,11,,,Владимир Путин (02-12-2022) (cropped).jpg,Vladimir Putin
+Q7747,Vladimir Putin,male,1952-10-07,11,,,Vladimir Putin 17-11-2021 (cropped).jpg,Vladimir Putin
 Q78975673,"Кульмухаметов, Энгельс Варисович",male,1951-10-01,11,,,,
 Q79107557,Alexey Lvovich Savatyugin,male,1970-06-25,11,,,Саватюгин А.Л.jpg,
 Q7910816,Valentin Sviridov,male,1967-12-12,11,,,Valentin Sviridov.jpg,Valentin Sviridov
@@ -2544,7 +2552,7 @@ Q91725122,Mikhail Everestov,male,1958-04-16,11,,,Mikhail Everestov.jpg,
 Q91892933,Gulnara Sergeeva,female,1960-06-05,11,,,Сергеева Гульнара Ильдусовна.jpg,
 Q91963355,Флюра Газизовна Зиятдинова,female,1947-02-18,11,2011-03-01,11,,
 Q91964849,Nadezda Orlova,female,1980,9,,,Орлова Надежда Павловна.jpg,
-Q91964869,"Гвоздева, Светлана Николаевна",female,1950-05-24,11,,,,
+Q91964869,Svetlana Gvozdeva,female,1950-05-24,11,,,,
 Q91966365,"Пирожникова, Людмила Владимировна",female,1958,9,,,,
 Q91966368,Tatiana Dubrovskaya,female,1969-09-19,11,,,Дубровская Татьяна Борисовна.jpg,
 Q91966370,Yuliya Peskovskaya,female,1956-07-10,11,,,Песковская Юлия Анатольевна.jpg,
@@ -2575,6 +2583,7 @@ Q96695270,"Васильев, Максим Игоревич",male,1968-04-15,11,,
 Q967028,Sholban Kara-ool,male,1966-07-18,11,,,Sholban Kara-ool (2016-03-03).jpg,Sholban Kara-ool
 Q96739536,Nikolay Sukhoy,male,1941-03-05,11,,,"Сухой, Николай Авксентьевич, депутат ГД.jpg",
 Q96945068,"Никитин, Владимир Петрович",male,1951-05-11,11,,,,
+Q97160743,"Хапочкин, Андрей Алексеевич",male,1967-10-07,11,,,,
 Q97164300,Aleksandr Narolin,male,1972-06-27,11,,,Александр Наролин.jpg,
 Q97178702,Aleksandr Bloshkin,male,1955-03-30,11,,,Alexander Ivanovich Bloshkin.jpg,
 Q97180835,"Зайцев, Константин Борисович",male,1970-01-09,11,,,,
@@ -2628,6 +2637,7 @@ Q99199318,"Черкесова, Виктория Валерьевна",female,198
 Q99205776,"Данилова, Нина Петровна",female,1947-05-08,11,,,,
 Q99210054,"Лебедева, Марина Яковлевна",female,1964-07-12,11,,,,
 Q99210737,Natalia Ermakova,female,1957-05-19,11,,,Ermakova NA.jpg,
+Q99238214,Александр Терентьев,male,1961-06-13,11,,,Aleksandr-Mikhaylovich-Terentyev.jpg,
 Q99312041,Alexey Zolotaryov,male,1960-02-15,11,,,Alexey Zolotaryov (2020-09-22) (cropped).jpg,
 Q99337563,"Салихов, Альберт Ильдусович",male,1962-01-25,11,,,Salikhov Albert Ildusovich.jpg,
 Q99337571,"Alexander Kozlovsky (politician, born 1944)",male,1944-09-01,11,,,Kozlovsky Alexander Alexandrovich.jpg,"Alexander Kozlovsky (politician, born 1944)"

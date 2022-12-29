@@ -29,6 +29,8 @@ Scotland,Q1681420,Jamie Stone,spouse,Q75639056,Florence Kathleen Margaret Armstr
 Scotland,Q16849685,James Wolffe,spouse,Q18163522,"Sarah P. L. Wolffe, Lady Wolffe"
 Scotland,Q1685871,Jean Urquhart,spouse,Q1609787,Robert Urquhart
 Scotland,Q1726790,Siobhan McMahon,father,Q2439870,Michael McMahon
+Scotland,Q1740370,Kezia Dugdale,spouse,Q24026044,Jenny Gilruth
+Scotland,Q24026044,Jenny Gilruth,spouse,Q1740370,Kezia Dugdale
 Scotland,Q24034308,Oliver Mundell,father,Q333520,David Mundell
 Scotland,Q24034376,Ruth Maguire,father,Q1495635,John Finnie
 Scotland,Q24034422,Alexander Burnett,child,Q75568027,Amaryllis Burnett
@@ -84,6 +86,7 @@ Scotland,Q505043,"Andrew Hardie, Baron Hardie",father,Q76086177,Andrew Rutherfor
 Scotland,Q505043,"Andrew Hardie, Baron Hardie",mother,Q76086178,Elizabeth Currie Lowe
 Scotland,Q505043,"Andrew Hardie, Baron Hardie",spouse,Q76054701,Catherine Storray Elgin
 Scotland,Q511689,Wendy Alexander,sibling,Q259106,Douglas Alexander
+Scotland,Q5298300,Dorothy Bain,spouse,Q4707940,Alan Turnbull
 Scotland,Q559022,Fergus Ewing,mother,Q334015,Winnie Ewing
 Scotland,Q559022,Fergus Ewing,sibling,Q564093,Annabelle Ewing
 Scotland,Q559022,Fergus Ewing,spouse,Q333903,Margaret Ewing

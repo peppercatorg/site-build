@@ -58,6 +58,7 @@ European Union,Q11774224,Daniel Kroupa,child,Q12037121,Mikuláš Kroupa
 European Union,Q1177587,Mircea Diaconu,spouse,Q12726648,Diana Lupescu
 European Union,Q11797891,Olga Sehnalová,mother,Q12042541,Olga Sehnalová
 European Union,Q11813593,Patryk Jaki,sibling,Q84221392,Filip Jaki
+European Union,Q1183377,Deirdre Clune,father,Q2073804,Peter Barry
 European Union,Q11860,Silvio Berlusconi,child,Q18235147,Luigi Berlusconi
 European Union,Q11860,Silvio Berlusconi,child,Q25210469,Eleonora Berlusconi
 European Union,Q11860,Silvio Berlusconi,child,Q3634593,Barbara Berlusconi
@@ -180,6 +181,7 @@ European Union,Q1399049,Ignasi Guardans,sibling,Q19300189,Jordi Guardans i Camb�
 European Union,Q1399049,Ignasi Guardans,sibling,Q77249788,Rafael Guardans Cambó
 European Union,Q1399405,Raymond Langendries,child,Q2896562,Benoît Langendries
 European Union,Q1399412,Paul-Marie Coûteaux,father,Q518093,André Couteaux
+European Union,Q1405662,Gay Mitchell,sibling,Q1689168,Jim Mitchell
 European Union,Q1417369,Robert Goebbels,child,Q91911559,Joanne Goebbels
 European Union,Q1428443,Ioannis Varvitsiotis,child,Q12881047,Miltiades Varvitsiotis
 European Union,Q1428443,Ioannis Varvitsiotis,father,Q12881046,Miltiádis Varvitsiótis
@@ -960,6 +962,8 @@ European Union,Q930324,Indrek Tarand,father,Q463099,Andres Tarand
 European Union,Q930324,Indrek Tarand,mother,Q12369753,Mari Tarand
 European Union,Q930324,Indrek Tarand,sibling,Q12365921,Kaarel Tarand
 European Union,Q932720,Karol Karski,spouse,Q97275938,Elżbieta Karska
+European Union,Q935787,Niall Andrews,father,Q7812247,Todd Andrews
+European Union,Q935787,Niall Andrews,sibling,Q1111220,David Andrews
 European Union,Q935962,Paul Vergès,child,Q3086620,Françoise Vergès
 European Union,Q935962,Paul Vergès,child,Q3219565,Laurent Vergès
 European Union,Q935962,Paul Vergès,child,Q3387256,Pierre Vergès
@@ -1011,5 +1015,5 @@ European Union,Q980319,Per Gahrton,father,Q5749503,Arnold Gahrton
 European Union,Q980319,Per Gahrton,sibling,Q5749509,Gösta Gahrton
 European Union,Q980319,Per Gahrton,spouse,Q19756499,Ulla Lemberg
 European Union,Q981321,Ole Krarup,father,Q55949570,Per Krarup
-European Union,Q981486,Patrick Le Hyaric,child,Q40435441,Steven Le Hyaric
+European Union,Q981486,Patrick Le Hyaric,child,Q40435441,Stéven Le Hyaric
 European Union,Q981866,Pat the Cope Gallagher,relative,Q7123388,Paddy Gallagher
