@@ -239,7 +239,7 @@ Q10897037,刘三秋,female,1961,9,,,,
 Q10897048,刘乃兰,,1946,9,,,,
 Q10897053,刘义发,male,1941,9,,,,
 Q10897057,刘乔英,female,1962,9,,,,
-Q10897069,刘云志,,1964,9,,,,
+Q10897069,Liu Yunzhi,,1964,9,,,,
 Q10897070,刘云海,,1954,9,,,,
 Q10897071,刘云生,,1950,9,,,,
 Q10897078,刘亦铭,,1940,9,,,,
@@ -3027,7 +3027,7 @@ Q16906854,董雅娟,,1964,9,,,,
 Q16906855,董风华,,1959,9,,,,
 Q16906857,蒋乾麟,,1954,9,,,,
 Q16906858,蒋仁富,male,1953,9,,,,
-Q16906859,Jiang Hualiang,male,1965,9,,,,
+Q16906859,Jiang Hualiang,male,1965,9,2022-12-23,11,,Jiang Hualiang
 Q16906860,蒋厚琳,female,1958,9,,,,
 Q16906862,蒋如铭,,1947,9,,,,
 Q16906863,蒋安荣,male,1959,9,,,,
@@ -3174,7 +3174,7 @@ Q16907147,谢正观,,1953,9,,,,
 Q16907148,谢正谊,,1984,9,,,,
 Q16907150,谢泉,,1964,9,,,,
 Q16907152,谢渡扬,,1949,9,,,,
-Q16907153,谢炳,male,1951,9,,,,
+Q16907153,Tse Ping,male,1952-01-03,11,,,,
 Q16907157,谢碧玲,,1954,9,,,,
 Q16907158,谢经荣,,1962,9,,,,
 Q16907160,谢舒雯,,1975,9,,,,
@@ -3361,7 +3361,7 @@ Q16907453,郄秀书,,1963,9,,,,
 Q16907454,郅慧,,1971,9,,,,
 Q16907455,郎剑钊,,1954,9,,,,
 Q16907457,Zheng Yajun,male,1961,9,,,,Zheng Yajun
-Q16907458,郑人豪,male,1968,9,,,,Zheng Renhao
+Q16907458,Zheng Renhao,male,1968,9,,,,Zheng Renhao
 Q16907459,郑军里,,1957,9,,,,
 Q16907461,郑奎城,,1964,9,,,,
 Q16907463,郑小燕,,1953,9,,,,
@@ -4186,6 +4186,7 @@ Q16924093,Pauline Ngan Po-ling,female,,,,,,Pauline Ngan Po-ling
 Q16924185,王树山,,1957,9,,,,
 Q16924192,王方,female,1983,9,,,,
 Q16924515,李长进,,,,,,,
+Q16924567,Wang Weizhong,male,1962-03,10,,,,Wang Weizhong
 Q16924612,Wang Fuyu,male,1952,9,,,,Wang Fuyu
 Q16924651,王开文,,1955,9,,,,
 Q16924664,Wang Changyi,male,1936,9,,,,Wang Changyi
@@ -4452,6 +4453,7 @@ Q17164028,朱法臣,,1949-08,10,2011-06-23,11,,
 Q17164036,Shuguang,male,1950,9,,,,
 Q17164038,林永青,,1951-05,10,2011-06-17,11,,
 Q17164090,Mou Benli,male,1946-05,10,2010-11-24,11,,
+Q17164274,Xie Feng,male,1964,9,,,"U.S. Secretary of State John Kerry is greeted by Xie Feng, China's Director General of the Ministry of Foreign Affairs for North America, upon his arrival in Beijing, China, on April 13, 2013.jpg",Xie Feng (diplomat)
 Q17164341,马廷礼,male,1963-02,10,,,,
 Q17164570,He Li,male,1962,9,,,,
 Q1733077,Pagbalha Geleg Namgyai,male,1939,9,,,1965-3 1965年 帕巴拉·格列朗杰.jpg,Pagbalha Geleg Namgyai
@@ -4691,6 +4693,7 @@ Q24835950,吴慧琴,female,1936,9,,,,
 Q24836008,Qui Minjie,male,1953,9,,,,
 Q24836036,许舒亚,,1961-05-12,11,,,,
 Q24836411,Yao Zhongmin,male,1952,9,,,,Yao Zhongmin
+Q24836746,Zhang Hanhui,male,1963-10,10,,,Zhang Hanhui.jpg,Zhang Hanhui
 Q24837484,Tan Runhua,male,1958,9,,,,
 Q24837820,姜洋,,1956,9,,,,
 Q24837976,王群,male,1961,9,,,,
@@ -4795,6 +4798,7 @@ Q28418365,乙先,,1959,9,,,,
 Q28418475,龔俊龍,,1959,9,,,2020年龚俊龙正在演讲.jpg,
 Q28418858,李晓明,,1957,9,,,,
 Q2861472,8th Arjia Rinpoche,male,1950,9,,,8th Arjia Rinpoche.jpg,8th Arjia Rinpoche
+Q2884266,Zhang Guoguang,male,1945,9,,,,Zhang Guoguang
 Q28858143,Li Wenke,male,1956,9,,,,Li Wenke
 Q28868430,Jin Suidong,male,1954-01,10,,,,Jin Suidong
 Q28868508,Lin Zhongqin,male,1957,9,,,,
@@ -4821,6 +4825,7 @@ Q30941565,金鉴,male,1932,9,,,,
 Q30941797,Xu Guang,male,1960,9,,,,Xu Guang
 Q30942947,库尔班·艾尔西丁,male,1947,9,,,,
 Q30943318,张韵声,male,1964,9,,,,
+Q30943929,Liu Ning,male,1962-01,10,,,Liu Ning.jpg,Liu Ning
 Q30944121,崔保华,male,1958,9,,,,
 Q30944123,刘捷,male,1957,9,,,,
 Q30944233,孟庆丰,,1957,9,,,,
@@ -4932,10 +4937,12 @@ Q4269580,"Лунёв, Николай Иванович",male,1965,9,,,,
 Q4271313,Liu Peng,male,1951-09-22,11,,,,Liu Peng (politician)
 Q4276510,You Quan,male,1954-01-23,11,,,You Quan in 2014.jpg,You Quan
 Q4276774,Guo Shengkun,male,1954-10,10,,,Guo Shengkun 2015.jpg,Guo Shengkun
+Q428597,Zhang Wenyue,male,1944-10,10,,,,Zhang Wenyue
 Q430911,Peng Liyuan,female,1962-11-20,11,,,Peng Liyuan.jpg,Peng Liyuan
 Q4356267,Zhao Zhengyong,male,1951-03,10,,,Zhao Zhengyong.jpg,Zhao Zhengyong
 Q4368021,James Tien,male,1947-01-08,11,,,James Tien cut.jpg,James Tien (politician)
 Q43879270,Liu Qiang (born 1964),male,1964,9,,,,Liu Qiang (born 1964)
+Q4391452,Zhang Zhijun,male,1953-02,10,,,"Msc 2006-Sunday, 11.00 - 13.00-Zhang.jpg",Zhang Zhijun
 Q440516,Li Bin,female,1954-10-04,11,,,Minister Li Bin.jpg,Li Bin (politician)
 Q440527,Uyunqimg,female,1942-12,10,,,,Uyunqimg
 Q4414390,Li Qiang,male,1959-07-23,11,,,,Li Qiang
@@ -7471,7 +7478,7 @@ Q9141470,Xu Guoping,male,1962,9,,,,Xu Guoping
 Q9141530,Xu Jingren,male,1944,9,2021-07-12,11,,Xu Jingren
 Q9141539,徐长江,,1951,9,,,,
 Q9141642,'jam dbyangs thub bstan rgya mtsho,male,1944,9,,,,
-Q9142144,Huai Jinpeng,male,1962,9,,,Han Zheng (2018-09-18) 01.jpg,Huai Jinpeng
+Q9142144,Huai Jinpeng,male,1962-12-20,11,,,Han Zheng (2018-09-18) 01.jpg,Huai Jinpeng
 Q9142302,Chapel Tseten Puntsok,male,1922-10,10,2013-08,10,,Chapel Tseten Puntsok
 Q9142346,惠凯,,1964,9,,,,
 Q9142549,Mu Ping,male,1952,9,,,,
@@ -7550,7 +7557,7 @@ Q9192706,朱景利,,1964,9,,,,
 Q9192772,Zhu Shuguang,male,1944,9,,,,
 Q9192806,Pollyanna Chu,female,1958-08-03,11,,,,Pollyanna Chu
 Q9192862,朱民阳,male,1956,9,,,,
-Q9192924,Zhu Zhihong,male,1933,9,,,,Zhu Zhihong
+Q9192924,Zhu Zhihong,male,1933,9,2022-12-20,11,,Zhu Zhihong
 Q9193050,朱海燕,female,1957,9,,,,
 Q9193273,朱瑞莲,female,1965,9,,,,
 Q9193352,朱立秋,,1967,9,,,,
@@ -7579,7 +7586,7 @@ Q9198473,Li Jiayang,male,1956,9,,,Professor Jiayang Li ForMemRS.jpg,Li Jiayang
 Q9198565,Li Ronggen,male,1950,9,,,,
 Q9198738,Li Shaoping,male,1956,9,,,,
 Q9198834,李峰,male,1953,9,,,,
-Q9199002,李庆忠,,1930,9,,,,
+Q9199002,Li Qingzhong,male,1930,9,2022-12-26,11,,Li Qingzhong
 Q9199287,Li Yinquan,male,1955,9,,,,Li Yinquan
 Q9200547,路国贤,male,1954,9,,,,
 Q9200761,茅善玉,,1962-01-10,11,,,,
