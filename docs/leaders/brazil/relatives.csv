@@ -2,7 +2,9 @@ catalog,id,name,relationship,relative,relativename
 Brazil,Q10270312,Edison Lobão,child,Q10270313,Edison Lobão Filho
 Brazil,Q10270312,Edison Lobão,spouse,Q10336687,Nice Lobão
 Brazil,Q10271244,Elcione Barbalho,spouse,Q3806086,Jader Barbalho
+Brazil,Q10279146,Fabio Faria,father,Q10363489,Robinson Faria
 Brazil,Q10279146,Fabio Faria,spouse,Q10346160,Patrícia Abravanel
+Brazil,Q10288607,Geddel Vieira Lima,sibling,Q23822820,Lúcio Vieira Lima
 Brazil,Q10293167,Rodrigo Maia,father,Q324174,Cesar Maia
 Brazil,Q10304453,Ivo Gomes,father,Q56347811,José Euclides Ferreira Gomes Júnior
 Brazil,Q10304453,Ivo Gomes,sibling,Q5119489,Cid Gomes
@@ -70,13 +72,24 @@ Brazil,Q10396106,Ângela Amin,child,Q19710163,João Amin
 Brazil,Q10396106,Ângela Amin,spouse,Q2738543,Esperidião Amin
 Brazil,Q1053159,Celso Amorim,child,Q10347309,Pedro Amorim
 Brazil,Q1053159,Celso Amorim,child,Q3556914,Vicente Amorim
+Brazil,Q105939031,Anielle Franco,sibling,Q50542097,Marielle Franco
 Brazil,Q110161239,Eduardo Rocha,child,Q110161866,Maria Eduarda Tebet
 Brazil,Q110161239,Eduardo Rocha,child,Q110161900,Maria Fernanda Tebet Rocha
 Brazil,Q110161239,Eduardo Rocha,spouse,Q10371678,Simone Tebet
+Brazil,Q112071182,Rosângela Lula da Silva,spouse,Q37181,Luiz Inácio Lula da Silva
+Brazil,Q112407628,Eduardo Riedel,child,Q113627520,Marcela Riedel
+Brazil,Q112407628,Eduardo Riedel,child,Q113627524,Rafael Riedel
+Brazil,Q112407628,Eduardo Riedel,father,Q113627553,Nelson Riedel
+Brazil,Q112407628,Eduardo Riedel,mother,Q113627544,Seila Garcia Côrrea
+Brazil,Q112407628,Eduardo Riedel,spouse,Q113627504,Mônica Riedel
+Brazil,Q115058424,Jerônimo,sibling,Q111699569,Marta Rodrigues
+Brazil,Q115945653,Jader Barbalho Filho,father,Q3806086,Jader Barbalho
+Brazil,Q115945653,Jader Barbalho Filho,sibling,Q3784499,Helder Barbalho
 Brazil,Q13164197,Lúcio Alcântara,child,Q60197745,Leo Alcântara
 Brazil,Q13164197,Lúcio Alcântara,father,Q10388716,Waldemar de Alcântara
 Brazil,Q13164197,Lúcio Alcântara,spouse,Q60196695,Beatriz Alcântara
 Brazil,Q16336601,André Soares,father,Q2468342,Romildo Ribeiro Soares
+Brazil,Q16336687,Antonio Brito,father,Q10270887,Edvaldo Pereira de Brito
 Brazil,Q16336893,Bernardo Ribas Carli,father,Q10320542,Luis Fernando Ribas Carli
 Brazil,Q16337792,Lúcia Braga,spouse,Q10393782,Wilson Braga
 Brazil,Q16939988,Colbert Martins,father,Q9794435,Colbert Martins da Silva
@@ -120,8 +133,10 @@ Brazil,Q236503,Fernando Collor de Mello,relative,Q9022737,Lindolfo Collor
 Brazil,Q236503,Fernando Collor de Mello,sibling,Q2840174,Pedro Collor de Mello
 Brazil,Q236503,Fernando Collor de Mello,spouse,Q61013721,Caroline Serejo Medeiros Collor de Mello
 Brazil,Q236503,Fernando Collor de Mello,spouse,Q7367319,Rosane Collor
+Brazil,Q23822820,Lúcio Vieira Lima,sibling,Q10288607,Geddel Vieira Lima
 Brazil,Q2384480,Joaquim Roriz,spouse,Q10393423,Weslian Roriz
 Brazil,Q23883203,Newton Cardoso Jr,father,Q10336590,Newton Cardoso
+Brazil,Q23893555,Félix Mendonça Júnior,father,Q27835309,Félix de Almeida Mendonça
 Brazil,Q24040303,Rubens Pereira Júnior,father,Q30931624,Rubens Pereira e Silva
 Brazil,Q244997,José Sarney,child,Q10281520,Fernando Sarney
 Brazil,Q244997,José Sarney,child,Q3050853,Roseana Sarney
