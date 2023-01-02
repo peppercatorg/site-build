@@ -2,7 +2,7 @@ catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 France,President,Jacques Chirac,Q2105,1995-05-17,2007-05-16,male,1932-11-29,2019-09-26,Jacques Chirac (1997) (cropped).jpg,Jacques Chirac
 France,President,Nicolas Sarkozy,Q329,2007-05-16,2012-05-15,male,1955-01-28,,Nicolas Sarkozy in 2010.jpg,Nicolas Sarkozy
 France,President,François Hollande,Q157,2012-05-15,2017-05-14,male,1954-08-12,,Francois Hollande 2015.jpeg,François Hollande
-France,President,Emmanuel Macron,Q3052772,2017-05-14,,male,1977-12-21,,"Зустріч Президента України з президентами Франції та Румунії, а також головами урядів Німеччини та Італії 76 (cropped).jpg",Emmanuel Macron
+France,President,Emmanuel Macron,Q3052772,2017-05-14,,male,1977-12-21,,Emmanuel Macron June 2022 (cropped).jpg,Emmanuel Macron
 France,Prime Minister,Lionel Jospin,Q187099,1997-06-03,2002-05-06,male,1937-07-12,,"Lionel Jospin, mai 2014, Rennes, France (cropped).jpg",Lionel Jospin
 France,Prime Minister,Jean-Pierre Raffarin,Q63263,2002-05-06,2005-05-31,male,1948-08-03,,Jean-Pierre Raffarin par Claude Truong-Ngoc 2013.jpg,Jean-Pierre Raffarin
 France,Prime Minister,Dominique de Villepin,Q131660,2005-05-31,2007-05-17,male,1953-11-14,,Dominique de Villepin (2010).jpg,Dominique de Villepin
@@ -86,7 +86,7 @@ France,"Minister of the Economy, Finances and Industry",Michel Sapin,Q713296,201
 France,"Minister of the Economy, Finances and Industry",Michel Sapin,Q713296,2016-12-06,2017-05-15,male,1952-04-09,,Michel sapin mars 2015-wikipedia1 (cropped).jpg,Michel Sapin
 France,"Minister of the Economy, Finances and Industry",Bruno Le Maire,Q993472,2017-05-15,2017-06-21,male,1969-04-15,,Bruno Le Maire par Claude Truong-Ngoc novembre 2014.jpg,Bruno Le Maire
 France,"Minister of the Economy, Finances and Industry",Bruno Le Maire,Q993472,2017-06-21,,male,1969-04-15,,Bruno Le Maire par Claude Truong-Ngoc novembre 2014.jpg,Bruno Le Maire
-France,"Minister of Economy, Industry and Digital",Emmanuel Macron,Q3052772,2014-08-26,2016-08-30,male,1977-12-21,,"Зустріч Президента України з президентами Франції та Румунії, а також головами урядів Німеччини та Італії 76 (cropped).jpg",Emmanuel Macron
+France,"Minister of Economy, Industry and Digital",Emmanuel Macron,Q3052772,2014-08-26,2016-08-30,male,1977-12-21,,Emmanuel Macron June 2022 (cropped).jpg,Emmanuel Macron
 France,Minister for Energy Transition,Agnès Pannier-Runacher,Q33230494,2022-05-20,,female,1974-06-19,,Agnès Pannier-Runacher portrait 2.jpg,Agnès Pannier-Runacher
 France,Minister of Europe and Foreign Affairs,Catherine Colonna,Q273396,2005-06-02,2007-05-15,female,1956-04-16,,FM - meeting with French Ambassador to the UK (49561267367) (cropped 2).jpg,Catherine Colonna
 France,Minister of Europe and Foreign Affairs,Jean-Yves Le Drian,Q559040,2017-05-17,2017-06-21,male,1947-06-30,,"Reuven Rivlin at a meeting with Jean-Yves Le Drian, March 2018 (9730) (cropped).jpg",Jean-Yves Le Drian
@@ -119,7 +119,6 @@ France,"Minister of Higher Education, Research and Innovation",Claude Allègre,Q
 France,"Minister of Higher Education, Research and Innovation",Frédérique Vidal,Q28950190,2017-05-17,2022-05-20,female,1964-05-09,,Frédérique Vidal - 2019 (cropped).jpg,Frédérique Vidal
 France,"Minister of Higher Education, Research and Innovation",Sylvie Retailleau,Q47498954,2022-05-20,,female,1965-02-24,,Sylvie Retailleau 2018 (crop).jpg,Sylvie Retailleau
 France,Minister of the Interior,Jean-Pierre Chevènement,Q736502,1998-12-30,2000-08-29,male,1939-03-09,,2014-07-14 11-07-47 defile-militaire-belfort (cropped).jpg,Jean-Pierre Chevènement
-France,Minister of the Interior,Natan Sharansky,Q360961,1999-07-06,2000-07-11,male,1948-01-20,,Natan Shernasky1.JPG,Natan Sharansky
 France,Minister of the Interior,Daniel Vaillant,Q1905371,2000-08-29,2002-05-07,male,1949-07-19,,Daniel Vaillant1 (5).JPG,Daniel Vaillant
 France,Minister of the Interior,Nicolas Sarkozy,Q329,2002-05-07,2002-06-17,male,1955-01-28,,Nicolas Sarkozy in 2010.jpg,Nicolas Sarkozy
 France,Minister of the Interior,Nicolas Sarkozy,Q329,2002-06-17,2004-03-30,male,1955-01-28,,Nicolas Sarkozy in 2010.jpg,Nicolas Sarkozy
@@ -158,6 +157,7 @@ France,Minister of Justice,Nicole Belloubet,Q11984595,2017-06-21,2020-07-06,fema
 France,Minister of Justice,Éric Dupond-Moretti,Q3591105,2020-07-06,,male,1961-04-20,,"Éric Dupond-Moretti, 2018 (cropped).jpg",Éric Dupond-Moretti
 France,Minister of Labour,Xavier Bertrand,Q203793,2007-05-18,2009-01-15,male,1965-03-21,,2015-01-28 20-03-01 meeting-ump-seloncourt (cropped).jpg,Xavier Bertrand
 France,Minister of Labour,Xavier Bertrand,Q203793,2010-11-14,2012-05-10,male,1965-03-21,,2015-01-28 20-03-01 meeting-ump-seloncourt (cropped).jpg,Xavier Bertrand
+France,Minister of Labour,Michel Sapin,Q713296,2012-05-16,2014-04-02,male,1952-04-09,,Michel sapin mars 2015-wikipedia1 (cropped).jpg,Michel Sapin
 France,Minister of Labour,Muriel Pénicaud,Q3328127,2017-05-17,2020-07-06,female,1955-03-31,,Portrait Muriel Pénicaud (cropped).jpg,Muriel Pénicaud
 France,Minister of Labour,Élisabeth Borne,Q20020731,2020-07-06,2022-05-16,female,1961-04-18,,Elisabeth Borne November 2022 close-up.jpg,Élisabeth Borne
 France,Minister of Labour,Olivier Dussopt,Q2020823,2022-05-16,,male,1978-08-16,,Olivier Dussopt.jpg,Olivier Dussopt
@@ -355,7 +355,7 @@ France,ambassador to Antigua and Barbuda,Philippe Ardanaz,Q50363775,2016-10-28,,
 France,ambassador to Argentina,Frédéric du Laurens,Q3089590,2006,2009,male,1948-02-25,,,
 France,ambassador to Argentina,Jean-Pierre Asvazadourian,Q28065388,2009,2013,male,1961-12-05,,,
 France,ambassador to Argentina,Jean-Michel Casa,Q1685069,2013,2016,male,1957-08-01,,Jean-Michel Casa 2016 (cropped).jpg,
-France,ambassador to Argentina,Pierre-Henri Guignard,Q28065398,2016,,male,1953-04-03,,,
+France,ambassador to Argentina,Pierre-Henri Guignard,Q28065398,2016,,male,1956-04-03,,,
 France,ambassador to Argentina,Claudia Scherer-Effosse,Q50691011,2019-08-12,,female,1966-12-04,,Macri recibió credenciales de embajadores - Claudia Scherer-Effosse (cropped).jpg,
 France,ambassador to Armenia,Henry Cuny,Q41334426,2003,2006,male,1948,,,
 France,ambassador to Armenia,Jean-François Charpentier,Q54322351,2014,2017,male,,,,
@@ -807,6 +807,7 @@ France,ambassador to Morocco,Philippe Faure,Q3379827,2004,2006,male,1950-06-13,,
 France,ambassador to Morocco,Charles Fries,Q25301468,2012,2015,male,1962-12-30,,,
 France,ambassador to Morocco,Jean-François Girault,Q1683992,2015,,male,1956-02-20,,,
 France,ambassador to Morocco,Hélène Le Gal,Q31189795,2019,,female,1967-04-21,,Hélène Le Gal.jpg,
+France,ambassador to Morocco,Christophe Lecourtier,Q33122330,2022-12,,male,1962-11-03,,Christophe Lecourtier.jpg,
 France,ambassador to Mozambique,Thierry Viteau,Q33220326,2005,2008,male,,,,
 France,ambassador to Myanmar,Bernard Amaudric du Chaffaut,Q54863249,1999-06-07,2003-10-11,male,,,,
 France,ambassador to Myanmar,Jean-Michel Lacombe,Q106515523,2003-10-11,2007-06-28,male,1942-04-05,,,

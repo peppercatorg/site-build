@@ -1,7 +1,7 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q100166502,AM Amin Uddin,male,1962,9,,,,AM Amin Uddin
 Q107213763,Shaikh Abdul Hannan,male,1963-08-01,11,,,,Shaikh Abdul Hannan
-Q108574819,Abdur Rouf Talukder,male,1964,9,,,,Abdur Rouf Talukder
+Q108574819,Abdur Rouf Talukder,male,1964-08-15,11,,,,Abdur Rouf Talukder
 Q109332101,Harun-Ar-Rashid,male,,,,,,M Harun-Ar-Rashid
 Q11206567,Iqbal Karim Bhuiyan,male,1957-07-02,11,,,সেনাপ্রধান জেনারেল ইকবাল করিম ভূঁইয়া.jpg,Iqbal Karim Bhuiyan
 Q11686698,Arif Khan Joy,male,1978-06-15,11,,,,Arif Khan Joy
@@ -90,7 +90,7 @@ Q26924492,Ismat Ara Sadique,female,1942-12-12,11,2020-01-21,11,Ismat Ara Sadique
 Q26924592,Mohammad Sayedul Haque,male,1942-03-04,11,2017-12-16,11,,Mohammad Sayedul Haque
 Q26924678,Shamsur Rahman Sherif,male,1941-03-12,11,2020-04-02,11,,Shamsur Rahman Sherif
 Q26924682,Qamrul Islam,male,1950-06-01,11,,,,Qamrul Islam
-Q26924694,M A Mannan,male,1946,9,,,M A Mannan (2) (cropped).jpg,Muhammad Abdul Mannan
+Q26924694,M A Mannan,male,1946-02-16,11,,,M A Mannan (2) (cropped).jpg,Muhammad Abdul Mannan
 Q26924748,Zahid Maleque,male,1959-04-11,11,,,Zahid Maleque.jpg,Zahid Maleque
 Q26924752,Mashiur Rahaman Ranga,male,1958-07-22,11,,,,Mashiur Rahaman Ranga
 Q26924761,Narayon Chandra Chanda,male,1945-03-12,11,,,,Narayon Chandra Chanda
@@ -101,7 +101,7 @@ Q26997545,Baby Maudud,female,1948-06-23,11,2014-07-25,11,,Baby Maudud
 Q27016832,Enamul Bari,male,,,,,এয়ার মার্শাল (অব.) মোহাম্মদ ইনামুল বারী (১).jpg,Enamul Bari
 Q27044020,Mozibur Rahman Fakir,male,1947-01-07,11,2016-05-02,11,,Mozibur Rahman Fakir
 Q27044021,Promode Mankin,male,1939-04-18,11,2016-05-11,11,Promod Mankin - Kolkata 2011-05-09 2862.JPG,Promode Mankin
-Q27063150,Nuruzzaman Ahmed,male,1950,9,,,Nuruzzaman Ahmed MP.jpg,Nuruzzaman Ahmed
+Q27063150,Nuruzzaman Ahmed,male,1950-01-03,11,,,Nuruzzaman Ahmed MP.jpg,Nuruzzaman Ahmed
 Q27063153,Saifuzzaman Chowdhury,male,1969-02-18,11,,,,Saifuzzaman Chowdhury
 Q27063199,Rajiuddin Ahmed Raju,male,1944-02-02,11,,,Rajiuddin Ahmed Raju by ROY (cropped).jpg,Rajiuddin Ahmed Raju
 Q27063242,Shamsul Hoque Tuku,male,1948-05-31,11,,,Shamsul Hoque Tuku in 2012.jpg,Shamsul Hoque Tuku
@@ -429,6 +429,7 @@ Q60194777,Talukdar Mohammad Towhid Jung Murad,male,1971,9,,,,Talukdar Mohammad T
 Q60194779,Benzir Ahmed,male,1952,9,,,,Benzir Ahmed
 Q60203123,Jafar Iqbal Siddiki,male,1953,9,,,,Jafar Iqbal Siddiki
 Q60441145,Md. Abdul Wahhab Miah,male,1951-11-11,11,,,Abdul Wahhab Miah (01).jpg,Md. Abdul Wahhab Miah
+Q60523996,Gias Uddin Ahmed,male,1954-05-09,11,2022-09-05,11,,Gias Uddin Ahmed
 Q61112078,Nasimul Alam Chowdhury,male,1967,9,,,,Nasimul Alam Chowdhury
 Q61341512,Chhabi Biswas,male,1951-05-26,11,,,,Chhabi Biswas (politician)
 Q62782978,Golam Mostafa Ahmed,male,1951,9,2017,9,,Golam Mostafa Ahmed
@@ -439,6 +440,7 @@ Q6311615,Zunaid Ahmed Palak,male,1980-05-17,11,,,Zunaid Ahmed Palak - Dhaka 2015
 Q63348258,Muhammad Serajul Akbar,male,1944,9,2015-03-09,11,,Muhammad Serajul Akbar
 Q6400209,Khandaker Mosharraf Hossain,male,1942-09-29,11,,,"Awami League politician Khandaker Mosharraf Hossain in New Delhi on January 12, 2011.jpg",Khandaker Mosharraf Hossain
 Q6400211,Khandaker Mosharraf Hossain,male,1946-10-01,11,,,Khandaker Mosharraf Hossain.jpg,Khandaker Mosharraf Hossain (BNP)
+Q64536501,Rumeen Farhana,female,1981-08-19,11,,,Rumeen Farhana.jpg,Rumeen Farhana
 Q65029288,Liyakot Hossain Khoka,male,1964,9,,,,Liyakot Hossain Khoka
 Q66141625,SM Rezaul Karim,male,1962,9,,,SM Rezaul Karim.png,SM Rezaul Karim
 Q66817788,SM Shafiuddin Ahmed,male,1963-12-01,11,,,এস এম শফিউদ্দিন আহমেদ.jpg,SM Shafiuddin Ahmed
@@ -469,7 +471,7 @@ Q7645405,Suranjit Sengupta,male,1945-05-05,11,2017-02-05,11,,Suranjit Sengupta
 Q7812953,Tofail Ahmed,male,1943-10-22,11,,,TofailAhmed2014.jpg,Tofail Ahmed (politician)
 Q8046660,Yafes Osman,male,1946-05-01,11,,,Yeafesh Osman (01113699) (9822714675) (cropped).jpg,Yeafesh Osman
 Q8064679,Zahir Uddin Ahmed,male,1957,9,,,"Vice Admiral Zahir Uddin Ahmed in New Delhi on July 09, 2012.jpg",Zahir Uddin Ahmed
-Q87113463,Serniabat Sadiq Abdullah,male,1979,9,,,,Serniabat Sadiq Abdullah
+Q87113463,Serniabat Sadiq Abdullah,male,1974-11-19,11,,,,Serniabat Sadiq Abdullah
 Q93723234,Rashida Hamid,female,,,,,,Rashida Hamid
 Q97685559,M Shaheen Iqbal,male,1964,9,,,M Shaheen Iqbal in September 2021 (cropped).jpg,M Shaheen Iqbal
 Q99671213,Nuruzzaman Biswas,male,,,,,,Nuruzzaman Biswas

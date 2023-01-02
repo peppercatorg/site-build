@@ -19,6 +19,8 @@ United States,Q105981951,Pat Outman,father,Q7331626,Rick Outman
 United States,Q106089241,Julia Letlow,spouse,Q103928233,Luke Letlow
 United States,Q106823831,Malika Sanders-Fortier,father,Q5727985,Henry Sanders
 United States,Q107178183,Michael Dvorak,child,Q7384032,Ryan Dvorak
+United States,Q107256967,Cynthia Telles,father,Q7234487,Raymond Telles
+United States,Q107256967,Cynthia Telles,spouse,Q7345472,Robert Hertzberg
 United States,Q1077594,Chris Murphy,spouse,Q113683971,Cathy Holahan
 United States,Q1077819,Chris Van Hollen,father,Q15993599,Christopher Van Hollen
 United States,Q1077819,Chris Van Hollen,mother,Q104036929,Edith Eliza Farnsworth
@@ -110,6 +112,7 @@ United States,Q1209677,Dick Gephardt,child,Q2964908,Chrissy Gephardt
 United States,Q1240103,Donaldus Milford Payne,child,Q1240224,"Donald Payne, Jr."
 United States,Q1240224,"Donald Payne, Jr.",father,Q1240103,Donaldus Milford Payne
 United States,Q1263846,Elliott Abrams,spouse,Q15993411,Rachel Abrams
+United States,Q1276563,William J. Burns,spouse,Q107346093,Lisa Carty
 United States,Q1280288,Joe Scarborough,spouse,Q449013,Mika Brzezinski
 United States,Q1281084,Alan Grayson,spouse,Q20758232,Dena Grayson
 United States,Q1282411,Ed Markey,spouse,Q18386616,Susan Blumenthal
@@ -254,7 +257,7 @@ United States,Q1683881,Jason Chaffetz,sibling,Q108003544,Alex Chaffetz
 United States,Q1683881,Jason Chaffetz,sibling,Q6230322,John Dukakis
 United States,Q1684313,Jay Dickey,spouse,Q67168428,Betty Dickey
 United States,Q16875330,Eugene Scalia,father,Q11156,Antonin Scalia
-United States,Q16979824,Brian Babin,child,Q6696084,Lucas Babin
+United States,Q16979824,Brian Babin,child,Q6696084,Lucas Babin Leaute
 United States,Q1699908,John E. Sununu,father,Q887489,John H. Sununu
 United States,Q1699908,John E. Sununu,sibling,Q16215583,Chris Sununu
 United States,Q17011236,Sarah McBride,spouse,Q47507596,Andrew Cray
@@ -358,6 +361,10 @@ United States,Q215057,Rick Perry,father,Q20177237,Joseph Ray Perry
 United States,Q215057,Rick Perry,spouse,Q4765651,Anita Thigpen Perry
 United States,Q2152423,Major Owens,child,Q5107664,Chris Owens
 United States,Q2152423,Major Owens,child,Q718857,Geoffrey Owens
+United States,Q21551505,Christopher J. LaFleur,child,Q11347265,Emma Miyazawa
+United States,Q21551505,Christopher J. LaFleur,child,Q61983418,Sarah Miyazawa LaFleur
+United States,Q21551505,Christopher J. LaFleur,relative,Q315565,Kiichi Miyazawa
+United States,Q21551505,Christopher J. LaFleur,spouse,Q86805475,Keiko Miyazawa Lafleur
 United States,Q21572825,Andy Beshear,father,Q532220,Steve Beshear
 United States,Q2157642,Robert Hurt,sibling,Q23762854,Charles Hurt
 United States,Q217314,John Edwards,child,Q5051777,Cate Edwards
@@ -918,6 +925,7 @@ United States,Q529344,Ron Wyden,father,Q129364,Peter H. Wyden
 United States,Q529344,Ron Wyden,relative,Q63344,Franz Weidenreich
 United States,Q529344,Ron Wyden,spouse,Q87434148,Nancy Bass Wyden
 United States,Q5300433,Doug Ducey,spouse,Q26705101,Angela Ducey
+United States,Q531247,Ray Mabus,child,Q115863399,Elisabeth Mabus
 United States,Q5317971,Dwayne Alons,child,Q115164946,Kevin Alons
 United States,Q532220,Steve Beshear,child,Q21572825,Andy Beshear
 United States,Q532279,Jim Webb,father,Q20177358,James Henry Webb
@@ -1108,6 +1116,7 @@ United States,Q64011226,Rhonda Knudsen,child,Q4823159,Austin Knudsen
 United States,Q640835,Jamie Raskin,father,Q6758404,Marcus Raskin
 United States,Q6490243,Larry Echo Hawk,sibling,Q6231112,John EchoHawk
 United States,Q649898,Ron Klain,spouse,Q59779122,Monica Medina
+United States,Q6499080,Laura Kelly,spouse,Q115860753,Ted Daughety
 United States,Q650928,Parris Glendening,spouse,Q5478730,Frances Hughes Glendening
 United States,Q652066,Sheldon Whitehouse,father,Q5082305,Charles Sheldon Whitehouse
 United States,Q6551834,Linda Menard,spouse,Q112466773,Curt Menard
@@ -1123,6 +1132,7 @@ United States,Q6767775,Mark Gordon,father,Q111889085,Crawford Gordon
 United States,Q6769099,Mark Obenshain,father,Q7325051,Richard D. Obenshain
 United States,Q6769099,Mark Obenshain,sibling,Q6375701,Kate Obenshain
 United States,Q6780011,Mary Kiffmeyer,spouse,Q7287746,Ralph Kiffmeyer
+United States,Q6790437,Matthew Dunlap,spouse,Q18685818,Michelle Dunphy
 United States,Q6793975,"Maury Maverick, Jr.",father,Q1911710,Maury Maverick
 United States,Q6834757,Michael Flynn,child,Q28167112,Michael G. Flynn
 United States,Q6846591,Mike Donilon,father,Q106150010,Edward T. Donilon

@@ -1,12 +1,19 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
+Q104408083,İltizam Yusifov,,1963-12-01,11,,,,
 Q104439628,Jalal Mirzayev,male,1977-10-17,11,,,Jalal Mirzayev (ambassador).jpg,Jalal Mirzayev
+Q106074803,Ramin Mammadov,male,1979-02-17,11,,,,Ramin Mammadov
 Q106637032,Teymur Musayev,male,1970-09-16,11,,,,Teymur Musayev
+Q108084872,Amina Aghazada,female,1980-03-26,11,,,,
 Q108823069,Taleh Kazimov,male,1983-09-11,11,,,Taleh Kazimov.jpg,Taleh Kazimov
+Q108920455,"Гасанова, Афет Абиль кызы",female,1960-09-03,11,,,,
+Q108920762,Mikayılova Sevil,female,1974-06-27,11,,,,
 Q109287322,Galib Israfilov,male,1975-05-09,11,,,,Galib Israfilov
 Q109288720,Vagif Sadigov,male,1956,9,,,,Vagif Sadigov
 Q10952640,Huseynaga Sadigov,male,1940-03-14,11,,,Huseynaga Sadigov.jpg,Huseynagha Sadigov
 Q1099741,Avaz Alakbarov,male,1952-07-23,11,,,Avaz Alakbarov (cropped).jpg,Avaz Alakbarov
 Q11011361,Nazim Ibrahimov,male,1963-12-23,11,,,,Nazim Ibrahimov
+Q111723422,Ramil Hasan,male,1978-09-23,11,,,Ramil Hasan.jpg,Ramil Hasan
+Q112281822,Etibar Aliyev,male,1963-03-01,11,,,Etibar Aliyev (cropped).jpg,
 Q112651,Polad Bulbuloghlu,male,1945-02-04,11,,,Полад Бюльбюль-оглы.jpg,Polad Bülbüloğlu
 Q115790286,Azer Zeynalov,male,1970,9,,,,
 Q115861996,Ruslan Rzayev,male,,,,,,
@@ -140,6 +147,8 @@ Q28527865,Müslüm Məmmədov,male,1980,9,,,,
 Q28527868,Pərvin Kərimzadə,female,1976-02-03,11,,,,
 Q28527870,Sona Əliyeva,female,1980-08-04,11,,,,
 Q28527872,Ülviyyə Ağayeva,female,1978-09-18,11,,,,
+Q28925612,Arzu Naghiyev,male,1963-07-27,11,,,,
+Q31295198,Könül Nurullayeva,female,1985-12-01,11,,,Konul2.jpg,Konul Nurullayeva
 Q31295398,Orkhan Sultanov,male,1977,9,,,Orxan Sultanov.jpg,Orkhan Sultanov
 Q31296056,Karim Valiyev,male,1961-02-09,11,,,"Karim Valiyev. November 29, 2022.jpg",Karim Valiyev
 Q4054391,Agil Abbas,male,1953-04-01,11,,,,Agil Abbas
@@ -188,7 +197,7 @@ Q55200444,Dashgin Shikarov,male,1973-01-29,11,,,Dashgin Shikarov.jpg,
 Q55200630,Goshgar Tahmazli,male,1970-05-29,11,,,Qoşqar Təhməzli.jpg,Goshgar Tahmazli
 Q55202170,Sahil Babayev,male,1980,9,,,Sahil Babayev.jpg,Sahil Babayev
 Q55202229,Fuad Naghiyev,male,1975-07-22,11,,,,Fuad Naghiyev
-Q55698956,Ceyhun Məmmədov (rektor),male,1975-01-28,11,,,,
+Q55698956,Ceyhun Məmmədov,male,1975-01-28,11,,,,
 Q55700522,Rəşad İsmayılov,male,1974-06-07,11,,,,Rashad Ismayilov
 Q5638373,Hafiz Pashayev,male,1941-05-02,11,,,Defense.gov News Photo 000630-D-9880W-073 (crop).jpg,Hafiz Pashayev
 Q57371,Ilham Aliyev,male,1961-12-24,11,,,Ilham Aliyev 2022 (cropped).jpg,Ilham Aliyev
@@ -197,6 +206,7 @@ Q57549,Vasif Talibov,male,1960-01-14,11,,,Vasif Talibov in Iran 02.jpg,Vasif Tal
 Q57618,Artur Rasizade,male,1935-02-26,11,,,"Artur Rasi-zadə, 27-02-2020.jpg",Artur Rasizade
 Q57960011,Mir-Hamza Efendiyev,male,1950-11-15,11,,,Mir Hamza Efendiyev.jpg,Mir-Hamza Efendiyev
 Q58083,Elmar Mammadyarov,male,1960-07-02,11,,,Elmar Mammadyarov in 2019.jpg,Elmar Mammadyarov
+Q61122554,Tural Ganjaliyev,male,1980-03-06,11,,,,Tural Ganjaliyev
 Q61122675,Cavid Osmanov,male,1975-02-06,11,,,,
 Q64739163,Ali Naghiyev,male,1958-11-08,11,,,Ali Naghiyev (cropped).jpg,Ali Naghiyev
 Q64752976,Vilayet Eyvazov,male,1968-06-28,11,,,Vilayat Eyvazov at the opening of Internal Troops` military unit in Aghstafa 2020.jpg,Vilayat Eyvazov
@@ -205,12 +215,14 @@ Q6584988,Muxtar Babayev,male,1967-10-16,11,,,Muxtar Babayev.JPG,Mukhtar Babayev
 Q671930,Mehriban Aliyeva,female,1964-08-26,11,,,Mehriban Aliyeva on 2021 IDWGS (cropped).jpg,Mehriban Aliyeva
 Q7065106,Novruz Mammadov,male,1947-03-15,11,,,Novruz Məmmədov.jpg,Novruz Mammadov
 Q7080270,Ogtay Shiraliyev,male,1950-08-02,11,,,Oqtay Şirəliyev.JPG,Ogtay Shiraliyev
+Q7299546,Razi Nurullayev,male,1971-04-01,11,,,Razi Nurullayev (cropped).png,Razi Nurullayev
 Q7408438,Samad Seyidov,male,1964-01-18,11,,,Samad Seyidov in 2020 (cropped).png,Samad Seyidov
 Q74701,Hidayat Orujov,male,1944-09-05,11,,,Hidayət Orucov.JPG,Hidayat Orujov
 Q7812977,Tofig Zulfugarov,male,1959-11-01,11,,,Tofiq Zülfüqarov.jpg,Tofig Zulfugarov
 Q7880869,Ulviyya Hamzayeva,female,1982-04-30,11,,,,Ulviyya Hamzayeva
 Q7908624,Vahid Ahmadov,male,1947-04-02,11,,,Vahid Ahmadov in 2015 (cropped).jpg,Vahid Ahmadov
 Q7930115,Vilayat Guliyev,male,1952-11-05,11,,,Vilayət Quliyev Polşa Senatında.JPG,Vilayat Guliyev
+Q7943344,Vugar Bayramov,male,1975-06-13,11,,,Vüqar Bayramov.jpg,Vugar Bayramov
 Q8050677,Yaşar Aliyev,male,1955-08-19,11,,,Ambassador Yashar Aliyev.jpg,Yashar Aliyev (diplomat)
 Q8053080,Yevda Abramov,male,1948-06-12,11,2019-12-06,11,Yevda Abramov in 2011.jpg,Yevda Abramov
 Q8065118,Zakir Qaralov,male,1956-01-13,11,,,,Zakir Garalov
@@ -220,18 +232,26 @@ Q84818043,Elnur M. Allahverdiyev,male,1978-04-21,11,,,Эльнур Марат о
 Q84841116,Cəbi Quliyev,,1990-08-30,11,,,,
 Q85188010,Kamal Cəfərov,male,1989-12-15,11,,,,Kamal Jafarov
 Q85200926,Vüqar İskəndərov,male,1972-12-30,11,,,,
+Q85402636,Jale Ahmedova,,1981-04-23,11,,,Jalə Əhmədova.jpg,
 Q85622035,Sabina Khasayeva,female,1993-03-30,11,,,Səbinə Xasayeva.jpg,Sabina Khasayeva
 Q86000268,Emin Hacıyev,,1982-02-13,11,,,,
+Q86000679,Tamam Cəfərova,,1959-04-05,11,,,,
+Q86000773,Mazahir Afandiyev,male,1976-02-01,11,,,,Mazahir Afandiyev
 Q86001190,Soltan Mammadov,male,1974-04-01,11,,,,Soltan Mammadov
+Q86001345,Nigar Arpadarai,female,1982-01-17,11,,,Nigar Arpadarai.jpg,Nigar Arpadarai
 Q86001367,Sadig Qurbanov,,1972-07-12,11,,,,
 Q86001391,Fatma Yıldırım,female,1973-01-12,11,,,,
 Q86001442,Nurlan Həsənov,male,1988-02-03,11,,,,
 Q86001443,Müşfiq Məmmədli,,1972-08-01,11,,,,
 Q86001452,Müşfiq Cəfərov,male,1981-07-26,11,,,,
+Q87330025,Anatoliy Rafailov,male,1953-02-05,11,,,,
+Q87959916,Bahruz Maharramov,male,1983-08-22,11,,,,Bahruz Maharramov
+Q89658763,Şahin Seyidzadə,male,1978-04-15,11,,,,
 Q90038978,Məşhur Məmmədov,,1963-10-04,11,,,,
 Q90879051,Anar Məmmədov,male,1984-06-21,11,,,,
 Q93356661,Nizami Səfərov,male,1960-11-30,11,,,,
 Q96002133,Faraj Guliyev,male,1962-12-22,11,,,Presidential candidate Faraj Guliyev.jpg,Faraj Guliyev
+Q97221663,Əliabbas Salahzdə,male,1979-01-22,11,,,,
 Q97688367,Rza Talibov,male,1982-05-10,11,,,Rza Talıbov (şəxsi foto).jpg,
 Q97698132,Anar Karimov,male,1977-06-03,11,,,Anar Karimov.jpg,Anar Karimov
 Q97715003,Emin Amrullayev,male,1982-12-30,11,,,,Emin Amrullayev
