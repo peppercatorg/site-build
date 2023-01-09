@@ -14,8 +14,8 @@ Togo,Prime Minister,Kwesi Ahoomey-Zunu,Q57850,2012-07-23,2015-06-10,male,1958-12
 Togo,Prime Minister,Komi Klassou,Q6428317,2015-06-10,2020-09-28,male,1960-02-10,,Komi Sélom Klassou 2017.jpg,Komi Sélom Klassou
 Togo,Prime Minister,Victoire Dogbé Tomegah,Q16682496,2020-09-28,,female,1959-12-23,,Victoire S. Tomegah Dogbé.jpg,Victoire Tomegah Dogbé
 Togo,Minister of State,Payadowa Boukpessi,Q113579024,2020-10-01,,male,1954-12-31,,,
-Togo,Minister of Agriculture,Antoine Lekpa Gbegbeni,Q114441751,2020-10-01,,male,,,,
-Togo,Minister of the Armed Forces,Essozimna Marguerite Gnakade,Q105550917,2020-10-01,,female,,,,Essozimna Marguerite Gnakade
+Togo,Minister of Agriculture,Antoine Lekpa Gbegbeni,Q114441751,2020-10,,male,,,,
+Togo,Minister of the Armed Forces,Essozimna Marguerite Gnakade,Q105550917,2020-10-01,2022-12-23,female,,,,Essozimna Marguerite Gnakade
 Togo,"Minister of the Civil Service, Labour and Social Dialogue",Gilbert Bawara,Q16639103,2015-06-28,,male,,,,
 Togo,Minister of Commerce,Kodjo Adedze,Q114441755,2020-10-01,,male,,,,
 Togo,Minister of Communication and Media,Akodah Ayewouadan,Q114441750,2020-10-01,,male,,,,
@@ -33,7 +33,7 @@ Togo,Minister of Finance,Débaba Bale,Q113946234,2003,2005,,,,,
 Togo,Minister of Finance,Payadowa Boukpessi,Q113579024,2005,2007,male,1954-12-31,,,
 Togo,Minister of Finance,Adji Otèth Ayassor,Q113946232,2007,2016,,,,,
 Togo,Minister of Finance,Sani Yaya,Q88219141,2016-08-01,,male,1963-12-31,,,Sani Yaya
-Togo,Minister of Financial Inclusion,Mazamesso Assih,Q112180599,2020-10-01,,female,1979,,,
+Togo,Minister of Financial Inclusion,Mazamesso Assih,Q112180599,2020-10,,female,1979,,,
 Togo,Minister of Foreign Affairs,Joseph Kokou Koffigoh,Q1707420,1998,2000,male,1948,,Prime Minister Joseph Koukou Koffigoh.jpg,Joseph Kokou Koffigoh
 Togo,Minister of Foreign Affairs,Koffi Panou,Q6425687,2000,2002,male,1947-01-31,2003-03-15,Koffi Panou cropped.jpg,Koffi Panou
 Togo,Minister of Foreign Affairs,Roland Kpotsra,Q2162878,2002,2003,male,1947-02-20,,,Roland Kpotsra
@@ -67,7 +67,9 @@ Togo,Minister of Sport,Lidi Kedjaka Gbessi Kama,Q106857717,2020-10-01,,female,19
 Togo,Minister of Territorial Administration,Payadowa Boukpessi,Q113579024,2015-06-28,,male,1954-12-31,,,
 Togo,"Minister of Town Planning, Housing and Land Reform",Koffi Tsolenyanu,Q114441756,2020-10-01,,male,,,,
 Togo,Minister of Transport,Affoh Atcha-Dédji,Q65150953,2020-10-01,,male,,,Affoh Atcha-Dédji en 2018.jpg,
+Togo,Minister of Water,Antoine Lekpa Gbegbeni,Q114441751,2018-02,2020-10,male,,,,
 Togo,Minister of Water,Bolidja Tiem,Q107022057,2020-10-01,,male,,,,
+Togo,Minister of Youth,Richard Attipoé,Q2000896,2006-09,2007-06,male,1957-04-20,2007-06-03,,Richard Attipoé
 Togo,Minister of Youth,Myriam Dossou de Souza-D'Almeida,Q114441762,2020-10-01,,female,,,,
 Togo,Secretary General of the Government,Kanka-Malik Natchaba,Q114005610,2020-09-28,,male,,,,
 Togo,Secretary General of the Presidency,Sandra Ablamba Johnson,Q108385139,2020-09-28,,female,,,Photo Sandra Ablamba Johnson.jpg,

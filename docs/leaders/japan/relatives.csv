@@ -176,9 +176,9 @@ Japan,Q315565,Kiichi Miyazawa,father,Q11455089,Yutaka Miyazawa
 Japan,Q315565,Kiichi Miyazawa,relative,Q11460443,Heiji Ogawa
 Japan,Q315565,Kiichi Miyazawa,relative,Q11460444,Heikichi Ogawa
 Japan,Q315565,Kiichi Miyazawa,relative,Q11500613,Masahiko Saitō
+Japan,Q315565,Kiichi Miyazawa,relative,Q21551505,Christopher J. LaFleur
 Japan,Q315565,Kiichi Miyazawa,relative,Q6141706,Kunihiko Saitō
 Japan,Q315565,Kiichi Miyazawa,relative,Q6144756,Hajime Ogawa
-Japan,Q315565,Kiichi Miyazawa,relative,Q63102003,
 Japan,Q315565,Kiichi Miyazawa,relative,Q67498570,Ippei Ogawa
 Japan,Q315565,Kiichi Miyazawa,sibling,Q1247829,Hiroshi Miyazawa
 Japan,Q315565,Kiichi Miyazawa,spouse,Q106994537,Yōko Miyazawa
@@ -222,7 +222,7 @@ Japan,Q38849,Shintarō Ishihara,child,Q11585262,Nobuhiro Ishihara
 Japan,Q38849,Shintarō Ishihara,child,Q3543364,Yoshizumi Ishihara
 Japan,Q38849,Shintarō Ishihara,child,Q506730,Hirotaka Ishihara
 Japan,Q38849,Shintarō Ishihara,child,Q992930,Nobuteru Ishihara
-Japan,Q38849,Shintarō Ishihara,sibling,Q1322220,Yujiro Ishihara
+Japan,Q38849,Shintarō Ishihara,sibling,Q1322220,Yūjirō Ishihara
 Japan,Q38849,Shintarō Ishihara,spouse,Q11585241,Noriko Ishihara
 Japan,Q389617,Yōichi Masuzoe,spouse,Q7426488,Satsuki Katayama
 Japan,Q405085,Takeo Hiranuma,child,Q41805276,Shōjirō Hiranuma
@@ -274,7 +274,7 @@ Japan,Q49988,Nobuhide Minorikawa,father,Q11489185,Hidefumi Minorikawa
 Japan,Q50640705,Hachiro Nitta,sibling,Q459145,Harumi Takahashi
 Japan,Q506730,Hirotaka Ishihara,father,Q38849,Shintarō Ishihara
 Japan,Q506730,Hirotaka Ishihara,mother,Q11585241,Noriko Ishihara
-Japan,Q506730,Hirotaka Ishihara,relative,Q1322220,Yujiro Ishihara
+Japan,Q506730,Hirotaka Ishihara,relative,Q1322220,Yūjirō Ishihara
 Japan,Q506730,Hirotaka Ishihara,sibling,Q11585262,Nobuhiro Ishihara
 Japan,Q506730,Hirotaka Ishihara,sibling,Q3543364,Yoshizumi Ishihara
 Japan,Q506730,Hirotaka Ishihara,sibling,Q992930,Nobuteru Ishihara
@@ -352,7 +352,7 @@ Japan,Q937682,Hirofumi Nakasone,mother,Q108110742,Tsutako Nakasone
 Japan,Q967214,Takeo Nishioka,child,Q41771028,Hideko Nishioka
 Japan,Q992930,Nobuteru Ishihara,father,Q38849,Shintarō Ishihara
 Japan,Q992930,Nobuteru Ishihara,mother,Q11585241,Noriko Ishihara
-Japan,Q992930,Nobuteru Ishihara,relative,Q1322220,Yujiro Ishihara
+Japan,Q992930,Nobuteru Ishihara,relative,Q1322220,Yūjirō Ishihara
 Japan,Q992930,Nobuteru Ishihara,sibling,Q11585262,Nobuhiro Ishihara
 Japan,Q992930,Nobuteru Ishihara,sibling,Q3543364,Yoshizumi Ishihara
 Japan,Q992930,Nobuteru Ishihara,sibling,Q506730,Hirotaka Ishihara

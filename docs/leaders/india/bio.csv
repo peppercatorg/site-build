@@ -138,6 +138,7 @@ Q106714094,Najeeb Kanthapuram,male,1975-02-10,11,,,,
 Q106730415,Sujith Vijayanpilla,male,1977-05-25,11,,,,
 Q106804826,Arjun Lal Jingar,male,1961-12-01,11,,,,Arjun Lal Jingar
 Q106811781,Deepti Kiran Maheshwari,female,1987-04-27,11,,,,Deepti Kiran Maheshwari
+Q107293113,Abul Kalam Rasheed Alam,male,,,,,,Abul Kalam Rasheed Alam
 Q107483708,Vikram Misri,male,1964-11-07,11,,,,Vikram Misri
 Q108553289,Gurmit Singh,male,1956-02-01,11,,,Lt. Gen. Gurmit Singh.jpg,Gurmit Singh (general)
 Q109385229,Kalaben Delkar,female,1971,9,,,,Kalaben Delkar
@@ -163,7 +164,7 @@ Q113336473,Chhatrapal Singh,male,1956-01-20,11,,,,
 Q113484867,Kirat Singh Gurjar,male,1967-03-01,11,,,,Kirat Singh Gurjar
 Q113622641,Banwari Lal Sharma,male,,,,,,Banwari Lal Sharma
 Q113635923,Nareshwar Dayal,,,,,,,
-Q113635936,Vikram Doraiswami,male,,,,,,Vikram Doraiswami
+Q113635936,Vikram Doraiswami,male,,,,,Vikram Doraiswami (52537348116) (cropped).jpg,Vikram Doraiswami
 Q1151446,D. V. Sadananda Gowda,male,1953-03-19,11,,,Sadananda Gowda.jpg,Sadananda Gowda
 Q1158102,Dalveer Bhandari,male,1947-10-01,11,,,Justice Dalveer Bhandari felicitated (cropped).jpg,Dalveer Bhandari
 Q1190856,Naveen Patnaik,male,1946-10-16,11,,,Naveen Patnaik CMO 02.jpg,Naveen Patnaik
@@ -297,7 +298,7 @@ Q16135365,B. S. Chauhan,male,1949-07-02,11,,,,B. S. Chauhan
 Q16135701,T. U. Kuruvilla,male,1936-09-13,11,,,,T. U. Kuruvilla
 Q16135968,Mani C. Kappan,male,1956-05-30,11,,,Mani C Kappan.JPG,Mani C. Kappan
 Q16136075,C. Krishnan,male,1949-06-06,11,,,C. Krishnan.jpg,C. Krishnan (CPI-M)
-Q16136381,C. T. Ahammed Ali,male,1944-04-05,11,,,,
+Q16136381,C. T. Ahammed Ali,male,1944-04-05,11,,,,C. T. Ahammed Ali
 Q16136907,Mirza Mehboob Beg,male,1949-09-04,11,,,MP Dr Mehboob Bég at UN.jpg,Mirza Mehboob Beg
 Q16137051,Surinder Singh Nijjar,male,1949-06-07,11,2021-03-26,11,,Surinder Singh Nijjar
 Q16137264,K. S. Panicker Radhakrishnan,male,1949-05-15,11,,,K. S. Panicker Radhakrishnan.jpg,K. S. Panicker Radhakrishnan
@@ -1070,7 +1071,7 @@ Q28086336,Umesh Aggarwal,male,1970-07-01,11,,,,Umesh Aggarwal
 Q28153730,Rajendra Shingne,male,1960-03-30,11,,,,Rajendra Shingne
 Q28179651,Deepak Verma,male,1947-08-28,11,,,,Deepak Verma (judge)
 Q28222879,Pramod Sawant,male,1973-04-24,11,,,MLA Pramod Sawant (25249063679).jpg,Pramod Sawant
-Q28227517,Pashupati Kumar Paras,female,1953,9,,,Pashupati Kumar Paswan.jpg,Pashupati Kumar Paras
+Q28227517,Pashupati Kumar Paras,female,1953,9,,,,Pashupati Kumar Paras
 Q28341210,Kulwant Ram Bazigar,male,,,,,,Kulwant Ram Bazigar
 Q28370220,Pushkar Singh Dhami,male,1975-09-16,11,,,Pushkar Dhami.jpg,Pushkar Singh Dhami
 Q28407952,Aseem Goel,male,1979-10-25,11,,,ASEEM GOEL PRESENT PHOTO.jpg,Aseem Goel
@@ -1286,7 +1287,7 @@ Q3633158,Akhlaqur Rahman Kidwai,male,1921-07-01,11,2016-08-24,11,,Akhlaqur Rahma
 Q3633236,Amarinder Singh,male,1942-03-11,11,,,Captain Amarinder Singh.jpg,Amarinder Singh
 Q3633385,Kalyan Singh,male,1932-01-05,11,2021-08-21,11,Kalyan Singh1.jpg,Kalyan Singh
 Q3633404,Navin Chawla,male,1945-07-30,11,,,"Election Commissioner Shri Navin. B. Chawla releasing Landmark Judgments on Election Law at a meeting with Chief Electoral Officers of all the States, in New Delhi on June 28, 2006 (cropped).jpg",Navin Chawla
-Q3633455,Gopinath Munde,male,1949-12-12,11,2014-06-03,11,Gopinath Munde.jpg,Gopinath Munde
+Q3633455,Gopinath Munde,male,1949-12-12,11,2014-06-03,11,,Gopinath Munde
 Q3633497,Syed Sibtey Razi,male,1939-03-07,11,2022-08-20,11,Syed Sibtey Razi 2005.jpg,Syed Sibtey Razi
 Q3634346,Uddhav Thackeray,male,1960-07-27,11,,,"The Chief Minister of Maharashtra, Shri Uddhav Thackeray calling on the Prime Minister, Shri Narendra Modi, in New Delhi on February 21, 2020 (Uddhav Thackeray) (cropped).jpg",Uddhav Thackeray
 Q3634892,Rajiv Pratap Rudy,male,1962-03-30,11,,,Rajivrudy.png,Rajiv Pratap Rudy
@@ -1484,7 +1485,7 @@ Q4838731,Omprakash Kadu/Bacchu Kadu,male,1970-07-05,11,,,Bachukadu.jpg,Bachchu K
 Q4838863,Bachi Singh Rawat,male,1949-08-01,11,2021-04-18,11,,Bachi Singh Rawat
 Q4841128,Badri Ram Jakhar,male,1952-09-09,11,,,,Badri Ram Jakhar
 Q4843194,Baidyanath Prasad Mahto,male,1947-06-02,11,2020-02-28,11,,Baidyanath Prasad Mahto
-Q4843231,Baijayant Panda,male,1964-01-12,11,,,Shri Baijayant Panda.jpg,Baijayant Panda
+Q4843231,Baijayant Jay Panda,male,1964-01-12,11,,,Shri Baijayant Panda.jpg,Baijayant Panda
 Q4848948,Baju Ban Riyan,male,1941-03-13,11,2020-02-21,11,,Baju Ban Riyan
 Q4849638,Bal Kumar Patel,male,1964-01-01,11,,,,Bal Kumar Patel
 Q4850102,Balasaheb Vikhe Patil,male,1932-04-10,11,2016-12-30,11,,Balasaheb Vikhe Patil
@@ -1724,7 +1725,7 @@ Q55956108,Brajendra Singh Yadav,male,1969-06-24,11,,,,Brajendra Singh Yadav
 Q55956122,Girish Bhandari,male,1965-01-30,11,,,,Girish Bhandari
 Q5614556,Guddu Premchand,male,1960-09-02,11,,,,Premchand Guddu
 Q5615305,Guharam Ajgalle,male,1967-04-30,11,,,,Guharam Ajgalle
-Q5617192,Gulab Chand Kataria,male,1944-10-13,11,,,GC Kataria.jpg,Gulab Chand Kataria
+Q5617192,Gulab Chand Kataria,male,1944-10-13,11,,,,Gulab Chand Kataria
 Q561812,Lalu Prasad Yadav,male,1948-06-11,11,,,Lalu Prasad Yadav.jpg,Lalu Prasad Yadav
 Q5620469,Gurudas Dasgupta,male,1936-11-03,11,2019-10-31,11,,Gurudas Dasgupta
 Q5620473,Gurudas Kamat,male,1954-10-05,11,2018-08-22,11,Gurudas Kamat.jpeg,Gurudas Kamat
@@ -2400,7 +2401,7 @@ Q6287598,Joseph Vazhackan,male,,,,,Joseph Vazhakkan.jpg,Joseph Vazhackan
 Q6298726,Jual Oram,male,1961-03-22,11,,,"Jual Oram addressing a meeting on effective and efficient implementation mechanism of schemes of Ministry of Tribal Affairs for development of Tribals, in New Delhi on August 05, 2014.jpg",Jual Oram
 Q63079548,Saptagiri Shankar Ulaka,male,1979-01-01,11,,,,Saptagiri Sankar Ulaka
 Q63091672,Ramya Haridas,female,1987,9,,,,Ramya Haridas
-Q63105466,Kolur Basavanagoud,male,1934-07-01,11,,,,
+Q63105466,Kolur Basavanagoud,male,1934-07-01,11,,,,Kolur Basavanagoud
 Q63107416,Prajwal Revanna,male,1990-08-05,11,,,Prajwal Revanna.png,Prajwal Revanna
 Q6319410,Jyoti Dhurve,female,1966-06-02,11,,,,Jyoti Dhurve
 Q6319418,Jyoti Mirdha,female,1972-07-26,11,,,,Jyoti Mirdha
@@ -2420,7 +2421,7 @@ Q6323626,K. Murugesan Anandan,male,1951-12-12,11,,,,K. Murugesan Anandan
 Q6323658,K. N. Ramchandran,male,1955-09-16,11,,,,K. N. Ramachandran
 Q6323702,K. P. Dhanapalan,male,1950-04-04,11,,,K P Dhanapalan.jpg,K. P. Dhanapalan
 Q6323727,K. P. Mohanan,male,1950-03-03,11,,,Kerala Agriculture Minister KP Mohanan presenting the Kerala Green Drive Award to INS Zamorin representatives.jpg,K. P. Mohanan
-Q6323772,K. Palaniswami,male,1954-03-02,11,,,EdappadiKPalaniswami.jpg,Edappadi K. Palaniswami
+Q6323772,K. Palaniswami,male,1954-03-02,11,,,,Edappadi K. Palaniswami
 Q6323866,K. Radhakrishnan,male,1964-05-24,11,,,Radakrishnan.jpeg,K. Radhakrishnan (politician)
 Q6324031,K. Subbarayan,male,1947-08-10,11,,,,K. Subbarayan
 Q6324044,K. Sudhakaran,male,1948-05-11,11,,,,K. Sudhakaran
@@ -2454,7 +2455,7 @@ Q6366613,Kapil Muni Karwariya,male,1967-03-02,11,,,,Kapil Muni Karwariya
 Q6368401,Karan Singh Yadav,male,1945-02-01,11,,,,Karan Singh Yadav (politician)
 Q6368415,Karanam Balaram Krishna Murthy,male,1946-10-31,11,,,,Karanam Balaram Krishna Murthy
 Q6379313,Kavitha Maloth,female,1980,9,,,"Smt. Maloth Kavitha, MLA, Mahabubabad addressing at the Bharat Nirman Public Information Campaign, in Mahabubabad, Warangal District on September 19, 2013.jpg",Kavitha Maloth
-Q6394963,Keshari Nath Tripathi,male,1934-11-10,11,,,Keshari Nath Tripathi - Kolkata 2016-07-01 5591.JPG,Keshari Nath Tripathi
+Q6394963,Keshari Nath Tripathi,male,1934-11-10,11,2023-01-08,11,Keshari Nath Tripathi - Kolkata 2016-07-01 5591.JPG,Keshari Nath Tripathi
 Q6398968,Khagen Das,male,1937-09-04,11,2018-01-21,11,,Khagen Das
 Q63992296,Aparajita Sarangi,female,1969-10-08,11,,,,Aparajita Sarangi
 Q63992380,Horen Sing Bey,male,1970-02-05,11,,,,Horen Sing Bey
@@ -3163,7 +3164,7 @@ Q7639672,Sunder Singh Bhandari,male,1921-04-12,11,2005-06-22,11,,Sunder Singh Bh
 Q76399520,Kshiti Goswami,male,1943,9,2019-11-24,11,,Kshiti Goswami
 Q7640309,Sunil Khan,male,1947-08-28,11,,,,Sunil Khan
 Q7640353,Sunil Tatkare,male,1955-07-10,11,,,During a program in shrivardhan 2014-03-17 01-10.jpg,Sunil Tatkare
-Q7645148,Supriya Sule,female,1969-06-30,11,,,Supriya S..Sule M.P.jpg,Supriya Sule
+Q7645148,Supriya Sule,female,1969-06-30,11,,,,Supriya Sule
 Q7645325,Suraj Bhan,male,1928-10-01,11,2006-08-06,11,The Chairman of the National Commission for Scheduled Castes Dr. Suraj Bhan and the Chairperson of the National Commission for Scheduled Tribes Shri Kanwar Singh briefing the Press on issues regarding reservation in Government.jpg,Suraj Bhan
 Q7645604,Sureesh Mehta,male,1947-08-18,11,,,SureeshMehta.jpg,Sureesh Mehta
 Q7645662,Surendra Lath,male,1949-11-30,11,,,,Surendra Lath

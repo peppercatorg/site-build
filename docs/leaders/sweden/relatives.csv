@@ -1,4 +1,5 @@
 catalog,id,name,relationship,relative,relativename
+Sweden,Q105371172,Magnus Stuart,child,Q116060083,Johan Stuart
 Sweden,Q105679831,Nike Örbrink,father,Q59677207,Mats Örbrink
 Sweden,Q105928301,Markus Kallifatides,father,Q2031528,Theodor Kallifatides
 Sweden,Q108281858,Charlotte von Essen,spouse,Q39160642,Ulrik von Essen
@@ -78,7 +79,7 @@ Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q115477,Queen Louise of Sweden
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q151312,Frederick IX of Denmark
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q154912,Olav V of Norway
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q154946,Juliana of the Netherlands
-Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q163010,Queen Ingrid of Denmark
+Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q163010,Ingrid of Denmark
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q212163,Folke Bernadotte
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q4938768,Countess Maria Bernadotte af Wisborg
 Sweden,Q45068,Carl XVI Gustaf of Sweden,godparent,Q52878,Gustaf VI Adolf of Sweden
@@ -208,6 +209,7 @@ Sweden,Q6172463,Anders Sellström,sibling,Q966884,Stefan Attefall
 Sweden,Q6180187,Olof Skoog,spouse,Q115766852,Johanna Brismar Skoog
 Sweden,Q6193394,Stefan Strömberg,father,Q101084352,Bengt Strömberg
 Sweden,Q6196549,Anders Sundström,partner,Q67207189,Anna Hallberg
+Sweden,Q6206776,Carl Tham,father,Q29607197,Wilhelm Tham
 Sweden,Q6207027,Erik Thedéen,father,Q19960579,Torbjörn Thedéen
 Sweden,Q6212472,Gudmund Toijer,father,Q19885747,Nils Nilsson
 Sweden,Q6212472,Gudmund Toijer,mother,Q4983037,Ying Toijer-Nilsson

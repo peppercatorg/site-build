@@ -2,8 +2,8 @@ id,name,gender,dob,dobp,dod,dodp,image,enwiki
 Q1060355,Simeon II of Bulgaria,male,1937-06-16,11,,,Simeon Vtori Popovo crop.jpg,Simeon Saxe-Coburg-Gotha
 Q106390227,Vladislav Panev,male,1976-04-06,11,,,,Vladislav Panev
 Q106506653,Iva Miteva,female,1972-10-25,11,,,20210415045023 KR7189.jpg,Iva Miteva
-Q106634347,Mukkades Nalbant,female,1958-03-15,11,,,,
-Q106801369,Atanas Pekanow,male,1991,9,,,,
+Q106634347,Mukaddes Nalbant,female,1958-03-15,11,,,,
+Q106801369,Atanas Pekanov,male,1991,9,,,,
 Q106809260,Asen Lichev,male,1952,9,,,,
 Q106812725,Svetlan Stoev,male,1960-08-30,11,,,,Svetlan Stoev
 Q106918185,Georgi Todorov,male,1972-05-06,11,,,,
@@ -12,7 +12,7 @@ Q106928258,Kiril Petkov,male,1980-04-17,11,,,Kiril Petkov 2021 (cropped).jpg,Kir
 Q106928598,Andrey Zhivkov,male,1971,9,,,,
 Q106928671,Andrej Kuzmanow,male,1959-03-04,11,,,,
 Q107001789,Alexandar Simidchiev,male,1962-04-23,11,,,,
-Q107029920,Андрей Чорбанов,male,1967-06-01,11,,,Prof. Andrey Tchorbanov (cropped).jpg,
+Q107029920,Andrey Chorbanov,male,1967-06-01,11,,,Prof. Andrey Tchorbanov (cropped).jpg,
 Q107713780,Plamen Nikolov,male,1977-07-29,11,,,PlamenNikolovBR.jpg,Plamen Nikolov (politician)
 Q108485022,Rositsa Kirova,female,1970-01-01,11,,,,
 Q108558965,Daniela Vezieva,female,1967-10-16,11,,,,
@@ -29,36 +29,35 @@ Q110088824,Bozhidar Bozhanov,male,1987-08-19,11,,,Bozhidar-Bozhanov.jpg,
 Q110089977,Teodora Genchovska,female,1971-05-23,11,,,,
 Q110090126,Atanas Atanasov,male,1990-04-03,11,,,,
 Q110153814,Nikolay Sabev,male,1960-09-24,11,,,,Nikolay Sabev
-Q110153962,Alexander Nikolov,male,,,,,,
 Q110153983,Asena Serbezova,female,1973-03-30,11,,,,Assena Serbezova
 Q110153990,Nadezhda Yordanova,female,1973-03-06,11,,,,Nadezhda Yordanova
 Q110153996,Radostin Vasilev,male,1985-01-01,11,,,Радостин Василев.jpg,
-Q110161124,Цвета Галунова,,,,,,,
-Q110161218,Стоян Таслаков,,,,,,,
-Q110161226,Иво Русчев,,,,,,,
-Q110161233,"Петър Петров (политик, р.1983)",,,,,,,
-Q110161241,Даниел Петров (политик),,,,,,,
-Q110161244,"Искра Михайлова (политик, р.1982)",,,,,,,
-Q110161250,Николай Дренчев,,,,,,,
-Q110161256,"Никола Димитров (политик, р.1990)",,,,,,,
-Q110161259,"Георги Георгиев (политик, р.1979)",,,,,,,
-Q110161262,Ангел Георгиев (политик),,,,,,,
-Q110161267,Tsoncho Ganev,male,,,,,,
-Q110167708,Деница Симеонова,,,,,,,
-Q110208748,Джейхан Ибрямов,male,1977-01-28,11,,,,
-Q110209486,Александра Милчева,,,,,,,
-Q110210232,Антония Димитрова,,,,,,,
-Q110211274,Иван Ганчев (политик),,,,,,,
-Q110261603,Силви Кирилов,,,,,,,
+Q110161124,Tsveta Galunova,female,1995-08-04,11,,,,
+Q110161218,Stoyan Taslakov,male,1987-03-25,11,,,,
+Q110161226,Ivo Ruschev,male,1978-11-27,11,,,,
+Q110161233,Petur Petrov,male,1983-03-14,11,,,,
+Q110161241,Daniel Petrov,male,1980-04-26,11,,,,
+Q110161244,Iskra Mihaylova,female,1982-09-29,11,,,,
+Q110161250,Nikolay Drenchev,male,1968-09-30,11,,,,
+Q110161256,Nikola Dimitrov,male,1990-11-17,11,,,,
+Q110161259,Georgi Georgiev,male,1979-07-13,11,,,,
+Q110161262,Angel Georgiev,male,1988-04-08,11,,,,
+Q110161267,Tsoncho Ganev,male,1979-03-11,11,,,,
+Q110167708,Denitsa Simeonova,female,1992-05-04,11,,,,
+Q110208748,Dzheyhan Ibryamov,male,1977-01-28,11,,,,
+Q110209486,Aleksandra Milcheva,female,1988-07-23,11,,,,
+Q110210232,Antoniya Dimitrova,female,1989-08-16,11,,,,
+Q110211274,Ivan Ganchev,male,1989-04-12,11,,,,
+Q110261603,Silvi Petrov,male,1950-12-17,11,,,,
 Q110261788,Sasho Penov,male,1960-07-27,11,,,,
-Q110262288,Елена Гунчева,,,,,,,
-Q110262317,Радомир Чолаков,,,,,,,
-Q110262360,Десислава Трифонова,,,,,,,
-Q110262369,Имрен Мехмедова,,,,,,,
-Q110262377,Благовест Кирилов,,,,,,,
+Q110262288,Elena Guncheva,female,1971-01-07,11,,,,
+Q110262317,Radomir Cholakov,male,1964-10-17,11,,,,
+Q110262360,Desislava Trifonova,female,1985-11-07,11,,,,
+Q110262369,Imren Mehmedova,female,1990-05-03,11,,,,
+Q110262377,Blagovest Kirilov,male,1986-10-12,11,,,,
 Q110262378,Lena Borislavova,female,1989-10-08,11,,,,
 Q110262382,Nastimir Ananiev,male,1975-07-17,11,,,,
-Q110262384,Асен Балтов,,,,,,,
+Q110262384,Asen Baltov,male,1966-09-19,11,,,,
 Q110313525,Andrey Gyurov,male,1975-12-31,11,,,,
 Q110313980,Vladimir Tabutov,male,1983-08-25,11,,,,
 Q110314311,Ekaterina Dimitrusheva,female,1990-11-13,11,,,,
@@ -79,13 +78,14 @@ Q113402905,Alexander Pulev,male,1981-02-05,11,,,,
 Q113402908,Yavor Gechev,male,1978-06-10,11,,,,
 Q113402927,Rositsa Karamfilova-Blagova,female,,,,,,
 Q113402947,Nikola Stoyanov,male,,,,,,
+Q115300285,Alexander Nikolov,male,1980-11-06,11,,,,
 Q1166856,Nikolai Tsonev,male,1956-06-09,11,,,,Nikolai Tsonev
 Q11692807,Daniel Valchev,male,1962-08-10,11,,,DValtchev.jpg,
 Q11699668,Georgi Petkanov,male,1947-11-01,11,2015-05-01,11,,
 Q11778487,Mihail Mikov,male,1960-06-16,11,,,MihailMikov3.jpg,Mihail Mikov
 Q11780519,Miglena Tacheva,female,1960-05-24,11,,,,
 Q11832497,Plamen Oresharski,male,1960-02-21,11,,,Portrait of Plamen Oresharski.jpg,Plamen Oresharski
-Q12271527,Александър Ненков,male,1983-11-07,11,,,,
+Q12271527,Aleksandur Nenkov,male,1983-11-07,11,,,,
 Q12271885,Angel Naydenov,male,1958-09-28,11,,,,
 Q12272075,Anna-Mariya Borisova,female,1950-01-07,11,,,,
 Q12272173,Anton Stankov,male,1966-02-17,11,,,,
@@ -93,8 +93,8 @@ Q12272416,Asen Vasilev,male,1977-09-09,11,,,Асен Василев.png,Asen Vas
 Q12272540,Atanas Atanasov,male,1959-05-17,11,,,Atanas Atanasov 2011-06-19 portrait.jpg,Atanas Atanasov (politician)
 Q12273505,Bozhidar Nanev,male,1963-01-19,11,,,,
 Q12273511,Bozhidar Finkov,male,1948-01-30,11,,,,
-Q12273763,Борис Ячев,male,1965-07-02,11,,,,
-Q12273773,Борислав Гуцанов,male,1967-06-17,11,,,Borislav gutsanov.jpg,
+Q12273763,Boris Yachev,male,1965-07-02,11,,,,
+Q12273773,Borislav Gutsanov,male,1967-06-17,11,,,Borislav gutsanov.jpg,
 Q12274538,Valeri Dimitrov Tsekov,male,1960-02-24,11,,,,
 Q12275395,Vladimir Atanasov,male,1955-09-21,11,,,,
 Q12275473,Vladimir Penev,male,1958-10-24,11,,,Vladimir-Penev-20101209.jpg,
@@ -115,7 +115,7 @@ Q12281696,Ilko Semerdzhiev,male,1959-08-25,11,,,,
 Q12281964,Ицо Хазарта,male,1979-12-19,11,,,TTL Image 123.tif,
 Q12282118,Yordan Bakalov,male,1960-09-01,11,,,,
 Q12282206,Yordan Hristoskov,male,1951-10-20,11,,,,
-Q12282211,Йордан Цонев,male,1956-10-05,11,,,,
+Q12282211,Yordan Tsonev,male,1956-10-05,11,,,,
 Q12282392,Kalin Christov,male,1971-02-06,11,,,,
 Q12283736,Korneliya Ninova,female,1969-01-16,11,,,KorneliyaNinova.jpg,Korneliya Ninova
 Q12283853,Kostadin Kostadinov,male,1979-04-01,11,,,Костадин Костадинов снимка.jpg,Kostadin Kostadinov (politician)
@@ -161,7 +161,7 @@ Q15733382,Tanya Andreeva,female,1973-07-07,11,,,,
 Q15742374,Mariana Georgieva,female,1961-09-21,11,,,,
 Q16195846,Vesela Letcheva,female,1964-05-20,11,,,,Vesela Letcheva
 Q16197468,Dragomir Yordanov,male,1967-06-28,11,,,,Dragomir Yordanov
-Q16334129,Димчо Михалевски,male,1965-10-24,11,2014-02-18,11,Михалевски.jpg,
+Q16334129,Dimcho Mihalevski,male,1965-10-24,11,2014-02-18,11,Михалевски.jpg,
 Q17409213,Kirił Ananiew,male,1955-07-02,11,,,,
 Q17409260,Veselin Vuchkov,male,1968-12-26,11,,,,Veselin Vuchkov
 Q17409292,Georgi Gyokov,male,1961-12-13,11,,,,
@@ -178,7 +178,7 @@ Q18608499,Vladislav Goranov,male,1977-04-30,11,,,Vladislav Goranov 2017-11-15 (c
 Q18639404,Krasen Kralev,male,1967-01-02,11,,,"Krasen Kralev, Minister of Youth and Sports (39102995272).jpg",Krasen Kralev
 Q18745357,Nikolay Nenchev,male,1966-08-11,11,,,,Nikolay Nenchev
 Q18757290,Hristo Ivanov,male,1974-09-13,11,,,Hristo-Ivanov.jpg,Hristo Ivanov (politician)
-Q19206168,Иван Ченчев,male,1976-08-05,11,,,,
+Q19206168,Ivan Chenchev,male,1976-08-05,11,,,,
 Q19206321,Temenuzhka Petkova,female,1967-01-18,11,,,"Temenuzhka Petkova, Minister of Energy (38424525094).jpg",Temenuzhka Petkova
 Q19206420,Todor Tanev,male,1957-10-30,11,,,,Todor Tanev
 Q19708041,Vassil Shtonov,male,1972-04-25,11,,,,
@@ -222,7 +222,7 @@ Q30317864,Emil Karanikolov,male,1980-06-03,11,,,"Emil Karanikolov, Minister of E
 Q30329560,Mariya Pavlova,female,1971,9,,,,
 Q30329734,Daniela Dasheva,female,1961,9,,,,
 Q31191793,Malina Krumova,female,1976,9,,,,
-Q31191837,Тома Биков,male,1980-10-10,11,,,Toma Bikov.jpg,
+Q31191837,Toma Bikov,male,1980-10-10,11,,,Toma Bikov.jpg,
 Q31192046,Hristo Bozukov,male,1960-01-14,11,,,,
 Q31192182,Galab Donev,male,1967-02-28,11,,,"Galab Donev full portrait, 2021.jpg",Galab Donev
 Q31192883,Nikolaï Pavlov,male,1975-02-09,11,,,,
@@ -237,8 +237,8 @@ Q432093,Nadezhda Neynski,female,1962-08-09,11,,,Nadezhda Mihailova.jpg,Nadezhda 
 Q433338,Iliana Yotova,female,1964-10-24,11,,,Iliyana Yotova.jpg,Iliana Iotova
 Q4427187,Yordan Sokolov,male,1933-01-18,11,2016-02-24,11,,Yordan Sokolov
 Q444718,Yordanka Fandakova,female,1962-04-12,11,,,High-hevel Conference Dedicated to EU Cohesion Policy Handshake (28793180168) (Yordanka Fandakova cropped).jpg,Yordanka Fandakova
-Q44762352,Георги Търновалийски,male,1963-07-24,11,,,,
-Q46423743,Младен Шишков,male,1976-01-16,11,,,,
+Q44762352,Georgi Turnovaliyski,male,1963-07-24,11,,,,
+Q46423743,Mladen Shishkov,male,1976-01-16,11,,,,
 Q466214,Margarita Popova,female,1956-05-15,11,,,Margarita popova.jpg,Margarita Popova
 Q4718233,Alexander Arabadjiev,male,1949-12-18,11,,,,Alexander Arabadjiev
 Q504776,Milen Veltchev,male,1966-03-24,11,,,Milen Velchev.jpg,Milen Veltchev
@@ -250,7 +250,7 @@ Q551547,Anyu Angelov,male,1942-12-22,11,,,Bulgarian defense minister prepares to
 Q5547113,Georgi Bliznashki,male,1956-10-04,11,,,Georgi Bliznashki (cropped).JPG,Georgi Bliznashki
 Q557086,Veselin Bliznakov,male,1944-06-18,11,,,Veselin Bliznakov 070614-D-7203T-008 0WDIC.jpg,Veselin Bliznakov
 Q56122078,Nikolay Milkov,male,1957-12-10,11,,,Nikolaymilkov.jpg,Nikolay Milkov
-Q57205064,Николай Радулов,male,1956-01-13,11,,,,
+Q57205064,Nikolay Radulov,male,1956-01-13,11,,,,
 Q57261,Georgi Parvanov,male,1957-06-28,11,,,Georgi Parvanov Senate of Poland 01.jpg,Georgi Parvanov
 Q57775,Boyko Borisov,male,1959-06-13,11,,,Tallinn Digital Summit Arrivals Boyko Borisov Cropped.jpg,Boyko Borisov
 Q58106,Nikolay Mladenov,male,1972-05-05,11,,,"EPP Political Assembly, Nickolay Mladenov (cropped).jpg",Nickolay Mladenov
@@ -281,6 +281,6 @@ Q93441449,Dimitar Stoyanov,male,1968-10-28,11,,,,
 Q943971,Martin Dimitrov,male,1977-04-13,11,,,Martin Dimitrov.png,Martin Dimitrov
 Q946742,Kristian Vigenin,male,1975-06-12,11,,,Kristian Vigenin crop.jpg,Kristian Vigenin
 Q97666454,Kostadin Angelov,male,1977-06-07,11,,,Doctor Kostadin Angelov.jpg,
-Q97837465,Ивайло Мирчев,male,1980-05-06,11,,,,
+Q97837465,Ivaylo Mirchev,male,1980-05-06,11,,,,
 Q982480,Tomislav Donchev,male,1973-08-06,11,,,Tomislav Donchev 2017-11-20 (cropped).jpg,Tomislav Donchev
 Q98921495,Desislava Akhladova,female,1974,9,,,,

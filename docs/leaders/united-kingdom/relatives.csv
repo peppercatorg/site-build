@@ -348,8 +348,8 @@ United Kingdom,Q1292384,Ted Graham,father,Q76022156,Thomas Edward Graham
 United Kingdom,Q1292384,Ted Graham,spouse,Q75951236,Margaret Golding
 United Kingdom,Q129362,"Elaine Murphy, Baroness Murphy",spouse,Q21166720,Michael Alfred Robb
 United Kingdom,Q129362,"Elaine Murphy, Baroness Murphy",spouse,Q6249887,John Murphy
+United Kingdom,Q1294899,"Edwin Plowden, Baron Plowden of Plowden",child,Q18526490,Anna Plowden
 United Kingdom,Q1294899,"Edwin Plowden, Baron Plowden of Plowden",child,Q75604291,Francis John Plowden
-United Kingdom,Q1294899,"Edwin Plowden, Baron Plowden of Plowden",child,Q75604298,
 United Kingdom,Q1294899,"Edwin Plowden, Baron Plowden of Plowden",child,Q75604299,Penelope Christina Plowden
 United Kingdom,Q1294899,"Edwin Plowden, Baron Plowden of Plowden",child,Q8013806,William Julius Lowthian Plowden
 United Kingdom,Q1294899,"Edwin Plowden, Baron Plowden of Plowden",father,Q75604549,Roger Herbert Plowden
@@ -1320,8 +1320,8 @@ United Kingdom,Q18746979,"Simon Russell, 3rd Baron Russell of Liverpool",mother,
 United Kingdom,Q18746979,"Simon Russell, 3rd Baron Russell of Liverpool",spouse,Q76147182,Gilda F. Albano
 United Kingdom,Q18753676,Philip Parham,father,Q75502536,John Carey Parham
 United Kingdom,Q18753676,Philip Parham,mother,Q75343536,Christian Mary Fitzherbert
-United Kingdom,Q18753676,Philip Parham,sibling,Q385013,Coky Giedroyc
-United Kingdom,Q18753676,Philip Parham,sibling,Q6810704,Mel Giedroyc
+United Kingdom,Q18753676,Philip Parham,relative,Q385013,Coky Giedroyc
+United Kingdom,Q18753676,Philip Parham,relative,Q6810704,Mel Giedroyc
 United Kingdom,Q18753676,Philip Parham,spouse,Q76335866,Anna Catherine Giedroyc
 United Kingdom,Q187562,"Ruth Deech, Baroness Deech",spouse,Q76335180,John Stewart Deech
 United Kingdom,Q1878797,"Lynda Chalker, Baroness Chalker of Wallasey",father,Q75561778,Sidney Henry James Bates

@@ -4,7 +4,7 @@ Q101704534,Juan Ginés Córdoba Cortijo,male,1961-12-04,11,,,,
 Q101897441,María del Carmen Sánchez Zamora,female,1982-07-13,11,,,María Carmen Sánchez in 2019.png,
 Q1021708,Ramón Luis Valcárcel Siso,male,1954-11-16,11,,,EPP Summit March 2011 Ramón Luis Valcárcel Siso.jpg,Ramón Luis Valcárcel
 Q1032587,Ernest Maragall i Mira,male,1943-01-05,11,,,Foto d'Ernest Maragall i Mira a un carrer de Barcelona.jpg,Ernest Maragall
-Q103826052,Juan González-Barba Pera,male,,,,,Juan González-Barba.jpg,
+Q103826052,Juan González-Barba Pera,male,1966,9,,,Juan González-Barba.jpg,
 Q1040591,Miriam Blasco,female,1963-12-12,11,,,Miriam Blasco (mural en Valladolid).jpg,Miriam Blasco
 Q104145672,Jaume Butinyà i Sitjà,male,1970-07-17,11,,,,
 Q104194942,Basha Changuerra,female,1984,9,,,Basha Changuerra (2021).png,
@@ -43,6 +43,7 @@ Q105845773,Manuel Jesús Acosta Elías,male,1970,9,,,,Manuel Jesús Acosta Elía
 Q105845796,Sergio Macián de Greef,male,,,,,,
 Q105847487,Jessica González Herrera,female,1989,9,,,Jessica González Herrera a Calella.png,
 Q105859953,Jordi Jordan Farnós,male,1983-02-13,11,,,,
+Q106307248,Manuel Arribas,male,,,,,,
 Q106317801,Juan José Liarte Pedreño,male,1972,9,,,,
 Q106444204,Álvaro García Ortiz,male,1967,9,,,Álvaro García Ortiz 2022 (cropped).jpg,
 Q106514206,Serigne Mbayé,male,1975-03-08,11,,,Entrevista a Serigne Mbayé 1.png,
@@ -270,12 +271,13 @@ Q107804913,María Cristina Barrios Almazor,female,,,,,,
 Q108091658,Ángeles Llive Cruz,female,1974,9,,,,
 Q108091831,Ester Vallès Pelay,female,,,,,,
 Q10819,Mariano Rajoy,male,1955-03-27,11,,,Rajoy anuncia elecciones en Cataluña 05 (cropped).jpg,Mariano Rajoy
-Q108464229,Judit Guàrdia i Torrents,female,,7,,,,
+Q108464229,Judit Guàrdia,female,,7,,,,
 Q10851260,Aina Rado Ferrando,female,1947-08-09,11,2017-04-25,11,,
 Q108527615,María Teresa Pardo Reinaldos,female,,,,,,
 Q108548270,Mónica Moreno Sánchez,female,,,,,,
 Q108784512,Manuel Durán Giménez-Rico,male,1962-12-31,11,,,,
 Q109249565,Verónica María Casal Míguez,female,1975-07-08,11,,,,
+Q109327807,Rosa María Medel Pérez,female,,,,,,
 Q10949778,Fernando Maura,male,1955-04-30,11,,,"Fernando Maura (UPyD) propone ""que una Europa de estados se transforme en una Europa de ciudadanos"".png",Fernando Maura Barandiarán
 Q1097069,Carina Mejías Sánchez,female,1964-06-19,11,,,7 Carina Mejías.JPG,
 Q10975364,Xabier Mikel Errekondo,male,1964-08-12,11,,,Xabier Mikel Errekondo en la noche electoral del 20 de noviembre de 2011.jpg,
@@ -564,6 +566,7 @@ Q111543240,María Montero Carrasco,female,,,,,,
 Q111543241,Blanca Delia Negrete Santamaría,female,,,,,,
 Q111543242,Francisco Javier Panizo García,male,,,,,,
 Q111543243,Jesus María García-Conde del Castillo,male,,,,,,
+Q111678258,Mercedes Jara Moreno,female,1963,9,,,,Mercedes Jara Moreno
 Q112002604,Miguel Mínguez Pérez,male,,,,,,
 Q112003525,Rebeca Torró,female,,,,,,
 Q112035442,Rebeca Torró Soler,female,1981-04-01,11,,,,
@@ -571,6 +574,8 @@ Q11226860,Nekane Altzelai Uliondo,female,1966-08-30,11,,,Nekane Altzelai 2008.jp
 Q112387465,Antonio Arrufat,male,1954,9,,,,
 Q11289261,Ricardo Cortés Lastra,male,1969-09-23,11,,,Ricardo Cortés Lastra.jpg,Ricardo Cortés Lastra
 Q112946785,Laura Soler Azorín,female,1980-03-19,11,,,,
+Q113499506,Jose Luis Bueno Pinto,male,,,,,,
+Q113503020,Juan Constenla Carbón,male,1964-06-24,11,,,,
 Q113583002,Leopoldo Martinez de Campos y Munoz,male,,,,,,
 Q113591547,José Hornero Gómez,male,1968,9,,,,
 Q113620494,Miguel Gómez de Aranda Villén,male,,,,,,
@@ -706,6 +711,17 @@ Q115484655,María Jesús Alonso Jiménez,female,1956-01-14,11,,,,
 Q115627709,Francisco Javier Gassó Matoses,male,,,,,,
 Q115702604,Ángeles Férriz Gómez,female,1978-02-20,11,,,María de los Ángeles Férriz (40694195934).jpg,
 Q115942273,Guillermo Kirkpatrick de la Vega,male,1967-06-08,11,,,,
+Q115972844,Eva Felicia Martínez Sánchez,female,1965-04-09,11,,,,
+Q115982143,Julio del Valle de Iscar,male,1972-02-07,11,,,,
+Q115982629,Raquel Pedraja Sáinz,female,1993-06-20,11,,,,
+Q115982863,María Inmaculada Oria López,female,1973-05-03,11,,,,
+Q115983273,Julio Navalpotro Gómez,male,1971-10-25,11,,,,
+Q115984987,José Ramón Ortega Domínguez,male,1979-05-25,11,,,,
+Q115985798,Diego Taibo Monelos,male,1975-02-23,11,,,,
+Q116007588,Onofre Miralles Martín,male,1974-10-28,11,,,,
+Q116007741,María Fernández Pérez,female,1986-10-20,11,,,,
+Q116007872,Juan Diego Requena Ruiz,male,1980-11-24,11,,,,
+Q116025412,María Victoria González Román,female,,,,,,
 Q116812,Oriol Junqueras,male,1969-04-11,11,,,Oriol Junqueras a Terrassa 2021.jpg,Oriol Junqueras
 Q11681287,Eduardo Madina,male,1976-01-11,11,,,Jornadas de Juventudes Socialistas de Olivenza con Eduardo Madina y Guillermo Fernández Vara (3).jpg,Eduardo Madina
 Q11681292,Eduardo Serra Rexach,male,1946-12-19,11,,,Eduardo Serra.jpg,Eduardo Serra Rexach
@@ -744,7 +760,7 @@ Q11696195,Nuria Espí de Navas,female,1958-07-08,11,,,,
 Q11698520,Pedro Antonio Martín Marín,male,1949-07-04,11,,,,
 Q11698889,Pere Macias,male,1956-06-14,11,,,Pere Macias i Arau - 002.jpg,Pere Macias
 Q117023,Alicia Sánchez-Camacho,female,1966-04-22,11,,,Alicia Sánchez-Camacho.jpg,Alicia Sánchez-Camacho
-Q11703587,Santiago Abascal Conde,male,1976-04-14,11,,,Santiago Abascal 2022.jpg,Santiago Abascal
+Q11703587,Santiago Abascal Conde,male,1976-04-14,11,,,Rueda de prensa de Santiago Abascal. 14.11.2022 - 52498678137 (cropped).jpg,Santiago Abascal
 Q11705211,Víctor Morlán Gracia,male,1947-05-09,11,,,,Víctor Morlán Gracia
 Q11705387,Xavier García Albiol,male,1967-12-08,11,,,Xavier García Albiol 2017b (cropped).jpg,Xavier García Albiol
 Q11705526,Ángel Luna González,male,1952-04-13,11,,,Angel Luna PSPV.jpg,
@@ -1238,7 +1254,7 @@ Q14084151,José Luis Ramos Rodríguez,male,1970-07-07,11,,,,
 Q14084185,Carmelo Romero Hernández,male,1958-10-17,11,,,,
 Q14084448,Alfredo Sancho Guardia,male,,,,,,
 Q14084661,Ana Alós,female,1969-05-11,11,,,ANA ALOS.JPG,Ana Alós
-Q14085240,María Dolores Sanchez Pliego,male,,,,,,
+Q14085240,Juan Diego Requena Ruiz,male,,,,,,
 Q14085284,Francisca Medina Teva,female,1965-11-30,11,,,,
 Q14085307,María de la Paz del Moral Milla,female,1975-06-24,11,,,,
 Q14085404,Maria Gemma Araujo Morales,female,1979-03-05,11,,,"Gemma Araujo, alcaldesa de La Línea (2014).JPG",
@@ -1294,6 +1310,7 @@ Q14089719,Eduardo Javier Contreras Linares,male,,,,,,
 Q14089760,Francisco Martin Bernabé Pérez,male,1970-04-03,11,,,,
 Q14092781,Maria José Fernández Aguerri,female,1948-04-22,11,,,,
 Q14095187,Maria Jose Ortega Gomez,female,1965-03-15,11,,,,
+Q14095985,Juan Carlos Campo de la Parte,male,,,,,,
 Q14096697,Juan Jesus Blanco Muñiz,male,,,,,,
 Q14098655,Jorge Domingo Martinez Antolin,male,,,,,,
 Q14098890,María Consolación Pablos Labajo,female,1958-06-11,11,,,María Consolación Pablos Labajo 2017 (cropped).jpeg,
@@ -1321,6 +1338,7 @@ Q14114618,María Ángeles García Herrero,female,1974-04-19,11,,,,
 Q14115662,Sara Dueñas Herranz,female,,,,,,
 Q14116694,Samuel Alons,male,,,,,,
 Q14116726,José María Bravo Gozalo,male,,,,,,
+Q14117863,José Losada Fernández,male,,,,,,
 Q14119414,José Antonio de Miguel Nieto,male,,,,,,
 Q14119495,Jesús Ángel Peregrina Molina,male,,,,,,
 Q14119558,Martin Angel Casado Miranda,male,,,,,,
@@ -3353,7 +3371,7 @@ Q54833955,Reyes Maroto,female,1973-12-19,11,,,Reyes Maroto 2020 (cropped).jpg,Re
 Q5484087,Turulito de Quart,female,1962-12-09,11,,,,
 Q54858739,Pedro Muñoz Abrines,male,1967-08-09,11,,,(Pedro Muñoz Abrines) Sesión de Control Ejecutivo Regional (41555985195) (cropped).jpg,
 Q5487424,Carlos Delgado Truyols,male,1965-05-22,11,,,Carlos Delgado Truyols.jpg,
-Q5489418,Maria Lluïsa Dubon Petrus,female,1953-08-07,11,,,,
+Q5489418,Maria Lluïsa Dubón Petrus,female,1953-08-07,11,,,,
 Q548970,Gabriel Mato Adrover,male,1961-04-29,11,,,Gabriel Mato 2012.jpg,Gabriel Mato
 Q5490255,María del Carmen de la Peña Corcuera,female,1952-11-02,11,,,,
 Q5491455,Ana Barceló Chico,female,1959-03-05,11,,,2019 12 12 Ana Barceló Chico.jpeg,
@@ -3693,7 +3711,7 @@ Q5943912,José Miguel Castillo Calvín,male,1966-07-27,11,,,,
 Q5943915,José Miguel Corvinos,male,1966-08-05,11,,,,
 Q5944060,Rafael Conde de Saro,male,1951-12-21,11,,,Rafael Conde de Saro 2014 (cropped).jpg,
 Q5944270,José Navas Amores,male,1957-12-02,11,,,,
-Q5944326,José Núñez Castain,male,1950-12-11,11,,,Jose Nunez Castain-PA.jpg,
+Q5944326,José Núñez Castain,male,1950-12-11,11,,,,
 Q5944571,José Pedro Sebastían de Erice,male,1943-05-03,11,2020-05-06,11,,
 Q5944875,José Ramón Barañano Fernández,male,1950-10-27,11,,,"The Ambassador-designate of Spain, Mr. Jose Baranano presenting his credentials to the President, Shri Pranab Mukherjee, at Rashtrapati Bhavan, in New Delhi on May 17, 2017.jpg",
 Q5945120,José Riera Siquier,male,1949-02-17,11,,,,
@@ -3828,6 +3846,7 @@ Q6069465,Pedro María Azpiazu Uriarte,male,1957-04-28,11,,,Pedro Azpiazu.jpg,Ped
 Q6069900,Pedro Quevedo Iturbe,male,1956-03-11,11,,,Pedro Quevedo.jpg,
 Q6070133,Pedro Saura,male,1962-04-26,11,,,(Pedro Saura) Firma de protocolo de colaboración entre la Junta y SEPES.jpg,
 Q6070218,Pedro Sánchez,male,1972-02-29,11,,,"Pedro Sánchez recibe al presidente de la República de Bulgaria, Rumen Radev (5) (cropped).jpg",Pedro Sánchez
+Q6072133,Percival Manglano,male,1972-11-08,11,,,Percival Manglano.jpg,
 Q6072270,Pere Rotger Llabrés,male,1951-08-18,11,,,,
 Q60745792,Gabriel Ferrán Carrión,male,1961,9,,,,
 Q6075786,Pilar Fernández Pardo,female,1959-11-03,11,,,Pfp2.jpg,
@@ -3849,6 +3868,7 @@ Q6100036,Ramón Santos,male,1955-06-03,11,,,,
 Q6100518,Raquel de la Cruz Valentín,female,1970-02-19,11,,,,
 Q61014744,Fernando de Arvizu y Galarraga,male,,,,,,
 Q6103881,Regina Plañiol,female,1959-03-20,11,,,(Regina Plañiol) Ruta Social Philip Morris (25629798637) (cropped).jpg,
+Q61060590,Natividad González Laso,female,1953-12-24,11,,,,
 Q6107387,Reyes Montiel,female,1970-08-21,11,,,Reyes Montiel.jpg,
 Q6108133,Ricardo Díez-Hochleitner Rodríguez,male,1953-06-30,11,,,,Ricardo Díez-Hochleitner Rodríguez (ambassador)
 Q6108406,Ricardo Peidró,male,1944-10-11,11,,,,
@@ -4240,7 +4260,7 @@ Q7420245,Santiago Cervera Soto,male,1965-03-27,11,,,Santiago Cervera (político)
 Q74540008,Maria Elena Martinez-Perez,female,,,,,,
 Q74549045,Tomás Guitarte,male,1961,9,,,Tomás Guitarte.jpg,Tomás Guitarte
 Q74579099,Juan Luis Steegmann Olmedillas,male,1955-07-08,11,,,,Juan Luis Steegmann Olmedillas
-Q74579100,Mireia Borrás Pabón,female,1986-10-14,11,,,Mireia Borrás (49640146636).jpg,Mireia Borrás Pabón
+Q74579100,Mireia Borrás Pabón,female,1986-10-14,11,,,20220630 Pleno - 52184291964 (cropped).jpg,Mireia Borrás Pabón
 Q74579104,Eduardo Luís Ruiz Navarro,male,1972-12,10,,,,Eduardo Luis Ruiz Navarro
 Q74579105,Carlos Hugo Fernández-Roca Suárez,male,,,,,,
 Q74579107,Georgina Trías Gil,female,,,,,,Georgina Trías Gil
@@ -4351,6 +4371,7 @@ Q8777371,Ernesto Gasco,male,1963-07-24,11,,,ErnestoWikipediaOK.jpg,Ernesto Gasco
 Q87813796,José Ramón Becerra,male,1969,9,,,Jose Ramon Becerra.jpg,
 Q8846178,Eugenio Nasarre,male,1946-03-02,11,,,Eugenio Nasarre 2009 (cropped).jpg,Eugenio Nasarre
 Q88869536,Juan Ros Alcaide,male,1956-06-10,11,,,,
+Q89189637,Daniel Senderos Oraá,male,1977-09-27,11,,,,
 Q89414292,Marine Pueyo,female,1954,9,,,Marine Pueyo 2008.jpg,
 Q8961099,Felip Puig Godes,male,1958,9,,,Felip Puig.png,Felip Puig
 Q8961338,Fernando López-Amor García,male,1952-05-06,11,,,,

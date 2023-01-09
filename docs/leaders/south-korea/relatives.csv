@@ -55,7 +55,7 @@ South Korea,Q16080266,Kim Seon-mi,spouse,Q12604838,Shim Kyu-seop
 South Korea,Q16080285,Kim Se-yeon,father,Q16180037,김진재
 South Korea,Q16080301,Kim Yang,father,Q16929680,Kim Shin
 South Korea,Q16081058,문병호,spouse,Q47004960,민유숙
-South Korea,Q16081942,박영아,spouse,Q23994986,석동현
+South Korea,Q16081942,Youngah Park,spouse,Q23994986,석동현
 South Korea,Q16083277,Suh Byung-soo,sibling,Q93752810,Suh Bum-soo
 South Korea,Q16090431,Yu Seong-yeop,sibling,Q97198138,유재길
 South Korea,Q16090573,Yoo Il-ho,father,Q3700561,Yu Chi-song
@@ -63,6 +63,7 @@ South Korea,Q16090635,Yoon Suk-yeol,father,Q111175072,Yoon Ki-jung
 South Korea,Q16090635,Yoon Suk-yeol,spouse,Q107805133,Kim Keon-hee
 South Korea,Q16091294,Lee Hye-hoon,spouse,Q33082981,Youngse Kim
 South Korea,Q16094929,Park Yoo-cheol,relative,Q16081841,Park Si-chang
+South Korea,Q16181235,Sung Wan-jong,sibling,Q24000580,Sung Il-jong
 South Korea,Q20010834,Yoo Gyeong-joon,sibling,Q12609690,Yoo Ki-june
 South Korea,Q20995,Ahn Cheol-soo,child,Q58900826,Ahn Surl-Hee
 South Korea,Q20995,Ahn Cheol-soo,spouse,Q22973121,Kim Mi-kyung
@@ -75,6 +76,7 @@ South Korea,Q21058754,Sohn Hye-won,father,Q61100567,손용우
 South Korea,Q224639,Lee Jung-hee,spouse,Q31176842,Shim Jae-hwan
 South Korea,Q236485,Han Myeong-sook,spouse,Q3365409,Park Jung-sun
 South Korea,Q24000552,Choung Tae-ok,spouse,Q62396988,Yoo Myung-hee
+South Korea,Q24000580,Sung Il-jong,sibling,Q16181235,Sung Wan-jong
 South Korea,Q24000602,Kim Hyun-kwon,spouse,Q58476377,임미애
 South Korea,Q24000620,Park Kyung-mee,spouse,Q42326418,Heejoon Myung
 South Korea,Q24000773,Chang Jung-sook,father,Q12614608,장영순
@@ -125,3 +127,4 @@ South Korea,Q81226776,Kiyoung Choi,spouse,Q87943248,Eunok Paek
 South Korea,Q93752810,Suh Bum-soo,sibling,Q16083277,Suh Byung-soo
 South Korea,Q97199071,Dong-hoon Han,child,Q111990408,Alex Eugene Han
 South Korea,Q97199071,Dong-hoon Han,relative,Q58174592,soon min lee
+South Korea,Q97199071,Dong-hoon Han,spouse,Q116040998,Eunchung Chin

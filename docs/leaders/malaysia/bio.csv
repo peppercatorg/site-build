@@ -111,7 +111,7 @@ Q113845787,Omar Mohammed,male,,,,,,
 Q113905964,Abu Bakar Othman,male,,,,,,
 Q114450216,Mohd Hasnizan Harun,male,,,,,,
 Q114850390,Nai Kao Rot,,,,,,,
-Q115074805,Adnan Abu Hassan,male,,,,,,
+Q115074805,Adnan Abu Hassan,male,1970-02-17,11,,,,Adnan Abu Hassan (politician)
 Q115091617,Verdon Bahanda,male,,,,,,
 Q115284082,Roy Angau Gingkoi,male,1979,9,,,,
 Q115285418,Riduan Rubin,male,,,,,,
@@ -189,6 +189,7 @@ Q1449940,Khairy Jamaluddin,male,1976-01-10,11,,,Yang Berhormat Khairy Jamaluddin
 Q15401713,Yeo Bee Yin,female,1983-05-26,11,,,YB Yeo Bee Yin.png,Yeo Bee Yin
 Q15467111,Abdullah of Pahang,male,1959-07-30,11,,,King Abdullah of Pahang at the Enthronement of Naruhito (1).jpg,Abdullah of Pahang
 Q15938850,Abdullah bin Jusoh,male,,,,,,
+Q15939019,Mohd Shukri bin Ramli,male,,,,,,Mohd Shukri Ramli
 Q15939073,Sheikh Ibrahim Salleh,male,,,,,,
 Q15942029,Chang Lih Kang,male,1980-10-23,11,,,Chang Lih Kang (cropped).JPG,Chang Lih Kang
 Q15994813,Wan Mohammad Khair-il Anuar Wan Ahmad,male,1960-01-16,11,2016-05-05,11,Pic dato' wan.jpg,Wan Mohammad Khair-il Anuar
@@ -233,7 +234,6 @@ Q25471649,James Jemut Masing,male,1949-03-05,11,2021-10-31,11,,James Jemut Masin
 Q25485508,Nik Muhammad Zawawi Salleh,male,1967-03-17,11,,,,Nik Muhammad Zawawi Salleh
 Q25485540,Wan Hassan Mohd Ramli,male,1957-07-17,11,,,,Wan Hassan Mohd Ramli
 Q25485909,Abdullah Husin,male,,,,,Abdullah Husin.png,
-Q25485918,Mohd Shukri Ramli,male,,,,,,Mohd Shukri Ramli
 Q25485927,Saiful Bahari Mamat,male,1967-10-28,11,,,,Satiful Bahri Mamat
 Q25485932,Ahmad Baihaki Atiqullah,male,,,,,,
 Q25485933,Ahmad Marzuk Shaary,male,1975-12-07,11,,,Ahmad Marzuk Shaary.jpg,Ahmad Marzuk Shaary
@@ -379,7 +379,7 @@ Q55847698,Kelvin Yii Lee Wuen,male,1986-08-31,11,,,,Kelvin Yii Lee Wuen
 Q55847702,Yusuf Abd. Wahab,male,1963,9,,,,Yusuf Abd. Wahab
 Q55847705,Hanifah Hajar Taib,female,1972,9,,,,Hanifah Hajar Taib
 Q55847724,Larry Sng Wei Shien,male,1979-09-14,11,,,,Larry Sng
-Q55847739,Ahmad Fadhli Shaari,male,1980-07-18,11,,,Ahmad Fadhli UAF.jpg,Ahmad Fadhli Shaari
+Q55847739,Ahmad Fadhli Shaari,male,1980-07-18,11,,,,Ahmad Fadhli Shaari
 Q55847750,Lukanisman Awang Sauni,male,,,,,,Lukanisman Awang Sauni
 Q55847764,Anyi Ngau,male,1958,9,,,,Anyi Ngau
 Q55847765,Jugah Muyang,male,1964-04-03,11,,,,Jugah Muyang
@@ -441,7 +441,7 @@ Q6894002,Mohd Nizar Zakaria,male,1969-01-03,11,,,,Mohd Nizar Zakaria
 Q6894027,Mohd Radzi Sheikh Ahmad,male,1942-02-24,11,,,,Mohd Radzi Sheikh Ahmad
 Q6933305,Mujahid Yusof Rawa,male,1964-10-25,11,,,,Mujahid Yusof Rawa
 Q6933490,Mukhriz Mahathir,male,1964-11-25,11,,,Mukhriz Mahathir.jpg,Mukhriz Mahathir
-Q6962983,Nancy Shukri,female,1961-08-05,11,,,Hajjah Nancy Shukri.png,Nancy Shukri
+Q6962983,Nancy Shukri,female,1961-08-05,11,,,Nancy.photo.jpg,Nancy Shukri
 Q7021810,Nga Kor Ming,male,1972-11-11,11,,,Davidnga.jpg,Nga Kor Ming
 Q7022259,Ngeh Koo Ham,male,1961-09-29,11,,,Datuk Ngeh KH.jpg,Ngeh Koo Ham
 Q7047541,Noh Omar,male,1958-02-23,11,,,,Noh Omar

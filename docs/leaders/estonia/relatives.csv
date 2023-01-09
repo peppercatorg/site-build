@@ -17,6 +17,9 @@ Estonia,Q12358062,Aadu Must,spouse,Q12379598,Ülle Must
 Estonia,Q12358575,Alar Karis,spouse,Q108296358,Sirje Karis
 Estonia,Q12358921,Allar Jõks,partner,Q17447251,Heidi Vilu
 Estonia,Q12359093,Ando Leps,father,Q12359961,August Leps
+Estonia,Q12359135,Andres Kork,sibling,Q12377091,Toomas Kork
+Estonia,Q12359135,Andres Kork,sibling,Q16406452,Anu Kasmel
+Estonia,Q12359135,Andres Kork,sibling,Q16408326,Jüri Kork
 Estonia,Q12359339,Anti Poolamets,sibling,Q115189677,Olev Poolamets
 Estonia,Q12360203,Barbi Pilvre,sibling,Q61111175,Glen Pilvre
 Estonia,Q12362258,Erik Salumäe,relative,Q12372220,Peeter Paenurm
@@ -257,7 +260,9 @@ Estonia,Q57289,Toomas Hendrik Ilves,spouse,Q299339,Evelin Ilves
 Estonia,Q5993313,Igor Gräzin,spouse,Q509232,Maret Maripuu
 Estonia,Q6000205,Lavly Perling,spouse,Q1424510,Jüri Pihl
 Estonia,Q6109557,Jaak Juske,father,Q16408051,Ants Juske
+Estonia,Q61111821,Siim Pohlak,father,Q11850255,Aivar Pohlak
 Estonia,Q61111821,Siim Pohlak,partner,Q12373841,Renate
+Estonia,Q61111821,Siim Pohlak,sibling,Q20528329,Anni Rahula
 Estonia,Q620859,Toomas Tõniste,sibling,Q620855,Tõnu Tõniste
 Estonia,Q6321970,Jüri Mõis,spouse,Q12376882,Tiina Mõis
 Estonia,Q64850482,Signe Riisalo,spouse,Q27430393,Tiit Riisalo

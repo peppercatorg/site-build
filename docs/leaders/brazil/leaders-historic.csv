@@ -1,14 +1,14 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Brazil,President,Fernando Henrique Cardoso,Q230578,1995-01-01,2003-01-01,male,1931-06-18,,Fernando Henrique Cardoso (1999).jpg,Fernando Henrique Cardoso
-Brazil,President,Luiz Inácio Lula da Silva,Q37181,2003-01-01,2011-01-01,male,1945-10-27,,Lula da Silva in 2023.jpg,Luiz Inácio Lula da Silva
+Brazil,President,Luiz Inácio Lula da Silva,Q37181,2003-01-01,2010-12-31,male,1945-10-27,,Luiz Inácio Lula da Silva (2023) (cropped).jpg,Luiz Inácio Lula da Silva
 Brazil,President,Dilma Rousseff,Q40722,2011-01-01,2016-08-31,female,1947-12-14,,Dilma Rousseff - foto oficial 2011-01-09 2 (cropped).jpg,Dilma Rousseff
 Brazil,President,Michel Temer,Q463533,2016-08-31,2019-01-01,male,1940-09-23,,Presidente Michel Temer (foto oficial) - cortada.jpg,Michel Temer
 Brazil,President,Jair Bolsonaro,Q10304982,2019-01-01,2023-01-01,male,1955-03-21,,Jair Bolsonaro em 24 de abril de 2019 (1) (cropped).jpg,Jair Bolsonaro
-Brazil,President,Luiz Inácio Lula da Silva,Q37181,2023-01-01,,male,1945-10-27,,Lula da Silva in 2023.jpg,Luiz Inácio Lula da Silva
+Brazil,President,Luiz Inácio Lula da Silva,Q37181,2023-01-01,,male,1945-10-27,,Luiz Inácio Lula da Silva (2023) (cropped).jpg,Luiz Inácio Lula da Silva
 Brazil,President-elect,Dilma Rousseff,Q40722,2010-10-31,2011-01-01,female,1947-12-14,,Dilma Rousseff - foto oficial 2011-01-09 2 (cropped).jpg,Dilma Rousseff
 Brazil,President-elect,Dilma Rousseff,Q40722,2014-10-26,2015-01-01,female,1947-12-14,,Dilma Rousseff - foto oficial 2011-01-09 2 (cropped).jpg,Dilma Rousseff
 Brazil,President-elect,Jair Bolsonaro,Q10304982,2018-10-28,2019-01-01,male,1955-03-21,,Jair Bolsonaro em 24 de abril de 2019 (1) (cropped).jpg,Jair Bolsonaro
-Brazil,President-elect,Luiz Inácio Lula da Silva,Q37181,2022-10-30,2022-12-31,male,1945-10-27,,Lula da Silva in 2023.jpg,Luiz Inácio Lula da Silva
+Brazil,President-elect,Luiz Inácio Lula da Silva,Q37181,2022-10-30,2022-12-31,male,1945-10-27,,Luiz Inácio Lula da Silva (2023) (cropped).jpg,Luiz Inácio Lula da Silva
 Brazil,Vice President,Marco Maciel,Q2421842,1995-01-01,2002-12-31,male,1940-07-21,2021-06-12,Marco Maciel.jpg,Marco Maciel
 Brazil,Vice President,José Alencar,Q349583,2003-01-01,2010-12-31,male,1931-10-17,2011-03-29,Jose alencar 23 out 2007.jpg,José Alencar
 Brazil,Vice President,Michel Temer,Q463533,2011-01-01,2016-08-31,male,1940-09-23,,Presidente Michel Temer (foto oficial) - cortada.jpg,Michel Temer
@@ -106,13 +106,13 @@ Brazil,Minister of Health,Eduardo Pazuello,Q94787924,2020-09-16,2021-03-23,male,
 Brazil,Minister of Health,Marcelo Queiroga,Q105969706,2021-03-23,2023-01-01,male,1963-12-01,,CAS - Comissão de Assuntos Sociais (35941643904) (cropped).jpg,Marcelo Queiroga
 Brazil,Minister of Health,Nísia Trindade Lima,Q96741667,2023-01-01,,female,1958-01-17,,Nísia Trindade Lima.jpg,
 Brazil,Minister of Human Rights,Gilberto Vergne Saboia,Q100266256,2000,2001,male,1942-05-16,,,
-Brazil,Minister of Human Rights,Silvio de Almeida,Q96591139,2023-01-01,,male,1976,,Silvio Luiz de Almeida.jpg,
+Brazil,Minister of Human Rights,Silvio de Almeida,Q96591139,2023-01-01,,male,1976,,Silvio Luiz de Almeida.jpg,Silvio Almeida
 Brazil,Minister of Indigenous Peoples,Sônia Guajajara,Q23904989,2023-01-01,,female,1974-03-06,,SoniaGuajajara (cropped).jpg,Sônia Guajajara
 Brazil,"Minister of Industry, Foreign Trade and Services",Sérgio Silva do Amaral,Q10376236,2001,2003,male,1944-06-01,,Sérgio Amaral.jpg,Sérgio Amaral
 Brazil,"Minister of Industry, Foreign Trade and Services",Luiz Fernando Furlan,Q10320727,2003-01-01,2007-03-29,male,1946,,,
 Brazil,"Minister of Industry, Foreign Trade and Services",Miguel Jorge,Q10329801,2007-03-29,2010-12-31,male,1945-03-22,,Miguel Jorge - 2008.jpg,
 Brazil,"Minister of Industry, Foreign Trade and Services",Geraldo Alckmin,Q964493,2023-01-01,,male,1952-11-07,,Assinatura de convênios do FUMEFI (24033932508).jpg,Geraldo Alckmin
-Brazil,Minister of Infrastructure,Tarcísio de Freitas,Q60392579,2019-01-01,2022-03-31,male,1975-08-19,,Valéria Bolsonaro e Tarcísio de Freitas em 2022 (cropped).jpg,Tarcísio de Freitas
+Brazil,Minister of Infrastructure,Tarcísio de Freitas,Q60392579,2019-01-01,2022-03-31,male,1975-08-19,,"Governador do Estado de São Paulo, Tarcísio de Freitas - Foto Oficial.jpg",Tarcísio de Freitas
 Brazil,Minister of Infrastructure,Marcelo Sampaio,Q111446664,2022-03-31,2023-01-01,male,,,,
 Brazil,Minister of Institutional Relations,Alexandre Padilha,Q4163528,2023-01-01,,male,1971-09,,Alexandre Padilha Vigitel 2012.JPG,Alexandre Padilha
 Brazil,Minister of Justice,José Carlos Dias,Q10309086,1999-07-19,2000-04-14,male,1939,,José Carlos Dias.jpg,
@@ -153,7 +153,7 @@ Brazil,Minister for National Integration,Carlos Antônio Vieira Fernandes,Q10046
 Brazil,Minister for National Integration,Helder Barbalho,Q3784499,2016-05-12,2018-04-06,male,1979-05-18,,Helder Barbalho em abril de 2019.jpg,Helder Barbalho
 Brazil,Minister of National Security,Raul Jungmann,Q10357609,2018-02-27,2019-01-01,male,1952-04-03,,Raul Jungmann posse Min Seg Pública.jpg,Raul Jungmann
 Brazil,"Minister of Planning, Budget, and Management",Miriam Belchior,Q10330636,2011-01-01,2015-01-01,female,1958-02-05,,Miriam Belchior (24-11-2010).jpg,
-Brazil,"Minister of Planning, Budget, and Management",Simone Tebet,Q10371678,2023-01-01,,female,1970-02-22,,Foto Oficial de Simone Tebet como Senadora (2ª versão) (cropped).jpg,Simone Tebet
+Brazil,"Minister of Planning, Budget, and Management",Simone Tebet,Q10371678,2023-01-01,,female,1970-02-22,,Simone-tebet-076.jpg,Simone Tebet
 Brazil,"Minister of Planning, Budget, and Management",Esther Dweck,Q96140229,2023-01-01,,female,1977-05-23,,CEI2016 - Comissão Especial do Impeachment 2016 (27825783406).jpg,Esther Dweck
 Brazil,Minister of Ports and Airports,Márcio França,Q10334305,2023-01-01,,male,1963-06-23,,Ordem do Ipiranga - Márcio França.jpg,Márcio França
 Brazil,Minister of Racial Equality,Anielle Franco,Q105939031,2023-01-01,,female,1985,,2018-12-10 Marielle Franco é homenageada no Dia Internacional dos Direitos Humanos na Alerj 03 (cropped).jpg,Anielle Franco
@@ -164,7 +164,7 @@ Brazil,Minister of Regional Development,Waldez Góes,Q9095459,2023-01-01,,male,1
 Brazil,"Minister of Science, Technology, Innovations and Communications",Ronaldo Sardenberg,Q7365442,1999,2002,male,1940-10-08,,RonaldoSardenberg200802ElzaFiuzaAgenciaBrasil.jpg,Ronaldo Mota Sardenberg
 Brazil,"Minister of Science, Technology, Innovations and Communications",Marcos Pontes,Q317643,2019-01-01,2022-03-31,male,1963-03-11,,Marcos Pontes.jpg,Marcos Pontes
 Brazil,"Minister of Science, Technology, Innovations and Communications",Paulo Alvim,Q111444580,2022-03-31,2023-01-01,male,,,Ministro Paulo Alvim.jpg,
-Brazil,"Minister of Science, Technology, Innovations and Communications",Luciana Barbosa de Oliveira Santos,Q10320247,2023-01-01,,female,1965-12-29,,Luciana Santos Posse Presidencia PCdoB cropped.png,Luciana Santos (politician)
+Brazil,"Minister of Science, Technology, Innovations and Communications",Luciana Santos,Q10320247,2023-01-01,,female,1965-12-29,,Luciana Santos Posse Presidencia PCdoB cropped.png,Luciana Santos (politician)
 Brazil,Minister of Social Development,Wellington Dias,Q7981381,2023-01-01,,male,1962-03-05,,Wdias2006.jpg,Wellington Dias
 Brazil,Minister of Social Security,Ricardo Berzoini,Q7322558,2003-01-01,2004-01-23,male,1960-02-10,,Ricardo Berzoini.JPG,Ricardo Berzoini
 Brazil,Minister of Social Security,Luiz Marinho,Q10320792,2007-03-29,2008-06-03,male,1959-05-20,,Luiz Marinho 2017.jpg,Luiz Marinho
@@ -185,7 +185,7 @@ Brazil,Minister of Sports,Ana Moser,Q5962051,2023-01-01,,female,1968-08-14,,Ana 
 Brazil,Minister of Tourism,Marcelo Álvaro Antônio,Q48868228,2019-01-01,2020-12-09,male,1974-02-16,,Marcelo Álvaro Antônio (cropped).jpg,Marcelo Álvaro Antônio
 Brazil,Minister of Tourism,Gilson Machado Neto,Q104605629,2020-12-09,2022-03-31,male,1968-05-12,,Gilson Machado Neto (cropped).jpg,Gilson Machado Neto
 Brazil,Minister of Tourism,Carlos Brito,Q106621007,2022-03-31,2023-01-01,male,,,,
-Brazil,Minister of Tourism,Daniela do Waguinho,Q59205144,2023-01-01,,female,1976-02-10,,Daniela Carneiro.png,
+Brazil,Minister of Tourism,Daniela Carneiro,Q59205144,2023-01-01,,female,1976-02-10,,,Daniela Carneiro
 Brazil,Minister of Transparency and Control,Waldir Pires,Q2420629,2003-01-01,2006-03-31,male,1926-10-21,2018-06-22,Waldir Pires1.jpg,Waldir Pires
 Brazil,Minister of Transparency and Control,Wagner Rosário,Q30936068,2017-05-31,2023-01-01,male,1975,,Wagner Rosário em 30 de julho de 2019 (recorte).jpg,Wagner de Campos Rosário
 Brazil,Minister of Transparency and Control,Vinícius Marques de Carvalho,Q115950553,2023-01-01,,male,1977-12-05,,,
@@ -216,6 +216,7 @@ Brazil,Secretary of Government,Luiz Eduardo Ramos,Q64682549,2019-06-13,2021-03-2
 Brazil,Secretary of Government,Flávia Arruda,Q60961728,2021-03-29,2022-03-31,female,1980-01-21,,Flavia Arruda 2019.jpg,Flávia Arruda
 Brazil,Secretary of Government,Célio Faria Júnior,Q111446916,2021-03-31,2023-01-01,male,,,Célio Faria.jpg,
 Brazil,Secretary of Institutional Security,Augusto Heleno,Q9637698,2019-01-01,2023-01-01,male,1947-10-29,,Augusto Heleno (cropped).jpg,Augusto Heleno
+Brazil,Secretary of Institutional Security,Marco Edson Gonçalves Dias,Q115959311,2023-01-01,,male,1950-02-07,,,Marco Edson Gonçalves Dias
 Brazil,Secretary of Strategic Affairs of the Presidency,Eduardo Pazuello,Q94787924,2021-06-01,,male,1963,,Eduardo Pazuello.jpg,Eduardo Pazuello
 Brazil,Attorney General,Geraldo Magela da Cruz Quintão,Q5441710,1995-01,2000-01,male,1935-07-01,,Geraldo Magela Quintao 000628-D-2987S-026.jpg,Geraldo Magela
 Brazil,Attorney General,Gilmar Mendes,Q2362405,2000-01,2002-06,male,1955-12-30,,Gilmar Mendes (cropped).jpg,Gilmar Mendes
@@ -344,7 +345,7 @@ Brazil,Governor of Rio Grande do Sul,Eduardo Leite,Q16337390,2019-01-01,2022-03-
 Brazil,Governor of Rio Grande do Sul,Ranolfo Vieira Júnior,Q59572458,2022-03-31,2023-01-01,male,1966-04-07,,Ranolfo Vieira Júnior (cropped).jpg,Ranolfo Vieira Júnior
 Brazil,Governor of Rio Grande do Sul,Eduardo Leite,Q16337390,2023-01-01,,male,1985-03-10,,Eduardo Leite no Palácio Piratini em março de 2019.jpg,Eduardo Leite
 Brazil,Governor of Rio de Janeiro,Benedita da Silva,Q4887390,2002-04-06,2003-01-01,female,1943-04-26,,Juca Ferreira recebe Benedita da Silva - 16927531275 (cropped).jpg,Benedita da Silva
-Brazil,Governor of Rio de Janeiro,Rosângela Matheus,Q3442693,2003-01-01,2006-12-31,female,1963-04-06,,Rosinha Garotinho.jpg,Rosângela Matheus
+Brazil,Governor of Rio de Janeiro,Rosinha Garotinho,Q3442693,2003-01-01,2006-12-31,female,1963-04-06,,Rosinha Garotinho.jpg,Rosângela Matheus
 Brazil,Governor of Rio de Janeiro,Luiz Fernando Pezão,Q10320733,2014-04-04,2019-01-01,male,1955-03-29,,Pezão (cropped).jpg,Luiz Fernando Pezão
 Brazil,Governor of Rio de Janeiro,Francisco Dornelles,Q8962336,2016-03-28,2016-10-31,male,1935-01-07,,Dornelles01022207.jpg,Francisco Dornelles
 Brazil,Governor of Rio de Janeiro,Francisco Dornelles,Q8962336,2018-11-29,2018-12-31,male,1935-01-07,,Dornelles01022207.jpg,Francisco Dornelles
@@ -375,7 +376,7 @@ Brazil,Governor of São Paulo,Geraldo Alckmin,Q964493,2011-01-01,2018-04-06,male
 Brazil,Governor of São Paulo,Márcio França,Q10334305,2018-04-06,2019-01-01,male,1963-06-23,,Ordem do Ipiranga - Márcio França.jpg,Márcio França
 Brazil,Governor of São Paulo,João Doria,Q10311413,2019-01-01,2022-03-31,male,1957-12-16,,Foto oficial de João Dória como Governador de São Paulo.jpg,João Doria
 Brazil,Governor of São Paulo,Rodrigo Garcia,Q10363867,2022-04-01,2023-01-01,male,1974-05-10,,"Secretário Estadual da Habitação de São Paulo, Rodrigo Garcia em 2017 (cropped).jpg",Rodrigo Garcia (politician)
-Brazil,Governor of São Paulo,Tarcísio de Freitas,Q60392579,2023-01-01,,male,1975-08-19,,Valéria Bolsonaro e Tarcísio de Freitas em 2022 (cropped).jpg,Tarcísio de Freitas
+Brazil,Governor of São Paulo,Tarcísio de Freitas,Q60392579,2023-01-01,,male,1975-08-19,,"Governador do Estado de São Paulo, Tarcísio de Freitas - Foto Oficial.jpg",Tarcísio de Freitas
 Brazil,Governor of Tocantins,Mauro Carlesse,Q50844911,2018-04-19,2021-10-20,male,1960-06-25,,2019-12-12 Cerimônia Alusiva à Visita do Presidente da República ao Estado do Tocantins (cropped).jpg,Mauro Carlesse
 Brazil,Governor of Tocantins,Wanderlei Barbosa Castro,Q94175645,2021-10-20,,male,1964-03-12,,"Wanderlei Barbosa, Governador em exercício do Tocantins.jpg",
 Brazil,Mayor of São Paulo,Celso Pitta,Q1857846,1997-01-01,2000-12-31,male,1946-09-29,2009-11-20,Celso Pitta.jpg,Celso Pitta
@@ -385,7 +386,7 @@ Brazil,Mayor of São Paulo,Gilberto Kassab,Q2546210,2006-03-31,2012-12-31,male,1
 Brazil,Mayor of São Paulo,Fernando Haddad,Q3069485,2013-01-01,2017-01-01,male,1963-01-25,,Fernando Haddad Prefeito 2016.jpg,Fernando Haddad
 Brazil,Mayor of São Paulo,João Doria,Q10311413,2017-01-01,2018-04-06,male,1957-12-16,,Foto oficial de João Dória como Governador de São Paulo.jpg,João Doria
 Brazil,Mayor of São Paulo,Bruno Covas,Q9667541,2018-04-06,2021-05-16,male,1980-04-07,2021-05-16,Bruno Covas Prefeito de SP.jpg,Bruno Covas
-Brazil,Mayor of São Paulo,Ricardo Nunes,Q56195607,2021-05-16,,male,1967-11-13,,Ricardo Nunes em Coletiva de Imprensa.jpg,Ricardo Nunes (politician)
+Brazil,Mayor of São Paulo,Ricardo Nunes,Q56195607,2021-05-16,,male,1967-11-13,,"Ricardo Nunes, prefeito de São Paulo.jpg",Ricardo Nunes (politician)
 Brazil,president of the Legislative Assembly of Amazonas,David Almeida,Q10264374,2017-02-01,2019-02-01,male,1969-02-08,,Deputado Estadual David Almeida (Foto anterior).jpg,David Almeida
 Brazil,president of the Legislative Assembly of Bahia,Marcelo Nilo,Q59204024,2007-02-01,2017-01-31,male,1955,,Cerimônia de instalação da Academia de Ciências da Bahia na FIEB.jpg,
 Brazil,president of the Legislative Assembly of Bahia,Angelo Coronel,Q56346750,2017-02-01,2019-02-01,male,1958,,Angelo-coronel.jpg,

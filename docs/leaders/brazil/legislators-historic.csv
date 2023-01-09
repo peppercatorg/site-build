@@ -78,7 +78,7 @@ Brazil,Senator,Reditario Cassol,Q10358356,2015-02-01,2019-01-31,male,1936-04-07,
 Brazil,Senator,Ricardo Ferraço,Q10361128,2015-02-01,2019-01-31,male,1963-08-17,,Ricardo Ferraço21nov11.jpg,Ricardo Ferraço
 Brazil,Senator,Ronaldo Caiado,Q10364348,2015-02-01,2019-01-01,male,1949-09-25,,Ronaldo Caiado em abril de 2019.jpg,Ronaldo Caiado
 Brazil,Senator,Rose de Freitas,Q10364598,2015-02-01,2019-01-31,female,1949-01-23,,Foto oficial de Rose de Freitas.jpg,Rose de Freitas
-Brazil,Senator,Simone Tebet,Q10371678,2015-02-01,2019-01-31,female,1970-02-22,,Foto Oficial de Simone Tebet como Senadora (2ª versão) (cropped).jpg,Simone Tebet
+Brazil,Senator,Simone Tebet,Q10371678,2015-02-01,2019-01-31,female,1970-02-22,,Simone-tebet-076.jpg,Simone Tebet
 Brazil,Senator,Sérgio Petecão,Q10376208,2015-02-01,2019-01-31,male,1960-04-24,,Sergio petecao.jpg,Sérgio Petecão
 Brazil,Senator,Valdir Raupp,Q10388739,2015-02-01,2019-01-31,male,1955-08-24,,Valdir raupp 2011.jpg,Valdir Raupp
 Brazil,Senator,Vicentinho Alves,Q10390313,2015-02-01,2019-01-31,male,1957-10-01,,Foto oficial de Vicentinho Alves.jpg,Vicentinho Alves
@@ -132,7 +132,7 @@ Brazil,Senator,Soraya Thronicke,Q59284361,2019-02-01,,female,1973-06-01,,Senador
 Brazil,Senator,Alessandro Vieira,Q59284514,2019-02-01,,male,1975-04-03,,Senador Alessandro Vieira.jpg,Alessandro Vieira
 Brazil,Federal deputy,José Lourenço Morais da Silva,Q56261164,1983,2003,male,1933-03-05,2018-10-05,,
 Brazil,Federal deputy,Sarney Filho,Q9074685,1983-03-15,2016-05-12,male,1957-06-14,,"Ministro do Meio Ambiente, Sarney Filho 2017.jpg",Sarney Filho
-Brazil,Federal deputy,Luiz Inácio Lula da Silva,Q37181,1986,,male,1945-10-27,,Lula da Silva in 2023.jpg,Luiz Inácio Lula da Silva
+Brazil,Federal deputy,Luiz Inácio Lula da Silva,Q37181,1986,,male,1945-10-27,,Luiz Inácio Lula da Silva (2023) (cropped).jpg,Luiz Inácio Lula da Silva
 Brazil,Federal deputy,Francisco Dornelles,Q8962336,1987-02-01,2007-02-01,male,1935-01-07,,Dornelles01022207.jpg,Francisco Dornelles
 Brazil,Federal deputy,Nelson Trad,Q10336120,1991,2011,male,1930-10-30,2011-12-07,Nelson Trad (cropped).jpg,Nelson Trad Sr.
 Brazil,Federal deputy,Geddel Vieira Lima,Q10288607,1991-02-01,2011-02-01,male,1959-03-18,,Geddel Vieira Lima.jpg,Geddel Vieira Lima
@@ -213,7 +213,7 @@ Brazil,Federal deputy,Lelo Coimbra,Q10317126,2015-02-01,2019-01-31,male,1954-06-
 Brazil,Federal deputy,Leonardo Picciani,Q10317356,2015-02-01,2019-01-31,male,1979-11-06,,Leonardo Picciani.jpg,Leonardo Picciani
 Brazil,Federal deputy,Leonardo Quintão,Q10317357,2015-02-01,2019-01-31,male,1975-04-01,,Leonardoquintao.png,
 Brazil,Federal deputy,Leopoldo Meyer,Q10317456,2015-02-01,2019-01-31,male,1949-11-29,,Leopoldo Meyer em outubro de 2015.jpg,
-Brazil,Federal deputy,Luciana Barbosa de Oliveira Santos,Q10320247,2015-02-01,2019-01-31,female,1965-12-29,,Luciana Santos Posse Presidencia PCdoB cropped.png,Luciana Santos (politician)
+Brazil,Federal deputy,Luciana Santos,Q10320247,2015-02-01,2019-01-31,female,1965-12-29,,Luciana Santos Posse Presidencia PCdoB cropped.png,Luciana Santos (politician)
 Brazil,Federal deputy,Luciano Ducci,Q10320298,2015-02-01,2019-01-31,male,1955-03-23,,Luciano Ducci em abril de 2016.jpg,
 Brazil,Federal deputy,Luis Carlos Heinze,Q10320531,2015-02-01,2019-01-31,male,1950-09-14,,Luis Carlos Heinze.jpg,Luis Carlos Heinze
 Brazil,Federal deputy,Luiz Carlos Hauly,Q10320658,2015-02-01,2019-01-31,male,1950-10-08,,Luiz Carlos Hauly (cropped).png,
@@ -941,7 +941,7 @@ Brazil,Federal deputy,Cristiano Vale,Q59204985,2019-02-01,,male,1970-04-10,,,
 Brazil,Federal deputy,Carlos Veras,Q59205072,2019-02-01,,male,1981-08-10,,,
 Brazil,Federal deputy,Adolfo Viana,Q59205095,2019-02-01,,male,1981-02-02,,Deputado Adolfo Viana Bahia 2019.jpg,
 Brazil,Federal deputy,Zé Vitor,Q59205141,2019-02-01,,male,1984-11-01,,Zevitordeputadofederal.jpg,
-Brazil,Federal deputy,Daniela do Waguinho,Q59205144,2019-02-01,,female,1976-02-10,,Daniela Carneiro.png,
+Brazil,Federal deputy,Daniela Carneiro,Q59205144,2019-02-01,,female,1976-02-10,,,Daniela Carneiro
 Brazil,Federal deputy,Carla Zambelli,Q59205152,2019-02-01,,male,1980,,Carla Zambelli (cropped).jpg,Carla Zambelli
 Brazil,Federal deputy,Chris Tonietto,Q59216517,2019-02-01,,female,1991,,,Chris Tonietto
 Brazil,Federal deputy,Adriana Miguel Ventura,Q59284364,2019-02-01,,female,1969-03-06,,Ministro recebe deputadas (50272307573).jpg,
@@ -1877,6 +1877,7 @@ Brazil,state deputy of Piauí,Pablo Santos,Q59246868,2019-02-01,,male,,,,
 Brazil,state deputy of Piauí,Franzé Silva,Q59246875,2019-02-01,,,,,,
 Brazil,state deputy of Piauí,Fábio Xavier,Q59246885,2019-02-01,,,,,,
 Brazil,state deputy of Mato Grosso do Sul,Murilo Zauith,Q10333327,1995-02-01,2003-02-01,male,1950-07-17,,Murilo Zauith (cropped).jpeg,Murilo Zauith
+Brazil,state deputy of Mato Grosso do Sul,Paulo Corrêa,Q58816324,1997-02-01,,male,1957-07-24,,Paulo Corrêa em 2018.jpg,Paulo Corrêa
 Brazil,state deputy of Mato Grosso do Sul,Laerte Tetila,Q10315552,1999-02-01,2000-12-31,male,,,,
 Brazil,state deputy of Mato Grosso do Sul,Reinaldo Azambuja,Q10358939,2007-01-02,2011-01-31,male,1963-05-13,,Reinaldo Azambuja em março de 2018 (recorte).jpg,Reinaldo Azambuja
 Brazil,state deputy of Mato Grosso do Sul,Marquinhos Trad,Q26692175,2007-02-01,2016-12-31,male,1964-08-28,,Foto editada instagram 01.png,
@@ -1884,10 +1885,9 @@ Brazil,state deputy of Mato Grosso do Sul,Cabo Almi,Q64847981,2011-02-01,2021-05
 Brazil,state deputy of Mato Grosso do Sul,Beto Pereira,Q59204158,2015-02-01,2019-01-31,male,1977,,Beto Pereira (cropped).jpg,
 Brazil,state deputy of Mato Grosso do Sul,Coronel David,Q59226625,2019-01-01,,male,1965-01-27,,Coronel David.jpg,
 Brazil,state deputy of Mato Grosso do Sul,Londres Machado,Q10319645,2019-02-01,,male,1942-02-03,,,Londres Machado
-Brazil,state deputy of Mato Grosso do Sul,Eduardo Rocha,Q110161239,2019-02-01,,male,1966-01-01,,,
+Brazil,state deputy of Mato Grosso do Sul,Eduardo Rocha,Q110161239,2019-02-01,,male,1966-01-01,,,Eduardo Rocha
 Brazil,state deputy of Mato Grosso do Sul,Onevan de Matos,Q18279067,2019-02-01,,male,1942-12-17,2020-11-13,OnevanMatos.jpg,
 Brazil,state deputy of Mato Grosso do Sul,Renato Câmara,Q21020270,2019-02-01,,male,1972-09-07,,,
-Brazil,state deputy of Mato Grosso do Sul,Paulo Corrêa,Q58816324,2019-02-01,,male,1957-07-24,,Paulo Corrêa em 2018.jpg,
 Brazil,state deputy of Mato Grosso do Sul,Cabo Almi,Q59226203,2019-02-01,,,,,,
 Brazil,state deputy of Mato Grosso do Sul,Barbosinha,Q59226405,2019-02-01,,,,,,
 Brazil,state deputy of Mato Grosso do Sul,Herculano Borges,Q59226413,2019-02-01,,,,,,
@@ -2036,7 +2036,7 @@ Brazil,federal deputy representing Rio de Janeiro,Carlos Jordy,Q59203243,2019-02
 Brazil,federal deputy representing Rio de Janeiro,Márcio da Silveira Labre,Q59203314,2019-02-01,,male,1974,,Deputado Federal Marcio Labre.jpg,Márcio Labre
 Brazil,federal deputy representing Rio de Janeiro,Luiz Antônio de Souza Teixeira Júnior,Q59203672,2019-02-01,,male,1973-12-15,,,
 Brazil,federal deputy representing Rio de Janeiro,Gutemberg Reis,Q59204238,2019-02-01,,male,1979-09-09,,,
-Brazil,federal deputy representing Rio de Janeiro,Daniela do Waguinho,Q59205144,2019-02-01,,female,1976-02-10,,Daniela Carneiro.png,
+Brazil,federal deputy representing Rio de Janeiro,Daniela Carneiro,Q59205144,2019-02-01,,female,1976-02-10,,,Daniela Carneiro
 Brazil,federal deputy representing Rio de Janeiro,Hélio Fernando Barbosa Lopes,Q59212917,2019-02-01,,male,1969-03-28,,Hélio Fernando Barbosa Lopes.jpg,Hélio Fernando Barbosa Lopes
 Brazil,federal deputy representing Rio de Janeiro,Chris Tonietto,Q59216517,2019-02-01,,female,1991,,,Chris Tonietto
 Brazil,federal deputy representing Rio de Janeiro,Juninho Do Pneu,Q59284484,2019-02-01,,male,1976,,,
