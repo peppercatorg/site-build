@@ -11448,6 +11448,43 @@ Pakistan,Q8071909,Zille Huma,mother,Q466955,Noor Jehan
 Palau,Q26703072,Surangel Whipps Jr.,father,Q7645397,Surangel S. Whipps
 Palau,Q336285,Tommy Remengesau,father,Q878369,Thomas Remengesau
 Palau,Q7645397,Surangel S. Whipps,child,Q26703072,Surangel Whipps Jr.
+Palestine,Q100704897,Hazem Abu Shanab,father,Q100704996,Husayn Abu Shanab
+Palestine,Q100742679,رؤوف المالكي,sibling,Q2895694,Riyad al-Maliki
+Palestine,Q100997808,Ibrahim Al-Zabin,sibling,Q100997809,فادي الزبن
+Palestine,Q100997809,فادي الزبن,sibling,Q100997808,Ibrahim Al-Zabin
+Palestine,Q101000941,Jamila Saidam,child,Q25454018,صبري صيدم
+Palestine,Q101000941,Jamila Saidam,spouse,Q106521728,ممدوح صيدم
+Palestine,Q102015800,وليد حسن,sibling,Q106777200,Samih Abdel Fattah
+Palestine,Q104092855,Mohammed Rashid Ja'abari,father,Q6932374,Muhammad Ali Ja'abari
+Palestine,Q104775812,Anis al-Qaq,spouse,Q15077856,Sigrid Kaag
+Palestine,Q106354875,Mofeed Abd Rabbo,sibling,Q99912690,Walid Abd Rabbo
+Palestine,Q106451153,مروان كنفاني,sibling,Q12224526,ʻAdnān Kanafānī
+Palestine,Q106451153,مروان كنفاني,sibling,Q369696,Ghassan Kanafani
+Palestine,Q106777200,Samih Abdel Fattah,sibling,Q102015800,وليد حسن
+Palestine,Q107404833,جبر أبو النجا,sibling,Q98918783,Ibrahim Abu Al-Naja
+Palestine,Q10859680,Intissar al-Wazir,child,Q100701462,جهاد الوزير
+Palestine,Q10859680,Intissar al-Wazir,spouse,Q510981,Khalil al-Wazir
+Palestine,Q111932890,Rula Al Mhaissen,father,Q12205837,Jamal AlMuhisin
+Palestine,Q114455283,سلام الزواوي,father,Q25424401,Salah Zawawi
+Palestine,Q114568789,Mona Abu Amara,mother,Q98713262,Intisar Abu Amara
+Palestine,Q114784690,Salah al-Din Salah,relative,Q71397951,Abd al-Latif Salah
+Palestine,Q114784690,Salah al-Din Salah,sibling,Q102228052,Abdullah Amin Salah
+Palestine,Q12189830,Al Tayeb Abdul Rahim,father,Q12222828,ʻAbd al-Raḥīm Maḥmūd
+Palestine,Q127998,Mahmoud Abbas,child,Q8049874,Yasser Abbas
+Palestine,Q127998,Mahmoud Abbas,spouse,Q30277579,Amina Abbas
+Palestine,Q1963057,Leila Shahid,father,Q27709335,Munib Shahid
+Palestine,Q1963057,Leila Shahid,mother,Q3485269,Serene Husseini Shahid
+Palestine,Q19976820,Hala Fariz,spouse,Q47526457,Musa Amer Odeh
+Palestine,Q2213790,Salah Abdel Shafi,father,Q2587345,Haidar Abdel-Shafi
+Palestine,Q2895694,Riyad al-Maliki,sibling,Q100742679,رؤوف المالكي
+Palestine,Q47526457,Musa Amer Odeh,spouse,Q19976820,Hala Fariz
+Palestine,Q89488504,Salah Tamari,spouse,Q2914726,Dina bint Abdul-Hamid
+Palestine,Q89792760,Abdul Rahman Hamad,sibling,Q96240826,Amal Hamad
+Palestine,Q99456390,ياسر النجار,father,Q1608203,Mohamed Youssef alnajjar
+Palestine,Q99581280,Jubran Altawil,mother,Q3421254,Raymonda Tawil
+Palestine,Q99581280,Jubran Altawil,sibling,Q253667,Suha Arafat
+Palestine,Q99979978,Maher Ghoneim,father,Q4670257,Abu Maher Ghneim
+Palestine,Q99979978,Maher Ghoneim,sibling,Q98959579,مازن غنيم
 Panama,Q104007593,Natalia Royo,father,Q665630,Arístides Royo
 Panama,Q104007593,Natalia Royo,mother,Q79932627,Adela Ruiz de Royo
 Panama,Q1134096,Juan Carlos Varela,spouse,Q16913059,Lorena Castillo de Varela
