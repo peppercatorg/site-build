@@ -21141,6 +21141,8 @@ United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",child,Q76101
 United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",father,Q75718705,John George Embleton Welch
 United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",mother,Q75901227,Elizabeth Cowan
 United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",spouse,Q75946999,George Walter Perry
+United States,Q101196632,Jake Auchincloss,father,Q104889905,Hugh Auchincloss
+United States,Q101196632,Jake Auchincloss,sibling,Q116036042,Hugh Auchincloss
 United States,Q101243561,Katy Duhigg,sibling,Q5076992,Charles Duhigg
 United States,Q10390,John McCain,child,Q22810646,James R. D. McCain
 United States,Q10390,John McCain,child,Q22810647,Sidney McCain
@@ -21393,6 +21395,7 @@ United States,Q16730829,Rusty Kidd,sibling,Q515981,Tillie K. Fowler
 United States,Q16731303,Larry Hogan,father,Q2045555,Lawrence J. Hogan
 United States,Q16731303,Larry Hogan,sibling,Q7147309,Patrick N. Hogan
 United States,Q16731303,Larry Hogan,spouse,Q19880284,Yumi Hogan
+United States,Q16734430,Jamescita Peshlakai,mother,Q116142354,Mae Peshlakai
 United States,Q1683881,Jason Chaffetz,father,Q108002677,John Chaffetz
 United States,Q1683881,Jason Chaffetz,relative,Q6230322,John Dukakis
 United States,Q1683881,Jason Chaffetz,sibling,Q108003544,Alex Chaffetz
@@ -22349,7 +22352,7 @@ United States,Q7384672,Ryan Zinke,child,Q42409564,Wolf Zinke
 United States,Q740345,John Kitzhaber,partner,Q18808619,Cylvia Hayes
 United States,Q74046740,Ragen Hatcher,father,Q7325826,Richard G. Hatcher
 United States,Q740636,Jerry Weller,spouse,Q1846075,Zury Ríos
-United States,Q7416551,Sandra Bolden Cunningham,spouse,Q5568745,Glenn Cunningham
+United States,Q7416551,Sandra Bolden Cunningham,spouse,Q5568745,Glenn Dale Cunningham
 United States,Q7595813,Stacey Abrams,sibling,Q105967290,Jeanine Abrams McLean
 United States,Q7595813,Stacey Abrams,sibling,Q16146049,Leslie Joyce Abrams
 United States,Q7595813,Stacey Abrams,sibling,Q55642881,Andrea Abrams
