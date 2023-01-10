@@ -10779,6 +10779,11 @@ North Macedonia,Q2047795,Slobodan Čašule,father,Q956540,Kole Čašule
 North Macedonia,Q220579,Zoran Zaev,spouse,Q55368095,Zorica Zaeva
 North Macedonia,Q237782,Boris Trajkovski,spouse,Q12905565,Vilma Trajkovska
 North Macedonia,Q51458326,Venko Filipče,father,Q25894550,Ilija Filipče
+Northern Cyprus,Q200436,Rauf Denktaş,child,Q2272256,Serdar Denktaş
+Northern Cyprus,Q200436,Rauf Denktaş,child,Q50205479,Raif Denktaş
+Northern Cyprus,Q2272256,Serdar Denktaş,father,Q200436,Rauf Denktaş
+Northern Cyprus,Q2272256,Serdar Denktaş,sibling,Q50205479,Raif Denktaş
+Northern Cyprus,Q58174,Hüseyin Özgürgün,spouse,Q12812940,İnci Pars Özgürgün
 Northern Ireland,Q107345490,Stephen Dunne,father,Q5585084,Gordon Dunne
 Northern Ireland,Q116719,Diane Dodds,spouse,Q300243,Nigel Dodds
 Northern Ireland,Q16105286,P. J. Bradley,child,Q24083702,Sinéad Bradley
