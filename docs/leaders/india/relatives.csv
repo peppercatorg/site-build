@@ -185,6 +185,7 @@ India,Q1896096,Janaki Ballav Patnaik,spouse,Q6167612,Jayanti Patnaik
 India,Q1897029,Margaret Alva,spouse,Q113153085,Niranjan Thomas Alva
 India,Q1897475,Nikhil Kumar,spouse,Q16106092,Shyama Singh
 India,Q19517706,Pravat Tripathy,child,Q62555402,Devi Ranjan Tripathy
+India,Q19542856,Kunal Sarangi,father,Q28800824,Dinesh Sarangi
 India,Q195616,Shashi Tharoor,spouse,Q7638829,Sunanda Pushkar
 India,Q19662756,Sunil Jakhar,father,Q3497331,Balram Jakhar
 India,Q19896274,Molvi Imran Raza Ansari,father,Q16257882,Molvi Iftikhar Hussain Ansari
@@ -227,6 +228,7 @@ India,Q2319562,Javed Akhtar,sibling,Q7405394,Salman Akhtar
 India,Q2319562,Javed Akhtar,spouse,Q465863,Shabana Azmi
 India,Q2319562,Javed Akhtar,spouse,Q764803,Honey Irani
 India,Q235454,K. R. Narayanan,spouse,Q20737795,Usha Narayanan
+India,Q23887623,Nalamada Padmavathi Reddy,spouse,Q6960784,Nalamada Uttam Kumar Reddy
 India,Q23908915,N. Jayaraj,father,Q6323684,K. Narayana Kurup
 India,Q24007160,Jameela Prakasam,father,Q20559146,R. Prakasam
 India,Q24007160,Jameela Prakasam,spouse,Q16259464,Neelalohithadasan Nadar
@@ -243,6 +245,8 @@ India,Q251790,H. D. Kumaraswamy,sibling,Q5628154,H. D. Revanna
 India,Q251790,H. D. Kumaraswamy,spouse,Q53999083,Anitha Kumaraswamy
 India,Q251790,H. D. Kumaraswamy,spouse,Q6448629,Radhika Kumaraswamy
 India,Q25589441,V. R. Sunil Kumar,father,Q16136653,വി.കെ. രാജൻ
+India,Q25748324,K. T. Rama Rao,father,Q33168,K. Chandrashekar Rao
+India,Q25748324,K. T. Rama Rao,sibling,Q6323498,K. Kavitha
 India,Q2600379,Agatha Sangma,father,Q2741772,P. A. Sangma
 India,Q2600379,Agatha Sangma,sibling,Q15978423,James Sangma
 India,Q2600379,Agatha Sangma,sibling,Q5162596,Conrad Sangma
@@ -314,6 +318,8 @@ India,Q313515,Salman Khurshid,father,Q6403123,Khurshed Alam Khan
 India,Q313515,Salman Khurshid,mother,Q62579970,Saeeda Khurshid
 India,Q314351,Sachin Pilot,father,Q7286080,Rajesh Pilot
 India,Q314351,Sachin Pilot,spouse,Q62746064,Sara Pilot
+India,Q3195789,Akbaruddin Owaisi,father,Q3764420,Sultan Salahuddin Owaisi
+India,Q3195789,Akbaruddin Owaisi,sibling,Q3210225,Asaduddin Owaisi
 India,Q3195894,Om Prakash Chautala,child,Q16194996,Abhay Chautala
 India,Q3195894,Om Prakash Chautala,child,Q4699661,Ajay Singh Chautala
 India,Q3195894,Om Prakash Chautala,father,Q1764533,Chaudhary Devi Lal
@@ -598,6 +604,7 @@ India,Q540605,M. K. Alagiri,sibling,Q467231,Kanimozhi
 India,Q540605,M. K. Alagiri,sibling,Q983475,M. K. Stalin
 India,Q5512311,G. Karthikeyan,child,Q20716260,K. S. Sabarinathan
 India,Q5512311,G. Karthikeyan,relative,Q105988314,Divya S. Iyer
+India,Q5512393,G. Parameshwara,relative,Q55084157,Siddhanth
 India,Q5512543,G. Vivekanand,father,Q3764490,G. Venkatswamy
 India,Q55406,Shyam Benegal,relative,Q149136,Guru Dutt
 India,Q55406,Shyam Benegal,relative,Q55647621,Atma Ram

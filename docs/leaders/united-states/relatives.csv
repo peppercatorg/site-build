@@ -302,6 +302,7 @@ United States,Q184650,Donald Rumsfeld,mother,Q98807063,Jeannette Husted
 United States,Q184650,Donald Rumsfeld,relative,Q74703207,Lew Sarett
 United States,Q184650,Donald Rumsfeld,spouse,Q108709308,Joyce Pierson
 United States,Q1855840,Xavier Becerra,spouse,Q111411382,Carolina Reyes
+United States,Q18631143,Mark Brnovich,spouse,Q47488435,Susan Brnovich
 United States,Q18631533,Carlos Curbelo,relative,Q1388356,Mike Lowell
 United States,Q18637989,Jay Trumbull,father,Q114141411,Jay Trumbull Sr.
 United States,Q18684027,Amata Coleman Radewagen,father,Q2331562,Peter Tali Coleman
@@ -924,6 +925,7 @@ United States,Q5258380,Dennis Egan,father,Q878916,William Allen Egan
 United States,Q5271471,Diane Grendell,spouse,Q7803572,Tim Grendell
 United States,Q527493,Duncan L. Hunter,child,Q540521,Duncan D. Hunter
 United States,Q527553,George Allen,father,Q5536190,George Allen
+United States,Q529140,Lisa Madigan,father,Q961894,Michael Madigan
 United States,Q529344,Ron Wyden,father,Q129364,Peter H. Wyden
 United States,Q529344,Ron Wyden,relative,Q63344,Franz Weidenreich
 United States,Q529344,Ron Wyden,spouse,Q87434148,Nancy Bass Wyden
@@ -948,6 +950,7 @@ United States,Q538331,Brad Henry,spouse,Q6408717,Kim Henry
 United States,Q538375,Pat Roberts,father,Q5006972,C. Wesley Roberts
 United States,Q538609,Mel Carnahan,spouse,Q448619,Jean Carnahan
 United States,Q5386615,Eric Greitens,spouse,Q104212629,Sheena Chestnut Greitens
+United States,Q5387459,Eric Schneiderman,father,Q38105565,Irwin Schneiderman
 United States,Q538868,Joe Manchin,child,Q5693758,Heather Bresch
 United States,Q538868,Joe Manchin,relative,Q4647998,A. James Manchin
 United States,Q538868,Joe Manchin,spouse,Q5528787,Gayle Conelly Manchin
@@ -1113,6 +1116,7 @@ United States,Q6386365,Kellyanne Conway,child,Q96880237,Claudia Conway
 United States,Q6386365,Kellyanne Conway,spouse,Q28964312,George T. Conway III
 United States,Q63879,Chris Christie,father,Q20177152,Bill Christie
 United States,Q63879,Chris Christie,spouse,Q20176598,Mary Pat Christie
+United States,Q6388290,Ken Paxton,spouse,Q60639272,Angela Paxton
 United States,Q639207,Jim Gibbons,spouse,Q5242449,Dawn Gibbons
 United States,Q6395324,Ketanji Brown Jackson,spouse,Q111016257,Patrick Jackson
 United States,Q64011226,Rhonda Knudsen,child,Q4823159,Austin Knudsen
@@ -1268,6 +1272,15 @@ United States,Q8000233,Wilbur Ross,spouse,Q4898310,Betsy McCaughey
 United States,Q8000233,Wilbur Ross,spouse,Q63286186,Hilary Geary Ross
 United States,Q8017213,William R. Haine,spouse,Q107121451,Anna Haine
 United States,Q81015135,Colleen Sullivan-Leonard,father,Q16018603,George M. Sullivan
+United States,Q813332,Beau Biden,child,Q100605198,Natalie Biden
+United States,Q813332,Beau Biden,child,Q100605200,Robert Biden II
+United States,Q813332,Beau Biden,father,Q6279,Joe Biden
+United States,Q813332,Beau Biden,mother,Q19285477,Neilia Hunter
+United States,Q813332,Beau Biden,sibling,Q5944264,Hunter Biden
+United States,Q813332,Beau Biden,sibling,Q97588420,Ashley Biden
+United States,Q813332,Beau Biden,sibling,Q98854696,Naomi Biden
+United States,Q813332,Beau Biden,spouse,Q100598212,Hallie Biden
+United States,Q813332,Beau Biden,stepparent,Q235349,Jill Biden
 United States,Q816457,Ben Cayetano,spouse,Q44634589,Vicky Cayetano
 United States,Q816459,Ben Carson,child,Q22575806,Rhoeyce Carson
 United States,Q816459,Ben Carson,child,Q22575807,Murray Carson

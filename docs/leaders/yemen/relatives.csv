@@ -1,26 +1,26 @@
 catalog,id,name,relationship,relative,relativename
 Yemen,Q16124826,Hashem Abdullah Hussain Al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Yemen,Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Yemen,Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Yemen,Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Yemen,Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
 Yemen,Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q475105,Sadiq al-Ahmar
 Yemen,Q16124826,Hashem Abdullah Hussain Al-Ahmar,sibling,Q5644670,Hamid al-Ahmar
 Yemen,Q16127688,Hussain Abdullah Hussain al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Yemen,Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
-Yemen,Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Yemen,Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Yemen,Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
 Yemen,Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q475105,Sadiq al-Ahmar
 Yemen,Q16127688,Hussain Abdullah Hussain al-Ahmar,sibling,Q5644670,Hamid al-Ahmar
-Yemen,Q16297599,حمير عبد الله حسين الأحمر,father,Q307637,Abdullah ibn Husayn al-Ahmar
-Yemen,Q16297599,حمير عبد الله حسين الأحمر,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
-Yemen,Q16297599,حمير عبد الله حسين الأحمر,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Yemen,Q16297599,حمير عبد الله حسين الأحمر,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
-Yemen,Q16297599,حمير عبد الله حسين الأحمر,sibling,Q475105,Sadiq al-Ahmar
-Yemen,Q16297599,حمير عبد الله حسين الأحمر,sibling,Q5644670,Hamid al-Ahmar
+Yemen,Q16297599,Himyar Abdullah al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
+Yemen,Q16297599,Himyar Abdullah al-Ahmar,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
+Yemen,Q16297599,Himyar Abdullah al-Ahmar,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
+Yemen,Q16297599,Himyar Abdullah al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
+Yemen,Q16297599,Himyar Abdullah al-Ahmar,sibling,Q475105,Sadiq al-Ahmar
+Yemen,Q16297599,Himyar Abdullah al-Ahmar,sibling,Q5644670,Hamid al-Ahmar
 Yemen,Q16297809,مذحج عبد الله بن حسين الأحمر,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Yemen,Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
 Yemen,Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Yemen,Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Yemen,Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Yemen,Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q475105,Sadiq al-Ahmar
 Yemen,Q16297809,مذحج عبد الله بن حسين الأحمر,sibling,Q5644670,Hamid al-Ahmar
 Yemen,Q16297850,Yaser Ahmed Salem Al-awadhi,father,Q16119356,أحمد سالم أحمد عبد الله العواضي
@@ -31,7 +31,7 @@ Yemen,Q4539761,Yahia Badreddin al-Houthi,sibling,Q26157431,Abdul Khaliq Al-Houth
 Yemen,Q475105,Sadiq al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Yemen,Q475105,Sadiq al-Ahmar,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
 Yemen,Q475105,Sadiq al-Ahmar,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Yemen,Q475105,Sadiq al-Ahmar,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Yemen,Q475105,Sadiq al-Ahmar,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Yemen,Q475105,Sadiq al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
 Yemen,Q475105,Sadiq al-Ahmar,sibling,Q5644670,Hamid al-Ahmar
 Yemen,Q483672,Ali Abdullah Saleh,child,Q22683205,Khaled Ali Abdullah Saleh
@@ -51,7 +51,7 @@ Yemen,Q483672,Ali Abdullah Saleh,spouse,Q108709828,Asma Saleh
 Yemen,Q5644670,Hamid al-Ahmar,father,Q307637,Abdullah ibn Husayn al-Ahmar
 Yemen,Q5644670,Hamid al-Ahmar,sibling,Q16124826,Hashem Abdullah Hussain Al-Ahmar
 Yemen,Q5644670,Hamid al-Ahmar,sibling,Q16127688,Hussain Abdullah Hussain al-Ahmar
-Yemen,Q5644670,Hamid al-Ahmar,sibling,Q16297599,حمير عبد الله حسين الأحمر
+Yemen,Q5644670,Hamid al-Ahmar,sibling,Q16297599,Himyar Abdullah al-Ahmar
 Yemen,Q5644670,Hamid al-Ahmar,sibling,Q16297809,مذحج عبد الله بن حسين الأحمر
 Yemen,Q5644670,Hamid al-Ahmar,sibling,Q475105,Sadiq al-Ahmar
 Yemen,Q59334743,Kboul Mutawakil,father,Q12240753,Mohammed Abdel malek al-mutawakel
