@@ -3,6 +3,9 @@ Australia,Q101068208,Amanda Camm,relative,Q21537624,Ron Camm
 Australia,Q101071308,Jimmy Sullivan,father,Q7705056,Terry Sullivan
 Australia,Q102105618,Jeannette Young,spouse,Q106577054,Graeme Nimmo
 Australia,Q105949236,Hannah Beazley,father,Q304561,Kim Beazley
+Australia,Q105949236,Hannah Beazley,relative,Q2266155,Kim Beazley
+Australia,Q105949236,Hannah Beazley,relative,Q4898868,Betty Judge
+Australia,Q105949236,Hannah Beazley,relative,Q7488222,Shane Paltridge
 Australia,Q106318802,Ayor Makur Chuot,sibling,Q38339872,Akec Makur Chuot
 Australia,Q107015364,Barbara Baker,father,Q16011139,Bob Baker
 Australia,Q107015364,Barbara Baker,mother,Q2838322,Alison Burton
@@ -112,6 +115,7 @@ Australia,Q28957223,Jessica Stojkovski,father,Q7823083,Tony O'Gorman
 Australia,Q304561,Kim Beazley,child,Q105949236,Hannah Beazley
 Australia,Q304561,Kim Beazley,father,Q2266155,Kim Beazley
 Australia,Q304561,Kim Beazley,mother,Q4898868,Betty Judge
+Australia,Q304561,Kim Beazley,relative,Q7488222,Shane Paltridge
 Australia,Q3180236,Joel Fitzgibbon,father,Q5386488,Eric Fitzgibbon
 Australia,Q3263659,Louise Asher,spouse,Q7363527,Ron Best
 Australia,Q3305274,Richard Court,father,Q3308826,Charles Court

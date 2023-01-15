@@ -23,7 +23,7 @@ Brazil,Minister of Cities,Mário Negromonte,Q10334497,2011-01-03,2012-02-02,male
 Brazil,Minister of Cities,Elton Santa Fé Zacarias,Q100481143,2015-02-12,2016-04-26,male,1961,,"CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática (32906410533).jpg",
 Brazil,Minister of Cities,Inês da Silva Magalhães,Q25439030,2016-04-15,2016-05-12,female,1963,,Bild von Inês Magalhães.jpg,
 Brazil,Minister of Cities,Marco Aurélio de Queiroz Campos,Q100700851,2017-05-19,2017-12-20,male,1971,,,
-Brazil,Minister of Cities,Jader Barbalho Filho,Q115945653,2023-01-01,,male,1980-10-04,,,
+Brazil,Minister of Cities,Jader Barbalho Filho,Q115945653,2023-01-01,,male,1980-10-04,,,Jader Barbalho Filho
 Brazil,Minister of Citizenship,Osmar Terra,Q10342262,2019-01-01,2020-02-13,male,1950-02-18,,Osmar Terra em 19 de julho de 2019 (recorte).jpg,Osmar Terra
 Brazil,Minister of Citizenship,Onyx Lorenzoni,Q10341050,2020-02-18,2021-02-12,male,1954-10-03,,Onyx Lorenzoni em 2019.jpg,Onyx Lorenzoni
 Brazil,Minister of Citizenship,João Roma,Q59204311,2021-02-12,2022-03-31,male,1972-11-17,,João Roma.png,João Roma
@@ -31,7 +31,7 @@ Brazil,Minister of Citizenship,Ronaldo Bento,Q111446919,2022-03-31,2023-01-01,ma
 Brazil,Minister of Communications,Ricardo Berzoini,Q7322558,2015-01-01,2015-10-02,male,1960-02-10,,Ricardo Berzoini.JPG,Ricardo Berzoini
 Brazil,Minister of Communications,André Figueiredo,Q21290171,2015-10-02,2016-05-12,male,1966-11-10,,André Figueiredo (cropped).jpg,André Figueiredo
 Brazil,Minister of Communications,Fabio Faria,Q10279146,2020-06-17,2022-12-21,male,1977-09-01,,Fábio Faria em abril de 2017.jpg,Fábio Faria (politician)
-Brazil,Minister of Communications,Juscelino Filho,Q25175938,2023-01-01,,male,1984-11-06,,Deputado Federal visita o MCTIC (49653154056).jpg,
+Brazil,Minister of Communications,Juscelino Filho,Q25175938,2023-01-01,,male,1984-11-06,,Deputado Federal visita o MCTIC (49653154056).jpg,Juscelino Filho
 Brazil,Minister of Culture,Francisco Weffort,Q10285211,1995,2002,male,1937-05-17,2021-08-02,Francisco Weffort (4863178543).jpg,Francisco Weffort
 Brazil,Minister of Culture,Gilberto Gil,Q221479,2003-01-01,2008-07-30,male,1942-06-26,,25o Premio da Musica Brasileira (14209841473).jpg,Gilberto Gil
 Brazil,Minister of Culture,Marta Suplicy,Q463614,2012-09-13,2014-11-11,female,1945-03-18,,Marta Suplicy.jpg,Marta Suplicy
@@ -106,7 +106,7 @@ Brazil,Minister of Health,Eduardo Pazuello,Q94787924,2020-09-16,2021-03-23,male,
 Brazil,Minister of Health,Marcelo Queiroga,Q105969706,2021-03-23,2023-01-01,male,1963-12-01,,CAS - Comissão de Assuntos Sociais (35941643904) (cropped).jpg,Marcelo Queiroga
 Brazil,Minister of Health,Nísia Trindade Lima,Q96741667,2023-01-01,,female,1958-01-17,,Nísia Trindade Lima.jpg,
 Brazil,Minister of Human Rights,Gilberto Vergne Saboia,Q100266256,2000,2001,male,1942-05-16,,,
-Brazil,Minister of Human Rights,Silvio de Almeida,Q96591139,2023-01-01,,male,1976,,Silvio Luiz de Almeida.jpg,Silvio Almeida
+Brazil,Minister of Human Rights,Silvio de Almeida,Q96591139,2023-01-01,,male,1976,,,Silvio Almeida
 Brazil,Minister of Indigenous Peoples,Sônia Guajajara,Q23904989,2023-01-01,,female,1974-03-06,,SoniaGuajajara (cropped).jpg,Sônia Guajajara
 Brazil,"Minister of Industry, Foreign Trade and Services",Sérgio Silva do Amaral,Q10376236,2001,2003,male,1944-06-01,,Sérgio Amaral.jpg,Sérgio Amaral
 Brazil,"Minister of Industry, Foreign Trade and Services",Luiz Fernando Furlan,Q10320727,2003-01-01,2007-03-29,male,1946,,,
@@ -379,14 +379,6 @@ Brazil,Governor of São Paulo,Rodrigo Garcia,Q10363867,2022-04-01,2023-01-01,mal
 Brazil,Governor of São Paulo,Tarcísio de Freitas,Q60392579,2023-01-01,,male,1975-08-19,,"Governador do Estado de São Paulo, Tarcísio de Freitas - Foto Oficial.jpg",Tarcísio de Freitas
 Brazil,Governor of Tocantins,Mauro Carlesse,Q50844911,2018-04-19,2021-10-20,male,1960-06-25,,2019-12-12 Cerimônia Alusiva à Visita do Presidente da República ao Estado do Tocantins (cropped).jpg,Mauro Carlesse
 Brazil,Governor of Tocantins,Wanderlei Barbosa Castro,Q94175645,2021-10-20,,male,1964-03-12,,"Wanderlei Barbosa, Governador em exercício do Tocantins.jpg",
-Brazil,Mayor of São Paulo,Celso Pitta,Q1857846,1997-01-01,2000-12-31,male,1946-09-29,2009-11-20,Celso Pitta.jpg,Celso Pitta
-Brazil,Mayor of São Paulo,Marta Suplicy,Q463614,2001-01-01,2004-12-31,female,1945-03-18,,Marta Suplicy.jpg,Marta Suplicy
-Brazil,Mayor of São Paulo,José Serra,Q379563,2005-01-01,2006-03-31,male,1942-03-19,,Serradiscursando2010.jpg,José Serra
-Brazil,Mayor of São Paulo,Gilberto Kassab,Q2546210,2006-03-31,2012-12-31,male,1960-08-12,,Kassab.jpg,Gilberto Kassab
-Brazil,Mayor of São Paulo,Fernando Haddad,Q3069485,2013-01-01,2017-01-01,male,1963-01-25,,Fernando Haddad Prefeito 2016.jpg,Fernando Haddad
-Brazil,Mayor of São Paulo,João Doria,Q10311413,2017-01-01,2018-04-06,male,1957-12-16,,Foto oficial de João Dória como Governador de São Paulo.jpg,João Doria
-Brazil,Mayor of São Paulo,Bruno Covas,Q9667541,2018-04-06,2021-05-16,male,1980-04-07,2021-05-16,Bruno Covas Prefeito de SP.jpg,Bruno Covas
-Brazil,Mayor of São Paulo,Ricardo Nunes,Q56195607,2021-05-16,,male,1967-11-13,,"Ricardo Nunes, prefeito de São Paulo.jpg",Ricardo Nunes (politician)
 Brazil,president of the Legislative Assembly of Amazonas,David Almeida,Q10264374,2017-02-01,2019-02-01,male,1969-02-08,,Deputado Estadual David Almeida (Foto anterior).jpg,David Almeida
 Brazil,president of the Legislative Assembly of Bahia,Marcelo Nilo,Q59204024,2007-02-01,2017-01-31,male,1955,,Cerimônia de instalação da Academia de Ciências da Bahia na FIEB.jpg,
 Brazil,president of the Legislative Assembly of Bahia,Angelo Coronel,Q56346750,2017-02-01,2019-02-01,male,1958,,Angelo-coronel.jpg,
@@ -404,6 +396,24 @@ Brazil,vice governor of Rio de Janeiro,Claudio Bomfim de Castro e Silva,Q5796592
 Brazil,vice governor of Santa Catarina,Daniela Reinehr,Q61000432,2019-01-01,,female,1977,,Daniela Reinehr (cropped).jpg,
 Brazil,vice governor of São Paulo,Alberto Goldman,Q4712051,2007-01-01,2010-04-02,male,1937-10-12,2019-09-01,Albertogoldman.jpeg,Alberto Goldman
 Brazil,vice governor of Tocantins,Wanderlei Barbosa Castro,Q94175645,2019-01-01,2022-12-31,male,1964-03-12,,"Wanderlei Barbosa, Governador em exercício do Tocantins.jpg",
+Brazil,Mayor of São Paulo,Celso Pitta,Q1857846,1997-01-01,2000-12-31,male,1946-09-29,2009-11-20,Celso Pitta.jpg,Celso Pitta
+Brazil,Mayor of São Paulo,Marta Suplicy,Q463614,2001-01-01,2004-12-31,female,1945-03-18,,Marta Suplicy.jpg,Marta Suplicy
+Brazil,Mayor of São Paulo,José Serra,Q379563,2005-01-01,2006-03-31,male,1942-03-19,,Serradiscursando2010.jpg,José Serra
+Brazil,Mayor of São Paulo,Gilberto Kassab,Q2546210,2006-03-31,2012-12-31,male,1960-08-12,,Kassab.jpg,Gilberto Kassab
+Brazil,Mayor of São Paulo,Fernando Haddad,Q3069485,2013-01-01,2017-01-01,male,1963-01-25,,Fernando Haddad Prefeito 2016.jpg,Fernando Haddad
+Brazil,Mayor of São Paulo,João Doria,Q10311413,2017-01-01,2018-04-06,male,1957-12-16,,Foto oficial de João Dória como Governador de São Paulo.jpg,João Doria
+Brazil,Mayor of São Paulo,Bruno Covas,Q9667541,2018-04-06,2021-05-16,male,1980-04-07,2021-05-16,Bruno Covas Prefeito de SP.jpg,Bruno Covas
+Brazil,Mayor of São Paulo,Ricardo Nunes,Q56195607,2021-05-16,,male,1967-11-13,,"Ricardo Nunes, prefeito de São Paulo.jpg",Ricardo Nunes (politician)
+Brazil,Mayor of Rio de Janeiro,Marcelo Crivella,Q6756538,2017-01-01,,male,1956-10-09,,Marcelo Crivella Prefeito.jpg,Marcelo Crivella
+Brazil,mayor of Salvador,Bruno Reis,Q61414318,2021-01-01,,male,1977-05-17,,Deputado Bruno Reis na Lavagem do Bonfim 2012.jpg,
+Brazil,mayor of Manaus,Gentil Augusto Bittencourt,Q103927811,1924-11,,male,1870,,,
+Brazil,mayor of Manaus,Sérgio Rodrigues Pessoa,Q103960369,1929-11,,male,,,,
+Brazil,mayor of Manaus,Arthur Virgílio Neto,Q8205747,2013-01-01,2020-12-31,male,1945-11-15,,Congressos. Seminários. Palestras (18715732468).jpg,Arthur Virgílio Neto
+Brazil,mayor of Manaus,David Almeida,Q10264374,2021-01-01,,male,1969-02-08,,Deputado Estadual David Almeida (Foto anterior).jpg,David Almeida
+Brazil,Mayor of Porto Alegre,José Fortunati,Q1537367,2010-03-30,2017-01-01,male,1955-10-24,,José Fortunati.jpeg,José Fortunati
+Brazil,Mayor of Porto Alegre,Nelson Marchezan Júnior,Q10336092,2017-01-01,2021-01-01,male,1971-11-30,,Deputado Nelson Marchezan Júnior.jpg,
+Brazil,Mayor of Goiânia,Iris Rezende,Q10303622,2005-01-01,2010-04-01,male,1933-12-22,2021-11-09,Iris Rezende.jpeg,Iris Rezende
+Brazil,Mayor of Goiânia,Iris Rezende,Q10303622,2017-01-01,2021-11-09,male,1933-12-22,2021-11-09,Iris Rezende.jpeg,Iris Rezende
 Brazil,ambassador to France,Marcos Azambuja,Q10325406,1997,2003,male,1935-02-09,,Plenário do Senado (34881573550).jpg,
 Brazil,ambassador to Germany,Roberto Abdenur,Q2159392,1995,2002-02,male,1942-05-05,,Roberto Abdenur.jpg,
 Brazil,ambassador to Germany,Everton Vieira Vargas,Q10278492,2009,2013,male,1955-01-23,,CRE - Comissão de Relações Exteriores e Defesa Nacional (28297479564).jpg,

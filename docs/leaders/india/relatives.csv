@@ -153,6 +153,7 @@ India,Q16902163,Jitendra Chaudhury,sibling,Q92140142,Pravat Chowdhury
 India,Q16902176,Kaushal Kishore,spouse,Q30251881,Jai Devi
 India,Q16907470,Heena Gavit,father,Q16907906,Vijaykumar Gavit
 India,Q16908996,Ladu Kishore Swain,spouse,Q63994063,Manjula Swain
+India,Q16914125,Shrikant Shinde,father,Q18750400,Eknath Shinde
 India,Q16956874,Geeta Koda,spouse,Q3382907,Madhu Koda
 India,Q17198781,Tamilisai Soundararajan,father,Q6443604,Kumari Ananthan
 India,Q17385578,Anshuman Mohanty,father,Q15724394,Nalinikanta Mohanty
@@ -229,6 +230,8 @@ India,Q2319562,Javed Akhtar,spouse,Q465863,Shabana Azmi
 India,Q2319562,Javed Akhtar,spouse,Q764803,Honey Irani
 India,Q235454,K. R. Narayanan,spouse,Q20737795,Usha Narayanan
 India,Q23887623,Nalamada Padmavathi Reddy,spouse,Q6960784,Nalamada Uttam Kumar Reddy
+India,Q23891552,Basant Kumar Biswal,child,Q18062107,Chiranjib Biswal
+India,Q23891552,Basant Kumar Biswal,child,Q7293136,Ranjib Biswal
 India,Q23908915,N. Jayaraj,father,Q6323684,K. Narayana Kurup
 India,Q24007160,Jameela Prakasam,father,Q20559146,R. Prakasam
 India,Q24007160,Jameela Prakasam,spouse,Q16259464,Neelalohithadasan Nadar
@@ -489,6 +492,10 @@ India,Q4667397,Abhijit Mukherjee,mother,Q15734075,Suvra Mukherjee
 India,Q4667397,Abhijit Mukherjee,sibling,Q17411301,Sharmistha Mukherjee
 India,Q4670199,Abu Hasem Khan Choudhury,sibling,Q17402716,Rubi Noor
 India,Q4670199,Abu Hasem Khan Choudhury,sibling,Q4647540,Abu Barkat Ataur Ghani Khan Choudhury
+India,Q467189,Nandini Satpathy,child,Q106684832,Nachiketa Satpathy
+India,Q467189,Nandini Satpathy,child,Q7688029,Tathagata Satapathy
+India,Q467189,Nandini Satpathy,father,Q5320261,Kalindi Charan Panigrahi
+India,Q467189,Nandini Satpathy,spouse,Q47460135,Devendra Satpathy
 India,Q467201,Meira Kumar,father,Q1471625,Jagjivan Ram
 India,Q467231,Kanimozhi,child,Q107069793,Aditya Aravindan
 India,Q467231,Kanimozhi,father,Q470875,Muthuvel Karunanidhi
@@ -567,6 +574,9 @@ India,Q4967969,Brij Bhushan Sharan Singh,spouse,Q15940996,Ketki Devi Singh
 India,Q5071486,Chandresh Kumari,father,Q15998242,Hanwant Singh
 India,Q5071486,Chandresh Kumari,mother,Q6437450,Krishna Kumari
 India,Q5071486,Chandresh Kumari,sibling,Q5517518,Gaj Singh II of Jodhpur
+India,Q5091746,Giridhar Gomango,child,Q63221866,Sisir Gomango
+India,Q5091746,Giridhar Gomango,relative,Q61510216,Trinath Gomango
+India,Q5091746,Giridhar Gomango,spouse,Q15955910,Hema Gomang
 India,Q5091883,Hemananda Biswal,child,Q62377809,Sunita Biswal
 India,Q5091883,Hemananda Biswal,child,Q62605267,Amita Biswal
 India,Q5162596,Conrad Sangma,father,Q2741772,P. A. Sangma
@@ -701,6 +711,17 @@ India,Q61575150,Roshni Singh Deo,spouse,Q61717530,Chandrabhanu Singh Deo
 India,Q61575178,Suresh Kumar Routray,child,Q62608587,Snehashree Harichandan
 India,Q61575178,Suresh Kumar Routray,relative,Q18640288,Prasad Kumar Harichandan
 India,Q6159584,Jarbom Gamlin,spouse,Q24906414,Shakuntala Gamlin
+India,Q61650236,Ananta Narayan Singh Deo,child,Q61556053,Kishore Chandra Singh Deo
+India,Q61650236,Ananta Narayan Singh Deo,relative,Q27057843,Nandini Devi
+India,Q61650236,Ananta Narayan Singh Deo,spouse,Q61652359,Shanti Devi
+India,Q61650243,Bibhuti Bhusan Singh Mardaraj,child,Q61488912,Siddharth Sekhar Singh
+India,Q61650243,Bibhuti Bhusan Singh Mardaraj,father,Q63107888,Harihar Singh Mardaraj Bhramarabara Roy
+India,Q61650265,Indurani Mohapatra,spouse,Q61556050,Kartik Mahapatra
+India,Q61650279,Kumar Shree Chiranjibi,father,Q61555991,Ananta Prasad Sethi
+India,Q61650292,Pradipta Gangdev,child,Q61510092,Nitesh Gangadeb
+India,Q61650292,Pradipta Gangdev,father,Q61715838,Bhanuganga Tribhuban Deb
+India,Q61650298,Premalata Mohapatra,child,Q63108409,Bhabani Sankar Mohaptra
+India,Q61650298,Premalata Mohapatra,spouse,Q61650274,Kailash Chandra Mohapatra
 India,Q6166629,Jayadev Galla,father,Q7288693,Ramachandra Naidu Galla
 India,Q6166629,Jayadev Galla,mother,Q4802164,Aruna Kumari Galla
 India,Q6166629,Jayadev Galla,sibling,Q15699733,Ghattamaneni Ramesh Babu

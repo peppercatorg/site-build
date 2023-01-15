@@ -383,7 +383,7 @@ Germany,member of the Landtag of Thuringia,Petra Heß,Q2080208,1999-10-01,2002-1
 Germany,member of the Landtag of Thuringia,Richard Dewes,Q2149313,1999-10-01,2001-08-06,male,1948-07-12,,,
 Germany,member of the Landtag of Thuringia,Rosemarie Bechthum,Q2166861,1999-10-01,2004-07-08,female,1943-01-13,,,
 Germany,member of the Landtag of Thuringia,Siegfried Jaschke,Q2283454,1999-10-01,2004-07-08,male,1939-05-25,,,
-Germany,member of the Landtag of Thuringia,Thomas Kretschmer,Q2425554,1999-10-01,2004-07-08,male,1954-10-20,,,
+Germany,member of the Landtag of Thuringia,Thomas Kretschmer,Q2425554,1999-10-01,2004-07-08,male,1954-10-20,2023-01-09,,Thomas Kretschmer (politician)
 Germany,member of the Landtag of Thuringia,Tilo Kummer,Q2433697,1999-10-01,2004-07-08,male,1968-06-29,,Landtagsprojekt Thüringen 2016 Tilo Kummer IMG 9980 LR10 by Stepro.jpg,
 Germany,member of the Landtag of Thuringia,Ursula Fischer,Q2501594,1999-10-01,2004-07-08,female,1952-09-06,,,Ursula Fischer
 Germany,member of the Landtag of Thuringia,Uwe Höhn,Q2504312,1999-10-01,2004-07-08,male,1958-03-30,,Uwe Höhn.jpg,
@@ -478,7 +478,7 @@ Germany,member of the Landtag of Thuringia,Ralf Hauboldt,Q2129228,2004-07-08,200
 Germany,member of the Landtag of Thuringia,Dagmar Schipanski,Q215379,2004-07-08,2009-09-29,female,1943-09-03,2022-09-07,Dagmar Schipanski CDU Parteitag 2014 by Olaf Kosinsky-4.jpg,Dagmar Schipanski
 Germany,member of the Landtag of Thuringia,Siegfried Jaschke,Q2283454,2004-07-08,2009-09-29,male,1939-05-25,,,
 Germany,member of the Landtag of Thuringia,Susanne Hennig,Q2369250,2004-07-08,2009-09-29,female,1977-10-13,,Susanne Hennig-Wellsow 2021-02-27 Digitalparteitag Die Linke 2021 by Martin Heinlein - Cropped.png,Susanne Hennig-Wellsow
-Germany,member of the Landtag of Thuringia,Thomas Kretschmer,Q2425554,2004-07-08,2008-12-12,male,1954-10-20,,,
+Germany,member of the Landtag of Thuringia,Thomas Kretschmer,Q2425554,2004-07-08,2008-12-12,male,1954-10-20,2023-01-09,,Thomas Kretschmer (politician)
 Germany,member of the Landtag of Thuringia,Tilo Kummer,Q2433697,2004-07-08,2009-09-29,male,1968-06-29,,Landtagsprojekt Thüringen 2016 Tilo Kummer IMG 9980 LR10 by Stepro.jpg,
 Germany,member of the Landtag of Thuringia,Uwe Höhn,Q2504312,2004-07-08,2009-09-29,male,1958-03-30,,Uwe Höhn.jpg,
 Germany,member of the Landtag of Thuringia,Volker Emde,Q2530968,2004-07-08,2009-09-29,male,1964-02-15,,Volker Emde.jpg,
@@ -2021,8 +2021,8 @@ Germany,member of the Landtag of North Rhine-Westphalia,Dietmar Bell,Q1223339,20
 Germany,member of the Landtag of North Rhine-Westphalia,Margret Vosseler,Q1298140,2017-06-01,2022-06-01,female,1957-03-14,,20131127 Margret Voßeler 0615.jpg,
 Germany,member of the Landtag of North Rhine-Westphalia,Hendrik Wüst,Q1387541,2017-06-01,2022-06-01,male,1975-07-19,,Eröffnung ICE-Instandhaltungswerk Köln-Nippes-9251 (cropped).jpg,Hendrik Wüst
 Germany,member of the Landtag of North Rhine-Westphalia,Guido van den Berg,Q1430975,2017-06-01,2022-06-01,male,1975-02-24,2019-05-02,"2718ri Guido van den Berg, SPD.jpg",Guido van den Berg
-Germany,member of the Landtag of North Rhine-Westphalia,Christina Kampmann,Q15434563,2017-06-01,,female,1980-07-11,,2014-09-10 - Christina Kampmann MdB - 7327.jpg,
-Germany,member of the Landtag of North Rhine-Westphalia,Christina Kampmann,Q15434563,2017-06-01,2022-06-01,female,1980-07-11,,2014-09-10 - Christina Kampmann MdB - 7327.jpg,
+Germany,member of the Landtag of North Rhine-Westphalia,Christina Kampmann,Q15434563,2017-06-01,,female,1980-07-11,,"Kampmann, Christina-9983.jpg",
+Germany,member of the Landtag of North Rhine-Westphalia,Christina Kampmann,Q15434563,2017-06-01,2022-06-01,female,1980-07-11,,"Kampmann, Christina-9983.jpg",
 Germany,member of the Landtag of North Rhine-Westphalia,Marcus Pretzell,Q17117405,2017-06-01,,male,1973-07-16,,2017-05-04-WDR Wahlarena-1428.jpg,Marcus Pretzell
 Germany,member of the Landtag of North Rhine-Westphalia,Jürgen Berghahn,Q1717016,2017-06-01,2022-06-01,male,1960-07-05,,"Berghahn, Jürgen-1.jpg",Jürgen Berghahn
 Germany,member of the Landtag of North Rhine-Westphalia,Markus Weske,Q1901869,2017-06-01,2022-06-01,male,1968-09-16,,20131127 Markus Herbert Weske 0605.jpg,
@@ -2504,12 +2504,16 @@ Germany,member of the Abgeordnetenhaus of Berlin,Gesine Lötzsch,Q65114,1991,200
 Germany,member of the Abgeordnetenhaus of Berlin,Dagmar Pohle,Q1157310,1991-01-11,,female,1953-09-07,,2017-03-23 Dagmar Pohle by Sandro Halank–2.jpg,
 Germany,member of the Abgeordnetenhaus of Berlin,Eva Müller,Q116060673,1991-01-11,,female,1947-11-21,,,
 Germany,member of the Abgeordnetenhaus of Berlin,Hans Muller,Q116118057,1991-01-11,,male,1933-08-08,,,
+Germany,member of the Abgeordnetenhaus of Berlin,Horst Reimann,Q116159769,1991-01-11,,male,1929-10-31,,,
 Germany,member of the Abgeordnetenhaus of Berlin,Dieter Pavlik,Q1222602,1991-01-11,2000-02-11,male,1935-09-24,2000-02-11,Dieterpavlik1990.jpg,
 Germany,member of the Abgeordnetenhaus of Berlin,Martina Michels,Q1324719,1991-01-11,,female,1955-12-01,,Michels Martina 2014-02-04 2.jpg,Martina Michels
 Germany,member of the Abgeordnetenhaus of Berlin,Fritz Niedergesäß,Q1345216,1991-01-11,,male,1940-02-19,,,
 Germany,member of the Abgeordnetenhaus of Berlin,Sebastian Pflugbeil,Q1626168,1991-01-11,,male,1947-09-14,,"Bundesarchiv Bild 183-1990-0205-019, Berlin, 16. Volkskammer-Tagung.jpg",
+Germany,member of the Abgeordnetenhaus of Berlin,Irana Rusta,Q21597699,1991-01-11,,female,1954-07-23,,"Bundesarchiv Bild 183-1990-0713-319, Dr. Dr. Irana Rusta.jpg",
 Germany,member of the Abgeordnetenhaus of Berlin,Stephan Mory,Q2343625,1991-01-11,2020-04-13,male,1941-02-20,2020-04-13,,
+Germany,member of the Abgeordnetenhaus of Berlin,Karin Riedrich,Q23908779,1991-01-11,,female,1942-08-23,,,
 Germany,member of the Abgeordnetenhaus of Berlin,Dieter Mehnert,Q23955946,1991-01-11,,male,1932-02-28,,,
+Germany,member of the Abgeordnetenhaus of Berlin,Frank Poschepny,Q23978269,1991-01-11,,male,1962-12-15,,,
 Germany,member of the Abgeordnetenhaus of Berlin,Ullrich Meier,Q26265225,1991-01-11,,male,1955-07-29,,,
 Germany,member of the Abgeordnetenhaus of Berlin,Alfred-Mario Molter,Q26267662,1991-01-11,,male,1952-01-23,,,
 Germany,member of the Abgeordnetenhaus of Berlin,Michael Müller,Q102844,1996,2021-09-26,male,1964-12-09,,2017-11-16 Michael Müller (Wiki Loves Parliaments 2017 in Berlin) by Sandro Halank.jpg,"Michael Müller (politician, born 1964)"
@@ -3442,7 +3446,7 @@ Germany,member of the Bundestag,Horst Günther,Q1602245,1999-10-01,2002-10-17,ma
 Germany,member of the Bundestag,Albrecht Feibel,Q2639764,1999-10-29,2002-10-17,male,1940-03-01,2011-10-30,"KAS-Feibel, Albrecht-Bild-3073-1.jpg",
 Germany,member of the Bundestag,Helmut Heiderich,Q1603632,2000-01-26,2002-10-17,male,1949-02-04,,Helmut Heiderich.jpg,Helmut Heiderich
 Germany,member of the Bundestag,Carola Reimann,Q1044255,2000-02-22,2002-10-17,female,1967-08-25,,Carola Reimann.jpg,Carola Reimann
-Germany,member of the Bundestag,Helmut Lamp,Q1603850,2000-03-28,2002-10-17,male,1946-07-03,,,Helmut Lamp
+Germany,member of the Bundestag,Helmut Lamp,Q1603850,2000-03-28,2002-10-17,male,1946-07-03,,KAS-CDU Fraktion im Hessischen Landtag-Bild-26098-1.jpg,Helmut Lamp
 Germany,member of the Bundestag,Grietje Staffelt,Q105137,2000-04-03,2002-10-17,female,1975-07-16,,Grietjebettinpressefoto.jpg,Grietje Staffelt
 Germany,member of the Bundestag,Kerstin Griese,Q1739660,2000-05-11,2002-10-17,female,1966-12-06,,Kerstin Griese (2021).jpg,Kerstin Griese
 Germany,member of the Bundestag,Ina Albowitz,Q1660815,2000-06-06,2002-10-17,female,1943-04-26,,,Ina Albowitz
@@ -4067,7 +4071,7 @@ Germany,member of the Bundestag,Antje Blumenthal,Q99637,2002-10-17,2005-10-18,fe
 Germany,member of the Bundestag,Markus Löning,Q99681,2002-10-17,2005-10-18,male,1960-07-02,,Markus Löning.jpg,
 Germany,member of the Bundestag,Willi Brase,Q99705,2002-10-17,2005-10-18,male,1951-10-10,,,Willi Brase
 Germany,member of the Bundestag,Gerd Andres,Q99899,2002-10-17,2005-10-18,male,1951-04-08,,,Gerd Andres
-Germany,member of the Bundestag,Helmut Lamp,Q1603850,2002-10-18,2005-10-18,male,1946-07-03,,,Helmut Lamp
+Germany,member of the Bundestag,Helmut Lamp,Q1603850,2002-10-18,2005-10-18,male,1946-07-03,,KAS-CDU Fraktion im Hessischen Landtag-Bild-26098-1.jpg,Helmut Lamp
 Germany,member of the Bundestag,Gisela Piltz,Q1527423,2002-11-11,2005-10-18,female,1964-12-03,,,
 Germany,member of the Bundestag,Christel Happach-Kasan,Q1078287,2002-12-10,2005-10-18,female,1950-01-04,,Happach-Kasan2013.JPG,
 Germany,member of the Bundestag,Angelika Brunkhorst,Q110140,2003-03-21,2005-10-18,female,1955-10-09,,Angelika Brunkhorst 2012.jpg,Angelika Brunkhorst
@@ -4720,7 +4724,7 @@ Germany,member of the Bundestag,Cajus Julius Caesar,Q78325,2007-07-09,2009-10-27
 Germany,member of the Bundestag,Stephan Eisel,Q1694220,2007-09-03,2009-10-27,male,1955-06-10,,Stephan Eisel 36. Bonner Wirtschaftstalk 2018.jpg,
 Germany,member of the Bundestag,Bettina Herlitzius,Q95439,2007-09-03,2009-10-27,female,1960-07-08,,"Bettina Herlitzius, Gruene NRW LDK 2008.jpg",Bettina Herlitzius
 Germany,member of the Bundestag,Marion Seib,Q1899247,2007-11-08,2009-10-27,female,1954-03-31,,,
-Germany,member of the Bundestag,Helmut Lamp,Q1603850,2007-12-20,2009-10-27,male,1946-07-03,,,Helmut Lamp
+Germany,member of the Bundestag,Helmut Lamp,Q1603850,2007-12-20,2009-10-27,male,1946-07-03,,KAS-CDU Fraktion im Hessischen Landtag-Bild-26098-1.jpg,Helmut Lamp
 Germany,member of the Bundestag,Wolfgang Strengmann-Kuhn,Q2591533,2008-01-04,2009-10-27,male,1964-05-20,,2019-04-11 Wolfgang Strengmann-Kuhn MdB by Olaf Kosinsky-9398.jpg,Wolfgang Strengmann-Kuhn
 Germany,member of the Bundestag,Manuel Sarrazin,Q1309204,2008-05-13,2009-10-27,male,1982-02-06,,Manuel Sarrazin 2.jpg,Manuel Sarrazin
 Germany,member of the Bundestag,Christian Hirte,Q1080321,2008-05-15,2009-10-27,male,1976-05-23,,"Hirte, Christian-0221.jpg",Christian Hirte
@@ -5375,7 +5379,7 @@ Germany,member of the Bundestag,Till Seiler,Q1547023,2011-06-06,2011-12-03,male,
 Germany,member of the Bundestag,Tobias Lindner,Q2437890,2011-06-09,2013-10-22,male,1982-01-11,,"Lindner, Tobias-9405.jpg",Tobias Lindner
 Germany,member of the Bundestag,Ulrich Schneider,Q2476641,2011-12-07,2013-10-22,male,1972-09-02,,Schneider Ulrich MdB Gruene.jpg,
 Germany,member of the Bundestag,Jörg von Polheim,Q1712721,2012-01-04,2013-10-22,male,1959-08-21,,,
-Germany,member of the Bundestag,Beate Walter-Rosenheimer,Q813207,2012-01-16,2013-10-22,female,1964-11-20,,Beate Walter-Rosenheimer.jpg,Beate Walter-Rosenheimer
+Germany,member of the Bundestag,Beate Walter-Rosenheimer,Q813207,2012-01-16,2013-10-22,female,1964-11-20,,"Beate Walter-Rosenheimer, 2017.jpg",Beate Walter-Rosenheimer
 Germany,member of the Bundestag,Manfred Todtenhausen,Q1295233,2012-05-02,2013-10-22,male,1950-12-08,,2020-02-14 Deutscher Bundestag IMG 3626 by Stepro.jpg,Manfred Todtenhausen
 Germany,member of the Bundestag,Annette Sawade,Q566688,2012-06-01,2013-10-22,female,1953-04-23,,2014-09-10 - Annette Sawade MdB - 7243.jpg,
 Germany,member of the Bundestag,Arfst Wagner,Q643822,2012-06-18,2013-10-22,male,1954-03-13,,Arfst Wagner (cropped).jpg,
@@ -5616,7 +5620,7 @@ Germany,member of the Bundestag,Cansel Kızıltepe,Q15434496,2013-10-22,2017-10-
 Germany,member of the Bundestag,Alois Rainer,Q15434505,2013-10-22,2017-10-24,male,1965-01-07,,Rainer Alois 2017 by Tobias Koch.jpg,Alois Rainer
 Germany,member of the Bundestag,Sebastian Hartmann,Q15434520,2013-10-22,2017-10-24,male,1977-07-07,,Sebastian Hartmann (2021).jpg,Sebastian Hartmann
 Germany,member of the Bundestag,Gabriele Schmidt,Q15434556,2013-10-22,2017-10-24,female,1956-07-02,,14-09-11-Gabriele-Schmidt-RalfR-023.JPG,
-Germany,member of the Bundestag,Christina Kampmann,Q15434563,2013-10-22,2015-10-01,female,1980-07-11,,2014-09-10 - Christina Kampmann MdB - 7327.jpg,
+Germany,member of the Bundestag,Christina Kampmann,Q15434563,2013-10-22,2015-10-01,female,1980-07-11,,"Kampmann, Christina-9983.jpg",
 Germany,member of the Bundestag,Andreas Schwarz,Q15434565,2013-10-22,2017-10-24,male,1965-03-03,,"Schwarz, Andreas-0374.jpg",Andreas Schwarz
 Germany,member of the Bundestag,Matern von Marschall,Q15434567,2013-10-22,2017-10-24,male,1962-08-03,,Matern von Marschall 2013.jpg,Matern von Marschall
 Germany,member of the Bundestag,Hermann Färber,Q15434637,2013-10-22,2017-10-24,male,1963-03-26,,Färber Hermann Laurence Chaperon 500x500 portraet hf plakat retusche 02 0 0.png,Hermann Färber
@@ -5964,7 +5968,7 @@ Germany,member of the Bundestag,Axel Troost,Q792387,2013-10-22,2017-10-24,male,1
 Germany,member of the Bundestag,Aydan Özoğuz,Q792859,2013-10-22,2017-10-24,female,1967-05-31,,2015-12 Aydan Özoğuzl SPD Bundesparteitag by Olaf Kosinsky-141cr.jpg,Aydan Özoğuz
 Germany,member of the Bundestag,Barbara Lanzinger,Q807527,2013-10-22,2017-10-24,female,1954-12-22,,Barbara Lanzinger 2013.jpg,
 Germany,member of the Bundestag,Beate Müller-Gemmeke,Q813168,2013-10-22,2017-10-24,female,1960-10-07,,"Beate Müller-Gemmeke, Bundestag, IMG 1415 LR7,5 by Stepro.jpg",Beate Müller-Gemmeke
-Germany,member of the Bundestag,Beate Walter-Rosenheimer,Q813207,2013-10-22,2017-10-24,female,1964-11-20,,Beate Walter-Rosenheimer.jpg,Beate Walter-Rosenheimer
+Germany,member of the Bundestag,Beate Walter-Rosenheimer,Q813207,2013-10-22,2017-10-24,female,1964-11-20,,"Beate Walter-Rosenheimer, 2017.jpg",Beate Walter-Rosenheimer
 Germany,member of the Bundestag,Bernd Fabritius,Q823426,2013-10-22,2017-10-24,male,1965-05-14,,WLP14-ri-0829- Bernd Fabritius (CSU).jpg,Bernd Fabritius
 Germany,member of the Bundestag,Bernd Siebert,Q824247,2013-10-22,2017-10-24,male,1949-10-17,,Bernd Siebert Portrait.jpg,Bernd Siebert (politician)
 Germany,member of the Bundestag,Bernhard Kaster,Q825401,2013-10-22,2017-10-24,male,1957-11-01,,Bernhard Kaster 2009.JPG,
@@ -6486,7 +6490,7 @@ Germany,member of the Bundestag,Enrico Komning,Q26792878,2017-10-24,2021-10-26,m
 Germany,member of the Bundestag,Marcus Faber,Q27882896,2017-10-24,2021-10-26,male,1984-02-04,,Faberdrmarcus.jpg,Marcus Faber
 Germany,member of the Bundestag,Nina Scheer,Q2789935,2017-10-24,2021-10-26,female,1971-09-11,,Dr. Nina Scheer (2022).jpg,Nina Scheer
 Germany,member of the Bundestag,Gottfried Curio,Q27917019,2017-10-24,2021-10-26,male,1960-09-02,,2020-02-14 Gottfried Curio (Bundestagsprojekt 2020) by Sandro Halank–2.jpg,Gottfried Curio
-Germany,member of the Bundestag,Alice Weidel,Q27975838,2017-10-24,2021-10-26,female,1979-02-06,,Alice Weidel 80-16a.jpg,Alice Weidel
+Germany,member of the Bundestag,Alice Weidel,Q27975838,2017-10-24,2021-10-26,female,1979-02-06,,2019-09-01 Wahlabend Sachsen by Sandro Halank–039.jpg,Alice Weidel
 Germany,member of the Bundestag,Stephan Harbarth,Q2801914,2017-10-24,2018-11-30,male,1971-12-19,,Harbarth-Stephan-Portrait-2017-1.jpg,Stephan Harbarth
 Germany,member of the Bundestag,Bruno Hollnagel,Q28914130,2017-10-24,2021-10-26,male,1948-01-13,,,Bruno Hollnagel
 Germany,member of the Bundestag,Martin Renner,Q29946731,2017-10-24,2021-10-26,male,1954-05-05,,,Martin Renner
@@ -6719,7 +6723,7 @@ Germany,member of the Bundestag,Axel Knoerig,Q792225,2017-10-24,2021-10-26,male,
 Germany,member of the Bundestag,Axel Schäfer,Q792359,2017-10-24,2021-10-26,male,1952-08-03,,"Schäfer, Axel-1769.jpg",Axel Schäfer
 Germany,member of the Bundestag,Aydan Özoğuz,Q792859,2017-10-24,2021-10-26,female,1967-05-31,,2015-12 Aydan Özoğuzl SPD Bundesparteitag by Olaf Kosinsky-141cr.jpg,Aydan Özoğuz
 Germany,member of the Bundestag,Beate Müller-Gemmeke,Q813168,2017-10-24,2021-10-26,female,1960-10-07,,"Beate Müller-Gemmeke, Bundestag, IMG 1415 LR7,5 by Stepro.jpg",Beate Müller-Gemmeke
-Germany,member of the Bundestag,Beate Walter-Rosenheimer,Q813207,2017-10-24,2021-10-26,female,1964-11-20,,Beate Walter-Rosenheimer.jpg,Beate Walter-Rosenheimer
+Germany,member of the Bundestag,Beate Walter-Rosenheimer,Q813207,2017-10-24,2021-10-26,female,1964-11-20,,"Beate Walter-Rosenheimer, 2017.jpg",Beate Walter-Rosenheimer
 Germany,member of the Bundestag,Bernd Buchholz,Q823715,2017-10-24,2017-10-24,male,1961-11-02,,2018-05-10 Bernd Klaus Buchholz-7525.jpg,Bernd Klaus Buchholz
 Germany,member of the Bundestag,Bettina Hagedorn,Q832631,2017-10-24,2021-10-26,female,1955-12-26,,"Hagedorn, Bettina-1473.jpg",Bettina Hagedorn
 Germany,member of the Bundestag,Eberhard Gienger,Q84348,2017-10-24,2021-10-26,male,1951-07-21,,"Gienger, Eberhard-1737.jpg",Eberhard Gienger
@@ -7201,7 +7205,7 @@ Germany,member of the Bundestag,Judith Skudelny,Q1711078,2021-10-26,,female,1975
 Germany,member of the Bundestag,Jürgen Berghahn,Q1717016,2021-10-26,,male,1960-07-05,,"Berghahn, Jürgen-1.jpg",Jürgen Berghahn
 Germany,member of the Bundestag,Jürgen Lenders,Q1717414,2021-10-26,,male,1966-04-20,,2016-02-04 Jürgen Lenders - MdL Hessen - 3338-2.jpg,Jürgen Lenders
 Germany,member of the Bundestag,Victor Perli,Q1728909,2021-10-26,,male,1982-02-01,,Pressefoto Victor Perli Zuschnitt-1024x922.jpg,Victor Perli
-Germany,member of the Bundestag,Karl Bär,Q1730608,2021-10-26,,male,1985-03-13,,Karl Bär 2009.jpg,Karl Bär
+Germany,member of the Bundestag,Karl Bär,Q1730608,2021-10-26,,male,1985-03-13,,Karl Bär 2009 (cropped).jpg,Karl Bär
 Germany,member of the Bundestag,Karlheinz Busen,Q1733789,2021-10-26,,male,1951-04-05,,Karlheinz Busen (cropped).jpg,Karlheinz Busen
 Germany,member of the Bundestag,Karsten Klein,Q1734454,2021-10-26,,male,1977-12-02,,2020-02-13 Karsten Klein (KPFC) 01.jpg,Karsten Klein
 Germany,member of the Bundestag,Kathrin Henneberger,Q1736494,2021-10-26,,female,1987-04-01,,Kathrin Henneberger.jpg,Kathrin Henneberger
@@ -7309,7 +7313,7 @@ Germany,member of the Bundestag,Marcus Faber,Q27882896,2021-10-26,,male,1984-02-
 Germany,member of the Bundestag,Sandra Detzer,Q27888351,2021-10-26,,female,1980-04-21,,Sandra Detzer (2016).jpg,Sandra Detzer
 Germany,member of the Bundestag,Nina Scheer,Q2789935,2021-10-26,,female,1971-09-11,,Dr. Nina Scheer (2022).jpg,Nina Scheer
 Germany,member of the Bundestag,Gottfried Curio,Q27917019,2021-10-26,,male,1960-09-02,,2020-02-14 Gottfried Curio (Bundestagsprojekt 2020) by Sandro Halank–2.jpg,Gottfried Curio
-Germany,member of the Bundestag,Alice Weidel,Q27975838,2021-10-26,,female,1979-02-06,,Alice Weidel 80-16a.jpg,Alice Weidel
+Germany,member of the Bundestag,Alice Weidel,Q27975838,2021-10-26,,female,1979-02-06,,2019-09-01 Wahlabend Sachsen by Sandro Halank–039.jpg,Alice Weidel
 Germany,member of the Bundestag,Knut Gerschau,Q28166378,2021-10-26,,male,1961-07-03,,Knut Gerschau.jpg,Knut Gerschau
 Germany,member of the Bundestag,Natalie Pawlik,Q29024286,2021-10-26,,female,1992-08-26,,Natalie Pawlik (2021).jpg,Natalie Pawlik
 Germany,member of the Bundestag,Martin Renner,Q29946731,2021-10-26,,male,1954-05-05,,,Martin Renner
@@ -7506,7 +7510,7 @@ Germany,member of the Bundestag,Axel Knoerig,Q792225,2021-10-26,,male,1967-03-01
 Germany,member of the Bundestag,Axel Schäfer,Q792359,2021-10-26,,male,1952-08-03,,"Schäfer, Axel-1769.jpg",Axel Schäfer
 Germany,member of the Bundestag,Aydan Özoğuz,Q792859,2021-10-26,,female,1967-05-31,,2015-12 Aydan Özoğuzl SPD Bundesparteitag by Olaf Kosinsky-141cr.jpg,Aydan Özoğuz
 Germany,member of the Bundestag,Beate Müller-Gemmeke,Q813168,2021-10-26,,female,1960-10-07,,"Beate Müller-Gemmeke, Bundestag, IMG 1415 LR7,5 by Stepro.jpg",Beate Müller-Gemmeke
-Germany,member of the Bundestag,Beate Walter-Rosenheimer,Q813207,2021-10-26,,female,1964-11-20,,Beate Walter-Rosenheimer.jpg,Beate Walter-Rosenheimer
+Germany,member of the Bundestag,Beate Walter-Rosenheimer,Q813207,2021-10-26,,female,1964-11-20,,"Beate Walter-Rosenheimer, 2017.jpg",Beate Walter-Rosenheimer
 Germany,member of the Bundestag,Bettina Hagedorn,Q832631,2021-10-26,,female,1955-12-26,,"Hagedorn, Bettina-1473.jpg",Bettina Hagedorn
 Germany,member of the Bundestag,Sandra Bubendorfer-Licht,Q84056228,2021-10-26,,female,1969-09-05,,2020-02-13 Sandra Bubendorfer-Licht (Bundestagsprojekt 2020) by Sandro Halank–1.jpg,Sandra Bubendorfer-Licht
 Germany,member of the Bundestag,Ingeborg Gräßle,Q85551,2021-10-26,,female,1961-03-02,,,Ingeborg Gräßle

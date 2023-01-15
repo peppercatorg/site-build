@@ -25,6 +25,7 @@ Brazil,Q10311264,João Carlos Bacelar Batista,relative,Q18276137,João Carlos Ba
 Brazil,Q10311264,João Carlos Bacelar Batista,relative,Q47011498,João Carlos Paolilo Bacelar
 Brazil,Q10311413,João Doria,father,Q10311426,João Dória
 Brazil,Q10311413,João Doria,spouse,Q18241910,Bia Doria
+Brazil,Q10313207,Jutahy Magalhães Júnior,father,Q10313206,Jutaí Magalhães
 Brazil,Q10317356,Leonardo Picciani,father,Q10308208,Jorge Picciani
 Brazil,Q10320255,Luciana Genro,father,Q3515818,Tarso Genro
 Brazil,Q10324996,Marcela Temer,child,Q84003063,Michel Temer Filho
@@ -43,6 +44,7 @@ Brazil,Q10336123,Nelson Trad Filho,father,Q10336120,Nelson Trad
 Brazil,Q10336123,Nelson Trad Filho,sibling,Q26692175,Marquinhos Trad
 Brazil,Q10336446,Neudo Ribeiro Campos,spouse,Q18486154,Suely Campos
 Brazil,Q10336590,Newton Cardoso,child,Q23883203,Newton Cardoso Jr
+Brazil,Q10336892,Nilo Coelho (governador),relative,Q10336891,Nilo Coelho
 Brazil,Q10340805,Omar Aziz,spouse,Q60437178,Nejmi Aziz
 Brazil,Q10341050,Onyx Lorenzoni,child,Q85877037,Rodrigo Lorenzoni
 Brazil,Q10342495,Otto Alencar,child,Q60784795,Otto Alencar Filho
@@ -65,6 +67,9 @@ Brazil,Q10371678,Simone Tebet,father,Q2130127,Ramez Tebet
 Brazil,Q10371678,Simone Tebet,spouse,Q110161239,Eduardo Rocha
 Brazil,Q10376248,Sérgio Vidigal,spouse,Q25440706,Sueli Vidigal
 Brazil,Q10389693,Veneziano Vital do Rêgo Segundo Neto,father,Q10392065,Vital do Rêgo
+Brazil,Q103927811,Gentil Augusto Bittencourt,father,Q104013885,Gentil Augusto Bittencourt
+Brazil,Q103927811,Gentil Augusto Bittencourt,mother,Q104015305,Aurelia Pinto
+Brazil,Q103927811,Gentil Augusto Bittencourt,spouse,Q103927069,Ercilia Sarmento
 Brazil,Q10392867,Wagner Montes,child,Q23893493,Diego Montez
 Brazil,Q10392867,Wagner Montes,spouse,Q10376623,Sônia Lima
 Brazil,Q10393732,William Woo,sibling,Q10307024,Joana Woo
@@ -228,6 +233,7 @@ Brazil,Q57911283,Michelle Bolsonaro,spouse,Q10304982,Jair Bolsonaro
 Brazil,Q58053056,Ibaneis Rocha,spouse,Q112035445,Mayara Noronha Rocha
 Brazil,Q58997373,Chiquinho Brazão,sibling,Q59221373,Pedro Brazao
 Brazil,Q59203425,Sidney Leite,child,Q105398481,Júnior Leite
+Brazil,Q59204311,João Roma,spouse,Q115839611,Roberta Roma
 Brazil,Q59205323,Eduardo Alencar,relative,Q60784795,Otto Alencar Filho
 Brazil,Q59205323,Eduardo Alencar,sibling,Q10342495,Otto Alencar
 Brazil,Q59205397,Diego Coronel,father,Q56346750,Angelo Coronel
@@ -254,6 +260,7 @@ Brazil,Q63039824,Abraham Weintraub,sibling,Q63091727,Arthur Weintraub
 Brazil,Q6428425,Marcelo Freixo,partner,Q56355534,Antonia Pellegrino
 Brazil,Q64847981,Cabo Almi,spouse,Q108117971,Irene Carolina de Oliveira
 Brazil,Q65167291,Augusto Aras,father,Q20046152,Roque Aras
+Brazil,Q6756538,Marcelo Crivella,relative,Q980714,Edir Macedo
 Brazil,Q6949721,Mário Frias,spouse,Q111526859,Juliana Camatti
 Brazil,Q6949721,Mário Frias,spouse,Q2426288,Nívea Stelmann
 Brazil,Q744798,Ciro Gomes,father,Q56347811,José Euclides Ferreira Gomes Júnior

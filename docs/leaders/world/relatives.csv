@@ -96,6 +96,11 @@ World,Q13105458,Yves Cruchten,father,Q66720374,Alphonse Cruchten
 World,Q1317281,Miguel Arias Cañete,spouse,Q99976362,Micaela Domecq Solís-Beaumont
 World,Q1329839,Elisabeth Motschmann,child,Q15456406,Johannes Motschmann
 World,Q1329839,Elisabeth Motschmann,spouse,Q1687298,Jens Motschmann
+World,Q133009,Gro Harlem Brundtland,child,Q16180855,Knut Brundtland
+World,Q133009,Gro Harlem Brundtland,father,Q4584505,Gudmund Harlem
+World,Q133009,Gro Harlem Brundtland,sibling,Q1780809,Hanne Harlem
+World,Q133009,Gro Harlem Brundtland,sibling,Q64223514,Lars Harlem
+World,Q133009,Gro Harlem Brundtland,spouse,Q4966565,Arne Olav Brundtland
 World,Q1338185,Morten Messerschmidt,partner,Q12308875,Dot Wessmann
 World,Q1345946,Tunne Kelam,father,Q12372240,Peeter Sink
 World,Q1345946,Tunne Kelam,mother,Q12369826,Marje Sink
@@ -348,6 +353,7 @@ World,Q3309935,Michel Hunault,sibling,Q63456113,Alain Hunault
 World,Q3321239,Jamila Madeira,father,Q10321441,Luís Filipe Nascimento Madeira
 World,Q3328120,Muriel Marland-Militello,spouse,Q3380317,Philippe Marland
 World,Q332843,"Ann Taylor, Baroness Taylor of Bolton",spouse,Q75450437,David Taylor
+World,Q333135,Chan Santokhi,spouse,Q104780411,Mellisa Seenacherry
 World,Q333554,"Stanley Clinton Davis, Baron Clinton-Davis",child,Q75586576,Henry Davis
 World,Q333554,"Stanley Clinton Davis, Baron Clinton-Davis",child,Q75586578,Joanna Davis
 World,Q333554,"Stanley Clinton Davis, Baron Clinton-Davis",child,Q75586580,Susanna Davis
