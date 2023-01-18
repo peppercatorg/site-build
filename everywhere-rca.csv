@@ -1011,6 +1011,7 @@ Belarus,Q99004968,Andrei Schwed,father,Q112675470,Ivan Schwed
 Belarus,Q99004968,Andrei Schwed,mother,Q112675639,Zinaida Schwed
 Belarus,Q99004968,Andrei Schwed,sibling,Q105976775,Angela Rayemskaya
 Belarus,Q99004968,Andrei Schwed,sibling,Q112675237,Aleh Schwed
+Belgium,Q1037486,Carl Devlies,father,Q2333227,Paul De Vlies
 Belgium,Q12498,Stefaan De Clerck,father,Q1985246,Albert De Clerck
 Belgium,Q1283280,Albert Liénard,child,Q2929895,Bénédicte Liénard
 Belgium,Q12978,Guy Verhofstadt,sibling,Q1998566,Dirk Verhofstadt
@@ -1055,6 +1056,7 @@ Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q432537,P
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q700152,Prince Laurent of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",spouse,Q379479,"Prince Lorenz, Archduke of Austria-Este"
 Belgium,Q17149643,Valerie Van Peel,sibling,Q1922743,Michael Van Peel
+Belgium,Q17350584,Gilles Foret,father,Q2741931,Michel Foret
 Belgium,Q17350697,Pierre Kompany,child,Q201381,Vincent Kompany
 Belgium,Q17350697,Pierre Kompany,child,Q2995528,François Kompany
 Belgium,Q17350697,Pierre Kompany,child,Q65099847,Christel
@@ -1093,6 +1095,8 @@ Belgium,Q27826608,Vincent Van Peteghem,father,Q1914810,Martin Van Peteghem
 Belgium,Q2784190,Rob Van de Velde,spouse,Q22691670,Evi Van der Planken
 Belgium,Q2800268,Maggie De Block,sibling,Q57458166,Eddie De Block
 Belgium,Q2827542,Ahmed El Khannouss,relative,Q105955374,Bilal El Khannous
+Belgium,Q2833256,Alexandra Colen,spouse,Q2281703,Paul Beliën
+Belgium,Q2927014,Bruno Valkeniers,father,Q56447937,Victor Valkeniers
 Belgium,Q2965912,Christine Defraigne,father,Q466246,Jean Defraigne
 Belgium,Q2966163,Christophe Collignon,father,Q745254,Robert Collignon
 Belgium,Q2978419,Claudia Niessen,father,Q2185811,Hans Niessen
@@ -1135,6 +1139,7 @@ Belgium,Q451040,Eric Van Rompuy,sibling,Q12983,Herman Van Rompuy
 Belgium,Q451040,Eric Van Rompuy,sibling,Q62090714,Anita Van Rompuy
 Belgium,Q458095,Miet Smet,father,Q1917034,Albert Smet
 Belgium,Q458095,Miet Smet,spouse,Q313809,Wilfried Martens
+Belgium,Q466236,Filip De Man,father,Q64097038,Jos De Man
 Belgium,Q469352,Louis Michel,child,Q2218957,Mathieu Michel
 Belgium,Q469352,Louis Michel,child,Q950958,Charles Michel
 Belgium,Q476596,Alexander De Croo,father,Q1351926,Herman De Croo
@@ -1601,7 +1606,7 @@ Bulgaria,Q12279384,Evgenya Zhivkova,relative,Q28517,Todor Zhivkov
 Bulgaria,Q12281406,Igor Damyanov,father,Q12293738,Simeon Damyanov
 Bulgaria,Q12285342,Lyuben Dilov Jr.,father,Q907201,Lyuben Dilov
 Bulgaria,Q12290597,Petar Stoyanovich,mother,Q12272048,Ani Bakalova
-Bulgaria,Q12290597,Petar Stoyanovich,sibling,Q105825638,Димитър Стоянович
+Bulgaria,Q12290597,Petar Stoyanovich,sibling,Q105825638,Dimitar Stojanovich
 Bulgaria,Q12299612,Yavor Milushev,spouse,Q7862005,Tzvetana Maneva
 Bulgaria,Q1371792,Solomon Passy,father,Q2901020,Isaac Passy
 Bulgaria,Q1509254,"Georgi Pirinski, Jr.",father,Q3407706,Georgi Pirinski Sr.
@@ -3162,6 +3167,7 @@ Czechia,Q564004,Anna Šabatová,father,Q3508125,Jaroslav Šabata
 Czechia,Q564004,Anna Šabatová,spouse,Q1718355,Petr Uhl
 Czechia,Q57434,Václav Klaus,child,Q6434601,Václav Klaus Jr.
 Czechia,Q57434,Václav Klaus,child,Q90255424,Jan Klaus
+Czechia,Q57434,Václav Klaus,father,Q116202545,Václav Klaus
 Czechia,Q57434,Václav Klaus,spouse,Q3497271,Livia Klausová
 Czechia,Q58195,Karel Schwarzenberg,child,Q45940244,Johannes Nepomucenus Schwarzenberg
 Czechia,Q58195,Karel Schwarzenberg,child,Q45941150,Anna Carolina Schwarzenberg
@@ -4231,6 +4237,8 @@ European Union,Q255657,Loyola de Palacio,father,Q66486563,Luis María de Palacio
 European Union,Q255657,Loyola de Palacio,mother,Q66486584,Luisa Mariana del Valle-Lersundi y del Valle
 European Union,Q255657,Loyola de Palacio,relative,Q5895692,Hermann Tertsch
 European Union,Q255657,Loyola de Palacio,sibling,Q438185,Ana de Palacio y del Valle-Lersundi
+European Union,Q2606822,Alexander Italianer,father,Q116224155,Franz Italianer
+European Union,Q2606822,Alexander Italianer,mother,Q116224154,Fanny de Josselin de Jong
 European Union,Q261120,Margrete Auken,child,Q441594,Ida Auken
 European Union,Q261120,Margrete Auken,father,Q12314619,Gunnar Auken
 European Union,Q261120,Margrete Auken,mother,Q6416061,Kirsten Auken
@@ -4291,7 +4299,7 @@ European Union,Q2868553,Astrid Thors,father,Q6209392,Carl-Eric Thors
 European Union,Q287892,Ana Mato Adrover,sibling,Q548970,Gabriel Mato Adrover
 European Union,Q287892,Ana Mato Adrover,spouse,Q5930664,Jesús Sepúlveda Recio
 European Union,Q2898005,Bernard Guetta,relative,Q8298,David Guetta
-European Union,Q2898005,Bernard Guetta,sibling,Q3870666,Natalie Guetta
+European Union,Q2898005,Bernard Guetta,sibling,Q3870666,Nathalie Guetta
 European Union,Q2898005,Bernard Guetta,spouse,Q69032674,Catherine Sayegh
 European Union,Q2898234,Bernard Lehideux,father,Q93438468,Hubert Lehideux
 European Union,Q2898234,Bernard Lehideux,relative,Q3085150,François Lehideux
@@ -5988,6 +5996,7 @@ Germany,Q1581695,Hans Peter Lindlar,father,Q1483298,Willi Lindlar
 Germany,Q15834076,Tessa Ganserer,spouse,Q1662209,Ines Eichmüller
 Germany,Q1583863,Hansjörg Haber,spouse,Q1337596,Emily Haber
 Germany,Q1584781,Harald Terpe,father,Q1444302,Frank Terpe
+Germany,Q15850827,Thomas Wrießnig,spouse,Q74385937,Martina Nibbeling-Wrießnig
 Germany,Q1586298,Harro Adt,child,Q61735606,Katrin Adt
 Germany,Q1587564,Hartmut Schulze-Boysen,sibling,Q66784,Harro Schulze-Boysen
 Germany,Q16019,Wolfgang Schäuble,child,Q18609986,Christine Strobl
@@ -6253,6 +6262,7 @@ Germany,Q73197,Anke Fuchs,sibling,Q81097821,Jan Nevermann
 Germany,Q73213,Edzard Schmidt-Jortzig,father,Q37104381,Friedrich Traugott Schmidt
 Germany,Q74268,Bernhard Vogel,father,Q16739593,Hermann Vogel
 Germany,Q74268,Bernhard Vogel,sibling,Q552483,Hans-Jochen Vogel
+Germany,Q74385937,Martina Nibbeling-Wrießnig,spouse,Q15850827,Thomas Wrießnig
 Germany,Q74408,Anja Hajduk,partner,Q2503062,Ute Pape
 Germany,Q7477615,Frauke Petry,spouse,Q17117405,Marcus Pretzell
 Germany,Q750922,Astrid Wallmann,father,Q1667839,Wilhelm Wallmann
@@ -9053,6 +9063,7 @@ Japan,Q11463874,Sadatoshi Ozato,child,Q8049988,Yasuhiro Ozato
 Japan,Q11465449,Asako Omi,father,Q1132669,Koji Omi
 Japan,Q11467778,Shiori Yamao,partner,Q39315566,Rintaro Kuramochi
 Japan,Q11467778,Shiori Yamao,spouse,Q38896351,Yasuo Yamao
+Japan,Q11467842,Tatsumaru Yamaoka,father,Q529825,Kenji Yamaoka
 Japan,Q11467981,Tsutomu Yamazaki,child,Q38278358,Yuiko Yamazaki
 Japan,Q11467981,Tsutomu Yamazaki,father,Q11468180,Tatsuo Yamazaki
 Japan,Q11467981,Tsutomu Yamazaki,relative,Q11468042,Iwao Yamazaki
@@ -9316,6 +9327,8 @@ Japan,Q513317,Katsuya Okada,relative,Q11522698,Shinjirō Murakami
 Japan,Q513317,Katsuya Okada,relative,Q7446719,Seiichiro Murakami
 Japan,Q513317,Katsuya Okada,sibling,Q11473440,Motoya Okada
 Japan,Q513317,Katsuya Okada,sibling,Q40031544,Masaya Takada
+Japan,Q529825,Kenji Yamaoka,child,Q11467842,Tatsumaru Yamaoka
+Japan,Q529825,Kenji Yamaoka,father,Q8016967,Sōhachi Yamaoka
 Japan,Q534338,Kyoko Nakayama,spouse,Q382089,Nariaki Nakayama
 Japan,Q534539,Eriko Yamatani,father,Q11470933,Shinpei Yamatani
 Japan,Q534539,Eriko Yamatani,spouse,Q100164424,Sei Ogawa
@@ -10214,8 +10227,12 @@ Mexico,Q948143,José Ángel Gurría,spouse,Q99297896,Lulu Quintana de Gurría
 Mexico,Q971902,Addy Joaquín Coldwell,sibling,Q2532342,Pedro Joaquín Coldwell
 Mexico,Q98622419,Manuela Obrador Narváez,relative,Q318508,Andrés Manuel López Obrador
 Federated States of Micronesia,Q109779535,Ginger Porter Mida,spouse,Q109779551,Kasio Mida
+Federated States of Micronesia,Q19921375,Peter M. Christian,spouse,Q116203562,Maurina Weilbacher
 Federated States of Micronesia,Q435427,Joseph Urusemal,spouse,Q116190910,Olania Latileilam
 Federated States of Micronesia,Q448296,Leo Falcam,spouse,Q6070192,Iris Falcam
+Federated States of Micronesia,Q495517,Jacob Nena,spouse,Q116032005,Lerina Jack
+Federated States of Micronesia,Q57499,Manny Mori,spouse,Q116203540,Elina Ekiek
+Federated States of Micronesia,Q57499,Manny Mori,spouse,Q116203551,Emma Nelson
 Moldova,Q1110215,Dorin Chirtoacă,relative,Q294473,Mihai Ghimpu
 Moldova,Q1110215,Dorin Chirtoacă,relative,Q5556336,Gheorghe Ghimpu
 Moldova,Q189435,Vladimir Voronin,child,Q7086161,Oleg Voronin
@@ -11037,6 +11054,7 @@ Norway,Q17112266,Magnus Thue,sibling,Q21097890,Kamilla Thue
 Norway,Q17113882,Sandra Márjá West,mother,Q47146058,Lene Antonsen
 Norway,Q17114008,Odd Anders With,child,Q1006904,Aleksander Denstad With
 Norway,Q17114008,Odd Anders With,father,Q4586130,Odd With
+Norway,Q17125631,Lars Jacob Hiim,father,Q4790656,Arild Hiim
 Norway,Q17125631,Lars Jacob Hiim,spouse,Q15477955,Anniken Hauglie
 Norway,Q17194929,Beaska Niillas,spouse,Q6471623,Sara Marielle Gaup
 Norway,Q1770173,Michael Tetzschner,child,Q88877567,Jenny Clemet von Tetzschner
@@ -11822,6 +11840,7 @@ Philippines,Q1427383,Florencio Abad,father,Q96107304,Jorge Abad
 Philippines,Q1427383,Florencio Abad,mother,Q96107295,Aurora Barsana-Abad
 Philippines,Q1427383,Florencio Abad,sibling,Q466654,Pacita Abad
 Philippines,Q1427383,Florencio Abad,spouse,Q12964580,Henedina Abad
+Philippines,Q145881,Juan Ponce Enrile,child,Q6112361,Jack Enrile
 Philippines,Q145881,Juan Ponce Enrile,sibling,Q3544581,Armida Siguion-Reyna
 Philippines,Q1464,Benigno Aquino III,father,Q222805,Benigno Aquino Jr.
 Philippines,Q1464,Benigno Aquino III,mother,Q1480,Corazon Aquino
@@ -12135,6 +12154,7 @@ Philippines,Q7363162,Miro Quimbo,spouse,Q104082108,Stella Quimbo
 Philippines,Q7363244,Rommel Amatong,father,Q4596779,Prospero Amatong
 Philippines,Q7365285,Ronald Singson,father,Q2399446,Chavit Singson
 Philippines,Q7365285,Ronald Singson,sibling,Q65932997,Ryan Luis Singson
+Philippines,Q7405267,Sally Ponce Enrile,spouse,Q6112361,Jack Enrile
 Philippines,Q7701087,"Teodoro Locsin, Jr.",father,Q16015004,"Teodoro Locsín, Sr."
 Philippines,Q7926469,Victor Yu,spouse,Q66777140,Divina Grace Yu
 Philippines,Q919045,Bong Revilla,child,Q112077127,Ram Revilla
@@ -12718,7 +12738,7 @@ Russia,Q39391916,Aleksey Zagrebin,father,Q24352427,Egor Zagrebin
 Russia,Q4066230,Grigory Anikeyev,relative,Q106274168,Andrey Anikeev
 Russia,Q4068640,Alexei Arbatov,father,Q967886,Georgy Arbatov
 Russia,Q4073083,Farkhad Akhmedov,father,Q12846537,Teymur Əhmədov
-Russia,Q4082839,Andrey Belousov,father,Q97315367,"Белоусов, Рэм Александрович"
+Russia,Q4082839,Andrey Belousov,father,Q97315367,Rem Belousov
 Russia,Q4094838,Nikolay Bortsov,child,Q4094839,Yury Bortsov
 Russia,Q4106917,Aleksej Veller,father,Q16335396,Boris Veller
 Russia,Q4107645,Sergey Veremeenko,spouse,Q467773,Sofya Skya
@@ -12791,6 +12811,7 @@ Russia,Q4494649,Andrey Khazin,sibling,Q1968160,Mikhail Khazin
 Russia,Q4512985,Valery Chereshnev,sibling,Q16335539,Игорь Александрович Черешнев
 Russia,Q4514356,Mikhail Chernyshyov,spouse,Q4441872,Zoya Stepanova
 Russia,Q4519050,Aleksandr Shabanov,father,Q97821547,Aleksandr Shabanov
+Russia,Q4519050,Aleksandr Shabanov,sibling,Q115184788,Galia Shabanova
 Russia,Q4522642,Petr Shelisch,father,Q55103859,"Шелищ, Борис Исаакович"
 Russia,Q4525925,Larisa Flamenbaum,child,Q17287465,Aleksandr Flamenbaum
 Russia,Q4525925,Larisa Flamenbaum,father,Q17287361,Kuzhuget Shoygu
@@ -15431,6 +15452,7 @@ Turkey,Q6077556,Fikri Sağlar,relative,Q21526105,Gerçek Sağlar
 Turkey,Q6082854,Feridun Sinirlioğlu,spouse,Q6026365,Ayşe Sinirlioğlu
 Turkey,Q6098459,Süleyman Soylu,father,Q106977159,Hasan Soylu
 Turkey,Q6098459,Süleyman Soylu,mother,Q106977199,Servet Soylu
+Turkey,Q61357331,Tunç Soyer,spouse,Q116234321,Neptün Soyer
 Turkey,Q64738140,Ömer Öcalan,relative,Q191530,Abdullah Öcalan
 Turkey,Q85976789,Tolga Ağar,father,Q735547,Mehmet Ağar
 Turkey,Q863496,Binali Yıldırım,child,Q42756066,Erkam Yildirim
@@ -21323,6 +21345,7 @@ United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",mother,Q7590
 United Kingdom,Q995702,"Pauline Perry, Baroness Perry of Southwark",spouse,Q75946999,George Walter Perry
 United States,Q101196632,Jake Auchincloss,father,Q104889905,Hugh Auchincloss
 United States,Q101196632,Jake Auchincloss,sibling,Q116036042,Hugh Auchincloss
+United States,Q101204553,Mary Miller,spouse,Q60735201,Chris Miller
 United States,Q101243561,Katy Duhigg,sibling,Q5076992,Charles Duhigg
 United States,Q10390,John McCain,child,Q22810646,James R. D. McCain
 United States,Q10390,John McCain,child,Q22810647,Sidney McCain
@@ -21397,6 +21420,8 @@ United States,Q1124,Bill Clinton,stepparent,Q4112619,Jeff Dwire
 United States,Q1124,Bill Clinton,stepparent,Q75762966,Richard Kelley
 United States,Q1147285,Pedro Rosselló,child,Q7332181,Ricardo Rosselló
 United States,Q1147285,Pedro Rosselló,spouse,Q6072061,Irma Margarita Neváres
+United States,Q115137457,Rob Menendez,father,Q888132,Robert Menendez
+United States,Q115137457,Rob Menendez,sibling,Q4726284,Alicia Menendez
 United States,Q115170395,George Santos,mother,Q115791099,Fatima A.C.H. Devolder
 United States,Q115680502,Amy Parks,partner,Q28370200,Hugh McKean
 United States,Q1160178,Daniel Brewster,father,Q102395348,"Capt. Daniel Baugh Brewster, Sr."
@@ -21661,6 +21686,8 @@ United States,Q1973878,Ned Lamont,relative,Q2478543,Corliss Lamont
 United States,Q1973878,Ned Lamont,relative,Q3073519,Thomas William Lamont Jr.
 United States,Q1973878,Ned Lamont,spouse,Q60493791,Ann Lamont
 United States,Q20090094,Kelly Alexander Jr.,father,Q27829199,Kelly Alexander Sr.
+United States,Q20177418,Sydney Kamlager-Dove,mother,Q22667652,Cheryl Lynn Bruce
+United States,Q20177418,Sydney Kamlager-Dove,stepparent,Q832432,Kerry James Marshall
 United States,Q2020636,Anita Dunn,spouse,Q7341941,Robert Bauer
 United States,Q2023708,Richard Blumenthal,child,Q60618279,Matt Blumenthal
 United States,Q2023708,Richard Blumenthal,sibling,Q16120254,David Blumenthal
@@ -21899,6 +21926,7 @@ United States,Q28600075,Katie Walsh,spouse,Q98594417,Mike Shields
 United States,Q28861402,Tom Begich,father,Q1619015,Nick Begich
 United States,Q28861403,Natasha von Imhof,relative,Q5366530,Elmer E. Rasmuson
 United States,Q28871485,Kelly Craft,spouse,Q6209275,Joe Craft
+United States,Q28935729,J. D. Vance,spouse,Q114390240,Usha Chilukuri Vance
 United States,Q2903280,Bill Lipinski,child,Q518424,Dan Lipinski
 United States,Q291143,Linda Sánchez,sibling,Q469094,Loretta Sanchez
 United States,Q29167070,Jim Holm,father,Q112800311,John Holm
@@ -22373,6 +22401,7 @@ United States,Q60735201,Chris Miller,spouse,Q101204553,Mary Miller
 United States,Q60735881,James Buchanan,father,Q2517229,Vern Buchanan
 United States,Q608533,Jay Carney,spouse,Q5125308,Claire Shipman
 United States,Q609189,Jesse Jackson Jr.,father,Q310586,Jesse Jackson
+United States,Q609189,Jesse Jackson Jr.,mother,Q107834780,Jacqueline Jackson
 United States,Q609189,Jesse Jackson Jr.,spouse,Q7416312,Sandi Jackson
 United States,Q60950448,Tara Sweeney,mother,Q61187947,Eileen MacLean
 United States,Q60950448,Tara Sweeney,spouse,Q111353534,Kevin Sweeney
@@ -22390,6 +22419,7 @@ United States,Q6133686,James F. Moriarty,spouse,Q100542125,Lauren K. Moriarty
 United States,Q614310,George Herbert Walker III,child,Q5540539,George Herbert Walker IV
 United States,Q614310,George Herbert Walker III,father,Q1507567,"George Herbert Walker, Jr."
 United States,Q6147195,Jamie McCourt,spouse,Q5488263,Frank McCourt
+United States,Q61483038,Laurel M. Lee,spouse,Q7816555,Tom Lee
 United States,Q615126,Aníbal Acevedo Vilá,spouse,Q16729168,Piti Gándara
 United States,Q6153618,Janet T. Mills,father,Q105660579,S. Peter Mills Jr.
 United States,Q6153618,Janet T. Mills,sibling,Q7175896,Peter Mills
@@ -22470,6 +22500,7 @@ United States,Q63879,Chris Christie,spouse,Q20176598,Mary Pat Christie
 United States,Q6388290,Ken Paxton,spouse,Q60639272,Angela Paxton
 United States,Q639207,Jim Gibbons,spouse,Q5242449,Dawn Gibbons
 United States,Q6395324,Ketanji Brown Jackson,spouse,Q111016257,Patrick Jackson
+United States,Q6397046,Kevin Mullin,father,Q5531363,Gene Mullin
 United States,Q64011226,Rhonda Knudsen,child,Q4823159,Austin Knudsen
 United States,Q640835,Jamie Raskin,father,Q6758404,Marcus Raskin
 United States,Q6415403,Kirk Caldwell,spouse,Q5296478,Donna Tanoue
@@ -23058,6 +23089,9 @@ World,Q1701772,"John Smith, Baron Kirkhill",father,Q75959314,Alexander Findlay S
 World,Q1701772,"John Smith, Baron Kirkhill",mother,Q75536031,Ann T. Farquharson
 World,Q1701772,"John Smith, Baron Kirkhill",spouse,Q76223007,Frances Mary Walker Reid
 World,Q1711088,"Judith Wilcox, Baroness Wilcox",child,Q105108159,Simon Davenport
+World,Q17177542,Gaston Browne,child,Q113611330,Prince Gaston Browne
+World,Q17177542,Gaston Browne,child,Q113611331,Gaston Andron Browne
+World,Q17177542,Gaston Browne,spouse,Q100606338,Maria Bird-Browne
 World,Q17318904,Nadiya Savchenko,sibling,Q106357456,Вера Викторовна Савченко
 World,Q17402395,Jože Bernik,spouse,Q28944123,Marija Bevčar Bernik
 World,Q174491,Robert Biedroń,partner,Q28123976,Krzysztof Śmiszek
@@ -23488,6 +23522,8 @@ World,Q6242279,John Wilkinson,child,Q76002510,Alexander Denys Lyon Wilkinson y C
 World,Q6242279,John Wilkinson,father,Q75803547,Denys Cooper Wilkinson
 World,Q6242279,John Wilkinson,mother,Q76002529,Gillian Avice Nairn
 World,Q6242279,John Wilkinson,spouse,Q76002508,Beatriz Maria Cecilia Cienfuegos y Ramirez
+World,Q6266369,Johnny Briceño,father,Q85852299,Elijio Briceño
+World,Q6266369,Johnny Briceño,spouse,Q112483783,Rossana Briceño
 World,Q6305233,Kimmo Kiljunen,child,Q11865487,Jaakko Kiljunen
 World,Q6305233,Kimmo Kiljunen,sibling,Q20379124,Vilppu Kiljunen
 World,Q6305233,Kimmo Kiljunen,spouse,Q29419380,Marja-Liisa Kiljunen

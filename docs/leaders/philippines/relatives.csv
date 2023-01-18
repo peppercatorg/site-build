@@ -53,6 +53,7 @@ Philippines,Q1427383,Florencio Abad,father,Q96107304,Jorge Abad
 Philippines,Q1427383,Florencio Abad,mother,Q96107295,Aurora Barsana-Abad
 Philippines,Q1427383,Florencio Abad,sibling,Q466654,Pacita Abad
 Philippines,Q1427383,Florencio Abad,spouse,Q12964580,Henedina Abad
+Philippines,Q145881,Juan Ponce Enrile,child,Q6112361,Jack Enrile
 Philippines,Q145881,Juan Ponce Enrile,sibling,Q3544581,Armida Siguion-Reyna
 Philippines,Q1464,Benigno Aquino III,father,Q222805,Benigno Aquino Jr.
 Philippines,Q1464,Benigno Aquino III,mother,Q1480,Corazon Aquino
@@ -366,6 +367,7 @@ Philippines,Q7363162,Miro Quimbo,spouse,Q104082108,Stella Quimbo
 Philippines,Q7363244,Rommel Amatong,father,Q4596779,Prospero Amatong
 Philippines,Q7365285,Ronald Singson,father,Q2399446,Chavit Singson
 Philippines,Q7365285,Ronald Singson,sibling,Q65932997,Ryan Luis Singson
+Philippines,Q7405267,Sally Ponce Enrile,spouse,Q6112361,Jack Enrile
 Philippines,Q7701087,"Teodoro Locsin, Jr.",father,Q16015004,"Teodoro Locsín, Sr."
 Philippines,Q7926469,Victor Yu,spouse,Q66777140,Divina Grace Yu
 Philippines,Q919045,Bong Revilla,child,Q112077127,Ram Revilla

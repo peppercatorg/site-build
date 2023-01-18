@@ -189,6 +189,9 @@ World,Q1701772,"John Smith, Baron Kirkhill",father,Q75959314,Alexander Findlay S
 World,Q1701772,"John Smith, Baron Kirkhill",mother,Q75536031,Ann T. Farquharson
 World,Q1701772,"John Smith, Baron Kirkhill",spouse,Q76223007,Frances Mary Walker Reid
 World,Q1711088,"Judith Wilcox, Baroness Wilcox",child,Q105108159,Simon Davenport
+World,Q17177542,Gaston Browne,child,Q113611330,Prince Gaston Browne
+World,Q17177542,Gaston Browne,child,Q113611331,Gaston Andron Browne
+World,Q17177542,Gaston Browne,spouse,Q100606338,Maria Bird-Browne
 World,Q17318904,Nadiya Savchenko,sibling,Q106357456,Вера Викторовна Савченко
 World,Q17402395,Jože Bernik,spouse,Q28944123,Marija Bevčar Bernik
 World,Q174491,Robert Biedroń,partner,Q28123976,Krzysztof Śmiszek
@@ -619,6 +622,8 @@ World,Q6242279,John Wilkinson,child,Q76002510,Alexander Denys Lyon Wilkinson y C
 World,Q6242279,John Wilkinson,father,Q75803547,Denys Cooper Wilkinson
 World,Q6242279,John Wilkinson,mother,Q76002529,Gillian Avice Nairn
 World,Q6242279,John Wilkinson,spouse,Q76002508,Beatriz Maria Cecilia Cienfuegos y Ramirez
+World,Q6266369,Johnny Briceño,father,Q85852299,Elijio Briceño
+World,Q6266369,Johnny Briceño,spouse,Q112483783,Rossana Briceño
 World,Q6305233,Kimmo Kiljunen,child,Q11865487,Jaakko Kiljunen
 World,Q6305233,Kimmo Kiljunen,sibling,Q20379124,Vilppu Kiljunen
 World,Q6305233,Kimmo Kiljunen,spouse,Q29419380,Marja-Liisa Kiljunen

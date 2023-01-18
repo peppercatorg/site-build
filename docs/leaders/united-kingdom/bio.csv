@@ -1,5 +1,5 @@
 id,name,gender,dob,dobp,dod,dodp,image,enwiki
-Q100651699,Paul Leonard Fox,male,1962-07-24,11,,,PaulFoxgov.jpg,Paul Fox (diplomat)
+Q100651699,Paul Leonard Fox,male,1962-07-24,11,,,PaulFoxgov.jpg,
 Q101693608,"Keith Stewart, Baron Stewart of Dirleton",male,1965-10-31,11,,,Keith Stewart 2020.jpg,"Keith Stewart, Baron Stewart of Dirleton"
 Q102109211,Bridget Brind,female,,,,,,Bridget Brind
 Q102354401,Dan Rosenfield,male,1977,9,,,Dan Rosenfield.jpg,Dan Rosenfield
@@ -41,7 +41,7 @@ Q109544916,Andy Keeling,male,,,,,,
 Q1098410,"Claus Moser, Baron Moser",male,1922-11-24,11,2015-09-04,11,,"Claus Moser, Baron Moser"
 Q10985643,Humfrey Malins,male,1945-07-31,11,,,,Humfrey Malins
 Q110050584,Ross Allen,male,1978,9,,,,
-Q110050585,Bryony Mathew,female,1977-06-23,11,,,BryonyMathew.jpg,Bryony Mathew
+Q110050585,Bryony Mathew,female,1977-06-23,11,,,BryonyMathew.jpg,
 Q110050586,Karen Maddocks,female,1975-05-29,11,,,,
 Q110050587,Ramin Navai,male,1978-06-21,11,,,,
 Q110050588,Victoria Billing,female,1975-05-31,11,,,,
@@ -60,6 +60,7 @@ Q1101453,Jonathan Knott,male,1966-11-02,11,,,Jonathan Knott.jpg,Jonathan Knott
 Q1101869,"Clive Brooke, Baron Brooke of Alverthorpe",male,1942-06-21,11,,,Official portrait of Lord Brooke of Alverthorpe crop 2.jpg,"Clive Brooke, Baron Brooke of Alverthorpe"
 Q1101965,"Clive Hollick, Baron Hollick",male,1945-05-20,11,,,Official portrait of Lord Hollick crop 2.jpg,"Clive Hollick, Baron Hollick"
 Q1101999,"Clive Soley, Baron Soley",male,1939-05-07,11,,,Official portrait of Lord Soley crop 2.jpg,Clive Soley
+Q110477008,Laure Beaufils,female,,,,,Laure Beaufils.jpg,
 Q1108359,"Colin Boyd, Baron Boyd of Duncansby",male,1953-06-07,11,,,Royal Coat of Arms of the United Kingdom (Government in Scotland).svg,"Colin Boyd, Baron Boyd of Duncansby"
 Q1108533,"Colin Low, Baron Low of Dalston",male,1942-08-23,11,,,Official portrait of Lord Low of Dalston crop 2.jpg,"Colin Low, Baron Low of Dalston"
 Q110863310,Paulette Hamilton,female,1962-11-23,11,,,Official Portrait of Paulette Hamilton MP.jpg,Paulette Hamilton
@@ -99,7 +100,7 @@ Q1174523,"David Trefgarne, 2nd Baron Trefgarne",male,1941-03-31,11,,,Official po
 Q1174557,"David Gold, Baron Gold",male,1951-03-01,11,,,,"David Gold, Baron Gold"
 Q1174856,"David James, Baron James of Blackheath",male,1937-12-07,11,,,Official portrait of Lord James of Blackheath crop 2.jpg,"David James, Baron James of Blackheath"
 Q1174967,"David Kenworthy, 11th Baron Strabolgi",male,1914-11-01,11,2010-12-24,11,,"David Kenworthy, 11th Baron Strabolgi"
-Q1175443,David Maclean,male,1953-05-16,11,,,David Maclean 2007.jpg,David Maclean
+Q1175443,David Maclean,male,1953-05-16,11,,,David Maclean 2007.jpg,"David Maclean, Baron Blencathra"
 Q1175906,"David Nickson, Baron Nickson",male,1929-11-29,11,,,,"David Nickson, Baron Nickson"
 Q1176158,"David Pollock, 3rd Viscount Hanworth",male,1946-02-16,11,,,Official portrait of Viscount Hanworth crop 2.jpg,"David Pollock, 3rd Viscount Hanworth"
 Q1176663,"Jan David Simon, 3rd Viscount Simon",male,1940-07-20,11,2021-08-15,11,Official portrait of Viscount Simon crop 3.jpg,"Jan David Simon, 3rd Viscount Simon"
@@ -2396,7 +2397,7 @@ Q56811065,George Squires,male,1948,9,,,,
 Q56811079,Ian Worthington,male,1958-08-09,11,,,,
 Q56811084,John Wilde,male,1941,9,,,,
 Q56811087,Harry Wiles,male,1944-06-17,11,,,,
-Q56811093,Duncan Norman,male,1971-10-12,11,,,,Duncan Norman
+Q56811093,Duncan Norman,male,1971-10-12,11,,,,
 Q56811133,Ruairi O'Connell,male,1977-02-22,11,,,,
 Q56811138,Brian Olley,male,1957-02-14,11,,,,
 Q56811150,James Mcculloch,male,1940-11-29,11,,,,
@@ -2423,7 +2424,7 @@ Q56821825,Richard Kinchen,male,1948,9,,,,
 Q56821857,Mark Gooding,male,1974-12-17,11,,,,
 Q56821916,David Gordon-Macleod,male,1948,9,,,,
 Q56821949,Nigel Gould-Davies,male,,,,,,
-Q56822168,Josephine Gauld,female,1973-01-19,11,,,British diplomat Josephine Gauld.jpg,Josephine Gauld
+Q56822168,Josephine Gauld,female,1973-01-19,11,,,British diplomat Josephine Gauld.jpg,
 Q56822205,William Gelling,male,1977-12-30,11,,,,
 Q56822210,Roderick Gemmell,male,1950,9,,,,
 Q56822223,Ian Gerken,male,1943-12-01,11,,,,
@@ -2631,7 +2632,7 @@ Q57628844,Martin Shearman,male,1965,9,,,,Martin Shearman
 Q57628848,Simon Shercliff,male,,,,,,Simon Shercliff
 Q57628869,Ivor Rawlinson,male,1942,9,,,,
 Q57628871,Tina Redshaw,female,1961,9,,,Tina Redshaw.jpg,Tina Redshaw
-Q57628881,Daniel Pruce,male,1966-07-24,11,,,,Daniel Pruce
+Q57628881,Daniel Pruce,male,1966-07-24,11,,,,
 Q57628882,Ralph Publicover,male,1952,9,,,,
 Q57628886,Roderick Pullen,male,1949,9,,,,
 Q57628890,Nicholas Pyle,male,1960,9,,,S465 DG Nick Pyle.jpg,Nick Pyle
@@ -2724,7 +2725,7 @@ Q57833877,Jeremy Hill,male,1954,9,,,,
 Q57833907,Kate Harrisson,female,,,,,S465 Ambassador Kate Harrisson -Govuk.png,
 Q57833919,Christopher Haslam,male,1943-03-22,11,,,,
 Q57833930,Charles Hay,male,,,,,Charles Hay.jpg,Charles Hay (diplomat)
-Q57833991,Matthew Hedges,male,1973-04-23,11,,,,Matthew Hedges (diplomat)
+Q57833991,Matthew Hedges,male,1973-04-23,11,,,,
 Q57834080,Martin Harris,male,1969,9,,,,
 Q57834110,Paul Hare,male,1951,9,,,,
 Q57834119,Peter Harborne,male,1945,9,,,,

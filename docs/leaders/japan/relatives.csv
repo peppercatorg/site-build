@@ -21,6 +21,7 @@ Japan,Q11463874,Sadatoshi Ozato,child,Q8049988,Yasuhiro Ozato
 Japan,Q11465449,Asako Omi,father,Q1132669,Koji Omi
 Japan,Q11467778,Shiori Yamao,partner,Q39315566,Rintaro Kuramochi
 Japan,Q11467778,Shiori Yamao,spouse,Q38896351,Yasuo Yamao
+Japan,Q11467842,Tatsumaru Yamaoka,father,Q529825,Kenji Yamaoka
 Japan,Q11467981,Tsutomu Yamazaki,child,Q38278358,Yuiko Yamazaki
 Japan,Q11467981,Tsutomu Yamazaki,father,Q11468180,Tatsuo Yamazaki
 Japan,Q11467981,Tsutomu Yamazaki,relative,Q11468042,Iwao Yamazaki
@@ -284,6 +285,8 @@ Japan,Q513317,Katsuya Okada,relative,Q11522698,Shinjirō Murakami
 Japan,Q513317,Katsuya Okada,relative,Q7446719,Seiichiro Murakami
 Japan,Q513317,Katsuya Okada,sibling,Q11473440,Motoya Okada
 Japan,Q513317,Katsuya Okada,sibling,Q40031544,Masaya Takada
+Japan,Q529825,Kenji Yamaoka,child,Q11467842,Tatsumaru Yamaoka
+Japan,Q529825,Kenji Yamaoka,father,Q8016967,Sōhachi Yamaoka
 Japan,Q534338,Kyoko Nakayama,spouse,Q382089,Nariaki Nakayama
 Japan,Q534539,Eriko Yamatani,father,Q11470933,Shinpei Yamatani
 Japan,Q534539,Eriko Yamatani,spouse,Q100164424,Sei Ogawa

@@ -1,4 +1,5 @@
 catalog,id,name,relationship,relative,relativename
+Belgium,Q1037486,Carl Devlies,father,Q2333227,Paul De Vlies
 Belgium,Q12498,Stefaan De Clerck,father,Q1985246,Albert De Clerck
 Belgium,Q1283280,Albert Liénard,child,Q2929895,Bénédicte Liénard
 Belgium,Q12978,Guy Verhofstadt,sibling,Q1998566,Dirk Verhofstadt
@@ -43,6 +44,7 @@ Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q432537,P
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",sibling,Q700152,Prince Laurent of Belgium
 Belgium,Q170194,"Princess Astrid, Archduchess of Austria-Este",spouse,Q379479,"Prince Lorenz, Archduke of Austria-Este"
 Belgium,Q17149643,Valerie Van Peel,sibling,Q1922743,Michael Van Peel
+Belgium,Q17350584,Gilles Foret,father,Q2741931,Michel Foret
 Belgium,Q17350697,Pierre Kompany,child,Q201381,Vincent Kompany
 Belgium,Q17350697,Pierre Kompany,child,Q2995528,François Kompany
 Belgium,Q17350697,Pierre Kompany,child,Q65099847,Christel
@@ -81,6 +83,8 @@ Belgium,Q27826608,Vincent Van Peteghem,father,Q1914810,Martin Van Peteghem
 Belgium,Q2784190,Rob Van de Velde,spouse,Q22691670,Evi Van der Planken
 Belgium,Q2800268,Maggie De Block,sibling,Q57458166,Eddie De Block
 Belgium,Q2827542,Ahmed El Khannouss,relative,Q105955374,Bilal El Khannous
+Belgium,Q2833256,Alexandra Colen,spouse,Q2281703,Paul Beliën
+Belgium,Q2927014,Bruno Valkeniers,father,Q56447937,Victor Valkeniers
 Belgium,Q2965912,Christine Defraigne,father,Q466246,Jean Defraigne
 Belgium,Q2966163,Christophe Collignon,father,Q745254,Robert Collignon
 Belgium,Q2978419,Claudia Niessen,father,Q2185811,Hans Niessen
@@ -123,6 +127,7 @@ Belgium,Q451040,Eric Van Rompuy,sibling,Q12983,Herman Van Rompuy
 Belgium,Q451040,Eric Van Rompuy,sibling,Q62090714,Anita Van Rompuy
 Belgium,Q458095,Miet Smet,father,Q1917034,Albert Smet
 Belgium,Q458095,Miet Smet,spouse,Q313809,Wilfried Martens
+Belgium,Q466236,Filip De Man,father,Q64097038,Jos De Man
 Belgium,Q469352,Louis Michel,child,Q2218957,Mathieu Michel
 Belgium,Q469352,Louis Michel,child,Q950958,Charles Michel
 Belgium,Q476596,Alexander De Croo,father,Q1351926,Herman De Croo

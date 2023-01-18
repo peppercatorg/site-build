@@ -158,7 +158,7 @@ Russia,Q39391916,Aleksey Zagrebin,father,Q24352427,Egor Zagrebin
 Russia,Q4066230,Grigory Anikeyev,relative,Q106274168,Andrey Anikeev
 Russia,Q4068640,Alexei Arbatov,father,Q967886,Georgy Arbatov
 Russia,Q4073083,Farkhad Akhmedov,father,Q12846537,Teymur Əhmədov
-Russia,Q4082839,Andrey Belousov,father,Q97315367,"Белоусов, Рэм Александрович"
+Russia,Q4082839,Andrey Belousov,father,Q97315367,Rem Belousov
 Russia,Q4094838,Nikolay Bortsov,child,Q4094839,Yury Bortsov
 Russia,Q4106917,Aleksej Veller,father,Q16335396,Boris Veller
 Russia,Q4107645,Sergey Veremeenko,spouse,Q467773,Sofya Skya
@@ -231,6 +231,7 @@ Russia,Q4494649,Andrey Khazin,sibling,Q1968160,Mikhail Khazin
 Russia,Q4512985,Valery Chereshnev,sibling,Q16335539,Игорь Александрович Черешнев
 Russia,Q4514356,Mikhail Chernyshyov,spouse,Q4441872,Zoya Stepanova
 Russia,Q4519050,Aleksandr Shabanov,father,Q97821547,Aleksandr Shabanov
+Russia,Q4519050,Aleksandr Shabanov,sibling,Q115184788,Galia Shabanova
 Russia,Q4522642,Petr Shelisch,father,Q55103859,"Шелищ, Борис Исаакович"
 Russia,Q4525925,Larisa Flamenbaum,child,Q17287465,Aleksandr Flamenbaum
 Russia,Q4525925,Larisa Flamenbaum,father,Q17287361,Kuzhuget Shoygu
