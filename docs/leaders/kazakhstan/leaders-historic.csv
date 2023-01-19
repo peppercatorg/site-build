@@ -1,6 +1,7 @@
 catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Kazakhstan,President,Nursultan Nazarbayev,Q57394,1991-12-16,2019-03-20,male,1940-07-06,,Nazarbayev Portrait.jpg,Nursultan Nazarbayev
 Kazakhstan,President,Kassym-Jomart Tokayev,Q200881,2019-03-20,,male,1953-05-17,,Kassym-Jomart Tokayev (19-08-2022).jpg,Kassym-Jomart Tokayev
+Kazakhstan,Prime Minister,Kassym-Jomart Tokayev,Q200881,1999-10-12,2002-01-28,male,1953-05-17,,Kassym-Jomart Tokayev (19-08-2022).jpg,Kassym-Jomart Tokayev
 Kazakhstan,Prime Minister,Imangali Tasmagambetov,Q1377525,2002-01-22,2003-06-11,male,1956-12-09,,Тасмагамбетов Имангали Нургалиевич (cropped).jpg,Imangali Tasmagambetov
 Kazakhstan,Prime Minister,Serik Akhmetov,Q57863,2012-09-24,2014-04-02,male,1958-06-25,,Serik Ahmetov.jpg,Serik Akhmetov
 Kazakhstan,Prime Minister,Karim Massimov,Q209639,2014-04-02,2016-09-08,male,1965-06-15,,Karim Masimov.jpg,Karim Massimov
@@ -41,7 +42,8 @@ Kazakhstan,Minister of Culture and Sports,Mukhtar Kul-Mukhammed,Q4245925,2008-05
 Kazakhstan,Minister of Culture and Sports,Mukhtar Kul-Mukhammed,Q4245925,2013-01-16,2014-03-11,male,1960-12-12,,Mukhtar Kul-Mukhammed.jpg,Mukhtar Kul-Mukhammed
 Kazakhstan,Minister of Culture and Sports,Arystanbek Muhamediuly,Q16678820,2014-08-06,2019-06-17,male,1963-02-11,,ArystanbekMuhamediuly 01 (cropped).jpg,Arystanbek Muhamediuly
 Kazakhstan,Minister of Culture and Sports,Aqtoty Raiymqulova,Q12532220,2019-06-17,2022-01-05,female,1964-05-02,,Mcsgovrkmks.jpg,Aqtoty Raiymqulova
-Kazakhstan,Minister of Culture and Sports,Dauren Abaev,Q24350696,2022-01-11,,male,1979-04-18,,Dauren Abayev (37573770292) (cropped).jpg,Dauren Abaev
+Kazakhstan,Minister of Culture and Sports,Dauren Abaev,Q24350696,2022-01-11,2023-01-04,male,1979-04-18,,Dauren Abayev (37573770292) (cropped).jpg,Dauren Abaev
+Kazakhstan,Minister of Culture and Sports,Askhat Oralov,Q110822618,2023-01-04,,male,1990-02-10,,,Ashat Oralov
 Kazakhstan,Minister of Defence,Sät Toqpaqbajew,Q4459616,1999-10-13,2001-12-08,male,1939-09-17,,,
 Kazakhstan,Minister of Defence,Mukhtar Altynbayev,Q1045853,2001-12-08,2007-01-08,male,1945-12-10,,"Mukhtar Altynbayev detail, 040225-F-6655M-376.jpg",Mukhtar Altynbayev
 Kazakhstan,Minister of Defence,Daniyal Akhmetov,Q324950,2007-01-10,2009-06-17,male,1954-06-15,,Daniyal Akhmetov.jpg,Daniyal Akhmetov
@@ -55,8 +57,10 @@ Kazakhstan,Minister of Defence,Ruslan Jaqsylyqov,Q11348947,2022-01-19,,male,1966
 Kazakhstan,"Minister of Digital Development, Innovation and Aerospace Industry",Beibut Bakirovich Atamkulov,Q4072002,2016-10-07,2018-12-26,male,1964-05-19,,Beibut Atamkulov.jpg,Beibut Atamkulov
 Kazakhstan,"Minister of Digital Development, Innovation and Aerospace Industry",Bağdat Musin,Q98103179,2020-09-02,,male,1983-03-03,,Mussin b (cropped).jpg,Bağdat Musin
 Kazakhstan,"Minister of Ecology, Geology and Natural Resources",Magzum Myrzagaliev,Q16436621,2019-06-17,2021-09-09,male,1978-11-07,,Magzum Mirzagaliev (2020-07-17) (cropped).jpg,Magzum Myrzagaliev
-Kazakhstan,"Minister of Ecology, Geology and Natural Resources",Serıkqali Brekeşev,Q108498636,2021-09-10,,male,1972-10-14,,,Serıkqali Brekeşev
-Kazakhstan,Minister of Education,Ashat Aimagambetov,Q65129668,2022-06-11,,male,1982-06-14,,Ashat Aimagambetov (24112) (cropped).jpg,Ashat Aimagambetov
+Kazakhstan,"Minister of Ecology, Geology and Natural Resources",Serıkqali Brekeşev,Q108498636,2021-09-10,2023-01-04,male,1972-10-14,,,Serıkqali Brekeşev
+Kazakhstan,"Minister of Ecology, Geology and Natural Resources",Zulfiya Suleimenova,Q116196742,2023-01-04,,female,,,,
+Kazakhstan,Minister of Education,Ashat Aimagambetov,Q65129668,2022-06-11,2023-01-04,male,1982-06-14,,Ashat Aimagambetov (24112) (cropped).jpg,Ashat Aimagambetov
+Kazakhstan,Minister of Education,Gani Beisembayev,Q116196758,2023-01-04,,male,,,,
 Kazakhstan,Minister of Education and Science,Krymbek Kusherbayev,Q4250192,1997-10-17,2000-12-18,male,1955-05-20,,Kusherbayev Krymbek.jpg,Krymbek Kusherbayev
 Kazakhstan,Minister of Education and Science,Kulash Shamshidinova,Q20483276,2019-02-25,2019-06-13,female,1958-03-04,,,Kulash Shamshidinova
 Kazakhstan,Minister of Education and Science,Ashat Aimagambetov,Q65129668,2019-06-13,2022-06-01,male,1982-06-14,,Ashat Aimagambetov (24112) (cropped).jpg,Ashat Aimagambetov
@@ -106,7 +110,8 @@ Kazakhstan,Minister of Industry and Infrastructure Development,Asset Issekeshev,
 Kazakhstan,Minister of Industry and Infrastructure Development,Zhenis Kassymbek,Q12544831,2016-06-21,2019-02-25,male,1975-05-07,,Zhenis Kassymbek (08.2016) (cropped).png,Zhenis Kassymbek
 Kazakhstan,Minister of Industry and Infrastructure Development,Sklyar Roman Vasilyevich,Q16436743,2019-02-25,2019-09-18,male,1971-05-08,,Roman Sklyar (2017-09-26) (cropped).jpg,Roman Sklyar
 Kazakhstan,Minister of Industry and Infrastructure Development,Beibut Bakirovich Atamkulov,Q4072002,2019-09-18,2022-01-05,male,1964-05-19,,Beibut Atamkulov.jpg,Beibut Atamkulov
-Kazakhstan,Minister of Industry and Infrastructure Development,Kairbek Uskenbayev,Q110556593,2022-01-11,,male,1964-10-24,,,
+Kazakhstan,Minister of Industry and Infrastructure Development,Kairbek Uskenbayev,Q110556593,2022-01-11,2023-01-04,male,1964-10-24,,,
+Kazakhstan,Minister of Industry and Infrastructure Development,Marat Karabayev,Q116196763,2023-01-04,,male,,,,
 Kazakhstan,Minister of Information and Communications,Dauren Abaev,Q24350696,2016-05-06,2019-02-25,male,1979-04-18,,Dauren Abayev (37573770292) (cropped).jpg,Dauren Abaev
 Kazakhstan,Minister of Information and Social Development,Dauren Abaev,Q24350696,2019-02-25,2020-05-04,male,1979-04-18,,Dauren Abayev (37573770292) (cropped).jpg,Dauren Abaev
 Kazakhstan,Minister of Information and Social Development,Aida Balaeva,Q97206977,2020-05-04,2022-01-05,female,1974-07-04,,Aida Balaeva (2020-08-29) (cropped).jpg,Aida Balaeva
@@ -123,6 +128,7 @@ Kazakhstan,Minister of Internal Affairs,Erlan Turgymbaev,Q12542039,2019-02-12,20
 Kazakhstan,Minister of Internal Affairs,Marat Akhmetzhanov,Q12552839,2022-02-25,,male,1964,,,
 Kazakhstan,Minister of Justice,Marat Beketaev,Q28496484,2016-09-13,2022-01-05,male,1977-08-29,,Marat Beketaev (25972) (cropped).jpg,Marat Beketaev
 Kazakhstan,Minister of Justice,Kanat Mussin,Q110556519,2022-01-11,2022-12-30,male,,,,
+Kazakhstan,Minister of Justice,Azamat Yeskaraev,Q116196761,2023-01-04,,male,,,,
 Kazakhstan,Minister of Labor and Social Protection of the Population,"Радостовец, Николай Владимирович",Q15088591,1999-10,2000-08,male,1955-12-15,,,
 Kazakhstan,Minister of Labor and Social Protection of the Population,Alikhan Baimenov,Q4075631,2000-08,2001-11,male,1959-03-25,,Baimenov Alikhan.jpg,Alikhan Baimenov
 Kazakhstan,Minister of Labor and Social Protection of the Population,Gulzhana Karagusova,Q4213731,2001-11,2007-08,female,1950-09-09,,,Gulzhan Karagusova
