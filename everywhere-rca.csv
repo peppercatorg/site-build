@@ -1686,6 +1686,7 @@ Cambodia,Q5901400,Hor Nambora,father,Q58287,Hor Namhong
 Cameroon,Q105971791,Robert Nkili,sibling,Q461586,Jeanne-Irène Biya
 Cameroon,Q107253305,Colette Sohaing,spouse,Q20787335,André Sohaing
 Cameroon,Q108312431,Oswald Baboke,child,Q109653690,Indira
+Cameroon,Q111342341,Ada Owona Rose épouse Nguini Effa Marie,spouse,Q116254118,Jean-Baptiste Nguini Effa
 Cameroon,Q111366078,Léon Bahounoui Batende,child,Q115264898,Annie Noëlle Bahounoui Batende
 Cameroon,Q15819842,Ibrahim Mbombo Njoya,sibling,Q17637414,Rabiatou Njoya
 Cameroon,Q16269130,Fritz Ntonè Ntonè,child,Q116133897,Reine Dominique Ntonè Sike
@@ -8173,6 +8174,7 @@ Indonesia,Q97590819,Indira Chunda Thita Syahrul,mother,Q97670113,Ayu Sri Harahap
 Indonesia,Q97590866,Dewie Yasin Limpo,child,Q14917205,Andi Tenri Natassa
 Indonesia,Q97590866,Dewie Yasin Limpo,father,Q26818531,M. Yasin Limpo
 Indonesia,Q97590866,Dewie Yasin Limpo,mother,Q106594957,Nurhayati Yasin Limpo
+Iran,Q10296812,Mohammad Javad Zarif,spouse,Q24279259,Maryam Imanieh
 Iran,Q16052285,Mohammad Mirmohammadi,father,Q17994214,Seyed Abolfazl Mirmohammadi
 Iran,Q16053240,Abdul-Nasser Hemmati,spouse,Q107230125,Sepideh Shabestari
 Iran,Q180795,Mohammad Khatami,child,Q102253847,Leila Khatami
@@ -12237,6 +12239,7 @@ Poland,Q1683061,Janusz Korwin-Mikke,child,Q107378569,Kacper Korwin Mikke
 Poland,Q1683061,Janusz Korwin-Mikke,child,Q107750726,Korynna Korwin-Mikke
 Poland,Q1683061,Janusz Korwin-Mikke,spouse,Q107564268,Dominika Korwin-Mikke
 Poland,Q174491,Robert Biedroń,partner,Q28123976,Krzysztof Śmiszek
+Poland,Q17544437,Przemysław Czarnecki,father,Q253793,Ryszard Czarnecki
 Poland,Q19267935,Hanna Gill-Piątek,spouse,Q9359612,Tomasz Piątek
 Poland,Q19268209,Jerzy Snopek,spouse,Q111726907,Márta Gedeon
 Poland,Q19268672,Maciej Gdula,father,Q9152065,Andrzej Gdula
@@ -19907,7 +19910,7 @@ United Kingdom,Q3915820,Richard Balfe,child,Q76303179,Richard Geoffrey Clement B
 United Kingdom,Q3915820,Richard Balfe,spouse,Q76303172,Susan Jane Honeyford
 United Kingdom,Q391792,Helen Grant,child,Q112206973,Benjamin Grant
 United Kingdom,Q391792,Helen Grant,father,Q112230473,Julius A. Okuboye
-United Kingdom,Q392149,Andrew Griffiths,spouse,Q76364163,Kate Griffiths
+United Kingdom,Q392149,Andrew Griffiths,spouse,Q76364163,Kate Kniveton
 United Kingdom,Q392174,Ben Gummer,child,Q76265335,Wilfred Gabriel Selwyn Gummer
 United Kingdom,Q392174,Ben Gummer,child,Q76326095,Aubrey Valentine Hamilton Gummer
 United Kingdom,Q392174,Ben Gummer,father,Q333635,John Gummer
@@ -20533,7 +20536,7 @@ United Kingdom,Q6229339,"John Diamond, Baron Diamond",child,Q75871465,Martin Dia
 United Kingdom,Q6229339,"John Diamond, Baron Diamond",child,Q75871466,Ruth Diamond
 United Kingdom,Q6229339,"John Diamond, Baron Diamond",child,Q75871469,Joan Diamond
 United Kingdom,Q6229339,"John Diamond, Baron Diamond",father,Q75871470,Solomon Diamond
-United Kingdom,Q6229339,"John Diamond, Baron Diamond",mother,Q75871471,
+United Kingdom,Q6229339,"John Diamond, Baron Diamond",mother,Q12406810,Henrietta Diamond
 United Kingdom,Q6229339,"John Diamond, Baron Diamond",spouse,Q75871456,Sadie Lyttleton
 United Kingdom,Q6229339,"John Diamond, Baron Diamond",spouse,Q75874010,Julie Diamond
 United Kingdom,Q6234730,John Gallacher,child,Q76002381,Robert John Gallacher
@@ -21048,7 +21051,7 @@ United Kingdom,Q76363401,Laura Farris,father,Q6832761,Michael McNair-Wilson
 United Kingdom,Q76363563,Sara Britcliffe,father,Q85817555,Peter Britcliffe
 United Kingdom,Q76363937,Sam Tarry,partner,Q18164278,Angela Rayner
 United Kingdom,Q76364147,Imran Ahmad Khan,father,Q105210120,Saeed Khan
-United Kingdom,Q76364163,Kate Griffiths,spouse,Q392149,Andrew Griffiths
+United Kingdom,Q76364163,Kate Kniveton,spouse,Q392149,Andrew Griffiths
 United Kingdom,Q76364853,Dehenna Davison,spouse,Q111512297,John Fareham
 United Kingdom,Q76448943,Rachel Hopkins,father,Q689421,Kelvin Hopkins
 United Kingdom,Q76449027,Alexander Stafford,sibling,Q80909709,Gregory Stafford
