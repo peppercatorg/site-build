@@ -79,9 +79,6 @@ qsv search -s repo "^$repo$" repos.csv |
 
 erb country="$name" countrydir=$dir src=$srce -r csv -T- template/index.erb > $dir/index.html
 
-echo $TEMPDIR
-exit
-
 qsv cat rows everywhere-current.csv     $TEMPDIR/current.csv                              | qsv dedup | sponge everywhere-current.csv
 qsv cat rows everywhere-leaders.csv     $TEMPDIR/leaders-historic.csv                     | qsv dedup | sponge everywhere-leaders.csv
 qsv cat rows everywhere-legislators.csv $TEMPDIR/legislators-historic.csv                 | qsv dedup | sponge everywhere-legislators.csv

@@ -7,8 +7,28 @@
     <title>Yemen leaders data from Peppercat</title>
     <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="/stylesheet.css">
     <style>
+      #header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #0E1535;
+        color: #FFBDCB;
+        margin-bottom: 20px;
+      }
+      body { margin: 0; background-color: #F8F2F4; color: #302D4A; font-family: "Georgia" }
+      h1 { margin: 0 20px 0 0; font-weight: 200; text-align: center; }
+      h2 { margin: 10px 0 0 0; color: #4E425D; }
+      h3 { margin: 0; color: #9F7A8F; font-size: 80%; }
+      h4 { color: #715A72; margin: 10px 0 0 15px; }
+      ul { list-style-type: square; margin: 10px; }
+      li { margin-bottom: 0.25rem; }
+      .content { margin-left: 40px; margin-right: 40px; }
+      .mandate-dates { font-size: 70% }
+      hr { margin: 20px -20px 20px -20px }
+      #footer { margin: 0; padding: 10px; text-align: right }
+      #footer a { text-decoration: none; font-weight: bold; color: #0E1535; }
+
       .bio { display: none }
 
       #officeholders { text-align: center }
@@ -36,13 +56,6 @@
         padding: 0.1em;
       }
 
-      #download {
-        float: right;
-        font-size: 200%;
-        clear: both;
-      }
-      #download a { text-decoration: none }
-
       #sources {
         clear: both;
         font-size: smaller;
@@ -52,20 +65,7 @@
     </style>
   </head>
   <body>
-    <div class="logo-bar">
-      <a href="/">
-        <div class="logo-box">
-          <img class="logo" alt="peepercat" height="75" src="/img/peppercat_peeping_logo.png">
-          <div class="claim-box"><h2>Peppercat: the collaborative World Leaders list</h2></div>
-        </div>
-      </a>
-      <div class="navigation-bar">
-        <ul>
-          <li><p><a href="/"><img class="wordmark" alt="peppercat" height="50" src="/img/peppercat_wordmark.png"></a></p></li>
-          <li style="float:right"><h3><a href="/about.html">About</a></h3></li>
-        </ul>
-      </div>
-    </div>
+    <div id="header"><a href="/"><img src="https://peppercat.org/img/wordmark.png" alt="Peppercat" width="152" height="46" /></a></div>
 
     <div class="content">
       <div id="officeholders">
@@ -1146,8 +1146,6 @@
         </dl>
       </div>
 
-      <div id="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></div>
-
       <div id="sources">
         <hr>
         <p>
@@ -1155,11 +1153,12 @@
           official source for the data listed here, so we are not able to
           automatically check that this information is up-to-date. If you know of
           such a source, or if you see an error in the data,
-          please <a href="/about.html#Help">let us know</a>.
+          please <a href="/about.html">get in touch</a>.
           The last change was on July 28, 2022.
         </p>
       </div>
     </div>
+    <div id="footer"><a href="/about.html">about Peppercat</a></div>
 
     <script>
       $(".toggle").prepend('► ').click(function() { $(this).next('.bio').toggle() } );
