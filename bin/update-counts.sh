@@ -1,30 +1,58 @@
 #!/bin/zsh
 
-TMPFILE=$(mktemp)
+TEMPDIR=$(mktemp -d)
 
-# For each country specified (or all, if none specified), generate the latest counts
-pushd docs/leaders
-for d in $1*; do
-  pushd -q $d
-  leaders=$(qsv select personID current.csv | qsv dedup | qsv search Q | qsv count)
-  histlead=$(qsv select personID leaders-historic.csv | qsv dedup | qsv search Q | qsv count)
-  curleg=$(qsv search -s end -v . legislators-historic.csv | qsv select personID | qsv dedup | qsv count)
-  histleg=$(qsv select personID legislators-historic.csv | qsv dedup | qsv search Q | qsv count)
-  uniqppl=$((for f in *.csv; do qsv select personID $f; done) | qsv sort | qsv dedup | qsv search Q | qsv count)
-  echo $d,$leaders,$histlead,$curleg,$histleg,$uniqppl | tr -d ' '
-  popd -q
-done 2>/dev/null | tee $TMPFILE
-popd
+qsv select catalog,personID everywhere-current.csv |
+  qsv dedup |
+  qsv select catalog |
+  qsv frequency -l 0 |
+  qsv select value,count |
+  qsv rename country,leaders > $TEMPDIR/1.csv
 
-# Append the latest counts to the end of the existing ones, and then take the latest of each
-qsv rename -n "country,leaders,leadttl,legislators,legttl,unique" $TMPFILE | sponge $TMPFILE
-qsv cat rows stats.csv $TMPFILE | qsv search -s country -v TOTAL | qsv dedup -s country | sponge stats.csv
+qsv select catalog,personID everywhere-leaders.csv |
+  qsv dedup |
+  qsv select catalog |
+  qsv frequency -l 0 |
+  qsv select value,count |
+  qsv rename country,leaders_total > $TEMPDIR/2.csv
 
-# Recalculate the unique totals across everywhere
-leaders=$(qsv cat rows **/current.csv | qsv select personID | qsv dedup | qsv search Q | qsv count)
-histlead=$(qsv cat rows **/leaders-historic.csv | qsv select personID | qsv dedup | qsv search Q | qsv count)
-curleg=$(qsv cat rows **/legislators-historic.csv | qsv search -s end -v . | qsv select personID | qsv dedup | qsv search Q | qsv count)
-histleg=$(qsv cat rows **/legislators-historic.csv | qsv select personID | qsv dedup | qsv search Q | qsv count)
-uniqppl=$((for f in everywhere-*s.csv; do; qsv select personID $f; done) | qsv sort | qsv dedup | qsv search Q | qsv count)
+qsv search -s end -v . everywhere-legislators.csv |
+  qsv select catalog,personID |
+  qsv dedup |
+  qsv select catalog |
+  qsv frequency -l 0 |
+  qsv select value,count |
+  qsv rename country,legislators > $TEMPDIR/3.csv
 
-echo "TOTAL",$leaders,$histlead,$curleg,$histleg,$uniqppl | sed -e 's/ //g' >> stats.csv
+qsv select catalog,personID everywhere-legislators.csv |
+  qsv dedup |
+  qsv select catalog |
+  qsv frequency -l 0 |
+  qsv select value,count |
+  qsv rename country,legislators_total > $TEMPDIR/4.csv
+
+qsv cat rows everywhere-leaders.csv everywhere-legislators.csv |
+  qsv select catalog,personID |
+  qsv dedup |
+  qsv select catalog |
+  qsv frequency -l 0 |
+  qsv select value,count |
+  qsv rename country,unique > $TEMPDIR/5.csv
+
+qsv join --left country repos.csv country $TEMPDIR/1.csv |
+  qsv join --left country - country $TEMPDIR/2.csv |
+  qsv join --left country - country $TEMPDIR/3.csv |
+  qsv join --left country - country $TEMPDIR/4.csv |
+  qsv join --left country - country $TEMPDIR/5.csv |
+  qsv select slug,leaders,leaders_total,legislators,legislators_total,unique |
+  qsv rename country,leaders,leaders_total,legislators,legislators_total,unique |
+  qsv sort -s country | sed -e 's/,,/,0,/' -e 's/,,/,0,/' > stats.csv
+
+# Calculate the unique totals across everywhere
+leaders=$(qsv select personID everywhere-current.csv | qsv dedup | qsv count)
+histlead=$(qsv select personID everywhere-leaders.csv | qsv dedup | qsv count)
+curleg=$(qsv search -s end -v . everywhere-legislators.csv | qsv select personID | qsv dedup | qsv count)
+histleg=$(qsv select personID everywhere-legislators.csv | qsv dedup | qsv count)
+uniqppl=$(qsv cat rows everywhere-leaders.csv everywhere-legislators.csv | qsv select personID | qsv dedup | qsv count)
+
+echo "TOTAL",$leaders,$histlead,$curleg,$histleg,$uniqppl >> stats.csv
