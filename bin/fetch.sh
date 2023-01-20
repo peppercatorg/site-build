@@ -1,5 +1,6 @@
 #!/bin/bash
 
+TEMPDIR=$(mktemp -d)
 TMPFILE=$(mktemp)
 IFS=$'\n'
 
@@ -30,18 +31,18 @@ bio="https://raw.githubusercontent.com/every-politician-scrapers/$repo/main/html
 echo $name
 mkdir -p $dir
 
-curl -L -o $dir/bio.csv $bio
+curl -L -o $TEMPDIR/bio.csv $bio
 
 curl -L -o $TMPFILE $csv
 qsv search -s repo "^$repo$" repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
-  qsv join personID - id $dir/bio.csv |
+  qsv join personID - id $TEMPDIR/bio.csv |
   qsv select catalog,position,person,personID,start,gender,dob,dod,image,enwiki |
   qsv rename catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki |
   qsv fill catalog |
-  ifne tee $dir/current.csv
+  ifne tee $TEMPDIR/current.csv
 
 # These next two also have an 'end' column
 # TODO: also have that in `current.csv`
@@ -50,22 +51,22 @@ qsv search -s repo "^$repo$" repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
-  qsv join personID - id $dir/bio.csv |
+  qsv join personID - id $TEMPDIR/bio.csv |
   qsv select catalog,position,person,personID,start,end,gender,dob,dod,image,enwiki |
   qsv rename catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki |
   qsv fill catalog |
-  ifne tee $dir/leaders-historic.csv
+  ifne tee $TEMPDIR/leaders-historic.csv
 
 curl -L -o $TMPFILE $csvmp
 qsv search -s repo "^$repo$" repos.csv |
   qsv select country |
   qsv rename catalog |
   qsv cat -p columns $TMPFILE - |
-  qsv join personID - id $dir/bio.csv |
+  qsv join personID - id $TEMPDIR/bio.csv |
   qsv select catalog,position,person,personID,start,end,gender,dob,dod,image,enwiki |
   qsv rename catalog,position,person,personID,start,end,gender,DOB,DOD,image,enwiki |
   qsv fill catalog |
-  ifne tee $dir/legislators-historic.csv
+  ifne tee $TEMPDIR/legislators-historic.csv
 
 curl -L -o $TMPFILE $rca
 qsv search -s repo "^$repo$" repos.csv |
@@ -74,11 +75,14 @@ qsv search -s repo "^$repo$" repos.csv |
   qsv cat -p columns $TMPFILE - |
   qsv select 6,1-5 |
   qsv fill catalog |
-  ifne tee $dir/relatives.csv
+  ifne tee $TEMPDIR/relatives.csv
 
 erb country="$name" countrydir=$dir src=$srce -r csv -T- template/index.erb > $dir/index.html
 
-qsv cat rows docs/leaders/**/current.csv > everywhere-current.csv
-qsv cat rows docs/leaders/**/leaders-historic.csv > everywhere-leaders.csv
-qsv cat rows docs/leaders/**/legislators-historic.csv > everywhere-legislators.csv
-qsv cat rows docs/leaders/**/relatives.csv | qsv search -s relative Q > everywhere-rca.csv
+echo $TEMPDIR
+exit
+
+qsv cat rows everywhere-current.csv     $TEMPDIR/current.csv                              | qsv dedup | sponge everywhere-current.csv
+qsv cat rows everywhere-leaders.csv     $TEMPDIR/leaders-historic.csv                     | qsv dedup | sponge everywhere-leaders.csv
+qsv cat rows everywhere-legislators.csv $TEMPDIR/legislators-historic.csv                 | qsv dedup | sponge everywhere-legislators.csv
+qsv cat rows everywhere-rca.csv         $TEMPDIR/relatives.csv | qsv search -s relative Q | qsv dedup | sponge everywhere-rca.csv
