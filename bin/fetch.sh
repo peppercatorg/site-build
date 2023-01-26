@@ -42,7 +42,7 @@ qsv search -s repo "^$repo$" repos.csv |
   qsv select catalog,position,person,personID,start,gender,dob,dod,image,enwiki |
   qsv rename catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki |
   qsv fill catalog |
-  ifne tee $TEMPDIR/current.csv
+  ifne tee $dir/current.csv
 
 # These next two also have an 'end' column
 # TODO: also have that in `current.csv`
@@ -79,7 +79,7 @@ qsv search -s repo "^$repo$" repos.csv |
 
 erb country="$name" countrydir=$dir src=$srce -r csv -T- template/index.erb > $dir/index.html
 
-qsv cat rows everywhere-current.csv     $TEMPDIR/current.csv                              | qsv dedup | sponge everywhere-current.csv
+qsv cat rows everywhere-current.csv     $dir/current.csv                                  | qsv dedup | sponge everywhere-current.csv
 qsv cat rows everywhere-leaders.csv     $TEMPDIR/leaders-historic.csv                     | qsv dedup | sponge everywhere-leaders.csv
 qsv cat rows everywhere-legislators.csv $TEMPDIR/legislators-historic.csv                 | qsv dedup | sponge everywhere-legislators.csv
 qsv cat rows everywhere-rca.csv         $TEMPDIR/relatives.csv | qsv search -s relative Q | qsv dedup | sponge everywhere-rca.csv
