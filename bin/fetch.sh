@@ -79,7 +79,7 @@ qsv search -s repo "^$repo$" repos.csv |
 
 erb country="$name" countrydir=$dir src=$srce -r csv -T- template/index.erb > $dir/index.html
 
-qsv cat rows everywhere-current.csv     $dir/current.csv                                  | qsv dedup | sponge everywhere-current.csv
-qsv cat rows everywhere-leaders.csv     $TEMPDIR/leaders-historic.csv                     | qsv dedup | sponge everywhere-leaders.csv
-qsv cat rows everywhere-legislators.csv $TEMPDIR/legislators-historic.csv                 | qsv dedup | sponge everywhere-legislators.csv
-qsv cat rows everywhere-rca.csv         $TEMPDIR/relatives.csv | qsv search -s relative Q | qsv dedup | sponge everywhere-rca.csv
+qsv search -s catalog -v "^$name$" everywhere-current.csv     | qsv cat rows - $dir/current.csv                   | qsv sort -s catalog -o everywhere-current.csv
+qsv search -s catalog -v "^$name$" everywhere-leaders.csv     | qsv cat rows - $TEMPDIR/leaders-historic.csv      | qsv sort -s catalog -o everywhere-leaders.csv
+qsv search -s catalog -v "^$name$" everywhere-legislators.csv | qsv cat rows - $TEMPDIR/legislators-historic.csv  | qsv sort -s catalog -o everywhere-legislators.csv
+qsv search -s catalog -v "^$name$" everywhere-rca.csv         | qsv cat rows - $TEMPDIR/relatives.csv | qsv search -s relative Q | qsv sort -s catalog -o everywhere-rca.csv
