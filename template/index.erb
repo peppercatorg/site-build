@@ -85,7 +85,7 @@
                   <li>in office since <%= positions.first[:start] %></li>
                   <li>
                     <% unless positions.first[:enwiki].to_s.empty? %><a href="https://en.wikipedia.org/wiki/<%= positions.first[:enwiki].gsub(' ', '_') %>"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a><% end %>
-                    <a href="https://www.wikidata.org/wiki/<%= positions.first[:personid] %>"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                    <% if positions.first[:personid].to_s.start_with('Q') %><a href="https://www.wikidata.org/wiki/<%= positions.first[:personid] %>"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a><% end %>
                   </li>
                 </ul>
               </div>
