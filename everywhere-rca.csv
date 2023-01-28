@@ -1298,6 +1298,10 @@ Brazil,Q10320255,Luciana Genro,father,Q3515818,Tarso Genro
 Brazil,Q10324996,Marcela Temer,child,Q84003063,Michel Temer Filho
 Brazil,Q10324996,Marcela Temer,spouse,Q463533,Michel Temer
 Brazil,Q10326004,Maria Lúcia Amary,spouse,Q10359328,Renato Fauvel Amary
+Brazil,Q10327085,Marília Arraes,relative,Q10292585,Guel Arraes
+Brazil,Q10327085,Marília Arraes,relative,Q16336442,Ana Arraes
+Brazil,Q10327085,Marília Arraes,relative,Q1797190,Miguel Arraes
+Brazil,Q10327085,Marília Arraes,relative,Q4864755,Eduardo Campos
 Brazil,Q10329753,Miguel Corrêa,spouse,Q76669387,Letícia Santiago
 Brazil,Q10333327,Murilo Zauith,child,Q115676036,Marcelo Zauith
 Brazil,Q10333327,Murilo Zauith,child,Q115676042,Mariana Zauith
@@ -1479,8 +1483,10 @@ Brazil,Q47011498,João Carlos Paolilo Bacelar,relative,Q10311264,João Carlos Ba
 Brazil,Q47011498,João Carlos Paolilo Bacelar,sibling,Q10307400,Joaquim Rui Paulilo Bacelar
 Brazil,Q4720839,Alexandre Frota,spouse,Q2980489,Cláudia Raia
 Brazil,Q47468510,Felipe Francischini,father,Q16337464,Fernando Francischini
+Brazil,Q4864755,Eduardo Campos,child,Q59284454,João Henrique Campos
 Brazil,Q4864755,Eduardo Campos,father,Q10327789,Maximiano Campos
 Brazil,Q4864755,Eduardo Campos,mother,Q16336442,Ana Arraes
+Brazil,Q4864755,Eduardo Campos,relative,Q1797190,Miguel Arraes
 Brazil,Q48871939,Irajá Abreu,mother,Q9018151,Kátia Abreu
 Brazil,Q4887390,Benedita da Silva,spouse,Q9618212,Antônio Pitanga
 Brazil,Q48884453,Gervásio Agripino Maia,father,Q10289284,Gervásio Maia
@@ -1517,6 +1523,7 @@ Brazil,Q59246168,Pastor Cleiton Collins,spouse,Q25440841,Daize Michele de Aguiar
 Brazil,Q59247072,Franciane Bayer,sibling,Q20045969,Liziane Bayer da Costa
 Brazil,Q59247652,Jessé Lopes,child,Q98927515,Davi Lopes
 Brazil,Q59247652,Jessé Lopes,spouse,Q98927510,Moyra Lopes
+Brazil,Q59284454,João Henrique Campos,relative,Q1797190,Miguel Arraes
 Brazil,Q59308525,Bento Albuquerque,father,Q100707089,Bento Costa Lima Leite de Albuquerque
 Brazil,Q60784795,Otto Alencar Filho,father,Q10342495,Otto Alencar
 Brazil,Q60784795,Otto Alencar Filho,relative,Q59205323,Eduardo Alencar
