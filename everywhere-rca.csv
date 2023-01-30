@@ -2944,13 +2944,14 @@ Cyprus,Q7030515,Nikos Tornaritis,father,Q16329358,Giorgos  Tornaritis
 Cyprus,Q7030515,Nikos Tornaritis,sibling,Q98101110,Christophoros  Tornaritis
 Cyprus,Q88414270,Pantelis Kouros,sibling,Q66725213,Andreas Kouros
 Czechia,Q10389200,Vojtěch Adam,child,Q15249893,Petr Adam
+Czechia,Q106870250,Renáta Zajíčková,spouse,Q10857758,Zdeněk Zajíček
 Czechia,Q107548754,Jiří Horák,relative,Q12022991,Jan Plesl
 Czechia,Q10774355,Aleš Rozehnal,father,Q115487281,Aleš Rozehnal
 Czechia,Q10774355,Aleš Rozehnal,spouse,Q115487330,Hana Rozehnalová
 Czechia,Q10817784,Jaroslav Palas,father,Q12026468,Josef Palas
 Czechia,Q10819807,Andrej Babiš,child,Q104098427,Frederik Babiš
 Czechia,Q10819807,Andrej Babiš,child,Q104098444,Vivien Babišová
-Czechia,Q10819807,Andrej Babiš,child,Q58869572,Andrej Babiš jr
+Czechia,Q10819807,Andrej Babiš,child,Q58869572,Andrej Babiš Jr.
 Czechia,Q10819807,Andrej Babiš,child,Q58932201,Adriana Bobeková
 Czechia,Q10819807,Andrej Babiš,sibling,Q20976953,Alexander Babiš
 Czechia,Q10819807,Andrej Babiš,spouse,Q58932594,Monika Babišová
@@ -3094,6 +3095,9 @@ Czechia,Q19602636,Robert Pelikán,sibling,Q21704587,Petr Pelikán
 Czechia,Q22035584,Vít Rakušan,father,Q12023023,Jan Rakušan
 Czechia,Q2223090,Tomio Okamura,sibling,Q12042947,Osamu Okamura
 Czechia,Q2223090,Tomio Okamura,sibling,Q29346164,Hayato Okamura
+Czechia,Q23048742,Julius Špičák,father,Q11986008,Václav Špičák
+Czechia,Q23048742,Julius Špičák,mother,Q103704871,Vojtěcha Špičáková
+Czechia,Q23048742,Julius Špičák,sibling,Q29585700,Aleš Špičák
 Czechia,Q231231,Zuzana Roithová,spouse,Q95183454,Jan Roith
 Czechia,Q23649185,Jana Mračková Vildumetzová,spouse,Q113878264,Jan Mraček
 Czechia,Q2370616,Svatopluk Karásek,sibling,Q26770642,Oldřich Karásek
@@ -3197,6 +3201,7 @@ Czechia,Q6376025,Kateřina Jacques,relative,Q47451269,Alan Pajer
 Czechia,Q6376025,Kateřina Jacques,sibling,Q6900210,Monika MacDonagh-Pajerová
 Czechia,Q6376025,Kateřina Jacques,sibling,Q77954454,Oskar Pajer
 Czechia,Q6376025,Kateřina Jacques,spouse,Q1358861,Martin Bursík
+Czechia,Q64096525,Ondřej Babka,father,Q12043994,Pavel Babka
 Czechia,Q6434601,Václav Klaus Jr.,child,Q104100239,Kateřina Klausová
 Czechia,Q6434601,Václav Klaus Jr.,child,Q104100286,Eliška Klausová
 Czechia,Q6434601,Václav Klaus Jr.,child,Q104100313,Vojtěch Klaus
@@ -3514,7 +3519,7 @@ Ecuador,Q268026,Guadalupe Larriva,mother,Q66531101,Teresa González
 Ecuador,Q268026,Guadalupe Larriva,spouse,Q66531480,Rodrigo Ávila
 Ecuador,Q27786523,Lenin Hurtado,father,Q1678730,Jaime Hurtado
 Ecuador,Q27786523,Lenin Hurtado,mother,Q56168081,Siria Angulo
-Ecuador,Q3008822,Cynthia Viteri,father,Q61456205,José Viteri Peña
+Ecuador,Q3008822,Cynthia Viteri,father,Q61456205,Jose Viteri Pena
 Ecuador,Q3008822,Cynthia Viteri,mother,Q51152325,María Leonor Jiménez
 Ecuador,Q3296448,María Isabel Salvador,father,Q4254478,Jorge Salvador Lara
 Ecuador,Q3296448,María Isabel Salvador,mother,Q51503046,Teresa Crespo
@@ -3556,10 +3561,10 @@ El Salvador,Q17712353,Nayib Bukele,father,Q103824970,Armando Bukele Kattán
 El Salvador,Q48688454,Michelle Sol,spouse,Q106918858,Ernesto Castro Aldana
 El Salvador,Q61022687,"Félix Ulloa, Jr.",father,Q2880716,Félix Antonio Ulloa
 Equatorial Guinea,Q103916282,Victoriano Bibang Nsue Okomo,sibling,Q45147779,Constancia Mangue
-Equatorial Guinea,Q104702792,Mari-Cruz Evuna Andeme,father,Q112162958,Alejandro Evuna Owono Asangono
+Equatorial Guinea,Q104702792,Mari-Cruz Evuna Andeme,father,Q112162958,Alejandro Evuna
 Equatorial Guinea,Q104702792,Mari-Cruz Evuna Andeme,sibling,Q112195300,Miguel Ntutumu Evuna Andeme
 Equatorial Guinea,Q112162550,Cándido Nsue,sibling,Q45147779,Constancia Mangue
-Equatorial Guinea,Q112162958,Alejandro Evuna Owono Asangono,child,Q104702792,Mari-Cruz Evuna Andeme
+Equatorial Guinea,Q112162958,Alejandro Evuna,child,Q104702792,Mari-Cruz Evuna Andeme
 Equatorial Guinea,Q112195300,Miguel Ntutumu Evuna Andeme,sibling,Q104702792,Mari-Cruz Evuna Andeme
 Equatorial Guinea,Q45042829,Gabriel Mbega,father,Q57385,Teodoro Obiang
 Equatorial Guinea,Q45147779,Constancia Mangue,child,Q477201,Teodoro Nguema
@@ -5669,6 +5674,7 @@ France,Q3573907,Yves Pozzo di Borgo,spouse,Q33108864,Marella Moretti-Pozzo di Bo
 France,Q3574002,Yves Vandewalle,child,Q62077797,Anne Grignon
 France,Q3579995,Édouard Philippe,spouse,Q47522511,Édith Chabre
 France,Q3590999,Éric Bocquet,sibling,Q2829584,Alain Bocquet
+France,Q3591105,Éric Dupond-Moretti,child,Q116465505,Raphaël Dupond-Moretti
 France,Q3591105,Éric Dupond-Moretti,partner,Q261019,Isabelle Boulay
 France,Q3591105,Éric Dupond-Moretti,spouse,Q111353630,Hélène Dupond-Moretti
 France,Q3591191,Éric Jalton,father,Q3089918,Frédéric Jalton
@@ -13765,6 +13771,8 @@ South Korea,Q138048,Park Geun-hye,mother,Q390099,Yuk Young-soo
 South Korea,Q138048,Park Geun-hye,sibling,Q20859562,Park Jae-ok
 South Korea,Q138048,Park Geun-hye,sibling,Q7848255,Park Geun-ryeong
 South Korea,Q138048,Park Geun-hye,sibling,Q7848332,Park Ji-man
+South Korea,Q14342,Lee Myung-bak,child,Q116467106,Lee Seung-yeon
+South Korea,Q14342,Lee Myung-bak,child,Q116467107,Lee Si-hyeong
 South Korea,Q14342,Lee Myung-bak,child,Q56806003,Lee Su-yeon
 South Korea,Q14342,Lee Myung-bak,father,Q110941547,Lee Chung-u
 South Korea,Q14342,Lee Myung-bak,spouse,Q496572,Kim Yoon-ok
@@ -13834,6 +13842,8 @@ South Korea,Q496509,Lee Hoi-chang,father,Q16091306,I Hong-gyu
 South Korea,Q496509,Lee Hoi-chang,mother,Q56804778,Kim Sa-sun
 South Korea,Q496509,Lee Hoi-chang,sibling,Q21074800,Hoesung Lee
 South Korea,Q496509,Lee Hoi-chang,spouse,Q56804591,Han In-ok
+South Korea,Q496572,Kim Yoon-ok,child,Q116467106,Lee Seung-yeon
+South Korea,Q496572,Kim Yoon-ok,child,Q116467107,Lee Si-hyeong
 South Korea,Q496572,Kim Yoon-ok,child,Q56806003,Lee Su-yeon
 South Korea,Q496572,Kim Yoon-ok,spouse,Q14342,Lee Myung-bak
 South Korea,Q55728795,Roh Tae-ak,sibling,Q31178702,노태강
@@ -13906,6 +13916,7 @@ Spain,Q11703587,Santiago Abascal Conde,relative,Q63948239,Begoña Conde Álvarez
 Spain,Q11905508,Andreu Crespí Plaza,father,Q16190060,Andreu Crespí i Salom
 Spain,Q11912412,Carles Martí i Jufresa,relative,Q11912413,Carles Martí i Massagué
 Spain,Q11912490,Carme Carretero i Romay,spouse,Q66893985,Ricard Herrero i Suñer
+Spain,Q11915415,Consuelo Císcar Casaban,spouse,Q9065739,Rafael Blasco Castany
 Spain,Q11917597,Dolors Montserrat i Montserrat,mother,Q11917599,Dolors Culleré Montserrat
 Spain,Q11917599,Dolors Culleré Montserrat,child,Q11917597,Dolors Montserrat i Montserrat
 Spain,Q11918871,Elisa Díaz González,father,Q4893195,Luis Díaz Alperi
@@ -21541,6 +21552,7 @@ United States,Q1387868,Kurt Schrader,spouse,Q6774554,Martha Schrader
 United States,Q1400609,William V. Roth,spouse,Q6152658,Jane Richards Roth
 United States,Q1415243,Tom Price,spouse,Q28382598,Betty Price
 United States,Q1431576,Joe Kernan,spouse,Q28102365,Maggie Kernan
+United States,Q1432143,Roscoe Bartlett,child,Q6286391,Joseph R. Bartlett
 United States,Q145193,Zalmay Khalilzad,spouse,Q89891,Cheryl Benard
 United States,Q14525857,Avril Haines,father,Q56280048,Thomas H. Haines
 United States,Q14593411,John B. Emerson,child,Q266109,Jacqueline Emerson
