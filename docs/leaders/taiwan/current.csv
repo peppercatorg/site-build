@@ -1,10 +1,10 @@
 catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
 Taiwan,President,Tsai Ing-wen,Q233984,2016-05-20,female,1956-08-31,,蔡英文官方元首肖像照.png,Tsai Ing-wen
-Taiwan,Vice President,Lai Ching-te,Q3847080,2020-05-20,male,1959-10-06,,賴清德市長.jpg,Lai Ching-te
+Taiwan,Vice President,William Lai,Q3847080,2020-05-20,male,1959-10-06,,賴清德市長.jpg,Lai Ching-te
 Taiwan,Premier,Chen Chien-jen,Q9182314,2023-01-31,male,1951-06-06,,Vice President Chen Chien-jen.png,Chen Chien-jen
-Taiwan,Vice Premier,Shen Jong-chin,Q16150359,2020-06-19,male,1951-08-27,,Shen Jong-chin 20170919.jpg,Shen Jong-chin
 Taiwan,Secretary General,Lee Meng-yen,Q38876935,2019-01-14,male,1966-12-12,,李孟諺之肖像.jpg,Li Meng-yen
 Taiwan,Minister of Agriculture,Chen Chi-chung,Q60431375,2019-01-14,male,1966-03-29,,Chen Ji-zhong.jpg,Chen Chi-chung
+Taiwan,Minister of Atomic Energy,Chang Ching-wen,Q59210250,2023-01-31,female,,,,Chang Ching-wen
 Taiwan,"Minister of Budget, Accounting and Statistics",Chu Tzer-ming,Q24053403,2016-05-20,male,,,,Chu Tzer-ming
 Taiwan,Minister of Culture,Lee Yung-te,Q9206928,2020-05-20,male,1955-05-30,,Li Yong-de 2016 (cropped).jpg,Lee Yung-te
 Taiwan,Minister of Defence,Chiu Kuo-cheng,Q19825815,2021-02-23,male,1953-04-12,,Army (ROCA) General Chiu Kuo-cheng 陸軍上將邱國正 (03.29 總統主持「中華民國106年向先祖暨忠烈殉職人員致祭」 33328174510 27b5a8e266 o).jpg,Chiu Kuo-cheng
@@ -12,26 +12,27 @@ Taiwan,Minister of Digital Affairs,Audrey Tang,Q15025,2022-08-27,female,1981-04-
 Taiwan,Minister of Economic Affairs,Wang Mei-hua,Q15918515,2020-06-19,female,1958-08-10,,Wang Mei-hua(2020)(cropped).jpg,Wang Mei-hua
 Taiwan,Minister of Education,Pan Wen-chung,Q23954823,2019-01-14,male,1962-11-28,,教育部長潘文忠 (cropped).jpg,Pan Wen-chung
 Taiwan,Minister of Environmental Protection,Chang Tzi-chin,Q16143196,2019-01,male,1949,,Chang Tzi-Chin official portrait EPA.jpg,Chang Tzi-chin
+Taiwan,Minister of Finance,Chuang Tsui-yun,Q24572786,2023-01-31,female,,,,Chuang Tsui-yun
 Taiwan,Minister of Foreign Affairs,Joseph Wu,Q6288088,2018-02-26,male,1954-10-31,,吳釗燮外交部長.jpg,Joseph Wu
 Taiwan,Minister of Hakka Affairs,Yiong Con-ziin,Q8350699,2020-05-20,male,1963-04-22,,Yiong Con-ziin (cropped).jpg,Yiong Con-ziin
 Taiwan,Minister of Health and Welfare,Hsueh Jui-yuan,Q40272747,2022-07-18,male,1955-06-17,,Hsueh Jui-yuan (cropped).jpg,Hsueh Jui-yuan
 Taiwan,Minister of Indigenous Affairs,Icyang Parod,Q8350030,2016-05-20,male,1960-12-02,,Icyang Parod 2018 (cropped).jpg,Icyang Parod
-Taiwan,Minister of Interior,Hua Ching-Chun,Q104723309,2022-12-07,male,,,,
+Taiwan,Minister of Interior,Lin Yu-chang,Q8349914,2023-01-31,male,1971-03-10,,林基隆市市長右昌 (第十七屆).png,Lin Yu-chang
 Taiwan,Minister of Justice,Tsai Ching-hsiang,Q55505798,2018-07-16,male,1953-01-15,,"Tsai Ching-hsiang, Minister of Justice.jpg",Tsai Ching-hsiang
 Taiwan,Minister of Labour,Hsu Ming-chun,Q50170749,2018-02-26,female,,,Hsu Ming-chun.jpg,Hsu Ming-chun
 Taiwan,Minister of Mainland Affairs,Chiu Tai-san,Q8357028,2021-02-23,male,1956-08-30,,邱太三.JPG,Chiu Tai-san
 Taiwan,Minister of National Development,Kung Ming-hsin,Q27735496,2020-05-20,male,1964-02-03,,Kung Ming-hsin 20171018.jpg,Kung Ming-hsin
-Taiwan,Minister of Ocean Affairs,Chou Mei-wu,Q28416486,2022-09-01,male,1958-04-15,,CGA CH 09-01.png,
-Taiwan,Minister of Overseas Community Affairs,Tung Chen-yuan,Q9322496,2020-05-20,male,1969-12-07,,Tung Chen-yuan.jpg,
+Taiwan,Minister of Ocean Affairs,Kuan Bi-ling,Q3846662,2023-01-31,female,1956-12-09,,Voa chinese Kuan Bi-ling 17aug10 300.jpg,Kuan Bi-ling
+Taiwan,Minister of Overseas Community Affairs,Hsu Chia-ching,Q18109661,2023-01-31,female,1967-10-22,,Hsu Chia-ching.jpg,
 Taiwan,Minister of Personnel Administration,Su Chun-jung,Q27678861,2022-02-11,male,1960,,Su Chun-jung (cropped).jpg,Su Chun-jung
 Taiwan,Minister of Public Construction,Wu Tze-cheng,Q29952844,2017-11-23,male,1945-12-15,,"Picture of (Wu Ze-cheng, sometimes Wu Tze-cheng) from the website of the Yilan County Government.jpg",Wu Tze-cheng
 Taiwan,Minister of Science and Technology,Wu Tsung-tsong,Q26265161,2020-05-20,male,1955,,Wu Cheng-Chung (cropped).jpg,Wu Tsung-tsong
 Taiwan,Minister of Transportation and Communications,Wang Kwo-tsai,Q24851744,2021-04-20,male,1959,,20190112王國材jpg.jpg,Wang Kwo-tsai
 Taiwan,Minister of Veterans Affairs,Feng Shih-kuan,Q23894469,2019-08-05,male,1945-11-25,,Feng Shih-kuan 馮世寬 (20170308 國家中山科學研究院研發展示館開幕 201703081521581).jpg,Feng Shih-kuan
 Taiwan,Chairperson of the Central Election Commission,Lee Chin-yung,Q8349734,2019-02-25,male,1951-08-01,,Lee Chin Yung.jpg,Lee Chin-yung
-Taiwan,Chairperson of the Fair Trade Commission,May Lee,Q114895959,2021-02-01,female,,,,
+Taiwan,Chairperson of the Fair Trade Commission,May Lee,Q114895959,2021-02-01,female,,,李主任委員鎂.jpg,
 Taiwan,Chairperson of the Financial Supervisory Commission,Huang Tien-mu,Q21934105,2020-05-20,male,,,Huang Tien-mu 2020.png,Huang Tien-mu
 Taiwan,Chairperson of the National Communications Commission,Chen Yaw-shyang,Q85133282,2020-07-10,male,,,Chen Yaw-shyang (cropped).jpg,
-Taiwan,Director of the National Palace Museum,Wu Mi-cha,Q9055323,2019-02-15,male,1956-03-22,,Wu Mi-cha 2016.jpg,Wu Mi-cha
+Taiwan,Director of the National Palace Museum,Hsiao Tsung-huang,Q61740963,2023-01-31,male,,,國立故宮博物院蕭宗煌院長肖像.jpg,Hsiao Tsung-huang
 Taiwan,Governor of the Central Bank,Yang Chin-long,Q11963553,2018-02-26,male,1953-06-05,,央行總裁楊金龍.jpg,Yang Chin-long
 Taiwan,President of the Legislative Yuan,Yu Shyi-kun,Q707887,2020-02-01,male,1948-04-25,,立法委員游錫堃.jpg,You Si-kun
