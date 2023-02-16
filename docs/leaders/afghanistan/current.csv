@@ -1,12 +1,12 @@
 catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
 Afghanistan,Supreme Leader,Hibatullah Akhundzada,Q24237654,2021-08-15,male,1961,,,Hibatullah Akhundzada
-Afghanistan,Deputy Leader,Sirajuddin Haqqani,Q2246940,2021-08-15,male,1970,,Sirajuddin Haqqani.png,Sirajuddin Haqqani
-Afghanistan,Deputy Leader,Mohammad Yaqoob,Q24572400,2021-08-15,male,1990,,Mullah Yaqoob in January 2022.png,Mullah Yaqoob
 Afghanistan,Deputy Leader,Abdul Ghani Baradar,Q317219,2021-08-15,male,1968-09-29,,Abdul Ghani Baradar.jpg,Abdul Ghani Baradar
+Afghanistan,Deputy Leader,Mohammad Yaqoob,Q24572400,2021-08-15,male,1990,,Mullah Yaqoob in January 2022.png,Mullah Yaqoob
+Afghanistan,Deputy Leader,Sirajuddin Haqqani,Q2246940,2021-08-15,male,1970,,Sirajuddin Haqqani.png,Sirajuddin Haqqani
 Afghanistan,Prime Minister,Mohammad Hasan Akhund,Q108444479,2021-09-07,male,1945,,Hasan Akhund.png,Hasan Akhund
-Afghanistan,Deputy Prime Minister,Abdul Salam Hanafi,Q107919266,2021-09-07,male,,,Abdul Salam Hanafi.png,Abdul Salam Hanafi
 Afghanistan,Deputy Prime Minister,Abdul Ghani Baradar,Q317219,2021-09-07,male,1968-09-29,,Abdul Ghani Baradar.jpg,Abdul Ghani Baradar
 Afghanistan,Deputy Prime Minister,Abdul Kabir,Q4665452,2021-09-07,male,1958,,,Abdul Kabir
+Afghanistan,Deputy Prime Minister,Abdul Salam Hanafi,Q107919266,2021-09-07,male,,,Abdul Salam Hanafi.png,Abdul Salam Hanafi
 Afghanistan,"Minister of Agriculture, Irrigation and Livestock",Abdul Rahman Rashid,Q108683718,2021-09-07,male,,,Abdul Rahman Rashid in Kunduz.png,Abdul Rahman Rashid
 Afghanistan,Minister of Commerce and Industries,Nooruddin Azizi,Q108660590,2021-09-07,male,,,,Nooruddin Azizi
 Afghanistan,Minister of Communications and Information Technology,Najibullah Haqqani,Q108445427,2021-09-07,male,,,مولوی نجیب الله حقانی.jpg,Najibullah Haqqani
@@ -32,8 +32,8 @@ Afghanistan,Minister for Refugees,Khalil Haqqani,Q108181749,2021-09-07,male,1966
 Afghanistan,Minister of Rural Rehabilitation and Development,Mohammad Younus Akhundzada,Q108455582,2021-09-07,male,,,,Mohammad Younus Akhundzada
 Afghanistan,Minister of Transport and Civil Aviation,Hamidullah Akhundzada,Q108445434,2021-09-07,male,,,,Hamidullah Akhundzada
 Afghanistan,Minister of Water and Energy,Abdul Latif Mansur,Q108029426,2021-09-07,male,1968,,,Abdul Latif Mansur
-Afghanistan,"Deputy Minister of Agriculture, Irrigation and Livestock",Shamsuddin Pahlawan,Q108803692,2021-09-07,male,1968,,,Shamsuddin Pahlawan
 Afghanistan,"Deputy Minister of Agriculture, Irrigation and Livestock",Sadar Azam,Q109489930,2021-09-07,male,,,,Sadar Azam
+Afghanistan,"Deputy Minister of Agriculture, Irrigation and Livestock",Shamsuddin Pahlawan,Q108803692,2021-09-07,male,1968,,,Shamsuddin Pahlawan
 Afghanistan,Deputy Minister of Commerce and Industries,Mohammad Azim Sultan Zada,Q114733879,2021-09-07,,,,,
 Afghanistan,Deputy Minister of Commerce and Industries,Muhammad Basheer,Q114733884,2021-09-07,,,,,
 Afghanistan,Deputy Minister of Communications and Information Technology,Saifuddin Tayeb,Q114733887,2021-09-07,,,,,
@@ -41,11 +41,11 @@ Afghanistan,Deputy Minister of Construction of the Ministry of Defense,Maulvi Ab
 Afghanistan,Deputy Minister for Counter Narcotics,Abdul Haq Akhund,Q108529692,2021-09-07,male,,,,Abdul Haq Akhund
 Afghanistan,Deputy Minister of Defence,Abdul Qayyum Zakir,Q4665997,2021-09-07,male,1973,,,Abdul Qayyum Zakir
 Afghanistan,Deputy Minister of Disaster Management,Ghulam Ghaus,Q108874582,2021-09-07,male,,,,Ghulam Ghaus
-Afghanistan,Deputy Minister of Disaster Management,Sharafuddin Taqi,Q109700266,2021-09-07,male,,,,Sharafuddin Taqi
 Afghanistan,Deputy Minister of Disaster Management,Maulvi Enayatullah,Q114733873,2021-09-07,,,,,
+Afghanistan,Deputy Minister of Disaster Management,Sharafuddin Taqi,Q109700266,2021-09-07,male,,,,Sharafuddin Taqi
 Afghanistan,Deputy Minister of Economy,Abdul Latif Nazari,Q110297486,2021-09-07,male,,,,Abdul Latif Nazari
-Afghanistan,Deputy Minister of Education,Sakhaullah,Q109776913,2021-09-07,male,,,,Sakhaullah
 Afghanistan,Deputy Minister of Education,Saeed Ahmad Shahid Khel,Q114733886,2021-09-07,,,,,
+Afghanistan,Deputy Minister of Education,Sakhaullah,Q109776913,2021-09-07,male,,,,Sakhaullah
 Afghanistan,Deputy Minister of Finance,Nasir Akhund,Q109776639,2021-09-07,male,,,,Nasir Akhund
 Afghanistan,Deputy Minister of Finance and Administration at Ministry of Higher Education,Maulvi Haseebullah Hamid,Q114733874,2022,,,,,
 Afghanistan,Deputy Minister of Finance and Administration at Ministry of Information and Culture,Atiqullah Azizi,Q110865536,2021-09-07,male,,,,
@@ -57,8 +57,8 @@ Afghanistan,"Deputy Minister of Frontiers, Nations and Tribal Affairs",Maulvi Ab
 Afghanistan,Deputy Minister of Higher Education,Lutfullah Khairkhwa,Q109581136,2021-09-07,male,,,,Lutfullah Khairkhwa
 Afghanistan,Deputy Minister of Information and Culture,Zabiullah Mujahid,Q8063518,2021-09-07,male,1978-02-07,,Zabihullah Mujahid.png,Zabihullah Mujahid
 Afghanistan,Deputy Minister of the Interior,Ibrahim Sadr,Q108301306,2021-09-07,male,,,,Ibrahim Sadr
-Afghanistan,Deputy Minister of the Interior,Noor Jalal,Q108528906,2021-09-07,male,1969,,,Noor Jalal
 Afghanistan,Deputy Minister of the Interior,Mohammad Mohsin Hashimi,Q114733882,2021-09-07,,,,,
+Afghanistan,Deputy Minister of the Interior,Noor Jalal,Q108528906,2021-09-07,male,1969,,,Noor Jalal
 Afghanistan,Deputy Minister of Justice,Maulvi Abdul Karim,Q111242714,2022-03-14,male,,,,Maulvi Abdul Karim
 Afghanistan,Deputy Minister of Labor and Social Affairs,Maulvi Makhdoom Abdul Salam Saadat,Q114733875,2022,,,,,
 Afghanistan,Deputy Minister of Martyrs and Disabled Affairs,Sheikh Maulvi Abdul Hakim,Q114733888,2021-09-07,,,,,
@@ -73,8 +73,8 @@ Afghanistan,Deputy Minister of Rural Rehabilitation and Development,Qari Salahud
 Afghanistan,Deputy Minister of Technology and Logistics at Ministry of Defense,Attaullah Omari,Q111270611,2022,male,,,,Attaullah Omari
 Afghanistan,Deputy Minister of Tourism,Mullah Saaduddin Akhund,Q114733885,2022,,,,,
 Afghanistan,Deputy Minister of Youth Affairs at Ministry of Information and Culture,Abdul Rahim Saqib,Q114733863,2022-03-14,,,,,
-Afghanistan,Deputy Minister of Water and Energy,Mujeeb-ur-Rehman Omar,Q111327633,2021-09-07,male,,,,Mujeeb-ur-Rehman Omar
 Afghanistan,Deputy Minister of Water and Energy,Arifullah Arif,Q114733865,2021-09-07,,,,,
+Afghanistan,Deputy Minister of Water and Energy,Mujeeb-ur-Rehman Omar,Q111327633,2021-09-07,male,,,,Mujeeb-ur-Rehman Omar
 Afghanistan,Director of the Administrative Office of the President,Ahmad Jan Ahmady,Q108529967,2021-09-07,male,,,,Ahmad Jan Ahmady
 Afghanistan,Chief of General Staff,Qari Fasihuddin,Q108444979,2021-09-07,male,,,,Qari Fasihuddin
 Afghanistan,Director of Intelligence,Abdul Haq Wasiq,Q4665409,2021-09-07,male,1971,,ISN 00004 Abdul Haq Wasiq.jpg,Abdul Haq Wasiq

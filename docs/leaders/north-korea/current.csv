@@ -2,12 +2,12 @@ catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
 North Korea,Supreme Leader,Kim Jong-un,Q56226,2011-12-17,male,1982-01-08,,Kim Jong-un 2019 (cropped).jpg,Kim Jong-un
 North Korea,Premier,Kim Tok-hun,Q25035961,2020-08-13,male,1961,,,Kim Tok-hun
 North Korea,Vice Premier,Yang Sung-ho,Q63776707,2020-04,,,,,
-North Korea,Vice Premier,Ri Song-hak,Q105159427,2021-01-18,male,,,,
 North Korea,Vice Premier,Jon Hyon-chol,Q105706437,2021-01-18,,,,,
 North Korea,Vice Premier,Ju Chol-gyu,Q114593874,2021-01-18,,,,,
 North Korea,Vice Premier,Kim Song-ryong,Q114593877,2021-01-18,,,,,
-North Korea,Vice Premier,Pak Jong-gun,Q12597103,2021-01-18,male,1944-09-07,,,Pak Jong-gun
 North Korea,Vice Premier,Pak Hun,Q56820559,2021-01-18,,,,,
+North Korea,Vice Premier,Pak Jong-gun,Q12597103,2021-01-18,male,1944-09-07,,,Pak Jong-gun
+North Korea,Vice Premier,Ri Song-hak,Q105159427,2021-01-18,male,,,,
 North Korea,Vice Premier,Jon Sung Guk,Q114595445,2022-06-10,male,,,,
 North Korea,Minister of Agriculture,Ju Chol-gyu,Q114593874,2021-01-18,,,,,
 North Korea,Minister of Atomic Energy Industry,Wang Chang-uk,Q57071116,2021-01-18,male,1960-05-29,,,Wang Chang-uk
@@ -46,7 +46,7 @@ North Korea,Minister of Sports,Kim Il-guk,Q57064523,2021-01-18,,,,,
 North Korea,Minister of State Security,Ri Chang-dae,Q114088685,2022-06,male,,,,Ri Chang-dae
 North Korea,Minister of Urban Management,Im Kyong-jae,Q114593870,2021-01-18,,,,,
 North Korea,Secretary General of the Cabinet,Kim Kum-chol,Q56818426,2021-01-18,,,,,
-North Korea,President of the Central Bank,Chae Song-hak,Q114593868,2021-01-18,,,,,
+North Korea,President of the Central Bank,Chae Song-hak,Q114593868,2021-01-18,male,,,,Chae Song-hak
 North Korea,President of the Academy of Sciences,Kim Sung-jin,Q114593878,2021-01-18,,,,,
 North Korea,President of the Board of Education,Kim Sung-du,Q16907639,2021-01-18,male,1958-03-01,,,Kim Sung-du
 North Korea,Chairman of the Capital Construction Commission,Jo Sok-ho,Q63777382,2014-04,,1970,,,

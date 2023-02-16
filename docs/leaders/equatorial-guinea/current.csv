@@ -1,7 +1,7 @@
 catalog,position,person,personID,start,gender,DOB,DOD,image,enwiki
 Equatorial Guinea,President,Teodoro Obiang,Q57385,1979-08-03,male,1942-06-05,,"Teodoro Obiang detail, 1650FRP051.jpg",Teodoro Obiang Nguema Mbasogo
 Equatorial Guinea,Vice-President,Teodoro Nguema,Q477201,2012-05-21,male,1968-06-25,,,Teodoro Nguema Obiang Mangue
-Equatorial Guinea,Prime Minister,Manuela Roka,Q116579585,2023-02-01,female,,,,Manuela Roka Botey
+Equatorial Guinea,Prime Minister,Manuela Roka,Q112175210,2023-02-01,female,,,,Manuela Roka Botey
 Equatorial Guinea,Vice-Prime Minister,Alfonso Nsue Mokuy,Q112128551,2015-04-15,male,,,,
 Equatorial Guinea,Vice-Prime Minister,Angel Masie Mibuy,Q112128540,2016-06-24,male,,,,
 Equatorial Guinea,Minister of Agriculture,Nicolás Houtonji Acapo,Q112163009,2018-02-06,male,,,,
@@ -29,7 +29,7 @@ Equatorial Guinea,Minister of Social Affairs,María Consuelo Nguema,Q112133713,2
 Equatorial Guinea,Minister of Trade,Pastor Micha Ondó Bile,Q58151,2018-02-06,male,1952,,,Pastor Micha Ondó Bile
 Equatorial Guinea,Minister of Transport,Rufino Ovono Ondo,Q112175236,2020,male,,,,
 Equatorial Guinea,Deputy Minister of Commerce,Domingo Mba Esono,Q112133572,2020-08-18,male,,,,
-Equatorial Guinea,Deputy Minister of Culture and Tourism,Prudencio Botey Sobole,Q61767161,2020,male,,,,
+Equatorial Guinea,Deputy Minister of Culture and Tourism,Prudencio Botey,Q61767161,2020,male,,,,
 Equatorial Guinea,Deputy Minister of Finance,Hermes Ela Mifumu,Q112133412,2020-08-18,male,,,,
 Equatorial Guinea,Deputy Minister of Fisheries,Gerónimo-Carlos Osa Osa Nzang,Q112175182,2020,male,,,,
 Equatorial Guinea,Deputy Minister of Foreign Affairs,Pedro Nguema Ndong,Q112175231,2020,male,,,,
@@ -44,7 +44,7 @@ Equatorial Guinea,Deputy Minister of Public Works,Pascual Ondo Nse Oyana,Q112175
 Equatorial Guinea,Deputy Minister of Transport,Honorato Evita Oma,Q112175188,2020,male,,,,
 Equatorial Guinea,"Deputy Minister of Work, Employment Promotion and Social Security",Manuel Cristobal Morgades Ichaka,Q112175206,2020,male,,,,
 Equatorial Guinea,Minister Delegate of Agriculture,Miguel Mba Nsang Mikue,Q112133727,2020-08-18,male,,,,
-Equatorial Guinea,Minister Delegate of Education,Manuela Roca Botey,Q112175210,2020,female,,,,
+Equatorial Guinea,Minister Delegate of Education,Manuela Roka,Q112175210,2020,female,,,,Manuela Roka Botey
 Equatorial Guinea,Minister Delegate of Interior,Fidel Nsue Micha,Q112162984,2020-08-18,male,,,,
 Equatorial Guinea,Minister Delegate of Justice,Juan Olo Mba Nseng,Q112175200,2018,male,,,,
 Equatorial Guinea,Minister Delegate of National Security,Heriberto Meko Mbengono,Q112133249,2018,male,,,,
