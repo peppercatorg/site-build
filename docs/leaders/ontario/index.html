@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="https://www.peppercat.org/leaders/ontario/">
+    <title>Ontario leaders data from Peppercat</title>
+    <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <style>
+      #header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #0E1535;
+        color: #FFBDCB;
+        margin-bottom: 20px;
+      }
+      body { margin: 0; background-color: #F8F2F4; color: #302D4A; font-family: "Georgia" }
+      h1 { margin: 0 20px 0 0; font-weight: 200; text-align: center; }
+      h2 { margin: 10px 0 0 0; color: #4E425D; }
+      h3 { margin: 0; color: #9F7A8F; font-size: 80%; }
+      h4 { color: #715A72; margin: 10px 0 0 15px; }
+      ul { list-style-type: square; margin: 10px; }
+      li { margin-bottom: 0.25rem; }
+      .content { margin-left: 40px; margin-right: 40px; }
+      .mandate-dates { font-size: 70% }
+      hr { margin: 20px -20px 20px -20px }
+      #footer { margin: 0; padding: 10px; text-align: right }
+      #footer a { text-decoration: none; font-weight: bold; color: #0E1535; }
+
+      .bio { display: none }
+
+      #officeholders { text-align: center }
+
+      dt {
+        clear: both;
+        font-weight: bold;
+        font-variant: small-caps;
+        padding: 2em 0em 0.5em 0em;
+      }
+
+      dl {
+        display: inline-block;
+        text-align: left;
+      }
+
+      img.bioimg {
+        float:left;
+        padding: 0 1em 1.5em 1em;
+      }
+
+      .bio li {
+        font-size: smaller;
+        list-style-type: none;
+        padding: 0.1em;
+      }
+
+      #sources {
+        clear: both;
+        font-size: smaller;
+        padding-top: 5em;
+        padding-bottom: 2em;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="header"><a href="/"><img src="https://peppercat.org/img/wordmark.png" alt="Peppercat" width="152" height="46" /></a></div>
+
+    <div class="content">
+      <div id="officeholders">
+        <h1>Ontario</h1>
+        <dl>
+            <dt>Premier<br />Minister of Intergovernmental Affairs</dt>
+            <dd>
+              <span class="toggle">Doug Ford</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Doug Ford from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Doug%20Ford%20at%20the%202023%20US-Canada%20Summit%20(52806987761)%20(cropped).jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1964-11-20</li>
+                  <li>in office since 2018-06-29</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Doug_Ford"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q5300478"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Deputy Premier<br />Minister of Health</dt>
+            <dd>
+              <span class="toggle">Sylvia Jones</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Sylvia Jones from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Sylvia%20Jones%20MPP.png?width=100" />
+                <ul>
+                  <li>female</li>
+                  <li>born 1965</li>
+                  <li>in office since 2022-06-24</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Sylvia_Jones"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q7660940"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Lieutenant Governor</dt>
+            <dd>
+              <span class="toggle">Elizabeth Dowdeswell</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Elizabeth Dowdeswell from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Dowdeswell%202020-01-01%20(DSCF0094)%20(cropped).jpg?width=100" />
+                <ul>
+                  <li>female</li>
+                  <li>born 1944-11-09</li>
+                  <li>in office since 2014-09-23</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Elizabeth_Dowdeswell"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q17285381"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Agriculture</dt>
+            <dd>
+              <span class="toggle">Lisa Thompson</span>
+              <div class="bio">
+                
+                <ul>
+                  <li>female</li>
+                  <li>born 1965</li>
+                  <li>in office since 2021-06-18</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Lisa_Thompson_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q6558454"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Children</dt>
+            <dd>
+              <span class="toggle">Michael Parsa</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Michael Parsa from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/MPP%20Michael%20Parsa.jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  
+                  <li>in office since 2023-03-24</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Michael_Parsa"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081042"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Citizenship</dt>
+            <dd>
+              <span class="toggle">Michael Ford</span>
+              <div class="bio">
+                
+                <ul>
+                  <li>male</li>
+                  <li>born 1994</li>
+                  <li>in office since 2022-06-24</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Michael_Ford_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q24663887"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Colleges and Universities</dt>
+            <dd>
+              <span class="toggle">Jill Dunlop</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Jill Dunlop from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Jill%20Dunlop%20MS.png?width=100" />
+                <ul>
+                  <li>female</li>
+                  <li>born 1975-02-07</li>
+                  <li>in office since 2021-06-18</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Jill_Dunlop"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081072"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Economic Development</dt>
+            <dd>
+              <span class="toggle">Vic Fedeli</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Vic Fedeli from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Vic%20Fedeli.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1956-08-08</li>
+                  <li>in office since 2019-06-20</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Vic_Fedeli"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q7925897"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Education</dt>
+            <dd>
+              <span class="toggle">Stephen Lecce</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Stephen Lecce from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Lecce%20(52525670483)%20(cropped).jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1986-11-26</li>
+                  <li>in office since 2019-06-20</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Stephen_Lecce"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q54862564"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Energy</dt>
+            <dd>
+              <span class="toggle">Todd Smith</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Todd Smith from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Todd%20Smith%20-%202018%20(41541903621)%20(cropped).jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1971-10-07</li>
+                  <li>in office since 2021-06-18</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Todd_Smith_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q7812639"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of the Environment</dt>
+            <dd>
+              <span class="toggle">David Piccini</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of David Piccini from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/David%20Piccini%20QP.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1988-09-29</li>
+                  <li>in office since 2021-06-18</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/David_Piccini"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081079"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Finance</dt>
+            <dd>
+              <span class="toggle">Peter Bethlenfalvy</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Peter Bethlenfalvy from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Bethlenfalvy.jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  
+                  <li>in office since 2020-12-31</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Peter_Bethlenfalvy"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081063"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Francophone Affairs<br />Minister of Transportation</dt>
+            <dd>
+              <span class="toggle">Caroline Mulroney</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Caroline Mulroney from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Caroline%20Mulroney%20attending%20ROMA%20Conference%20(cropped).jpg?width=100" />
+                <ul>
+                  <li>female</li>
+                  <li>born 1974-06-11</li>
+                  <li>in office since 2018-06-29</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Caroline_Mulroney"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q21964347"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Indigenous Affairs<br />Minister of Northern Development</dt>
+            <dd>
+              <span class="toggle">Greg Rickford</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Greg Rickford from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/RickfordGregAtTRBOT20181128.jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1967-09-24</li>
+                  <li>in office since 2018-06-29</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Greg_Rickford"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q5606187"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Infrastructure</dt>
+            <dd>
+              <span class="toggle">Kinga Surma</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Kinga Surma from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Kinga%20Surma%20Apr2018.jpg?width=100" />
+                <ul>
+                  <li>female</li>
+                  
+                  <li>in office since 2021-06-18</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Kinga_Surma"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081037"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Labour</dt>
+            <dd>
+              <span class="toggle">Monte McNaughton</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Monte McNaughton from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Monte%20McNaughton%20QP.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1977-03-11</li>
+                  <li>in office since 2019-06-20</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Monte_McNaughton"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q6904822"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Long-Term Care</dt>
+            <dd>
+              <span class="toggle">Paul Calandra</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Paul Calandra from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Calandra%202023.jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1970-05-13</li>
+                  <li>in office since 2022-01-14</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Paul_Calandra"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q7149678"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Mines</dt>
+            <dd>
+              <span class="toggle">George Pirie</span>
+              <div class="bio">
+                
+                <ul>
+                  <li>male</li>
+                  
+                  <li>in office since 2022</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/George_Pirie_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q112609597"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Municipal Affairs</dt>
+            <dd>
+              <span class="toggle">Steve Clark</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Steve Clark from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Steve-Clark-politician.jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1960-11-07</li>
+                  <li>in office since 2018-06-29</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Steve_Clark_(Canadian_politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q7612215"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Natural Resources</dt>
+            <dd>
+              <span class="toggle">Graydon Smith</span>
+              <div class="bio">
+                
+                <ul>
+                  <li>male</li>
+                  
+                  <li>in office since 2022-06-24</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Graydon_Smith"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q112221869"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Public and Business Service Delivery</dt>
+            <dd>
+              <span class="toggle">Kaleed Rasheed</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Kaleed Rasheed from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Kaleed%20Rasheed.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1982</li>
+                  <li>in office since 2022-06-24</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Kaleed_Rasheed"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081047"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Red Tape Reduction</dt>
+            <dd>
+              <span class="toggle">Parm Gill</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Parm Gill from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Parm%20Gill.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1974-05-17</li>
+                  <li>in office since 2022-06-24</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Parm_Gill"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q3365597"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Seniors</dt>
+            <dd>
+              <span class="toggle">Raymond Cho</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Raymond Cho from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Raymond%20Cho.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1936-11-18</li>
+                  <li>in office since 2018-06-29</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Raymond_Cho_(politician)"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q7298666"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Minister of Tourism</dt>
+            <dd>
+              <span class="toggle">Neil Lumsden</span>
+              <div class="bio">
+                
+                <ul>
+                  <li>male</li>
+                  <li>born 1952-12-19</li>
+                  <li>in office since 2022-06-24</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Neil_Lumsden"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q6988872"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Associate Minister of Housing</dt>
+            <dd>
+              <span class="toggle">Nina Tangri</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Nina Tangri from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Nina%20Tangri%20MS.png?width=100" />
+                <ul>
+                  <li>female</li>
+                  
+                  <li>in office since 2023-03-24</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Nina_Tangri"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081019"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Associate Minister of Mental Health and Addictions</dt>
+            <dd>
+              <span class="toggle">Michael Tibollo</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Michael Tibollo from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Tibollo%20QP.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1960-02-11</li>
+                  <li>in office since 2019-06-20</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Michael_Tibollo"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081077"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Associate Minister of Transportation</dt>
+            <dd>
+              <span class="toggle">Stan Cho</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Stan Cho from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Stan%20Cho%20MS.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1978</li>
+                  <li>in office since 2021-06-18</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Stan_Cho"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081030"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Associate Minister of Women's Social and Economic Opportunity</dt>
+            <dd>
+              <span class="toggle">Charmaine Williams</span>
+              <div class="bio">
+                
+                <ul>
+                  <li>female</li>
+                  
+                  <li>in office since 2022</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Charmaine_Williams"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q112609642"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>President of the Treasury Board</dt>
+            <dd>
+              <span class="toggle">Prabmeet Sarkaria</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Prabmeet Sarkaria from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Prabmeet%20Sakaria.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1988-08-02</li>
+                  <li>in office since 2021-06-18</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Prabmeet_Sarkaria"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081051"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Attorney General</dt>
+            <dd>
+              <span class="toggle">Doug Downey</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Doug Downey from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Doug%20Downey.png?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1970-02-02</li>
+                  <li>in office since 2019-06-20</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Doug_Downey"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q55081048"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Solicitor General</dt>
+            <dd>
+              <span class="toggle">Michael Kerzner</span>
+              <div class="bio">
+                
+                <ul>
+                  <li>male</li>
+                  
+                  <li>in office since 2022-06-24</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Michael_Kerzner"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q112221180"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+            <dt>Speaker of the Legislative Assembly</dt>
+            <dd>
+              <span class="toggle">Ted Arnott</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Ted Arnott from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Ted%20Arnott,%20MPP,%20Speaker%20of%20the%20Legislative%20Assembly%20of%20Ontario.jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1963-04-08</li>
+                  <li>in office since 2018-07-11</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Ted_Arnott"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q7692967"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
+        </dl>
+      </div>
+
+      <div id="sources">
+        <hr>
+        <p>
+          Unfortunately we have not yet been able to find a regularly-updated
+          official source for the data listed here, so we are not able to
+          automatically check that this information is up-to-date. If you know of
+          such a source, or if you see an error in the data,
+          please <a href="/about.html">get in touch</a>.
+          The last change was on March 24, 2023.
+        </p>
+      </div>
+    </div>
+    <div id="footer"><a href="/about.html">about Peppercat</a></div>
+
+    <script>
+      $(".toggle").prepend('► ').click(function() { $(this).next('.bio').toggle() } );
+    </script>
+  </body>
+</html>
