@@ -26,8 +26,10 @@
       .content { margin-left: 40px; margin-right: 40px; }
       .mandate-dates { font-size: 70% }
       hr { margin: 20px -20px 20px -20px }
-      #footer { margin: 0; padding: 10px; text-align: right }
-      #footer a { text-decoration: none; font-weight: bold; color: #0E1535; }
+      #footer { margin: 0; padding: 10px }
+      #footer #shuffled { text-align: left }
+      #footer #about { align: right; text-align: right }
+      #footer #about a { text-decoration: none; font-weight: bold; color: #0E1535; }
 
       .bio { display: none }
 
@@ -393,16 +395,16 @@
             </dd>
             <dt>Minister of Justice</dt>
             <dd>
-              <span class="toggle">Sarsembayev Yerlan</span>
+              <span class="toggle">Yerlan Sarsembayev</span>
               <div class="bio">
                 
                 <ul>
-                  
+                  <li>male</li>
                   
                   <li>in office since 2025-01-09</li>
                   <li>
                     
-                    
+                    <a href="https://www.wikidata.org/wiki/Q131839480"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
                   </li>
                 </ul>
               </div>
@@ -628,7 +630,14 @@
         </p>
       </div>
     </div>
-    <div id="footer"><a href="/about.html">about Peppercat</a></div>
+    <div id="footer">
+      <span id="shuffled">
+        Subscribe to our weekly <a href="https://shuffled.beehiiv.com/">newsletter</a> for updates.
+      </span>
+      <div id="about">
+        <a href="/about.html">about Peppercat</a>
+      </div>
+    </div>
 
     <script>
       $(".toggle").prepend('► ').click(function() { $(this).next('.bio').toggle() } );

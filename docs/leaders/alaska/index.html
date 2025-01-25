@@ -26,8 +26,10 @@
       .content { margin-left: 40px; margin-right: 40px; }
       .mandate-dates { font-size: 70% }
       hr { margin: 20px -20px 20px -20px }
-      #footer { margin: 0; padding: 10px; text-align: right }
-      #footer a { text-decoration: none; font-weight: bold; color: #0E1535; }
+      #footer { margin: 0; padding: 10px }
+      #footer #shuffled { text-align: left }
+      #footer #about { align: right; text-align: right }
+      #footer #about a { text-decoration: none; font-weight: bold; color: #0E1535; }
 
       .bio { display: none }
 
@@ -121,16 +123,16 @@
             </dd>
             <dt>Speaker of the House of Representatives</dt>
             <dd>
-              <span class="toggle">Cathy Tilton</span>
+              <span class="toggle">Bryce Edgmon</span>
               <div class="bio">
-                <img class="bioimg" width="100" alt="image of Cathy Tilton from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Cathy%20Tilton%20(cropped).jpg?width=100" />
+                <img class="bioimg" width="100" alt="image of Bryce Edgmon from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/2013%20edgmon%20portrait%20(cropped).jpg?width=100" />
                 <ul>
-                  <li>female</li>
-                  <li>born 1962-08-28</li>
-                  <li>in office since 2023-01-18</li>
+                  <li>male</li>
+                  <li>born 1961-05-03</li>
+                  <li>in office since 2025-01-21</li>
                   <li>
-                    <a href="https://en.wikipedia.org/wiki/Cathy_Tilton"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
-                    <a href="https://www.wikidata.org/wiki/Q19664204"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                    <a href="https://en.wikipedia.org/wiki/Bryce_Edgmon"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q4980675"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
                   </li>
                 </ul>
               </div>
@@ -146,11 +148,18 @@
           automatically check that this information is up-to-date. If you know of
           such a source, or if you see an error in the data,
           please <a href="/about.html">get in touch</a>.
-          The last change was on January 18, 2023.
+          The last change was on January 21, 2025.
         </p>
       </div>
     </div>
-    <div id="footer"><a href="/about.html">about Peppercat</a></div>
+    <div id="footer">
+      <span id="shuffled">
+        Subscribe to our weekly <a href="https://shuffled.beehiiv.com/">newsletter</a> for updates.
+      </span>
+      <div id="about">
+        <a href="/about.html">about Peppercat</a>
+      </div>
+    </div>
 
     <script>
       $(".toggle").prepend('► ').click(function() { $(this).next('.bio').toggle() } );

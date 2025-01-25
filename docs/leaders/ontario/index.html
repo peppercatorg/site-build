@@ -26,8 +26,10 @@
       .content { margin-left: 40px; margin-right: 40px; }
       .mandate-dates { font-size: 70% }
       hr { margin: 20px -20px 20px -20px }
-      #footer { margin: 0; padding: 10px; text-align: right }
-      #footer a { text-decoration: none; font-weight: bold; color: #0E1535; }
+      #footer { margin: 0; padding: 10px }
+      #footer #shuffled { text-align: left }
+      #footer #about { align: right; text-align: right }
+      #footer #about a { text-decoration: none; font-weight: bold; color: #0E1535; }
 
       .bio { display: none }
 
@@ -475,7 +477,7 @@
             <dd>
               <span class="toggle">Stan Cho</span>
               <div class="bio">
-                <img class="bioimg" width="100" alt="image of Stan Cho from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Stan%20Cho%20MS.png?width=100" />
+                <img class="bioimg" width="100" alt="image of Stan Cho from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Hon%20Stan%20Cho%20Ivan%20Franko%20Homes%202023.jpg?width=100" />
                 <ul>
                   <li>male</li>
                   <li>born 1977-09-14</li>
@@ -710,7 +712,14 @@
         </p>
       </div>
     </div>
-    <div id="footer"><a href="/about.html">about Peppercat</a></div>
+    <div id="footer">
+      <span id="shuffled">
+        Subscribe to our weekly <a href="https://shuffled.beehiiv.com/">newsletter</a> for updates.
+      </span>
+      <div id="about">
+        <a href="/about.html">about Peppercat</a>
+      </div>
+    </div>
 
     <script>
       $(".toggle").prepend('► ').click(function() { $(this).next('.bio').toggle() } );

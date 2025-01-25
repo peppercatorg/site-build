@@ -21,8 +21,10 @@
       a:hover { text-decoration: underline; }
       #countries { display: flex; flex-wrap: wrap; list-style-type: none; }
       #countries li { flex: 1 0 15em; box-sizing: border-box; padding: 5px; }
-      #footer { margin: 0; padding: 10px; text-align: right }
-      #footer a { text-decoration: none; font-weight: bold; color: #0E1535; }
+      #footer { margin: 0; padding: 10px }
+      #footer #shuffled { text-align: left }
+      #footer #about { align: right; text-align: right }
+      #footer #about a { text-decoration: none; font-weight: bold; color: #0E1535; }
     </style>
   </head>
   <body>
@@ -248,6 +250,13 @@
         <li><a href="leaders/zimbabwe/index.html">Zimbabwe</a></li>
       </ul>
     </div>
-    <div id="footer"><a href="/about.html">about Peppercat</a></div>
+    <div id="footer">
+      <span id="shuffled">
+        Subscribe to our weekly <a href="https://shuffled.beehiiv.com/">newsletter</a> for updates.
+      </span>
+      <div id="about">
+        <a href="/about.html">about Peppercat</a>
+      </div>
+    </div>
   </body>
 </html>
