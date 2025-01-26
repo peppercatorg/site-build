@@ -1,0 +1,1261 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="https://www.peppercat.org/">
+    <title>Peppercat World Legislators</title>
+    <style>
+      #header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #0E1535;
+        color: #FFBDCB;
+        margin-bottom: 20px;
+      }
+      body { margin: 0; background-color: #F8F2F4; color: #4E425D; font-family: "Georgia"  }
+      .content { margin-left: 40px; margin-right: 40px; }
+      h1 { color: #302D4A; margin: 0 20px 0 0 }
+      a { color: #4E425D; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      #countries { display: flex; flex-wrap: wrap; list-style-type: none; }
+      #countries li { flex: 1 0 15em; box-sizing: border-box; padding: 5px; }
+      #footer { margin: 0; padding: 10px }
+      #footer #shuffled { text-align: left }
+      #footer #about { align: right; text-align: right }
+      #footer #about a { text-decoration: none; font-weight: bold; color: #0E1535; }
+
+        dl {
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(255, 255, 255, 0.1);
+        }
+
+        dt {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: var(--text-color);
+            margin-top: 20px;
+            border-bottom: 1px solid #333;
+            padding-bottom: 5px;
+        }
+
+        dd {
+            margin-left: 0;
+            color: var(--text-color);
+            font-size: 0.9rem;
+            padding: 5px 0;
+        }
+
+    </style>
+  </head>
+  <body>
+    <div id="header"><a href="/"><img src="img/wordmark.png" alt="Peppercat" width="152" height="46" /></a></div>
+    <div class="content">
+      <h1>Legislators</h1>
+
+      <p>As well as the <a href="/">Leaders</a> data displayed on this site, the wider Peppercat dataset also includes the members of almost 500 legislatures worldwide:</p>
+
+      <dl>
+        <dt>Åland</dt>
+        <dd>30 current Members of the Parliament</dd>
+
+        <dt>Abkhazia</dt>
+        <dd>35 current Members of the People's Assembly</dd>
+
+        <dt>Afghanistan</dt>
+        <dd>The National Assembly was dissolved in 2021</dd>
+
+        <dt>Alabama (US)</dt>
+        <dd>105 current Members of the House of Representatives</dd>
+        <dd>34 current Members of the State Senate</dd>
+
+        <dt>Alaska (US)</dt>
+        <dd>40 current Members of the House of Representatives</dd>
+        <dd>20 current Members of the State Senate</dd>
+
+        <dt>Albania</dt>
+        <dd>140 current Members of Parliament</dd>
+
+        <dt>Alberta (Canada)</dt>
+        <dd>86 current Members of the Legislative Assembly</dd>
+
+        <dt>Algeria</dt>
+        <dd>407 current Members of the People's National Assembly</dd>
+
+        <dt>Andhra Pradesh (India)</dt>
+        <dd>175 current Members of the Legislative Assembly</dd>
+        <dd>53 current Members of the Legislative Council</dd>
+
+        <dt>Andorra</dt>
+        <dd>28 current Members of the General Council</dd>
+
+        <dt>Angola</dt>
+        <dd>227 current Members of the National Assembly</dd>
+
+        <dt>Anguilla</dt>
+        <dd>11 current Members of the House of Assembly</dd>
+
+        <dt>Antigua and Barbuda</dt>
+        <dd>17 current Members of the House of Representatives</dd>
+        <dd>15 current Members of the Senate</dd>
+
+        <dt>Argentina</dt>
+        <dd>257 current Members of the Chamber of Deputies</dd>
+        <dd>72 current Members of the Chamber of Senators</dd>
+
+        <dt>Arizona (US)</dt>
+        <dd>60 current Members of the House of Representatives</dd>
+        <dd>30 current Members of the State Senate</dd>
+
+        <dt>Arkansas (US)</dt>
+        <dd>100 current State Representatives</dd>
+        <dd>35 current State Senators</dd>
+
+        <dt>Armenia</dt>
+        <dd>107 current Members of the National Assembly</dd>
+
+        <dt>Artsakh</dt>
+        <dd>The National Assembly was dissolved in January 2024</dd>
+
+        <dt>Aruba</dt>
+        <dd>21 current Members of the Estates</dd>
+
+        <dt>Arunachal Pradesh (India)</dt>
+        <dd>60 current Members of the Legislative Assembly</dd>
+
+        <dt>Assam (India)</dt>
+        <dd>126 current Members of the Legislative Assembly</dd>
+
+        <dt>Australia</dt>
+        <dd>151 current Members of the House of Representatives</dd>
+        <dd>76 current Members of the Senate</dd>
+
+        <dt>Australian Capital Territory</dt>
+        <dd>25 current Members of the Legislative Assembly</dd>
+
+        <dt>Austria</dt>
+        <dd>60 current Members of the Federal Council</dd>
+        <dd>183 current Members of the National Council</dd>
+
+        <dt>Azerbaijan</dt>
+        <dd>125 current Members of the National Assembly</dd>
+
+        <dt>Baden-Württemberg (Germany)</dt>
+        <dd>154 current Members of the Landtag</dd>
+
+        <dt>The Bahamas</dt>
+        <dd>39 current Members of the House of Assembly</dd>
+        <dd>15 current Members of the Senate</dd>
+
+        <dt>Bahrain</dt>
+        <dd>40 current Members of the Council of Representatives</dd>
+
+        <dt>Bangladesh</dt>
+        <!-- <dd> current Members of Parliament</dd> -->
+        <dd>Parliament is currently dissolved</dd>
+
+        <dt>Barbados</dt>
+        <dd>30 current Members of the House of Assembly</dd>
+        <dd>21 current Members of the Senate</dd>
+
+        <dt>Bavaria (Germany)</dt>
+        <dd>203 current Members of the Landtag</dd>
+
+        <dt>Belarus</dt>
+        <dd>110 current Members of the House of Representatives</dd>
+        <dd>59 current Members of the Council of the Republic</dd>
+
+        <dt>Belgium</dt>
+        <dd>150 current Members of the Chamber of Representatives</dd>
+        <dd>59 current Members of the Senate</dd>
+
+        <dt>Belize</dt>
+        <dd>32 current Members of the House of Representatives</dd>
+        <dd>14 current Members of the Senate</dd>
+
+        <dt>Benin</dt>
+        <dd>109 current Members of the National Assembly</dd>
+
+        <dt>Berlin (Germany)</dt>
+        <dd>159 current Members of the Abgeordnetenhaus</dd>
+
+        <dt>Bermuda</dt>
+        <dd>36 current Members of the House of Assembly</dd>
+        <dd>11 current Members of the Senate</dd>
+
+        <dt>Bhutan</dt>
+        <dd>46 current Members of the National Assembly</dd>
+        <dd>25 current Members of the National Council</dd>
+
+        <dt>Bihar (India)</dt>
+        <dd>241 current Members of the Legislative Assembly</dd>
+        <dd>74 current Members of the Legislative Council</dd>
+
+        <dt>Bolivia</dt>
+        <dd>130 current Deputies</dd>
+        <dd>37 current Senators</dd>
+
+        <dt>Bosnia and Herzegovina</dt>
+        <dd>42 current Members of the House of Representatives</dd>
+        <dd>15 current Members of the House of Peoples</dd>
+
+        <dt>Botswana</dt>
+        <dd>55 current Members of the National Assembly</dd>
+
+        <dt>Brandenburg (Germany)</dt>
+        <dd>88 current Members of the Landtag</dd>
+
+        <dt>Brazil</dt>
+        <dd>524 current Federal Deputies</dd>
+        <dd>81 current Federal Senators</dd>
+
+        <dt>Bremen (Germany)</dt>
+        <dd>87 current Members of the Bürgerschaft</dd>
+
+        <dt>British Columbia (Canada)</dt>
+        <dd>93 current Members of the Legislative Assembly</dd>
+
+        <dt>British Virgin Islands</dt>
+        <dd>13 current Members of the House of Assembly</dd>
+
+        <dt>Brunei</dt>
+        <dd>35 current Members of the Legislative Council</dd>
+
+        <dt>Bulgaria</dt>
+        <dd>227 current Members of the National Assembly</dd>
+
+        <dt>Burkina Faso</dt>
+        <dd>71 current Members of the Legislative Assembly</dd>
+
+        <dt>Burundi</dt>
+        <dd>122 current Members of the National Assembly</dd>
+        <dd>39 current Members of the Senate</dd>
+
+        <dt>Cabo Verde / Cape Verde</dt>
+        <dd>72 current Members of the National Assembly</dd>
+
+        <dt>California (US)</dt>
+        <dd>79 current Members of the State Assembly</dd>
+        <dd>39 current Members of the State Senate</dd>
+
+        <dt>Cambodia</dt>
+        <dd>118 current Members of the National Assembly</dd>
+        <dd>59 current Members of the Senate</dd>
+
+        <dt>Cameroon</dt>
+        <dd>179 current Members of the National Assembly</dd>
+        <dd>99 current Members of the Senate</dd>
+
+        <dt>Canada</dt>
+        <dd>339 current Members of the House of Commons</dd>
+        <dd>97 current Members of the Senate</dd>
+
+        <dt>Cayman Islands</dt>
+        <dd>21 current Members of the Legislative Assembly</dd>
+
+        <dt>Central African Republic</dt>
+        <dd>134 current Members of the National Assembly</dd>
+
+        <dt>Chad</dt>
+        <!-- <dd> current Members of the National Transitional Council</dd> -->
+        <dd>The National Transitional Council is dissolved. Election results for the new Assembly are expected soon.</dd>
+
+        <dt>Chhattisgarh (India)</dt>
+        <dd>88 current Members of the Legislative Assembly</dd>
+
+        <dt>Chile</dt>
+        <dd>155 current Deputies</dd>
+        <dd>50 current Senators</dd>
+
+        <dt>Colombia</dt>
+        <dd>186 current Members of the Chamber of Representatives</dd>
+        <dd>105 current Members of the Senate</dd>
+
+        <dt>Colorado (US)</dt>
+        <dd>65 current Members of the House of Representatives</dd>
+        <dd>34 current Members of the State Senate</dd>
+
+        <dt>Comoros</dt>
+        <dd>24 current Members of the Assembly of the Union</dd>
+
+        <dt>Congo-Brazzaville / Republic of the Congo</dt>
+        <dd>139 current Members of the National Assembly</dd>
+        <dd>72 current Members of the Senate</dd>
+
+        <dt>Congo-Kinshasa / Democratic Republic of the Congo</dt>
+        <dd>493 current Members of the National Assembly</dd>
+        <dd>110 current Members of the Senate</dd>
+
+        <dt>Connecticut (US)</dt>
+        <dd>151 current Members of the House of Representatives</dd>
+        <dd>36 current Members of the State Senate</dd>
+
+        <dt>Cook Islands</dt>
+        <dd>24 current Members of Parliament</dd>
+
+        <dt>Costa Rica</dt>
+        <dd>57 current Members of the Legislative Assembly</dd>
+
+        <dt>Côte d'Ivoire / Ivory Coast</dt>
+        <dd>250 current Members of the National Assembly</dd>
+        <dd>97 current Members of the Senate</dd>
+
+        <dt>Croatia</dt>
+        <dd>150 current representatives in the Parliament</dd>
+
+        <dt>Cuba</dt>
+        <dd>467 current Members of the National Assembly</dd>
+
+        <dt>Curaçao</dt>
+        <dd>21 current Members of the Estates</dd>
+
+        <dt>Cyprus</dt>
+        <dd>56 current Members of the House of Representatives</dd>
+
+        <dt>Czech Republic</dt>
+        <dd>200 current Members of the Chamber of Deputies</dd>
+        <dd>80 current Members of the Senate</dd>
+
+        <dt>Delaware (US)</dt>
+        <dd>41 current Members of the House of Representatives</dd>
+        <dd>21 current Members of the State Senate</dd>
+
+        <dt>Denmark</dt>
+        <dd>180 current Members of the Folketing</dd>
+
+        <dt>Djibouti</dt>
+        <dd>64 current Members of the National Assembly</dd>
+
+        <dt>Dominica</dt>
+        <dd>30 current Members of the House of Assembly</dd>
+
+        <dt>Dominican Republic</dt>
+        <dd>190 current Members of the Chamber of Deputies</dd>
+        <dd>32 current Members of the Senate</dd>
+
+        <dt>Eastern Cape (South Africa)</dt>
+        <dd>70 current Members of the Provincial Legislature</dd>
+
+        <dt>Ecuador</dt>
+        <dd>137 current Members of the National Assembly</dd>
+
+        <dt>El Salvador</dt>
+        <dd>60 current Deputies</dd>
+
+        <dt>Equatorial Guinea</dt>
+        <dd>100 current Members of the Chamber of People's Representatives</dd>
+        <dd>74 current Members of the Senate</dd>
+
+        <dt>Eritrea</dt>
+        <dd>No functional legislature</dd>
+
+        <dt>Estonia</dt>
+        <dd>101 current Members of the Riigikogu</dd>
+
+        <dt>Eswatini</dt>
+        <dd>73 current Members of the House of Assembly</dd>
+        <dd>29 current Members of the Senate</dd>
+
+        <dt>Ethiopia</dt>
+        <dd>435 current Members of the House of People's Representatives</dd>
+
+        <dt>European Union</dt>
+        <dd>719 current Members of the Parliament</dd>
+
+        <dt>Faroe Islands</dt>
+        <dd>33 current Members of the Løgting</dd>
+
+        <dt>Federated States of Micronesia</dt>
+        <dd>14 current Members of the Congress</dd>
+
+        <dt>Federation of Bosnia and Herzegovina</dt>
+        <dd>99 current Members of the House of Representatives</dd>
+        <dd>80 current Members of the House of Peoples</dd>
+
+        <dt>Fiji</dt>
+        <dd>55 current Members of the Parliament</dd>
+
+        <dt>Finland</dt>
+        <dd>200 current Members of the Parliament</dd>
+
+        <dt>Flanders (Belgium)</dt>
+        <dd>124 current Members of the Flemish Parliament</dd>
+
+        <dt>Florida (US)</dt>
+        <dd>119 current Members of the House of Representatives</dd>
+        <dd>40 current Members of the State Senate</dd>
+
+        <dt>France</dt>
+        <dd>575 current Members of the National Assembly</dd>
+        <dd>348 current Members of the Senate</dd>
+
+        <dt>Free State (South Africa)</dt>
+        <dd>29 current Members of the Provincial Legislature</dd>
+
+        <dt>Gabon</dt>
+        <dd>98 current Members of the Transitional National Assembly</dd>
+
+        <dt>The Gambia</dt>
+        <dd>58 current Members of the National Assembly</dd>
+
+        <dt>Gauteng (South Africa)</dt>
+        <dd>72 current Members of the Provincial Legislature</dd>
+
+        <dt>Georgia</dt>
+        <dd>The current status of Parliament is uncertain, due to a constitutional crisis</dd>
+        <!-- <dd> current Members of Parliament</dd> -->
+
+        <dt>Georgia (US)</dt>
+        <dd>180 current Members of the House of Representatives</dd>
+        <dd>56 current Members of the State Senate</dd>
+
+        <dt>Germany</dt>
+        <dd>732 current Members of the Bundestag</dd>
+        <dd>69 current Members of the Bundesrat</dd>
+        <dd>112 current deputy members of the Bundesrat</dd>
+
+        <dt>Ghana</dt>
+        <dd>275 current Members of Parliament</dd>
+
+        <dt>Gibraltar</dt>
+        <dd>17 current Members of the Parliament</dd>
+
+        <dt>Goa (India)</dt>
+        <dd>40 current Members of the Legislative Assembly</dd>
+
+        <dt>Greece</dt>
+        <dd>307 current Members of the Hellenic Parliament</dd>
+
+        <dt>Greenland</dt>
+        <dd>30 current Members of the Inatsisartut</dd>
+
+        <dt>Grenada</dt>
+        <dd>16 current Members of the House of Representatives</dd>
+        <dd>13 current Members of the Senate</dd>
+
+        <dt>Guam</dt>
+        <dd>15 current Members of the Legislature</dd>
+
+        <dt>Guatemala</dt>
+        <dd>160 current Members of the Congress</dd>
+
+        <dt>Guinea</dt>
+        <dd>80 current Members of the National Council of the Transition</dd>
+
+        <dt>Guinea-Bissau</dt>
+        <dd>102 current Members of the National People's Assembly</dd>
+
+        <dt>Gujarat (India)</dt>
+        <dd>177 current Members of the Legislative Assembly</dd>
+
+        <dt>Guyana</dt>
+        <dd>70 current Members of the National Assembly</dd>
+
+        <dt>Haiti</dt>
+        <!-- <dd> current Members of the Chamber of Deputies</dd> -->
+        <!-- <dd> current Members of the Senate</dd> -->
+        <dd>All seats currently vacant, pending delayed elections</dd>
+
+        <dt>Hamburg (Germany)</dt>
+        <dd>123 current Members of Parliament</dd>
+
+        <dt>Haryana (India)</dt>
+        <dd>90 current Members of the Legislative Assembly</dd>
+
+        <dt>Hawaii (US)</dt>
+        <dd>50 current Members of the House of Representatives</dd>
+        <dd>25 current Members of the State Senate</dd>
+
+        <dt>Hesse (Germany)</dt>
+        <dd>133 current Members of the Landtag</dd>
+
+        <dt>Himachal Pradesh (India)</dt>
+        <dd>67 current Members of the Legislative Assembly</dd>
+
+        <dt>Honduras</dt>
+        <dd>122 current deputies of the National Congress</dd>
+
+        <dt>Hong Kong</dt>
+        <dd>89 current Members of the Legislative Council</dd>
+
+        <dt>Hungary</dt>
+        <dd>197 current Members of the National Assembly</dd>
+
+        <dt>Iceland</dt>
+        <dd>63 current Members of the Althing</dd>
+
+        <dt>Idaho (US)</dt>
+        <dd>70 current Members of the House of Representatives</dd>
+        <dd>35 current Members of the State Senate</dd>
+
+        <dt>Illinois (US)</dt>
+        <dd>118 current Members of the House of Representatives</dd>
+        <dd>59 current Members of the State Senate</dd>
+
+        <dt>India</dt>
+        <dd>542 current Members of the Lok Sabha</dd>
+        <dd>237 current Members of Rajya Sabha</dd>
+
+        <dt>Indiana (US)</dt>
+        <dd>99 current Members of the House of Representatives</dd>
+        <dd>50 current Members of the State Senate</dd>
+
+        <dt>Indonesia</dt>
+        <dd>44 current Members of the People's Representative Council</dd>
+        <dd>157 current Members of the Regional Representative Council</dd>
+
+        <dt>Iowa (US)</dt>
+        <dd>100 current Members of the House of Representatives</dd>
+        <dd>48 current Members of the State Senate</dd>
+
+        <dt>Iran</dt>
+        <dd>290 current Members of the Islamic Consultative Assembly</dd>
+        <dd>34 current Members of the Expediency Discernment Council</dd>
+
+        <dt>Iraq</dt>
+        <dd>324 current Members of the Council of Representatives</dd>
+
+        <dt>Ireland</dt>
+        <dd>174 current Teachtaí Dála</dd>
+        <dd>51 current Senators</dd>
+
+        <dt>Isle of Man</dt>
+        <dd>24 current Members of the House of Keys</dd>
+        <dd>11 current Members of the Legislative Council</dd>
+
+        <dt>Israel</dt>
+        <dd>120 current Members of the Knesset</dd>
+
+        <dt>Italy</dt>
+        <dd>400 current Members of the Chamber of Deputies</dd>
+        <dd>200 current Members of the Senate</dd>
+
+        <dt>Jamaica</dt>
+        <dd>61 current Members of the House of Representatives</dd>
+        <dd>20 current Members of the Senate</dd>
+
+        <dt>Japan</dt>
+        <dd>239 current Members of the House of Councillors</dd>
+        <dd>465 current Members of the House of Representatives</dd>
+
+        <dt>Jersey</dt>
+        <dd>49 current Members of the States</dd>
+
+        <dt>Jharkhand (India)</dt>
+        <dd>81 current Members of the Legislative Assembly</dd>
+
+        <dt>Jordan</dt>
+        <dd>128 current Members of the House of Representatives</dd>
+        <dd>64 current Members of the Senate</dd>
+
+        <dt>Kansas (US)</dt>
+        <dd>125 current Members of the House of Representatives</dd>
+        <dd>40 current Members of the State Senate</dd>
+
+        <dt>Karnataka (India)</dt>
+        <dd>225 current Members of the Legislative Assembly</dd>
+        <dd>73 current Members of the Legislative Council</dd>
+
+        <dt>Kazakhstan</dt>
+        <dd>98 current Members of the Mazhilis</dd>
+        <dd>50 current Members of the Senate</dd>
+
+        <dt>Kentucky (US)</dt>
+        <dd>100 current Members of the House of Representatives</dd>
+        <dd>38 current Members of the State Senate</dd>
+
+        <dt>Kenya</dt>
+        <dd>336 current Members of the National Assembly</dd>
+        <dd>65 current Members of the Senate</dd>
+
+        <dt>Kerala (India)</dt>
+        <dd>139 current Members of the Legislative Assembly</dd>
+
+        <dt>Kiribati</dt>
+        <dd>44 current Members of the House of Assembly</dd>
+
+        <dt>Kosovo</dt>
+        <dd>120 current Members of the Assembly</dd>
+
+        <dt>Kuwait</dt>
+        <dd>50 current Members of the National Assembly</dd>
+
+        <dt>KwaZulu-Natal (South Africa)</dt>
+        <dd>81 current Members of the Provincial Legislature</dd>
+
+        <dt>Kyrgyzstan</dt>
+        <dd>90 current Members of the Supreme Council</dd>
+
+        <dt>Laos</dt>
+        <dd>157 current Members of the National Assembly</dd>
+
+        <dt>Latvia</dt>
+        <dd>100 current deputies of Saeima</dd>
+
+        <dt>Lebanon</dt>
+        <dd>128 current Members of the Parliament</dd>
+
+        <dt>Lesotho</dt>
+        <dd>118 current Members of the National Assembly</dd>
+        <dd>31 current Members of the Senate</dd>
+
+        <dt>Liberia</dt>
+        <dd>73 current Members of the House of Representatives</dd>
+        <dd>29 current Members of the Senate</dd>
+
+        <dt>Liechtenstein</dt>
+        <dd>25 current Members of the Landtag</dd>
+
+        <dt>Limpopo (South Africa)</dt>
+        <dd>48 current Members of the Provincial Legislature</dd>
+
+        <dt>Lithuania</dt>
+        <dd>141 current Members of the Seimas</dd>
+
+        <dt>Louisiana (US)</dt>
+        <dd>105 current Members of the House of Representatives</dd>
+        <dd>39 current Members of the State Senate</dd>
+
+        <dt>Lower Saxony (Germany)</dt>
+        <dd>145 current Members of the Landtag</dd>
+
+        <dt>Luxembourg</dt>
+        <dd>62 current Deputies</dd>
+        <dd>21 current Members of the Council of State</dd>
+
+        <dt>Madagascar</dt>
+        <dd>158 current Members of the National Assembly</dd>
+        <dd>17 current Members of the Senate</dd>
+
+        <dt>Madhya Pradesh (India)</dt>
+        <dd>225 current Members of the Legislative Assembly</dd>
+
+        <dt>Maharashtra (India)</dt>
+        <dd>288 current Members of the Legislative Assembly</dd>
+        <dd>58 current Members of the Legislative Council</dd>
+
+        <dt>Maine (US)</dt>
+        <dd>151 current Members of the House of Representatives</dd>
+        <dd>35 current Members of the State Senate</dd>
+
+        <dt>Malawi</dt>
+        <dd>187 current Members of the National Assembly</dd>
+
+        <dt>Malaysia</dt>
+        <dd>54 current Members of the Dewan Negara</dd>
+        <dd>224 current Members of the Dewan Rakyat</dd>
+
+        <dt>Maldives</dt>
+        <dd>90 current Members of the People's Majlis</dd>
+
+        <dt>Mali</dt>
+        <dd>147 current Members of the National Transition Council</dd>
+
+        <dt>Malta</dt>
+        <dd>79 current Members of the House of Representatives</dd>
+
+        <dt>Manipur (India)</dt>
+        <dd>59 current Members of the Legislative Assembly</dd>
+
+        <dt>Manitoba (Canada)</dt>
+        <dd>56 current Members of the Legislative Assembly</dd>
+
+        <dt>Marshall Islands</dt>
+        <dd>33 current Members of the Legislature</dd>
+
+        <dt>Maryland (US)</dt>
+        <dd>140 current Members of the House of Delegates</dd>
+        <dd>45 current Members of the State Senate</dd>
+
+        <dt>Massachusetts (US)</dt>
+        <dd>160 current Members of the House of Representatives</dd>
+        <dd>40 current Members of the State Senate</dd>
+
+        <dt>Mauritania</dt>
+        <dd>176 current Members of the National Assembly</dd>
+        <dd>66 current Members of the National Assembly</dd>
+
+        <dt>Mecklenburg-Western Pomerania (Germany)</dt>
+        <dd>79 current Members of the Landtag</dd>
+
+        <dt>Meghalaya (India)</dt>
+        <dd>61 current Members of the Legislative Assembly</dd>
+
+        <dt>Mexico</dt>
+        <dd>500 current Members of the Chamber of Deputies</dd>
+        <dd>128 current Members of the Senate</dd>
+
+        <dt>Michigan (US)</dt>
+        <dd>110 current Members of the House of Representatives</dd>
+        <dd>38 current Members of the State Senate</dd>
+
+        <dt>Minnesota (US)</dt>
+        <dd>133 current Members of the House of Representatives</dd>
+        <dd>66 current Members of the State Senate</dd>
+
+        <dt>Mississippi (US)</dt>
+        <dd>120 current Members of the House of Representatives</dd>
+        <dd>51 current Members of the State Senate</dd>
+
+        <dt>Missouri (US)</dt>
+        <dd>162 current Members of the House of Representatives</dd>
+        <dd>34 current Members of the State Senate</dd>
+
+        <dt>Mizoram (India)</dt>
+        <dd>40 current Members of the Legislative Assembly</dd>
+
+        <dt>Moldova</dt>
+        <dd>100 current Members of the Parliament</dd>
+
+        <dt>Monaco</dt>
+        <dd>24 current Members of the National Council</dd>
+
+        <dt>Mongolia</dt>
+        <dd>126 current Members of the State Great Khural</dd>
+
+        <dt>Montana (US)</dt>
+        <dd>100 current Members of the House of Representatives</dd>
+        <dd>48 current Members of the State Senate</dd>
+
+        <dt>Montenegro</dt>
+        <dd>81 current Members of the Parliament</dd>
+
+        <dt>Montserrat</dt>
+        <dd>9 current Members of the Legislative Assembly</dd>
+
+        <dt>Morocco</dt>
+        <dd>120 current Members of the House of Councillors</dd>
+        <dd>392 current Members of the House of Representatives</dd>
+
+        <dt>Mozambique</dt>
+        <dd>249 current Members of the Assembly of the Republic</dd>
+
+        <dt>Mpumalanga (South Africa)</dt>
+        <dd>29 current Members of the Provincial Legislature</dd>
+
+        <dt>Nagaland (India)</dt>
+        <dd>60 current Members of the Legislative Assembly</dd>
+
+        <dt>Namibia</dt>
+        <dd>113 current Members of the National Assembly</dd>
+        <dd>40 current Members of the National Council</dd>
+
+        <dt>Nauru</dt>
+        <dd>19 current Members of Parliament</dd>
+
+        <dt>Nebraska (US)</dt>
+        <dd>49 current Members of the Legislature</dd>
+
+        <dt>Nepal</dt>
+        <dd>272 current Members of the House of Representatives</dd>
+        <dd>59 current Members of the Rastriya Sabha</dd>
+
+        <dt>Netherlands</dt>
+        <dd>150 current Members of the House of Representatives</dd>
+        <dd>75 current Members of the Senate</dd>
+
+        <dt>Nevada (US)</dt>
+        <dd>40 current Members of the Assembly</dd>
+        <dd>20 current Members of the State Senate</dd>
+
+        <dt>New Brunswick (Canada)</dt>
+        <dd>49 current Members of the Legislative Assembly</dd>
+
+        <dt>New Hampshire (US)</dt>
+        <dd>400 current Members of the House of Representatives</dd>
+        <dd>24 current Members of the State Senate</dd>
+
+        <dt>New Jersey (US)</dt>
+        <dd>77 current Members of the General Assembly</dd>
+        <dd>39 current Members of the State Senate</dd>
+
+        <dt>New Mexico (US)</dt>
+        <dd>69 current Members of the House of Representatives</dd>
+        <dd>42 current Members of the State Senate</dd>
+
+        <dt>New South Wales (Australia)</dt>
+        <dd>93 current Members of the Legislative Assembly</dd>
+        <dd>41 current Members of the Legislative Council</dd>
+
+        <dt>New York (US)</dt>
+        <dd>150 current Members of the State Assembly</dd>
+        <dd>63 current Members of the State Senate</dd>
+
+        <dt>New Zealand</dt>
+        <dd>123 current Members of Parliament</dd>
+
+        <dt>Newfoundland and Labrador (Canada)</dt>
+        <dd>40 current Members of the House of Assembly</dd>
+
+        <dt>Nicaragua</dt>
+        <dd>91 current Members of the National Assembly</dd>
+
+        <dt>Niger</dt>
+        <!-- <dd> current Members of the National Assembly</dd> -->
+        <dd>The National Assembly was dissolved following the 2023 coup d'état</dd>
+
+        <dt>Nigeria</dt>
+        <dd>366 current Members of the House of Representatives</dd>
+        <dd>107 current Members of the Senate</dd>
+
+        <dt>Niue</dt>
+        <dd>20 current Members of the Assembly</dd>
+
+        <dt>North Carolina (US)</dt>
+        <dd>120 current Members of the House of Representatives</dd>
+        <dd>51 current Members of the State Senate</dd>
+
+        <dt>North Dakota (US)</dt>
+        <dd>94 current Members of the House of Representatives</dd>
+        <dd>47 current Members of the State Senate</dd>
+
+        <dt>North Korea</dt>
+        <dd>650 current Members of the Supreme People's Assembly</dd>
+
+        <dt>North Macedonia</dt>
+        <dd>119 current Members of the Assembly of the Republic</dd>
+
+        <dt>North Rhine-Westphalia (Germany)</dt>
+        <dd>195 current Members of the Landtag</dd>
+
+        <dt>North West (South Africa)</dt>
+        <dd>34 current Members of the Provincial Legislature</dd>
+
+        <dt>Northern Cape (South Africa)</dt>
+        <dd>29 current Members of the Provincial Legislature</dd>
+
+        <dt>Northern Cyprus</dt>
+        <dd>51 current Members of the Assembly of the Republic</dd>
+
+        <dt>Northern Ireland</dt>
+        <dd>90 current Members of the Legislative Assembly</dd>
+
+        <dt>Northern Territory (Australia)</dt>
+        <dd>25 current Members of the Legislative Assembly</dd>
+
+        <dt>Northwest Territories (Canada)</dt>
+        <dd>19 current Members of the Legislative Assembly</dd>
+
+        <dt>Norway</dt>
+        <dd>169 current Members of the Parliament</dd>
+
+        <dt>Nova Scotia (Canada)</dt>
+        <dd>55 current Members of the House of Assembly</dd>
+
+        <dt>Nunavut (Canada)</dt>
+        <dd>22 current Members of the Legislative Assembly</dd>
+
+        <dt>Odisha (India)</dt>
+        <dd>147 current Members of the Legislative Assembly</dd>
+
+        <dt>Ohio (US)</dt>
+        <dd>99 current Members of the House of Representatives</dd>
+        <dd>33 current Members of the State Senate</dd>
+
+        <dt>Oklahoma (US)</dt>
+        <dd>100 current Members of the House of Representatives</dd>
+        <dd>48 current Members of the Senate</dd>
+
+        <dt>Oman</dt>
+        <dd>77 current Members of the Consultative Assembly</dd>
+        <dd>86 current Members of the Council of State</dd>
+
+        <dt>Ontario (Canada)</dt>
+        <dd>124 current Members of the Provincial Parliament</dd>
+
+        <dt>Oregon (US)</dt>
+        <dd>60 current Members of the House of Representatives</dd>
+        <dd>30 current Members of the State Senate</dd>
+
+        <dt>Pakistan</dt>
+        <dd>330 current Members of the National Assembly</dd>
+        <dd>85 current Senators</dd>
+
+        <dt>Palau</dt>
+        <dd>15 current Members of the House of Delegates</dd>
+        <dd>13 current Members of the Senate</dd>
+
+        <dt>Panama</dt>
+        <dd>72 current Members of the National Assembly</dd>
+
+        <dt>Papua New Guinea</dt>
+        <dd>104 current Members of Parliament</dd>
+
+        <dt>Paraguay</dt>
+        <dd>79 current deputies</dd>
+        <dd>45 current senators</dd>
+
+        <dt>Pennsylvania (US)</dt>
+        <dd>203 current Members of the House of Representatives</dd>
+        <dd>49 current Members of the State Senate</dd>
+
+        <dt>Peru</dt>
+        <dd>130 current Members of the Congress of the Republic</dd>
+
+        <dt>The Philippines</dt>
+        <dd>307 current Members of the House of Representatives</dd>
+
+        <dt>The Philippines</dt>
+        <dd>23 current Members of the Senate</dd>
+
+        <dt>Poland</dt>
+        <dd>460 current Members of the Sejm</dd>
+        <dd>100 current Members of the Senate</dd>
+
+        <dt>Portugal</dt>
+        <dd>230 current Members of the Assembly of the Republic</dd>
+
+        <dt>Prince Edward Island (Canada)</dt>
+        <dd>27 current Members of the Legislative Assembly</dd>
+
+        <dt>Puerto Rico</dt>
+        <dd>53 current Members of the House of Representatives</dd>
+        <dd>28 current Members of the Senate</dd>
+
+        <dt>Punjab (India)</dt>
+        <dd>116 current Members of the Legislative Assembly</dd>
+
+        <dt>Qatar</dt>
+        <dd>45 current Members of the Shura Council</dd>
+
+        <dt>Quebec (Canada)</dt>
+        <dd>125 current Members of the National Assembly</dd>
+
+        <dt>Queensland (Australia)</dt>
+        <dd>93 current Members of the Legislative Assembly</dd>
+
+        <dt>Rajasthan (India)</dt>
+        <dd>198 current Members of the Legislative Assembly</dd>
+
+        <dt>Rhineland-Palatinate (Germany)</dt>
+        <dd>101 current Members of the Landtag</dd>
+
+        <dt>Rhode Island (US)</dt>
+        <dd>75 current Members of the House of Representatives</dd>
+        <dd>36 current Members of the State Senate</dd>
+
+        <dt>Romania</dt>
+        <dd>331 current Members of the Chamber of Deputies</dd>
+        <dd>133 current Members of the Senate</dd>
+
+        <dt>Russia</dt>
+        <dd>447 current Members of the State Duma</dd>
+        <dd>177 current Members of the Federation Council</dd>
+
+        <dt>Rwanda</dt>
+        <dd>80 current Members of the Chamber of Deputies</dd>
+        <dd>26 current Members of the Senate</dd>
+
+        <dt>Saarland (Germany)</dt>
+        <dd>51 current Members of the Landtag</dd>
+
+        <dt>Saint Kitts and Nevis</dt>
+        <dd>11 current Members of the National Assembly</dd>
+
+        <dt>Saint Lucia</dt>
+        <dd>17 current Members of the House of Assembly</dd>
+        <dd>11 current Members of the Senate</dd>
+
+        <dt>Saint Vincent and the Grenadines</dt>
+        <dd>23 current Members of the House of Assembly</dd>
+
+        <dt>Samoa</dt>
+        <dd>53 current Members of the Legislative Assembly</dd>
+
+        <dt>San Marino</dt>
+        <dd>60 current Members of the Grand and General Council</dd>
+
+        <dt>Saskatchewan (Canada)</dt>
+        <dd>61 current Members of the Legislative Assembly</dd>
+
+        <dt>Saudi Arabia</dt>
+        <dd>152 current Members of the Consultative Assembly</dd>
+
+        <dt>Saxony (Germany)</dt>
+        <dd>120 current Members of the Landtag</dd>
+
+        <dt>Saxony-Anhalt (Germany)</dt>
+        <dd>97 current Members of the Landtag</dd>
+
+        <dt>Schleswig-Holstein (Germany)</dt>
+        <dd>69 current Members of the Landtag</dd>
+
+        <dt>Scotland</dt>
+        <dd>129 current Members of the Scottish Parliament</dd>
+
+        <dt>Senegal</dt>
+        <dd>162 current Members of the National Assembly</dd>
+
+        <dt>Serbia</dt>
+        <dd>234 current Members of the National Assembly</dd>
+
+        <dt>Seychelles</dt>
+        <dd>35 current Members of the National Assembly</dd>
+
+        <dt>Sierra Leone</dt>
+        <dd>152 current Members of the Parliament</dd>
+
+        <dt>Sikkim (India)</dt>
+        <dd>31 current Members of the Legislative Assembly</dd>
+
+        <dt>Singapore</dt>
+        <dd>98 current Members of the Parliament</dd>
+
+        <dt>Sint Maarten</dt>
+        <dd>15 current Members of the Estates</dd>
+
+        <dt>Slovakia</dt>
+        <dd>150 current Members of the National Council</dd>
+
+        <dt>Slovenia</dt>
+        <dd>90 current Members of the National Assembly</dd>
+        <dd>40 current Members of the National Council</dd>
+
+        <dt>Solomon Islands</dt>
+        <dd>50 current Members of the National Parliament</dd>
+
+        <dt>Somalia</dt>
+        <dd>269 current Members of the House of the People</dd>
+        <dd>53 current Members of the Upper House</dd>
+
+        <dt>South Africa</dt>
+        <dd>388 current Members of the National Assembly</dd>
+        <dd>54 current Members of the National Council of Provinces</dd>
+
+        <dt>South Australia</dt>
+        <dd>47 current Members of the House of Assembly</dd>
+        <dd>22 current Members of the Legislative Council</dd>
+
+        <dt>South Carolina (US)</dt>
+        <dd>123 current Members of the House of Representatives</dd>
+        <dd>46 current Members of the State Senate</dd>
+
+        <dt>South Dakota (US)</dt>
+        <dd>69 current Members of the House of Representatives</dd>
+        <dd>35 current Members of the State Senate</dd>
+
+        <dt>South Korea</dt>
+        <dd>300 current Members of the National Assembly</dd>
+
+        <dt>South Ossetia</dt>
+        <dd>34 current Members of Parliament</dd>
+
+        <dt>South Sudan</dt>
+        <dd>576 current Members of the National Legislative Assembly</dd>
+        <dd>92 current Members of the Council of States</dd>
+
+        <dt>Spain</dt>
+        <dd>350 current Members of the Congress of Deputies</dd>
+        <dd>261 current Members of the Senate</dd>
+
+        <dt>Sri Lanka</dt>
+        <dd>225 current Members of Parliament</dd>
+
+        <dt>Sudan</dt>
+        <!-- <dd> current Members of the National Legislative Assembly</dd> -->
+        <dd>The National Legislature was dissolved in 2019 following the coup d'état</dd>
+
+        <dt>Suriname</dt>
+        <dd>51 current Members of the National Assembly</dd>
+
+        <dt>Sweden</dt>
+        <dd>349 current Members of the Riksdag</dd>
+
+        <dt>Switzerland</dt>
+        <dd>200 current Members of the National Council</dd>
+        <dd>46 current Members of the Council of States</dd>
+
+        <dt>Syria</dt>
+        <dd>245 current Members of the People's Assembly</dd>
+
+        <dt>São Tomé and Príncipe</dt>
+        <dd>55 current Members of the National Assembly</dd>
+
+        <dt>Taiwan</dt>
+        <dd>115 current Members of the Legislative Yuan</dd>
+
+        <dt>Tajikistan</dt>
+        <dd>53 current Members of the Assembly of Representatives</dd>
+        <dd>29 current Members of the National Assembly</dd>
+
+        <dt>Tamil Nadu (India)</dt>
+        <dd>227 current Members of the Legislative Assembly</dd>
+
+        <dt>Tanzania</dt>
+        <dd>391 current Members of the National Assembly</dd>
+
+        <dt>Tasmania (Australia)</dt>
+        <dd>35 current Members of the House of Assembly</dd>
+        <dd>15 current Members of the Legislative Council</dd>
+
+        <dt>Telangana (India)</dt>
+        <dd>118 current Members of the Legislative Assembly</dd>
+        <dd>40 current Members of the Legislative Council</dd>
+
+        <dt>Tennessee (US)</dt>
+        <dd>99 current Members of the House of Representatives</dd>
+        <dd>33 current Members of the State Senate</dd>
+
+        <dt>Texas (US)</dt>
+        <dd>150 current Members of the House of Representatives</dd>
+        <dd>31 current Members of the State Senate</dd>
+
+        <dt>Thailand</dt>
+        <dd>498 current Members of the House of Representatives</dd>
+        <dd>89 current Members of the Senate</dd>
+
+        <dt>Thuringia (Germany)</dt>
+        <dd>89 current Members of the Landtag</dd>
+
+        <dt>Timor-Leste</dt>
+        <dd>68 current Members of the National Parliament</dd>
+
+        <dt>Togo</dt>
+        <dd>113 current Members of the National Assembly</dd>
+
+        <dt>Tonga</dt>
+        <dd>26 current Members of the Legislative Assembly</dd>
+
+        <dt>Trinidad and Tobago</dt>
+        <dd>41 current Members of the House of Representatives</dd>
+        <dd>31 current Members of the Senate</dd>
+
+        <dt>Tripura (India)</dt>
+        <dd>60 current Members of the Legislative Assembly</dd>
+
+        <dt>Tunisia</dt>
+        <dd>153 current Members of the Assembly of the Representatives of the People</dd>
+
+        <dt>Turkey</dt>
+        <dd>596 current Members of the Grand National Assembly</dd>
+
+        <dt>Turkmenistan</dt>
+        <dd>126 current Members of the Assembly</dd>
+
+        <dt>Turks and Caicos Islands</dt>
+        <dd>21 current Members of the House of Assembly</dd>
+
+        <dt>Tuvalu</dt>
+        <dd>16 current Members of Parliament</dd>
+
+        <dt>Uganda</dt>
+        <dd>495 current Members of the Parliament</dd>
+
+        <dt>Ukraine</dt>
+        <dd>402 current People's Deputies</dd>
+
+        <dt>United Arab Emirates</dt>
+        <dd>40 current Members of the Federal National Council</dd>
+
+        <dt>United Kingdom</dt>
+        <dd>650 current Members of Parliament</dd>
+        <dd>820 current Members of the House of Lords</dd>
+
+        <dt>United States Virgin Islands</dt>
+        <dd>15 current Senators of the United States Virgin Islands</dd>
+
+        <dt>United States of America</dt>
+        <dd>434 current Members of the House of Representatives</dd>
+        <dd>99 current Senators</dd>
+
+        <dt>Uruguay</dt>
+        <dd>108 current Members of the Chamber of Deputies</dd>
+        <dd>31 current Members of the Senate</dd>
+
+        <dt>Utah (US)</dt>
+        <dd>75 current Members of the House of Representatives</dd>
+        <dd>29 current Members of the State Senate</dd>
+
+        <dt>Uttar Pradesh (India)</dt>
+        <dd>388 current Members of the Legislative Assembly</dd>
+        <dd>99 current Members of the Legislative Council</dd>
+
+        <dt>Uttarakhand (India)</dt>
+        <dd>68 current Members of the Legislative Assembly</dd>
+
+        <dt>Uzbekistan</dt>
+        <dd>148 current Members of the Legislative Chamber</dd>
+        <dd>89 current Members of the Senate</dd>
+
+        <dt>Vanuatu</dt>
+        <dd>52 current Members of the Parliament</dd>
+
+        <dt>Venezuela</dt>
+        <dd>270 current Members of the National Assembly</dd>
+
+        <dt>Vermont (US)</dt>
+        <dd>149 current Members of the House of Representatives</dd>
+        <dd>29 current Members of the State Senate</dd>
+
+        <dt>Victoria (Australia)</dt>
+        <dd>86 current Members of the Legislative Assembly</dd>
+        <dd>40 current Members of the Legislative Council</dd>
+
+        <dt>Vietnam</dt>
+        <dd>489 current Members of the National Assembly</dd>
+
+        <dt>Virginia (US)</dt>
+        <dd>100 current Members of the House of Delegates</dd>
+        <dd>38 current Members of the State Senate</dd>
+
+        <dt>Wales</dt>
+        <dd>60 current Members of the Senedd</dd>
+
+        <dt>Wallonia (Belgium)</dt>
+        <dd>74 current Members of the Parliament</dd>
+
+        <dt>Washington (US)</dt>
+        <dd>98 current Members of the House of Representatives</dd>
+        <dd>49 current Members of the State Senate</dd>
+
+        <dt>West Bengal (India)</dt>
+        <dd>284 current Members of the Legislative Assembly</dd>
+
+        <dt>West Virginia (US)</dt>
+        <dd>100 current Members of the House of Delegates</dd>
+        <dd>34 current Members of the State Senate</dd>
+
+        <dt>Western Australia</dt>
+        <dd>59 current Members of the Legislative Assembly</dd>
+        <dd>36 current Members of the Legislative Council</dd>
+
+        <dt>Western Cape (South Africa)</dt>
+        <dd>42 current Members of the Provincial Parliament</dd>
+
+        <dt>Wisconsin (US)</dt>
+        <dd>33 current Members of the State Senate</dd>
+        <dd>99 current Members of the State Assembly</dd>
+
+        <dt>Wyoming (US)</dt>
+        <dd>62 current Members of the House of Representatives</dd>
+        <dd>31 current Members of the State Senate</dd>
+
+        <dt>Yemen</dt>
+        <dd>283 current Members of the House of Representatives</dd>
+
+        <dt>Yukon (Canada)</dt>
+        <dd>19 current Members of the Legislative Assembly</dd>
+
+        <dt>Zambia</dt>
+        <dd>154 current Members of the National Assembly</dd>
+
+        <dt>Zimbabwe</dt>
+        <dd>271 current Members of the National Assembly</dd>
+        <dd>79 current Members of the Senate</dd>
+      </dl>
+      <p>Please <a href="/about">get in touch</a> for licensing equiries.</p>
+    </div>
+    <div id="footer">
+      <span id="shuffled">
+        Subscribe to our weekly <a href="https://shuffled.beehiiv.com/">newsletter</a> for updates.
+      </span>
+      <div id="about">
+        <a href="/about.html">about Peppercat</a>
+      </div>
+    </div>
+  </body>
+</html>
+
