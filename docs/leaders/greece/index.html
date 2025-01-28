@@ -26,8 +26,10 @@
       .content { margin-left: 40px; margin-right: 40px; }
       .mandate-dates { font-size: 70% }
       hr { margin: 20px -20px 20px -20px }
-      #footer { margin: 0; padding: 10px; text-align: right }
-      #footer a { text-decoration: none; font-weight: bold; color: #0E1535; }
+      #footer { margin: 0; padding: 10px }
+      #footer #shuffled { text-align: left }
+      #footer #about { align: right; text-align: right }
+      #footer #about a { text-decoration: none; font-weight: bold; color: #0E1535; }
 
       .bio { display: none }
 
@@ -471,6 +473,22 @@
                 </ul>
               </div>
             </dd>
+            <dt>Speaker of the Parliament</dt>
+            <dd>
+              <span class="toggle">Nikitas Kaklamanis</span>
+              <div class="bio">
+                <img class="bioimg" width="100" alt="image of Nikitas Kaklamanis from Wikimedia Commons" src="https://commons.wikimedia.org/wiki/Special:FilePath/Stylianidis-Kaklamanis,%20cropped%20(Kaklamanis).jpg?width=100" />
+                <ul>
+                  <li>male</li>
+                  <li>born 1946-04-01</li>
+                  <li>in office since 2025-01-22</li>
+                  <li>
+                    <a href="https://en.wikipedia.org/wiki/Nikitas_Kaklamanis"><img width="32" alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-wikipedia_%28CoreUI_Icons_v1.0.0%29.svg.png" /></a>
+                    <a href="https://www.wikidata.org/wiki/Q701055"><img width="50" alt="Wikidata" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png"></a>
+                  </li>
+                </ul>
+              </div>
+            </dd>
             <dt>Governor of the Bank of Greece</dt>
             <dd>
               <span class="toggle">Yannis Stournaras</span>
@@ -510,13 +528,20 @@
         <hr>
         <p>
           This list is checked daily against <a href="https://government.gov.gr/">https://government.gov.gr/</a> and several other sources.
-          The last change was on June 15, 2024.
+          The last change was on January 22, 2025.
           If something seems wrong, or you think we should include another key position here,
           please <a href="/about.html">get in touch</a>.
         </p>
       </div>
     </div>
-    <div id="footer"><a href="/about.html">about Peppercat</a></div>
+    <div id="footer">
+      <span id="shuffled">
+        Subscribe to our weekly <a href="https://shuffled.beehiiv.com/">newsletter</a> for updates.
+      </span>
+      <div id="about">
+        <a href="/about.html">about Peppercat</a>
+      </div>
+    </div>
 
     <script>
       $(".toggle").prepend('► ').click(function() { $(this).next('.bio').toggle() } );
